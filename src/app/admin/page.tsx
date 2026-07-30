@@ -1,265 +1,227 @@
-// src/app/admin/page.tsx
 'use client';
 
-import { useState } from 'react';
-import { supabase } from '@/lib/supabase';
-
-export default function AdminPage() {
-  const [isAuthenticated, setIsAuthenticated] = useState(false);
-  const [password, setPassword] = useState('');
-  const [authError, setAuthError] = useState('');
-
-  // Form states
-  const [title, setTitle] = useState('');
-  const [bpm, setBpm] = useState(120);
-  const [genre, setGenre] = useState('Trap / Hip-Hop');
-  const [audioFile, setAudioFile] = useState<File | null>(null);
-  const [mp3Price, setMp3Price] = useState(29.99);
-  const [wavPrice, setWavPrice] = useState(49.99);
-  const [stemsPrice, setStemsPrice] = useState(149.99);
-  const [loading, setLoading] = useState(false);
-  const [message, setMessage] = useState('');
-
-  // Password verification
-  const handleLogin = (e: React.FormEvent) => {
-    e.preventDefault();
-    // Compare password against public environment variable
-    if (password === process.env.NEXT_PUBLIC_ADMIN_PASSWORD) {
-      setIsAuthenticated(true);
-      setAuthError('');
-    } else {
-      setAuthError('❌ Incorrect admin password.');
-    }
-  };
-
-  const handleSubmit = async (e: React.FormEvent) => {
-    e.preventDefault();
-    if (!audioFile) {
-      setMessage('❌ Please select an audio file to upload.');
-      return;
-    }
-
-    setLoading(true);
-    setMessage('');
-
-    try {
-      // 1. Upload audio file to Supabase Storage
-      const fileExt = audioFile.name.split('.').pop();
-      const fileName = `${Date.now()}_${title.replace(/[^a-zA-Z0-9]/g, '_')}.${fileExt}`;
-      const filePath = `previews/${fileName}`;
-
-      const { error: uploadError } = await supabase.storage
-        .from('beats')
-        .upload(filePath, audioFile);
-
-      if (uploadError) throw uploadError;
-
-      // 2. Get Public Audio URL
-      const { data: urlData } = supabase.storage.from('beats').getPublicUrl(filePath);
-      const publicAudioUrl = urlData.publicUrl;
-
-      // 3. Save beat in Supabase database
-      const { error: dbError } = await supabase.from('beats').insert([
-        {
-          title,
-          bpm: Number(bpm),
-          genre,
-          audio_url: publicAudioUrl,
-          mp3_price: Number(mp3Price),
-          wav_price: Number(wavPrice),
-          stems_price: Number(stemsPrice),
-        },
-      ]);
-
-      if (dbError) throw dbError;
-
-      setMessage('✅ Beat uploaded & published successfully!');
-      setTitle('');
-      setAudioFile(null);
-    } catch (err: any) {
-      setMessage(`❌ Upload failed: ${err.message}`);
-    } finally {
-      setLoading(false);
-    }
-  };
-
-  // 🔒 Login Gate Screen
-  if (!isAuthenticated) {
-    return (
-      <main className="max-w-md mx-auto mt-20 p-6 bg-zinc-900 border border-zinc-800 rounded-xl text-white">
-        <h1 className="text-2xl font-bold mb-2">Admin Access</h1>
-        <p className="text-zinc-400 text-sm mb-6">Enter admin password to manage beats and sales.</p>
-
-        {authError && <p className="text-xs text-red-400 mb-4">{authError}</p>}
-
-        <form onSubmit={handleLogin} className="space-y-4">
-          <input
-            type="password"
-            placeholder="Admin Password"
-            value={password}
-            onChange={(e) => setPassword(e.target.value)}
-            className="w-full bg-zinc-800 border border-zinc-700 rounded-lg px-4 py-2 text-sm text-white focus:outline-none focus:border-emerald-500"
-          />
-          <button
-            type="submit"
-            className="w-full py-2.5 bg-emerald-500 hover:bg-emerald-400 text-black font-bold rounded-lg transition"
-          >
-            Unlock Admin Panel
-          </button>
-        </form>
-      </main>
-    );
-  }
-
-  // 🔓 Authenticated Uploader Interface
-  return (
-    <main className="max-w-2xl mx-auto p-6 text-white space-y-6">
-      <div className="flex justify-between items-center border-b border-zinc-800 pb-4">
-        <div>
-          <h1 className="text-3xl font-bold">Admin Panel: Upload Beat</h1>
-          <p className="text-zinc-400 text-sm mt-1">Upload MP3/WAV files directly to Supabase Storage.</p>
-        </div>
-        <button
-          onClick={() => setIsAuthenticated(false)}
-          className="text-xs px-3 py-1 bg-zinc-800 hover:bg-zinc-700 rounded text-zinc-400"
-        >
-          Lock / Logout
-        </button>
-      </div>
-
-      {message && (
-        <div className="p-4 bg-zinc-800 border border-zinc-700 rounded-lg text-sm">{message}</div>
-      )}
-
-      <form onSubmit={handleSubmit} className="space-y-4 bg-zinc-900 border border-zinc-800 p-6 rounded-xl">
-        <div>
-          <label className="block text-xs font-semibold text-zinc-400 mb-1">Beat Title</label>
-          <input
-            type="text"
-            required
-            placeholder="e.g. Level Up - Travis Scott Type Beat"
-            value={title}
-            onChange={(e) => setTitle(e.target.value)}
-            className="w-full bg-zinc-800 border border-zinc-700 rounded-lg px-4 py-2 text-sm text-white focus:outline-none focus:border-emerald-500"
-          />
-        </div>
-
-        <div className="grid grid-cols-2 gap-4">
-          <div>
-            <label className="block text-xs font-semibold text-zinc-400 mb-1">BPM</label>
-            <input
-              type="number"
-              required
-              value={bpm}
-              onChange={(e) => setBpm(Number(e.target.value))}
-              className="w-full bg-zinc-800 border border-zinc-700 rounded-lg px-4 py-2 text-sm text-white focus:outline-none focus:border-emerald-500"
-            />
-          </div>
-
-          <div>
-            <label className="block text-xs font-semibold text-zinc-400 mb-1">Genre</label>
-            <input
-              type="text"
-              required
-              value={genre}
-              onChange={(e) => setGenre(e.target.value)}
-              className="w-full bg-zinc-800 border border-zinc-700 rounded-lg px-4 py-2 text-sm text-white focus:outline-none focus:border-emerald-500"
-            />
-          </div>
-        </div>
-
-        <div>
-          <label className="block text-xs font-semibold text-zinc-400 mb-1">Audio File (.mp3 or .wav)</label>
-          <input
-            type="file"
-            accept="audio/*"
-            required
-            onChange={(e) => setAudioFile(e.target.files?.[0] || null)}
-            className="w-full bg-zinc-800 border border-zinc-700 rounded-lg px-4 py-2 text-sm text-white focus:outline-none focus:border-emerald-500 file:mr-4 file:py-1 file:px-3 file:rounded-md file:border-0 file:text-xs file:font-semibold file:bg-emerald-500 file:text-black hover:file:bg-emerald-400"
-          />
-        </div>
-
-        <div className="grid grid-cols-3 gap-3 pt-2">
-          <div>
-            <label className="block text-xs font-semibold text-zinc-400 mb-1">MP3 Price ($)</label>
-            <input
-              type="number"
-              step="0.01"
-              value={mp3Price}
-              onChange={(e) => setMp3Price(Number(e.target.value))}
-              className="w-full bg-zinc-800 border border-zinc-700 rounded-lg px-3 py-2 text-sm text-white focus:outline-none focus:border-emerald-500"
-            />
-          </div>
-
-          <div>
-            <label className="block text-xs font-semibold text-zinc-400 mb-1">WAV Price ($)</label>
-            <input
-              type="number"
-              step="0.01"
-              value={wavPrice}
-              onChange={(e) => setWavPrice(Number(e.target.value))}
-              className="w-full bg-zinc-800 border border-zinc-700 rounded-lg px-3 py-2 text-sm text-white focus:outline-none focus:border-emerald-500"
-            />
-          </div>
-
-          <div>
-            <label className="block text-xs font-semibold text-zinc-400 mb-1">STEMS Price ($)</label>
-            <input
-              type="number"
-              step="0.01"
-              value={stemsPrice}
-              onChange={(e) => setStemsPrice(Number(e.target.value))}
-              className="w-full bg-zinc-800 border border-zinc-700 rounded-lg px-3 py-2 text-sm text-white focus:outline-none focus:border-emerald-500"
-            />
-          </div>
-        </div>
-
-        <button
-          type="submit"
-          disabled={loading}
-          className="w-full mt-4 py-3 bg-emerald-500 hover:bg-emerald-400 text-black font-bold rounded-lg transition"
-        >
-          {loading ? 'Uploading & Publishing...' : 'Upload & Publish Beat'}
-        </button>
-      </form>
-    </main>
-  );
-}
-// Inside src/app/admin/page.tsx
+import React, { useState } from 'react';
 import AdminDashboard from '@/components/admindashboard';
 
-// Add tab state near top of AdminPage component:
-const [activeTab, setActiveTab] = useState<'upload' | 'analytics'>('analytics');
+interface Track {
+  id: string;
+  title: string;
+  bpm: number;
+  key: string;
+  priceMp3: number;
+  priceWav: number;
+  priceExclusive: number;
+}
 
-// Render tab buttons above form:
-<div className="flex gap-2 border-b border-zinc-800 pb-3 mb-6">
-  <button
-    onClick={() => setActiveTab('analytics')}
-    className={`px-4 py-2 rounded-lg text-xs font-bold transition ${
-      activeTab === 'analytics'
-        ? 'bg-emerald-500 text-black'
-        : 'bg-zinc-800 text-zinc-400 hover:text-white'
-    }`}
-  >
-    📊 Sales Analytics
-  </button>
-  <button
-    onClick={() => setActiveTab('upload')}
-    className={`px-4 py-2 rounded-lg text-xs font-bold transition ${
-      activeTab === 'upload'
-        ? 'bg-emerald-500 text-black'
-        : 'bg-zinc-800 text-zinc-400 hover:text-white'
-    }`}
-  >
-    🎵 Upload New Beat
-  </button>
-</div>
+export default function AdminPage() {
+  const [activeTab, setActiveTab] = useState<'upload' | 'analytics'>('upload');
+  
+  // Form State
+  const [title, setTitle] = useState('');
+  const [bpm, setBpm] = useState('');
+  const [key, setKey] = useState('');
+  const [priceMp3, setPriceMp3] = useState('29.99');
+  const [priceWav, setPriceWav] = useState('49.99');
+  const [priceExclusive, setPriceExclusive] = useState('299.99');
+  const [audioFile, setAudioFile] = useState<File | null>(null);
 
-// Conditionally render views:
-{activeTab === 'analytics' ? <AdminDashboard /> : null}
-<button
-  onClick={() => handleBuy(track, 'wav')}
-  className="px-3 py-1.5 text-xs bg-neutral-800 hover:bg-neutral-700 border border-neutral-700 rounded transition"
->
-  WAV ${track.priceWav}
-</button>
+  // Sample catalog state for demonstration / preview
+  const [catalog, setCatalog] = useState<Track[]>([
+    {
+      id: '1',
+      title: 'Sample Beat',
+      bpm: 140,
+      key: 'C Minor',
+      priceMp3: 29.99,
+      priceWav: 49.99,
+      priceExclusive: 299.99,
+    },
+  ]);
+
+  const handleUpload = (e: React.FormEvent) => {
+    e.preventDefault();
+    if (!title) return;
+
+    const newTrack: Track = {
+      id: Date.now().toString(),
+      title,
+      bpm: Number(bpm) || 120,
+      key: key || 'C Major',
+      priceMp3: Number(priceMp3) || 29.99,
+      priceWav: Number(priceWav) || 49.99,
+      priceExclusive: Number(priceExclusive) || 299.99,
+    };
+
+    setCatalog([newTrack, ...catalog]);
+    setTitle('');
+    setBpm('');
+    setKey('');
+    setAudioFile(null);
+    alert('Beat uploaded successfully!');
+  };
+
+  return (
+    <div className="min-h-screen bg-black text-white p-6 md:p-12">
+      <div className="max-w-5xl mx-auto space-y-8">
+        
+        {/* Header & Navigation */}
+        <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-neutral-800 pb-6">
+          <div>
+            <h1 className="text-3xl font-bold tracking-tight">Admin Portal</h1>
+            <p className="text-neutral-400 text-sm mt-1">Manage catalog uploads and store metrics.</p>
+          </div>
+          <div className="flex bg-neutral-900 p-1 rounded-lg border border-neutral-800">
+            <button
+              onClick={() => setActiveTab('upload')}
+              className={`px-4 py-2 text-sm font-medium rounded-md transition ${
+                activeTab === 'upload'
+                  ? 'bg-neutral-800 text-white'
+                  : 'text-neutral-400 hover:text-white'
+              }`}
+            >
+              Upload & Catalog
+            </button>
+            <button
+              onClick={() => setActiveTab('analytics')}
+              className={`px-4 py-2 text-sm font-medium rounded-md transition ${
+                activeTab === 'analytics'
+                  ? 'bg-neutral-800 text-white'
+                  : 'text-neutral-400 hover:text-white'
+              }`}
+            >
+              Analytics
+            </button>
+          </div>
+        </div>
+
+        {/* Dynamic View Rendering */}
+        {activeTab === 'analytics' ? (
+          <AdminDashboard />
+        ) : (
+          <div className="space-y-10">
+            
+            {/* Beat Upload Form */}
+            <form onSubmit={handleUpload} className="bg-neutral-900/50 border border-neutral-800 p-6 rounded-xl space-y-6">
+              <h2 className="text-xl font-semibold border-b border-neutral-800 pb-3">Upload New Beat</h2>
+              
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+                <div>
+                  <label className="block text-xs font-medium text-neutral-400 mb-1">Track Title</label>
+                  <input
+                    type="text"
+                    value={title}
+                    onChange={(e) => setTitle(e.target.value)}
+                    placeholder="e.g. Midnight Vibe"
+                    className="w-full bg-neutral-800 border border-neutral-700 rounded p-2.5 text-sm text-white focus:outline-none focus:border-white"
+                    required
+                  />
+                </div>
+                <div>
+                  <label className="block text-xs font-medium text-neutral-400 mb-1">BPM</label>
+                  <input
+                    type="number"
+                    value={bpm}
+                    onChange={(e) => setBpm(e.target.value)}
+                    placeholder="140"
+                    className="w-full bg-neutral-800 border border-neutral-700 rounded p-2.5 text-sm text-white focus:outline-none focus:border-white"
+                  />
+                </div>
+                <div>
+                  <label className="block text-xs font-medium text-neutral-400 mb-1">Key</label>
+                  <input
+                    type="text"
+                    value={key}
+                    onChange={(e) => setKey(e.target.value)}
+                    placeholder="C Minor"
+                    className="w-full bg-neutral-800 border border-neutral-700 rounded p-2.5 text-sm text-white focus:outline-none focus:border-white"
+                  />
+                </div>
+              </div>
+
+              {/* Pricing Row */}
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+                <div>
+                  <label className="block text-xs font-medium text-neutral-400 mb-1">MP3 Lease ($)</label>
+                  <input
+                    type="number"
+                    value={priceMp3}
+                    onChange={(e) => setPriceMp3(e.target.value)}
+                    className="w-full bg-neutral-800 border border-neutral-700 rounded p-2.5 text-sm text-white focus:outline-none focus:border-white"
+                  />
+                </div>
+                <div>
+                  <label className="block text-xs font-medium text-neutral-400 mb-1">WAV Lease ($)</label>
+                  <input
+                    type="number"
+                    value={priceWav}
+                    onChange={(e) => setPriceWav(e.target.value)}
+                    className="w-full bg-neutral-800 border border-neutral-700 rounded p-2.5 text-sm text-white focus:outline-none focus:border-white"
+                  />
+                </div>
+                <div>
+                  <label className="block text-xs font-medium text-neutral-400 mb-1">Exclusive ($)</label>
+                  <input
+                    type="number"
+                    value={priceExclusive}
+                    onChange={(e) => setPriceExclusive(e.target.value)}
+                    className="w-full bg-neutral-800 border border-neutral-700 rounded p-2.5 text-sm text-white focus:outline-none focus:border-white"
+                  />
+                </div>
+              </div>
+
+              {/* File Input */}
+              <div>
+                <label className="block text-xs font-medium text-neutral-400 mb-1">Audio File (.mp3 or .wav)</label>
+                <input
+                  type="file"
+                  accept="audio/*"
+                  onChange={(e) => setAudioFile(e.target.files?.[0] || null)}
+                  className="w-full bg-neutral-800 border border-neutral-700 rounded p-2 text-sm text-neutral-300 file:mr-4 file:py-1 file:px-3 file:rounded file:border-0 file:text-xs file:bg-neutral-700 file:text-white hover:file:bg-neutral-600"
+                />
+              </div>
+
+              <button
+                type="submit"
+                className="w-full py-3 bg-white text-black font-semibold rounded-lg hover:bg-neutral-200 transition"
+              >
+                Publish Beat
+              </button>
+            </form>
+
+            {/* Catalog List */}
+            <div className="bg-neutral-900/50 border border-neutral-800 p-6 rounded-xl space-y-4">
+              <h2 className="text-xl font-semibold border-b border-neutral-800 pb-3">Active Catalog</h2>
+              <div className="divide-y divide-neutral-800">
+                {catalog.map((track) => (
+                  <div key={track.id} className="py-3 flex flex-col md:flex-row md:items-center justify-between gap-4">
+                    <div>
+                      <h3 className="font-medium text-white">{track.title}</h3>
+                      <p className="text-xs text-neutral-400 mt-0.5">
+                        {track.bpm} BPM • Key: {track.key}
+                      </p>
+                    </div>
+
+                    {/* Fixed Pricing Display Badges */}
+                    <div className="flex items-center gap-2">
+                      <span className="px-3 py-1.5 text-xs bg-neutral-800 border border-neutral-700 rounded text-neutral-300">
+                        MP3: ${track.priceMp3}
+                      </span>
+                      <span className="px-3 py-1.5 text-xs bg-neutral-800 border border-neutral-700 rounded text-neutral-300">
+                        WAV: ${track.priceWav}
+                      </span>
+                      <span className="px-3 py-1.5 text-xs bg-neutral-800 border border-neutral-700 rounded text-neutral-300">
+                        EXC: ${track.priceExclusive}
+                      </span>
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </div>
+
+          </div>
+        )}
+
+      </div>
+    </div>
+  );
+}
