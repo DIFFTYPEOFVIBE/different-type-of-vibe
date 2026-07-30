@@ -23,9 +23,8 @@ export default function AdminPage() {
   const [priceMp3, setPriceMp3] = useState('29.99');
   const [priceWav, setPriceWav] = useState('49.99');
   const [priceExclusive, setPriceExclusive] = useState('299.99');
-  const [audioFile, setAudioFile] = useState<File | null>(null);
 
-  // Sample catalog state for demonstration / preview
+  // Sample catalog state
   const [catalog, setCatalog] = useState<Track[]>([
     {
       id: '1',
@@ -56,7 +55,6 @@ export default function AdminPage() {
     setTitle('');
     setBpm('');
     setKey('');
-    setAudioFile(null);
     alert('Beat uploaded successfully!');
   };
 
@@ -167,17 +165,6 @@ export default function AdminPage() {
                     className="w-full bg-neutral-800 border border-neutral-700 rounded p-2.5 text-sm text-white focus:outline-none focus:border-white"
                   />
                 </div>
-              </div>
-
-              {/* File Input */}
-              <div>
-                <label className="block text-xs font-medium text-neutral-400 mb-1">Audio File (.mp3 or .wav)</label>
-                <input
-                  type="file"
-                  accept="audio/*"
-                  onChange={(e) => setAudioFile(e.target.files?.[0] || null)}
-                  className="w-full bg-neutral-800 border border-neutral-700 rounded p-2 text-sm text-neutral-300 file:mr-4 file:py-1 file:px-3 file:rounded file:border-0 file:text-xs file:bg-neutral-700 file:text-white hover:file:bg-neutral-600"
-                />
               </div>
 
               <button
