@@ -256,4 +256,4 @@ const [activeTab, setActiveTab] = useState<'upload' | 'analytics'>('analytics');
 </div>
 
 // Conditionally render views:
-{activeTab === 'analytics' ? <AdminDashboard /> : /* Existing Beat Upload Form */}
+{activeTab === 'analytics' ? <AdminDashboard /> : null}
