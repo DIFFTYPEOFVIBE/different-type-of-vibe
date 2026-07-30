@@ -124,3 +124,11 @@ export default function AdminDashboard() {
     </div>
   );
 }
+export default function AdminDashboard() {
+  return (
+    <div className="p-6 bg-neutral-900 rounded-lg text-white">
+      <h2 className="text-2xl font-bold mb-4">Analytics & Overview</h2>
+      <p className="text-neutral-400">Dashboard metrics and beat analytics display here.</p>
+    </div>
+  );
+}

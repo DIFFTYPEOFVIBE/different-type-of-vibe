@@ -226,7 +226,7 @@ export default function AdminPage() {
   );
 }
 // Inside src/app/admin/page.tsx
-import AdminDashboard from '@/components/AdminDashboard';
+import AdminDashboard from '@/components/admindashboard';
 
 // Add tab state near top of AdminPage component:
 const [activeTab, setActiveTab] = useState<'upload' | 'analytics'>('analytics');
