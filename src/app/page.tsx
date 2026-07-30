@@ -5,6 +5,7 @@ import React, { useState } from 'react';
 interface Track {
   id: string;
   title: string;
+  genre: string;
   bpm: number;
   key: string;
   priceMp3: number;
@@ -15,22 +16,34 @@ interface Track {
 export default function HomePage() {
   const [tracks] = useState<Track[]>([
     {
-      id: '1',
-      title: 'Midnight Vibe',
-      bpm: 140,
-      key: 'C Minor',
+      id: 'level-up',
+      title: 'Level Up - Travis Scott x Future Type Beat | Dark Trap Instrumental',
+      genre: 'Trap / Dark Hip-Hop',
+      bpm: 92,
+      key: 'F# Minor',
       priceMp3: 29.99,
       priceWav: 49.99,
-      priceStems: 199.99,
+      priceStems: 149.99,
     },
     {
-      id: '2',
-      title: 'Night Drive',
-      bpm: 128,
-      key: 'G Major',
+      id: 'sip-of-me',
+      title: 'Sip of Me - J. Cole x Joey Bada$$ Type Beat | Chill Lofi Boom Bap Instrumental',
+      genre: 'Boom Bap / Chill Lofi Hip-Hop',
+      bpm: 85,
+      key: 'D Minor',
       priceMp3: 29.99,
       priceWav: 49.99,
-      priceStems: 199.99,
+      priceStems: 149.99,
+    },
+    {
+      id: 'badin-m-2',
+      title: 'Badin M 2 - Freddie Gibbs x MF DOOM Type Beat | Underground Boom Bap Instrumental',
+      genre: 'Underground Boom Bap',
+      bpm: 100,
+      key: 'A Minor',
+      priceMp3: 29.99,
+      priceWav: 49.99,
+      priceStems: 149.99,
     },
   ]);
 
@@ -84,12 +97,15 @@ export default function HomePage() {
             {tracks.map((track) => (
               <div
                 key={track.id}
-                className="py-4 flex flex-col md:flex-row md:items-center justify-between gap-4"
+                className="py-5 flex flex-col md:flex-row md:items-center justify-between gap-4"
               >
-                <div>
-                  <h3 className="text-lg font-semibold">{track.title}</h3>
-                  <p className="text-xs text-neutral-400 mt-1">
-                    {track.bpm} BPM • Key: {track.key}
+                <div className="space-y-1 max-w-xl">
+                  <div className="flex items-center gap-2">
+                    <span className="text-purple-500 font-bold text-lg">▶</span>
+                    <h3 className="text-lg font-semibold leading-snug">{track.title}</h3>
+                  </div>
+                  <p className="text-xs text-neutral-400">
+                    {track.genre} • {track.bpm} BPM • Key: {track.key}
                   </p>
                 </div>
 
