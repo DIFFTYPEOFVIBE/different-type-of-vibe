@@ -122,3 +122,10 @@ export default function HomePage() {
     </div>
   );
 }
+export default function HomePage() {
+  return (
+    <main className="min-h-screen bg-black text-white p-8">
+      <h1>Different Type of Vibe</h1>
+    </main>
+  );
+}
