@@ -10,7 +10,6 @@ interface Track {
   priceMp3: number;
   priceWav: number;
   priceStems: number;
-  audioUrl?: string;
 }
 
 export default function HomePage() {
@@ -120,12 +119,5 @@ export default function HomePage() {
         </section>
       </div>
     </div>
-  );
-}
-export default function HomePage() {
-  return (
-    <main className="min-h-screen bg-black text-white p-8">
-      <h1>Different Type of Vibe</h1>
-    </main>
   );
 }
