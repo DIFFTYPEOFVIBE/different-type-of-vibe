@@ -1,12 +1,17 @@
 import { NextResponse } from 'next/server';
 import Stripe from 'stripe';
 
-const stripe = new Stripe(process.env.STRIPE_SECRET_KEY!, {
-  apiVersion: '2023-10-16' as any,
-});
-
 export async function POST(req: Request) {
   try {
+    const stripeSecret = process.env.STRIPE_SECRET_KEY;
+    if (!stripeSecret) {
+      return NextResponse.json({ error: 'Stripe API key missing' }, { status: 500 });
+    }
+
+    const stripe = new Stripe(stripeSecret, {
+      apiVersion: '2023-10-16' as any,
+    });
+
     const { beatId, beatTitle, licenseType, priceAmount } = await req.json();
 
     const session = await stripe.checkout.sessions.create({
