@@ -257,3 +257,9 @@ const [activeTab, setActiveTab] = useState<'upload' | 'analytics'>('analytics');
 
 // Conditionally render views:
 {activeTab === 'analytics' ? <AdminDashboard /> : null}
+<button
+  onClick={() => handleBuy(track, 'wav')}
+  className="px-3 py-1.5 text-xs bg-neutral-800 hover:bg-neutral-700 border border-neutral-700 rounded transition"
+>
+  WAV ${track.priceWav}
+</button>
