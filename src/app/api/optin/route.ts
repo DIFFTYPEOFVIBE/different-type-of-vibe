@@ -1,51 +1,37 @@
 import { NextResponse } from 'next/server';
 
-export async function POST(req: Request) {
+export async function POST(request: Request) {
   try {
-    const { email } = await req.json();
+    const { email } = await request.json();
 
-    if (!email || !email.includes('@')) {
-      return NextResponse.json(
-        { error: 'Invalid email address provided.' },
-        { status: 400 }
-      );
+    if (!email) {
+      return NextResponse.json({ error: 'Email is required' }, { status: 400 });
     }
 
-    // Webhook URL (GoHighLevel inbound webhook or Make.com/Zapier endpoint)
-    const webhookUrl = process.env.GOHIGHLEVEL_WEBHOOK_URL;
+    // Your GoHighLevel Inbound Webhook URL
+    const GHL_WEBHOOK_URL = 'https://services.leadconnectorhq.com/hooks/lldFXvWMNSAaPk368zJb/webhook-trigger/40336c67-48a7-40e7-8be7-b339a52fcce9';
 
-    if (webhookUrl) {
-      // Forward lead to GoHighLevel / Webhook
-      const response = await fetch(webhookUrl, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          email,
-          source: 'Different Type of Vibe - Free Beat Pack Opt-in',
-          tags: ['artist-lead', 'free-beat-pack'],
-          date: new Date().toISOString(),
-        }),
-      });
+    const ghlResponse = await fetch(GHL_WEBHOOK_URL, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        email: email,
+        source: 'Different Type of Vibe',
+        tags: ['free-beat-pack'],
+      }),
+    });
 
-      if (!response.ok) {
-        console.error('Webhook payload delivery failed:', await response.text());
-      }
-    } else {
-      console.warn(
-        'GOHIGHLEVEL_WEBHOOK_URL is not set. Lead captured locally:',
-        email
-      );
+    if (!ghlResponse.ok) {
+      const errorText = await ghlResponse.text();
+      console.error('GHL Webhook Error Response:', errorText);
+      return NextResponse.json({ error: 'Failed to trigger GHL webhook' }, { status: 500 });
     }
 
-    return NextResponse.json(
-      { success: true, message: 'Opt-in successful!' },
-      { status: 200 }
-    );
+    return NextResponse.json({ success: true });
   } catch (error) {
-    console.error('Opt-in API Error:', error);
-    return NextResponse.json(
-      { error: 'Failed to process opt-in request.' },
-      { status: 500 }
-    );
+    console.error('Opt-in API Route Error:', error);
+    return NextResponse.json({ error: 'Internal Server Error' }, { status: 500 });
   }
 }
