@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 
-// Sample Beats Data (Replace with your actual audio files / catalog)
+// Sample Beats Data
 const BEATS = [
   { id: '1', title: 'Vibe Check', bpm: 140, key: 'C Minor', genre: 'Trap', price: '$29.99' },
   { id: '2', title: 'Midnight City', bpm: 128, key: 'F# Minor', genre: 'Melodic Hip Hop', price: '$29.99' },
