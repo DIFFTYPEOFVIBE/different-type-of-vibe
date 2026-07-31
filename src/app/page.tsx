@@ -1,4 +1,5 @@
 'use client';
+// Force Vercel rebuild - Free Beat Pack Opt-In Banner
 
 import { useState } from 'react';
 
