@@ -375,3 +375,77 @@ export default function HomePage() {
     </div>
   );
 }
+'use client';
+
+import { useState } from 'react';
+
+export default function Home() {
+  const [email, setEmail] = useState('');
+  const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle');
+
+  const handleOptIn = async (e: React.FormEvent) => {
+    e.preventDefault();
+    if (!email) return;
+
+    setStatus('loading');
+    try {
+      const res = await fetch('/api/optin', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email }),
+      });
+
+      if (res.ok) {
+        setStatus('success');
+        setEmail('');
+      } else {
+        setStatus('error');
+      }
+    } catch (err) {
+      setStatus('error');
+    }
+  };
+
+  return (
+    <main className="min-h-screen bg-slate-950 text-white p-6 max-w-5xl mx-auto">
+      {/* FREE BEAT PACK OPT-IN BANNER */}
+      <section className="bg-gradient-to-r from-purple-900/40 to-slate-900 border border-purple-500/30 rounded-2xl p-8 mb-10 text-center shadow-2xl">
+        <h2 className="text-3xl font-extrabold tracking-tight mb-2 text-purple-300">
+          🔥 Grab 3 Free Tagged Beats
+        </h2>
+        <p className="text-slate-300 mb-6 text-sm md:text-base max-w-xl mx-auto">
+          Join our artist list to get 3 tagged MP3s sent directly to your inbox for write-ups, demos, and practice.
+        </p>
+
+        {status === 'success' ? (
+          <div className="bg-emerald-500/20 border border-emerald-500/50 text-emerald-300 p-4 rounded-xl max-w-md mx-auto text-sm font-semibold">
+            🎉 Check your inbox! Your 3 free beats are on the way.
+          </div>
+        ) : (
+          <form onSubmit={handleOptIn} className="flex flex-col sm:flex-row gap-3 max-w-md mx-auto">
+            <input
+              type="email"
+              required
+              placeholder="Enter your artist email..."
+              value={email}
+              onChange={(e) => setEmail(e.target.value)}
+              className="flex-1 bg-slate-900/90 border border-slate-700 focus:border-purple-500 rounded-xl px-4 py-3 text-sm text-white outline-none transition"
+            />
+            <button
+              type="submit"
+              disabled={status === 'loading'}
+              className="bg-purple-600 hover:bg-purple-500 disabled:opacity-50 text-white font-bold px-6 py-3 rounded-xl text-sm transition shrink-0 shadow-lg shadow-purple-600/30"
+            >
+              {status === 'loading' ? 'Sending...' : 'Get Free Beats 🚀'}
+            </button>
+          </form>
+        )}
+        {status === 'error' && (
+          <p className="text-red-400 text-xs mt-3">Something went wrong. Please try again.</p>
+        )}
+      </section>
+
+      {/* REST OF YOUR BEAT STORE CONTENT / PLAYER GOES HERE */}
+    </main>
+  );
+}
