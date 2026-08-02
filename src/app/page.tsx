@@ -28,7 +28,7 @@ const MY_BEATS: Track[] = [
     priceMp3: 29.99,
     priceWav: 49.99,
     priceStems: 149.99,
-    audioUrl:'https://hnliahdtcbuvggxhmzej.supabase.co/storage/v1/object/public/audio-previews/Level%20Up.mp3,
+    audioUrl:'https://hnliahdtcbuvggxhmzej.supabase.co/storage/v1/object/public/audio-previews/Level%20Up.mp3',
     linkMp3: 'https://buy.stripe.com/test_6oUaEWfGabCqbaR6xVcZa00',
     linkWav: 'https://buy.stripe.com/test_dRm14m9hM35Ugvb09xcZa01',
     linkStems: 'https://buy.stripe.com/test_bJe9AS65AdKy2El4pNcZa02',
