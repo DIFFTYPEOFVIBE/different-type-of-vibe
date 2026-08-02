@@ -1,26 +1,35 @@
-@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #0d0f12;
+  --foreground: #ffffff;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
+/* Force body background and scroll behavior */
+html,
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background-color: #0d0f12 !important;
+  color: #ffffff;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+/* Base custom styles and glow utilities */
+@layer utilities {
+  .purple-glow {
+    box-shadow: 0 0 25px rgba(128, 90, 213, 0.35);
+  }
+  
+  .purple-gradient-bg {
+    background: radial-gradient(
+      circle at top center,
+      rgba(107, 70, 193, 0.25) 0%,
+      rgba(26, 16, 47, 0.6) 40%,
+      #0d0f12 85%
+    );
+  }
 }
