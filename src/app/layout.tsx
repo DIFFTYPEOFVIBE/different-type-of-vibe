@@ -1,22 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
-/** @type {import('tailwindcss').Config} */
-module.exports = {
-  content: [
-    "./src/pages/**/*.{js,ts,jsx,tsx,mdx}",
-    "./src/components/**/*.{js,ts,jsx,tsx,mdx}",
-    "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
-  ],
-  theme: {
-    extend: {
-      colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
-      },
-    },
-  },
-  plugins: [],
-};
+
 export const metadata: Metadata = {
   metadataBase: new URL("https://different-type-of-vibe-v2.vercel.app"),
   title: "Different Type of Vibe | Instrumental Beat Catalog by Onzieb",
@@ -43,9 +27,25 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" className="dark">
-      <body className="bg-[#0d0f12] text-white min-h-screen">
-        {children}
+    <html lang="en">
+      <head>
+        {/* Fail-safe Inline Theme Injection */}
+        <style>{`
+          html, body {
+            background-color: #0d0f12 !important;
+            background: radial-gradient(circle at top center, #2e1065 0%, #1a102f 40%, #0d0f12 90%) !important;
+            color: #ffffff !important;
+            margin: 0;
+            padding: 0;
+            min-height: 100vh;
+            font-family: system-ui, -apple-system, sans-serif;
+          }
+        `}</style>
+      </head>
+      <body>
+        <div className="min-h-screen w-full">
+          {children}
+        </div>
       </body>
     </html>
   );
