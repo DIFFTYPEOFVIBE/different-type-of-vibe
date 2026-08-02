@@ -317,11 +317,3 @@ export default function Home() {
     </main>
   );
 }
-export default function Home() {
-  return (
-    <main className="min-h-screen p-8">
-      {/* Your Beat Catalog / Audio Player Components */}
-      <h1 className="text-4xl font-bold text-purple-400">Different Type of Vibe</h1>
-    </main>
-  );
-}
