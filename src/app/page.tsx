@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState, useRef } from 'react';
-import { Play, Pause, Download, Music2, CheckCircle2, ShieldCheck, ShoppingCart } from 'lucide-react';
+import { Play, Pause, Download, Music2, CheckCircle2, ShoppingCart } from 'lucide-react';
 
 interface Track {
   id: string;
@@ -28,10 +28,10 @@ const MY_BEATS: Track[] = [
     priceMp3: 29.99,
     priceWav: 49.99,
     priceStems: 149.99,
-    audioUrl:'https://hnliahdtcbuvggxhmzej.supabase.co/storage/v1/object/public/audio-previews/Level%20Up.mp3',
-    linkMp3: 'https://buy.stripe.com/test_6oUaEWfGabCqbaR6xVcZa00',
-    linkWav: 'https://buy.stripe.com/test_dRm14m9hM35Ugvb09xcZa01',
-    linkStems: 'https://buy.stripe.com/test_bJe9AS65AdKy2El4pNcZa02',
+    audioUrl: 'https://hnliahdtcbuvggxhmzej.supabase.co/storage/v1/object/public/audio-previews/Level%20Up.mp3',
+    linkMp3: 'https://buy.stripe.com/test_9B66oG3Xs21QdiZ7BZcZa03',
+    linkWav: 'https://buy.stripe.com/test_6oUdR88dI5e2gvb09xcZa06',
+    linkStems: 'https://buy.stripe.com/test_14AfZg1Pk35Ua6NcWjcZa09',
   },
   {
     id: '2',
@@ -42,10 +42,10 @@ const MY_BEATS: Track[] = [
     priceMp3: 29.99,
     priceWav: 49.99,
     priceStems: 149.99,
-    audioUrl:'https://hnliahdtcbuvggxhmzej.supabase.co/storage/v1/object/public/audio-previews/Sip%20of%20Me.mp3',
-    linkMp3: 'https://buy.stripe.com/test_6oUaEWfGabCqbaR6xVcZa00',
-    linkWav: 'https://buy.stripe.com/test_dRm14m9hM35Ugvb09xcZa01',
-    linkStems: 'https://buy.stripe.com/test_bJe9AS65AdKy2El4pNcZa02',
+    audioUrl: 'https://hnliahdtcbuvggxhmzej.supabase.co/storage/v1/object/public/audio-previews/Sip%20of%20Me.mp3',
+    linkMp3: 'https://buy.stripe.com/test_00wdR8gKegWK0wd3lJcZa04',
+    linkWav: 'https://buy.stripe.com/test_6oU14m2To35UbaR09xcZa07',
+    linkStems: 'https://buy.stripe.com/test_7sY3cugKe8qe3Ip7BZcZa0a',
   },
   {
     id: '3',
@@ -56,10 +56,10 @@ const MY_BEATS: Track[] = [
     priceMp3: 29.99,
     priceWav: 49.99,
     priceStems: 149.99,
-    audioUrl:'https://hnliahdtcbuvggxhmzej.supabase.co/storage/v1/object/public/audio-previews/Badin%20M%202.mp3',
-    linkMp3: 'https://buy.stripe.com/test_6oUaEWfGabCqbaR6xVcZa00',
-    linkWav: 'https://buy.stripe.com/test_dRm14m9hM35Ugvb09xcZa01',
-    linkStems: 'https://buy.stripe.com/test_bJe9AS65AdKy2El4pNcZa02',
+    audioUrl: 'https://hnliahdtcbuvggxhmzej.supabase.co/storage/v1/object/public/audio-previews/Badin%20M%202.mp3',
+    linkMp3: 'https://buy.stripe.com/test_00wbJ0fGa0XM4MtaObcZa05',
+    linkWav: 'https://buy.stripe.com/test_7sYeVc8dIcGu7YFf4rcZa08',
+    linkStems: 'https://buy.stripe.com/test_bJe00i65A0XM3Ip4pNcZa0b',
   },
 ];
 
@@ -285,11 +285,11 @@ export default function Home() {
       {/* PERSISTENT BOTTOM AUDIO PLAYER BAR */}
       {currentTrack && (
         <div className="fixed bottom-0 left-0 right-0 bg-neutral-900/95 border-t border-neutral-800 p-4 backdrop-blur-md z-50">
-          <div className="max-w-6xl mx-auto flex items-center justify-between">
+          <div className="max-w-4xl mx-auto flex items-center justify-between">
             <div className="flex items-center space-x-4">
               <button
                 onClick={() => handlePlayPause(currentTrack)}
-                className="w-10 h-10 rounded-full bg-purple-600 text-white flex items-center justify-center cursor-pointer hover:bg-purple-500 transition-colors"
+                className="w-10 h-10 rounded-full bg-purple-600 hover:bg-purple-500 text-white flex items-center justify-center transition-colors cursor-pointer"
               >
                 {isPlaying ? (
                   <Pause className="w-5 h-5 fill-current" />
@@ -298,18 +298,24 @@ export default function Home() {
                 )}
               </button>
               <div>
-                <p className="text-sm font-semibold text-white">
+                <p className="font-semibold text-white text-sm line-clamp-1">
                   {currentTrack.title}
                 </p>
-                <p className="text-xs text-neutral-400 font-mono">
-                  {currentTrack.bpm} BPM | {currentTrack.key}
+                <p className="text-xs text-neutral-400">
+                  {currentTrack.bpm} BPM • {currentTrack.key}
                 </p>
               </div>
             </div>
 
-            <div className="flex items-center space-x-2 text-xs text-neutral-400">
-              <ShieldCheck className="w-4 h-4 text-purple-400" />
-              <span className="hidden md:inline">Instant Automated Delivery</span>
+            <div className="hidden md:flex items-center space-x-2">
+              <a
+                href={currentTrack.linkMp3 || '#'}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="px-3 py-1.5 rounded-lg bg-purple-600 hover:bg-purple-500 text-white text-xs font-medium transition-colors"
+              >
+                Buy License (${currentTrack.priceMp3})
+              </a>
             </div>
           </div>
         </div>
