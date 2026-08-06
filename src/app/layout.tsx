@@ -1,5 +1,9 @@
 import type { Metadata } from "next";
+import { Inter } from "next/font/google";
+import { Analytics } from "@vercel/analytics/react";
 import "./globals.css";
+
+const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://different-type-of-vibe-v2.vercel.app"),
@@ -9,7 +13,7 @@ export const metadata: Metadata = {
   },
   description:
     "Explore premium Boom Bap, Lofi, and Melodic Hip-Hop instrumental beats produced by Onzieb. License untagged MP3, WAV, and STEMS for your next project.",
-  
+
   // SEO Keywords Array
   keywords: [
     "Onzieb",
@@ -82,35 +86,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className="dark">
-      <body className="bg-[#0d0f12] text-white min-h-screen antialiased selection:bg-purple-600 selection:text-white">
+      <body className={`${inter.className} bg-[#0d0f12] text-white min-h-screen antialiased selection:bg-purple-600 selection:text-white`}>
         <div className="relative min-h-screen w-full purple-gradient-bg">
           {children}
         </div>
-      </body>
-    </html>
-  );
-}
-import type { Metadata } from 'next';
-import { Inter } from 'next/font/google';
-import { Analytics } from '@vercel/analytics/react';
-import './globals.css';
-
-const inter = Inter({ subsets: ['latin'] });
-
-export const metadata: Metadata = {
-  title: 'Different Type of Vibe | Official Beat Catalog',
-  description: 'Listen to and license high quality instrumentals.',
-};
-
-export default function RootLayout({
-  children,
-}: {
-  children: React.ReactNode;
-}) {
-  return (
-    <html lang="en">
-      <body className={inter.className}>
-        {children}
         <Analytics />
       </body>
     </html>
