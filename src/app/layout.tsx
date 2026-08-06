@@ -6,7 +6,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://different-type-of-vibe-v2.vercel.app"),
+  metadataBase: new URL("https://differenttypeofvibe.com"),
   title: {
     default: "Different Type of Vibe | Instrumental Beat Catalog by Onzieb",
     template: "%s | Different Type of Vibe",
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     "Music Producer",
   ],
 
-  authors: [{ name: "Onzieb", url: "https://different-type-of-vibe-v2.vercel.app" }],
+  authors: [{ name: "Onzieb", url: "https://differenttypeofvibe.com" }],
   creator: "Onzieb",
   publisher: "Different Type of Vibe LLC",
 
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://different-type-of-vibe-v2.vercel.app",
+    url: "https://differenttypeofvibe.com",
     siteName: "Different Type of Vibe",
     title: "Different Type of Vibe | Premium Beats & Instrumentals by Onzieb",
     description:
