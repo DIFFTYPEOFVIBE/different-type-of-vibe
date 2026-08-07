@@ -1,9 +1,76 @@
 'use client';
 
-import React, { useState, useRef } from 'react';
-import { Play, Pause, Download, Music2, CheckCircle2, ShoppingCart, Trash2, Tag } from 'lucide-react';
-import ExitIntentModal from '@/components/ExitIntentModal';
+import React, { useState, useEffect, useRef } from 'react';
+import { Play, Pause, Download, Music2, CheckCircle2, ShoppingCart, Trash2, Tag, X, Gift } from 'lucide-react';
 
+// ==========================================
+// INLINE EXIT-INTENT MODAL COMPONENT
+// ==========================================
+function ExitIntentModal() {
+  const [isVisible, setIsVisible] = useState(false);
+  const [hasDismissed, setHasDismissed] = useState(false);
+
+  useEffect(() => {
+    const handleMouseLeave = (e: MouseEvent) => {
+      if (e.clientY <= 0 && !hasDismissed) {
+        setIsVisible(true);
+      }
+    };
+
+    document.addEventListener('mouseleave', handleMouseLeave);
+    return () => document.removeEventListener('mouseleave', handleMouseLeave);
+  }, [hasDismissed]);
+
+  const handleClose = () => {
+    setIsVisible(false);
+    setHasDismissed(true);
+  };
+
+  if (!isVisible) return null;
+
+  return (
+    <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/80 backdrop-blur-sm p-4">
+      <div className="relative w-full max-w-md rounded-2xl bg-neutral-900 border border-purple-600/40 p-6 shadow-2xl text-center">
+        <button
+          onClick={handleClose}
+          className="absolute top-4 right-4 text-neutral-400 hover:text-white transition-colors"
+        >
+          <X className="w-5 h-5" />
+        </button>
+
+        <div className="w-12 h-12 rounded-full bg-purple-600/20 text-purple-400 flex items-center justify-center mx-auto mb-4 border border-purple-500/30">
+          <Gift className="w-6 h-6" />
+        </div>
+
+        <h3 className="text-xl font-bold text-white mb-2">
+          Before You Leave...
+        </h3>
+        <p className="text-neutral-300 text-sm mb-6">
+          Take <span className="text-purple-400 font-semibold">10% OFF</span> your entire order today! Use promo code <span className="bg-neutral-800 px-2 py-1 rounded text-purple-300 font-mono text-xs border border-purple-700/50">VIBE10</span> at checkout.
+        </p>
+
+        <div className="flex flex-col gap-3">
+          <button
+            onClick={handleClose}
+            className="w-full bg-purple-600 hover:bg-purple-500 text-white font-medium py-2.5 rounded-xl transition-colors text-sm cursor-pointer"
+          >
+            Claim Discount
+          </button>
+          <button
+            onClick={handleClose}
+            className="text-xs text-neutral-400 hover:text-neutral-200 transition-colors cursor-pointer"
+          >
+            No thanks, I'll pay full price
+          </button>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+// ==========================================
+// TYPES & TRACK DATA
+// ==========================================
 interface Track {
   id: string;
   title: string;
@@ -72,6 +139,9 @@ const MY_BEATS: Track[] = [
   },
 ];
 
+// ==========================================
+// MAIN STOREFRONT PAGE
+// ==========================================
 export default function Home() {
   const [currentTrack, setCurrentTrack] = useState<Track | null>(null);
   const [isPlaying, setIsPlaying] = useState(false);
@@ -212,7 +282,7 @@ export default function Home() {
 
   return (
     <main className="min-h-screen bg-neutral-950 text-neutral-100 flex flex-col pb-32">
-      {/* Exit-Intent Popup */}
+      {/* Inline Exit-Intent Popup Component */}
       <ExitIntentModal />
 
       {/* Google JSON-LD Structured Data */}
@@ -356,19 +426,19 @@ export default function Home() {
                   <div className="flex items-center space-x-2 self-start sm:self-center">
                     <button
                       onClick={() => addToCart(track, 'MP3', track.priceMp3, track.linkMp3)}
-                      className="flex items-center space-x-1 px-3 py-1.5 rounded-lg bg-neutral-800 hover:bg-neutral-700 border border-neutral-700 text-xs font-mono font-medium text-neutral-200 transition-colors"
+                      className="flex items-center space-x-1 px-3 py-1.5 rounded-lg bg-neutral-800 hover:bg-neutral-700 border border-neutral-700 text-xs font-mono font-medium text-neutral-200 transition-colors cursor-pointer"
                     >
                       <span>MP3 ${track.priceMp3}</span>
                     </button>
                     <button
                       onClick={() => addToCart(track, 'WAV', track.priceWav, track.linkWav)}
-                      className="flex items-center space-x-1 px-3 py-1.5 rounded-lg bg-neutral-800 hover:bg-neutral-700 border border-neutral-700 text-xs font-mono font-medium text-neutral-200 transition-colors"
+                      className="flex items-center space-x-1 px-3 py-1.5 rounded-lg bg-neutral-800 hover:bg-neutral-700 border border-neutral-700 text-xs font-mono font-medium text-neutral-200 transition-colors cursor-pointer"
                     >
                       <span>WAV ${track.priceWav}</span>
                     </button>
                     <button
                       onClick={() => addToCart(track, 'STEMS', track.priceStems, track.linkStems)}
-                      className="flex items-center space-x-1 px-3 py-1.5 rounded-lg bg-purple-900/40 hover:bg-purple-900/70 border border-purple-700/50 text-xs font-mono font-medium text-purple-300 transition-colors"
+                      className="flex items-center space-x-1 px-3 py-1.5 rounded-lg bg-purple-900/40 hover:bg-purple-900/70 border border-purple-700/50 text-xs font-mono font-medium text-purple-300 transition-colors cursor-pointer"
                     >
                       <ShoppingCart className="w-3 h-3 mr-1" />
                       <span>STEMS ${track.priceStems}</span>
@@ -403,7 +473,7 @@ export default function Home() {
                   </div>
                   <div className="flex items-center space-x-3">
                     <span className="font-mono text-purple-300">${item.price.toFixed(2)}</span>
-                    <button onClick={() => removeFromCart(index)} className="text-neutral-500 hover:text-red-400 transition-colors">
+                    <button onClick={() => removeFromCart(index)} className="text-neutral-500 hover:text-red-400 transition-colors cursor-pointer">
                       <Trash2 className="w-4 h-4" />
                     </button>
                   </div>
