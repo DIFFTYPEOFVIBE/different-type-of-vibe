@@ -44,7 +44,7 @@ export default function ExitIntentModal() {
           Before You Leave...
         </h3>
         <p className="text-neutral-300 text-sm mb-6">
-          Take <span className="text-purple-400 font-semibold">10% OFF</span> your entire order today! Use promo code <span className="bg-neutral-800 px-2 py-1 rounded text-purple-300 font-mono text-xs border border-purple-700/50">VIBE10</span> at checkout, or grab your 3 free tagged beats below.
+          Take <span className="text-purple-400 font-semibold">10% OFF</span> your entire order today! Use promo code <span className="bg-neutral-800 px-2 py-1 rounded text-purple-300 font-mono text-xs border border-purple-700/50">VIBE10</span> at checkout.
         </p>
 
         <div className="flex flex-col gap-3">
@@ -58,7 +58,7 @@ export default function ExitIntentModal() {
             onClick={handleClose}
             className="text-xs text-neutral-400 hover:text-neutral-200 transition-colors"
           >
-            No thanks, I'll pay full price later
+            No thanks, I'll pay full price
           </button>
         </div>
       </div>
