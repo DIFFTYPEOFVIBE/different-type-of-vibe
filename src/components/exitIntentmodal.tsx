@@ -9,7 +9,6 @@ export default function ExitIntentModal() {
 
   useEffect(() => {
     const handleMouseLeave = (e: MouseEvent) => {
-      // Triggers when cursor moves above the browser viewport (exit intent)
       if (e.clientY <= 0 && !hasDismissed) {
         setIsVisible(true);
       }
