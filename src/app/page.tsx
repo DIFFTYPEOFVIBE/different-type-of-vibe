@@ -1,7 +1,8 @@
 'use client';
 
 import React, { useState, useRef } from 'react';
-import { Play, Pause, Download, Music2, CheckCircle2, ShoppingCart } from 'lucide-react';
+import { Play, Pause, Download, Music2, CheckCircle2, ShoppingCart, Trash2, Tag } from 'lucide-react';
+import ExitIntentModal from '@/components/ExitIntentModal';
 
 interface Track {
   id: string;
@@ -16,6 +17,14 @@ interface Track {
   linkMp3?: string;
   linkWav?: string;
   linkStems?: string;
+}
+
+interface CartItem {
+  trackId: string;
+  trackTitle: string;
+  licenseType: 'MP3' | 'WAV' | 'STEMS';
+  price: number;
+  stripeLink?: string;
 }
 
 const MY_BEATS: Track[] = [
@@ -69,7 +78,83 @@ export default function Home() {
   const [email, setEmail] = useState('');
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [optInSuccess, setOptInSuccess] = useState(false);
+  const [cart, setCart] = useState<CartItem[]>([]);
   const audioRef = useRef<HTMLAudioElement | null>(null);
+
+  // Dynamic JSON-LD Schema markup for Google Rich Snippets
+  const jsonLdSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'MusicGroup',
+    name: 'Different Type of Vibe',
+    url: 'https://differenttypeofvibe.com',
+    genre: ['Hip-Hop', 'Trap', 'Boom Bap', 'Lofi'],
+    track: MY_BEATS.map((track) => ({
+      '@type': 'MusicRecording',
+      name: track.title,
+      genre: track.genre,
+      audio: track.audioUrl,
+      offers: [
+        {
+          '@type': 'Offer',
+          name: 'MP3 Lease',
+          price: track.priceMp3,
+          priceCurrency: 'USD',
+          availability: 'https://schema.org/InStock',
+          url: track.linkMp3,
+        },
+        {
+          '@type': 'Offer',
+          name: 'WAV Lease',
+          price: track.priceWav,
+          priceCurrency: 'USD',
+          availability: 'https://schema.org/InStock',
+          url: track.linkWav,
+        },
+        {
+          '@type': 'Offer',
+          name: 'STEMS License',
+          price: track.priceStems,
+          priceCurrency: 'USD',
+          availability: 'https://schema.org/InStock',
+          url: track.linkStems,
+        },
+      ],
+    })),
+  };
+
+  // Bulk Discounting Math Logic: Buy 2 Get 1 Free (Lowest priced item in cart becomes free)
+  const calculateCartTotals = () => {
+    if (cart.length === 0) return { subtotal: 0, discount: 0, total: 0 };
+
+    const subtotal = cart.reduce((sum, item) => sum + item.price, 0);
+    let discount = 0;
+
+    if (cart.length >= 3) {
+      const lowestPrice = Math.min(...cart.map((item) => item.price));
+      discount = lowestPrice;
+    }
+
+    return {
+      subtotal: parseFloat(subtotal.toFixed(2)),
+      discount: parseFloat(discount.toFixed(2)),
+      total: parseFloat((subtotal - discount).toFixed(2)),
+    };
+  };
+
+  const addToCart = (track: Track, licenseType: 'MP3' | 'WAV' | 'STEMS', price: number, stripeLink?: string) => {
+    const newItem: CartItem = {
+      trackId: track.id,
+      trackTitle: track.title,
+      licenseType,
+      price,
+      stripeLink,
+    };
+    setCart((prev) => [...prev, newItem]);
+  };
+
+  const removeFromCart = (index: number) => {
+    setCart((prev) => prev.filter((_, i) => i !== index));
+  };
 
   const handlePlayPause = (track: Track) => {
     if (currentTrack?.id === track.id) {
@@ -123,26 +208,38 @@ export default function Home() {
     }
   };
 
+  const { subtotal, discount, total } = calculateCartTotals();
+
   return (
     <main className="min-h-screen bg-neutral-950 text-neutral-100 flex flex-col pb-32">
+      {/* Exit-Intent Popup */}
+      <ExitIntentModal />
+
+      {/* Google JSON-LD Structured Data */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdSchema) }}
+      />
+
       <audio
         ref={audioRef}
         onEnded={() => setIsPlaying(false)}
         className="hidden"
       />
 
-      {/* Header Banner */}
+      {/* Header Banner with Value Proposition */}
       <header className="border-b border-neutral-800 bg-neutral-900/50 backdrop-blur sticky top-0 z-40">
-        <div className="max-w-6xl mx-auto px-4 py-4 flex items-center justify-between">
+        <div className="max-w-6xl mx-auto px-4 py-3 flex flex-col sm:flex-row items-center justify-between gap-2">
           <div className="flex items-center space-x-2">
             <Music2 className="w-7 h-7 text-purple-500" />
             <span className="font-bold text-xl tracking-tight bg-gradient-to-r from-purple-400 to-pink-500 bg-clip-text text-transparent">
               Different Type of Vibe
             </span>
           </div>
-          <span className="text-xs font-semibold px-3 py-1 rounded-full bg-purple-950/80 text-purple-300 border border-purple-800/50">
-            Official Catalog
-          </span>
+
+          <div className="text-xs font-semibold px-3 py-1 rounded-full bg-purple-950/80 text-purple-300 border border-purple-800/50 text-center">
+            Buy Direct From The Producer • Zero Marketplace Fees • Instant Untagged Delivery
+          </div>
         </div>
       </header>
 
@@ -190,6 +287,14 @@ export default function Home() {
             )}
           </div>
         </section>
+
+        {/* BULK DISCOUNT ANNOUNCEMENT BANNER */}
+        <div className="flex items-center justify-between p-3 rounded-xl bg-purple-950/40 border border-purple-800/50 text-xs text-purple-300">
+          <div className="flex items-center space-x-2">
+            <Tag className="w-4 h-4 text-purple-400" />
+            <span><strong>AUTOMATIC BULK DEAL:</strong> Add 3 licenses to your cart to get 1 FREE automatically!</span>
+          </div>
+        </div>
 
         {/* FEATURED BEAT CATALOG */}
         <section className="space-y-4">
@@ -249,37 +354,90 @@ export default function Home() {
 
                   {/* Pricing Action Buttons */}
                   <div className="flex items-center space-x-2 self-start sm:self-center">
-                    <a
-                      href={track.linkMp3 || '#'}
-                      target="_blank"
-                      rel="noopener noreferrer"
+                    <button
+                      onClick={() => addToCart(track, 'MP3', track.priceMp3, track.linkMp3)}
                       className="flex items-center space-x-1 px-3 py-1.5 rounded-lg bg-neutral-800 hover:bg-neutral-700 border border-neutral-700 text-xs font-mono font-medium text-neutral-200 transition-colors"
                     >
                       <span>MP3 ${track.priceMp3}</span>
-                    </a>
-                    <a
-                      href={track.linkWav || '#'}
-                      target="_blank"
-                      rel="noopener noreferrer"
+                    </button>
+                    <button
+                      onClick={() => addToCart(track, 'WAV', track.priceWav, track.linkWav)}
                       className="flex items-center space-x-1 px-3 py-1.5 rounded-lg bg-neutral-800 hover:bg-neutral-700 border border-neutral-700 text-xs font-mono font-medium text-neutral-200 transition-colors"
                     >
                       <span>WAV ${track.priceWav}</span>
-                    </a>
-                    <a
-                      href={track.linkStems || '#'}
-                      target="_blank"
-                      rel="noopener noreferrer"
+                    </button>
+                    <button
+                      onClick={() => addToCart(track, 'STEMS', track.priceStems, track.linkStems)}
                       className="flex items-center space-x-1 px-3 py-1.5 rounded-lg bg-purple-900/40 hover:bg-purple-900/70 border border-purple-700/50 text-xs font-mono font-medium text-purple-300 transition-colors"
                     >
                       <ShoppingCart className="w-3 h-3 mr-1" />
                       <span>STEMS ${track.priceStems}</span>
-                    </a>
+                    </button>
                   </div>
                 </div>
               );
             })}
           </div>
         </section>
+
+        {/* CART SUMMARY DRAWER (Appears when items are in cart) */}
+        {cart.length > 0 && (
+          <section className="bg-neutral-900/90 border border-purple-800/50 rounded-2xl p-6 shadow-2xl space-y-4">
+            <div className="flex items-center justify-between border-b border-neutral-800 pb-3">
+              <h3 className="text-lg font-bold text-white flex items-center gap-2">
+                <ShoppingCart className="w-5 h-5 text-purple-400" /> Your License Cart ({cart.length})
+              </h3>
+              {cart.length >= 3 && (
+                <span className="text-xs bg-emerald-950 text-emerald-400 border border-emerald-800/60 px-3 py-1 rounded-full font-medium">
+                  🎉 Buy 2 Get 1 Free Applied!
+                </span>
+              )}
+            </div>
+
+            <div className="space-y-2 max-h-48 overflow-y-auto">
+              {cart.map((item, index) => (
+                <div key={index} className="flex items-center justify-between bg-neutral-950 p-3 rounded-xl border border-neutral-800 text-sm">
+                  <div className="flex flex-col">
+                    <span className="font-semibold text-white line-clamp-1">{item.trackTitle}</span>
+                    <span className="text-xs text-neutral-400">{item.licenseType} License</span>
+                  </div>
+                  <div className="flex items-center space-x-3">
+                    <span className="font-mono text-purple-300">${item.price.toFixed(2)}</span>
+                    <button onClick={() => removeFromCart(index)} className="text-neutral-500 hover:text-red-400 transition-colors">
+                      <Trash2 className="w-4 h-4" />
+                    </button>
+                  </div>
+                </div>
+              ))}
+            </div>
+
+            <div className="border-t border-neutral-800 pt-4 space-y-1 text-sm font-mono">
+              <div className="flex justify-between text-neutral-400">
+                <span>Subtotal:</span>
+                <span>${subtotal.toFixed(2)}</span>
+              </div>
+              {discount > 0 && (
+                <div className="flex justify-between text-emerald-400">
+                  <span>Bulk Discount (1 Free):</span>
+                  <span>-${discount.toFixed(2)}</span>
+                </div>
+              )}
+              <div className="flex justify-between text-white font-bold text-base pt-2 border-t border-neutral-800">
+                <span>Total:</span>
+                <span className="text-purple-400">${total.toFixed(2)}</span>
+              </div>
+            </div>
+
+            <a
+              href={cart[0]?.stripeLink || '#'}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="w-full bg-purple-600 hover:bg-purple-500 text-white font-semibold py-3 rounded-xl block text-center transition-colors text-sm"
+            >
+              Proceed to Instant Checkout (${total.toFixed(2)})
+            </a>
+          </section>
+        )}
       </div>
 
       {/* PERSISTENT BOTTOM AUDIO PLAYER BAR */}
