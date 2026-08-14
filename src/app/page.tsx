@@ -260,7 +260,7 @@ const MY_BEATS: Track[] = [
     priceStems: 149.99,
     audioUrl: 'https://hnliahdtcbuvggxhmzej.supabase.co/storage/v1/object/public/audio-previews/Mirage.mp3',
     linkMp3: 'https://buy.stripe.com/00w6oG8dI5e2fr78G3cZa0t',
-    linkWav: 'https://buy.stripe.com/6oU7sKgKe8qediZbSfcZa0s',
+    linkWav: 'https://buy.stripe.com/6oU7sKgKe8qe3Ip7BZcZa0s',
     linkStems: 'https://buy.stripe.com/6oU3cu2ToeOCfr7e0ncZa0r',
   },
   {
@@ -388,6 +388,48 @@ const MY_BEATS: Track[] = [
     linkMp3: 'https://buy.stripe.com/bJe9AS65AdKy2El4pNcZa02',
     linkWav: 'https://buy.stripe.com/dRm14m9hM35Ugvb09xcZa01',
     linkStems: 'https://buy.stripe.com/6oUaEWfGabCqbaR6xVcZa00',
+  },
+  {
+    id: '22',
+    title: 'Bounce - Playboi Carti x Roddy Ricch Type Beat | Melodic Trap Instrumental (130 BPM - B♭m)',
+    genre: 'Melodic Trap',
+    bpm: 130,
+    key: 'B♭m',
+    priceMp3: 29.99,
+    priceWav: 49.99,
+    priceStems: 149.99,
+    audioUrl: 'https://hnliahdtcbuvggxhmzej.supabase.co/storage/v1/object/public/audio-previews/Bounce.mp3',
+    linkMp3: 'https://buy.stripe.com/00wcN4fGagWK5Qx4pNcZa12',
+    linkWav: 'https://buy.stripe.com/eVq5kCctY0XM6UBg8vcZa13',
+    linkStems: 'https://buy.stripe.com/cNieVc65AfSG0wdaObcZa14',
+  },
+  {
+    id: '23',
+    title: 'Legacy - J. Cole x Nas Type Beat | Soulful Boom Bap Instrumental (94 BPM - Cm)',
+    genre: 'Soulful Boom Bap',
+    bpm: 94,
+    key: 'Cm',
+    priceMp3: 29.99,
+    priceWav: 49.99,
+    priceStems: 149.99,
+    audioUrl: 'https://hnliahdtcbuvggxhmzej.supabase.co/storage/v1/object/public/audio-previews/Legacy.mp3',
+    linkMp3: 'https://buy.stripe.com/5kQ14m0Lg7ma6UB5tRcZa15',
+    linkWav: 'https://buy.stripe.com/4gMcN42TogWKdiZ2hFcZa16',
+    linkStems: 'https://buy.stripe.com/4gM9ASeC68qefr74pNcZa17',
+  },
+  {
+    id: '24',
+    title: 'Nocturnal - Future x Drake Type Beat | Dark Melodic Trap Instrumental (140 BPM - Dm)',
+    genre: 'Dark Melodic Trap',
+    bpm: 140,
+    key: 'Dm',
+    priceMp3: 29.99,
+    priceWav: 49.99,
+    priceStems: 149.99,
+    audioUrl: 'https://hnliahdtcbuvggxhmzej.supabase.co/storage/v1/object/public/audio-previews/Nocturnal.mp3',
+    linkMp3: 'https://buy.stripe.com/00w6oGdy28qeceV1dBcZa18',
+    linkWav: 'https://buy.stripe.com/8x228q3Xs0XMceV4pNcZa19',
+    linkStems: 'https://buy.stripe.com/9B63cu79E6i6fr73lJcZa1a',
   },
 ];
 
@@ -792,9 +834,25 @@ export default function Home() {
                 href={currentTrack.linkMp3 || '#'}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="px-3 py-1.5 rounded-lg bg-purple-600 hover:bg-purple-500 text-white text-xs font-medium transition-colors"
+                className="px-3 py-1.5 rounded-lg bg-neutral-800 hover:bg-neutral-700 text-xs text-neutral-200 transition-colors"
               >
-                Buy License (${currentTrack.priceMp3})
+                Get MP3
+              </a>
+              <a
+                href={currentTrack.linkWav || '#'}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="px-3 py-1.5 rounded-lg bg-neutral-800 hover:bg-neutral-700 text-xs text-neutral-200 transition-colors"
+              >
+                Get WAV
+              </a>
+              <a
+                href={currentTrack.linkStems || '#'}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="px-3 py-1.5 rounded-lg bg-purple-600 hover:bg-purple-500 text-xs text-white transition-colors"
+              >
+                Get Stems
               </a>
             </div>
           </div>
