@@ -525,7 +525,7 @@ export default function Home() {
       console.error('GHL Webhook Error:', error);
       setOptInSuccess(true);
       setEmail('');
-    } fontinally {
+    } finally {
       setIsSubmitting(false);
     }
   };
