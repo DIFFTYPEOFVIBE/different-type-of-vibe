@@ -1,69 +1,59 @@
 import { Metadata } from "next";
 
 interface PageProps {
-  params: {
-    slug: string;
-  };
+  params: Promise<{ slug: string }>;
 }
 
-function formatTitle(slug: string): string {
+export function formatTitle(slug?: string): string {
+  if (!slug) return "";
   return slug
     .split("-")
     .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
     .join(" ");
 }
 
-// Programmatic Metadata Generation matching target SEO specifications
+export async function generateStaticParams() {
+  return [
+    { slug: "drake" },
+    { slug: "travis-scott" },
+    { slug: "metro-boomin" },
+    { slug: "j-cole" },
+  ];
+}
+
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
-  const artistName = formatTitle(params.slug);
-  const title = `Buy ${artistName} Type Beats | Untagged MP3 & WAV Leases | Different Type of Vibe`;
-  const description = `License premium ${artistName} type beats produced by Onzieb. High quality untagged MP3, WAV, and STEMS available for instant download.`;
-  const url = `https://differenttypeofvibe.com/beats/type-beat/${params.slug}`;
+  const { slug } = await params;
+  const artistName = formatTitle(slug);
+  const title = `Buy ${artistName} Type Beats | Different Type of Vibe`;
+  const description = `Stream and license untagged ${artistName} style beats produced by Onzieb. Instant MP3, WAV, and STEMS delivery.`;
+  const url = `https://differenttypeofvibe.com/beats/type-beat/${slug}`;
 
   return {
     title,
     description,
-    alternates: {
-      canonical: url,
-    },
-    openGraph: {
-      title,
-      description,
-      url,
-      type: "website",
-    },
+    alternates: { canonical: url },
+    openGraph: { title, description, url, type: "website" },
   };
 }
 
-export default function TypeBeatPage({ params }: PageProps) {
-  const artistName = formatTitle(params.slug);
+export default async function TypeBeatPage({ params }: PageProps) {
+  const { slug } = await params;
+  const artistName = formatTitle(slug);
 
   return (
     <main className="container mx-auto px-4 py-12">
-      {/* Target H1 Tag */}
       <header className="mb-8 border-b border-zinc-800 pb-6">
         <h1 className="text-3xl sm:text-4xl font-extrabold text-white tracking-tight">
-          {artistName} Type Beats & Instrumentals
+          {artistName} Type Beats
         </h1>
         <p className="mt-2 text-zinc-400">
-          Browse untagged instrumentals inspired by {artistName}. Select a license to download instant files.
+          Explore premium untagged {artistName} style instrumentals ready for licensing.
         </p>
       </header>
 
-      {/* Filtered Track Catalog */}
       <section className="space-y-4">
-        {/* Replace with your track list component filtered by type-beat tag */}
-        <p className="text-sm text-zinc-500">Showing catalog results for {artistName} type beats...</p>
+        <p className="text-sm text-zinc-500">Showing all active {artistName} type beats...</p>
       </section>
     </main>
   );
-}
-// Pre-build top SEO pages at build time
-export async function generateStaticParams() {
-  // Fetch popular slugs from Supabase or define key targets
-  const popularSlugs = ["drake", "travis-scott", "metro-boomin", "j-cole"];
-
-  return popularSlugs.map((slug) => ({
-    slug,
-  }));
 }
