@@ -1,7 +1,7 @@
+// src/app/beats/type-beat/[slug]/page.tsx
+
 import { Metadata } from "next";
 import { getBeatsBySlug } from "@/lib/supabase/tracks";
-// Replace TrackList with your actual player/list component path if different
-import TrackList from "@/components/TrackList";
 
 interface PageProps {
   params: Promise<{ slug: string }>;
@@ -43,7 +43,6 @@ export default async function TypeBeatPage({ params }: PageProps) {
   const { slug } = await params;
   const artistName = formatTitle(slug);
 
-  // Server-side fetch for beats matching the artist tag
   const tracks = await getBeatsBySlug(slug, "type-beat");
 
   return (
@@ -59,7 +58,16 @@ export default async function TypeBeatPage({ params }: PageProps) {
 
       <section className="space-y-4">
         {tracks.length > 0 ? (
-          <TrackList tracks={tracks} />
+          <div className="grid gap-4">
+            {tracks.map((track: any) => (
+              <div key={track.id} className="p-4 rounded-lg bg-zinc-900 border border-zinc-800 flex justify-between items-center">
+                <div>
+                  <h3 className="font-bold text-white">{track.title}</h3>
+                  <p className="text-sm text-zinc-400">{track.bpm ? `${track.bpm} BPM` : ''} {track.key ? `• ${track.key}` : ''}</p>
+                </div>
+              </div>
+            ))}
+          </div>
         ) : (
           <p className="text-sm text-zinc-500">
             No active {artistName} type beats found. Check back soon for new drops!
