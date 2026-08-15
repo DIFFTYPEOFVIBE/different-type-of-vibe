@@ -3,11 +3,6 @@ import { createClient } from '@supabase/supabase-js';
 
 const baseUrl = 'https://differenttypeofvibe.com';
 
-const supabase = createClient(
-  process.env.NEXT_PUBLIC_SUPABASE_URL!,
-  process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!
-);
-
 // Revalidate sitemap every 24 hours
 export const revalidate = 86400;
 
@@ -36,28 +31,42 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.8,
   }));
 
-  // 3. Dynamic Genre routes fetched directly from Supabase
+  // 3. Dynamic Genre routes fetched safely inside the handler
   let genreRoutes: MetadataRoute.Sitemap = [];
-  try {
-    const { data: tracks } = await supabase
-      .from('tracks')
-      .select('genre')
-      .eq('is_active', true);
 
-    if (tracks && tracks.length > 0) {
-      const uniqueGenres = Array.from(
-        new Set(tracks.map((t) => t.genre?.toLowerCase()).filter(Boolean))
-      );
+  const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL;
+  const supabaseAnonKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY;
 
-      genreRoutes = uniqueGenres.map((genre) => ({
-        url: `${baseUrl}/beats/genre/${genre}`,
-        lastModified: currentDate,
-        changeFrequency: 'weekly' as const,
-        priority: 0.8,
-      }));
+  if (supabaseUrl && supabaseAnonKey) {
+    try {
+      const supabase = createClient(supabaseUrl, supabaseAnonKey);
+
+      const { data: tracks, error } = await supabase
+        .from('tracks')
+        .select('genre')
+        .eq('is_active', true);
+
+      if (!error && tracks && tracks.length > 0) {
+        const uniqueGenres = Array.from(
+          new Set(
+            tracks
+              .map((t) => t.genre?.toLowerCase().trim())
+              .filter((g): g is string => Boolean(g))
+          )
+        );
+
+        genreRoutes = uniqueGenres.map((genre) => ({
+          url: `${baseUrl}/beats/genre/${encodeURIComponent(genre)}`,
+          lastModified: currentDate,
+          changeFrequency: 'weekly' as const,
+          priority: 0.8,
+        }));
+      }
+    } catch (error) {
+      console.error('Error building sitemap genre routes:', error);
     }
-  } catch (error) {
-    console.error('Error building sitemap genre routes:', error);
+  } else {
+    console.warn('Sitemap warning: Missing Supabase environment variables during build phase.');
   }
 
   return [...staticRoutes, ...typeBeatRoutes, ...genreRoutes];

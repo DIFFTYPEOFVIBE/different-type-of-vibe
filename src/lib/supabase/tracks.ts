@@ -1,24 +1,29 @@
 import { createClient } from "@supabase/supabase-js";
 
-const supabase = createClient(
-  process.env.NEXT_PUBLIC_SUPABASE_URL!,
-  process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!
-);
+const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL || "";
+const supabaseAnonKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || "";
 
-export async function getBeatsBySlug(slug: string, type: "genre" | "type-beat") {
-  // Normalize slug (e.g., "boom-bap" or "drake")
-  const formattedTag = slug.toLowerCase();
+const supabase = createClient(supabaseUrl, supabaseAnonKey);
 
-  const query = supabase
+export async function getBeatsBySlug(
+  slug: string,
+  type: "genre" | "type-beat"
+) {
+  // Replace hyphens with spaces for multi-word genre matching (e.g. "boom-bap" -> "boom bap")
+  const normalizedSlug = slug.toLowerCase().trim();
+  const searchPhrase = normalizedSlug.replace(/-/g, " ");
+
+  let query = supabase
     .from("tracks")
     .select("*")
     .eq("is_active", true);
 
   if (type === "genre") {
-    query.eq("genre", formattedTag);
+    // Case-insensitive match on genre column (handles both "Boom Bap" and "boom-bap")
+    query = query.ilike("genre", `%${searchPhrase}%`);
   } else {
-    // Looks for slug match inside a tags array column (e.g., tags: ["drake", "hip-hop"])
-    query.contains("tags", [formattedTag]);
+    // Checks array column for exact tag match OR title match
+    query = query.contains("tags", [normalizedSlug]);
   }
 
   const { data, error } = await query.order("created_at", { ascending: false });

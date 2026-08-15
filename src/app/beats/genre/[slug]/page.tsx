@@ -1,5 +1,6 @@
 import { Metadata } from "next";
-import { notFound } from "next/navigation";
+import { createClient } from "@supabase/supabase-js";
+import { getBeatsBySlug } from "@/lib/supabase/tracks";
 
 interface PageProps {
   params: Promise<{
@@ -7,15 +8,48 @@ interface PageProps {
   }>;
 }
 
-// Helper to format slugs into clean titles
 function formatTitle(slug: string): string {
+  if (!slug) return "";
   return slug
     .split("-")
     .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
     .join(" ");
 }
 
-// Programmatic Metadata Generation
+export async function generateStaticParams() {
+  const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL;
+  const supabaseAnonKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY;
+
+  if (!supabaseUrl || !supabaseAnonKey) {
+    return [{ slug: "boom-bap" }, { slug: "trap" }, { slug: "lofi" }, { slug: "hip-hop" }];
+  }
+
+  try {
+    const supabase = createClient(supabaseUrl, supabaseAnonKey);
+    const { data: tracks, error } = await supabase
+      .from("tracks")
+      .select("genre")
+      .eq("is_active", true);
+
+    if (error || !tracks || tracks.length === 0) {
+      return [{ slug: "boom-bap" }, { slug: "trap" }, { slug: "lofi" }, { slug: "hip-hop" }];
+    }
+
+    const uniqueGenres = Array.from(
+      new Set(
+        tracks
+          .map((t) => t.genre?.toLowerCase().trim().replace(/\s+/g, "-"))
+          .filter((g): g is string => Boolean(g))
+      )
+    );
+
+    return uniqueGenres.map((slug) => ({ slug }));
+  } catch (error) {
+    console.error("Error generating static params for genre routes:", error);
+    return [{ slug: "boom-bap" }, { slug: "trap" }, { slug: "lofi" }, { slug: "hip-hop" }];
+  }
+}
+
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { slug } = await params;
   const genreName = formatTitle(slug);
@@ -42,9 +76,15 @@ export default async function GenrePage({ params }: PageProps) {
   const { slug } = await params;
   const genreName = formatTitle(slug);
 
+  let tracks: any[] = [];
+  try {
+    tracks = await getBeatsBySlug(slug, "genre");
+  } catch (error) {
+    console.error(`Error loading beats for genre ${slug}:`, error);
+  }
+
   return (
     <main className="container mx-auto px-4 py-12">
-      {/* Target H1 Tag */}
       <header className="mb-8 border-b border-zinc-800 pb-6">
         <h1 className="text-3xl sm:text-4xl font-extrabold text-white tracking-tight">
           {genreName} Beats & Instrumentals
@@ -54,20 +94,30 @@ export default async function GenrePage({ params }: PageProps) {
         </p>
       </header>
 
-      {/* Track List Component Filtering by Genre */}
       <section className="space-y-4">
-        {/* Replace with your track filtering logic or component */}
-        <p className="text-sm text-zinc-500">Showing all active {genreName} tracks...</p>
+        {tracks && tracks.length > 0 ? (
+          <div className="grid gap-4">
+            {tracks.map((track: any) => (
+              <div
+                key={track.id}
+                className="p-4 rounded-lg bg-zinc-900 border border-zinc-800 flex justify-between items-center"
+              >
+                <div>
+                  <h3 className="font-bold text-white">{track.title}</h3>
+                  <p className="text-sm text-zinc-400">
+                    {track.bpm ? `${track.bpm} BPM` : ""}{" "}
+                    {track.key ? `• ${track.key}` : ""}
+                  </p>
+                </div>
+              </div>
+            ))}
+          </div>
+        ) : (
+          <p className="text-sm text-zinc-500">
+            No active {genreName} beats found in the catalog right now. Check back soon!
+          </p>
+        )}
       </section>
     </main>
   );
-}
-// Pre-build top SEO pages at build time
-export async function generateStaticParams() {
-  // Fetch popular slugs from Supabase or define key targets
-  const popularSlugs = ["drake", "travis-scott", "metro-boomin", "j-cole"];
-
-  return popularSlugs.map((slug) => ({
-    slug,
-  }));
 }
