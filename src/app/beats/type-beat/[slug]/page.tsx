@@ -1,9 +1,15 @@
 import { Metadata } from "next";
+import { createClient } from "@supabase/supabase-js";
 import { getBeatsBySlug } from "@/lib/supabase/tracks";
 
 interface PageProps {
   params: Promise<{ slug: string }>;
 }
+
+const supabase = createClient(
+  process.env.NEXT_PUBLIC_SUPABASE_URL!,
+  process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!
+);
 
 export function formatTitle(slug?: string): string {
   if (!slug) return "";
@@ -14,12 +20,43 @@ export function formatTitle(slug?: string): string {
 }
 
 export async function generateStaticParams() {
-  return [
-    { slug: "drake" },
-    { slug: "travis-scott" },
-    { slug: "metro-boomin" },
-    { slug: "j-cole" },
-  ];
+  try {
+    // Fetch all active track tags from Supabase
+    const { data: tracks } = await supabase
+      .from("tracks")
+      .select("tags")
+      .eq("is_active", true);
+
+    if (!tracks || tracks.length === 0) {
+      return [
+        { slug: "drake" },
+        { slug: "travis-scott" },
+        { slug: "metro-boomin" },
+        { slug: "j-cole" },
+      ];
+    }
+
+    // Flatten array of tags, filter out empty values, and extract unique slugs
+    const uniqueTags = Array.from(
+      new Set(
+        tracks
+          .flatMap((track: { tags?: string[] }) => track.tags || [])
+          .map((tag: string) => tag.toLowerCase().trim())
+          .filter(Boolean)
+      )
+    );
+
+    return uniqueTags.map((slug) => ({ slug }));
+  } catch (error) {
+    console.error("Error generating static params for type-beats:", error);
+    // Fallback default params to prevent build failure
+    return [
+      { slug: "drake" },
+      { slug: "travis-scott" },
+      { slug: "metro-boomin" },
+      { slug: "j-cole" },
+    ];
+  }
 }
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {

@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import { Analytics } from "@vercel/analytics/react";
 import Script from "next/script";
+import SeoFooter from "@/components/SeoFooter";
 import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
@@ -138,7 +139,7 @@ export default function RootLayout({
         />
       </head>
       <body
-        className={`${inter.className} bg-[#0d0f12] text-white min-h-screen antialiased selection:bg-purple-600 selection:text-white`}
+        className={`${inter.className} bg-[#0d0f12] text-white min-h-screen antialiased selection:bg-purple-600 selection:text-white flex flex-col`}
       >
         {/* GTM Noscript Fallback */}
         <noscript>
@@ -149,9 +150,13 @@ export default function RootLayout({
             style={{ display: "none", visibility: "hidden" }}
           />
         </noscript>
-        <div className="relative min-h-screen w-full purple-gradient-bg">
+        <div className="relative min-h-screen w-full purple-gradient-bg flex-grow">
           {children}
         </div>
+        
+        {/* Global SEO Internal Linking Footer */}
+        <SeoFooter />
+
         <Analytics />
       </body>
     </html>
