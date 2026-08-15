@@ -58,3 +58,12 @@ export default function TypeBeatPage({ params }: PageProps) {
     </main>
   );
 }
+// Pre-build top SEO pages at build time
+export async function generateStaticParams() {
+  // Fetch popular slugs from Supabase or define key targets
+  const popularSlugs = ["drake", "travis-scott", "metro-boomin", "j-cole"];
+
+  return popularSlugs.map((slug) => ({
+    slug,
+  }));
+}

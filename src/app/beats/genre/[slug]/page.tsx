@@ -2,12 +2,12 @@ import { Metadata } from "next";
 import { notFound } from "next/navigation";
 
 interface PageProps {
-  params: {
+  params: Promise<{
     slug: string;
-  };
+  }>;
 }
 
-// Helper to format slugs into clean titles (e.g., "boom-bap" -> "Boom Bap")
+// Helper to format slugs into clean titles
 function formatTitle(slug: string): string {
   return slug
     .split("-")
@@ -17,10 +17,11 @@ function formatTitle(slug: string): string {
 
 // Programmatic Metadata Generation
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
-  const genreName = formatTitle(params.slug);
+  const { slug } = await params;
+  const genreName = formatTitle(slug);
   const title = `Buy ${genreName} Beats & Instrumentals | Different Type of Vibe`;
   const description = `Stream and license untagged ${genreName} beats produced by Onzieb. Instant MP3, WAV, and STEMS trackout delivery for independent artists.`;
-  const url = `https://differenttypeofvibe.com/beats/genre/${params.slug}`;
+  const url = `https://differenttypeofvibe.com/beats/genre/${slug}`;
 
   return {
     title,
@@ -37,8 +38,9 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   };
 }
 
-export default function GenrePage({ params }: PageProps) {
-  const genreName = formatTitle(params.slug);
+export default async function GenrePage({ params }: PageProps) {
+  const { slug } = await params;
+  const genreName = formatTitle(slug);
 
   return (
     <main className="container mx-auto px-4 py-12">
@@ -59,4 +61,13 @@ export default function GenrePage({ params }: PageProps) {
       </section>
     </main>
   );
+}
+// Pre-build top SEO pages at build time
+export async function generateStaticParams() {
+  // Fetch popular slugs from Supabase or define key targets
+  const popularSlugs = ["drake", "travis-scott", "metro-boomin", "j-cole"];
+
+  return popularSlugs.map((slug) => ({
+    slug,
+  }));
 }
