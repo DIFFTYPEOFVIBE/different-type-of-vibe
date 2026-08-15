@@ -1,4 +1,7 @@
 import { Metadata } from "next";
+import { getBeatsBySlug } from "@/lib/supabase/tracks";
+// Replace TrackList with your actual player/list component path if different
+import TrackList from "@/components/TrackList";
 
 interface PageProps {
   params: Promise<{ slug: string }>;
@@ -40,6 +43,9 @@ export default async function TypeBeatPage({ params }: PageProps) {
   const { slug } = await params;
   const artistName = formatTitle(slug);
 
+  // Server-side fetch for beats matching the artist tag
+  const tracks = await getBeatsBySlug(slug, "type-beat");
+
   return (
     <main className="container mx-auto px-4 py-12">
       <header className="mb-8 border-b border-zinc-800 pb-6">
@@ -52,7 +58,13 @@ export default async function TypeBeatPage({ params }: PageProps) {
       </header>
 
       <section className="space-y-4">
-        <p className="text-sm text-zinc-500">Showing all active {artistName} type beats...</p>
+        {tracks.length > 0 ? (
+          <TrackList tracks={tracks} />
+        ) : (
+          <p className="text-sm text-zinc-500">
+            No active {artistName} type beats found. Check back soon for new drops!
+          </p>
+        )}
       </section>
     </main>
   );
