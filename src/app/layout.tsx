@@ -86,9 +86,53 @@ export default function RootLayout({
 }: {
   children: React.ReactNode;
 }) {
+  // Schema.org Graph Node for Organization & MusicStore
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://differenttypeofvibe.com/#organization",
+        "name": "Different Type of Vibe",
+        "url": "https://differenttypeofvibe.com",
+        "logo": "https://differenttypeofvibe.com/og-image.png",
+        "founder": {
+          "@type": "Person",
+          "name": "Onzieb",
+          "jobTitle": "Music Producer & Composer",
+        },
+        "sameAs": [
+          "https://open.spotify.com",
+          "https://instagram.com",
+          "https://youtube.com",
+        ],
+      },
+      {
+        "@type": "MusicStore",
+        "@id": "https://differenttypeofvibe.com/#store",
+        "name": "Different Type of Vibe Beat Store",
+        "url": "https://differenttypeofvibe.com",
+        "description":
+          "Premium untagged hip-hop, trap, lofi, and boom bap beats produced by Onzieb. Instant MP3, WAV, and STEMS licensing.",
+        "publisher": {
+          "@id": "https://differenttypeofvibe.com/#organization",
+        },
+        "currenciesAccepted": "USD",
+        "paymentAccepted": "Credit Card, Stripe",
+        "priceRange": "$$",
+      },
+    ],
+  };
+
   return (
     <html lang="en" className="dark">
       <head>
+        {/* Schema.org Organization & MusicStore JSON-LD */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
+
         {/* Google Ads Tag (gtag.js) */}
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=AW-985653416"
@@ -153,7 +197,7 @@ export default function RootLayout({
         <div className="relative min-h-screen w-full purple-gradient-bg flex-grow">
           {children}
         </div>
-        
+
         {/* Global SEO Internal Linking Footer */}
         <SeoFooter />
 

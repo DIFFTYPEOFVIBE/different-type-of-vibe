@@ -2,11 +2,45 @@
 'use client';
 
 import { useAudio } from '@/context/AudioContext';
+import { trackCustomEvent } from '@/lib/gtm';
 
 export default function BeatCard({ beat }: { beat: { id: string; title: string; bpm: number; audioUrl: string } }) {
   const { playBeat, currentBeat, isPlaying } = useAudio();
 
+  const isCurrentlyPlaying = currentBeat?.id === beat.id && isPlaying;
+
+  const handlePlayClick = () => {
+    // Fire tracking event only when transitioning from pause to play
+    if (!isCurrentlyPlaying) {
+      trackCustomEvent({
+        eventName: 'play_beat',
+        fbEventName: 'ViewContent',
+        eventParams: {
+          content_name: beat.title,
+          content_ids: [beat.id],
+          content_type: 'product',
+          bpm: beat.bpm,
+        },
+      });
+    }
+
+    playBeat(beat);
+  };
+
   const handleBuy = async (licenseType: string) => {
+    // Track checkout initiation before redirecting
+    trackCustomEvent({
+      eventName: 'initiate_checkout',
+      fbEventName: 'InitiateCheckout',
+      eventParams: {
+        content_name: beat.title,
+        content_ids: [beat.id],
+        content_type: licenseType,
+        value: 29.99,
+        currency: 'USD',
+      },
+    });
+
     const res = await fetch('/api/checkout', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
@@ -29,10 +63,10 @@ export default function BeatCard({ beat }: { beat: { id: string; title: string; 
 
       <div className="flex items-center gap-3">
         <button
-          onClick={() => playBeat(beat)}
+          onClick={handlePlayClick}
           className="px-3 py-1 bg-zinc-800 hover:bg-zinc-700 text-sm rounded-md"
         >
-          {currentBeat?.id === beat.id && isPlaying ? 'Pause' : 'Preview'}
+          {isCurrentlyPlaying ? 'Pause' : 'Preview'}
         </button>
 
         <button

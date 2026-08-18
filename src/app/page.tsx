@@ -1,7 +1,9 @@
 'use client';
 
-import React, { useState, useEffect, useRef } from 'react';
-import { Play, Pause, Download, Music2, CheckCircle2, ShoppingCart, Trash2, Tag, X, Gift } from 'lucide-react';
+import React, { useState, useEffect, useRef, useMemo } from 'react';
+import Link from 'next/link';
+import { useRouter } from 'next/navigation';
+import { Play, Pause, Download, Music2, CheckCircle2, ShoppingCart, Trash2, Tag, X, Gift, Filter, User, Disc } from 'lucide-react';
 
 // ==========================================
 // INLINE EXIT-INTENT MODAL COMPONENT
@@ -74,7 +76,8 @@ function ExitIntentModal() {
 interface Track {
   id: string;
   title: string;
-  genre: string;
+  genre: 'Trap Beats' | 'Boom Bap Beats' | 'R&B Instrumentals' | 'Hip-Hop Beats';
+  artistVibe: 'Drake Type Beats' | 'Travis Scott Type Beats' | 'Metro Boomin Type Beats' | 'J. Cole Type Beats';
   bpm: number;
   key: string;
   priceMp3: number;
@@ -98,7 +101,8 @@ const MY_BEATS: Track[] = [
   {
     id: '1',
     title: 'Level Up - Travis Scott x Future Type Beat | Dark Trap Instrumental (92 BPM - F#m)',
-    genre: 'Dark Trap',
+    genre: 'Trap Beats',
+    artistVibe: 'Travis Scott Type Beats',
     bpm: 92,
     key: 'F#m',
     priceMp3: 29.99,
@@ -112,7 +116,8 @@ const MY_BEATS: Track[] = [
   {
     id: '2',
     title: 'Sip of Me - J. Cole x Joey Bada$$ Type Beat | Chill Lofi Boom Bap Instrumental (85 BPM - Dm)',
-    genre: 'Chill Lofi Boom Bap',
+    genre: 'Boom Bap Beats',
+    artistVibe: 'J. Cole Type Beats',
     bpm: 85,
     key: 'Dm',
     priceMp3: 29.99,
@@ -126,7 +131,8 @@ const MY_BEATS: Track[] = [
   {
     id: '3',
     title: 'Badin M 2 - Freddie Gibbs x MF DOOM Type Beat | Underground Boom Bap Instrumental (100 BPM - Am)',
-    genre: 'Underground Boom Bap',
+    genre: 'Boom Bap Beats',
+    artistVibe: 'J. Cole Type Beats',
     bpm: 100,
     key: 'Am',
     priceMp3: 29.99,
@@ -140,7 +146,8 @@ const MY_BEATS: Track[] = [
   {
     id: '4',
     title: 'City Lights - Joey Bada$$ x J. Cole Type Beat | Chill Boom Bap Instrumental (90 BPM - Dm)',
-    genre: 'Chill Boom Bap',
+    genre: 'Hip-Hop Beats',
+    artistVibe: 'J. Cole Type Beats',
     bpm: 90,
     key: 'Dm',
     priceMp3: 29.99,
@@ -154,7 +161,8 @@ const MY_BEATS: Track[] = [
   {
     id: '5',
     title: 'Deep End - Future x Roddy Ricch Type Beat | Dark Melodic Trap Instrumental (130 BPM - B♭m)',
-    genre: 'Dark Melodic Trap',
+    genre: 'Trap Beats',
+    artistVibe: 'Metro Boomin Type Beats',
     bpm: 130,
     key: 'B♭m',
     priceMp3: 29.99,
@@ -168,7 +176,8 @@ const MY_BEATS: Track[] = [
   {
     id: '6',
     title: 'Echoes - Drake x Future Type Beat | Dark Melodic Trap Instrumental (130 BPM - Dm)',
-    genre: 'Dark Melodic Trap',
+    genre: 'Trap Beats',
+    artistVibe: 'Drake Type Beats',
     bpm: 130,
     key: 'Dm',
     priceMp3: 29.99,
@@ -182,7 +191,8 @@ const MY_BEATS: Track[] = [
   {
     id: '7',
     title: 'Endgame - Metro Boomin x 21 Savage Type Beat | Dark Trap Boom Bap Instrumental (105 BPM - Fm)',
-    genre: 'Dark Trap Boom Bap',
+    genre: 'Trap Beats',
+    artistVibe: 'Metro Boomin Type Beats',
     bpm: 105,
     key: 'Fm',
     priceMp3: 29.99,
@@ -196,7 +206,8 @@ const MY_BEATS: Track[] = [
   {
     id: '8',
     title: 'High Life - Lil Tecca x Gunna Type Beat | Melodic Trap Instrumental (130 BPM - Dm)',
-    genre: 'Melodic Trap',
+    genre: 'Trap Beats',
+    artistVibe: 'Drake Type Beats',
     bpm: 130,
     key: 'Dm',
     priceMp3: 29.99,
@@ -210,7 +221,8 @@ const MY_BEATS: Track[] = [
   {
     id: '9',
     title: 'Left On Read - Drake x Future Type Beat | Dark Melodic Trap Instrumental (130 BPM - F#m)',
-    genre: 'Dark Melodic Trap',
+    genre: 'R&B Instrumentals',
+    artistVibe: 'Drake Type Beats',
     bpm: 130,
     key: 'F#m',
     priceMp3: 29.99,
@@ -224,7 +236,8 @@ const MY_BEATS: Track[] = [
   {
     id: '10',
     title: 'Lucid - Juice WRLD x Travis Scott Type Beat | Dark Melodic Trap Instrumental (130 BPM - B♭m)',
-    genre: 'Dark Melodic Trap',
+    genre: 'Trap Beats',
+    artistVibe: 'Travis Scott Type Beats',
     bpm: 130,
     key: 'B♭m',
     priceMp3: 29.99,
@@ -238,7 +251,8 @@ const MY_BEATS: Track[] = [
   {
     id: '11',
     title: 'Lullaby - Metro Boomin x Future Type Beat | Dark Melodic Trap Instrumental (130 BPM - F#m)',
-    genre: 'Dark Melodic Trap',
+    genre: 'Trap Beats',
+    artistVibe: 'Metro Boomin Type Beats',
     bpm: 130,
     key: 'F#m',
     priceMp3: 29.99,
@@ -252,7 +266,8 @@ const MY_BEATS: Track[] = [
   {
     id: '12',
     title: 'Mirage - Travis Scott x Future Type Beat | Dark Melodic Trap Instrumental (130 BPM - Dm)',
-    genre: 'Dark Melodic Trap',
+    genre: 'Trap Beats',
+    artistVibe: 'Travis Scott Type Beats',
     bpm: 130,
     key: 'Dm',
     priceMp3: 29.99,
@@ -266,7 +281,8 @@ const MY_BEATS: Track[] = [
   {
     id: '13',
     title: 'Obsession - Drake x Bryson Tiller Type Beat | Dark Melodic Trap Instrumental (130 BPM - Cm)',
-    genre: 'Dark Melodic Trap',
+    genre: 'R&B Instrumentals',
+    artistVibe: 'Drake Type Beats',
     bpm: 130,
     key: 'Cm',
     priceMp3: 29.99,
@@ -280,7 +296,8 @@ const MY_BEATS: Track[] = [
   {
     id: '14',
     title: 'Overcast - Future x Travis Scott Type Beat | Dark Melodic Trap Instrumental (130 BPM - Dm)',
-    genre: 'Dark Melodic Trap',
+    genre: 'Trap Beats',
+    artistVibe: 'Travis Scott Type Beats',
     bpm: 130,
     key: 'Dm',
     priceMp3: 29.99,
@@ -294,7 +311,8 @@ const MY_BEATS: Track[] = [
   {
     id: '15',
     title: 'Overdrive - Playboi Carti x Lil Uzi Vert Type Beat | Dark Trap Instrumental (138 BPM - Dm)',
-    genre: 'Dark Trap',
+    genre: 'Trap Beats',
+    artistVibe: 'Metro Boomin Type Beats',
     bpm: 138,
     key: 'Dm',
     priceMp3: 29.99,
@@ -308,7 +326,8 @@ const MY_BEATS: Track[] = [
   {
     id: '16',
     title: 'Phantom - Future x Metro Boomin Type Beat | Dark Melodic Trap Instrumental (130 BPM - Dm)',
-    genre: 'Dark Melodic Trap',
+    genre: 'Trap Beats',
+    artistVibe: 'Metro Boomin Type Beats',
     bpm: 130,
     key: 'Dm',
     priceMp3: 29.99,
@@ -322,7 +341,8 @@ const MY_BEATS: Track[] = [
   {
     id: '17',
     title: 'Pressure - Lil Baby x NLE Choppa Type Beat | Dark Trap Instrumental (135 BPM - Fm)',
-    genre: 'Dark Trap',
+    genre: 'Hip-Hop Beats',
+    artistVibe: 'Metro Boomin Type Beats',
     bpm: 135,
     key: 'Fm',
     priceMp3: 29.99,
@@ -336,7 +356,8 @@ const MY_BEATS: Track[] = [
   {
     id: '18',
     title: 'Shadows - Travis Scott x 21 Savage Type Beat | Dark Trap Instrumental (140 BPM - Cm)',
-    genre: 'Dark Trap',
+    genre: 'Trap Beats',
+    artistVibe: 'Travis Scott Type Beats',
     bpm: 140,
     key: 'Cm',
     priceMp3: 29.99,
@@ -350,7 +371,8 @@ const MY_BEATS: Track[] = [
   {
     id: '19',
     title: 'Velvet - Post Malone x Jack Harlow Type Beat | Melodic Pop Trap Instrumental (120 BPM - A♭)',
-    genre: 'Melodic Pop Trap',
+    genre: 'R&B Instrumentals',
+    artistVibe: 'Drake Type Beats',
     bpm: 120,
     key: 'A♭',
     priceMp3: 29.99,
@@ -364,7 +386,8 @@ const MY_BEATS: Track[] = [
   {
     id: '20',
     title: 'Viper - Metro Boomin x 21 Savage Type Beat | Dark Trap Instrumental (105 BPM - Fm)',
-    genre: 'Dark Trap',
+    genre: 'Trap Beats',
+    artistVibe: 'Metro Boomin Type Beats',
     bpm: 105,
     key: 'Fm',
     priceMp3: 29.99,
@@ -378,7 +401,8 @@ const MY_BEATS: Track[] = [
   {
     id: '21',
     title: 'Zone 6 - Future x Gunna Type Beat | Dark Melodic Trap Instrumental (130 BPM - B♭m)',
-    genre: 'Dark Melodic Trap',
+    genre: 'Trap Beats',
+    artistVibe: 'Drake Type Beats',
     bpm: 130,
     key: 'B♭m',
     priceMp3: 29.99,
@@ -392,7 +416,8 @@ const MY_BEATS: Track[] = [
   {
     id: '22',
     title: 'Bounce - Playboi Carti x Roddy Ricch Type Beat | Melodic Trap Instrumental (130 BPM - B♭m)',
-    genre: 'Melodic Trap',
+    genre: 'Trap Beats',
+    artistVibe: 'Travis Scott Type Beats',
     bpm: 130,
     key: 'B♭m',
     priceMp3: 29.99,
@@ -406,7 +431,8 @@ const MY_BEATS: Track[] = [
   {
     id: '23',
     title: 'Legacy - J. Cole x Nas Type Beat | Soulful Boom Bap Instrumental (94 BPM - Cm)',
-    genre: 'Soulful Boom Bap',
+    genre: 'Boom Bap Beats',
+    artistVibe: 'J. Cole Type Beats',
     bpm: 94,
     key: 'Cm',
     priceMp3: 29.99,
@@ -420,7 +446,8 @@ const MY_BEATS: Track[] = [
   {
     id: '24',
     title: 'Nocturnal - Future x Drake Type Beat | Dark Melodic Trap Instrumental (140 BPM - Dm)',
-    genre: 'Dark Melodic Trap',
+    genre: 'Hip-Hop Beats',
+    artistVibe: 'Drake Type Beats',
     bpm: 140,
     key: 'Dm',
     priceMp3: 29.99,
@@ -433,25 +460,52 @@ const MY_BEATS: Track[] = [
   },
 ];
 
-// ==========================================
-// MAIN STOREFRONT PAGE
-// ==========================================
-export default function Home() {
+const ARTIST_VIBES = [
+  { name: 'Drake Type Beats', slug: 'drake-type-beats' },
+  { name: 'Travis Scott Type Beats', slug: 'travis-scott-type-beats' },
+  { name: 'Metro Boomin Type Beats', slug: 'metro-boomin-type-beats' },
+  { name: 'J. Cole Type Beats', slug: 'j-cole-type-beats' },
+] as const;
+
+const GENRE_CATEGORIES = [
+  { name: 'Trap Beats', slug: 'trap-beats' },
+  { name: 'Boom Bap Beats', slug: 'boom-bap-beats' },
+  { name: 'R&B Instrumentals', slug: 'rb-instrumentals' },
+  { name: 'Hip-Hop Beats', slug: 'hip-hop-beats' },
+] as const;
+
+interface StorefrontProps {
+  initialFilter?: string;
+}
+
+export default function Storefront({ initialFilter = 'All' }: StorefrontProps) {
+  const router = useRouter();
   const [currentTrack, setCurrentTrack] = useState<Track | null>(null);
   const [isPlaying, setIsPlaying] = useState(false);
+  const [selectedFilter, setSelectedFilter] = useState<string>(initialFilter);
   const [email, setEmail] = useState('');
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [optInSuccess, setOptInSuccess] = useState(false);
   const [cart, setCart] = useState<CartItem[]>([]);
   const audioRef = useRef<HTMLAudioElement | null>(null);
 
-  // Dynamic JSON-LD Schema markup for Google Rich Snippets
+  useEffect(() => {
+    setSelectedFilter(initialFilter);
+  }, [initialFilter]);
+
+  const filteredBeats = useMemo(() => {
+    if (selectedFilter === 'All') return MY_BEATS;
+    return MY_BEATS.filter(
+      (beat) => beat.artistVibe === selectedFilter || beat.genre === selectedFilter
+    );
+  }, [selectedFilter]);
+
   const jsonLdSchema = {
     '@context': 'https://schema.org',
     '@type': 'MusicGroup',
     name: 'Different Type of Vibe',
     url: 'https://differenttypeofvibe.com',
-    genre: ['Hip-Hop', 'Trap', 'Boom Bap', 'Lofi'],
+    genre: ['Hip-Hop', 'Trap', 'Boom Bap', 'R&B'],
     track: MY_BEATS.map((track) => ({
       '@type': 'MusicRecording',
       name: track.title,
@@ -486,7 +540,6 @@ export default function Home() {
     })),
   };
 
-  // Bulk Discounting Math Logic: Buy 2 Get 1 Free (Lowest priced item in cart becomes free)
   const calculateCartTotals = () => {
     if (cart.length === 0) return { subtotal: 0, discount: 0, total: 0 };
 
@@ -572,14 +625,17 @@ export default function Home() {
     }
   };
 
+  const resetFilter = () => {
+    setSelectedFilter('All');
+    router.push('/');
+  };
+
   const { subtotal, discount, total } = calculateCartTotals();
 
   return (
     <main className="min-h-screen bg-neutral-950 text-neutral-100 flex flex-col pb-32">
-      {/* Inline Exit-Intent Popup Component */}
       <ExitIntentModal />
 
-      {/* Google JSON-LD Structured Data */}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdSchema) }}
@@ -591,15 +647,15 @@ export default function Home() {
         className="hidden"
       />
 
-      {/* Header Banner with Value Proposition */}
+      {/* Header Banner */}
       <header className="border-b border-neutral-800 bg-neutral-900/50 backdrop-blur sticky top-0 z-40">
         <div className="max-w-6xl mx-auto px-4 py-3 flex flex-col sm:flex-row items-center justify-between gap-2">
-          <div className="flex items-center space-x-2">
+          <Link href="/" className="flex items-center space-x-2">
             <Music2 className="w-7 h-7 text-purple-500" />
             <span className="font-bold text-xl tracking-tight bg-gradient-to-r from-purple-400 to-pink-500 bg-clip-text text-transparent">
               Different Type of Vibe
             </span>
-          </div>
+          </Link>
 
           <div className="text-xs font-semibold px-3 py-1 rounded-full bg-purple-950/80 text-purple-300 border border-purple-800/50 text-center">
             Buy Direct From The Producer • Zero Marketplace Fees • Instant Untagged Delivery
@@ -660,19 +716,91 @@ export default function Home() {
           </div>
         </div>
 
+        {/* CATEGORY & ARTIST VIBE NAVIGATION WITH DYNAMIC LINKS */}
+        <section className="bg-neutral-900/60 border border-neutral-800 rounded-2xl p-5 space-y-5">
+          <div className="flex items-center justify-between border-b border-neutral-800 pb-3">
+            <div className="flex items-center space-x-2">
+              <Filter className="w-4 h-4 text-purple-400" />
+              <h3 className="text-sm font-bold tracking-wider text-neutral-200 uppercase">
+                Filter Catalog
+              </h3>
+            </div>
+            {selectedFilter !== 'All' && (
+              <button
+                onClick={resetFilter}
+                className="text-xs text-purple-400 hover:text-purple-300 transition-colors underline cursor-pointer"
+              >
+                Reset Filter (Show All)
+              </button>
+            )}
+          </div>
+
+          {/* Browse By Artist Vibe */}
+          <div className="space-y-2">
+            <div className="flex items-center space-x-2 text-xs font-semibold text-neutral-400">
+              <User className="w-3.5 h-3.5 text-purple-400" />
+              <span>Browse By Artist Vibe</span>
+            </div>
+            <div className="flex items-center gap-2 flex-wrap">
+              {ARTIST_VIBES.map((vibe) => {
+                const isActive = selectedFilter === vibe.name;
+                return (
+                  <Link
+                    key={vibe.slug}
+                    href={`/vibe/${vibe.slug}`}
+                    className={`px-3.5 py-1.5 rounded-xl text-xs font-semibold transition-all ${
+                      isActive
+                        ? 'bg-purple-600 text-white shadow-lg shadow-purple-600/30 border border-purple-500'
+                        : 'bg-neutral-950 border border-neutral-800 text-neutral-300 hover:text-white hover:border-neutral-700'
+                    }`}
+                  >
+                    {vibe.name}
+                  </Link>
+                );
+              })}
+            </div>
+          </div>
+
+          {/* Browse By Genre */}
+          <div className="space-y-2 pt-2 border-t border-neutral-800/60">
+            <div className="flex items-center space-x-2 text-xs font-semibold text-neutral-400">
+              <Disc className="w-3.5 h-3.5 text-purple-400" />
+              <span>Browse By Genre</span>
+            </div>
+            <div className="flex items-center gap-2 flex-wrap">
+              {GENRE_CATEGORIES.map((genre) => {
+                const isActive = selectedFilter === genre.name;
+                return (
+                  <Link
+                    key={genre.slug}
+                    href={`/genre/${genre.slug}`}
+                    className={`px-3.5 py-1.5 rounded-xl text-xs font-semibold transition-all ${
+                      isActive
+                        ? 'bg-purple-600 text-white shadow-lg shadow-purple-600/30 border border-purple-500'
+                        : 'bg-neutral-950 border border-neutral-800 text-neutral-300 hover:text-white hover:border-neutral-700'
+                    }`}
+                  >
+                    {genre.name}
+                  </Link>
+                );
+              })}
+            </div>
+          </div>
+        </section>
+
         {/* FEATURED BEAT CATALOG */}
         <section className="space-y-4">
-          <div className="flex items-center justify-between">
-            <h2 className="text-xl font-bold tracking-tight text-white">
-              Featured Tracks
+          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2">
+            <h2 className="text-xl font-bold tracking-tight text-white flex items-center gap-2">
+              <span>{selectedFilter === 'All' ? 'All Tracks' : selectedFilter}</span>
             </h2>
             <span className="text-xs text-neutral-400 font-mono">
-              {MY_BEATS.length} BEATS AVAILABLE
+              SHOWING {filteredBeats.length} OF {MY_BEATS.length} BEATS
             </span>
           </div>
 
           <div className="space-y-3">
-            {MY_BEATS.map((track) => {
+            {filteredBeats.map((track) => {
               const isCurrent = currentTrack?.id === track.id;
               const isThisPlaying = isCurrent && isPlaying;
 
@@ -685,7 +813,6 @@ export default function Home() {
                       : 'bg-neutral-900/60 border-neutral-800/80 hover:border-neutral-700'
                   }`}
                 >
-                  {/* Track Info & Play Button */}
                   <div className="flex items-center space-x-4 mb-4 sm:mb-0">
                     <button
                       onClick={() => handlePlayPause(track)}
@@ -706,8 +833,13 @@ export default function Home() {
                       <h3 className="font-semibold text-white text-base leading-snug">
                         {track.title}
                       </h3>
-                      <div className="flex items-center space-x-3 text-xs text-neutral-400 mt-1">
-                        <span>{track.genre}</span>
+                      <div className="flex items-center space-x-2 text-xs text-neutral-400 mt-1 flex-wrap gap-y-1">
+                        <span className="px-2 py-0.5 rounded bg-purple-950/80 border border-purple-800/50 text-purple-300 font-medium">
+                          {track.artistVibe}
+                        </span>
+                        <span className="px-2 py-0.5 rounded bg-neutral-800 border border-neutral-700 text-neutral-300 font-medium">
+                          {track.genre}
+                        </span>
                         <span>•</span>
                         <span>{track.bpm} BPM</span>
                         <span>•</span>
@@ -716,7 +848,6 @@ export default function Home() {
                     </div>
                   </div>
 
-                  {/* Pricing Action Buttons */}
                   <div className="flex items-center space-x-2 self-start sm:self-center">
                     <button
                       onClick={() => addToCart(track, 'MP3', track.priceMp3, track.linkMp3)}
@@ -744,7 +875,7 @@ export default function Home() {
           </div>
         </section>
 
-        {/* CART SUMMARY DRAWER (Appears when items are in cart) */}
+        {/* CART SUMMARY DRAWER */}
         {cart.length > 0 && (
           <section className="bg-neutral-900/90 border border-purple-800/50 rounded-2xl p-6 shadow-2xl space-y-4">
             <div className="flex items-center justify-between border-b border-neutral-800 pb-3">
@@ -796,68 +927,13 @@ export default function Home() {
               href={cart[0]?.stripeLink || '#'}
               target="_blank"
               rel="noopener noreferrer"
-              className="w-full bg-purple-600 hover:bg-purple-500 text-white font-semibold py-3 rounded-xl block text-center transition-colors text-sm"
+              className="w-full bg-purple-600 hover:bg-purple-500 text-white font-semibold py-3 rounded-xl flex items-center justify-center space-x-2 transition-colors cursor-pointer block text-center"
             >
-              Proceed to Instant Checkout (${total.toFixed(2)})
+              <span>Proceed to Checkout</span>
             </a>
           </section>
         )}
       </div>
-
-      {/* PERSISTENT BOTTOM AUDIO PLAYER BAR */}
-      {currentTrack && (
-        <div className="fixed bottom-0 left-0 right-0 bg-neutral-900/95 border-t border-neutral-800 p-4 backdrop-blur-md z-50">
-          <div className="max-w-4xl mx-auto flex items-center justify-between">
-            <div className="flex items-center space-x-4">
-              <button
-                onClick={() => handlePlayPause(currentTrack)}
-                className="w-10 h-10 rounded-full bg-purple-600 hover:bg-purple-500 text-white flex items-center justify-center transition-colors cursor-pointer"
-              >
-                {isPlaying ? (
-                  <Pause className="w-5 h-5 fill-current" />
-                ) : (
-                  <Play className="w-5 h-5 fill-current ml-0.5" />
-                )}
-              </button>
-              <div>
-                <p className="font-semibold text-white text-sm line-clamp-1">
-                  {currentTrack.title}
-                </p>
-                <p className="text-xs text-neutral-400">
-                  {currentTrack.bpm} BPM • {currentTrack.key}
-                </p>
-              </div>
-            </div>
-
-            <div className="hidden md:flex items-center space-x-2">
-              <a
-                href={currentTrack.linkMp3 || '#'}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="px-3 py-1.5 rounded-lg bg-neutral-800 hover:bg-neutral-700 text-xs text-neutral-200 transition-colors"
-              >
-                Get MP3
-              </a>
-              <a
-                href={currentTrack.linkWav || '#'}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="px-3 py-1.5 rounded-lg bg-neutral-800 hover:bg-neutral-700 text-xs text-neutral-200 transition-colors"
-              >
-                Get WAV
-              </a>
-              <a
-                href={currentTrack.linkStems || '#'}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="px-3 py-1.5 rounded-lg bg-purple-600 hover:bg-purple-500 text-xs text-white transition-colors"
-              >
-                Get Stems
-              </a>
-            </div>
-          </div>
-        </div>
-      )}
     </main>
   );
 }
