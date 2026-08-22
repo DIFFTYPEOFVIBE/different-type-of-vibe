@@ -487,6 +487,7 @@ export default function Storefront({ initialFilter = 'All' }: StorefrontProps) {
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [optInSuccess, setOptInSuccess] = useState(false);
   const [cart, setCart] = useState<CartItem[]>([]);
+  const [isCartOpen, setIsCartOpen] = useState(false);
   const audioRef = useRef<HTMLAudioElement | null>(null);
 
   useEffect(() => {
@@ -567,6 +568,7 @@ export default function Storefront({ initialFilter = 'All' }: StorefrontProps) {
       stripeLink,
     };
     setCart((prev) => [...prev, newItem]);
+    setIsCartOpen(true);
   };
 
   const removeFromCart = (index: number) => {
@@ -599,25 +601,25 @@ export default function Storefront({ initialFilter = 'All' }: StorefrontProps) {
     setIsSubmitting(true);
 
     try {
-      await fetch(
-        'https://services.leadconnectorhq.com/hooks/lldFXvWMNSAaPk368zJb/webhook-trigger/40336c67-48a7-40e7-8be7-b339a52fcce9',
-        {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json',
-          },
-          body: JSON.stringify({
-            email: email,
-            source: 'Different Type of Vibe - 3 Free Beats Opt-In',
-            tags: ['Free Beats Lead', 'Website Opt-In'],
-          }),
-        }
-      );
+      const response = await fetch('/api/optin', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          email: email,
+          firstName: '',
+        }),
+      });
+
+      if (!response.ok) {
+        throw new Error('Failed to opt in via API');
+      }
 
       setOptInSuccess(true);
       setEmail('');
     } catch (error) {
-      console.error('GHL Webhook Error:', error);
+      console.error('Opt-in Error:', error);
       setOptInSuccess(true);
       setEmail('');
     } finally {
@@ -657,8 +659,23 @@ export default function Storefront({ initialFilter = 'All' }: StorefrontProps) {
             </span>
           </Link>
 
-          <div className="text-xs font-semibold px-3 py-1 rounded-full bg-purple-950/80 text-purple-300 border border-purple-800/50 text-center">
-            Buy Direct From The Producer • Zero Marketplace Fees • Instant Untagged Delivery
+          <div className="flex items-center gap-4">
+            <div className="text-xs font-semibold px-3 py-1 rounded-full bg-purple-950/80 text-purple-300 border border-purple-800/50 text-center">
+              Buy Direct From The Producer • Zero Marketplace Fees • Instant Untagged Delivery
+            </div>
+
+            <button
+              onClick={() => setIsCartOpen(true)}
+              className="relative p-2 text-neutral-300 hover:text-white transition-colors cursor-pointer"
+              aria-label="Open Cart"
+            >
+              <ShoppingCart className="w-6 h-6" />
+              {cart.length > 0 && (
+                <span className="absolute -top-1 -right-1 bg-purple-600 text-white text-[10px] font-bold w-5 h-5 rounded-full flex items-center justify-center border-2 border-neutral-950">
+                  {cart.length}
+                </span>
+              )}
+            </button>
           </div>
         </div>
       </header>
@@ -830,43 +847,44 @@ export default function Storefront({ initialFilter = 'All' }: StorefrontProps) {
                     </button>
 
                     <div>
-                      <h3 className="font-semibold text-white text-base leading-snug">
+                      <h3 className="font-semibold text-sm md:text-base text-white leading-snug">
                         {track.title}
                       </h3>
-                      <div className="flex items-center space-x-2 text-xs text-neutral-400 mt-1 flex-wrap gap-y-1">
-                        <span className="px-2 py-0.5 rounded bg-purple-950/80 border border-purple-800/50 text-purple-300 font-medium">
-                          {track.artistVibe}
-                        </span>
-                        <span className="px-2 py-0.5 rounded bg-neutral-800 border border-neutral-700 text-neutral-300 font-medium">
-                          {track.genre}
+                      <div className="flex items-center space-x-2 text-xs text-neutral-400 mt-1">
+                        <span className="bg-neutral-800 px-2 py-0.5 rounded text-purple-300 font-medium">
+                          {track.bpm} BPM
                         </span>
                         <span>•</span>
-                        <span>{track.bpm} BPM</span>
+                        <span className="text-neutral-300">{track.key}</span>
                         <span>•</span>
-                        <span>{track.key}</span>
+                        <span className="text-neutral-400">{track.genre}</span>
                       </div>
                     </div>
                   </div>
 
-                  <div className="flex items-center space-x-2 self-start sm:self-center">
+                  <div className="flex items-center gap-2 flex-wrap sm:flex-nowrap justify-end">
                     <button
                       onClick={() => addToCart(track, 'MP3', track.priceMp3, track.linkMp3)}
-                      className="flex items-center space-x-1 px-3 py-1.5 rounded-lg bg-neutral-800 hover:bg-neutral-700 border border-neutral-700 text-xs font-mono font-medium text-neutral-200 transition-colors cursor-pointer"
+                      className="px-3 py-1.5 rounded-lg bg-neutral-800 hover:bg-neutral-700 text-xs font-semibold text-neutral-200 border border-neutral-700/80 transition-colors cursor-pointer flex items-center space-x-1"
                     >
-                      <span>MP3 ${track.priceMp3}</span>
+                      <span>MP3</span>
+                      <span className="text-purple-400">${track.priceMp3}</span>
                     </button>
+
                     <button
                       onClick={() => addToCart(track, 'WAV', track.priceWav, track.linkWav)}
-                      className="flex items-center space-x-1 px-3 py-1.5 rounded-lg bg-neutral-800 hover:bg-neutral-700 border border-neutral-700 text-xs font-mono font-medium text-neutral-200 transition-colors cursor-pointer"
+                      className="px-3 py-1.5 rounded-lg bg-neutral-800 hover:bg-neutral-700 text-xs font-semibold text-neutral-200 border border-neutral-700/80 transition-colors cursor-pointer flex items-center space-x-1"
                     >
-                      <span>WAV ${track.priceWav}</span>
+                      <span>WAV</span>
+                      <span className="text-purple-400">${track.priceWav}</span>
                     </button>
+
                     <button
                       onClick={() => addToCart(track, 'STEMS', track.priceStems, track.linkStems)}
-                      className="flex items-center space-x-1 px-3 py-1.5 rounded-lg bg-purple-900/40 hover:bg-purple-900/70 border border-purple-700/50 text-xs font-mono font-medium text-purple-300 transition-colors cursor-pointer"
+                      className="px-3 py-1.5 rounded-lg bg-purple-950/80 hover:bg-purple-900 text-xs font-semibold text-purple-200 border border-purple-800/80 transition-colors cursor-pointer flex items-center space-x-1"
                     >
-                      <ShoppingCart className="w-3 h-3 mr-1" />
-                      <span>STEMS ${track.priceStems}</span>
+                      <span>STEMS</span>
+                      <span className="text-purple-300">${track.priceStems}</span>
                     </button>
                   </div>
                 </div>
@@ -874,66 +892,142 @@ export default function Storefront({ initialFilter = 'All' }: StorefrontProps) {
             })}
           </div>
         </section>
-
-        {/* CART SUMMARY DRAWER */}
-        {cart.length > 0 && (
-          <section className="bg-neutral-900/90 border border-purple-800/50 rounded-2xl p-6 shadow-2xl space-y-4">
-            <div className="flex items-center justify-between border-b border-neutral-800 pb-3">
-              <h3 className="text-lg font-bold text-white flex items-center gap-2">
-                <ShoppingCart className="w-5 h-5 text-purple-400" /> Your License Cart ({cart.length})
-              </h3>
-              {cart.length >= 3 && (
-                <span className="text-xs bg-emerald-950 text-emerald-400 border border-emerald-800/60 px-3 py-1 rounded-full font-medium">
-                  🎉 Buy 2 Get 1 Free Applied!
-                </span>
-              )}
-            </div>
-
-            <div className="space-y-2 max-h-48 overflow-y-auto">
-              {cart.map((item, index) => (
-                <div key={index} className="flex items-center justify-between bg-neutral-950 p-3 rounded-xl border border-neutral-800 text-sm">
-                  <div className="flex flex-col">
-                    <span className="font-semibold text-white line-clamp-1">{item.trackTitle}</span>
-                    <span className="text-xs text-neutral-400">{item.licenseType} License</span>
-                  </div>
-                  <div className="flex items-center space-x-3">
-                    <span className="font-mono text-purple-300">${item.price.toFixed(2)}</span>
-                    <button onClick={() => removeFromCart(index)} className="text-neutral-500 hover:text-red-400 transition-colors cursor-pointer">
-                      <Trash2 className="w-4 h-4" />
-                    </button>
-                  </div>
-                </div>
-              ))}
-            </div>
-
-            <div className="border-t border-neutral-800 pt-4 space-y-1 text-sm font-mono">
-              <div className="flex justify-between text-neutral-400">
-                <span>Subtotal:</span>
-                <span>${subtotal.toFixed(2)}</span>
-              </div>
-              {discount > 0 && (
-                <div className="flex justify-between text-emerald-400">
-                  <span>Bulk Discount (1 Free):</span>
-                  <span>-${discount.toFixed(2)}</span>
-                </div>
-              )}
-              <div className="flex justify-between text-white font-bold text-base pt-2 border-t border-neutral-800">
-                <span>Total:</span>
-                <span className="text-purple-400">${total.toFixed(2)}</span>
-              </div>
-            </div>
-
-            <a
-              href={cart[0]?.stripeLink || '#'}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="w-full bg-purple-600 hover:bg-purple-500 text-white font-semibold py-3 rounded-xl flex items-center justify-center space-x-2 transition-colors cursor-pointer block text-center"
-            >
-              <span>Proceed to Checkout</span>
-            </a>
-          </section>
-        )}
       </div>
+
+      {/* PERSISTENT AUDIO PLAYER BOTTOM BAR */}
+      {currentTrack && (
+        <div className="fixed bottom-0 left-0 right-0 bg-neutral-900/95 backdrop-blur-md border-t border-purple-900/50 p-4 z-40 shadow-2xl">
+          <div className="max-w-4xl mx-auto flex items-center justify-between gap-4">
+            <div className="flex items-center space-x-3 overflow-hidden">
+              <button
+                onClick={() => handlePlayPause(currentTrack)}
+                className="w-10 h-10 rounded-full bg-purple-600 text-white flex items-center justify-center flex-shrink-0 cursor-pointer shadow-lg shadow-purple-600/30"
+              >
+                {isPlaying ? (
+                  <Pause className="w-5 h-5 fill-current" />
+                ) : (
+                  <Play className="w-5 h-5 fill-current ml-0.5" />
+                )}
+              </button>
+
+              <div className="truncate">
+                <p className="text-sm font-semibold text-white truncate">
+                  {currentTrack.title}
+                </p>
+                <p className="text-xs text-purple-400">
+                  {currentTrack.bpm} BPM • Key: {currentTrack.key}
+                </p>
+              </div>
+            </div>
+
+            <div className="flex items-center space-x-2 flex-shrink-0">
+              <button
+                onClick={() => addToCart(currentTrack, 'WAV', currentTrack.priceWav, currentTrack.linkWav)}
+                className="bg-purple-600 hover:bg-purple-500 text-white text-xs font-bold px-4 py-2 rounded-xl transition-colors cursor-pointer flex items-center space-x-1"
+              >
+                <ShoppingCart className="w-3.5 h-3.5" />
+                <span>Buy WAV (${currentTrack.priceWav})</span>
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* SHOPPING CART SIDEBAR MODAL */}
+      {isCartOpen && (
+        <div className="fixed inset-0 z-50 flex justify-end bg-black/70 backdrop-blur-sm">
+          <div className="w-full max-w-md bg-neutral-900 border-l border-neutral-800 h-full flex flex-col p-6 shadow-2xl relative">
+            <div className="flex items-center justify-between border-b border-neutral-800 pb-4 mb-4">
+              <div className="flex items-center space-x-2">
+                <ShoppingCart className="w-5 h-5 text-purple-400" />
+                <h2 className="font-bold text-lg text-white">Your Cart</h2>
+                <span className="text-xs bg-purple-950 text-purple-300 border border-purple-800 px-2 py-0.5 rounded-full font-mono">
+                  {cart.length} items
+                </span>
+              </div>
+              <button
+                onClick={() => setIsCartOpen(false)}
+                className="text-neutral-400 hover:text-white transition-colors cursor-pointer"
+              >
+                <X className="w-5 h-5" />
+              </button>
+            </div>
+
+            {cart.length === 0 ? (
+              <div className="flex-1 flex flex-col items-center justify-center text-center p-6 space-y-3">
+                <ShoppingCart className="w-12 h-12 text-neutral-600" />
+                <p className="text-neutral-400 text-sm">Your cart is currently empty.</p>
+                <button
+                  onClick={() => setIsCartOpen(false)}
+                  className="mt-2 text-xs bg-purple-600 text-white font-medium px-4 py-2 rounded-xl"
+                >
+                  Browse Beats
+                </button>
+              </div>
+            ) : (
+              <>
+                <div className="flex-1 overflow-y-auto space-y-3 pr-1">
+                  {cart.map((item, idx) => (
+                    <div
+                      key={idx}
+                      className="flex items-center justify-between p-3 rounded-xl bg-neutral-950 border border-neutral-800"
+                    >
+                      <div className="truncate mr-2">
+                        <p className="text-xs font-semibold text-white truncate">
+                          {item.trackTitle}
+                        </p>
+                        <span className="inline-block mt-1 text-[10px] bg-purple-950 text-purple-300 border border-purple-800/60 px-2 py-0.5 rounded font-mono">
+                          {item.licenseType} LICENSE
+                        </span>
+                      </div>
+
+                      <div className="flex items-center space-x-3">
+                        <span className="text-sm font-bold text-purple-400">
+                          ${item.price}
+                        </span>
+                        <button
+                          onClick={() => removeFromCart(idx)}
+                          className="text-neutral-500 hover:text-red-400 transition-colors cursor-pointer"
+                        >
+                          <Trash2 className="w-4 h-4" />
+                        </button>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+
+                <div className="border-t border-neutral-800 pt-4 mt-4 space-y-3">
+                  {discount > 0 && (
+                    <div className="flex justify-between text-xs text-emerald-400 bg-emerald-950/30 p-2.5 rounded-lg border border-emerald-800/40">
+                      <span>3+ Bulk Discount (1 Free)</span>
+                      <span className="font-mono">-${discount.toFixed(2)}</span>
+                    </div>
+                  )}
+
+                  <div className="flex justify-between text-sm text-neutral-400">
+                    <span>Subtotal</span>
+                    <span className="font-mono text-white">${subtotal.toFixed(2)}</span>
+                  </div>
+
+                  <div className="flex justify-between text-base font-bold text-white border-t border-neutral-800 pt-2">
+                    <span>Total</span>
+                    <span className="font-mono text-purple-400">${total.toFixed(2)}</span>
+                  </div>
+
+                  <a
+                    href={cart[0]?.stripeLink || '#'}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="w-full bg-purple-600 hover:bg-purple-500 text-white font-bold py-3 rounded-xl transition-colors text-center text-sm block cursor-pointer shadow-lg shadow-purple-600/20"
+                  >
+                    Proceed to Stripe Checkout
+                  </a>
+                </div>
+              </>
+            )}
+          </div>
+        </div>
+      )}
     </main>
   );
 }

@@ -1,4 +1,4 @@
-// app/sitemap.ts
+// src/app/sitemap.ts
 import { MetadataRoute } from 'next';
 import { createClient } from '@supabase/supabase-js';
 
@@ -10,7 +10,7 @@ export const revalidate = 86400;
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const currentDate = new Date().toISOString();
 
-  // 1. Static base root route
+  // 1. Static base route
   const staticRoutes: MetadataRoute.Sitemap = [
     {
       url: baseUrl,
@@ -22,7 +22,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   let genreRoutes: MetadataRoute.Sitemap = [];
   let beatRoutes: MetadataRoute.Sitemap = [];
-  let dynamicTypeBeatRoutes: MetadataRoute.Sitemap = [];
+  let dynamicVibeRoutes: MetadataRoute.Sitemap = [];
 
   const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL;
   const supabaseAnonKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY;
@@ -38,7 +38,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
         .eq('is_active', true);
 
       if (!error && tracks && tracks.length > 0) {
-        // A. Individual Beat Page Routes (/beat/[slug])
+        // A. Individual Beat Routes (/beat/[slug])
         beatRoutes = tracks
           .filter((t) => Boolean(t.slug))
           .map((track) => ({
@@ -48,40 +48,47 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
             priority: 0.8,
           }));
 
-        // B. Dynamic Genre Routes (/beats/genre/[genre])
+        // B. Dynamic Genre Routes (/genre/[slug])
         const uniqueGenres = Array.from(
           new Set(
             tracks
-              .map((t) => t.genre?.toLowerCase().trim())
-              .filter((g): g is string => Boolean(g))
-          )
-        );
-
-        genreRoutes = uniqueGenres.map((genre) => ({
-          url: `${baseUrl}/beats/genre/${encodeURIComponent(genre)}`,
-          lastModified: currentDate,
-          changeFrequency: 'weekly' as const,
-          priority: 0.9,
-        }));
-
-        // C. Dynamic Type-Beat Routes (/beats/type-beat/[artist])
-        const allTypeBeatArtists = tracks.flatMap((t) => t.type_beat_artists || []);
-        const uniqueTypeBeatSlugs = Array.from(
-          new Set(
-            allTypeBeatArtists
-              .map((artist) =>
-                artist
+              .map((t) =>
+                t.genre
                   ?.toLowerCase()
                   .trim()
                   .replace(/[^a-z0-9]+/g, '-')
                   .replace(/^-+|-+$/g, '')
               )
+              .filter((g): g is string => Boolean(g))
+          )
+        );
+
+        genreRoutes = uniqueGenres.map((genreSlug) => ({
+          url: `${baseUrl}/genre/${genreSlug}`,
+          lastModified: currentDate,
+          changeFrequency: 'weekly' as const,
+          priority: 0.9,
+        }));
+
+        // C. Dynamic Artist Vibe Routes (/vibe/[slug])
+        const allTypeBeatArtists = tracks.flatMap((t) => t.type_beat_artists || []);
+        const uniqueVibeSlugs = Array.from(
+          new Set(
+            allTypeBeatArtists
+              .map((artist) => {
+                const cleaned = artist
+                  ?.toLowerCase()
+                  .trim()
+                  .replace(/[^a-z0-9]+/g, '-')
+                  .replace(/^-+|-+$/g, '');
+                return cleaned ? (cleaned.includes('type-beat') ? cleaned : `${cleaned}-type-beats`) : null;
+              })
               .filter((a): a is string => Boolean(a))
           )
         );
 
-        dynamicTypeBeatRoutes = uniqueTypeBeatSlugs.map((slug) => ({
-          url: `${baseUrl}/beats/type-beat/${slug}`,
+        dynamicVibeRoutes = uniqueVibeSlugs.map((slug) => ({
+          url: `${baseUrl}/vibe/${slug}`,
           lastModified: currentDate,
           changeFrequency: 'weekly' as const,
           priority: 0.9,
@@ -90,21 +97,37 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     } catch (error) {
       console.error('Error building sitemap routes from Supabase:', error);
     }
-  } else {
-    console.warn('Sitemap warning: Missing Supabase environment variables during build phase.');
   }
 
-  // Fallback Type Beat Slugs if Supabase returns no tracks
-  const fallbackTypeBeats = ['drake', 'travis-scott', 'metro-boomin', 'j-cole', 'mf-doom', 'joey-badass'];
-  const typeBeatRoutes: MetadataRoute.Sitemap =
-    dynamicTypeBeatRoutes.length > 0
-      ? dynamicTypeBeatRoutes
-      : fallbackTypeBeats.map((slug) => ({
-          url: `${baseUrl}/beats/type-beat/${slug}`,
+  // Fallback Vibe Slugs if Supabase returns no tracks
+  const fallbackVibes = [
+    'drake-type-beats',
+    'travis-scott-type-beats',
+    'metro-boomin-type-beats',
+    'j-cole-type-beats',
+  ];
+
+  const vibeRoutes: MetadataRoute.Sitemap =
+    dynamicVibeRoutes.length > 0
+      ? dynamicVibeRoutes
+      : fallbackVibes.map((slug) => ({
+          url: `${baseUrl}/vibe/${slug}`,
           lastModified: currentDate,
           changeFrequency: 'weekly' as const,
           priority: 0.8,
         }));
 
-  return [...staticRoutes, ...typeBeatRoutes, ...genreRoutes, ...beatRoutes];
+  // Fallback Genre Slugs if Supabase returns no tracks
+  const fallbackGenres = ['trap-beats', 'boom-bap-beats', 'rb-instrumentals', 'hip-hop-beats'];
+  const finalGenreRoutes: MetadataRoute.Sitemap =
+    genreRoutes.length > 0
+      ? genreRoutes
+      : fallbackGenres.map((slug) => ({
+          url: `${baseUrl}/genre/${slug}`,
+          lastModified: currentDate,
+          changeFrequency: 'weekly' as const,
+          priority: 0.8,
+        }));
+
+  return [...staticRoutes, ...vibeRoutes, ...finalGenreRoutes, ...beatRoutes];
 }
