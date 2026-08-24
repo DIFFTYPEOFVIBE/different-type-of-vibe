@@ -1,5 +1,7 @@
 // src/lib/emailTemplates.ts
 
+const FREE_PACK_URL = "https://www.dropbox.com/scl/fo/zb9g27t6yq1md5ezxjmyj/AJ_lLNhOGcsGazYu4Rd9MxA?rlkey=24sdbulhqybwd8wlp6ghgqzpf&st=i4hjurif&dl=1";
+
 interface EmailProps {
   firstName: string;
 }
@@ -9,9 +11,11 @@ export function getEmail1Html({ firstName }: EmailProps): string {
     <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #111111; max-width: 600px; margin: 0 auto; padding: 20px;">
       <h2>Your 3 Free Beats Are Ready!</h2>
       <p>Hey ${firstName},</p>
-      <p>Thanks for tapping in! Here is your official download link for the 3 free untagged beats along with your promotional license agreement:</p>
+      <p>Thanks for tapping in! Click below to download your 3 free beats along with your promotional license agreement:</p>
       <p style="margin: 30px 0; text-align: center;">
-        <a href="https://differenttypeofvibe.com/download/free-pack" style="background-color: #e11d48; color: #ffffff; padding: 14px 28px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block;">Download Free Beat Pack</a>
+        <a href="${FREE_PACK_URL}" style="background-color: #e11d48; color: #ffffff; padding: 14px 28px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block;">
+          Download Free Beat Pack (.ZIP)
+        </a>
       </p>
       <p><strong>License Terms:</strong> You can use these beats for non-profit projects, mixtapes, soundcloud releases, and writing sessions.</p>
       <p style="margin-top: 30px; border-top: 1px solid #eeeeee; padding-top: 15px; font-size: 14px; color: #666666;">— Onzieb<br><em>Different Type of Vibe</em></p>

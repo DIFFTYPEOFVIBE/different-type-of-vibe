@@ -1,15 +1,13 @@
-// app/robots.ts
+// src/app/robots.ts
 import { MetadataRoute } from 'next';
-
-const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://differenttypeofvibe.com';
 
 export default function robots(): MetadataRoute.Robots {
   return {
     rules: {
       userAgent: '*',
       allow: '/',
-      disallow: ['/api/', '/admin/'], // Hide internal endpoints from search results
+      disallow: ['/api/', '/download/'],
     },
-    sitemap: `${baseUrl}/sitemap.xml`,
+    sitemap: 'https://differenttypeofvibe.com/sitemap.xml',
   };
 }

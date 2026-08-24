@@ -9,6 +9,9 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://differenttypeofvibe.com"),
+  alternates: {
+    canonical: "./",
+  },
   title: {
     default: "Different Type of Vibe | Instrumental Beat Catalog by Onzieb",
     template: "%s | Different Type of Vibe",

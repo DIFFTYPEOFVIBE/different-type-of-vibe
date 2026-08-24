@@ -39,6 +39,13 @@ export async function POST(req: Request) {
   if (event.type === 'checkout.session.completed') {
     const session = event.data.object as Stripe.Checkout.Session;
 
+    // When customer completes purchase:
+    // Cancel scheduled marketing emails so they don't get 50% off after paying full price
+    const customerEmail = session.customer_details?.email;
+
+    // Search scheduled emails for this customer and cancel them
+    // Or remove them from the 'Free Beat Opt-ins' audience group
+
     const email = session.customer_details?.email || undefined;
     const amountTotal = (session.amount_total || 0) / 100;
     const beatTitle = session.metadata?.beatTitle || 'Beat License';

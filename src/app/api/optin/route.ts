@@ -9,11 +9,12 @@ import {
 } from '@/lib/emailTemplates';
 
 export async function POST(req: Request) {
+  console.log('--- [OPT-IN ROUTE TRIGGERED] ---');
   try {
     const apiKey = process.env.RESEND_API_KEY;
 
     if (!apiKey) {
-      console.error('RESEND_API_KEY missing.');
+      console.error('❌ ERROR: RESEND_API_KEY is missing from environment variables.');
       return NextResponse.json({ error: 'Server configuration error' }, { status: 500 });
     }
 
@@ -21,37 +22,49 @@ export async function POST(req: Request) {
     const { email, firstName } = await req.json();
 
     if (!email) {
+      console.error('❌ ERROR: No email provided in request body.');
       return NextResponse.json({ error: 'Email is required' }, { status: 400 });
     }
 
     const userFirstName = firstName || 'there';
-    const sender = 'Onzieb <beats@differenttypeofvibe.com>';
 
-    // 1. Add contact to Resend Audience/Contacts
-    await resend.contacts.create({
-      email,
-      firstName: userFirstName,
-      unsubscribed: false,
-    });
+    // Replace your custom sender address temporarily:
+    // const sender = 'Onzieb <beats@differenttypeofvibe.com>';
+    const sender = 'Onzieb <onboarding@resend.dev>';
 
-    // 2. Calculate Scheduled Dates
+    // 1. Create or Update Contact
+    console.log(`1. Adding contact to Resend: ${email}`);
+    try {
+      await resend.contacts.create({
+        email,
+        firstName: userFirstName,
+        unsubscribed: false,
+      });
+      console.log('✅ Contact created successfully.');
+    } catch (contactErr) {
+      console.warn('⚠️ Contact creation warning (may already exist):', contactErr);
+    }
+
+    // 2. Calculate Timestamps
     const now = new Date();
-    
     const day2 = new Date(now.getTime() + 2 * 24 * 60 * 60 * 1000).toISOString();
     const day4 = new Date(now.getTime() + 4 * 24 * 60 * 60 * 1000).toISOString();
     const day6 = new Date(now.getTime() + 6 * 24 * 60 * 60 * 1000).toISOString();
     const day7 = new Date(now.getTime() + 7 * 24 * 60 * 60 * 1000).toISOString();
 
-    // 3. Batch send & schedule the full 5-email sequence
+    console.log('2. Scheduling dates calculated:');
+    console.log(`   Day 2: ${day2}`);
+    console.log(`   Day 4: ${day4}`);
+
+    // 3. Fire Batch Send
+    console.log('3. Sending batch payload to Resend API...');
     const { data, error } = await resend.batch.send([
-      // Email 1: Instant
       {
         from: sender,
         to: [email],
         subject: '🔥 Your 3 Free Beats + Untagged License',
         html: getEmail1Html({ firstName: userFirstName }),
       },
-      // Email 2: Day 2
       {
         from: sender,
         to: [email],
@@ -59,7 +72,6 @@ export async function POST(req: Request) {
         html: getEmail2Html({ firstName: userFirstName }),
         scheduledAt: day2,
       },
-      // Email 3: Day 4
       {
         from: sender,
         to: [email],
@@ -67,7 +79,6 @@ export async function POST(req: Request) {
         html: getEmail3Html({ firstName: userFirstName }),
         scheduledAt: day4,
       },
-      // Email 4: Day 6
       {
         from: sender,
         to: [email],
@@ -75,7 +86,6 @@ export async function POST(req: Request) {
         html: getEmail4Html({ firstName: userFirstName }),
         scheduledAt: day6,
       },
-      // Email 5: Day 7
       {
         from: sender,
         to: [email],
@@ -86,13 +96,15 @@ export async function POST(req: Request) {
     ]);
 
     if (error) {
-      console.error('Resend Batch Error:', error);
+      console.error('❌ RESEND API REJECTED BATCH:', error);
       return NextResponse.json({ error: error.message }, { status: 500 });
     }
 
+    console.log('🚀 BATCH QUEUED SUCCESSFULLY! IDs:', data);
     return NextResponse.json({ success: true, batchIds: data });
+
   } catch (err) {
-    console.error('Opt-in Server Error:', err);
+    console.error('❌ UNCAUGHT SERVER ERROR:', err);
     return NextResponse.json({ error: 'Internal Server Error' }, { status: 500 });
   }
 }
