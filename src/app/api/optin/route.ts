@@ -7,6 +7,7 @@ import {
   getEmail4Html,
   getEmail5Html,
 } from '@/lib/emailTemplates';
+import { sendMetaCapiEvent } from '@/lib/metaCapi';
 
 export async function POST(req: Request) {
   console.log('--- [OPT-IN ROUTE TRIGGERED] ---');
@@ -19,7 +20,7 @@ export async function POST(req: Request) {
     }
 
     const resend = new Resend(apiKey);
-    const { email, firstName } = await req.json();
+    const { email, firstName, eventId } = await req.json();
 
     if (!email) {
       console.error('❌ ERROR: No email provided in request body.');
@@ -28,17 +29,18 @@ export async function POST(req: Request) {
 
     const userFirstName = firstName || 'there';
 
-    // Replace your custom sender address temporarily:
-    // const sender = 'Onzieb <beats@differenttypeofvibe.com>';
-    const sender = 'Onzieb <onboarding@resend.dev>';
+    // Use your custom sender address:
+    const sender = 'Different Type of Vibe <music@mail.differenttypeofvibe.com>';
 
     // 1. Create or Update Contact
     console.log(`1. Adding contact to Resend: ${email}`);
     try {
+      const audienceId = process.env.RESEND_AUDIENCE_ID || 'd755a756-5ffd-45ea-a7d9-ef634c672b17';
       await resend.contacts.create({
         email,
         firstName: userFirstName,
         unsubscribed: false,
+        audienceId: audienceId,
       });
       console.log('✅ Contact created successfully.');
     } catch (contactErr) {
@@ -101,6 +103,27 @@ export async function POST(req: Request) {
     }
 
     console.log('🚀 BATCH QUEUED SUCCESSFULLY! IDs:', data);
+
+    // 4. Extract client IP & User-Agent for better Meta Match Quality
+    const clientIp = req.headers.get('x-forwarded-for')?.split(',')[0] || '';
+    const userAgent = req.headers.get('user-agent') || '';
+
+    // 5. Fire Meta CAPI Lead Event
+    const finalEventId = eventId || 'lead_' + Math.random().toString(36).substring(2, 9) + '_' + Date.now();
+    await sendMetaCapiEvent({
+      eventName: 'Lead',
+      eventId: finalEventId, // Pass the same UUID generated on the frontend
+      email: email,
+      sourceUrl: req.headers.get('referer') || '',
+      clientIp,
+      userAgent,
+      customData: {
+        content_name: '3 Free Beats Pack',
+        value: 0.00,
+        currency: 'USD',
+      },
+    });
+
     return NextResponse.json({ success: true, batchIds: data });
 
   } catch (err) {

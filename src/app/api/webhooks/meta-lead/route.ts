@@ -63,14 +63,21 @@ export async function POST(req: Request) {
 
               if (email) {
                 const userFirstName = firstName || 'there';
-                const sender = 'Onzieb <beats@differenttypeofvibe.com>';
+                const sender = 'Different Type of Vibe <music@mail.differenttypeofvibe.com>';
 
                 // 1. Save or Update Contact in Resend
-                await resend.contacts.create({
-                  email,
-                  firstName: userFirstName,
-                  unsubscribed: false,
-                });
+                const audienceId = process.env.RESEND_AUDIENCE_ID || 'd755a756-5ffd-45ea-a7d9-ef634c672b17';
+                try {
+                  await resend.contacts.create({
+                    email,
+                    firstName: userFirstName,
+                    unsubscribed: false,
+                    audienceId: audienceId,
+                  });
+                  console.log('✅ Meta Lead contact created successfully in Resend.');
+                } catch (contactErr) {
+                  console.warn('⚠️ Meta Lead contact creation warning (may already exist):', contactErr);
+                }
 
                 // 2. Calculate Scheduled Dates
                 const now = new Date();

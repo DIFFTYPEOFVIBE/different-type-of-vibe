@@ -600,6 +600,9 @@ export default function Storefront({ initialFilter = 'All' }: StorefrontProps) {
 
     setIsSubmitting(true);
 
+    // Generate unique event ID for Meta Pixel and CAPI deduplication
+    const eventId = 'lead_' + Math.random().toString(36).substring(2, 9) + '_' + Date.now();
+
     try {
       const response = await fetch('/api/optin', {
         method: 'POST',
@@ -609,11 +612,21 @@ export default function Storefront({ initialFilter = 'All' }: StorefrontProps) {
         body: JSON.stringify({
           email: email,
           firstName: '',
+          eventId: eventId,
         }),
       });
 
       if (!response.ok) {
         throw new Error('Failed to opt in via API');
+      }
+
+      // Fire Meta Lead Event with browser eventID for deduplication
+      if (typeof window !== 'undefined' && window.fbq) {
+        window.fbq('track', 'Lead', {
+          content_name: '3 Free Beats Pack',
+          value: 0.00,
+          currency: 'USD',
+        }, { eventID: eventId });
       }
 
       setOptInSuccess(true);

@@ -5,6 +5,11 @@ import Script from "next/script";
 import SeoFooter from "@/components/SeoFooter";
 import "./globals.css";
 
+export const dynamic = 'force-dynamic';
+export const revalidate = 0;
+
+const FB_PIXEL_ID = process.env.NEXT_PUBLIC_META_PIXEL_ID;
+
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
@@ -167,7 +172,7 @@ export default function RootLayout({
 
         {/* Meta (Facebook/Instagram) Pixel Code */}
         <Script
-          id="meta-pixel"
+          id="fb-pixel"
           strategy="afterInteractive"
           dangerouslySetInnerHTML={{
             __html: `
@@ -179,7 +184,7 @@ export default function RootLayout({
               t.src=v;s=b.getElementsByTagName(e)[0];
               s.parentNode.insertBefore(t,s)}(window, document,'script',
               'https://connect.facebook.net/en_US/fbevents.js');
-              fbq('init', 'YOUR_PIXEL_ID');
+              fbq('init', '${FB_PIXEL_ID}');
               fbq('track', 'PageView');
             `,
           }}
@@ -195,6 +200,15 @@ export default function RootLayout({
             height="0"
             width="0"
             style={{ display: "none", visibility: "hidden" }}
+          />
+        </noscript>
+        {/* Meta Pixel Noscript Fallback */}
+        <noscript>
+          <img
+            height="1"
+            width="1"
+            style={{ display: "none" }}
+            src={`https://www.facebook.com/tr?id=${FB_PIXEL_ID}&ev=PageView&noscript=1`}
           />
         </noscript>
         <div className="relative min-h-screen w-full purple-gradient-bg flex-grow">

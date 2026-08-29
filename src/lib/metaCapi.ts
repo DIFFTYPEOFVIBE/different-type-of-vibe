@@ -1,6 +1,9 @@
 // src/lib/metaCapi.ts
-import crypto from "crypto";
+import crypto from 'crypto';
 
+// ==========================================
+// EXISTING PURCHASE EVENT SYSTEM (DO NOT REMOVE)
+// ==========================================
 interface CapiUserPayload {
   email?: string;
   clientIpAddress?: string;
@@ -19,12 +22,12 @@ interface CapiCustomData {
 }
 
 // SHA-256 helper to hash User Data as required by Meta CAPI
-function hashData(value?: string): string | undefined {
+function hashDataExisting(value?: string): string | undefined {
   if (!value) return undefined;
   return crypto
-    .createHash("sha256")
+    .createHash('sha256')
     .update(value.trim().toLowerCase())
-    .digest("hex");
+    .digest('hex');
 }
 
 export async function sendCapiPurchaseEvent({
@@ -40,19 +43,19 @@ export async function sendCapiPurchaseEvent({
   const accessToken = process.env.META_ACCESS_TOKEN;
 
   if (!pixelId || !accessToken) {
-    console.warn("Meta Pixel ID or Access Token missing in env variables.");
+    console.warn('Meta Pixel ID or Access Token missing in env variables.');
     return;
   }
 
   const payload = {
     data: [
       {
-        event_name: "Purchase",
+        event_name: 'Purchase',
         event_time: Math.floor(Date.now() / 1000),
         event_id: eventId, // Deduplication key
-        action_source: "website",
+        action_source: 'website',
         user_data: {
-          em: user.email ? [hashData(user.email)] : undefined,
+          em: user.email ? [hashDataExisting(user.email)] : undefined,
           client_ip_address: user.clientIpAddress,
           client_user_agent: user.userAgent,
           fbp: user.fbp,
@@ -74,8 +77,8 @@ export async function sendCapiPurchaseEvent({
     const response = await fetch(
       `https://graph.facebook.com/v19.0/${pixelId}/events?access_token=${accessToken}`,
       {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(payload),
       }
     );
@@ -83,6 +86,80 @@ export async function sendCapiPurchaseEvent({
     const result = await response.json();
     return result;
   } catch (error) {
-    console.error("Error sending Meta CAPI event:", error);
+    console.error('Error sending Meta CAPI event:', error);
+  }
+}
+
+// ==========================================
+// NEW MULTI-EVENT SYSTEM (metaCapi.ts)
+// ==========================================
+interface CapiEventParams {
+  eventName: 'Lead' | 'Purchase' | 'InitiateCheckout';
+  eventId: string;
+  email: string;
+  sourceUrl?: string;
+  customData?: Record<string, any>;
+  clientIp?: string;
+  userAgent?: string;
+}
+
+// SHA-256 hash helper required by Meta for PII
+function hashData(data: string): string {
+  return crypto.createHash('sha256').update(data.trim().toLowerCase()).digest('hex');
+}
+
+export async function sendMetaCapiEvent({
+  eventName,
+  eventId,
+  email,
+  sourceUrl,
+  customData = {},
+  clientIp,
+  userAgent,
+}: CapiEventParams) {
+  const PIXEL_ID = process.env.META_PIXEL_ID;
+  const ACCESS_TOKEN = process.env.META_CAPI_ACCESS_TOKEN;
+
+  if (!PIXEL_ID || !ACCESS_TOKEN) {
+    console.warn('⚠️ Meta CAPI variables missing. Skipping server event.');
+    return;
+  }
+
+  const payload = {
+    data: [
+      {
+        event_name: eventName,
+        event_time: Math.floor(Date.now() / 1000),
+        event_id: eventId, // Deduplication key matching client-side
+        event_source_url: sourceUrl || 'https://differenttypeofvibe.com',
+        action_source: 'website',
+        user_data: {
+          em: [hashData(email)], // Hashed email address
+          client_ip_address: clientIp,
+          client_user_agent: userAgent,
+        },
+        custom_data: customData,
+      },
+    ],
+  };
+
+  try {
+    const response = await fetch(
+      `https://graph.facebook.com/v26.0/${PIXEL_ID}/events?access_token=${ACCESS_TOKEN}`,
+      {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload),
+      }
+    );
+
+    const result = await response.json();
+    if (!response.ok) {
+      console.error('❌ Meta CAPI Error:', result);
+    } else {
+      console.log(`✅ Meta CAPI ${eventName} event sent successfully.`);
+    }
+  } catch (err) {
+    console.error('❌ Failed to send CAPI event:', err);
   }
 }

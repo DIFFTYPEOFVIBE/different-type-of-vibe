@@ -42,3 +42,8 @@ next-env.d.ts
 
 .vercel
 .env*
+
+# Python automation scripts
+scripts/__pycache__/
+scripts/*.log
+scripts/.env

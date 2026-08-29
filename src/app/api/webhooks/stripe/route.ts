@@ -2,7 +2,7 @@
 import { NextResponse } from 'next/server';
 import Stripe from 'stripe';
 import { Resend } from 'resend';
-import { sendCapiPurchaseEvent } from '@/lib/metaCapi';
+import { sendMetaCapiEvent } from '@/lib/metaCapi';
 
 export async function POST(req: Request) {
   const apiKey = process.env.RESEND_API_KEY;
@@ -52,14 +52,14 @@ export async function POST(req: Request) {
     const beatId = session.metadata?.beatId;
     const licenseType = session.metadata?.licenseType || 'Standard License';
 
-    const baseUrl = process.env.NEXT_PUBLIC_APP_URL || 'https://yourdomain.com';
+    const baseUrl = process.env.NEXT_PUBLIC_APP_URL || 'https://differenttypeofvibe.com';
     const downloadUrl = `${baseUrl}/api/download?session_id=${session.id}&beat_id=${beatId}`;
 
     // 1. Process post-purchase email delivery via Resend (Inline HTML)
     if (resend && email) {
       try {
         await resend.emails.send({
-          from: 'Onzieb Beats <licenses@yourdomain.com>',
+          from: 'Different Type of Vibe <music@mail.differenttypeofvibe.com>',
           to: [email],
           subject: `Download: ${beatTitle} (${licenseType.toUpperCase()} License)`,
           html: `
@@ -89,22 +89,23 @@ export async function POST(req: Request) {
     const clientIpAddress =
       req.headers.get('x-forwarded-for')?.split(',')[0] || undefined;
 
-    await sendCapiPurchaseEvent({
-      eventId: session.id,
-      user: {
-        email,
-        clientIpAddress,
-        userAgent,
-      },
-      customData: {
-        value: amountTotal,
-        currency: (session.currency || 'usd').toUpperCase(),
-        content_name: beatTitle,
-        content_ids: beatId ? [beatId] : [],
-        content_type: licenseType,
-        order_id: session.id,
-      },
-    });
+    if (email) {
+      await sendMetaCapiEvent({
+        eventName: 'Purchase',
+        eventId: session.id,
+        email: email,
+        clientIp: clientIpAddress,
+        userAgent: userAgent,
+        customData: {
+          value: amountTotal,
+          currency: (session.currency || 'usd').toUpperCase(),
+          content_name: beatTitle,
+          content_ids: beatId ? [beatId] : [],
+          content_type: licenseType,
+          order_id: session.id,
+        },
+      });
+    }
   }
 
   return NextResponse.json({ received: true });
