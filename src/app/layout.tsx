@@ -8,7 +8,7 @@ import "./globals.css";
 export const dynamic = 'force-dynamic';
 export const revalidate = 0;
 
-const FB_PIXEL_ID = process.env.NEXT_PUBLIC_META_PIXEL_ID;
+const FB_PIXEL_ID = process.env.NEXT_PUBLIC_META_PIXEL_ID || "339067334980938";
 
 const inter = Inter({ subsets: ["latin"] });
 

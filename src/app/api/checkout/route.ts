@@ -25,6 +25,7 @@ export async function POST(req: Request) {
     const priceMap: Record<string, number> = {
       mp3: 2999, // $29.99
       wav: 4999, // $49.99
+      stems: 9999, // $99.99
       unlimited: 19999, // $199.99
     };
 
@@ -32,6 +33,7 @@ export async function POST(req: Request) {
 
     const session = await stripe.checkout.sessions.create({
       payment_method_types: ['card'],
+      allow_promotion_codes: true, // Enables the promo code input box in Stripe checkout
       line_items: [
         {
           price_data: {

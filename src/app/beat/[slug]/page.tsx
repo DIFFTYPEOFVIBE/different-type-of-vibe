@@ -104,10 +104,26 @@ export default async function BeatPage({ params }: BeatPageProps) {
   const cleanTitle = formatBeatTitle(beat.title);
   const canonicalUrl = `${SITE_URL}/beat/${beat.slug}`;
 
-  // Structured Schema Object (JSON-LD)
+  // Structured Schema Object (JSON-LD) - Unified BeatStars + Airbit + Traktrain + Soundee "Super-Schema"
   const jsonLd = {
     '@context': 'https://schema.org',
     '@graph': [
+      {
+        '@type': 'WebPage',
+        '@id': `${canonicalUrl}#webpage`,
+        'url': canonicalUrl,
+        'name': `${cleanTitle} | Buy Untagged Beat Lease`,
+        'description': `Buy and download "${cleanTitle}", a ${beat.genre} instrumental. Tempo: ${beat.bpm} BPM, Key: ${beat.key}. Instant MP3, WAV, and Trackout license delivery.`,
+        'isPartOf': {
+          '@type': 'WebSite',
+          '@id': 'https://differenttypeofvibe.com#website',
+          'name': 'Different Type of Vibe',
+          'url': 'https://differenttypeofvibe.com'
+        },
+        'about': {
+          '@id': `${canonicalUrl}#product`
+        }
+      },
       {
         '@type': 'Product',
         '@id': `${canonicalUrl}#product`,
@@ -115,17 +131,47 @@ export default async function BeatPage({ params }: BeatPageProps) {
         image: beat.coverUrl,
         description: `${beat.genre} instrumental in ${beat.key} at ${beat.bpm} BPM produced by ${beat.producerName}.`,
         category: 'Digital Goods > Audio > Music Tracks',
-        offers: {
-          '@type': 'Offer',
-          price: beat.price,
-          priceCurrency: 'USD',
-          availability: 'https://schema.org/InStock',
-          url: canonicalUrl,
-          seller: {
-            '@type': 'Organization',
-            name: beat.producerName,
+        offers: [
+          {
+            '@type': 'Offer',
+            'name': 'MP3 Basic Lease',
+            'price': beat.price.toFixed(2),
+            'priceCurrency': 'USD',
+            'availability': 'https://schema.org/InStock',
+            'url': canonicalUrl,
+            'seller': {
+              '@type': 'Organization',
+              'name': beat.producerName,
+            },
           },
-        },
+          {
+            '@type': 'Offer',
+            'name': 'WAV Premium Lease',
+            'price': '49.99',
+            'priceCurrency': 'USD',
+            'availability': 'https://schema.org/InStock',
+            'url': canonicalUrl,
+            'seller': {
+              '@type': 'Organization',
+              'name': beat.producerName,
+            },
+          },
+          {
+            '@type': 'Offer',
+            'name': 'Stems Trackout License',
+            'price': '149.99',
+            'priceCurrency': 'USD',
+            'availability': 'https://schema.org/InStock',
+            'url': canonicalUrl,
+            'seller': {
+              '@type': 'Organization',
+              'name': beat.producerName,
+            },
+          }
+        ],
+        'subjectOf': {
+          '@id': `${canonicalUrl}#audio`
+        }
       },
       {
         '@type': 'MusicRecording',
@@ -143,7 +189,28 @@ export default async function BeatPage({ params }: BeatPageProps) {
           contentUrl: beat.audioUrl,
           encodingFormat: 'audio/mpeg',
         },
+        'recordedAs': {
+          '@id': `${canonicalUrl}#composition`
+        }
       },
+      {
+        '@type': 'MusicComposition',
+        '@id': `${canonicalUrl}#composition`,
+        'name': cleanTitle,
+        'composer': {
+          '@type': 'Person',
+          'name': beat.producerName,
+        },
+        'lyricist': {
+          '@type': 'Person',
+          'name': 'Recording Artist / Vocalist'
+        },
+        'musicArrangement': 'Produced, mixed, and arranged by Onzieb',
+        'publisher': {
+          '@type': 'Organization',
+          'name': 'Different Type of Vibe Music Publishing',
+        }
+      }
     ],
   };
 

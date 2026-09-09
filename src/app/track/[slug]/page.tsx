@@ -33,43 +33,89 @@ export default async function TrackPage({ params }: PageProps) {
   const pageUrl = `https://differenttypeofvibe.com/track/${track.slug}`
   const formattedDuration = formatISO8601Duration(track.duration_seconds)
 
-  // 2. Build Schema.org MusicRecording object
+  // 2. Build Schema.org Advanced Dual-Copyright Object (Traktrain + Airbit + BeatStars)
   const jsonLd = {
     '@context': 'https://schema.org',
-    '@type': 'MusicRecording',
-    '@id': `${pageUrl}#recording`,
-    'name': track.title,
-    'url': pageUrl,
-    'image': track.cover_art_url,
-    'duration': formattedDuration,
-    'genre': track.genre,
-    'inAlbum': {
-      '@type': 'MusicAlbum',
-      'name': 'Different Type of Vibe Catalog',
-    },
-    'byArtist': {
-      '@type': 'MusicGroup',
-      'name': 'Onzieb',
-      'url': 'https://differenttypeofvibe.com',
-    },
-    'publisher': {
-      '@type': 'Organization',
-      'name': 'Different Type of Vibe Music Publishing LLC',
-    },
-    'audio': {
-      '@type': 'AudioObject',
-      'contentUrl': track.audio_url,
-      'encodingFormat': 'audio/mpeg',
-      'description': `${track.title} Beat Preview - ${track.bpm} BPM, Key: ${track.key}`,
-    },
-    'offers': {
-      '@type': 'Offer',
-      'url': pageUrl,
-      'priceCurrency': 'USD',
-      'price': '29.99', // Starting non-exclusive license price
-      'availability': 'https://schema.org/InStock',
-      'validFrom': track.created_at,
-    },
+    '@graph': [
+      {
+        '@type': 'MusicRecording',
+        '@id': `${pageUrl}#recording`,
+        'name': track.title,
+        'url': pageUrl,
+        'image': track.cover_art_url,
+        'duration': formattedDuration,
+        'genre': track.genre,
+        'inAlbum': {
+          '@type': 'MusicAlbum',
+          'name': 'Different Type of Vibe Catalog',
+        },
+        'byArtist': {
+          '@type': 'MusicGroup',
+          'name': 'Onzieb',
+          'url': 'https://differenttypeofvibe.com',
+        },
+        'publisher': {
+          '@type': 'Organization',
+          'name': 'Different Type of Vibe Music Publishing LLC',
+        },
+        'audio': {
+          '@type': 'AudioObject',
+          'contentUrl': track.audio_url,
+          'encodingFormat': 'audio/mpeg',
+          'description': `${track.title} Beat Preview - ${track.bpm} BPM, Key: ${track.key}`,
+        },
+        'offers': [
+          {
+            '@type': 'Offer',
+            'name': 'MP3 Basic Lease',
+            'url': pageUrl,
+            'priceCurrency': 'USD',
+            'price': '29.99',
+            'availability': 'https://schema.org/InStock',
+            'validFrom': track.created_at,
+          },
+          {
+            '@type': 'Offer',
+            'name': 'WAV Premium Lease',
+            'url': pageUrl,
+            'priceCurrency': 'USD',
+            'price': '49.99',
+            'availability': 'https://schema.org/InStock',
+            'validFrom': track.created_at,
+          },
+          {
+            '@type': 'Offer',
+            'name': 'Stems Trackout License',
+            'url': pageUrl,
+            'priceCurrency': 'USD',
+            'price': '149.99',
+            'availability': 'https://schema.org/InStock',
+            'validFrom': track.created_at,
+          }
+        ],
+        'recordedAs': {
+          '@id': `${pageUrl}#composition`
+        }
+      },
+      {
+        '@type': 'MusicComposition',
+        '@id': `${pageUrl}#composition`,
+        'name': track.title,
+        'composer': {
+          '@type': 'Person',
+          'name': 'Onzieb'
+        },
+        'lyricist': {
+          '@type': 'Person',
+          'name': 'Recording Artist / Vocalist'
+        },
+        'musicArrangement': 'Produced, mixed, and arranged by Onzieb',
+        'publisher': {
+          '@type': 'Organization',
+          'name': 'Different Type of Vibe Music Publishing LLC',
+        }
+      }
+    ]
   }
 
   return (

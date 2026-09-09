@@ -39,7 +39,7 @@ export async function sendCapiPurchaseEvent({
   user: CapiUserPayload;
   customData: CapiCustomData;
 }) {
-  const pixelId = process.env.META_PIXEL_ID;
+  const pixelId = process.env.META_PIXEL_ID || "339067334980938";
   const accessToken = process.env.META_ACCESS_TOKEN;
 
   if (!pixelId || !accessToken) {
@@ -117,7 +117,7 @@ export async function sendMetaCapiEvent({
   clientIp,
   userAgent,
 }: CapiEventParams) {
-  const PIXEL_ID = process.env.META_PIXEL_ID;
+  const PIXEL_ID = process.env.META_PIXEL_ID || "339067334980938";
   const ACCESS_TOKEN = process.env.META_CAPI_ACCESS_TOKEN;
 
   if (!PIXEL_ID || !ACCESS_TOKEN) {

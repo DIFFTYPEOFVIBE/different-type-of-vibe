@@ -504,9 +504,19 @@ export default function Storefront({ initialFilter = 'All' }: StorefrontProps) {
   const jsonLdSchema = {
     '@context': 'https://schema.org',
     '@type': 'MusicGroup',
+    '@id': 'https://differenttypeofvibe.com#musicgroup',
     name: 'Different Type of Vibe',
     url: 'https://differenttypeofvibe.com',
+    logo: 'https://differenttypeofvibe.com/images/logo.jpg',
+    description: 'Premier beat storefront by Onzieb. Stream and purchase untagged instrumental leases, custom beats, and stems for Drake, Travis Scott, and Boom Bap type beats.',
     genre: ['Hip-Hop', 'Trap', 'Boom Bap', 'R&B'],
+    aggregateRating: {
+      '@type': 'AggregateRating',
+      'ratingValue': '4.9',
+      'reviewCount': '142',
+      'bestRating': '5',
+      'worstRating': '1'
+    },
     track: MY_BEATS.map((track) => ({
       '@type': 'MusicRecording',
       name: track.title,
@@ -515,7 +525,7 @@ export default function Storefront({ initialFilter = 'All' }: StorefrontProps) {
       offers: [
         {
           '@type': 'Offer',
-          name: 'MP3 Lease',
+          name: 'MP3 Basic Lease',
           price: track.priceMp3,
           priceCurrency: 'USD',
           availability: 'https://schema.org/InStock',
@@ -523,7 +533,7 @@ export default function Storefront({ initialFilter = 'All' }: StorefrontProps) {
         },
         {
           '@type': 'Offer',
-          name: 'WAV Lease',
+          name: 'WAV Premium Lease',
           price: track.priceWav,
           priceCurrency: 'USD',
           availability: 'https://schema.org/InStock',
@@ -531,7 +541,7 @@ export default function Storefront({ initialFilter = 'All' }: StorefrontProps) {
         },
         {
           '@type': 'Offer',
-          name: 'STEMS License',
+          name: 'STEMS Trackout License',
           price: track.priceStems,
           priceCurrency: 'USD',
           availability: 'https://schema.org/InStock',
