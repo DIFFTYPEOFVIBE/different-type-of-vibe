@@ -179,15 +179,24 @@ export default async function BeatPage({ params }: BeatPageProps) {
         name: cleanTitle,
         byArtist: {
           '@type': 'MusicGroup',
-          name: beat.producerName,
+          'name': beat.producerName,
+          'logo': 'https://differenttypeofvibe.com/images/logo.jpg',
+          'url': 'https://differenttypeofvibe.com',
+          'sameAs': [
+            'https://www.instagram.com/onzieb',
+            'https://www.youtube.com/@onzieb',
+            'https://www.tiktok.com/@onzieb'
+          ]
         },
         genre: beat.genre,
         tempo: `${beat.bpm} BPM`,
         musicalKey: beat.key,
         audio: {
           '@type': 'AudioObject',
-          contentUrl: beat.audioUrl,
-          encodingFormat: 'audio/mpeg',
+          'name': `${cleanTitle} (Audio Preview)`,
+          'contentUrl': beat.audioUrl,
+          'encodingFormat': 'audio/mpeg',
+          'bitrate': '320kbps'
         },
         'recordedAs': {
           '@id': `${canonicalUrl}#composition`

@@ -53,6 +53,12 @@ export default async function TrackPage({ params }: PageProps) {
           '@type': 'MusicGroup',
           'name': 'Onzieb',
           'url': 'https://differenttypeofvibe.com',
+          'logo': 'https://differenttypeofvibe.com/images/logo.jpg',
+          'sameAs': [
+            'https://www.instagram.com/onzieb',
+            'https://www.youtube.com/@onzieb',
+            'https://www.tiktok.com/@onzieb'
+          ]
         },
         'publisher': {
           '@type': 'Organization',
@@ -60,8 +66,10 @@ export default async function TrackPage({ params }: PageProps) {
         },
         'audio': {
           '@type': 'AudioObject',
+          'name': `${track.title} (Audio Preview)`,
           'contentUrl': track.audio_url,
           'encodingFormat': 'audio/mpeg',
+          'bitrate': '320kbps',
           'description': `${track.title} Beat Preview - ${track.bpm} BPM, Key: ${track.key}`,
         },
         'offers': [
