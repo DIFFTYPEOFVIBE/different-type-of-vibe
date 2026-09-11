@@ -26,6 +26,23 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: route === '' ? 1.0 : 0.8,
   }));
 
+  // 1.5 Genre and Vibe Category landing pages (Airbit-style)
+  const categoryRoutes = [
+    '/genre/trap-beats',
+    '/genre/boom-bap-beats',
+    '/genre/rb-instrumentals',
+    '/genre/hip-hop-beats',
+    '/vibe/drake-type-beats',
+    '/vibe/travis-scott-type-beats',
+    '/vibe/metro-boomin-type-beats',
+    '/vibe/j-cole-type-beats',
+  ].map((route) => ({
+    url: `${baseUrl}${route}`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly' as const,
+    priority: 0.8,
+  }));
+
   // 2. Dynamic beat pages (/beat/[slug])
   const beatRoutes = MY_BEATS.map((beat) => {
     const slug = slugify(beat.title.split(' - ')[0]);
@@ -48,5 +65,5 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     };
   });
 
-  return [...staticRoutes, ...beatRoutes, ...trackRoutes];
+  return [...staticRoutes, ...categoryRoutes, ...beatRoutes, ...trackRoutes];
 }

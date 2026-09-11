@@ -110,9 +110,9 @@ export default function RootLayout({
           "jobTitle": "Music Producer & Composer",
         },
         "sameAs": [
-          "https://open.spotify.com",
-          "https://instagram.com",
-          "https://youtube.com",
+          "https://www.instagram.com/onzieb",
+          "https://www.youtube.com/@onzieb",
+          "https://www.tiktok.com/@onzieb"
         ],
       },
       {
@@ -120,8 +120,15 @@ export default function RootLayout({
         "@id": "https://differenttypeofvibe.com/#store",
         "name": "Different Type of Vibe Beat Store",
         "url": "https://differenttypeofvibe.com",
+        "image": "https://differenttypeofvibe.com/og-image.png",
         "description":
           "Premium untagged hip-hop, trap, lofi, and boom bap beats produced by Onzieb. Instant MP3, WAV, and STEMS licensing.",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Indianapolis",
+          "addressRegion": "IN",
+          "addressCountry": "US"
+        },
         "publisher": {
           "@id": "https://differenttypeofvibe.com/#organization",
         },

@@ -250,6 +250,12 @@ export const MY_BEATS: Track[] = [
     key: 'Dm',
     priceMp3: 29.99,
     priceWav: 49.99,
+    priceStems: 149.99,
+    audioUrl: 'https://hnliahdtcbuvggxhmzej.supabase.co/storage/v1/object/public/audio-previews/Phantom.mp3',
+    linkMp3: 'https://buy.stripe.com/7sY4gy9hM0XM6UB09xcZa0h',
+    linkWav: 'https://buy.stripe.com/7sYdR851w6i6a6N8G3cZa0g',
+    linkStems: 'https://buy.stripe.com/eVq7sKctY6i65Qx8G3cZa0f',
+  },
   {
     id: '17',
     title: 'Pressure - Lil Baby x NLE Choppa Type Beat | Dark Trap Instrumental (135 BPM - Fm)',
@@ -371,9 +377,3 @@ export const MY_BEATS: Track[] = [
     linkStems: 'https://buy.stripe.com/9B63cu79E6i6fr73lJcZa1a',
   }
 ];
-    priceStems: 149.99,
-    audioUrl: 'https://hnliahdtcbuvggxhmzej.supabase.co/storage/v1/object/public/audio-previews/Phantom.mp3',
-    linkMp3: 'https://buy.stripe.com/7sY4gy9hM0XM6UB09xcZa0h',
-    linkWav: 'https://buy.stripe.com/7sYdR851w6i6a6N8G3cZa0g',
-    linkStems: 'https://buy.stripe.com/eVq7sKctY6i65Qx8G3cZa0f',
-  },
