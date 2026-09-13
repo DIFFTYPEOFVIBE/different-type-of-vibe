@@ -55,7 +55,8 @@ export default function LoopsPage() {
       setProducerName('');
     } finally {
       setIsSubmitting(false);
-
+    }
+  };
 
   return (
     <main className="min-h-screen bg-neutral-950 text-neutral-100 flex flex-col items-center px-4 py-16 relative overflow-hidden">
