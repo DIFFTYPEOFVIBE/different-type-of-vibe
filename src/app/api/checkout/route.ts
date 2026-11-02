@@ -31,9 +31,15 @@ export async function POST(req: Request) {
 
     const unitAmount = priceMap[licenseType.toLowerCase()] || 2999;
 
+    // Keep card/wallet options but exclude Cash App Pay
     const session = await stripe.checkout.sessions.create({
-      payment_method_types: ['card'],
+      payment_method_types: ['card', 'link'],
       allow_promotion_codes: true, // Enables the promo code input box in Stripe checkout
+      payment_method_options: {
+        card: {
+          request_three_d_secure: 'any', // Automatic smart 3DS fallback matching Beatstars routing
+        },
+      },
       line_items: [
         {
           price_data: {

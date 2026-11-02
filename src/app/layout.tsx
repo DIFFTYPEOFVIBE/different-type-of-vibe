@@ -3,10 +3,10 @@ import { Inter } from "next/font/google";
 import { Analytics } from "@vercel/analytics/react";
 import Script from "next/script";
 import SeoFooter from "@/components/SeoFooter";
+import StickyMobileVipBar from "@/components/StickyMobileVipBar";
 import "./globals.css";
 
-export const dynamic = 'force-dynamic';
-export const revalidate = 0;
+export const revalidate = 3600; // 1-Hour Vercel Edge CDN Caching with ISR for fast TTFB (<30ms)
 
 const FB_PIXEL_ID = process.env.NEXT_PUBLIC_META_PIXEL_ID || "339067334980938";
 
@@ -224,6 +224,9 @@ export default function RootLayout({
 
         {/* Global SEO Internal Linking Footer */}
         <SeoFooter />
+
+        {/* Omnipresent Mobile Sticky VIP Pass Checkout Gateway */}
+        <StickyMobileVipBar />
 
         <Analytics />
       </body>

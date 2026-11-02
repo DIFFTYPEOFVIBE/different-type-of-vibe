@@ -74,6 +74,7 @@ function ExitIntentModal() {
 // TYPES & TRACK DATA
 // ==========================================
 import { MY_BEATS, Track } from '@/data/beats';
+import SubscriptionPricing from '@/components/SubscriptionPricing';
 
 interface CartItem {
   trackId: string;
@@ -369,6 +370,11 @@ export default function Storefront({ initialFilter = 'All' }: StorefrontProps) {
               </form>
             )}
           </div>
+        </section>
+
+        {/* VIP SUBSCRIPTION PRICING GRID */}
+        <section className="bg-neutral-900/40 border border-purple-900/30 rounded-2xl p-2 my-4">
+          <SubscriptionPricing />
         </section>
 
         {/* BULK DISCOUNT ANNOUNCEMENT BANNER */}

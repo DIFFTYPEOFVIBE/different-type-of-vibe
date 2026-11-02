@@ -2,6 +2,8 @@
 import { Metadata } from 'next';
 import { cache } from 'react';
 import { notFound } from 'next/navigation';
+import { headers } from 'next/headers';
+import RelatedBeats from '@/components/RelatedBeats';
 
 interface BeatPageProps {
   params: Promise<{ slug: string }>;
@@ -104,7 +106,38 @@ export default async function BeatPage({ params }: BeatPageProps) {
   const cleanTitle = formatBeatTitle(beat.title);
   const canonicalUrl = `${SITE_URL}/beat/${beat.slug}`;
 
+  // Geolocation currency detection using Vercel headers (Next.js 15 Async standard)
+  const headersList = await headers();
+  const countryHeader = headersList.get('x-vercel-ip-country') || 'US';
+
+  let currency = 'USD';
+  let conversionRate = 1.0;
+
+  // Determine regional currency & baseline conversion rates
+  if (countryHeader === 'GB') {
+    currency = 'GBP';
+    conversionRate = 0.77; // GBP Sterling relative to USD
+  } else if ([
+    'AT', 'BE', 'CY', 'EE', 'FI', 'FR', 'DE', 'GR', 'IE', 'IT', 
+    'LV', 'LT', 'LU', 'MT', 'NL', 'PT', 'SK', 'SI', 'ES'
+  ].includes(countryHeader)) {
+    currency = 'EUR';
+    conversionRate = 0.91; // Euro relative to USD
+  } else if (countryHeader === 'CA') {
+    currency = 'CAD';
+    conversionRate = 1.35; // Canadian dollar relative to USD
+  } else if (countryHeader === 'NG') {
+    currency = 'NGN';
+    conversionRate = 1600.0; // Nigerian Naira relative to USD
+  }
+
+  // Format pricing safely for schema.org validity
+  const formatPrice = (basePrice: number) => {
+    return (basePrice * conversionRate).toFixed(2);
+  };
+
   // Structured Schema Object (JSON-LD) - Unified BeatStars + Airbit + Traktrain + Soundee "Super-Schema"
+  // UPGRADED: Leverages edge geo-headers for multi-currency localization!
   const jsonLd = {
     '@context': 'https://schema.org',
     '@graph': [
@@ -135,8 +168,8 @@ export default async function BeatPage({ params }: BeatPageProps) {
           {
             '@type': 'Offer',
             'name': 'MP3 Basic Lease',
-            'price': beat.price.toFixed(2),
-            'priceCurrency': 'USD',
+            'price': formatPrice(beat.price),
+            'priceCurrency': currency,
             'availability': 'https://schema.org/InStock',
             'url': canonicalUrl,
             'seller': {
@@ -147,8 +180,8 @@ export default async function BeatPage({ params }: BeatPageProps) {
           {
             '@type': 'Offer',
             'name': 'WAV Premium Lease',
-            'price': '49.99',
-            'priceCurrency': 'USD',
+            'price': formatPrice(49.99),
+            'priceCurrency': currency,
             'availability': 'https://schema.org/InStock',
             'url': canonicalUrl,
             'seller': {
@@ -159,8 +192,8 @@ export default async function BeatPage({ params }: BeatPageProps) {
           {
             '@type': 'Offer',
             'name': 'Stems Trackout License',
-            'price': '149.99',
-            'priceCurrency': 'USD',
+            'price': formatPrice(149.99),
+            'priceCurrency': currency,
             'availability': 'https://schema.org/InStock',
             'url': canonicalUrl,
             'seller': {
@@ -234,9 +267,12 @@ export default async function BeatPage({ params }: BeatPageProps) {
 
       <main className="container mx-auto p-6">
         <h1 className="text-3xl font-bold">{cleanTitle}</h1>
-        <p className="text-gray-400">
+        <p className="text-gray-400 mb-6">
           {beat.typeBeatArtists.join(' x ')} Type Beat • {beat.bpm} BPM • {beat.key}
         </p>
+
+        {/* Dynamic SEO Contextual Internal Links */}
+        <RelatedBeats slug={beat.slug} />
       </main>
     </>
   );

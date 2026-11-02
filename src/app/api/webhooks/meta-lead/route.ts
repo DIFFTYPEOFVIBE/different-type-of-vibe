@@ -79,55 +79,18 @@ export async function POST(req: Request) {
                   console.warn('⚠️ Meta Lead contact creation warning (may already exist):', contactErr);
                 }
 
-                // 2. Calculate Scheduled Dates
-                const now = new Date();
-                const day2 = new Date(now.getTime() + 2 * 24 * 60 * 60 * 1000).toISOString();
-                const day4 = new Date(now.getTime() + 4 * 24 * 60 * 60 * 1000).toISOString();
-                const day6 = new Date(now.getTime() + 6 * 24 * 60 * 60 * 1000).toISOString();
-                const day7 = new Date(now.getTime() + 7 * 24 * 60 * 60 * 1000).toISOString();
-
-                // 3. Batch send & schedule the full 5-email sequence
-                await resend.batch.send([
-                  // Email 1: Instant
-                  {
+                // 2. Deliver Email 1 instantly via Resend
+                try {
+                  await resend.emails.send({
                     from: sender,
                     to: [email],
                     subject: '🔥 Your 3 Free Beats + Untagged License',
                     html: getEmail1Html({ firstName: userFirstName }),
-                  },
-                  // Email 2: Day 2
-                  {
-                    from: sender,
-                    to: [email],
-                    subject: 'Quick question about your project...',
-                    html: getEmail2Html({ firstName: userFirstName }),
-                    scheduledAt: day2,
-                  },
-                  // Email 3: Day 4
-                  {
-                    from: sender,
-                    to: [email],
-                    subject: 'How artists are getting streams on these beats...',
-                    html: getEmail3Html({ firstName: userFirstName }),
-                    scheduledAt: day4,
-                  },
-                  // Email 4: Day 6
-                  {
-                    from: sender,
-                    to: [email],
-                    subject: '🎁 Exclusive 50% Off Your First Beat Lease',
-                    html: getEmail4Html({ firstName: userFirstName }),
-                    scheduledAt: day6,
-                  },
-                  // Email 5: Day 7
-                  {
-                    from: sender,
-                    to: [email],
-                    subject: '⏰ Final Call: Your 50% discount expires tonight',
-                    html: getEmail5Html({ firstName: userFirstName }),
-                    scheduledAt: day7,
-                  },
-                ]);
+                  });
+                  console.log(`✅ Instant 3 Free Beats email delivered to Meta Lead: ${email}`);
+                } catch (emailErr) {
+                  console.error('⚠️ Failed to send instant Meta Lead email:', emailErr);
+                }
               }
             }
           }

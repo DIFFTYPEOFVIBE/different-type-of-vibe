@@ -9,6 +9,14 @@ const nextConfig: NextConfig = {
   experimental: {
     webpackBuildWorker: false,
   },
+  async rewrites() {
+    return [
+      {
+        source: "/api/v1/webhooks/stripe",
+        destination: "/api/webhooks/stripe",
+      },
+    ];
+  },
   async redirects() {
     return [
       {

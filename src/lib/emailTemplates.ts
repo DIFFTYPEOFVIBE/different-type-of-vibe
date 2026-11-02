@@ -12,11 +12,14 @@ export function getEmail1Html({ firstName }: EmailProps): string {
       <h2>Your 3 Free Beats Are Ready!</h2>
       <p>Hey ${firstName},</p>
       <p>Thanks for tapping in! Click below to download your 3 free beats along with your promotional license agreement:</p>
-      <p style="margin: 30px 0; text-align: center;">
+      <div style="margin: 30px 0; text-align: center;">
         <a href="${FREE_PACK_URL}" style="background-color: #e11d48; color: #ffffff; padding: 14px 28px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block;">
-          Download Free Beat Pack (.ZIP)
+          🎁 Download Free Beat Pack (.ZIP)
         </a>
-      </p>
+        <p style="margin-top: 12px; font-size: 13px;">
+          <a href="${FREE_PACK_URL}" style="color: #7c3aed; text-decoration: underline;">📲 Mobile / Unzipped Direct Access (Dropbox Folder)</a>
+        </p>
+      </div>
       <p><strong>License Terms:</strong> You can use these beats for non-profit projects, mixtapes, soundcloud releases, and writing sessions.</p>
       <p style="margin-top: 30px; border-top: 1px solid #eeeeee; padding-top: 15px; font-size: 14px; color: #666666;">— Onzieb<br><em>Different Type of Vibe</em></p>
     </div>
@@ -28,6 +31,11 @@ export function getEmail2Html({ firstName }: EmailProps): string {
     <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #111111; max-width: 600px; margin: 0 auto; padding: 20px;">
       <p>Hey ${firstName},</p>
       <p>Just checking in — did you have a chance to vibe to those 3 free beats yet?</p>
+      <div style="margin: 25px 0; text-align: center;">
+        <a href="${FREE_PACK_URL}" style="background-color: #e11d48; color: #ffffff; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block;">
+          🎁 Download 3 Free Beats
+        </a>
+      </div>
       <p>Here is a quick 3-step tip before hitting the booth:</p>
       <ol style="padding-left: 20px;">
         <li><strong>Keep headroom:</strong> Aim for vocal peaks around -6dB to keep room for mixing.</li>
@@ -46,6 +54,17 @@ export function getEmail3Html({ firstName }: EmailProps): string {
       <p>Hey ${firstName},</p>
       <p>An independent artist reached out last month after grabbing a lease on one of my beats. They dropped their single on Spotify and broke past 20,000 streams in under 30 days.</p>
       <p>The secret wasn't a massive budget — it was high mix quality and an uncompressed WAV file that stood out on curator playlists.</p>
+      
+      <div style="background-color: #09090b; color: #ffffff; padding: 20px; border-radius: 8px; margin: 25px 0; border: 1px solid #27272a;">
+        <h3 style="color: #10b981; margin-top: 0;">🎟️ VIP Artist Pass Offer</h3>
+        <p style="font-size: 14px; color: #d4d4d8;">Instead of paying $49+ for single WAV leases, you can now get <strong>5 Untagged WAV Commercial Leases every month for just $9.99/mo</strong>!</p>
+        <div style="text-align: center; margin-top: 15px;">
+          <a href="https://differenttypeofvibe.com" style="background-color: #10b981; color: #000000; padding: 10px 20px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; font-size: 14px;">
+            Start $9.99/mo VIP Pass
+          </a>
+        </div>
+      </div>
+
       <p style="margin: 30px 0; text-align: center;">
         <a href="https://differenttypeofvibe.com" style="background-color: #111111; color: #ffffff; padding: 14px 28px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block;">Listen to Full Beat Catalog</a>
       </p>

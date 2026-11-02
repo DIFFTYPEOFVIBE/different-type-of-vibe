@@ -1,30 +1,28 @@
 import { NextResponse } from 'next/server';
 import Stripe from 'stripe';
-import { generateDownloadUrl } from '@/lib/s3';
 
-const stripe = new Stripe(process.env.STRIPE_SECRET_KEY!, {
-  apiVersion: '2023-10-16' as any,
-});
+const stripeSecret = process.env.STRIPE_SECRET_KEY;
 
 export async function GET(req: Request) {
   const { searchParams } = new URL(req.url);
   const sessionId = searchParams.get('session_id');
 
   if (!sessionId) {
-    return NextResponse.json({ error: 'Missing session ID' }, { status: 400 });
+    return NextResponse.redirect('https://differenttypeofvibe.com/#beats');
   }
 
   try {
-    const session = await stripe.checkout.sessions.retrieve(sessionId);
-    if (session.payment_status !== 'paid') {
-      return NextResponse.json({ error: 'Payment incomplete' }, { status: 403 });
+    if (stripeSecret) {
+      const stripe = new Stripe(stripeSecret, { apiVersion: '2023-10-16' as any });
+      const session = await stripe.checkout.sessions.retrieve(sessionId);
+
+      if (session.payment_status === 'paid' || session.mode === 'subscription') {
+        return NextResponse.redirect('https://differenttypeofvibe.com/#beats');
+      }
     }
-
-    const key = session.metadata?.s3Key || 'beats/default.mp3';
-    const downloadUrl = await generateDownloadUrl(key);
-
-    return NextResponse.redirect(downloadUrl);
   } catch (err: any) {
-    return NextResponse.json({ error: err.message }, { status: 500 });
+    console.error('Download route session check error:', err);
   }
+
+  return NextResponse.redirect('https://differenttypeofvibe.com/#beats');
 }
