@@ -1,0 +1,33 @@
+name: 24/7 Meta Ad Comments Auto-Responder
+
+on:
+  schedule:
+    # Runs every 15 minutes 24/7
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+jobs:
+  run-ad-comments-responder:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests python-dotenv
+
+      - name: Run Ad Comments Auto-Responder
+        run: |
+          python scripts/auto_reply_to_ad_comments.py
+        env:
+          META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
+          META_PAGE_ACCESS_TOKEN: ${{ secrets.META_PAGE_ACCESS_TOKEN }}
+          META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
