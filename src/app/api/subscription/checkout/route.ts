@@ -28,7 +28,7 @@ export async function POST(req: Request) {
 
     // Keep recurring-compatible methods but exclude Cash App Pay
     const session = await stripe.checkout.sessions.create({
-      payment_method_types: ['card'],
+      payment_method_types: ['card', 'paypal'],
       customer_email: email || undefined,
       allow_promotion_codes: true,
       payment_method_options: {

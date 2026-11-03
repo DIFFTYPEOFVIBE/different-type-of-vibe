@@ -33,7 +33,7 @@ export async function POST(req: Request) {
 
     // Keep card/wallet options but exclude Cash App Pay
     const session = await stripe.checkout.sessions.create({
-      payment_method_types: ['card', 'link'],
+      payment_method_types: ['card', 'paypal', 'link'],
       allow_promotion_codes: true, // Enables the promo code input box in Stripe checkout
       payment_method_options: {
         card: {

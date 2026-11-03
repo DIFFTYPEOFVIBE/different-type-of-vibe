@@ -78,7 +78,7 @@ export default function SubscriptionPricing() {
           
           <div className="pt-2 border-t border-purple-800/50 bg-zinc-950/60 p-3.5 rounded-xl border border-purple-500/30 text-center">
             <p className="text-emerald-400 font-bold mb-1 text-sm">⚡ 1-Tap Express Pay & Global Gateways Active</p>
-            <p className="text-zinc-300 text-xs">Pay via <strong>Credit/Debit Card, Apple Pay, or Google Pay</strong> for instant WAV beat lease delivery!</p>
+            <p className="text-zinc-300 text-xs">Pay via <strong>Credit/Debit Card, PayPal, Apple Pay, or Google Pay</strong> for instant WAV beat lease delivery!</p>
           </div>
           
           {/* Prominent High-Visibility 2FA Card Approval Box */}
