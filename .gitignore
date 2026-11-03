@@ -47,3 +47,6 @@ next-env.d.ts
 scripts/__pycache__/
 scripts/*.log
 scripts/.env
+
+token.json
+credentials.json

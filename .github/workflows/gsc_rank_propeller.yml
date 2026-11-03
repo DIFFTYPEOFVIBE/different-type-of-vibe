@@ -1,0 +1,47 @@
+name: 24/7 GSC Rank Propeller & Striking Distance Optimizer
+
+on:
+  schedule:
+    # Runs every Tuesday at 8:00 AM EST (13:00 UTC)
+    - cron: '0 13 * * 2'
+  workflow_dispatch:
+
+jobs:
+  run-gsc-rank-propeller:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests python-dotenv pandas google-api-python-client google-auth-httplib2 google-auth-oauthlib
+
+      - name: Fetch Search Console Query Performance
+        run: |
+          python scripts/gsc_rank_tracker.py
+        env:
+          GSC_TOKEN_JSON: ${{ secrets.GSC_TOKEN_JSON }}
+
+      - name: Optimize Striking Distance Keywords & Inject Tags
+        run: |
+          python scripts/gsc_striking_distance_optimizer.py
+
+      - name: Commit Updated Keyword Reports
+        run: |
+          git config --global user.name "Onzieb GSC Rank Propeller"
+          git config --global user.email "music@differenttypeofvibe.com"
+          if [[ -n $(git status --porcelain) ]]; then
+            git add gsc_keywords_report.csv high_intent_beat_keywords.csv
+            git commit -m "seo: update GSC striking distance keyword rankings & tag optimizations"
+            git push origin main
+          else
+            echo "No keyword ranking updates to commit today."
+          fi
