@@ -16,7 +16,7 @@ import datetime
 import subprocess
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-STORE_DIR = r"C:\Users\Onzieb\projects\different-type-of-vibe"
+STORE_DIR = BASE_DIR if not os.path.exists(r"C:\Users\Onzieb\projects\different-type-of-vibe") else r"C:\Users\Onzieb\projects\different-type-of-vibe"
 sys.path.append(BASE_DIR)
 
 LOG_FILE = os.path.join(BASE_DIR, "seo_autopilot_log.json")
