@@ -1,0 +1,32 @@
+name: Monthly Executive Growth & SEO Report Timer
+
+on:
+  schedule:
+    # Runs on the 1st of every month at 9:00 AM EST (14:00 UTC)
+    - cron: '0 14 1 * *'
+  workflow_dispatch:
+
+jobs:
+  run-monthly-report:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests python-dotenv
+
+      - name: Run Monthly Executive Report
+        run: |
+          python scripts/monthly_report_runner.py
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          RESEND_FROM_EMAIL: ${{ secrets.RESEND_FROM_EMAIL }}
