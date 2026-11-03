@@ -1,0 +1,40 @@
+name: 24/7 Supabase Cloud Auto-Backup & Catalog Sync
+
+on:
+  schedule:
+    # Runs every Sunday at 12:00 AM UTC (7:00 PM EST Saturday)
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+jobs:
+  run-supabase-backup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests python-dotenv
+
+      - name: Run Supabase Database Backup
+        run: |
+          python scripts/supabase_auto_backup.py
+        env:
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          RESEND_FROM_EMAIL: ${{ secrets.RESEND_FROM_EMAIL }}
+
+      - name: Upload Backup Artifact to GitHub
+        uses: actions/upload-artifact@v4
+        with:
+          name: supabase-database-backup
+          path: backups/supabase_backup_latest.json
