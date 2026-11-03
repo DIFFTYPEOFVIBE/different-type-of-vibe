@@ -1,0 +1,35 @@
+name: 24/7 Meta Ads Budget Guardrails & Auto-Scaler Engine
+
+on:
+  schedule:
+    # Runs daily at 11:00 PM EST (04:00 UTC) before ad day resets
+    - cron: '0 4 * * *'
+  workflow_dispatch:
+
+jobs:
+  run-meta-ad-guardrails:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests python-dotenv
+
+      - name: Run Meta Ads Budget Guardrail & Auto-Scaler
+        run: |
+          python scripts/meta_ad_guardrails.py
+        env:
+          META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
+          META_PAGE_ACCESS_TOKEN: ${{ secrets.META_PAGE_ACCESS_TOKEN }}
+          META_AD_ACCOUNT_ID: ${{ secrets.META_AD_ACCOUNT_ID }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          RESEND_FROM_EMAIL: ${{ secrets.RESEND_FROM_EMAIL }}
