@@ -1,0 +1,34 @@
+name: 24/7 Automated Email Nurture Sequence Engine
+
+on:
+  schedule:
+    # Runs daily at 2:30 PM EST (19:30 UTC) before afternoon peak surge
+    - cron: '30 19 * * *'
+  workflow_dispatch:
+
+jobs:
+  run-email-nurture:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests python-dotenv
+
+      - name: Run Resend Email Nurture Sequence Check
+        run: |
+          python scripts/nurture_scheduler.py
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          RESEND_AUDIENCE_ID: ${{ secrets.RESEND_AUDIENCE_ID }}
+          RESEND_FROM_EMAIL: ${{ secrets.RESEND_FROM_EMAIL }}
+          STRIPE_VIP_MEMBERSHIP_LINK: ${{ secrets.STRIPE_VIP_MEMBERSHIP_LINK }}
