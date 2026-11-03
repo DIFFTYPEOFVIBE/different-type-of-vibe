@@ -1,0 +1,51 @@
+name: 60-Day Automated pSEO Page Expansion Timer
+
+on:
+  schedule:
+    # Runs daily at 12:00 PM UTC to check target date / GSC impressions
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+    inputs:
+      force_expansion:
+        description: 'Force immediate 3,000+ page expansion now'
+        required: false
+        type: boolean
+        default: false
+
+jobs:
+  check-and-expand-seo:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests python-dotenv beautifulsoup4 pandas
+
+      - name: Run Expansion Timer Check
+        run: |
+          python scripts/check_and_trigger_expansion.py
+        env:
+          FORCE_EXPANSION: ${{ github.event.inputs.force_expansion }}
+
+      - name: Commit & Push Changes (If Expansion Triggered)
+        run: |
+          git config --global user.name "Onzieb SEO Autopilot"
+          git config --global user.email "music@differenttypeofvibe.com"
+          if [[ -n $(git status --porcelain) ]]; then
+            git add .
+            git commit -m "feat: automatic 60-day pSEO page expansion batch"
+            git push origin main
+          else
+            echo "No page expansion changes to commit today."
+          fi
