@@ -1,0 +1,35 @@
+name: Social Media Content Queue Buffer Monitor
+
+on:
+  schedule:
+    # Runs Tuesday and Friday at 9:00 AM EST (14:00 UTC)
+    - cron: '0 14 * * 2,5'
+  workflow_dispatch:
+
+jobs:
+  monitor-social-queue:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests python-dotenv
+
+      - name: Check Scheduled Social Media Queue
+        run: |
+          python scripts/check_scheduled_posts.py
+        env:
+          META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
+          META_PAGE_ACCESS_TOKEN: ${{ secrets.META_PAGE_ACCESS_TOKEN }}
+          META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          RESEND_FROM_EMAIL: ${{ secrets.RESEND_FROM_EMAIL }}
