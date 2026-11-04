@@ -108,15 +108,16 @@ export async function POST(req: Request) {
     const clientIp = req.headers.get('x-forwarded-for')?.split(',')[0] || '';
     const userAgent = req.headers.get('user-agent') || '';
 
-    // 5. Fire Meta CAPI Lead Event
+    // 5. Fire Meta CAPI Lead Event (with _fbp / _fbc cookie matching for high EMQ score)
     const finalEventId = eventId || 'lead_' + Math.random().toString(36).substring(2, 9) + '_' + Date.now();
     await sendMetaCapiEvent({
       eventName: 'Lead',
       eventId: finalEventId, // Pass the same UUID generated on the frontend
       email: email,
-      sourceUrl: req.headers.get('referer') || '',
+      sourceUrl: req.headers.get('referer') || 'https://differenttypeofvibe.com',
       clientIp,
       userAgent,
+      cookieHeader: req.headers.get('cookie'),
       customData: {
         content_name: '3 Free Beats Pack',
         value: 0.00,

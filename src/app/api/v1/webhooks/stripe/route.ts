@@ -1,4 +1,5 @@
 import { NextResponse } from 'next/server';
+import { sendMetaCapiEvent } from '@/lib/metaCapi';
 
 /**
  * Stripe Webhook Route Handler
@@ -148,9 +149,24 @@ export async function POST(req: Request) {
       case 'checkout.session.completed': {
         const session = event.data.object;
         const buyerEmail = session.customer_details?.email || session.customer_email;
+        const amountTotal = typeof session.amount_total === 'number' ? session.amount_total / 100 : 9.99;
+        const currency = (session.currency || 'usd').toUpperCase();
         console.log(`[Stripe Webhook] Checkout session completed: ${session.id} for email: ${buyerEmail}`);
         if (buyerEmail) {
           await sendFulfillmentEmail(buyerEmail);
+          await sendMetaCapiEvent({
+            eventName: 'Purchase',
+            eventId: `stripe_${session.id}`,
+            email: buyerEmail,
+            sourceUrl: 'https://differenttypeofvibe.com/vip-pass',
+            customData: {
+              value: amountTotal,
+              currency: currency,
+              content_name: 'Stripe Beat / VIP Pass Order',
+              content_type: 'product',
+              order_id: session.id,
+            },
+          });
         }
         break;
       }

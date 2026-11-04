@@ -94,18 +94,31 @@ export async function sendCapiPurchaseEvent({
 // NEW MULTI-EVENT SYSTEM (metaCapi.ts)
 // ==========================================
 interface CapiEventParams {
-  eventName: 'Lead' | 'Purchase' | 'InitiateCheckout';
+  eventName: 'Lead' | 'Purchase' | 'InitiateCheckout' | 'ViewContent';
   eventId: string;
-  email: string;
+  email?: string;
   sourceUrl?: string;
   customData?: Record<string, any>;
   clientIp?: string;
   userAgent?: string;
+  fbp?: string;
+  fbc?: string;
+  cookieHeader?: string | null;
 }
 
 // SHA-256 hash helper required by Meta for PII
 function hashData(data: string): string {
   return crypto.createHash('sha256').update(data.trim().toLowerCase()).digest('hex');
+}
+
+export function extractMetaCookies(cookieHeader?: string | null): { fbp?: string; fbc?: string } {
+  if (!cookieHeader) return {};
+  const fbpMatch = cookieHeader.match(/(?:^|;\s*)_fbp=([^;]+)/);
+  const fbcMatch = cookieHeader.match(/(?:^|;\s*)_fbc=([^;]+)/);
+  return {
+    fbp: fbpMatch ? decodeURIComponent(fbpMatch[1]) : undefined,
+    fbc: fbcMatch ? decodeURIComponent(fbcMatch[1]) : undefined,
+  };
 }
 
 export async function sendMetaCapiEvent({
@@ -116,13 +129,33 @@ export async function sendMetaCapiEvent({
   customData = {},
   clientIp,
   userAgent,
+  fbp,
+  fbc,
+  cookieHeader,
 }: CapiEventParams) {
-  const PIXEL_ID = process.env.META_PIXEL_ID || "339067334980938";
-  const ACCESS_TOKEN = process.env.META_CAPI_ACCESS_TOKEN;
+  const PIXEL_ID = process.env.META_PIXEL_ID || process.env.NEXT_PUBLIC_META_PIXEL_ID || "339067334980938";
+  const ACCESS_TOKEN =
+    process.env.META_CAPI_ACCESS_TOKEN ||
+    process.env.META_PAGE_ACCESS_TOKEN ||
+    process.env.META_ACCESS_TOKEN;
 
   if (!PIXEL_ID || !ACCESS_TOKEN) {
     console.warn('⚠️ Meta CAPI variables missing. Skipping server event.');
     return;
+  }
+
+  const parsedCookies = extractMetaCookies(cookieHeader);
+  const resolvedFbp = fbp || parsedCookies.fbp;
+  const resolvedFbc = fbc || parsedCookies.fbc;
+
+  const userData: Record<string, any> = {
+    client_ip_address: clientIp || undefined,
+    client_user_agent: userAgent || undefined,
+    fbp: resolvedFbp || undefined,
+    fbc: resolvedFbc || undefined,
+  };
+  if (email && email.includes('@')) {
+    userData.em = [hashData(email)];
   }
 
   const payload = {
@@ -133,11 +166,7 @@ export async function sendMetaCapiEvent({
         event_id: eventId, // Deduplication key matching client-side
         event_source_url: sourceUrl || 'https://differenttypeofvibe.com',
         action_source: 'website',
-        user_data: {
-          em: [hashData(email)], // Hashed email address
-          client_ip_address: clientIp,
-          client_user_agent: userAgent,
-        },
+        user_data: userData,
         custom_data: customData,
       },
     ],

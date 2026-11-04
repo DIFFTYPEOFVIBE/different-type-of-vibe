@@ -1,5 +1,6 @@
 import { NextResponse } from 'next/server';
 import crypto from 'crypto';
+import { sendMetaCapiEvent } from '@/lib/metaCapi';
 
 async function sendDownloadEmail(toEmail: string, productName?: string, orderId?: string) {
   const apiKey = process.env.RESEND_API_KEY;
@@ -80,6 +81,21 @@ export async function POST(req: Request) {
 
       if (email) {
         await sendDownloadEmail(email, productName, orderId);
+        const totalCents = typeof attrs.total === 'number' ? attrs.total : 999;
+        await sendMetaCapiEvent({
+          eventName: 'Purchase',
+          eventId: `ls_order_${orderId}`,
+          email: email,
+          sourceUrl: 'https://differenttypeofvibe.com/vip-pass',
+          customData: {
+            value: Number((totalCents / 100).toFixed(2)),
+            currency: (attrs.currency || 'USD').toUpperCase(),
+            content_name: productName || 'Standard VIP Pass',
+            content_ids: variantId ? [String(variantId)] : undefined,
+            content_type: 'product',
+            order_id: String(orderId),
+          },
+        });
       }
     }
 

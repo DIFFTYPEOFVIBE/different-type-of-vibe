@@ -10,6 +10,15 @@ export default function BuyStandardPass({ variantId = 2326670 }: { variantId?: n
     setLoading(true);
     setError('');
     try {
+      if (typeof window !== 'undefined' && (window as any).fbq) {
+        (window as any).fbq('track', 'InitiateCheckout', {
+          content_name: 'Standard VIP Pass ($9.99/mo)',
+          content_ids: [String(variantId)],
+          content_type: 'product',
+          value: 9.99,
+          currency: 'USD',
+        });
+      }
       const res = await fetch('/api/checkout/lemonsqueezy', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },

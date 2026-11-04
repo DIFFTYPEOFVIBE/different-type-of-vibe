@@ -287,6 +287,16 @@ export default function Storefront({ initialFilter = 'All' }: StorefrontProps) {
         audioRef.current.src = track.audioUrl;
         audioRef.current.play();
       }
+      if (typeof window !== 'undefined' && window.fbq) {
+        window.fbq('track', 'ViewContent', {
+          content_name: track.title,
+          content_category: track.artistVibe || track.genre,
+          content_ids: [track.id],
+          content_type: 'product',
+          value: track.priceMp3 || 29.99,
+          currency: 'USD',
+        });
+      }
     }
   };
 
