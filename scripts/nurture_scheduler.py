@@ -37,7 +37,7 @@ NURTURE_SEQUENCE = [
                 
                 <div style="text-align: center; margin: 35px 0;">
                     <a href="https://hnliahdtcbuvggxhmzej.supabase.co/storage/v1/object/public/audio-previews/Your_3_Free_Tagged_Beats.zip" style="background: linear-gradient(135deg, #a855f7 0%, #7c3aed 100%); color: #ffffff; text-decoration: none; padding: 14px 35px; border-radius: 6px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(124, 58, 237, 0.4); display: inline-block;">🎁 Download Your 3 Free Beats (.ZIP)</a>
-                    <p style="margin-top: 12px; font-size: 13px;"><a href="https://www.dropbox.com/scl/fo/zb9g27t6yq1md5ezxjmyj/AJ_lLNhOGcsGazYu4Rd9MxA?rlkey=24sdbulhqybwd8wlp6ghgqzpf&st=i4hjurif&dl=1" style="color: #c084fc; text-decoration: underline;">📲 Mobile / Unzipped Direct Access (Dropbox Folder)</a></p>
+                    <p style="margin-top: 12px; font-size: 13px;"><a href="https://hnliahdtcbuvggxhmzej.supabase.co/storage/v1/object/public/audio-previews/Your_3_Free_Tagged_Beats.zip" style="color: #c084fc; text-decoration: underline;">📲 Mobile / Unzipped Direct Access</a></p>
                 </div>
                 
                 <p style="border-top: 1px solid #1f1440; padding-top: 20px; margin-top: 20px;">🎧 <strong>Ready to release on Spotify/Apple Music?</strong></p>
