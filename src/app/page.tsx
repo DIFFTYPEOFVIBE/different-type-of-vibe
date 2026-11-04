@@ -84,19 +84,73 @@ interface CartItem {
   stripeLink?: string;
 }
 
-const ARTIST_VIBES = [
+const BASE_ARTIST_VIBES = [
   { name: 'Drake Type Beats', slug: 'drake-type-beats' },
   { name: 'Travis Scott Type Beats', slug: 'travis-scott-type-beats' },
   { name: 'Metro Boomin Type Beats', slug: 'metro-boomin-type-beats' },
   { name: 'J. Cole Type Beats', slug: 'j-cole-type-beats' },
-] as const;
+];
 
-const GENRE_CATEGORIES = [
+const BASE_GENRE_CATEGORIES = [
   { name: 'Trap Beats', slug: 'trap-beats' },
   { name: 'Boom Bap Beats', slug: 'boom-bap-beats' },
   { name: 'R&B Instrumentals', slug: 'rb-instrumentals' },
   { name: 'Hip-Hop Beats', slug: 'hip-hop-beats' },
-] as const;
+];
+
+function toSlug(label: string): string {
+  return label
+    .toLowerCase()
+    .replace(/&/g, 'b')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+}
+
+// Dynamically build Artist Vibe & Genre filter buttons from MY_BEATS so any new artist/genre added by the watcher appears automatically
+const ARTIST_VIBES = (() => {
+  const map = new Map<string, { name: string; slug: string }>();
+  for (const item of BASE_ARTIST_VIBES) {
+    map.set(item.name.toLowerCase(), item);
+  }
+  for (const beat of MY_BEATS) {
+    if (beat.artistVibe) {
+      const key = beat.artistVibe.toLowerCase();
+      if (!map.has(key)) {
+        map.set(key, { name: beat.artistVibe, slug: toSlug(beat.artistVibe) });
+      }
+    }
+    // Also extract individual artists from "Title - Artist 1 x Artist 2 Type Beat"
+    const match = beat.title.match(/-\s*(.+?)\s+Type\s+Beat/i);
+    if (match) {
+      const artists = match[1].split(/\s+x\s+/i).map((a) => a.trim()).filter(Boolean);
+      for (const artist of artists) {
+        if (artist.toLowerCase() === 'onzieb style' || artist.toLowerCase() === 'onzieb') continue;
+        const vibeName = `${artist} Type Beats`;
+        const key = vibeName.toLowerCase();
+        if (!map.has(key)) {
+          map.set(key, { name: vibeName, slug: toSlug(vibeName) });
+        }
+      }
+    }
+  }
+  return Array.from(map.values());
+})();
+
+const GENRE_CATEGORIES = (() => {
+  const map = new Map<string, { name: string; slug: string }>();
+  for (const item of BASE_GENRE_CATEGORIES) {
+    map.set(item.name.toLowerCase(), item);
+  }
+  for (const beat of MY_BEATS) {
+    if (beat.genre) {
+      const key = beat.genre.toLowerCase();
+      if (!map.has(key)) {
+        map.set(key, { name: beat.genre, slug: toSlug(beat.genre) });
+      }
+    }
+  }
+  return Array.from(map.values());
+})();
 
 interface StorefrontProps {
   initialFilter?: string;
@@ -120,9 +174,17 @@ export default function Storefront({ initialFilter = 'All' }: StorefrontProps) {
 
   const filteredBeats = useMemo(() => {
     if (selectedFilter === 'All') return MY_BEATS;
-    return MY_BEATS.filter(
-      (beat) => beat.artistVibe === selectedFilter || beat.genre === selectedFilter
-    );
+    const filterNorm = selectedFilter.toLowerCase();
+    const artistPrefix = filterNorm.replace(/\s*type\s*beats?$/i, '').trim();
+    return MY_BEATS.filter((beat) => {
+      if (beat.artistVibe.toLowerCase() === filterNorm || beat.genre.toLowerCase() === filterNorm) {
+        return true;
+      }
+      if (artistPrefix && beat.title.toLowerCase().includes(artistPrefix)) {
+        return true;
+      }
+      return false;
+    });
   }, [selectedFilter]);
 
   const jsonLdSchema = {

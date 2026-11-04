@@ -1,8 +1,8 @@
 export interface Track {
   id: string;
   title: string;
-  genre: 'Trap Beats' | 'Boom Bap Beats' | 'R&B Instrumentals' | 'Hip-Hop Beats';
-  artistVibe: 'Drake Type Beats' | 'Travis Scott Type Beats' | 'Metro Boomin Type Beats' | 'J. Cole Type Beats';
+  genre: string;
+  artistVibe: string;
   bpm: number;
   key: string;
   priceMp3: number;

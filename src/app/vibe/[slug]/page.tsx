@@ -15,9 +15,18 @@ const SLUG_MAP: Record<string, string> = {
   'bryson-tiller-type-beats': 'Bryson Tiller Type Beats',
 };
 
+function resolveVibeCategory(slug: string): string {
+  if (SLUG_MAP[slug]) return SLUG_MAP[slug];
+  if (slug.endsWith('-type-beats')) {
+    const artistPart = slug.replace(/-type-beats$/, '').split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+    return `${artistPart} Type Beats`;
+  }
+  return 'Artist Vibe Beats';
+}
+
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
-  const categoryName = SLUG_MAP[slug] || 'Artist Vibe Beats';
+  const categoryName = resolveVibeCategory(slug);
   const pageUrl = `https://differenttypeofvibe.com/vibe/${slug}`;
   
   return {
@@ -60,8 +69,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 
 export default async function VibePage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
-  const initialCategory = SLUG_MAP[slug] || 'All';
-  const categoryName = SLUG_MAP[slug] || 'Artist Vibe Beats';
+  const categoryName = resolveVibeCategory(slug);
+  const initialCategory = categoryName !== 'Artist Vibe Beats' ? categoryName : 'All';
   const pageUrl = `https://differenttypeofvibe.com/vibe/${slug}`;
 
   const jsonLd = {

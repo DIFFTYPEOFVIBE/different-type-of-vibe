@@ -91,7 +91,7 @@ export default function SubscriptionPricing() {
         </div>
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
         {/* Standard Pass */}
         <div className="bg-zinc-900 border border-zinc-800 rounded-xl p-6 flex flex-col justify-between">
           <div>
@@ -137,27 +137,6 @@ export default function SubscriptionPricing() {
             Go Pro Unlimited
           </button>
         </div>
-
-        {/* Annual VIP Pass */}
-        <div className="bg-zinc-900 border border-zinc-800 rounded-xl p-6 flex flex-col justify-between">
-          <div>
-            <h3 className="text-xl font-bold text-purple-400">Annual VIP Pass</h3>
-            <div className="text-4xl font-black text-white my-4">$89.99 <span className="text-sm font-normal text-zinc-400">/ yr</span></div>
-            <p className="text-xs text-emerald-400 font-semibold mb-4">Save 25% ($7.49/mo equivalent)</p>
-            <ul className="text-sm text-zinc-300 space-y-3 mb-6">
-              <li>✅ Everything in Standard Pass</li>
-              <li>✅ <strong>60 WAV Leases</strong> Upfront for 1 Year</li>
-              <li>✅ Priority Access to New Beat Drops</li>
-              <li>✅ Locked-in Annual Cash Rate</li>
-            </ul>
-          </div>
-          <button
-            onClick={() => handleOpenPlanModal('annual')}
-            className="w-full bg-purple-600 hover:bg-purple-500 text-white font-bold py-3 rounded-lg transition-all"
-          >
-            Get Annual VIP
-          </button>
-        </div>
       </div>
 
       {/* Styled Email Checkout Modal (Replaces browser prompt) */}
@@ -171,7 +150,7 @@ export default function SubscriptionPricing() {
               ✕
             </button>
             <Crown className="w-10 h-10 text-emerald-400 mx-auto mb-3" />
-            <h3 className="text-xl font-extrabold text-white">Start Your {selectedPlan === 'pro' ? 'Pro Creator' : selectedPlan === 'annual' ? 'VIP Annual' : 'Standard'} Pass</h3>
+            <h3 className="text-xl font-extrabold text-white">Start Your {selectedPlan === 'pro' ? 'Pro Creator' : 'Standard'} Pass</h3>
             <p className="text-zinc-400 text-xs mt-1 mb-4">
               Choose your preferred gateway below for instant license & beat file delivery!
             </p>

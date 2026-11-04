@@ -10,9 +10,14 @@ const SLUG_MAP: Record<string, string> = {
   'synthwave-instrumentals': 'Synthwave Instrumentals',
 };
 
+function resolveGenreCategory(slug: string): string {
+  if (SLUG_MAP[slug]) return SLUG_MAP[slug];
+  return slug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+}
+
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
-  const categoryName = SLUG_MAP[slug] || 'Genre Beats';
+  const categoryName = resolveGenreCategory(slug);
   const pageUrl = `https://differenttypeofvibe.com/genre/${slug}`;
   
   return {
@@ -55,8 +60,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 
 export default async function GenrePage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
-  const initialCategory = SLUG_MAP[slug] || 'All';
-  const categoryName = SLUG_MAP[slug] || 'Genre Beats';
+  const categoryName = resolveGenreCategory(slug);
+  const initialCategory = categoryName;
   const pageUrl = `https://differenttypeofvibe.com/genre/${slug}`;
 
   const jsonLd = {
