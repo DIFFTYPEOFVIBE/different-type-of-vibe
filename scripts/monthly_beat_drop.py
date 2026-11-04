@@ -20,20 +20,17 @@ MONTHLY_DROP_ZIP_URL = os.getenv("MONTHLY_DROP_ZIP_URL", "https://www.dropbox.co
 def load_subscribers():
     subscribers = set()
     
-    # 1. Load from post-purchase / nurture state files
-    for state_path in [
-        os.path.join(BASE_DIR, "scripts", "post_purchase_state.json"),
-        os.path.join(BASE_DIR, "scripts", "nurture_state.json")
-    ]:
-        if os.path.exists(state_path):
-            try:
-                with open(state_path, "r", encoding="utf-8") as f:
-                    data = json.load(f)
-                    for email in data.keys():
-                        if "@" in email:
-                            subscribers.add(email.strip().lower())
-            except Exception:
-                pass
+    # ONLY load from verified paid post-purchase state file
+    state_path = os.path.join(BASE_DIR, "scripts", "post_purchase_state.json")
+    if os.path.exists(state_path):
+        try:
+            with open(state_path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+                for email in data.keys():
+                    if "@" in email:
+                        subscribers.add(email.strip().lower())
+        except Exception:
+            pass
 
     return list(subscribers)
 
