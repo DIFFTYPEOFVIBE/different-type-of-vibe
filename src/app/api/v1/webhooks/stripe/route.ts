@@ -76,12 +76,33 @@ async function sendRecoveryEmail(toEmail: string, reason?: string) {
     console.error(`[Stripe Webhook] Exception sending recovery email to ${toEmail}:`, err);
   }
 }
-async function sendFulfillmentEmail(toEmail: string) {
+const STANDARD_PASS_ZIP_URL =
+  'https://www.dropbox.com/scl/fi/forf156uvalla161tvjsr/STANDARD-PASS-5-WAV-COMMERCIAL-LEASES-UNTAGGED.zip?rlkey=sg8xi2iajsa5lhb975by77oda&st=yohnami0&dl=1';
+
+const PRO_CREATOR_PASS_ZIP_URL =
+  process.env.PRO_CREATOR_PASS_DROPBOX_URL ||
+  'https://www.dropbox.com/scl/fo/gz83uvvpk1fp5orl8ifab/ADeEPpROgGcQbKTUiGR8YhI?rlkey=hxg03sdeiwkpsq0gcgimm3oo7&st=ndjdcppo&dl=1';
+
+async function sendFulfillmentEmail(toEmail: string, isProTier = false) {
   const apiKey = process.env.RESEND_API_KEY;
   if (!apiKey) return;
 
   const fromEmail = process.env.RESEND_FROM_EMAIL || 'Onzieb <onzieb@mail.differenttypeofvibe.com>';
-  const subject = '🎉 VIP Pass Order Confirmed! Your Untagged WAV Beat Leases & License Contract';
+  const downloadUrl = isProTier ? PRO_CREATOR_PASS_ZIP_URL : STANDARD_PASS_ZIP_URL;
+  const passName = isProTier ? 'Pro Creator Pass ($24.99/mo)' : 'VIP Artist Pass ($9.99/mo)';
+  const boxHeading = isProTier
+    ? '🚀 PRO CREATOR UNLIMITED WAV + STEMS VAULT'
+    : '🎁 VIP PASS 5 UNTAGGED WAV COMMERCIAL LEASES';
+  const boxDesc = isProTier
+    ? 'Access your Unlimited 24-bit Untagged WAVs, Full Trackout Stems &amp; Monthly Beat Drops directly below:'
+    : 'Download your 5 studio-quality 24-bit untagged WAV beat leases directly below:';
+  const btnLabel = isProTier
+    ? '📥 Access Unlimited WAV + Stems Vault'
+    : '📥 Download 5 Untagged WAV Commercial Leases (.ZIP)';
+  const streamCap = isProTier ? '500,000' : '100,000';
+  const subject = isProTier
+    ? '🚀 Pro Creator Pass Confirmed! Your Unlimited WAV + Stems Vault & 500k Stream License'
+    : '🎉 VIP Pass Order Confirmed! Your Untagged WAV Beat Leases & License Contract';
   
   const htmlContent = `
   <div style="background-color: #0b071a; color: #f1ecff; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 40px 20px; max-width: 600px; margin: 0 auto; border-radius: 12px; border: 1px solid #2d1b4e;">
@@ -91,21 +112,21 @@ async function sendFulfillmentEmail(toEmail: string) {
       </div>
       <div style="background-color: #120c2a; border-radius: 8px; padding: 30px; border: 1px solid #1f1440; line-height: 1.6; font-size: 16px;">
           <p>Hey there 👋,</p>
-          <p>Thank you for subscribing to the <strong>VIP Artist Pass</strong>! Your payment was successfully confirmed.</p>
-          <p>Here are your instant untagged WAV beat leases and official legal licensing rights:</p>
+          <p>Thank you for subscribing to the <strong>${passName}</strong>! Your payment was successfully confirmed.</p>
+          <p>Here are your instant untagged audio files and official legal licensing rights:</p>
 
           <div style="background-color: #1e133e; border: 1px solid #7c3aed; padding: 25px; border-radius: 8px; margin: 25px 0; text-align: center;">
-              <h3 style="color: #c084fc; margin-top: 0;">🎁 VIP PASS 5 UNTAGGED WAV COMMERCIAL LEASES</h3>
-              <p style="color: #d8b4fe; font-size: 14px; margin-bottom: 20px;">Download your 5 studio-quality 24-bit untagged WAV beat leases directly below:</p>
+              <h3 style="color: #c084fc; margin-top: 0;">${boxHeading}</h3>
+              <p style="color: #d8b4fe; font-size: 14px; margin-bottom: 20px;">${boxDesc}</p>
               
-              <a href="https://www.dropbox.com/scl/fi/forf156uvalla161tvjsr/STANDARD-PASS-5-WAV-COMMERCIAL-LEASES-UNTAGGED.zip?rlkey=sg8xi2iajsa5lhb975by77oda&st=yohnami0&dl=1" style="background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; text-decoration: none; padding: 16px 36px; border-radius: 6px; font-weight: bold; font-size: 16px; display: inline-block; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">📥 Download 5 Untagged WAV Commercial Leases (.ZIP)</a>
+              <a href="${downloadUrl}" style="background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; text-decoration: none; padding: 16px 36px; border-radius: 6px; font-weight: bold; font-size: 16px; display: inline-block; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">${btnLabel}</a>
               
               <p style="margin-top: 15px; font-size: 13px;">
-                  <a href="https://www.dropbox.com/scl/fi/forf156uvalla161tvjsr/STANDARD-PASS-5-WAV-COMMERCIAL-LEASES-UNTAGGED.zip?rlkey=sg8xi2iajsa5lhb975by77oda&st=yohnami0&dl=1" style="color: #c084fc; text-decoration: underline;">📲 Mobile / Direct Dropbox Access</a>
+                  <a href="${downloadUrl}" style="color: #c084fc; text-decoration: underline;">📲 Mobile / Direct Dropbox Access</a>
               </p>
           </div>
 
-          <p style="font-size: 14px; color: #a78bfa;">📜 <strong>Licensing Rights Included:</strong> Commercial distribution rights up to 100,000 streams on Spotify & Apple Music, 100% master royalty ownership, and instant clearance against copyright strikes.</p>
+          <p style="font-size: 14px; color: #a78bfa;">📜 <strong>Licensing Rights Included:</strong> Commercial distribution rights up to ${streamCap} streams on Spotify & Apple Music, 100% master royalty ownership${isProTier ? ', Full Stems / Trackouts, Priority Email Support,' : ''} and instant clearance against copyright strikes.</p>
 
           <p style="margin-top: 25px;">Happy recording!<br><strong>Onzieb</strong><br><span style="color: #a78bfa; font-size: 13px;">Different Type of Vibe</span></p>
       </div>
@@ -151,9 +172,11 @@ export async function POST(req: Request) {
         const buyerEmail = session.customer_details?.email || session.customer_email;
         const amountTotal = typeof session.amount_total === 'number' ? session.amount_total / 100 : 9.99;
         const currency = (session.currency || 'usd').toUpperCase();
-        console.log(`[Stripe Webhook] Checkout session completed: ${session.id} for email: ${buyerEmail}`);
-        if (buyerEmail) {
-          await sendFulfillmentEmail(buyerEmail);
+        const planTier = (session.metadata?.planTier || '').toLowerCase();
+        const isProTier = planTier === 'pro' || (session.mode === 'subscription' && amountTotal >= 24);
+        console.log(`[Stripe Webhook] Checkout session completed: ${session.id} for email: ${buyerEmail} (Pro Tier: ${isProTier})`);
+        if (buyerEmail && session.payment_status === 'paid') {
+          await sendFulfillmentEmail(buyerEmail, isProTier);
           await sendMetaCapiEvent({
             eventName: 'Purchase',
             eventId: `stripe_${session.id}`,
@@ -162,7 +185,7 @@ export async function POST(req: Request) {
             customData: {
               value: amountTotal,
               currency: currency,
-              content_name: 'Stripe Beat / VIP Pass Order',
+              content_name: isProTier ? 'Pro Creator Pass ($24.99/mo)' : 'Standard VIP Pass ($9.99/mo)',
               content_type: 'product',
               order_id: session.id,
             },

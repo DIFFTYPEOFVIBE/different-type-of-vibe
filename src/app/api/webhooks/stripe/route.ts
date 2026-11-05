@@ -91,16 +91,18 @@ export async function POST(req: Request) {
     // Check if session is a subscription
     if (session.mode === 'subscription') {
       const email = session.customer_details?.email || undefined;
-      const planTier = session.metadata?.planTier || 'standard';
-      const defaultCredits = planTier === 'pro' ? 999 : 5;
+      const amountTotal = (session.amount_total || 0) / 100;
+      const planTier = (session.metadata?.planTier || (amountTotal >= 24 ? 'pro' : 'standard')).toLowerCase();
+      const isProTier = planTier === 'pro' || amountTotal >= 24;
+      const defaultCredits = isProTier ? 999 : 5;
 
-      if (email) {
+      if (email && session.payment_status === 'paid') {
         try {
           await supabase.from('subscriptions').upsert({
             user_email: email,
             stripe_subscription_id: session.subscription as string,
             stripe_customer_id: session.customer as string,
-            plan_tier: planTier,
+            plan_tier: isProTier ? 'pro' : 'standard',
             status: 'active',
             monthly_wav_credits: defaultCredits,
             credits_remaining: defaultCredits,
@@ -110,6 +112,40 @@ export async function POST(req: Request) {
           console.log(`🎉 New subscription activated for ${email} (${planTier})`);
         } catch (sErr) {
           console.error('Failed to log new subscription in Supabase:', sErr);
+        }
+
+        if (resend) {
+          const downloadUrl = isProTier
+            ? process.env.PRO_CREATOR_PASS_DROPBOX_URL ||
+              'https://www.dropbox.com/scl/fo/gz83uvvpk1fp5orl8ifab/ADeEPpROgGcQbKTUiGR8YhI?rlkey=hxg03sdeiwkpsq0gcgimm3oo7&st=ndjdcppo&dl=1'
+            : 'https://www.dropbox.com/scl/fi/forf156uvalla161tvjsr/STANDARD-PASS-5-WAV-COMMERCIAL-LEASES-UNTAGGED.zip?rlkey=sg8xi2iajsa5lhb975by77oda&st=yohnami0&dl=1';
+          const passName = isProTier ? 'Pro Creator Pass ($24.99/mo)' : 'VIP Artist Pass ($9.99/mo)';
+          const streamCap = isProTier ? '500,000' : '100,000';
+          try {
+            await resend.emails.send({
+              from: 'Onzieb <onzieb@mail.differenttypeofvibe.com>',
+              to: [email],
+              subject: isProTier
+                ? '🚀 Pro Creator Pass Confirmed! Your Unlimited WAV + Stems Vault & 500k Stream License'
+                : '🎉 VIP Pass Order Confirmed! Your Untagged WAV Beat Leases & License Contract',
+              html: `
+                <div style="background-color: #0b071a; color: #f1ecff; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 40px 20px; max-width: 600px; margin: 0 auto; border-radius: 12px; border: 1px solid #2d1b4e;">
+                  <h1 style="color: #c084fc; text-align: center;">DIFFERENT TYPE OF VIBE</h1>
+                  <div style="background-color: #120c2a; border-radius: 8px; padding: 30px; border: 1px solid #1f1440; line-height: 1.6; font-size: 16px;">
+                    <p>Hey there 👋,</p>
+                    <p>Thank you for subscribing to the <strong>${passName}</strong>! Your payment was successfully confirmed.</p>
+                    <div style="background-color: #1e133e; border: 1px solid #7c3aed; padding: 25px; border-radius: 8px; margin: 25px 0; text-align: center;">
+                      <h3 style="color: #c084fc; margin-top: 0;">${isProTier ? '🚀 PRO CREATOR UNLIMITED WAV + STEMS VAULT' : '🎁 VIP PASS 5 UNTAGGED WAV COMMERCIAL LEASES'}</h3>
+                      <a href="${downloadUrl}" style="background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; text-decoration: none; padding: 16px 36px; border-radius: 6px; font-weight: bold; font-size: 16px; display: inline-block;">${isProTier ? '📥 Access Unlimited WAV + Stems Vault' : '📥 Download 5 Untagged WAV Commercial Leases (.ZIP)'}</a>
+                    </div>
+                    <p style="font-size: 14px; color: #a78bfa;">📜 <strong>Licensing Rights Included:</strong> Commercial distribution rights up to ${streamCap} streams on Spotify & Apple Music, 100% master royalty ownership${isProTier ? ', Full Stems / Trackouts, Priority Email Support,' : ''} and instant clearance against copyright strikes.</p>
+                  </div>
+                </div>
+              `,
+            });
+          } catch (emailErr) {
+            console.error('Failed to send subscription fulfillment email:', emailErr);
+          }
         }
       }
     } else {
