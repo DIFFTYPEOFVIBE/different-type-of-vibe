@@ -1,5 +1,6 @@
 import { MetadataRoute } from 'next';
 import { createClient } from '@supabase/supabase-js';
+import { MY_BEATS } from '@/data/beats';
 
 // Revalidate the cached sitemap hourly (3600 seconds)
 export const revalidate = 3600;
@@ -8711,41 +8712,78 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.8,
   }));
 
-  // 10. Fetch active beats dynamically from Supabase to build /beat/[slug] routes
-  let dynamicRoutes: MetadataRoute.Sitemap = [];
-  try {
-    const { data: beats, error } = await supabase
-      .from('beats')
-      .select('slug, updated_at')
-      .eq('active', true); // Fetching active beats
+  // 10. Dynamically extract all /beat/[slug], /vibe/[slug], and /genre/[slug] routes from MY_BEATS
+  const toSlug = (label: string) =>
+    label
+      .toLowerCase()
+      .replace(/&/g, 'b')
+      .replace(/[^a-z0-9]+/g, '-')
+      .replace(/^-+|-+$/g, '');
 
-    if (error) {
-      console.error('⚠️ Error fetching active beats from Supabase for sitemap:', error.message);
-    } else if (beats) {
-      dynamicRoutes = beats.map((beat) => ({
-        url: `${baseUrl}/beat/${beat.slug}`,
-        lastModified: beat.updated_at ? new Date(beat.updated_at) : new Date(),
-        changeFrequency: 'weekly',
-        priority: 0.7,
-      }));
+  const catalogDynamicRoutes: MetadataRoute.Sitemap = [];
+  for (const beat of MY_BEATS) {
+    const cleanTitle = beat.title.split(' - ')[0].trim();
+    const beatSlug = toSlug(cleanTitle);
+    if (beatSlug) {
+      catalogDynamicRoutes.push({
+        url: `${baseUrl}/beat/${beatSlug}`,
+        lastModified: new Date(),
+        changeFrequency: 'daily',
+        priority: 0.9,
+      });
     }
-  } catch (err) {
-    console.error('❌ Unexpected error during sitemap generation:', err);
+    if (beat.artistVibe) {
+      catalogDynamicRoutes.push({
+        url: `${baseUrl}/vibe/${toSlug(beat.artistVibe)}`,
+        lastModified: new Date(),
+        changeFrequency: 'daily',
+        priority: 0.9,
+      });
+    }
+    const artistMatch = beat.title.match(/-\s*(.+?)\s+Type\s+Beat/i);
+    if (artistMatch) {
+      const artists = artistMatch[1].split(/\s+x\s+/i).map((a) => a.trim()).filter(Boolean);
+      for (const artist of artists) {
+        if (artist.toLowerCase() === 'onzieb style' || artist.toLowerCase() === 'onzieb') continue;
+        const vibeSlug = toSlug(`${artist} Type Beats`);
+        catalogDynamicRoutes.push({
+          url: `${baseUrl}/vibe/${vibeSlug}`,
+          lastModified: new Date(),
+          changeFrequency: 'daily',
+          priority: 0.9,
+        });
+      }
+    }
+    if (beat.genre) {
+      catalogDynamicRoutes.push({
+        url: `${baseUrl}/genre/${toSlug(beat.genre)}`,
+        lastModified: new Date(),
+        changeFrequency: 'daily',
+        priority: 0.9,
+      });
+    }
   }
 
-  // 11. Return combined list of 100% active, live pages
-  return [
-    ...staticRoutes, 
-    ...genreRoutes, 
-    ...vibeRoutes, 
+  // 11. Return combined, deduplicated list of 100% active, live pages
+  const combinedRoutes: MetadataRoute.Sitemap = [
+    ...staticRoutes,
+    ...catalogDynamicRoutes,
+    ...genreRoutes,
+    ...vibeRoutes,
     ...moodRoutes,
     ...bpmRoutes,
     ...sceneRoutes,
     ...keyRoutes,
     ...instrumentRoutes,
     ...guideRoutes,
-    ...dynamicRoutes
   ];
+
+  const seenUrls = new Set<string>();
+  return combinedRoutes.filter((route) => {
+    if (seenUrls.has(route.url)) return false;
+    seenUrls.add(route.url);
+    return true;
+  });
 }
 
 
