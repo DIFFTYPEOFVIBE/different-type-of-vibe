@@ -19,6 +19,19 @@ const nextConfig: NextConfig = {
   },
   async redirects() {
     return [
+      // 1. Force www canonical domain (Permanent 301 Redirect for Link Equity & PageRank Consolidation)
+      {
+        source: "/:path*",
+        has: [
+          {
+            type: "host",
+            value: "differenttypeofvibe.com",
+          },
+        ],
+        destination: "https://www.differenttypeofvibe.com/:path*",
+        permanent: true,
+      },
+      // 2. Free pack instant download
       {
         source: "/downloads/free-pack-01",
         destination: "/Your_3_Free_Tagged_Beats.zip",
