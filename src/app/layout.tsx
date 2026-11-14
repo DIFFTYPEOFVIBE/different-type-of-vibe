@@ -9,7 +9,8 @@ import "./globals.css";
 export const revalidate = 3600; // 1-Hour Vercel Edge CDN Caching with ISR for fast TTFB (<30ms)
 
 const FB_PIXEL_ID = process.env.NEXT_PUBLIC_META_PIXEL_ID || "339067334980938";
-const GA_MEASUREMENT_ID = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID;
+const GA_MEASUREMENT_ID = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID || "G-BQ05FL4CH8";
+const GTM_ID = process.env.NEXT_PUBLIC_GTM_ID || "GTM-PJLWDHWD";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -149,9 +150,9 @@ export default function RootLayout({
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
 
-        {/* Google Tag (gtag.js) for Google Ads & Direct GA4 */}
+        {/* Google Tag (gtag.js) for GA4 & Google Ads */}
         <Script
-          src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID || 'AW-985653416'}`}
+          src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`}
           strategy="afterInteractive"
         />
         <Script id="google-tags-init" strategy="afterInteractive">
@@ -159,8 +160,8 @@ export default function RootLayout({
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
+            gtag('config', '${GA_MEASUREMENT_ID}', { send_page_view: true });
             gtag('config', 'AW-985653416');
-            ${GA_MEASUREMENT_ID ? `gtag('config', '${GA_MEASUREMENT_ID}', { send_page_view: true });` : ''}
           `}
         </Script>
 
@@ -174,7 +175,7 @@ export default function RootLayout({
               new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
               j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
               'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-              })(window,document,'script','dataLayer','GTM-K9N3X2P');
+              })(window,document,'script','dataLayer','${GTM_ID}');
             `,
           }}
         />
@@ -205,7 +206,7 @@ export default function RootLayout({
         {/* GTM Noscript Fallback */}
         <noscript>
           <iframe
-            src="https://www.googletagmanager.com/ns.html?id=GTM-K9N3X2P"
+            src={`https://www.googletagmanager.com/ns.html?id=${GTM_ID}`}
             height="0"
             width="0"
             style={{ display: "none", visibility: "hidden" }}
