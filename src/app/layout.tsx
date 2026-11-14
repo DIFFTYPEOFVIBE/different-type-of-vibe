@@ -9,13 +9,14 @@ import "./globals.css";
 export const revalidate = 3600; // 1-Hour Vercel Edge CDN Caching with ISR for fast TTFB (<30ms)
 
 const FB_PIXEL_ID = process.env.NEXT_PUBLIC_META_PIXEL_ID || "339067334980938";
+const GA_MEASUREMENT_ID = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID;
 
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://differenttypeofvibe.com"),
+  metadataBase: new URL("https://www.differenttypeofvibe.com"),
   alternates: {
-    canonical: "./",
+    canonical: "https://www.differenttypeofvibe.com",
   },
   title: {
     default: "Different Type of Vibe | Instrumental Beat Catalog by Onzieb",
@@ -43,7 +44,7 @@ export const metadata: Metadata = {
     "Music Producer",
   ],
 
-  authors: [{ name: "Onzieb", url: "https://differenttypeofvibe.com" }],
+  authors: [{ name: "Onzieb", url: "https://www.differenttypeofvibe.com" }],
   creator: "Onzieb",
   publisher: "Different Type of Vibe LLC",
 
@@ -51,7 +52,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://differenttypeofvibe.com",
+    url: "https://www.differenttypeofvibe.com",
     siteName: "Different Type of Vibe",
     title: "Different Type of Vibe | Premium Beats & Instrumentals by Onzieb",
     description:
@@ -148,17 +149,18 @@ export default function RootLayout({
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
 
-        {/* Google Ads Tag (gtag.js) */}
+        {/* Google Tag (gtag.js) for Google Ads & Direct GA4 */}
         <Script
-          src="https://www.googletagmanager.com/gtag/js?id=AW-985653416"
+          src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID || 'AW-985653416'}`}
           strategy="afterInteractive"
         />
-        <Script id="google-ads-tag" strategy="afterInteractive">
+        <Script id="google-tags-init" strategy="afterInteractive">
           {`
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
             gtag('config', 'AW-985653416');
+            ${GA_MEASUREMENT_ID ? `gtag('config', '${GA_MEASUREMENT_ID}', { send_page_view: true });` : ''}
           `}
         </Script>
 

@@ -4,11 +4,12 @@ declare global {
   interface Window {
     dataLayer: Record<string, any>[];
     fbq?: (...args: any[]) => void;
+    gtag?: (...args: any[]) => void;
   }
 }
 
 /**
- * Fires custom events to GTM DataLayer and Meta Pixel
+ * Fires custom events to GTM DataLayer, GA4 (via gtag), and Meta Pixel
  */
 export const trackCustomEvent = ({
   eventName,
@@ -28,7 +29,12 @@ export const trackCustomEvent = ({
     ...eventParams,
   });
 
-  // 2. Fire Meta / Facebook Pixel
+  // 2. Direct Google Analytics 4 Event (bypasses ad-blockers and GTM delays)
+  if (typeof window.gtag === 'function') {
+    window.gtag('event', eventName, eventParams);
+  }
+
+  // 3. Fire Meta / Facebook Pixel
   if (window.fbq) {
     if (fbEventName) {
       window.fbq('track', fbEventName, eventParams);
