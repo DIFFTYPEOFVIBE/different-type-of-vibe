@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'VIP Artist Pass Subscriptions & Beat Deals | Different Type of Vibe',
   description: 'Subscribe for $9.99/mo to get untagged WAV beat leases delivered monthly, or get exclusive BOGO beat discounts.',
   alternates: {
-    canonical: 'https://differenttypeofvibe.com/deals',
+    canonical: 'https://www.differenttypeofvibe.com/deals',
   },
 };
 

@@ -1,6 +1,7 @@
 import { MetadataRoute } from 'next';
 import { createClient } from '@supabase/supabase-js';
 import { MY_BEATS } from '@/data/beats';
+import { COUNTRY_DATA } from '@/data/countryDeals';
 
 // Revalidate the cached sitemap hourly (3600 seconds)
 export const revalidate = 3600;
@@ -13,18 +14,8 @@ const supabase = createClient(supabaseUrl, supabaseAnonKey);
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const baseUrl = 'https://www.differenttypeofvibe.com';
 
-  // 1. Live static routes that respond with 200 OK
-  const countrySlugs = [
-    'us', 'united-states', 'ca', 'canada', 'gb', 'united-kingdom', 'ie', 'ireland',
-    'de', 'germany', 'nl', 'netherlands', 'fr', 'france', 'be', 'belgium',
-    'ch', 'switzerland', 'se', 'sweden', 'dk', 'denmark', 'at', 'austria',
-    'it', 'italy', 'es', 'spain', 'no', 'norway', 'au', 'australia',
-    'gh', 'ghana', 'ng', 'nigeria', 'za', 'south-africa',
-    'los-angeles', 'atlanta', 'london', 'toronto', 'berlin', 'paris',
-    'amsterdam', 'lagos', 'johannesburg', 'sydney'
-  ];
-
-  const countryDealsRoutes: MetadataRoute.Sitemap = countrySlugs.map((slug) => ({
+  // 1. Live static routes that respond with 200 OK (dynamically synced from COUNTRY_DATA)
+  const countryDealsRoutes: MetadataRoute.Sitemap = Object.keys(COUNTRY_DATA).map((slug) => ({
     url: `${baseUrl}/deals/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'daily',
