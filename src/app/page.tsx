@@ -3,7 +3,8 @@
 import React, { useState, useEffect, useRef, useMemo } from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
-import { Play, Pause, Download, Music2, CheckCircle2, ShoppingCart, Trash2, Tag, X, Gift, Filter, User, Disc } from 'lucide-react';
+import { Play, Pause, Download, Music2, CheckCircle2, ShoppingCart, Trash2, Tag, X, Gift, Filter, User, Disc, Globe } from 'lucide-react';
+import GermanMarketBanner from '@/components/GermanMarketBanner';
 
 // ==========================================
 // INLINE EXIT-INTENT MODAL COMPONENT
@@ -154,9 +155,17 @@ const GENRE_CATEGORIES = (() => {
 
 interface StorefrontProps {
   initialFilter?: string;
+  seoTitle?: string;
+  seoDescription?: string;
+  seoBadge?: string;
 }
 
-export default function Storefront({ initialFilter = 'All' }: StorefrontProps) {
+export default function Storefront({
+  initialFilter = 'All',
+  seoTitle,
+  seoDescription,
+  seoBadge,
+}: StorefrontProps) {
   const router = useRouter();
   const [currentTrack, setCurrentTrack] = useState<Track | null>(null);
   const [isPlaying, setIsPlaying] = useState(false);
@@ -176,7 +185,7 @@ export default function Storefront({ initialFilter = 'All' }: StorefrontProps) {
     if (selectedFilter === 'All') return MY_BEATS;
     const filterNorm = selectedFilter.toLowerCase();
     const artistPrefix = filterNorm.replace(/\s*type\s*beats?$/i, '').trim();
-    return MY_BEATS.filter((beat) => {
+    const matches = MY_BEATS.filter((beat) => {
       if (beat.artistVibe.toLowerCase() === filterNorm || beat.genre.toLowerCase() === filterNorm) {
         return true;
       }
@@ -185,15 +194,16 @@ export default function Storefront({ initialFilter = 'All' }: StorefrontProps) {
       }
       return false;
     });
+    return matches.length > 0 ? matches : MY_BEATS;
   }, [selectedFilter]);
 
   const jsonLdSchema = {
     '@context': 'https://schema.org',
     '@type': 'MusicGroup',
-    '@id': 'https://differenttypeofvibe.com#musicgroup',
+    '@id': 'https://www.differenttypeofvibe.com#musicgroup',
     name: 'Different Type of Vibe',
-    url: 'https://differenttypeofvibe.com',
-    logo: 'https://differenttypeofvibe.com/images/logo.jpg',
+    url: 'https://www.differenttypeofvibe.com',
+    logo: 'https://www.differenttypeofvibe.com/images/logo.jpg',
     description: 'Premier beat storefront by Onzieb. Stream and purchase untagged instrumental leases, custom beats, and stems for Drake, Travis Scott, and Boom Bap type beats.',
     genre: ['Hip-Hop', 'Trap', 'Boom Bap', 'R&B'],
     aggregateRating: {
@@ -365,8 +375,13 @@ export default function Storefront({ initialFilter = 'All' }: StorefrontProps) {
       <audio
         ref={audioRef}
         onEnded={() => setIsPlaying(false)}
+        controlsList="nodownload"
+        onContextMenu={(e) => e.preventDefault()}
         className="hidden"
       />
+
+      {/* German & DACH Market Regional Callout */}
+      <GermanMarketBanner />
 
       {/* Header Banner */}
       <header className="border-b border-neutral-800 bg-neutral-900/50 backdrop-blur sticky top-0 z-40">
@@ -400,15 +415,39 @@ export default function Storefront({ initialFilter = 'All' }: StorefrontProps) {
       </header>
 
       <div className="max-w-4xl mx-auto px-4 w-full mt-8 space-y-10">
+        {seoTitle && (
+          <section className="rounded-2xl bg-neutral-900/70 border border-purple-800/40 p-6 md:p-8 shadow-xl space-y-3">
+            {seoBadge && (
+              <div className="inline-flex items-center px-3 py-1 rounded-full bg-purple-500/20 text-purple-300 border border-purple-500/30 text-xs font-semibold uppercase tracking-wider">
+                {seoBadge}
+              </div>
+            )}
+            <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight text-white">
+              {seoTitle}
+            </h1>
+            {seoDescription && (
+              <p className="text-neutral-300 text-sm md:text-base leading-relaxed">
+                {seoDescription}
+              </p>
+            )}
+          </section>
+        )}
+
         {/* FREE BEATS OPT-IN BANNER */}
         <section className="relative overflow-hidden rounded-2xl bg-gradient-to-r from-purple-900/60 via-purple-950 to-neutral-900 border border-purple-800/40 p-6 md:p-8 shadow-2xl">
           <div className="max-w-2xl space-y-4">
             <div className="inline-flex items-center space-x-2 px-3 py-1 rounded-full bg-purple-500/20 text-purple-300 border border-purple-500/30 text-xs font-medium">
               <span>🔥 Exclusive Producer Pack</span>
             </div>
-            <h1 className="text-2xl md:text-3xl font-extrabold tracking-tight text-white">
-              Grab 3 Free Tagged Beats
-            </h1>
+            {seoTitle ? (
+              <h2 className="text-2xl md:text-3xl font-extrabold tracking-tight text-white">
+                Grab 3 Free Tagged Beats
+              </h2>
+            ) : (
+              <h1 className="text-2xl md:text-3xl font-extrabold tracking-tight text-white">
+                Grab 3 Free Tagged Beats
+              </h1>
+            )}
             <p className="text-neutral-300 text-sm md:text-base leading-relaxed">
               Enter your email below to instantly receive 3 high-quality MP3 tagged beats straight to your inbox for demoing and writing.
             </p>
@@ -448,6 +487,28 @@ export default function Storefront({ initialFilter = 'All' }: StorefrontProps) {
         <section className="bg-neutral-900/40 border border-purple-900/30 rounded-2xl p-2 my-4">
           <SubscriptionPricing />
         </section>
+
+        {/* INTERNATIONAL REGIONAL DEALS STRIP (GERMANY, UK, NIGERIA, US) */}
+        <div className="flex flex-col sm:flex-row sm:items-center justify-between p-3.5 rounded-xl bg-zinc-900/80 border border-zinc-800 text-xs text-zinc-300 gap-2.5">
+          <div className="flex items-center space-x-2">
+            <Globe className="w-4 h-4 text-purple-400 shrink-0" />
+            <span><strong>International Artist Hubs:</strong> Local currency checkout &amp; PRO clearance</span>
+          </div>
+          <div className="flex flex-wrap items-center gap-2 text-xs">
+            <Link href="/deals/germany/beats-kaufen" className="hover:text-amber-300 transition bg-zinc-800/80 px-2 py-0.5 rounded border border-zinc-700/60 font-medium">
+              🇩🇪 Beats Kaufen (GEMA)
+            </Link>
+            <Link href="/deals/uk/drill" className="hover:text-purple-300 transition bg-zinc-800/80 px-2 py-0.5 rounded border border-zinc-700/60 font-medium">
+              🇬🇧 UK Drill (PRS)
+            </Link>
+            <Link href="/deals/nigeria/paystack" className="hover:text-emerald-300 transition bg-zinc-800/80 px-2 py-0.5 rounded border border-zinc-700/60 font-medium">
+              🇳🇬 Paystack Naira (₦)
+            </Link>
+            <Link href="/deals" className="text-purple-400 hover:underline font-medium">
+              All Deals ➔
+            </Link>
+          </div>
+        </div>
 
         {/* BULK DISCOUNT ANNOUNCEMENT BANNER */}
         <div className="flex items-center justify-between p-3 rounded-xl bg-purple-950/40 border border-purple-800/50 text-xs text-purple-300">
