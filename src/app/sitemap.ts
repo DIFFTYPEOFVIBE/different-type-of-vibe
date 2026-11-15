@@ -6129,7 +6129,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   ];
 
   // 2. High-converting genre landing pages
-  const genreRoutes: MetadataRoute.Sitemap = [
+  const genreRoutes: MetadataRoute.Sitemap = ([
     {
       url: `${baseUrl}/genre/trap-beats`,
       lastModified: new Date(),
@@ -6236,10 +6236,10 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'cinematic-lo-fi-beats',
     'jersey-club-rap-beats',
     'drift-phonk-beats'
-  ].map(item => typeof item === 'string' ? { url: `${baseUrl}/genre/${item}`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.8 } : item);
+  ].map(item => typeof item === 'string' ? { url: `${baseUrl}/genre/${item}`, lastModified: new Date(), changeFrequency: 'weekly' as const, priority: 0.8 } : item)) as any;
 
   // 3. High-converting vibe landing pages
-  const vibeRoutes: MetadataRoute.Sitemap = [
+  const vibeRoutes: MetadataRoute.Sitemap = ([
     {
       url: `${baseUrl}/vibe/drake-type-beats`,
       lastModified: new Date(),
@@ -6489,7 +6489,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'boy-spyce-type-beats',
     'bayanni-type-beats',
     'crayon-type-beats'
-  ].map(item => typeof item === 'string' ? { url: `${baseUrl}/vibe/${item}`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.8 } : item);
+  ].map(item => typeof item === 'string' ? { url: `${baseUrl}/vibe/${item}`, lastModified: new Date(), changeFrequency: 'weekly' as const, priority: 0.8 } : item)) as any;
 
   // 4. Mood-based search landing pages
   const moodRoutes: MetadataRoute.Sitemap = [
