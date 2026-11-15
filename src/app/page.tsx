@@ -3,7 +3,7 @@
 import React, { useState, useEffect, useRef, useMemo } from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
-import { Play, Pause, Download, Music2, CheckCircle2, ShoppingCart, Trash2, Tag, X, Gift, Filter, User, Disc, Globe } from 'lucide-react';
+import { Play, Pause, Download, Music2, CheckCircle2, ShoppingCart, Trash2, Tag, X, Gift, Filter, User, Disc, Globe, Search } from 'lucide-react';
 import GermanMarketBanner from '@/components/GermanMarketBanner';
 
 // ==========================================
@@ -170,6 +170,7 @@ export default function Storefront({
   const [currentTrack, setCurrentTrack] = useState<Track | null>(null);
   const [isPlaying, setIsPlaying] = useState(false);
   const [selectedFilter, setSelectedFilter] = useState<string>(initialFilter);
+  const [searchQuery, setSearchQuery] = useState<string>('');
   const [email, setEmail] = useState('');
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [optInSuccess, setOptInSuccess] = useState(false);
@@ -182,20 +183,38 @@ export default function Storefront({
   }, [initialFilter]);
 
   const filteredBeats = useMemo(() => {
-    if (selectedFilter === 'All') return MY_BEATS;
-    const filterNorm = selectedFilter.toLowerCase();
-    const artistPrefix = filterNorm.replace(/\s*type\s*beats?$/i, '').trim();
-    const matches = MY_BEATS.filter((beat) => {
-      if (beat.artistVibe.toLowerCase() === filterNorm || beat.genre.toLowerCase() === filterNorm) {
-        return true;
-      }
-      if (artistPrefix && beat.title.toLowerCase().includes(artistPrefix)) {
-        return true;
-      }
-      return false;
-    });
-    return matches.length > 0 ? matches : MY_BEATS;
-  }, [selectedFilter]);
+    let list = MY_BEATS;
+
+    if (selectedFilter !== 'All') {
+      const filterNorm = selectedFilter.toLowerCase();
+      const artistPrefix = filterNorm.replace(/\s*type\s*beats?$/i, '').trim();
+      const matches = list.filter((beat) => {
+        if (beat.artistVibe.toLowerCase() === filterNorm || beat.genre.toLowerCase() === filterNorm) {
+          return true;
+        }
+        if (artistPrefix && beat.title.toLowerCase().includes(artistPrefix)) {
+          return true;
+        }
+        return false;
+      });
+      list = matches.length > 0 ? matches : list;
+    }
+
+    if (searchQuery.trim()) {
+      const q = searchQuery.toLowerCase().trim();
+      list = list.filter((beat) => {
+        return (
+          beat.title.toLowerCase().includes(q) ||
+          beat.genre.toLowerCase().includes(q) ||
+          beat.artistVibe.toLowerCase().includes(q) ||
+          beat.key.toLowerCase().includes(q) ||
+          String(beat.bpm).includes(q)
+        );
+      });
+    }
+
+    return list;
+  }, [selectedFilter, searchQuery]);
 
   const jsonLdSchema = {
     '@context': 'https://schema.org',
@@ -358,6 +377,7 @@ export default function Storefront({
 
   const resetFilter = () => {
     setSelectedFilter('All');
+    setSearchQuery('');
     router.push('/');
   };
 
@@ -524,15 +544,38 @@ export default function Storefront({
             <div className="flex items-center space-x-2">
               <Filter className="w-4 h-4 text-purple-400" />
               <h3 className="text-sm font-bold tracking-wider text-neutral-200 uppercase">
-                Filter Catalog
+                Filter &amp; Search Catalog
               </h3>
             </div>
-            {selectedFilter !== 'All' && (
+            {(selectedFilter !== 'All' || searchQuery !== '') && (
               <button
+                type="button"
                 onClick={resetFilter}
                 className="text-xs text-purple-400 hover:text-purple-300 transition-colors underline cursor-pointer"
               >
-                Reset Filter (Show All)
+                Reset Filters (Show All)
+              </button>
+            )}
+          </div>
+
+          {/* Real-Time Live Search Input Bar */}
+          <div className="relative">
+            <Search className="w-4 h-4 text-purple-400 absolute left-3.5 top-1/2 -translate-y-1/2 pointer-events-none" />
+            <input
+              type="text"
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+              placeholder="Search by artist vibe, tempo/BPM, genre, or key (e.g. Travis Scott, 130 BPM, Boom Bap, Fmin)..."
+              className="w-full pl-10 pr-10 py-3 bg-neutral-950/90 border border-neutral-800 focus:border-purple-500 rounded-xl text-sm text-white placeholder-neutral-500 focus:outline-none focus:ring-1 focus:ring-purple-500 transition-all shadow-inner"
+            />
+            {searchQuery && (
+              <button
+                type="button"
+                onClick={() => setSearchQuery('')}
+                className="absolute right-3.5 top-1/2 -translate-y-1/2 text-neutral-400 hover:text-white transition"
+                aria-label="Clear search"
+              >
+                <X className="w-4 h-4" />
               </button>
             )}
           </div>
@@ -602,7 +645,22 @@ export default function Storefront({
           </div>
 
           <div className="space-y-3">
-            {filteredBeats.map((track) => {
+            {filteredBeats.length === 0 ? (
+              <div className="p-8 text-center bg-neutral-900/40 rounded-xl border border-neutral-800">
+                <Music2 className="w-8 h-8 text-neutral-500 mx-auto mb-2" />
+                <p className="text-neutral-300 font-medium text-sm">
+                  No beats found matching &ldquo;{searchQuery}&rdquo;
+                </p>
+                <button
+                  type="button"
+                  onClick={resetFilter}
+                  className="mt-3 text-xs text-purple-400 hover:text-purple-300 underline cursor-pointer"
+                >
+                  Reset search and show all beats
+                </button>
+              </div>
+            ) : (
+              filteredBeats.map((track) => {
               const isCurrent = currentTrack?.id === track.id;
               const isThisPlaying = isCurrent && isPlaying;
 
@@ -674,7 +732,8 @@ export default function Storefront({
                   </div>
                 </div>
               );
-            })}
+            })
+          )}
           </div>
         </section>
       </div>
