@@ -4,6 +4,7 @@ import { Analytics } from "@vercel/analytics/react";
 import Script from "next/script";
 import SeoFooter from "@/components/SeoFooter";
 import StickyMobileVipBar from "@/components/StickyMobileVipBar";
+import FloatingWhatsAppWidget from "@/components/FloatingWhatsAppWidget";
 import "./globals.css";
 
 export const revalidate = 3600; // 1-Hour Vercel Edge CDN Caching with ISR for fast TTFB (<30ms)
@@ -254,6 +255,9 @@ export default function RootLayout({
 
         {/* Omnipresent Mobile Sticky VIP Pass Checkout Gateway */}
         <StickyMobileVipBar />
+
+        {/* Global Floating WhatsApp Direct Inbound Chat Widget */}
+        <FloatingWhatsAppWidget />
 
         <Analytics />
       </body>
