@@ -102,10 +102,10 @@ export default function RootLayout({
     "@graph": [
       {
         "@type": "Organization",
-        "@id": "https://differenttypeofvibe.com/#organization",
+        "@id": "https://www.differenttypeofvibe.com/#organization",
         "name": "Different Type of Vibe",
-        "url": "https://differenttypeofvibe.com",
-        "logo": "https://differenttypeofvibe.com/og-image.png",
+        "url": "https://www.differenttypeofvibe.com",
+        "logo": "https://www.differenttypeofvibe.com/og-image.png",
         "founder": {
           "@type": "Person",
           "name": "Onzieb",
@@ -119,10 +119,10 @@ export default function RootLayout({
       },
       {
         "@type": "MusicStore",
-        "@id": "https://differenttypeofvibe.com/#store",
+        "@id": "https://www.differenttypeofvibe.com/#store",
         "name": "Different Type of Vibe Beat Store",
-        "url": "https://differenttypeofvibe.com",
-        "image": "https://differenttypeofvibe.com/og-image.png",
+        "url": "https://www.differenttypeofvibe.com",
+        "image": "https://www.differenttypeofvibe.com/og-image.png",
         "description":
           "Premium untagged hip-hop, trap, lofi, and boom bap beats produced by Onzieb. Instant MP3, WAV, and STEMS licensing.",
         "address": {
@@ -132,7 +132,7 @@ export default function RootLayout({
           "addressCountry": "US"
         },
         "publisher": {
-          "@id": "https://differenttypeofvibe.com/#organization",
+          "@id": "https://www.differenttypeofvibe.com/#organization",
         },
         "currenciesAccepted": "USD",
         "paymentAccepted": "Credit Card, Stripe",

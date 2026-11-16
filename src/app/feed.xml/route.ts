@@ -8,7 +8,7 @@ function slugify(title: string): string {
 }
 
 export async function GET() {
-  const baseUrl = 'https://differenttypeofvibe.com';
+  const baseUrl = 'https://www.differenttypeofvibe.com';
 
   const articles = [
     {
