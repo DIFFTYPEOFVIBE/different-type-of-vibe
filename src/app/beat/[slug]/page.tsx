@@ -90,6 +90,7 @@ export async function generateMetadata({ params }: BeatPageProps): Promise<Metad
   const pageTitle = `${cleanTitle} | ${artists} | ${beat.genre} Instrumental (${beat.bpm} BPM)`;
   const pageDescription = `Buy and download "${cleanTitle}", a ${beat.genre} ${artists}. Tempo: ${beat.bpm} BPM, Key: ${beat.key}. Instant MP3, WAV, and Trackout license delivery.`;
   const pageUrl = `${SITE_URL}/beat/${beat.slug}`;
+  const ogImageUrl = `https://www.differenttypeofvibe.com/api/og?title=${encodeURIComponent(cleanTitle)}&subtitle=${encodeURIComponent(artists)}&meta=${encodeURIComponent(`${beat.bpm} BPM • ${beat.key} • ${beat.genre}`)}&badge=Studio+Master`;
 
   return {
     title: pageTitle,
@@ -101,13 +102,13 @@ export async function generateMetadata({ params }: BeatPageProps): Promise<Metad
       title: pageTitle,
       description: pageDescription,
       url: pageUrl,
-      siteName: 'Onzieb Beats',
+      siteName: 'Different Type of Vibe',
       images: [
         {
-          url: beat.coverUrl,
+          url: ogImageUrl,
           width: 1200,
-          height: 1200,
-          alt: `${cleanTitle} Cover Art`,
+          height: 630,
+          alt: `${cleanTitle} (${artists})`,
         },
       ],
       type: 'music.song',
@@ -122,7 +123,7 @@ export async function generateMetadata({ params }: BeatPageProps): Promise<Metad
       card: 'summary_large_image',
       title: pageTitle,
       description: pageDescription,
-      images: [beat.coverUrl],
+      images: [ogImageUrl],
     },
   };
 }

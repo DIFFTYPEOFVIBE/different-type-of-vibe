@@ -1,4 +1,5 @@
 import Storefront from '@/app/page';
+import Link from 'next/link';
 
 interface StrikingDistanceConfig {
   metaTitle: string;
@@ -193,6 +194,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const categoryName = resolveVibeCategory(slug);
   const pageUrl = `https://www.differenttypeofvibe.com/vibe/${slug}`;
   const striking = STRIKING_DISTANCE_CONFIGS[slug];
+  const ogImageUrl = `https://www.differenttypeofvibe.com/api/og?title=${encodeURIComponent(striking ? striking.seoTitle : `Buy ${categoryName} 2026`)}&subtitle=${encodeURIComponent('Untagged 24-Bit WAV Leases & VIP Pass')}&badge=Top+Ranked+Vibe`;
 
   if (striking) {
     return {
@@ -205,14 +207,14 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
         description: striking.metaDesc,
         url: pageUrl,
         siteName: 'Different Type of Vibe',
-        images: [{ url: 'https://www.differenttypeofvibe.com/og-image.png', width: 1200, height: 630, alt: striking.metaTitle }],
+        images: [{ url: ogImageUrl, width: 1200, height: 630, alt: striking.metaTitle }],
         type: 'website',
       },
       twitter: {
         card: 'summary_large_image',
         title: striking.metaTitle,
         description: striking.metaDesc,
-        images: ['https://www.differenttypeofvibe.com/og-image.png'],
+        images: [ogImageUrl],
       },
     };
   }
@@ -238,7 +240,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       siteName: 'Different Type of Vibe',
       images: [
         {
-          url: 'https://www.differenttypeofvibe.com/og-image.png',
+          url: ogImageUrl,
           width: 1200,
           height: 630,
           alt: `${categoryName} Catalog - Different Type of Vibe`,
@@ -250,7 +252,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       card: 'summary_large_image',
       title: `Buy ${categoryName} | Different Type of Vibe`,
       description: `Stream and license high-quality ${categoryName} produced by Onzieb.`,
-      images: ['https://www.differenttypeofvibe.com/og-image.png'],
+      images: [ogImageUrl],
     },
   };
 }
@@ -414,6 +416,45 @@ export default async function VibePage({ params }: { params: Promise<{ slug: str
           </div>
         </section>
       )}
+      {/* Sibling Topic Mesh Inter-Linking Ribbon */}
+      <section className="container mx-auto px-4 py-10 max-w-4xl">
+        <div className="bg-neutral-950/90 border border-neutral-800 rounded-2xl p-6 md:p-8 space-y-6 shadow-xl">
+          <div>
+            <span className="text-purple-400 font-bold text-xs uppercase tracking-wider block mb-3">
+              🔥 Sibling Artist Style Hubs
+            </span>
+            <div className="flex flex-wrap gap-2">
+              {Object.entries(SLUG_MAP).map(([s, name]) => (
+                <Link
+                  key={s}
+                  href={`/vibe/${s}`}
+                  className={`px-3 py-1.5 rounded-lg text-xs font-medium transition ${
+                    s === slug
+                      ? 'bg-purple-600 text-white font-bold'
+                      : 'bg-neutral-900 text-neutral-300 hover:text-white hover:bg-neutral-800 border border-neutral-800'
+                  }`}
+                >
+                  {name}
+                </Link>
+              ))}
+            </div>
+          </div>
+
+          <div>
+            <span className="text-purple-400 font-bold text-xs uppercase tracking-wider block mb-3">
+              🎧 Commercial Genre Catalogs
+            </span>
+            <div className="flex flex-wrap gap-2">
+              <Link href="/genre/trap-beats" className="px-3 py-1.5 rounded-lg text-xs font-medium bg-neutral-900 text-neutral-300 hover:text-white hover:bg-neutral-800 border border-neutral-800 transition">Trap Beats</Link>
+              <Link href="/genre/boom-bap-beats" className="px-3 py-1.5 rounded-lg text-xs font-medium bg-neutral-900 text-neutral-300 hover:text-white hover:bg-neutral-800 border border-neutral-800 transition">Boom Bap Beats</Link>
+              <Link href="/genre/rb-instrumentals" className="px-3 py-1.5 rounded-lg text-xs font-medium bg-neutral-900 text-neutral-300 hover:text-white hover:bg-neutral-800 border border-neutral-800 transition">R&amp;B Beats</Link>
+              <Link href="/genre/hip-hop-beats" className="px-3 py-1.5 rounded-lg text-xs font-medium bg-neutral-900 text-neutral-300 hover:text-white hover:bg-neutral-800 border border-neutral-800 transition">Hip-Hop Beats</Link>
+              <Link href="/genre/drill-beats" className="px-3 py-1.5 rounded-lg text-xs font-medium bg-neutral-900 text-neutral-300 hover:text-white hover:bg-neutral-800 border border-neutral-800 transition">Drill Beats</Link>
+              <Link href="/genre/lofi-hip-hop-beats" className="px-3 py-1.5 rounded-lg text-xs font-medium bg-neutral-900 text-neutral-300 hover:text-white hover:bg-neutral-800 border border-neutral-800 transition">Lo-Fi Beats</Link>
+            </div>
+          </div>
+        </div>
+      </section>
     </>
   );
 }
