@@ -21,12 +21,12 @@ export const metadata: Metadata = {
     'afrobeats instrumentals',
   ],
   alternates: {
-    canonical: 'https://differenttypeofvibe.com/pricing',
+    canonical: 'https://www.differenttypeofvibe.com/pricing',
   },
   openGraph: {
     title: 'Beat Store VIP Artist Pass | $9.99/mo Untagged Beat Leases',
     description: 'Get 5 Untagged WAV Commercial Beat Leases every month for $9.99. Bypasses marketplace fees with 100% untagged downloads.',
-    url: 'https://differenttypeofvibe.com/pricing',
+    url: 'https://www.differenttypeofvibe.com/pricing',
     siteName: 'Different Type of Vibe',
     type: 'website',
   },
@@ -38,7 +38,7 @@ export default function PricingPage() {
     '@graph': [
       {
         '@type': 'Product',
-        '@id': 'https://differenttypeofvibe.com/pricing#standard-pass',
+        '@id': 'https://www.differenttypeofvibe.com/pricing#standard-pass',
         name: 'VIP Artist Pass - $9.99/mo Beat Store Subscription',
         description: 'Monthly beat store subscription granting 5 Untagged WAV Commercial Beat Leases every month.',
         brand: {
@@ -65,7 +65,7 @@ export default function PricingPage() {
               unitText: 'MONTH',
             },
             availability: 'https://schema.org/InStock',
-            url: 'https://differenttypeofvibe.com/pricing',
+            url: 'https://www.differenttypeofvibe.com/pricing',
           },
           {
             '@type': 'Offer',
@@ -79,7 +79,7 @@ export default function PricingPage() {
               unitText: 'MONTH',
             },
             availability: 'https://schema.org/InStock',
-            url: 'https://differenttypeofvibe.com/pricing',
+            url: 'https://www.differenttypeofvibe.com/pricing',
           },
           {
             '@type': 'Offer',
@@ -93,13 +93,13 @@ export default function PricingPage() {
               unitText: 'MONTH',
             },
             availability: 'https://schema.org/InStock',
-            url: 'https://differenttypeofvibe.com/pricing',
+            url: 'https://www.differenttypeofvibe.com/pricing',
           },
         ],
       },
       {
         '@type': 'FAQPage',
-        '@id': 'https://differenttypeofvibe.com/pricing#faq',
+        '@id': 'https://www.differenttypeofvibe.com/pricing#faq',
         mainEntity: [
           {
             '@type': 'Question',
