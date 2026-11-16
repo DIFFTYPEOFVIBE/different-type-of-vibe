@@ -2,6 +2,7 @@ import { MetadataRoute } from 'next';
 import { createClient } from '@supabase/supabase-js';
 import { MY_BEATS } from '@/data/beats';
 import { COUNTRY_DATA } from '@/data/countryDeals';
+import { STAGED_CLUSTER_ITEMS } from '@/data/stagedClusters';
 
 // Revalidate the cached sitemap hourly (3600 seconds)
 export const revalidate = 3600;
@@ -8767,6 +8768,14 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     }
   }
 
+  // 10b. Staged combinatorial cluster routes (released programmatically in batches)
+  const stagedRoutes: MetadataRoute.Sitemap = STAGED_CLUSTER_ITEMS.map((item) => ({
+    url: `${baseUrl}/${item.type}/${item.slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly',
+    priority: 0.8,
+  }));
+
   // 11. Return combined, deduplicated list of 100% active, live pages
   const combinedRoutes: MetadataRoute.Sitemap = [
     ...staticRoutes,
@@ -8779,6 +8788,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     ...keyRoutes,
     ...instrumentRoutes,
     ...guideRoutes,
+    ...stagedRoutes,
   ];
 
   const seenUrls = new Set<string>();

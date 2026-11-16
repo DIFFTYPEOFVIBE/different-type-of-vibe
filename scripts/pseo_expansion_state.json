@@ -1,0 +1,40 @@
+{
+  "current_batch_id": 1,
+  "total_pages_indexed": 3420,
+  "last_expansion_at": "2026-11-16T12:00:00",
+  "next_batch_target_date": "2026-12-16",
+  "min_gsc_impressions_trigger": 500,
+  "batches": [
+    {
+      "id": 1,
+      "name": "Phase 1: Foundational Pillars & Core Hubs",
+      "status": "deployed",
+      "page_count": 3420,
+      "deployed_at": "2026-11-16T12:00:00"
+    },
+    {
+      "id": 2,
+      "name": "Phase 2: Combinatorial Key, BPM & Sub-Genre Clusters",
+      "status": "queued",
+      "page_count": 2500,
+      "target_date": "2026-12-16",
+      "min_impressions_trigger": 500
+    },
+    {
+      "id": 3,
+      "name": "Phase 3: Global Regional Scenes & Multi-Language Hubs",
+      "status": "queued",
+      "page_count": 3000,
+      "target_date": "2027-01-16",
+      "min_impressions_trigger": 1000
+    },
+    {
+      "id": 4,
+      "name": "Phase 4: Trending Producer Soundpacks & Style Cross-Matches",
+      "status": "queued",
+      "page_count": 3500,
+      "target_date": "2027-02-16",
+      "min_impressions_trigger": 1500
+    }
+  ]
+}
