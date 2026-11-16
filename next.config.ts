@@ -37,6 +37,133 @@ const nextConfig: NextConfig = {
         destination: "/Your_3_Free_Tagged_Beats.zip",
         permanent: false,
       },
+      // 3. Consolidate competing /beats/type-beat/ URLs to canonical /vibe/ hubs (PageRank Transfer)
+      {
+        source: "/beats/type-beat/drake",
+        destination: "/vibe/drake-type-beats",
+        permanent: true,
+      },
+      {
+        source: "/beats/type-beat/j-cole",
+        destination: "/vibe/j-cole-type-beats",
+        permanent: true,
+      },
+      {
+        source: "/beats/type-beat/metro-boomin",
+        destination: "/vibe/metro-boomin-type-beats",
+        permanent: true,
+      },
+      {
+        source: "/beats/type-beat/travis-scott",
+        destination: "/vibe/travis-scott-type-beats",
+        permanent: true,
+      },
+      {
+        source: "/beats/type-beat/future",
+        destination: "/vibe/future-type-beats",
+        permanent: true,
+      },
+      {
+        source: "/beats/type-beat/playboi-carti",
+        destination: "/vibe/playboi-carti-type-beats",
+        permanent: true,
+      },
+      {
+        source: "/beats/type-beat/21-savage",
+        destination: "/vibe/21-savage-type-beats",
+        permanent: true,
+      },
+      {
+        source: "/beats/type-beat/gunna",
+        destination: "/vibe/gunna-type-beats",
+        permanent: true,
+      },
+      {
+        source: "/beats/type-beat/lil-baby",
+        destination: "/vibe/lil-baby-type-beats",
+        permanent: true,
+      },
+      {
+        source: "/beats/type-beat/don-toliver",
+        destination: "/vibe/don-toliver-type-beats",
+        permanent: true,
+      },
+      {
+        source: "/beats/type-beat/sza",
+        destination: "/vibe/sza-type-beats",
+        permanent: true,
+      },
+      {
+        source: "/beats/type-beat/bryson-tiller",
+        destination: "/vibe/bryson-tiller-type-beats",
+        permanent: true,
+      },
+      {
+        source: "/beats/type-beat/mf-doom",
+        destination: "/vibe/mf-doom-type-beats",
+        permanent: true,
+      },
+      {
+        source: "/beats/type-beat/joey-badass",
+        destination: "/vibe/joey-badass-type-beats",
+        permanent: true,
+      },
+      {
+        source: "/beats/type-beat/:slug*-type-beats",
+        destination: "/vibe/:slug*-type-beats",
+        permanent: true,
+      },
+      {
+        source: "/beats/type-beat/:slug",
+        destination: "/vibe/:slug-type-beats",
+        permanent: true,
+      },
+      // 4. Consolidate competing /beats/genre/ URLs to canonical /genre/ hubs (PageRank Transfer)
+      {
+        source: "/beats/genre/trap",
+        destination: "/genre/trap-beats",
+        permanent: true,
+      },
+      {
+        source: "/beats/genre/boom-bap",
+        destination: "/genre/boom-bap-beats",
+        permanent: true,
+      },
+      {
+        source: "/beats/genre/rnb",
+        destination: "/genre/rb-instrumentals",
+        permanent: true,
+      },
+      {
+        source: "/beats/genre/rb",
+        destination: "/genre/rb-instrumentals",
+        permanent: true,
+      },
+      {
+        source: "/beats/genre/hip-hop",
+        destination: "/genre/hip-hop-beats",
+        permanent: true,
+      },
+      {
+        source: "/beats/genre/drill",
+        destination: "/genre/drill-beats",
+        permanent: true,
+      },
+      {
+        source: "/beats/genre/lofi",
+        destination: "/genre/lofi-hip-hop-beats",
+        permanent: true,
+      },
+      {
+        source: "/beats/genre/:slug*-beats",
+        destination: "/genre/:slug*-beats",
+        permanent: true,
+      },
+      {
+        source: "/beats/genre/:slug",
+        destination: "/genre/:slug-beats",
+        permanent: true,
+      },
     ];
   },
 };
