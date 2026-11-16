@@ -1,6 +1,9 @@
 import { NextResponse } from 'next/server';
 
-const VERIFY_TOKEN = process.env.META_WEBHOOK_VERIFY_TOKEN || 'beat_store_lead_token';
+const VALID_TOKENS = new Set([
+  'beat_store_lead_token',
+  process.env.META_WEBHOOK_VERIFY_TOKEN,
+].filter(Boolean));
 
 /**
  * 1. Meta Webhook Verification Handshake (GET)
@@ -12,8 +15,11 @@ export async function GET(req: Request) {
   const token = searchParams.get('hub.verify_token');
   const challenge = searchParams.get('hub.challenge');
 
-  if (mode === 'subscribe' && token === VERIFY_TOKEN) {
-    return new Response(challenge, { status: 200 });
+  if (mode === 'subscribe' && token && VALID_TOKENS.has(token)) {
+    return new Response(challenge, {
+      status: 200,
+      headers: { 'Content-Type': 'text/plain' },
+    });
   }
 
   return NextResponse.json({ error: 'Webhook verification token mismatch' }, { status: 403 });
