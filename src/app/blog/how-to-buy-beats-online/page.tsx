@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'How to Buy Beats Online in 2026: MP3 vs WAV vs STEMS',
   description: 'Guide for independent artists on buying beats online safely. MP3 vs WAV vs STEMS.',
   keywords: ['how to buy beats online', 'mp3 vs wav beat lease', 'stems trackout license'],
-  alternates: { canonical: 'https://differenttypeofvibe.com/blog/how-to-buy-beats-online' },
+  alternates: { canonical: 'https://www.differenttypeofvibe.com/blog/how-to-buy-beats-online' },
 };
 
 export default function HowToBuyBeatsPage() {
@@ -82,6 +82,49 @@ export default function HowToBuyBeatsPage() {
 
               <h2 className="text-2xl font-bold text-white pt-4">3. Stems Trackout License ($149.99)</h2>
               <p>A Stems License provides every individual instrument channel as separate WAV files, giving your audio engineer total mixing freedom around your vocals.</p>
+            </div>
+
+            {/* Internal Link Silo & Catalog Navigation */}
+            <div className="my-10 p-6 rounded-2xl bg-neutral-900/90 border border-neutral-800 space-y-4">
+              <div className="flex items-center justify-between border-b border-neutral-800 pb-3">
+                <span className="text-purple-400 font-bold text-xs uppercase tracking-wider">🎧 Recommended Sound Catalogs</span>
+                <span className="text-[11px] text-neutral-400 font-medium">Untagged 24-bit WAV &amp; Stems</span>
+              </div>
+              <p className="text-xs text-neutral-300">
+                Explore studio-grade instrumentals pre-cleared for Spotify, Apple Music, and YouTube with 100% royalty keep:
+              </p>
+              <div className="grid grid-cols-2 sm:grid-cols-4 gap-2.5 pt-1">
+                <Link href="/vibe/metro-boomin-type-beats" className="p-3 bg-neutral-950/80 border border-neutral-800/80 rounded-xl hover:border-purple-600 transition group">
+                  <span className="block text-xs font-bold text-white group-hover:text-purple-400">Metro Boomin</span>
+                  <span className="block text-[10px] text-neutral-400">Dark 808 Trap</span>
+                </Link>
+                <Link href="/vibe/j-cole-type-beats" className="p-3 bg-neutral-950/80 border border-neutral-800/80 rounded-xl hover:border-purple-600 transition group">
+                  <span className="block text-xs font-bold text-white group-hover:text-purple-400">J. Cole Vibes</span>
+                  <span className="block text-[10px] text-neutral-400">Soulful Boom Bap</span>
+                </Link>
+                <Link href="/vibe/drake-type-beats" className="p-3 bg-neutral-950/80 border border-neutral-800/80 rounded-xl hover:border-purple-600 transition group">
+                  <span className="block text-xs font-bold text-white group-hover:text-purple-400">Drake OVO</span>
+                  <span className="block text-[10px] text-neutral-400">Melodic Trap &amp; R&amp;B</span>
+                </Link>
+                <Link href="/vibe/travis-scott-type-beats" className="p-3 bg-neutral-950/80 border border-neutral-800/80 rounded-xl hover:border-purple-600 transition group">
+                  <span className="block text-xs font-bold text-white group-hover:text-purple-400">Travis Scott</span>
+                  <span className="block text-[10px] text-neutral-400">Psychedelic Trap</span>
+                </Link>
+              </div>
+              <div className="grid grid-cols-2 sm:grid-cols-4 gap-2.5 pt-1">
+                <Link href="/genre/trap-beats" className="text-center p-2 bg-neutral-950/50 border border-neutral-800/60 rounded-lg text-xs font-medium text-neutral-300 hover:text-purple-300 hover:border-purple-800 transition">
+                  Trap Beats
+                </Link>
+                <Link href="/genre/boom-bap-beats" className="text-center p-2 bg-neutral-950/50 border border-neutral-800/60 rounded-lg text-xs font-medium text-neutral-300 hover:text-purple-300 hover:border-purple-800 transition">
+                  Boom Bap Beats
+                </Link>
+                <Link href="/genre/hip-hop-beats" className="text-center p-2 bg-neutral-950/50 border border-neutral-800/60 rounded-lg text-xs font-medium text-neutral-300 hover:text-purple-300 hover:border-purple-800 transition">
+                  Hip-Hop Beats
+                </Link>
+                <Link href="/genre/rb-instrumentals" className="text-center p-2 bg-neutral-950/50 border border-neutral-800/60 rounded-lg text-xs font-medium text-neutral-300 hover:text-purple-300 hover:border-purple-800 transition">
+                  R&amp;B Beats
+                </Link>
+              </div>
             </div>
 
             <div className="mt-12 bg-purple-950/40 border border-purple-600/30 rounded-2xl p-6 text-center">
