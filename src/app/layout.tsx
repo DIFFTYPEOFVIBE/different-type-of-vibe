@@ -162,6 +162,12 @@ export default function RootLayout({
   return (
     <html lang="en" className="dark">
       <head>
+        {/* Core Web Vitals Resource Hints: Preconnect to Audio Storage & Google Fonts */}
+        <link rel="preconnect" href="https://hnliahdtcbuvggxhmzej.supabase.co" crossOrigin="anonymous" />
+        <link rel="dns-prefetch" href="https://hnliahdtcbuvggxhmzej.supabase.co" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+
         {/* Schema.org Organization & MusicStore JSON-LD */}
         <script
           type="application/ld+json"
