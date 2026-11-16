@@ -7,6 +7,8 @@ import { COUNTRY_DATA, CountryFAQ, SubClusterLink } from '@/data/countryDeals';
 import { MY_BEATS } from '@/data/beats';
 import { Globe, CreditCard, ShieldCheck, FileText, CheckCircle2, Music, Sparkles, ChevronRight } from 'lucide-react';
 
+export const dynamic = 'force-dynamic';
+
 export function generateStaticParams() {
   return Object.keys(COUNTRY_DATA).map((key) => ({
     country: key.split('/'),

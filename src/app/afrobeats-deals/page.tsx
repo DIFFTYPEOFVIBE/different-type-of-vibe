@@ -5,7 +5,7 @@ import { Sparkles, Globe } from 'lucide-react';
 export const metadata: Metadata = {
   title: 'Afrobeats & Amapiano Beat Deals | Different Type of Vibe',
   description: 'Download untagged Burna Boy, Wizkid, and Asake style Afrobeats & Amapiano instrumentals for $9.99/mo with Paystack MoMo & Cards.',
-  alternates: { canonical: 'https://differenttypeofvibe.com/afrobeats-deals' },
+  alternates: { canonical: 'https://www.differenttypeofvibe.com/afrobeats-deals' },
 };
 
 export default function AfrobeatsDealsPage() {

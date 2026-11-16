@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'Limited-Time VIP Artist Special Offer ($9.99/mo) | Different Type of Vibe',
   description: 'Claim your exclusive VIP Artist Pass special offer. Includes 5 untagged WAV beat leases monthly + bonus drum kit sound pack.',
   alternates: {
-    canonical: 'https://differenttypeofvibe.com/special-offer',
+    canonical: 'https://www.differenttypeofvibe.com/special-offer',
   },
 };
 

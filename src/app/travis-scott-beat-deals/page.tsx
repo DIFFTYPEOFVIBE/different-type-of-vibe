@@ -5,7 +5,7 @@ import { Flame, Sparkles } from 'lucide-react';
 export const metadata: Metadata = {
   title: 'Travis Scott & Astroworld Beat Deals | Different Type of Vibe',
   description: 'Download untagged Travis Scott, Psychedelic Trap, and Synth-Heavy beat leases for $9.99/mo. Commercial streaming rights included.',
-  alternates: { canonical: 'https://differenttypeofvibe.com/travis-scott-beat-deals' },
+  alternates: { canonical: 'https://www.differenttypeofvibe.com/travis-scott-beat-deals' },
 };
 
 export default function TravisScottBeatDealsPage() {

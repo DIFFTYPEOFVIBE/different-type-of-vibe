@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'Beat Bundle Deals & BOGO Discounts | Different Type of Vibe',
   description: 'Get Buy 2 Get 1 Free, Buy 3 Get 2 Free, or subscribe for $9.99/mo to get monthly untagged WAV beat leases.',
   alternates: {
-    canonical: 'https://differenttypeofvibe.com/bundle-deals',
+    canonical: 'https://www.differenttypeofvibe.com/bundle-deals',
   },
 };
 

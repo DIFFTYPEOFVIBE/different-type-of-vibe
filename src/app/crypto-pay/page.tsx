@@ -6,7 +6,7 @@ import SubscriptionPricing from '@/components/SubscriptionPricing';
 export const metadata: Metadata = {
   title: 'Pay Beats via Crypto (USDT, USDC, BTC) | Different Type of Vibe',
   description: 'Buy untagged beat leases and VIP Artist Pass subscriptions using USDT, USDC, or Bitcoin. Instant 1-click blockchain checkout for global artists.',
-  alternates: { canonical: 'https://differenttypeofvibe.com/crypto-pay' },
+  alternates: { canonical: 'https://www.differenttypeofvibe.com/crypto-pay' },
 };
 
 export default function CryptoPayPage() {

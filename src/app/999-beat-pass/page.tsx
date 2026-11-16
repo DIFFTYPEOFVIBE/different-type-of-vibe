@@ -5,7 +5,7 @@ import { Crown, Check } from 'lucide-react';
 export const metadata: Metadata = {
   title: '$9.99 Beat Pass - Unlimited Untagged WAV Beats | Different Type of Vibe',
   description: 'Unlock 5 studio WAV beat leases every month for $9.99. Instant download access, clear commercial licensing, and BOGO discounts.',
-  alternates: { canonical: 'https://differenttypeofvibe.com/999-beat-pass' },
+  alternates: { canonical: 'https://www.differenttypeofvibe.com/999-beat-pass' },
 };
 
 export default function BeatPass999Page() {

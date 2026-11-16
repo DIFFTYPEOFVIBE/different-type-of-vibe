@@ -5,7 +5,7 @@ import { Flame, Sparkles, Zap } from 'lucide-react';
 export const metadata: Metadata = {
   title: 'Trap Beat Deals & VIP Subscription Pass | Different Type of Vibe',
   description: 'Get untagged hard Trap beat leases, 808 heavy instrumentals, and Lil Baby / Travis Scott type beats for $9.99/mo.',
-  alternates: { canonical: 'https://differenttypeofvibe.com/trap-beat-deals' },
+  alternates: { canonical: 'https://www.differenttypeofvibe.com/trap-beat-deals' },
 };
 
 export default function TrapBeatDealsPage() {

@@ -5,7 +5,7 @@ import { Flame, Sparkles, Timer } from 'lucide-react';
 export const metadata: Metadata = {
   title: '24-Hour Beat Store Flash Sale & VIP Pass | Different Type of Vibe',
   description: 'Limited 24-hour beat store flash sale! Get untagged studio WAV beat leases for $9.99/mo + 30% off with promo code WELCOME30.',
-  alternates: { canonical: 'https://differenttypeofvibe.com/flash-sale' },
+  alternates: { canonical: 'https://www.differenttypeofvibe.com/flash-sale' },
 };
 
 export default function FlashSalePage() {

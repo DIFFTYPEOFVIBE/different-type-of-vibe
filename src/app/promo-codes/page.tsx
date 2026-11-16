@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'Verified Beat Promo Codes & Coupon Discounts 2026 | Different Type of Vibe',
   description: 'Official active promo codes and discount coupons for Different Type of Vibe. Use code WELCOME30 for 30% off beat leases or grab the $9.99 VIP Artist Pass.',
   alternates: {
-    canonical: 'https://differenttypeofvibe.com/promo-codes',
+    canonical: 'https://www.differenttypeofvibe.com/promo-codes',
   },
 };
 

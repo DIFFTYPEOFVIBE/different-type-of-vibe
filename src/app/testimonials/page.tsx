@@ -6,7 +6,7 @@ import SubscriptionPricing from '@/components/SubscriptionPricing';
 export const metadata: Metadata = {
   title: 'Artist Reviews & Testimonials | Different Type of Vibe',
   description: 'See what independent artists and producers say about Onzieb beats, $9.99 VIP Pass subscriptions, and studio audio quality.',
-  alternates: { canonical: 'https://differenttypeofvibe.com/testimonials' },
+  alternates: { canonical: 'https://www.differenttypeofvibe.com/testimonials' },
 };
 
 const REVIEWS = [

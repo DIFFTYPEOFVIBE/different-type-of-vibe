@@ -5,7 +5,7 @@ import { Tag, Sparkles } from 'lucide-react';
 export const metadata: Metadata = {
   title: 'First Order Discount - 30% Off Beat Leases | Different Type of Vibe',
   description: 'Use code WELCOME30 for 30% off your first beat lease purchase or subscribe to the $9.99/mo VIP Pass.',
-  alternates: { canonical: 'https://differenttypeofvibe.com/first-order-discount' },
+  alternates: { canonical: 'https://www.differenttypeofvibe.com/first-order-discount' },
 };
 
 export default function FirstOrderDiscountPage() {

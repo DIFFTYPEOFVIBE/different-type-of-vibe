@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'Buy Exclusive Beats & Custom Beat Production | Onzieb',
   description: 'Own 100% exclusive rights to industry-ready instrumentals. Full WAV stems, custom beat ordering, and complete royalty ownership.',
   alternates: {
-    canonical: 'https://differenttypeofvibe.com/exclusive-beats',
+    canonical: 'https://www.differenttypeofvibe.com/exclusive-beats',
   },
 };
 

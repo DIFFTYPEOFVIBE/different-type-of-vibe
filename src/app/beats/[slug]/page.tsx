@@ -7,7 +7,7 @@ interface GenrePageProps {
   params: Promise<{ slug: string }>;
 }
 
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://yourstore.com';
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.differenttypeofvibe.com';
 
 // Helper to convert slugs to clean titles (e.g., "old-school" -> "Old-School", "kanye-west" -> "Kanye West")
 function formatGenreTitle(slug: string): string {

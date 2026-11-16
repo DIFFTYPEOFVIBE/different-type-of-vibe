@@ -6,13 +6,13 @@ export const metadata: Metadata = {
   title: 'Artist Guides & Beat Licensing Articles | Different Type of Vibe',
   description: 'In-depth music production guides, beat licensing breakdowns, vocal mixing tips, and industry advice for independent artists.',
   keywords: ['music licensing guide', 'how to buy beats online', 'vocal mixing guide', 'mp3 vs wav beat lease', 'onzieb blog'],
-  alternates: { canonical: 'https://differenttypeofvibe.com/blog' },
+  alternates: { canonical: 'https://www.differenttypeofvibe.com/blog' },
   openGraph: {
     title: 'Artist Guides & Music Production Blog | Different Type of Vibe',
     description: 'Master beat licensing, vocal mixing, and music distribution.',
-    url: 'https://differenttypeofvibe.com/blog',
+    url: 'https://www.differenttypeofvibe.com/blog',
     siteName: 'Different Type of Vibe',
-    images: [{ url: 'https://differenttypeofvibe.com/og-image.png', width: 1200, height: 630, alt: 'Blog Preview' }],
+    images: [{ url: 'https://www.differenttypeofvibe.com/og-image.png', width: 1200, height: 630, alt: 'Blog Preview' }],
     type: 'website',
   },
 };

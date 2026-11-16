@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'Beat Licensing Terms & Contract Breakdown | Different Type of Vibe',
   description: 'Understand MP3 Lease, WAV Lease, Stems Trackout, and Unlimited Licenses. Clear commercial distribution rights, Spotify stream limits, and radio clearance.',
   alternates: {
-    canonical: 'https://differenttypeofvibe.com/licensing-terms',
+    canonical: 'https://www.differenttypeofvibe.com/licensing-terms',
   },
 };
 

@@ -3,6 +3,7 @@ import { NextResponse } from 'next/server';
 import Stripe from 'stripe';
 import { Resend } from 'resend';
 import { sendMetaCapiEvent } from '@/lib/metaCapi';
+import { generateLicensePDF } from '@/lib/pdf';
 import { createClient } from '@supabase/supabase-js';
 
 export async function POST(req: Request) {
@@ -122,12 +123,25 @@ export async function POST(req: Request) {
           const passName = isProTier ? 'Pro Creator Pass ($24.99/mo)' : 'VIP Artist Pass ($9.99/mo)';
           const streamCap = isProTier ? '500,000' : '100,000';
           try {
+            const pdfBytes = await generateLicensePDF({
+              customerEmail: email,
+              beatTitle: isProTier ? 'Pro Creator Unlimited WAV + Stems Catalog Vault' : 'VIP Pass Monthly 5 WAV Commercial Beat Pack',
+              licenseType: passName,
+              purchaseDate: new Date().toISOString().split('T')[0],
+              orderId: String(session.id),
+            });
             await resend.emails.send({
               from: 'Onzieb <onzieb@mail.differenttypeofvibe.com>',
               to: [email],
               subject: isProTier
                 ? '🚀 Pro Creator Pass Confirmed! Your Unlimited WAV + Stems Vault & 500k Stream License'
                 : '🎉 VIP Pass Order Confirmed! Your Untagged WAV Beat Leases & License Contract',
+              attachments: [
+                {
+                  filename: `Different_Type_of_Vibe_License_${String(session.id).slice(-8)}.pdf`,
+                  content: Buffer.from(pdfBytes),
+                },
+              ],
               html: `
                 <div style="background-color: #0b071a; color: #f1ecff; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 40px 20px; max-width: 600px; margin: 0 auto; border-radius: 12px; border: 1px solid #2d1b4e;">
                   <h1 style="color: #c084fc; text-align: center;">DIFFERENT TYPE OF VIBE</h1>
@@ -159,13 +173,26 @@ export async function POST(req: Request) {
       const baseUrl = process.env.NEXT_PUBLIC_APP_URL || 'https://differenttypeofvibe.com';
       const downloadUrl = `${baseUrl}/api/download?session_id=${session.id}&beat_id=${beatId}`;
 
-      // 1. Process post-purchase email delivery via Resend (Inline HTML)
+      // 1. Process post-purchase email delivery via Resend (Inline HTML + PDF License Attachment)
       if (resend && email) {
         try {
+          const pdfBytes = await generateLicensePDF({
+            customerEmail: email,
+            beatTitle,
+            licenseType,
+            purchaseDate: new Date().toISOString().split('T')[0],
+            orderId: String(session.id),
+          });
           await resend.emails.send({
             from: 'Different Type of Vibe <music@mail.differenttypeofvibe.com>',
             to: [email],
             subject: `Download: ${beatTitle} (${licenseType.toUpperCase()} License)`,
+            attachments: [
+              {
+                filename: `Different_Type_of_Vibe_License_${String(session.id).slice(-8)}.pdf`,
+                content: Buffer.from(pdfBytes),
+              },
+            ],
             html: `
               <div style="font-family: sans-serif; background-color: #09090b; color: #ffffff; padding: 32px;">
                 <h1 style="color: #10b981; font-size: 24px; margin-bottom: 16px;">Your Beat Download is Ready!</h1>

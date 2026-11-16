@@ -5,7 +5,7 @@ import { ShieldCheck, Zap } from 'lucide-react';
 export const metadata: Metadata = {
   title: 'UK & NY Drill Beat Deals & VIP Pass | Different Type of Vibe',
   description: 'Download untagged Central Cee, Pop Smoke, and UK/NY Drill beat leases for $9.99/mo. Instant WAV delivery & commercial license.',
-  alternates: { canonical: 'https://differenttypeofvibe.com/drill-beat-deals' },
+  alternates: { canonical: 'https://www.differenttypeofvibe.com/drill-beat-deals' },
 };
 
 export default function DrillBeatDealsPage() {

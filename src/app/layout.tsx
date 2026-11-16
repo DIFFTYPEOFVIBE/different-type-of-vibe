@@ -7,8 +7,6 @@ import StickyMobileVipBar from "@/components/StickyMobileVipBar";
 import FloatingWhatsAppWidget from "@/components/FloatingWhatsAppWidget";
 import "./globals.css";
 
-export const revalidate = 3600; // 1-Hour Vercel Edge CDN Caching with ISR for fast TTFB (<30ms)
-
 const FB_PIXEL_ID = process.env.NEXT_PUBLIC_META_PIXEL_ID || "339067334980938";
 const GA_MEASUREMENT_ID = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID || "G-BQ05FL4CH8";
 const GTM_ID = process.env.NEXT_PUBLIC_GTM_ID || "GTM-PJLWDHWD";

@@ -5,7 +5,7 @@ import { Sparkles, Music } from 'lucide-react';
 export const metadata: Metadata = {
   title: 'R&B & Soulful Instrumental Deals | Different Type of Vibe',
   description: 'Download untagged R&B, Trapsoul, and Neo-Soul beat leases for $9.99/mo. Instant WAV delivery & commercial streaming rights.',
-  alternates: { canonical: 'https://differenttypeofvibe.com/rb-beat-deals' },
+  alternates: { canonical: 'https://www.differenttypeofvibe.com/rb-beat-deals' },
 };
 
 export default function RbBeatDealsPage() {

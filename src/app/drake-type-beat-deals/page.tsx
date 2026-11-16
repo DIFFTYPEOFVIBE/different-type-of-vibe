@@ -5,7 +5,7 @@ import { Sparkles, Music } from 'lucide-react';
 export const metadata: Metadata = {
   title: 'Drake Type Beat Deals & VIP Pass | Different Type of Vibe',
   description: 'Download untagged Drake, OVO, and Melodic R&B/Trap beat leases for $9.99/mo. Commercial streaming rights included.',
-  alternates: { canonical: 'https://differenttypeofvibe.com/drake-type-beat-deals' },
+  alternates: { canonical: 'https://www.differenttypeofvibe.com/drake-type-beat-deals' },
 };
 
 export default function DrakeTypeBeatDealsPage() {

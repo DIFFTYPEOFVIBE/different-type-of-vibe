@@ -5,7 +5,7 @@ import { Music, Sparkles } from 'lucide-react';
 export const metadata: Metadata = {
   title: 'Hip-Hop & Boom Bap Beat Deals | Different Type of Vibe',
   description: 'Untagged Boom Bap, Soulful Hip-Hop, and East Coast instrumentals for $9.99/mo. Commercial streaming rights included.',
-  alternates: { canonical: 'https://differenttypeofvibe.com/hip-hop-deals' },
+  alternates: { canonical: 'https://www.differenttypeofvibe.com/hip-hop-deals' },
 };
 
 export default function HipHopDealsPage() {

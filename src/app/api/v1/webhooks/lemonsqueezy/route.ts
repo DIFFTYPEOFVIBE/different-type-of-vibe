@@ -2,6 +2,7 @@ import { NextResponse } from 'next/server';
 import crypto from 'crypto';
 import { createClient } from '@supabase/supabase-js';
 import { sendMetaCapiEvent } from '@/lib/metaCapi';
+import { generateLicensePDF } from '@/lib/pdf';
 
 const DEFAULT_STANDARD_PASS_DROPBOX_URL =
   'https://www.dropbox.com/scl/fi/forf156uvalla161tvjsr/STANDARD-PASS-5-WAV-COMMERCIAL-LEASES-UNTAGGED.zip?rlkey=sg8xi2iajsa5lhb975by77oda&st=yohnami0&dl=1';
@@ -130,6 +131,14 @@ async function sendDownloadEmail(
       </div>
     `;
 
+    const pdfBytes = await generateLicensePDF({
+      customerEmail: toEmail,
+      beatTitle: String(beatTitle),
+      licenseType: String(licenseType),
+      purchaseDate: new Date().toISOString().split('T')[0],
+      orderId: orderId ? String(orderId) : undefined,
+    });
+
     const res = await fetch('https://api.resend.com/emails', {
       method: 'POST',
       headers: {
@@ -142,6 +151,12 @@ async function sendDownloadEmail(
         to: [toEmail],
         subject: `🎵 Your Untagged Beat "${beatTitle}" (${licenseType}) is Ready!`,
         html,
+        attachments: [
+          {
+            filename: `Different_Type_of_Vibe_License_${orderId || 'Order'}.pdf`,
+            content: Buffer.from(pdfBytes).toString('base64'),
+          },
+        ],
       }),
     });
 
@@ -170,6 +185,16 @@ async function sendDownloadEmail(
     </div>
   `;
 
+  const pdfBytes = await generateLicensePDF({
+    customerEmail: toEmail,
+    beatTitle: isProTier
+      ? 'Pro Creator Unlimited WAV + Stems Catalog Vault'
+      : 'VIP Pass Monthly 5 WAV Commercial Beat Pack',
+    licenseType: productName || (isProTier ? 'Pro Creator Pass ($24.99/mo)' : 'Standard VIP Pass ($9.99/mo)'),
+    purchaseDate: new Date().toISOString().split('T')[0],
+    orderId: orderId ? String(orderId) : undefined,
+  });
+
   const res = await fetch('https://api.resend.com/emails', {
     method: 'POST',
     headers: {
@@ -180,8 +205,14 @@ async function sendDownloadEmail(
     body: JSON.stringify({
       from: fromEmail,
       to: [toEmail],
-      subject: 'Your Different Type of Vibe downloads are ready',
+      subject: 'Your Different Type of Vibe downloads & Official License are ready',
       html,
+      attachments: [
+        {
+          filename: `Different_Type_of_Vibe_License_${orderId || 'Pass'}.pdf`,
+          content: Buffer.from(pdfBytes).toString('base64'),
+        },
+      ],
     }),
   });
 

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'Unlimited Artist Pass & Pro Beat Membership | Different Type of Vibe',
   description: 'Subscribe to the Pro & Unlimited VIP Passes for unlimited streaming rights, separated WAV stems, and radio clearance.',
   alternates: {
-    canonical: 'https://differenttypeofvibe.com/unlimited-pass',
+    canonical: 'https://www.differenttypeofvibe.com/unlimited-pass',
   },
 };
 
