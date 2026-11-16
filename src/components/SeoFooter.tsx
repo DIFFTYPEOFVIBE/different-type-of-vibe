@@ -30,6 +30,10 @@ const INTERNATIONAL_HUBS = [
   { href: "/deals/toronto", label: "🇨🇦 Toronto Dark R&B (SOCAN)" },
   { href: "/deals/johannesburg", label: "🇿🇦 South Africa Amapiano (SAMRO)" },
   { href: "/deals/sydney", label: "🇦🇺 Sydney Drill & Hip-Hop (APRA)" },
+  { href: "/deals/japan", label: "🇯🇵 Japan Lo-Fi & Beats (JASRAC)" },
+  { href: "/deals/brazil", label: "🇧🇷 Brazil Trap & Drill (ECAD)" },
+  { href: "/deals/mexico", label: "🇲🇽 Mexico Trap Latino (SACM)" },
+  { href: "/deals/kenya", label: "🇰🇪 Kenya Gengetone (MCSK)" },
   { href: "/deals", label: "🌍 Global Currency & Deals Hub" },
 ];
 

@@ -2255,5 +2255,467 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
         "answer": "Yes. Every 808 is digitally tuned to the root musical key and saturated for heavy translation on all sound systems."
       }
     ]
-  }
+  },
+  "toronto": {
+  "name": "Toronto – Dark R&B & Hip Hop",
+  "flag": "🇨🇦",
+  "currency": "CAD ($)",
+  "currencyCode": "CAD",
+  "gateways": "Apple Pay, Google Pay, Interac, Cards",
+  "pro": "SOCAN",
+  "proFullName": "Society of Composers, Authors and Music Publishers of Canada (SOCAN)",
+  "proGuide": "SOCAN compliant for Canadian artists. 100% master streaming royalties.",
+  "headline": "Toronto Beat Deals & VIP Subscription Pass",
+  "description": "Untagged commercial WAV beat leases and stem trackouts for artists in Toronto and Ontario.",
+  "popularGenres": [
+    "Toronto R&B",
+    "OVO Sound",
+    "Dark Melodic Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "6",
+    "2"
+  ],
+  "faqs": [
+    {
+      "question": "Are these beats compatible with SOCAN in Canada?",
+      "answer": "Yes! All licenses include composer credits for SOCAN registration."
+    },
+    {
+      "question": "Can I release on Spotify Canada with 100% royalties?",
+      "answer": "Yes, artists retain 100% of their master streaming royalties."
+    }
+  ]
+},
+  "johannesburg": {
+  "name": "Johannesburg – Amapiano & SA Hip Hop",
+  "flag": "🇿🇦",
+  "currency": "ZAR (R)",
+  "currencyCode": "ZAR",
+  "gateways": "Cards, Apple Pay, Google Pay",
+  "pro": "SAMRO & CAPASSO",
+  "proFullName": "Southern African Music Rights Organisation (SAMRO)",
+  "proGuide": "SAMRO & CAPASSO cleared for South African vocalists and producers.",
+  "headline": "Johannesburg Beat Deals & VIP Subscription Pass",
+  "description": "Untagged commercial WAV beat leases and stem trackouts for recording artists in South Africa.",
+  "popularGenres": [
+    "SA Hip Hop",
+    "Amapiano Vibes",
+    "Trap Beats"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "6",
+    "2"
+  ],
+  "faqs": [
+    {
+      "question": "Can I monetize on Spotify and Boomplay in South Africa?",
+      "answer": "Yes! All leases include commercial streaming distribution rights."
+    },
+    {
+      "question": "How fast are beats delivered?",
+      "answer": "Immediately upon checkout, 24-bit WAVs are delivered to your email."
+    }
+  ]
+},
+  "sydney": {
+  "name": "Sydney – Drill & Australian Hip Hop",
+  "flag": "🇦🇺",
+  "currency": "AUD ($)",
+  "currencyCode": "AUD",
+  "gateways": "Apple Pay, Google Pay, Cards",
+  "pro": "APRA AMCOS",
+  "proFullName": "Australasian Performing Right Association (APRA AMCOS)",
+  "proGuide": "APRA AMCOS compliant for Australian recording artists.",
+  "headline": "Sydney Beat Deals & VIP Subscription Pass",
+  "description": "Untagged commercial WAV beat leases and stem trackouts for artists in Sydney, Melbourne, and Australia.",
+  "popularGenres": [
+    "Sydney Drill",
+    "Australian Hip Hop",
+    "Melodic Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "6",
+    "2"
+  ],
+  "faqs": [
+    {
+      "question": "Are these beats cleared for APRA AMCOS registration?",
+      "answer": "Yes, all tracks include full songwriter/composer splits for APRA registration."
+    },
+    {
+      "question": "Can I monetize music videos on YouTube in Australia?",
+      "answer": "Yes, worldwide commercial video monetization is 100% cleared."
+    }
+  ]
+},
+  "jp": {
+  "name": "Japan – Tokyo Hip Hop & Lo-Fi Beats",
+  "flag": "🇯🇵",
+  "currency": "JPY (¥)",
+  "currencyCode": "JPY",
+  "gateways": "Apple Pay, Google Pay, Credit Cards",
+  "pro": "JASRAC",
+  "proFullName": "Japanese Society for Rights of Authors, Composers and Publishers (JASRAC)",
+  "proGuide": "JASRAC compliant for Japanese artists and anime/game creators.",
+  "headline": "Japan Beat Deals & Tokyo Lo-Fi VIP Pass",
+  "description": "Untagged commercial WAV beat leases, Lo-Fi hip hop, and dark trap instrumentals for artists in Japan.",
+  "popularGenres": [
+    "Lo-Fi Hip Hop",
+    "Tokyo Trap",
+    "Anime Chill Vibes"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "6",
+    "2"
+  ],
+  "faqs": [
+    {
+      "question": "Can I release on Spotify Japan with 100% royalties?",
+      "answer": "Yes! All licenses grant commercial streaming clearance with 100% master royalties retained."
+    },
+    {
+      "question": "Are separated stems available?",
+      "answer": "Yes, Stems licenses include uncompressed 24-bit WAV tracks for every musical element."
+    }
+  ]
+},
+  "japan": {
+  "name": "Japan – Tokyo Hip Hop & Lo-Fi Beats",
+  "flag": "🇯🇵",
+  "currency": "JPY (¥)",
+  "currencyCode": "JPY",
+  "gateways": "Apple Pay, Google Pay, Credit Cards",
+  "pro": "JASRAC",
+  "proFullName": "Japanese Society for Rights of Authors, Composers and Publishers (JASRAC)",
+  "proGuide": "JASRAC compliant for Japanese artists and anime/game creators.",
+  "headline": "Japan Beat Deals & Tokyo Lo-Fi VIP Pass",
+  "description": "Untagged commercial WAV beat leases, Lo-Fi hip hop, and dark trap instrumentals for artists in Japan.",
+  "popularGenres": [
+    "Lo-Fi Hip Hop",
+    "Tokyo Trap",
+    "Anime Chill Vibes"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "6",
+    "2"
+  ],
+  "faqs": [
+    {
+      "question": "Can I release on Spotify Japan with 100% royalties?",
+      "answer": "Yes! All licenses grant commercial streaming clearance with 100% master royalties retained."
+    },
+    {
+      "question": "Are separated stems available?",
+      "answer": "Yes, Stems licenses include uncompressed 24-bit WAV tracks for every musical element."
+    }
+  ]
+},
+  "br": {
+  "name": "Brazil – Trap Brasileiro & Drill",
+  "flag": "🇧🇷",
+  "currency": "BRL (R$)",
+  "currencyCode": "BRL",
+  "gateways": "Credit Card, Apple Pay, Google Pay, Crypto",
+  "pro": "ECAD & UBC",
+  "proFullName": "Escritório Central de Arrecadação e Distribuição (ECAD)",
+  "proGuide": "ECAD & UBC compliant for Brazilian recording artists and MCs.",
+  "headline": "Beats de Trap para Comprar no Brasil",
+  "description": "Bases de trap, drill e boom bap sem tag com entrega imediata em WAV 24-bit para artistas e MCs no Brasil.",
+  "popularGenres": [
+    "Trap Brasileiro",
+    "Brazilian Drill",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "6",
+    "2"
+  ],
+  "faqs": [
+    {
+      "question": "Posso lançar no Spotify e YouTube com esses beats?",
+      "answer": "Sim! Todas as licenças incluem direitos comerciais de streaming com 100% dos royalties para o artista."
+    },
+    {
+      "question": "Os beats vêm sem voz e sem tag?",
+      "answer": "Sim, todos os arquivos WAV e MP3 comprados são entregues 100% sem tags promocionais."
+    }
+  ]
+},
+  "brazil": {
+  "name": "Brazil – Trap Brasileiro & Drill",
+  "flag": "🇧🇷",
+  "currency": "BRL (R$)",
+  "currencyCode": "BRL",
+  "gateways": "Credit Card, Apple Pay, Google Pay, Crypto",
+  "pro": "ECAD & UBC",
+  "proFullName": "Escritório Central de Arrecadação e Distribuição (ECAD)",
+  "proGuide": "ECAD & UBC compliant for Brazilian recording artists and MCs.",
+  "headline": "Beats de Trap para Comprar no Brasil",
+  "description": "Bases de trap, drill e boom bap sem tag com entrega imediata em WAV 24-bit para artistas e MCs no Brasil.",
+  "popularGenres": [
+    "Trap Brasileiro",
+    "Brazilian Drill",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "6",
+    "2"
+  ],
+  "faqs": [
+    {
+      "question": "Posso lançar no Spotify e YouTube com esses beats?",
+      "answer": "Sim! Todas as licenças incluem direitos comerciais de streaming com 100% dos royalties para o artista."
+    },
+    {
+      "question": "Os beats vêm sem voz e sem tag?",
+      "answer": "Sim, todos os arquivos WAV e MP3 comprados são entregues 100% sem tags promocionais."
+    }
+  ]
+},
+  "mx": {
+  "name": "Mexico – Trap Latino & Hip Hop",
+  "flag": "🇲🇽",
+  "currency": "MXN ($)",
+  "currencyCode": "MXN",
+  "gateways": "Apple Pay, Google Pay, Cards",
+  "pro": "SACM",
+  "proFullName": "Sociedad de Autores y Compositores de México (SACM)",
+  "proGuide": "SACM compliant para artistas y productores independientes en México.",
+  "headline": "Bases y Pistas de Trap en México",
+  "description": "Pistas de trap, drill y hip-hop sin tags con entrega instantánea en WAV 24-bit para artistas en México.",
+  "popularGenres": [
+    "Trap Latino",
+    "Boom Bap en Español",
+    "Dark Trap 808s"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "6",
+    "2"
+  ],
+  "faqs": [
+    {
+      "question": "¿Puedo monetizar mis canciones en Spotify y YouTube México?",
+      "answer": "¡Sí! Todas las licencias incluyen derechos comerciales con 100% de regalías para el artista."
+    },
+    {
+      "question": "¿Cómo se reciben los archivos después de la compra?",
+      "answer": "Inmediatamente por correo electrónico en formato WAV de 24 bits y contrato en PDF firmado."
+    }
+  ]
+},
+  "mexico": {
+  "name": "Mexico – Trap Latino & Hip Hop",
+  "flag": "🇲🇽",
+  "currency": "MXN ($)",
+  "currencyCode": "MXN",
+  "gateways": "Apple Pay, Google Pay, Cards",
+  "pro": "SACM",
+  "proFullName": "Sociedad de Autores y Compositores de México (SACM)",
+  "proGuide": "SACM compliant para artistas y productores independientes en México.",
+  "headline": "Bases y Pistas de Trap en México",
+  "description": "Pistas de trap, drill y hip-hop sin tags con entrega instantánea en WAV 24-bit para artistas en México.",
+  "popularGenres": [
+    "Trap Latino",
+    "Boom Bap en Español",
+    "Dark Trap 808s"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "6",
+    "2"
+  ],
+  "faqs": [
+    {
+      "question": "¿Puedo monetizar mis canciones en Spotify y YouTube México?",
+      "answer": "¡Sí! Todas las licencias incluyen derechos comerciales con 100% de regalías para el artista."
+    },
+    {
+      "question": "¿Cómo se reciben los archivos después de la compra?",
+      "answer": "Inmediatamente por correo electrónico en formato WAV de 24 bits y contrato en PDF firmado."
+    }
+  ]
+},
+  "ke": {
+  "name": "Kenya – Gengetone & Afrobeats Hub",
+  "flag": "🇰🇪",
+  "currency": "KES (KSh)",
+  "currencyCode": "KES",
+  "gateways": "Cards, Apple Pay, Google Pay, Crypto",
+  "pro": "MCSK & PRISK",
+  "proFullName": "Music Copyright Society of Kenya (MCSK)",
+  "proGuide": "MCSK & PRISK compliant for East African recording artists.",
+  "headline": "Kenya Beat Deals & VIP Subscription Pass",
+  "description": "Untagged commercial WAV beat leases and stem trackouts for artists in Nairobi and East Africa.",
+  "popularGenres": [
+    "Gengetone Beats",
+    "Afrobeats",
+    "Trap Beats"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "6",
+    "2"
+  ],
+  "faqs": [
+    {
+      "question": "Can I distribute songs to Boomplay and Spotify Kenya?",
+      "answer": "Yes! All licenses grant commercial streaming clearance with 100% master earnings retained."
+    },
+    {
+      "question": "Are the beats untagged?",
+      "answer": "Yes, all purchased beats are delivered 100% untagged in studio WAV quality."
+    }
+  ]
+},
+  "kenya": {
+  "name": "Kenya – Gengetone & Afrobeats Hub",
+  "flag": "🇰🇪",
+  "currency": "KES (KSh)",
+  "currencyCode": "KES",
+  "gateways": "Cards, Apple Pay, Google Pay, Crypto",
+  "pro": "MCSK & PRISK",
+  "proFullName": "Music Copyright Society of Kenya (MCSK)",
+  "proGuide": "MCSK & PRISK compliant for East African recording artists.",
+  "headline": "Kenya Beat Deals & VIP Subscription Pass",
+  "description": "Untagged commercial WAV beat leases and stem trackouts for artists in Nairobi and East Africa.",
+  "popularGenres": [
+    "Gengetone Beats",
+    "Afrobeats",
+    "Trap Beats"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "6",
+    "2"
+  ],
+  "faqs": [
+    {
+      "question": "Can I distribute songs to Boomplay and Spotify Kenya?",
+      "answer": "Yes! All licenses grant commercial streaming clearance with 100% master earnings retained."
+    },
+    {
+      "question": "Are the beats untagged?",
+      "answer": "Yes, all purchased beats are delivered 100% untagged in studio WAV quality."
+    }
+  ]
+},
+  "spain/comprar-bases-rap": {
+  "name": "España – Comprar Bases de Rap & Trap",
+  "flag": "🇪🇸",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "Apple Pay, Google Pay, Tarjetas (€)",
+  "pro": "SGAE",
+  "proFullName": "Sociedad General de Autores y Editores (SGAE)",
+  "proGuide": "SGAE compliant para artistas en España. 100% de derechos máster comerciales.",
+  "headline": "Comprar Bases de Rap y Trap Online (Sin Tags)",
+  "description": "Bases de rap, boom bap y trap sin voces comerciales con entrega instantánea en WAV 24-bit y pistas separadas.",
+  "popularGenres": [
+    "Bases de Rap",
+    "Trap Español",
+    "Boom Bap Clásico"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "6",
+    "2"
+  ],
+  "faqs": [
+    {
+      "question": "¿Las bases son libres de derechos para Spotify y YouTube?",
+      "answer": "¡Sí! Todas las licencias incluyen derechos de distribución digital con 100% de regalías para el cantante/artista."
+    },
+    {
+      "question": "¿Se incluyen las pistas por separado (stems)?",
+      "answer": "Sí, la licencia de stems incluye todas las pistas en WAV de 24 bits para mezcla profesional de voces."
+    }
+  ]
+},
+  "italy/comprare-basi-trap": {
+  "name": "Italia – Comprare Basi Trap & Rap",
+  "flag": "🇮🇹",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "Apple Pay, Google Pay, Carte di Credito (€)",
+  "pro": "SIAE",
+  "proFullName": "Società Italiana degli Autori ed Editori (SIAE)",
+  "proGuide": "Conforme alle normative SIAE per artisti e rapper italiani.",
+  "headline": "Comprare Basi Trap e Rap Online (Senza Tag)",
+  "description": "Basi trap, drill e hip-hop senza tag promozionali con consegna istantanea in WAV a 24-bit per artisti in Italia.",
+  "popularGenres": [
+    "Basi Trap",
+    "Italian Drill",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "6",
+    "2"
+  ],
+  "faqs": [
+    {
+      "question": "Posso pubblicare su Spotify e Apple Music con queste basi?",
+      "answer": "Sì! Tutte le licenze includono la liberatoria commerciale completa con il 100% delle royalty per l'artista."
+    },
+    {
+      "question": "I file audio sono ad alta risoluzione senza voce?",
+      "answer": "Sì, i beat acquistati vengono inviati immediatamente via email in formato WAV a 24-bit puliti senza tag."
+    }
+  ]
+},
+  "france/acheter-instru": {
+  "name": "France – Acheter une Instru Rap",
+  "flag": "🇫🇷",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "Carte Bancaire, Apple Pay, Google Pay (€)",
+  "pro": "SACEM",
+  "proFullName": "Société des Auteurs, Compositeurs et Éditeurs de Musique (SACEM)",
+  "proGuide": "Conforme aux déclarations SACEM pour les rappeurs et chanteurs francophones.",
+  "headline": "Acheter une Instru Rap & Trap en Ligne (Sans Tag)",
+  "description": "Téléchargez des prods de rap, drill et boom bap sans tag avec livraison instantanée en WAV 24-bit de qualité studio.",
+  "popularGenres": [
+    "Instru Rap Français",
+    "Drill Melodique",
+    "Boom Bap 90s"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "6",
+    "2"
+  ],
+  "faqs": [
+    {
+      "question": "Puis-je sortir mes morceaux sur Spotify avec 100% des royalties?",
+      "answer": "Oui! Vous conservez 100% de vos revenus de streaming master sur Spotify, Apple Music et Deezer."
+    },
+    {
+      "question": "Les pistes séparées (stems) sont-elles incluses?",
+      "answer": "Oui, la licence Stems comprend toutes les pistes audio WAV 24-bit isolées pour le mixage voix en studio."
+    }
+  ]
+},
 };
