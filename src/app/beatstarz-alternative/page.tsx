@@ -3,19 +3,31 @@ import Link from 'next/link';
 import { ArrowLeft, Rocket, Zap, Heart, ShieldCheck, Flame, Gift } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Why Artists & Producers are Choosing BeatStars Alternatives in 2026',
-  description: 'A deep look into why independent music creators are moving from standard marketplace Pro Pages to self-hosted Next.js beat stores to bypass transaction fees and rank organically.',
+  title: 'BeatStars Alternative 2026: 0% Commission Fees & Direct Beat Storefront | Different Type of Vibe',
+  description: 'Looking for a BeatStars alternative? See why independent producers and artists are choosing direct storefronts: 0% marketplace commission cuts, sub-200ms load speeds, and 100% royalty keep.',
   keywords: [
+    'beatstars alternative',
+    'beatstars competitors',
+    'beatstars fee comparison',
+    'cheaper than beatstars',
+    'alternatives to beatstars',
+    'pro page alternative',
     'beatstarz alternative',
     'beatsstars alternative',
-    'pro page alternative',
-    'sell beats',
     'buy beats online',
-    'differenttypeofvibe',
-    'best place to buy beats',
+    'sell beats',
+    'different type of vibe',
   ],
   alternates: {
-    canonical: 'https://differenttypeofvibe.com/beatstarz-alternative',
+    canonical: 'https://www.differenttypeofvibe.com/beatstarz-alternative',
+  },
+  openGraph: {
+    title: 'BeatStars Alternative 2026: 0% Commission Fees & Direct Beat Storefront',
+    description: 'Bypass marketplace transaction fees with a sub-200ms headless beat store. Keep 100% master royalties.',
+    url: 'https://www.differenttypeofvibe.com/beatstarz-alternative',
+    siteName: 'Different Type of Vibe',
+    images: [{ url: 'https://www.differenttypeofvibe.com/og-image.png', width: 1200, height: 630, alt: 'BeatStars Alternative - Different Type of Vibe' }],
+    type: 'article',
   },
 };
 
@@ -25,22 +37,22 @@ export default function BeatstarzAlternativePage() {
     '@graph': [
       {
         '@type': 'TechArticle',
-        'headline': 'Why Independent Artists & Producers are Moving Away from BeatStars Pro Pages in 2026',
+        'headline': 'BeatStars Alternative 2026: 0% Commission Fees & Direct Beat Storefront',
         'description': 'A comprehensive analysis of legacy marketplace Pro Pages vs. next-generation self-hosted Next.js storefronts regarding speed, SEO schema, and transaction margins.',
-        'image': 'https://differenttypeofvibe.com/og-image.png',
+        'image': 'https://www.differenttypeofvibe.com/og-image.png',
         'author': {
           '@type': 'Person',
           'name': 'Onzieb',
-          'url': 'https://differenttypeofvibe.com',
+          'url': 'https://www.differenttypeofvibe.com',
         },
         'publisher': {
           '@type': 'Organization',
           'name': 'Different Type of Vibe',
-          'logo': 'https://differenttypeofvibe.com/og-image.png',
+          'logo': 'https://www.differenttypeofvibe.com/og-image.png',
         },
         'mainEntityOfPage': {
           '@type': 'WebPage',
-          '@id': 'https://differenttypeofvibe.com/beatstarz-alternative',
+          '@id': 'https://www.differenttypeofvibe.com/beatstarz-alternative',
         },
       },
       {
@@ -87,13 +99,13 @@ export default function BeatstarzAlternativePage() {
             '@type': 'ListItem',
             'position': 1,
             'name': 'Home',
-            'item': 'https://differenttypeofvibe.com'
+            'item': 'https://www.differenttypeofvibe.com'
           },
           {
             '@type': 'ListItem',
             'position': 2,
             'name': 'BeatStars Alternative',
-            'item': 'https://differenttypeofvibe.com/beatstarz-alternative'
+            'item': 'https://www.differenttypeofvibe.com/beatstarz-alternative'
           }
         ]
       }

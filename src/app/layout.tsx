@@ -138,6 +138,24 @@ export default function RootLayout({
         "paymentAccepted": "Credit Card, Stripe",
         "priceRange": "$$",
       },
+      {
+        "@type": "WebSite",
+        "@id": "https://www.differenttypeofvibe.com/#website",
+        "url": "https://www.differenttypeofvibe.com",
+        "name": "Different Type of Vibe",
+        "description": "High-Quality Hip-Hop, Boom Bap, Trap, and R&B Instrumentals Produced by Onzieb.",
+        "publisher": {
+          "@id": "https://www.differenttypeofvibe.com/#organization"
+        },
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.differenttypeofvibe.com/?q={search_term_string}"
+          },
+          "query-input": "required name=search_term_string"
+        }
+      },
     ],
   };
 
