@@ -88,6 +88,39 @@ export default function SubscriptionPricing() {
               Please approve the quick <strong className="text-emerald-400">2FA / SMS confirmation prompt</strong> inside your mobile banking app when completing checkout!
             </p>
           </div>
+
+          {/* African & Nigerian Artists Payment Help */}
+          <div className="bg-emerald-950/40 border border-emerald-500/50 p-4 rounded-xl text-left shadow-lg">
+            <div className="flex items-center gap-2 mb-2">
+              <span className="text-base">🇳🇬 🇬🇭 🇰🇪</span>
+              <span className="text-emerald-400 font-bold text-xs uppercase tracking-wider">
+                In Nigeria, Ghana, or Kenya? Card Declining?
+              </span>
+            </div>
+            <p className="text-zinc-300 text-xs leading-relaxed mb-2">
+              If your bank card declines due to international spending limits:
+            </p>
+            <ul className="text-xs text-zinc-300 space-y-1 pl-4 list-disc mb-3">
+              <li>Use a free <strong>Virtual Dollar Card</strong> from <strong>Geegpay</strong>, <strong>Chipper Cash</strong>, or <strong>Grey</strong> (approves on Stripe instantly).</li>
+              <li>Or pay in 60 seconds with <strong>Crypto (USDT / Bitcoin)</strong>.</li>
+            </ul>
+            <div className="flex flex-wrap items-center gap-2.5 pt-1">
+              <a
+                href="/crypto-pay"
+                className="text-xs bg-amber-500/20 text-amber-300 border border-amber-500/40 px-3 py-1.5 rounded-lg font-bold hover:bg-amber-500/30 transition"
+              >
+                ⚡ Pay via USDT / Crypto ➔
+              </a>
+              <a
+                href="https://wa.me/17577150140?text=Hi%20Onzieb%2C%20I%20am%20in%20Nigeria%2FAfrica%20and%20want%20to%20get%20the%20VIP%20Beat%20Pass"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-xs bg-emerald-500/20 text-emerald-300 border border-emerald-500/40 px-3 py-1.5 rounded-lg font-bold hover:bg-emerald-500/30 transition flex items-center gap-1.5"
+              >
+                💬 WhatsApp Onzieb (+1 757-715-0140) ➔
+              </a>
+            </div>
+          </div>
         </div>
       </div>
 

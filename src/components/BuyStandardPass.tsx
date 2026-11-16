@@ -19,10 +19,11 @@ export default function BuyStandardPass({ variantId = 2326670 }: { variantId?: n
           currency: 'USD',
         });
       }
-      const res = await fetch('/api/checkout/lemonsqueezy', {
+      // Direct Stripe Subscription Checkout (No Lemon Squeezy dependency)
+      const res = await fetch('/api/subscription/checkout', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ variantId }),
+        body: JSON.stringify({ planTier: 'standard' }),
       });
       const data = await res.json();
       if (data.url) {
@@ -31,7 +32,7 @@ export default function BuyStandardPass({ variantId = 2326670 }: { variantId?: n
         setError(data.error || 'Failed to start checkout');
       }
     } catch (err) {
-      setError('Network error. Please try again.');
+      setError('Network error. Please try again or chat on WhatsApp.');
     } finally {
       setLoading(false);
     }
@@ -44,7 +45,7 @@ export default function BuyStandardPass({ variantId = 2326670 }: { variantId?: n
         disabled={loading}
         className="w-full bg-emerald-500 hover:bg-emerald-400 disabled:opacity-50 text-black font-bold py-3 rounded-lg transition-all"
       >
-        {loading ? 'Loading...' : 'Start $9.99 Pass'}
+        {loading ? 'Starting Checkout...' : 'Start $9.99 Pass (Instant Download)'}
       </button>
       {error && <p className="text-red-400 text-sm mt-2">{error}</p>}
     </div>
