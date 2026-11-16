@@ -50,12 +50,12 @@ export default function StickyMobileVipBar() {
             </div>
           </div>
 
-          <button
-            onClick={() => setShowEmailModal(true)}
+          <a
+            href="https://buy.stripe.com/bJe5kCgKebCq3Ipg8vcZa2p"
             className="inline-flex items-center gap-1 bg-gradient-to-r from-emerald-500 to-teal-400 hover:from-emerald-400 hover:to-teal-300 text-black font-extrabold text-xs px-4 py-2.5 rounded-xl shadow-lg transition-all"
           >
             Start $9.99 <ArrowRight className="w-3.5 h-3.5" />
-          </button>
+          </a>
         </div>
       </div>
 

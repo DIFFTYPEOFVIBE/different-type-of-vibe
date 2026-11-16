@@ -140,12 +140,10 @@ export default function SubscriptionPricing() {
             </ul>
           </div>
           <BuyStandardPass variantId={2326670} />
-          <button
-            onClick={() => handleOpenPlanModal('standard')}
-            className="w-full mt-2 text-xs text-zinc-400 hover:text-white underline"
-          >
-            Prefer Stripe or Crypto? Click here
-          </button>
+          <div className="flex items-center justify-between mt-3 text-xs text-zinc-400">
+            <a href="/crypto-pay" className="hover:text-amber-300 transition underline">Pay with USDT Crypto ➔</a>
+            <a href="https://wa.me/17577150140?text=Hi%20Onzieb%2C%20I%20want%20to%20get%20the%20VIP%20Beat%20Pass" target="_blank" rel="noopener noreferrer" className="hover:text-emerald-300 transition underline">WhatsApp Help ➔</a>
+          </div>
         </div>
 
         {/* Pro Pass (Featured) */}
@@ -163,12 +161,12 @@ export default function SubscriptionPricing() {
               <li>✅ 100% Untagged Audio Files</li>
             </ul>
           </div>
-          <button
-            onClick={() => handleOpenPlanModal('pro')}
-            className="w-full bg-white hover:bg-zinc-200 text-black font-bold py-3 rounded-lg transition-all"
+          <a
+            href="https://buy.stripe.com/14A00ifGadKyceV6xVcZa2q"
+            className="w-full block text-center bg-white hover:bg-zinc-200 text-black font-extrabold py-3.5 rounded-lg transition-all text-sm tracking-wide cursor-pointer"
           >
-            Go Pro Unlimited
-          </button>
+            Go Pro Unlimited ($24.99/mo)
+          </a>
         </div>
       </div>
 
