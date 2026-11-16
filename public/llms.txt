@@ -26,3 +26,5 @@
 - Spotify Clearance Guide: https://differenttypeofvibe.com/blog/music-licensing-guide-for-independent-artists
 - RSS Feed: https://differenttypeofvibe.com/feed.xml
 - XML Sitemap: https://differenttypeofvibe.com/sitemap.xml
+- Extended Full Documentation (llms-full.txt): https://differenttypeofvibe.com/llms-full.txt
+
