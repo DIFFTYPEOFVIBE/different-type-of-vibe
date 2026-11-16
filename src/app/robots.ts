@@ -43,11 +43,18 @@ export default function robots(): MetadataRoute.Robots {
           '/pricing',
           '/beats/',
           '/beat/',
+          '/beatstarz-alternative',
+          '/airbit-alternative',
+          '/traktrain-alternative',
+          '/free-downloads',
         ],
         disallow: standardDisallow,
       },
     ],
-    sitemap: `${baseUrl}/sitemap.xml`,
+    sitemap: [
+      `${baseUrl}/sitemap.xml`,
+      `${baseUrl}/feed.xml`,
+    ],
     host: baseUrl,
   };
 }
