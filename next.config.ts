@@ -37,6 +37,17 @@ const nextConfig: NextConfig = {
         destination: "/Your_3_Free_Tagged_Beats.zip",
         permanent: false,
       },
+      // 2b. BeatStars spelling alias ('s' vs 'z' canonicalization)
+      {
+        source: "/beatstars-alternative",
+        destination: "/beatstarz-alternative",
+        permanent: true,
+      },
+      {
+        source: "/beatstars",
+        destination: "/beatstarz-alternative",
+        permanent: true,
+      },
       // 3. Consolidate competing /beats/type-beat/ URLs to canonical /vibe/ hubs (PageRank Transfer)
       {
         source: "/beats/type-beat/drake",
