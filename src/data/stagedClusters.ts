@@ -1,6 +1,6 @@
 // src/data/stagedClusters.ts
-// Programmatic SEO Staged Batch Cluster Ledger - Global Top 13 Complete Footprint (Sweden Wave 2 Complete)
-// Deployed automatically by scripts/deploy_wave2_sweden_pseo.py
+// Programmatic SEO Staged Batch Cluster Ledger - Global Top 14 Complete Footprint (India / भारत)
+// Deployed automatically by scripts/deploy_india_pseo.py
 
 export interface StagedClusterItem {
   type: 'vibe' | 'genre' | 'mood' | 'bpm' | 'key' | 'scene' | 'instrument' | 'blog';
@@ -10578,5 +10578,360 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "type": "scene",
     "slug": "helsinki-skandinavisk-boombap",
     "batchId": 27
+  },
+  {
+    "type": "scene",
+    "slug": "mumbai-gully-gang-trap",
+    "batchId": 28
+  },
+  {
+    "type": "scene",
+    "slug": "delhi-dhh-drill-beats",
+    "batchId": 28
+  },
+  {
+    "type": "scene",
+    "slug": "punjab-tumbi-trap-wave",
+    "batchId": 28
+  },
+  {
+    "type": "scene",
+    "slug": "bangalore-electronic-hiphop",
+    "batchId": 28
+  },
+  {
+    "type": "scene",
+    "slug": "hyderabad-telugu-street-trap",
+    "batchId": 28
+  },
+  {
+    "type": "scene",
+    "slug": "chennai-tamil-gaana-trap",
+    "batchId": 28
+  },
+  {
+    "type": "scene",
+    "slug": "kolkata-bengali-boombap",
+    "batchId": 28
+  },
+  {
+    "type": "scene",
+    "slug": "pune-p-town-trap-movement",
+    "batchId": 28
+  },
+  {
+    "type": "scene",
+    "slug": "chandigarh-tricity-punjabi-banger",
+    "batchId": 28
+  },
+  {
+    "type": "scene",
+    "slug": "ludhiana-punjabi-drill-beats",
+    "batchId": 28
+  },
+  {
+    "type": "scene",
+    "slug": "amritsar-folk-trap-fusion",
+    "batchId": 28
+  },
+  {
+    "type": "vibe",
+    "slug": "karan-aujla-punjabi-trap-beats",
+    "batchId": 28
+  },
+  {
+    "type": "vibe",
+    "slug": "divine-gully-gang-street-rap",
+    "batchId": 28
+  },
+  {
+    "type": "vibe",
+    "slug": "sidhu-moose-wala-legendary-trap",
+    "batchId": 28
+  },
+  {
+    "type": "vibe",
+    "slug": "ap-dhillon-brown-munde-wave",
+    "batchId": 28
+  },
+  {
+    "type": "vibe",
+    "slug": "mc-stan-tadipaar-p-town-trap",
+    "batchId": 28
+  },
+  {
+    "type": "vibe",
+    "slug": "shubh-still-rollin-melodic-trap",
+    "batchId": 28
+  },
+  {
+    "type": "vibe",
+    "slug": "seedhe-maut-delhi-drill-banger",
+    "batchId": 28
+  },
+  {
+    "type": "vibe",
+    "slug": "kr-dollar-na-lyrical-hardcore-rap",
+    "batchId": 28
+  },
+  {
+    "type": "vibe",
+    "slug": "raftaar-kalamkaar-heavy-drill-trap",
+    "batchId": 28
+  },
+  {
+    "type": "vibe",
+    "slug": "king-champagne-talk-pop-trap",
+    "batchId": 28
+  },
+  {
+    "type": "vibe",
+    "slug": "emiway-bantai-machayenge-party-rap",
+    "batchId": 28
+  },
+  {
+    "type": "vibe",
+    "slug": "prabh-deep-delhi-ambient-jazz-trap",
+    "batchId": 28
+  },
+  {
+    "type": "vibe",
+    "slug": "badshah-commercial-club-banger",
+    "batchId": 28
+  },
+  {
+    "type": "vibe",
+    "slug": "ikka-hardcore-delhi-trap-beats",
+    "batchId": 28
+  },
+  {
+    "type": "vibe",
+    "slug": "naezy-asli-hiphop-mumbai",
+    "batchId": 28
+  },
+  {
+    "type": "genre",
+    "slug": "buy-beats-online-india-inr",
+    "batchId": 28
+  },
+  {
+    "type": "genre",
+    "slug": "punjabi-trap-beats-for-sale-wav",
+    "batchId": 28
+  },
+  {
+    "type": "genre",
+    "slug": "desi-hip-hop-instrumentals-with-upi",
+    "batchId": 28
+  },
+  {
+    "type": "genre",
+    "slug": "iprs-cleared-beats-commercial-use",
+    "batchId": 28
+  },
+  {
+    "type": "genre",
+    "slug": "gully-rap-instrumentals-for-spotify-india",
+    "batchId": 28
+  },
+  {
+    "type": "genre",
+    "slug": "royalty-free-punjabi-beats-commercial",
+    "batchId": 28
+  },
+  {
+    "type": "genre",
+    "slug": "tumbi-dhol-trap-instrumentals-download",
+    "batchId": 28
+  },
+  {
+    "type": "genre",
+    "slug": "untagged-wav-beat-leases-india",
+    "batchId": 28
+  },
+  {
+    "type": "genre",
+    "slug": "buy-beats-with-phonepe-and-paytm",
+    "batchId": 28
+  },
+  {
+    "type": "genre",
+    "slug": "commercial-streaming-licenses-jiosaavn-spotify",
+    "batchId": 28
+  },
+  {
+    "type": "genre",
+    "slug": "stems-trackout-desi-hip-hop-beats",
+    "batchId": 28
+  },
+  {
+    "type": "genre",
+    "slug": "indian-flute-and-sitar-trap-beats",
+    "batchId": 28
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-punjabi-trap-beats",
+    "batchId": 28
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-delhi-dhh-drill-beats",
+    "batchId": 28
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-gully-gang-mumbai-rap",
+    "batchId": 28
+  },
+  {
+    "type": "bpm",
+    "slug": "105-bpm-ap-dhillon-melodic-bounce",
+    "batchId": 28
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-desi-boombap-beats",
+    "batchId": 28
+  },
+  {
+    "type": "key",
+    "slug": "d-minor-punjabi-trap-beats",
+    "batchId": 28
+  },
+  {
+    "type": "key",
+    "slug": "c-minor-gully-gang-street-rap",
+    "batchId": 28
+  },
+  {
+    "type": "key",
+    "slug": "f-minor-karan-aujla-melodic-trap",
+    "batchId": 28
+  },
+  {
+    "type": "key",
+    "slug": "a-minor-desi-hip-hop-flute",
+    "batchId": 28
+  },
+  {
+    "type": "key",
+    "slug": "g-minor-sidhu-moose-wala-brass",
+    "batchId": 28
+  },
+  {
+    "type": "scene",
+    "slug": "mumbai-punjabi-trap-beats",
+    "batchId": 28
+  },
+  {
+    "type": "scene",
+    "slug": "mumbai-desi-hip-hop-instrumentals",
+    "batchId": 28
+  },
+  {
+    "type": "scene",
+    "slug": "mumbai-gully-rap-beats",
+    "batchId": 28
+  },
+  {
+    "type": "scene",
+    "slug": "mumbai-dhh-drill-beats",
+    "batchId": 28
+  },
+  {
+    "type": "scene",
+    "slug": "delhi-punjabi-trap-beats",
+    "batchId": 28
+  },
+  {
+    "type": "scene",
+    "slug": "delhi-desi-hip-hop-instrumentals",
+    "batchId": 28
+  },
+  {
+    "type": "scene",
+    "slug": "delhi-gully-rap-beats",
+    "batchId": 28
+  },
+  {
+    "type": "scene",
+    "slug": "punjab-punjabi-trap-beats",
+    "batchId": 28
+  },
+  {
+    "type": "scene",
+    "slug": "punjab-desi-hip-hop-instrumentals",
+    "batchId": 28
+  },
+  {
+    "type": "scene",
+    "slug": "punjab-gully-rap-beats",
+    "batchId": 28
+  },
+  {
+    "type": "scene",
+    "slug": "punjab-dhh-drill-beats",
+    "batchId": 28
+  },
+  {
+    "type": "scene",
+    "slug": "bangalore-punjabi-trap-beats",
+    "batchId": 28
+  },
+  {
+    "type": "scene",
+    "slug": "bangalore-desi-hip-hop-instrumentals",
+    "batchId": 28
+  },
+  {
+    "type": "scene",
+    "slug": "bangalore-gully-rap-beats",
+    "batchId": 28
+  },
+  {
+    "type": "scene",
+    "slug": "bangalore-dhh-drill-beats",
+    "batchId": 28
+  },
+  {
+    "type": "scene",
+    "slug": "hyderabad-punjabi-trap-beats",
+    "batchId": 28
+  },
+  {
+    "type": "scene",
+    "slug": "hyderabad-desi-hip-hop-instrumentals",
+    "batchId": 28
+  },
+  {
+    "type": "scene",
+    "slug": "hyderabad-gully-rap-beats",
+    "batchId": 28
+  },
+  {
+    "type": "scene",
+    "slug": "hyderabad-dhh-drill-beats",
+    "batchId": 28
+  },
+  {
+    "type": "scene",
+    "slug": "chandigarh-punjabi-trap-beats",
+    "batchId": 28
+  },
+  {
+    "type": "scene",
+    "slug": "chandigarh-desi-hip-hop-instrumentals",
+    "batchId": 28
+  },
+  {
+    "type": "scene",
+    "slug": "chandigarh-gully-rap-beats",
+    "batchId": 28
+  },
+  {
+    "type": "scene",
+    "slug": "chandigarh-dhh-drill-beats",
+    "batchId": 28
   }
 ];

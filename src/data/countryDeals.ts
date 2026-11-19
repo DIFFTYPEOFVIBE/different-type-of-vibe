@@ -15544,4 +15544,492 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
     }
   ]
 },
+  "in": {
+  "name": "India – भारत (Desi Hip-Hop, Punjabi Trap & DHH)",
+  "flag": "🇮🇳",
+  "currency": "INR (₹)",
+  "currencyCode": "INR",
+  "gateways": "UPI (Google Pay, PhonePe, Paytm), RuPay, Credit/Debit Cards, Net Banking, PayPal, Stripe",
+  "pro": "IPRS & PPL India",
+  "proFullName": "The Indian Performing Right Society Limited (IPRS) & PPL India",
+  "proGuide": "100% IPRS and PPL India compliant for Indian music creators. All instrumentals are original compositions free of uncleared third-party samples. Retain 100% of your artist streaming royalties on Spotify India, JioSaavn, Wynk, Apple Music, and YouTube.",
+  "headline": "Buy Desi Hip-Hop & Punjabi Trap Beats Online: Instant UPI, WAV Leases & Stems",
+  "description": "Studio-grade uncompressed 24-bit WAV beat leases and multitrack stems for Indian rappers, lyricists, and producers. Fully cleared for commercial streaming and IPRS registration with formal PDF license contracts.",
+  "popularGenres": [
+    "Punjabi Trap",
+    "Desi Hip-Hop (DHH)",
+    "Gully Rap",
+    "Dhol & Tumbi 808s"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Mumbai Gully Rap Hub",
+      "slug": "in/mumbai",
+      "description": "The capital of Gully Rap and street hip-hop."
+    },
+    {
+      "name": "Delhi DHH Drill Hub",
+      "slug": "in/delhi",
+      "description": "Lyrical heavyweight DHH and aggressive sliding drill."
+    },
+    {
+      "name": "Punjab Wave Capital",
+      "slug": "in/punjab",
+      "description": "The global epicenter of Punjabi Trap and folk fusion."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify India, JioSaavn, Wynk, Apple Music, and YouTube in India – भारत (Desi Hip-Hop, Punjabi Trap & DHH)?",
+      "answer": "Yes! 100% allowed. All WAV and MP3 licenses include full commercial streaming and monetisation rights across Spotify India, JioSaavn, Wynk Music, Apple Music, YouTube, and Gaana. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "Can I register my song with IPRS (The Indian Performing Right Society) and PPL India?",
+      "answer": "Yes! All instrumentals are 100% original master compositions produced by Onzieb with zero uncleared third-party samples. You can register your lyrics, vocal performance, and musical work with IPRS and PPL India with complete legal clearance."
+    },
+    {
+      "question": "Which Indian payment methods are supported?",
+      "answer": "You can pay instantly in Indian Rupees (INR ₹) via UPI (Google Pay, PhonePe, Paytm, BHIM), RuPay, Indian Debit/Credit Cards, Net Banking, and PayPal."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, high-definition MP3 audio, and a formal countersigned legal license agreement PDF are delivered directly to your email inbox."
+    }
+  ]
+},
+  "in/mumbai": {
+  "name": "India – Mumbai & Maharashtra (Gully Rap Capital 022)",
+  "flag": "🇮🇳",
+  "currency": "INR (₹)",
+  "currencyCode": "INR",
+  "gateways": "UPI, Google Pay, PhonePe, Paytm, Cards, Net Banking",
+  "pro": "IPRS & PPL India",
+  "proFullName": "The Indian Performing Right Society Limited (IPRS)",
+  "proGuide": "100% IPRS compliant with signed legal PDF agreements.",
+  "headline": "Mumbai Beats for Sale: Gully Rap, 59 Street Trap & Heavy 808s",
+  "description": "The raw street energy of Mumbai: punchy acoustic kicks, menacing brass stabs, and heavy 808 basslines inspired by DIVINE, Gully Gang, and MC Stan.",
+  "popularGenres": [
+    "Gully Rap",
+    "Mumbai Street Trap",
+    "Heavy 808s",
+    "DIVINE Style"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "DIVINE Gully Vibe Hub",
+      "slug": "../../vibe/divine-gully-gang-street-rap",
+      "description": "Raw street drums and menacing brass fanfare."
+    },
+    {
+      "name": "MC Stan P-Town Trap",
+      "slug": "../../vibe/mc-stan-tadipaar-p-town-trap",
+      "description": "New-age 808 distortion and experimental street bounce."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify India, JioSaavn, Wynk, Apple Music, and YouTube in India – Mumbai & Maharashtra (Gully Rap Capital 022)?",
+      "answer": "Yes! 100% allowed. All WAV and MP3 licenses include full commercial streaming and monetisation rights across Spotify India, JioSaavn, Wynk Music, Apple Music, YouTube, and Gaana. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "Can I register my song with IPRS (The Indian Performing Right Society) and PPL India?",
+      "answer": "Yes! All instrumentals are 100% original master compositions produced by Onzieb with zero uncleared third-party samples. You can register your lyrics, vocal performance, and musical work with IPRS and PPL India with complete legal clearance."
+    },
+    {
+      "question": "Which Indian payment methods are supported?",
+      "answer": "You can pay instantly in Indian Rupees (INR ₹) via UPI (Google Pay, PhonePe, Paytm, BHIM), RuPay, Indian Debit/Credit Cards, Net Banking, and PayPal."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, high-definition MP3 audio, and a formal countersigned legal license agreement PDF are delivered directly to your email inbox."
+    }
+  ]
+},
+  "in/delhi": {
+  "name": "India – Delhi & NCR (DHH Lyrical Drill & Trap)",
+  "flag": "🇮🇳",
+  "currency": "INR (₹)",
+  "currencyCode": "INR",
+  "gateways": "UPI, Google Pay, PhonePe, Paytm, Cards, Net Banking",
+  "pro": "IPRS & PPL India",
+  "proFullName": "The Indian Performing Right Society Limited (IPRS)",
+  "proGuide": "100% cleared for commercial streaming across all platforms.",
+  "headline": "Delhi Beats for Sale: DHH Drill, Sliding 808s & Seedhe Maut Style",
+  "description": "The battleground of lyrical Indian hip-hop: aggressive sliding drill 808s, technical drum patterns, and dark melodies inspired by Seedhe Maut and KR$NA.",
+  "popularGenres": [
+    "Delhi DHH Drill",
+    "Kalamkaar Trap",
+    "Seedhe Maut Style",
+    "Lyrical Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Seedhe Maut Drill Vibe",
+      "slug": "../../vibe/seedhe-maut-delhi-drill-banger",
+      "description": "Fast technical drill percussion and sliding sub bass."
+    },
+    {
+      "name": "KR$NA Hardcore Vibe",
+      "slug": "../../vibe/kr-dollar-na-lyrical-hardcore-rap",
+      "description": "Complex rhyme cadences with hard-hitting boom bap drums."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify India, JioSaavn, Wynk, Apple Music, and YouTube in India – Delhi & NCR (DHH Lyrical Drill & Trap)?",
+      "answer": "Yes! 100% allowed. All WAV and MP3 licenses include full commercial streaming and monetisation rights across Spotify India, JioSaavn, Wynk Music, Apple Music, YouTube, and Gaana. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "Can I register my song with IPRS (The Indian Performing Right Society) and PPL India?",
+      "answer": "Yes! All instrumentals are 100% original master compositions produced by Onzieb with zero uncleared third-party samples. You can register your lyrics, vocal performance, and musical work with IPRS and PPL India with complete legal clearance."
+    },
+    {
+      "question": "Which Indian payment methods are supported?",
+      "answer": "You can pay instantly in Indian Rupees (INR ₹) via UPI (Google Pay, PhonePe, Paytm, BHIM), RuPay, Indian Debit/Credit Cards, Net Banking, and PayPal."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, high-definition MP3 audio, and a formal countersigned legal license agreement PDF are delivered directly to your email inbox."
+    }
+  ]
+},
+  "in/punjab": {
+  "name": "India – Punjab (The Global Punjabi Trap & Wave Hub)",
+  "flag": "🇮🇳",
+  "currency": "INR (₹)",
+  "currencyCode": "INR",
+  "gateways": "UPI, Google Pay, PhonePe, Paytm, Cards, Net Banking",
+  "pro": "IPRS & PPL India",
+  "proFullName": "The Indian Performing Right Society Limited (IPRS)",
+  "proGuide": "100% IPRS compliant and cleared for worldwide distribution.",
+  "headline": "Punjabi Trap Beats for Sale: Karan Aujla, Sidhu Moose Wala & Tumbi 808s",
+  "description": "The world-famous Punjabi trap soundscape: traditional dhol and tumbi riffs fused with massive Western 808 basslines inspired by Karan Aujla, Sidhu Moose Wala, and Shubh.",
+  "popularGenres": [
+    "Punjabi Trap",
+    "Karan Aujla Style",
+    "Sidhu Style 808s",
+    "Tumbi Fusion"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Karan Aujla Style Hub",
+      "slug": "../../vibe/karan-aujla-punjabi-trap-beats",
+      "description": "Folk tumbi riffs with heavy modern trap 808s."
+    },
+    {
+      "name": "Sidhu Moose Wala Brass",
+      "slug": "../../vibe/sidhu-moose-wala-legendary-trap",
+      "description": "Monumental brass horns and heavy street bass drops."
+    },
+    {
+      "name": "Shubh Melodic Trap",
+      "slug": "../../vibe/shubh-still-rollin-melodic-trap",
+      "description": "Smooth melodic hooks and crisp rolling trap bounce."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify India, JioSaavn, Wynk, Apple Music, and YouTube in India – Punjab (The Global Punjabi Trap & Wave Hub)?",
+      "answer": "Yes! 100% allowed. All WAV and MP3 licenses include full commercial streaming and monetisation rights across Spotify India, JioSaavn, Wynk Music, Apple Music, YouTube, and Gaana. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "Can I register my song with IPRS (The Indian Performing Right Society) and PPL India?",
+      "answer": "Yes! All instrumentals are 100% original master compositions produced by Onzieb with zero uncleared third-party samples. You can register your lyrics, vocal performance, and musical work with IPRS and PPL India with complete legal clearance."
+    },
+    {
+      "question": "Which Indian payment methods are supported?",
+      "answer": "You can pay instantly in Indian Rupees (INR ₹) via UPI (Google Pay, PhonePe, Paytm, BHIM), RuPay, Indian Debit/Credit Cards, Net Banking, and PayPal."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, high-definition MP3 audio, and a formal countersigned legal license agreement PDF are delivered directly to your email inbox."
+    }
+  ]
+},
+  "in/bangalore": {
+  "name": "India – Bangalore & Karnataka Hip-Hop Hub",
+  "flag": "🇮🇳",
+  "currency": "INR (₹)",
+  "currencyCode": "INR",
+  "gateways": "UPI, Google Pay, PhonePe, Paytm, Cards, Net Banking",
+  "pro": "IPRS & PPL India",
+  "proFullName": "The Indian Performing Right Society Limited (IPRS)",
+  "proGuide": "100% IPRS compliant with instant digital download.",
+  "headline": "Bangalore Beats for Sale: Electronic Trap, Chill Melodic & Kannada Rap",
+  "description": "Futuristic electronic trap synths and smooth melodic hip-hop drums for recording artists across Bangalore and Karnataka.",
+  "popularGenres": [
+    "Bangalore Trap",
+    "Electronic Hiphop",
+    "Melodic Wave"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify India, JioSaavn, Wynk, Apple Music, and YouTube in India – Bangalore & Karnataka Hip-Hop Hub?",
+      "answer": "Yes! 100% allowed. All WAV and MP3 licenses include full commercial streaming and monetisation rights across Spotify India, JioSaavn, Wynk Music, Apple Music, YouTube, and Gaana. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "Can I register my song with IPRS (The Indian Performing Right Society) and PPL India?",
+      "answer": "Yes! All instrumentals are 100% original master compositions produced by Onzieb with zero uncleared third-party samples. You can register your lyrics, vocal performance, and musical work with IPRS and PPL India with complete legal clearance."
+    },
+    {
+      "question": "Which Indian payment methods are supported?",
+      "answer": "You can pay instantly in Indian Rupees (INR ₹) via UPI (Google Pay, PhonePe, Paytm, BHIM), RuPay, Indian Debit/Credit Cards, Net Banking, and PayPal."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, high-definition MP3 audio, and a formal countersigned legal license agreement PDF are delivered directly to your email inbox."
+    }
+  ]
+},
+  "in/hyderabad": {
+  "name": "India – Hyderabad & Telangana Street Trap",
+  "flag": "🇮🇳",
+  "currency": "INR (₹)",
+  "currencyCode": "INR",
+  "gateways": "UPI, Google Pay, PhonePe, Paytm, Cards, Net Banking",
+  "pro": "IPRS & PPL India",
+  "proFullName": "The Indian Performing Right Society Limited (IPRS)",
+  "proGuide": "100% IPRS compliant with signed PDF contracts.",
+  "headline": "Hyderabad Beats for Sale: Telugu Street Rap, Heavy Trap & 808s",
+  "description": "Hard-hitting southern street trap and driving drill percussion for independent recording vocalists in Hyderabad and Telangana.",
+  "popularGenres": [
+    "Hyderabad Rap",
+    "Telugu Street Trap",
+    "Heavy 808s"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify India, JioSaavn, Wynk, Apple Music, and YouTube in India – Hyderabad & Telangana Street Trap?",
+      "answer": "Yes! 100% allowed. All WAV and MP3 licenses include full commercial streaming and monetisation rights across Spotify India, JioSaavn, Wynk Music, Apple Music, YouTube, and Gaana. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "Can I register my song with IPRS (The Indian Performing Right Society) and PPL India?",
+      "answer": "Yes! All instrumentals are 100% original master compositions produced by Onzieb with zero uncleared third-party samples. You can register your lyrics, vocal performance, and musical work with IPRS and PPL India with complete legal clearance."
+    },
+    {
+      "question": "Which Indian payment methods are supported?",
+      "answer": "You can pay instantly in Indian Rupees (INR ₹) via UPI (Google Pay, PhonePe, Paytm, BHIM), RuPay, Indian Debit/Credit Cards, Net Banking, and PayPal."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, high-definition MP3 audio, and a formal countersigned legal license agreement PDF are delivered directly to your email inbox."
+    }
+  ]
+},
+  "in/chennai": {
+  "name": "India – Chennai & Tamil Street Rap Scene",
+  "flag": "🇮🇳",
+  "currency": "INR (₹)",
+  "currencyCode": "INR",
+  "gateways": "UPI, Google Pay, PhonePe, Paytm, Cards, Net Banking",
+  "pro": "IPRS & PPL India",
+  "proFullName": "The Indian Performing Right Society Limited (IPRS)",
+  "proGuide": "100% IPRS compliant with full commercial streaming rights.",
+  "headline": "Chennai Beats for Sale: Tamil Rap, Gaana Trap Fusion & Heavy Drums",
+  "description": "Energetic South Indian folk percussion fused with heavy 808 trap basslines for recording artists across Chennai and Tamil Nadu.",
+  "popularGenres": [
+    "Tamil Rap",
+    "Gaana Trap",
+    "Heavy Percussion"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify India, JioSaavn, Wynk, Apple Music, and YouTube in India – Chennai & Tamil Street Rap Scene?",
+      "answer": "Yes! 100% allowed. All WAV and MP3 licenses include full commercial streaming and monetisation rights across Spotify India, JioSaavn, Wynk Music, Apple Music, YouTube, and Gaana. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "Can I register my song with IPRS (The Indian Performing Right Society) and PPL India?",
+      "answer": "Yes! All instrumentals are 100% original master compositions produced by Onzieb with zero uncleared third-party samples. You can register your lyrics, vocal performance, and musical work with IPRS and PPL India with complete legal clearance."
+    },
+    {
+      "question": "Which Indian payment methods are supported?",
+      "answer": "You can pay instantly in Indian Rupees (INR ₹) via UPI (Google Pay, PhonePe, Paytm, BHIM), RuPay, Indian Debit/Credit Cards, Net Banking, and PayPal."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, high-definition MP3 audio, and a formal countersigned legal license agreement PDF are delivered directly to your email inbox."
+    }
+  ]
+},
+  "in/kolkata": {
+  "name": "India – Kolkata & West Bengal Lyrical Boom Bap",
+  "flag": "🇮🇳",
+  "currency": "INR (₹)",
+  "currencyCode": "INR",
+  "gateways": "UPI, Google Pay, PhonePe, Paytm, Cards, Net Banking",
+  "pro": "IPRS & PPL India",
+  "proFullName": "The Indian Performing Right Society Limited (IPRS)",
+  "proGuide": "100% original and IPRS cleared.",
+  "headline": "Kolkata Beats for Sale: Bengali Hip-Hop, Poetic Boom Bap & Trap",
+  "description": "Soulful Indian classical instrument chops, uncompressed boom bap drums, and thoughtful trap beats for artists in Kolkata.",
+  "popularGenres": [
+    "Kolkata Boom Bap",
+    "Bengali Hiphop",
+    "Poetic Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify India, JioSaavn, Wynk, Apple Music, and YouTube in India – Kolkata & West Bengal Lyrical Boom Bap?",
+      "answer": "Yes! 100% allowed. All WAV and MP3 licenses include full commercial streaming and monetisation rights across Spotify India, JioSaavn, Wynk Music, Apple Music, YouTube, and Gaana. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "Can I register my song with IPRS (The Indian Performing Right Society) and PPL India?",
+      "answer": "Yes! All instrumentals are 100% original master compositions produced by Onzieb with zero uncleared third-party samples. You can register your lyrics, vocal performance, and musical work with IPRS and PPL India with complete legal clearance."
+    },
+    {
+      "question": "Which Indian payment methods are supported?",
+      "answer": "You can pay instantly in Indian Rupees (INR ₹) via UPI (Google Pay, PhonePe, Paytm, BHIM), RuPay, Indian Debit/Credit Cards, Net Banking, and PayPal."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, high-definition MP3 audio, and a formal countersigned legal license agreement PDF are delivered directly to your email inbox."
+    }
+  ]
+},
+  "in/pune": {
+  "name": "India – Pune (P-Town Rap Movement)",
+  "flag": "🇮🇳",
+  "currency": "INR (₹)",
+  "currencyCode": "INR",
+  "gateways": "UPI, Google Pay, PhonePe, Paytm, Cards, Net Banking",
+  "pro": "IPRS & PPL India",
+  "proFullName": "The Indian Performing Right Society Limited (IPRS)",
+  "proGuide": "100% IPRS compliant with instant delivery.",
+  "headline": "Pune Beats for Sale: P-Town Street Trap, Raw Drill & 808s",
+  "description": "Raw street rap drums, bouncy basslines, and innovative trap rhythms for recording artists in Pune.",
+  "popularGenres": [
+    "P-Town Trap",
+    "Pune Rap",
+    "Street 808s"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify India, JioSaavn, Wynk, Apple Music, and YouTube in India – Pune (P-Town Rap Movement)?",
+      "answer": "Yes! 100% allowed. All WAV and MP3 licenses include full commercial streaming and monetisation rights across Spotify India, JioSaavn, Wynk Music, Apple Music, YouTube, and Gaana. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "Can I register my song with IPRS (The Indian Performing Right Society) and PPL India?",
+      "answer": "Yes! All instrumentals are 100% original master compositions produced by Onzieb with zero uncleared third-party samples. You can register your lyrics, vocal performance, and musical work with IPRS and PPL India with complete legal clearance."
+    },
+    {
+      "question": "Which Indian payment methods are supported?",
+      "answer": "You can pay instantly in Indian Rupees (INR ₹) via UPI (Google Pay, PhonePe, Paytm, BHIM), RuPay, Indian Debit/Credit Cards, Net Banking, and PayPal."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, high-definition MP3 audio, and a formal countersigned legal license agreement PDF are delivered directly to your email inbox."
+    }
+  ]
+},
+  "in/chandigarh": {
+  "name": "India – Chandigarh & Tricity Production Hub",
+  "flag": "🇮🇳",
+  "currency": "INR (₹)",
+  "currencyCode": "INR",
+  "gateways": "UPI, Google Pay, PhonePe, Paytm, Cards, Net Banking",
+  "pro": "IPRS & PPL India",
+  "proFullName": "The Indian Performing Right Society Limited (IPRS)",
+  "proGuide": "100% IPRS compliant with separate multitrack stems.",
+  "headline": "Chandigarh Beats for Sale: Tricity Punjabi Trap, Tumbi & Brass Banger",
+  "description": "Commercial Punjabi urban bangers engineered with folk instruments and massive sliding 808 basslines for Tricity recording artists.",
+  "popularGenres": [
+    "Tricity Punjabi Trap",
+    "Folk Fusion",
+    "Commercial Banger"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify India, JioSaavn, Wynk, Apple Music, and YouTube in India – Chandigarh & Tricity Production Hub?",
+      "answer": "Yes! 100% allowed. All WAV and MP3 licenses include full commercial streaming and monetisation rights across Spotify India, JioSaavn, Wynk Music, Apple Music, YouTube, and Gaana. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "Can I register my song with IPRS (The Indian Performing Right Society) and PPL India?",
+      "answer": "Yes! All instrumentals are 100% original master compositions produced by Onzieb with zero uncleared third-party samples. You can register your lyrics, vocal performance, and musical work with IPRS and PPL India with complete legal clearance."
+    },
+    {
+      "question": "Which Indian payment methods are supported?",
+      "answer": "You can pay instantly in Indian Rupees (INR ₹) via UPI (Google Pay, PhonePe, Paytm, BHIM), RuPay, Indian Debit/Credit Cards, Net Banking, and PayPal."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, high-definition MP3 audio, and a formal countersigned legal license agreement PDF are delivered directly to your email inbox."
+    }
+  ]
+},
 };
