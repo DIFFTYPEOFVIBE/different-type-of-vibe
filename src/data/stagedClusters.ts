@@ -1,6 +1,6 @@
 // src/data/stagedClusters.ts
-// Programmatic SEO Staged Batch Cluster Ledger - Global Big 7 Complete Footprint (Spain & Latin Urban)
-// Deployed automatically by scripts/deploy_spain_pseo.py
+// Programmatic SEO Staged Batch Cluster Ledger - Global Big 7 Complete Footprint (Spain & Latin America Wave 2)
+// Deployed automatically by scripts/deploy_wave2_spain_pseo.py
 
 export interface StagedClusterItem {
   type: 'vibe' | 'genre' | 'mood' | 'bpm' | 'key' | 'scene' | 'instrument' | 'blog';
@@ -5898,5 +5898,390 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "type": "scene",
     "slug": "buenos-aires-boom-bap-clasico",
     "batchId": 14
+  },
+  {
+    "type": "scene",
+    "slug": "cataluna-drill-movement",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "sevilla-rap-puro",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "malaga-space-hammu-trap",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "granada-flamenco-trap-cradle",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "galicia-trap-del-norte",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "pais-vasco-euskadi-drill",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "mallorca-smooth-rnb-trap",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "medellin-capital-del-reggaeton",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "san-juan-puerto-rico-trap-latino",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "santiago-chile-trap-movement",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "valencia-mediterraneo-trap",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "zaragoza-templo-del-boombap",
+    "batchId": 15
+  },
+  {
+    "type": "vibe",
+    "slug": "natos-y-waor-barras-bravas",
+    "batchId": 15
+  },
+  {
+    "type": "vibe",
+    "slug": "ayax-y-prok-rap-puro-granada",
+    "batchId": 15
+  },
+  {
+    "type": "vibe",
+    "slug": "delaossa-space-hammu-boombap",
+    "batchId": 15
+  },
+  {
+    "type": "vibe",
+    "slug": "feid-ferxxo-perreo-chilled-medellin",
+    "batchId": 15
+  },
+  {
+    "type": "vibe",
+    "slug": "cris-mj-chile-marisola-trap",
+    "batchId": 15
+  },
+  {
+    "type": "vibe",
+    "slug": "morad-gazo-drill-europeo",
+    "batchId": 15
+  },
+  {
+    "type": "vibe",
+    "slug": "anuel-aa-las-leyendas-nunca-mueren",
+    "batchId": 15
+  },
+  {
+    "type": "vibe",
+    "slug": "rauw-alejandro-saturno-synth-trap",
+    "batchId": 15
+  },
+  {
+    "type": "vibe",
+    "slug": "fernandocosta-street-rap-espana",
+    "batchId": 15
+  },
+  {
+    "type": "vibe",
+    "slug": "pepe-vizio-flamenco-urban-trap",
+    "batchId": 15
+  },
+  {
+    "type": "vibe",
+    "slug": "blessed-medellin-reggaeton-banger",
+    "batchId": 15
+  },
+  {
+    "type": "vibe",
+    "slug": "ryan-castro-el-cantante-del-ghetto",
+    "batchId": 15
+  },
+  {
+    "type": "vibe",
+    "slug": "mora-microdosis-melodic-trap",
+    "batchId": 15
+  },
+  {
+    "type": "vibe",
+    "slug": "polima-westcoast-chile-trap",
+    "batchId": 15
+  },
+  {
+    "type": "genre",
+    "slug": "comprar-bases-de-reggaeton-exclusivas",
+    "batchId": 15
+  },
+  {
+    "type": "genre",
+    "slug": "instrumentales-de-drill-espanol-sin-tag",
+    "batchId": 15
+  },
+  {
+    "type": "genre",
+    "slug": "bases-de-trap-flamenco-guitarras",
+    "batchId": 15
+  },
+  {
+    "type": "genre",
+    "slug": "licencias-de-beats-para-reggaeton-wav",
+    "batchId": 15
+  },
+  {
+    "type": "genre",
+    "slug": "bases-de-rap-clasico-boom-bap-espana",
+    "batchId": 15
+  },
+  {
+    "type": "genre",
+    "slug": "comprar-pistas-de-trap-con-bizum",
+    "batchId": 15
+  },
+  {
+    "type": "genre",
+    "slug": "instrumentales-libres-de-derechos-sgae",
+    "batchId": 15
+  },
+  {
+    "type": "genre",
+    "slug": "stems-de-reggaeton-pistas-separadas",
+    "batchId": 15
+  },
+  {
+    "type": "genre",
+    "slug": "contrato-de-cesion-de-derechos-beatmaker-pdf",
+    "batchId": 15
+  },
+  {
+    "type": "genre",
+    "slug": "bases-de-trap-argentino-con-808s",
+    "batchId": 15
+  },
+  {
+    "type": "genre",
+    "slug": "instrumentales-urbanas-para-spotify-latin",
+    "batchId": 15
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-drill-mdlr-beats",
+    "batchId": 15
+  },
+  {
+    "type": "bpm",
+    "slug": "143-bpm-barcelona-drill",
+    "batchId": 15
+  },
+  {
+    "type": "bpm",
+    "slug": "92-bpm-reggaeton-medellin-perreo",
+    "batchId": 15
+  },
+  {
+    "type": "bpm",
+    "slug": "98-bpm-reggaeton-pop-canarias",
+    "batchId": 15
+  },
+  {
+    "type": "bpm",
+    "slug": "132-bpm-trap-argentino-bizarrap",
+    "batchId": 15
+  },
+  {
+    "type": "key",
+    "slug": "d-minor-morad-spanish-drill",
+    "batchId": 15
+  },
+  {
+    "type": "key",
+    "slug": "c-minor-drill-espanol-pesado",
+    "batchId": 15
+  },
+  {
+    "type": "key",
+    "slug": "f-minor-feid-reggaeton-melodico",
+    "batchId": 15
+  },
+  {
+    "type": "key",
+    "slug": "a-minor-flamenco-trap-andaluz",
+    "batchId": 15
+  },
+  {
+    "type": "key",
+    "slug": "g-minor-quevedo-canarias-trap",
+    "batchId": 15
+  },
+  {
+    "type": "key",
+    "slug": "b-minor-latin-trap-808s",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "barcelona-trap-latino-instrumental",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "barcelona-reggaeton-perreo-beats",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "barcelona-flamenco-trap-beats",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "madrid-trap-latino-instrumental",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "madrid-reggaeton-perreo-beats",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "madrid-flamenco-trap-beats",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "sevilla-trap-latino-instrumental",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "sevilla-reggaeton-perreo-beats",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "sevilla-flamenco-trap-beats",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "granada-drill-espanol-beats",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "granada-trap-latino-instrumental",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "granada-reggaeton-perreo-beats",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "granada-flamenco-trap-beats",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "malaga-drill-espanol-beats",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "malaga-trap-latino-instrumental",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "malaga-reggaeton-perreo-beats",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "malaga-flamenco-trap-beats",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "medellin-drill-espanol-beats",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "medellin-trap-latino-instrumental",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "medellin-reggaeton-perreo-beats",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "medellin-flamenco-trap-beats",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "san-juan-drill-espanol-beats",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "san-juan-trap-latino-instrumental",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "san-juan-reggaeton-perreo-beats",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "san-juan-flamenco-trap-beats",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "santiago-drill-espanol-beats",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "santiago-trap-latino-instrumental",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "santiago-reggaeton-perreo-beats",
+    "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "santiago-flamenco-trap-beats",
+    "batchId": 15
   }
 ];

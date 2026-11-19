@@ -9395,4 +9395,502 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
     }
   ]
 },
+  "es/cataluna": {
+  "name": "Espa\u00f1a \u2013 Catalu\u00f1a (Barcelona, L'Hospitalet & Badalona)",
+  "flag": "\ud83c\uddea\ud83c\uddf8",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "Bizum, Apple Pay, Google Pay, Tarjetas de Cr\u00e9dito, PayPal, Stripe",
+  "pro": "SGAE",
+  "proFullName": "Sociedad General de Autores y Editores (SGAE)",
+  "proGuide": "100% compatible con SGAE en Espa\u00f1a. Todos los beats son composiciones originales sin samples no autorizados. Conservas el 100% de tus regal\u00edas de artista en Spotify y Apple Music.",
+  "headline": "Bases de Drill Espa\u00f1ol y Trap en Catalu\u00f1a: Sonido MDLR, Guitarras & 808s",
+  "description": "El epicentro del movimiento Drill en Espa\u00f1a (Barcelona, L'Hospitalet, Badalona, Girona). Bajos 808 deslizantes, guitarras oscuras y percusiones r\u00e1pidas a 140 BPM inspiradas en Morad y Beny Jr.",
+  "popularGenres": [
+    "Drill Catal\u00e1n",
+    "Sonido MDLR",
+    "Guitarras Oscuras",
+    "Trap Callejero"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Barcelona Drill Hub",
+      "slug": "es/barcelona",
+      "description": "El templo del drill espa\u00f1ol y trap callejero."
+    },
+    {
+      "name": "Morad MDLR Vibe",
+      "slug": "../../vibe/morad-mdlr-drill-espanol-beats",
+      "description": "Guitarras ac\u00fasticas y bajos 808 deslizantes a 140 BPM."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "\u00bfPuedo publicar temas grabados con estos beats en Spotify, Apple Music y YouTube en Espa\u00f1a \u2013 Catalu\u00f1a (Barcelona, L'Hospitalet & Badalona)?",
+      "answer": "\u00a1S\u00ed, totalmente! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen el 100% de los derechos de distribuci\u00f3n y streaming comercial para Spotify, Apple Music, YouTube, Deezer y TikTok. Conservas el 100% de tus regal\u00edas como artista e int\u00e9rprete."
+    },
+    {
+      "question": "\u00bfLos beats son 100% compatibles con SGAE y libres de samples no autorizados?",
+      "answer": "\u00a1S\u00ed! Todos los instrumentales son composiciones 100% originales producidas por Onzieb. Sin samples de terceros no acreditados. Puedes registrar tu letra y tu obra en SGAE con total tranquilidad legal."
+    },
+    {
+      "question": "\u00bfCu\u00e1les son los m\u00e9todos de pago aceptados?",
+      "answer": "Puedes pagar al instante con total seguridad mediante Bizum, Apple Pay, Google Pay, Tarjetas de Cr\u00e9dito, PayPal, Stripe."
+    },
+    {
+      "question": "\u00bfCu\u00e1ndo y c\u00f3mo recibo mis archivos de audio sin marcas de voz?",
+      "answer": "Inmediatamente despu\u00e9s de completar el pago, tus archivos de estudio en formato WAV 24-bit sin marcas (untagged), el archivo MP3 de alta fidelidad y el contrato formal de cesi\u00f3n de licencia en PDF se env\u00edan de forma autom\u00e1tica a tu correo electr\u00f3nico."
+    }
+  ]
+},
+  "es/sevilla": {
+  "name": "Espa\u00f1a \u2013 Sevilla & Rap Andaluz",
+  "flag": "\ud83c\uddea\ud83c\uddf8",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "Bizum, Apple Pay, Google Pay, Tarjetas de Cr\u00e9dito, PayPal",
+  "pro": "SGAE",
+  "proFullName": "Sociedad General de Autores y Editores (SGAE)",
+  "proGuide": "100% compatible con SGAE para lanzamientos comerciales.",
+  "headline": "Bases de Rap en Sevilla: Bombo y Caja Cl\u00e1sico, Trap Andaluz & Flamenco Urbano",
+  "description": "El peso hist\u00f3rico del rap sevillano: cajas crujientes, samples elegantes y trap moderno con identidad del sur para artistas de Sevilla y Andaluc\u00eda.",
+  "popularGenres": [
+    "Sevilla Rap Cl\u00e1sico",
+    "Trap Andaluz",
+    "Boom Bap 90s"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "\u00bfPuedo publicar temas grabados con estos beats en Spotify, Apple Music y YouTube en Espa\u00f1a \u2013 Sevilla & Rap Andaluz?",
+      "answer": "\u00a1S\u00ed, totalmente! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen el 100% de los derechos de distribuci\u00f3n y streaming comercial para Spotify, Apple Music, YouTube, Deezer y TikTok. Conservas el 100% de tus regal\u00edas como artista e int\u00e9rprete."
+    },
+    {
+      "question": "\u00bfLos beats son 100% compatibles con SGAE y libres de samples no autorizados?",
+      "answer": "\u00a1S\u00ed! Todos los instrumentales son composiciones 100% originales producidas por Onzieb. Sin samples de terceros no acreditados. Puedes registrar tu letra y tu obra en SGAE con total tranquilidad legal."
+    },
+    {
+      "question": "\u00bfCu\u00e1les son los m\u00e9todos de pago aceptados?",
+      "answer": "Puedes pagar al instante con total seguridad mediante Bizum, Apple Pay, Google Pay, Tarjetas de Cr\u00e9dito, PayPal."
+    },
+    {
+      "question": "\u00bfCu\u00e1ndo y c\u00f3mo recibo mis archivos de audio sin marcas de voz?",
+      "answer": "Inmediatamente despu\u00e9s de completar el pago, tus archivos de estudio en formato WAV 24-bit sin marcas (untagged), el archivo MP3 de alta fidelidad y el contrato formal de cesi\u00f3n de licencia en PDF se env\u00edan de forma autom\u00e1tica a tu correo electr\u00f3nico."
+    }
+  ]
+},
+  "es/malaga": {
+  "name": "Espa\u00f1a \u2013 M\u00e1laga & Costa del Sol Urban",
+  "flag": "\ud83c\uddea\ud83c\uddf8",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "Bizum, Apple Pay, Google Pay, Tarjetas de Cr\u00e9dito, PayPal",
+  "pro": "SGAE",
+  "proFullName": "Sociedad General de Autores y Editores (SGAE)",
+  "proGuide": "100% compatible con SGAE con descarga inmediata.",
+  "headline": "Bases de Rap en M\u00e1laga: Space Hammu Style, Boom Bap Costero & Trap",
+  "description": "Sonido fresco de la Costa del Sol: pianos con sentimiento, samples de soul y bater\u00edas con pegada inspiradas en Delaossa y Space Hammu para artistas de M\u00e1laga.",
+  "popularGenres": [
+    "M\u00e1laga Boom Bap",
+    "Space Hammu Sound",
+    "Trap Costero"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Delaossa Space Hammu Vibe",
+      "slug": "../../vibe/delaossa-space-hammu-boombap",
+      "description": "Samples de soul pulidos y cajas de boom bap con clase."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "\u00bfPuedo publicar temas grabados con estos beats en Spotify, Apple Music y YouTube en Espa\u00f1a \u2013 M\u00e1laga & Costa del Sol Urban?",
+      "answer": "\u00a1S\u00ed, totalmente! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen el 100% de los derechos de distribuci\u00f3n y streaming comercial para Spotify, Apple Music, YouTube, Deezer y TikTok. Conservas el 100% de tus regal\u00edas como artista e int\u00e9rprete."
+    },
+    {
+      "question": "\u00bfLos beats son 100% compatibles con SGAE y libres de samples no autorizados?",
+      "answer": "\u00a1S\u00ed! Todos los instrumentales son composiciones 100% originales producidas por Onzieb. Sin samples de terceros no acreditados. Puedes registrar tu letra y tu obra en SGAE con total tranquilidad legal."
+    },
+    {
+      "question": "\u00bfCu\u00e1les son los m\u00e9todos de pago aceptados?",
+      "answer": "Puedes pagar al instante con total seguridad mediante Bizum, Apple Pay, Google Pay, Tarjetas de Cr\u00e9dito, PayPal."
+    },
+    {
+      "question": "\u00bfCu\u00e1ndo y c\u00f3mo recibo mis archivos de audio sin marcas de voz?",
+      "answer": "Inmediatamente despu\u00e9s de completar el pago, tus archivos de estudio en formato WAV 24-bit sin marcas (untagged), el archivo MP3 de alta fidelidad y el contrato formal de cesi\u00f3n de licencia en PDF se env\u00edan de forma autom\u00e1tica a tu correo electr\u00f3nico."
+    }
+  ]
+},
+  "es/granada": {
+  "name": "Espa\u00f1a \u2013 Granada Cuna del Flamenco-Trap",
+  "flag": "\ud83c\uddea\ud83c\uddf8",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "Bizum, Apple Pay, Google Pay, Tarjetas de Cr\u00e9dito, PayPal",
+  "pro": "SGAE",
+  "proFullName": "Sociedad General de Autores y Editores (SGAE)",
+  "proGuide": "100% original, libre de samples no autorizados.",
+  "headline": "Bases de Rap y Trap en Granada: Rasgueos Flamencos, Poes\u00eda Callejera & 808s",
+  "description": "La cuna del flamenco urbano y la poes\u00eda de calle: rasgueos de guitarra espa\u00f1ola, palmas y cajas de trap inspiradas en Dellafuente, Maka y Ayax y Prok.",
+  "popularGenres": [
+    "Granada Flamenco Trap",
+    "Rap Po\u00e9tico",
+    "Ayax y Prok Vibe",
+    "Guitarras Espa\u00f1olas"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Ayax y Prok Vibe Hub",
+      "slug": "../../vibe/ayax-y-prok-rap-puro-granada",
+      "description": "Rap puro sin filtros, bombos secos y samples oscuros."
+    },
+    {
+      "name": "Dellafuente Folklore Vibe",
+      "slug": "../../vibe/dellafuente-musica-folklore-trap",
+      "description": "Pianos emotivos y ra\u00edces flamencas urbanas."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "\u00bfPuedo publicar temas grabados con estos beats en Spotify, Apple Music y YouTube en Espa\u00f1a \u2013 Granada Cuna del Flamenco-Trap?",
+      "answer": "\u00a1S\u00ed, totalmente! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen el 100% de los derechos de distribuci\u00f3n y streaming comercial para Spotify, Apple Music, YouTube, Deezer y TikTok. Conservas el 100% de tus regal\u00edas como artista e int\u00e9rprete."
+    },
+    {
+      "question": "\u00bfLos beats son 100% compatibles con SGAE y libres de samples no autorizados?",
+      "answer": "\u00a1S\u00ed! Todos los instrumentales son composiciones 100% originales producidas por Onzieb. Sin samples de terceros no acreditados. Puedes registrar tu letra y tu obra en SGAE con total tranquilidad legal."
+    },
+    {
+      "question": "\u00bfCu\u00e1les son los m\u00e9todos de pago aceptados?",
+      "answer": "Puedes pagar al instante con total seguridad mediante Bizum, Apple Pay, Google Pay, Tarjetas de Cr\u00e9dito, PayPal."
+    },
+    {
+      "question": "\u00bfCu\u00e1ndo y c\u00f3mo recibo mis archivos de audio sin marcas de voz?",
+      "answer": "Inmediatamente despu\u00e9s de completar el pago, tus archivos de estudio en formato WAV 24-bit sin marcas (untagged), el archivo MP3 de alta fidelidad y el contrato formal de cesi\u00f3n de licencia en PDF se env\u00edan de forma autom\u00e1tica a tu correo electr\u00f3nico."
+    }
+  ]
+},
+  "es/galicia": {
+  "name": "Espa\u00f1a \u2013 Galicia (A Coru\u00f1a & Vigo)",
+  "flag": "\ud83c\uddea\ud83c\uddf8",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "Bizum, Apple Pay, Google Pay, Tarjetas de Cr\u00e9dito, PayPal",
+  "pro": "SGAE",
+  "proFullName": "Sociedad General de Autores y Editores (SGAE)",
+  "proGuide": "100% compatible con SGAE para streaming comercial.",
+  "headline": "Bases de Rap en Galicia: Trap Melanc\u00f3lico, Drill del Norte & Boom Bap",
+  "description": "Atm\u00f3sferas fr\u00edas, acordes melanc\u00f3licos y percusi\u00f3n contundente para la escena urbana de A Coru\u00f1a, Vigo y Santiago de Compostela.",
+  "popularGenres": [
+    "Galicia Trap",
+    "Rap Melanc\u00f3lico",
+    "Drill del Norte"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "\u00bfPuedo publicar temas grabados con estos beats en Spotify, Apple Music y YouTube en Espa\u00f1a \u2013 Galicia (A Coru\u00f1a & Vigo)?",
+      "answer": "\u00a1S\u00ed, totalmente! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen el 100% de los derechos de distribuci\u00f3n y streaming comercial para Spotify, Apple Music, YouTube, Deezer y TikTok. Conservas el 100% de tus regal\u00edas como artista e int\u00e9rprete."
+    },
+    {
+      "question": "\u00bfLos beats son 100% compatibles con SGAE y libres de samples no autorizados?",
+      "answer": "\u00a1S\u00ed! Todos los instrumentales son composiciones 100% originales producidas por Onzieb. Sin samples de terceros no acreditados. Puedes registrar tu letra y tu obra en SGAE con total tranquilidad legal."
+    },
+    {
+      "question": "\u00bfCu\u00e1les son los m\u00e9todos de pago aceptados?",
+      "answer": "Puedes pagar al instante con total seguridad mediante Bizum, Apple Pay, Google Pay, Tarjetas de Cr\u00e9dito, PayPal."
+    },
+    {
+      "question": "\u00bfCu\u00e1ndo y c\u00f3mo recibo mis archivos de audio sin marcas de voz?",
+      "answer": "Inmediatamente despu\u00e9s de completar el pago, tus archivos de estudio en formato WAV 24-bit sin marcas (untagged), el archivo MP3 de alta fidelidad y el contrato formal de cesi\u00f3n de licencia en PDF se env\u00edan de forma autom\u00e1tica a tu correo electr\u00f3nico."
+    }
+  ]
+},
+  "es/pais-vasco": {
+  "name": "Espa\u00f1a \u2013 Pa\u00eds Vasco / Euskadi (Bilbao & Donostia)",
+  "flag": "\ud83c\uddea\ud83c\uddf8",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "Bizum, Apple Pay, Google Pay, Tarjetas de Cr\u00e9dito, PayPal",
+  "pro": "SGAE",
+  "proFullName": "Sociedad General de Autores y Editores (SGAE)",
+  "proGuide": "100% compatible con SGAE con contrato legal formal en PDF.",
+  "headline": "Bases de Rap en el Pa\u00eds Vasco: Drill Euskadi, Trap Pesado & 808s",
+  "description": "Bajos 808 demoledores y cajas secas de trap para artistas de Bilbao, San Sebasti\u00e1n y Vitoria-Gasteiz.",
+  "popularGenres": [
+    "Euskadi Drill",
+    "Bilbao Trap",
+    "Rap de Calle Pesado"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "\u00bfPuedo publicar temas grabados con estos beats en Spotify, Apple Music y YouTube en Espa\u00f1a \u2013 Pa\u00eds Vasco / Euskadi (Bilbao & Donostia)?",
+      "answer": "\u00a1S\u00ed, totalmente! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen el 100% de los derechos de distribuci\u00f3n y streaming comercial para Spotify, Apple Music, YouTube, Deezer y TikTok. Conservas el 100% de tus regal\u00edas como artista e int\u00e9rprete."
+    },
+    {
+      "question": "\u00bfLos beats son 100% compatibles con SGAE y libres de samples no autorizados?",
+      "answer": "\u00a1S\u00ed! Todos los instrumentales son composiciones 100% originales producidas por Onzieb. Sin samples de terceros no acreditados. Puedes registrar tu letra y tu obra en SGAE con total tranquilidad legal."
+    },
+    {
+      "question": "\u00bfCu\u00e1les son los m\u00e9todos de pago aceptados?",
+      "answer": "Puedes pagar al instante con total seguridad mediante Bizum, Apple Pay, Google Pay, Tarjetas de Cr\u00e9dito, PayPal."
+    },
+    {
+      "question": "\u00bfCu\u00e1ndo y c\u00f3mo recibo mis archivos de audio sin marcas de voz?",
+      "answer": "Inmediatamente despu\u00e9s de completar el pago, tus archivos de estudio en formato WAV 24-bit sin marcas (untagged), el archivo MP3 de alta fidelidad y el contrato formal de cesi\u00f3n de licencia en PDF se env\u00edan de forma autom\u00e1tica a tu correo electr\u00f3nico."
+    }
+  ]
+},
+  "es/mallorca": {
+  "name": "Espa\u00f1a \u2013 Mallorca & Islas Baleares Urban",
+  "flag": "\ud83c\uddea\ud83c\uddf8",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "Bizum, Apple Pay, Google Pay, Tarjetas de Cr\u00e9dito, PayPal",
+  "pro": "SGAE",
+  "proFullName": "Sociedad General de Autores y Editores (SGAE)",
+  "proGuide": "100% compatible con SGAE para lanzamientos globales.",
+  "headline": "Bases de R&B Trap en Mallorca: Sonido Rels B, Guitarras Smooth & Bounces",
+  "description": "Guitarras el\u00e9ctricas limpias, acordes sofisticados de R&B y ritmos de trap relajados inspirados en Rels B para artistas de Mallorca e Ibiza.",
+  "popularGenres": [
+    "Mallorca R&B Trap",
+    "Rels B Sound",
+    "Guitarras Smooth",
+    "Trap Relajado"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Rels B Skinny Flakk Vibe",
+      "slug": "../../vibe/rels-b-skinny-flakk-smooth-rnb",
+      "description": "Guitarras elegantes, acordes neo-soul y ritmo trap chill."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "\u00bfPuedo publicar temas grabados con estos beats en Spotify, Apple Music y YouTube en Espa\u00f1a \u2013 Mallorca & Islas Baleares Urban?",
+      "answer": "\u00a1S\u00ed, totalmente! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen el 100% de los derechos de distribuci\u00f3n y streaming comercial para Spotify, Apple Music, YouTube, Deezer y TikTok. Conservas el 100% de tus regal\u00edas como artista e int\u00e9rprete."
+    },
+    {
+      "question": "\u00bfLos beats son 100% compatibles con SGAE y libres de samples no autorizados?",
+      "answer": "\u00a1S\u00ed! Todos los instrumentales son composiciones 100% originales producidas por Onzieb. Sin samples de terceros no acreditados. Puedes registrar tu letra y tu obra en SGAE con total tranquilidad legal."
+    },
+    {
+      "question": "\u00bfCu\u00e1les son los m\u00e9todos de pago aceptados?",
+      "answer": "Puedes pagar al instante con total seguridad mediante Bizum, Apple Pay, Google Pay, Tarjetas de Cr\u00e9dito, PayPal."
+    },
+    {
+      "question": "\u00bfCu\u00e1ndo y c\u00f3mo recibo mis archivos de audio sin marcas de voz?",
+      "answer": "Inmediatamente despu\u00e9s de completar el pago, tus archivos de estudio en formato WAV 24-bit sin marcas (untagged), el archivo MP3 de alta fidelidad y el contrato formal de cesi\u00f3n de licencia en PDF se env\u00edan de forma autom\u00e1tica a tu correo electr\u00f3nico."
+    }
+  ]
+},
+  "co/medellin": {
+  "name": "Colombia \u2013 Medell\u00edn Capital Mundial del Reggaeton",
+  "flag": "\ud83c\udde8\ud83c\uddf4",
+  "currency": "COP / USD",
+  "currencyCode": "USD",
+  "gateways": "Apple Pay, Google Pay, Tarjetas de Cr\u00e9dito, PSE, PayPal, Stripe",
+  "pro": "SAYCO & ACINPRO",
+  "proFullName": "Sociedad de Autores y Compositores de Colombia (SAYCO)",
+  "proGuide": "100% compatible con SAYCO. Derechos comerciales completos para lanzamientos mundiales en Spotify y YouTube.",
+  "headline": "Pistas de Reggaeton en Medell\u00edn: Perreo Chilled, Sonido Feid & Trap Latino",
+  "description": "La capital mundial del reggaeton contempor\u00e1neo: sintetizadores c\u00e1lidos, percusiones perreo envolventes y ritmos bailables inspirados en Feid (Ferxxo), Ryan Castro y Blessd.",
+  "popularGenres": [
+    "Reggaeton Medell\u00edn",
+    "Perreo Chilled",
+    "Feid Style",
+    "Trap Latino"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Feid Ferxxo Vibe Hub",
+      "slug": "../../vibe/feid-ferxxo-perreo-chilled-medellin",
+      "description": "Sintetizadores suaves y ritmo perreo rom\u00e1ntico contagioso."
+    },
+    {
+      "name": "Ryan Castro Ghetto Vibe",
+      "slug": "../../vibe/ryan-castro-el-cantante-del-ghetto",
+      "description": "Reggaeton cl\u00e1sico bailable con bajos pesados."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "\u00bfPuedo publicar temas grabados con estos beats en Spotify, Apple Music y YouTube en Colombia \u2013 Medell\u00edn Capital Mundial del Reggaeton?",
+      "answer": "\u00a1S\u00ed, totalmente! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen el 100% de los derechos de distribuci\u00f3n y streaming comercial para Spotify, Apple Music, YouTube, Deezer y TikTok. Conservas el 100% de tus regal\u00edas como artista e int\u00e9rprete."
+    },
+    {
+      "question": "\u00bfLos beats son 100% compatibles con SAYCO & ACINPRO y libres de samples no autorizados?",
+      "answer": "\u00a1S\u00ed! Todos los instrumentales son composiciones 100% originales producidas por Onzieb. Sin samples de terceros no acreditados. Puedes registrar tu letra y tu obra en SAYCO & ACINPRO con total tranquilidad legal."
+    },
+    {
+      "question": "\u00bfCu\u00e1les son los m\u00e9todos de pago aceptados?",
+      "answer": "Puedes pagar al instante con total seguridad mediante Apple Pay, Google Pay, Tarjetas de Cr\u00e9dito, PSE, PayPal, Stripe."
+    },
+    {
+      "question": "\u00bfCu\u00e1ndo y c\u00f3mo recibo mis archivos de audio sin marcas de voz?",
+      "answer": "Inmediatamente despu\u00e9s de completar el pago, tus archivos de estudio en formato WAV 24-bit sin marcas (untagged), el archivo MP3 de alta fidelidad y el contrato formal de cesi\u00f3n de licencia en PDF se env\u00edan de forma autom\u00e1tica a tu correo electr\u00f3nico."
+    }
+  ]
+},
+  "pr/san-juan": {
+  "name": "Puerto Rico \u2013 San Juan Cuna del Trap Latino y Reggaeton",
+  "flag": "\ud83c\uddf5\ud83c\uddf7",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Apple Pay, Google Pay, ATH M\u00f3vil, Tarjetas de Cr\u00e9dito, PayPal, Stripe",
+  "pro": "BMI, ASCAP & SGAE",
+  "proFullName": "Broadcast Music, Inc. (BMI) / ASCAP / SGAE",
+  "proGuide": "100% compatible con BMI y ASCAP para compositores boricuas. Cuentas de regal\u00edas directas para lanzamientos en plataformas de streaming.",
+  "headline": "Pistas de Trap Latino en Puerto Rico: Sonido Bad Bunny, Anuel AA & Dembow",
+  "description": "El epicentro global de la m\u00fasica urbana: trap latino oscuro, cuerdas sinf\u00f3nicas y reggaeton boricua de \u00e9lite inspirado en Bad Bunny, Anuel AA y Myke Towers.",
+  "popularGenres": [
+    "Trap Boricua",
+    "Reggaeton San Juan",
+    "Bad Bunny Style",
+    "Dembow Potente"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Bad Bunny Dark Trap Vibe",
+      "slug": "../../vibe/bad-bunny-nadie-sabe-dark-trap",
+      "description": "Cuerdas orquestales oscuras y cajas de trap potentes."
+    },
+    {
+      "name": "Myke Towers Flow Vibe",
+      "slug": "../../vibe/myke-towers-easy-money-trap",
+      "description": "Bajos 808 pesados y ritmo trap americano fluido."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "\u00bfPuedo publicar temas grabados con estos beats en Spotify, Apple Music y YouTube en Puerto Rico \u2013 San Juan Cuna del Trap Latino y Reggaeton?",
+      "answer": "\u00a1S\u00ed, totalmente! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen el 100% de los derechos de distribuci\u00f3n y streaming comercial para Spotify, Apple Music, YouTube, Deezer y TikTok. Conservas el 100% de tus regal\u00edas como artista e int\u00e9rprete."
+    },
+    {
+      "question": "\u00bfLos beats son 100% compatibles con BMI, ASCAP & SGAE y libres de samples no autorizados?",
+      "answer": "\u00a1S\u00ed! Todos los instrumentales son composiciones 100% originales producidas por Onzieb. Sin samples de terceros no acreditados. Puedes registrar tu letra y tu obra en BMI, ASCAP & SGAE con total tranquilidad legal."
+    },
+    {
+      "question": "\u00bfCu\u00e1les son los m\u00e9todos de pago aceptados?",
+      "answer": "Puedes pagar al instante con total seguridad mediante Apple Pay, Google Pay, ATH M\u00f3vil, Tarjetas de Cr\u00e9dito, PayPal, Stripe."
+    },
+    {
+      "question": "\u00bfCu\u00e1ndo y c\u00f3mo recibo mis archivos de audio sin marcas de voz?",
+      "answer": "Inmediatamente despu\u00e9s de completar el pago, tus archivos de estudio en formato WAV 24-bit sin marcas (untagged), el archivo MP3 de alta fidelidad y el contrato formal de cesi\u00f3n de licencia en PDF se env\u00edan de forma autom\u00e1tica a tu correo electr\u00f3nico."
+    }
+  ]
+},
+  "cl/santiago": {
+  "name": "Chile \u2013 Santiago Trap Chileno & Perreo Urbano",
+  "flag": "\ud83c\udde8\ud83c\uddf1",
+  "currency": "CLP / USD",
+  "currencyCode": "USD",
+  "gateways": "Apple Pay, Google Pay, Tarjetas de Cr\u00e9dito, Webpay, PayPal",
+  "pro": "SCD",
+  "proFullName": "Sociedad Chilena de Autores e Int\u00e9rpretes Musicales (SCD)",
+  "proGuide": "100% compatible con SCD en Chile. Licencia comercial directa para plataformas de streaming.",
+  "headline": "Beats de Trap en Chile: Trap Chileno, Marisola Bounces & Reggaeton Urbano",
+  "description": "La explosi\u00f3n del g\u00e9nero urbano en Santiago de Chile: bater\u00edas bailables de perreo y trap con sintetizadores contagiosos inspirados en Cris Mj y Polim\u00e1 Westcoast.",
+  "popularGenres": [
+    "Trap Chileno",
+    "Reggaeton Chile",
+    "Cris Mj Style",
+    "Perreo Moderno"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Cris Mj Chilean Vibe",
+      "slug": "../../vibe/cris-mj-chile-marisola-trap",
+      "description": "Ritmo de trap urbano bailable y sintetizadores pegadizos."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "\u00bfPuedo publicar temas grabados con estos beats en Spotify, Apple Music y YouTube en Chile \u2013 Santiago Trap Chileno & Perreo Urbano?",
+      "answer": "\u00a1S\u00ed, totalmente! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen el 100% de los derechos de distribuci\u00f3n y streaming comercial para Spotify, Apple Music, YouTube, Deezer y TikTok. Conservas el 100% de tus regal\u00edas como artista e int\u00e9rprete."
+    },
+    {
+      "question": "\u00bfLos beats son 100% compatibles con SCD y libres de samples no autorizados?",
+      "answer": "\u00a1S\u00ed! Todos los instrumentales son composiciones 100% originales producidas por Onzieb. Sin samples de terceros no acreditados. Puedes registrar tu letra y tu obra en SCD con total tranquilidad legal."
+    },
+    {
+      "question": "\u00bfCu\u00e1les son los m\u00e9todos de pago aceptados?",
+      "answer": "Puedes pagar al instante con total seguridad mediante Apple Pay, Google Pay, Tarjetas de Cr\u00e9dito, Webpay, PayPal."
+    },
+    {
+      "question": "\u00bfCu\u00e1ndo y c\u00f3mo recibo mis archivos de audio sin marcas de voz?",
+      "answer": "Inmediatamente despu\u00e9s de completar el pago, tus archivos de estudio en formato WAV 24-bit sin marcas (untagged), el archivo MP3 de alta fidelidad y el contrato formal de cesi\u00f3n de licencia en PDF se env\u00edan de forma autom\u00e1tica a tu correo electr\u00f3nico."
+    }
+  ]
+},
 };
