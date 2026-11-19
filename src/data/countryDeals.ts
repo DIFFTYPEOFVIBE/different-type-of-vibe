@@ -2718,4 +2718,1628 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
     }
   ]
 },
+  "us/atlanta": {
+  "name": "USA \u2013 Atlanta Trap Scene",
+  "flag": "\ud83c\uddfa\ud83c\uddf8",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Apple Pay, Google Pay, Credit/Debit Cards, Cash App Pay",
+  "pro": "ASCAP & BMI",
+  "proFullName": "American Society of Composers, Authors and Publishers (ASCAP) & Broadcast Music, Inc. (BMI)",
+  "proGuide": "When releasing tracks in USA \u2013 Atlanta Trap Scene with Different Type of Vibe beats, you keep 100% of your artist streaming royalties on Spotify, Apple Music, and Tidal.",
+  "headline": "Atlanta Trap Beats for Sale: Heavy 808s & Commercial WAV Leases",
+  "description": "Authentic Atlanta trap instrumentals inspired by Metro Boomin, Future, and Lil Baby. Hard-hitting 808 sub bass, crisp rolling hi-hats, and melodic bounce.",
+  "popularGenres": [
+    "Atlanta Trap",
+    "Dark 808s",
+    "Metro Boomin Style"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Atlanta 808 Trap Deals",
+      "slug": "us/atlanta-trap",
+      "description": "Hard-hitting dark 808s and Future style bounce."
+    },
+    {
+      "name": "Metro Boomin Style",
+      "slug": "../../vibe/metro-boomin-dark-trap",
+      "description": "Dark cinematic trap instrumentals with heavy low-end."
+    },
+    {
+      "name": "Lil Baby 4PF Trap",
+      "slug": "../../vibe/lil-baby-4pf-trap",
+      "description": "Fast-paced melodic piano trap bounces."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify and Apple Music in USA \u2013 Atlanta Trap Scene?",
+      "answer": "Yes! All WAV and MP3 leases purchased through Different Type of Vibe include commercial streaming rights for Spotify, Apple Music, YouTube, and worldwide distribution. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with ASCAP or BMI in the United States?",
+      "answer": "When registering your copyright or work with ASCAP or BMI, list yourself as 100% owner of your lyrics and performance, and designate Onzieb (Different Type of Vibe) as the music producer/composer according to your signed PDF license contract."
+    },
+    {
+      "question": "How fast do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout via Apple Pay, Google Pay, or Credit/Debit Card, an untagged 24-bit WAV file, MP3 version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "us/los-angeles": {
+  "name": "USA \u2013 Los Angeles & West Coast",
+  "flag": "\ud83c\uddfa\ud83c\uddf8",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Apple Pay, Google Pay, Credit/Debit Cards, Cash App Pay",
+  "pro": "ASCAP & BMI",
+  "proFullName": "American Society of Composers, Authors and Publishers (ASCAP) & Broadcast Music, Inc. (BMI)",
+  "proGuide": "When releasing tracks in USA \u2013 Los Angeles & West Coast with Different Type of Vibe beats, you keep 100% of your artist streaming royalties on Spotify, Apple Music, and Tidal.",
+  "headline": "Los Angeles Rap Beats for Sale: West Coast Bounce & Melodic Synths",
+  "description": "West Coast rap instrumentals crafted with authentic California bounce, crisp claps, and melodic chord progressions inspired by Kendrick Lamar, Mustard, and Larry June.",
+  "popularGenres": [
+    "West Coast Rap",
+    "LA Melodic Trap",
+    "Mustard Bounce"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "West Coast Scene Hub",
+      "slug": "../../scene/la-melodic-rap-beats",
+      "description": "Authentic California bounce and synth leads."
+    },
+    {
+      "name": "Kendrick Lamar Style",
+      "slug": "../../vibe/kendrick-lamar-west-coast",
+      "description": "Dynamic lyrical rap and progressive West Coast production."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify and Apple Music in USA \u2013 Los Angeles & West Coast?",
+      "answer": "Yes! All WAV and MP3 leases purchased through Different Type of Vibe include commercial streaming rights for Spotify, Apple Music, YouTube, and worldwide distribution. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with ASCAP or BMI in the United States?",
+      "answer": "When registering your copyright or work with ASCAP or BMI, list yourself as 100% owner of your lyrics and performance, and designate Onzieb (Different Type of Vibe) as the music producer/composer according to your signed PDF license contract."
+    },
+    {
+      "question": "How fast do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout via Apple Pay, Google Pay, or Credit/Debit Card, an untagged 24-bit WAV file, MP3 version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "us/new-york": {
+  "name": "USA \u2013 New York City Drill & Boom Bap",
+  "flag": "\ud83c\uddfa\ud83c\uddf8",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Apple Pay, Google Pay, Credit/Debit Cards, Cash App Pay",
+  "pro": "ASCAP & BMI",
+  "proFullName": "American Society of Composers, Authors and Publishers (ASCAP) & Broadcast Music, Inc. (BMI)",
+  "proGuide": "When releasing tracks in USA \u2013 New York City Drill & Boom Bap with Different Type of Vibe beats, you keep 100% of your artist streaming royalties on Spotify, Apple Music, and Tidal.",
+  "headline": "NYC Drill & Boom Bap Beats for Sale: Gritty 808 Slides & Classic Samples",
+  "description": "Authentic New York instrumentals ranging from aggressive Brooklyn/Bronx sliding drill 808s to dusty soulful boom bap chops inspired by Pop Smoke and Griselda.",
+  "popularGenres": [
+    "NYC Drill",
+    "Brooklyn 808 Slides",
+    "East Coast Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "NYC Drill Scene Hub",
+      "slug": "../../scene/nyc-drill-beats",
+      "description": "Aggressive sliding 808s and syncopated drill percussion."
+    },
+    {
+      "name": "Soulful Boom Bap Hub",
+      "slug": "../../genre/soulful-boom-bap",
+      "description": "Dusty vinyl chops and heavy punchy boom bap drums."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify and Apple Music in USA \u2013 New York City Drill & Boom Bap?",
+      "answer": "Yes! All WAV and MP3 leases purchased through Different Type of Vibe include commercial streaming rights for Spotify, Apple Music, YouTube, and worldwide distribution. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with ASCAP or BMI in the United States?",
+      "answer": "When registering your copyright or work with ASCAP or BMI, list yourself as 100% owner of your lyrics and performance, and designate Onzieb (Different Type of Vibe) as the music producer/composer according to your signed PDF license contract."
+    },
+    {
+      "question": "How fast do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout via Apple Pay, Google Pay, or Credit/Debit Card, an untagged 24-bit WAV file, MP3 version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "us/chicago": {
+  "name": "USA \u2013 Chicago Drill & Soul Trap",
+  "flag": "\ud83c\uddfa\ud83c\uddf8",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Apple Pay, Google Pay, Credit/Debit Cards, Cash App Pay",
+  "pro": "ASCAP & BMI",
+  "proFullName": "American Society of Composers, Authors and Publishers (ASCAP) & Broadcast Music, Inc. (BMI)",
+  "proGuide": "When releasing tracks in USA \u2013 Chicago Drill & Soul Trap with Different Type of Vibe beats, you keep 100% of your artist streaming royalties on Spotify, Apple Music, and Tidal.",
+  "headline": "Chicago Drill & Soulful Trap Beats for Sale: Hard Snares & Emotional Keys",
+  "description": "Chicago style beats featuring hard-hitting drill bounce and emotional soul-infused melodic piano loops inspired by Lil Durk, Polo G, and Juice WRLD.",
+  "popularGenres": [
+    "Chicago Drill",
+    "Piano Trap",
+    "Soul Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Chicago Drill Scene",
+      "slug": "../../scene/chicago-drill-beats",
+      "description": "Aggressive drill 808s and authentic Chicago bounce."
+    },
+    {
+      "name": "Polo G Piano Trap",
+      "slug": "../../vibe/polo-g-piano-trap",
+      "description": "Emotional acoustic piano melodies and hard rolling 808s."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify and Apple Music in USA \u2013 Chicago Drill & Soul Trap?",
+      "answer": "Yes! All WAV and MP3 leases purchased through Different Type of Vibe include commercial streaming rights for Spotify, Apple Music, YouTube, and worldwide distribution. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with ASCAP or BMI in the United States?",
+      "answer": "When registering your copyright or work with ASCAP or BMI, list yourself as 100% owner of your lyrics and performance, and designate Onzieb (Different Type of Vibe) as the music producer/composer according to your signed PDF license contract."
+    },
+    {
+      "question": "How fast do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout via Apple Pay, Google Pay, or Credit/Debit Card, an untagged 24-bit WAV file, MP3 version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "us/houston": {
+  "name": "USA \u2013 Houston & Texas Chopped Trap",
+  "flag": "\ud83c\uddfa\ud83c\uddf8",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Apple Pay, Google Pay, Credit/Debit Cards, Cash App Pay",
+  "pro": "ASCAP & BMI",
+  "proFullName": "American Society of Composers, Authors and Publishers (ASCAP) & Broadcast Music, Inc. (BMI)",
+  "proGuide": "When releasing tracks in USA \u2013 Houston & Texas Chopped Trap with Different Type of Vibe beats, you keep 100% of your artist streaming royalties on Spotify, Apple Music, and Tidal.",
+  "headline": "Houston Chopped Trap Beats for Sale: Psychedelic 808s & Low-End Bounce",
+  "description": "Texas trap instrumentals blending chopped-and-screwed atmospheres, heavy rolling basslines, and psychedelic synth layers inspired by Travis Scott and Don Toliver.",
+  "popularGenres": [
+    "Houston Chopped Trap",
+    "Psychedelic Trap",
+    "Texas 808s"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Houston Chopped Trap Scene",
+      "slug": "../../scene/houston-chopped-trap",
+      "description": "Deep slowed melodies and aggressive 808 bounce."
+    },
+    {
+      "name": "Travis Scott Psychedelic Trap",
+      "slug": "../../vibe/travis-scott-psychedelic-trap",
+      "description": "Cinematic Mike Dean synth layers and hard trap beats."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify and Apple Music in USA \u2013 Houston & Texas Chopped Trap?",
+      "answer": "Yes! All WAV and MP3 leases purchased through Different Type of Vibe include commercial streaming rights for Spotify, Apple Music, YouTube, and worldwide distribution. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with ASCAP or BMI in the United States?",
+      "answer": "When registering your copyright or work with ASCAP or BMI, list yourself as 100% owner of your lyrics and performance, and designate Onzieb (Different Type of Vibe) as the music producer/composer according to your signed PDF license contract."
+    },
+    {
+      "question": "How fast do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout via Apple Pay, Google Pay, or Credit/Debit Card, an untagged 24-bit WAV file, MP3 version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "us/memphis": {
+  "name": "USA \u2013 Memphis Dark 808 Trap",
+  "flag": "\ud83c\uddfa\ud83c\uddf8",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Apple Pay, Google Pay, Credit/Debit Cards, Cash App Pay",
+  "pro": "ASCAP & BMI",
+  "proFullName": "American Society of Composers, Authors and Publishers (ASCAP) & Broadcast Music, Inc. (BMI)",
+  "proGuide": "When releasing tracks in USA \u2013 Memphis Dark 808 Trap with Different Type of Vibe beats, you keep 100% of your artist streaming royalties on Spotify, Apple Music, and Tidal.",
+  "headline": "Memphis Dark Trap Beats for Sale: Menacing Bells, Cowbells & Punchy 808s",
+  "description": "Raw, aggressive Memphis rap instrumentals featuring dark piano chords, punchy kicks, and triplet hi-hats inspired by Pooh Shiesty, GloRilla, and Moneybagg Yo.",
+  "popularGenres": [
+    "Memphis Dark Trap",
+    "Aggressive 808s",
+    "Street Rap Beats"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Memphis Dark Trap Scene",
+      "slug": "../../scene/memphis-dark-trap",
+      "description": "Menacing melodies and thunderous 808 basslines."
+    },
+    {
+      "name": "Moneybagg Yo Memphis Vibe",
+      "slug": "../../vibe/moneybagg-yo-memphis-trap",
+      "description": "Heavy brass and punchy southern street beats."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify and Apple Music in USA \u2013 Memphis Dark 808 Trap?",
+      "answer": "Yes! All WAV and MP3 leases purchased through Different Type of Vibe include commercial streaming rights for Spotify, Apple Music, YouTube, and worldwide distribution. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with ASCAP or BMI in the United States?",
+      "answer": "When registering your copyright or work with ASCAP or BMI, list yourself as 100% owner of your lyrics and performance, and designate Onzieb (Different Type of Vibe) as the music producer/composer according to your signed PDF license contract."
+    },
+    {
+      "question": "How fast do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout via Apple Pay, Google Pay, or Credit/Debit Card, an untagged 24-bit WAV file, MP3 version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "us/detroit": {
+  "name": "USA \u2013 Detroit & Michigan Off-Beat Trap",
+  "flag": "\ud83c\uddfa\ud83c\uddf8",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Apple Pay, Google Pay, Credit/Debit Cards, Cash App Pay",
+  "pro": "ASCAP & BMI",
+  "proFullName": "American Society of Composers, Authors and Publishers (ASCAP) & Broadcast Music, Inc. (BMI)",
+  "proGuide": "When releasing tracks in USA \u2013 Detroit & Michigan Off-Beat Trap with Different Type of Vibe beats, you keep 100% of your artist streaming royalties on Spotify, Apple Music, and Tidal.",
+  "headline": "Detroit Style Beats for Sale: Fast Off-Beat Basslines & Punchy Percussion",
+  "description": "Authentic Detroit and Flint instrumentals with signature syncopated basslines, fast 190-200 BPM bounce, and bells inspired by Babyface Ray, Veeze, and 42 Dugg.",
+  "popularGenres": [
+    "Detroit Style",
+    "Flint Beats",
+    "Off-Beat Bass"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Detroit Scene Hub",
+      "slug": "../../scene/detroit-style-beats",
+      "description": "Off-beat 808 bounce and fast syncopated piano runs."
+    },
+    {
+      "name": "Veeze Detroit Wavy Trap",
+      "slug": "../../vibe/veeze-detroit-wavy-trap",
+      "description": "Chill wavy synths and signature Detroit percussion."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify and Apple Music in USA \u2013 Detroit & Michigan Off-Beat Trap?",
+      "answer": "Yes! All WAV and MP3 leases purchased through Different Type of Vibe include commercial streaming rights for Spotify, Apple Music, YouTube, and worldwide distribution. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with ASCAP or BMI in the United States?",
+      "answer": "When registering your copyright or work with ASCAP or BMI, list yourself as 100% owner of your lyrics and performance, and designate Onzieb (Different Type of Vibe) as the music producer/composer according to your signed PDF license contract."
+    },
+    {
+      "question": "How fast do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout via Apple Pay, Google Pay, or Credit/Debit Card, an untagged 24-bit WAV file, MP3 version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "us/miami": {
+  "name": "USA \u2013 Miami & South Florida Trap",
+  "flag": "\ud83c\uddfa\ud83c\uddf8",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Apple Pay, Google Pay, Credit/Debit Cards, Cash App Pay",
+  "pro": "ASCAP & BMI",
+  "proFullName": "American Society of Composers, Authors and Publishers (ASCAP) & Broadcast Music, Inc. (BMI)",
+  "proGuide": "When releasing tracks in USA \u2013 Miami & South Florida Trap with Different Type of Vibe beats, you keep 100% of your artist streaming royalties on Spotify, Apple Music, and Tidal.",
+  "headline": "Miami Trap Beats for Sale: High-Energy Bass, 808s & Island Bounce",
+  "description": "High-octane South Florida trap instrumentals featuring heavy distorted low-end, bouncy percussion, and vibrant melodies inspired by Kodak Black and Denzel Curry.",
+  "popularGenres": [
+    "Miami Trap",
+    "Florida Street Rap",
+    "High-Energy 808s"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Miami South Florida Scene",
+      "slug": "../../scene/miami-south-florida-beats",
+      "description": "Heavy sub bass and bouncy Florida percussion."
+    },
+    {
+      "name": "Kodak Black Florida Blues",
+      "slug": "../../vibe/kodak-black-florida-blues",
+      "description": "Emotional guitar chords and raw street trap bounce."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify and Apple Music in USA \u2013 Miami & South Florida Trap?",
+      "answer": "Yes! All WAV and MP3 leases purchased through Different Type of Vibe include commercial streaming rights for Spotify, Apple Music, YouTube, and worldwide distribution. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with ASCAP or BMI in the United States?",
+      "answer": "When registering your copyright or work with ASCAP or BMI, list yourself as 100% owner of your lyrics and performance, and designate Onzieb (Different Type of Vibe) as the music producer/composer according to your signed PDF license contract."
+    },
+    {
+      "question": "How fast do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout via Apple Pay, Google Pay, or Credit/Debit Card, an untagged 24-bit WAV file, MP3 version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "us/philadelphia": {
+  "name": "USA \u2013 Philadelphia Club & Drill",
+  "flag": "\ud83c\uddfa\ud83c\uddf8",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Apple Pay, Google Pay, Credit/Debit Cards, Cash App Pay",
+  "pro": "ASCAP & BMI",
+  "proFullName": "American Society of Composers, Authors and Publishers (ASCAP) & Broadcast Music, Inc. (BMI)",
+  "proGuide": "When releasing tracks in USA \u2013 Philadelphia Club & Drill with Different Type of Vibe beats, you keep 100% of your artist streaming royalties on Spotify, Apple Music, and Tidal.",
+  "headline": "Philly Club & Drill Beats for Sale: Fast Bouncy Kicks & Dark Melodies",
+  "description": "Philly street instrumentals combining fast-paced club kick patterns, dark trap synth layers, and hard drill slides inspired by Lil Uzi Vert and OT7 Quanny.",
+  "popularGenres": [
+    "Philly Club Trap",
+    "Philly Drill",
+    "Fast BPM Bounce"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Philly Club Drill Scene",
+      "slug": "../../scene/philly-club-drill",
+      "description": "Fast syncopated kicks and dark street melodies."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify and Apple Music in USA \u2013 Philadelphia Club & Drill?",
+      "answer": "Yes! All WAV and MP3 leases purchased through Different Type of Vibe include commercial streaming rights for Spotify, Apple Music, YouTube, and worldwide distribution. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with ASCAP or BMI in the United States?",
+      "answer": "When registering your copyright or work with ASCAP or BMI, list yourself as 100% owner of your lyrics and performance, and designate Onzieb (Different Type of Vibe) as the music producer/composer according to your signed PDF license contract."
+    },
+    {
+      "question": "How fast do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout via Apple Pay, Google Pay, or Credit/Debit Card, an untagged 24-bit WAV file, MP3 version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "us/dmv": {
+  "name": "USA \u2013 DMV Crank & Flow",
+  "flag": "\ud83c\uddfa\ud83c\uddf8",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Apple Pay, Google Pay, Credit/Debit Cards, Cash App Pay",
+  "pro": "ASCAP & BMI",
+  "proFullName": "American Society of Composers, Authors and Publishers (ASCAP) & Broadcast Music, Inc. (BMI)",
+  "proGuide": "When releasing tracks in USA \u2013 DMV Crank & Flow with Different Type of Vibe beats, you keep 100% of your artist streaming royalties on Spotify, Apple Music, and Tidal.",
+  "headline": "DMV Beats for Sale: Signature Off-Beat Crank, Triplet Snares & Heavy Bass",
+  "description": "Distinct DMV area instrumentals engineered for fast off-beat flows, aggressive triplet snares, and rolling sub bass inspired by DC and Maryland street rap.",
+  "popularGenres": [
+    "DMV Crank",
+    "Off-Beat Flow",
+    "DC Street Beats"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "DMV Crank Flow Scene",
+      "slug": "../../scene/dmv-crank-flow-beats",
+      "description": "Signature DMV rolling hi-hats and punchy sub bass."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify and Apple Music in USA \u2013 DMV Crank & Flow?",
+      "answer": "Yes! All WAV and MP3 leases purchased through Different Type of Vibe include commercial streaming rights for Spotify, Apple Music, YouTube, and worldwide distribution. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with ASCAP or BMI in the United States?",
+      "answer": "When registering your copyright or work with ASCAP or BMI, list yourself as 100% owner of your lyrics and performance, and designate Onzieb (Different Type of Vibe) as the music producer/composer according to your signed PDF license contract."
+    },
+    {
+      "question": "How fast do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout via Apple Pay, Google Pay, or Credit/Debit Card, an untagged 24-bit WAV file, MP3 version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "us/dallas": {
+  "name": "USA \u2013 Dallas & North Texas Trap",
+  "flag": "\ud83c\uddfa\ud83c\uddf8",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Apple Pay, Google Pay, Credit/Debit Cards, Cash App Pay",
+  "pro": "ASCAP & BMI",
+  "proFullName": "American Society of Composers, Authors and Publishers (ASCAP) & Broadcast Music, Inc. (BMI)",
+  "proGuide": "When releasing tracks in USA \u2013 Dallas & North Texas Trap with Different Type of Vibe beats, you keep 100% of your artist streaming royalties on Spotify, Apple Music, and Tidal.",
+  "headline": "Dallas Trap Beats for Sale: Bouncy 808s & Catchy Melodic Leads",
+  "description": "Texas melodic bounce engineered with crisp clapping snares and bright synth lines for radio-ready southern anthems.",
+  "popularGenres": [
+    "Dallas Trap",
+    "Texas Bounce",
+    "Melodic 808s"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify and Apple Music in USA \u2013 Dallas & North Texas Trap?",
+      "answer": "Yes! All WAV and MP3 leases purchased through Different Type of Vibe include commercial streaming rights for Spotify, Apple Music, YouTube, and worldwide distribution. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with ASCAP or BMI in the United States?",
+      "answer": "When registering your copyright or work with ASCAP or BMI, list yourself as 100% owner of your lyrics and performance, and designate Onzieb (Different Type of Vibe) as the music producer/composer according to your signed PDF license contract."
+    },
+    {
+      "question": "How fast do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout via Apple Pay, Google Pay, or Credit/Debit Card, an untagged 24-bit WAV file, MP3 version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "us/baton-rouge": {
+  "name": "USA \u2013 Louisiana & Baton Rouge Melodic Trap",
+  "flag": "\ud83c\uddfa\ud83c\uddf8",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Apple Pay, Google Pay, Credit/Debit Cards, Cash App Pay",
+  "pro": "ASCAP & BMI",
+  "proFullName": "American Society of Composers, Authors and Publishers (ASCAP) & Broadcast Music, Inc. (BMI)",
+  "proGuide": "When releasing tracks in USA \u2013 Louisiana & Baton Rouge Melodic Trap with Different Type of Vibe beats, you keep 100% of your artist streaming royalties on Spotify, Apple Music, and Tidal.",
+  "headline": "Baton Rouge Trap Beats for Sale: Pain Melodies, Acoustic Guitars & Hard 808s",
+  "description": "Heartfelt southern street instrumentals with emotional guitar progressions and driving 808 percussion inspired by NBA YoungBoy and Kevin Gates.",
+  "popularGenres": [
+    "Baton Rouge Trap",
+    "Pain Beats",
+    "Louisiana Street Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Louisiana Baton Rouge Scene",
+      "slug": "../../scene/louisiana-baton-rouge-beats",
+      "description": "Emotional guitars and aggressive southern 808s."
+    },
+    {
+      "name": "NBA YoungBoy Louisiana Vibe",
+      "slug": "../../vibe/nba-youngboy-louisiana-trap",
+      "description": "Raw pain acoustic progressions with hard punchy drums."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify and Apple Music in USA \u2013 Louisiana & Baton Rouge Melodic Trap?",
+      "answer": "Yes! All WAV and MP3 leases purchased through Different Type of Vibe include commercial streaming rights for Spotify, Apple Music, YouTube, and worldwide distribution. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with ASCAP or BMI in the United States?",
+      "answer": "When registering your copyright or work with ASCAP or BMI, list yourself as 100% owner of your lyrics and performance, and designate Onzieb (Different Type of Vibe) as the music producer/composer according to your signed PDF license contract."
+    },
+    {
+      "question": "How fast do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout via Apple Pay, Google Pay, or Credit/Debit Card, an untagged 24-bit WAV file, MP3 version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "us/charlotte": {
+  "name": "USA \u2013 Charlotte & Carolinas 808 Trap",
+  "flag": "\ud83c\uddfa\ud83c\uddf8",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Apple Pay, Google Pay, Credit/Debit Cards, Cash App Pay",
+  "pro": "ASCAP & BMI",
+  "proFullName": "American Society of Composers, Authors and Publishers (ASCAP) & Broadcast Music, Inc. (BMI)",
+  "proGuide": "When releasing tracks in USA \u2013 Charlotte & Carolinas 808 Trap with Different Type of Vibe beats, you keep 100% of your artist streaming royalties on Spotify, Apple Music, and Tidal.",
+  "headline": "Carolinas 808 Trap Beats for Sale: High-Energy Bounce & Fast Flutes",
+  "description": "Up-tempo bouncy street beats with bouncing flute leads and driving 808 basslines inspired by the North Carolina rap explosion.",
+  "popularGenres": [
+    "Carolinas Trap",
+    "Charlotte Bounces",
+    "High-Energy 808s"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify and Apple Music in USA \u2013 Charlotte & Carolinas 808 Trap?",
+      "answer": "Yes! All WAV and MP3 leases purchased through Different Type of Vibe include commercial streaming rights for Spotify, Apple Music, YouTube, and worldwide distribution. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with ASCAP or BMI in the United States?",
+      "answer": "When registering your copyright or work with ASCAP or BMI, list yourself as 100% owner of your lyrics and performance, and designate Onzieb (Different Type of Vibe) as the music producer/composer according to your signed PDF license contract."
+    },
+    {
+      "question": "How fast do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout via Apple Pay, Google Pay, or Credit/Debit Card, an untagged 24-bit WAV file, MP3 version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "us/bay-area": {
+  "name": "USA \u2013 Bay Area & Northern California Hyphy",
+  "flag": "\ud83c\uddfa\ud83c\uddf8",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Apple Pay, Google Pay, Credit/Debit Cards, Cash App Pay",
+  "pro": "ASCAP & BMI",
+  "proFullName": "American Society of Composers, Authors and Publishers (ASCAP) & Broadcast Music, Inc. (BMI)",
+  "proGuide": "When releasing tracks in USA \u2013 Bay Area & Northern California Hyphy with Different Type of Vibe beats, you keep 100% of your artist streaming royalties on Spotify, Apple Music, and Tidal.",
+  "headline": "Bay Area Hyphy & West Coast Bounce Beats for Sale: Funky Basslines & Claps",
+  "description": "Northern California slaps featuring warm synth chords, funky slap basslines, and uptempo party bounce inspired by Larry June and E-40.",
+  "popularGenres": [
+    "Bay Area Hyphy",
+    "West Coast Slaps",
+    "California Funk"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Bay Area Rap Scene",
+      "slug": "../../scene/bay-area-rap-beats",
+      "description": "Bouncy West Coast tempo and warm California analog synths."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify and Apple Music in USA \u2013 Bay Area & Northern California Hyphy?",
+      "answer": "Yes! All WAV and MP3 leases purchased through Different Type of Vibe include commercial streaming rights for Spotify, Apple Music, YouTube, and worldwide distribution. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with ASCAP or BMI in the United States?",
+      "answer": "When registering your copyright or work with ASCAP or BMI, list yourself as 100% owner of your lyrics and performance, and designate Onzieb (Different Type of Vibe) as the music producer/composer according to your signed PDF license contract."
+    },
+    {
+      "question": "How fast do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout via Apple Pay, Google Pay, or Credit/Debit Card, an untagged 24-bit WAV file, MP3 version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "us/st-louis": {
+  "name": "USA \u2013 St. Louis Melodic Trap",
+  "flag": "\ud83c\uddfa\ud83c\uddf8",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Apple Pay, Google Pay, Credit/Debit Cards, Cash App Pay",
+  "pro": "ASCAP & BMI",
+  "proFullName": "American Society of Composers, Authors and Publishers (ASCAP) & Broadcast Music, Inc. (BMI)",
+  "proGuide": "When releasing tracks in USA \u2013 St. Louis Melodic Trap with Different Type of Vibe beats, you keep 100% of your artist streaming royalties on Spotify, Apple Music, and Tidal.",
+  "headline": "St. Louis Melodic Trap Beats for Sale: Catchy Hooks & Mid-West Bounce",
+  "description": "Smooth melodic trap with clean 808 patterns and crisp hooks designed for Midwest recording vocalists.",
+  "popularGenres": [
+    "St. Louis Trap",
+    "Midwest Bounce",
+    "Melodic Hip Hop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify and Apple Music in USA \u2013 St. Louis Melodic Trap?",
+      "answer": "Yes! All WAV and MP3 leases purchased through Different Type of Vibe include commercial streaming rights for Spotify, Apple Music, YouTube, and worldwide distribution. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with ASCAP or BMI in the United States?",
+      "answer": "When registering your copyright or work with ASCAP or BMI, list yourself as 100% owner of your lyrics and performance, and designate Onzieb (Different Type of Vibe) as the music producer/composer according to your signed PDF license contract."
+    },
+    {
+      "question": "How fast do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout via Apple Pay, Google Pay, or Credit/Debit Card, an untagged 24-bit WAV file, MP3 version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "us/cleveland": {
+  "name": "USA \u2013 Cleveland Melodic Hip Hop",
+  "flag": "\ud83c\uddfa\ud83c\uddf8",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Apple Pay, Google Pay, Credit/Debit Cards, Cash App Pay",
+  "pro": "ASCAP & BMI",
+  "proFullName": "American Society of Composers, Authors and Publishers (ASCAP) & Broadcast Music, Inc. (BMI)",
+  "proGuide": "When releasing tracks in USA \u2013 Cleveland Melodic Hip Hop with Different Type of Vibe beats, you keep 100% of your artist streaming royalties on Spotify, Apple Music, and Tidal.",
+  "headline": "Cleveland Beats for Sale: Atmospheric Synths, Melodic Harmonies & Trap Drums",
+  "description": "Spacey melodic trap and soulful hip hop instrumentals tailored for deep storytelling and dynamic vocal performances.",
+  "popularGenres": [
+    "Cleveland Hip Hop",
+    "Atmospheric Trap",
+    "Melodic Soundscapes"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify and Apple Music in USA \u2013 Cleveland Melodic Hip Hop?",
+      "answer": "Yes! All WAV and MP3 leases purchased through Different Type of Vibe include commercial streaming rights for Spotify, Apple Music, YouTube, and worldwide distribution. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with ASCAP or BMI in the United States?",
+      "answer": "When registering your copyright or work with ASCAP or BMI, list yourself as 100% owner of your lyrics and performance, and designate Onzieb (Different Type of Vibe) as the music producer/composer according to your signed PDF license contract."
+    },
+    {
+      "question": "How fast do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout via Apple Pay, Google Pay, or Credit/Debit Card, an untagged 24-bit WAV file, MP3 version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "us/nashville": {
+  "name": "USA \u2013 Nashville Hip Hop & Soul Trap",
+  "flag": "\ud83c\uddfa\ud83c\uddf8",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Apple Pay, Google Pay, Credit/Debit Cards, Cash App Pay",
+  "pro": "ASCAP & BMI",
+  "proFullName": "American Society of Composers, Authors and Publishers (ASCAP) & Broadcast Music, Inc. (BMI)",
+  "proGuide": "When releasing tracks in USA \u2013 Nashville Hip Hop & Soul Trap with Different Type of Vibe beats, you keep 100% of your artist streaming royalties on Spotify, Apple Music, and Tidal.",
+  "headline": "Nashville Hip Hop Beats for Sale: Live Instrumentation & Modern Trap Bounce",
+  "description": "Soulful southern rap instrumentals blending organic guitars, live Rhodes keys, and modern punchy 808 rhythms.",
+  "popularGenres": [
+    "Nashville Hip Hop",
+    "Live Instrument Trap",
+    "Soul Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify and Apple Music in USA \u2013 Nashville Hip Hop & Soul Trap?",
+      "answer": "Yes! All WAV and MP3 leases purchased through Different Type of Vibe include commercial streaming rights for Spotify, Apple Music, YouTube, and worldwide distribution. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with ASCAP or BMI in the United States?",
+      "answer": "When registering your copyright or work with ASCAP or BMI, list yourself as 100% owner of your lyrics and performance, and designate Onzieb (Different Type of Vibe) as the music producer/composer according to your signed PDF license contract."
+    },
+    {
+      "question": "How fast do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout via Apple Pay, Google Pay, or Credit/Debit Card, an untagged 24-bit WAV file, MP3 version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "us/phoenix": {
+  "name": "USA \u2013 Phoenix & Southwest Rap",
+  "flag": "\ud83c\uddfa\ud83c\uddf8",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Apple Pay, Google Pay, Credit/Debit Cards, Cash App Pay",
+  "pro": "ASCAP & BMI",
+  "proFullName": "American Society of Composers, Authors and Publishers (ASCAP) & Broadcast Music, Inc. (BMI)",
+  "proGuide": "When releasing tracks in USA \u2013 Phoenix & Southwest Rap with Different Type of Vibe beats, you keep 100% of your artist streaming royalties on Spotify, Apple Music, and Tidal.",
+  "headline": "Phoenix Southwest Rap Beats for Sale: Crisp Hi-Hats & Desert Melodies",
+  "description": "Southwestern modern trap beats with tight rhythmic bounce and atmospheric vocal pads.",
+  "popularGenres": [
+    "Southwest Rap",
+    "Desert Trap",
+    "Modern Hip Hop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify and Apple Music in USA \u2013 Phoenix & Southwest Rap?",
+      "answer": "Yes! All WAV and MP3 leases purchased through Different Type of Vibe include commercial streaming rights for Spotify, Apple Music, YouTube, and worldwide distribution. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with ASCAP or BMI in the United States?",
+      "answer": "When registering your copyright or work with ASCAP or BMI, list yourself as 100% owner of your lyrics and performance, and designate Onzieb (Different Type of Vibe) as the music producer/composer according to your signed PDF license contract."
+    },
+    {
+      "question": "How fast do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout via Apple Pay, Google Pay, or Credit/Debit Card, an untagged 24-bit WAV file, MP3 version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "us/seattle": {
+  "name": "USA \u2013 Seattle Pacific Northwest Hip Hop",
+  "flag": "\ud83c\uddfa\ud83c\uddf8",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Apple Pay, Google Pay, Credit/Debit Cards, Cash App Pay",
+  "pro": "ASCAP & BMI",
+  "proFullName": "American Society of Composers, Authors and Publishers (ASCAP) & Broadcast Music, Inc. (BMI)",
+  "proGuide": "When releasing tracks in USA \u2013 Seattle Pacific Northwest Hip Hop with Different Type of Vibe beats, you keep 100% of your artist streaming royalties on Spotify, Apple Music, and Tidal.",
+  "headline": "Seattle Hip Hop Beats for Sale: Moody Lofi Chords & Punchy Underground Drums",
+  "description": "Atmospheric, introspective hip-hop instrumentals featuring rainy lofi textures, jazz piano samples, and uncompressed drums.",
+  "popularGenres": [
+    "Pacific Northwest Rap",
+    "Moody Hip Hop",
+    "Underground Lofi"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify and Apple Music in USA \u2013 Seattle Pacific Northwest Hip Hop?",
+      "answer": "Yes! All WAV and MP3 leases purchased through Different Type of Vibe include commercial streaming rights for Spotify, Apple Music, YouTube, and worldwide distribution. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with ASCAP or BMI in the United States?",
+      "answer": "When registering your copyright or work with ASCAP or BMI, list yourself as 100% owner of your lyrics and performance, and designate Onzieb (Different Type of Vibe) as the music producer/composer according to your signed PDF license contract."
+    },
+    {
+      "question": "How fast do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout via Apple Pay, Google Pay, or Credit/Debit Card, an untagged 24-bit WAV file, MP3 version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "us/denver": {
+  "name": "USA \u2013 Denver Mountain Rap",
+  "flag": "\ud83c\uddfa\ud83c\uddf8",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Apple Pay, Google Pay, Credit/Debit Cards, Cash App Pay",
+  "pro": "ASCAP & BMI",
+  "proFullName": "American Society of Composers, Authors and Publishers (ASCAP) & Broadcast Music, Inc. (BMI)",
+  "proGuide": "When releasing tracks in USA \u2013 Denver Mountain Rap with Different Type of Vibe beats, you keep 100% of your artist streaming royalties on Spotify, Apple Music, and Tidal.",
+  "headline": "Denver Rap Beats for Sale: Chill Cloud Trap & Elevated Bass",
+  "description": "Spacious, reverberant cloud trap beats and clean 808 bounce tailored for smooth lyrical delivery.",
+  "popularGenres": [
+    "Denver Rap",
+    "Cloud Trap",
+    "Chill Melodic Beats"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify and Apple Music in USA \u2013 Denver Mountain Rap?",
+      "answer": "Yes! All WAV and MP3 leases purchased through Different Type of Vibe include commercial streaming rights for Spotify, Apple Music, YouTube, and worldwide distribution. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with ASCAP or BMI in the United States?",
+      "answer": "When registering your copyright or work with ASCAP or BMI, list yourself as 100% owner of your lyrics and performance, and designate Onzieb (Different Type of Vibe) as the music producer/composer according to your signed PDF license contract."
+    },
+    {
+      "question": "How fast do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout via Apple Pay, Google Pay, or Credit/Debit Card, an untagged 24-bit WAV file, MP3 version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "us/california": {
+  "name": "USA \u2013 California Rap & West Coast Hub",
+  "flag": "\ud83c\uddfa\ud83c\uddf8",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Apple Pay, Google Pay, Credit/Debit Cards, Cash App Pay",
+  "pro": "ASCAP & BMI",
+  "proFullName": "American Society of Composers, Authors and Publishers (ASCAP) & Broadcast Music, Inc. (BMI)",
+  "proGuide": "When releasing tracks in USA \u2013 California Rap & West Coast Hub with Different Type of Vibe beats, you keep 100% of your artist streaming royalties on Spotify, Apple Music, and Tidal.",
+  "headline": "California Rap Beats for Sale: West Coast Bounce, LA Melodic & Bay Area Slaps",
+  "description": "Premium commercial WAV beat leases for recording artists in California. Instant untagged MP3, 24-bit WAV, and STEM trackouts cleared for ASCAP, BMI, and commercial streaming on Spotify & Apple Music.",
+  "popularGenres": [
+    "West Coast Bounce",
+    "LA Melodic Rap",
+    "Bay Area Hyphy",
+    "Compton 808s"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Los Angeles Beat Deals",
+      "slug": "us/los-angeles",
+      "description": "Melodic California synth trap and commercial bounce."
+    },
+    {
+      "name": "Bay Area Hyphy Slaps",
+      "slug": "us/bay-area",
+      "description": "Funky baseline bounce inspired by E-40 and Larry June."
+    },
+    {
+      "name": "Kendrick West Coast Style",
+      "slug": "../../vibe/kendrick-lamar-west-coast",
+      "description": "Deep lyrical hip-hop and dynamic California rhythm."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify and Apple Music in USA \u2013 California Rap & West Coast Hub?",
+      "answer": "Yes! All WAV and MP3 leases purchased through Different Type of Vibe include full commercial streaming rights for Spotify, Apple Music, YouTube, and worldwide distribution. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with ASCAP or BMI in the United States?",
+      "answer": "When registering your copyright or work with ASCAP or BMI, list yourself as 100% owner of your lyrics and performance, and designate Onzieb (Different Type of Vibe) as the music producer/composer according to your signed PDF license contract."
+    },
+    {
+      "question": "How fast do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout via Apple Pay, Google Pay, or Credit/Debit Card, an untagged 24-bit WAV file, MP3 version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "us/texas": {
+  "name": "USA \u2013 Texas Trap & Southern Bounce Hub",
+  "flag": "\ud83c\uddfa\ud83c\uddf8",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Apple Pay, Google Pay, Credit/Debit Cards, Cash App Pay",
+  "pro": "ASCAP & BMI",
+  "proFullName": "American Society of Composers, Authors and Publishers (ASCAP) & Broadcast Music, Inc. (BMI)",
+  "proGuide": "When releasing tracks in USA \u2013 Texas Trap & Southern Bounce Hub with Different Type of Vibe beats, you keep 100% of your artist streaming royalties on Spotify, Apple Music, and Tidal.",
+  "headline": "Texas Trap Beats for Sale: Houston Chopped 808s & Dallas Melodic Bounce",
+  "description": "Hard-hitting southern trap beats for recording artists in Texas. Uncompressed 24-bit WAV leases and stem trackouts cleared for Spotify, Apple Music, and YouTube.",
+  "popularGenres": [
+    "Houston Chopped Trap",
+    "Dallas Melodic",
+    "Southern 808s",
+    "Texas Street Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Houston Chopped Trap Deals",
+      "slug": "us/houston",
+      "description": "Atmospheric, psychedelic 808 trap."
+    },
+    {
+      "name": "Dallas Trap Deals",
+      "slug": "us/dallas",
+      "description": "Fast energetic bounce with catchy synth melodies."
+    },
+    {
+      "name": "Travis Scott Style Hub",
+      "slug": "../../vibe/travis-scott-psychedelic-trap",
+      "description": "Cinematic Mike Dean analog synth layers."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify and Apple Music in USA \u2013 Texas Trap & Southern Bounce Hub?",
+      "answer": "Yes! All WAV and MP3 leases purchased through Different Type of Vibe include full commercial streaming rights for Spotify, Apple Music, YouTube, and worldwide distribution. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with ASCAP or BMI in the United States?",
+      "answer": "When registering your copyright or work with ASCAP or BMI, list yourself as 100% owner of your lyrics and performance, and designate Onzieb (Different Type of Vibe) as the music producer/composer according to your signed PDF license contract."
+    },
+    {
+      "question": "How fast do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout via Apple Pay, Google Pay, or Credit/Debit Card, an untagged 24-bit WAV file, MP3 version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "us/georgia": {
+  "name": "USA \u2013 Georgia & Atlanta Trap Capital",
+  "flag": "\ud83c\uddfa\ud83c\uddf8",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Apple Pay, Google Pay, Credit/Debit Cards, Cash App Pay",
+  "pro": "ASCAP & BMI",
+  "proFullName": "American Society of Composers, Authors and Publishers (ASCAP) & Broadcast Music, Inc. (BMI)",
+  "proGuide": "When releasing tracks in USA \u2013 Georgia & Atlanta Trap Capital with Different Type of Vibe beats, you keep 100% of your artist streaming royalties on Spotify, Apple Music, and Tidal.",
+  "headline": "Georgia Trap Beats for Sale: Authentic Atlanta 808s & Commercial Leases",
+  "description": "Authentic Atlanta trap beats crafted with rolling hi-hats, hard 808 kicks, and menacing brass. Cleared for ASCAP & BMI streaming royalties.",
+  "popularGenres": [
+    "Atlanta Trap",
+    "Dark 808s",
+    "Future Style",
+    "Metro Boomin Sound"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Atlanta Metro Deals",
+      "slug": "us/atlanta",
+      "description": "The capital of modern trap instrumentals."
+    },
+    {
+      "name": "Metro Boomin Trap Vibe",
+      "slug": "../../vibe/metro-boomin-dark-trap",
+      "description": "Heavy low-end dark 808 trap."
+    },
+    {
+      "name": "Lil Baby 4PF Trap",
+      "slug": "../../vibe/lil-baby-4pf-trap",
+      "description": "Fast-paced piano trap bounce."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify and Apple Music in USA \u2013 Georgia & Atlanta Trap Capital?",
+      "answer": "Yes! All WAV and MP3 leases purchased through Different Type of Vibe include full commercial streaming rights for Spotify, Apple Music, YouTube, and worldwide distribution. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with ASCAP or BMI in the United States?",
+      "answer": "When registering your copyright or work with ASCAP or BMI, list yourself as 100% owner of your lyrics and performance, and designate Onzieb (Different Type of Vibe) as the music producer/composer according to your signed PDF license contract."
+    },
+    {
+      "question": "How fast do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout via Apple Pay, Google Pay, or Credit/Debit Card, an untagged 24-bit WAV file, MP3 version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "us/florida": {
+  "name": "USA \u2013 Florida Street & Club Trap Hub",
+  "flag": "\ud83c\uddfa\ud83c\uddf8",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Apple Pay, Google Pay, Credit/Debit Cards, Cash App Pay",
+  "pro": "ASCAP & BMI",
+  "proFullName": "American Society of Composers, Authors and Publishers (ASCAP) & Broadcast Music, Inc. (BMI)",
+  "proGuide": "When releasing tracks in USA \u2013 Florida Street & Club Trap Hub with Different Type of Vibe beats, you keep 100% of your artist streaming royalties on Spotify, Apple Music, and Tidal.",
+  "headline": "Florida Beats for Sale: Miami High-Energy Bass & South Florida Street Rap",
+  "description": "High-octane Florida trap beats featuring distorted 808s, island bounce, and blues guitars inspired by Kodak Black and Denzel Curry.",
+  "popularGenres": [
+    "Miami Club Trap",
+    "South Florida Bass",
+    "Blues Guitar Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Miami Trap Deals",
+      "slug": "us/miami",
+      "description": "High energy club trap and distorted basslines."
+    },
+    {
+      "name": "Kodak Black Florida Blues",
+      "slug": "../../vibe/kodak-black-florida-blues",
+      "description": "Melodic blues guitar chords with raw 808 bounce."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify and Apple Music in USA \u2013 Florida Street & Club Trap Hub?",
+      "answer": "Yes! All WAV and MP3 leases purchased through Different Type of Vibe include full commercial streaming rights for Spotify, Apple Music, YouTube, and worldwide distribution. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with ASCAP or BMI in the United States?",
+      "answer": "When registering your copyright or work with ASCAP or BMI, list yourself as 100% owner of your lyrics and performance, and designate Onzieb (Different Type of Vibe) as the music producer/composer according to your signed PDF license contract."
+    },
+    {
+      "question": "How fast do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout via Apple Pay, Google Pay, or Credit/Debit Card, an untagged 24-bit WAV file, MP3 version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "us/illinois": {
+  "name": "USA \u2013 Illinois & Chicago Music Scene",
+  "flag": "\ud83c\uddfa\ud83c\uddf8",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Apple Pay, Google Pay, Credit/Debit Cards, Cash App Pay",
+  "pro": "ASCAP & BMI",
+  "proFullName": "American Society of Composers, Authors and Publishers (ASCAP) & Broadcast Music, Inc. (BMI)",
+  "proGuide": "When releasing tracks in USA \u2013 Illinois & Chicago Music Scene with Different Type of Vibe beats, you keep 100% of your artist streaming royalties on Spotify, Apple Music, and Tidal.",
+  "headline": "Illinois Beats for Sale: Hard Chicago Drill & Emotional Piano Trap",
+  "description": "Chicago style drill and melodic pain instrumentals for Illinois vocalists and producers. Full 100% master royalty retention on Spotify and Apple Music.",
+  "popularGenres": [
+    "Chicago Drill",
+    "Emotional Piano Trap",
+    "Midwest Street Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Chicago Deals Hub",
+      "slug": "us/chicago",
+      "description": "Aggressive drill percussion and soul trap chords."
+    },
+    {
+      "name": "Polo G Piano Trap",
+      "slug": "../../vibe/polo-g-piano-trap",
+      "description": "Acoustic piano leads and punchy drums."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify and Apple Music in USA \u2013 Illinois & Chicago Music Scene?",
+      "answer": "Yes! All WAV and MP3 leases purchased through Different Type of Vibe include full commercial streaming rights for Spotify, Apple Music, YouTube, and worldwide distribution. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with ASCAP or BMI in the United States?",
+      "answer": "When registering your copyright or work with ASCAP or BMI, list yourself as 100% owner of your lyrics and performance, and designate Onzieb (Different Type of Vibe) as the music producer/composer according to your signed PDF license contract."
+    },
+    {
+      "question": "How fast do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout via Apple Pay, Google Pay, or Credit/Debit Card, an untagged 24-bit WAV file, MP3 version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "us/pennsylvania": {
+  "name": "USA \u2013 Pennsylvania & Philly Music Hub",
+  "flag": "\ud83c\uddfa\ud83c\uddf8",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Apple Pay, Google Pay, Credit/Debit Cards, Cash App Pay",
+  "pro": "ASCAP & BMI",
+  "proFullName": "American Society of Composers, Authors and Publishers (ASCAP) & Broadcast Music, Inc. (BMI)",
+  "proGuide": "When releasing tracks in USA \u2013 Pennsylvania & Philly Music Hub with Different Type of Vibe beats, you keep 100% of your artist streaming royalties on Spotify, Apple Music, and Tidal.",
+  "headline": "Pennsylvania Rap Beats for Sale: Philly Club Drill & Gritty East Coast Drums",
+  "description": "Fast-paced Philly club kick patterns and dark drill slides for recording artists in Philadelphia and Pittsburgh. Cleared for commercial streaming.",
+  "popularGenres": [
+    "Philly Club Drill",
+    "East Coast Rap",
+    "High-Energy Kicks"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Philly Club Drill Deals",
+      "slug": "us/philadelphia",
+      "description": "Fast syncopated kicks and dark melodies."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify and Apple Music in USA \u2013 Pennsylvania & Philly Music Hub?",
+      "answer": "Yes! All WAV and MP3 leases purchased through Different Type of Vibe include full commercial streaming rights for Spotify, Apple Music, YouTube, and worldwide distribution. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with ASCAP or BMI in the United States?",
+      "answer": "When registering your copyright or work with ASCAP or BMI, list yourself as 100% owner of your lyrics and performance, and designate Onzieb (Different Type of Vibe) as the music producer/composer according to your signed PDF license contract."
+    },
+    {
+      "question": "How fast do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout via Apple Pay, Google Pay, or Credit/Debit Card, an untagged 24-bit WAV file, MP3 version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "us/north-carolina": {
+  "name": "USA \u2013 North Carolina & Carolinas 808 Trap",
+  "flag": "\ud83c\uddfa\ud83c\uddf8",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Apple Pay, Google Pay, Credit/Debit Cards, Cash App Pay",
+  "pro": "ASCAP & BMI",
+  "proFullName": "American Society of Composers, Authors and Publishers (ASCAP) & Broadcast Music, Inc. (BMI)",
+  "proGuide": "When releasing tracks in USA \u2013 North Carolina & Carolinas 808 Trap with Different Type of Vibe beats, you keep 100% of your artist streaming royalties on Spotify, Apple Music, and Tidal.",
+  "headline": "North Carolina Beats for Sale: Charlotte 808s & Bouncy Carolina Flutes",
+  "description": "High-energy Carolina trap beats with bouncy flute leads, rapid rolling hi-hats, and punchy 808 kicks for recording vocalists in Charlotte and Raleigh.",
+  "popularGenres": [
+    "Carolina Trap",
+    "Charlotte Bounces",
+    "High-Energy Flutes"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Charlotte Trap Deals",
+      "slug": "us/charlotte",
+      "description": "Uptempo bounce and driving basslines."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify and Apple Music in USA \u2013 North Carolina & Carolinas 808 Trap?",
+      "answer": "Yes! All WAV and MP3 leases purchased through Different Type of Vibe include full commercial streaming rights for Spotify, Apple Music, YouTube, and worldwide distribution. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with ASCAP or BMI in the United States?",
+      "answer": "When registering your copyright or work with ASCAP or BMI, list yourself as 100% owner of your lyrics and performance, and designate Onzieb (Different Type of Vibe) as the music producer/composer according to your signed PDF license contract."
+    },
+    {
+      "question": "How fast do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout via Apple Pay, Google Pay, or Credit/Debit Card, an untagged 24-bit WAV file, MP3 version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "us/tennessee": {
+  "name": "USA \u2013 Tennessee Memphis & Nashville Hub",
+  "flag": "\ud83c\uddfa\ud83c\uddf8",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Apple Pay, Google Pay, Credit/Debit Cards, Cash App Pay",
+  "pro": "ASCAP & BMI",
+  "proFullName": "American Society of Composers, Authors and Publishers (ASCAP) & Broadcast Music, Inc. (BMI)",
+  "proGuide": "When releasing tracks in USA \u2013 Tennessee Memphis & Nashville Hub with Different Type of Vibe beats, you keep 100% of your artist streaming royalties on Spotify, Apple Music, and Tidal.",
+  "headline": "Tennessee Rap Beats for Sale: Memphis Dark 808s & Nashville Soulful Trap",
+  "description": "Dark aggressive Memphis 808s and live instrumentation soul trap for recording artists in Memphis and Nashville. Uncompressed WAV leases.",
+  "popularGenres": [
+    "Memphis Dark Trap",
+    "Nashville Soul Rap",
+    "Heavy Brass 808s"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Memphis Dark Trap Deals",
+      "slug": "us/memphis",
+      "description": "Menacing bells and punchy street rap beats."
+    },
+    {
+      "name": "Nashville Hip Hop Deals",
+      "slug": "us/nashville",
+      "description": "Live instrumentation mixed with modern trap drums."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify and Apple Music in USA \u2013 Tennessee Memphis & Nashville Hub?",
+      "answer": "Yes! All WAV and MP3 leases purchased through Different Type of Vibe include full commercial streaming rights for Spotify, Apple Music, YouTube, and worldwide distribution. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with ASCAP or BMI in the United States?",
+      "answer": "When registering your copyright or work with ASCAP or BMI, list yourself as 100% owner of your lyrics and performance, and designate Onzieb (Different Type of Vibe) as the music producer/composer according to your signed PDF license contract."
+    },
+    {
+      "question": "How fast do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout via Apple Pay, Google Pay, or Credit/Debit Card, an untagged 24-bit WAV file, MP3 version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "us/michigan": {
+  "name": "USA \u2013 Michigan Detroit & Flint Off-Beat Hub",
+  "flag": "\ud83c\uddfa\ud83c\uddf8",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Apple Pay, Google Pay, Credit/Debit Cards, Cash App Pay",
+  "pro": "ASCAP & BMI",
+  "proFullName": "American Society of Composers, Authors and Publishers (ASCAP) & Broadcast Music, Inc. (BMI)",
+  "proGuide": "When releasing tracks in USA \u2013 Michigan Detroit & Flint Off-Beat Hub with Different Type of Vibe beats, you keep 100% of your artist streaming royalties on Spotify, Apple Music, and Tidal.",
+  "headline": "Michigan Style Beats for Sale: Fast Syncopated 808s & Detroit Off-Beat Bounce",
+  "description": "Signature Detroit and Flint style beats engineered with fast 190-200 BPM tempo, dark bells, and off-beat basslines for Michigan rappers.",
+  "popularGenres": [
+    "Detroit Style",
+    "Flint Off-Beat",
+    "Fast Midwest Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Detroit Beat Deals",
+      "slug": "us/detroit",
+      "description": "Signature off-beat syncopation and bells."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify and Apple Music in USA \u2013 Michigan Detroit & Flint Off-Beat Hub?",
+      "answer": "Yes! All WAV and MP3 leases purchased through Different Type of Vibe include full commercial streaming rights for Spotify, Apple Music, YouTube, and worldwide distribution. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with ASCAP or BMI in the United States?",
+      "answer": "When registering your copyright or work with ASCAP or BMI, list yourself as 100% owner of your lyrics and performance, and designate Onzieb (Different Type of Vibe) as the music producer/composer according to your signed PDF license contract."
+    },
+    {
+      "question": "How fast do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout via Apple Pay, Google Pay, or Credit/Debit Card, an untagged 24-bit WAV file, MP3 version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "us/louisiana": {
+  "name": "USA \u2013 Louisiana Baton Rouge & NOLA Hub",
+  "flag": "\ud83c\uddfa\ud83c\uddf8",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Apple Pay, Google Pay, Credit/Debit Cards, Cash App Pay",
+  "pro": "ASCAP & BMI",
+  "proFullName": "American Society of Composers, Authors and Publishers (ASCAP) & Broadcast Music, Inc. (BMI)",
+  "proGuide": "When releasing tracks in USA \u2013 Louisiana Baton Rouge & NOLA Hub with Different Type of Vibe beats, you keep 100% of your artist streaming royalties on Spotify, Apple Music, and Tidal.",
+  "headline": "Louisiana Beats for Sale: Baton Rouge Pain Guitars & New Orleans Bounce",
+  "description": "Emotional southern pain music instrumentals with acoustic guitar progressions, moving pianos, and hard 808s for Louisiana indie artists.",
+  "popularGenres": [
+    "Baton Rouge Pain Trap",
+    "Louisiana Street Rap",
+    "Acoustic Guitars"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Baton Rouge Trap Deals",
+      "slug": "us/baton-rouge",
+      "description": "Heartfelt guitars and heavy 808 drums."
+    },
+    {
+      "name": "NBA YoungBoy Vibe Hub",
+      "slug": "../../vibe/nba-youngboy-louisiana-trap",
+      "description": "Raw emotional melodies and driving southern bounce."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify and Apple Music in USA \u2013 Louisiana Baton Rouge & NOLA Hub?",
+      "answer": "Yes! All WAV and MP3 leases purchased through Different Type of Vibe include full commercial streaming rights for Spotify, Apple Music, YouTube, and worldwide distribution. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with ASCAP or BMI in the United States?",
+      "answer": "When registering your copyright or work with ASCAP or BMI, list yourself as 100% owner of your lyrics and performance, and designate Onzieb (Different Type of Vibe) as the music producer/composer according to your signed PDF license contract."
+    },
+    {
+      "question": "How fast do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout via Apple Pay, Google Pay, or Credit/Debit Card, an untagged 24-bit WAV file, MP3 version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "us/maryland-virginia": {
+  "name": "USA \u2013 DMV (DC, Maryland, Virginia) Scene",
+  "flag": "\ud83c\uddfa\ud83c\uddf8",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Apple Pay, Google Pay, Credit/Debit Cards, Cash App Pay",
+  "pro": "ASCAP & BMI",
+  "proFullName": "American Society of Composers, Authors and Publishers (ASCAP) & Broadcast Music, Inc. (BMI)",
+  "proGuide": "When releasing tracks in USA \u2013 DMV (DC, Maryland, Virginia) Scene with Different Type of Vibe beats, you keep 100% of your artist streaming royalties on Spotify, Apple Music, and Tidal.",
+  "headline": "DMV Beats for Sale: Signature Off-Beat Crank, Triplet Snares & Heavy Bass",
+  "description": "Authentic DMV crank beats engineered for rapid off-beat delivery and heavy bass for artists in DC, Baltimore, Richmond, and Virginia Beach.",
+  "popularGenres": [
+    "DMV Crank",
+    "DC Flow",
+    "Baltimore Street Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "DMV Deals Hub",
+      "slug": "us/dmv",
+      "description": "Signature rolling hi-hats and punchy sub bass."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify and Apple Music in USA \u2013 DMV (DC, Maryland, Virginia) Scene?",
+      "answer": "Yes! All WAV and MP3 leases purchased through Different Type of Vibe include full commercial streaming rights for Spotify, Apple Music, YouTube, and worldwide distribution. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with ASCAP or BMI in the United States?",
+      "answer": "When registering your copyright or work with ASCAP or BMI, list yourself as 100% owner of your lyrics and performance, and designate Onzieb (Different Type of Vibe) as the music producer/composer according to your signed PDF license contract."
+    },
+    {
+      "question": "How fast do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout via Apple Pay, Google Pay, or Credit/Debit Card, an untagged 24-bit WAV file, MP3 version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "us/new-jersey": {
+  "name": "USA \u2013 New Jersey Club & Drill Hub",
+  "flag": "\ud83c\uddfa\ud83c\uddf8",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Apple Pay, Google Pay, Credit/Debit Cards, Cash App Pay",
+  "pro": "ASCAP & BMI",
+  "proFullName": "American Society of Composers, Authors and Publishers (ASCAP) & Broadcast Music, Inc. (BMI)",
+  "proGuide": "When releasing tracks in USA \u2013 New Jersey Club & Drill Hub with Different Type of Vibe beats, you keep 100% of your artist streaming royalties on Spotify, Apple Music, and Tidal.",
+  "headline": "New Jersey Beats for Sale: Jersey Club Bounces, Fast Kicks & Dark Drill",
+  "description": "Fast-paced Jersey club rap beats with signature 5-beat kick patterns and dark melodic drill chords for Newark, Jersey City, and Paterson artists.",
+  "popularGenres": [
+    "Jersey Club Rap",
+    "NJ Drill",
+    "Fast BPM Club"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify and Apple Music in USA \u2013 New Jersey Club & Drill Hub?",
+      "answer": "Yes! All WAV and MP3 leases purchased through Different Type of Vibe include full commercial streaming rights for Spotify, Apple Music, YouTube, and worldwide distribution. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with ASCAP or BMI in the United States?",
+      "answer": "When registering your copyright or work with ASCAP or BMI, list yourself as 100% owner of your lyrics and performance, and designate Onzieb (Different Type of Vibe) as the music producer/composer according to your signed PDF license contract."
+    },
+    {
+      "question": "How fast do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout via Apple Pay, Google Pay, or Credit/Debit Card, an untagged 24-bit WAV file, MP3 version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "us/ohio": {
+  "name": "USA \u2013 Ohio Midwest Rap Hub",
+  "flag": "\ud83c\uddfa\ud83c\uddf8",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Apple Pay, Google Pay, Credit/Debit Cards, Cash App Pay",
+  "pro": "ASCAP & BMI",
+  "proFullName": "American Society of Composers, Authors and Publishers (ASCAP) & Broadcast Music, Inc. (BMI)",
+  "proGuide": "When releasing tracks in USA \u2013 Ohio Midwest Rap Hub with Different Type of Vibe beats, you keep 100% of your artist streaming royalties on Spotify, Apple Music, and Tidal.",
+  "headline": "Ohio Beats for Sale: Cleveland Melodic Trap, Columbus & Cincinnati Bounce",
+  "description": "Midwest trap and soulful melodic hip hop instrumentals tailored for deep storytelling and dynamic vocal delivery for Ohio artists.",
+  "popularGenres": [
+    "Cleveland Melodic",
+    "Ohio Trap",
+    "Soulful Midwest"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Cleveland Beat Deals",
+      "slug": "us/cleveland",
+      "description": "Atmospheric synths and punchy drums."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify and Apple Music in USA \u2013 Ohio Midwest Rap Hub?",
+      "answer": "Yes! All WAV and MP3 leases purchased through Different Type of Vibe include full commercial streaming rights for Spotify, Apple Music, YouTube, and worldwide distribution. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with ASCAP or BMI in the United States?",
+      "answer": "When registering your copyright or work with ASCAP or BMI, list yourself as 100% owner of your lyrics and performance, and designate Onzieb (Different Type of Vibe) as the music producer/composer according to your signed PDF license contract."
+    },
+    {
+      "question": "How fast do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout via Apple Pay, Google Pay, or Credit/Debit Card, an untagged 24-bit WAV file, MP3 version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "us/missouri": {
+  "name": "USA \u2013 Missouri St. Louis & KC Hub",
+  "flag": "\ud83c\uddfa\ud83c\uddf8",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Apple Pay, Google Pay, Credit/Debit Cards, Cash App Pay",
+  "pro": "ASCAP & BMI",
+  "proFullName": "American Society of Composers, Authors and Publishers (ASCAP) & Broadcast Music, Inc. (BMI)",
+  "proGuide": "When releasing tracks in USA \u2013 Missouri St. Louis & KC Hub with Different Type of Vibe beats, you keep 100% of your artist streaming royalties on Spotify, Apple Music, and Tidal.",
+  "headline": "Missouri Beats for Sale: St. Louis Catchy Melodic Trap & Kansas City Bounce",
+  "description": "Smooth melodic trap with clean 808 patterns and crisp hooks designed for Midwest recording vocalists across Missouri.",
+  "popularGenres": [
+    "St. Louis Trap",
+    "Midwest Melodic",
+    "Catchy Hook Beats"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "St. Louis Beat Deals",
+      "slug": "us/st-louis",
+      "description": "Clean 808 patterns and melodic hooks."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify and Apple Music in USA \u2013 Missouri St. Louis & KC Hub?",
+      "answer": "Yes! All WAV and MP3 leases purchased through Different Type of Vibe include full commercial streaming rights for Spotify, Apple Music, YouTube, and worldwide distribution. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with ASCAP or BMI in the United States?",
+      "answer": "When registering your copyright or work with ASCAP or BMI, list yourself as 100% owner of your lyrics and performance, and designate Onzieb (Different Type of Vibe) as the music producer/composer according to your signed PDF license contract."
+    },
+    {
+      "question": "How fast do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout via Apple Pay, Google Pay, or Credit/Debit Card, an untagged 24-bit WAV file, MP3 version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "us/colorado": {
+  "name": "USA \u2013 Colorado Mountain Cloud Rap",
+  "flag": "\ud83c\uddfa\ud83c\uddf8",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Apple Pay, Google Pay, Credit/Debit Cards, Cash App Pay",
+  "pro": "ASCAP & BMI",
+  "proFullName": "American Society of Composers, Authors and Publishers (ASCAP) & Broadcast Music, Inc. (BMI)",
+  "proGuide": "When releasing tracks in USA \u2013 Colorado Mountain Cloud Rap with Different Type of Vibe beats, you keep 100% of your artist streaming royalties on Spotify, Apple Music, and Tidal.",
+  "headline": "Colorado Beats for Sale: Denver Cloud Trap, Reverb Synths & Elevated 808s",
+  "description": "Spacious, reverberant cloud trap beats and clean 808 bounce tailored for smooth lyrical delivery for Colorado recording artists.",
+  "popularGenres": [
+    "Denver Cloud Rap",
+    "Elevated Trap",
+    "Atmospheric Synths"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Denver Rap Deals",
+      "slug": "us/denver",
+      "description": "Chill cloud trap and elevated bass."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify and Apple Music in USA \u2013 Colorado Mountain Cloud Rap?",
+      "answer": "Yes! All WAV and MP3 leases purchased through Different Type of Vibe include full commercial streaming rights for Spotify, Apple Music, YouTube, and worldwide distribution. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with ASCAP or BMI in the United States?",
+      "answer": "When registering your copyright or work with ASCAP or BMI, list yourself as 100% owner of your lyrics and performance, and designate Onzieb (Different Type of Vibe) as the music producer/composer according to your signed PDF license contract."
+    },
+    {
+      "question": "How fast do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout via Apple Pay, Google Pay, or Credit/Debit Card, an untagged 24-bit WAV file, MP3 version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
 };
