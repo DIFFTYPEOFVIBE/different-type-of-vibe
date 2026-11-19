@@ -1,6 +1,6 @@
 // src/data/stagedClusters.ts
-// Programmatic SEO Staged Batch Cluster Ledger - Global Big 7 Complete Footprint (Spain & Latin America Wave 2)
-// Deployed automatically by scripts/deploy_wave2_spain_pseo.py
+// Programmatic SEO Staged Batch Cluster Ledger - Global Big 8 Complete Footprint (Netherlands / Nederhop)
+// Deployed automatically by scripts/deploy_netherlands_pseo.py
 
 export interface StagedClusterItem {
   type: 'vibe' | 'genre' | 'mood' | 'bpm' | 'key' | 'scene' | 'instrument' | 'blog';
@@ -6283,5 +6283,370 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "type": "scene",
     "slug": "santiago-flamenco-trap-beats",
     "batchId": 15
+  },
+  {
+    "type": "scene",
+    "slug": "amsterdam-nederhop-trap-beats",
+    "batchId": 16
+  },
+  {
+    "type": "scene",
+    "slug": "rotterdam-010-straatrap-beats",
+    "batchId": 16
+  },
+  {
+    "type": "scene",
+    "slug": "den-haag-070-drill-trap",
+    "batchId": 16
+  },
+  {
+    "type": "scene",
+    "slug": "utrecht-030-melodic-trap",
+    "batchId": 16
+  },
+  {
+    "type": "scene",
+    "slug": "eindhoven-club-trap-beats",
+    "batchId": 16
+  },
+  {
+    "type": "scene",
+    "slug": "tilburg-festival-hiphop-beats",
+    "batchId": 16
+  },
+  {
+    "type": "scene",
+    "slug": "groningen-underground-boombap",
+    "batchId": 16
+  },
+  {
+    "type": "scene",
+    "slug": "arnhem-gelderland-trap",
+    "batchId": 16
+  },
+  {
+    "type": "scene",
+    "slug": "almere-new-wave-drill",
+    "batchId": 16
+  },
+  {
+    "type": "scene",
+    "slug": "breda-summer-urban-beats",
+    "batchId": 16
+  },
+  {
+    "type": "scene",
+    "slug": "bijlmer-southeast-afro-trap",
+    "batchId": 16
+  },
+  {
+    "type": "scene",
+    "slug": "spangen-rotterdam-west-drill",
+    "batchId": 16
+  },
+  {
+    "type": "vibe",
+    "slug": "frenna-77-afro-dancehall-beats",
+    "batchId": 16
+  },
+  {
+    "type": "vibe",
+    "slug": "ronnie-flex-melodic-pop-trap",
+    "batchId": 16
+  },
+  {
+    "type": "vibe",
+    "slug": "boef-fast-flow-street-trap",
+    "batchId": 16
+  },
+  {
+    "type": "vibe",
+    "slug": "broederliefde-rotterdam-afro-caribbean",
+    "batchId": 16
+  },
+  {
+    "type": "vibe",
+    "slug": "lijpe-marokkaanse-straatrap-beats",
+    "batchId": 16
+  },
+  {
+    "type": "vibe",
+    "slug": "josylvio-hitu-commercial-trap",
+    "batchId": 16
+  },
+  {
+    "type": "vibe",
+    "slug": "sevn-alias-trap-drill-rotterdam",
+    "batchId": 16
+  },
+  {
+    "type": "vibe",
+    "slug": "chivv-unlocked-afro-trap",
+    "batchId": 16
+  },
+  {
+    "type": "vibe",
+    "slug": "dopebwoy-cartier-party-trap-beats",
+    "batchId": 16
+  },
+  {
+    "type": "vibe",
+    "slug": "mula-b-den-haag-wild-west-drill",
+    "batchId": 16
+  },
+  {
+    "type": "vibe",
+    "slug": "adf-samski-rotterdam-90s-boombap",
+    "batchId": 16
+  },
+  {
+    "type": "vibe",
+    "slug": "cho-miss-miss-smooth-rnb-trap",
+    "batchId": 16
+  },
+  {
+    "type": "vibe",
+    "slug": "bizzey-dancehall-club-banger-beats",
+    "batchId": 16
+  },
+  {
+    "type": "vibe",
+    "slug": "kevin-rotterdam-chilled-melodic-rap",
+    "batchId": 16
+  },
+  {
+    "type": "vibe",
+    "slug": "louivos-wild-west-trap-flow",
+    "batchId": 16
+  },
+  {
+    "type": "genre",
+    "slug": "beats-kopen-met-ideal-nederland",
+    "batchId": 16
+  },
+  {
+    "type": "genre",
+    "slug": "nederhop-instrumentals-te-koop",
+    "batchId": 16
+  },
+  {
+    "type": "genre",
+    "slug": "buma-stemra-goedgekeurde-beats",
+    "batchId": 16
+  },
+  {
+    "type": "genre",
+    "slug": "afro-dancehall-instrumentals-nederland",
+    "batchId": 16
+  },
+  {
+    "type": "genre",
+    "slug": "dutch-drill-beats-kopen-zonder-tag",
+    "batchId": 16
+  },
+  {
+    "type": "genre",
+    "slug": "wav-leases-en-stems-kopen-nederland",
+    "batchId": 16
+  },
+  {
+    "type": "genre",
+    "slug": "commerciele-streaming-rechten-spotify-nl",
+    "batchId": 16
+  },
+  {
+    "type": "genre",
+    "slug": "nederlandse-rap-beats-gratis-downloaden",
+    "batchId": 16
+  },
+  {
+    "type": "genre",
+    "slug": "exclusieve-beat-rechten-kopen-ideal",
+    "batchId": 16
+  },
+  {
+    "type": "genre",
+    "slug": "nederlandse-urban-producers-beats-wav",
+    "batchId": 16
+  },
+  {
+    "type": "genre",
+    "slug": "beats-voor-rappers-met-ideal",
+    "batchId": 16
+  },
+  {
+    "type": "genre",
+    "slug": "zomerse-afro-trap-beats-nederland",
+    "batchId": 16
+  },
+  {
+    "type": "bpm",
+    "slug": "105-bpm-nederhop-afro-dancehall",
+    "batchId": 16
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-dutch-drill-beats",
+    "batchId": 16
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-rotterdam-street-trap",
+    "batchId": 16
+  },
+  {
+    "type": "bpm",
+    "slug": "98-bpm-chilled-nederhop-bounce",
+    "batchId": 16
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-afro-pop-nederland",
+    "batchId": 16
+  },
+  {
+    "type": "key",
+    "slug": "d-minor-dutch-drill-beats",
+    "batchId": 16
+  },
+  {
+    "type": "key",
+    "slug": "c-minor-nederhop-dark-trap",
+    "batchId": 16
+  },
+  {
+    "type": "key",
+    "slug": "f-minor-lijpe-piano-streetrap",
+    "batchId": 16
+  },
+  {
+    "type": "key",
+    "slug": "a-minor-frenna-afro-dancehall",
+    "batchId": 16
+  },
+  {
+    "type": "key",
+    "slug": "g-minor-boef-hard-trap-beats",
+    "batchId": 16
+  },
+  {
+    "type": "scene",
+    "slug": "amsterdam-nederhop-trap",
+    "batchId": 16
+  },
+  {
+    "type": "scene",
+    "slug": "amsterdam-dutch-drill-beats",
+    "batchId": 16
+  },
+  {
+    "type": "scene",
+    "slug": "amsterdam-afro-dancehall-beats",
+    "batchId": 16
+  },
+  {
+    "type": "scene",
+    "slug": "amsterdam-straatrap-instrumental",
+    "batchId": 16
+  },
+  {
+    "type": "scene",
+    "slug": "rotterdam-nederhop-trap",
+    "batchId": 16
+  },
+  {
+    "type": "scene",
+    "slug": "rotterdam-dutch-drill-beats",
+    "batchId": 16
+  },
+  {
+    "type": "scene",
+    "slug": "rotterdam-afro-dancehall-beats",
+    "batchId": 16
+  },
+  {
+    "type": "scene",
+    "slug": "rotterdam-straatrap-instrumental",
+    "batchId": 16
+  },
+  {
+    "type": "scene",
+    "slug": "den-haag-nederhop-trap",
+    "batchId": 16
+  },
+  {
+    "type": "scene",
+    "slug": "den-haag-dutch-drill-beats",
+    "batchId": 16
+  },
+  {
+    "type": "scene",
+    "slug": "den-haag-afro-dancehall-beats",
+    "batchId": 16
+  },
+  {
+    "type": "scene",
+    "slug": "den-haag-straatrap-instrumental",
+    "batchId": 16
+  },
+  {
+    "type": "scene",
+    "slug": "utrecht-nederhop-trap",
+    "batchId": 16
+  },
+  {
+    "type": "scene",
+    "slug": "utrecht-dutch-drill-beats",
+    "batchId": 16
+  },
+  {
+    "type": "scene",
+    "slug": "utrecht-afro-dancehall-beats",
+    "batchId": 16
+  },
+  {
+    "type": "scene",
+    "slug": "utrecht-straatrap-instrumental",
+    "batchId": 16
+  },
+  {
+    "type": "scene",
+    "slug": "eindhoven-nederhop-trap",
+    "batchId": 16
+  },
+  {
+    "type": "scene",
+    "slug": "eindhoven-dutch-drill-beats",
+    "batchId": 16
+  },
+  {
+    "type": "scene",
+    "slug": "eindhoven-afro-dancehall-beats",
+    "batchId": 16
+  },
+  {
+    "type": "scene",
+    "slug": "eindhoven-straatrap-instrumental",
+    "batchId": 16
+  },
+  {
+    "type": "scene",
+    "slug": "tilburg-nederhop-trap",
+    "batchId": 16
+  },
+  {
+    "type": "scene",
+    "slug": "tilburg-dutch-drill-beats",
+    "batchId": 16
+  },
+  {
+    "type": "scene",
+    "slug": "tilburg-afro-dancehall-beats",
+    "batchId": 16
+  },
+  {
+    "type": "scene",
+    "slug": "tilburg-straatrap-instrumental",
+    "batchId": 16
   }
 ];

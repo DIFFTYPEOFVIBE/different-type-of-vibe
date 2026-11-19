@@ -9893,4 +9893,481 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
     }
   ]
 },
+  "nl/amsterdam": {
+  "name": "Nederland \u2013 Amsterdam & Noord-Holland (020)",
+  "flag": "\ud83c\uddf3\ud83c\uddf1",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "iDEAL, Apple Pay, Google Pay, Bancontact, Kaarten, PayPal, Stripe",
+  "pro": "Buma/Stemra",
+  "proFullName": "Vereniging Buma en Stichting Stemra (Buma/Stemra)",
+  "proGuide": "100% Buma/Stemra goedgekeurd in Nederland. Alle beats zijn originele composities zonder ongeklaarde samples. Je behoudt 100% van je artiesten-royalties op Spotify en Apple Music.",
+  "headline": "Amsterdam Beats Kopen: Afro-Trap, Nederhop 020 & Melodische Leases met iDEAL",
+  "description": "De hoofdstad van de Nederlandse urban scene (Amsterdam Bijlmer, Centrum, West). Vloeiende Afro-Dancehall bounces, melodische trap en zware 808s ge\u00efnspireerd door Frenna en Ronnie Flex. Directe WAV studio leases en stems.",
+  "popularGenres": [
+    "Nederhop 020",
+    "Afro-Dancehall",
+    "Amsterdam Trap",
+    "Melodische Beats"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Amsterdam Scene Hub",
+      "slug": "../../scene/amsterdam-nederhop-trap-beats",
+      "description": "Tropische melodie\u00ebn en strakke urban drums."
+    },
+    {
+      "name": "Frenna Afro Vibe",
+      "slug": "../../vibe/frenna-77-afro-dancehall-beats",
+      "description": "Dansbare Afro-Dancehall met warme synths en melodische bas."
+    },
+    {
+      "name": "Ronnie Flex Melodic Vibe",
+      "slug": "../../vibe/ronnie-flex-melodic-pop-trap",
+      "description": "Gitaarakkoorden en catchy autotune melodie\u00ebn."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Mag ik nummers opgenomen met deze beats uitbrengen op Spotify, Apple Music en YouTube in Nederland \u2013 Amsterdam & Noord-Holland (020)?",
+      "answer": "Ja, 100%! Alle WAV- en MP3-licenties van Different Type of Vibe bevatten volledige commerci\u00eble streamingrechten voor Spotify, Apple Music, YouTube, Deezer, TikTok en Nederlandse radio. Je behoudt 100% van je artiesten master-royalties."
+    },
+    {
+      "question": "Zijn de beats 100% Buma/Stemra goedgekeurd en sample-cleared in Nederland?",
+      "answer": "Ja! Alle instrumentals zijn originele composities geproduceerd door Onzieb. Er zijn geen ongeklaarde samples van derden gebruikt. Je kunt je tekst en uitvoering zorgeloos aanmelden bij Buma/Stemra."
+    },
+    {
+      "question": "Welke betaalmethoden worden ondersteund in Nederland?",
+      "answer": "Je kunt direct en vertrouwd betalen via iDEAL, Apple Pay, Google Pay, Bancontact, Creditcard (Visa, Mastercard), PayPal en Stripe."
+    },
+    {
+      "question": "Hoe snel ontvang ik de ungetagde studio bestanden?",
+      "answer": "Direct na de betaling worden de ungetagde 24-bit studio WAV-bestanden, de hoge kwaliteit MP3-versie en het rechtsgeldig ondertekende PDF-licentiecontract automatisch naar je e-mailadres verzonden."
+    }
+  ]
+},
+  "nl/rotterdam": {
+  "name": "Nederland \u2013 Rotterdam & Zuid-Holland (010)",
+  "flag": "\ud83c\uddf3\ud83c\uddf1",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "iDEAL, Apple Pay, Google Pay, Bancontact, Kaarten, PayPal",
+  "pro": "Buma/Stemra",
+  "proFullName": "Vereniging Buma en Stichting Stemra (Buma/Stemra)",
+  "proGuide": "100% Buma/Stemra goedgekeurd voor commerci\u00eble streaming en radio.",
+  "headline": "Rotterdam Beats Kopen: 010 Straatrap, Harde Drill & Broederliefde Bounces",
+  "description": "Het hardste straatrap- en drillgeluid van Nederland (Spangen, Feyenoord, Rotterdam-West). Diepe 808 baslijnen, Caribische dancehall drums en emotionele pianoloops ge\u00efnspireerd door Broederliefde, Lijpe en Kevin.",
+  "popularGenres": [
+    "010 Straatrap",
+    "Rotterdam Drill",
+    "Broederliefde Bounces",
+    "Zware 808s"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Rotterdam Scene Hub",
+      "slug": "../../scene/rotterdam-010-straatrap-beats",
+      "description": "Rauw straatgeluid met zware bassen en energieke drums."
+    },
+    {
+      "name": "Broederliefde Afro Bounce",
+      "slug": "../../vibe/broederliefde-rotterdam-afro-caribbean",
+      "description": "Vrolijke Caribische ritmes en energieke blazers."
+    },
+    {
+      "name": "Lijpe Straatrap Vibe",
+      "slug": "../../vibe/lijpe-marokkaanse-straatrap-beats",
+      "description": "Emotionele pianoloops en rauwe trap drums."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Mag ik nummers opgenomen met deze beats uitbrengen op Spotify, Apple Music en YouTube in Nederland \u2013 Rotterdam & Zuid-Holland (010)?",
+      "answer": "Ja, 100%! Alle WAV- en MP3-licenties van Different Type of Vibe bevatten volledige commerci\u00eble streamingrechten voor Spotify, Apple Music, YouTube, Deezer, TikTok en Nederlandse radio. Je behoudt 100% van je artiesten master-royalties."
+    },
+    {
+      "question": "Zijn de beats 100% Buma/Stemra goedgekeurd en sample-cleared in Nederland?",
+      "answer": "Ja! Alle instrumentals zijn originele composities geproduceerd door Onzieb. Er zijn geen ongeklaarde samples van derden gebruikt. Je kunt je tekst en uitvoering zorgeloos aanmelden bij Buma/Stemra."
+    },
+    {
+      "question": "Welke betaalmethoden worden ondersteund in Nederland?",
+      "answer": "Je kunt direct en vertrouwd betalen via iDEAL, Apple Pay, Google Pay, Bancontact, Creditcard (Visa, Mastercard), PayPal en Stripe."
+    },
+    {
+      "question": "Hoe snel ontvang ik de ungetagde studio bestanden?",
+      "answer": "Direct na de betaling worden de ungetagde 24-bit studio WAV-bestanden, de hoge kwaliteit MP3-versie en het rechtsgeldig ondertekende PDF-licentiecontract automatisch naar je e-mailadres verzonden."
+    }
+  ]
+},
+  "nl/den-haag": {
+  "name": "Nederland \u2013 Den Haag & Schilderswijk (070)",
+  "flag": "\ud83c\uddf3\ud83c\uddf1",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "iDEAL, Apple Pay, Google Pay, Bancontact, Kaarten, PayPal",
+  "pro": "Buma/Stemra",
+  "proFullName": "Vereniging Buma en Stichting Stemra (Buma/Stemra)",
+  "proGuide": "100% Buma/Stemra goedgekeurd met direct downloadbaar PDF-licentiecontract.",
+  "headline": "Den Haag Beats Kopen: 070 Trap, Schilderswijk Drill & Donkere Bassen",
+  "description": "Donkere trap beats en agressieve drill ritmes ge\u00efnspireerd door Mula B en LouiVos voor artiesten in Den Haag en omstreken.",
+  "popularGenres": [
+    "070 Trap",
+    "Schilderswijk Drill",
+    "Donkere Melodie\u00ebn",
+    "Straatbangers"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Den Haag Scene Hub",
+      "slug": "../../scene/den-haag-070-drill-trap",
+      "description": "Agressieve 808-slides en donkere straatsferen."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Mag ik nummers opgenomen met deze beats uitbrengen op Spotify, Apple Music en YouTube in Nederland \u2013 Den Haag & Schilderswijk (070)?",
+      "answer": "Ja, 100%! Alle WAV- en MP3-licenties van Different Type of Vibe bevatten volledige commerci\u00eble streamingrechten voor Spotify, Apple Music, YouTube, Deezer, TikTok en Nederlandse radio. Je behoudt 100% van je artiesten master-royalties."
+    },
+    {
+      "question": "Zijn de beats 100% Buma/Stemra goedgekeurd en sample-cleared in Nederland?",
+      "answer": "Ja! Alle instrumentals zijn originele composities geproduceerd door Onzieb. Er zijn geen ongeklaarde samples van derden gebruikt. Je kunt je tekst en uitvoering zorgeloos aanmelden bij Buma/Stemra."
+    },
+    {
+      "question": "Welke betaalmethoden worden ondersteund in Nederland?",
+      "answer": "Je kunt direct en vertrouwd betalen via iDEAL, Apple Pay, Google Pay, Bancontact, Creditcard (Visa, Mastercard), PayPal en Stripe."
+    },
+    {
+      "question": "Hoe snel ontvang ik de ungetagde studio bestanden?",
+      "answer": "Direct na de betaling worden de ungetagde 24-bit studio WAV-bestanden, de hoge kwaliteit MP3-versie en het rechtsgeldig ondertekende PDF-licentiecontract automatisch naar je e-mailadres verzonden."
+    }
+  ]
+},
+  "nl/utrecht": {
+  "name": "Nederland \u2013 Utrecht & Midden-Nederland (030)",
+  "flag": "\ud83c\uddf3\ud83c\uddf1",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "iDEAL, Apple Pay, Google Pay, Bancontact, Kaarten, PayPal",
+  "pro": "Buma/Stemra",
+  "proFullName": "Vereniging Buma en Stichting Stemra (Buma/Stemra)",
+  "proGuide": "100% Buma/Stemra goedgekeurd voor offici\u00eble releases.",
+  "headline": "Utrecht Beats Kopen: 030 Melodische Trap, Straatrap & Snelle Flows",
+  "description": "Veelzijdige hiphop producties met melodische synths en harde kicks ge\u00efnspireerd door Boef en Lijpe voor artiesten in Utrecht.",
+  "popularGenres": [
+    "030 Trap",
+    "Utrecht Straatrap",
+    "Snelle 808 Kicks"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Boef Fast Flow Vibe",
+      "slug": "../../vibe/boef-fast-flow-street-trap",
+      "description": "Snelle energieke flows en zware 808 kicks."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Mag ik nummers opgenomen met deze beats uitbrengen op Spotify, Apple Music en YouTube in Nederland \u2013 Utrecht & Midden-Nederland (030)?",
+      "answer": "Ja, 100%! Alle WAV- en MP3-licenties van Different Type of Vibe bevatten volledige commerci\u00eble streamingrechten voor Spotify, Apple Music, YouTube, Deezer, TikTok en Nederlandse radio. Je behoudt 100% van je artiesten master-royalties."
+    },
+    {
+      "question": "Zijn de beats 100% Buma/Stemra goedgekeurd en sample-cleared in Nederland?",
+      "answer": "Ja! Alle instrumentals zijn originele composities geproduceerd door Onzieb. Er zijn geen ongeklaarde samples van derden gebruikt. Je kunt je tekst en uitvoering zorgeloos aanmelden bij Buma/Stemra."
+    },
+    {
+      "question": "Welke betaalmethoden worden ondersteund in Nederland?",
+      "answer": "Je kunt direct en vertrouwd betalen via iDEAL, Apple Pay, Google Pay, Bancontact, Creditcard (Visa, Mastercard), PayPal en Stripe."
+    },
+    {
+      "question": "Hoe snel ontvang ik de ungetagde studio bestanden?",
+      "answer": "Direct na de betaling worden de ungetagde 24-bit studio WAV-bestanden, de hoge kwaliteit MP3-versie en het rechtsgeldig ondertekende PDF-licentiecontract automatisch naar je e-mailadres verzonden."
+    }
+  ]
+},
+  "nl/eindhoven": {
+  "name": "Nederland \u2013 Eindhoven & Noord-Brabant (040)",
+  "flag": "\ud83c\uddf3\ud83c\uddf1",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "iDEAL, Apple Pay, Google Pay, Bancontact, Kaarten, PayPal",
+  "pro": "Buma/Stemra",
+  "proFullName": "Vereniging Buma en Stichting Stemra (Buma/Stemra)",
+  "proGuide": "100% Buma/Stemra goedgekeurd met commerci\u00eble licentie.",
+  "headline": "Eindhoven Beats Kopen: 040 Club Trap, Melodische Bounces & Fresku Vibe",
+  "description": "Zuid-Nederlandse urban producties met diepe bassen en creatieve synths voor artiesten in Eindhoven en Brabant.",
+  "popularGenres": [
+    "040 Club Trap",
+    "Brabantse Rap",
+    "Melodische Bounces"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Mag ik nummers opgenomen met deze beats uitbrengen op Spotify, Apple Music en YouTube in Nederland \u2013 Eindhoven & Noord-Brabant (040)?",
+      "answer": "Ja, 100%! Alle WAV- en MP3-licenties van Different Type of Vibe bevatten volledige commerci\u00eble streamingrechten voor Spotify, Apple Music, YouTube, Deezer, TikTok en Nederlandse radio. Je behoudt 100% van je artiesten master-royalties."
+    },
+    {
+      "question": "Zijn de beats 100% Buma/Stemra goedgekeurd en sample-cleared in Nederland?",
+      "answer": "Ja! Alle instrumentals zijn originele composities geproduceerd door Onzieb. Er zijn geen ongeklaarde samples van derden gebruikt. Je kunt je tekst en uitvoering zorgeloos aanmelden bij Buma/Stemra."
+    },
+    {
+      "question": "Welke betaalmethoden worden ondersteund in Nederland?",
+      "answer": "Je kunt direct en vertrouwd betalen via iDEAL, Apple Pay, Google Pay, Bancontact, Creditcard (Visa, Mastercard), PayPal en Stripe."
+    },
+    {
+      "question": "Hoe snel ontvang ik de ungetagde studio bestanden?",
+      "answer": "Direct na de betaling worden de ungetagde 24-bit studio WAV-bestanden, de hoge kwaliteit MP3-versie en het rechtsgeldig ondertekende PDF-licentiecontract automatisch naar je e-mailadres verzonden."
+    }
+  ]
+},
+  "nl/tilburg": {
+  "name": "Nederland \u2013 Tilburg & WOO HAH! Hiphop Hub",
+  "flag": "\ud83c\uddf3\ud83c\uddf1",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "iDEAL, Apple Pay, Google Pay, Bancontact, Kaarten, PayPal",
+  "pro": "Buma/Stemra",
+  "proFullName": "Vereniging Buma en Stichting Stemra (Buma/Stemra)",
+  "proGuide": "100% Buma/Stemra goedgekeurd voor festival- en radio-uitzending.",
+  "headline": "Tilburg Beats Kopen: Festival Trap, Hiphop Banger & Energieke Drill",
+  "description": "Drukvolle festivalbangers met zware subbassen en pakkende drops voor artiesten in Tilburg en de Brabantse hiphopscene.",
+  "popularGenres": [
+    "Festival Trap",
+    "Tilburg Hiphop",
+    "Energieke Banger"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Mag ik nummers opgenomen met deze beats uitbrengen op Spotify, Apple Music en YouTube in Nederland \u2013 Tilburg & WOO HAH! Hiphop Hub?",
+      "answer": "Ja, 100%! Alle WAV- en MP3-licenties van Different Type of Vibe bevatten volledige commerci\u00eble streamingrechten voor Spotify, Apple Music, YouTube, Deezer, TikTok en Nederlandse radio. Je behoudt 100% van je artiesten master-royalties."
+    },
+    {
+      "question": "Zijn de beats 100% Buma/Stemra goedgekeurd en sample-cleared in Nederland?",
+      "answer": "Ja! Alle instrumentals zijn originele composities geproduceerd door Onzieb. Er zijn geen ongeklaarde samples van derden gebruikt. Je kunt je tekst en uitvoering zorgeloos aanmelden bij Buma/Stemra."
+    },
+    {
+      "question": "Welke betaalmethoden worden ondersteund in Nederland?",
+      "answer": "Je kunt direct en vertrouwd betalen via iDEAL, Apple Pay, Google Pay, Bancontact, Creditcard (Visa, Mastercard), PayPal en Stripe."
+    },
+    {
+      "question": "Hoe snel ontvang ik de ungetagde studio bestanden?",
+      "answer": "Direct na de betaling worden de ungetagde 24-bit studio WAV-bestanden, de hoge kwaliteit MP3-versie en het rechtsgeldig ondertekende PDF-licentiecontract automatisch naar je e-mailadres verzonden."
+    }
+  ]
+},
+  "nl/groningen": {
+  "name": "Nederland \u2013 Groningen & Noord-Nederland Hiphop",
+  "flag": "\ud83c\uddf3\ud83c\uddf1",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "iDEAL, Apple Pay, Google Pay, Bancontact, Kaarten, PayPal",
+  "pro": "Buma/Stemra",
+  "proFullName": "Vereniging Buma en Stichting Stemra (Buma/Stemra)",
+  "proGuide": "100% Buma/Stemra goedgekeurd voor streaming op Spotify en Deezer.",
+  "headline": "Groningen Beats Kopen: Underground Boom Bap, Lofi & Noordelijke Trap",
+  "description": "Klassieke vinyl samples, stoffige MPC drums en sfeervolle noordelijke trap voor artiesten in Groningen en Friesland.",
+  "popularGenres": [
+    "Noordelijke Trap",
+    "Underground Boom Bap",
+    "Lofi Hiphop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Mag ik nummers opgenomen met deze beats uitbrengen op Spotify, Apple Music en YouTube in Nederland \u2013 Groningen & Noord-Nederland Hiphop?",
+      "answer": "Ja, 100%! Alle WAV- en MP3-licenties van Different Type of Vibe bevatten volledige commerci\u00eble streamingrechten voor Spotify, Apple Music, YouTube, Deezer, TikTok en Nederlandse radio. Je behoudt 100% van je artiesten master-royalties."
+    },
+    {
+      "question": "Zijn de beats 100% Buma/Stemra goedgekeurd en sample-cleared in Nederland?",
+      "answer": "Ja! Alle instrumentals zijn originele composities geproduceerd door Onzieb. Er zijn geen ongeklaarde samples van derden gebruikt. Je kunt je tekst en uitvoering zorgeloos aanmelden bij Buma/Stemra."
+    },
+    {
+      "question": "Welke betaalmethoden worden ondersteund in Nederland?",
+      "answer": "Je kunt direct en vertrouwd betalen via iDEAL, Apple Pay, Google Pay, Bancontact, Creditcard (Visa, Mastercard), PayPal en Stripe."
+    },
+    {
+      "question": "Hoe snel ontvang ik de ungetagde studio bestanden?",
+      "answer": "Direct na de betaling worden de ungetagde 24-bit studio WAV-bestanden, de hoge kwaliteit MP3-versie en het rechtsgeldig ondertekende PDF-licentiecontract automatisch naar je e-mailadres verzonden."
+    }
+  ]
+},
+  "nl/arnhem": {
+  "name": "Nederland \u2013 Arnhem & Gelderland Hiphop Scene",
+  "flag": "\ud83c\uddf3\ud83c\uddf1",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "iDEAL, Apple Pay, Google Pay, Bancontact, Kaarten, PayPal",
+  "pro": "Buma/Stemra",
+  "proFullName": "Vereniging Buma en Stichting Stemra (Buma/Stemra)",
+  "proGuide": "100% Buma/Stemra goedgekeurd met direct downloadbare WAV files.",
+  "headline": "Arnhem Beats Kopen: Gelderland Straatrap, Melodische 808s & Drill",
+  "description": "Krachtige trap producties met melodische synths en rollende hi-hats voor opnamesessies in Gelderland.",
+  "popularGenres": [
+    "Gelderland Straatrap",
+    "Melodische 808s",
+    "Moderne Drill"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Mag ik nummers opgenomen met deze beats uitbrengen op Spotify, Apple Music en YouTube in Nederland \u2013 Arnhem & Gelderland Hiphop Scene?",
+      "answer": "Ja, 100%! Alle WAV- en MP3-licenties van Different Type of Vibe bevatten volledige commerci\u00eble streamingrechten voor Spotify, Apple Music, YouTube, Deezer, TikTok en Nederlandse radio. Je behoudt 100% van je artiesten master-royalties."
+    },
+    {
+      "question": "Zijn de beats 100% Buma/Stemra goedgekeurd en sample-cleared in Nederland?",
+      "answer": "Ja! Alle instrumentals zijn originele composities geproduceerd door Onzieb. Er zijn geen ongeklaarde samples van derden gebruikt. Je kunt je tekst en uitvoering zorgeloos aanmelden bij Buma/Stemra."
+    },
+    {
+      "question": "Welke betaalmethoden worden ondersteund in Nederland?",
+      "answer": "Je kunt direct en vertrouwd betalen via iDEAL, Apple Pay, Google Pay, Bancontact, Creditcard (Visa, Mastercard), PayPal en Stripe."
+    },
+    {
+      "question": "Hoe snel ontvang ik de ungetagde studio bestanden?",
+      "answer": "Direct na de betaling worden de ungetagde 24-bit studio WAV-bestanden, de hoge kwaliteit MP3-versie en het rechtsgeldig ondertekende PDF-licentiecontract automatisch naar je e-mailadres verzonden."
+    }
+  ]
+},
+  "nl/almere": {
+  "name": "Nederland \u2013 Almere & Flevoland New Wave Trap",
+  "flag": "\ud83c\uddf3\ud83c\uddf1",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "iDEAL, Apple Pay, Google Pay, Bancontact, Kaarten, PayPal",
+  "pro": "Buma/Stemra",
+  "proFullName": "Vereniging Buma en Stichting Stemra (Buma/Stemra)",
+  "proGuide": "100% Buma/Stemra goedgekeurd met volledige streamingrechten.",
+  "headline": "Almere Beats Kopen: Flevoland New Wave Trap, Melodische Drill & R&B",
+  "description": "Futuristische autotune synths en strakke drumgrooves voor de nieuwe generatie artiesten in Almere.",
+  "popularGenres": [
+    "New Wave Trap",
+    "Almere Drill",
+    "Moderne R&B"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Mag ik nummers opgenomen met deze beats uitbrengen op Spotify, Apple Music en YouTube in Nederland \u2013 Almere & Flevoland New Wave Trap?",
+      "answer": "Ja, 100%! Alle WAV- en MP3-licenties van Different Type of Vibe bevatten volledige commerci\u00eble streamingrechten voor Spotify, Apple Music, YouTube, Deezer, TikTok en Nederlandse radio. Je behoudt 100% van je artiesten master-royalties."
+    },
+    {
+      "question": "Zijn de beats 100% Buma/Stemra goedgekeurd en sample-cleared in Nederland?",
+      "answer": "Ja! Alle instrumentals zijn originele composities geproduceerd door Onzieb. Er zijn geen ongeklaarde samples van derden gebruikt. Je kunt je tekst en uitvoering zorgeloos aanmelden bij Buma/Stemra."
+    },
+    {
+      "question": "Welke betaalmethoden worden ondersteund in Nederland?",
+      "answer": "Je kunt direct en vertrouwd betalen via iDEAL, Apple Pay, Google Pay, Bancontact, Creditcard (Visa, Mastercard), PayPal en Stripe."
+    },
+    {
+      "question": "Hoe snel ontvang ik de ungetagde studio bestanden?",
+      "answer": "Direct na de betaling worden de ungetagde 24-bit studio WAV-bestanden, de hoge kwaliteit MP3-versie en het rechtsgeldig ondertekende PDF-licentiecontract automatisch naar je e-mailadres verzonden."
+    }
+  ]
+},
+  "nl/breda": {
+  "name": "Nederland \u2013 Breda & West-Brabant Urban Hub",
+  "flag": "\ud83c\uddf3\ud83c\uddf1",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "iDEAL, Apple Pay, Google Pay, Bancontact, Kaarten, PayPal",
+  "pro": "Buma/Stemra",
+  "proFullName": "Vereniging Buma en Stichting Stemra (Buma/Stemra)",
+  "proGuide": "100% Buma/Stemra goedgekeurd voor commerci\u00eble release.",
+  "headline": "Breda Beats Kopen: Zomerse Urban Bounces, Trap & Melodische Hiphop",
+  "description": "Zomerse melodie\u00ebn en pompende beats voor artiesten in Breda, Roosendaal en West-Brabant.",
+  "popularGenres": [
+    "Zomerse Urban",
+    "Breda Trap",
+    "Melodische Hiphop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Mag ik nummers opgenomen met deze beats uitbrengen op Spotify, Apple Music en YouTube in Nederland \u2013 Breda & West-Brabant Urban Hub?",
+      "answer": "Ja, 100%! Alle WAV- en MP3-licenties van Different Type of Vibe bevatten volledige commerci\u00eble streamingrechten voor Spotify, Apple Music, YouTube, Deezer, TikTok en Nederlandse radio. Je behoudt 100% van je artiesten master-royalties."
+    },
+    {
+      "question": "Zijn de beats 100% Buma/Stemra goedgekeurd en sample-cleared in Nederland?",
+      "answer": "Ja! Alle instrumentals zijn originele composities geproduceerd door Onzieb. Er zijn geen ongeklaarde samples van derden gebruikt. Je kunt je tekst en uitvoering zorgeloos aanmelden bij Buma/Stemra."
+    },
+    {
+      "question": "Welke betaalmethoden worden ondersteund in Nederland?",
+      "answer": "Je kunt direct en vertrouwd betalen via iDEAL, Apple Pay, Google Pay, Bancontact, Creditcard (Visa, Mastercard), PayPal en Stripe."
+    },
+    {
+      "question": "Hoe snel ontvang ik de ungetagde studio bestanden?",
+      "answer": "Direct na de betaling worden de ungetagde 24-bit studio WAV-bestanden, de hoge kwaliteit MP3-versie en het rechtsgeldig ondertekende PDF-licentiecontract automatisch naar je e-mailadres verzonden."
+    }
+  ]
+},
 };
