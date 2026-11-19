@@ -19129,4 +19129,1438 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "1"
   ]
 },
+  {
+  "slug": "kean-kavanagh-co-founders-soulful-indie-rap",
+  "name": "Kean Kavanagh Soulful Indie Rap",
+  "category": "vibe",
+  "badge": "Soft Boy Co-Founder",
+  "headline": "Kean Kavanagh Style Beats: Soulful Acoustic Guitars, Warm Bass & Indie-Hop",
+  "description": "Lush and intimate Dublin production: organic electric guitar plucks, warm acoustic bass, and laid-back unhurried drum grooves.",
+  "targetArtists": [
+    "Kean Kavanagh",
+    "Kojaque",
+    "Soft Boy Records"
+  ],
+  "recommendedBpm": "85-95 BPM",
+  "recommendedKey": "G-Major / E-Minor",
+  "vibeAttributes": [
+    "Organic Guitar",
+    "Warm Bass",
+    "Indie Hop",
+    "Soulful Grooves"
+  ],
+  "popularGenres": [
+    "Indie Rap",
+    "Lo-Fi Hip Hop",
+    "Alternative"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "luka-palm-san-diego-dublin-trap",
+  "name": "Luka Palm Dublin Trap Energy",
+  "category": "vibe",
+  "badge": "Dublin Trap Energy",
+  "headline": "Luka Palm Style Beats: Fast Dublin Energy, Punchy 808s & Cold Flow",
+  "description": "High-octane city sound: aggressive hi-hat rolls, snapping snares, and punchy 808s built for fast, confident Dublin cadence.",
+  "targetArtists": [
+    "Luka Palm",
+    "Kojaque",
+    "San Diego Suburbs"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Punchy 808",
+    "Cold Flow",
+    "Fast Energy",
+    "Snapping Snares"
+  ],
+  "popularGenres": [
+    "Dublin Trap",
+    "Irish Rap",
+    "Street Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "jYellowL-fifa-soundtrack-afro-irish-drill",
+  "name": "JyellowL FIFA Soundtrack Afro-Irish Drill",
+  "category": "vibe",
+  "badge": "FIFA Soundtrack Vibe",
+  "headline": "JyellowL Style Beats: International Afro-Irish Flow, Bold Horns & Drill Bounce",
+  "description": "Stadium-ready international sound: majestic brass horns, driving afro-drill drums, and relentless rhythmic momentum.",
+  "targetArtists": [
+    "JyellowL",
+    "FIFA Soundtrack",
+    "Ozone"
+  ],
+  "recommendedBpm": "138-144 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Stadium Brass",
+    "Afro-Drill Bounce",
+    "International Sound",
+    "Punchy Flow"
+  ],
+  "popularGenres": [
+    "Afro-Irish Drill",
+    "Stadium Trap",
+    "Irish Rap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "muRli-narolane-cinematic-african-irish-hiphop",
+  "name": "MuRli Narolane Cinematic Afro-Irish Rap",
+  "category": "vibe",
+  "badge": "Narolane Cinematic Vibe",
+  "headline": "MuRli Style Beats: Cinematic African Percussion, Sweeping Strings & Conscious Rap",
+  "description": "Grand, cinematic storytelling: rich orchestral string sections, authentic African djembe rhythms, and deep conscious trap bass.",
+  "targetArtists": [
+    "MuRli",
+    "Narolane",
+    "Denise Chaila",
+    "God Knows"
+  ],
+  "recommendedBpm": "95-125 BPM",
+  "recommendedKey": "E-Minor / B-Minor",
+  "vibeAttributes": [
+    "African Percussion",
+    "Cinematic Strings",
+    "Conscious Rap",
+    "Narolane Sound"
+  ],
+  "popularGenres": [
+    "Cinematic Rap",
+    "Afro-Irish Hip Hop",
+    "Lyrical Trap"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "god-knows-px-music-high-energy-grime-trap",
+  "name": "God Knows PX Music Grime-Trap Energy",
+  "category": "vibe",
+  "badge": "PX Music Energy",
+  "headline": "God Knows Style Beats: Electric Grime Cadence, Piercing Snares & Relentless 140",
+  "description": "Explosive stage energy: lightning-fast 140 BPM grime percussion, distorted 808 stabs, and razor-sharp hi-hat sequences.",
+  "targetArtists": [
+    "God Knows",
+    "PX Music",
+    "Rusangano Family"
+  ],
+  "recommendedBpm": "140 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Grime Energy",
+    "Piercing Snares",
+    "Relentless 140",
+    "Distorted Stabs"
+  ],
+  "popularGenres": [
+    "Grime-Trap",
+    "Irish Rap",
+    "PX Music Sound"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "lankum-dark-folk-droning-trap-fusion",
+  "name": "Lankum Dark Folk Droning Trap Fusion",
+  "category": "vibe",
+  "badge": "Dark Folk-Trap Vibe",
+  "headline": "Lankum Style Beats: Dark Droning Folk, Hurdy-Gurdy Textures & Heavy 808 Sub-Bass",
+  "description": "Haunting, intense, and monumental: drone soundscapes, ancient Irish folk atmosphere, and apocalyptic low-end 808 sub-bass.",
+  "targetArtists": [
+    "Lankum",
+    "Radie Peat",
+    "The Scratch Crossover"
+  ],
+  "recommendedBpm": "120-130 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Droning Folk",
+    "Haunting Atmosphere",
+    "Apocalyptic 808",
+    "Ancient Spirit"
+  ],
+  "popularGenres": [
+    "Dark Folk Trap",
+    "Experimental Trap",
+    "Celtic Fusion"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "malaki-dublin-spoken-word-boombap",
+  "name": "Malaki Dublin Spoken Word Boombap",
+  "category": "vibe",
+  "badge": "Dublin Spoken Word",
+  "headline": "Malaki Style Beats: Heartfelt Spoken Word, Acoustic Pianos & Dublin Storytelling",
+  "description": "Emotional and vulnerable: intimate upright piano chords, subtle vinyl static, and dynamic drums supporting candid Irish lyricism.",
+  "targetArtists": [
+    "Malaki",
+    "Matthew Harris",
+    "Dublin Spoken Word"
+  ],
+  "recommendedBpm": "85-92 BPM",
+  "recommendedKey": "F-Major / D-Minor",
+  "vibeAttributes": [
+    "Upright Piano",
+    "Emotional Storytelling",
+    "Spoken Word",
+    "Dynamic Drums"
+  ],
+  "popularGenres": [
+    "Spoken Word Hip Hop",
+    "Dublin Rap",
+    "Acoustic Boombap"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "teb-sound-dublin-drill-bounce",
+  "name": "TEB Sound Dublin Drill Bounce",
+  "category": "vibe",
+  "badge": "Dublin Drill Bounce",
+  "headline": "T.E.B. Style Beats: Dublin Drill Bounce, Sliding Sub-Bass & Fast Cadence",
+  "description": "Aggressive street momentum: fast sliding 808 notes, syncopated snare rolls, and menacing synth leads.",
+  "targetArtists": [
+    "T.E.B.",
+    "Dublin Drillers",
+    "A92 Crossover"
+  ],
+  "recommendedBpm": "142-145 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Sliding Sub-Bass",
+    "Fast Cadence",
+    "Syncopated Snares",
+    "Menacing Leads"
+  ],
+  "popularGenres": [
+    "Irish Drill",
+    "Hardcore Trap",
+    "Dublin Street"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "sello-gaelic-drill-celtic-fusion",
+  "name": "Selló Gaelic Drill Celtic Fusion",
+  "category": "vibe",
+  "badge": "Gaelic Drill Pioneer",
+  "headline": "Selló Style Beats: Gaelic Drill, Traditional Whistle Loops & Afro-Irish Bounce",
+  "description": "The sound of modern Ireland: infectious whistle and trad accordion hooks over bouncy drill drums and sliding 808 glides.",
+  "targetArtists": [
+    "Selló",
+    "Dublin",
+    "Gaelic Drill"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / A-Minor",
+  "vibeAttributes": [
+    "Gaelic Drill",
+    "Trad Whistle",
+    "Afro-Irish Bounce",
+    "Sliding 808s"
+  ],
+  "popularGenres": [
+    "Gaelic Drill",
+    "Celtic Trap",
+    "Irish Hip Hop"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "chubby-cat-alternative-dark-pop-trap",
+  "name": "Chubby Cat Alternative Dark Pop Trap",
+  "category": "vibe",
+  "badge": "Dark Pop-Trap Vibe",
+  "headline": "Chubby Cat Style Beats: Alternative Dark Pop-Trap, Distorted 808s & Haunting Vocals",
+  "description": "Bold, punchy, and atmospheric: distorted bass synths, eerie vocal chop textures, and dark pop-trap drum patterns.",
+  "targetArtists": [
+    "Chubby Cat",
+    "Bitchin",
+    "Irish Alt-Pop"
+  ],
+  "recommendedBpm": "120-130 BPM",
+  "recommendedKey": "C-Minor / E-Minor",
+  "vibeAttributes": [
+    "Distorted 808",
+    "Dark Pop Trap",
+    "Haunting Chops",
+    "Punchy Drums"
+  ],
+  "popularGenres": [
+    "Dark Pop Trap",
+    "Alternative R&B",
+    "Irish Underground"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "strange-boy-limerick-gritty-poetry",
+  "name": "Strange Boy Limerick Gritty Poetry",
+  "category": "vibe",
+  "badge": "Bodhrán Poetry Vibe",
+  "headline": "Strange Boy Style Beats: Bodhrán Rhythms, Intense Irish Poetry & Raw Energy",
+  "description": "Traditional Irish frame drums (Bodhrán) combined with heavy trap bass, eerie strings, and intense lyrical space.",
+  "targetArtists": [
+    "Strange Boy",
+    "Holy Cow",
+    "Limerick Rap"
+  ],
+  "recommendedBpm": "90-96 BPM / 135 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Bodhrán Drums",
+    "Irish Poetry",
+    "Raw Energy",
+    "Eerie Strings"
+  ],
+  "popularGenres": [
+    "Trad Hip Hop",
+    "Limerick Poetry",
+    "Irish Rap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "sweetlemondae-bright-afro-pop-rap-bounce",
+  "name": "Sweetlemondae Bright Afro Pop Rap",
+  "category": "vibe",
+  "badge": "Bright Afro-Rap Vibe",
+  "headline": "Sweetlemondae Style Beats: Joyful Horns, Summer Afro-Pop Bounce & Catchy Flow",
+  "description": "Infectious feel-good energy: bright brass stabs, warm acoustic guitars, and bouncy afro-pop drums for uplifting radio-ready singles.",
+  "targetArtists": [
+    "Sweetlemondae",
+    "Turn The World",
+    "Irish Afro-Pop"
+  ],
+  "recommendedBpm": "112-122 BPM",
+  "recommendedKey": "G-Major / C-Major",
+  "vibeAttributes": [
+    "Joyful Horns",
+    "Afro-Pop Bounce",
+    "Summer Energy",
+    "Catchy Flow"
+  ],
+  "popularGenres": [
+    "Afro-Pop Rap",
+    "Melodic Hip Hop",
+    "Feel-Good Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "affordable-irish-rap-beats-revolut",
+  "name": "Affordable Irish Rap Beats (Pay with Revolut)",
+  "category": "genre",
+  "badge": "Affordable EUR Beats",
+  "headline": "Affordable Rap Beats for Irish Artists: Pay with Revolut in EUR (€), Studio Quality WAV",
+  "description": "Premium commercial beats directly from producer Onzieb without middleman markups. Pay in seconds with Revolut or Irish debit cards.",
+  "targetArtists": [
+    "Independent Irish Rappers",
+    "Belfast Artists",
+    "Students"
+  ],
+  "recommendedBpm": "All Tempos",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Affordable EUR",
+    "Revolut Pay",
+    "No Middleman",
+    "WAV Leases"
+  ],
+  "popularGenres": [
+    "Irish Drill",
+    "Trap",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "gaelic-drill-type-beats-sello-style",
+  "name": "Gaelic Drill Type Beats (Selló Style)",
+  "category": "genre",
+  "badge": "Gaelic Drill Beats",
+  "headline": "Gaelic Drill Type Beats: Traditional Whistle Loops, Sliding 808s & Stems",
+  "description": "Authentic Irish drill fused with traditional instrumentation: whistle melodies, sliding 808s, and bouncy drums ready for bilingual flows.",
+  "targetArtists": [
+    "Selló Fans",
+    "Gaelic Drillers",
+    "Bilingual Artists"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / A-Minor",
+  "vibeAttributes": [
+    "Trad Whistle",
+    "Gaelic Drill",
+    "Sliding 808",
+    "Multitrack Stems"
+  ],
+  "popularGenres": [
+    "Gaelic Drill",
+    "Celtic Trap",
+    "Irish Rap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "dublin-studio-ready-multitrack-wav-leases",
+  "name": "Dublin Studio Ready Multitrack WAV Leases",
+  "category": "genre",
+  "badge": "Studio WAV Stems",
+  "headline": "Dublin Studio-Grade Beat Leases: 24-bit WAV & Full Trackout Stems Included",
+  "description": "Pristine audio fidelity designed for Dublin recording studios like Windmill Lane, Sun Studios, and Camden Recording.",
+  "targetArtists": [
+    "Mixing Engineers",
+    "Recording Artists",
+    "Dublin Producers"
+  ],
+  "recommendedBpm": "90-144 BPM",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Trackout Stems",
+    "24-bit WAV",
+    "Headroom -6dB",
+    "Studio Standard"
+  ],
+  "popularGenres": [
+    "Trap",
+    "Boom Bap",
+    "Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1",
+    "6"
+  ]
+},
+  {
+  "slug": "rte-2fm-radio-ready-hip-hop-instrumentals",
+  "name": "RTÉ 2FM Radio Ready Hip-Hop Instrumentals",
+  "category": "genre",
+  "badge": "RTÉ 2FM Airplay Ready",
+  "headline": "Radio-Ready Beats for RTÉ 2FM Airplay: Commercial Clearance & Choice Prize Potential",
+  "description": "Fully cleared for commercial broadcasting on RTÉ 2FM, Spin 1038, and Today FM with zero sample copyright disputes.",
+  "targetArtists": [
+    "Commercial Artists",
+    "Radio-Focused Rappers",
+    "Vocalists"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Radio Ready",
+    "Airplay Cleared",
+    "RTÉ 2FM Safe",
+    "100% Royalty Retention"
+  ],
+  "popularGenres": [
+    "Melodic Trap",
+    "Pop Rap",
+    "Afro-Irish Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2",
+    "5"
+  ]
+},
+  {
+  "slug": "custom-beat-production-ireland-producer",
+  "name": "Custom Beat Production Ireland (Direct with Producer)",
+  "category": "genre",
+  "badge": "Custom Beat Service",
+  "headline": "Custom Beat Production in Ireland: Work Directly with Producer Onzieb",
+  "description": "Need an original custom beat crafted around your vocal tone, key, and lyrical concept? Direct consultation and dedicated production.",
+  "targetArtists": [
+    "Album Artists",
+    "Label Signees",
+    "Serious Creators"
+  ],
+  "recommendedBpm": "Custom BPM",
+  "recommendedKey": "Custom Key",
+  "vibeAttributes": [
+    "Custom Production",
+    "Exclusive Option",
+    "Direct Contact",
+    "Tailored Mix"
+  ],
+  "popularGenres": [
+    "Custom Drill",
+    "Custom Trap",
+    "Custom Boombap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "exclusive-rights-beats-ireland-imro-pdf",
+  "name": "Exclusive Rights Beats Ireland (IMRO Legal Agreement)",
+  "category": "genre",
+  "badge": "Exclusive Rights",
+  "headline": "Exclusive Rights Beats in Ireland: 100% Sole Ownership & Removed from Store",
+  "description": "Acquire full exclusive ownership of the master recording. The beat is immediately removed from the store and legally assigned to you.",
+  "targetArtists": [
+    "Label Artists",
+    "Funded Projects",
+    "Managers"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Exclusive Rights",
+    "Removed from Store",
+    "Full Ownership",
+    "Master Rights"
+  ],
+  "popularGenres": [
+    "Irish Drill",
+    "Trap",
+    "Pop Rap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "bodhran-and-fiddle-trap-fusion-beats",
+  "name": "Bodhrán and Fiddle Trap Fusion Beats",
+  "category": "genre",
+  "badge": "Bodhrán Trad-Trap",
+  "headline": "Bodhrán and Fiddle Trap Beats: Authentic Irish Folk Instruments with 808s",
+  "description": "The pulse of Ireland: traditional bodhrán frame drums, expressive fiddle melodies, and deep sub-bass trap production.",
+  "targetArtists": [
+    "Trad Rap Artists",
+    "Strange Boy Fans",
+    "Celtic Rappers"
+  ],
+  "recommendedBpm": "95-138 BPM",
+  "recommendedKey": "E-Minor / D-Minor",
+  "vibeAttributes": [
+    "Bodhrán Drums",
+    "Trad Fiddle",
+    "Celtic Energy",
+    "Deep Sub-Bass"
+  ],
+  "popularGenres": [
+    "Celtic Trap",
+    "Trad Fusion",
+    "Irish Hip Hop"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "7"
+  ]
+},
+  {
+  "slug": "irish-rap-beat-bundle-discount-2-for-1",
+  "name": "Irish Rap Beat Bundle Discount (Buy 2 Get 1 Free)",
+  "category": "genre",
+  "badge": "Bundle Discount",
+  "headline": "Irish Beat Bundle Promo: Buy 2 Beats, Get 1 Additional Beat Free (EUR)",
+  "description": "Produce your entire EP or mixtape affordably. Automatic cart discount applied with full commercial WAV licenses and PDF contracts.",
+  "targetArtists": [
+    "Mixtape Creators",
+    "EP Artists",
+    "Groups"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Buy 2 Get 1 Free",
+    "Automatic Discount",
+    "WAV Files",
+    "EUR Savings"
+  ],
+  "popularGenres": [
+    "Irish Drill",
+    "Trap",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6"
+  ]
+},
+  {
+  "slug": "indie-irish-hip-hop-type-beats-windmill-lane",
+  "name": "Indie Irish Hip Hop Type Beats (Windmill Lane Ready)",
+  "category": "genre",
+  "badge": "Windmill Lane Ready",
+  "headline": "Indie Irish Hip-Hop Beats: Warm Acoustic Textures & Live Drum Feel",
+  "description": "Organic, thoughtful beats built for alternative Irish hip hop: acoustic piano chords, warm room reverberations, and live-feel drums.",
+  "targetArtists": [
+    "Indie Rappers",
+    "Alternative Creators",
+    "Spoken Word"
+  ],
+  "recommendedBpm": "88-115 BPM",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Acoustic Textures",
+    "Live Drum Feel",
+    "Warm Rooms",
+    "Indie Hop"
+  ],
+  "popularGenres": [
+    "Indie Rap",
+    "Lo-Fi Hip Hop",
+    "Alternative"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "home-studio-vocal-recording-beats-ireland",
+  "name": "Home Studio Vocal Recording Beats Ireland",
+  "category": "genre",
+  "badge": "Home Studio Beats",
+  "headline": "Home Studio Vocal Recording Beats: Balanced Mix & Clear Vocal Frequencies",
+  "description": "Engineered specifically for condenser and dynamic home microphones: carved-out midrange frequencies giving your voice natural cut and punch.",
+  "targetArtists": [
+    "Home Recorders",
+    "Bedroom Artists",
+    "Vocalists"
+  ],
+  "recommendedBpm": "90-140 BPM",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Vocal Space",
+    "Carved Midrange",
+    "Home Studio",
+    "Clear Punch"
+  ],
+  "popularGenres": [
+    "Trap",
+    "Boom Bap",
+    "Drill"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "6",
+    "7"
+  ]
+},
+  {
+  "slug": "derry-irish-drill-beats",
+  "name": "Derry City Irish Drill Beats",
+  "category": "scene",
+  "badge": "Derry City Irish Drill",
+  "headline": "Derry City (North West) Irish Drill Beats: Studio WAV & Revolut Pay",
+  "description": "Heavy sliding 808 glides and studio 24-bit WAV quality tailored for drill artists from Derry City.",
+  "targetArtists": [
+    "Derry City Rappers",
+    "Irish Hip Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Derry City",
+    "Irish Drill",
+    "Revolut Pay",
+    "IMRO Cleared"
+  ],
+  "popularGenres": [
+    "Irish Drill Beats",
+    "Irish Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "derry-melodic-celtic-trap",
+  "name": "Derry City Melodic Celtic Trap",
+  "category": "scene",
+  "badge": "Derry City Celtic Trap",
+  "headline": "Derry City (North West) Melodic Celtic Trap: Studio WAV & Revolut Pay",
+  "description": "Traditional whistle and acoustic guitar textures combined with modern 808 trap drums for Derry City wordsmiths.",
+  "targetArtists": [
+    "Derry City Rappers",
+    "Irish Hip Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "E-Minor / A-Minor",
+  "vibeAttributes": [
+    "Derry City",
+    "Celtic Trap",
+    "Revolut Pay",
+    "IMRO Cleared"
+  ],
+  "popularGenres": [
+    "Melodic Celtic Trap",
+    "Irish Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "derry-dublin-lofi-boombap",
+  "name": "Derry City Dublin Lo-Fi Boombap",
+  "category": "scene",
+  "badge": "Derry City Soft Boy Lo-Fi",
+  "headline": "Derry City (North West) Dublin Lo-Fi Boombap: Studio WAV & Revolut Pay",
+  "description": "Fender Rhodes chords, dusty vinyl drum breaks, and soulful jazz textures for conscious MCs in Derry City.",
+  "targetArtists": [
+    "Derry City Rappers",
+    "Irish Hip Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Derry City",
+    "Soft Boy Lo-Fi",
+    "Revolut Pay",
+    "IMRO Cleared"
+  ],
+  "popularGenres": [
+    "Dublin Lo-Fi Boombap",
+    "Irish Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "derry-irish-rebel-rap",
+  "name": "Derry City Irish Rebel Rap",
+  "category": "scene",
+  "badge": "Derry City Rebel Drill",
+  "headline": "Derry City (North West) Irish Rebel Rap: Studio WAV & Revolut Pay",
+  "description": "High-voltage punk-trap energy, aggressive brass, and bilingual flow space for rebel artists in Derry City.",
+  "targetArtists": [
+    "Derry City Rappers",
+    "Irish Hip Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "135-142 BPM",
+  "recommendedKey": "F-Minor / D-Minor",
+  "vibeAttributes": [
+    "Derry City",
+    "Rebel Drill",
+    "Revolut Pay",
+    "IMRO Cleared"
+  ],
+  "popularGenres": [
+    "Irish Rebel Rap",
+    "Irish Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "sligo-irish-drill-beats",
+  "name": "Sligo Irish Drill Beats",
+  "category": "scene",
+  "badge": "Sligo Irish Drill",
+  "headline": "Sligo (Wild Atlantic Way) Irish Drill Beats: Studio WAV & Revolut Pay",
+  "description": "Heavy sliding 808 glides and studio 24-bit WAV quality tailored for drill artists from Sligo.",
+  "targetArtists": [
+    "Sligo Rappers",
+    "Irish Hip Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Sligo",
+    "Irish Drill",
+    "Revolut Pay",
+    "IMRO Cleared"
+  ],
+  "popularGenres": [
+    "Irish Drill Beats",
+    "Irish Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "sligo-melodic-celtic-trap",
+  "name": "Sligo Melodic Celtic Trap",
+  "category": "scene",
+  "badge": "Sligo Celtic Trap",
+  "headline": "Sligo (Wild Atlantic Way) Melodic Celtic Trap: Studio WAV & Revolut Pay",
+  "description": "Traditional whistle and acoustic guitar textures combined with modern 808 trap drums for Sligo wordsmiths.",
+  "targetArtists": [
+    "Sligo Rappers",
+    "Irish Hip Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "E-Minor / A-Minor",
+  "vibeAttributes": [
+    "Sligo",
+    "Celtic Trap",
+    "Revolut Pay",
+    "IMRO Cleared"
+  ],
+  "popularGenres": [
+    "Melodic Celtic Trap",
+    "Irish Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "sligo-dublin-lofi-boombap",
+  "name": "Sligo Dublin Lo-Fi Boombap",
+  "category": "scene",
+  "badge": "Sligo Soft Boy Lo-Fi",
+  "headline": "Sligo (Wild Atlantic Way) Dublin Lo-Fi Boombap: Studio WAV & Revolut Pay",
+  "description": "Fender Rhodes chords, dusty vinyl drum breaks, and soulful jazz textures for conscious MCs in Sligo.",
+  "targetArtists": [
+    "Sligo Rappers",
+    "Irish Hip Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Sligo",
+    "Soft Boy Lo-Fi",
+    "Revolut Pay",
+    "IMRO Cleared"
+  ],
+  "popularGenres": [
+    "Dublin Lo-Fi Boombap",
+    "Irish Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "sligo-irish-rebel-rap",
+  "name": "Sligo Irish Rebel Rap",
+  "category": "scene",
+  "badge": "Sligo Rebel Drill",
+  "headline": "Sligo (Wild Atlantic Way) Irish Rebel Rap: Studio WAV & Revolut Pay",
+  "description": "High-voltage punk-trap energy, aggressive brass, and bilingual flow space for rebel artists in Sligo.",
+  "targetArtists": [
+    "Sligo Rappers",
+    "Irish Hip Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "135-142 BPM",
+  "recommendedKey": "F-Minor / D-Minor",
+  "vibeAttributes": [
+    "Sligo",
+    "Rebel Drill",
+    "Revolut Pay",
+    "IMRO Cleared"
+  ],
+  "popularGenres": [
+    "Irish Rebel Rap",
+    "Irish Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "athlone-midlands-irish-drill-beats",
+  "name": "Athlone Irish Drill Beats",
+  "category": "scene",
+  "badge": "Athlone Irish Drill",
+  "headline": "Athlone (The Midlands) Irish Drill Beats: Studio WAV & Revolut Pay",
+  "description": "Heavy sliding 808 glides and studio 24-bit WAV quality tailored for drill artists from Athlone.",
+  "targetArtists": [
+    "Athlone Rappers",
+    "Irish Hip Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Athlone",
+    "Irish Drill",
+    "Revolut Pay",
+    "IMRO Cleared"
+  ],
+  "popularGenres": [
+    "Irish Drill Beats",
+    "Irish Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "athlone-midlands-melodic-celtic-trap",
+  "name": "Athlone Melodic Celtic Trap",
+  "category": "scene",
+  "badge": "Athlone Celtic Trap",
+  "headline": "Athlone (The Midlands) Melodic Celtic Trap: Studio WAV & Revolut Pay",
+  "description": "Traditional whistle and acoustic guitar textures combined with modern 808 trap drums for Athlone wordsmiths.",
+  "targetArtists": [
+    "Athlone Rappers",
+    "Irish Hip Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "E-Minor / A-Minor",
+  "vibeAttributes": [
+    "Athlone",
+    "Celtic Trap",
+    "Revolut Pay",
+    "IMRO Cleared"
+  ],
+  "popularGenres": [
+    "Melodic Celtic Trap",
+    "Irish Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "athlone-midlands-dublin-lofi-boombap",
+  "name": "Athlone Dublin Lo-Fi Boombap",
+  "category": "scene",
+  "badge": "Athlone Soft Boy Lo-Fi",
+  "headline": "Athlone (The Midlands) Dublin Lo-Fi Boombap: Studio WAV & Revolut Pay",
+  "description": "Fender Rhodes chords, dusty vinyl drum breaks, and soulful jazz textures for conscious MCs in Athlone.",
+  "targetArtists": [
+    "Athlone Rappers",
+    "Irish Hip Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Athlone",
+    "Soft Boy Lo-Fi",
+    "Revolut Pay",
+    "IMRO Cleared"
+  ],
+  "popularGenres": [
+    "Dublin Lo-Fi Boombap",
+    "Irish Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "athlone-midlands-irish-rebel-rap",
+  "name": "Athlone Irish Rebel Rap",
+  "category": "scene",
+  "badge": "Athlone Rebel Drill",
+  "headline": "Athlone (The Midlands) Irish Rebel Rap: Studio WAV & Revolut Pay",
+  "description": "High-voltage punk-trap energy, aggressive brass, and bilingual flow space for rebel artists in Athlone.",
+  "targetArtists": [
+    "Athlone Rappers",
+    "Irish Hip Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "135-142 BPM",
+  "recommendedKey": "F-Minor / D-Minor",
+  "vibeAttributes": [
+    "Athlone",
+    "Rebel Drill",
+    "Revolut Pay",
+    "IMRO Cleared"
+  ],
+  "popularGenres": [
+    "Irish Rebel Rap",
+    "Irish Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "kilkenny-irish-drill-beats",
+  "name": "Kilkenny Irish Drill Beats",
+  "category": "scene",
+  "badge": "Kilkenny Irish Drill",
+  "headline": "Kilkenny (Marble City) Irish Drill Beats: Studio WAV & Revolut Pay",
+  "description": "Heavy sliding 808 glides and studio 24-bit WAV quality tailored for drill artists from Kilkenny.",
+  "targetArtists": [
+    "Kilkenny Rappers",
+    "Irish Hip Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Kilkenny",
+    "Irish Drill",
+    "Revolut Pay",
+    "IMRO Cleared"
+  ],
+  "popularGenres": [
+    "Irish Drill Beats",
+    "Irish Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "kilkenny-melodic-celtic-trap",
+  "name": "Kilkenny Melodic Celtic Trap",
+  "category": "scene",
+  "badge": "Kilkenny Celtic Trap",
+  "headline": "Kilkenny (Marble City) Melodic Celtic Trap: Studio WAV & Revolut Pay",
+  "description": "Traditional whistle and acoustic guitar textures combined with modern 808 trap drums for Kilkenny wordsmiths.",
+  "targetArtists": [
+    "Kilkenny Rappers",
+    "Irish Hip Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "E-Minor / A-Minor",
+  "vibeAttributes": [
+    "Kilkenny",
+    "Celtic Trap",
+    "Revolut Pay",
+    "IMRO Cleared"
+  ],
+  "popularGenres": [
+    "Melodic Celtic Trap",
+    "Irish Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "kilkenny-dublin-lofi-boombap",
+  "name": "Kilkenny Dublin Lo-Fi Boombap",
+  "category": "scene",
+  "badge": "Kilkenny Soft Boy Lo-Fi",
+  "headline": "Kilkenny (Marble City) Dublin Lo-Fi Boombap: Studio WAV & Revolut Pay",
+  "description": "Fender Rhodes chords, dusty vinyl drum breaks, and soulful jazz textures for conscious MCs in Kilkenny.",
+  "targetArtists": [
+    "Kilkenny Rappers",
+    "Irish Hip Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Kilkenny",
+    "Soft Boy Lo-Fi",
+    "Revolut Pay",
+    "IMRO Cleared"
+  ],
+  "popularGenres": [
+    "Dublin Lo-Fi Boombap",
+    "Irish Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "kilkenny-irish-rebel-rap",
+  "name": "Kilkenny Irish Rebel Rap",
+  "category": "scene",
+  "badge": "Kilkenny Rebel Drill",
+  "headline": "Kilkenny (Marble City) Irish Rebel Rap: Studio WAV & Revolut Pay",
+  "description": "High-voltage punk-trap energy, aggressive brass, and bilingual flow space for rebel artists in Kilkenny.",
+  "targetArtists": [
+    "Kilkenny Rappers",
+    "Irish Hip Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "135-142 BPM",
+  "recommendedKey": "F-Minor / D-Minor",
+  "vibeAttributes": [
+    "Kilkenny",
+    "Rebel Drill",
+    "Revolut Pay",
+    "IMRO Cleared"
+  ],
+  "popularGenres": [
+    "Irish Rebel Rap",
+    "Irish Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "ennis-clare-irish-drill-beats",
+  "name": "Ennis Irish Drill Beats",
+  "category": "scene",
+  "badge": "Ennis Irish Drill",
+  "headline": "Ennis (County Clare) Irish Drill Beats: Studio WAV & Revolut Pay",
+  "description": "Heavy sliding 808 glides and studio 24-bit WAV quality tailored for drill artists from Ennis.",
+  "targetArtists": [
+    "Ennis Rappers",
+    "Irish Hip Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Ennis",
+    "Irish Drill",
+    "Revolut Pay",
+    "IMRO Cleared"
+  ],
+  "popularGenres": [
+    "Irish Drill Beats",
+    "Irish Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "ennis-clare-melodic-celtic-trap",
+  "name": "Ennis Melodic Celtic Trap",
+  "category": "scene",
+  "badge": "Ennis Celtic Trap",
+  "headline": "Ennis (County Clare) Melodic Celtic Trap: Studio WAV & Revolut Pay",
+  "description": "Traditional whistle and acoustic guitar textures combined with modern 808 trap drums for Ennis wordsmiths.",
+  "targetArtists": [
+    "Ennis Rappers",
+    "Irish Hip Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "E-Minor / A-Minor",
+  "vibeAttributes": [
+    "Ennis",
+    "Celtic Trap",
+    "Revolut Pay",
+    "IMRO Cleared"
+  ],
+  "popularGenres": [
+    "Melodic Celtic Trap",
+    "Irish Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "ennis-clare-dublin-lofi-boombap",
+  "name": "Ennis Dublin Lo-Fi Boombap",
+  "category": "scene",
+  "badge": "Ennis Soft Boy Lo-Fi",
+  "headline": "Ennis (County Clare) Dublin Lo-Fi Boombap: Studio WAV & Revolut Pay",
+  "description": "Fender Rhodes chords, dusty vinyl drum breaks, and soulful jazz textures for conscious MCs in Ennis.",
+  "targetArtists": [
+    "Ennis Rappers",
+    "Irish Hip Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Ennis",
+    "Soft Boy Lo-Fi",
+    "Revolut Pay",
+    "IMRO Cleared"
+  ],
+  "popularGenres": [
+    "Dublin Lo-Fi Boombap",
+    "Irish Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "ennis-clare-irish-rebel-rap",
+  "name": "Ennis Irish Rebel Rap",
+  "category": "scene",
+  "badge": "Ennis Rebel Drill",
+  "headline": "Ennis (County Clare) Irish Rebel Rap: Studio WAV & Revolut Pay",
+  "description": "High-voltage punk-trap energy, aggressive brass, and bilingual flow space for rebel artists in Ennis.",
+  "targetArtists": [
+    "Ennis Rappers",
+    "Irish Hip Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "135-142 BPM",
+  "recommendedKey": "F-Minor / D-Minor",
+  "vibeAttributes": [
+    "Ennis",
+    "Rebel Drill",
+    "Revolut Pay",
+    "IMRO Cleared"
+  ],
+  "popularGenres": [
+    "Irish Rebel Rap",
+    "Irish Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "tralee-kerry-irish-drill-beats",
+  "name": "Tralee Irish Drill Beats",
+  "category": "scene",
+  "badge": "Tralee Irish Drill",
+  "headline": "Tralee (The Kingdom) Irish Drill Beats: Studio WAV & Revolut Pay",
+  "description": "Heavy sliding 808 glides and studio 24-bit WAV quality tailored for drill artists from Tralee.",
+  "targetArtists": [
+    "Tralee Rappers",
+    "Irish Hip Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Tralee",
+    "Irish Drill",
+    "Revolut Pay",
+    "IMRO Cleared"
+  ],
+  "popularGenres": [
+    "Irish Drill Beats",
+    "Irish Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "tralee-kerry-melodic-celtic-trap",
+  "name": "Tralee Melodic Celtic Trap",
+  "category": "scene",
+  "badge": "Tralee Celtic Trap",
+  "headline": "Tralee (The Kingdom) Melodic Celtic Trap: Studio WAV & Revolut Pay",
+  "description": "Traditional whistle and acoustic guitar textures combined with modern 808 trap drums for Tralee wordsmiths.",
+  "targetArtists": [
+    "Tralee Rappers",
+    "Irish Hip Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "E-Minor / A-Minor",
+  "vibeAttributes": [
+    "Tralee",
+    "Celtic Trap",
+    "Revolut Pay",
+    "IMRO Cleared"
+  ],
+  "popularGenres": [
+    "Melodic Celtic Trap",
+    "Irish Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "tralee-kerry-dublin-lofi-boombap",
+  "name": "Tralee Dublin Lo-Fi Boombap",
+  "category": "scene",
+  "badge": "Tralee Soft Boy Lo-Fi",
+  "headline": "Tralee (The Kingdom) Dublin Lo-Fi Boombap: Studio WAV & Revolut Pay",
+  "description": "Fender Rhodes chords, dusty vinyl drum breaks, and soulful jazz textures for conscious MCs in Tralee.",
+  "targetArtists": [
+    "Tralee Rappers",
+    "Irish Hip Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Tralee",
+    "Soft Boy Lo-Fi",
+    "Revolut Pay",
+    "IMRO Cleared"
+  ],
+  "popularGenres": [
+    "Dublin Lo-Fi Boombap",
+    "Irish Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "tralee-kerry-irish-rebel-rap",
+  "name": "Tralee Irish Rebel Rap",
+  "category": "scene",
+  "badge": "Tralee Rebel Drill",
+  "headline": "Tralee (The Kingdom) Irish Rebel Rap: Studio WAV & Revolut Pay",
+  "description": "High-voltage punk-trap energy, aggressive brass, and bilingual flow space for rebel artists in Tralee.",
+  "targetArtists": [
+    "Tralee Rappers",
+    "Irish Hip Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "135-142 BPM",
+  "recommendedKey": "F-Minor / D-Minor",
+  "vibeAttributes": [
+    "Tralee",
+    "Rebel Drill",
+    "Revolut Pay",
+    "IMRO Cleared"
+  ],
+  "popularGenres": [
+    "Irish Rebel Rap",
+    "Irish Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
 ];
