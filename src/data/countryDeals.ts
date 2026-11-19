@@ -14186,4 +14186,451 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
     }
   ]
 },
+  "kr/gyeonggi-do": {
+  "name": "South Korea – 경기도 (Gyeonggi-do Studio & K-HipHop Hub)",
+  "flag": "🇰🇷",
+  "currency": "KRW (₩)",
+  "currencyCode": "KRW",
+  "gateways": "카카오페이(KakaoPay), 토스(Toss), 네이버페이, Apple Pay, 신용카드, PayPal, Stripe",
+  "pro": "KOMCA & KOSCAP",
+  "proFullName": "한국음악저작권협회 (KOMCA) & KOSCAP",
+  "proGuide": "100% KOMCA 등록 및 경기콘텐츠진흥원 지원사업 기준 충족. 국내 최대 1400만 인구의 경기도(수원, 성남/분당, 고양/일산, 부천) 음악 스튜디오 및 프로듀서를 위한 최고급 마스터 음원.",
+  "headline": "경기도 K-힙합 비트 구매: 수도권 스튜디오 트랩, 멜로딕 R&B & 원화 결제",
+  "description": "분당, 일산, 수원의 음악 레이블과 레코딩 스튜디오를 위한 프로페셔널 24-bit WAV 마스터 음원 및 스템 데이터. 화려한 피아노 트랩과 최신 808 베이스.",
+  "popularGenres": [
+    "Gyeonggi K-Trap",
+    "수도권 스튜디오 힙합",
+    "멜로딕 R&B",
+    "쇼미더머니 트랩"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Seongsu Urban Hub",
+      "slug": "kr/seongsu",
+      "description": "서울의 브루클린 성수동 트렌디 힙합."
+    },
+    {
+      "name": "Suwon Trap Hub",
+      "slug": "kr/suwon",
+      "description": "경기 남부 중심 수원의 다이내믹 트랩."
+    },
+    {
+      "name": "Ilsan Studio Hub",
+      "slug": "kr/ilsan",
+      "description": "방송과 미디어의 메카 일산 스튜디오 사운드."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "이 비트로 녹음한 곡을 멜론, 지니, Spotify, Apple Music, 유튜브에 정식 음원으로 발매할 수 있나요?",
+      "answer": "네, 100% 가능합니다! Different Type of Vibe의 모든 WAV 및 MP3 라이센스에는 국내외 모든 주요 음원 스트리밍 플랫폼과 유튜브, 틱톡, 방송에서의 상업적 음원 유통 권리가 포함되어 있습니다. 아티스트로서의 스트리밍 및 음원 수익을 100% 보유하실 수 있습니다."
+    },
+    {
+      "question": "비트는 KOMCA & KOSCAP 저작권 등록이 가능한가요?",
+      "answer": "네, 가능합니다! 모든 인스트루멘탈은 프로듀서 Onzieb이 직접 작곡·편곡한 100% 오리지널 마스터 음원이며, 무단 샘플링이 전혀 없습니다. 고객님의 가사와 랩, 보컬 멜로디에 대한 저작인격권 및 저작재산권을 KOMCA & KOSCAP에 정상적으로 등록하실 수 있습니다."
+    },
+    {
+      "question": "한국에서 결제 가능한 수단은 무엇이 있나요?",
+      "answer": "대한민국 원화(₩ / KRW)로 카카오페이(KakaoPay), 토스(Toss), 네이버페이, Apple Pay, 신용카드, PayPal, Stripe을 통해 간편하고 안전하게 즉시 결제하실 수 있습니다."
+    },
+    {
+      "question": "보이스 태그(음성 시그니처)가 없는 마스터 음원은 언제 어떻게 받나요?",
+      "answer": "결제가 완료되는 즉시, 보이스 태그가 완전히 제거된 스튜디오 24-bit WAV 파일, 고음질 MP3 파일, 그리고 법적 효력을 가진 정식 라이센스 계약서 PDF 다운로드 링크가 기재하신 이메일로 자동 발송됩니다."
+    }
+  ]
+},
+  "kr/seongsu": {
+  "name": "South Korea – 서울 성수동 (Seongsu Brooklyn of Seoul)",
+  "flag": "🇰🇷",
+  "currency": "KRW (₩)",
+  "currencyCode": "KRW",
+  "gateways": "카카오페이, 토스, Apple Pay, 신용카드, PayPal",
+  "pro": "KOMCA & KOSCAP",
+  "proFullName": "한국음악저작권협회 (KOMCA)",
+  "proGuide": "100% KOMCA 호환 정식 라이센스.",
+  "headline": "성수동 비트 구매: 트렌디 K-트랩, 감각적인 R&B & 빈티지 붐뱁",
+  "description": "패션과 팝업, 서브컬처가 공존하는 서울의 성수동 감성. 세련된 신디사이저와 따뜻한 아날로그 질감의 비트.",
+  "popularGenres": [
+    "성수 트랩",
+    "트렌디 K-R&B",
+    "빈티지 붐뱁"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "이 비트로 녹음한 곡을 멜론, 지니, Spotify, Apple Music, 유튜브에 정식 음원으로 발매할 수 있나요?",
+      "answer": "네, 100% 가능합니다! Different Type of Vibe의 모든 WAV 및 MP3 라이센스에는 국내외 모든 주요 음원 스트리밍 플랫폼과 유튜브, 틱톡, 방송에서의 상업적 음원 유통 권리가 포함되어 있습니다. 아티스트로서의 스트리밍 및 음원 수익을 100% 보유하실 수 있습니다."
+    },
+    {
+      "question": "비트는 KOMCA & KOSCAP 저작권 등록이 가능한가요?",
+      "answer": "네, 가능합니다! 모든 인스트루멘탈은 프로듀서 Onzieb이 직접 작곡·편곡한 100% 오리지널 마스터 음원이며, 무단 샘플링이 전혀 없습니다. 고객님의 가사와 랩, 보컬 멜로디에 대한 저작인격권 및 저작재산권을 KOMCA & KOSCAP에 정상적으로 등록하실 수 있습니다."
+    },
+    {
+      "question": "한국에서 결제 가능한 수단은 무엇이 있나요?",
+      "answer": "대한민국 원화(₩ / KRW)로 카카오페이, 토스, Apple Pay, 신용카드, PayPal을 통해 간편하고 안전하게 즉시 결제하실 수 있습니다."
+    },
+    {
+      "question": "보이스 태그(음성 시그니처)가 없는 마스터 음원은 언제 어떻게 받나요?",
+      "answer": "결제가 완료되는 즉시, 보이스 태그가 완전히 제거된 스튜디오 24-bit WAV 파일, 고음질 MP3 파일, 그리고 법적 효력을 가진 정식 라이센스 계약서 PDF 다운로드 링크가 기재하신 이메일로 자동 발송됩니다."
+    }
+  ]
+},
+  "kr/apgujeong": {
+  "name": "South Korea – 서울 압구정 & 신사동 (Apgujeong Major Studio)",
+  "flag": "🇰🇷",
+  "currency": "KRW (₩)",
+  "currencyCode": "KRW",
+  "gateways": "카카오페이, 토스, Apple Pay, 신용카드, PayPal",
+  "pro": "KOMCA & KOSCAP",
+  "proFullName": "한국음악저작권협회 (KOMCA)",
+  "proGuide": "100% KOMCA 등록 보장 및 상업적 방송 유통 권리 포함.",
+  "headline": "압구정 비트 구매: 메이저 레이블 퀄리티, 럭셔리 트랩 & K-Pop R&B",
+  "description": "메이저 기획사와 하이엔드 마스터링 스튜디오가 밀집한 압구정 사운드. 완벽히 정제된 고음압 808과 보컬 친화적 믹스.",
+  "popularGenres": [
+    "Apgujeong Major Sound",
+    "럭셔리 K-Trap",
+    "K-Pop 랩 트랙"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "이 비트로 녹음한 곡을 멜론, 지니, Spotify, Apple Music, 유튜브에 정식 음원으로 발매할 수 있나요?",
+      "answer": "네, 100% 가능합니다! Different Type of Vibe의 모든 WAV 및 MP3 라이센스에는 국내외 모든 주요 음원 스트리밍 플랫폼과 유튜브, 틱톡, 방송에서의 상업적 음원 유통 권리가 포함되어 있습니다. 아티스트로서의 스트리밍 및 음원 수익을 100% 보유하실 수 있습니다."
+    },
+    {
+      "question": "비트는 KOMCA & KOSCAP 저작권 등록이 가능한가요?",
+      "answer": "네, 가능합니다! 모든 인스트루멘탈은 프로듀서 Onzieb이 직접 작곡·편곡한 100% 오리지널 마스터 음원이며, 무단 샘플링이 전혀 없습니다. 고객님의 가사와 랩, 보컬 멜로디에 대한 저작인격권 및 저작재산권을 KOMCA & KOSCAP에 정상적으로 등록하실 수 있습니다."
+    },
+    {
+      "question": "한국에서 결제 가능한 수단은 무엇이 있나요?",
+      "answer": "대한민국 원화(₩ / KRW)로 카카오페이, 토스, Apple Pay, 신용카드, PayPal을 통해 간편하고 안전하게 즉시 결제하실 수 있습니다."
+    },
+    {
+      "question": "보이스 태그(음성 시그니처)가 없는 마스터 음원은 언제 어떻게 받나요?",
+      "answer": "결제가 완료되는 즉시, 보이스 태그가 완전히 제거된 스튜디오 24-bit WAV 파일, 고음질 MP3 파일, 그리고 법적 효력을 가진 정식 라이센스 계약서 PDF 다운로드 링크가 기재하신 이메일로 자동 발송됩니다."
+    }
+  ]
+},
+  "kr/suwon": {
+  "name": "South Korea – 수원 & 경기남부 (Suwon Urban Rap)",
+  "flag": "🇰🇷",
+  "currency": "KRW (₩)",
+  "currencyCode": "KRW",
+  "gateways": "카카오페이, 토스, Apple Pay, 신용카드, PayPal",
+  "pro": "KOMCA & KOSCAP",
+  "proFullName": "한국음악저작권협회 (KOMCA)",
+  "proGuide": "100% KOMCA 등록 가능.",
+  "headline": "수원 힙합 비트 구매: 경기남부 스트리트 트랩 & 묵직한 808s",
+  "description": "탄탄한 드럼 그루브와 어두운 멜로디의 결합. 수원의 래퍼와 크루들을 위한 실전 녹음용 비트.",
+  "popularGenres": [
+    "수원 힙합",
+    "경기남부 트랩",
+    "묵직한 808"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "이 비트로 녹음한 곡을 멜론, 지니, Spotify, Apple Music, 유튜브에 정식 음원으로 발매할 수 있나요?",
+      "answer": "네, 100% 가능합니다! Different Type of Vibe의 모든 WAV 및 MP3 라이센스에는 국내외 모든 주요 음원 스트리밍 플랫폼과 유튜브, 틱톡, 방송에서의 상업적 음원 유통 권리가 포함되어 있습니다. 아티스트로서의 스트리밍 및 음원 수익을 100% 보유하실 수 있습니다."
+    },
+    {
+      "question": "비트는 KOMCA & KOSCAP 저작권 등록이 가능한가요?",
+      "answer": "네, 가능합니다! 모든 인스트루멘탈은 프로듀서 Onzieb이 직접 작곡·편곡한 100% 오리지널 마스터 음원이며, 무단 샘플링이 전혀 없습니다. 고객님의 가사와 랩, 보컬 멜로디에 대한 저작인격권 및 저작재산권을 KOMCA & KOSCAP에 정상적으로 등록하실 수 있습니다."
+    },
+    {
+      "question": "한국에서 결제 가능한 수단은 무엇이 있나요?",
+      "answer": "대한민국 원화(₩ / KRW)로 카카오페이, 토스, Apple Pay, 신용카드, PayPal을 통해 간편하고 안전하게 즉시 결제하실 수 있습니다."
+    },
+    {
+      "question": "보이스 태그(음성 시그니처)가 없는 마스터 음원은 언제 어떻게 받나요?",
+      "answer": "결제가 완료되는 즉시, 보이스 태그가 완전히 제거된 스튜디오 24-bit WAV 파일, 고음질 MP3 파일, 그리고 법적 효력을 가진 정식 라이센스 계약서 PDF 다운로드 링크가 기재하신 이메일로 자동 발송됩니다."
+    }
+  ]
+},
+  "kr/ilsan": {
+  "name": "South Korea – 일산 & 고양시 (Ilsan Media & Studio Hub)",
+  "flag": "🇰🇷",
+  "currency": "KRW (₩)",
+  "currencyCode": "KRW",
+  "gateways": "카카오페이, 토스, Apple Pay, 신용카드, PayPal",
+  "pro": "KOMCA & KOSCAP",
+  "proFullName": "한국음악저작권협회 (KOMCA)",
+  "proGuide": "100% KOMCA 등록 및 미디어 방송 제작용 음원 라이센스.",
+  "headline": "일산 비트 구매: 방송·미디어 스튜디오 트랩 & 감성 K-R&B",
+  "description": "방송국과 미디어 스튜디오가 모여있는 일산의 세련된 팝 트랩과 칠한 R&B 사운드.",
+  "popularGenres": [
+    "일산 미디어 트랩",
+    "감성 K-R&B",
+    "팝 힙합"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "이 비트로 녹음한 곡을 멜론, 지니, Spotify, Apple Music, 유튜브에 정식 음원으로 발매할 수 있나요?",
+      "answer": "네, 100% 가능합니다! Different Type of Vibe의 모든 WAV 및 MP3 라이센스에는 국내외 모든 주요 음원 스트리밍 플랫폼과 유튜브, 틱톡, 방송에서의 상업적 음원 유통 권리가 포함되어 있습니다. 아티스트로서의 스트리밍 및 음원 수익을 100% 보유하실 수 있습니다."
+    },
+    {
+      "question": "비트는 KOMCA & KOSCAP 저작권 등록이 가능한가요?",
+      "answer": "네, 가능합니다! 모든 인스트루멘탈은 프로듀서 Onzieb이 직접 작곡·편곡한 100% 오리지널 마스터 음원이며, 무단 샘플링이 전혀 없습니다. 고객님의 가사와 랩, 보컬 멜로디에 대한 저작인격권 및 저작재산권을 KOMCA & KOSCAP에 정상적으로 등록하실 수 있습니다."
+    },
+    {
+      "question": "한국에서 결제 가능한 수단은 무엇이 있나요?",
+      "answer": "대한민국 원화(₩ / KRW)로 카카오페이, 토스, Apple Pay, 신용카드, PayPal을 통해 간편하고 안전하게 즉시 결제하실 수 있습니다."
+    },
+    {
+      "question": "보이스 태그(음성 시그니처)가 없는 마스터 음원은 언제 어떻게 받나요?",
+      "answer": "결제가 완료되는 즉시, 보이스 태그가 완전히 제거된 스튜디오 24-bit WAV 파일, 고음질 MP3 파일, 그리고 법적 효력을 가진 정식 라이센스 계약서 PDF 다운로드 링크가 기재하신 이메일로 자동 발송됩니다."
+    }
+  ]
+},
+  "kr/jeju": {
+  "name": "South Korea – 제주특별자치도 (Jeju Island Chillhop & Lofi)",
+  "flag": "🇰🇷",
+  "currency": "KRW (₩)",
+  "currencyCode": "KRW",
+  "gateways": "카카오페이, 토스, Apple Pay, 신용카드, PayPal",
+  "pro": "KOMCA & KOSCAP",
+  "proFullName": "한국음악저작권협회 (KOMCA)",
+  "proGuide": "100% KOMCA 등록 가능.",
+  "headline": "제주 비트 구매: 칠한 코스탈 힙합, 어쿠스틱 트랩 & 로파이 붐뱁",
+  "description": "제주의 여유로운 바람과 바다를 연상시키는 부드러운 기타 멜로디와 따뜻한 비트.",
+  "popularGenres": [
+    "제주 칠힙합",
+    "어쿠스틱 트랩",
+    "로파이 붐뱁"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "이 비트로 녹음한 곡을 멜론, 지니, Spotify, Apple Music, 유튜브에 정식 음원으로 발매할 수 있나요?",
+      "answer": "네, 100% 가능합니다! Different Type of Vibe의 모든 WAV 및 MP3 라이센스에는 국내외 모든 주요 음원 스트리밍 플랫폼과 유튜브, 틱톡, 방송에서의 상업적 음원 유통 권리가 포함되어 있습니다. 아티스트로서의 스트리밍 및 음원 수익을 100% 보유하실 수 있습니다."
+    },
+    {
+      "question": "비트는 KOMCA & KOSCAP 저작권 등록이 가능한가요?",
+      "answer": "네, 가능합니다! 모든 인스트루멘탈은 프로듀서 Onzieb이 직접 작곡·편곡한 100% 오리지널 마스터 음원이며, 무단 샘플링이 전혀 없습니다. 고객님의 가사와 랩, 보컬 멜로디에 대한 저작인격권 및 저작재산권을 KOMCA & KOSCAP에 정상적으로 등록하실 수 있습니다."
+    },
+    {
+      "question": "한국에서 결제 가능한 수단은 무엇이 있나요?",
+      "answer": "대한민국 원화(₩ / KRW)로 카카오페이, 토스, Apple Pay, 신용카드, PayPal을 통해 간편하고 안전하게 즉시 결제하실 수 있습니다."
+    },
+    {
+      "question": "보이스 태그(음성 시그니처)가 없는 마스터 음원은 언제 어떻게 받나요?",
+      "answer": "결제가 완료되는 즉시, 보이스 태그가 완전히 제거된 스튜디오 24-bit WAV 파일, 고음질 MP3 파일, 그리고 법적 효력을 가진 정식 라이센스 계약서 PDF 다운로드 링크가 기재하신 이메일로 자동 발송됩니다."
+    }
+  ]
+},
+  "kr/ulsan": {
+  "name": "South Korea – 울산광역시 (Ulsan Heavy Drill & Industrial)",
+  "flag": "🇰🇷",
+  "currency": "KRW (₩)",
+  "currencyCode": "KRW",
+  "gateways": "카카오페이, 토스, Apple Pay, 신용카드, PayPal",
+  "pro": "KOMCA & KOSCAP",
+  "proFullName": "한국음악저작권협회 (KOMCA)",
+  "proGuide": "100% KOMCA 정식 라이센스 발급.",
+  "headline": "울산 힙합 비트 구매: 산업도시의 헤비 드릴, 금속성 신스 & 808s",
+  "description": "강력하고 묵직한 베이스 사운드와 날카로운 타격감의 하이햇.",
+  "popularGenres": [
+    "울산 드릴",
+    "헤비 808s",
+    "인더스트리얼 트랩"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "이 비트로 녹음한 곡을 멜론, 지니, Spotify, Apple Music, 유튜브에 정식 음원으로 발매할 수 있나요?",
+      "answer": "네, 100% 가능합니다! Different Type of Vibe의 모든 WAV 및 MP3 라이센스에는 국내외 모든 주요 음원 스트리밍 플랫폼과 유튜브, 틱톡, 방송에서의 상업적 음원 유통 권리가 포함되어 있습니다. 아티스트로서의 스트리밍 및 음원 수익을 100% 보유하실 수 있습니다."
+    },
+    {
+      "question": "비트는 KOMCA & KOSCAP 저작권 등록이 가능한가요?",
+      "answer": "네, 가능합니다! 모든 인스트루멘탈은 프로듀서 Onzieb이 직접 작곡·편곡한 100% 오리지널 마스터 음원이며, 무단 샘플링이 전혀 없습니다. 고객님의 가사와 랩, 보컬 멜로디에 대한 저작인격권 및 저작재산권을 KOMCA & KOSCAP에 정상적으로 등록하실 수 있습니다."
+    },
+    {
+      "question": "한국에서 결제 가능한 수단은 무엇이 있나요?",
+      "answer": "대한민국 원화(₩ / KRW)로 카카오페이, 토스, Apple Pay, 신용카드, PayPal을 통해 간편하고 안전하게 즉시 결제하실 수 있습니다."
+    },
+    {
+      "question": "보이스 태그(음성 시그니처)가 없는 마스터 음원은 언제 어떻게 받나요?",
+      "answer": "결제가 완료되는 즉시, 보이스 태그가 완전히 제거된 스튜디오 24-bit WAV 파일, 고음질 MP3 파일, 그리고 법적 효력을 가진 정식 라이센스 계약서 PDF 다운로드 링크가 기재하신 이메일로 자동 발송됩니다."
+    }
+  ]
+},
+  "kr/jeonju": {
+  "name": "South Korea – 전주 & 전라도 (Jeonju Traditional & Boombap)",
+  "flag": "🇰🇷",
+  "currency": "KRW (₩)",
+  "currencyCode": "KRW",
+  "gateways": "카카오페이, 토스, Apple Pay, 신용카드, PayPal",
+  "pro": "KOMCA & KOSCAP",
+  "proFullName": "한국음악저작권협회 (KOMCA)",
+  "proGuide": "100% KOMCA 호환 정식 음원.",
+  "headline": "전주 힙합 비트 구매: 전통 사운드 퓨전, 오리지널 붐뱁 & 트랩",
+  "description": "국악 선율의 깊이와 현대 힙합 드럼의 강렬한 조화.",
+  "popularGenres": [
+    "전주 붐뱁",
+    "국악 퓨전 힙합",
+    "클래식 랩"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "이 비트로 녹음한 곡을 멜론, 지니, Spotify, Apple Music, 유튜브에 정식 음원으로 발매할 수 있나요?",
+      "answer": "네, 100% 가능합니다! Different Type of Vibe의 모든 WAV 및 MP3 라이센스에는 국내외 모든 주요 음원 스트리밍 플랫폼과 유튜브, 틱톡, 방송에서의 상업적 음원 유통 권리가 포함되어 있습니다. 아티스트로서의 스트리밍 및 음원 수익을 100% 보유하실 수 있습니다."
+    },
+    {
+      "question": "비트는 KOMCA & KOSCAP 저작권 등록이 가능한가요?",
+      "answer": "네, 가능합니다! 모든 인스트루멘탈은 프로듀서 Onzieb이 직접 작곡·편곡한 100% 오리지널 마스터 음원이며, 무단 샘플링이 전혀 없습니다. 고객님의 가사와 랩, 보컬 멜로디에 대한 저작인격권 및 저작재산권을 KOMCA & KOSCAP에 정상적으로 등록하실 수 있습니다."
+    },
+    {
+      "question": "한국에서 결제 가능한 수단은 무엇이 있나요?",
+      "answer": "대한민국 원화(₩ / KRW)로 카카오페이, 토스, Apple Pay, 신용카드, PayPal을 통해 간편하고 안전하게 즉시 결제하실 수 있습니다."
+    },
+    {
+      "question": "보이스 태그(음성 시그니처)가 없는 마스터 음원은 언제 어떻게 받나요?",
+      "answer": "결제가 완료되는 즉시, 보이스 태그가 완전히 제거된 스튜디오 24-bit WAV 파일, 고음질 MP3 파일, 그리고 법적 효력을 가진 정식 라이센스 계약서 PDF 다운로드 링크가 기재하신 이메일로 자동 발송됩니다."
+    }
+  ]
+},
+  "kr/gangwon-do": {
+  "name": "South Korea – 강원도 (Gangwon-do & Homies Roots)",
+  "flag": "🇰🇷",
+  "currency": "KRW (₩)",
+  "currencyCode": "KRW",
+  "gateways": "카카오페이, 토스, Apple Pay, 신용카드, PayPal",
+  "pro": "KOMCA & KOSCAP",
+  "proFullName": "한국음악저작권협회 (KOMCA)",
+  "proGuide": "100% KOMCA 등록 및 즉시 다운로드.",
+  "headline": "강원도 비트 구매: 호미들 영월 감성, 서정적 어쿠스틱 트랩 & 808s",
+  "description": "호미들의 출신지 영월을 비롯한 강원도의 서정적인 감성을 담은 어쿠스틱 기타 멜로디.",
+  "popularGenres": [
+    "영월 감성 트랩",
+    "호미들 사운드",
+    "어쿠스틱 808"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "이 비트로 녹음한 곡을 멜론, 지니, Spotify, Apple Music, 유튜브에 정식 음원으로 발매할 수 있나요?",
+      "answer": "네, 100% 가능합니다! Different Type of Vibe의 모든 WAV 및 MP3 라이센스에는 국내외 모든 주요 음원 스트리밍 플랫폼과 유튜브, 틱톡, 방송에서의 상업적 음원 유통 권리가 포함되어 있습니다. 아티스트로서의 스트리밍 및 음원 수익을 100% 보유하실 수 있습니다."
+    },
+    {
+      "question": "비트는 KOMCA & KOSCAP 저작권 등록이 가능한가요?",
+      "answer": "네, 가능합니다! 모든 인스트루멘탈은 프로듀서 Onzieb이 직접 작곡·편곡한 100% 오리지널 마스터 음원이며, 무단 샘플링이 전혀 없습니다. 고객님의 가사와 랩, 보컬 멜로디에 대한 저작인격권 및 저작재산권을 KOMCA & KOSCAP에 정상적으로 등록하실 수 있습니다."
+    },
+    {
+      "question": "한국에서 결제 가능한 수단은 무엇이 있나요?",
+      "answer": "대한민국 원화(₩ / KRW)로 카카오페이, 토스, Apple Pay, 신용카드, PayPal을 통해 간편하고 안전하게 즉시 결제하실 수 있습니다."
+    },
+    {
+      "question": "보이스 태그(음성 시그니처)가 없는 마스터 음원은 언제 어떻게 받나요?",
+      "answer": "결제가 완료되는 즉시, 보이스 태그가 완전히 제거된 스튜디오 24-bit WAV 파일, 고음질 MP3 파일, 그리고 법적 효력을 가진 정식 라이센스 계약서 PDF 다운로드 링크가 기재하신 이메일로 자동 발송됩니다."
+    }
+  ]
+},
+  "kr/cheongju": {
+  "name": "South Korea – 청주 & 충북 (Cheongju Urban Movement)",
+  "flag": "🇰🇷",
+  "currency": "KRW (₩)",
+  "currencyCode": "KRW",
+  "gateways": "카카오페이, 토스, Apple Pay, 신용카드, PayPal",
+  "pro": "KOMCA & KOSCAP",
+  "proFullName": "한국음악저작권협회 (KOMCA)",
+  "proGuide": "100% 상업적 이용 가능.",
+  "headline": "청주 힙합 비트 구매: 충북 모던 랩, 멜로딕 트랩 & 드릴",
+  "description": "트렌디한 사운드와 깔끔한 믹스로 보컬과 랩이 돋보이는 비트.",
+  "popularGenres": [
+    "청주 힙합",
+    "모던 랩",
+    "충북 트랩"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "이 비트로 녹음한 곡을 멜론, 지니, Spotify, Apple Music, 유튜브에 정식 음원으로 발매할 수 있나요?",
+      "answer": "네, 100% 가능합니다! Different Type of Vibe의 모든 WAV 및 MP3 라이센스에는 국내외 모든 주요 음원 스트리밍 플랫폼과 유튜브, 틱톡, 방송에서의 상업적 음원 유통 권리가 포함되어 있습니다. 아티스트로서의 스트리밍 및 음원 수익을 100% 보유하실 수 있습니다."
+    },
+    {
+      "question": "비트는 KOMCA & KOSCAP 저작권 등록이 가능한가요?",
+      "answer": "네, 가능합니다! 모든 인스트루멘탈은 프로듀서 Onzieb이 직접 작곡·편곡한 100% 오리지널 마스터 음원이며, 무단 샘플링이 전혀 없습니다. 고객님의 가사와 랩, 보컬 멜로디에 대한 저작인격권 및 저작재산권을 KOMCA & KOSCAP에 정상적으로 등록하실 수 있습니다."
+    },
+    {
+      "question": "한국에서 결제 가능한 수단은 무엇이 있나요?",
+      "answer": "대한민국 원화(₩ / KRW)로 카카오페이, 토스, Apple Pay, 신용카드, PayPal을 통해 간편하고 안전하게 즉시 결제하실 수 있습니다."
+    },
+    {
+      "question": "보이스 태그(음성 시그니처)가 없는 마스터 음원은 언제 어떻게 받나요?",
+      "answer": "결제가 완료되는 즉시, 보이스 태그가 완전히 제거된 스튜디오 24-bit WAV 파일, 고음질 MP3 파일, 그리고 법적 효력을 가진 정식 라이센스 계약서 PDF 다운로드 링크가 기재하신 이메일로 자동 발송됩니다."
+    }
+  ]
+},
 };

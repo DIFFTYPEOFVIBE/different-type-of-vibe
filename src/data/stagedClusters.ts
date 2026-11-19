@@ -1,6 +1,6 @@
 // src/data/stagedClusters.ts
-// Programmatic SEO Staged Batch Cluster Ledger - Global Big 12 Complete Footprint (South Korea / 대한민국)
-// Deployed automatically by scripts/deploy_korea_pseo.py
+// Programmatic SEO Staged Batch Cluster Ledger - Global Top 12 Complete Footprint (South Korea Wave 2 Complete)
+// Deployed automatically by scripts/deploy_wave2_korea_pseo.py
 
 export interface StagedClusterItem {
   type: 'vibe' | 'genre' | 'mood' | 'bpm' | 'key' | 'scene' | 'instrument' | 'blog';
@@ -9523,5 +9523,355 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "type": "scene",
     "slug": "daegu-smtm-style-bangers",
     "batchId": 24
+  },
+  {
+    "type": "scene",
+    "slug": "gyeonggi-do-studio-trap",
+    "batchId": 25
+  },
+  {
+    "type": "scene",
+    "slug": "seongsu-brooklyn-seoul-trap",
+    "batchId": 25
+  },
+  {
+    "type": "scene",
+    "slug": "apgujeong-gangnam-luxury-trap",
+    "batchId": 25
+  },
+  {
+    "type": "scene",
+    "slug": "suwon-urban-rap-beats",
+    "batchId": 25
+  },
+  {
+    "type": "scene",
+    "slug": "ilsan-media-studio-trap",
+    "batchId": 25
+  },
+  {
+    "type": "scene",
+    "slug": "jeju-island-chillhop-lofi",
+    "batchId": 25
+  },
+  {
+    "type": "scene",
+    "slug": "ulsan-industrial-drill-beats",
+    "batchId": 25
+  },
+  {
+    "type": "scene",
+    "slug": "jeonju-traditional-boombap",
+    "batchId": 25
+  },
+  {
+    "type": "scene",
+    "slug": "gangwon-homies-acoustic-trap",
+    "batchId": 25
+  },
+  {
+    "type": "scene",
+    "slug": "cheongju-urban-trap-movement",
+    "batchId": 25
+  },
+  {
+    "type": "scene",
+    "slug": "mapo-cypher-underground-rap",
+    "batchId": 25
+  },
+  {
+    "type": "scene",
+    "slug": "bundang-melodic-rnb-trap",
+    "batchId": 25
+  },
+  {
+    "type": "vibe",
+    "slug": "changmo-band-rock-trap-bounce",
+    "batchId": 25
+  },
+  {
+    "type": "vibe",
+    "slug": "jay-park-mommae-club-banger-trap",
+    "batchId": 25
+  },
+  {
+    "type": "vibe",
+    "slug": "ash-island-paranoid-emo-trap",
+    "batchId": 25
+  },
+  {
+    "type": "vibe",
+    "slug": "sik-k-ring-ring-party-trap",
+    "batchId": 25
+  },
+  {
+    "type": "vibe",
+    "slug": "homies-siren-acoustic-guitar-trap",
+    "batchId": 25
+  },
+  {
+    "type": "vibe",
+    "slug": "beenzino-aqua-man-summer-boombap",
+    "batchId": 25
+  },
+  {
+    "type": "vibe",
+    "slug": "zico-freak-funky-trap-rap",
+    "batchId": 25
+  },
+  {
+    "type": "vibe",
+    "slug": "paul-blanco-summer-baritone-trap",
+    "batchId": 25
+  },
+  {
+    "type": "vibe",
+    "slug": "dpr-ian-moodswings-cinematic-trap",
+    "batchId": 25
+  },
+  {
+    "type": "vibe",
+    "slug": "c-jamm-ke-pa-orchestral-trap",
+    "batchId": 25
+  },
+  {
+    "type": "vibe",
+    "slug": "bewhy-gottasadae-traditional-brass",
+    "batchId": 25
+  },
+  {
+    "type": "vibe",
+    "slug": "the-quiett-bentley-luxury-boombap",
+    "batchId": 25
+  },
+  {
+    "type": "vibe",
+    "slug": "justhis-indigo-fast-hardcore-drill",
+    "batchId": 25
+  },
+  {
+    "type": "vibe",
+    "slug": "giriboy-ac-guitar-melodic-rap",
+    "batchId": 25
+  },
+  {
+    "type": "vibe",
+    "slug": "leellamarz-violin-melodic-trap",
+    "batchId": 25
+  },
+  {
+    "type": "vibe",
+    "slug": "mirani-melodic-trap-smtm",
+    "batchId": 25
+  },
+  {
+    "type": "vibe",
+    "slug": "munchman-straight-drill-energy",
+    "batchId": 25
+  },
+  {
+    "type": "genre",
+    "slug": "dingo-freestyle-killing-verse-biiteu",
+    "batchId": 25
+  },
+  {
+    "type": "genre",
+    "slug": "show-me-the-money-paeneol-biiteu",
+    "batchId": 25
+  },
+  {
+    "type": "genre",
+    "slug": "high-school-rapper-style-trap",
+    "batchId": 25
+  },
+  {
+    "type": "genre",
+    "slug": "melon-chart-in-melodic-biiteu",
+    "batchId": 25
+  },
+  {
+    "type": "genre",
+    "slug": "stems-multitrack-wav-biiteu-gumae",
+    "batchId": 25
+  },
+  {
+    "type": "genre",
+    "slug": "toss-pay-biiteu-gumae-hanguk",
+    "batchId": 25
+  },
+  {
+    "type": "genre",
+    "slug": "bokeol-cover-mr-inst-gumae",
+    "batchId": 25
+  },
+  {
+    "type": "genre",
+    "slug": "k-pop-idol-rap-training-biiteu",
+    "batchId": 25
+  },
+  {
+    "type": "genre",
+    "slug": "lofi-study-chillhop-hanguk-biiteu",
+    "batchId": 25
+  },
+  {
+    "type": "genre",
+    "slug": "underground-hiphop-boom-bap-kr",
+    "batchId": 25
+  },
+  {
+    "type": "genre",
+    "slug": "k-rap-instrumentals-for-melon",
+    "batchId": 25
+  },
+  {
+    "type": "genre",
+    "slug": "sm-entertainment-style-trap-beats",
+    "batchId": 25
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-smtm-contest-trap",
+    "batchId": 25
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-korean-fast-sliding-drill",
+    "batchId": 25
+  },
+  {
+    "type": "bpm",
+    "slug": "88-bpm-beenzino-summer-boombap",
+    "batchId": 25
+  },
+  {
+    "type": "bpm",
+    "slug": "128-bpm-jay-park-club-trap",
+    "batchId": 25
+  },
+  {
+    "type": "bpm",
+    "slug": "100-bpm-homies-acoustic-trap",
+    "batchId": 25
+  },
+  {
+    "type": "key",
+    "slug": "b-minor-smtm-hardcore-trap",
+    "batchId": 25
+  },
+  {
+    "type": "key",
+    "slug": "f-sharp-minor-changmo-piano",
+    "batchId": 25
+  },
+  {
+    "type": "key",
+    "slug": "c-sharp-minor-justhis-drill",
+    "batchId": 25
+  },
+  {
+    "type": "key",
+    "slug": "e-minor-ash-island-guitar",
+    "batchId": 25
+  },
+  {
+    "type": "scene",
+    "slug": "seoul-korean-drill-wav",
+    "batchId": 25
+  },
+  {
+    "type": "scene",
+    "slug": "seoul-acoustic-guitar-trap",
+    "batchId": 25
+  },
+  {
+    "type": "scene",
+    "slug": "hongdae-korean-drill-wav",
+    "batchId": 25
+  },
+  {
+    "type": "scene",
+    "slug": "hongdae-acoustic-guitar-trap",
+    "batchId": 25
+  },
+  {
+    "type": "scene",
+    "slug": "gangnam-korean-drill-wav",
+    "batchId": 25
+  },
+  {
+    "type": "scene",
+    "slug": "gangnam-acoustic-guitar-trap",
+    "batchId": 25
+  },
+  {
+    "type": "scene",
+    "slug": "seongsu-k-hiphop-trap",
+    "batchId": 25
+  },
+  {
+    "type": "scene",
+    "slug": "seongsu-korean-drill-wav",
+    "batchId": 25
+  },
+  {
+    "type": "scene",
+    "slug": "seongsu-k-rnb-melodic-beats",
+    "batchId": 25
+  },
+  {
+    "type": "scene",
+    "slug": "seongsu-acoustic-guitar-trap",
+    "batchId": 25
+  },
+  {
+    "type": "scene",
+    "slug": "busan-korean-drill-wav",
+    "batchId": 25
+  },
+  {
+    "type": "scene",
+    "slug": "busan-acoustic-guitar-trap",
+    "batchId": 25
+  },
+  {
+    "type": "scene",
+    "slug": "incheon-korean-drill-wav",
+    "batchId": 25
+  },
+  {
+    "type": "scene",
+    "slug": "incheon-acoustic-guitar-trap",
+    "batchId": 25
+  },
+  {
+    "type": "scene",
+    "slug": "daegu-korean-drill-wav",
+    "batchId": 25
+  },
+  {
+    "type": "scene",
+    "slug": "daegu-acoustic-guitar-trap",
+    "batchId": 25
+  },
+  {
+    "type": "scene",
+    "slug": "jeju-k-hiphop-trap",
+    "batchId": 25
+  },
+  {
+    "type": "scene",
+    "slug": "jeju-korean-drill-wav",
+    "batchId": 25
+  },
+  {
+    "type": "scene",
+    "slug": "jeju-k-rnb-melodic-beats",
+    "batchId": 25
+  },
+  {
+    "type": "scene",
+    "slug": "jeju-acoustic-guitar-trap",
+    "batchId": 25
   }
 ];
