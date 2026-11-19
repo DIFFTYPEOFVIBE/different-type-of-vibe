@@ -5830,4 +5830,447 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
     }
   ]
 },
+  "gb/sheffield": {
+  "name": "United Kingdom \u2013 Sheffield & South Yorkshire Bassline Hub",
+  "flag": "\ud83c\uddec\ud83c\udde7",
+  "currency": "GBP (\u00a3)",
+  "currencyCode": "GBP",
+  "gateways": "Apple Pay, Google Pay, UK Cards, Revolut, Clearpay",
+  "pro": "PRS for Music & PPL",
+  "proFullName": "Performing Right Society (PRS for Music) & Phonographic Performance Limited (PPL)",
+  "proGuide": "100% PRS & PPL compliant for UK music artists. Fully cleared for commercial streaming and radio play.",
+  "headline": "Sheffield Beats for Sale: Bassline Rap, 140 BPM Grime & Heavy Drill",
+  "description": "Heavyweight bassline-infused rap and aggressive UK drill instrumentals for recording vocalists in Sheffield and South Yorkshire. Instant uncompressed 24-bit WAV leases.",
+  "popularGenres": [
+    "Sheffield Bassline Rap",
+    "UK Drill",
+    "140 BPM Grime",
+    "Yorkshire Street Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Sheffield Scene Hub",
+      "slug": "../../scene/sheffield-grime-beats",
+      "description": "High-energy 140 BPM bass and punchy UK drums."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify UK, Apple Music, and YouTube in United Kingdom \u2013 Sheffield & South Yorkshire Bassline Hub?",
+      "answer": "Yes! All WAV and MP3 licenses include full commercial streaming rights across Spotify, Apple Music, YouTube, Deezer, and TikTok. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "How do I register my release with PRS for Music and PPL in the United Kingdom?",
+      "answer": "Register your release with PRS for Music & PPL by listing yourself as the lyricist/performer (retaining 100% writer share of lyrics) and crediting Onzieb (Different Type of Vibe) as the music producer/composer per your countersigned PDF license contract."
+    },
+    {
+      "question": "Which UK payment methods are supported?",
+      "answer": "You can pay easily in British Pounds (\u00a3 / GBP) via Apple Pay, Google Pay, UK Debit/Credit Cards, Revolut, Clearpay, and Klarna."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, MP3 audio, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "gb/newcastle": {
+  "name": "United Kingdom \u2013 Newcastle & North East Rap Hub",
+  "flag": "\ud83c\uddec\ud83c\udde7",
+  "currency": "GBP (\u00a3)",
+  "currencyCode": "GBP",
+  "gateways": "Apple Pay, Google Pay, UK Cards, Revolut, Clearpay",
+  "pro": "PRS for Music & PPL",
+  "proFullName": "Performing Right Society (PRS for Music) & Phonographic Performance Limited (PPL)",
+  "proGuide": "100% PRS & PPL compliant with signed legal PDF agreements.",
+  "headline": "Newcastle Beats for Sale: North East UK Drill, Trap & Grime Leases",
+  "description": "Fast syncopated drill percussion, dark sliding 808s, and melodic keys for independent recording artists across Newcastle and the North East.",
+  "popularGenres": [
+    "North East Drill",
+    "Newcastle Street Rap",
+    "Melodic 808s"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify UK, Apple Music, and YouTube in United Kingdom \u2013 Newcastle & North East Rap Hub?",
+      "answer": "Yes! All WAV and MP3 licenses include full commercial streaming rights across Spotify, Apple Music, YouTube, Deezer, and TikTok. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "How do I register my release with PRS for Music and PPL in the United Kingdom?",
+      "answer": "Register your release with PRS for Music & PPL by listing yourself as the lyricist/performer (retaining 100% writer share of lyrics) and crediting Onzieb (Different Type of Vibe) as the music producer/composer per your countersigned PDF license contract."
+    },
+    {
+      "question": "Which UK payment methods are supported?",
+      "answer": "You can pay easily in British Pounds (\u00a3 / GBP) via Apple Pay, Google Pay, UK Debit/Credit Cards, Revolut, Clearpay, and Klarna."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, MP3 audio, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "gb/brighton": {
+  "name": "United Kingdom \u2013 Brighton & South Coast Melodic Rap",
+  "flag": "\ud83c\uddec\ud83c\udde7",
+  "currency": "GBP (\u00a3)",
+  "currencyCode": "GBP",
+  "gateways": "Apple Pay, Google Pay, UK Cards, Revolut, Clearpay",
+  "pro": "PRS for Music & PPL",
+  "proFullName": "Performing Right Society (PRS for Music) & Phonographic Performance Limited (PPL)",
+  "proGuide": "100% PRS & PPL compliant with instant digital download.",
+  "headline": "Brighton Beats for Sale: Commercial UK Rap, Catchy Melodic Drill & Club Trap",
+  "description": "Bouncy commercial UK rap instrumentals with infectious acoustic hooks and fast 808 bounce inspired by ArrDee for South Coast recording vocalists.",
+  "popularGenres": [
+    "Brighton Commercial Rap",
+    "Melodic Drill",
+    "Catchy Hook Beats"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "ArrDee Style Hub",
+      "slug": "../../vibe/arrdee-brighton-club-rap-beats",
+      "description": "High energy club rap and fast melodic drill."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify UK, Apple Music, and YouTube in United Kingdom \u2013 Brighton & South Coast Melodic Rap?",
+      "answer": "Yes! All WAV and MP3 licenses include full commercial streaming rights across Spotify, Apple Music, YouTube, Deezer, and TikTok. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "How do I register my release with PRS for Music and PPL in the United Kingdom?",
+      "answer": "Register your release with PRS for Music & PPL by listing yourself as the lyricist/performer (retaining 100% writer share of lyrics) and crediting Onzieb (Different Type of Vibe) as the music producer/composer per your countersigned PDF license contract."
+    },
+    {
+      "question": "Which UK payment methods are supported?",
+      "answer": "You can pay easily in British Pounds (\u00a3 / GBP) via Apple Pay, Google Pay, UK Debit/Credit Cards, Revolut, Clearpay, and Klarna."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, MP3 audio, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "gb/edinburgh": {
+  "name": "United Kingdom \u2013 Edinburgh & Scottish Hip-Hop Hub",
+  "flag": "\ud83c\uddec\ud83c\udde7",
+  "currency": "GBP (\u00a3)",
+  "currencyCode": "GBP",
+  "gateways": "Apple Pay, Google Pay, UK Cards, Revolut, Clearpay",
+  "pro": "PRS for Music & PPL",
+  "proFullName": "Performing Right Society (PRS for Music) & Phonographic Performance Limited (PPL)",
+  "proGuide": "100% cleared for Spotify UK, Apple Music, and BBC Scotland broadcast.",
+  "headline": "Edinburgh Beats for Sale: Scottish Hip-Hop, Drill & Soulful Boom Bap",
+  "description": "Atmospheric, introspective hip-hop instrumentals and hard drill slides for recording artists in Edinburgh and Scotland.",
+  "popularGenres": [
+    "Scottish Hip-Hop",
+    "Edinburgh Drill",
+    "Soulful Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify UK, Apple Music, and YouTube in United Kingdom \u2013 Edinburgh & Scottish Hip-Hop Hub?",
+      "answer": "Yes! All WAV and MP3 licenses include full commercial streaming rights across Spotify, Apple Music, YouTube, Deezer, and TikTok. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "How do I register my release with PRS for Music and PPL in the United Kingdom?",
+      "answer": "Register your release with PRS for Music & PPL by listing yourself as the lyricist/performer (retaining 100% writer share of lyrics) and crediting Onzieb (Different Type of Vibe) as the music producer/composer per your countersigned PDF license contract."
+    },
+    {
+      "question": "Which UK payment methods are supported?",
+      "answer": "You can pay easily in British Pounds (\u00a3 / GBP) via Apple Pay, Google Pay, UK Debit/Credit Cards, Revolut, Clearpay, and Klarna."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, MP3 audio, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "gb/belfast": {
+  "name": "United Kingdom \u2013 Belfast & Northern Ireland Rap",
+  "flag": "\ud83c\uddec\ud83c\udde7",
+  "currency": "GBP (\u00a3)",
+  "currencyCode": "GBP",
+  "gateways": "Apple Pay, Google Pay, UK Cards, Revolut, Clearpay",
+  "pro": "PRS for Music & PPL / IMRO",
+  "proFullName": "Performing Right Society (PRS for Music) & Irish Music Rights Organisation (IMRO)",
+  "proGuide": "100% PRS and IMRO compliant with instant commercial clearance.",
+  "headline": "Belfast Beats for Sale: Northern Irish Drill, Trap & Street Instrumentals",
+  "description": "Hard-hitting drill kicks, dark synth arpeggios, and uncompressed 24-bit WAV trackouts for Northern Irish recording artists.",
+  "popularGenres": [
+    "Belfast Drill",
+    "Northern Irish Rap",
+    "Dark 808s"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify UK, Apple Music, and YouTube in United Kingdom \u2013 Belfast & Northern Ireland Rap?",
+      "answer": "Yes! All WAV and MP3 licenses include full commercial streaming rights across Spotify, Apple Music, YouTube, Deezer, and TikTok. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "How do I register my release with PRS for Music and PPL in the United Kingdom?",
+      "answer": "Register your release with PRS for Music & PPL by listing yourself as the lyricist/performer (retaining 100% writer share of lyrics) and crediting Onzieb (Different Type of Vibe) as the music producer/composer per your countersigned PDF license contract."
+    },
+    {
+      "question": "Which UK payment methods are supported?",
+      "answer": "You can pay easily in British Pounds (\u00a3 / GBP) via Apple Pay, Google Pay, UK Debit/Credit Cards, Revolut, Clearpay, and Klarna."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, MP3 audio, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "gb/leicester": {
+  "name": "United Kingdom \u2013 Leicester & East Midlands Rap",
+  "flag": "\ud83c\uddec\ud83c\udde7",
+  "currency": "GBP (\u00a3)",
+  "currencyCode": "GBP",
+  "gateways": "Apple Pay, Google Pay, UK Cards, Revolut, Clearpay",
+  "pro": "PRS for Music & PPL",
+  "proFullName": "Performing Right Society (PRS for Music) & Phonographic Performance Limited (PPL)",
+  "proGuide": "100% PRS & PPL compliant with instant download.",
+  "headline": "Leicester Beats for Sale: East Midlands Drill, Trap & Afroswing",
+  "description": "Dynamic instrumentals for East Midlands recording artists and producers. Cleared for Spotify UK, Apple Music, and YouTube.",
+  "popularGenres": [
+    "East Midlands Drill",
+    "Leicester Rap",
+    "Afroswing"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify UK, Apple Music, and YouTube in United Kingdom \u2013 Leicester & East Midlands Rap?",
+      "answer": "Yes! All WAV and MP3 licenses include full commercial streaming rights across Spotify, Apple Music, YouTube, Deezer, and TikTok. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "How do I register my release with PRS for Music and PPL in the United Kingdom?",
+      "answer": "Register your release with PRS for Music & PPL by listing yourself as the lyricist/performer (retaining 100% writer share of lyrics) and crediting Onzieb (Different Type of Vibe) as the music producer/composer per your countersigned PDF license contract."
+    },
+    {
+      "question": "Which UK payment methods are supported?",
+      "answer": "You can pay easily in British Pounds (\u00a3 / GBP) via Apple Pay, Google Pay, UK Debit/Credit Cards, Revolut, Clearpay, and Klarna."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, MP3 audio, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "gb/southampton": {
+  "name": "United Kingdom \u2013 Southampton & South Coast Trap",
+  "flag": "\ud83c\uddec\ud83c\udde7",
+  "currency": "GBP (\u00a3)",
+  "currencyCode": "GBP",
+  "gateways": "Apple Pay, Google Pay, UK Cards, Revolut, Clearpay",
+  "pro": "PRS for Music & PPL",
+  "proFullName": "Performing Right Society (PRS for Music) & Phonographic Performance Limited (PPL)",
+  "proGuide": "100% PRS & PPL compliant for UK distribution.",
+  "headline": "Southampton Beats for Sale: Coastal Melodic Rap, Drill & Heavy 808s",
+  "description": "Clean melodic trap and punchy drill rhythms for artists across the South Coast and Hampshire.",
+  "popularGenres": [
+    "South Coast Rap",
+    "Southampton Drill",
+    "Melodic 808s"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify UK, Apple Music, and YouTube in United Kingdom \u2013 Southampton & South Coast Trap?",
+      "answer": "Yes! All WAV and MP3 licenses include full commercial streaming rights across Spotify, Apple Music, YouTube, Deezer, and TikTok. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "How do I register my release with PRS for Music and PPL in the United Kingdom?",
+      "answer": "Register your release with PRS for Music & PPL by listing yourself as the lyricist/performer (retaining 100% writer share of lyrics) and crediting Onzieb (Different Type of Vibe) as the music producer/composer per your countersigned PDF license contract."
+    },
+    {
+      "question": "Which UK payment methods are supported?",
+      "answer": "You can pay easily in British Pounds (\u00a3 / GBP) via Apple Pay, Google Pay, UK Debit/Credit Cards, Revolut, Clearpay, and Klarna."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, MP3 audio, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "gb/luton": {
+  "name": "United Kingdom \u2013 Luton & Bedfordshire Drill",
+  "flag": "\ud83c\uddec\ud83c\udde7",
+  "currency": "GBP (\u00a3)",
+  "currencyCode": "GBP",
+  "gateways": "Apple Pay, Google Pay, UK Cards, Revolut, Clearpay",
+  "pro": "PRS for Music & PPL",
+  "proFullName": "Performing Right Society (PRS for Music) & Phonographic Performance Limited (PPL)",
+  "proGuide": "100% PRS & PPL compliant with signed legal contracts.",
+  "headline": "Luton Beats for Sale: Heavy Sliding Drill, Dark 808s & Street Rap",
+  "description": "Aggressive sliding 808 basslines and fast syncopated hats for recording artists in Luton and Bedfordshire.",
+  "popularGenres": [
+    "Luton Drill",
+    "Heavy 808s",
+    "Street Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify UK, Apple Music, and YouTube in United Kingdom \u2013 Luton & Bedfordshire Drill?",
+      "answer": "Yes! All WAV and MP3 licenses include full commercial streaming rights across Spotify, Apple Music, YouTube, Deezer, and TikTok. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "How do I register my release with PRS for Music and PPL in the United Kingdom?",
+      "answer": "Register your release with PRS for Music & PPL by listing yourself as the lyricist/performer (retaining 100% writer share of lyrics) and crediting Onzieb (Different Type of Vibe) as the music producer/composer per your countersigned PDF license contract."
+    },
+    {
+      "question": "Which UK payment methods are supported?",
+      "answer": "You can pay easily in British Pounds (\u00a3 / GBP) via Apple Pay, Google Pay, UK Debit/Credit Cards, Revolut, Clearpay, and Klarna."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, MP3 audio, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "gb/reading": {
+  "name": "United Kingdom \u2013 Reading & Thames Valley Hip-Hop",
+  "flag": "\ud83c\uddec\ud83c\udde7",
+  "currency": "GBP (\u00a3)",
+  "currencyCode": "GBP",
+  "gateways": "Apple Pay, Google Pay, UK Cards, Revolut, Clearpay",
+  "pro": "PRS for Music & PPL",
+  "proFullName": "Performing Right Society (PRS for Music) & Phonographic Performance Limited (PPL)",
+  "proGuide": "100% PRS & PPL compliant for commercial release.",
+  "headline": "Reading Beats for Sale: Thames Valley Rap, Melodic Trap & Drill",
+  "description": "Atmospheric synth trap and energetic drill instrumentals for recording vocalists in Berkshire and Reading.",
+  "popularGenres": [
+    "Thames Valley Rap",
+    "Reading Drill",
+    "Melodic Wave"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify UK, Apple Music, and YouTube in United Kingdom \u2013 Reading & Thames Valley Hip-Hop?",
+      "answer": "Yes! All WAV and MP3 licenses include full commercial streaming rights across Spotify, Apple Music, YouTube, Deezer, and TikTok. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "How do I register my release with PRS for Music and PPL in the United Kingdom?",
+      "answer": "Register your release with PRS for Music & PPL by listing yourself as the lyricist/performer (retaining 100% writer share of lyrics) and crediting Onzieb (Different Type of Vibe) as the music producer/composer per your countersigned PDF license contract."
+    },
+    {
+      "question": "Which UK payment methods are supported?",
+      "answer": "You can pay easily in British Pounds (\u00a3 / GBP) via Apple Pay, Google Pay, UK Debit/Credit Cards, Revolut, Clearpay, and Klarna."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, MP3 audio, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "gb/wolverhampton": {
+  "name": "United Kingdom \u2013 Wolverhampton & Black Country Drill",
+  "flag": "\ud83c\uddec\ud83c\udde7",
+  "currency": "GBP (\u00a3)",
+  "currencyCode": "GBP",
+  "gateways": "Apple Pay, Google Pay, UK Cards, Revolut, Clearpay",
+  "pro": "PRS for Music & PPL",
+  "proFullName": "Performing Right Society (PRS for Music) & Phonographic Performance Limited (PPL)",
+  "proGuide": "100% PRS & PPL compliant with full streaming rights.",
+  "headline": "Wolverhampton Beats for Sale: Black Country Drill, Trap & Grime",
+  "description": "Raw, energetic Midlands drill and heavyweight 808 trap instrumentals for artists in Wolverhampton and the Black Country.",
+  "popularGenres": [
+    "Black Country Drill",
+    "Midlands Trap",
+    "Heavy 808s"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify UK, Apple Music, and YouTube in United Kingdom \u2013 Wolverhampton & Black Country Drill?",
+      "answer": "Yes! All WAV and MP3 licenses include full commercial streaming rights across Spotify, Apple Music, YouTube, Deezer, and TikTok. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "How do I register my release with PRS for Music and PPL in the United Kingdom?",
+      "answer": "Register your release with PRS for Music & PPL by listing yourself as the lyricist/performer (retaining 100% writer share of lyrics) and crediting Onzieb (Different Type of Vibe) as the music producer/composer per your countersigned PDF license contract."
+    },
+    {
+      "question": "Which UK payment methods are supported?",
+      "answer": "You can pay easily in British Pounds (\u00a3 / GBP) via Apple Pay, Google Pay, UK Debit/Credit Cards, Revolut, Clearpay, and Klarna."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, MP3 audio, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
 };

@@ -1,6 +1,6 @@
 // src/data/stagedClusters.ts
-// Programmatic SEO Staged Batch Cluster Ledger - US, DACH & UK Complete Footprint
-// Deployed automatically by scripts/deploy_uk_pseo.py
+// Programmatic SEO Staged Batch Cluster Ledger - US, DACH & UK Complete Footprint (Wave 2 UK)
+// Deployed automatically by scripts/deploy_wave2_uk_pseo.py
 
 export interface StagedClusterItem {
   type: 'vibe' | 'genre' | 'mood' | 'bpm' | 'key' | 'scene' | 'instrument' | 'blog';
@@ -2653,5 +2653,470 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "type": "scene",
     "slug": "bristol-melodic-rap",
     "batchId": 6
+  },
+  {
+    "type": "scene",
+    "slug": "brixton-drill-beats",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "peckham-street-rap",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "croydon-dark-trap",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "tottenham-drill-beats",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "hackney-afroswing-beats",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "ladbroke-grove-garage-rap",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "harlesden-street-trap",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "shepherds-bush-drill-beats",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "birmingham-0121-trap",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "manchester-wavy-beats",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "leeds-bassline-rap",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "sheffield-grime-beats",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "brighton-melodic-rap",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "newcastle-drill-beats",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "glasgow-scottish-rap",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "belfast-drill-beats",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "leicester-afroswing-beats",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "luton-sliding-drill",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "reading-melodic-trap",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "wolverhampton-black-country-drill",
+    "batchId": 7
+  },
+  {
+    "type": "vibe",
+    "slug": "aj-tracey-west-london-garage-rap",
+    "batchId": 7
+  },
+  {
+    "type": "vibe",
+    "slug": "m1llionz-birmingham-slurred-flow-drill",
+    "batchId": 7
+  },
+  {
+    "type": "vibe",
+    "slug": "aitch-manchester-summer-banger",
+    "batchId": 7
+  },
+  {
+    "type": "vibe",
+    "slug": "potter-payper-training-day-real-rap",
+    "batchId": 7
+  },
+  {
+    "type": "vibe",
+    "slug": "k-trap-warm-heavy-sub-drill",
+    "batchId": 7
+  },
+  {
+    "type": "vibe",
+    "slug": "gazo-french-uk-drill-collab",
+    "batchId": 7
+  },
+  {
+    "type": "vibe",
+    "slug": "youngs-teflon-south-london-soul-trap",
+    "batchId": 7
+  },
+  {
+    "type": "vibe",
+    "slug": "nines-church-road-luxury-trap",
+    "batchId": 7
+  },
+  {
+    "type": "vibe",
+    "slug": "casyo-dbe-melodic-autotune-wave",
+    "batchId": 7
+  },
+  {
+    "type": "vibe",
+    "slug": "loski-harlem-spartans-drill",
+    "batchId": 7
+  },
+  {
+    "type": "vibe",
+    "slug": "rv-north-london-drill-bars",
+    "batchId": 7
+  },
+  {
+    "type": "vibe",
+    "slug": "skrapz-csb-classic-smooth-rap",
+    "batchId": 7
+  },
+  {
+    "type": "vibe",
+    "slug": "morrisson-east-london-hard-rap",
+    "batchId": 7
+  },
+  {
+    "type": "vibe",
+    "slug": "blanco-brazilian-drill-uk",
+    "batchId": 7
+  },
+  {
+    "type": "vibe",
+    "slug": "avelino-lyrical-grime-trap",
+    "batchId": 7
+  },
+  {
+    "type": "vibe",
+    "slug": "mist-birmingham-banger-beats",
+    "batchId": 7
+  },
+  {
+    "type": "vibe",
+    "slug": "kwengface-peckham-drill-slides",
+    "batchId": 7
+  },
+  {
+    "type": "genre",
+    "slug": "buy-beats-online-uk-paypal",
+    "batchId": 7
+  },
+  {
+    "type": "genre",
+    "slug": "buy-beats-with-revolut-uk",
+    "batchId": 7
+  },
+  {
+    "type": "genre",
+    "slug": "buy-beats-with-clearpay-uk",
+    "batchId": 7
+  },
+  {
+    "type": "genre",
+    "slug": "buy-beats-with-klarna-uk",
+    "batchId": 7
+  },
+  {
+    "type": "genre",
+    "slug": "prs-for-music-producer-split-sheets",
+    "batchId": 7
+  },
+  {
+    "type": "genre",
+    "slug": "ppl-uk-master-rights-beat-leases",
+    "batchId": 7
+  },
+  {
+    "type": "genre",
+    "slug": "grime-instrumentals-for-sale-140-bpm",
+    "batchId": 7
+  },
+  {
+    "type": "genre",
+    "slug": "drill-type-beat-free-download-uk",
+    "batchId": 7
+  },
+  {
+    "type": "genre",
+    "slug": "commercial-streaming-rights-uk-spotify",
+    "batchId": 7
+  },
+  {
+    "type": "genre",
+    "slug": "sync-licensing-beats-for-uk-tv-and-ads",
+    "batchId": 7
+  },
+  {
+    "type": "genre",
+    "slug": "exclusive-rights-beat-sale-uk",
+    "batchId": 7
+  },
+  {
+    "type": "genre",
+    "slug": "sample-free-uk-drill-beats",
+    "batchId": 7
+  },
+  {
+    "type": "genre",
+    "slug": "uk-garage-2step-rap-instrumentals",
+    "batchId": 7
+  },
+  {
+    "type": "genre",
+    "slug": "drill-beats-with-stems-wav-uk",
+    "batchId": 7
+  },
+  {
+    "type": "genre",
+    "slug": "uk-rap-instrumentals-for-spotify",
+    "batchId": 7
+  },
+  {
+    "type": "bpm",
+    "slug": "138-bpm-uk-drill-beats",
+    "batchId": 7
+  },
+  {
+    "type": "bpm",
+    "slug": "141-bpm-melodic-uk-drill",
+    "batchId": 7
+  },
+  {
+    "type": "bpm",
+    "slug": "143-bpm-sliding-808-drill",
+    "batchId": 7
+  },
+  {
+    "type": "bpm",
+    "slug": "132-bpm-ukg-garage-rap",
+    "batchId": 7
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-classic-grime-square-wave",
+    "batchId": 7
+  },
+  {
+    "type": "key",
+    "slug": "b-minor-uk-drill-beats",
+    "batchId": 7
+  },
+  {
+    "type": "key",
+    "slug": "f-sharp-minor-uk-drill",
+    "batchId": 7
+  },
+  {
+    "type": "key",
+    "slug": "c-sharp-minor-aggressive-drill",
+    "batchId": 7
+  },
+  {
+    "type": "key",
+    "slug": "g-sharp-minor-melodic-drill",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-drill-instrumentals",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "london-afroswing-instrumentals",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "london-ukg-rap-beats",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "london-grime-instrumentals",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "manchester-uk-drill-instrumentals",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "manchester-afroswing-instrumentals",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "manchester-ukg-rap-beats",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "manchester-grime-instrumentals",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "birmingham-uk-drill-instrumentals",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "birmingham-afroswing-instrumentals",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "birmingham-ukg-rap-beats",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "birmingham-grime-instrumentals",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "liverpool-uk-drill-instrumentals",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "liverpool-afroswing-instrumentals",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "liverpool-ukg-rap-beats",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "liverpool-grime-instrumentals",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "sheffield-uk-drill-instrumentals",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "sheffield-afroswing-instrumentals",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "sheffield-ukg-rap-beats",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "sheffield-grime-instrumentals",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "newcastle-uk-drill-instrumentals",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "newcastle-afroswing-instrumentals",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "newcastle-ukg-rap-beats",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "newcastle-grime-instrumentals",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "bristol-uk-drill-instrumentals",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "bristol-afroswing-instrumentals",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "bristol-ukg-rap-beats",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "bristol-grime-instrumentals",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "brighton-uk-drill-instrumentals",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "brighton-afroswing-instrumentals",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "brighton-ukg-rap-beats",
+    "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "brighton-grime-instrumentals",
+    "batchId": 7
   }
 ];
