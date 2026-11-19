@@ -1,6 +1,6 @@
 // src/data/stagedClusters.ts
-// Programmatic SEO Staged Batch Cluster Ledger - Global Big 9 Complete Footprint (Brazil & Trap BR)
-// Deployed automatically by scripts/deploy_brazil_pseo.py
+// Programmatic SEO Staged Batch Cluster Ledger - Global Big 9 Complete Footprint (Brazil Wave 2 Complete)
+// Deployed automatically by scripts/deploy_wave2_brazil_pseo.py
 
 export interface StagedClusterItem {
   type: 'vibe' | 'genre' | 'mood' | 'bpm' | 'key' | 'scene' | 'instrument' | 'blog';
@@ -7418,5 +7418,330 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "type": "scene",
     "slug": "recife-trap-melodico-violao",
     "batchId": 18
+  },
+  {
+    "type": "scene",
+    "slug": "sao-paulo-estado-trap-hub",
+    "batchId": 19
+  },
+  {
+    "type": "scene",
+    "slug": "rio-fluminense-trap-funk",
+    "batchId": 19
+  },
+  {
+    "type": "scene",
+    "slug": "campinas-interior-trap-beats",
+    "batchId": 19
+  },
+  {
+    "type": "scene",
+    "slug": "santos-baixada-trap-funk",
+    "batchId": 19
+  },
+  {
+    "type": "scene",
+    "slug": "niteroi-rap-fluminense-beats",
+    "batchId": 19
+  },
+  {
+    "type": "scene",
+    "slug": "minas-gerais-trap-031",
+    "batchId": 19
+  },
+  {
+    "type": "scene",
+    "slug": "bahia-afro-trap-percussao",
+    "batchId": 19
+  },
+  {
+    "type": "scene",
+    "slug": "parana-curitiba-trap-hub",
+    "batchId": 19
+  },
+  {
+    "type": "scene",
+    "slug": "santa-catarina-trap-litoraneo",
+    "batchId": 19
+  },
+  {
+    "type": "scene",
+    "slug": "espirito-santo-drill-beats",
+    "batchId": 19
+  },
+  {
+    "type": "scene",
+    "slug": "favela-do-vidigal-trapfunk",
+    "batchId": 19
+  },
+  {
+    "type": "scene",
+    "slug": "zona-sul-sp-trap-melodico",
+    "batchId": 19
+  },
+  {
+    "type": "vibe",
+    "slug": "veigh-bolha-2026-acoustic-trap",
+    "batchId": 19
+  },
+  {
+    "type": "vibe",
+    "slug": "kayblack-cartao-black-trap",
+    "batchId": 19
+  },
+  {
+    "type": "vibe",
+    "slug": "matue-quer-voar-trap-psicodelico",
+    "batchId": 19
+  },
+  {
+    "type": "vibe",
+    "slug": "teto-minha-vida-e-um-filme",
+    "batchId": 19
+  },
+  {
+    "type": "vibe",
+    "slug": "wiu-coracao-de-gelo-afrotrap",
+    "batchId": 19
+  },
+  {
+    "type": "vibe",
+    "slug": "filipe-ret-incondicional-trap-luxo",
+    "batchId": 19
+  },
+  {
+    "type": "vibe",
+    "slug": "l7nnon-ai-preto-club-trapfunk",
+    "batchId": 19
+  },
+  {
+    "type": "vibe",
+    "slug": "poze-do-rodo-me-sinto-abencoado",
+    "batchId": 19
+  },
+  {
+    "type": "vibe",
+    "slug": "mc-cabelinho-x1-trap-pesado",
+    "batchId": 19
+  },
+  {
+    "type": "vibe",
+    "slug": "orochi-celebridade-street-trap",
+    "batchId": 19
+  },
+  {
+    "type": "vibe",
+    "slug": "chefin-212-drill-carioca",
+    "batchId": 19
+  },
+  {
+    "type": "vibe",
+    "slug": "major-rd-60k-hardcore-rock-trap",
+    "batchId": 19
+  },
+  {
+    "type": "vibe",
+    "slug": "kyan-zona-leste-grime-drill-sp",
+    "batchId": 19
+  },
+  {
+    "type": "vibe",
+    "slug": "baco-exu-do-blues-qvvjfa-soul-trap",
+    "batchId": 19
+  },
+  {
+    "type": "vibe",
+    "slug": "djonga-heresia-rap-nacional",
+    "batchId": 19
+  },
+  {
+    "type": "vibe",
+    "slug": "sidoka-n-sei-mais-space-trap",
+    "batchId": 19
+  },
+  {
+    "type": "vibe",
+    "slug": "tz-da-coronel-nota-de-cem-drill",
+    "batchId": 19
+  },
+  {
+    "type": "vibe",
+    "slug": "yunk-vino-trap-melodico-sp",
+    "batchId": 19
+  },
+  {
+    "type": "vibe",
+    "slug": "caio-luccas-trap-carioca",
+    "batchId": 19
+  },
+  {
+    "type": "genre",
+    "slug": "beats-de-trap-brasileiro-wav-stems",
+    "batchId": 19
+  },
+  {
+    "type": "genre",
+    "slug": "instrumentais-para-mc-de-batalha-freestyle",
+    "batchId": 19
+  },
+  {
+    "type": "genre",
+    "slug": "trapfunk-automotivo-e-mandelao-beats",
+    "batchId": 19
+  },
+  {
+    "type": "genre",
+    "slug": "licenca-de-beat-com-pix-imediato",
+    "batchId": 19
+  },
+  {
+    "type": "genre",
+    "slug": "direitos-patrimoniais-de-autor-ubc-brasil",
+    "batchId": 19
+  },
+  {
+    "type": "genre",
+    "slug": "instrumentais-acusticos-trap-violao",
+    "batchId": 19
+  },
+  {
+    "type": "genre",
+    "slug": "beats-de-trap-romantico-rnb-brasil",
+    "batchId": 19
+  },
+  {
+    "type": "genre",
+    "slug": "producao-de-trap-nacional-sem-copyright",
+    "batchId": 19
+  },
+  {
+    "type": "genre",
+    "slug": "beats-de-drill-br-com-graves-808-pesados",
+    "batchId": 19
+  },
+  {
+    "type": "genre",
+    "slug": "comprar-instrumentais-exclusivos-brasil",
+    "batchId": 19
+  },
+  {
+    "type": "genre",
+    "slug": "beats-para-lancamento-spotify-brasil",
+    "batchId": 19
+  },
+  {
+    "type": "genre",
+    "slug": "pistas-separadas-stems-trapfunk",
+    "batchId": 19
+  },
+  {
+    "type": "bpm",
+    "slug": "132-bpm-trap-brasileiro-pesado",
+    "batchId": 19
+  },
+  {
+    "type": "bpm",
+    "slug": "136-bpm-matue-teto-trap",
+    "batchId": 19
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-drill-carioca-paulista",
+    "batchId": 19
+  },
+  {
+    "type": "bpm",
+    "slug": "122-bpm-trapfunk-automotivo",
+    "batchId": 19
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-trap-rnb-love-cabelinho",
+    "batchId": 19
+  },
+  {
+    "type": "key",
+    "slug": "b-minor-trap-brasileiro-beats",
+    "batchId": 19
+  },
+  {
+    "type": "key",
+    "slug": "f-sharp-minor-veigh-violao",
+    "batchId": 19
+  },
+  {
+    "type": "key",
+    "slug": "c-sharp-minor-drill-br-pesado",
+    "batchId": 19
+  },
+  {
+    "type": "key",
+    "slug": "g-sharp-minor-matue-psicodelico",
+    "batchId": 19
+  },
+  {
+    "type": "key",
+    "slug": "e-minor-trapfunk-automotivo",
+    "batchId": 19
+  },
+  {
+    "type": "scene",
+    "slug": "campinas-trap-brasileiro-beats",
+    "batchId": 19
+  },
+  {
+    "type": "scene",
+    "slug": "campinas-trapfunk-instrumental",
+    "batchId": 19
+  },
+  {
+    "type": "scene",
+    "slug": "campinas-drill-br-pesado",
+    "batchId": 19
+  },
+  {
+    "type": "scene",
+    "slug": "campinas-trap-melodico-violao",
+    "batchId": 19
+  },
+  {
+    "type": "scene",
+    "slug": "santos-trap-brasileiro-beats",
+    "batchId": 19
+  },
+  {
+    "type": "scene",
+    "slug": "santos-trapfunk-instrumental",
+    "batchId": 19
+  },
+  {
+    "type": "scene",
+    "slug": "santos-drill-br-pesado",
+    "batchId": 19
+  },
+  {
+    "type": "scene",
+    "slug": "santos-trap-melodico-violao",
+    "batchId": 19
+  },
+  {
+    "type": "scene",
+    "slug": "curitiba-trap-brasileiro-beats",
+    "batchId": 19
+  },
+  {
+    "type": "scene",
+    "slug": "curitiba-trapfunk-instrumental",
+    "batchId": 19
+  },
+  {
+    "type": "scene",
+    "slug": "curitiba-drill-br-pesado",
+    "batchId": 19
+  },
+  {
+    "type": "scene",
+    "slug": "curitiba-trap-melodico-violao",
+    "batchId": 19
   }
 ];
