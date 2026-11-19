@@ -193,47 +193,65 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
     ]
   },
   "ie": {
-    "name": "Ireland",
-    "flag": "🇮🇪",
-    "currency": "EUR (€)",
-    "currencyCode": "EUR",
-    "gateways": "Apple Pay, Cards",
-    "pro": "IMRO",
-    "proFullName": "Irish Recorded Music Organisation (IMRO)",
-    "proGuide": "Register with IMRO for RTÉ radio airplay and worldwide digital streaming royalties.",
-    "headline": "Ireland Beat Deals & VIP Subscription Pass",
-    "description": "Untagged commercial WAV beat leases and stem trackouts for recording artists in Ireland. Cleared for IMRO and instant download.",
-    "popularGenres": [
-      "Trap Beats",
-      "Hip-Hop Beats",
-      "Melodic Beats"
-    ],
-    "featuredBeatIds": [
-      "1",
-      "5",
-      "6",
-      "2"
-    ],
-    "subClusters": [],
-    "faqs": [
-      {
-        "question": "Can I distribute songs recorded with these beats to Spotify and Apple Music in Ireland?",
-        "answer": "Yes. All WAV and MP3 leases include full commercial streaming rights for Spotify, Apple Music, YouTube, and local streaming platforms in Ireland and worldwide."
-      },
-      {
-        "question": "How do I register my release with IMRO?",
-        "answer": "Register your track with IMRO by listing your artist/writer information for your lyrics and designating Onzieb (Different Type of Vibe) as the music producer/composer as specified in your PDF license agreement."
-      },
-      {
-        "question": "Are the beats 100% royalty-free and clear of uncleared samples?",
-        "answer": "Yes. Every instrumental is an original composition produced by Onzieb. You will never encounter copyright takedowns, strikes, or sample clearance disputes."
-      },
-      {
-        "question": "How quickly do I receive my untagged audio files?",
-        "answer": "Immediately upon checkout, your untagged 24-bit WAV file, MP3 version, and countersigned legal PDF license agreement are delivered directly to your email."
-      }
-    ]
-  },
+  "name": "Ireland – Irish Hip-Hop, Irish Drill & Celtic Trap (Revolut, IMRO & EUR)",
+  "flag": "🇮🇪",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "Revolut Pay, Apple Pay, Google Pay, Credit/Debit Cards, PayPal, Stripe",
+  "pro": "IMRO & RAAP",
+  "proFullName": "Irish Music Rights Organisation (IMRO) & RAAP",
+  "proGuide": "100% legal registration with IMRO and RAAP for RTÉ 2FM radio airplay, Choice Music Prize qualification, and global Spotify streaming. All instrumentals are original compositions by Onzieb with zero uncleared samples. You retain 100% of your artist and performance royalties.",
+  "headline": "Buy Beats in Ireland: Revolut Pay, IMRO Cleared 24-bit WAV & Stems",
+  "description": "Studio-grade untagged WAV leases and multitrack stems for Irish rappers, drill artists, and vocalists. Instant delivery with countersigned PDF legal license agreement.",
+  "popularGenres": [
+    "Irish Drill",
+    "Celtic Trap",
+    "Dublin Jazz-Hop",
+    "Gaeilge Rebel Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Dublin Northside Drill",
+      "slug": "ie/dublin-northside",
+      "description": "Finglas, Coolock, Ballymun & Sheriff Street street drill sound."
+    },
+    {
+      "name": "Dublin Southside Trap",
+      "slug": "ie/dublin-southside",
+      "description": "Crumlin, Tallaght & Clondalkin melodic trap and 808s."
+    },
+    {
+      "name": "Belfast Rebel Rap",
+      "slug": "ie/belfast",
+      "description": "Kneecap territory: bilingual Gaeilge rebel drill and high-voltage punk-trap."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I distribute songs recorded with these beats to Spotify, Apple Music, and YouTube in Ireland – Irish Hip-Hop, Irish Drill & Celtic Trap (Revolut, IMRO & EUR)?",
+      "answer": "Yes, 100%! All WAV and MP3 licenses from Different Type of Vibe include unlimited commercial streaming rights for Spotify, Apple Music, YouTube, Deezer, TikTok, and RTÉ 2FM radio airplay. You retain 100% of your artist and performance royalties."
+    },
+    {
+      "question": "Are these beats 100% cleared and safe for IMRO and RAAP registration?",
+      "answer": "Yes! Every single instrumental is an original composition produced by Onzieb with zero uncleared samples. You can safely register your release with IMRO, RAAP, and PPI without any copyright claims or takedown risks."
+    },
+    {
+      "question": "What payment methods are supported in Ireland?",
+      "answer": "In Euro (EUR €), you can pay instantly via Revolut Pay, Apple Pay, Google Pay, all Visa and Mastercard debit/credit cards, and PayPal with zero conversion fees."
+    },
+    {
+      "question": "When and how do I receive my untagged files and legal contract?",
+      "answer": "Immediately upon checkout, your untagged 24-bit studio WAV file, 320kbps MP3, and official countersigned PDF license agreement are delivered directly to your email."
+    }
+  ]
+},
   "de": {
     "name": "Germany",
     "flag": "🇩🇪",
@@ -18340,6 +18358,433 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
     {
       "question": "Ses etiketi (voice tag) olmayan stüdyo dosyalarını ne zaman ve nasıl alırım?",
       "answer": "Ödemeniz onaylandığı anda, ses etiketi bulunmayan stüdyo kalitesinde 24-bit WAV dosyası, yüksek kaliteli MP3 ve adınıza düzenlenmiş resmi PDF lisans sözleşmesi otomatik olarak e-posta adresinize gönderilir."
+    }
+  ]
+},
+  "ie/dublin-northside": {
+  "name": "Ireland – Dublin Northside (Finglas, Coolock & Drill Capital)",
+  "flag": "🇮🇪",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "Revolut Pay, Apple Pay, Google Pay, Cards",
+  "pro": "IMRO & RAAP",
+  "proFullName": "IMRO & RAAP",
+  "proGuide": "100% IMRO compliant with instant PDF contract delivery.",
+  "headline": "Dublin Northside Beats: Heavy 808 Drill Glides, Cold Drums & Kojaque Jazz",
+  "description": "The heartbeat of Irish drill and indie rap: from Finglas and Coolock drill glides to North Circular Road jazz-rap and Sheriff Street garage-trap.",
+  "popularGenres": [
+    "Northside Drill",
+    "Offica Style",
+    "Kojaque Sound",
+    "Sheriff St R&B"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Offica & A92 Drill",
+      "slug": "../../vibe/offica-a92-naruto-irish-drill",
+      "description": "Fast sliding 808s and technical drill bounce."
+    },
+    {
+      "name": "Kojaque Soft Boy Vibe",
+      "slug": "../../vibe/kojaque-soft-boy-lofi-jazz-rap",
+      "description": "Warm Rhodes, dusty boom bap and Dublin night storytelling."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I distribute songs recorded with these beats to Spotify, Apple Music, and YouTube in Ireland – Dublin Northside (Finglas, Coolock & Drill Capital)?",
+      "answer": "Yes, 100%! All WAV and MP3 licenses from Different Type of Vibe include unlimited commercial streaming rights for Spotify, Apple Music, YouTube, Deezer, TikTok, and RTÉ 2FM radio airplay. You retain 100% of your artist and performance royalties."
+    },
+    {
+      "question": "Are these beats 100% cleared and safe for IMRO and RAAP registration?",
+      "answer": "Yes! Every single instrumental is an original composition produced by Onzieb with zero uncleared samples. You can safely register your release with IMRO, RAAP, and PPI without any copyright claims or takedown risks."
+    },
+    {
+      "question": "What payment methods are supported in Ireland?",
+      "answer": "In Euro (EUR €), you can pay instantly via Revolut Pay, Apple Pay, Google Pay, all Visa and Mastercard debit/credit cards, and PayPal with zero conversion fees."
+    },
+    {
+      "question": "When and how do I receive my untagged files and legal contract?",
+      "answer": "Immediately upon checkout, your untagged 24-bit studio WAV file, 320kbps MP3, and official countersigned PDF license agreement are delivered directly to your email."
+    }
+  ]
+},
+  "ie/dublin-southside": {
+  "name": "Ireland – Dublin Southside (Crumlin, Tallaght & Street Trap)",
+  "flag": "🇮🇪",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "Revolut Pay, Apple Pay, Google Pay, Cards",
+  "pro": "IMRO & RAAP",
+  "proFullName": "IMRO & RAAP",
+  "proGuide": "IMRO registered commercial license ready for streaming.",
+  "headline": "Dublin Southside Beats: Heavy 808 Trap, Melodic Acoustic Guitars & Street Flow",
+  "description": "Crumlin, Tallaght and Clondalkin raw energy: booming sub-bass, melodic autotune trap, and spacious chords for real Dublin street lyricism.",
+  "popularGenres": [
+    "Southside Trap",
+    "Tallaght Sound",
+    "Melodic Guitars",
+    "Raw Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I distribute songs recorded with these beats to Spotify, Apple Music, and YouTube in Ireland – Dublin Southside (Crumlin, Tallaght & Street Trap)?",
+      "answer": "Yes, 100%! All WAV and MP3 licenses from Different Type of Vibe include unlimited commercial streaming rights for Spotify, Apple Music, YouTube, Deezer, TikTok, and RTÉ 2FM radio airplay. You retain 100% of your artist and performance royalties."
+    },
+    {
+      "question": "Are these beats 100% cleared and safe for IMRO and RAAP registration?",
+      "answer": "Yes! Every single instrumental is an original composition produced by Onzieb with zero uncleared samples. You can safely register your release with IMRO, RAAP, and PPI without any copyright claims or takedown risks."
+    },
+    {
+      "question": "What payment methods are supported in Ireland?",
+      "answer": "In Euro (EUR €), you can pay instantly via Revolut Pay, Apple Pay, Google Pay, all Visa and Mastercard debit/credit cards, and PayPal with zero conversion fees."
+    },
+    {
+      "question": "When and how do I receive my untagged files and legal contract?",
+      "answer": "Immediately upon checkout, your untagged 24-bit studio WAV file, 320kbps MP3, and official countersigned PDF license agreement are delivered directly to your email."
+    }
+  ]
+},
+  "ie/belfast": {
+  "name": "Ireland – Belfast & Ulster (Kneecap Rebel Drill & Gaeilge Rap)",
+  "flag": "🇮🇪",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "Revolut Pay, Apple Pay, Google Pay, Cards",
+  "pro": "IMRO & PRS",
+  "proFullName": "IMRO & PRS for Music",
+  "proGuide": "100% original production cleared for worldwide festival and radio distribution.",
+  "headline": "Belfast Rebel Beats: Kneecap Style High-Voltage Drill, Punk-Rap & Gaeilge Cadence",
+  "description": "Electrifying high-energy production: relentless sliding 808s, punk-rap aggression, and traditional whistles for bilingual Irish and English rebel anthems.",
+  "popularGenres": [
+    "Rebel Drill",
+    "Kneecap Style",
+    "Gaeilge Rap",
+    "Punk Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Kneecap Rebel Vibe",
+      "slug": "../../vibe/kneecap-belfast-rebel-punk-drill",
+      "description": "High-voltage Irish rebel drill and punk-trap bounce."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I distribute songs recorded with these beats to Spotify, Apple Music, and YouTube in Ireland – Belfast & Ulster (Kneecap Rebel Drill & Gaeilge Rap)?",
+      "answer": "Yes, 100%! All WAV and MP3 licenses from Different Type of Vibe include unlimited commercial streaming rights for Spotify, Apple Music, YouTube, Deezer, TikTok, and RTÉ 2FM radio airplay. You retain 100% of your artist and performance royalties."
+    },
+    {
+      "question": "Are these beats 100% cleared and safe for IMRO and RAAP registration?",
+      "answer": "Yes! Every single instrumental is an original composition produced by Onzieb with zero uncleared samples. You can safely register your release with IMRO, RAAP, and PPI without any copyright claims or takedown risks."
+    },
+    {
+      "question": "What payment methods are supported in Ireland?",
+      "answer": "In Euro (EUR €), you can pay instantly via Revolut Pay, Apple Pay, Google Pay, all Visa and Mastercard debit/credit cards, and PayPal with zero conversion fees."
+    },
+    {
+      "question": "When and how do I receive my untagged files and legal contract?",
+      "answer": "Immediately upon checkout, your untagged 24-bit studio WAV file, 320kbps MP3, and official countersigned PDF license agreement are delivered directly to your email."
+    }
+  ]
+},
+  "ie/cork": {
+  "name": "Ireland – Cork & Munster (The Rebel County Hip-Hop)",
+  "flag": "🇮🇪",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "Revolut Pay, Apple Pay, Google Pay, Cards",
+  "pro": "IMRO & RAAP",
+  "proFullName": "IMRO & RAAP",
+  "proGuide": "100% IMRO compliant with instant commercial PDF lease.",
+  "headline": "Cork City Beats: Deep Munster Sub-Bass, Alternative Melodic Trap & Gritty Hip-Hop",
+  "description": "The proud sound of the Rebel County: atmospheric synths, deep low-end rumble, and spacious drum layouts tailored for Cork wordsmiths.",
+  "popularGenres": [
+    "Cork Rap",
+    "Munster Trap",
+    "Alternative Hip Hop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I distribute songs recorded with these beats to Spotify, Apple Music, and YouTube in Ireland – Cork & Munster (The Rebel County Hip-Hop)?",
+      "answer": "Yes, 100%! All WAV and MP3 licenses from Different Type of Vibe include unlimited commercial streaming rights for Spotify, Apple Music, YouTube, Deezer, TikTok, and RTÉ 2FM radio airplay. You retain 100% of your artist and performance royalties."
+    },
+    {
+      "question": "Are these beats 100% cleared and safe for IMRO and RAAP registration?",
+      "answer": "Yes! Every single instrumental is an original composition produced by Onzieb with zero uncleared samples. You can safely register your release with IMRO, RAAP, and PPI without any copyright claims or takedown risks."
+    },
+    {
+      "question": "What payment methods are supported in Ireland?",
+      "answer": "In Euro (EUR €), you can pay instantly via Revolut Pay, Apple Pay, Google Pay, all Visa and Mastercard debit/credit cards, and PayPal with zero conversion fees."
+    },
+    {
+      "question": "When and how do I receive my untagged files and legal contract?",
+      "answer": "Immediately upon checkout, your untagged 24-bit studio WAV file, 320kbps MP3, and official countersigned PDF license agreement are delivered directly to your email."
+    }
+  ]
+},
+  "ie/galway": {
+  "name": "Ireland – Galway & West of Ireland (Celtic Trad & Arts Hub)",
+  "flag": "🇮🇪",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "Revolut Pay, Apple Pay, Google Pay, Cards",
+  "pro": "IMRO & RAAP",
+  "proFullName": "IMRO & RAAP",
+  "proGuide": "Original acoustic and electronic instrumentation.",
+  "headline": "Galway Hip-Hop Beats: Celtic Trad Fusion, Live Acoustic Guitars & Western Vibe",
+  "description": "Where bohemian arts meet urban trap: acoustic instruments, Irish whistle textures, and swinging 808 percussion.",
+  "popularGenres": [
+    "Galway Trap",
+    "Celtic Trad Fusion",
+    "Acoustic Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Celtic Trad Vibe",
+      "slug": "../../vibe/the-scratch-celtic-trad-acoustic-trap",
+      "description": "Trad fiddle and whistle hooks with modern trap drums."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I distribute songs recorded with these beats to Spotify, Apple Music, and YouTube in Ireland – Galway & West of Ireland (Celtic Trad & Arts Hub)?",
+      "answer": "Yes, 100%! All WAV and MP3 licenses from Different Type of Vibe include unlimited commercial streaming rights for Spotify, Apple Music, YouTube, Deezer, TikTok, and RTÉ 2FM radio airplay. You retain 100% of your artist and performance royalties."
+    },
+    {
+      "question": "Are these beats 100% cleared and safe for IMRO and RAAP registration?",
+      "answer": "Yes! Every single instrumental is an original composition produced by Onzieb with zero uncleared samples. You can safely register your release with IMRO, RAAP, and PPI without any copyright claims or takedown risks."
+    },
+    {
+      "question": "What payment methods are supported in Ireland?",
+      "answer": "In Euro (EUR €), you can pay instantly via Revolut Pay, Apple Pay, Google Pay, all Visa and Mastercard debit/credit cards, and PayPal with zero conversion fees."
+    },
+    {
+      "question": "When and how do I receive my untagged files and legal contract?",
+      "answer": "Immediately upon checkout, your untagged 24-bit studio WAV file, 320kbps MP3, and official countersigned PDF license agreement are delivered directly to your email."
+    }
+  ]
+},
+  "ie/limerick": {
+  "name": "Ireland – Limerick & Mid-West (Denise Chaila & PX Music Hub)",
+  "flag": "🇮🇪",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "Revolut Pay, Apple Pay, Google Pay, Cards",
+  "pro": "IMRO & RAAP",
+  "proFullName": "IMRO & RAAP",
+  "proGuide": "Choice Music Prize qualified commercial licensing.",
+  "headline": "Limerick Rap Beats: Lyrical Afro-Irish Trap, Gritty Boom Bap & Choice Prize Vibe",
+  "description": "The capital of lyrical Irish rap: bold brass hooks, soulful keys, and technical punchline drums inspired by Denise Chaila and PX Music.",
+  "popularGenres": [
+    "Limerick Rap",
+    "Afro-Irish Trap",
+    "PX Music Sound",
+    "Choice Music Vibe"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Denise Chaila Vibe",
+      "slug": "../../vibe/denise-chaila-anb-lyrical-afro-irish-trap",
+      "description": "Lyrical afro-Irish bounce with rich conscious instrumentation."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I distribute songs recorded with these beats to Spotify, Apple Music, and YouTube in Ireland – Limerick & Mid-West (Denise Chaila & PX Music Hub)?",
+      "answer": "Yes, 100%! All WAV and MP3 licenses from Different Type of Vibe include unlimited commercial streaming rights for Spotify, Apple Music, YouTube, Deezer, TikTok, and RTÉ 2FM radio airplay. You retain 100% of your artist and performance royalties."
+    },
+    {
+      "question": "Are these beats 100% cleared and safe for IMRO and RAAP registration?",
+      "answer": "Yes! Every single instrumental is an original composition produced by Onzieb with zero uncleared samples. You can safely register your release with IMRO, RAAP, and PPI without any copyright claims or takedown risks."
+    },
+    {
+      "question": "What payment methods are supported in Ireland?",
+      "answer": "In Euro (EUR €), you can pay instantly via Revolut Pay, Apple Pay, Google Pay, all Visa and Mastercard debit/credit cards, and PayPal with zero conversion fees."
+    },
+    {
+      "question": "When and how do I receive my untagged files and legal contract?",
+      "answer": "Immediately upon checkout, your untagged 24-bit studio WAV file, 320kbps MP3, and official countersigned PDF license agreement are delivered directly to your email."
+    }
+  ]
+},
+  "ie/drogheda-louth": {
+  "name": "Ireland – Drogheda & County Louth (A92 Drill Heartland)",
+  "flag": "🇮🇪",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "Revolut Pay, Apple Pay, Google Pay, Cards",
+  "pro": "IMRO & RAAP",
+  "proFullName": "IMRO & RAAP",
+  "proGuide": "100% royalty-free and clear of uncleared samples.",
+  "headline": "Drogheda Beats: A92 Style Irish Drill, Sliding 808 Glides & Fast Technical Flow",
+  "description": "The birthplace of the international Irish drill explosion: 144 BPM sliding basslines, dark bells, and explosive drill bounces.",
+  "popularGenres": [
+    "A92 Drill",
+    "Drogheda Sound",
+    "Fast 808s",
+    "Technical Drill"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "A92 Offica Hub",
+      "slug": "../../vibe/offica-a92-naruto-irish-drill",
+      "description": "Global Irish drill anthems with sliding 808s."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I distribute songs recorded with these beats to Spotify, Apple Music, and YouTube in Ireland – Drogheda & County Louth (A92 Drill Heartland)?",
+      "answer": "Yes, 100%! All WAV and MP3 licenses from Different Type of Vibe include unlimited commercial streaming rights for Spotify, Apple Music, YouTube, Deezer, TikTok, and RTÉ 2FM radio airplay. You retain 100% of your artist and performance royalties."
+    },
+    {
+      "question": "Are these beats 100% cleared and safe for IMRO and RAAP registration?",
+      "answer": "Yes! Every single instrumental is an original composition produced by Onzieb with zero uncleared samples. You can safely register your release with IMRO, RAAP, and PPI without any copyright claims or takedown risks."
+    },
+    {
+      "question": "What payment methods are supported in Ireland?",
+      "answer": "In Euro (EUR €), you can pay instantly via Revolut Pay, Apple Pay, Google Pay, all Visa and Mastercard debit/credit cards, and PayPal with zero conversion fees."
+    },
+    {
+      "question": "When and how do I receive my untagged files and legal contract?",
+      "answer": "Immediately upon checkout, your untagged 24-bit studio WAV file, 320kbps MP3, and official countersigned PDF license agreement are delivered directly to your email."
+    }
+  ]
+},
+  "ie/waterford": {
+  "name": "Ireland – Waterford & South East",
+  "flag": "🇮🇪",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "Revolut Pay, Apple Pay, Google Pay, Cards",
+  "pro": "IMRO & RAAP",
+  "proFullName": "IMRO & RAAP",
+  "proGuide": "Full commercial rights for Spotify and Apple Music.",
+  "headline": "Waterford Rap Beats: Coastal Trap, Underground Boom Bap & Clean 808s",
+  "description": "Crisp punchy snares, rolling hi-hats, and melodic chord progressions for artists across Waterford and the Sunny South East.",
+  "popularGenres": [
+    "Waterford Trap",
+    "South East Rap",
+    "Crisp Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I distribute songs recorded with these beats to Spotify, Apple Music, and YouTube in Ireland – Waterford & South East?",
+      "answer": "Yes, 100%! All WAV and MP3 licenses from Different Type of Vibe include unlimited commercial streaming rights for Spotify, Apple Music, YouTube, Deezer, TikTok, and RTÉ 2FM radio airplay. You retain 100% of your artist and performance royalties."
+    },
+    {
+      "question": "Are these beats 100% cleared and safe for IMRO and RAAP registration?",
+      "answer": "Yes! Every single instrumental is an original composition produced by Onzieb with zero uncleared samples. You can safely register your release with IMRO, RAAP, and PPI without any copyright claims or takedown risks."
+    },
+    {
+      "question": "What payment methods are supported in Ireland?",
+      "answer": "In Euro (EUR €), you can pay instantly via Revolut Pay, Apple Pay, Google Pay, all Visa and Mastercard debit/credit cards, and PayPal with zero conversion fees."
+    },
+    {
+      "question": "When and how do I receive my untagged files and legal contract?",
+      "answer": "Immediately upon checkout, your untagged 24-bit studio WAV file, 320kbps MP3, and official countersigned PDF license agreement are delivered directly to your email."
+    }
+  ]
+},
+  "ie/dundalk": {
+  "name": "Ireland – Dundalk & Border County Beats",
+  "flag": "🇮🇪",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "Revolut Pay, Apple Pay, Google Pay, Cards",
+  "pro": "IMRO & RAAP",
+  "proFullName": "IMRO & RAAP",
+  "proGuide": "Instant WAV and stem trackout download with PDF agreement.",
+  "headline": "Dundalk Beats: Border Region Drill, Hardcore Trap & Raw Street Drums",
+  "description": "Cold, menacing sub-bass lines, punchy kicks, and raw underground drill textures tailored for the Dundalk and border rap community.",
+  "popularGenres": [
+    "Border Drill",
+    "Dundalk Trap",
+    "Raw Street Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I distribute songs recorded with these beats to Spotify, Apple Music, and YouTube in Ireland – Dundalk & Border County Beats?",
+      "answer": "Yes, 100%! All WAV and MP3 licenses from Different Type of Vibe include unlimited commercial streaming rights for Spotify, Apple Music, YouTube, Deezer, TikTok, and RTÉ 2FM radio airplay. You retain 100% of your artist and performance royalties."
+    },
+    {
+      "question": "Are these beats 100% cleared and safe for IMRO and RAAP registration?",
+      "answer": "Yes! Every single instrumental is an original composition produced by Onzieb with zero uncleared samples. You can safely register your release with IMRO, RAAP, and PPI without any copyright claims or takedown risks."
+    },
+    {
+      "question": "What payment methods are supported in Ireland?",
+      "answer": "In Euro (EUR €), you can pay instantly via Revolut Pay, Apple Pay, Google Pay, all Visa and Mastercard debit/credit cards, and PayPal with zero conversion fees."
+    },
+    {
+      "question": "When and how do I receive my untagged files and legal contract?",
+      "answer": "Immediately upon checkout, your untagged 24-bit studio WAV file, 320kbps MP3, and official countersigned PDF license agreement are delivered directly to your email."
     }
   ]
 },
