@@ -31623,4 +31623,1448 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "1"
   ]
 },
+  {
+  "slug": "gino-mella-carita-triste-reggaeton-romantico",
+  "name": "Gino Mella Carita Triste Reggaetón Romántico",
+  "category": "vibe",
+  "badge": "Carita Triste Vibe",
+  "headline": "Beats Estilo Gino Mella: Reggaetón Romántico Melódico, Sintes Dulces & Despecho",
+  "description": "El rey del desamor en el género chileno: sintetizadores envolventes, cajas de dembow suaves y acordes emotivos para coros virales que cantan a todo pulmón en el Movistar Arena.",
+  "targetArtists": [
+    "Gino Mella",
+    "Carita Triste",
+    "Jairo Vera Crossover",
+    "Al Amor"
+  ],
+  "recommendedBpm": "92-96 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Sintes Dulces",
+    "Perreo Romántico",
+    "Despecho Bailable",
+    "Melódico"
+  ],
+  "popularGenres": [
+    "Reggaetón Romántico",
+    "Pop Urbano",
+    "Urbano Chileno"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "jairo-vera-tarima-pop-urbano",
+  "name": "Jairo Vera Tarima Pop Urbano",
+  "category": "vibe",
+  "badge": "Tarima Pop-Urbano",
+  "headline": "Beats Estilo Jairo Vera: Coros Pegajosos, Reggaetón Radial & Melodías Juveniles",
+  "description": "Fórmula probada para millones de reproducciones: melodías de teclado contagiosas, baterías limpias de dembow comercial y dinamismo para tarimas multitudinarias.",
+  "targetArtists": [
+    "Jairo Vera",
+    "Pa K Te Enamores",
+    "Tarima",
+    "Gino Mella Crossover"
+  ],
+  "recommendedBpm": "94-98 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Coros Pegajosos",
+    "Dembow Radial",
+    "Melodías Juveniles",
+    "Tarima"
+  ],
+  "popularGenres": [
+    "Pop Urbano",
+    "Reggaetón Chileno",
+    "Commercial Dance"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "king-savagge-pantano-hardcore-perreo",
+  "name": "King Savagge Pantano Hardcore Perreo",
+  "category": "vibe",
+  "badge": "Pantano Hardcore Perreo",
+  "headline": "Beats Estilo King Savagge: Dembow Agresivo, Bajos 808 Pesados & Sonido Pantano",
+  "description": "El perreo más rudo y contundente de la capital: caídas de bajo brutales, cajas con pegada demoledora y cortes inesperados para rimas agresivas de discoteca.",
+  "targetArtists": [
+    "King Savagge",
+    "Pantano",
+    "Discoteca",
+    "El Jordan 23 Crossover"
+  ],
+  "recommendedBpm": "96-102 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Dembow Agresivo",
+    "Bajo 808 Brutal",
+    "Sonido Pantano",
+    "Pegada Dura"
+  ],
+  "popularGenres": [
+    "Hardcore Perreo",
+    "Urbano Chileno",
+    "Club Banger"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "nickoog-clk-philippe-pleind-trap",
+  "name": "Nickoog Clk Philippe Pleind Trap",
+  "category": "vibe",
+  "badge": "Philippe Pleind Trap",
+  "headline": "Beats Estilo Nickoog Clk: Trap Melódico Callejero, Sintes Enérgicos & 808s",
+  "description": "El flow carismático de la nueva ola: sintetizadores brillantes, caídas dinámicas de 808 y ritmo contagioso para rimas de lujo callejero y superación.",
+  "targetArtists": [
+    "Nickoog Clk",
+    "Somos Iguales",
+    "Philippe Pleind",
+    "La Serena Sound"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "C-Minor / E-Minor",
+  "vibeAttributes": [
+    "Trap Melódico",
+    "Sintes Enérgicos",
+    "Lujo Callejero",
+    "808 Dinámico"
+  ],
+  "popularGenres": [
+    "Trap Chileno",
+    "Melodic Trap",
+    "Urbano"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "julianno-sosa-898-trap-callejero",
+  "name": "Julianno Sosa 898 Trap Callejero",
+  "category": "vibe",
+  "badge": "898 Trap Callejero",
+  "headline": "Beats Estilo Julianno Sosa: Trap Callejero de Puente Alto a Miami, Campanas & 808",
+  "description": "El sonido internacional de la calle: campanas gélidas de trap norteamericano, bajos 808 con distorsión controlada y baterías cortantes para rimas reales de vida callejera.",
+  "targetArtists": [
+    "Julianno Sosa",
+    "898",
+    "Cochinae",
+    "Pablo Chill-E Crossover"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "D-Minor / F-Minor",
+  "vibeAttributes": [
+    "Trap Internacional",
+    "Campanas Gélidas",
+    "808 con Distorsión",
+    "898 Style"
+  ],
+  "popularGenres": [
+    "Trap Callejero",
+    "Trap Chileno",
+    "Street Sound"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "drefquila-kun-smooth-rnb-trap",
+  "name": "DrefQuila Kun Smooth RnB Trap",
+  "category": "vibe",
+  "badge": "Kun R&B Trap Vibe",
+  "headline": "Beats Estilo DrefQuila: R&B Futurista, Pianos Aterciopelados & Flow Espacial",
+  "description": "La elegancia y versatilidad sonora: acordes de piano Rhodes con chorus, sintetizadores espaciales y baterías de trap suaves para melodías vocales finas y autotune flotante.",
+  "targetArtists": [
+    "DrefQuila",
+    "A Fuego",
+    "Kun",
+    "Claudia"
+  ],
+  "recommendedBpm": "110-125 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "R&B Futurista",
+    "Pianos Rhodes",
+    "Flow Espacial",
+    "Trap Suave"
+  ],
+  "popularGenres": [
+    "R&B Trap",
+    "Neo-Soul Urbano",
+    "Urbano Fino"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "cease-cantante-del-pueblo-cumbia-trap",
+  "name": "Ceaese Cantante del Pueblo Synth Trap",
+  "category": "vibe",
+  "badge": "Synth-Trap Vibe",
+  "headline": "Beats Estilo Ceaese: Trap Bailable, Sintes Electrónicos & Actitud de Fiesta",
+  "description": "Fusión vanguardista entre la electrónica de club y el trap latino: sintetizadores analógicos enérgicos, cajas crujientes y bajos para saltar en la disco.",
+  "targetArtists": [
+    "Ceaese",
+    "Dámelo",
+    "Utopía",
+    "Polimá Crossover"
+  ],
+  "recommendedBpm": "120-130 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Sintes Analógicos",
+    "Trap Bailable",
+    "Club Energy",
+    "Vanguardia"
+  ],
+  "popularGenres": [
+    "Synth Trap",
+    "Electro Trap",
+    "Urbano Alternativo"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "harry-nach-tak-tiki-tak-edm-trap",
+  "name": "Harry Nach Tak Tiki Tak EDM Trap",
+  "category": "vibe",
+  "badge": "EDM Trap Viral",
+  "headline": "Beats Estilo Harry Nach: Drops Electrónicos de EDM, Hi-Hats Rápidos & Trap Viral",
+  "description": "El hit viral que cruzó continentes: leads de sintetizador distorsionados, caídas de bajo electrónicas y baterías de trap aceleradas para festivales.",
+  "targetArtists": [
+    "Harry Nach",
+    "Tak Tiki Tak",
+    "Flotao",
+    "Drip"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Drops Electrónicos",
+    "EDM Trap",
+    "Leads Distorsionados",
+    "Viral Global"
+  ],
+  "popularGenres": [
+    "EDM Trap",
+    "Club Trap",
+    "Urbano Electrónico"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "dres-d-killtros-hardcore-boombap-santiago",
+  "name": "De Killtros Hardcore Boombap Santiago",
+  "category": "vibe",
+  "badge": "De Killtros Boombap",
+  "headline": "Beats Estilo De Killtros: Bombos con Pegada Analógica, Cajas Secas & Rap Callejero",
+  "description": "La leyenda del underground santiaguino: cortes polvorientos de vinilo, líneas de bajo densas y baterías analógicas pesadas para rapear con la verdad.",
+  "targetArtists": [
+    "De Killtros",
+    "ChysteMC",
+    "Jonas Sanche",
+    "Santiago Underground"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "Batería Analógica",
+    "Caja Seca",
+    "Rap Callejero",
+    "Underground Puro"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico",
+    "Hip Hop Chileno",
+    "Hardcore Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "soulfia-dark-rnb-female-trap-chile",
+  "name": "Soulfia Dark RnB Female Trap Chile",
+  "category": "vibe",
+  "badge": "Dark R&B Femenino",
+  "headline": "Beats Estilo Soulfía: R&B Oscuro Contemporáneo, Pianos Eléctricos & Trap Fino",
+  "description": "El poder vocal femenino chileno: acordes de piano menores y oscuros, sintetizadores atmosféricos y baterías finas de trap para voces con potencia y sofisticación.",
+  "targetArtists": [
+    "Soulfía",
+    "Génesis",
+    "Akriila Crossover",
+    "R&B Chileno"
+  ],
+  "recommendedBpm": "115-125 BPM",
+  "recommendedKey": "E-Minor / B-Minor",
+  "vibeAttributes": [
+    "R&B Oscuro",
+    "Sofisticación",
+    "Pianos Eléctricos",
+    "Poder Femenino"
+  ],
+  "popularGenres": [
+    "R&B Trap",
+    "Urbano Femenino",
+    "Neo-Soul"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "kai-la-familia-drill-poblacion",
+  "name": "Drill de Población Chileno 140 BPM",
+  "category": "vibe",
+  "badge": "Drill de Población",
+  "headline": "Beats de Drill Chileno: Bajos 808 Deslizantes a 140 BPM & Campanas de Calle",
+  "description": "La adaptación chilena del drill mundial: cajas rápidas sincopadas, campanas gélidas y sub-bajos que barren el asfalto para narrar la realidad de la población.",
+  "targetArtists": [
+    "Drillers Chilenos",
+    "Puente Alto Drill",
+    "Santiago Sur Drill"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Drill de Población",
+    "Bajo Deslizante 808",
+    "Campanas Gélidas",
+    "140 BPM"
+  ],
+  "popularGenres": [
+    "Drill Chileno",
+    "Trap Callejero",
+    "Street Sound"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "portavoz-salvaje-decibel-conscious-rap",
+  "name": "Portavoz Salvaje Decibel Conscious Rap",
+  "category": "vibe",
+  "badge": "Rap Político Consciente",
+  "headline": "Beats Estilo Portavoz: Cuerdas Dramáticas, Bombos Analógicos & Mensaje Social",
+  "description": "La pluma más afilada del rap latino: arreglos orquestales con tensión dramática, baterías clásicas de boom bap sin compresión artificial y espacio para barras de conciencia pura.",
+  "targetArtists": [
+    "Portavoz",
+    "Salvaje Decibel",
+    "Escribo Rap Con R De Revolución"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Cuerdas Dramáticas",
+    "Mensaje Social",
+    "Batería Clásica",
+    "Conciencia Pura"
+  ],
+  "popularGenres": [
+    "Rap Consciente",
+    "Boom Bap Político",
+    "Hip Hop Chileno"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6"
+  ]
+},
+  {
+  "slug": "pistas-de-reggaeton-chileno-baratas-cuenta-rut",
+  "name": "Pistas de Reggaetón Chileno Baratas (Pago Cuenta RUT)",
+  "category": "genre",
+  "badge": "Pistas Baratas Cuenta RUT",
+  "headline": "Pistas de Reggaetón Baratas en Chile: Paga Fácil con tu Cuenta RUT (CLP $)",
+  "description": "Instrumentales comerciales de calidad de estudio sin pagar de más. Paga directamente con tu Cuenta RUT de BancoEstado y descarga de inmediato archivos WAV 24-bit sin marcas de voz.",
+  "targetArtists": [
+    "Cantantes de Perreo",
+    "Artistas Emergentes",
+    "Compositores Chilenos"
+  ],
+  "recommendedBpm": "Todos los Tempos",
+  "recommendedKey": "Todas las Tonalidades",
+  "vibeAttributes": [
+    "Precio en Pesos CLP",
+    "Pago Cuenta RUT",
+    "Sin Dólares",
+    "Descarga WAV"
+  ],
+  "popularGenres": [
+    "Reggaetón Chileno",
+    "Perreo Melódico",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "beats-de-trap-shishi-gang-type-beat-wav",
+  "name": "Beats de Trap Shishi Gang Type Beat WAV con Stems",
+  "category": "genre",
+  "badge": "Shishi Gang Type Beat",
+  "headline": "Shishi Gang Type Beat: Bajos 808 Pesados, Campanas Frías y Stems Multitrack",
+  "description": "El sonido auténtico de población de Puente Alto a 135 BPM. Canales separados multitrack para que puedas mezclar y procesar tu voz con total libertad en tu estudio.",
+  "targetArtists": [
+    "Pablo Chill-E Fans",
+    "Shishi Gang Fans",
+    "Traperos de Calle"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Stems Separados",
+    "Bajo 808 Pesado",
+    "Campanas Frías",
+    "WAV 24-bit"
+  ],
+  "popularGenres": [
+    "Trap Chileno",
+    "Shishi Sound",
+    "Hardcore Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "instrumentales-de-perreo-romantico-estilo-cris-mj",
+  "name": "Instrumentales de Perreo Romántico con Campanitas Estilo Cris Mj",
+  "category": "genre",
+  "badge": "Perreo Romántico Campanitas",
+  "headline": "Beats de Perreo Romántico a 96 BPM: Campanitas de Sintetizador y Dembow Suave",
+  "description": "El estilo más viral del género urbano chileno: melodías dulces de sintetizador con chorus, dembows bailables y bajos 808 redondos para coros de despecho y fiesta.",
+  "targetArtists": [
+    "Cris Mj Fans",
+    "Gino Mella Fans",
+    "Cantantes de Perreo"
+  ],
+  "recommendedBpm": "94-98 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Campanitas de Sinte",
+    "Perreo Romántico",
+    "Dembow Suave",
+    "WAV Estudio"
+  ],
+  "popularGenres": [
+    "Reggaetón Chileno",
+    "Perreo Melódico",
+    "Urbano Latino"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "bases-de-rap-con-headroom-para-fl-studio-chile",
+  "name": "Bases de Rap con -6dB Headroom para FL Studio Chile",
+  "category": "genre",
+  "badge": "Headroom -6dB Estudio",
+  "headline": "Bases de Rap con -6dB Headroom: Espacio Limpio para Grabar tu Voz en FL Studio",
+  "description": "Grabá tus barras sin saturación ni distorsiones indeseadas. Pistas masterizadas respetando el rango dinámico para que tu ingeniero trabaje con total libertad.",
+  "targetArtists": [
+    "Ingenieros de Mezcla",
+    "Home Studio",
+    "Productores Urbanos"
+  ],
+  "recommendedBpm": "88-144 BPM",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "-6dB Headroom",
+    "Mezcla Limpia",
+    "Estándar de Estudio",
+    "FL Studio Ready"
+  ],
+  "popularGenres": [
+    "Trap Chileno",
+    "Boom Bap",
+    "Reggaetón"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1",
+    "6"
+  ]
+},
+  {
+  "slug": "combo-de-beats-2x1-chile-cuenta-rut",
+  "name": "Combo de Beats 2x1 Promoción Chile (Paga con Cuenta RUT)",
+  "category": "genre",
+  "badge": "Promoción 2x1 Chile",
+  "headline": "Promoción de Beats en Chile: Compra 2 Beats y Llevate 1 Adicional Gratis",
+  "description": "Produce tu EP o mixtape por una fracción de su costo. Descuento automático aplicado al añadir tus pistas al carrito de compra en Pesos Chilenos (CLP $).",
+  "targetArtists": [
+    "Artistas de Mixtape",
+    "Grupos Urbanos",
+    "Lanzamientos de EP"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Compra 2 Lleva 3",
+    "Descuento en Pesos CLP",
+    "WAV de Estudio",
+    "Ahorro Cuenta RUT"
+  ],
+  "popularGenres": [
+    "Reggaetón Chileno",
+    "Trap Chileno",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6"
+  ]
+},
+  {
+  "slug": "pistas-de-rnb-trap-chileno-estilo-young-cister",
+  "name": "Pistas de R&B Trap Chileno con Pianos Rhodes Estilo Young Cister",
+  "category": "genre",
+  "badge": "R&B Trap Rhodes",
+  "headline": "Beats de R&B Trap Chileno: Pianos Rhodes Aterciopelados y Acordes Neo-Soul",
+  "description": "La vertiente más sofisticada de la música urbana: progresiones ricas de teclado eléctrico, bajos 808 redondos y baterías suaves para melodías vocales finas.",
+  "targetArtists": [
+    "Young Cister Fans",
+    "DrefQuila Fans",
+    "Cantantes de R&B"
+  ],
+  "recommendedBpm": "100-120 BPM",
+  "recommendedKey": "E-Minor / B-Minor",
+  "vibeAttributes": [
+    "Pianos Rhodes",
+    "Neo-Soul Urbano",
+    "Trap Suave",
+    "Coros Finos"
+  ],
+  "popularGenres": [
+    "R&B Trap",
+    "Pop Urbano",
+    "Urbano Chileno"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "comprar-pistas-para-ep-de-reggaeton-chile",
+  "name": "Comprar Pistas para Lanzar EP o Álbum de Reggaetón en Chile",
+  "category": "genre",
+  "badge": "Pistas para Álbum",
+  "headline": "Pistas Coherentes para Álbum o EP en Chile: Sonido de Estudio y SCD Safe",
+  "description": "Lanza tu disco con un sonido consistente y competitivo a nivel internacional. Licencias comerciales válidas ante la SCD y plataformas de streaming.",
+  "targetArtists": [
+    "Artistas Urbanos",
+    "Productores Ejecutivos",
+    "Managers"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Coherencia de Álbum",
+    "Licencia SCD",
+    "WAV 24-bit",
+    "Descuento por Volumen"
+  ],
+  "popularGenres": [
+    "Reggaetón Chileno",
+    "Trap Chileno",
+    "Pop Urbano"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "instrumentales-de-drill-chileno-con-bajos-808",
+  "name": "Instrumentales de Drill Chileno con Bajos 808 Deslizantes",
+  "category": "genre",
+  "badge": "Drill Chileno 808",
+  "headline": "Beats de Drill Chileno a 140 BPM: Cajas Sincopadas y Bajos 808 Deslizantes",
+  "description": "El sonido que retumba en las poblaciones: campanas gélidas, patrones sincopados de caja y líneas de bajo con deslizamientos que estremecen los parlantes.",
+  "targetArtists": [
+    "Drillers Chilenos",
+    "Traperos de Calle",
+    "Raperos"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "140 BPM Drill",
+    "Bajo Deslizante",
+    "Campanas Frías",
+    "WAV Estudio"
+  ],
+  "popularGenres": [
+    "Drill Chileno",
+    "Trap Callejero",
+    "Street Sound"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "produccion-de-beats-personalizados-en-santiago",
+  "name": "Producción de Beats Personalizados en Santiago de Chile",
+  "category": "genre",
+  "badge": "Producción a Medida",
+  "headline": "Producción Musical Exclusiva a Medida en Chile: Trabaja Directamente con Onzieb",
+  "description": "Crea una instrumental única pensada exclusivamente para tu registro vocal y visión artística. Comunicación directa y asesoramiento técnico.",
+  "targetArtists": [
+    "Artistas Profesionales",
+    "Proyectos de Sello",
+    "Compositores"
+  ],
+  "recommendedBpm": "BPM a Medida",
+  "recommendedKey": "Tono a Medida",
+  "vibeAttributes": [
+    "A Medida",
+    "Exclusivo",
+    "Contacto Directo",
+    "Mezcla Personalizada"
+  ],
+  "popularGenres": [
+    "Reggaetón Chileno",
+    "Trap Chileno",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "musica-sin-copyright-para-streamers-y-tiktok-chile",
+  "name": "Música Sin Copyright para Streamers y TikTok en Chile",
+  "category": "genre",
+  "badge": "Sin Reclamos Chile",
+  "headline": "Música Libre de Copyright para YouTube, Twitch y TikTok en Chile",
+  "description": "Monetiza tus videos y transmisiones en vivo sin temor a penalizaciones o bloqueos de Content ID. Todas las licencias incluyen garantía legal completa.",
+  "targetArtists": [
+    "Streamers Chilenos",
+    "YouTubers",
+    "Creadores de Contenido"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Cero Strikes",
+    "Monetización Completa",
+    "Twitch Ready",
+    "YouTube Safe"
+  ],
+  "popularGenres": [
+    "Reggaetón Chileno",
+    "Chillhop",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2",
+    "5"
+  ]
+},
+  {
+  "slug": "rancagua-ohiggins-reggaeton-chileno-beats",
+  "name": "Rancagua Reggaetón Chileno Beats",
+  "category": "scene",
+  "badge": "Rancagua Reggaetón Chileno",
+  "headline": "Rancagua (VI Región) Reggaetón Chileno Beats: Pistas WAV & Cuenta RUT / Webpay",
+  "description": "Campanitas de sintetizador pegajosas a 96 BPM, dembow bailable y calidad WAV 24-bit de estudio para artistas de Rancagua.",
+  "targetArtists": [
+    "Artistas de Rancagua",
+    "Música Urbana Chile",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "95-100 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Rancagua",
+    "Reggaetón Chileno",
+    "Cuenta RUT",
+    "Aprobado SCD"
+  ],
+  "popularGenres": [
+    "Reggaetón Chileno Beats",
+    "Reggaetón Chileno",
+    "Trap Chileno"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "rancagua-ohiggins-trap-chileno-shishi-style",
+  "name": "Rancagua Trap Chileno Shishi Style",
+  "category": "scene",
+  "badge": "Rancagua Trap Chileno",
+  "headline": "Rancagua (VI Región) Trap Chileno Shishi Style: Pistas WAV & Cuenta RUT / Webpay",
+  "description": "Bajos 808 pesados con pegada seca, campanas frías y melodías oscuras con identidad de población para Rancagua.",
+  "targetArtists": [
+    "Artistas de Rancagua",
+    "Música Urbana Chile",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Rancagua",
+    "Trap Chileno",
+    "Cuenta RUT",
+    "Aprobado SCD"
+  ],
+  "popularGenres": [
+    "Trap Chileno Shishi Style",
+    "Reggaetón Chileno",
+    "Trap Chileno"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "rancagua-ohiggins-boombap-chileno-clasico",
+  "name": "Rancagua Boom Bap Chileno Clásico",
+  "category": "scene",
+  "badge": "Rancagua Boom Bap Clásico",
+  "headline": "Rancagua (VI Región) Boom Bap Chileno Clásico: Pistas WAV & Cuenta RUT / Webpay",
+  "description": "Baterías analógicas con golpe seco, samples de jazz polvorientos y métrica pesada inspirada en la historia hip hop de Rancagua.",
+  "targetArtists": [
+    "Artistas de Rancagua",
+    "Música Urbana Chile",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Rancagua",
+    "Boom Bap Clásico",
+    "Cuenta RUT",
+    "Aprobado SCD"
+  ],
+  "popularGenres": [
+    "Boom Bap Chileno Clásico",
+    "Reggaetón Chileno",
+    "Trap Chileno"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "rancagua-ohiggins-rnb-trap-melodico",
+  "name": "Rancagua R&B Trap Melódico",
+  "category": "scene",
+  "badge": "Rancagua R&B Urbano",
+  "headline": "Rancagua (VI Región) R&B Trap Melódico: Pistas WAV & Cuenta RUT / Webpay",
+  "description": "Pianos Rhodes cálidos, acordes de neo-soul y baterías de trap suaves para vocalistas de Rancagua.",
+  "targetArtists": [
+    "Artistas de Rancagua",
+    "Música Urbana Chile",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "100-120 BPM",
+  "recommendedKey": "E-Minor / B-Minor",
+  "vibeAttributes": [
+    "Rancagua",
+    "R&B Urbano",
+    "Cuenta RUT",
+    "Aprobado SCD"
+  ],
+  "popularGenres": [
+    "R&B Trap Melódico",
+    "Reggaetón Chileno",
+    "Trap Chileno"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "iquique-tarapaca-reggaeton-chileno-beats",
+  "name": "Iquique Reggaetón Chileno Beats",
+  "category": "scene",
+  "badge": "Iquique Reggaetón Chileno",
+  "headline": "Iquique (Tarapacá) Reggaetón Chileno Beats: Pistas WAV & Cuenta RUT / Webpay",
+  "description": "Campanitas de sintetizador pegajosas a 96 BPM, dembow bailable y calidad WAV 24-bit de estudio para artistas de Iquique.",
+  "targetArtists": [
+    "Artistas de Iquique",
+    "Música Urbana Chile",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "95-100 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Iquique",
+    "Reggaetón Chileno",
+    "Cuenta RUT",
+    "Aprobado SCD"
+  ],
+  "popularGenres": [
+    "Reggaetón Chileno Beats",
+    "Reggaetón Chileno",
+    "Trap Chileno"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "iquique-tarapaca-trap-chileno-shishi-style",
+  "name": "Iquique Trap Chileno Shishi Style",
+  "category": "scene",
+  "badge": "Iquique Trap Chileno",
+  "headline": "Iquique (Tarapacá) Trap Chileno Shishi Style: Pistas WAV & Cuenta RUT / Webpay",
+  "description": "Bajos 808 pesados con pegada seca, campanas frías y melodías oscuras con identidad de población para Iquique.",
+  "targetArtists": [
+    "Artistas de Iquique",
+    "Música Urbana Chile",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Iquique",
+    "Trap Chileno",
+    "Cuenta RUT",
+    "Aprobado SCD"
+  ],
+  "popularGenres": [
+    "Trap Chileno Shishi Style",
+    "Reggaetón Chileno",
+    "Trap Chileno"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "iquique-tarapaca-boombap-chileno-clasico",
+  "name": "Iquique Boom Bap Chileno Clásico",
+  "category": "scene",
+  "badge": "Iquique Boom Bap Clásico",
+  "headline": "Iquique (Tarapacá) Boom Bap Chileno Clásico: Pistas WAV & Cuenta RUT / Webpay",
+  "description": "Baterías analógicas con golpe seco, samples de jazz polvorientos y métrica pesada inspirada en la historia hip hop de Iquique.",
+  "targetArtists": [
+    "Artistas de Iquique",
+    "Música Urbana Chile",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Iquique",
+    "Boom Bap Clásico",
+    "Cuenta RUT",
+    "Aprobado SCD"
+  ],
+  "popularGenres": [
+    "Boom Bap Chileno Clásico",
+    "Reggaetón Chileno",
+    "Trap Chileno"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "iquique-tarapaca-rnb-trap-melodico",
+  "name": "Iquique R&B Trap Melódico",
+  "category": "scene",
+  "badge": "Iquique R&B Urbano",
+  "headline": "Iquique (Tarapacá) R&B Trap Melódico: Pistas WAV & Cuenta RUT / Webpay",
+  "description": "Pianos Rhodes cálidos, acordes de neo-soul y baterías de trap suaves para vocalistas de Iquique.",
+  "targetArtists": [
+    "Artistas de Iquique",
+    "Música Urbana Chile",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "100-120 BPM",
+  "recommendedKey": "E-Minor / B-Minor",
+  "vibeAttributes": [
+    "Iquique",
+    "R&B Urbano",
+    "Cuenta RUT",
+    "Aprobado SCD"
+  ],
+  "popularGenres": [
+    "R&B Trap Melódico",
+    "Reggaetón Chileno",
+    "Trap Chileno"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "puerto-montt-los-lagos-reggaeton-chileno-beats",
+  "name": "Puerto Montt Reggaetón Chileno Beats",
+  "category": "scene",
+  "badge": "Puerto Montt Reggaetón Chileno",
+  "headline": "Puerto Montt (Los Lagos) Reggaetón Chileno Beats: Pistas WAV & Cuenta RUT / Webpay",
+  "description": "Campanitas de sintetizador pegajosas a 96 BPM, dembow bailable y calidad WAV 24-bit de estudio para artistas de Puerto Montt.",
+  "targetArtists": [
+    "Artistas de Puerto Montt",
+    "Música Urbana Chile",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "95-100 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Puerto Montt",
+    "Reggaetón Chileno",
+    "Cuenta RUT",
+    "Aprobado SCD"
+  ],
+  "popularGenres": [
+    "Reggaetón Chileno Beats",
+    "Reggaetón Chileno",
+    "Trap Chileno"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "puerto-montt-los-lagos-trap-chileno-shishi-style",
+  "name": "Puerto Montt Trap Chileno Shishi Style",
+  "category": "scene",
+  "badge": "Puerto Montt Trap Chileno",
+  "headline": "Puerto Montt (Los Lagos) Trap Chileno Shishi Style: Pistas WAV & Cuenta RUT / Webpay",
+  "description": "Bajos 808 pesados con pegada seca, campanas frías y melodías oscuras con identidad de población para Puerto Montt.",
+  "targetArtists": [
+    "Artistas de Puerto Montt",
+    "Música Urbana Chile",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Puerto Montt",
+    "Trap Chileno",
+    "Cuenta RUT",
+    "Aprobado SCD"
+  ],
+  "popularGenres": [
+    "Trap Chileno Shishi Style",
+    "Reggaetón Chileno",
+    "Trap Chileno"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "puerto-montt-los-lagos-boombap-chileno-clasico",
+  "name": "Puerto Montt Boom Bap Chileno Clásico",
+  "category": "scene",
+  "badge": "Puerto Montt Boom Bap Clásico",
+  "headline": "Puerto Montt (Los Lagos) Boom Bap Chileno Clásico: Pistas WAV & Cuenta RUT / Webpay",
+  "description": "Baterías analógicas con golpe seco, samples de jazz polvorientos y métrica pesada inspirada en la historia hip hop de Puerto Montt.",
+  "targetArtists": [
+    "Artistas de Puerto Montt",
+    "Música Urbana Chile",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Puerto Montt",
+    "Boom Bap Clásico",
+    "Cuenta RUT",
+    "Aprobado SCD"
+  ],
+  "popularGenres": [
+    "Boom Bap Chileno Clásico",
+    "Reggaetón Chileno",
+    "Trap Chileno"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "puerto-montt-los-lagos-rnb-trap-melodico",
+  "name": "Puerto Montt R&B Trap Melódico",
+  "category": "scene",
+  "badge": "Puerto Montt R&B Urbano",
+  "headline": "Puerto Montt (Los Lagos) R&B Trap Melódico: Pistas WAV & Cuenta RUT / Webpay",
+  "description": "Pianos Rhodes cálidos, acordes de neo-soul y baterías de trap suaves para vocalistas de Puerto Montt.",
+  "targetArtists": [
+    "Artistas de Puerto Montt",
+    "Música Urbana Chile",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "100-120 BPM",
+  "recommendedKey": "E-Minor / B-Minor",
+  "vibeAttributes": [
+    "Puerto Montt",
+    "R&B Urbano",
+    "Cuenta RUT",
+    "Aprobado SCD"
+  ],
+  "popularGenres": [
+    "R&B Trap Melódico",
+    "Reggaetón Chileno",
+    "Trap Chileno"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "arica-parinacota-reggaeton-chileno-beats",
+  "name": "Arica Reggaetón Chileno Beats",
+  "category": "scene",
+  "badge": "Arica Reggaetón Chileno",
+  "headline": "Arica (Parinacota) Reggaetón Chileno Beats: Pistas WAV & Cuenta RUT / Webpay",
+  "description": "Campanitas de sintetizador pegajosas a 96 BPM, dembow bailable y calidad WAV 24-bit de estudio para artistas de Arica.",
+  "targetArtists": [
+    "Artistas de Arica",
+    "Música Urbana Chile",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "95-100 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Arica",
+    "Reggaetón Chileno",
+    "Cuenta RUT",
+    "Aprobado SCD"
+  ],
+  "popularGenres": [
+    "Reggaetón Chileno Beats",
+    "Reggaetón Chileno",
+    "Trap Chileno"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "arica-parinacota-trap-chileno-shishi-style",
+  "name": "Arica Trap Chileno Shishi Style",
+  "category": "scene",
+  "badge": "Arica Trap Chileno",
+  "headline": "Arica (Parinacota) Trap Chileno Shishi Style: Pistas WAV & Cuenta RUT / Webpay",
+  "description": "Bajos 808 pesados con pegada seca, campanas frías y melodías oscuras con identidad de población para Arica.",
+  "targetArtists": [
+    "Artistas de Arica",
+    "Música Urbana Chile",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Arica",
+    "Trap Chileno",
+    "Cuenta RUT",
+    "Aprobado SCD"
+  ],
+  "popularGenres": [
+    "Trap Chileno Shishi Style",
+    "Reggaetón Chileno",
+    "Trap Chileno"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "arica-parinacota-boombap-chileno-clasico",
+  "name": "Arica Boom Bap Chileno Clásico",
+  "category": "scene",
+  "badge": "Arica Boom Bap Clásico",
+  "headline": "Arica (Parinacota) Boom Bap Chileno Clásico: Pistas WAV & Cuenta RUT / Webpay",
+  "description": "Baterías analógicas con golpe seco, samples de jazz polvorientos y métrica pesada inspirada en la historia hip hop de Arica.",
+  "targetArtists": [
+    "Artistas de Arica",
+    "Música Urbana Chile",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Arica",
+    "Boom Bap Clásico",
+    "Cuenta RUT",
+    "Aprobado SCD"
+  ],
+  "popularGenres": [
+    "Boom Bap Chileno Clásico",
+    "Reggaetón Chileno",
+    "Trap Chileno"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "arica-parinacota-rnb-trap-melodico",
+  "name": "Arica R&B Trap Melódico",
+  "category": "scene",
+  "badge": "Arica R&B Urbano",
+  "headline": "Arica (Parinacota) R&B Trap Melódico: Pistas WAV & Cuenta RUT / Webpay",
+  "description": "Pianos Rhodes cálidos, acordes de neo-soul y baterías de trap suaves para vocalistas de Arica.",
+  "targetArtists": [
+    "Artistas de Arica",
+    "Música Urbana Chile",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "100-120 BPM",
+  "recommendedKey": "E-Minor / B-Minor",
+  "vibeAttributes": [
+    "Arica",
+    "R&B Urbano",
+    "Cuenta RUT",
+    "Aprobado SCD"
+  ],
+  "popularGenres": [
+    "R&B Trap Melódico",
+    "Reggaetón Chileno",
+    "Trap Chileno"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "curico-maule-reggaeton-chileno-beats",
+  "name": "Curicó Reggaetón Chileno Beats",
+  "category": "scene",
+  "badge": "Curicó Reggaetón Chileno",
+  "headline": "Curicó (El Maule) Reggaetón Chileno Beats: Pistas WAV & Cuenta RUT / Webpay",
+  "description": "Campanitas de sintetizador pegajosas a 96 BPM, dembow bailable y calidad WAV 24-bit de estudio para artistas de Curicó.",
+  "targetArtists": [
+    "Artistas de Curicó",
+    "Música Urbana Chile",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "95-100 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Curicó",
+    "Reggaetón Chileno",
+    "Cuenta RUT",
+    "Aprobado SCD"
+  ],
+  "popularGenres": [
+    "Reggaetón Chileno Beats",
+    "Reggaetón Chileno",
+    "Trap Chileno"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "curico-maule-trap-chileno-shishi-style",
+  "name": "Curicó Trap Chileno Shishi Style",
+  "category": "scene",
+  "badge": "Curicó Trap Chileno",
+  "headline": "Curicó (El Maule) Trap Chileno Shishi Style: Pistas WAV & Cuenta RUT / Webpay",
+  "description": "Bajos 808 pesados con pegada seca, campanas frías y melodías oscuras con identidad de población para Curicó.",
+  "targetArtists": [
+    "Artistas de Curicó",
+    "Música Urbana Chile",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Curicó",
+    "Trap Chileno",
+    "Cuenta RUT",
+    "Aprobado SCD"
+  ],
+  "popularGenres": [
+    "Trap Chileno Shishi Style",
+    "Reggaetón Chileno",
+    "Trap Chileno"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "curico-maule-boombap-chileno-clasico",
+  "name": "Curicó Boom Bap Chileno Clásico",
+  "category": "scene",
+  "badge": "Curicó Boom Bap Clásico",
+  "headline": "Curicó (El Maule) Boom Bap Chileno Clásico: Pistas WAV & Cuenta RUT / Webpay",
+  "description": "Baterías analógicas con golpe seco, samples de jazz polvorientos y métrica pesada inspirada en la historia hip hop de Curicó.",
+  "targetArtists": [
+    "Artistas de Curicó",
+    "Música Urbana Chile",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Curicó",
+    "Boom Bap Clásico",
+    "Cuenta RUT",
+    "Aprobado SCD"
+  ],
+  "popularGenres": [
+    "Boom Bap Chileno Clásico",
+    "Reggaetón Chileno",
+    "Trap Chileno"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "curico-maule-rnb-trap-melodico",
+  "name": "Curicó R&B Trap Melódico",
+  "category": "scene",
+  "badge": "Curicó R&B Urbano",
+  "headline": "Curicó (El Maule) R&B Trap Melódico: Pistas WAV & Cuenta RUT / Webpay",
+  "description": "Pianos Rhodes cálidos, acordes de neo-soul y baterías de trap suaves para vocalistas de Curicó.",
+  "targetArtists": [
+    "Artistas de Curicó",
+    "Música Urbana Chile",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "100-120 BPM",
+  "recommendedKey": "E-Minor / B-Minor",
+  "vibeAttributes": [
+    "Curicó",
+    "R&B Urbano",
+    "Cuenta RUT",
+    "Aprobado SCD"
+  ],
+  "popularGenres": [
+    "R&B Trap Melódico",
+    "Reggaetón Chileno",
+    "Trap Chileno"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "san-bernardo-santiago-reggaeton-chileno-beats",
+  "name": "San Bernardo Reggaetón Chileno Beats",
+  "category": "scene",
+  "badge": "San Bernardo Reggaetón Chileno",
+  "headline": "San Bernardo (Santiago Sur) Reggaetón Chileno Beats: Pistas WAV & Cuenta RUT / Webpay",
+  "description": "Campanitas de sintetizador pegajosas a 96 BPM, dembow bailable y calidad WAV 24-bit de estudio para artistas de San Bernardo.",
+  "targetArtists": [
+    "Artistas de San Bernardo",
+    "Música Urbana Chile",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "95-100 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "San Bernardo",
+    "Reggaetón Chileno",
+    "Cuenta RUT",
+    "Aprobado SCD"
+  ],
+  "popularGenres": [
+    "Reggaetón Chileno Beats",
+    "Reggaetón Chileno",
+    "Trap Chileno"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "san-bernardo-santiago-trap-chileno-shishi-style",
+  "name": "San Bernardo Trap Chileno Shishi Style",
+  "category": "scene",
+  "badge": "San Bernardo Trap Chileno",
+  "headline": "San Bernardo (Santiago Sur) Trap Chileno Shishi Style: Pistas WAV & Cuenta RUT / Webpay",
+  "description": "Bajos 808 pesados con pegada seca, campanas frías y melodías oscuras con identidad de población para San Bernardo.",
+  "targetArtists": [
+    "Artistas de San Bernardo",
+    "Música Urbana Chile",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "San Bernardo",
+    "Trap Chileno",
+    "Cuenta RUT",
+    "Aprobado SCD"
+  ],
+  "popularGenres": [
+    "Trap Chileno Shishi Style",
+    "Reggaetón Chileno",
+    "Trap Chileno"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "san-bernardo-santiago-boombap-chileno-clasico",
+  "name": "San Bernardo Boom Bap Chileno Clásico",
+  "category": "scene",
+  "badge": "San Bernardo Boom Bap Clásico",
+  "headline": "San Bernardo (Santiago Sur) Boom Bap Chileno Clásico: Pistas WAV & Cuenta RUT / Webpay",
+  "description": "Baterías analógicas con golpe seco, samples de jazz polvorientos y métrica pesada inspirada en la historia hip hop de San Bernardo.",
+  "targetArtists": [
+    "Artistas de San Bernardo",
+    "Música Urbana Chile",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "San Bernardo",
+    "Boom Bap Clásico",
+    "Cuenta RUT",
+    "Aprobado SCD"
+  ],
+  "popularGenres": [
+    "Boom Bap Chileno Clásico",
+    "Reggaetón Chileno",
+    "Trap Chileno"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "san-bernardo-santiago-rnb-trap-melodico",
+  "name": "San Bernardo R&B Trap Melódico",
+  "category": "scene",
+  "badge": "San Bernardo R&B Urbano",
+  "headline": "San Bernardo (Santiago Sur) R&B Trap Melódico: Pistas WAV & Cuenta RUT / Webpay",
+  "description": "Pianos Rhodes cálidos, acordes de neo-soul y baterías de trap suaves para vocalistas de San Bernardo.",
+  "targetArtists": [
+    "Artistas de San Bernardo",
+    "Música Urbana Chile",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "100-120 BPM",
+  "recommendedKey": "E-Minor / B-Minor",
+  "vibeAttributes": [
+    "San Bernardo",
+    "R&B Urbano",
+    "Cuenta RUT",
+    "Aprobado SCD"
+  ],
+  "popularGenres": [
+    "R&B Trap Melódico",
+    "Reggaetón Chileno",
+    "Trap Chileno"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
 ];
