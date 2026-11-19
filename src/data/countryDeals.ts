@@ -10860,4 +10860,488 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
     }
   ]
 },
+  "br/sao-paulo": {
+  "name": "Brasil \u2013 S\u00e3o Paulo & Trap Paulista (011)",
+  "flag": "\ud83c\udde7\ud83c\uddf7",
+  "currency": "BRL (R$)",
+  "currencyCode": "BRL",
+  "gateways": "PIX, Apple Pay, Google Pay, Cart\u00e3o de Cr\u00e9dito, Boleto, PayPal",
+  "pro": "UBC & ABRAMUS (ECAD)",
+  "proFullName": "Uni\u00e3o Brasileira de Compositores (UBC) & ABRAMUS (ECAD)",
+  "proGuide": "100% compat\u00edvel com ECAD no Brasil. Distribui\u00e7\u00e3o comercial liberada para plataformas de streaming.",
+  "headline": "Beats de Trap em S\u00e3o Paulo: Estilo Veigh, KayBlack & Drill Paulista",
+  "description": "O epicentro do Trap Brasileiro (Zona Leste, Zona Sul, ABC Paulista). Guitarras ac\u00fasticas mel\u00f3dicas, baixos 808 pesados e baterias limpas para grava\u00e7\u00e3o profissional.",
+  "popularGenres": [
+    "Trap Paulista",
+    "Drill SP",
+    "Veigh Style",
+    "KayBlack Mel\u00f3dico"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "S\u00e3o Paulo Scene Hub",
+      "slug": "../../scene/sao-paulo-trap-paulista-beats",
+      "description": "Bases de trap elegantes com guitarras e autotune envolvente."
+    },
+    {
+      "name": "Veigh Melodic Vibe",
+      "slug": "../../vibe/veigh-dos-predios-melodic-trap",
+      "description": "Guitarras ac\u00fasticas suaves e ritmo mel\u00f3dico contagiante."
+    },
+    {
+      "name": "KayBlack Street Vibe",
+      "slug": "../../vibe/kayblack-melodic-street-trap",
+      "description": "Pianos emotivos e baixos 808 rolantes pesados."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Posso lan\u00e7ar m\u00fasicas gravadas com esses beats no Spotify, Apple Music e YouTube em Brasil \u2013 S\u00e3o Paulo & Trap Paulista (011)?",
+      "answer": "Sim, com certeza! Todas as licen\u00e7as WAV e MP3 da Different Type of Vibe incluem 100% dos direitos de distribui\u00e7\u00e3o e monetiza\u00e7\u00e3o comercial para Spotify, Apple Music, YouTube, Deezer e TikTok. Voc\u00ea mant\u00e9m 100% dos seus royalties como artista e int\u00e9rprete."
+    },
+    {
+      "question": "Os beats s\u00e3o 100% compat\u00edveis com a UBC & ABRAMUS (ECAD) e livres de samples n\u00e3o autorizados?",
+      "answer": "Sim! Todos os instrumentais s\u00e3o composi\u00e7\u00f5es 100% originais produzidas por Onzieb. Sem samples de terceiros n\u00e3o liberados. Voc\u00ea pode registrar sua letra e obra na UBC & ABRAMUS (ECAD) com total seguran\u00e7a jur\u00eddica."
+    },
+    {
+      "question": "Quais s\u00e3o as formas de pagamento aceitas no Brasil?",
+      "answer": "Voc\u00ea pode pagar instantaneamente via PIX, Apple Pay, Google Pay, Cart\u00e3o de Cr\u00e9dito, Boleto, PayPal."
+    },
+    {
+      "question": "Como e quando recebo meus arquivos de \u00e1udio sem vinhetas?",
+      "answer": "Imediatamente ap\u00f3s a confirma\u00e7\u00e3o do pagamento, seus arquivos de est\u00fadio em formato WAV 24-bit sem vinheta (untagged), a vers\u00e3o MP3 de alta defini\u00e7\u00e3o e o contrato formal de cess\u00e3o de direitos em PDF s\u00e3o enviados automaticamente para o seu e-mail."
+    }
+  ]
+},
+  "br/rio-de-janeiro": {
+  "name": "Brasil \u2013 Rio de Janeiro & TrapFunk Carioca (021)",
+  "flag": "\ud83c\udde7\ud83c\uddf7",
+  "currency": "BRL (R$)",
+  "currencyCode": "BRL",
+  "gateways": "PIX, Apple Pay, Google Pay, Cart\u00e3o de Cr\u00e9dito, Boleto, PayPal",
+  "pro": "UBC & ABRAMUS (ECAD)",
+  "proFullName": "Uni\u00e3o Brasileira de Compositores (UBC) & ABRAMUS (ECAD)",
+  "proGuide": "100% original e livre de samples de terceiros n\u00e3o autorizados.",
+  "headline": "Beats no Rio de Janeiro: TrapFunk Carioca, Som Mainstreet & 808s",
+  "description": "A fus\u00e3o lend\u00e1ria do rap de rua e do funk carioca: metais de cinema, baterias com pegada e baixos profundos inspirados em Filipe Ret, L7NNON, Orochi e Poze do Rodo.",
+  "popularGenres": [
+    "TrapFunk Carioca",
+    "Mainstreet Style",
+    "Filipe Ret Vibe",
+    "Rap de Favela"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Rio Scene Hub",
+      "slug": "../../scene/rio-de-janeiro-trapfunk-beats",
+      "description": "Balan\u00e7o do funk carioca com baixos pesados de trap."
+    },
+    {
+      "name": "Filipe Ret Luxury Trap",
+      "slug": "../../vibe/filipe-ret-lume-luxury-trap",
+      "description": "Metais cinematogr\u00e1ficos e atmosfera de trap luxo."
+    },
+    {
+      "name": "Poze do Rodo TrapFunk",
+      "slug": "../../vibe/poze-do-rodo-favela-trap-funk",
+      "description": "Energia pura da favela e metais pesados."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Posso lan\u00e7ar m\u00fasicas gravadas com esses beats no Spotify, Apple Music e YouTube em Brasil \u2013 Rio de Janeiro & TrapFunk Carioca (021)?",
+      "answer": "Sim, com certeza! Todas as licen\u00e7as WAV e MP3 da Different Type of Vibe incluem 100% dos direitos de distribui\u00e7\u00e3o e monetiza\u00e7\u00e3o comercial para Spotify, Apple Music, YouTube, Deezer e TikTok. Voc\u00ea mant\u00e9m 100% dos seus royalties como artista e int\u00e9rprete."
+    },
+    {
+      "question": "Os beats s\u00e3o 100% compat\u00edveis com a UBC & ABRAMUS (ECAD) e livres de samples n\u00e3o autorizados?",
+      "answer": "Sim! Todos os instrumentais s\u00e3o composi\u00e7\u00f5es 100% originais produzidas por Onzieb. Sem samples de terceiros n\u00e3o liberados. Voc\u00ea pode registrar sua letra e obra na UBC & ABRAMUS (ECAD) com total seguran\u00e7a jur\u00eddica."
+    },
+    {
+      "question": "Quais s\u00e3o as formas de pagamento aceitas no Brasil?",
+      "answer": "Voc\u00ea pode pagar instantaneamente via PIX, Apple Pay, Google Pay, Cart\u00e3o de Cr\u00e9dito, Boleto, PayPal."
+    },
+    {
+      "question": "Como e quando recebo meus arquivos de \u00e1udio sem vinhetas?",
+      "answer": "Imediatamente ap\u00f3s a confirma\u00e7\u00e3o do pagamento, seus arquivos de est\u00fadio em formato WAV 24-bit sem vinheta (untagged), a vers\u00e3o MP3 de alta defini\u00e7\u00e3o e o contrato formal de cess\u00e3o de direitos em PDF s\u00e3o enviados automaticamente para o seu e-mail."
+    }
+  ]
+},
+  "br/fortaleza": {
+  "name": "Brasil \u2013 Fortaleza & Cear\u00e1 (30PRAUM Trap)",
+  "flag": "\ud83c\udde7\ud83c\uddf7",
+  "currency": "BRL (R$)",
+  "currencyCode": "BRL",
+  "gateways": "PIX, Apple Pay, Google Pay, Cart\u00e3o de Cr\u00e9dito, Boleto, PayPal",
+  "pro": "UBC & ABRAMUS (ECAD)",
+  "proFullName": "Uni\u00e3o Brasileira de Compositores (UBC) & ABRAMUS (ECAD)",
+  "proGuide": "100% liberado para registro na UBC/ABRAMUS com download instant\u00e2neo.",
+  "headline": "Beats de Trap em Fortaleza: Som Psicod\u00e9lico 30PRAUM, Matu\u00ea & Teto Vibe",
+  "description": "Sintetizadores psicod\u00e9licos, solos de guitarra envolventes e graves 808 distorcidos inspirados em Matu\u00ea, Teto e WIU para artistas do Nordeste.",
+  "popularGenres": [
+    "Trap Nordeste",
+    "30PRAUM Style",
+    "Matu\u00ea Vibe",
+    "Trap Psicod\u00e9lico"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Fortaleza Scene Hub",
+      "slug": "../../scene/fortaleza-30praum-trap-beats",
+      "description": "Atmosferas espaciais e melodias psicod\u00e9licas."
+    },
+    {
+      "name": "Matu\u00ea 30PRAUM Style",
+      "slug": "../../vibe/matue-30praum-psychedelic-trap",
+      "description": "Guitarras viajadas, synths anal\u00f3gicos e 808s marcantes."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Posso lan\u00e7ar m\u00fasicas gravadas com esses beats no Spotify, Apple Music e YouTube em Brasil \u2013 Fortaleza & Cear\u00e1 (30PRAUM Trap)?",
+      "answer": "Sim, com certeza! Todas as licen\u00e7as WAV e MP3 da Different Type of Vibe incluem 100% dos direitos de distribui\u00e7\u00e3o e monetiza\u00e7\u00e3o comercial para Spotify, Apple Music, YouTube, Deezer e TikTok. Voc\u00ea mant\u00e9m 100% dos seus royalties como artista e int\u00e9rprete."
+    },
+    {
+      "question": "Os beats s\u00e3o 100% compat\u00edveis com a UBC & ABRAMUS (ECAD) e livres de samples n\u00e3o autorizados?",
+      "answer": "Sim! Todos os instrumentais s\u00e3o composi\u00e7\u00f5es 100% originais produzidas por Onzieb. Sem samples de terceiros n\u00e3o liberados. Voc\u00ea pode registrar sua letra e obra na UBC & ABRAMUS (ECAD) com total seguran\u00e7a jur\u00eddica."
+    },
+    {
+      "question": "Quais s\u00e3o as formas de pagamento aceitas no Brasil?",
+      "answer": "Voc\u00ea pode pagar instantaneamente via PIX, Apple Pay, Google Pay, Cart\u00e3o de Cr\u00e9dito, Boleto, PayPal."
+    },
+    {
+      "question": "Como e quando recebo meus arquivos de \u00e1udio sem vinhetas?",
+      "answer": "Imediatamente ap\u00f3s a confirma\u00e7\u00e3o do pagamento, seus arquivos de est\u00fadio em formato WAV 24-bit sem vinheta (untagged), a vers\u00e3o MP3 de alta defini\u00e7\u00e3o e o contrato formal de cess\u00e3o de direitos em PDF s\u00e3o enviados automaticamente para o seu e-mail."
+    }
+  ]
+},
+  "br/belo-horizonte": {
+  "name": "Brasil \u2013 Belo Horizonte (BH) Funk BH & Trap (031)",
+  "flag": "\ud83c\udde7\ud83c\uddf7",
+  "currency": "BRL (R$)",
+  "currencyCode": "BRL",
+  "gateways": "PIX, Apple Pay, Google Pay, Cart\u00e3o de Cr\u00e9dito, Boleto, PayPal",
+  "pro": "UBC & ABRAMUS (ECAD)",
+  "proFullName": "Uni\u00e3o Brasileira de Compositores (UBC) & ABRAMUS (ECAD)",
+  "proGuide": "100% compat\u00edvel com UBC e ABRAMUS para lan\u00e7amentos no Spotify.",
+  "headline": "Beats em Belo Horizonte: Funk BH, Trap de Minas & Som Djonga",
+  "description": "Baterias com swing caracter\u00edstico do 031, metais poderosos e pianos com sentimento inspirados em Djonga e Sidoka para artistas de Minas Gerais.",
+  "popularGenres": [
+    "Funk BH",
+    "Trap de Minas",
+    "Djonga Vibe",
+    "Sidoka Flow"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Belo Horizonte Scene Hub",
+      "slug": "../../scene/belo-horizonte-trap-minas-beats",
+      "description": "Swing mineiro contagiante e baixos pesados."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Posso lan\u00e7ar m\u00fasicas gravadas com esses beats no Spotify, Apple Music e YouTube em Brasil \u2013 Belo Horizonte (BH) Funk BH & Trap (031)?",
+      "answer": "Sim, com certeza! Todas as licen\u00e7as WAV e MP3 da Different Type of Vibe incluem 100% dos direitos de distribui\u00e7\u00e3o e monetiza\u00e7\u00e3o comercial para Spotify, Apple Music, YouTube, Deezer e TikTok. Voc\u00ea mant\u00e9m 100% dos seus royalties como artista e int\u00e9rprete."
+    },
+    {
+      "question": "Os beats s\u00e3o 100% compat\u00edveis com a UBC & ABRAMUS (ECAD) e livres de samples n\u00e3o autorizados?",
+      "answer": "Sim! Todos os instrumentais s\u00e3o composi\u00e7\u00f5es 100% originais produzidas por Onzieb. Sem samples de terceiros n\u00e3o liberados. Voc\u00ea pode registrar sua letra e obra na UBC & ABRAMUS (ECAD) com total seguran\u00e7a jur\u00eddica."
+    },
+    {
+      "question": "Quais s\u00e3o as formas de pagamento aceitas no Brasil?",
+      "answer": "Voc\u00ea pode pagar instantaneamente via PIX, Apple Pay, Google Pay, Cart\u00e3o de Cr\u00e9dito, Boleto, PayPal."
+    },
+    {
+      "question": "Como e quando recebo meus arquivos de \u00e1udio sem vinhetas?",
+      "answer": "Imediatamente ap\u00f3s a confirma\u00e7\u00e3o do pagamento, seus arquivos de est\u00fadio em formato WAV 24-bit sem vinheta (untagged), a vers\u00e3o MP3 de alta defini\u00e7\u00e3o e o contrato formal de cess\u00e3o de direitos em PDF s\u00e3o enviados automaticamente para o seu e-mail."
+    }
+  ]
+},
+  "br/salvador": {
+  "name": "Brasil \u2013 Salvador & Bahia Afro-Trap Hub",
+  "flag": "\ud83c\udde7\ud83c\uddf7",
+  "currency": "BRL (R$)",
+  "currencyCode": "BRL",
+  "gateways": "PIX, Apple Pay, Google Pay, Cart\u00e3o de Cr\u00e9dito, Boleto, PayPal",
+  "pro": "UBC & ABRAMUS (ECAD)",
+  "proFullName": "Uni\u00e3o Brasileira de Compositores (UBC) & ABRAMUS (ECAD)",
+  "proGuide": "100% de cess\u00e3o clara de direitos patrimoniais de autor.",
+  "headline": "Beats em Salvador: Afro-Trap Baiano, Percuss\u00e3o Org\u00e2nica & Baco Vibe",
+  "description": "A fus\u00e3o perfeita da percuss\u00e3o afro-brasileira com graves 808 modernos inspirada em Baco Exu do Blues para artistas de Salvador e da Bahia.",
+  "popularGenres": [
+    "Afro-Trap Baiano",
+    "Percuss\u00e3o Org\u00e2nica",
+    "Baco Vibe",
+    "Trap Bahia"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Posso lan\u00e7ar m\u00fasicas gravadas com esses beats no Spotify, Apple Music e YouTube em Brasil \u2013 Salvador & Bahia Afro-Trap Hub?",
+      "answer": "Sim, com certeza! Todas as licen\u00e7as WAV e MP3 da Different Type of Vibe incluem 100% dos direitos de distribui\u00e7\u00e3o e monetiza\u00e7\u00e3o comercial para Spotify, Apple Music, YouTube, Deezer e TikTok. Voc\u00ea mant\u00e9m 100% dos seus royalties como artista e int\u00e9rprete."
+    },
+    {
+      "question": "Os beats s\u00e3o 100% compat\u00edveis com a UBC & ABRAMUS (ECAD) e livres de samples n\u00e3o autorizados?",
+      "answer": "Sim! Todos os instrumentais s\u00e3o composi\u00e7\u00f5es 100% originais produzidas por Onzieb. Sem samples de terceiros n\u00e3o liberados. Voc\u00ea pode registrar sua letra e obra na UBC & ABRAMUS (ECAD) com total seguran\u00e7a jur\u00eddica."
+    },
+    {
+      "question": "Quais s\u00e3o as formas de pagamento aceitas no Brasil?",
+      "answer": "Voc\u00ea pode pagar instantaneamente via PIX, Apple Pay, Google Pay, Cart\u00e3o de Cr\u00e9dito, Boleto, PayPal."
+    },
+    {
+      "question": "Como e quando recebo meus arquivos de \u00e1udio sem vinhetas?",
+      "answer": "Imediatamente ap\u00f3s a confirma\u00e7\u00e3o do pagamento, seus arquivos de est\u00fadio em formato WAV 24-bit sem vinheta (untagged), a vers\u00e3o MP3 de alta defini\u00e7\u00e3o e o contrato formal de cess\u00e3o de direitos em PDF s\u00e3o enviados automaticamente para o seu e-mail."
+    }
+  ]
+},
+  "br/recife": {
+  "name": "Brasil \u2013 Recife & Pernambuco Trap Nordestino",
+  "flag": "\ud83c\udde7\ud83c\uddf7",
+  "currency": "BRL (R$)",
+  "currencyCode": "BRL",
+  "gateways": "PIX, Apple Pay, Google Pay, Cart\u00e3o de Cr\u00e9dito, Boleto, PayPal",
+  "pro": "UBC & ABRAMUS (ECAD)",
+  "proFullName": "Uni\u00e3o Brasileira de Compositores (UBC) & ABRAMUS (ECAD)",
+  "proGuide": "100% regularizado para registro na UBC/ABRAMUS.",
+  "headline": "Beats em Recife: Brega Funk, Trap Nordestino & Bounces Dan\u00e7antes",
+  "description": "Baterias dan\u00e7antes com claps r\u00e1pidos e graves 808 marcantes para a cena urbana de Pernambuco e do Nordeste.",
+  "popularGenres": [
+    "Trap Nordestino",
+    "Brega Funk Trap",
+    "Bounces Dan\u00e7antes"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Posso lan\u00e7ar m\u00fasicas gravadas com esses beats no Spotify, Apple Music e YouTube em Brasil \u2013 Recife & Pernambuco Trap Nordestino?",
+      "answer": "Sim, com certeza! Todas as licen\u00e7as WAV e MP3 da Different Type of Vibe incluem 100% dos direitos de distribui\u00e7\u00e3o e monetiza\u00e7\u00e3o comercial para Spotify, Apple Music, YouTube, Deezer e TikTok. Voc\u00ea mant\u00e9m 100% dos seus royalties como artista e int\u00e9rprete."
+    },
+    {
+      "question": "Os beats s\u00e3o 100% compat\u00edveis com a UBC & ABRAMUS (ECAD) e livres de samples n\u00e3o autorizados?",
+      "answer": "Sim! Todos os instrumentais s\u00e3o composi\u00e7\u00f5es 100% originais produzidas por Onzieb. Sem samples de terceiros n\u00e3o liberados. Voc\u00ea pode registrar sua letra e obra na UBC & ABRAMUS (ECAD) com total seguran\u00e7a jur\u00eddica."
+    },
+    {
+      "question": "Quais s\u00e3o as formas de pagamento aceitas no Brasil?",
+      "answer": "Voc\u00ea pode pagar instantaneamente via PIX, Apple Pay, Google Pay, Cart\u00e3o de Cr\u00e9dito, Boleto, PayPal."
+    },
+    {
+      "question": "Como e quando recebo meus arquivos de \u00e1udio sem vinhetas?",
+      "answer": "Imediatamente ap\u00f3s a confirma\u00e7\u00e3o do pagamento, seus arquivos de est\u00fadio em formato WAV 24-bit sem vinheta (untagged), a vers\u00e3o MP3 de alta defini\u00e7\u00e3o e o contrato formal de cess\u00e3o de direitos em PDF s\u00e3o enviados automaticamente para o seu e-mail."
+    }
+  ]
+},
+  "br/porto-alegre": {
+  "name": "Brasil \u2013 Porto Alegre & Rio Grande do Sul Rap",
+  "flag": "\ud83c\udde7\ud83c\uddf7",
+  "currency": "BRL (R$)",
+  "currencyCode": "BRL",
+  "gateways": "PIX, Apple Pay, Google Pay, Cart\u00e3o de Cr\u00e9dito, Boleto, PayPal",
+  "pro": "UBC & ABRAMUS (ECAD)",
+  "proFullName": "Uni\u00e3o Brasileira de Compositores (UBC) & ABRAMUS (ECAD)",
+  "proGuide": "100% regularizado para distribui\u00e7\u00e3o comercial no Spotify.",
+  "headline": "Beats em Porto Alegre: Rap Ga\u00facho, Boom Bap do Sul & Trap Pesado",
+  "description": "Instrumentais aut\u00eanticos de rap com samples de vinil e baterias pesadas de trap para artistas de Porto Alegre e do Sul.",
+  "popularGenres": [
+    "Rap Ga\u00facho",
+    "Boom Bap do Sul",
+    "Trap Pesado"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Posso lan\u00e7ar m\u00fasicas gravadas com esses beats no Spotify, Apple Music e YouTube em Brasil \u2013 Porto Alegre & Rio Grande do Sul Rap?",
+      "answer": "Sim, com certeza! Todas as licen\u00e7as WAV e MP3 da Different Type of Vibe incluem 100% dos direitos de distribui\u00e7\u00e3o e monetiza\u00e7\u00e3o comercial para Spotify, Apple Music, YouTube, Deezer e TikTok. Voc\u00ea mant\u00e9m 100% dos seus royalties como artista e int\u00e9rprete."
+    },
+    {
+      "question": "Os beats s\u00e3o 100% compat\u00edveis com a UBC & ABRAMUS (ECAD) e livres de samples n\u00e3o autorizados?",
+      "answer": "Sim! Todos os instrumentais s\u00e3o composi\u00e7\u00f5es 100% originais produzidas por Onzieb. Sem samples de terceiros n\u00e3o liberados. Voc\u00ea pode registrar sua letra e obra na UBC & ABRAMUS (ECAD) com total seguran\u00e7a jur\u00eddica."
+    },
+    {
+      "question": "Quais s\u00e3o as formas de pagamento aceitas no Brasil?",
+      "answer": "Voc\u00ea pode pagar instantaneamente via PIX, Apple Pay, Google Pay, Cart\u00e3o de Cr\u00e9dito, Boleto, PayPal."
+    },
+    {
+      "question": "Como e quando recebo meus arquivos de \u00e1udio sem vinhetas?",
+      "answer": "Imediatamente ap\u00f3s a confirma\u00e7\u00e3o do pagamento, seus arquivos de est\u00fadio em formato WAV 24-bit sem vinheta (untagged), a vers\u00e3o MP3 de alta defini\u00e7\u00e3o e o contrato formal de cess\u00e3o de direitos em PDF s\u00e3o enviados automaticamente para o seu e-mail."
+    }
+  ]
+},
+  "br/curitiba": {
+  "name": "Brasil \u2013 Curitiba & Paran\u00e1 Trap Hub",
+  "flag": "\ud83c\udde7\ud83c\uddf7",
+  "currency": "BRL (R$)",
+  "currencyCode": "BRL",
+  "gateways": "PIX, Apple Pay, Google Pay, Cart\u00e3o de Cr\u00e9dito, Boleto, PayPal",
+  "pro": "UBC & ABRAMUS (ECAD)",
+  "proFullName": "Uni\u00e3o Brasileira de Compositores (UBC) & ABRAMUS (ECAD)",
+  "proGuide": "100% compat\u00edvel com ECAD com download digital imediato.",
+  "headline": "Beats em Curitiba: Trap Eletr\u00f4nico, Lofi Mel\u00f3dico & Drill do Sul",
+  "description": "Sintetizadores frios e espaciais com percuss\u00f5es staccato para artistas de Curitiba e do Paran\u00e1.",
+  "popularGenres": [
+    "Trap Curitiba",
+    "Trap Eletr\u00f4nico",
+    "Lofi Mel\u00f3dico"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Posso lan\u00e7ar m\u00fasicas gravadas com esses beats no Spotify, Apple Music e YouTube em Brasil \u2013 Curitiba & Paran\u00e1 Trap Hub?",
+      "answer": "Sim, com certeza! Todas as licen\u00e7as WAV e MP3 da Different Type of Vibe incluem 100% dos direitos de distribui\u00e7\u00e3o e monetiza\u00e7\u00e3o comercial para Spotify, Apple Music, YouTube, Deezer e TikTok. Voc\u00ea mant\u00e9m 100% dos seus royalties como artista e int\u00e9rprete."
+    },
+    {
+      "question": "Os beats s\u00e3o 100% compat\u00edveis com a UBC & ABRAMUS (ECAD) e livres de samples n\u00e3o autorizados?",
+      "answer": "Sim! Todos os instrumentais s\u00e3o composi\u00e7\u00f5es 100% originais produzidas por Onzieb. Sem samples de terceiros n\u00e3o liberados. Voc\u00ea pode registrar sua letra e obra na UBC & ABRAMUS (ECAD) com total seguran\u00e7a jur\u00eddica."
+    },
+    {
+      "question": "Quais s\u00e3o as formas de pagamento aceitas no Brasil?",
+      "answer": "Voc\u00ea pode pagar instantaneamente via PIX, Apple Pay, Google Pay, Cart\u00e3o de Cr\u00e9dito, Boleto, PayPal."
+    },
+    {
+      "question": "Como e quando recebo meus arquivos de \u00e1udio sem vinhetas?",
+      "answer": "Imediatamente ap\u00f3s a confirma\u00e7\u00e3o do pagamento, seus arquivos de est\u00fadio em formato WAV 24-bit sem vinheta (untagged), a vers\u00e3o MP3 de alta defini\u00e7\u00e3o e o contrato formal de cess\u00e3o de direitos em PDF s\u00e3o enviados automaticamente para o seu e-mail."
+    }
+  ]
+},
+  "br/brasilia": {
+  "name": "Brasil \u2013 Bras\u00edlia (DF) & Rap Nacional",
+  "flag": "\ud83c\udde7\ud83c\uddf7",
+  "currency": "BRL (R$)",
+  "currencyCode": "BRL",
+  "gateways": "PIX, Apple Pay, Google Pay, Cart\u00e3o de Cr\u00e9dito, Boleto, PayPal",
+  "pro": "UBC & ABRAMUS (ECAD)",
+  "proFullName": "Uni\u00e3o Brasileira de Compositores (UBC) & ABRAMUS (ECAD)",
+  "proGuide": "100% compat\u00edvel com a UBC e ECAD para veicula\u00e7\u00e3o em r\u00e1dio e streaming.",
+  "headline": "Beats em Bras\u00edlia: Hiphop do DF, Trap de Raiz & Conscious Rap",
+  "description": "A for\u00e7a e a hist\u00f3ria do rap do Distrito Federal: graves monumentais e pianos marcantes para MCs e letristas de Bras\u00edlia e Ceil\u00e2ndia.",
+  "popularGenres": [
+    "Rap de Bras\u00edlia",
+    "Trap do DF",
+    "Hiphop Consciente"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Posso lan\u00e7ar m\u00fasicas gravadas com esses beats no Spotify, Apple Music e YouTube em Brasil \u2013 Bras\u00edlia (DF) & Rap Nacional?",
+      "answer": "Sim, com certeza! Todas as licen\u00e7as WAV e MP3 da Different Type of Vibe incluem 100% dos direitos de distribui\u00e7\u00e3o e monetiza\u00e7\u00e3o comercial para Spotify, Apple Music, YouTube, Deezer e TikTok. Voc\u00ea mant\u00e9m 100% dos seus royalties como artista e int\u00e9rprete."
+    },
+    {
+      "question": "Os beats s\u00e3o 100% compat\u00edveis com a UBC & ABRAMUS (ECAD) e livres de samples n\u00e3o autorizados?",
+      "answer": "Sim! Todos os instrumentais s\u00e3o composi\u00e7\u00f5es 100% originais produzidas por Onzieb. Sem samples de terceiros n\u00e3o liberados. Voc\u00ea pode registrar sua letra e obra na UBC & ABRAMUS (ECAD) com total seguran\u00e7a jur\u00eddica."
+    },
+    {
+      "question": "Quais s\u00e3o as formas de pagamento aceitas no Brasil?",
+      "answer": "Voc\u00ea pode pagar instantaneamente via PIX, Apple Pay, Google Pay, Cart\u00e3o de Cr\u00e9dito, Boleto, PayPal."
+    },
+    {
+      "question": "Como e quando recebo meus arquivos de \u00e1udio sem vinhetas?",
+      "answer": "Imediatamente ap\u00f3s a confirma\u00e7\u00e3o do pagamento, seus arquivos de est\u00fadio em formato WAV 24-bit sem vinheta (untagged), a vers\u00e3o MP3 de alta defini\u00e7\u00e3o e o contrato formal de cess\u00e3o de direitos em PDF s\u00e3o enviados automaticamente para o seu e-mail."
+    }
+  ]
+},
+  "br/goiania": {
+  "name": "Brasil \u2013 Goi\u00e2nia & Centro-Oeste Trap Hub",
+  "flag": "\ud83c\udde7\ud83c\uddf7",
+  "currency": "BRL (R$)",
+  "currencyCode": "BRL",
+  "gateways": "PIX, Apple Pay, Google Pay, Cart\u00e3o de Cr\u00e9dito, Boleto, PayPal",
+  "pro": "UBC & ABRAMUS (ECAD)",
+  "proFullName": "Uni\u00e3o Brasileira de Compositores (UBC) & ABRAMUS (ECAD)",
+  "proGuide": "100% regularizado com contrato formal de cess\u00e3o em PDF.",
+  "headline": "Beats em Goi\u00e2nia: Trap do Centro-Oeste, Melodias Marcantes & 808s",
+  "description": "Produ\u00e7\u00f5es urbanas modernas com sintetizadores polidos e graves contundentes para artistas de Goi\u00e2nia e de Goi\u00e1s.",
+  "popularGenres": [
+    "Trap Centro-Oeste",
+    "Goi\u00e2nia Rap",
+    "Graves 808"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Posso lan\u00e7ar m\u00fasicas gravadas com esses beats no Spotify, Apple Music e YouTube em Brasil \u2013 Goi\u00e2nia & Centro-Oeste Trap Hub?",
+      "answer": "Sim, com certeza! Todas as licen\u00e7as WAV e MP3 da Different Type of Vibe incluem 100% dos direitos de distribui\u00e7\u00e3o e monetiza\u00e7\u00e3o comercial para Spotify, Apple Music, YouTube, Deezer e TikTok. Voc\u00ea mant\u00e9m 100% dos seus royalties como artista e int\u00e9rprete."
+    },
+    {
+      "question": "Os beats s\u00e3o 100% compat\u00edveis com a UBC & ABRAMUS (ECAD) e livres de samples n\u00e3o autorizados?",
+      "answer": "Sim! Todos os instrumentais s\u00e3o composi\u00e7\u00f5es 100% originais produzidas por Onzieb. Sem samples de terceiros n\u00e3o liberados. Voc\u00ea pode registrar sua letra e obra na UBC & ABRAMUS (ECAD) com total seguran\u00e7a jur\u00eddica."
+    },
+    {
+      "question": "Quais s\u00e3o as formas de pagamento aceitas no Brasil?",
+      "answer": "Voc\u00ea pode pagar instantaneamente via PIX, Apple Pay, Google Pay, Cart\u00e3o de Cr\u00e9dito, Boleto, PayPal."
+    },
+    {
+      "question": "Como e quando recebo meus arquivos de \u00e1udio sem vinhetas?",
+      "answer": "Imediatamente ap\u00f3s a confirma\u00e7\u00e3o do pagamento, seus arquivos de est\u00fadio em formato WAV 24-bit sem vinheta (untagged), a vers\u00e3o MP3 de alta defini\u00e7\u00e3o e o contrato formal de cess\u00e3o de direitos em PDF s\u00e3o enviados automaticamente para o seu e-mail."
+    }
+  ]
+},
 };
