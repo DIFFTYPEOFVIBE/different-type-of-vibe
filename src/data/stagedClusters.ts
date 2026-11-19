@@ -11228,5 +11228,1683 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "type": "scene",
     "slug": "chennai-dhh-drill-beats",
     "batchId": 29
-  }
+  },
+  {
+  "slug": "mata-mlody-matczak-melodic-trap",
+  "name": "Mata Młody Matczak Style Melodic Trap",
+  "category": "vibe",
+  "badge": "Polski Trap Vibe",
+  "headline": "Bity w Stylu Mata (Młody Matczak): Melodyjny Trap, Gitary & Osobiste Teksty",
+  "description": "Chwytliwe partie gitar akustycznych, nowoczesne trapowe bębny i przestrzeń na życiowe, szczere teksty. Idealne dla artystów nawiązujących do brzmienia Maty i wytwórni SBM Label.",
+  "targetArtists": [
+    "Mata",
+    "Gombao 33",
+    "SBM Label"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "A-Minor / C-Major",
+  "vibeAttributes": [
+    "Melodyjne Gitary",
+    "Autotune Hooks",
+    "Chwytliwy Refren",
+    "Piosenkowy Trap"
+  ],
+  "popularGenres": [
+    "Polski Trap",
+    "Melodic Rap",
+    "SBM Style"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "malik-montana-gm2l-european-drill",
+  "name": "Malik Montana GM2L European Drill",
+  "category": "vibe",
+  "badge": "GM2L Drill Vibe",
+  "headline": "Bity w Stylu Malik Montana: Europejski Drill, Potężne Ślizgi 808 & Luksusowy Trap",
+  "description": "Najcięższy bas w Polsce: bezkompromisowe bębny drillowe, głębokie ślizgające się linie basu 808 i mroczny klimat inspirowany Malikiem Montaną i kolektywem GM2L.",
+  "targetArtists": [
+    "Malik Montana",
+    "GM2L",
+    "Alberto",
+    "Kazior"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Ślizgający się 808",
+    "Mroczne Melodie",
+    "Europejski Drill",
+    "Twardy Bęben"
+  ],
+  "popularGenres": [
+    "Polski Drill",
+    "GM2L Trap",
+    "UK & French Crossover"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "bedoes-2115-emotional-street-anthem",
+  "name": "Bedoes 2115 Emotional Street Anthem",
+  "category": "vibe",
+  "badge": "2115 Anthem Vibe",
+  "headline": "Bity w Stylu Bedoes 2115: Emocjonalne Hymny, Gitary & Stadionowe 808",
+  "description": "Czyste emocje i potęga stadionowego brzmienia: wzruszające akordy gitarowe, żywe instrumenty i potężny drop basowy dla utworów pełnych pasji i szczerości.",
+  "targetArtists": [
+    "Bedoes 2115",
+    "2115 Gang",
+    "White 2115",
+    "Kubi Producent"
+  ],
+  "recommendedBpm": "128-134 BPM",
+  "recommendedKey": "E-Minor / G-Major",
+  "vibeAttributes": [
+    "Stadionowy Trap",
+    "Gitary Akustyczne",
+    "Emocjonalny Drop",
+    "Hymn Uliczny"
+  ],
+  "popularGenres": [
+    "Emotional Trap",
+    "2115 Vibe",
+    "Guitar Rap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "gibbs-dopehouse-melancholic-piano-trap",
+  "name": "Gibbs DopeHouse Melancholic Piano Trap",
+  "category": "vibe",
+  "badge": "DopeHouse Piano Vibe",
+  "headline": "Bity w Stylu Gibbs (DopeHouse): Melancholijne Pianina, Głęboki Bas & Klimat Śląska",
+  "description": "Głębokie, poruszające akordy fortepianu, przestrzenne reverby i ciepły subbas. Idealne pod melancholijny śpiewany rap i głębokie przemyślenia w stylu Gibbsa.",
+  "targetArtists": [
+    "Gibbs",
+    "DopeHouse",
+    "Kiełas",
+    "Oliver Olson"
+  ],
+  "recommendedBpm": "90-100 BPM / 125 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Melancholijny Fortepian",
+    "Ciepły Subbas",
+    "Klimatyczny Pogłos",
+    "Nocny Trap"
+  ],
+  "popularGenres": [
+    "Melancholic Rap",
+    "DopeHouse Style",
+    "Piano Trap"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "5"
+  ]
+},
+  {
+  "slug": "oki-47-energetic-hyper-trap",
+  "name": "Oki 47 Energetic Hyper Trap",
+  "category": "vibe",
+  "badge": "47 Hyper Vibe",
+  "headline": "Bity w Stylu Oki (47): Ekstremalna Energia, Szybkie Flow & Klubowy Bounce",
+  "description": "Niewyczerpana energia, szalone syntezatory, agresywny distortion i pulsujący bas 808 pod ekspresowe, techniczne flow Oki 47.",
+  "targetArtists": [
+    "Oki",
+    "47 Movement",
+    "Otsochodzi",
+    "Young Igi"
+  ],
+  "recommendedBpm": "135-142 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Klubowy Bounce",
+    "Szybki Hi-Hat",
+    "Distortion 808",
+    "Moshpit Trap"
+  ],
+  "popularGenres": [
+    "Hyper Trap",
+    "Polski Rap",
+    "Club Banger"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "white-2115-summer-beach-trap",
+  "name": "White 2115 Summer Beach Trap",
+  "category": "vibe",
+  "badge": "Summer Trap Vibe",
+  "headline": "Bity w Stylu White 2115: Słoneczny Trap, Letnie Gitary & Melodyjny Autotune",
+  "description": "Słoneczny klimat, letnie melodie gitarowe, taneczny groove i chwytliwy pop-trapowy beat gotowy na hity wakacyjne.",
+  "targetArtists": [
+    "White 2115",
+    "Mata",
+    "Kizo"
+  ],
+  "recommendedBpm": "120-128 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Letni Klimat",
+    "Gitara Akustyczna",
+    "Taneczny Rytm",
+    "Wakacyjny Hit"
+  ],
+  "popularGenres": [
+    "Summer Trap",
+    "Pop Trap",
+    "Polski Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6"
+  ]
+},
+  {
+  "slug": "szpaku-gugu-dark-rock-trap-beats",
+  "name": "Szpaku GUGU Dark Rock Trap",
+  "category": "vibe",
+  "badge": "GUGU Rock-Trap Vibe",
+  "headline": "Bity w Stylu Szpaku (GUGU): Mroczny Rock-Trap, Przesterowane Gitary & Ból",
+  "description": "Surowy ładunek emocjonalny: przesterowane gitary elektryczne, mroczne tła i ciężka sekcja rytmiczna pod bezkompromisowe teksty Szpaka i GUGU.",
+  "targetArtists": [
+    "Szpaku",
+    "GUGU",
+    "Chivas",
+    "Waimer"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / B-Minor",
+  "vibeAttributes": [
+    "Gitary Elektryczne",
+    "Przesterowany Bas",
+    "Emocjonalny Rock Trap",
+    "Mrok"
+  ],
+  "popularGenres": [
+    "Rock Trap",
+    "Emo Rap",
+    "GUGU Style"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "smolasty-smooth-rnb-trap-beats",
+  "name": "Smolasty Smooth RnB Trap",
+  "category": "vibe",
+  "badge": "RnB Trap Vibe",
+  "headline": "Bity w Stylu Smolasty: Zmysłowy R&B Trap, Miękkie Klawisze & Radiowy Pop",
+  "description": "Ciepłe akordy Rhodes, zmysłowe melodie syntezatorowe i idealnie wyprodukowana perkusja pod komercyjne hity radiowe w stylu Smolastego.",
+  "targetArtists": [
+    "Smolasty",
+    "Tribbs",
+    "Oliwka Brazil"
+  ],
+  "recommendedBpm": "105-120 BPM",
+  "recommendedKey": "E-Minor / B-Minor",
+  "vibeAttributes": [
+    "Zmysłowy R&B",
+    "Ciepłe Klawisze",
+    "Radiowy Groove",
+    "Śpiewany Refren"
+  ],
+  "popularGenres": [
+    "R&B Trap",
+    "Pop Rap",
+    "Club R&B"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "taco-hemingway-nocturnal-storytelling-rap",
+  "name": "Taco Hemingway Nocturnal Storytelling Rap",
+  "category": "vibe",
+  "badge": "Nocturnal Rap Vibe",
+  "headline": "Bity w Stylu Taco Hemingway: Nocna Opowieść, Ambientowe Pady & Warszawa Nocą",
+  "description": "Nostalgiczne, nocne brzmienie: przestrzenne tekstury ambientowe, subtelne pianino i selektywna perkusja dla dojrzałego, poetyckiego rapu o wielkim mieście.",
+  "targetArtists": [
+    "Taco Hemingway",
+    "Rumak",
+    "Borixon"
+  ],
+  "recommendedBpm": "85-95 BPM / 120 BPM",
+  "recommendedKey": "A-Minor / D-Minor",
+  "vibeAttributes": [
+    "Nocny Klimat",
+    "Ambientowe Pady",
+    "Głęboka Opowieść",
+    "Warszawa Nocą"
+  ],
+  "popularGenres": [
+    "Lo-Fi Rap",
+    "Storytelling Hip Hop",
+    "Warszawski Vibe"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6"
+  ]
+},
+  {
+  "slug": "kizo-club-banger-bounce-trap",
+  "name": "Kizo Club Banger Bounce Trap",
+  "category": "vibe",
+  "badge": "Club Trap Vibe",
+  "headline": "Bity w Stylu Kizo: Imprezowy Banger, Klubowy Bounce & Sukces Trap",
+  "description": "Energetyczny klubowy rytm, tłusty bas i chwytliwe syntezatory gotowe rozgrzać parkiety w całej Polsce.",
+  "targetArtists": [
+    "Kizo",
+    "Bletka",
+    "My To Sukces"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Imprezowy Banger",
+    "Klubowy Bas",
+    "Taneczne Hi-Haty",
+    "Sukces"
+  ],
+  "popularGenres": [
+    "Club Trap",
+    "Dance Rap",
+    "Polski Rap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "sobel-acoustic-piano-melodic-rap",
+  "name": "Sobel Acoustic Piano Melodic Rap",
+  "category": "vibe",
+  "badge": "Melodic Piano Vibe",
+  "headline": "Bity w Stylu Sobel: Melodyjny Śpiew, Akustyczne Pianino & Trapowy Rytm",
+  "description": "Dynamiczne partie fortepianowe, melodyjna finezja i nowoczesne bębny trapowe pod szeroki zakres wokalny i emocjonalne refreny.",
+  "targetArtists": [
+    "Sobel",
+    "Sanah",
+    "Deemz"
+  ],
+  "recommendedBpm": "115-125 BPM",
+  "recommendedKey": "F-Major / D-Minor",
+  "vibeAttributes": [
+    "Fortepian Akustyczny",
+    "Wokalny Trap",
+    "Chwytliwy Refren",
+    "Bogata Harmonika"
+  ],
+  "popularGenres": [
+    "Melodic Rap",
+    "Piano Trap",
+    "Acoustic Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "pezet-muzyka-emocjonalna-classic-trap",
+  "name": "Pezet Muzyka Emocjonalna Classic Trap",
+  "category": "vibe",
+  "badge": "Klasyk Emocjonalny Vibe",
+  "headline": "Bity w Stylu Pezet: Muzyka Emocjonalna, Klasyczny Trap & Warszawska Prawda",
+  "description": "Legendarne brzmienie emocjonalnego rapu: synthwave'owe syntezatory, głębokie melodie i przestrzenne bębny łączące klasykę z nowoczesnością.",
+  "targetArtists": [
+    "Pezet",
+    "Noon",
+    "Auer"
+  ],
+  "recommendedBpm": "95-105 BPM / 130 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "Emocjonalne Syntezatory",
+    "Warszawska Klasyka",
+    "Nostalgia",
+    "Głęboki Bas"
+  ],
+  "popularGenres": [
+    "Muzyka Emocjonalna",
+    "Classic Trap",
+    "Warszawski Rap"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "kupic-bity-rap-online-pln",
+  "name": "Kupić Bity Rap Online w PLN (zł)",
+  "category": "genre",
+  "badge": "Sklep z Bitami PLN",
+  "headline": "Kup Bity Rap i Trap Online: Oficjalne Licencje, Ceny w PLN (zł) & BLIK",
+  "description": "Sklep z profesjonalnymi bitami rap bez lektora. Kup podkłady muzyczne w złotówkach przez BLIK lub kartę z natychmiastowym pobraniem plików WAV.",
+  "targetArtists": [
+    "Polscy Raperzy",
+    "Wokaliści",
+    "Producenci"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "Wszystkie Tonacje",
+  "vibeAttributes": [
+    "Płatność BLIK",
+    "Cena w PLN",
+    "Umowa PDF",
+    "Untagged WAV"
+  ],
+  "popularGenres": [
+    "Polski Trap",
+    "Polski Drill",
+    "Boom Bap",
+    "R&B"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "polski-drill-bity-wav-stems",
+  "name": "Polski Drill Bity WAV ze Ścieżkami (Stems)",
+  "category": "genre",
+  "badge": "Polski Drill WAV",
+  "headline": "Bity Polski Drill na Sprzedaż: Studyjne Pliki WAV 24-bit i Ścieżki Trackout",
+  "description": "Najcięższe podkłady w stylu polskiego i europejskiego drillu (140-144 BPM) z surowymi ślizgami 808 i pełnymi ścieżkami wielośladowymi do miksu wokalnego.",
+  "targetArtists": [
+    "Malik Montana",
+    "Alberto",
+    "Szpaku",
+    "Drillowcy"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Ślizgający się 808",
+    "Ścieżki Stems",
+    "Studyjne WAV",
+    "Mroczny Drill"
+  ],
+  "popularGenres": [
+    "Polski Drill",
+    "UK Drill Crossover",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "bity-z-platnoscia-blik-polska",
+  "name": "Bity z Płatnością BLIK Polska",
+  "category": "genre",
+  "badge": "Płatność BLIK 6 Cyfr",
+  "headline": "Kup Bity z Płatnością BLIK: 6-cyfrowy Kod, Natychmiastowy Dostęp i Umowa PDF",
+  "description": "Kupuj bity rap w najpopularniejszy sposób w Polsce. Wpisz 6-cyfrowy kod BLIK i pobierz studyjne pliki WAV w 10 sekund na swój telefon lub komputer.",
+  "targetArtists": [
+    "Polscy Twórcy",
+    "Niezależni Artyści",
+    "Raperzy"
+  ],
+  "recommendedBpm": "Wszystkie Tempa",
+  "recommendedKey": "Wszystkie Tonacje",
+  "vibeAttributes": [
+    "Szybki BLIK",
+    "Płatność w 10 Sekund",
+    "Zero Prowizji",
+    "WAV + PDF"
+  ],
+  "popularGenres": [
+    "Polski Trap",
+    "Drill",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6"
+  ]
+},
+  {
+  "slug": "zaiks-bezpieczne-bity-bez-praw-autorskich",
+  "name": "ZAiKS Bezpieczne Bity Bez Praw Autorskich",
+  "category": "genre",
+  "badge": "Zgodność z ZAiKS",
+  "headline": "Bity w 100% Zgodne z ZAiKS i ZPAV: Oryginalna Produkcja, Zero Copyright Claim",
+  "description": "Wydawaj swoje single i albumy bez obaw o blokady Content ID czy roszczenia ZAiKS. 100% oryginalne aranżacje, legalna licencja komercyjna.",
+  "targetArtists": [
+    "Artyści ZAiKS",
+    "Wytwórnie Niezależne",
+    "Autorzy Tekstów"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "100% Original",
+    "Zgodne z ZAiKS",
+    "Czysty Content ID",
+    "Pełna Ochrona"
+  ],
+  "popularGenres": [
+    "Polski Rap",
+    "Trap",
+    "R&B"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6",
+    "5"
+  ]
+},
+  {
+  "slug": "bity-do-nagrywania-wokalu-bez-tagu",
+  "name": "Bity do Nagrywania Wokalu Bez Tagu (Untagged)",
+  "category": "genre",
+  "badge": "Untagged Studio WAV",
+  "headline": "Bity do Nagrywania Wokalu Bez Tagów: Czysty Dźwięk do Studia Nagraniowego",
+  "description": "Podkłady muzyczne pozbawione jakichkolwiek głosów lektora czy znaków wodnych. Wchodź do studia nagraniowego z czystym plikiem WAV gotowym pod mikrofon.",
+  "targetArtists": [
+    "Raperzy w Studio",
+    "Inżynierowie Dźwięku",
+    "Wokaliści"
+  ],
+  "recommendedBpm": "90-145 BPM",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Bez Znaku Wodnego",
+    "Czysty Wokal",
+    "Mastering Studyjny",
+    "Headroom -6dB"
+  ],
+  "popularGenres": [
+    "Trap",
+    "Boom Bap",
+    "Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1",
+    "6"
+  ]
+},
+  {
+  "slug": "komercyjna-licencja-streaming-spotify-polska",
+  "name": "Komercyjna Licencja Streaming Spotify Polska",
+  "category": "genre",
+  "badge": "Spotify Polska Ready",
+  "headline": "Licencja Komercyjna na Bity: Legalny Streaming na Spotify Polska, Apple Music i YouTube",
+  "description": "Wszystkie licencje gwarantują prawo do nieograniczonej dystrybucji na platformach streamingowych. Zachowujesz 100% zysków z odtworzeń Twojej muzyki.",
+  "targetArtists": [
+    "Niezależni Artyści",
+    "Dystrybutorzy (eMuzyka, DistroKid)"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "100% Tantiem",
+    "Spotify Ready",
+    "Apple Music",
+    "YouTube Monetization"
+  ],
+  "popularGenres": [
+    "Polski Rap",
+    "Drill",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "podklady-muzyczne-hiphop-na-sprzedaz",
+  "name": "Podkłady Muzyczne Hip-Hop na Sprzedaż",
+  "category": "genre",
+  "badge": "Podkłady Hip-Hop",
+  "headline": "Podkłady Muzyczne Hip-Hop na Sprzedaż: Gotowe Bity do Piosenek i Teledysków",
+  "description": "Najlepsze podkłady muzyczne dla twórców piosenek, klipów wideo i projektów komercyjnych w Polsce. Studyjna jakość dźwięku i profesjonalna aranżacja.",
+  "targetArtists": [
+    "Twórcy Piosenek",
+    "Raperzy",
+    "Reżyserzy Klipów"
+  ],
+  "recommendedBpm": "90-140 BPM",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Gotowa Aranżacja",
+    "Wysoka Dynamika",
+    "Profesjonalny Miks"
+  ],
+  "popularGenres": [
+    "Polski Hip Hop",
+    "Modern Trap",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "bity-trap-z-gitarami-akustycznymi",
+  "name": "Bity Trap z Gitarami Akustycznymi",
+  "category": "genre",
+  "badge": "Gitary Akustyczne Trap",
+  "headline": "Bity Trap z Żywymi Gitarami: Melodyjny Klimat Bedoes, Mata & White 2115",
+  "description": "Ręcznie nagrywane gitary akustyczne i elektryczne połączone z soczystym trapem 808. Najchętniej słuchany styl w polskim mainstreamie.",
+  "targetArtists": [
+    "Mata",
+    "Bedoes 2115",
+    "White 2115"
+  ],
+  "recommendedBpm": "125-135 BPM",
+  "recommendedKey": "C-Major / A-Minor",
+  "vibeAttributes": [
+    "Żywe Gitary",
+    "Melodyjny Trap",
+    "Bouncy 808s",
+    "Stadionowy Refren"
+  ],
+  "popularGenres": [
+    "Guitar Trap",
+    "Polski Rap",
+    "Acoustic Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "profesjonalne-bity-do-rapu-zaiks",
+  "name": "Profesjonalne Bity do Rapu ZAiKS",
+  "category": "genre",
+  "badge": "Legalne Bity ZAiKS",
+  "headline": "Profesjonalne Bity Rap z Legalną Umową: Certyfikowane dla Polskich Artystów",
+  "description": "Kupuj bity z gwarancją prawną. Każde pobranie generuje dedykowaną umowę licencyjną PDF akceptowaną przez wytwórnie płytowe i stowarzyszenie ZAiKS.",
+  "targetArtists": [
+    "Artyści ZAiKS",
+    "Wytwórnie",
+    "Menedżerowie"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Umowa PDF",
+    "Pełna Licencja",
+    "Gwarancja Prawna",
+    "Bezpieczny ZAiKS"
+  ],
+  "popularGenres": [
+    "Polski Hip Hop",
+    "Trap",
+    "Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "darmowe-bity-do-pobrania-komercyjne",
+  "name": "Darmowe Bity do Pobrania na Próbę",
+  "category": "genre",
+  "badge": "Darmowa Paczka Bitów",
+  "headline": "Darmowe Bity do Pobrania: Pobierz Paczkę 3 Bitów MP3 i Przetestuj Swój Wokal",
+  "description": "Pobierz darmową paczkę 3 podkładów muzycznych do nagrania wersji demo. Sprawdź jak Twój głos brzmi na profesjonalnych produkcjach Onzieba.",
+  "targetArtists": [
+    "Młodzi Raperzy",
+    "Działacze Podziemia",
+    "Debiutanci"
+  ],
+  "recommendedBpm": "95, 130, 140 BPM",
+  "recommendedKey": "C-Minor, D-Minor",
+  "vibeAttributes": [
+    "Darmowy Download",
+    "Paczka 3 Bitów",
+    "Wersja Demo",
+    "Natychmiast na Mail"
+  ],
+  "popularGenres": [
+    "Polski Trap",
+    "Drill",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "6"
+  ]
+},
+  {
+  "slug": "140-bpm-polski-drill-beats",
+  "name": "140 BPM Polski Drill Beats",
+  "category": "bpm",
+  "badge": "140 BPM Polish Drill",
+  "headline": "140 BPM Polski Drill: Najpopularniejsze Tempo Polskiego Drillu",
+  "description": "Standardowe tempo europejskiego i polskiego drillu. Płynne hi-haty, sliding 808s i idealny bounce do szybkiej nawijki.",
+  "recommendedBpm": "140 BPM",
+  "recommendedKey": "D-Minor",
+  "vibeAttributes": [
+    "140 BPM",
+    "Polski Drill",
+    "Sliding 808",
+    "Mroczny Bas"
+  ],
+  "popularGenres": [
+    "Polski Drill",
+    "UK Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "142-bpm-malik-montana-drill",
+  "name": "142 BPM Malik Montana Drill",
+  "category": "bpm",
+  "badge": "142 BPM GM2L Drill",
+  "headline": "142 BPM Malik Montana Drill: Ciężki Bas i Agresywny Rytm",
+  "description": "Szybki, agresywny podkład drillowy z mocnym basem 808 w stylu GM2L i Malika Montany.",
+  "recommendedBpm": "142 BPM",
+  "recommendedKey": "G-Minor",
+  "vibeAttributes": [
+    "142 BPM",
+    "GM2L Vibe",
+    "Ciężki Drill"
+  ],
+  "popularGenres": [
+    "Polski Drill",
+    "European Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "130-bpm-polski-trap-beats",
+  "name": "130 BPM Polski Trap Beats",
+  "category": "bpm",
+  "badge": "130 BPM Polish Trap",
+  "headline": "130 BPM Polski Trap: Klasyczne Bouncing Trap Tempo",
+  "description": "Świetny groove pod melodyjne refreny, gitary i autotune w stylu Maty i White 2115.",
+  "recommendedBpm": "130 BPM",
+  "recommendedKey": "A-Minor",
+  "vibeAttributes": [
+    "130 BPM",
+    "Polski Trap",
+    "Bouncy 808"
+  ],
+  "popularGenres": [
+    "Polski Trap",
+    "Melodic Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "135-bpm-oki-47-hyper-trap",
+  "name": "135 BPM Oki 47 Hyper Trap",
+  "category": "bpm",
+  "badge": "135 BPM Hyper Trap",
+  "headline": "135 BPM Hyper Trap: Klubowa Energia i Szybkie Flow",
+  "description": "Pulsujące syntezatory i potężny kop pod szybkie, techniczne nawijki.",
+  "recommendedBpm": "135 BPM",
+  "recommendedKey": "C-Minor",
+  "vibeAttributes": [
+    "135 BPM",
+    "Hyper Trap",
+    "Klubowa Energia"
+  ],
+  "popularGenres": [
+    "Hyper Trap",
+    "Polski Rap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "95-bpm-gibbs-melancholic-piano",
+  "name": "95 BPM Gibbs Melancholic Piano",
+  "category": "bpm",
+  "badge": "95 BPM Melancholia",
+  "headline": "95 BPM Melancholijny Trap Fortepianowy: Śląsk Sound Gibbs Style",
+  "description": "Wolniejsze, hipnotyzujące tempo idealne pod głębokie teksty i melodyjny śpiew.",
+  "recommendedBpm": "95 BPM",
+  "recommendedKey": "F-Minor",
+  "vibeAttributes": [
+    "95 BPM",
+    "Pianino",
+    "Głęboki Bas"
+  ],
+  "popularGenres": [
+    "Melancholic Trap",
+    "DopeHouse"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "5"
+  ]
+},
+  {
+  "slug": "d-minor-polski-drill-beats",
+  "name": "D-Minor Polski Drill Beats",
+  "category": "key",
+  "badge": "D-Minor Drill",
+  "headline": "Bity Drill w Tonacji D-Minor: Mroczne Brzmienie Ulicy",
+  "description": "Najchętniej wybierana tonacja w polskim i światowym drillu. Mrok, powaga i potężny bas.",
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor",
+  "vibeAttributes": [
+    "D-Minor",
+    "Mrok",
+    "Sliding 808"
+  ],
+  "popularGenres": [
+    "Polski Drill",
+    "UK Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "c-minor-polski-trap-beats",
+  "name": "C-Minor Polski Trap Beats",
+  "category": "key",
+  "badge": "C-Minor Trap",
+  "headline": "Bity Trap w Tonacji C-Minor: Emocjonalny i Agresywny Trap",
+  "description": "Klasyczna tonacja trapu dająca głębokie, soczyste uderzenie basu 808.",
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "C-Minor",
+  "vibeAttributes": [
+    "C-Minor",
+    "Trap Bas",
+    "Agresja i Melodia"
+  ],
+  "popularGenres": [
+    "Polski Trap",
+    "Modern Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "f-minor-gibbs-piano-trap",
+  "name": "F-Minor Gibbs Piano Trap",
+  "category": "key",
+  "badge": "F-Minor Piano",
+  "headline": "Bity Fortepianowe w Tonacji F-Minor: Nostalgia i Emocje",
+  "description": "Głęboki ładunek nostalgii i przestrzenne fortepiany pod śpiewany rap i melodyjny trap.",
+  "recommendedBpm": "95-125 BPM",
+  "recommendedKey": "F-Minor",
+  "vibeAttributes": [
+    "F-Minor",
+    "Melancholia",
+    "Fortepian"
+  ],
+  "popularGenres": [
+    "Melodic Rap",
+    "DopeHouse Style"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "a-minor-mata-melodic-trap",
+  "name": "A-Minor Mata Melodic Trap",
+  "category": "key",
+  "badge": "A-Minor Melodic",
+  "headline": "Bity Melodyjne w Tonacji A-Minor: Gitary Akustyczne i Życiowe Opowieści",
+  "description": "Naturalna, organiczna tonacja idealna pod partie gitarowe i melodyjny autotune.",
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "A-Minor",
+  "vibeAttributes": [
+    "A-Minor",
+    "Gitary",
+    "Melodia"
+  ],
+  "popularGenres": [
+    "Polski Trap",
+    "Guitar Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "g-minor-malik-montana-808s",
+  "name": "G-Minor Malik Montana 808s",
+  "category": "key",
+  "badge": "G-Minor Heavy Bass",
+  "headline": "Bity w Tonacji G-Minor: Głęboki Subbas i Luksusowy Trap",
+  "description": "Tonacja gwarantująca maksymalną czystość i moc najniższych rejestrów basu 808.",
+  "recommendedBpm": "135-144 BPM",
+  "recommendedKey": "G-Minor",
+  "vibeAttributes": [
+    "G-Minor",
+    "Subbas",
+    "Luksus"
+  ],
+  "popularGenres": [
+    "Polski Drill",
+    "GM2L Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "warszawa-polski-drill-bity",
+  "name": "Warszawa Polski Drill Bity",
+  "category": "scene",
+  "badge": "Warszawa Polski Drill",
+  "headline": "Bity Polski Drill Bity w Warszawa (Mazowsze): Licencje WAV & BLIK",
+  "description": "Mroczne bity w stylu polskiego i europejskiego drillu z potężnymi ślizgami 808 i studyjnymi plikami WAV dla artystów z miasta Warszawa.",
+  "targetArtists": [
+    "Raperzy Warszawa",
+    "Polska Scena Hip Hop",
+    "Niezależni Artyści"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Warszawa",
+    "Polski Drill",
+    "Płatność BLIK",
+    "Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Polski Drill Bity",
+    "Polski Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "warszawa-polski-trap-instrumental",
+  "name": "Warszawa Polski Trap Instrumental",
+  "category": "scene",
+  "badge": "Warszawa Polski Trap",
+  "headline": "Bity Polski Trap Instrumental w Warszawa (Mazowsze): Licencje WAV & BLIK",
+  "description": "Nowoczesne podkłady trapowe z chwytliwymi melodiami syntezatorowymi i soczystym basem dla raperów ze sceny Warszawa.",
+  "targetArtists": [
+    "Raperzy Warszawa",
+    "Polska Scena Hip Hop",
+    "Niezależni Artyści"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C-Minor / A-Minor",
+  "vibeAttributes": [
+    "Warszawa",
+    "Polski Trap",
+    "Płatność BLIK",
+    "Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Polski Trap Instrumental",
+    "Polski Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "warszawa-melodic-acoustic-trap",
+  "name": "Warszawa Melodic Acoustic Guitar Trap",
+  "category": "scene",
+  "badge": "Warszawa Melodyjny Trap",
+  "headline": "Bity Melodic Acoustic Guitar Trap w Warszawa (Mazowsze): Licencje WAV & BLIK",
+  "description": "Żywe gitary akustyczne, chwytliwe refreny i melodyjny trap gotowy pod autotune w klimacie Warszawa.",
+  "targetArtists": [
+    "Raperzy Warszawa",
+    "Polska Scena Hip Hop",
+    "Niezależni Artyści"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Warszawa",
+    "Melodyjny Trap",
+    "Płatność BLIK",
+    "Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Melodic Acoustic Guitar Trap",
+    "Polski Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "warszawa-boom-bap-klasyczny",
+  "name": "Warszawa Klasyczny Uliczny Boom Bap",
+  "category": "scene",
+  "badge": "Warszawa Klasyczny Hip Hop",
+  "headline": "Bity Klasyczny Uliczny Boom Bap w Warszawa (Mazowsze): Licencje WAV & BLIK",
+  "description": "Prawdziwe korzenie hip-hopu: surowe bębny, winylowe cięcia i bezkompromisowy klimat dla MC z miasta Warszawa.",
+  "targetArtists": [
+    "Raperzy Warszawa",
+    "Polska Scena Hip Hop",
+    "Niezależni Artyści"
+  ],
+  "recommendedBpm": "90-96 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Warszawa",
+    "Klasyczny Hip Hop",
+    "Płatność BLIK",
+    "Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Klasyczny Uliczny Boom Bap",
+    "Polski Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6"
+  ]
+},
+  {
+  "slug": "krakow-polski-drill-bity",
+  "name": "Kraków Polski Drill Bity",
+  "category": "scene",
+  "badge": "Kraków Polski Drill",
+  "headline": "Bity Polski Drill Bity w Kraków (Małopolska): Licencje WAV & BLIK",
+  "description": "Mroczne bity w stylu polskiego i europejskiego drillu z potężnymi ślizgami 808 i studyjnymi plikami WAV dla artystów z miasta Kraków.",
+  "targetArtists": [
+    "Raperzy Kraków",
+    "Polska Scena Hip Hop",
+    "Niezależni Artyści"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Kraków",
+    "Polski Drill",
+    "Płatność BLIK",
+    "Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Polski Drill Bity",
+    "Polski Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "krakow-polski-trap-instrumental",
+  "name": "Kraków Polski Trap Instrumental",
+  "category": "scene",
+  "badge": "Kraków Polski Trap",
+  "headline": "Bity Polski Trap Instrumental w Kraków (Małopolska): Licencje WAV & BLIK",
+  "description": "Nowoczesne podkłady trapowe z chwytliwymi melodiami syntezatorowymi i soczystym basem dla raperów ze sceny Kraków.",
+  "targetArtists": [
+    "Raperzy Kraków",
+    "Polska Scena Hip Hop",
+    "Niezależni Artyści"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C-Minor / A-Minor",
+  "vibeAttributes": [
+    "Kraków",
+    "Polski Trap",
+    "Płatność BLIK",
+    "Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Polski Trap Instrumental",
+    "Polski Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "krakow-melodic-acoustic-trap",
+  "name": "Kraków Melodic Acoustic Guitar Trap",
+  "category": "scene",
+  "badge": "Kraków Melodyjny Trap",
+  "headline": "Bity Melodic Acoustic Guitar Trap w Kraków (Małopolska): Licencje WAV & BLIK",
+  "description": "Żywe gitary akustyczne, chwytliwe refreny i melodyjny trap gotowy pod autotune w klimacie Kraków.",
+  "targetArtists": [
+    "Raperzy Kraków",
+    "Polska Scena Hip Hop",
+    "Niezależni Artyści"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Kraków",
+    "Melodyjny Trap",
+    "Płatność BLIK",
+    "Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Melodic Acoustic Guitar Trap",
+    "Polski Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "krakow-boom-bap-klasyczny",
+  "name": "Kraków Klasyczny Uliczny Boom Bap",
+  "category": "scene",
+  "badge": "Kraków Klasyczny Hip Hop",
+  "headline": "Bity Klasyczny Uliczny Boom Bap w Kraków (Małopolska): Licencje WAV & BLIK",
+  "description": "Prawdziwe korzenie hip-hopu: surowe bębny, winylowe cięcia i bezkompromisowy klimat dla MC z miasta Kraków.",
+  "targetArtists": [
+    "Raperzy Kraków",
+    "Polska Scena Hip Hop",
+    "Niezależni Artyści"
+  ],
+  "recommendedBpm": "90-96 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Kraków",
+    "Klasyczny Hip Hop",
+    "Płatność BLIK",
+    "Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Klasyczny Uliczny Boom Bap",
+    "Polski Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6"
+  ]
+},
+  {
+  "slug": "katowice-polski-drill-bity",
+  "name": "Katowice Polski Drill Bity",
+  "category": "scene",
+  "badge": "Katowice Polski Drill",
+  "headline": "Bity Polski Drill Bity w Katowice (Śląsk): Licencje WAV & BLIK",
+  "description": "Mroczne bity w stylu polskiego i europejskiego drillu z potężnymi ślizgami 808 i studyjnymi plikami WAV dla artystów z miasta Katowice.",
+  "targetArtists": [
+    "Raperzy Katowice",
+    "Polska Scena Hip Hop",
+    "Niezależni Artyści"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Katowice",
+    "Polski Drill",
+    "Płatność BLIK",
+    "Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Polski Drill Bity",
+    "Polski Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "katowice-polski-trap-instrumental",
+  "name": "Katowice Polski Trap Instrumental",
+  "category": "scene",
+  "badge": "Katowice Polski Trap",
+  "headline": "Bity Polski Trap Instrumental w Katowice (Śląsk): Licencje WAV & BLIK",
+  "description": "Nowoczesne podkłady trapowe z chwytliwymi melodiami syntezatorowymi i soczystym basem dla raperów ze sceny Katowice.",
+  "targetArtists": [
+    "Raperzy Katowice",
+    "Polska Scena Hip Hop",
+    "Niezależni Artyści"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C-Minor / A-Minor",
+  "vibeAttributes": [
+    "Katowice",
+    "Polski Trap",
+    "Płatność BLIK",
+    "Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Polski Trap Instrumental",
+    "Polski Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "katowice-melodic-acoustic-trap",
+  "name": "Katowice Melodic Acoustic Guitar Trap",
+  "category": "scene",
+  "badge": "Katowice Melodyjny Trap",
+  "headline": "Bity Melodic Acoustic Guitar Trap w Katowice (Śląsk): Licencje WAV & BLIK",
+  "description": "Żywe gitary akustyczne, chwytliwe refreny i melodyjny trap gotowy pod autotune w klimacie Katowice.",
+  "targetArtists": [
+    "Raperzy Katowice",
+    "Polska Scena Hip Hop",
+    "Niezależni Artyści"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Katowice",
+    "Melodyjny Trap",
+    "Płatność BLIK",
+    "Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Melodic Acoustic Guitar Trap",
+    "Polski Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "katowice-boom-bap-klasyczny",
+  "name": "Katowice Klasyczny Uliczny Boom Bap",
+  "category": "scene",
+  "badge": "Katowice Klasyczny Hip Hop",
+  "headline": "Bity Klasyczny Uliczny Boom Bap w Katowice (Śląsk): Licencje WAV & BLIK",
+  "description": "Prawdziwe korzenie hip-hopu: surowe bębny, winylowe cięcia i bezkompromisowy klimat dla MC z miasta Katowice.",
+  "targetArtists": [
+    "Raperzy Katowice",
+    "Polska Scena Hip Hop",
+    "Niezależni Artyści"
+  ],
+  "recommendedBpm": "90-96 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Katowice",
+    "Klasyczny Hip Hop",
+    "Płatność BLIK",
+    "Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Klasyczny Uliczny Boom Bap",
+    "Polski Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6"
+  ]
+},
+  {
+  "slug": "wroclaw-polski-drill-bity",
+  "name": "Wrocław Polski Drill Bity",
+  "category": "scene",
+  "badge": "Wrocław Polski Drill",
+  "headline": "Bity Polski Drill Bity w Wrocław (Dolny Śląsk): Licencje WAV & BLIK",
+  "description": "Mroczne bity w stylu polskiego i europejskiego drillu z potężnymi ślizgami 808 i studyjnymi plikami WAV dla artystów z miasta Wrocław.",
+  "targetArtists": [
+    "Raperzy Wrocław",
+    "Polska Scena Hip Hop",
+    "Niezależni Artyści"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Wrocław",
+    "Polski Drill",
+    "Płatność BLIK",
+    "Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Polski Drill Bity",
+    "Polski Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "wroclaw-polski-trap-instrumental",
+  "name": "Wrocław Polski Trap Instrumental",
+  "category": "scene",
+  "badge": "Wrocław Polski Trap",
+  "headline": "Bity Polski Trap Instrumental w Wrocław (Dolny Śląsk): Licencje WAV & BLIK",
+  "description": "Nowoczesne podkłady trapowe z chwytliwymi melodiami syntezatorowymi i soczystym basem dla raperów ze sceny Wrocław.",
+  "targetArtists": [
+    "Raperzy Wrocław",
+    "Polska Scena Hip Hop",
+    "Niezależni Artyści"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C-Minor / A-Minor",
+  "vibeAttributes": [
+    "Wrocław",
+    "Polski Trap",
+    "Płatność BLIK",
+    "Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Polski Trap Instrumental",
+    "Polski Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "wroclaw-melodic-acoustic-trap",
+  "name": "Wrocław Melodic Acoustic Guitar Trap",
+  "category": "scene",
+  "badge": "Wrocław Melodyjny Trap",
+  "headline": "Bity Melodic Acoustic Guitar Trap w Wrocław (Dolny Śląsk): Licencje WAV & BLIK",
+  "description": "Żywe gitary akustyczne, chwytliwe refreny i melodyjny trap gotowy pod autotune w klimacie Wrocław.",
+  "targetArtists": [
+    "Raperzy Wrocław",
+    "Polska Scena Hip Hop",
+    "Niezależni Artyści"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Wrocław",
+    "Melodyjny Trap",
+    "Płatność BLIK",
+    "Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Melodic Acoustic Guitar Trap",
+    "Polski Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "wroclaw-boom-bap-klasyczny",
+  "name": "Wrocław Klasyczny Uliczny Boom Bap",
+  "category": "scene",
+  "badge": "Wrocław Klasyczny Hip Hop",
+  "headline": "Bity Klasyczny Uliczny Boom Bap w Wrocław (Dolny Śląsk): Licencje WAV & BLIK",
+  "description": "Prawdziwe korzenie hip-hopu: surowe bębny, winylowe cięcia i bezkompromisowy klimat dla MC z miasta Wrocław.",
+  "targetArtists": [
+    "Raperzy Wrocław",
+    "Polska Scena Hip Hop",
+    "Niezależni Artyści"
+  ],
+  "recommendedBpm": "90-96 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Wrocław",
+    "Klasyczny Hip Hop",
+    "Płatność BLIK",
+    "Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Klasyczny Uliczny Boom Bap",
+    "Polski Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6"
+  ]
+},
+  {
+  "slug": "poznan-polski-drill-bity",
+  "name": "Poznań Polski Drill Bity",
+  "category": "scene",
+  "badge": "Poznań Polski Drill",
+  "headline": "Bity Polski Drill Bity w Poznań (Wielkopolska): Licencje WAV & BLIK",
+  "description": "Mroczne bity w stylu polskiego i europejskiego drillu z potężnymi ślizgami 808 i studyjnymi plikami WAV dla artystów z miasta Poznań.",
+  "targetArtists": [
+    "Raperzy Poznań",
+    "Polska Scena Hip Hop",
+    "Niezależni Artyści"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Poznań",
+    "Polski Drill",
+    "Płatność BLIK",
+    "Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Polski Drill Bity",
+    "Polski Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "poznan-polski-trap-instrumental",
+  "name": "Poznań Polski Trap Instrumental",
+  "category": "scene",
+  "badge": "Poznań Polski Trap",
+  "headline": "Bity Polski Trap Instrumental w Poznań (Wielkopolska): Licencje WAV & BLIK",
+  "description": "Nowoczesne podkłady trapowe z chwytliwymi melodiami syntezatorowymi i soczystym basem dla raperów ze sceny Poznań.",
+  "targetArtists": [
+    "Raperzy Poznań",
+    "Polska Scena Hip Hop",
+    "Niezależni Artyści"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C-Minor / A-Minor",
+  "vibeAttributes": [
+    "Poznań",
+    "Polski Trap",
+    "Płatność BLIK",
+    "Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Polski Trap Instrumental",
+    "Polski Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "poznan-melodic-acoustic-trap",
+  "name": "Poznań Melodic Acoustic Guitar Trap",
+  "category": "scene",
+  "badge": "Poznań Melodyjny Trap",
+  "headline": "Bity Melodic Acoustic Guitar Trap w Poznań (Wielkopolska): Licencje WAV & BLIK",
+  "description": "Żywe gitary akustyczne, chwytliwe refreny i melodyjny trap gotowy pod autotune w klimacie Poznań.",
+  "targetArtists": [
+    "Raperzy Poznań",
+    "Polska Scena Hip Hop",
+    "Niezależni Artyści"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Poznań",
+    "Melodyjny Trap",
+    "Płatność BLIK",
+    "Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Melodic Acoustic Guitar Trap",
+    "Polski Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "poznan-boom-bap-klasyczny",
+  "name": "Poznań Klasyczny Uliczny Boom Bap",
+  "category": "scene",
+  "badge": "Poznań Klasyczny Hip Hop",
+  "headline": "Bity Klasyczny Uliczny Boom Bap w Poznań (Wielkopolska): Licencje WAV & BLIK",
+  "description": "Prawdziwe korzenie hip-hopu: surowe bębny, winylowe cięcia i bezkompromisowy klimat dla MC z miasta Poznań.",
+  "targetArtists": [
+    "Raperzy Poznań",
+    "Polska Scena Hip Hop",
+    "Niezależni Artyści"
+  ],
+  "recommendedBpm": "90-96 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Poznań",
+    "Klasyczny Hip Hop",
+    "Płatność BLIK",
+    "Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Klasyczny Uliczny Boom Bap",
+    "Polski Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6"
+  ]
+},
+  {
+  "slug": "trojmiasto-polski-drill-bity",
+  "name": "Trójmiasto Polski Drill Bity",
+  "category": "scene",
+  "badge": "Trójmiasto Polski Drill",
+  "headline": "Bity Polski Drill Bity w Trójmiasto (Pomorze): Licencje WAV & BLIK",
+  "description": "Mroczne bity w stylu polskiego i europejskiego drillu z potężnymi ślizgami 808 i studyjnymi plikami WAV dla artystów z miasta Trójmiasto.",
+  "targetArtists": [
+    "Raperzy Trójmiasto",
+    "Polska Scena Hip Hop",
+    "Niezależni Artyści"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Trójmiasto",
+    "Polski Drill",
+    "Płatność BLIK",
+    "Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Polski Drill Bity",
+    "Polski Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "trojmiasto-polski-trap-instrumental",
+  "name": "Trójmiasto Polski Trap Instrumental",
+  "category": "scene",
+  "badge": "Trójmiasto Polski Trap",
+  "headline": "Bity Polski Trap Instrumental w Trójmiasto (Pomorze): Licencje WAV & BLIK",
+  "description": "Nowoczesne podkłady trapowe z chwytliwymi melodiami syntezatorowymi i soczystym basem dla raperów ze sceny Trójmiasto.",
+  "targetArtists": [
+    "Raperzy Trójmiasto",
+    "Polska Scena Hip Hop",
+    "Niezależni Artyści"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C-Minor / A-Minor",
+  "vibeAttributes": [
+    "Trójmiasto",
+    "Polski Trap",
+    "Płatność BLIK",
+    "Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Polski Trap Instrumental",
+    "Polski Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "trojmiasto-melodic-acoustic-trap",
+  "name": "Trójmiasto Melodic Acoustic Guitar Trap",
+  "category": "scene",
+  "badge": "Trójmiasto Melodyjny Trap",
+  "headline": "Bity Melodic Acoustic Guitar Trap w Trójmiasto (Pomorze): Licencje WAV & BLIK",
+  "description": "Żywe gitary akustyczne, chwytliwe refreny i melodyjny trap gotowy pod autotune w klimacie Trójmiasto.",
+  "targetArtists": [
+    "Raperzy Trójmiasto",
+    "Polska Scena Hip Hop",
+    "Niezależni Artyści"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Trójmiasto",
+    "Melodyjny Trap",
+    "Płatność BLIK",
+    "Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Melodic Acoustic Guitar Trap",
+    "Polski Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "trojmiasto-boom-bap-klasyczny",
+  "name": "Trójmiasto Klasyczny Uliczny Boom Bap",
+  "category": "scene",
+  "badge": "Trójmiasto Klasyczny Hip Hop",
+  "headline": "Bity Klasyczny Uliczny Boom Bap w Trójmiasto (Pomorze): Licencje WAV & BLIK",
+  "description": "Prawdziwe korzenie hip-hopu: surowe bębny, winylowe cięcia i bezkompromisowy klimat dla MC z miasta Trójmiasto.",
+  "targetArtists": [
+    "Raperzy Trójmiasto",
+    "Polska Scena Hip Hop",
+    "Niezależni Artyści"
+  ],
+  "recommendedBpm": "90-96 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Trójmiasto",
+    "Klasyczny Hip Hop",
+    "Płatność BLIK",
+    "Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Klasyczny Uliczny Boom Bap",
+    "Polski Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6"
+  ]
+},
 ];

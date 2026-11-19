@@ -16505,4 +16505,489 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
     }
   ]
 },
+  "pl": {
+  "name": "Polska – Polski Hip-Hop & Trap (BLIK, ZAiKS & WAV)",
+  "flag": "🇵🇱",
+  "currency": "PLN (zł)",
+  "currencyCode": "PLN",
+  "gateways": "BLIK, Przelewy24, Apple Pay, Google Pay, Karty płatnicze, PayPal, Stripe",
+  "pro": "ZAiKS & ZPAV",
+  "proFullName": "Stowarzyszenie Autorów ZAiKS & ZPAV",
+  "proGuide": "100% legalna rejestracja w ZAiKS dla polskich artystów i producentów. Wszystkie podkłady są oryginalnymi kompozycjami bez nieautoryzowanych sampli. Zachowujesz 100% swoich tantiem autorskich i wykonawczych na Spotify, Apple Music i YouTube.",
+  "headline": "Kup Bity Rap i Trap w Polsce: Płatność BLIK, Licencje WAV & Stems",
+  "description": "Profesjonalne podkłady muzyczne bez znaku wodnego (untagged) w studyjnej jakości WAV 24-bit oraz ścieżki wielośladowe (Stems) dla polskich raperów i wokalistów. Natychmiastowe pobieranie z oficjalną umową licencyjną PDF.",
+  "popularGenres": [
+    "Polski Trap",
+    "Polski Drill",
+    "Melodic Guitar Trap",
+    "Klasyczny Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Warszawa Trap Hub",
+      "slug": "pl/warszawa",
+      "description": "Stolica polskiego rapu, SBM Label i nowoczesny trap."
+    },
+    {
+      "name": "Katowice Śląsk Sound",
+      "slug": "pl/katowice",
+      "description": "Głębokie melancholijne pianina DopeHouse i Gibbs vibe."
+    },
+    {
+      "name": "Trójmiasto Beach Trap",
+      "slug": "pl/trojmiasto",
+      "description": "Nadmorski klimat, letnie gitary i autotune White 2115."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Czy mogę wydać utwór nagrany na tym bicie na Spotify, Apple Music i YouTube w Polska – Polski Hip-Hop & Trap (BLIK, ZAiKS & WAV)?",
+      "answer": "Tak, w 100%! Wszystkie licencje WAV i MP3 od Different Type of Vibe zawierają pełne prawa do komercyjnej dystrybucji na Spotify, Apple Music, YouTube, Tidal, Deezer, TikTok oraz w radiu. Zachowujesz 100% swoich zysków i tantiem jako artysta i wykonawca."
+    },
+    {
+      "question": "Czy bity są w 100% bezpieczne i legalne do rejestracji w ZAiKS?",
+      "answer": "Tak! Każdy podkład muzyczny to w 100% oryginalna kompozycja wyprodukowana przez Onzieba. Zero nielegalnych sampli. Możesz bez obaw zgłosić swój tekst i wykonanie do ZAiKS i ZPAV."
+    },
+    {
+      "question": "Jakie metody płatności są obsługiwane w Polsce?",
+      "answer": "W polskich złotych (PLN zł) możesz zapłacić błyskawicznie i bezpiecznie przez BLIK, Przelewy24, Apple Pay, Google Pay, karty płatnicze (Visa, Mastercard) oraz PayPal."
+    },
+    {
+      "question": "Kiedy i jak otrzymam pliki bez znaku wodnego (głosu lektora)?",
+      "answer": "Natychmiast po opłaceniu zamówienia, pliki studyjne WAV 24-bit bez tagów głosowych, plik MP3 w najwyższej jakości oraz oficjalna umowa licencyjna w formacie PDF zostaną automatycznie wysłane na Twój adres e-mail."
+    }
+  ]
+},
+  "pl/warszawa": {
+  "name": "Polska – Warszawa & Mazowsze (Stolica Polskiego Rapu)",
+  "flag": "🇵🇱",
+  "currency": "PLN (zł)",
+  "currencyCode": "PLN",
+  "gateways": "BLIK, Przelewy24, Apple Pay, Google Pay, Karty płatnicze, PayPal",
+  "pro": "ZAiKS & ZPAV",
+  "proFullName": "Stowarzyszenie Autorów ZAiKS",
+  "proGuide": "100% zgodne z ZAiKS z natychmiastowym pobraniem umowy PDF.",
+  "headline": "Bity Rap w Warszawie: Trap SBM Style, Malik Drill & Taco Melancholia",
+  "description": "Brzmienie warszawskich ulic i wielkich scen: energiczny trap, potężne 808-ki, surowy drill i melodyjne gitary inspirowane Matą, Malikiem Montaną i Taco Hemingwayem.",
+  "popularGenres": [
+    "Warszawski Trap",
+    "Mata Style",
+    "GM2L Drill",
+    "Taco Melancholia"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Mata Melodic Vibe",
+      "slug": "../../vibe/mata-mlody-matczak-melodic-trap",
+      "description": "Akustyczne gitary, chwytliwy autotune i życiowe tempo."
+    },
+    {
+      "name": "Malik Montana Drill Vibe",
+      "slug": "../../vibe/malik-montana-gm2l-european-drill",
+      "description": "Mocny europejski drill z głębokimi ślizgającymi się 808-kami."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Czy mogę wydać utwór nagrany na tym bicie na Spotify, Apple Music i YouTube w Polska – Warszawa & Mazowsze (Stolica Polskiego Rapu)?",
+      "answer": "Tak, w 100%! Wszystkie licencje WAV i MP3 od Different Type of Vibe zawierają pełne prawa do komercyjnej dystrybucji na Spotify, Apple Music, YouTube, Tidal, Deezer, TikTok oraz w radiu. Zachowujesz 100% swoich zysków i tantiem jako artysta i wykonawca."
+    },
+    {
+      "question": "Czy bity są w 100% bezpieczne i legalne do rejestracji w ZAiKS?",
+      "answer": "Tak! Każdy podkład muzyczny to w 100% oryginalna kompozycja wyprodukowana przez Onzieba. Zero nielegalnych sampli. Możesz bez obaw zgłosić swój tekst i wykonanie do ZAiKS i ZPAV."
+    },
+    {
+      "question": "Jakie metody płatności są obsługiwane w Polsce?",
+      "answer": "W polskich złotych (PLN zł) możesz zapłacić błyskawicznie i bezpiecznie przez BLIK, Przelewy24, Apple Pay, Google Pay, karty płatnicze (Visa, Mastercard) oraz PayPal."
+    },
+    {
+      "question": "Kiedy i jak otrzymam pliki bez znaku wodnego (głosu lektora)?",
+      "answer": "Natychmiast po opłaceniu zamówienia, pliki studyjne WAV 24-bit bez tagów głosowych, plik MP3 w najwyższej jakości oraz oficjalna umowa licencyjna w formacie PDF zostaną automatycznie wysłane na Twój adres e-mail."
+    }
+  ]
+},
+  "pl/katowice": {
+  "name": "Polska – Katowice & Śląsk (DopeHouse & Melancholia)",
+  "flag": "🇵🇱",
+  "currency": "PLN (zł)",
+  "currencyCode": "PLN",
+  "gateways": "BLIK, Przelewy24, Apple Pay, Google Pay, Karty płatnicze, PayPal",
+  "pro": "ZAiKS & ZPAV",
+  "proFullName": "Stowarzyszenie Autorów ZAiKS",
+  "proGuide": "100% zgodne z ZAiKS i bezpieczne dla wydań komercyjnych.",
+  "headline": "Bity na Śląsku: Melancholijne Pianina Gibbs Style, DopeHouse & 808s",
+  "description": "Najbardziej emocjonalne brzmienie polskiej sceny: poruszające akordy fortepianu, głęboki bas i klimatyczny trap inspirowany Gibbsem i DopeHouse.",
+  "popularGenres": [
+    "Śląski Trap",
+    "Gibbs Style",
+    "Melancholijne Pianina",
+    "DopeHouse Sound"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Gibbs Piano Vibe",
+      "slug": "../../vibe/gibbs-dopehouse-melancholic-piano-trap",
+      "description": "Głębokie fortepiany i melancholijny śląski trap."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Czy mogę wydać utwór nagrany na tym bicie na Spotify, Apple Music i YouTube w Polska – Katowice & Śląsk (DopeHouse & Melancholia)?",
+      "answer": "Tak, w 100%! Wszystkie licencje WAV i MP3 od Different Type of Vibe zawierają pełne prawa do komercyjnej dystrybucji na Spotify, Apple Music, YouTube, Tidal, Deezer, TikTok oraz w radiu. Zachowujesz 100% swoich zysków i tantiem jako artysta i wykonawca."
+    },
+    {
+      "question": "Czy bity są w 100% bezpieczne i legalne do rejestracji w ZAiKS?",
+      "answer": "Tak! Każdy podkład muzyczny to w 100% oryginalna kompozycja wyprodukowana przez Onzieba. Zero nielegalnych sampli. Możesz bez obaw zgłosić swój tekst i wykonanie do ZAiKS i ZPAV."
+    },
+    {
+      "question": "Jakie metody płatności są obsługiwane w Polsce?",
+      "answer": "W polskich złotych (PLN zł) możesz zapłacić błyskawicznie i bezpiecznie przez BLIK, Przelewy24, Apple Pay, Google Pay, karty płatnicze (Visa, Mastercard) oraz PayPal."
+    },
+    {
+      "question": "Kiedy i jak otrzymam pliki bez znaku wodnego (głosu lektora)?",
+      "answer": "Natychmiast po opłaceniu zamówienia, pliki studyjne WAV 24-bit bez tagów głosowych, plik MP3 w najwyższej jakości oraz oficjalna umowa licencyjna w formacie PDF zostaną automatycznie wysłane na Twój adres e-mail."
+    }
+  ]
+},
+  "pl/trojmiasto": {
+  "name": "Polska – Trójmiasto (Gdańsk, Gdynia & Sopot)",
+  "flag": "🇵🇱",
+  "currency": "PLN (zł)",
+  "currencyCode": "PLN",
+  "gateways": "BLIK, Przelewy24, Apple Pay, Google Pay, Karty płatnicze, PayPal",
+  "pro": "ZAiKS & ZPAV",
+  "proFullName": "Stowarzyszenie Autorów ZAiKS",
+  "proGuide": "100% zgodne z ZAiKS z natychmiastowym pobraniem.",
+  "headline": "Bity w Trójmieście: Letni Trap White 2115, Gitary & Nadmorski Bounce",
+  "description": "Słoneczne melodie gitarowe, pop-trapowe refreny i plażowy klimat dla artystów z Gdańska, Gdyni i Sopotu.",
+  "popularGenres": [
+    "Trójmiasto Trap",
+    "White 2115 Style",
+    "Letni Bounce",
+    "Gitary Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "White 2115 Vibe",
+      "slug": "../../vibe/white-2115-summer-beach-trap",
+      "description": "Słoneczny pop-trap z chwytliwymi melodiami gitarowymi."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Czy mogę wydać utwór nagrany na tym bicie na Spotify, Apple Music i YouTube w Polska – Trójmiasto (Gdańsk, Gdynia & Sopot)?",
+      "answer": "Tak, w 100%! Wszystkie licencje WAV i MP3 od Different Type of Vibe zawierają pełne prawa do komercyjnej dystrybucji na Spotify, Apple Music, YouTube, Tidal, Deezer, TikTok oraz w radiu. Zachowujesz 100% swoich zysków i tantiem jako artysta i wykonawca."
+    },
+    {
+      "question": "Czy bity są w 100% bezpieczne i legalne do rejestracji w ZAiKS?",
+      "answer": "Tak! Każdy podkład muzyczny to w 100% oryginalna kompozycja wyprodukowana przez Onzieba. Zero nielegalnych sampli. Możesz bez obaw zgłosić swój tekst i wykonanie do ZAiKS i ZPAV."
+    },
+    {
+      "question": "Jakie metody płatności są obsługiwane w Polsce?",
+      "answer": "W polskich złotych (PLN zł) możesz zapłacić błyskawicznie i bezpiecznie przez BLIK, Przelewy24, Apple Pay, Google Pay, karty płatnicze (Visa, Mastercard) oraz PayPal."
+    },
+    {
+      "question": "Kiedy i jak otrzymam pliki bez znaku wodnego (głosu lektora)?",
+      "answer": "Natychmiast po opłaceniu zamówienia, pliki studyjne WAV 24-bit bez tagów głosowych, plik MP3 w najwyższej jakości oraz oficjalna umowa licencyjna w formacie PDF zostaną automatycznie wysłane na Twój adres e-mail."
+    }
+  ]
+},
+  "pl/krakow": {
+  "name": "Polska – Kraków & Małopolska (Kultura & Poetycki Rap)",
+  "flag": "🇵🇱",
+  "currency": "PLN (zł)",
+  "currencyCode": "PLN",
+  "gateways": "BLIK, Przelewy24, Apple Pay, Google Pay, Karty płatnicze, PayPal",
+  "pro": "ZAiKS & ZPAV",
+  "proFullName": "Stowarzyszenie Autorów ZAiKS",
+  "proGuide": "100% zgodne z ZAiKS i gotowe do dystrybucji na Spotify i Apple Music.",
+  "headline": "Bity Rap w Krakowie: Poetycki Trap, Klasyczny Boom Bap & Mroczny Drill",
+  "description": "Klimatyczne podkłady hip-hopowe z głębokimi partiami instrumentów smyczkowych i precyzyjną perkusją dla krakowskiej sceny rapowej.",
+  "popularGenres": [
+    "Krakowski Rap",
+    "Poetycki Trap",
+    "Klimatyczny Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Czy mogę wydać utwór nagrany na tym bicie na Spotify, Apple Music i YouTube w Polska – Kraków & Małopolska (Kultura & Poetycki Rap)?",
+      "answer": "Tak, w 100%! Wszystkie licencje WAV i MP3 od Different Type of Vibe zawierają pełne prawa do komercyjnej dystrybucji na Spotify, Apple Music, YouTube, Tidal, Deezer, TikTok oraz w radiu. Zachowujesz 100% swoich zysków i tantiem jako artysta i wykonawca."
+    },
+    {
+      "question": "Czy bity są w 100% bezpieczne i legalne do rejestracji w ZAiKS?",
+      "answer": "Tak! Każdy podkład muzyczny to w 100% oryginalna kompozycja wyprodukowana przez Onzieba. Zero nielegalnych sampli. Możesz bez obaw zgłosić swój tekst i wykonanie do ZAiKS i ZPAV."
+    },
+    {
+      "question": "Jakie metody płatności są obsługiwane w Polsce?",
+      "answer": "W polskich złotych (PLN zł) możesz zapłacić błyskawicznie i bezpiecznie przez BLIK, Przelewy24, Apple Pay, Google Pay, karty płatnicze (Visa, Mastercard) oraz PayPal."
+    },
+    {
+      "question": "Kiedy i jak otrzymam pliki bez znaku wodnego (głosu lektora)?",
+      "answer": "Natychmiast po opłaceniu zamówienia, pliki studyjne WAV 24-bit bez tagów głosowych, plik MP3 w najwyższej jakości oraz oficjalna umowa licencyjna w formacie PDF zostaną automatycznie wysłane na Twój adres e-mail."
+    }
+  ]
+},
+  "pl/wroclaw": {
+  "name": "Polska – Wrocław & Dolny Śląsk (Nowoczesny Trap)",
+  "flag": "🇵🇱",
+  "currency": "PLN (zł)",
+  "currencyCode": "PLN",
+  "gateways": "BLIK, Przelewy24, Apple Pay, Google Pay, Karty płatnicze, PayPal",
+  "pro": "ZAiKS & ZPAV",
+  "proFullName": "Stowarzyszenie Autorów ZAiKS",
+  "proGuide": "100% legalna umowa licencyjna PDF.",
+  "headline": "Bity we Wrocławiu: Nowoczesny Trap, Oki Style Bouncers & 808s",
+  "description": "Dynamiczne bity z szybkimi hi-hatami i potężnymi uderzeniami stopy 808 dla twórców z Wrocławia i Dolnego Śląska.",
+  "popularGenres": [
+    "Wrocław Trap",
+    "Energetyczny Bounce",
+    "Mocne 808"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Oki 47 Vibe Hub",
+      "slug": "../../vibe/oki-47-energetic-hyper-trap",
+      "description": "Ekspresowe tempo i klubowy skaczący bas."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Czy mogę wydać utwór nagrany na tym bicie na Spotify, Apple Music i YouTube w Polska – Wrocław & Dolny Śląsk (Nowoczesny Trap)?",
+      "answer": "Tak, w 100%! Wszystkie licencje WAV i MP3 od Different Type of Vibe zawierają pełne prawa do komercyjnej dystrybucji na Spotify, Apple Music, YouTube, Tidal, Deezer, TikTok oraz w radiu. Zachowujesz 100% swoich zysków i tantiem jako artysta i wykonawca."
+    },
+    {
+      "question": "Czy bity są w 100% bezpieczne i legalne do rejestracji w ZAiKS?",
+      "answer": "Tak! Każdy podkład muzyczny to w 100% oryginalna kompozycja wyprodukowana przez Onzieba. Zero nielegalnych sampli. Możesz bez obaw zgłosić swój tekst i wykonanie do ZAiKS i ZPAV."
+    },
+    {
+      "question": "Jakie metody płatności są obsługiwane w Polsce?",
+      "answer": "W polskich złotych (PLN zł) możesz zapłacić błyskawicznie i bezpiecznie przez BLIK, Przelewy24, Apple Pay, Google Pay, karty płatnicze (Visa, Mastercard) oraz PayPal."
+    },
+    {
+      "question": "Kiedy i jak otrzymam pliki bez znaku wodnego (głosu lektora)?",
+      "answer": "Natychmiast po opłaceniu zamówienia, pliki studyjne WAV 24-bit bez tagów głosowych, plik MP3 w najwyższej jakości oraz oficjalna umowa licencyjna w formacie PDF zostaną automatycznie wysłane na Twój adres e-mail."
+    }
+  ]
+},
+  "pl/poznan": {
+  "name": "Polska – Poznań & Wielkopolska (Kolebka Ulicznego Rapu)",
+  "flag": "🇵🇱",
+  "currency": "PLN (zł)",
+  "currencyCode": "PLN",
+  "gateways": "BLIK, Przelewy24, Apple Pay, Google Pay, Karty płatnicze, PayPal",
+  "pro": "ZAiKS & ZPAV",
+  "proFullName": "Stowarzyszenie Autorów ZAiKS",
+  "proGuide": "100% zgodne z ZAiKS dla rejestracji utworów.",
+  "headline": "Bity w Poznaniu: Surowy Uliczny Rap, Twardy Boom Bap & B.O.R. Trap",
+  "description": "Tradycja poznańskiego rapu: twarde uderzenie bębnów, bezkompromisowe basy i szczere melodie dla MC z Poznania.",
+  "popularGenres": [
+    "Poznański Rap",
+    "Uliczny Boom Bap",
+    "Twardy Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Czy mogę wydać utwór nagrany na tym bicie na Spotify, Apple Music i YouTube w Polska – Poznań & Wielkopolska (Kolebka Ulicznego Rapu)?",
+      "answer": "Tak, w 100%! Wszystkie licencje WAV i MP3 od Different Type of Vibe zawierają pełne prawa do komercyjnej dystrybucji na Spotify, Apple Music, YouTube, Tidal, Deezer, TikTok oraz w radiu. Zachowujesz 100% swoich zysków i tantiem jako artysta i wykonawca."
+    },
+    {
+      "question": "Czy bity są w 100% bezpieczne i legalne do rejestracji w ZAiKS?",
+      "answer": "Tak! Każdy podkład muzyczny to w 100% oryginalna kompozycja wyprodukowana przez Onzieba. Zero nielegalnych sampli. Możesz bez obaw zgłosić swój tekst i wykonanie do ZAiKS i ZPAV."
+    },
+    {
+      "question": "Jakie metody płatności są obsługiwane w Polsce?",
+      "answer": "W polskich złotych (PLN zł) możesz zapłacić błyskawicznie i bezpiecznie przez BLIK, Przelewy24, Apple Pay, Google Pay, karty płatnicze (Visa, Mastercard) oraz PayPal."
+    },
+    {
+      "question": "Kiedy i jak otrzymam pliki bez znaku wodnego (głosu lektora)?",
+      "answer": "Natychmiast po opłaceniu zamówienia, pliki studyjne WAV 24-bit bez tagów głosowych, plik MP3 w najwyższej jakości oraz oficjalna umowa licencyjna w formacie PDF zostaną automatycznie wysłane na Twój adres e-mail."
+    }
+  ]
+},
+  "pl/bydgoszcz": {
+  "name": "Polska – Bydgoszcz & Kujawy (Bedoes 2115 Roots)",
+  "flag": "🇵🇱",
+  "currency": "PLN (zł)",
+  "currencyCode": "PLN",
+  "gateways": "BLIK, Przelewy24, Apple Pay, Google Pay, Karty płatnicze, PayPal",
+  "pro": "ZAiKS & ZPAV",
+  "proFullName": "Stowarzyszenie Autorów ZAiKS",
+  "proGuide": "100% bezpieczne z gwarancją autentyczności.",
+  "headline": "Bity w Bydgoszczy: Hymny Uliczne, Gitary Bedoes Style & 808s",
+  "description": "Poruszające gitary akustyczne, pasja wokalna i potężny trap stadionowy inspirowany ekipą 2115.",
+  "popularGenres": [
+    "Bydgoszcz Trap",
+    "2115 Style",
+    "Gitary Akustyczne"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Bedoes 2115 Vibe",
+      "slug": "../../vibe/bedoes-2115-emotional-street-anthem",
+      "description": "Poruszające hymny uliczne i potężne 808-ki."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Czy mogę wydać utwór nagrany na tym bicie na Spotify, Apple Music i YouTube w Polska – Bydgoszcz & Kujawy (Bedoes 2115 Roots)?",
+      "answer": "Tak, w 100%! Wszystkie licencje WAV i MP3 od Different Type of Vibe zawierają pełne prawa do komercyjnej dystrybucji na Spotify, Apple Music, YouTube, Tidal, Deezer, TikTok oraz w radiu. Zachowujesz 100% swoich zysków i tantiem jako artysta i wykonawca."
+    },
+    {
+      "question": "Czy bity są w 100% bezpieczne i legalne do rejestracji w ZAiKS?",
+      "answer": "Tak! Każdy podkład muzyczny to w 100% oryginalna kompozycja wyprodukowana przez Onzieba. Zero nielegalnych sampli. Możesz bez obaw zgłosić swój tekst i wykonanie do ZAiKS i ZPAV."
+    },
+    {
+      "question": "Jakie metody płatności są obsługiwane w Polsce?",
+      "answer": "W polskich złotych (PLN zł) możesz zapłacić błyskawicznie i bezpiecznie przez BLIK, Przelewy24, Apple Pay, Google Pay, karty płatnicze (Visa, Mastercard) oraz PayPal."
+    },
+    {
+      "question": "Kiedy i jak otrzymam pliki bez znaku wodnego (głosu lektora)?",
+      "answer": "Natychmiast po opłaceniu zamówienia, pliki studyjne WAV 24-bit bez tagów głosowych, plik MP3 w najwyższej jakości oraz oficjalna umowa licencyjna w formacie PDF zostaną automatycznie wysłane na Twój adres e-mail."
+    }
+  ]
+},
+  "pl/lodz": {
+  "name": "Polska – Łódź & Bałuty Hiphop Hub",
+  "flag": "🇵🇱",
+  "currency": "PLN (zł)",
+  "currencyCode": "PLN",
+  "gateways": "BLIK, Przelewy24, Apple Pay, Google Pay, Karty płatnicze, PayPal",
+  "pro": "ZAiKS & ZPAV",
+  "proFullName": "Stowarzyszenie Autorów ZAiKS",
+  "proGuide": "100% zgodne z ZAiKS.",
+  "headline": "Bity w Łodzi: Surowy Łódzki Boom Bap, O.S.T.R. Vibe & Nowy Drill",
+  "description": "Ciężkie industrialne bębny, winylowe cięcia i nowoczesny trap dla raperów z Łodzi.",
+  "popularGenres": [
+    "Łódzki Boom Bap",
+    "O.S.T.R. Style",
+    "Mroczny Drill"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Czy mogę wydać utwór nagrany na tym bicie na Spotify, Apple Music i YouTube w Polska – Łódź & Bałuty Hiphop Hub?",
+      "answer": "Tak, w 100%! Wszystkie licencje WAV i MP3 od Different Type of Vibe zawierają pełne prawa do komercyjnej dystrybucji na Spotify, Apple Music, YouTube, Tidal, Deezer, TikTok oraz w radiu. Zachowujesz 100% swoich zysków i tantiem jako artysta i wykonawca."
+    },
+    {
+      "question": "Czy bity są w 100% bezpieczne i legalne do rejestracji w ZAiKS?",
+      "answer": "Tak! Każdy podkład muzyczny to w 100% oryginalna kompozycja wyprodukowana przez Onzieba. Zero nielegalnych sampli. Możesz bez obaw zgłosić swój tekst i wykonanie do ZAiKS i ZPAV."
+    },
+    {
+      "question": "Jakie metody płatności są obsługiwane w Polsce?",
+      "answer": "W polskich złotych (PLN zł) możesz zapłacić błyskawicznie i bezpiecznie przez BLIK, Przelewy24, Apple Pay, Google Pay, karty płatnicze (Visa, Mastercard) oraz PayPal."
+    },
+    {
+      "question": "Kiedy i jak otrzymam pliki bez znaku wodnego (głosu lektora)?",
+      "answer": "Natychmiast po opłaceniu zamówienia, pliki studyjne WAV 24-bit bez tagów głosowych, plik MP3 w najwyższej jakości oraz oficjalna umowa licencyjna w formacie PDF zostaną automatycznie wysłane na Twój adres e-mail."
+    }
+  ]
+},
+  "pl/szczecin": {
+  "name": "Polska – Szczecin & Pomorze Zachodnie",
+  "flag": "🇵🇱",
+  "currency": "PLN (zł)",
+  "currencyCode": "PLN",
+  "gateways": "BLIK, Przelewy24, Apple Pay, Google Pay, Karty płatnicze, PayPal",
+  "pro": "ZAiKS & ZPAV",
+  "proFullName": "Stowarzyszenie Autorów ZAiKS",
+  "proGuide": "100% komercyjna licencja z natychmiastowym pobraniem.",
+  "headline": "Bity w Szczecinie: Morski Trap, Mocny Drill & Zachodni Rap",
+  "description": "Niski bas, zachodni bounce i mroczne syntezatory dla artystów ze Szczecina i Pomorza.",
+  "popularGenres": [
+    "Szczecin Trap",
+    "Zachodni Rap",
+    "Ciężki Bas 808"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Czy mogę wydać utwór nagrany na tym bicie na Spotify, Apple Music i YouTube w Polska – Szczecin & Pomorze Zachodnie?",
+      "answer": "Tak, w 100%! Wszystkie licencje WAV i MP3 od Different Type of Vibe zawierają pełne prawa do komercyjnej dystrybucji na Spotify, Apple Music, YouTube, Tidal, Deezer, TikTok oraz w radiu. Zachowujesz 100% swoich zysków i tantiem jako artysta i wykonawca."
+    },
+    {
+      "question": "Czy bity są w 100% bezpieczne i legalne do rejestracji w ZAiKS?",
+      "answer": "Tak! Każdy podkład muzyczny to w 100% oryginalna kompozycja wyprodukowana przez Onzieba. Zero nielegalnych sampli. Możesz bez obaw zgłosić swój tekst i wykonanie do ZAiKS i ZPAV."
+    },
+    {
+      "question": "Jakie metody płatności są obsługiwane w Polsce?",
+      "answer": "W polskich złotych (PLN zł) możesz zapłacić błyskawicznie i bezpiecznie przez BLIK, Przelewy24, Apple Pay, Google Pay, karty płatnicze (Visa, Mastercard) oraz PayPal."
+    },
+    {
+      "question": "Kiedy i jak otrzymam pliki bez znaku wodnego (głosu lektora)?",
+      "answer": "Natychmiast po opłaceniu zamówienia, pliki studyjne WAV 24-bit bez tagów głosowych, plik MP3 w najwyższej jakości oraz oficjalna umowa licencyjna w formacie PDF zostaną automatycznie wysłane na Twój adres e-mail."
+    }
+  ]
+},
 };
