@@ -17426,4 +17426,491 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
     }
   ]
 },
+  "tr": {
+  "name": "Türkiye – Türkçe Rap & Drill Altyapıları (Papara, Troy & MESAM)",
+  "flag": "🇹🇷",
+  "currency": "TRY (₺)",
+  "currencyCode": "TRY",
+  "gateways": "Papara, Troy, Kredi/Banka Kartı, Apple Pay, Google Pay, Havale/EFT, Stripe, PayPal",
+  "pro": "MESAM & MSG",
+  "proFullName": "Türkiye Musiki Eseri Sahipleri Meslek Birliği (MESAM & MSG)",
+  "proGuide": "Türk sanatçılar için MESAM, MSG ve MÜ-YAP ile %100 uyumlu tescil. Tüm altyapılar lisanslı ve telifsiz orijinal prodüksiyonlardır. Spotify, Apple Music ve YouTube gelirlerinizin %100'ü sizde kalır.",
+  "headline": "Türkiye'de Profesyonel Rap ve Drill Beat Satın Al: Papara, WAV & Stems",
+  "description": "Ses etiketi (voice tag) bulunmayan, stüdyo kalitesinde 24-bit WAV ve kanal kayıtları (Stems). Türk rapçiler ve vokalistler için anında indirme ve resmi lisans sözleşmesi.",
+  "popularGenres": [
+    "Türkçe Trap",
+    "Türkçe Drill",
+    "Anadolu Bağlama Trap",
+    "Melodik Sokak Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "İstanbul Avrupa Trap",
+      "slug": "tr/istanbul-avrupa",
+      "description": "Güngören ve Bağcılar sokak soundu, Uzi ve Lvbel C5 tarzı."
+    },
+    {
+      "name": "Kadıköy Anadolu Sound",
+      "slug": "tr/istanbul-anadolu",
+      "description": "Kadıköy sokak kültürü, lirik boom bap ve modern drill."
+    },
+    {
+      "name": "Ankara Trap Dalgası",
+      "slug": "tr/ankara",
+      "description": "Ezhel Müptezhel soundu, atmosferik trap ve baslar."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Bu altyapı üzerine kaydettiğim şarkıyı Türkiye – Türkçe Rap & Drill Altyapıları (Papara, Troy & MESAM) bölgesinde Spotify, Apple Music ve YouTube'da yayınlayabilir miyim?",
+      "answer": "Evet, kesinlikle %100! Different Type of Vibe'dan satın alınan tüm WAV ve MP3 lisansları, şarkınızı Spotify, Apple Music, YouTube, Deezer, TikTok ve radyolarda ticari olarak dağıtma hakkını eksiksiz içerir. Sanatçı ve icracı olarak tüm telif gelirlerinizin %100'ü size aittir."
+    },
+    {
+      "question": "Beatler MESAM ve MSG tescili için güvenli ve telifsiz mi?",
+      "answer": "Evet! Tüm altyapılar Onzieb tarafından üretilmiş %100 orijinal bestelerdir. Yetkisiz hiçbir örnekleme (sample) içermez. Şarkınızı MESAM, MSG ve MÜ-YAP'a hiçbir telif ihtarı (copyright claim) yaşamadan kaydedebilirsiniz."
+    },
+    {
+      "question": "Türkiye'de hangi ödeme yöntemleri geçerlidir?",
+      "answer": "Türk Lirası (TRY ₺) ile Papara, Troy logolu tüm yerli kartlar, Visa, Mastercard, Troy, Apple Pay, Google Pay ve Havale/EFT ile anında ve güvenle ödeme yapabilirsiniz."
+    },
+    {
+      "question": "Ses etiketi (voice tag) olmayan stüdyo dosyalarını ne zaman ve nasıl alırım?",
+      "answer": "Ödemeniz onaylandığı anda, ses etiketi bulunmayan stüdyo kalitesinde 24-bit WAV dosyası, yüksek kaliteli MP3 ve adınıza düzenlenmiş resmi PDF lisans sözleşmesi otomatik olarak e-posta adresinize gönderilir."
+    }
+  ]
+},
+  "tr/istanbul-avrupa": {
+  "name": "Türkiye – İstanbul Avrupa Yakası (Güngören & Sokak Trap Hub)",
+  "flag": "🇹🇷",
+  "currency": "TRY (₺)",
+  "currencyCode": "TRY",
+  "gateways": "Papara, Troy, Kredi Kartı, Apple Pay, Google Pay",
+  "pro": "MESAM & MSG",
+  "proFullName": "MESAM & MSG",
+  "proGuide": "%100 MESAM ve MSG uyumlu stüdyo lisansı.",
+  "headline": "İstanbul Avrupa Beatleri: Uzi Güngören Drill, Lvbel C5 Club Banger & 808s",
+  "description": "İstanbul sokaklarının en sıcak soundu: sert 808 vuruşları, akıcı drill hi-hatleri ve liste başı trap melodileri.",
+  "popularGenres": [
+    "Güngören Drill",
+    "Uzi Vibe",
+    "Lvbel C5 Tarzı",
+    "Club Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Uzi Güngören Drill",
+      "slug": "../../vibe/uzi-gungoren-street-drill-beats",
+      "description": "Kayar 808 basları ve sert sokak drill davulları."
+    },
+    {
+      "name": "Lvbel C5 Club Banger",
+      "slug": "../../vibe/lvbel-c5-viral-club-trap-bangers",
+      "description": "Yüksek enerjili kulüp trap altyapıları."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Bu altyapı üzerine kaydettiğim şarkıyı Türkiye – İstanbul Avrupa Yakası (Güngören & Sokak Trap Hub) bölgesinde Spotify, Apple Music ve YouTube'da yayınlayabilir miyim?",
+      "answer": "Evet, kesinlikle %100! Different Type of Vibe'dan satın alınan tüm WAV ve MP3 lisansları, şarkınızı Spotify, Apple Music, YouTube, Deezer, TikTok ve radyolarda ticari olarak dağıtma hakkını eksiksiz içerir. Sanatçı ve icracı olarak tüm telif gelirlerinizin %100'ü size aittir."
+    },
+    {
+      "question": "Beatler MESAM ve MSG tescili için güvenli ve telifsiz mi?",
+      "answer": "Evet! Tüm altyapılar Onzieb tarafından üretilmiş %100 orijinal bestelerdir. Yetkisiz hiçbir örnekleme (sample) içermez. Şarkınızı MESAM, MSG ve MÜ-YAP'a hiçbir telif ihtarı (copyright claim) yaşamadan kaydedebilirsiniz."
+    },
+    {
+      "question": "Türkiye'de hangi ödeme yöntemleri geçerlidir?",
+      "answer": "Türk Lirası (TRY ₺) ile Papara, Troy logolu tüm yerli kartlar, Visa, Mastercard, Troy, Apple Pay, Google Pay ve Havale/EFT ile anında ve güvenle ödeme yapabilirsiniz."
+    },
+    {
+      "question": "Ses etiketi (voice tag) olmayan stüdyo dosyalarını ne zaman ve nasıl alırım?",
+      "answer": "Ödemeniz onaylandığı anda, ses etiketi bulunmayan stüdyo kalitesinde 24-bit WAV dosyası, yüksek kaliteli MP3 ve adınıza düzenlenmiş resmi PDF lisans sözleşmesi otomatik olarak e-posta adresinize gönderilir."
+    }
+  ]
+},
+  "tr/istanbul-anadolu": {
+  "name": "Türkiye – İstanbul Anadolu Yakası (Kadıköy Rap Kültürü)",
+  "flag": "🇹🇷",
+  "currency": "TRY (₺)",
+  "currencyCode": "TRY",
+  "gateways": "Papara, Troy, Kredi Kartı, Apple Pay, Google Pay",
+  "pro": "MESAM & MSG",
+  "proFullName": "MESAM & MSG",
+  "proGuide": "Resmi MESAM lisans sözleşmesi anında PDF olarak teslim edilir.",
+  "headline": "Kadıköy ve Anadolu Beatleri: Lirik Hip-Hop, Boombap & Modern Trap",
+  "description": "Kadıköy sokaklarının efsanevi rap mirası: zengin piyano akorları, derin baslar ve teknik lirik rap için geniş alan.",
+  "popularGenres": [
+    "Kadıköy Rap",
+    "Lirik Hip Hop",
+    "Modern Trap",
+    "Klasik Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Bu altyapı üzerine kaydettiğim şarkıyı Türkiye – İstanbul Anadolu Yakası (Kadıköy Rap Kültürü) bölgesinde Spotify, Apple Music ve YouTube'da yayınlayabilir miyim?",
+      "answer": "Evet, kesinlikle %100! Different Type of Vibe'dan satın alınan tüm WAV ve MP3 lisansları, şarkınızı Spotify, Apple Music, YouTube, Deezer, TikTok ve radyolarda ticari olarak dağıtma hakkını eksiksiz içerir. Sanatçı ve icracı olarak tüm telif gelirlerinizin %100'ü size aittir."
+    },
+    {
+      "question": "Beatler MESAM ve MSG tescili için güvenli ve telifsiz mi?",
+      "answer": "Evet! Tüm altyapılar Onzieb tarafından üretilmiş %100 orijinal bestelerdir. Yetkisiz hiçbir örnekleme (sample) içermez. Şarkınızı MESAM, MSG ve MÜ-YAP'a hiçbir telif ihtarı (copyright claim) yaşamadan kaydedebilirsiniz."
+    },
+    {
+      "question": "Türkiye'de hangi ödeme yöntemleri geçerlidir?",
+      "answer": "Türk Lirası (TRY ₺) ile Papara, Troy logolu tüm yerli kartlar, Visa, Mastercard, Troy, Apple Pay, Google Pay ve Havale/EFT ile anında ve güvenle ödeme yapabilirsiniz."
+    },
+    {
+      "question": "Ses etiketi (voice tag) olmayan stüdyo dosyalarını ne zaman ve nasıl alırım?",
+      "answer": "Ödemeniz onaylandığı anda, ses etiketi bulunmayan stüdyo kalitesinde 24-bit WAV dosyası, yüksek kaliteli MP3 ve adınıza düzenlenmiş resmi PDF lisans sözleşmesi otomatik olarak e-posta adresinize gönderilir."
+    }
+  ]
+},
+  "tr/ankara": {
+  "name": "Türkiye – Ankara (Ezhel Müptezhel & Başkent Trap Sound)",
+  "flag": "🇹🇷",
+  "currency": "TRY (₺)",
+  "currencyCode": "TRY",
+  "gateways": "Papara, Troy, Kredi Kartı, Apple Pay, Google Pay",
+  "pro": "MESAM & MSG",
+  "proFullName": "MESAM & MSG",
+  "proGuide": "%100 orijinal ve telifsiz altyapılar.",
+  "headline": "Ankara Trap Beatleri: Anadolu Ezgileri, Reggae-Trap Füzyonu & Gece Soundu",
+  "description": "Başkentin karanlık ve büyüleyici sokak ritmi: bağlama ezgileri, reggaeton-trap davulları ve derin sub-baslar.",
+  "popularGenres": [
+    "Ankara Trap",
+    "Ezhel Tarzı",
+    "Anadolu Trap",
+    "Reggae Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Ezhel Anatolian Vibe",
+      "slug": "../../vibe/ezhel-muptezhel-anatolian-trap-wave",
+      "description": "Bağlama ezgileri ve reggae-trap ritimleri."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Bu altyapı üzerine kaydettiğim şarkıyı Türkiye – Ankara (Ezhel Müptezhel & Başkent Trap Sound) bölgesinde Spotify, Apple Music ve YouTube'da yayınlayabilir miyim?",
+      "answer": "Evet, kesinlikle %100! Different Type of Vibe'dan satın alınan tüm WAV ve MP3 lisansları, şarkınızı Spotify, Apple Music, YouTube, Deezer, TikTok ve radyolarda ticari olarak dağıtma hakkını eksiksiz içerir. Sanatçı ve icracı olarak tüm telif gelirlerinizin %100'ü size aittir."
+    },
+    {
+      "question": "Beatler MESAM ve MSG tescili için güvenli ve telifsiz mi?",
+      "answer": "Evet! Tüm altyapılar Onzieb tarafından üretilmiş %100 orijinal bestelerdir. Yetkisiz hiçbir örnekleme (sample) içermez. Şarkınızı MESAM, MSG ve MÜ-YAP'a hiçbir telif ihtarı (copyright claim) yaşamadan kaydedebilirsiniz."
+    },
+    {
+      "question": "Türkiye'de hangi ödeme yöntemleri geçerlidir?",
+      "answer": "Türk Lirası (TRY ₺) ile Papara, Troy logolu tüm yerli kartlar, Visa, Mastercard, Troy, Apple Pay, Google Pay ve Havale/EFT ile anında ve güvenle ödeme yapabilirsiniz."
+    },
+    {
+      "question": "Ses etiketi (voice tag) olmayan stüdyo dosyalarını ne zaman ve nasıl alırım?",
+      "answer": "Ödemeniz onaylandığı anda, ses etiketi bulunmayan stüdyo kalitesinde 24-bit WAV dosyası, yüksek kaliteli MP3 ve adınıza düzenlenmiş resmi PDF lisans sözleşmesi otomatik olarak e-posta adresinize gönderilir."
+    }
+  ]
+},
+  "tr/izmir": {
+  "name": "Türkiye – İzmir & Ege Bölgesi (Melodik Trap & Blok3 Sound)",
+  "flag": "🇹🇷",
+  "currency": "TRY (₺)",
+  "currencyCode": "TRY",
+  "gateways": "Papara, Troy, Kredi Kartı, Apple Pay, Google Pay",
+  "pro": "MESAM & MSG",
+  "proFullName": "MESAM & MSG",
+  "proGuide": "Spotify ve Apple Music dağıtımı için %100 hazır.",
+  "headline": "İzmir Rap Beatleri: Akustik Gitarlar, Melodik Trap & Ege Havası",
+  "description": "Duygusal akustik gitar partisyonları, akılda kalıcı autotune melodileri ve sıcak baslar.",
+  "popularGenres": [
+    "İzmir Trap",
+    "Blok3 Tarzı",
+    "Gitar Trap",
+    "Melodik Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Blok3 Guitar Vibe",
+      "slug": "../../vibe/blok3-acoustic-guitar-street-trap",
+      "description": "Sokak duygusunu taşıyan canlı akustik gitarlar ve 808."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Bu altyapı üzerine kaydettiğim şarkıyı Türkiye – İzmir & Ege Bölgesi (Melodik Trap & Blok3 Sound) bölgesinde Spotify, Apple Music ve YouTube'da yayınlayabilir miyim?",
+      "answer": "Evet, kesinlikle %100! Different Type of Vibe'dan satın alınan tüm WAV ve MP3 lisansları, şarkınızı Spotify, Apple Music, YouTube, Deezer, TikTok ve radyolarda ticari olarak dağıtma hakkını eksiksiz içerir. Sanatçı ve icracı olarak tüm telif gelirlerinizin %100'ü size aittir."
+    },
+    {
+      "question": "Beatler MESAM ve MSG tescili için güvenli ve telifsiz mi?",
+      "answer": "Evet! Tüm altyapılar Onzieb tarafından üretilmiş %100 orijinal bestelerdir. Yetkisiz hiçbir örnekleme (sample) içermez. Şarkınızı MESAM, MSG ve MÜ-YAP'a hiçbir telif ihtarı (copyright claim) yaşamadan kaydedebilirsiniz."
+    },
+    {
+      "question": "Türkiye'de hangi ödeme yöntemleri geçerlidir?",
+      "answer": "Türk Lirası (TRY ₺) ile Papara, Troy logolu tüm yerli kartlar, Visa, Mastercard, Troy, Apple Pay, Google Pay ve Havale/EFT ile anında ve güvenle ödeme yapabilirsiniz."
+    },
+    {
+      "question": "Ses etiketi (voice tag) olmayan stüdyo dosyalarını ne zaman ve nasıl alırım?",
+      "answer": "Ödemeniz onaylandığı anda, ses etiketi bulunmayan stüdyo kalitesinde 24-bit WAV dosyası, yüksek kaliteli MP3 ve adınıza düzenlenmiş resmi PDF lisans sözleşmesi otomatik olarak e-posta adresinize gönderilir."
+    }
+  ]
+},
+  "tr/bursa": {
+  "name": "Türkiye – Bursa & Marmara Bölgesi (Sert Sokak Rap)",
+  "flag": "🇹🇷",
+  "currency": "TRY (₺)",
+  "currencyCode": "TRY",
+  "gateways": "Papara, Troy, Kredi Kartı, Apple Pay, Google Pay",
+  "pro": "MESAM & MSG",
+  "proFullName": "MESAM & MSG",
+  "proGuide": "Resmi ticari lisans sözleşmesiyle birlikte gelir.",
+  "headline": "Bursa Rap Beatleri: Sert Drill, Mermer Gibi 808'ler & Hızlı Ritimler",
+  "description": "Bursa ve Marmara sokakları için tavizsiz drill altyapıları ve agresif davullar.",
+  "popularGenres": [
+    "Bursa Drill",
+    "Sert Sokak Rap",
+    "Ağır Baslar"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Bu altyapı üzerine kaydettiğim şarkıyı Türkiye – Bursa & Marmara Bölgesi (Sert Sokak Rap) bölgesinde Spotify, Apple Music ve YouTube'da yayınlayabilir miyim?",
+      "answer": "Evet, kesinlikle %100! Different Type of Vibe'dan satın alınan tüm WAV ve MP3 lisansları, şarkınızı Spotify, Apple Music, YouTube, Deezer, TikTok ve radyolarda ticari olarak dağıtma hakkını eksiksiz içerir. Sanatçı ve icracı olarak tüm telif gelirlerinizin %100'ü size aittir."
+    },
+    {
+      "question": "Beatler MESAM ve MSG tescili için güvenli ve telifsiz mi?",
+      "answer": "Evet! Tüm altyapılar Onzieb tarafından üretilmiş %100 orijinal bestelerdir. Yetkisiz hiçbir örnekleme (sample) içermez. Şarkınızı MESAM, MSG ve MÜ-YAP'a hiçbir telif ihtarı (copyright claim) yaşamadan kaydedebilirsiniz."
+    },
+    {
+      "question": "Türkiye'de hangi ödeme yöntemleri geçerlidir?",
+      "answer": "Türk Lirası (TRY ₺) ile Papara, Troy logolu tüm yerli kartlar, Visa, Mastercard, Troy, Apple Pay, Google Pay ve Havale/EFT ile anında ve güvenle ödeme yapabilirsiniz."
+    },
+    {
+      "question": "Ses etiketi (voice tag) olmayan stüdyo dosyalarını ne zaman ve nasıl alırım?",
+      "answer": "Ödemeniz onaylandığı anda, ses etiketi bulunmayan stüdyo kalitesinde 24-bit WAV dosyası, yüksek kaliteli MP3 ve adınıza düzenlenmiş resmi PDF lisans sözleşmesi otomatik olarak e-posta adresinize gönderilir."
+    }
+  ]
+},
+  "tr/antalya": {
+  "name": "Türkiye – Antalya & Akdeniz (Afro-Trap & Yazlık Kulüp Ritimleri)",
+  "flag": "🇹🇷",
+  "currency": "TRY (₺)",
+  "currencyCode": "TRY",
+  "gateways": "Papara, Troy, Kredi Kartı, Apple Pay, Google Pay",
+  "pro": "MESAM & MSG",
+  "proFullName": "MESAM & MSG",
+  "proGuide": "%100 telifsiz ve ticari kullanıma uygun.",
+  "headline": "Antalya Beatleri: Afro-Trap, Yaz Hitleri, Sefo & Murda Soundu",
+  "description": "Dans ettiren latin-trap ritimleri, tropikal perküsyonlar ve akılda kalıcı nakaratlar.",
+  "popularGenres": [
+    "Afro Trap",
+    "Latin Trap",
+    "Yazlık Kulüp Rap",
+    "Dembow"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Murda Afro-Trap Vibe",
+      "slug": "../../vibe/murda-afro-trap-summer-bounce",
+      "description": "Dans ettiren sıcak afro-trap groove."
+    },
+    {
+      "name": "Sefo Latin Trap",
+      "slug": "../../vibe/sefo-reggaeton-latin-trap-banger",
+      "description": "Viral reggaeton ve dembow trap ritimleri."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Bu altyapı üzerine kaydettiğim şarkıyı Türkiye – Antalya & Akdeniz (Afro-Trap & Yazlık Kulüp Ritimleri) bölgesinde Spotify, Apple Music ve YouTube'da yayınlayabilir miyim?",
+      "answer": "Evet, kesinlikle %100! Different Type of Vibe'dan satın alınan tüm WAV ve MP3 lisansları, şarkınızı Spotify, Apple Music, YouTube, Deezer, TikTok ve radyolarda ticari olarak dağıtma hakkını eksiksiz içerir. Sanatçı ve icracı olarak tüm telif gelirlerinizin %100'ü size aittir."
+    },
+    {
+      "question": "Beatler MESAM ve MSG tescili için güvenli ve telifsiz mi?",
+      "answer": "Evet! Tüm altyapılar Onzieb tarafından üretilmiş %100 orijinal bestelerdir. Yetkisiz hiçbir örnekleme (sample) içermez. Şarkınızı MESAM, MSG ve MÜ-YAP'a hiçbir telif ihtarı (copyright claim) yaşamadan kaydedebilirsiniz."
+    },
+    {
+      "question": "Türkiye'de hangi ödeme yöntemleri geçerlidir?",
+      "answer": "Türk Lirası (TRY ₺) ile Papara, Troy logolu tüm yerli kartlar, Visa, Mastercard, Troy, Apple Pay, Google Pay ve Havale/EFT ile anında ve güvenle ödeme yapabilirsiniz."
+    },
+    {
+      "question": "Ses etiketi (voice tag) olmayan stüdyo dosyalarını ne zaman ve nasıl alırım?",
+      "answer": "Ödemeniz onaylandığı anda, ses etiketi bulunmayan stüdyo kalitesinde 24-bit WAV dosyası, yüksek kaliteli MP3 ve adınıza düzenlenmiş resmi PDF lisans sözleşmesi otomatik olarak e-posta adresinize gönderilir."
+    }
+  ]
+},
+  "tr/adana": {
+  "name": "Türkiye – Adana & Çukurova (Ağır 808 & Agresif Trap)",
+  "flag": "🇹🇷",
+  "currency": "TRY (₺)",
+  "currencyCode": "TRY",
+  "gateways": "Papara, Troy, Kredi Kartı, Apple Pay, Google Pay",
+  "pro": "MESAM & MSG",
+  "proFullName": "MESAM & MSG",
+  "proGuide": "100% yasal güvenceli MESAM kaydı.",
+  "headline": "Adana Beatleri: Ağır 808 Vuruşları, Çukurova Ruhu & Sert Trap",
+  "description": "Sıcak ve sert Çukurova sokakları için göğüs kafesini titreten baslar ve yıkıcı davul partisyonları.",
+  "popularGenres": [
+    "Adana Trap",
+    "Ağır 808",
+    "Sert Sokak Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Bu altyapı üzerine kaydettiğim şarkıyı Türkiye – Adana & Çukurova (Ağır 808 & Agresif Trap) bölgesinde Spotify, Apple Music ve YouTube'da yayınlayabilir miyim?",
+      "answer": "Evet, kesinlikle %100! Different Type of Vibe'dan satın alınan tüm WAV ve MP3 lisansları, şarkınızı Spotify, Apple Music, YouTube, Deezer, TikTok ve radyolarda ticari olarak dağıtma hakkını eksiksiz içerir. Sanatçı ve icracı olarak tüm telif gelirlerinizin %100'ü size aittir."
+    },
+    {
+      "question": "Beatler MESAM ve MSG tescili için güvenli ve telifsiz mi?",
+      "answer": "Evet! Tüm altyapılar Onzieb tarafından üretilmiş %100 orijinal bestelerdir. Yetkisiz hiçbir örnekleme (sample) içermez. Şarkınızı MESAM, MSG ve MÜ-YAP'a hiçbir telif ihtarı (copyright claim) yaşamadan kaydedebilirsiniz."
+    },
+    {
+      "question": "Türkiye'de hangi ödeme yöntemleri geçerlidir?",
+      "answer": "Türk Lirası (TRY ₺) ile Papara, Troy logolu tüm yerli kartlar, Visa, Mastercard, Troy, Apple Pay, Google Pay ve Havale/EFT ile anında ve güvenle ödeme yapabilirsiniz."
+    },
+    {
+      "question": "Ses etiketi (voice tag) olmayan stüdyo dosyalarını ne zaman ve nasıl alırım?",
+      "answer": "Ödemeniz onaylandığı anda, ses etiketi bulunmayan stüdyo kalitesinde 24-bit WAV dosyası, yüksek kaliteli MP3 ve adınıza düzenlenmiş resmi PDF lisans sözleşmesi otomatik olarak e-posta adresinize gönderilir."
+    }
+  ]
+},
+  "tr/kocaeli": {
+  "name": "Türkiye – Kocaeli & Gebze Sanayi Drill Hub",
+  "flag": "🇹🇷",
+  "currency": "TRY (₺)",
+  "currencyCode": "TRY",
+  "gateways": "Papara, Troy, Kredi Kartı, Apple Pay, Google Pay",
+  "pro": "MESAM & MSG",
+  "proFullName": "MESAM & MSG",
+  "proGuide": "%100 orijinal ve tescile hazır.",
+  "headline": "Kocaeli Beatleri: Endüstriyel Drill, Karanlık Synths & Yıkıcı Bas",
+  "description": "Marmara'nın sanayi kalbi için metalik hi-hatler, karanlık atmosfer ve sert drill altyapıları.",
+  "popularGenres": [
+    "Endüstriyel Drill",
+    "Karanlık Trap",
+    "Sert Ritimler"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Bu altyapı üzerine kaydettiğim şarkıyı Türkiye – Kocaeli & Gebze Sanayi Drill Hub bölgesinde Spotify, Apple Music ve YouTube'da yayınlayabilir miyim?",
+      "answer": "Evet, kesinlikle %100! Different Type of Vibe'dan satın alınan tüm WAV ve MP3 lisansları, şarkınızı Spotify, Apple Music, YouTube, Deezer, TikTok ve radyolarda ticari olarak dağıtma hakkını eksiksiz içerir. Sanatçı ve icracı olarak tüm telif gelirlerinizin %100'ü size aittir."
+    },
+    {
+      "question": "Beatler MESAM ve MSG tescili için güvenli ve telifsiz mi?",
+      "answer": "Evet! Tüm altyapılar Onzieb tarafından üretilmiş %100 orijinal bestelerdir. Yetkisiz hiçbir örnekleme (sample) içermez. Şarkınızı MESAM, MSG ve MÜ-YAP'a hiçbir telif ihtarı (copyright claim) yaşamadan kaydedebilirsiniz."
+    },
+    {
+      "question": "Türkiye'de hangi ödeme yöntemleri geçerlidir?",
+      "answer": "Türk Lirası (TRY ₺) ile Papara, Troy logolu tüm yerli kartlar, Visa, Mastercard, Troy, Apple Pay, Google Pay ve Havale/EFT ile anında ve güvenle ödeme yapabilirsiniz."
+    },
+    {
+      "question": "Ses etiketi (voice tag) olmayan stüdyo dosyalarını ne zaman ve nasıl alırım?",
+      "answer": "Ödemeniz onaylandığı anda, ses etiketi bulunmayan stüdyo kalitesinde 24-bit WAV dosyası, yüksek kaliteli MP3 ve adınıza düzenlenmiş resmi PDF lisans sözleşmesi otomatik olarak e-posta adresinize gönderilir."
+    }
+  ]
+},
+  "tr/diyarbakir": {
+  "name": "Türkiye – Diyarbakır & Güneydoğu (Otantik Doğu Trap)",
+  "flag": "🇹🇷",
+  "currency": "TRY (₺)",
+  "currencyCode": "TRY",
+  "gateways": "Papara, Troy, Kredi Kartı, Apple Pay, Google Pay",
+  "pro": "MESAM & MSG",
+  "proFullName": "MESAM & MSG",
+  "proGuide": "Orijinal enstrüman kayıtları, telifsiz stüdyo WAV.",
+  "headline": "Diyarbakır Beatleri: Otantik Bağlama, Klarnet Ezgileri & Doğu Trap",
+  "description": "Geleneksel doğu makamları ve zengin yaylıların modern 808 trap davullarıyla mükemmel buluşması.",
+  "popularGenres": [
+    "Doğu Trap",
+    "Bağlama Trap",
+    "Klarnet Ezgili Rap",
+    "Otantik Drill"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Bu altyapı üzerine kaydettiğim şarkıyı Türkiye – Diyarbakır & Güneydoğu (Otantik Doğu Trap) bölgesinde Spotify, Apple Music ve YouTube'da yayınlayabilir miyim?",
+      "answer": "Evet, kesinlikle %100! Different Type of Vibe'dan satın alınan tüm WAV ve MP3 lisansları, şarkınızı Spotify, Apple Music, YouTube, Deezer, TikTok ve radyolarda ticari olarak dağıtma hakkını eksiksiz içerir. Sanatçı ve icracı olarak tüm telif gelirlerinizin %100'ü size aittir."
+    },
+    {
+      "question": "Beatler MESAM ve MSG tescili için güvenli ve telifsiz mi?",
+      "answer": "Evet! Tüm altyapılar Onzieb tarafından üretilmiş %100 orijinal bestelerdir. Yetkisiz hiçbir örnekleme (sample) içermez. Şarkınızı MESAM, MSG ve MÜ-YAP'a hiçbir telif ihtarı (copyright claim) yaşamadan kaydedebilirsiniz."
+    },
+    {
+      "question": "Türkiye'de hangi ödeme yöntemleri geçerlidir?",
+      "answer": "Türk Lirası (TRY ₺) ile Papara, Troy logolu tüm yerli kartlar, Visa, Mastercard, Troy, Apple Pay, Google Pay ve Havale/EFT ile anında ve güvenle ödeme yapabilirsiniz."
+    },
+    {
+      "question": "Ses etiketi (voice tag) olmayan stüdyo dosyalarını ne zaman ve nasıl alırım?",
+      "answer": "Ödemeniz onaylandığı anda, ses etiketi bulunmayan stüdyo kalitesinde 24-bit WAV dosyası, yüksek kaliteli MP3 ve adınıza düzenlenmiş resmi PDF lisans sözleşmesi otomatik olarak e-posta adresinize gönderilir."
+    }
+  ]
+},
 };

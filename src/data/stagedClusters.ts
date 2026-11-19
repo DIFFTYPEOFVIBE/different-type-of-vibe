@@ -14339,4 +14339,1681 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "6"
   ]
 },
+  {
+  "slug": "uzi-gungoren-street-drill-beats",
+  "name": "Uzi Güngören Street Drill",
+  "category": "vibe",
+  "badge": "Güngören Drill Vibe",
+  "headline": "Uzi Tarzı Beatler: Güngören Sokak Ruhu, Kayar 808 Basları & Sert Drill",
+  "description": "İstanbul sokaklarının en popüler soundu: karanlık melodiler, göğüs titreten kayar 808 basları ve Uzi tarzı sert vokallere uygun akıcı drill davulları.",
+  "targetArtists": [
+    "Uzi",
+    "Güngören",
+    "Critical",
+    "Mavi"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / F-Minor",
+  "vibeAttributes": [
+    "Kayar 808",
+    "Karanlık Melodi",
+    "Sokak Drill",
+    "Sert Vuruş"
+  ],
+  "popularGenres": [
+    "Türkçe Drill",
+    "Sokak Trap",
+    "İstanbul Sound"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "lvbel-c5-viral-club-trap-bangers",
+  "name": "Lvbel C5 Viral Club Trap Banger",
+  "category": "vibe",
+  "badge": "Club Trap Banger",
+  "headline": "Lvbel C5 Tarzı Beatler: Viral Kulüp Enerjisi, Akılda Kalıcı Melodiler & Zıplatan 808",
+  "description": "Kulüpleri ve listeleri altüst eden yüksek enerjili trap altyapıları: hareketli hi-hatler, zıplatan davul kalıpları ve akılda kalıcı nakaratlar.",
+  "targetArtists": [
+    "Lvbel C5",
+    "Batuflex",
+    "Arem Özgüç"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "Kulüp Enerjisi",
+    "Viral Ritim",
+    "Zıplatan 808",
+    "Parti Havası"
+  ],
+  "popularGenres": [
+    "Club Trap",
+    "Türkçe Trap",
+    "Banger"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "cakal-melodic-drill-autotune-trap",
+  "name": "Cakal Melodic Drill Autotune Trap",
+  "category": "vibe",
+  "badge": "Melodic Drill Vibe",
+  "headline": "Cakal Tarzı Beatler: Melodik Drill, Lüks Yaşam Vibe & Akıcı Autotune",
+  "description": "Zarif ve lüks melodilerle sert drill davullarının birleşimi: kayar baslar, akıcı autotune melodileri ve Cakal tarzı modern trap estetiği.",
+  "targetArtists": [
+    "Cakal",
+    "Reckol",
+    "Kuty"
+  ],
+  "recommendedBpm": "138-142 BPM",
+  "recommendedKey": "E-Minor / B-Minor",
+  "vibeAttributes": [
+    "Melodik Drill",
+    "Lüks Trap",
+    "Autotune Flow",
+    "Akıcı Ritim"
+  ],
+  "popularGenres": [
+    "Melodik Drill",
+    "Türkçe Trap",
+    "Lüks Sound"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "motive-22-technical-lyrical-trap",
+  "name": "Motive 22 Technical Lyrical Trap",
+  "category": "vibe",
+  "badge": "22 Technical Vibe",
+  "headline": "Motive Tarzı Beatler (22): Zengin Caz Akorları, Teknik Akış & Progresif Trap",
+  "description": "Müzikal derinliği yüksek prodüksiyonlar: zengin rhodes akorları, sofistike bas yürüyüşleri ve Motive tarzı teknik, lirik flowlar için mükemmel boşluk.",
+  "targetArtists": [
+    "Motive",
+    "22",
+    "Pango",
+    "Uğur Öztürk"
+  ],
+  "recommendedBpm": "115-130 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Caz Akorları",
+    "Teknik Flow",
+    "Progresif Trap",
+    "Müzikalite"
+  ],
+  "popularGenres": [
+    "Lirik Trap",
+    "Progresif Hip Hop",
+    "Türkçe Rap"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "blok3-acoustic-guitar-street-trap",
+  "name": "Blok3 Acoustic Guitar Street Trap",
+  "category": "vibe",
+  "badge": "Akustik Gitar Vibe",
+  "headline": "Blok3 Tarzı Beatler: Canlı Akustik Gitarlar, Duygusal Sokak Sözleri & Sert 808",
+  "description": "TikTok ve streaming listelerinin zirvesindeki tarz: duygusal gitar akorları, içten sokak hikayeleri ve göğüs sarsan trap davulları.",
+  "targetArtists": [
+    "Blok3",
+    "Nilüfer",
+    "Affetmem"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "A-Minor / D-Minor",
+  "vibeAttributes": [
+    "Akustik Gitarlar",
+    "Duygusal Trap",
+    "Sokak Melodisi",
+    "Akılda Kalıcı"
+  ],
+  "popularGenres": [
+    "Gitar Trap",
+    "Melodik Rap",
+    "Türkçe Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "ezhel-muptezhel-anatolian-trap-wave",
+  "name": "Ezhel Müptezhel Anatolian Trap Wave",
+  "category": "vibe",
+  "badge": "Anadolu Trap Vibe",
+  "headline": "Ezhel Tarzı Beatler: Anadolu Bağlama Ezgileri, Reggae-Trap & Müptezhel Soundu",
+  "description": "Türkçe rapin çehresini değiştiren efsanevi sound: geleneksel bağlama ve nefesli enstrümanların reggae ve modern trap ritimleriyle harmanı.",
+  "targetArtists": [
+    "Ezhel",
+    "DJ Artz",
+    "Bugy",
+    "KOAL"
+  ],
+  "recommendedBpm": "95-105 BPM / 130 BPM",
+  "recommendedKey": "E-Minor / A-Minor",
+  "vibeAttributes": [
+    "Bağlama Ezgisi",
+    "Reggae Trap",
+    "Anadolu Ruhu",
+    "Derin Bas"
+  ],
+  "popularGenres": [
+    "Anadolu Trap",
+    "Reggae Rap",
+    "Türkçe Hip Hop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6"
+  ]
+},
+  {
+  "slug": "murda-afro-trap-summer-bounce",
+  "name": "Murda Afro Trap Summer Bounce",
+  "category": "vibe",
+  "badge": "Afro-Trap Yaz Vibe",
+  "headline": "Murda Tarzı Beatler: Sıcak Afro-Trap Ritimleri, Latin Dokunuşları & Yaz Hiti",
+  "description": "Avrupa ve Türkiye listelerini sallayan sıcak yaz ritimleri: tropikal melodiler, dans ettiren dembow davulları ve akılda kalıcı afro-trap enerjisi.",
+  "targetArtists": [
+    "Murda",
+    "Ezhel",
+    "Spanker"
+  ],
+  "recommendedBpm": "105-115 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Afro Trap",
+    "Dans Ruhu",
+    "Yaz Hiti",
+    "Tropikal Melodi"
+  ],
+  "popularGenres": [
+    "Afro Trap",
+    "Latin Trap",
+    "Türkçe Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "batuflex-hardcore-140-bpm-turkish-drill",
+  "name": "Batuflex Hardcore 140 BPM Turkish Drill",
+  "category": "vibe",
+  "badge": "Sert 140 Drill",
+  "headline": "Batuflex Tarzı Beatler: 140 BPM Yıkıcı Drill, Distorsiyonlu 808 & Agresif Flow",
+  "description": "Tavizsiz sokak enerjisi: ultra sert drill hi-hat kalıpları, agresif distorsiyonlu bas kaymaları ve hızlı nefessiz flowlara uygun karanlık altyapılar.",
+  "targetArtists": [
+    "Batuflex",
+    "Lvbel C5",
+    "Dalga"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "140 BPM Drill",
+    "Distorsiyonlu Bas",
+    "Agresif Enerji",
+    "Sert Vuruşlar"
+  ],
+  "popularGenres": [
+    "Türkçe Drill",
+    "Hardcore Trap",
+    "Banger"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "sefo-reggaeton-latin-trap-banger",
+  "name": "Sefo Reggaeton Latin Trap Banger",
+  "category": "vibe",
+  "badge": "Viral Latin Trap",
+  "headline": "Sefo Tarzı Beatler: Viral Reggaeton Ritimleri, Dembow Davulları & Pop-Trap",
+  "description": "Milyonlarca dinlenen hit şarkıların formülü: enerjik dembow kalıpları, akılda kalıcı akustik enstrümanlar ve eğlenceli pop-trap havası.",
+  "targetArtists": [
+    "Sefo",
+    "Bilmem Mi",
+    "Aerro"
+  ],
+  "recommendedBpm": "95-102 BPM",
+  "recommendedKey": "A-Minor / D-Minor",
+  "vibeAttributes": [
+    "Reggaeton",
+    "Dembow Davul",
+    "Viral Pop Trap",
+    "Eğlenceli"
+  ],
+  "popularGenres": [
+    "Latin Trap",
+    "Reggaeton",
+    "Türkçe Pop-Rap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "ceza-sagopa-legendary-turkish-boombap",
+  "name": "Ceza & Sagopa Legendary Boombap",
+  "category": "vibe",
+  "badge": "Efsane Boom Bap Vibe",
+  "headline": "Ceza & Sagopa Tarzı Beatler: Klasik Plak Cızırtısı, Melankolik Yaylılar & 90 BPM",
+  "description": "Türkçe rapin altın çağı: nostaljik plak çıtırtıları, duygusal keman ve piyano partisyonları, tok trampetler ve derin felsefi sözlere uygun geniş alan.",
+  "targetArtists": [
+    "Ceza",
+    "Sagopa Kajmer",
+    "Kuvvetmira",
+    "Neyim Var Ki"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Plak Cızırtısı",
+    "Melankolik Keman",
+    "Tok Trampet",
+    "Klasik Boom Bap"
+  ],
+  "popularGenres": [
+    "Klasik Boombap",
+    "Nostaljik Hip Hop",
+    "Türkçe Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6"
+  ]
+},
+  {
+  "slug": "heijan-muti-istanbul-ghetto-drill",
+  "name": "Heijan & Muti Istanbul Ghetto Drill",
+  "category": "vibe",
+  "badge": "Ghetto Drill Vibe",
+  "headline": "Heijan & Muti Tarzı Beatler: Varoş Sokak Drill, Hızlı Ritim & Yıkıcı Davullar",
+  "description": "Sokakların içinden gelen ses: hareketli perküsyonlar, akılda kalıcı oryantal synthler ve hızlı tempolu sokak drill altyapıları.",
+  "targetArtists": [
+    "Heijan",
+    "Muti",
+    "CAC"
+  ],
+  "recommendedBpm": "138-144 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Varoş Drill",
+    "Hızlı Ritim",
+    "Oryantal Dokunuş",
+    "Sokak Gerçeği"
+  ],
+  "popularGenres": [
+    "Ghetto Drill",
+    "Türkçe Rap",
+    "Sokak Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "reckol-hyper-trap-new-school-wave",
+  "name": "Reckol Hyper Trap New School Wave",
+  "category": "vibe",
+  "badge": "Hyper Trap Vibe",
+  "headline": "Reckol Tarzı Beatler: Yeni Nesil Hyper-Trap, Parlak Synthler & Hızlı 808",
+  "description": "Geleceğin trap soundu: parlak lead synthler, zıplayan melodi hatları ve yeni nesil autotune vokaller için patlayıcı trap enerjisi.",
+  "targetArtists": [
+    "Reckol",
+    "Cakal",
+    "Perros Blancos"
+  ],
+  "recommendedBpm": "135-142 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Hyper Trap",
+    "Parlak Synth",
+    "Yeni Nesil",
+    "Patlayıcı Enerji"
+  ],
+  "popularGenres": [
+    "Hyper Trap",
+    "Yeni Dalga",
+    "Türkçe Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "turkce-rap-beat-satin-al-try",
+  "name": "Türkçe Rap Beat Satın Al (TRY ₺ Fiyatlarla)",
+  "category": "genre",
+  "badge": "TL ile Beat Al",
+  "headline": "Türkçe Rap Beat Satın Al: Türk Lirası (₺), Papara & Resmi WAV Lisansı",
+  "description": "Profesyonel Türkçe rap ve trap altyapıları. Döviz kuru derdi olmadan Türk Lirası ile Papara veya Troy kartınızla anında satın alın ve stüdyo WAV dosyalarını indirin.",
+  "targetArtists": [
+    "Türk Rapçiler",
+    "Vokalistler",
+    "Şarkı Yazarları"
+  ],
+  "recommendedBpm": "Tüm Tempolar",
+  "recommendedKey": "Tüm Tonlar",
+  "vibeAttributes": [
+    "Türk Lirası",
+    "Papara Ödeme",
+    "Resmi Lisans",
+    "24-bit WAV"
+  ],
+  "popularGenres": [
+    "Türkçe Trap",
+    "Türkçe Drill",
+    "Boom Bap",
+    "R&B"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "turkce-drill-beat-wav-stems",
+  "name": "Türkçe Drill Beat WAV ve Kanal Kayıtları (Stems)",
+  "category": "genre",
+  "badge": "Drill WAV & Stems",
+  "headline": "Türkçe Drill Beat Satın Al: 24-bit WAV ve Ayrı Kanal Kayıtları (Trackout)",
+  "description": "140-144 BPM aralığında en sert Türkçe drill altyapıları. Stüdyoda mükemmel vokal miksi yapabilmeniz için tüm enstrüman kanalları ayrı ayrı teslim edilir.",
+  "targetArtists": [
+    "Uzi",
+    "Batuflex",
+    "Drill Sanatçıları",
+    "Miks Mühendisleri"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Kanal Kayıtları",
+    "Stüdyo WAV",
+    "Kayar 808",
+    "Sert Drill"
+  ],
+  "popularGenres": [
+    "Türkçe Drill",
+    "Hardcore Trap",
+    "UK Drill Tarzı"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "papara-ile-beat-satin-al",
+  "name": "Papara ile Beat Satın Al (Anında Teslimat)",
+  "category": "genre",
+  "badge": "Papara ile Öde",
+  "headline": "Papara ile Beat Satın Al: 10 Saniyede Güvenli Ödeme ve Anında İndirme",
+  "description": "Kredi kartı veya döviz hesabına gerek kalmadan Papara hesabınızla kolayca beat satın alın. Lisans sözleşmeniz ve stüdyo dosyalarınız anında mailinizde.",
+  "targetArtists": [
+    "Genç Rapçiler",
+    "Bağımsız Sanatçılar"
+  ],
+  "recommendedBpm": "Tüm Tempolar",
+  "recommendedKey": "Tüm Tonlar",
+  "vibeAttributes": [
+    "Papara Cüzdan",
+    "Hızlı Ödeme",
+    "Komisyonsuz",
+    "WAV + PDF"
+  ],
+  "popularGenres": [
+    "Türkçe Trap",
+    "Drill",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6"
+  ]
+},
+  {
+  "slug": "mesam-telifsiz-beat-indir-spotify",
+  "name": "MESAM & MSG Onaylı Telifsiz Beat İndir",
+  "category": "genre",
+  "badge": "MESAM & MSG Güvenli",
+  "headline": "MESAM ve MSG Uyumlu Telifsiz Beatler: %100 Orijinal, Sıfır Telif İhtarı",
+  "description": "Şarkılarınızı hiçbir telif hakkı sorunu yaşamadan Spotify, Apple Music ve YouTube'a yükleyin. %100 orijinal aranjmanlar ve yasal güvenceli lisans belgesi.",
+  "targetArtists": [
+    "MESAM Üyeleri",
+    "Bağımsız Şirketler",
+    "Profesyonel Sanatçılar"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "%100 Orijinal",
+    "MESAM Uyumlu",
+    "Telif Sorunsuz",
+    "Tam Haklar"
+  ],
+  "popularGenres": [
+    "Türkçe Rap",
+    "Trap",
+    "R&B"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6",
+    "5"
+  ]
+},
+  {
+  "slug": "ses-kaydi-icin-etiketsiz-beatler-untagged",
+  "name": "Ses Kaydı için Etiketsiz Beatler (Untagged)",
+  "category": "genre",
+  "badge": "Etiketsiz Stüdyo WAV",
+  "headline": "Stüdyo Kaydı için Etiketsiz Beatler: Ses İmzası Olmayan Tertemiz Altyapılar",
+  "description": "Hiçbir ses etiketi (tag) veya lektör sesi içermeyen saf stüdyo kayıtları. Mikrofon başına geçip profesyonel kaydınızı yapabilmeniz için hazırlandı.",
+  "targetArtists": [
+    "Stüdyo Rapçileri",
+    "Ses Mühendisleri",
+    "Vokalistler"
+  ],
+  "recommendedBpm": "90-145 BPM",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Ses Etiketsiz",
+    "Temiz Kayıt",
+    "Headroom -6dB",
+    "Stüdyo Master"
+  ],
+  "popularGenres": [
+    "Trap",
+    "Boom Bap",
+    "Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1",
+    "6"
+  ]
+},
+  {
+  "slug": "ticari-muzik-lisansi-spotify-turkiye",
+  "name": "Ticari Müzik Lisansı (Spotify Türkiye & Gelir Hakkı)",
+  "category": "genre",
+  "badge": "Spotify Türkiye Uyumlu",
+  "headline": "Spotify Türkiye için Ticari Müzik Lisansı: Gelirlerinizin %100'ü Sizde Kalsın",
+  "description": "DistroKid, TuneCore, eMuzyka veya yerli dağıtıcılarla şarkınızı tüm platformlara yükleyin. Dinlenme gelirlerinden kesinti yapılmaz.",
+  "targetArtists": [
+    "Bağımsız Müzisyenler",
+    "Dağıtım Yapan Sanatçılar"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "%100 Telif Geliri",
+    "Spotify Ready",
+    "Apple Music",
+    "YouTube Geliri"
+  ],
+  "popularGenres": [
+    "Türkçe Rap",
+    "Drill",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "anadolu-baglama-ve-klarnet-trap-beatleri",
+  "name": "Anadolu Bağlama ve Klarnet Trap Beatleri",
+  "category": "genre",
+  "badge": "Otantik Anadolu Trap",
+  "headline": "Bağlama ve Klarnet Ezgili Trap Beatleri: Doğu Ruhunun Ağır 808 ile Buluşması",
+  "description": "Geleneksel elektro bağlama resitalleri, hüzünlü klarnet ezgileri ve modern 808 basların eşsiz uyumu.",
+  "targetArtists": [
+    "Ezhel Tarzı",
+    "Otantik Rap Sanatçıları",
+    "Doğu Trap"
+  ],
+  "recommendedBpm": "95-135 BPM",
+  "recommendedKey": "E-Minor / A-Minor",
+  "vibeAttributes": [
+    "Canlı Bağlama",
+    "Sol Klarnet",
+    "Anadolu Ezgileri",
+    "Ağır 808"
+  ],
+  "popularGenres": [
+    "Anadolu Trap",
+    "Oryantal Hip Hop",
+    "Modern Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "fl-studio-turkce-trap-proje-dosyalari",
+  "name": "FL Studio Türkçe Trap Proje Dosyaları ve Stems",
+  "category": "genre",
+  "badge": "FL Studio Stems",
+  "headline": "FL Studio Türkçe Trap Beatleri: 24-bit Kanal Kayıtları ile Kolay Miks",
+  "description": "FL Studio kullanıcıları için özel olarak düzenlenmiş temiz kanal sesleri. Vokalinizin beat ile mükemmel kaynaşmasını sağlayın.",
+  "targetArtists": [
+    "FL Studio Prodüktörleri",
+    "Ses Mühendisleri",
+    "Ev Stüdyosu Sahipleri"
+  ],
+  "recommendedBpm": "Tüm Tempolar",
+  "recommendedKey": "Tüm Tonlar",
+  "vibeAttributes": [
+    "FL Studio Ready",
+    "Stems",
+    "Miks Kolaylığı",
+    "Yüksek Dinamik"
+  ],
+  "popularGenres": [
+    "Türkçe Trap",
+    "Drill",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "uygun-fiyatli-profesyonel-rap-beatleri",
+  "name": "Uygun Fiyatlı Profesyonel Rap Beatleri",
+  "category": "genre",
+  "badge": "Bütçe Dostu Beatler",
+  "headline": "Uygun Fiyatlı Profesyonel Rap Beatleri: Genç Yetenekler için Kaliteli Altyapılar",
+  "description": "Yüksek bütçeler harcamadan profesyonel stüdyo sounduna sahip olun. Doğrudan prodüktör Onzieb'den aracısız, bütçe dostu fiyatlar.",
+  "targetArtists": [
+    "Genç Yetenekler",
+    "Yeni Başlayan Rapçiler"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Bütçe Dostu",
+    "Stüdyo Kalitesi",
+    "Doğrudan Üreticiden",
+    "Resmi PDF"
+  ],
+  "popularGenres": [
+    "Türkçe Rap",
+    "Trap",
+    "Drill"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "6",
+    "7"
+  ]
+},
+  {
+  "slug": "ucretsiz-3-beat-demo-indir-turkce",
+  "name": "Ücretsiz 3 Beat Demo Paketi İndir",
+  "category": "genre",
+  "badge": "Ücretsiz Beat Paketi",
+  "headline": "Ücretsiz 3 Beat İndir: Sesini Profesyonel Altyapılarda Test Et",
+  "description": "Hemen 3 adet yüksek kaliteli MP3 altyapıyı ücretsiz indirin, evinizde vokal kayıtlarınızı test edin ve tarzınıza en uygun ritmi bulun.",
+  "targetArtists": [
+    "Demo Kaydedenler",
+    "Söz Yazanlar",
+    "Yeni Rapçiler"
+  ],
+  "recommendedBpm": "95, 130, 140 BPM",
+  "recommendedKey": "C-Minor, D-Minor",
+  "vibeAttributes": [
+    "Ücretsiz İndir",
+    "3 Beat Paketi",
+    "Demo Kayıt",
+    "Anında E-Postada"
+  ],
+  "popularGenres": [
+    "Türkçe Trap",
+    "Drill",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "6"
+  ]
+},
+  {
+  "slug": "140-bpm-turkce-drill-beats",
+  "name": "140 BPM Türkçe Drill Beats",
+  "category": "bpm",
+  "badge": "140 BPM Drill",
+  "headline": "140 BPM Türkçe Drill Beatleri: En Çok Tercih Edilen Drill Temposu",
+  "description": "Türkiye'de ve dünyada drill müziğin altın temposu: kayar 808'ler ve akıcı hi-hat kalıpları.",
+  "recommendedBpm": "140 BPM",
+  "recommendedKey": "D-Minor",
+  "vibeAttributes": [
+    "140 BPM",
+    "Türkçe Drill",
+    "Kayar 808",
+    "Sert Vuruş"
+  ],
+  "popularGenres": [
+    "Türkçe Drill",
+    "Hardcore Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "144-bpm-batuflex-drill-tempo",
+  "name": "144 BPM Batuflex Drill Tempo",
+  "category": "bpm",
+  "badge": "144 BPM Hızlı Drill",
+  "headline": "144 BPM Hızlı Türkçe Drill: Agresif Flowlar ve Ağır Baslar",
+  "description": "Nefessiz ve hızlı akışlar için tasarlanmış yüksek tempolu drill altyapısı.",
+  "recommendedBpm": "144 BPM",
+  "recommendedKey": "G-Minor",
+  "vibeAttributes": [
+    "144 BPM",
+    "Hızlı Akış",
+    "Agresif Ritim"
+  ],
+  "popularGenres": [
+    "Türkçe Drill",
+    "Hızlı Rap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "130-bpm-turkce-trap-beats",
+  "name": "130 BPM Türkçe Trap Beats",
+  "category": "bpm",
+  "badge": "130 BPM Trap",
+  "headline": "130 BPM Türkçe Trap Beatleri: Klasik Bouncing Ritim",
+  "description": "Melodik nakaratlar, akustik gitarlar ve autotune vokal için ideal zıplatan tempo.",
+  "recommendedBpm": "130 BPM",
+  "recommendedKey": "C-Minor",
+  "vibeAttributes": [
+    "130 BPM",
+    "Zıplatan Trap",
+    "Autotune Uyumlu"
+  ],
+  "popularGenres": [
+    "Türkçe Trap",
+    "Melodik Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "135-bpm-lvbel-c5-club-bounce",
+  "name": "135 BPM Lvbel C5 Club Bounce",
+  "category": "bpm",
+  "badge": "135 BPM Club Bounce",
+  "headline": "135 BPM Kulüp Trap Beatleri: Partiyi Ateşleyen Ritim",
+  "description": "Mekanları coşturan ve dans ettiren yüksek enerjili kulüp trap altyapıları.",
+  "recommendedBpm": "135 BPM",
+  "recommendedKey": "C-Minor",
+  "vibeAttributes": [
+    "135 BPM",
+    "Kulüp Enerjisi",
+    "Viral Bounce"
+  ],
+  "popularGenres": [
+    "Club Trap",
+    "Banger"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "98-bpm-ezhel-anatolian-reggae-trap",
+  "name": "98 BPM Ezhel Anatolian Reggae Trap",
+  "category": "bpm",
+  "badge": "98 BPM Reggae Trap",
+  "headline": "98 BPM Ezhel Tarzı Reggae-Trap: Rahat Akış ve Derin Bas",
+  "description": "Gevşeten reggae tınıları ve derin sub-bas yürüyüşleriyle büyüleyici bir atmosfer.",
+  "recommendedBpm": "98 BPM",
+  "recommendedKey": "E-Minor",
+  "vibeAttributes": [
+    "98 BPM",
+    "Reggae Trap",
+    "Anadolu Ezgisi"
+  ],
+  "popularGenres": [
+    "Anadolu Trap",
+    "Reggae Rap"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "d-minor-turkce-drill-beats",
+  "name": "D-Minor Türkçe Drill Beats",
+  "category": "key",
+  "badge": "D-Minor Drill",
+  "headline": "D-Minor Tonunda Türkçe Drill Beatleri: Karanlık ve Ciddi Atmosfer",
+  "description": "Drill prodüksiyonlarının tartışmasız en popüler tonu. Tehditkar, karanlık ve tavizsiz.",
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor",
+  "vibeAttributes": [
+    "D-Minor",
+    "Karanlık Ton",
+    "Sert 808"
+  ],
+  "popularGenres": [
+    "Türkçe Drill",
+    "Hardcore Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "e-minor-anatolian-baglama-trap",
+  "name": "E-Minor Anatolian Baglama Trap",
+  "category": "key",
+  "badge": "E-Minor Bağlama",
+  "headline": "E-Minor Tonunda Anadolu Trap Beatleri: Yanık Bağlama Ezgileri",
+  "description": "Bağlama ve doğu enstrümanlarının en duygusal tınladığı geleneksel ve modern ton.",
+  "recommendedBpm": "95-130 BPM",
+  "recommendedKey": "E-Minor",
+  "vibeAttributes": [
+    "E-Minor",
+    "Bağlama",
+    "Duygusal Makam"
+  ],
+  "popularGenres": [
+    "Anadolu Trap",
+    "Oryantal Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "c-minor-turkce-trap-beats",
+  "name": "C-Minor Türkçe Trap Beats",
+  "category": "key",
+  "badge": "C-Minor Trap",
+  "headline": "C-Minor Tonunda Türkçe Trap Beatleri: Derin ve Sert Bas Vuruşları",
+  "description": "808 basların en temiz ve doygun duyulduğu klasik trap tonu.",
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "C-Minor",
+  "vibeAttributes": [
+    "C-Minor",
+    "Derin Bas",
+    "Klasik Trap"
+  ],
+  "popularGenres": [
+    "Türkçe Trap",
+    "Club Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "f-minor-uzi-street-drill",
+  "name": "F-Minor Uzi Street Drill",
+  "category": "key",
+  "badge": "F-Minor Sokak Drill",
+  "headline": "F-Minor Tonunda Sokak Drill Beatleri: Ağır Sokak Atmosferi",
+  "description": "Sokak anlatımları ve sert vokaller için mükemmel bir akustik zemin sağlayan minör ton.",
+  "recommendedBpm": "140-142 BPM",
+  "recommendedKey": "F-Minor",
+  "vibeAttributes": [
+    "F-Minor",
+    "Sokak Ruhu",
+    "Ağır Düşüş"
+  ],
+  "popularGenres": [
+    "Türkçe Drill",
+    "Sokak Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "a-minor-blok3-guitar-trap",
+  "name": "A-Minor Blok3 Guitar Trap",
+  "category": "key",
+  "badge": "A-Minor Gitar Trap",
+  "headline": "A-Minor Tonunda Gitar Trap Beatleri: Duygusal ve Samimi Melodiler",
+  "description": "Akustik gitarların en berrak duyulduğu, duygusal rap şarkılarının vazgeçilmez tonu.",
+  "recommendedBpm": "125-135 BPM",
+  "recommendedKey": "A-Minor",
+  "vibeAttributes": [
+    "A-Minor",
+    "Akustik Gitar",
+    "Duygusal Trap"
+  ],
+  "popularGenres": [
+    "Gitar Trap",
+    "Melodik Rap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "istanbul-avrupa-turkce-drill-beatleri",
+  "name": "İstanbul Avrupa Türkçe Drill Beatleri",
+  "category": "scene",
+  "badge": "İstanbul Avrupa Türkçe Drill",
+  "headline": "İstanbul Avrupa (Güngören) Türkçe Drill Beatleri: Telifsiz WAV & Papara",
+  "description": "Kayar 808 basları ve stüdyo WAV kalitesiyle İstanbul Avrupa sahnesi için en sert Türkçe drill altyapıları.",
+  "targetArtists": [
+    "İstanbul Avrupa Rapçileri",
+    "Türkçe Rap Sahnesi",
+    "Bağımsız Müzisyenler"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "İstanbul Avrupa",
+    "Türkçe Drill",
+    "Papara Ödeme",
+    "MESAM Uyumlu"
+  ],
+  "popularGenres": [
+    "Türkçe Drill Beatleri",
+    "Türkçe Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "istanbul-avrupa-turkce-trap-altyapi",
+  "name": "İstanbul Avrupa Türkçe Trap Altyapı",
+  "category": "scene",
+  "badge": "İstanbul Avrupa Türkçe Trap",
+  "headline": "İstanbul Avrupa (Güngören) Türkçe Trap Altyapı: Telifsiz WAV & Papara",
+  "description": "Akılda kalıcı melodiler ve dolgun davul vuruşlarıyla İstanbul Avrupa rapçileri için profesyonel trap beatleri.",
+  "targetArtists": [
+    "İstanbul Avrupa Rapçileri",
+    "Türkçe Rap Sahnesi",
+    "Bağımsız Müzisyenler"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C-Minor / A-Minor",
+  "vibeAttributes": [
+    "İstanbul Avrupa",
+    "Türkçe Trap",
+    "Papara Ödeme",
+    "MESAM Uyumlu"
+  ],
+  "popularGenres": [
+    "Türkçe Trap Altyapı",
+    "Türkçe Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "istanbul-avrupa-baglama-melodic-trap",
+  "name": "İstanbul Avrupa Bağlama Melodik Trap",
+  "category": "scene",
+  "badge": "İstanbul Avrupa Anadolu Trap",
+  "headline": "İstanbul Avrupa (Güngören) Bağlama Melodik Trap: Telifsiz WAV & Papara",
+  "description": "Canlı bağlama ezgileri ve modern 808 trap davullarının buluştuğu İstanbul Avrupa soundu.",
+  "targetArtists": [
+    "İstanbul Avrupa Rapçileri",
+    "Türkçe Rap Sahnesi",
+    "Bağımsız Müzisyenler"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "E-Minor / A-Minor",
+  "vibeAttributes": [
+    "İstanbul Avrupa",
+    "Anadolu Trap",
+    "Papara Ödeme",
+    "MESAM Uyumlu"
+  ],
+  "popularGenres": [
+    "Bağlama Melodik Trap",
+    "Türkçe Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "istanbul-avrupa-klasik-turkce-boombap",
+  "name": "İstanbul Avrupa Klasik Türkçe Boom Bap",
+  "category": "scene",
+  "badge": "İstanbul Avrupa Klasik Hip Hop",
+  "headline": "İstanbul Avrupa (Güngören) Klasik Türkçe Boom Bap: Telifsiz WAV & Papara",
+  "description": "Plak cızırtısı, melankolik kemanlar ve tok trampetlerle İstanbul Avrupa lirik rapçileri için saf hip-hop.",
+  "targetArtists": [
+    "İstanbul Avrupa Rapçileri",
+    "Türkçe Rap Sahnesi",
+    "Bağımsız Müzisyenler"
+  ],
+  "recommendedBpm": "90-94 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "İstanbul Avrupa",
+    "Klasik Hip Hop",
+    "Papara Ödeme",
+    "MESAM Uyumlu"
+  ],
+  "popularGenres": [
+    "Klasik Türkçe Boom Bap",
+    "Türkçe Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6"
+  ]
+},
+  {
+  "slug": "istanbul-anadolu-turkce-drill-beatleri",
+  "name": "İstanbul Anadolu Türkçe Drill Beatleri",
+  "category": "scene",
+  "badge": "İstanbul Anadolu Türkçe Drill",
+  "headline": "İstanbul Anadolu (Kadıköy) Türkçe Drill Beatleri: Telifsiz WAV & Papara",
+  "description": "Kayar 808 basları ve stüdyo WAV kalitesiyle İstanbul Anadolu sahnesi için en sert Türkçe drill altyapıları.",
+  "targetArtists": [
+    "İstanbul Anadolu Rapçileri",
+    "Türkçe Rap Sahnesi",
+    "Bağımsız Müzisyenler"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "İstanbul Anadolu",
+    "Türkçe Drill",
+    "Papara Ödeme",
+    "MESAM Uyumlu"
+  ],
+  "popularGenres": [
+    "Türkçe Drill Beatleri",
+    "Türkçe Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "istanbul-anadolu-turkce-trap-altyapi",
+  "name": "İstanbul Anadolu Türkçe Trap Altyapı",
+  "category": "scene",
+  "badge": "İstanbul Anadolu Türkçe Trap",
+  "headline": "İstanbul Anadolu (Kadıköy) Türkçe Trap Altyapı: Telifsiz WAV & Papara",
+  "description": "Akılda kalıcı melodiler ve dolgun davul vuruşlarıyla İstanbul Anadolu rapçileri için profesyonel trap beatleri.",
+  "targetArtists": [
+    "İstanbul Anadolu Rapçileri",
+    "Türkçe Rap Sahnesi",
+    "Bağımsız Müzisyenler"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C-Minor / A-Minor",
+  "vibeAttributes": [
+    "İstanbul Anadolu",
+    "Türkçe Trap",
+    "Papara Ödeme",
+    "MESAM Uyumlu"
+  ],
+  "popularGenres": [
+    "Türkçe Trap Altyapı",
+    "Türkçe Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "istanbul-anadolu-baglama-melodic-trap",
+  "name": "İstanbul Anadolu Bağlama Melodik Trap",
+  "category": "scene",
+  "badge": "İstanbul Anadolu Anadolu Trap",
+  "headline": "İstanbul Anadolu (Kadıköy) Bağlama Melodik Trap: Telifsiz WAV & Papara",
+  "description": "Canlı bağlama ezgileri ve modern 808 trap davullarının buluştuğu İstanbul Anadolu soundu.",
+  "targetArtists": [
+    "İstanbul Anadolu Rapçileri",
+    "Türkçe Rap Sahnesi",
+    "Bağımsız Müzisyenler"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "E-Minor / A-Minor",
+  "vibeAttributes": [
+    "İstanbul Anadolu",
+    "Anadolu Trap",
+    "Papara Ödeme",
+    "MESAM Uyumlu"
+  ],
+  "popularGenres": [
+    "Bağlama Melodik Trap",
+    "Türkçe Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "istanbul-anadolu-klasik-turkce-boombap",
+  "name": "İstanbul Anadolu Klasik Türkçe Boom Bap",
+  "category": "scene",
+  "badge": "İstanbul Anadolu Klasik Hip Hop",
+  "headline": "İstanbul Anadolu (Kadıköy) Klasik Türkçe Boom Bap: Telifsiz WAV & Papara",
+  "description": "Plak cızırtısı, melankolik kemanlar ve tok trampetlerle İstanbul Anadolu lirik rapçileri için saf hip-hop.",
+  "targetArtists": [
+    "İstanbul Anadolu Rapçileri",
+    "Türkçe Rap Sahnesi",
+    "Bağımsız Müzisyenler"
+  ],
+  "recommendedBpm": "90-94 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "İstanbul Anadolu",
+    "Klasik Hip Hop",
+    "Papara Ödeme",
+    "MESAM Uyumlu"
+  ],
+  "popularGenres": [
+    "Klasik Türkçe Boom Bap",
+    "Türkçe Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6"
+  ]
+},
+  {
+  "slug": "ankara-turkce-drill-beatleri",
+  "name": "Ankara Türkçe Drill Beatleri",
+  "category": "scene",
+  "badge": "Ankara Türkçe Drill",
+  "headline": "Ankara (İç Anadolu) Türkçe Drill Beatleri: Telifsiz WAV & Papara",
+  "description": "Kayar 808 basları ve stüdyo WAV kalitesiyle Ankara sahnesi için en sert Türkçe drill altyapıları.",
+  "targetArtists": [
+    "Ankara Rapçileri",
+    "Türkçe Rap Sahnesi",
+    "Bağımsız Müzisyenler"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Ankara",
+    "Türkçe Drill",
+    "Papara Ödeme",
+    "MESAM Uyumlu"
+  ],
+  "popularGenres": [
+    "Türkçe Drill Beatleri",
+    "Türkçe Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "ankara-turkce-trap-altyapi",
+  "name": "Ankara Türkçe Trap Altyapı",
+  "category": "scene",
+  "badge": "Ankara Türkçe Trap",
+  "headline": "Ankara (İç Anadolu) Türkçe Trap Altyapı: Telifsiz WAV & Papara",
+  "description": "Akılda kalıcı melodiler ve dolgun davul vuruşlarıyla Ankara rapçileri için profesyonel trap beatleri.",
+  "targetArtists": [
+    "Ankara Rapçileri",
+    "Türkçe Rap Sahnesi",
+    "Bağımsız Müzisyenler"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C-Minor / A-Minor",
+  "vibeAttributes": [
+    "Ankara",
+    "Türkçe Trap",
+    "Papara Ödeme",
+    "MESAM Uyumlu"
+  ],
+  "popularGenres": [
+    "Türkçe Trap Altyapı",
+    "Türkçe Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "ankara-baglama-melodic-trap",
+  "name": "Ankara Bağlama Melodik Trap",
+  "category": "scene",
+  "badge": "Ankara Anadolu Trap",
+  "headline": "Ankara (İç Anadolu) Bağlama Melodik Trap: Telifsiz WAV & Papara",
+  "description": "Canlı bağlama ezgileri ve modern 808 trap davullarının buluştuğu Ankara soundu.",
+  "targetArtists": [
+    "Ankara Rapçileri",
+    "Türkçe Rap Sahnesi",
+    "Bağımsız Müzisyenler"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "E-Minor / A-Minor",
+  "vibeAttributes": [
+    "Ankara",
+    "Anadolu Trap",
+    "Papara Ödeme",
+    "MESAM Uyumlu"
+  ],
+  "popularGenres": [
+    "Bağlama Melodik Trap",
+    "Türkçe Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "ankara-klasik-turkce-boombap",
+  "name": "Ankara Klasik Türkçe Boom Bap",
+  "category": "scene",
+  "badge": "Ankara Klasik Hip Hop",
+  "headline": "Ankara (İç Anadolu) Klasik Türkçe Boom Bap: Telifsiz WAV & Papara",
+  "description": "Plak cızırtısı, melankolik kemanlar ve tok trampetlerle Ankara lirik rapçileri için saf hip-hop.",
+  "targetArtists": [
+    "Ankara Rapçileri",
+    "Türkçe Rap Sahnesi",
+    "Bağımsız Müzisyenler"
+  ],
+  "recommendedBpm": "90-94 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Ankara",
+    "Klasik Hip Hop",
+    "Papara Ödeme",
+    "MESAM Uyumlu"
+  ],
+  "popularGenres": [
+    "Klasik Türkçe Boom Bap",
+    "Türkçe Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6"
+  ]
+},
+  {
+  "slug": "izmir-turkce-drill-beatleri",
+  "name": "İzmir Türkçe Drill Beatleri",
+  "category": "scene",
+  "badge": "İzmir Türkçe Drill",
+  "headline": "İzmir (Ege) Türkçe Drill Beatleri: Telifsiz WAV & Papara",
+  "description": "Kayar 808 basları ve stüdyo WAV kalitesiyle İzmir sahnesi için en sert Türkçe drill altyapıları.",
+  "targetArtists": [
+    "İzmir Rapçileri",
+    "Türkçe Rap Sahnesi",
+    "Bağımsız Müzisyenler"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "İzmir",
+    "Türkçe Drill",
+    "Papara Ödeme",
+    "MESAM Uyumlu"
+  ],
+  "popularGenres": [
+    "Türkçe Drill Beatleri",
+    "Türkçe Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "izmir-turkce-trap-altyapi",
+  "name": "İzmir Türkçe Trap Altyapı",
+  "category": "scene",
+  "badge": "İzmir Türkçe Trap",
+  "headline": "İzmir (Ege) Türkçe Trap Altyapı: Telifsiz WAV & Papara",
+  "description": "Akılda kalıcı melodiler ve dolgun davul vuruşlarıyla İzmir rapçileri için profesyonel trap beatleri.",
+  "targetArtists": [
+    "İzmir Rapçileri",
+    "Türkçe Rap Sahnesi",
+    "Bağımsız Müzisyenler"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C-Minor / A-Minor",
+  "vibeAttributes": [
+    "İzmir",
+    "Türkçe Trap",
+    "Papara Ödeme",
+    "MESAM Uyumlu"
+  ],
+  "popularGenres": [
+    "Türkçe Trap Altyapı",
+    "Türkçe Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "izmir-baglama-melodic-trap",
+  "name": "İzmir Bağlama Melodik Trap",
+  "category": "scene",
+  "badge": "İzmir Anadolu Trap",
+  "headline": "İzmir (Ege) Bağlama Melodik Trap: Telifsiz WAV & Papara",
+  "description": "Canlı bağlama ezgileri ve modern 808 trap davullarının buluştuğu İzmir soundu.",
+  "targetArtists": [
+    "İzmir Rapçileri",
+    "Türkçe Rap Sahnesi",
+    "Bağımsız Müzisyenler"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "E-Minor / A-Minor",
+  "vibeAttributes": [
+    "İzmir",
+    "Anadolu Trap",
+    "Papara Ödeme",
+    "MESAM Uyumlu"
+  ],
+  "popularGenres": [
+    "Bağlama Melodik Trap",
+    "Türkçe Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "izmir-klasik-turkce-boombap",
+  "name": "İzmir Klasik Türkçe Boom Bap",
+  "category": "scene",
+  "badge": "İzmir Klasik Hip Hop",
+  "headline": "İzmir (Ege) Klasik Türkçe Boom Bap: Telifsiz WAV & Papara",
+  "description": "Plak cızırtısı, melankolik kemanlar ve tok trampetlerle İzmir lirik rapçileri için saf hip-hop.",
+  "targetArtists": [
+    "İzmir Rapçileri",
+    "Türkçe Rap Sahnesi",
+    "Bağımsız Müzisyenler"
+  ],
+  "recommendedBpm": "90-94 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "İzmir",
+    "Klasik Hip Hop",
+    "Papara Ödeme",
+    "MESAM Uyumlu"
+  ],
+  "popularGenres": [
+    "Klasik Türkçe Boom Bap",
+    "Türkçe Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6"
+  ]
+},
+  {
+  "slug": "bursa-turkce-drill-beatleri",
+  "name": "Bursa Türkçe Drill Beatleri",
+  "category": "scene",
+  "badge": "Bursa Türkçe Drill",
+  "headline": "Bursa (Marmara) Türkçe Drill Beatleri: Telifsiz WAV & Papara",
+  "description": "Kayar 808 basları ve stüdyo WAV kalitesiyle Bursa sahnesi için en sert Türkçe drill altyapıları.",
+  "targetArtists": [
+    "Bursa Rapçileri",
+    "Türkçe Rap Sahnesi",
+    "Bağımsız Müzisyenler"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Bursa",
+    "Türkçe Drill",
+    "Papara Ödeme",
+    "MESAM Uyumlu"
+  ],
+  "popularGenres": [
+    "Türkçe Drill Beatleri",
+    "Türkçe Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "bursa-turkce-trap-altyapi",
+  "name": "Bursa Türkçe Trap Altyapı",
+  "category": "scene",
+  "badge": "Bursa Türkçe Trap",
+  "headline": "Bursa (Marmara) Türkçe Trap Altyapı: Telifsiz WAV & Papara",
+  "description": "Akılda kalıcı melodiler ve dolgun davul vuruşlarıyla Bursa rapçileri için profesyonel trap beatleri.",
+  "targetArtists": [
+    "Bursa Rapçileri",
+    "Türkçe Rap Sahnesi",
+    "Bağımsız Müzisyenler"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C-Minor / A-Minor",
+  "vibeAttributes": [
+    "Bursa",
+    "Türkçe Trap",
+    "Papara Ödeme",
+    "MESAM Uyumlu"
+  ],
+  "popularGenres": [
+    "Türkçe Trap Altyapı",
+    "Türkçe Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "bursa-baglama-melodic-trap",
+  "name": "Bursa Bağlama Melodik Trap",
+  "category": "scene",
+  "badge": "Bursa Anadolu Trap",
+  "headline": "Bursa (Marmara) Bağlama Melodik Trap: Telifsiz WAV & Papara",
+  "description": "Canlı bağlama ezgileri ve modern 808 trap davullarının buluştuğu Bursa soundu.",
+  "targetArtists": [
+    "Bursa Rapçileri",
+    "Türkçe Rap Sahnesi",
+    "Bağımsız Müzisyenler"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "E-Minor / A-Minor",
+  "vibeAttributes": [
+    "Bursa",
+    "Anadolu Trap",
+    "Papara Ödeme",
+    "MESAM Uyumlu"
+  ],
+  "popularGenres": [
+    "Bağlama Melodik Trap",
+    "Türkçe Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "bursa-klasik-turkce-boombap",
+  "name": "Bursa Klasik Türkçe Boom Bap",
+  "category": "scene",
+  "badge": "Bursa Klasik Hip Hop",
+  "headline": "Bursa (Marmara) Klasik Türkçe Boom Bap: Telifsiz WAV & Papara",
+  "description": "Plak cızırtısı, melankolik kemanlar ve tok trampetlerle Bursa lirik rapçileri için saf hip-hop.",
+  "targetArtists": [
+    "Bursa Rapçileri",
+    "Türkçe Rap Sahnesi",
+    "Bağımsız Müzisyenler"
+  ],
+  "recommendedBpm": "90-94 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Bursa",
+    "Klasik Hip Hop",
+    "Papara Ödeme",
+    "MESAM Uyumlu"
+  ],
+  "popularGenres": [
+    "Klasik Türkçe Boom Bap",
+    "Türkçe Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6"
+  ]
+},
+  {
+  "slug": "antalya-turkce-drill-beatleri",
+  "name": "Antalya Türkçe Drill Beatleri",
+  "category": "scene",
+  "badge": "Antalya Türkçe Drill",
+  "headline": "Antalya (Akdeniz) Türkçe Drill Beatleri: Telifsiz WAV & Papara",
+  "description": "Kayar 808 basları ve stüdyo WAV kalitesiyle Antalya sahnesi için en sert Türkçe drill altyapıları.",
+  "targetArtists": [
+    "Antalya Rapçileri",
+    "Türkçe Rap Sahnesi",
+    "Bağımsız Müzisyenler"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Antalya",
+    "Türkçe Drill",
+    "Papara Ödeme",
+    "MESAM Uyumlu"
+  ],
+  "popularGenres": [
+    "Türkçe Drill Beatleri",
+    "Türkçe Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "antalya-turkce-trap-altyapi",
+  "name": "Antalya Türkçe Trap Altyapı",
+  "category": "scene",
+  "badge": "Antalya Türkçe Trap",
+  "headline": "Antalya (Akdeniz) Türkçe Trap Altyapı: Telifsiz WAV & Papara",
+  "description": "Akılda kalıcı melodiler ve dolgun davul vuruşlarıyla Antalya rapçileri için profesyonel trap beatleri.",
+  "targetArtists": [
+    "Antalya Rapçileri",
+    "Türkçe Rap Sahnesi",
+    "Bağımsız Müzisyenler"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C-Minor / A-Minor",
+  "vibeAttributes": [
+    "Antalya",
+    "Türkçe Trap",
+    "Papara Ödeme",
+    "MESAM Uyumlu"
+  ],
+  "popularGenres": [
+    "Türkçe Trap Altyapı",
+    "Türkçe Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "antalya-baglama-melodic-trap",
+  "name": "Antalya Bağlama Melodik Trap",
+  "category": "scene",
+  "badge": "Antalya Anadolu Trap",
+  "headline": "Antalya (Akdeniz) Bağlama Melodik Trap: Telifsiz WAV & Papara",
+  "description": "Canlı bağlama ezgileri ve modern 808 trap davullarının buluştuğu Antalya soundu.",
+  "targetArtists": [
+    "Antalya Rapçileri",
+    "Türkçe Rap Sahnesi",
+    "Bağımsız Müzisyenler"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "E-Minor / A-Minor",
+  "vibeAttributes": [
+    "Antalya",
+    "Anadolu Trap",
+    "Papara Ödeme",
+    "MESAM Uyumlu"
+  ],
+  "popularGenres": [
+    "Bağlama Melodik Trap",
+    "Türkçe Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "antalya-klasik-turkce-boombap",
+  "name": "Antalya Klasik Türkçe Boom Bap",
+  "category": "scene",
+  "badge": "Antalya Klasik Hip Hop",
+  "headline": "Antalya (Akdeniz) Klasik Türkçe Boom Bap: Telifsiz WAV & Papara",
+  "description": "Plak cızırtısı, melankolik kemanlar ve tok trampetlerle Antalya lirik rapçileri için saf hip-hop.",
+  "targetArtists": [
+    "Antalya Rapçileri",
+    "Türkçe Rap Sahnesi",
+    "Bağımsız Müzisyenler"
+  ],
+  "recommendedBpm": "90-94 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Antalya",
+    "Klasik Hip Hop",
+    "Papara Ödeme",
+    "MESAM Uyumlu"
+  ],
+  "popularGenres": [
+    "Klasik Türkçe Boom Bap",
+    "Türkçe Rap",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6"
+  ]
+},
 ];
