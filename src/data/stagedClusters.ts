@@ -1,6 +1,6 @@
 // src/data/stagedClusters.ts
-// Programmatic SEO Staged Batch Cluster Ledger - US, DACH, UK, France & Canada Complete Footprint
-// Deployed automatically by scripts/deploy_canada_pseo.py
+// Programmatic SEO Staged Batch Cluster Ledger - Global Big 5 Complete Footprint
+// Deployed automatically by scripts/deploy_wave2_canada_pseo.py
 
 export interface StagedClusterItem {
   type: 'vibe' | 'genre' | 'mood' | 'bpm' | 'key' | 'scene' | 'instrument' | 'blog';
@@ -4328,5 +4328,415 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "type": "scene",
     "slug": "montreal-nocturnal-808s",
     "batchId": 10
+  },
+  {
+    "type": "scene",
+    "slug": "ontario-ambient-trap-hub",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "brampton-peel-region-drill",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "mississauga-dark-rnb-trap",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "scarborough-east-end-trap",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "british-columbia-west-coast-rap",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "alberta-prairie-drill",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "saskatchewan-underground-hiphop",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "nova-scotia-boom-bap-beats",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "surrey-punjabi-trap-bounce",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "london-ontario-forest-city-trap",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "winnipeg-central-rap-beats",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "edmonton-north-drill",
+    "batchId": 11
+  },
+  {
+    "type": "vibe",
+    "slug": "northsidebenji-melodic-toronto-trap",
+    "batchId": 11
+  },
+  {
+    "type": "vibe",
+    "slug": "ramriddlz-sweeterman-dancehall-trap",
+    "batchId": 11
+  },
+  {
+    "type": "vibe",
+    "slug": "kardinal-offishall-t-dot-anthem",
+    "batchId": 11
+  },
+  {
+    "type": "vibe",
+    "slug": "belly-mumble-cinematic-trap",
+    "batchId": 11
+  },
+  {
+    "type": "vibe",
+    "slug": "roy-woods-say-less-melodic-rnb",
+    "batchId": 11
+  },
+  {
+    "type": "vibe",
+    "slug": "jazz-cartier-marauding-trap",
+    "batchId": 11
+  },
+  {
+    "type": "vibe",
+    "slug": "killy-surrender-your-soul-trap",
+    "batchId": 11
+  },
+  {
+    "type": "vibe",
+    "slug": "boslen-vancouver-melodic-rap",
+    "batchId": 11
+  },
+  {
+    "type": "vibe",
+    "slug": "chilla-quebec-conscious-trap",
+    "batchId": 11
+  },
+  {
+    "type": "vibe",
+    "slug": "loud-montreal-anthem-rap",
+    "batchId": 11
+  },
+  {
+    "type": "vibe",
+    "slug": "enima-montreal-dark-street-rap",
+    "batchId": 11
+  },
+  {
+    "type": "vibe",
+    "slug": "drake-take-care-nostalgic-rnb",
+    "batchId": 11
+  },
+  {
+    "type": "vibe",
+    "slug": "the-weeknd-house-of-balloons-lofi",
+    "batchId": 11
+  },
+  {
+    "type": "vibe",
+    "slug": "tory-lanez-alone-at-prom-80s-synth",
+    "batchId": 11
+  },
+  {
+    "type": "vibe",
+    "slug": "drake-scary-hours-hard-trap",
+    "batchId": 11
+  },
+  {
+    "type": "vibe",
+    "slug": "the-weeknd-starboy-synth-bounce",
+    "batchId": 11
+  },
+  {
+    "type": "genre",
+    "slug": "toronto-rnb-trap-instrumentals",
+    "batchId": 11
+  },
+  {
+    "type": "genre",
+    "slug": "canada-radio-cancon-cleared-beats",
+    "batchId": 11
+  },
+  {
+    "type": "genre",
+    "slug": "socan-royalty-free-music-leases",
+    "batchId": 11
+  },
+  {
+    "type": "genre",
+    "slug": "buy-rap-beats-in-toronto-cad",
+    "batchId": 11
+  },
+  {
+    "type": "genre",
+    "slug": "ovo-sound-type-beats-free-download",
+    "batchId": 11
+  },
+  {
+    "type": "genre",
+    "slug": "ambient-trap-instrumentals-for-sale",
+    "batchId": 11
+  },
+  {
+    "type": "genre",
+    "slug": "montreal-drill-type-beat-wav",
+    "batchId": 11
+  },
+  {
+    "type": "genre",
+    "slug": "interac-e-transfer-beat-store",
+    "batchId": 11
+  },
+  {
+    "type": "genre",
+    "slug": "music-nova-scotia-grant-beats",
+    "batchId": 11
+  },
+  {
+    "type": "genre",
+    "slug": "ontario-creates-music-fund-beats",
+    "batchId": 11
+  },
+  {
+    "type": "genre",
+    "slug": "canadian-drill-beats-with-stems",
+    "batchId": 11
+  },
+  {
+    "type": "genre",
+    "slug": "chill-lofi-hip-hop-canada",
+    "batchId": 11
+  },
+  {
+    "type": "genre",
+    "slug": "toronto-vocal-recording-leases-cad",
+    "batchId": 11
+  },
+  {
+    "type": "bpm",
+    "slug": "128-bpm-toronto-rnb-trap",
+    "batchId": 11
+  },
+  {
+    "type": "bpm",
+    "slug": "132-bpm-drake-ambient-bounce",
+    "batchId": 11
+  },
+  {
+    "type": "bpm",
+    "slug": "142-bpm-canadian-sliding-drill",
+    "batchId": 11
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-toronto-nocturnal-lofi",
+    "batchId": 11
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-toronto-dancehall-trap",
+    "batchId": 11
+  },
+  {
+    "type": "key",
+    "slug": "b-minor-toronto-ambient-trap",
+    "batchId": 11
+  },
+  {
+    "type": "key",
+    "slug": "c-sharp-minor-canadian-drill",
+    "batchId": 11
+  },
+  {
+    "type": "key",
+    "slug": "g-sharp-minor-the-weeknd-synth",
+    "batchId": 11
+  },
+  {
+    "type": "key",
+    "slug": "f-sharp-minor-northsidebenji-guitar",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ambient-trap-beats",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ovo-melodic-beats",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-canadian-drill-beats",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-dark-rnb-instrumentals",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "montreal-ambient-trap-beats",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "montreal-ovo-melodic-beats",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "montreal-canadian-drill-beats",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "montreal-dark-rnb-instrumentals",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "vancouver-ambient-trap-beats",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "vancouver-ovo-melodic-beats",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "vancouver-canadian-drill-beats",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "vancouver-dark-rnb-instrumentals",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "brampton-ambient-trap-beats",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "brampton-ovo-melodic-beats",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "brampton-canadian-drill-beats",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "brampton-dark-rnb-instrumentals",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "mississauga-ambient-trap-beats",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "mississauga-ovo-melodic-beats",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "mississauga-canadian-drill-beats",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "mississauga-dark-rnb-instrumentals",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "scarborough-ambient-trap-beats",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "scarborough-ovo-melodic-beats",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "scarborough-canadian-drill-beats",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "scarborough-dark-rnb-instrumentals",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "ottawa-ambient-trap-beats",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "ottawa-ovo-melodic-beats",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "ottawa-canadian-drill-beats",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "ottawa-dark-rnb-instrumentals",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "calgary-ambient-trap-beats",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "calgary-ovo-melodic-beats",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "calgary-canadian-drill-beats",
+    "batchId": 11
+  },
+  {
+    "type": "scene",
+    "slug": "calgary-dark-rnb-instrumentals",
+    "batchId": 11
   }
 ];
