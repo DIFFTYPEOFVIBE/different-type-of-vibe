@@ -21493,4 +21493,440 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
     }
   ]
 },
+  "co/envigado-antioquia": {
+  "name": "Colombia – Envigado & Sabaneta (El Sur del Valle de Aburrá)",
+  "flag": "🇨🇴",
+  "currency": "COP ($)",
+  "currencyCode": "COP",
+  "gateways": "Nequi, Daviplata, PSE, Tarjetas, Apple Pay",
+  "pro": "SAYCO & ACINPRO",
+  "proFullName": "SAYCO Colombia",
+  "proGuide": "100% legal ante SAYCO y DNDA con contrato descargable en PDF.",
+  "headline": "Beats en Envigado: Estudios de Élite, Reggaetón Paisa & Trap Melódico",
+  "description": "El polo de producción musical del sur del Valle de Aburrá: mezclas limpias, sintetizadores cálidos y bajos profundos para artistas que buscan sonido internacional.",
+  "popularGenres": [
+    "Reggaetón Envigadeño",
+    "Trap Paisa",
+    "Commercial Pop-Urban"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Colombia – Envigado & Sabaneta (El Sur del Valle de Aburrá)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SAYCO, ACINPRO y la DNDA?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la DNDA (Dirección Nacional de Derecho de Autor) y afiliar tu canción a SAYCO y ACINPRO sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Colombia?",
+      "answer": "En Pesos Colombianos (COP $), puedes pagar de forma instantánea a través de Nequi, Daviplata, PSE (transferencia bancaria desde Bancolombia, Davivienda, etc.), tarjetas de crédito/débito, Apple Pay y PayPal sin cargos ocultos de conversión."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "co/itagui-bello": {
+  "name": "Colombia – Itagüí & Bello (Fuerza Urbana del Valle de Aburrá)",
+  "flag": "🇨🇴",
+  "currency": "COP ($)",
+  "currencyCode": "COP",
+  "gateways": "Nequi, Daviplata, PSE, Tarjetas, Apple Pay",
+  "pro": "SAYCO & ACINPRO",
+  "proFullName": "SAYCO Colombia",
+  "proGuide": "Composiciones originales libres de reclamos de copyright.",
+  "headline": "Beats en Itagüí & Bello: Perreo Pesado, Trap de Calle & 808s con Pegada",
+  "description": "La energía industrial y de barrio: cajas de reggaetón con golpe seco, bajos demoledores y cadencia callejera para los nuevos exponentes del género urbano.",
+  "popularGenres": [
+    "Perreo de Barrio",
+    "Trap Industrial",
+    "Urbano Paisa"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Colombia – Itagüí & Bello (Fuerza Urbana del Valle de Aburrá)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SAYCO, ACINPRO y la DNDA?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la DNDA (Dirección Nacional de Derecho de Autor) y afiliar tu canción a SAYCO y ACINPRO sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Colombia?",
+      "answer": "En Pesos Colombianos (COP $), puedes pagar de forma instantánea a través de Nequi, Daviplata, PSE (transferencia bancaria desde Bancolombia, Davivienda, etc.), tarjetas de crédito/débito, Apple Pay y PayPal sin cargos ocultos de conversión."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "co/buenaventura-pacifico": {
+  "name": "Colombia – Buenaventura & Costa Pacífica (Cuna de la Salsa Choke)",
+  "flag": "🇨🇴",
+  "currency": "COP ($)",
+  "currencyCode": "COP",
+  "gateways": "Nequi, Daviplata, PSE, Tarjetas, Apple Pay",
+  "pro": "SAYCO & ACINPRO",
+  "proFullName": "SAYCO Colombia",
+  "proGuide": "Instrumentos tradicionales del Pacífico libres de copyright.",
+  "headline": "Beats en Buenaventura: Salsa Choke Auténtica, Marimba de Chonta & Afro-Trap",
+  "description": "El sabor ancestral del Pacífico colombiano: marimba de chonta en vivo, percusión de cununo y tamboras combinadas con bajos 808 arrolladores.",
+  "popularGenres": [
+    "Salsa Choke",
+    "Afro-Pacífico Trap",
+    "Urbano del Puerto"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Junior Jein Leyenda Vibe",
+      "slug": "../../vibe/junior-jein-salsa-choke-leyenda",
+      "description": "Salsa choke auténtica y percusión festiva del Pacífico."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Colombia – Buenaventura & Costa Pacífica (Cuna de la Salsa Choke)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SAYCO, ACINPRO y la DNDA?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la DNDA (Dirección Nacional de Derecho de Autor) y afiliar tu canción a SAYCO y ACINPRO sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Colombia?",
+      "answer": "En Pesos Colombianos (COP $), puedes pagar de forma instantánea a través de Nequi, Daviplata, PSE (transferencia bancaria desde Bancolombia, Davivienda, etc.), tarjetas de crédito/débito, Apple Pay y PayPal sin cargos ocultos de conversión."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "co/palmira-valle": {
+  "name": "Colombia – Palmira & Valle del Cauca (La Villa de las Palmas)",
+  "flag": "🇨🇴",
+  "currency": "COP ($)",
+  "currencyCode": "COP",
+  "gateways": "Nequi, Daviplata, PSE, Tarjetas, Apple Pay",
+  "pro": "SAYCO & ACINPRO",
+  "proFullName": "SAYCO Colombia",
+  "proGuide": "100% original con entrega de stems multitrack.",
+  "headline": "Beats en Palmira: Drill Caleño, Trap Callejero & Flow del Valle",
+  "description": "La conexión directa con la Sucursal del Cielo: bajos 808 deslizantes, campanas oscuras y ritmos sincopados de drill para rimas con actitud.",
+  "popularGenres": [
+    "Palmira Drill",
+    "Trap del Valle",
+    "Flow Callejero"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Colombia – Palmira & Valle del Cauca (La Villa de las Palmas)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SAYCO, ACINPRO y la DNDA?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la DNDA (Dirección Nacional de Derecho de Autor) y afiliar tu canción a SAYCO y ACINPRO sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Colombia?",
+      "answer": "En Pesos Colombianos (COP $), puedes pagar de forma instantánea a través de Nequi, Daviplata, PSE (transferencia bancaria desde Bancolombia, Davivienda, etc.), tarjetas de crédito/débito, Apple Pay y PayPal sin cargos ocultos de conversión."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "co/neiva-huila": {
+  "name": "Colombia – Neiva & Huila (Valle del Alto Magdalena)",
+  "flag": "🇨🇴",
+  "currency": "COP ($)",
+  "currencyCode": "COP",
+  "gateways": "Nequi, Daviplata, PSE, Tarjetas, Apple Pay",
+  "pro": "SAYCO & ACINPRO",
+  "proFullName": "SAYCO Colombia",
+  "proGuide": "Garantía de autoría 100% original por Onzieb.",
+  "headline": "Beats en Neiva: Reggaetón Festivo, Sanjuanero Fusión & Trap Cálido",
+  "description": "La calidez del Alto Magdalena: guitarras sentidas, dembows bailables y bajos 808 profundos para encender tarimas y fiestas.",
+  "popularGenres": [
+    "Neiva Urbano",
+    "Reggaetón Cálido",
+    "Trap Huilense"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Colombia – Neiva & Huila (Valle del Alto Magdalena)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SAYCO, ACINPRO y la DNDA?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la DNDA (Dirección Nacional de Derecho de Autor) y afiliar tu canción a SAYCO y ACINPRO sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Colombia?",
+      "answer": "En Pesos Colombianos (COP $), puedes pagar de forma instantánea a través de Nequi, Daviplata, PSE (transferencia bancaria desde Bancolombia, Davivienda, etc.), tarjetas de crédito/débito, Apple Pay y PayPal sin cargos ocultos de conversión."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "co/armenia-quindio": {
+  "name": "Colombia – Armenia & Quindío (Paisaje Cafetero Urbano)",
+  "flag": "🇨🇴",
+  "currency": "COP ($)",
+  "currencyCode": "COP",
+  "gateways": "Nequi, Daviplata, PSE, Tarjetas, Apple Pay",
+  "pro": "SAYCO & ACINPRO",
+  "proFullName": "SAYCO Colombia",
+  "proGuide": "100% compatible con SAYCO.",
+  "headline": "Beats en Armenia: Guitarras Acústicas Suaves, Chillhop Cafetero & Trap Fino",
+  "description": "La tranquilidad del Quindío: arpegios acústicos limpios, pianos cálidos y baterías relajadas para canciones con sentimiento y elegancia.",
+  "popularGenres": [
+    "Quindío Chillhop",
+    "Acoustic Trap",
+    "Rap Cafetero"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Colombia – Armenia & Quindío (Paisaje Cafetero Urbano)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SAYCO, ACINPRO y la DNDA?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la DNDA (Dirección Nacional de Derecho de Autor) y afiliar tu canción a SAYCO y ACINPRO sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Colombia?",
+      "answer": "En Pesos Colombianos (COP $), puedes pagar de forma instantánea a través de Nequi, Daviplata, PSE (transferencia bancaria desde Bancolombia, Davivienda, etc.), tarjetas de crédito/débito, Apple Pay y PayPal sin cargos ocultos de conversión."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "co/manizales-caldas": {
+  "name": "Colombia – Manizales & Caldas (Ciudad Universitaria del Rap)",
+  "flag": "🇨🇴",
+  "currency": "COP ($)",
+  "currencyCode": "COP",
+  "gateways": "Nequi, Daviplata, PSE, Tarjetas, Apple Pay",
+  "pro": "SAYCO & ACINPRO",
+  "proFullName": "SAYCO Colombia",
+  "proGuide": "Derechos comerciales completos para lanzamientos mundiales.",
+  "headline": "Beats en Manizales: Rap Universitario, Boom Bap Poético & Trap de Montaña",
+  "description": "La altura de Manizales: rimas reflexivas, acordes de jazz suaves y bombos analógicos con espacio para MCs con mensaje y contenido.",
+  "popularGenres": [
+    "Rap Universitario",
+    "Boom Bap Poético",
+    "Manizales Sound"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Colombia – Manizales & Caldas (Ciudad Universitaria del Rap)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SAYCO, ACINPRO y la DNDA?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la DNDA (Dirección Nacional de Derecho de Autor) y afiliar tu canción a SAYCO y ACINPRO sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Colombia?",
+      "answer": "En Pesos Colombianos (COP $), puedes pagar de forma instantánea a través de Nequi, Daviplata, PSE (transferencia bancaria desde Bancolombia, Davivienda, etc.), tarjetas de crédito/débito, Apple Pay y PayPal sin cargos ocultos de conversión."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "co/monteria-cordoba": {
+  "name": "Colombia – Montería & Córdoba (Sabor del Sinú & Porró Trap)",
+  "flag": "🇨🇴",
+  "currency": "COP ($)",
+  "currencyCode": "COP",
+  "gateways": "Nequi, Daviplata, PSE, Tarjetas, Apple Pay",
+  "pro": "SAYCO & ACINPRO",
+  "proFullName": "SAYCO Colombia",
+  "proGuide": "100% legal ante SAYCO con entrega inmediata.",
+  "headline": "Beats en Montería: Porró Trap, Metales Sabaneros & Afro-Beat del Sinú",
+  "description": "El sabor caliente de las sabanas de Córdoba: trompetas de banda sabanera combinadas con percusiones de dancehall y dembows caribeños.",
+  "popularGenres": [
+    "Porró Trap",
+    "Afro-Beat Sabanero",
+    "Urbano del Sinú"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Colombia – Montería & Córdoba (Sabor del Sinú & Porró Trap)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SAYCO, ACINPRO y la DNDA?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la DNDA (Dirección Nacional de Derecho de Autor) y afiliar tu canción a SAYCO y ACINPRO sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Colombia?",
+      "answer": "En Pesos Colombianos (COP $), puedes pagar de forma instantánea a través de Nequi, Daviplata, PSE (transferencia bancaria desde Bancolombia, Davivienda, etc.), tarjetas de crédito/débito, Apple Pay y PayPal sin cargos ocultos de conversión."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "co/valledupar-cesar": {
+  "name": "Colombia – Valledupar & Cesar (Cuna del Vallenato Urbano)",
+  "flag": "🇨🇴",
+  "currency": "COP ($)",
+  "currencyCode": "COP",
+  "gateways": "Nequi, Daviplata, PSE, Tarjetas, Apple Pay",
+  "pro": "SAYCO & ACINPRO",
+  "proFullName": "SAYCO Colombia",
+  "proGuide": "100% libre de samples protegidos para monetizar en Spotify.",
+  "headline": "Beats en Valledupar: Acordeón Vallenato, Caja, Guacharaca & Trap Latino",
+  "description": "El encuentro entre la leyenda del vallenato y la música moderna: melodías tradicionales de acordeón diatónico sobre bajos 808 y percusiones de reggaetón.",
+  "popularGenres": [
+    "Vallenato Urbano",
+    "Acordeón Trap",
+    "Cumbia Urbana"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Colombia – Valledupar & Cesar (Cuna del Vallenato Urbano)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SAYCO, ACINPRO y la DNDA?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la DNDA (Dirección Nacional de Derecho de Autor) y afiliar tu canción a SAYCO y ACINPRO sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Colombia?",
+      "answer": "En Pesos Colombianos (COP $), puedes pagar de forma instantánea a través de Nequi, Daviplata, PSE (transferencia bancaria desde Bancolombia, Davivienda, etc.), tarjetas de crédito/débito, Apple Pay y PayPal sin cargos ocultos de conversión."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "co/villavicencio-llanos": {
+  "name": "Colombia – Villavicencio & Llanos Orientales (Arpa & Trap)",
+  "flag": "🇨🇴",
+  "currency": "COP ($)",
+  "currencyCode": "COP",
+  "gateways": "Nequi, Daviplata, PSE, Tarjetas, Apple Pay",
+  "pro": "SAYCO & ACINPRO",
+  "proFullName": "SAYCO Colombia",
+  "proGuide": "100% listo para distribución comercial en plataformas digitales.",
+  "headline": "Beats en Villavicencio: Arpa Llanera Fusión, Cuatro & Trap de Vanguardia",
+  "description": "El llano adentro se une al movimiento urbano: arpegios virtuosos de arpa llanera y cuatro tradicional sobre baterías contundentes de trap.",
+  "popularGenres": [
+    "Llanero Trap",
+    "Arpa Fusión",
+    "Urbano de los Llanos"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Colombia – Villavicencio & Llanos Orientales (Arpa & Trap)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SAYCO, ACINPRO y la DNDA?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la DNDA (Dirección Nacional de Derecho de Autor) y afiliar tu canción a SAYCO y ACINPRO sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Colombia?",
+      "answer": "En Pesos Colombianos (COP $), puedes pagar de forma instantánea a través de Nequi, Daviplata, PSE (transferencia bancaria desde Bancolombia, Davivienda, etc.), tarjetas de crédito/débito, Apple Pay y PayPal sin cargos ocultos de conversión."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
 };
