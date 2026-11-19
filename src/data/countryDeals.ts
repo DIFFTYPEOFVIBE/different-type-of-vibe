@@ -15079,4 +15079,469 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
     }
   ]
 },
+  "se/hasselby": {
+  "name": "Sverige – Hässelby & Västerort (Greekazo Sound)",
+  "flag": "🇸🇪",
+  "currency": "SEK (kr)",
+  "currencyCode": "SEK",
+  "gateways": "Swish, Klarna, Apple Pay, Google Pay, BankID, Kort, PayPal, Stripe",
+  "pro": "STIM & SAMI",
+  "proFullName": "Svenska Tonsättares Internationella Musikbyrå (STIM)",
+  "proGuide": "100% STIM-godkänd för kommersiell streaming på Spotify och radio.",
+  "headline": "Hässelby Beats Kopen: Bouncy Drill, Flöjter & Snabba 808s",
+  "description": "Det studsiga, energiska gatusoundet från Hässelby och Västerort. Medryckande flöjtslingor och snabba drillrytmer inspirerade av Greekazo.",
+  "popularGenres": [
+    "Hässelby Drill",
+    "Västerort Rap",
+    "Bouncy 808s",
+    "Greekazo Style"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Greekazo Style Vibe",
+      "slug": "../../vibe/greekazo-hasselby-bouncy-drill",
+      "description": "Studsiga flöjter och snabb energisk drill."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Kan jag släppa låtar inspelade med dessa beats på Spotify, Apple Music och YouTube i Sverige – Hässelby & Västerort (Greekazo Sound)?",
+      "answer": "Ja, till 100%! Alla WAV- och MP3-licenser från Different Type of Vibe inkluderar fullständiga kommersiella streamingrättigheter för Spotify, Apple Music, YouTube, Deezer, TikTok och radio. Du behåller 100% av dina master-royalties som artist."
+    },
+    {
+      "question": "Är beatsen godkända för STIM & SAMI och fria från otillåtna samplingar?",
+      "answer": "Ja! Alla instrumentaler är 100% originalkompositioner producerade av Onzieb. Inga otillåtna samplingar från tredje part har använts. Du kan tryggt registrera din text och ditt verk hos STIM & SAMI."
+    },
+    {
+      "question": "Vilka betalningsmetoder stöds i Norden?",
+      "answer": "Du kan betala smidigt och säkert med Swish, Klarna, Apple Pay, Google Pay, BankID, Kort, PayPal, Stripe."
+    },
+    {
+      "question": "Hur snabbt får jag mina otaggade studiofiler?",
+      "answer": "Direkt efter slutförd betalning levereras dina otaggade (utan rösttagg) 24-bit studio WAV-filer, högkvalitativa MP3-filer och ett juridiskt giltigt PDF-licensavtal automatiskt till din e-postadress."
+    }
+  ]
+},
+  "se/sodermalm": {
+  "name": "Sverige – Södermalm (Sad Boys & Cloud Rap Cradle)",
+  "flag": "🇸🇪",
+  "currency": "SEK (kr)",
+  "currencyCode": "SEK",
+  "gateways": "Swish, Klarna, Apple Pay, Google Pay, BankID, Kort, PayPal",
+  "pro": "STIM & SAMI",
+  "proFullName": "Svenska Tonsättares Internationella Musikbyrå (STIM)",
+  "proGuide": "100% godkänd för STIM och internationell digital distribution.",
+  "headline": "Södermalm Beats: Ethereal Cloud Rap, Drain Gang Synths & Ambient Trap",
+  "description": "Vaggan för Sad Boys och Drain Gang. Shimmrande kristallsynthar, svävande pads och autotunade melodier för kreativa artister på Södermalm.",
+  "popularGenres": [
+    "Södermalm Cloud Rap",
+    "Drain Gang Sound",
+    "Ethereal Trap",
+    "Sad Boys Vibe"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Bladee Ethereal Vibe",
+      "slug": "../../vibe/bladee-drain-gang-ethereal-trap",
+      "description": "Shimmrande synthar och drömsk hyper-melodisk trap."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Kan jag släppa låtar inspelade med dessa beats på Spotify, Apple Music och YouTube i Sverige – Södermalm (Sad Boys & Cloud Rap Cradle)?",
+      "answer": "Ja, till 100%! Alla WAV- och MP3-licenser från Different Type of Vibe inkluderar fullständiga kommersiella streamingrättigheter för Spotify, Apple Music, YouTube, Deezer, TikTok och radio. Du behåller 100% av dina master-royalties som artist."
+    },
+    {
+      "question": "Är beatsen godkända för STIM & SAMI och fria från otillåtna samplingar?",
+      "answer": "Ja! Alla instrumentaler är 100% originalkompositioner producerade av Onzieb. Inga otillåtna samplingar från tredje part har använts. Du kan tryggt registrera din text och ditt verk hos STIM & SAMI."
+    },
+    {
+      "question": "Vilka betalningsmetoder stöds i Norden?",
+      "answer": "Du kan betala smidigt och säkert med Swish, Klarna, Apple Pay, Google Pay, BankID, Kort, PayPal."
+    },
+    {
+      "question": "Hur snabbt får jag mina otaggade studiofiler?",
+      "answer": "Direkt efter slutförd betalning levereras dina otaggade (utan rösttagg) 24-bit studio WAV-filer, högkvalitativa MP3-filer och ett juridiskt giltigt PDF-licensavtal automatiskt till din e-postadress."
+    }
+  ]
+},
+  "se/linkoping": {
+  "name": "Sverige – Linköping & Östergötland Urban Hub",
+  "flag": "🇸🇪",
+  "currency": "SEK (kr)",
+  "currencyCode": "SEK",
+  "gateways": "Swish, Klarna, Apple Pay, Google Pay, BankID, Kort, PayPal",
+  "pro": "STIM & SAMI",
+  "proFullName": "Svenska Tonsättares Internationella Musikbyrå (STIM)",
+  "proGuide": "100% STIM-kompatibel med direkt nedladdning via Swish.",
+  "headline": "Linköping Beats: Östgötsk Trap, Svensk Drill & Melodiska 808s",
+  "description": "Tunga trapbasar och melankoliska ackordföljder för artister i Linköping, Norrköping och Östergötland.",
+  "popularGenres": [
+    "Östgötsk Trap",
+    "Linköping Hiphop",
+    "Melodisk 808"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Kan jag släppa låtar inspelade med dessa beats på Spotify, Apple Music och YouTube i Sverige – Linköping & Östergötland Urban Hub?",
+      "answer": "Ja, till 100%! Alla WAV- och MP3-licenser från Different Type of Vibe inkluderar fullständiga kommersiella streamingrättigheter för Spotify, Apple Music, YouTube, Deezer, TikTok och radio. Du behåller 100% av dina master-royalties som artist."
+    },
+    {
+      "question": "Är beatsen godkända för STIM & SAMI och fria från otillåtna samplingar?",
+      "answer": "Ja! Alla instrumentaler är 100% originalkompositioner producerade av Onzieb. Inga otillåtna samplingar från tredje part har använts. Du kan tryggt registrera din text och ditt verk hos STIM & SAMI."
+    },
+    {
+      "question": "Vilka betalningsmetoder stöds i Norden?",
+      "answer": "Du kan betala smidigt och säkert med Swish, Klarna, Apple Pay, Google Pay, BankID, Kort, PayPal."
+    },
+    {
+      "question": "Hur snabbt får jag mina otaggade studiofiler?",
+      "answer": "Direkt efter slutförd betalning levereras dina otaggade (utan rösttagg) 24-bit studio WAV-filer, högkvalitativa MP3-filer och ett juridiskt giltigt PDF-licensavtal automatiskt till din e-postadress."
+    }
+  ]
+},
+  "no/bergen": {
+  "name": "Norge – Bergen (Kamelen & Bergensbølgen Hiphop)",
+  "flag": "🇳🇴",
+  "currency": "NOK (kr)",
+  "currencyCode": "NOK",
+  "gateways": "Vipps, Apple Pay, Google Pay, Kort, Klarna, Stripe",
+  "pro": "TONO & Gramo",
+  "proFullName": "TONO (Norsk selskap for forvaltning av musikkrettigheter)",
+  "proGuide": "100% TONO-godkjent for norske artister og festivalreleaser.",
+  "headline": "Kjøpe Beats i Bergen: Bergensbølgen, Rå Gaterap & Tunge 808s med Vipps",
+  "description": "Det kompromissløse, regntunge gaterap-soundet fra Bergen. Fete, uklippede trommer og mørke moll-akkorder inspirert av Kamelen, Dårlig Vane og Lars Vaular.",
+  "popularGenres": [
+    "Bergensrap",
+    "Kamelen Style",
+    "Gaterap",
+    "Tunge Basser"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Kamelen Hardcore Vibe",
+      "slug": "../../vibe/kamelen-bergen-hardcore-gaturap",
+      "description": "Rå bergensk gaterap med tunge 808s."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Kan jag släppa låtar inspelade med dessa beats på Spotify, Apple Music och YouTube i Norge – Bergen (Kamelen & Bergensbølgen Hiphop)?",
+      "answer": "Ja, till 100%! Alla WAV- och MP3-licenser från Different Type of Vibe inkluderar fullständiga kommersiella streamingrättigheter för Spotify, Apple Music, YouTube, Deezer, TikTok och radio. Du behåller 100% av dina master-royalties som artist."
+    },
+    {
+      "question": "Är beatsen godkända för TONO & Gramo och fria från otillåtna samplingar?",
+      "answer": "Ja! Alla instrumentaler är 100% originalkompositioner producerade av Onzieb. Inga otillåtna samplingar från tredje part har använts. Du kan tryggt registrera din text och ditt verk hos TONO & Gramo."
+    },
+    {
+      "question": "Vilka betalningsmetoder stöds i Norden?",
+      "answer": "Du kan betala smidigt och säkert med Vipps, Apple Pay, Google Pay, Kort, Klarna, Stripe."
+    },
+    {
+      "question": "Hur snabbt får jag mina otaggade studiofiler?",
+      "answer": "Direkt efter slutförd betalning levereras dina otaggade (utan rösttagg) 24-bit studio WAV-filer, högkvalitativa MP3-filer och ett juridiskt giltigt PDF-licensavtal automatiskt till din e-postadress."
+    }
+  ]
+},
+  "no/trondheim": {
+  "name": "Norge – Trondheim & Trøndelag Hiphop Hub",
+  "flag": "🇳🇴",
+  "currency": "NOK (kr)",
+  "currencyCode": "NOK",
+  "gateways": "Vipps, Apple Pay, Google Pay, Kort, Klarna",
+  "pro": "TONO & Gramo",
+  "proFullName": "TONO (Norsk selskap for forvaltning av musikkrettigheter)",
+  "proGuide": "100% TONO-godkjent for Spotify og NRK P3.",
+  "headline": "Trondheim Beats: Trøndersk Rap, Hard Drill & Moderne Trap",
+  "description": "Kraftfulle beats med dype subbasser og fengende melodier for artister i Trondheim og Trøndelag.",
+  "popularGenres": [
+    "Trønderrap",
+    "Trondheim Trap",
+    "Mørk Drill"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Kan jag släppa låtar inspelade med dessa beats på Spotify, Apple Music och YouTube i Norge – Trondheim & Trøndelag Hiphop Hub?",
+      "answer": "Ja, till 100%! Alla WAV- och MP3-licenser från Different Type of Vibe inkluderar fullständiga kommersiella streamingrättigheter för Spotify, Apple Music, YouTube, Deezer, TikTok och radio. Du behåller 100% av dina master-royalties som artist."
+    },
+    {
+      "question": "Är beatsen godkända för TONO & Gramo och fria från otillåtna samplingar?",
+      "answer": "Ja! Alla instrumentaler är 100% originalkompositioner producerade av Onzieb. Inga otillåtna samplingar från tredje part har använts. Du kan tryggt registrera din text och ditt verk hos TONO & Gramo."
+    },
+    {
+      "question": "Vilka betalningsmetoder stöds i Norden?",
+      "answer": "Du kan betala smidigt och säkert med Vipps, Apple Pay, Google Pay, Kort, Klarna."
+    },
+    {
+      "question": "Hur snabbt får jag mina otaggade studiofiler?",
+      "answer": "Direkt efter slutförd betalning levereras dina otaggade (utan rösttagg) 24-bit studio WAV-filer, högkvalitativa MP3-filer och ett juridiskt giltigt PDF-licensavtal automatiskt till din e-postadress."
+    }
+  ]
+},
+  "dk/aarhus": {
+  "name": "Danmark – Aarhus (Shooter Gang & Dansk Masked Drill)",
+  "flag": "🇩🇰",
+  "currency": "DKK (kr)",
+  "currencyCode": "DKK",
+  "gateways": "MobilePay, Apple Pay, Google Pay, Kort, Klarna",
+  "pro": "Koda & Gramex",
+  "proFullName": "Koda (Selskab for forvaltning af musikrettigheder i Danmark)",
+  "proGuide": "100% Koda-godkendt med juridisk gyldig licensaftale.",
+  "headline": "Aarhus Beats: Dansk Masked Drill, Shooter Gang Sound & Tunge 808s",
+  "description": "Det mørke, rå jyske drill-sound inspireret af Shooter Gang og Marwan. Aggressive glidende 808-basser og hurtige hi-hats for rappere i Aarhus og Jylland.",
+  "popularGenres": [
+    "Aarhus Drill",
+    "Shooter Gang Style",
+    "Jysk Gaderap",
+    "Mørk Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Shooter Gang Drill Vibe",
+      "slug": "../../vibe/shooter-gang-aarhus-dansk-drill",
+      "description": "Aggressiv dansk maske-drill med glidende 808s."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Kan jag släppa låtar inspelade med dessa beats på Spotify, Apple Music och YouTube i Danmark – Aarhus (Shooter Gang & Dansk Masked Drill)?",
+      "answer": "Ja, till 100%! Alla WAV- och MP3-licenser från Different Type of Vibe inkluderar fullständiga kommersiella streamingrättigheter för Spotify, Apple Music, YouTube, Deezer, TikTok och radio. Du behåller 100% av dina master-royalties som artist."
+    },
+    {
+      "question": "Är beatsen godkända för Koda & Gramex och fria från otillåtna samplingar?",
+      "answer": "Ja! Alla instrumentaler är 100% originalkompositioner producerade av Onzieb. Inga otillåtna samplingar från tredje part har använts. Du kan tryggt registrera din text och ditt verk hos Koda & Gramex."
+    },
+    {
+      "question": "Vilka betalningsmetoder stöds i Norden?",
+      "answer": "Du kan betala smidigt och säkert med MobilePay, Apple Pay, Google Pay, Kort, Klarna."
+    },
+    {
+      "question": "Hur snabbt får jag mina otaggade studiofiler?",
+      "answer": "Direkt efter slutförd betalning levereras dina otaggade (utan rösttagg) 24-bit studio WAV-filer, högkvalitativa MP3-filer och ett juridiskt giltigt PDF-licensavtal automatiskt till din e-postadress."
+    }
+  ]
+},
+  "fi/helsinki": {
+  "name": "Finland – Helsinki (Suomirap, Cledos & Nordic Trap)",
+  "flag": "🇫🇮",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "Apple Pay, Google Pay, Kort, MobilePay, Klarna, Stripe",
+  "pro": "Teosto & Gramex",
+  "proFullName": "Teosto (Säveltäjäin Tekijänoikeustoimisto Teosto)",
+  "proGuide": "100% Teosto-yhteensopiva kaupallinen lisenssi. Täydet oikeudet Spotify Finland- ja radiojulkaisuihin.",
+  "headline": "Osta Biittejä Helsingissä: Suomirap, Cledos Style & Pohjoismainen Trap",
+  "description": "Helsingin huippuluokan modernit trap-biitit, tarttuvat autotune-melodiat ja raskaat 808-bassot suomalaisille rap-artisteille (Cledos, Ibe, Gettomasa).",
+  "popularGenres": [
+    "Suomirap",
+    "Helsinki Trap",
+    "Cledos Style",
+    "Pohjoismainen Drill"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Cledos Melodic Vibe",
+      "slug": "../../vibe/cledos-helsinki-melodic-trap-suomi",
+      "description": "Tarttuva autotune-trap ja melodinen klubibounce."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Kan jag släppa låtar inspelade med dessa beats på Spotify, Apple Music och YouTube i Finland – Helsinki (Suomirap, Cledos & Nordic Trap)?",
+      "answer": "Ja, till 100%! Alla WAV- och MP3-licenser från Different Type of Vibe inkluderar fullständiga kommersiella streamingrättigheter för Spotify, Apple Music, YouTube, Deezer, TikTok och radio. Du behåller 100% av dina master-royalties som artist."
+    },
+    {
+      "question": "Är beatsen godkända för Teosto & Gramex och fria från otillåtna samplingar?",
+      "answer": "Ja! Alla instrumentaler är 100% originalkompositioner producerade av Onzieb. Inga otillåtna samplingar från tredje part har använts. Du kan tryggt registrera din text och ditt verk hos Teosto & Gramex."
+    },
+    {
+      "question": "Vilka betalningsmetoder stöds i Norden?",
+      "answer": "Du kan betala smidigt och säkert med Apple Pay, Google Pay, Kort, MobilePay, Klarna, Stripe."
+    },
+    {
+      "question": "Hur snabbt får jag mina otaggade studiofiler?",
+      "answer": "Direkt efter slutförd betalning levereras dina otaggade (utan rösttagg) 24-bit studio WAV-filer, högkvalitativa MP3-filer och ett juridiskt giltigt PDF-licensavtal automatiskt till din e-postadress."
+    }
+  ]
+},
+  "se/helsingborg": {
+  "name": "Sverige – Helsingborg & Skånekusten (Kustrap & Drill)",
+  "flag": "🇸🇪",
+  "currency": "SEK (kr)",
+  "currencyCode": "SEK",
+  "gateways": "Swish, Klarna, Apple Pay, Google Pay, BankID, Kort, PayPal",
+  "pro": "STIM & SAMI",
+  "proFullName": "Svenska Tonsättares Internationella Musikbyrå (STIM)",
+  "proGuide": "100% STIM-godkänd med direktleverans.",
+  "headline": "Helsingborg Beats: Skånsk Kustrap, Tunga 808s & Melodisk Drill",
+  "description": "Rullande basgångar och melodiska synthar för inspelningar i Helsingborg och västra Skåne.",
+  "popularGenres": [
+    "Helsingborg Rap",
+    "Kustdrill",
+    "Skånsk Melodisk Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Kan jag släppa låtar inspelade med dessa beats på Spotify, Apple Music och YouTube i Sverige – Helsingborg & Skånekusten (Kustrap & Drill)?",
+      "answer": "Ja, till 100%! Alla WAV- och MP3-licenser från Different Type of Vibe inkluderar fullständiga kommersiella streamingrättigheter för Spotify, Apple Music, YouTube, Deezer, TikTok och radio. Du behåller 100% av dina master-royalties som artist."
+    },
+    {
+      "question": "Är beatsen godkända för STIM & SAMI och fria från otillåtna samplingar?",
+      "answer": "Ja! Alla instrumentaler är 100% originalkompositioner producerade av Onzieb. Inga otillåtna samplingar från tredje part har använts. Du kan tryggt registrera din text och ditt verk hos STIM & SAMI."
+    },
+    {
+      "question": "Vilka betalningsmetoder stöds i Norden?",
+      "answer": "Du kan betala smidigt och säkert med Swish, Klarna, Apple Pay, Google Pay, BankID, Kort, PayPal."
+    },
+    {
+      "question": "Hur snabbt får jag mina otaggade studiofiler?",
+      "answer": "Direkt efter slutförd betalning levereras dina otaggade (utan rösttagg) 24-bit studio WAV-filer, högkvalitativa MP3-filer och ett juridiskt giltigt PDF-licensavtal automatiskt till din e-postadress."
+    }
+  ]
+},
+  "se/jonkoping": {
+  "name": "Sverige – Jönköping & Småland Urban Hub",
+  "flag": "🇸🇪",
+  "currency": "SEK (kr)",
+  "currencyCode": "SEK",
+  "gateways": "Swish, Klarna, Apple Pay, Google Pay, BankID, Kort, PayPal",
+  "pro": "STIM & SAMI",
+  "proFullName": "Svenska Tonsättares Internationella Musikbyrå (STIM)",
+  "proGuide": "100% STIM-kompatibel med formellt PDF-avtal.",
+  "headline": "Jönköping Beats: Småländsk Trap, Svensk Drill & Melodiska Bounces",
+  "description": "Stilrena beats med balanserad ljudbild och krispiga trummor för artister i Jönköping och Småland.",
+  "popularGenres": [
+    "Småland Trap",
+    "Jönköping Hiphop",
+    "Melodiska Bounces"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Kan jag släppa låtar inspelade med dessa beats på Spotify, Apple Music och YouTube i Sverige – Jönköping & Småland Urban Hub?",
+      "answer": "Ja, till 100%! Alla WAV- och MP3-licenser från Different Type of Vibe inkluderar fullständiga kommersiella streamingrättigheter för Spotify, Apple Music, YouTube, Deezer, TikTok och radio. Du behåller 100% av dina master-royalties som artist."
+    },
+    {
+      "question": "Är beatsen godkända för STIM & SAMI och fria från otillåtna samplingar?",
+      "answer": "Ja! Alla instrumentaler är 100% originalkompositioner producerade av Onzieb. Inga otillåtna samplingar från tredje part har använts. Du kan tryggt registrera din text och ditt verk hos STIM & SAMI."
+    },
+    {
+      "question": "Vilka betalningsmetoder stöds i Norden?",
+      "answer": "Du kan betala smidigt och säkert med Swish, Klarna, Apple Pay, Google Pay, BankID, Kort, PayPal."
+    },
+    {
+      "question": "Hur snabbt får jag mina otaggade studiofiler?",
+      "answer": "Direkt efter slutförd betalning levereras dina otaggade (utan rösttagg) 24-bit studio WAV-filer, högkvalitativa MP3-filer och ett juridiskt giltigt PDF-licensavtal automatiskt till din e-postadress."
+    }
+  ]
+},
+  "no/stavanger": {
+  "name": "Norge – Stavanger & Rogaland Rap Scene",
+  "flag": "🇳🇴",
+  "currency": "NOK (kr)",
+  "currencyCode": "NOK",
+  "gateways": "Vipps, Apple Pay, Google Pay, Kort, Klarna",
+  "pro": "TONO & Gramo",
+  "proFullName": "TONO (Norsk selskap for forvaltning av musikkrettigheter)",
+  "proGuide": "100% TONO-godkjent for kommersiell strømming.",
+  "headline": "Stavanger Beats: Vestlandsk Hiphop, Oljeby-Trap & Hard Drill",
+  "description": "Moderne trap og drill med tunge basser for artister i Stavanger og Rogaland.",
+  "popularGenres": [
+    "Stavanger Rap",
+    "Vestlandsk Trap",
+    "Tunge 808s"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Kan jag släppa låtar inspelade med dessa beats på Spotify, Apple Music och YouTube i Norge – Stavanger & Rogaland Rap Scene?",
+      "answer": "Ja, till 100%! Alla WAV- och MP3-licenser från Different Type of Vibe inkluderar fullständiga kommersiella streamingrättigheter för Spotify, Apple Music, YouTube, Deezer, TikTok och radio. Du behåller 100% av dina master-royalties som artist."
+    },
+    {
+      "question": "Är beatsen godkända för TONO & Gramo och fria från otillåtna samplingar?",
+      "answer": "Ja! Alla instrumentaler är 100% originalkompositioner producerade av Onzieb. Inga otillåtna samplingar från tredje part har använts. Du kan tryggt registrera din text och ditt verk hos TONO & Gramo."
+    },
+    {
+      "question": "Vilka betalningsmetoder stöds i Norden?",
+      "answer": "Du kan betala smidigt och säkert med Vipps, Apple Pay, Google Pay, Kort, Klarna."
+    },
+    {
+      "question": "Hur snabbt får jag mina otaggade studiofiler?",
+      "answer": "Direkt efter slutförd betalning levereras dina otaggade (utan rösttagg) 24-bit studio WAV-filer, högkvalitativa MP3-filer och ett juridiskt giltigt PDF-licensavtal automatiskt till din e-postadress."
+    }
+  ]
+},
 };

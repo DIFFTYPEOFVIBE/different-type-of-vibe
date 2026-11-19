@@ -1,6 +1,6 @@
 // src/data/stagedClusters.ts
-// Programmatic SEO Staged Batch Cluster Ledger - Global Top 13 Complete Footprint (Sweden & Scandinavia)
-// Deployed automatically by scripts/deploy_sweden_pseo.py
+// Programmatic SEO Staged Batch Cluster Ledger - Global Top 13 Complete Footprint (Sweden Wave 2 Complete)
+// Deployed automatically by scripts/deploy_wave2_sweden_pseo.py
 
 export interface StagedClusterItem {
   type: 'vibe' | 'genre' | 'mood' | 'bpm' | 'key' | 'scene' | 'instrument' | 'blog';
@@ -10228,5 +10228,355 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "type": "scene",
     "slug": "copenhagen-nordic-boom-bap",
     "batchId": 26
+  },
+  {
+    "type": "scene",
+    "slug": "hasselby-vasterort-drill",
+    "batchId": 27
+  },
+  {
+    "type": "scene",
+    "slug": "sodermalm-drain-gang-cradle",
+    "batchId": 27
+  },
+  {
+    "type": "scene",
+    "slug": "linkoping-ostergotland-trap",
+    "batchId": 27
+  },
+  {
+    "type": "scene",
+    "slug": "bergen-bergensbolgen-gaterap",
+    "batchId": 27
+  },
+  {
+    "type": "scene",
+    "slug": "trondheim-trondersk-drill",
+    "batchId": 27
+  },
+  {
+    "type": "scene",
+    "slug": "aarhus-shooter-gang-drill",
+    "batchId": 27
+  },
+  {
+    "type": "scene",
+    "slug": "helsinki-suomirap-trap",
+    "batchId": 27
+  },
+  {
+    "type": "scene",
+    "slug": "helsingborg-skansk-drill",
+    "batchId": 27
+  },
+  {
+    "type": "scene",
+    "slug": "jonkoping-smaland-trap",
+    "batchId": 27
+  },
+  {
+    "type": "scene",
+    "slug": "stavanger-oljeby-trap",
+    "batchId": 27
+  },
+  {
+    "type": "scene",
+    "slug": "angared-goteborg-street-rap",
+    "batchId": 27
+  },
+  {
+    "type": "scene",
+    "slug": "biskopsgarden-drill-beats",
+    "batchId": 27
+  },
+  {
+    "type": "vibe",
+    "slug": "yung-lean-kyoto-vintage-synth-trap",
+    "batchId": 27
+  },
+  {
+    "type": "vibe",
+    "slug": "bladee-crest-ambient-pop-trap",
+    "batchId": 27
+  },
+  {
+    "type": "vibe",
+    "slug": "ecco2k-peroxide-falsetto-trap",
+    "batchId": 27
+  },
+  {
+    "type": "vibe",
+    "slug": "thaiboy-digital-legendary-member",
+    "batchId": 27
+  },
+  {
+    "type": "vibe",
+    "slug": "whitearmor-cold-visions-synth-pads",
+    "batchId": 27
+  },
+  {
+    "type": "vibe",
+    "slug": "yasin-del-tva-cinematic-drill",
+    "batchId": 27
+  },
+  {
+    "type": "vibe",
+    "slug": "ant-wan-leyha-guitar-pain-trap",
+    "batchId": 27
+  },
+  {
+    "type": "vibe",
+    "slug": "dree-low-flocka-aggressive-rinkeby",
+    "batchId": 27
+  },
+  {
+    "type": "vibe",
+    "slug": "kamelen-bergen-hardcore-gaturap",
+    "batchId": 27
+  },
+  {
+    "type": "vibe",
+    "slug": "shooter-gang-aarhus-dansk-drill",
+    "batchId": 27
+  },
+  {
+    "type": "vibe",
+    "slug": "cledos-helsinki-melodic-trap-suomi",
+    "batchId": 27
+  },
+  {
+    "type": "vibe",
+    "slug": "gettomasa-jyvaskyla-boombap-flow",
+    "batchId": 27
+  },
+  {
+    "type": "vibe",
+    "slug": "haval-kallt-stockholm-dark-drill",
+    "batchId": 27
+  },
+  {
+    "type": "vibe",
+    "slug": "23-feeling-melodic-drill-sweden",
+    "batchId": 27
+  },
+  {
+    "type": "vibe",
+    "slug": "aden-asme-12-timmar-trap",
+    "batchId": 27
+  },
+  {
+    "type": "genre",
+    "slug": "swish-betalning-beats-sverige",
+    "batchId": 27
+  },
+  {
+    "type": "genre",
+    "slug": "kulturradet-musikstod-beat-leases",
+    "batchId": 27
+  },
+  {
+    "type": "genre",
+    "slug": "nordisk-drill-beats-med-stems",
+    "batchId": 27
+  },
+  {
+    "type": "genre",
+    "slug": "svensk-cloud-rap-instrumentaler-wav",
+    "batchId": 27
+  },
+  {
+    "type": "genre",
+    "slug": "norsk-hiphop-beats-med-vipps",
+    "batchId": 27
+  },
+  {
+    "type": "genre",
+    "slug": "dansk-drill-beats-med-mobilepay",
+    "batchId": 27
+  },
+  {
+    "type": "genre",
+    "slug": "suomirap-trap-biitit-helsinki",
+    "batchId": 27
+  },
+  {
+    "type": "genre",
+    "slug": "bankid-verifierade-beat-kop",
+    "batchId": 27
+  },
+  {
+    "type": "genre",
+    "slug": "kommersiell-musiklicens-scandinavia-spotify",
+    "batchId": 27
+  },
+  {
+    "type": "genre",
+    "slug": "svenska-producenter-trap-beats-kop",
+    "batchId": 27
+  },
+  {
+    "type": "genre",
+    "slug": "nordic-streaming-cleared-instrumentals",
+    "batchId": 27
+  },
+  {
+    "type": "genre",
+    "slug": "helsinki-underground-rap-beats",
+    "batchId": 27
+  },
+  {
+    "type": "bpm",
+    "slug": "138-bpm-nordic-drill-beats",
+    "batchId": 27
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-rinkeby-fast-drill",
+    "batchId": 27
+  },
+  {
+    "type": "bpm",
+    "slug": "128-bpm-sad-boys-cloud-trap",
+    "batchId": 27
+  },
+  {
+    "type": "bpm",
+    "slug": "92-bpm-scandinavian-melodic-rap",
+    "batchId": 27
+  },
+  {
+    "type": "bpm",
+    "slug": "100-bpm-nordic-afro-dancehall",
+    "batchId": 27
+  },
+  {
+    "type": "key",
+    "slug": "b-minor-nordic-drill-beats",
+    "batchId": 27
+  },
+  {
+    "type": "key",
+    "slug": "f-sharp-minor-yung-lean-ambient",
+    "batchId": 27
+  },
+  {
+    "type": "key",
+    "slug": "c-sharp-minor-rinkeby-street-drill",
+    "batchId": 27
+  },
+  {
+    "type": "key",
+    "slug": "e-minor-bladee-drain-gang-synths",
+    "batchId": 27
+  },
+  {
+    "type": "scene",
+    "slug": "stockholm-nordic-drill-beats",
+    "batchId": 27
+  },
+  {
+    "type": "scene",
+    "slug": "stockholm-skandinavisk-boombap",
+    "batchId": 27
+  },
+  {
+    "type": "scene",
+    "slug": "goteborg-nordic-drill-beats",
+    "batchId": 27
+  },
+  {
+    "type": "scene",
+    "slug": "goteborg-skandinavisk-boombap",
+    "batchId": 27
+  },
+  {
+    "type": "scene",
+    "slug": "malmo-nordic-drill-beats",
+    "batchId": 27
+  },
+  {
+    "type": "scene",
+    "slug": "malmo-skandinavisk-boombap",
+    "batchId": 27
+  },
+  {
+    "type": "scene",
+    "slug": "oslo-nordic-drill-beats",
+    "batchId": 27
+  },
+  {
+    "type": "scene",
+    "slug": "oslo-skandinavisk-boombap",
+    "batchId": 27
+  },
+  {
+    "type": "scene",
+    "slug": "bergen-nordic-drill-beats",
+    "batchId": 27
+  },
+  {
+    "type": "scene",
+    "slug": "bergen-cloud-rap-instrumentaler",
+    "batchId": 27
+  },
+  {
+    "type": "scene",
+    "slug": "bergen-melodisk-trap-beats",
+    "batchId": 27
+  },
+  {
+    "type": "scene",
+    "slug": "bergen-skandinavisk-boombap",
+    "batchId": 27
+  },
+  {
+    "type": "scene",
+    "slug": "copenhagen-nordic-drill-beats",
+    "batchId": 27
+  },
+  {
+    "type": "scene",
+    "slug": "copenhagen-skandinavisk-boombap",
+    "batchId": 27
+  },
+  {
+    "type": "scene",
+    "slug": "aarhus-nordic-drill-beats",
+    "batchId": 27
+  },
+  {
+    "type": "scene",
+    "slug": "aarhus-cloud-rap-instrumentaler",
+    "batchId": 27
+  },
+  {
+    "type": "scene",
+    "slug": "aarhus-melodisk-trap-beats",
+    "batchId": 27
+  },
+  {
+    "type": "scene",
+    "slug": "aarhus-skandinavisk-boombap",
+    "batchId": 27
+  },
+  {
+    "type": "scene",
+    "slug": "helsinki-nordic-drill-beats",
+    "batchId": 27
+  },
+  {
+    "type": "scene",
+    "slug": "helsinki-cloud-rap-instrumentaler",
+    "batchId": 27
+  },
+  {
+    "type": "scene",
+    "slug": "helsinki-melodisk-trap-beats",
+    "batchId": 27
+  },
+  {
+    "type": "scene",
+    "slug": "helsinki-skandinavisk-boombap",
+    "batchId": 27
   }
 ];
