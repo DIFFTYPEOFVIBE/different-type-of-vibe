@@ -17913,4 +17913,434 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
     }
   ]
 },
+  "tr/eskisehir": {
+  "name": "Türkiye – Eskişehir (Üniversite Gençlik & Bağımsız Hip-Hop)",
+  "flag": "🇹🇷",
+  "currency": "TRY (₺)",
+  "currencyCode": "TRY",
+  "gateways": "Papara, Troy, Kredi Kartı, Apple Pay, Google Pay",
+  "pro": "MESAM & MSG",
+  "proFullName": "Stowarzyszenie MESAM & MSG",
+  "proGuide": "%100 tescil uyumlu stüdyo lisansı.",
+  "headline": "Eskişehir Beatleri: Üniversite Havası, Melodik Trap & Lofi Hip-Hop",
+  "description": "Öğrenci kenti Eskişehir için yaratıcı ve taze prodüksiyonlar: melodik trap, lofi tınıları ve genç bağımsız vokalistler için temiz beatler.",
+  "popularGenres": [
+    "Eskişehir Trap",
+    "Gençlik Soundu",
+    "Melodik Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Bu altyapı üzerine kaydettiğim şarkıyı Türkiye – Eskişehir (Üniversite Gençlik & Bağımsız Hip-Hop) bölgesinde Spotify, Apple Music ve YouTube'da yayınlayabilir miyim?",
+      "answer": "Evet, kesinlikle %100! Different Type of Vibe'dan satın alınan tüm WAV ve MP3 lisansları, şarkınızı Spotify, Apple Music, YouTube, Deezer, TikTok ve radyolarda ticari olarak dağıtma hakkını eksiksiz içerir. Sanatçı ve icracı olarak tüm telif gelirlerinizin %100'ü size aittir."
+    },
+    {
+      "question": "Beatler MESAM ve MSG tescili için güvenli ve telifsiz mi?",
+      "answer": "Evet! Tüm altyapılar Onzieb tarafından üretilmiş %100 orijinal bestelerdir. Yetkisiz hiçbir örnekleme (sample) içermez. Şarkınızı MESAM, MSG ve MÜ-YAP'a hiçbir telif ihtarı (copyright claim) yaşamadan kaydedebilirsiniz."
+    },
+    {
+      "question": "Türkiye'de hangi ödeme yöntemleri geçerlidir?",
+      "answer": "Türk Lirası (TRY ₺) ile Papara, Troy logolu tüm yerli kartlar, Visa, Mastercard, Troy, Apple Pay, Google Pay ve Havale/EFT ile anında ve güvenle ödeme yapabilirsiniz."
+    },
+    {
+      "question": "Ses etiketi (voice tag) olmayan stüdyo dosyalarını ne zaman ve nasıl alırım?",
+      "answer": "Ödemeniz onaylandığı anda, ses etiketi bulunmayan stüdyo kalitesinde 24-bit WAV dosyası, yüksek kaliteli MP3 ve adınıza düzenlenmiş resmi PDF lisans sözleşmesi otomatik olarak e-posta adresinize gönderilir."
+    }
+  ]
+},
+  "tr/gaziantep": {
+  "name": "Türkiye – Gaziantep & Güneydoğu Sokak Hub",
+  "flag": "🇹🇷",
+  "currency": "TRY (₺)",
+  "currencyCode": "TRY",
+  "gateways": "Papara, Troy, Kredi Kartı, Apple Pay, Google Pay",
+  "pro": "MESAM & MSG",
+  "proFullName": "MESAM & MSG",
+  "proGuide": "100% yasal güvenceli MESAM kaydı.",
+  "headline": "Gaziantep Beatleri: Ağır Sokak Drill, Sert 808 Basları & Doğu Ruhu",
+  "description": "Gaziantep sokaklarının gücü: sert davul partisyonları, agresif bas yürüyüşleri ve tavizsiz vokal akışları için stüdyo WAV altyapıları.",
+  "popularGenres": [
+    "Gaziantep Drill",
+    "Sert 808",
+    "Sokak Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Bu altyapı üzerine kaydettiğim şarkıyı Türkiye – Gaziantep & Güneydoğu Sokak Hub bölgesinde Spotify, Apple Music ve YouTube'da yayınlayabilir miyim?",
+      "answer": "Evet, kesinlikle %100! Different Type of Vibe'dan satın alınan tüm WAV ve MP3 lisansları, şarkınızı Spotify, Apple Music, YouTube, Deezer, TikTok ve radyolarda ticari olarak dağıtma hakkını eksiksiz içerir. Sanatçı ve icracı olarak tüm telif gelirlerinizin %100'ü size aittir."
+    },
+    {
+      "question": "Beatler MESAM ve MSG tescili için güvenli ve telifsiz mi?",
+      "answer": "Evet! Tüm altyapılar Onzieb tarafından üretilmiş %100 orijinal bestelerdir. Yetkisiz hiçbir örnekleme (sample) içermez. Şarkınızı MESAM, MSG ve MÜ-YAP'a hiçbir telif ihtarı (copyright claim) yaşamadan kaydedebilirsiniz."
+    },
+    {
+      "question": "Türkiye'de hangi ödeme yöntemleri geçerlidir?",
+      "answer": "Türk Lirası (TRY ₺) ile Papara, Troy logolu tüm yerli kartlar, Visa, Mastercard, Troy, Apple Pay, Google Pay ve Havale/EFT ile anında ve güvenle ödeme yapabilirsiniz."
+    },
+    {
+      "question": "Ses etiketi (voice tag) olmayan stüdyo dosyalarını ne zaman ve nasıl alırım?",
+      "answer": "Ödemeniz onaylandığı anda, ses etiketi bulunmayan stüdyo kalitesinde 24-bit WAV dosyası, yüksek kaliteli MP3 ve adınıza düzenlenmiş resmi PDF lisans sözleşmesi otomatik olarak e-posta adresinize gönderilir."
+    }
+  ]
+},
+  "tr/trabzon": {
+  "name": "Türkiye – Trabzon & Karadeniz (Kemençe Trap Füzyonu)",
+  "flag": "🇹🇷",
+  "currency": "TRY (₺)",
+  "currencyCode": "TRY",
+  "gateways": "Papara, Troy, Kredi Kartı, Apple Pay, Google Pay",
+  "pro": "MESAM & MSG",
+  "proFullName": "MESAM & MSG",
+  "proGuide": "Orijinal telifsiz enstrüman kayıtları.",
+  "headline": "Trabzon Beatleri: Kemençe Ezgili Trap, Hızlı Ritim & Karadeniz Enerjisi",
+  "description": "Karadeniz'in hırçın dalgaları gibi hızlı ve enerjik: kemençe partisyonlarının modern trap davulları ve 808 baslarla buluşması.",
+  "popularGenres": [
+    "Karadeniz Trap",
+    "Kemençe Drill",
+    "Hızlı Ritim"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Bu altyapı üzerine kaydettiğim şarkıyı Türkiye – Trabzon & Karadeniz (Kemençe Trap Füzyonu) bölgesinde Spotify, Apple Music ve YouTube'da yayınlayabilir miyim?",
+      "answer": "Evet, kesinlikle %100! Different Type of Vibe'dan satın alınan tüm WAV ve MP3 lisansları, şarkınızı Spotify, Apple Music, YouTube, Deezer, TikTok ve radyolarda ticari olarak dağıtma hakkını eksiksiz içerir. Sanatçı ve icracı olarak tüm telif gelirlerinizin %100'ü size aittir."
+    },
+    {
+      "question": "Beatler MESAM ve MSG tescili için güvenli ve telifsiz mi?",
+      "answer": "Evet! Tüm altyapılar Onzieb tarafından üretilmiş %100 orijinal bestelerdir. Yetkisiz hiçbir örnekleme (sample) içermez. Şarkınızı MESAM, MSG ve MÜ-YAP'a hiçbir telif ihtarı (copyright claim) yaşamadan kaydedebilirsiniz."
+    },
+    {
+      "question": "Türkiye'de hangi ödeme yöntemleri geçerlidir?",
+      "answer": "Türk Lirası (TRY ₺) ile Papara, Troy logolu tüm yerli kartlar, Visa, Mastercard, Troy, Apple Pay, Google Pay ve Havale/EFT ile anında ve güvenle ödeme yapabilirsiniz."
+    },
+    {
+      "question": "Ses etiketi (voice tag) olmayan stüdyo dosyalarını ne zaman ve nasıl alırım?",
+      "answer": "Ödemeniz onaylandığı anda, ses etiketi bulunmayan stüdyo kalitesinde 24-bit WAV dosyası, yüksek kaliteli MP3 ve adınıza düzenlenmiş resmi PDF lisans sözleşmesi otomatik olarak e-posta adresinize gönderilir."
+    }
+  ]
+},
+  "tr/samsun": {
+  "name": "Türkiye – Samsun (Sagopa Kajmer Roots & Nostaljik Boom Bap)",
+  "flag": "🇹🇷",
+  "currency": "TRY (₺)",
+  "currencyCode": "TRY",
+  "gateways": "Papara, Troy, Kredi Kartı, Apple Pay, Google Pay",
+  "pro": "MESAM & MSG",
+  "proFullName": "MESAM & MSG",
+  "proGuide": "Resmi MESAM lisans sözleşmesi anında PDF olarak teslim edilir.",
+  "headline": "Samsun Beatleri: Efsanevi Boom Bap, Melankolik Akorlar & Lirik Hip-Hop",
+  "description": "Samsun'un rap tarihindeki köklü yeri: duygusal piyano ezgileri, tok trampetler ve derin sözler için geniş frekans aralığı.",
+  "popularGenres": [
+    "Samsun Rap",
+    "Nostaljik Boom Bap",
+    "Lirik Hip Hop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Bu altyapı üzerine kaydettiğim şarkıyı Türkiye – Samsun (Sagopa Kajmer Roots & Nostaljik Boom Bap) bölgesinde Spotify, Apple Music ve YouTube'da yayınlayabilir miyim?",
+      "answer": "Evet, kesinlikle %100! Different Type of Vibe'dan satın alınan tüm WAV ve MP3 lisansları, şarkınızı Spotify, Apple Music, YouTube, Deezer, TikTok ve radyolarda ticari olarak dağıtma hakkını eksiksiz içerir. Sanatçı ve icracı olarak tüm telif gelirlerinizin %100'ü size aittir."
+    },
+    {
+      "question": "Beatler MESAM ve MSG tescili için güvenli ve telifsiz mi?",
+      "answer": "Evet! Tüm altyapılar Onzieb tarafından üretilmiş %100 orijinal bestelerdir. Yetkisiz hiçbir örnekleme (sample) içermez. Şarkınızı MESAM, MSG ve MÜ-YAP'a hiçbir telif ihtarı (copyright claim) yaşamadan kaydedebilirsiniz."
+    },
+    {
+      "question": "Türkiye'de hangi ödeme yöntemleri geçerlidir?",
+      "answer": "Türk Lirası (TRY ₺) ile Papara, Troy logolu tüm yerli kartlar, Visa, Mastercard, Troy, Apple Pay, Google Pay ve Havale/EFT ile anında ve güvenle ödeme yapabilirsiniz."
+    },
+    {
+      "question": "Ses etiketi (voice tag) olmayan stüdyo dosyalarını ne zaman ve nasıl alırım?",
+      "answer": "Ödemeniz onaylandığı anda, ses etiketi bulunmayan stüdyo kalitesinde 24-bit WAV dosyası, yüksek kaliteli MP3 ve adınıza düzenlenmiş resmi PDF lisans sözleşmesi otomatik olarak e-posta adresinize gönderilir."
+    }
+  ]
+},
+  "tr/konya": {
+  "name": "Türkiye – Konya & İç Anadolu Trap Hub",
+  "flag": "🇹🇷",
+  "currency": "TRY (₺)",
+  "currencyCode": "TRY",
+  "gateways": "Papara, Troy, Kredi Kartı, Apple Pay, Google Pay",
+  "pro": "MESAM & MSG",
+  "proFullName": "MESAM & MSG",
+  "proGuide": "%100 telifsiz ve ticari kullanıma uygun.",
+  "headline": "Konya Beatleri: Derin Subbaslar, Karanlık Atmosfer & Modern Trap",
+  "description": "Geniş bozkır hissi veren atmosferik synthler ve sert 808 vuruşlarıyla donatılmış Türkçe trap prodüksiyonları.",
+  "popularGenres": [
+    "Konya Trap",
+    "Karanlık Synth",
+    "Ağır 808"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Bu altyapı üzerine kaydettiğim şarkıyı Türkiye – Konya & İç Anadolu Trap Hub bölgesinde Spotify, Apple Music ve YouTube'da yayınlayabilir miyim?",
+      "answer": "Evet, kesinlikle %100! Different Type of Vibe'dan satın alınan tüm WAV ve MP3 lisansları, şarkınızı Spotify, Apple Music, YouTube, Deezer, TikTok ve radyolarda ticari olarak dağıtma hakkını eksiksiz içerir. Sanatçı ve icracı olarak tüm telif gelirlerinizin %100'ü size aittir."
+    },
+    {
+      "question": "Beatler MESAM ve MSG tescili için güvenli ve telifsiz mi?",
+      "answer": "Evet! Tüm altyapılar Onzieb tarafından üretilmiş %100 orijinal bestelerdir. Yetkisiz hiçbir örnekleme (sample) içermez. Şarkınızı MESAM, MSG ve MÜ-YAP'a hiçbir telif ihtarı (copyright claim) yaşamadan kaydedebilirsiniz."
+    },
+    {
+      "question": "Türkiye'de hangi ödeme yöntemleri geçerlidir?",
+      "answer": "Türk Lirası (TRY ₺) ile Papara, Troy logolu tüm yerli kartlar, Visa, Mastercard, Troy, Apple Pay, Google Pay ve Havale/EFT ile anında ve güvenle ödeme yapabilirsiniz."
+    },
+    {
+      "question": "Ses etiketi (voice tag) olmayan stüdyo dosyalarını ne zaman ve nasıl alırım?",
+      "answer": "Ödemeniz onaylandığı anda, ses etiketi bulunmayan stüdyo kalitesinde 24-bit WAV dosyası, yüksek kaliteli MP3 ve adınıza düzenlenmiş resmi PDF lisans sözleşmesi otomatik olarak e-posta adresinize gönderilir."
+    }
+  ]
+},
+  "tr/mersin": {
+  "name": "Türkiye – Mersin & Akdeniz Sahil Soundu",
+  "flag": "🇹🇷",
+  "currency": "TRY (₺)",
+  "currencyCode": "TRY",
+  "gateways": "Papara, Troy, Kredi Kartı, Apple Pay, Google Pay",
+  "pro": "MESAM & MSG",
+  "proFullName": "MESAM & MSG",
+  "proGuide": "Spotify ve Apple Music dağıtımı için %100 hazır.",
+  "headline": "Mersin Beatleri: Sıcak Sahil Havası, Afro-Trap & Melodik Drill",
+  "description": "Akdeniz'in sıcak ritmi: hareketli perküsyonlar, yazlık melodiler ve akıcı bas yürüyüşleri.",
+  "popularGenres": [
+    "Mersin Trap",
+    "Afro Trap",
+    "Melodik Drill"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Bu altyapı üzerine kaydettiğim şarkıyı Türkiye – Mersin & Akdeniz Sahil Soundu bölgesinde Spotify, Apple Music ve YouTube'da yayınlayabilir miyim?",
+      "answer": "Evet, kesinlikle %100! Different Type of Vibe'dan satın alınan tüm WAV ve MP3 lisansları, şarkınızı Spotify, Apple Music, YouTube, Deezer, TikTok ve radyolarda ticari olarak dağıtma hakkını eksiksiz içerir. Sanatçı ve icracı olarak tüm telif gelirlerinizin %100'ü size aittir."
+    },
+    {
+      "question": "Beatler MESAM ve MSG tescili için güvenli ve telifsiz mi?",
+      "answer": "Evet! Tüm altyapılar Onzieb tarafından üretilmiş %100 orijinal bestelerdir. Yetkisiz hiçbir örnekleme (sample) içermez. Şarkınızı MESAM, MSG ve MÜ-YAP'a hiçbir telif ihtarı (copyright claim) yaşamadan kaydedebilirsiniz."
+    },
+    {
+      "question": "Türkiye'de hangi ödeme yöntemleri geçerlidir?",
+      "answer": "Türk Lirası (TRY ₺) ile Papara, Troy logolu tüm yerli kartlar, Visa, Mastercard, Troy, Apple Pay, Google Pay ve Havale/EFT ile anında ve güvenle ödeme yapabilirsiniz."
+    },
+    {
+      "question": "Ses etiketi (voice tag) olmayan stüdyo dosyalarını ne zaman ve nasıl alırım?",
+      "answer": "Ödemeniz onaylandığı anda, ses etiketi bulunmayan stüdyo kalitesinde 24-bit WAV dosyası, yüksek kaliteli MP3 ve adınıza düzenlenmiş resmi PDF lisans sözleşmesi otomatik olarak e-posta adresinize gönderilir."
+    }
+  ]
+},
+  "tr/denizli": {
+  "name": "Türkiye – Denizli & Ege Trap Sound",
+  "flag": "🇹🇷",
+  "currency": "TRY (₺)",
+  "currencyCode": "TRY",
+  "gateways": "Papara, Troy, Kredi Kartı, Apple Pay, Google Pay",
+  "pro": "MESAM & MSG",
+  "proFullName": "MESAM & MSG",
+  "proGuide": "Resmi ticari lisans sözleşmesiyle birlikte gelir.",
+  "headline": "Denizli Beatleri: Enerjik Trap, Canlı Gitarlar & Zıplatan 808",
+  "description": "Ege'nin dinamik enerjisi: canlı gitar riffleri ve kulüp kalitesinde trap davulları.",
+  "popularGenres": [
+    "Denizli Trap",
+    "Gitar Riff",
+    "Enerjik 808"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Bu altyapı üzerine kaydettiğim şarkıyı Türkiye – Denizli & Ege Trap Sound bölgesinde Spotify, Apple Music ve YouTube'da yayınlayabilir miyim?",
+      "answer": "Evet, kesinlikle %100! Different Type of Vibe'dan satın alınan tüm WAV ve MP3 lisansları, şarkınızı Spotify, Apple Music, YouTube, Deezer, TikTok ve radyolarda ticari olarak dağıtma hakkını eksiksiz içerir. Sanatçı ve icracı olarak tüm telif gelirlerinizin %100'ü size aittir."
+    },
+    {
+      "question": "Beatler MESAM ve MSG tescili için güvenli ve telifsiz mi?",
+      "answer": "Evet! Tüm altyapılar Onzieb tarafından üretilmiş %100 orijinal bestelerdir. Yetkisiz hiçbir örnekleme (sample) içermez. Şarkınızı MESAM, MSG ve MÜ-YAP'a hiçbir telif ihtarı (copyright claim) yaşamadan kaydedebilirsiniz."
+    },
+    {
+      "question": "Türkiye'de hangi ödeme yöntemleri geçerlidir?",
+      "answer": "Türk Lirası (TRY ₺) ile Papara, Troy logolu tüm yerli kartlar, Visa, Mastercard, Troy, Apple Pay, Google Pay ve Havale/EFT ile anında ve güvenle ödeme yapabilirsiniz."
+    },
+    {
+      "question": "Ses etiketi (voice tag) olmayan stüdyo dosyalarını ne zaman ve nasıl alırım?",
+      "answer": "Ödemeniz onaylandığı anda, ses etiketi bulunmayan stüdyo kalitesinde 24-bit WAV dosyası, yüksek kaliteli MP3 ve adınıza düzenlenmiş resmi PDF lisans sözleşmesi otomatik olarak e-posta adresinize gönderilir."
+    }
+  ]
+},
+  "tr/sakarya": {
+  "name": "Türkiye – Sakarya & Doğu Marmara Hip-Hop",
+  "flag": "🇹🇷",
+  "currency": "TRY (₺)",
+  "currencyCode": "TRY",
+  "gateways": "Papara, Troy, Kredi Kartı, Apple Pay, Google Pay",
+  "pro": "MESAM & MSG",
+  "proFullName": "MESAM & MSG",
+  "proGuide": "%100 telifsiz ve orijinal müzik altyapıları.",
+  "headline": "Sakarya Beatleri: Sert Sokak Ruhu, Tok Trampetler & Yeni Drill",
+  "description": "Marmara sokaklarının gerçek sesi: tok vuruşlar, karanlık temalar ve akıcı trap davulları.",
+  "popularGenres": [
+    "Sakarya Rap",
+    "Sokak Trap",
+    "Yeni Drill"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Bu altyapı üzerine kaydettiğim şarkıyı Türkiye – Sakarya & Doğu Marmara Hip-Hop bölgesinde Spotify, Apple Music ve YouTube'da yayınlayabilir miyim?",
+      "answer": "Evet, kesinlikle %100! Different Type of Vibe'dan satın alınan tüm WAV ve MP3 lisansları, şarkınızı Spotify, Apple Music, YouTube, Deezer, TikTok ve radyolarda ticari olarak dağıtma hakkını eksiksiz içerir. Sanatçı ve icracı olarak tüm telif gelirlerinizin %100'ü size aittir."
+    },
+    {
+      "question": "Beatler MESAM ve MSG tescili için güvenli ve telifsiz mi?",
+      "answer": "Evet! Tüm altyapılar Onzieb tarafından üretilmiş %100 orijinal bestelerdir. Yetkisiz hiçbir örnekleme (sample) içermez. Şarkınızı MESAM, MSG ve MÜ-YAP'a hiçbir telif ihtarı (copyright claim) yaşamadan kaydedebilirsiniz."
+    },
+    {
+      "question": "Türkiye'de hangi ödeme yöntemleri geçerlidir?",
+      "answer": "Türk Lirası (TRY ₺) ile Papara, Troy logolu tüm yerli kartlar, Visa, Mastercard, Troy, Apple Pay, Google Pay ve Havale/EFT ile anında ve güvenle ödeme yapabilirsiniz."
+    },
+    {
+      "question": "Ses etiketi (voice tag) olmayan stüdyo dosyalarını ne zaman ve nasıl alırım?",
+      "answer": "Ödemeniz onaylandığı anda, ses etiketi bulunmayan stüdyo kalitesinde 24-bit WAV dosyası, yüksek kaliteli MP3 ve adınıza düzenlenmiş resmi PDF lisans sözleşmesi otomatik olarak e-posta adresinize gönderilir."
+    }
+  ]
+},
+  "tr/kayseri": {
+  "name": "Türkiye – Kayseri & Erciyes Trap Sahnesi",
+  "flag": "🇹🇷",
+  "currency": "TRY (₺)",
+  "currencyCode": "TRY",
+  "gateways": "Papara, Troy, Kredi Kartı, Apple Pay, Google Pay",
+  "pro": "MESAM & MSG",
+  "proFullName": "MESAM & MSG",
+  "proGuide": "100% yasal güvenceli MESAM kaydı.",
+  "headline": "Kayseri Beatleri: Ağır Baslar, Duygusal Piyanolar & Sokak Havası",
+  "description": "Erciyes'in heybeti gibi sert ve soğuk kış ritimleri: duygusal piyanolar ve ağır baslar.",
+  "popularGenres": [
+    "Kayseri Trap",
+    "Piyano Rap",
+    "Ağır Bas"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Bu altyapı üzerine kaydettiğim şarkıyı Türkiye – Kayseri & Erciyes Trap Sahnesi bölgesinde Spotify, Apple Music ve YouTube'da yayınlayabilir miyim?",
+      "answer": "Evet, kesinlikle %100! Different Type of Vibe'dan satın alınan tüm WAV ve MP3 lisansları, şarkınızı Spotify, Apple Music, YouTube, Deezer, TikTok ve radyolarda ticari olarak dağıtma hakkını eksiksiz içerir. Sanatçı ve icracı olarak tüm telif gelirlerinizin %100'ü size aittir."
+    },
+    {
+      "question": "Beatler MESAM ve MSG tescili için güvenli ve telifsiz mi?",
+      "answer": "Evet! Tüm altyapılar Onzieb tarafından üretilmiş %100 orijinal bestelerdir. Yetkisiz hiçbir örnekleme (sample) içermez. Şarkınızı MESAM, MSG ve MÜ-YAP'a hiçbir telif ihtarı (copyright claim) yaşamadan kaydedebilirsiniz."
+    },
+    {
+      "question": "Türkiye'de hangi ödeme yöntemleri geçerlidir?",
+      "answer": "Türk Lirası (TRY ₺) ile Papara, Troy logolu tüm yerli kartlar, Visa, Mastercard, Troy, Apple Pay, Google Pay ve Havale/EFT ile anında ve güvenle ödeme yapabilirsiniz."
+    },
+    {
+      "question": "Ses etiketi (voice tag) olmayan stüdyo dosyalarını ne zaman ve nasıl alırım?",
+      "answer": "Ödemeniz onaylandığı anda, ses etiketi bulunmayan stüdyo kalitesinde 24-bit WAV dosyası, yüksek kaliteli MP3 ve adınıza düzenlenmiş resmi PDF lisans sözleşmesi otomatik olarak e-posta adresinize gönderilir."
+    }
+  ]
+},
+  "tr/mugla-bodrum": {
+  "name": "Türkiye – Muğla & Bodrum (Lüks Yazlık Trap & Chillhop)",
+  "flag": "🇹🇷",
+  "currency": "TRY (₺)",
+  "currencyCode": "TRY",
+  "gateways": "Papara, Troy, Kredi Kartı, Apple Pay, Google Pay",
+  "pro": "MESAM & MSG",
+  "proFullName": "MESAM & MSG",
+  "proGuide": "100% ticari haklar ile anında stüdyo WAV teslimi.",
+  "headline": "Bodrum ve Muğla Beatleri: Lüks Yazlık Sound, Chillhop & Ege Rüzgarı",
+  "description": "Ege sahillerinin lüks ve rahatlatıcı havası: yumuşak rhodes piyanoları, hafif trap davulları ve plaj partileri için hit ritimler.",
+  "popularGenres": [
+    "Bodrum Trap",
+    "Yazlık Chillhop",
+    "Lüks Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Bu altyapı üzerine kaydettiğim şarkıyı Türkiye – Muğla & Bodrum (Lüks Yazlık Trap & Chillhop) bölgesinde Spotify, Apple Music ve YouTube'da yayınlayabilir miyim?",
+      "answer": "Evet, kesinlikle %100! Different Type of Vibe'dan satın alınan tüm WAV ve MP3 lisansları, şarkınızı Spotify, Apple Music, YouTube, Deezer, TikTok ve radyolarda ticari olarak dağıtma hakkını eksiksiz içerir. Sanatçı ve icracı olarak tüm telif gelirlerinizin %100'ü size aittir."
+    },
+    {
+      "question": "Beatler MESAM ve MSG tescili için güvenli ve telifsiz mi?",
+      "answer": "Evet! Tüm altyapılar Onzieb tarafından üretilmiş %100 orijinal bestelerdir. Yetkisiz hiçbir örnekleme (sample) içermez. Şarkınızı MESAM, MSG ve MÜ-YAP'a hiçbir telif ihtarı (copyright claim) yaşamadan kaydedebilirsiniz."
+    },
+    {
+      "question": "Türkiye'de hangi ödeme yöntemleri geçerlidir?",
+      "answer": "Türk Lirası (TRY ₺) ile Papara, Troy logolu tüm yerli kartlar, Visa, Mastercard, Troy, Apple Pay, Google Pay ve Havale/EFT ile anında ve güvenle ödeme yapabilirsiniz."
+    },
+    {
+      "question": "Ses etiketi (voice tag) olmayan stüdyo dosyalarını ne zaman ve nasıl alırım?",
+      "answer": "Ödemeniz onaylandığı anda, ses etiketi bulunmayan stüdyo kalitesinde 24-bit WAV dosyası, yüksek kaliteli MP3 ve adınıza düzenlenmiş resmi PDF lisans sözleşmesi otomatik olarak e-posta adresinize gönderilir."
+    }
+  ]
+},
 };
