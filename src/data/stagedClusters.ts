@@ -1,6 +1,6 @@
 // src/data/stagedClusters.ts
-// Programmatic SEO Staged Batch Cluster Ledger - US & Germany Clusters
-// Deployed automatically by scripts/deploy_germany_pseo.py
+// Programmatic SEO Staged Batch Cluster Ledger - US & DACH Clusters
+// Deployed automatically by scripts/deploy_wave2_germany_pseo.py
 
 export interface StagedClusterItem {
   type: 'vibe' | 'genre' | 'mood' | 'bpm' | 'key' | 'scene' | 'instrument' | 'blog';
@@ -1753,5 +1753,465 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "type": "scene",
     "slug": "dortmund-melodic-beats",
     "batchId": 4
+  },
+  {
+    "type": "genre",
+    "slug": "gema-freie-hiphop-beats",
+    "batchId": 5
+  },
+  {
+    "type": "genre",
+    "slug": "gema-freie-commercial-streaming-lizenz",
+    "batchId": 5
+  },
+  {
+    "type": "genre",
+    "slug": "beats-kaufen-fuer-spotify-release",
+    "batchId": 5
+  },
+  {
+    "type": "genre",
+    "slug": "commercial-audio-leases-deutschland",
+    "batchId": 5
+  },
+  {
+    "type": "genre",
+    "slug": "gemafreie-instrumentals-tonstudio",
+    "batchId": 5
+  },
+  {
+    "type": "genre",
+    "slug": "gemafreie-hintergrundmusik-youtube",
+    "batchId": 5
+  },
+  {
+    "type": "genre",
+    "slug": "stems-spuren-kaufen-deutschrap",
+    "batchId": 5
+  },
+  {
+    "type": "genre",
+    "slug": "exclusive-beat-lizenzen-deutschland",
+    "batchId": 5
+  },
+  {
+    "type": "genre",
+    "slug": "beats-kaufen-mit-lizenzvertrag",
+    "batchId": 5
+  },
+  {
+    "type": "genre",
+    "slug": "deutschrap-commercial-sync-lizenzen",
+    "batchId": 5
+  },
+  {
+    "type": "genre",
+    "slug": "gema-freie-trap-beats-kaufen",
+    "batchId": 5
+  },
+  {
+    "type": "genre",
+    "slug": "beats-kaufen-mit-klarna",
+    "batchId": 5
+  },
+  {
+    "type": "genre",
+    "slug": "beats-kaufen-mit-sofortueberweisung",
+    "batchId": 5
+  },
+  {
+    "type": "genre",
+    "slug": "beats-kaufen-mit-paypal",
+    "batchId": 5
+  },
+  {
+    "type": "genre",
+    "slug": "beats-kaufen-auf-rechnung",
+    "batchId": 5
+  },
+  {
+    "type": "key",
+    "slug": "c-moll-dark-deutschrap-beats",
+    "batchId": 5
+  },
+  {
+    "type": "key",
+    "slug": "d-moll-deutschrap-drill-beats",
+    "batchId": 5
+  },
+  {
+    "type": "key",
+    "slug": "f-moll-emotional-deutschrap-beats",
+    "batchId": 5
+  },
+  {
+    "type": "key",
+    "slug": "a-moll-melodischer-trap-deutschland",
+    "batchId": 5
+  },
+  {
+    "type": "key",
+    "slug": "e-moll-street-rap-beats",
+    "batchId": 5
+  },
+  {
+    "type": "key",
+    "slug": "g-moll-berlin-drill-beats",
+    "batchId": 5
+  },
+  {
+    "type": "key",
+    "slug": "h-moll-dark-trap-beats",
+    "batchId": 5
+  },
+  {
+    "type": "key",
+    "slug": "c-moll-aggresiver-drill",
+    "batchId": 5
+  },
+  {
+    "type": "key",
+    "slug": "f-moll-piano-deutschrap",
+    "batchId": 5
+  },
+  {
+    "type": "vibe",
+    "slug": "bushido-classic-dark-strings",
+    "batchId": 5
+  },
+  {
+    "type": "vibe",
+    "slug": "sido-classic-berlin-rap-beats",
+    "batchId": 5
+  },
+  {
+    "type": "vibe",
+    "slug": "farid-bang-jbg-hardcore-trap",
+    "batchId": 5
+  },
+  {
+    "type": "vibe",
+    "slug": "kollegah-boss-brass-beats",
+    "batchId": 5
+  },
+  {
+    "type": "vibe",
+    "slug": "capital-bra-berlin-lebt-beats",
+    "batchId": 5
+  },
+  {
+    "type": "vibe",
+    "slug": "samra-cataleya-melodic-trap",
+    "batchId": 5
+  },
+  {
+    "type": "vibe",
+    "slug": "kontra-k-motivational-rap",
+    "batchId": 5
+  },
+  {
+    "type": "vibe",
+    "slug": "trettmann-diy-dancehall-trap",
+    "batchId": 5
+  },
+  {
+    "type": "vibe",
+    "slug": "bausa-madonna-melodic-trap",
+    "batchId": 5
+  },
+  {
+    "type": "vibe",
+    "slug": "yung-hurn-wien-cloud-rap",
+    "batchId": 5
+  },
+  {
+    "type": "vibe",
+    "slug": "luciano-west-london-german-drill",
+    "batchId": 5
+  },
+  {
+    "type": "vibe",
+    "slug": "soufian-ffm-generation-azzlack",
+    "batchId": 5
+  },
+  {
+    "type": "vibe",
+    "slug": "symba-berlin-playboy-trap",
+    "batchId": 5
+  },
+  {
+    "type": "vibe",
+    "slug": "ski-aggu-party-techno-rap-beats",
+    "batchId": 5
+  },
+  {
+    "type": "vibe",
+    "slug": "makko-skate-lofi-rap-beats",
+    "batchId": 5
+  },
+  {
+    "type": "vibe",
+    "slug": "shindy-daddy-chilled-boombap",
+    "batchId": 5
+  },
+  {
+    "type": "vibe",
+    "slug": "og-keemo-mannheim-street-rap",
+    "batchId": 5
+  },
+  {
+    "type": "vibe",
+    "slug": "raf-camora-palmen-aus-plastik",
+    "batchId": 5
+  },
+  {
+    "type": "vibe",
+    "slug": "187-strassenbande-sampler-beats",
+    "batchId": 5
+  },
+  {
+    "type": "vibe",
+    "slug": "kool-savas-king-of-rap-beats",
+    "batchId": 5
+  },
+  {
+    "type": "vibe",
+    "slug": "nimo-habeebeee-melodic-trap",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "wien-austria-afro-trap",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "zuerich-swiss-trap-beats",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "offenbach-azzlack-street-trap",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "mannheim-street-rap-beats",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "dortmund-ruhrpott-drill",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "essen-ruhrpott-trap",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "dresden-underground-boombap",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "kiel-nord-deutschrap",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "augsburg-bavaria-trap",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "bonn-rheinland-hiphop",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "wiesbaden-street-rap",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "braunschweig-trap-beats",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "graz-austria-hiphop",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "basel-schweiz-drill-beats",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "bern-swiss-melodic-trap",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "wien-deutschrap-trap",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "wien-deutschrap-drill",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "wien-afro-trap-beats",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "wien-boombap-instrumentals",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "zuerich-deutschrap-trap",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "zuerich-deutschrap-drill",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "zuerich-afro-trap-beats",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "zuerich-boombap-instrumentals",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "dortmund-deutschrap-trap",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "dortmund-deutschrap-drill",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "dortmund-afro-trap-beats",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "dortmund-boombap-instrumentals",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "essen-deutschrap-trap",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "essen-deutschrap-drill",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "essen-afro-trap-beats",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "essen-boombap-instrumentals",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "mannheim-deutschrap-trap",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "mannheim-deutschrap-drill",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "mannheim-afro-trap-beats",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "mannheim-boombap-instrumentals",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "offenbach-deutschrap-trap",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "offenbach-deutschrap-drill",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "offenbach-afro-trap-beats",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "offenbach-boombap-instrumentals",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "dresden-deutschrap-trap",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "dresden-deutschrap-drill",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "dresden-afro-trap-beats",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "dresden-boombap-instrumentals",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "kiel-deutschrap-trap",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "kiel-deutschrap-drill",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "kiel-afro-trap-beats",
+    "batchId": 5
+  },
+  {
+    "type": "scene",
+    "slug": "kiel-boombap-instrumentals",
+    "batchId": 5
   }
 ];
