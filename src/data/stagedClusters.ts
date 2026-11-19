@@ -1,6 +1,6 @@
 // src/data/stagedClusters.ts
-// Programmatic SEO Staged Batch Cluster Ledger - Global Big 9 Complete Footprint (Brazil Wave 2 Complete)
-// Deployed automatically by scripts/deploy_wave2_brazil_pseo.py
+// Programmatic SEO Staged Batch Cluster Ledger - Global Big 10 Complete Footprint (Italy & Trap Italiano)
+// Deployed automatically by scripts/deploy_italy_pseo.py
 
 export interface StagedClusterItem {
   type: 'vibe' | 'genre' | 'mood' | 'bpm' | 'key' | 'scene' | 'instrument' | 'blog';
@@ -7743,5 +7743,375 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "type": "scene",
     "slug": "curitiba-trap-melodico-violao",
     "batchId": 19
+  },
+  {
+    "type": "scene",
+    "slug": "milano-drill-italiano-beats",
+    "batchId": 20
+  },
+  {
+    "type": "scene",
+    "slug": "roma-trap-italiana-beats",
+    "batchId": 20
+  },
+  {
+    "type": "scene",
+    "slug": "napoli-drill-trap-beats",
+    "batchId": 20
+  },
+  {
+    "type": "scene",
+    "slug": "torino-rap-piemontese-beats",
+    "batchId": 20
+  },
+  {
+    "type": "scene",
+    "slug": "bologna-boom-bap-beats",
+    "batchId": 20
+  },
+  {
+    "type": "scene",
+    "slug": "genova-drill-flute-rap",
+    "batchId": 20
+  },
+  {
+    "type": "scene",
+    "slug": "firenze-trap-toscano-beats",
+    "batchId": 20
+  },
+  {
+    "type": "scene",
+    "slug": "bari-trap-mediterraneo",
+    "batchId": 20
+  },
+  {
+    "type": "scene",
+    "slug": "palermo-street-trap-sicilia",
+    "batchId": 20
+  },
+  {
+    "type": "scene",
+    "slug": "verona-veneto-drill-beats",
+    "batchId": 20
+  },
+  {
+    "type": "scene",
+    "slug": "san-siro-700-drill-milano",
+    "batchId": 20
+  },
+  {
+    "type": "scene",
+    "slug": "rozzano-dark-drill-beats",
+    "batchId": 20
+  },
+  {
+    "type": "vibe",
+    "slug": "sfera-ebbasta-rockstar-trap-beats",
+    "batchId": 20
+  },
+  {
+    "type": "vibe",
+    "slug": "rondodasosa-san-siro-drill-italiano",
+    "batchId": 20
+  },
+  {
+    "type": "vibe",
+    "slug": "lazza-sirio-piano-trap-drill",
+    "batchId": 20
+  },
+  {
+    "type": "vibe",
+    "slug": "shiva-santana-milano-melodic-trap",
+    "batchId": 20
+  },
+  {
+    "type": "vibe",
+    "slug": "geolier-napoli-melodic-drill-trap",
+    "batchId": 20
+  },
+  {
+    "type": "vibe",
+    "slug": "gue-pequeno-luxury-boom-bap-trap",
+    "batchId": 20
+  },
+  {
+    "type": "vibe",
+    "slug": "marracash-persona-cinematic-rap-beats",
+    "batchId": 20
+  },
+  {
+    "type": "vibe",
+    "slug": "paky-rozzano-dark-street-drill",
+    "batchId": 20
+  },
+  {
+    "type": "vibe",
+    "slug": "baby-gang-lecco-street-drill-beats",
+    "batchId": 20
+  },
+  {
+    "type": "vibe",
+    "slug": "tedua-divina-commedia-drill-flute",
+    "batchId": 20
+  },
+  {
+    "type": "vibe",
+    "slug": "capo-plaza-commercial-club-trap",
+    "batchId": 20
+  },
+  {
+    "type": "vibe",
+    "slug": "tony-effe-roma-dark-polo-gang-trap",
+    "batchId": 20
+  },
+  {
+    "type": "vibe",
+    "slug": "ernia-melodic-storytelling-hiphop",
+    "batchId": 20
+  },
+  {
+    "type": "vibe",
+    "slug": "luche-napoli-rap-re-del-blocco",
+    "batchId": 20
+  },
+  {
+    "type": "vibe",
+    "slug": "rhove-shakerando-energy-bounce",
+    "batchId": 20
+  },
+  {
+    "type": "vibe",
+    "slug": "anna-bando-drill-femminile",
+    "batchId": 20
+  },
+  {
+    "type": "vibe",
+    "slug": "artie-5ive-bicocca-drill-spregiudicato",
+    "batchId": 20
+  },
+  {
+    "type": "genre",
+    "slug": "comprare-basi-trap-online",
+    "batchId": 20
+  },
+  {
+    "type": "genre",
+    "slug": "basi-drill-italiane-senza-copyright",
+    "batchId": 20
+  },
+  {
+    "type": "genre",
+    "slug": "basi-rap-con-deposito-siae-garantito",
+    "batchId": 20
+  },
+  {
+    "type": "genre",
+    "slug": "basi-musicali-per-spotify-e-apple-music",
+    "batchId": 20
+  },
+  {
+    "type": "genre",
+    "slug": "comprare-basi-trap-con-postepay-e-satispay",
+    "batchId": 20
+  },
+  {
+    "type": "genre",
+    "slug": "licenze-beat-wav-24-bit-stems",
+    "batchId": 20
+  },
+  {
+    "type": "genre",
+    "slug": "basi-trap-melodiche-con-pianoforte",
+    "batchId": 20
+  },
+  {
+    "type": "genre",
+    "slug": "basi-drill-senza-voce-untagged",
+    "batchId": 20
+  },
+  {
+    "type": "genre",
+    "slug": "contratto-di-licenza-beat-pdf-siae",
+    "batchId": 20
+  },
+  {
+    "type": "genre",
+    "slug": "basi-reggaeton-e-trap-italiane",
+    "batchId": 20
+  },
+  {
+    "type": "genre",
+    "slug": "basi-rap-per-cantare-e-registrare",
+    "batchId": 20
+  },
+  {
+    "type": "genre",
+    "slug": "basi-drill-con-bassi-808-scivolati",
+    "batchId": 20
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-drill-italiano-beats",
+    "batchId": 20
+  },
+  {
+    "type": "bpm",
+    "slug": "142-bpm-rondodasosa-drill",
+    "batchId": 20
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-trap-italiano-sfera",
+    "batchId": 20
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-lazza-piano-trap",
+    "batchId": 20
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-trap-melodico-italiano",
+    "batchId": 20
+  },
+  {
+    "type": "key",
+    "slug": "d-minor-drill-italiano-beats",
+    "batchId": 20
+  },
+  {
+    "type": "key",
+    "slug": "c-minor-trap-italiano-pesante",
+    "batchId": 20
+  },
+  {
+    "type": "key",
+    "slug": "f-minor-lazza-pianoforte-trap",
+    "batchId": 20
+  },
+  {
+    "type": "key",
+    "slug": "a-minor-sfera-ebbasta-melodico",
+    "batchId": 20
+  },
+  {
+    "type": "key",
+    "slug": "g-minor-shiva-milano-808",
+    "batchId": 20
+  },
+  {
+    "type": "scene",
+    "slug": "milano-trap-melodico-italiano",
+    "batchId": 20
+  },
+  {
+    "type": "scene",
+    "slug": "milano-rap-street-pianoforte",
+    "batchId": 20
+  },
+  {
+    "type": "scene",
+    "slug": "milano-boom-bap-classico",
+    "batchId": 20
+  },
+  {
+    "type": "scene",
+    "slug": "roma-drill-italiano-beats",
+    "batchId": 20
+  },
+  {
+    "type": "scene",
+    "slug": "roma-trap-melodico-italiano",
+    "batchId": 20
+  },
+  {
+    "type": "scene",
+    "slug": "roma-rap-street-pianoforte",
+    "batchId": 20
+  },
+  {
+    "type": "scene",
+    "slug": "roma-boom-bap-classico",
+    "batchId": 20
+  },
+  {
+    "type": "scene",
+    "slug": "napoli-drill-italiano-beats",
+    "batchId": 20
+  },
+  {
+    "type": "scene",
+    "slug": "napoli-trap-melodico-italiano",
+    "batchId": 20
+  },
+  {
+    "type": "scene",
+    "slug": "napoli-rap-street-pianoforte",
+    "batchId": 20
+  },
+  {
+    "type": "scene",
+    "slug": "napoli-boom-bap-classico",
+    "batchId": 20
+  },
+  {
+    "type": "scene",
+    "slug": "torino-drill-italiano-beats",
+    "batchId": 20
+  },
+  {
+    "type": "scene",
+    "slug": "torino-trap-melodico-italiano",
+    "batchId": 20
+  },
+  {
+    "type": "scene",
+    "slug": "torino-rap-street-pianoforte",
+    "batchId": 20
+  },
+  {
+    "type": "scene",
+    "slug": "torino-boom-bap-classico",
+    "batchId": 20
+  },
+  {
+    "type": "scene",
+    "slug": "genova-drill-italiano-beats",
+    "batchId": 20
+  },
+  {
+    "type": "scene",
+    "slug": "genova-trap-melodico-italiano",
+    "batchId": 20
+  },
+  {
+    "type": "scene",
+    "slug": "genova-rap-street-pianoforte",
+    "batchId": 20
+  },
+  {
+    "type": "scene",
+    "slug": "genova-boom-bap-classico",
+    "batchId": 20
+  },
+  {
+    "type": "scene",
+    "slug": "bologna-drill-italiano-beats",
+    "batchId": 20
+  },
+  {
+    "type": "scene",
+    "slug": "bologna-trap-melodico-italiano",
+    "batchId": 20
+  },
+  {
+    "type": "scene",
+    "slug": "bologna-rap-street-pianoforte",
+    "batchId": 20
+  },
+  {
+    "type": "scene",
+    "slug": "bologna-boom-bap-classico",
+    "batchId": 20
   }
 ];
