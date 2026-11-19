@@ -7111,4 +7111,420 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
     }
   ]
 },
+  "ca/toronto": {
+  "name": "Canada \u2013 Toronto & The 6ix (GTA)",
+  "flag": "\ud83c\udde8\ud83c\udde6",
+  "currency": "CAD ($)",
+  "currencyCode": "CAD",
+  "gateways": "Apple Pay, Google Pay, Interac, Credit/Debit Cards, Stripe",
+  "pro": "SOCAN",
+  "proFullName": "Society of Composers, Authors and Music Publishers of Canada (SOCAN)",
+  "proGuide": "100% SOCAN compliant and FACTOR grant eligible for Canadian music artists. You retain 100% artist master streaming royalties across Spotify, Apple Music, and Canadian commercial radio.",
+  "headline": "Toronto Beats for Sale: The 6ix Nocturnal Ambient Trap & OVO Vibes",
+  "description": "Authentic Toronto soundscapes: dark ambient pads, underwater filtered synths, and heavy 808 bounce inspired by Drake, The Weeknd, and Tory Lanez. Instant uncompressed 24-bit WAV leases & stem trackouts.",
+  "popularGenres": [
+    "Toronto Ambient Trap",
+    "OVO Style",
+    "Dark Nocturnal R&B",
+    "GTA 808s"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Toronto Sound Scene Hub",
+      "slug": "../../scene/toronto-sound-dark-ambient-trap",
+      "description": "Filtered pads, reverbs and nocturnal 808 bounce."
+    },
+    {
+      "name": "Drake Melodic Trap Vibe",
+      "slug": "../../vibe/drake-certified-lover-melodic-trap",
+      "description": "Lush chords and smooth storytelling trap bounce."
+    },
+    {
+      "name": "The Weeknd Dark Synth Vibe",
+      "slug": "../../vibe/the-weeknd-dark-synth-trap",
+      "description": "80s analog synthwave blended with modern trap drums."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify, Apple Music, and YouTube in Canada \u2013 Toronto & The 6ix (GTA)?",
+      "answer": "Yes! All WAV and MP3 licenses include full commercial streaming rights across Spotify Canada, Apple Music, YouTube, Tidal, and commercial radio. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with SOCAN and apply for FACTOR / Canada Council music grants?",
+      "answer": "When registering your work with SOCAN, list yourself as 100% lyricist/performer and credit Onzieb (Different Type of Vibe) as the music producer/composer per your countersigned PDF license agreement. Our licenses satisfy FACTOR, Canada Council for the Arts, and provincial grant delivery requirements."
+    },
+    {
+      "question": "Which Canadian payment methods are supported?",
+      "answer": "You can pay easily in Canadian Dollars (CAD $) via Apple Pay, Google Pay, Interac e-Transfer, Credit/Debit Cards, PayPal, and Stripe."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, MP3 audio version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "ca/vancouver": {
+  "name": "Canada \u2013 Vancouver & British Columbia (YVR)",
+  "flag": "\ud83c\udde8\ud83c\udde6",
+  "currency": "CAD ($)",
+  "currencyCode": "CAD",
+  "gateways": "Apple Pay, Google Pay, Interac, Credit/Debit Cards",
+  "pro": "SOCAN",
+  "proFullName": "Society of Composers, Authors and Music Publishers of Canada (SOCAN)",
+  "proGuide": "100% SOCAN compliant and Creative BC / FACTOR grant eligible.",
+  "headline": "Vancouver Beats for Sale: Coastal Melodic Trap, Chill R&B & Lofi Rap",
+  "description": "Smooth Pacific Northwest hip-hop instrumentals featuring lush acoustic guitar riffs, warm Rhodes keys, and modern 808 bounce for artists across British Columbia.",
+  "popularGenres": [
+    "Vancouver Melodic Trap",
+    "Coastal R&B",
+    "Chill Lofi Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Vancouver Scene Hub",
+      "slug": "../../scene/vancouver-coastal-melodic-trap",
+      "description": "Warm ocean vibes and laid-back 808 bounce."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify, Apple Music, and YouTube in Canada \u2013 Vancouver & British Columbia (YVR)?",
+      "answer": "Yes! All WAV and MP3 licenses include full commercial streaming rights across Spotify Canada, Apple Music, YouTube, Tidal, and commercial radio. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with SOCAN and apply for FACTOR / Canada Council music grants?",
+      "answer": "When registering your work with SOCAN, list yourself as 100% lyricist/performer and credit Onzieb (Different Type of Vibe) as the music producer/composer per your countersigned PDF license agreement. Our licenses satisfy FACTOR, Canada Council for the Arts, and provincial grant delivery requirements."
+    },
+    {
+      "question": "Which Canadian payment methods are supported?",
+      "answer": "You can pay easily in Canadian Dollars (CAD $) via Apple Pay, Google Pay, Interac e-Transfer, Credit/Debit Cards, PayPal, and Stripe."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, MP3 audio version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "ca/ottawa": {
+  "name": "Canada \u2013 Ottawa Capital Region & Dark Underground",
+  "flag": "\ud83c\udde8\ud83c\udde6",
+  "currency": "CAD ($)",
+  "currencyCode": "CAD",
+  "gateways": "Apple Pay, Google Pay, Interac, Credit/Debit Cards",
+  "pro": "SOCAN",
+  "proFullName": "Society of Composers, Authors and Music Publishers of Canada (SOCAN)",
+  "proGuide": "100% SOCAN compliant with signed legal PDF agreements.",
+  "headline": "Ottawa Beats for Sale: Dark Underground Bass, Eerie Trap & Melodic Rap",
+  "description": "Subterranean distorted 808s, eerie atmospheric textures, and hard-hitting drums inspired by Night Lovell and Belly for artists in the National Capital Region.",
+  "popularGenres": [
+    "Ottawa Dark Trap",
+    "Underground Bass",
+    "Eerie Ambient"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Night Lovell Style Hub",
+      "slug": "../../vibe/night-lovell-dark-underground-bass",
+      "description": "Deep distorted 808s and haunting vocal ambiance."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify, Apple Music, and YouTube in Canada \u2013 Ottawa Capital Region & Dark Underground?",
+      "answer": "Yes! All WAV and MP3 licenses include full commercial streaming rights across Spotify Canada, Apple Music, YouTube, Tidal, and commercial radio. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with SOCAN and apply for FACTOR / Canada Council music grants?",
+      "answer": "When registering your work with SOCAN, list yourself as 100% lyricist/performer and credit Onzieb (Different Type of Vibe) as the music producer/composer per your countersigned PDF license agreement. Our licenses satisfy FACTOR, Canada Council for the Arts, and provincial grant delivery requirements."
+    },
+    {
+      "question": "Which Canadian payment methods are supported?",
+      "answer": "You can pay easily in Canadian Dollars (CAD $) via Apple Pay, Google Pay, Interac e-Transfer, Credit/Debit Cards, PayPal, and Stripe."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, MP3 audio version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "ca/calgary": {
+  "name": "Canada \u2013 Calgary & Alberta Hip-Hop Hub",
+  "flag": "\ud83c\udde8\ud83c\udde6",
+  "currency": "CAD ($)",
+  "currencyCode": "CAD",
+  "gateways": "Apple Pay, Google Pay, Interac, Credit/Debit Cards",
+  "pro": "SOCAN",
+  "proFullName": "Society of Composers, Authors and Music Publishers of Canada (SOCAN)",
+  "proGuide": "100% SOCAN compliant with instant digital delivery.",
+  "headline": "Calgary Beats for Sale: Alberta Trap, Heavy Drill & Melodic 808s",
+  "description": "Heavyweight western Canadian trap beats with driving basslines and crisp percussion for independent recording vocalists in Calgary and Edmonton.",
+  "popularGenres": [
+    "Alberta Trap",
+    "Western Canadian Drill",
+    "Melodic 808s"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify, Apple Music, and YouTube in Canada \u2013 Calgary & Alberta Hip-Hop Hub?",
+      "answer": "Yes! All WAV and MP3 licenses include full commercial streaming rights across Spotify Canada, Apple Music, YouTube, Tidal, and commercial radio. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with SOCAN and apply for FACTOR / Canada Council music grants?",
+      "answer": "When registering your work with SOCAN, list yourself as 100% lyricist/performer and credit Onzieb (Different Type of Vibe) as the music producer/composer per your countersigned PDF license agreement. Our licenses satisfy FACTOR, Canada Council for the Arts, and provincial grant delivery requirements."
+    },
+    {
+      "question": "Which Canadian payment methods are supported?",
+      "answer": "You can pay easily in Canadian Dollars (CAD $) via Apple Pay, Google Pay, Interac e-Transfer, Credit/Debit Cards, PayPal, and Stripe."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, MP3 audio version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "ca/edmonton": {
+  "name": "Canada \u2013 Edmonton & Northern Alberta Rap",
+  "flag": "\ud83c\udde8\ud83c\udde6",
+  "currency": "CAD ($)",
+  "currencyCode": "CAD",
+  "gateways": "Apple Pay, Google Pay, Interac, Credit/Debit Cards",
+  "pro": "SOCAN",
+  "proFullName": "Society of Composers, Authors and Music Publishers of Canada (SOCAN)",
+  "proGuide": "100% SOCAN compliant with full streaming rights.",
+  "headline": "Edmonton Beats for Sale: Northern Trap, Hard Drill & Street Rap",
+  "description": "Cold, aggressive drill sliding 808s and melodic trap instrumentals for recording artists in Edmonton and Northern Alberta.",
+  "popularGenres": [
+    "Edmonton Drill",
+    "Northern Trap",
+    "Street Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify, Apple Music, and YouTube in Canada \u2013 Edmonton & Northern Alberta Rap?",
+      "answer": "Yes! All WAV and MP3 licenses include full commercial streaming rights across Spotify Canada, Apple Music, YouTube, Tidal, and commercial radio. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with SOCAN and apply for FACTOR / Canada Council music grants?",
+      "answer": "When registering your work with SOCAN, list yourself as 100% lyricist/performer and credit Onzieb (Different Type of Vibe) as the music producer/composer per your countersigned PDF license agreement. Our licenses satisfy FACTOR, Canada Council for the Arts, and provincial grant delivery requirements."
+    },
+    {
+      "question": "Which Canadian payment methods are supported?",
+      "answer": "You can pay easily in Canadian Dollars (CAD $) via Apple Pay, Google Pay, Interac e-Transfer, Credit/Debit Cards, PayPal, and Stripe."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, MP3 audio version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "ca/winnipeg": {
+  "name": "Canada \u2013 Winnipeg & Manitoba Hip-Hop",
+  "flag": "\ud83c\udde8\ud83c\udde6",
+  "currency": "CAD ($)",
+  "currencyCode": "CAD",
+  "gateways": "Apple Pay, Google Pay, Interac, Credit/Debit Cards",
+  "pro": "SOCAN",
+  "proFullName": "Society of Composers, Authors and Music Publishers of Canada (SOCAN)",
+  "proGuide": "100% SOCAN and Manitoba Film & Music grant compliant.",
+  "headline": "Winnipeg Beats for Sale: Prairie Trap, Underground Boom Bap & Drill",
+  "description": "Punchy underground hip-hop, soulful boom bap samples, and driving trap 808s for artists across Manitoba and the Canadian Prairies.",
+  "popularGenres": [
+    "Winnipeg Hip-Hop",
+    "Underground Boom Bap",
+    "Prairie Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify, Apple Music, and YouTube in Canada \u2013 Winnipeg & Manitoba Hip-Hop?",
+      "answer": "Yes! All WAV and MP3 licenses include full commercial streaming rights across Spotify Canada, Apple Music, YouTube, Tidal, and commercial radio. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with SOCAN and apply for FACTOR / Canada Council music grants?",
+      "answer": "When registering your work with SOCAN, list yourself as 100% lyricist/performer and credit Onzieb (Different Type of Vibe) as the music producer/composer per your countersigned PDF license agreement. Our licenses satisfy FACTOR, Canada Council for the Arts, and provincial grant delivery requirements."
+    },
+    {
+      "question": "Which Canadian payment methods are supported?",
+      "answer": "You can pay easily in Canadian Dollars (CAD $) via Apple Pay, Google Pay, Interac e-Transfer, Credit/Debit Cards, PayPal, and Stripe."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, MP3 audio version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "ca/hamilton": {
+  "name": "Canada \u2013 Hamilton & Golden Horseshoe Rap",
+  "flag": "\ud83c\udde8\ud83c\udde6",
+  "currency": "CAD ($)",
+  "currencyCode": "CAD",
+  "gateways": "Apple Pay, Google Pay, Interac, Credit/Debit Cards",
+  "pro": "SOCAN",
+  "proFullName": "Society of Composers, Authors and Music Publishers of Canada (SOCAN)",
+  "proGuide": "100% SOCAN compliant with signed legal PDF agreements.",
+  "headline": "Hamilton Beats for Sale: Steel City Trap, Heavy 808s & Melodic Drill",
+  "description": "Raw, gritty trap and dark drill instrumentals for independent recording vocalists in Hamilton, Niagara, and Ontario.",
+  "popularGenres": [
+    "Steel City Trap",
+    "Hamilton Drill",
+    "Heavy 808s"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify, Apple Music, and YouTube in Canada \u2013 Hamilton & Golden Horseshoe Rap?",
+      "answer": "Yes! All WAV and MP3 licenses include full commercial streaming rights across Spotify Canada, Apple Music, YouTube, Tidal, and commercial radio. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with SOCAN and apply for FACTOR / Canada Council music grants?",
+      "answer": "When registering your work with SOCAN, list yourself as 100% lyricist/performer and credit Onzieb (Different Type of Vibe) as the music producer/composer per your countersigned PDF license agreement. Our licenses satisfy FACTOR, Canada Council for the Arts, and provincial grant delivery requirements."
+    },
+    {
+      "question": "Which Canadian payment methods are supported?",
+      "answer": "You can pay easily in Canadian Dollars (CAD $) via Apple Pay, Google Pay, Interac e-Transfer, Credit/Debit Cards, PayPal, and Stripe."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, MP3 audio version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "ca/quebec-city": {
+  "name": "Canada \u2013 Qu\u00e9bec Hip-Hop & Rap Franco",
+  "flag": "\ud83c\udde8\ud83c\udde6",
+  "currency": "CAD ($)",
+  "currencyCode": "CAD",
+  "gateways": "Apple Pay, Google Pay, Interac, Credit/Debit Cards",
+  "pro": "SOCAN",
+  "proFullName": "Soci\u00e9t\u00e9 Canadienne des Auteurs, Compositeurs et \u00c9diteurs de Musique (SOCAN)",
+  "proGuide": "100% conforme SOCAN et \u00e9ligible aux bourses Musicaction.",
+  "headline": "Qu\u00e9bec Beats \u00e0 Vendre: Rap Franco, Trap M\u00e9lodique & Drill Qu\u00e9b\u00e9cois",
+  "description": "Instrumentales studio haute d\u00e9finition pour artistes ind\u00e9pendants \u00e0 Qu\u00e9bec et dans l'est de la province. Fichiers WAV 24-bit non tagu\u00e9s.",
+  "popularGenres": [
+    "Rap Franco",
+    "Qu\u00e9bec Trap",
+    "Drill Qu\u00e9b\u00e9cois"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify, Apple Music, and YouTube in Canada \u2013 Qu\u00e9bec Hip-Hop & Rap Franco?",
+      "answer": "Yes! All WAV and MP3 licenses include full commercial streaming rights across Spotify Canada, Apple Music, YouTube, Tidal, and commercial radio. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with SOCAN and apply for FACTOR / Canada Council music grants?",
+      "answer": "When registering your work with SOCAN, list yourself as 100% lyricist/performer and credit Onzieb (Different Type of Vibe) as the music producer/composer per your countersigned PDF license agreement. Our licenses satisfy FACTOR, Canada Council for the Arts, and provincial grant delivery requirements."
+    },
+    {
+      "question": "Which Canadian payment methods are supported?",
+      "answer": "You can pay easily in Canadian Dollars (CAD $) via Apple Pay, Google Pay, Interac e-Transfer, Credit/Debit Cards, PayPal, and Stripe."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, MP3 audio version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "ca/halifax": {
+  "name": "Canada \u2013 Halifax & Atlantic Canada Rap",
+  "flag": "\ud83c\udde8\ud83c\udde6",
+  "currency": "CAD ($)",
+  "currencyCode": "CAD",
+  "gateways": "Apple Pay, Google Pay, Interac, Credit/Debit Cards",
+  "pro": "SOCAN",
+  "proFullName": "Society of Composers, Authors and Music Publishers of Canada (SOCAN)",
+  "proGuide": "100% SOCAN compliant and Music Nova Scotia grant eligible.",
+  "headline": "Halifax Beats for Sale: Atlantic Coast Boom Bap, Melodic Rap & Trap",
+  "description": "East Coast Canadian hip-hop instrumentals blending organic instrumentation, soulful chops, and modern trap drums for Nova Scotia artists.",
+  "popularGenres": [
+    "East Coast Hip-Hop",
+    "Halifax Rap",
+    "Soulful Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify, Apple Music, and YouTube in Canada \u2013 Halifax & Atlantic Canada Rap?",
+      "answer": "Yes! All WAV and MP3 licenses include full commercial streaming rights across Spotify Canada, Apple Music, YouTube, Tidal, and commercial radio. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "How do I register my songs with SOCAN and apply for FACTOR / Canada Council music grants?",
+      "answer": "When registering your work with SOCAN, list yourself as 100% lyricist/performer and credit Onzieb (Different Type of Vibe) as the music producer/composer per your countersigned PDF license agreement. Our licenses satisfy FACTOR, Canada Council for the Arts, and provincial grant delivery requirements."
+    },
+    {
+      "question": "Which Canadian payment methods are supported?",
+      "answer": "You can pay easily in Canadian Dollars (CAD $) via Apple Pay, Google Pay, Interac e-Transfer, Credit/Debit Cards, PayPal, and Stripe."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, MP3 audio version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
 };
