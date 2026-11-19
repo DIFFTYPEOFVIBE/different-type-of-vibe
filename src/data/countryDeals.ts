@@ -8009,4 +8009,469 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
     }
   ]
 },
+  "au/sydney": {
+  "name": "Australia \u2013 Sydney & Western Sydney (2770)",
+  "flag": "\ud83c\udde6\ud83c\uddfa",
+  "currency": "AUD ($)",
+  "currencyCode": "AUD",
+  "gateways": "Apple Pay, Google Pay, Cards, Afterpay, Stripe",
+  "pro": "APRA AMCOS",
+  "proFullName": "Australasian Performing Right Association & Australasian Mechanical Copyright Owners Society (APRA AMCOS)",
+  "proGuide": "100% APRA AMCOS compliant for Australian recording artists. Cleared for Triple J Unearthed airplay, festival performances, and international streaming on Spotify & Apple Music.",
+  "headline": "Sydney Beats for Sale: Western Sydney Aussie Drill, Sliding 808s & Leases",
+  "description": "The capital of Aussie Drill (Mount Druitt, Campbelltown, Western Sydney). Heavy sliding 808s, dark aggressive synths, and raw street bounce inspired by ONEFOUR and HP Boyz. Instant 24-bit WAV & STEM trackouts.",
+  "popularGenres": [
+    "Aussie Drill",
+    "Western Sydney Drill",
+    "The Kid LAROI Style",
+    "ONEFOUR Bounce"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Aussie Drill Scene Hub",
+      "slug": "../../scene/sydney-aussie-drill-beats",
+      "description": "Aggressive sliding 808s and raw Pacific Islander bounce."
+    },
+    {
+      "name": "ONEFOUR Mount Druitt Style",
+      "slug": "../../vibe/onefour-mount-druitt-aussie-drill",
+      "description": "Heavy syncopated drill with dark cinematic brass."
+    },
+    {
+      "name": "The Kid LAROI Melodic Vibe",
+      "slug": "../../vibe/the-kid-laroi-melodic-guitar-trap",
+      "description": "Radio-ready acoustic guitars and emotional pop-trap bounce."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify, Apple Music, and YouTube in Australia \u2013 Sydney & Western Sydney (2770)?",
+      "answer": "Yes! All WAV and MP3 licenses include full commercial streaming rights across Spotify, Apple Music, YouTube, Deezer, and commercial radio. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "How do I register my release with APRA AMCOS and submit to Triple J Unearthed in Australia?",
+      "answer": "When registering your work with APRA AMCOS, list yourself as 100% lyricist/performer and credit Onzieb (Different Type of Vibe) as the music producer/composer per your countersigned PDF license agreement. Our licenses are fully cleared for Triple J Unearthed airplay, national radio, and festival performances."
+    },
+    {
+      "question": "Which Australian payment methods are supported?",
+      "answer": "You can pay easily in Australian Dollars (AUD $) via Apple Pay, Google Pay, Credit/Debit Cards, Afterpay, PayPal, and Stripe."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, MP3 audio version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "au/melbourne": {
+  "name": "Australia \u2013 Melbourne & Victoria Hip-Hop Hub",
+  "flag": "\ud83c\udde6\ud83c\uddfa",
+  "currency": "AUD ($)",
+  "currencyCode": "AUD",
+  "gateways": "Apple Pay, Google Pay, Cards, Afterpay",
+  "pro": "APRA AMCOS",
+  "proFullName": "Australasian Performing Right Association & Australasian Mechanical Copyright Owners Society (APRA AMCOS)",
+  "proGuide": "100% APRA AMCOS compliant and Creative Victoria / Triple J Unearthed eligible.",
+  "headline": "Melbourne Beats for Sale: Melodic Trap, Underground Boom Bap & Drill",
+  "description": "Atmospheric soundscapes, smooth jazz-infused boom bap, and wavy modern trap 808s for recording artists across Melbourne and Victoria.",
+  "popularGenres": [
+    "Melbourne Melodic Trap",
+    "Underground Boom Bap",
+    "ChillinIT Style",
+    "Victoria Drill"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Melbourne Scene Hub",
+      "slug": "../../scene/melbourne-melodic-trap-beats",
+      "description": "Lush Rhodes chords, acoustic guitars and crisp drums."
+    },
+    {
+      "name": "ChillinIT Lyrical Vibe",
+      "slug": "../../vibe/chillinit-fast-lyrical-grime-trap",
+      "description": "Fast double-time rap flows and punchy trap drums."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify, Apple Music, and YouTube in Australia \u2013 Melbourne & Victoria Hip-Hop Hub?",
+      "answer": "Yes! All WAV and MP3 licenses include full commercial streaming rights across Spotify, Apple Music, YouTube, Deezer, and commercial radio. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "How do I register my release with APRA AMCOS and submit to Triple J Unearthed in Australia?",
+      "answer": "When registering your work with APRA AMCOS, list yourself as 100% lyricist/performer and credit Onzieb (Different Type of Vibe) as the music producer/composer per your countersigned PDF license agreement. Our licenses are fully cleared for Triple J Unearthed airplay, national radio, and festival performances."
+    },
+    {
+      "question": "Which Australian payment methods are supported?",
+      "answer": "You can pay easily in Australian Dollars (AUD $) via Apple Pay, Google Pay, Credit/Debit Cards, Afterpay, PayPal, and Stripe."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, MP3 audio version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "au/brisbane": {
+  "name": "Australia \u2013 Brisbane & Queensland Rap Scene",
+  "flag": "\ud83c\udde6\ud83c\uddfa",
+  "currency": "AUD ($)",
+  "currencyCode": "AUD",
+  "gateways": "Apple Pay, Google Pay, Cards, Afterpay",
+  "pro": "APRA AMCOS",
+  "proFullName": "Australasian Performing Right Association & Australasian Mechanical Copyright Owners Society (APRA AMCOS)",
+  "proGuide": "100% APRA AMCOS compliant with instant digital download.",
+  "headline": "Brisbane Beats for Sale: Queensland Club Trap, Energetic Rap & Drill",
+  "description": "High-octane club trap beats and energetic party drill rhythms with heavy 808 kicks for recording vocalists in Brisbane and the Gold Coast.",
+  "popularGenres": [
+    "Queensland Trap",
+    "Brisbane Rap",
+    "High-Energy Drill"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Brisbane Scene Hub",
+      "slug": "../../scene/brisbane-queensland-trap-beats",
+      "description": "Punchy 808 kicks and sun-drenched melodic bounce."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify, Apple Music, and YouTube in Australia \u2013 Brisbane & Queensland Rap Scene?",
+      "answer": "Yes! All WAV and MP3 licenses include full commercial streaming rights across Spotify, Apple Music, YouTube, Deezer, and commercial radio. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "How do I register my release with APRA AMCOS and submit to Triple J Unearthed in Australia?",
+      "answer": "When registering your work with APRA AMCOS, list yourself as 100% lyricist/performer and credit Onzieb (Different Type of Vibe) as the music producer/composer per your countersigned PDF license agreement. Our licenses are fully cleared for Triple J Unearthed airplay, national radio, and festival performances."
+    },
+    {
+      "question": "Which Australian payment methods are supported?",
+      "answer": "You can pay easily in Australian Dollars (AUD $) via Apple Pay, Google Pay, Credit/Debit Cards, Afterpay, PayPal, and Stripe."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, MP3 audio version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "au/perth": {
+  "name": "Australia \u2013 Perth & Western Australia (WA)",
+  "flag": "\ud83c\udde6\ud83c\uddfa",
+  "currency": "AUD ($)",
+  "currencyCode": "AUD",
+  "gateways": "Apple Pay, Google Pay, Cards, Afterpay",
+  "pro": "APRA AMCOS",
+  "proFullName": "Australasian Performing Right Association & Australasian Mechanical Copyright Owners Society (APRA AMCOS)",
+  "proGuide": "100% APRA AMCOS compliant with signed legal PDF contracts.",
+  "headline": "Perth Beats for Sale: WA Underground Drill, Electronic Trap & Melodic Rap",
+  "description": "Cold, futuristic synth trap, heavy electronic basslines, and syncopated drill percussion for independent artists across Western Australia.",
+  "popularGenres": [
+    "Perth Drill",
+    "WA Electronic Trap",
+    "Underground Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify, Apple Music, and YouTube in Australia \u2013 Perth & Western Australia (WA)?",
+      "answer": "Yes! All WAV and MP3 licenses include full commercial streaming rights across Spotify, Apple Music, YouTube, Deezer, and commercial radio. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "How do I register my release with APRA AMCOS and submit to Triple J Unearthed in Australia?",
+      "answer": "When registering your work with APRA AMCOS, list yourself as 100% lyricist/performer and credit Onzieb (Different Type of Vibe) as the music producer/composer per your countersigned PDF license agreement. Our licenses are fully cleared for Triple J Unearthed airplay, national radio, and festival performances."
+    },
+    {
+      "question": "Which Australian payment methods are supported?",
+      "answer": "You can pay easily in Australian Dollars (AUD $) via Apple Pay, Google Pay, Credit/Debit Cards, Afterpay, PayPal, and Stripe."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, MP3 audio version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "au/adelaide": {
+  "name": "Australia \u2013 Adelaide & South Australia Rap",
+  "flag": "\ud83c\udde6\ud83c\uddfa",
+  "currency": "AUD ($)",
+  "currencyCode": "AUD",
+  "gateways": "Apple Pay, Google Pay, Cards, Afterpay",
+  "pro": "APRA AMCOS",
+  "proFullName": "Australasian Performing Right Association & Australasian Mechanical Copyright Owners Society (APRA AMCOS)",
+  "proGuide": "100% APRA AMCOS compliant with full commercial streaming rights.",
+  "headline": "Adelaide Beats for Sale: South Australian Hip-Hop, Gutter Rap & Trap",
+  "description": "Raw street rap drums, dark piano chords, and driving 808 basslines for independent artists in Adelaide and South Australia.",
+  "popularGenres": [
+    "Adelaide Hip-Hop",
+    "South Aussie Rap",
+    "Heavy 808s"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify, Apple Music, and YouTube in Australia \u2013 Adelaide & South Australia Rap?",
+      "answer": "Yes! All WAV and MP3 licenses include full commercial streaming rights across Spotify, Apple Music, YouTube, Deezer, and commercial radio. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "How do I register my release with APRA AMCOS and submit to Triple J Unearthed in Australia?",
+      "answer": "When registering your work with APRA AMCOS, list yourself as 100% lyricist/performer and credit Onzieb (Different Type of Vibe) as the music producer/composer per your countersigned PDF license agreement. Our licenses are fully cleared for Triple J Unearthed airplay, national radio, and festival performances."
+    },
+    {
+      "question": "Which Australian payment methods are supported?",
+      "answer": "You can pay easily in Australian Dollars (AUD $) via Apple Pay, Google Pay, Credit/Debit Cards, Afterpay, PayPal, and Stripe."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, MP3 audio version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "au/gold-coast": {
+  "name": "Australia \u2013 Gold Coast Melodic Trap & Club Rap",
+  "flag": "\ud83c\udde6\ud83c\uddfa",
+  "currency": "AUD ($)",
+  "currencyCode": "AUD",
+  "gateways": "Apple Pay, Google Pay, Cards, Afterpay",
+  "pro": "APRA AMCOS",
+  "proFullName": "Australasian Performing Right Association & Australasian Mechanical Copyright Owners Society (APRA AMCOS)",
+  "proGuide": "100% APRA AMCOS compliant for Spotify and festival broadcast.",
+  "headline": "Gold Coast Beats for Sale: Sun-Drenched Melodic Trap & Party Bounce",
+  "description": "Bouncy acoustic guitar melodies, tropical percussion, and energetic 808s for recording vocalists on the Gold Coast.",
+  "popularGenres": [
+    "Gold Coast Trap",
+    "Coastal Melodic Rap",
+    "Party Bounce"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify, Apple Music, and YouTube in Australia \u2013 Gold Coast Melodic Trap & Club Rap?",
+      "answer": "Yes! All WAV and MP3 licenses include full commercial streaming rights across Spotify, Apple Music, YouTube, Deezer, and commercial radio. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "How do I register my release with APRA AMCOS and submit to Triple J Unearthed in Australia?",
+      "answer": "When registering your work with APRA AMCOS, list yourself as 100% lyricist/performer and credit Onzieb (Different Type of Vibe) as the music producer/composer per your countersigned PDF license agreement. Our licenses are fully cleared for Triple J Unearthed airplay, national radio, and festival performances."
+    },
+    {
+      "question": "Which Australian payment methods are supported?",
+      "answer": "You can pay easily in Australian Dollars (AUD $) via Apple Pay, Google Pay, Credit/Debit Cards, Afterpay, PayPal, and Stripe."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, MP3 audio version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "au/canberra": {
+  "name": "Australia \u2013 Canberra & ACT Hip-Hop",
+  "flag": "\ud83c\udde6\ud83c\uddfa",
+  "currency": "AUD ($)",
+  "currencyCode": "AUD",
+  "gateways": "Apple Pay, Google Pay, Cards, Afterpay",
+  "pro": "APRA AMCOS",
+  "proFullName": "Australasian Performing Right Association & Australasian Mechanical Copyright Owners Society (APRA AMCOS)",
+  "proGuide": "100% APRA AMCOS compliant with instant delivery.",
+  "headline": "Canberra Beats for Sale: ACT Indie Hip-Hop, Drill & Melodic Keys",
+  "description": "Spacious, reverberant trap beats and clean 808 bounce for artists in Canberra and the Australian Capital Territory.",
+  "popularGenres": [
+    "ACT Hip-Hop",
+    "Canberra Trap",
+    "Melodic Keys"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify, Apple Music, and YouTube in Australia \u2013 Canberra & ACT Hip-Hop?",
+      "answer": "Yes! All WAV and MP3 licenses include full commercial streaming rights across Spotify, Apple Music, YouTube, Deezer, and commercial radio. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "How do I register my release with APRA AMCOS and submit to Triple J Unearthed in Australia?",
+      "answer": "When registering your work with APRA AMCOS, list yourself as 100% lyricist/performer and credit Onzieb (Different Type of Vibe) as the music producer/composer per your countersigned PDF license agreement. Our licenses are fully cleared for Triple J Unearthed airplay, national radio, and festival performances."
+    },
+    {
+      "question": "Which Australian payment methods are supported?",
+      "answer": "You can pay easily in Australian Dollars (AUD $) via Apple Pay, Google Pay, Credit/Debit Cards, Afterpay, PayPal, and Stripe."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, MP3 audio version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "au/newcastle-nsw": {
+  "name": "Australia \u2013 Newcastle & Hunter Region (NSW)",
+  "flag": "\ud83c\udde6\ud83c\uddfa",
+  "currency": "AUD ($)",
+  "currencyCode": "AUD",
+  "gateways": "Apple Pay, Google Pay, Cards, Afterpay",
+  "pro": "APRA AMCOS",
+  "proFullName": "Australasian Performing Right Association & Australasian Mechanical Copyright Owners Society (APRA AMCOS)",
+  "proGuide": "100% APRA AMCOS compliant with signed legal contracts.",
+  "headline": "Newcastle NSW Beats for Sale: Hunter Region Rap, Heavy Drill & Trap",
+  "description": "Hard-hitting drill kicks, dark synth arpeggios, and uncompressed 24-bit WAV trackouts for artists across Newcastle and the Hunter.",
+  "popularGenres": [
+    "Newcastle Drill",
+    "Hunter Rap",
+    "Heavy Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify, Apple Music, and YouTube in Australia \u2013 Newcastle & Hunter Region (NSW)?",
+      "answer": "Yes! All WAV and MP3 licenses include full commercial streaming rights across Spotify, Apple Music, YouTube, Deezer, and commercial radio. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "How do I register my release with APRA AMCOS and submit to Triple J Unearthed in Australia?",
+      "answer": "When registering your work with APRA AMCOS, list yourself as 100% lyricist/performer and credit Onzieb (Different Type of Vibe) as the music producer/composer per your countersigned PDF license agreement. Our licenses are fully cleared for Triple J Unearthed airplay, national radio, and festival performances."
+    },
+    {
+      "question": "Which Australian payment methods are supported?",
+      "answer": "You can pay easily in Australian Dollars (AUD $) via Apple Pay, Google Pay, Credit/Debit Cards, Afterpay, PayPal, and Stripe."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, MP3 audio version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "au/geelong": {
+  "name": "Australia \u2013 Geelong & Regional Victoria Rap",
+  "flag": "\ud83c\udde6\ud83c\uddfa",
+  "currency": "AUD ($)",
+  "currencyCode": "AUD",
+  "gateways": "Apple Pay, Google Pay, Cards, Afterpay",
+  "pro": "APRA AMCOS",
+  "proFullName": "Australasian Performing Right Association & Australasian Mechanical Copyright Owners Society (APRA AMCOS)",
+  "proGuide": "100% APRA AMCOS compliant for commercial streaming.",
+  "headline": "Geelong Beats for Sale: Regional Victorian Hip-Hop, Drill & Melodic 808s",
+  "description": "Punchy underground hip-hop, soulful boom bap samples, and driving trap 808s for artists across regional Victoria.",
+  "popularGenres": [
+    "Geelong Hip-Hop",
+    "Regional Drill",
+    "Melodic 808s"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify, Apple Music, and YouTube in Australia \u2013 Geelong & Regional Victoria Rap?",
+      "answer": "Yes! All WAV and MP3 licenses include full commercial streaming rights across Spotify, Apple Music, YouTube, Deezer, and commercial radio. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "How do I register my release with APRA AMCOS and submit to Triple J Unearthed in Australia?",
+      "answer": "When registering your work with APRA AMCOS, list yourself as 100% lyricist/performer and credit Onzieb (Different Type of Vibe) as the music producer/composer per your countersigned PDF license agreement. Our licenses are fully cleared for Triple J Unearthed airplay, national radio, and festival performances."
+    },
+    {
+      "question": "Which Australian payment methods are supported?",
+      "answer": "You can pay easily in Australian Dollars (AUD $) via Apple Pay, Google Pay, Credit/Debit Cards, Afterpay, PayPal, and Stripe."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, MP3 audio version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
+  "au/hobart": {
+  "name": "Australia \u2013 Hobart & Tasmanian Hip-Hop",
+  "flag": "\ud83c\udde6\ud83c\uddfa",
+  "currency": "AUD ($)",
+  "currencyCode": "AUD",
+  "gateways": "Apple Pay, Google Pay, Cards, Afterpay",
+  "pro": "APRA AMCOS",
+  "proFullName": "Australasian Performing Right Association & Australasian Mechanical Copyright Owners Society (APRA AMCOS)",
+  "proGuide": "100% APRA AMCOS compliant with instant digital download.",
+  "headline": "Hobart Beats for Sale: Tasmanian Underground Boom Bap, Trap & Drill",
+  "description": "Atmospheric, introspective hip-hop instrumentals and hard drill slides for recording artists in Hobart and Tasmania.",
+  "popularGenres": [
+    "Tasmanian Hip-Hop",
+    "Hobart Boom Bap",
+    "Introspective Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I release songs recorded with these beats on Spotify, Apple Music, and YouTube in Australia \u2013 Hobart & Tasmanian Hip-Hop?",
+      "answer": "Yes! All WAV and MP3 licenses include full commercial streaming rights across Spotify, Apple Music, YouTube, Deezer, and commercial radio. You retain 100% of your artist master streaming royalties."
+    },
+    {
+      "question": "How do I register my release with APRA AMCOS and submit to Triple J Unearthed in Australia?",
+      "answer": "When registering your work with APRA AMCOS, list yourself as 100% lyricist/performer and credit Onzieb (Different Type of Vibe) as the music producer/composer per your countersigned PDF license agreement. Our licenses are fully cleared for Triple J Unearthed airplay, national radio, and festival performances."
+    },
+    {
+      "question": "Which Australian payment methods are supported?",
+      "answer": "You can pay easily in Australian Dollars (AUD $) via Apple Pay, Google Pay, Credit/Debit Cards, Afterpay, PayPal, and Stripe."
+    },
+    {
+      "question": "How quickly do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout, an untagged studio 24-bit WAV file, MP3 audio version, and countersigned legal license agreement are delivered directly to your email inbox."
+    }
+  ]
+},
 };
