@@ -1,6 +1,6 @@
 // src/data/stagedClusters.ts
-// Programmatic SEO Staged Batch Cluster Ledger - Global Big 10 Complete Footprint (Italy & Trap Italiano)
-// Deployed automatically by scripts/deploy_italy_pseo.py
+// Programmatic SEO Staged Batch Cluster Ledger - Global Big 10 Complete Footprint (Italy Complete Wave 2)
+// Deployed automatically by scripts/deploy_wave2_italy_pseo.py
 
 export interface StagedClusterItem {
   type: 'vibe' | 'genre' | 'mood' | 'bpm' | 'key' | 'scene' | 'instrument' | 'blog';
@@ -8113,5 +8113,285 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "type": "scene",
     "slug": "bologna-boom-bap-classico",
     "batchId": 20
+  },
+  {
+    "type": "scene",
+    "slug": "lombardia-trap-powerhouse",
+    "batchId": 21
+  },
+  {
+    "type": "scene",
+    "slug": "lazio-roma-street-trap",
+    "batchId": 21
+  },
+  {
+    "type": "scene",
+    "slug": "campania-napoli-drill-hub",
+    "batchId": 21
+  },
+  {
+    "type": "scene",
+    "slug": "liguria-scuola-ligure-rap",
+    "batchId": 21
+  },
+  {
+    "type": "scene",
+    "slug": "sicilia-catania-trap-beats",
+    "batchId": 21
+  },
+  {
+    "type": "scene",
+    "slug": "puglia-taranto-drill-beats",
+    "batchId": 21
+  },
+  {
+    "type": "scene",
+    "slug": "emilia-romagna-trap-hub",
+    "batchId": 21
+  },
+  {
+    "type": "scene",
+    "slug": "piemonte-torino-rap-scene",
+    "batchId": 21
+  },
+  {
+    "type": "scene",
+    "slug": "veneto-drill-trap-movement",
+    "batchId": 21
+  },
+  {
+    "type": "scene",
+    "slug": "salerno-costa-campana-trap",
+    "batchId": 21
+  },
+  {
+    "type": "vibe",
+    "slug": "sfera-ebbasta-famoso-luxury-trap",
+    "batchId": 21
+  },
+  {
+    "type": "vibe",
+    "slug": "rondodasosa-seven-7oo-drill-banger",
+    "batchId": 21
+  },
+  {
+    "type": "vibe",
+    "slug": "lazza-cenere-sanremo-fast-rap",
+    "batchId": 21
+  },
+  {
+    "type": "vibe",
+    "slug": "shiva-auto-blu-club-drill-bounce",
+    "batchId": 21
+  },
+  {
+    "type": "vibe",
+    "slug": "geolier-il-coraggio-dei-bambini",
+    "batchId": 21
+  },
+  {
+    "type": "vibe",
+    "slug": "gue-madreperla-classic-hiphop",
+    "batchId": 21
+  },
+  {
+    "type": "vibe",
+    "slug": "marracash-noi-loro-gli-altri-rock-trap",
+    "batchId": 21
+  },
+  {
+    "type": "vibe",
+    "slug": "paky-shiva-auto-blu-drill",
+    "batchId": 21
+  },
+  {
+    "type": "vibe",
+    "slug": "baby-gang-mentalite-drill-marocchino",
+    "batchId": 21
+  },
+  {
+    "type": "vibe",
+    "slug": "tedua-mowgli-giungla-urbana",
+    "batchId": 21
+  },
+  {
+    "type": "vibe",
+    "slug": "capo-plaza-non-fare-cosi-trap",
+    "batchId": 21
+  },
+  {
+    "type": "vibe",
+    "slug": "tony-effe-sesso-e-samba-summer-trap",
+    "batchId": 21
+  },
+  {
+    "type": "vibe",
+    "slug": "bresh-guasto-d-amore-acoustic-rap",
+    "batchId": 21
+  },
+  {
+    "type": "vibe",
+    "slug": "rhove-provinciale-energy-dance-trap",
+    "batchId": 21
+  },
+  {
+    "type": "vibe",
+    "slug": "anna-ciao-bella-femme-drill",
+    "batchId": 21
+  },
+  {
+    "type": "vibe",
+    "slug": "artie-5ive-milano-bicocca-hard-trap",
+    "batchId": 21
+  },
+  {
+    "type": "vibe",
+    "slug": "kid-yugi-taranto-massafra-lyrical-trap",
+    "batchId": 21
+  },
+  {
+    "type": "vibe",
+    "slug": "tony-boy-vicenza-melodic-cloud",
+    "batchId": 21
+  },
+  {
+    "type": "genre",
+    "slug": "basi-trap-italiane-wav-stems",
+    "batchId": 21
+  },
+  {
+    "type": "genre",
+    "slug": "basi-rap-senza-voce-per-cantare",
+    "batchId": 21
+  },
+  {
+    "type": "genre",
+    "slug": "comprare-basi-trap-con-satispay",
+    "batchId": 21
+  },
+  {
+    "type": "genre",
+    "slug": "licenza-beat-esclusiva-siae-italia",
+    "batchId": 21
+  },
+  {
+    "type": "genre",
+    "slug": "basi-rap-emotive-con-chitarra-acustica",
+    "batchId": 21
+  },
+  {
+    "type": "genre",
+    "slug": "basi-trap-estive-reggaeton-italiane",
+    "batchId": 21
+  },
+  {
+    "type": "genre",
+    "slug": "basi-drill-milano-san-siro-style",
+    "batchId": 21
+  },
+  {
+    "type": "genre",
+    "slug": "basi-rap-napoletane-geolier-type",
+    "batchId": 21
+  },
+  {
+    "type": "genre",
+    "slug": "basi-hip-hop-old-school-italiane-boom-bap",
+    "batchId": 21
+  },
+  {
+    "type": "genre",
+    "slug": "stems-multitraccia-basi-trap-italia",
+    "batchId": 21
+  },
+  {
+    "type": "genre",
+    "slug": "basi-trap-commerciali-fimi-spotify",
+    "batchId": 21
+  },
+  {
+    "type": "bpm",
+    "slug": "138-bpm-drill-milano-beats",
+    "batchId": 21
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-san-siro-sliding-drill",
+    "batchId": 21
+  },
+  {
+    "type": "bpm",
+    "slug": "128-bpm-sfera-ebbasta-club-trap",
+    "batchId": 21
+  },
+  {
+    "type": "bpm",
+    "slug": "92-bpm-lazza-geolier-piano-trap",
+    "batchId": 21
+  },
+  {
+    "type": "bpm",
+    "slug": "100-bpm-tony-effe-summer-bounce",
+    "batchId": 21
+  },
+  {
+    "type": "key",
+    "slug": "b-minor-drill-italiano-beats",
+    "batchId": 21
+  },
+  {
+    "type": "key",
+    "slug": "f-sharp-minor-geolier-chitarra",
+    "batchId": 21
+  },
+  {
+    "type": "key",
+    "slug": "c-sharp-minor-drill-rozzano",
+    "batchId": 21
+  },
+  {
+    "type": "key",
+    "slug": "e-minor-trap-italiano-808s",
+    "batchId": 21
+  },
+  {
+    "type": "scene",
+    "slug": "bari-drill-italiano-beats",
+    "batchId": 21
+  },
+  {
+    "type": "scene",
+    "slug": "bari-trap-melodico-italiano",
+    "batchId": 21
+  },
+  {
+    "type": "scene",
+    "slug": "bari-rap-street-pianoforte",
+    "batchId": 21
+  },
+  {
+    "type": "scene",
+    "slug": "bari-boom-bap-classico",
+    "batchId": 21
+  },
+  {
+    "type": "scene",
+    "slug": "salerno-drill-italiano-beats",
+    "batchId": 21
+  },
+  {
+    "type": "scene",
+    "slug": "salerno-trap-melodico-italiano",
+    "batchId": 21
+  },
+  {
+    "type": "scene",
+    "slug": "salerno-rap-street-pianoforte",
+    "batchId": 21
+  },
+  {
+    "type": "scene",
+    "slug": "salerno-boom-bap-classico",
+    "batchId": 21
   }
 ];

@@ -12295,4 +12295,507 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
     }
   ]
 },
+  "it/lombardia": {
+  "name": "Italia \u2013 Lombardia & Area Metropolitana di Milano",
+  "flag": "\ud83c\uddee\ud83c\uddf9",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "Postepay, Satispay, Apple Pay, Google Pay, Carte di Credito, PayPal, Stripe",
+  "pro": "SIAE & Soundreef",
+  "proFullName": "Societ\u00e0 Italiana degli Autori ed Editori (SIAE) & Soundreef",
+  "proGuide": "100% conforme SIAE e Soundreef per la Lombardia. Il pi\u00f9 grande mercato musicale e discografico d'Italia (Milano, Monza, Bergamo, Brescia).",
+  "headline": "Basi Trap in Lombardia: Sound di Milano, Drill San Siro, Lazza Piano & SIAE",
+  "description": "Basi musicali professionali in formato WAV 24-bit studio e tracce separate per artisti di tutta la Lombardia. Bassi 808 scivolati, pianoforti classici e synth moderni con contratto legale PDF.",
+  "popularGenres": [
+    "Trap Lombarda",
+    "Drill Milano",
+    "Lazza Style",
+    "Bassi 808 Scivolati"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Milano Deal Hub",
+      "slug": "it/milano",
+      "description": "La capitale del Trap Italiano e della Drill."
+    },
+    {
+      "name": "San Siro 7oo Hub",
+      "slug": "it/san-siro-700",
+      "description": "Il sound iconico di San Siro e Rondodasosa."
+    },
+    {
+      "name": "Rozzano Dark Drill",
+      "slug": "it/rozzano-milano",
+      "description": "Drill cruda e pianoforti cupi Paky style."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Posso pubblicare brani registrati con queste basi su Spotify, Apple Music e YouTube in Italia \u2013 Lombardia & Area Metropolitana di Milano?",
+      "answer": "S\u00ec, assolutamente! Tutte le licenze WAV e MP3 di Different Type of Vibe includono il 100% dei diritti di streaming e distribuzione commerciale per Spotify, Apple Music, YouTube, Deezer, TikTok e radio. Mantieni il 100% delle tue royalties d'artista e interprete."
+    },
+    {
+      "question": "Le basi sono 100% compatibili con SIAE & Soundreef e prive di campioni non autorizzati?",
+      "answer": "S\u00ec! Tutti gli strumentali sono composizioni originali al 100% prodotte da Onzieb. Nessun campione di terzi non liberato. Puoi depositare il tuo testo e la tua opera presso la SIAE & Soundreef in totale serenit\u00e0 legale."
+    },
+    {
+      "question": "Quali metodi di pagamento sono accettati in Italia?",
+      "answer": "Puoi pagare comodamente e all'istante tramite Postepay, Satispay, Apple Pay, Google Pay, Carte di Credito, PayPal, Stripe."
+    },
+    {
+      "question": "Come e quando ricevo i miei file audio senza vinilete vocali?",
+      "answer": "Subito dopo il completamento del pagamento, i file di studio in formato WAV 24-bit non taggati (untagged), la versione MP3 ad alta definizione e il contratto ufficiale di cessione licenza in formato PDF vengono inviati automaticamente al tuo indirizzo email."
+    }
+  ]
+},
+  "it/san-siro-700": {
+  "name": "Italia \u2013 San Siro Milano (Seven 7oo Drill)",
+  "flag": "\ud83c\uddee\ud83c\uddf9",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "Postepay, Satispay, Apple Pay, Google Pay, Carte di Credito, PayPal",
+  "pro": "SIAE & Soundreef",
+  "proFullName": "Societ\u00e0 Italiana degli Autori ed Editori (SIAE) & Soundreef",
+  "proGuide": "100% compatibile SIAE con download immediato.",
+  "headline": "Basi Drill a San Siro (Seven 7oo): Rondodasosa Vibe, 808 Scivolati & Trap",
+  "description": "Il tempio della Drill Italiana: bassi 808 scivolati velocissimi a 140 BPM, chitarre oscure e percussioni sincopate ispirate al collettivo Seven 7oo per artisti di San Siro.",
+  "popularGenres": [
+    "Seven 7oo Drill",
+    "San Siro Sound",
+    "Rondodasosa Style",
+    "UK-Italy Drill"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Rondodasosa Drill Vibe",
+      "slug": "../../vibe/rondodasosa-san-siro-drill-italiano",
+      "description": "Drill aggressiva con bassi scivolati e percussioni veloci."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Posso pubblicare brani registrati con queste basi su Spotify, Apple Music e YouTube in Italia \u2013 San Siro Milano (Seven 7oo Drill)?",
+      "answer": "S\u00ec, assolutamente! Tutte le licenze WAV e MP3 di Different Type of Vibe includono il 100% dei diritti di streaming e distribuzione commerciale per Spotify, Apple Music, YouTube, Deezer, TikTok e radio. Mantieni il 100% delle tue royalties d'artista e interprete."
+    },
+    {
+      "question": "Le basi sono 100% compatibili con SIAE & Soundreef e prive di campioni non autorizzati?",
+      "answer": "S\u00ec! Tutti gli strumentali sono composizioni originali al 100% prodotte da Onzieb. Nessun campione di terzi non liberato. Puoi depositare il tuo testo e la tua opera presso la SIAE & Soundreef in totale serenit\u00e0 legale."
+    },
+    {
+      "question": "Quali metodi di pagamento sono accettati in Italia?",
+      "answer": "Puoi pagare comodamente e all'istante tramite Postepay, Satispay, Apple Pay, Google Pay, Carte di Credito, PayPal."
+    },
+    {
+      "question": "Come e quando ricevo i miei file audio senza vinilete vocali?",
+      "answer": "Subito dopo il completamento del pagamento, i file di studio in formato WAV 24-bit non taggati (untagged), la versione MP3 ad alta definizione e il contratto ufficiale di cessione licenza in formato PDF vengono inviati automaticamente al tuo indirizzo email."
+    }
+  ]
+},
+  "it/rozzano-milano": {
+  "name": "Italia \u2013 Rozzano (20089 Rozzi Dark Drill)",
+  "flag": "\ud83c\uddee\ud83c\uddf9",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "Postepay, Satispay, Apple Pay, Google Pay, Carte di Credito, PayPal",
+  "pro": "SIAE & Soundreef",
+  "proFullName": "Societ\u00e0 Italiana degli Autori ed Editori (SIAE) & Soundreef",
+  "proGuide": "100% compatibile per licenze commerciali su Spotify e Apple Music.",
+  "headline": "Basi Drill a Rozzano: Suono Cupo Rozzi 20089, Pianoforti & Paky Style",
+  "description": "Atmosfere cupe, pianoforti tesi e bassi 808 distrutti ispirati a Paky per artisti e rapper che cercano un sound di strada autentico e pesante.",
+  "popularGenres": [
+    "Rozzi Drill",
+    "Rozzano Sound",
+    "Dark Piano Trap",
+    "Paky Style"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Paky Dark Drill Vibe",
+      "slug": "../../vibe/paky-rozzano-dark-street-drill",
+      "description": "Pianoforti tesi e bassi scivolati cupi."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Posso pubblicare brani registrati con queste basi su Spotify, Apple Music e YouTube in Italia \u2013 Rozzano (20089 Rozzi Dark Drill)?",
+      "answer": "S\u00ec, assolutamente! Tutte le licenze WAV e MP3 di Different Type of Vibe includono il 100% dei diritti di streaming e distribuzione commerciale per Spotify, Apple Music, YouTube, Deezer, TikTok e radio. Mantieni il 100% delle tue royalties d'artista e interprete."
+    },
+    {
+      "question": "Le basi sono 100% compatibili con SIAE & Soundreef e prive di campioni non autorizzati?",
+      "answer": "S\u00ec! Tutti gli strumentali sono composizioni originali al 100% prodotte da Onzieb. Nessun campione di terzi non liberato. Puoi depositare il tuo testo e la tua opera presso la SIAE & Soundreef in totale serenit\u00e0 legale."
+    },
+    {
+      "question": "Quali metodi di pagamento sono accettati in Italia?",
+      "answer": "Puoi pagare comodamente e all'istante tramite Postepay, Satispay, Apple Pay, Google Pay, Carte di Credito, PayPal."
+    },
+    {
+      "question": "Come e quando ricevo i miei file audio senza vinilete vocali?",
+      "answer": "Subito dopo il completamento del pagamento, i file di studio in formato WAV 24-bit non taggati (untagged), la versione MP3 ad alta definizione e il contratto ufficiale di cessione licenza in formato PDF vengono inviati automaticamente al tuo indirizzo email."
+    }
+  ]
+},
+  "it/campania": {
+  "name": "Italia \u2013 Campania & Area Partenopea (Napoli e Salerno)",
+  "flag": "\ud83c\uddee\ud83c\uddf9",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "Postepay, Satispay, Apple Pay, Google Pay, Carte di Credito, PayPal",
+  "pro": "SIAE & Soundreef",
+  "proFullName": "Societ\u00e0 Italiana degli Autori ed Editori (SIAE) & Soundreef",
+  "proGuide": "100% originale e conforme SIAE per artisti campani.",
+  "headline": "Basi Rap in Campania: Geolier Vibe, Suoni Partenopei & Capo Plaza",
+  "description": "La travolgente energia del rap campano: chitarre acustiche toccanti, melodie mediterranee e ritmiche drill pesanti per artisti di Napoli, Salerno e Caserta.",
+  "popularGenres": [
+    "Rap Campano",
+    "Geolier Melodic Drill",
+    "Capo Plaza Trap",
+    "Salerno Urban"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Napoli Deal Hub",
+      "slug": "it/napoli",
+      "description": "Melodie partenopee e ritmo drill potente."
+    },
+    {
+      "name": "Salerno Urban Hub",
+      "slug": "it/salerno",
+      "description": "Trap mediterraneo e suoni melodici di Salerno."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Posso pubblicare brani registrati con queste basi su Spotify, Apple Music e YouTube in Italia \u2013 Campania & Area Partenopea (Napoli e Salerno)?",
+      "answer": "S\u00ec, assolutamente! Tutte le licenze WAV e MP3 di Different Type of Vibe includono il 100% dei diritti di streaming e distribuzione commerciale per Spotify, Apple Music, YouTube, Deezer, TikTok e radio. Mantieni il 100% delle tue royalties d'artista e interprete."
+    },
+    {
+      "question": "Le basi sono 100% compatibili con SIAE & Soundreef e prive di campioni non autorizzati?",
+      "answer": "S\u00ec! Tutti gli strumentali sono composizioni originali al 100% prodotte da Onzieb. Nessun campione di terzi non liberato. Puoi depositare il tuo testo e la tua opera presso la SIAE & Soundreef in totale serenit\u00e0 legale."
+    },
+    {
+      "question": "Quali metodi di pagamento sono accettati in Italia?",
+      "answer": "Puoi pagare comodamente e all'istante tramite Postepay, Satispay, Apple Pay, Google Pay, Carte di Credito, PayPal."
+    },
+    {
+      "question": "Come e quando ricevo i miei file audio senza vinilete vocali?",
+      "answer": "Subito dopo il completamento del pagamento, i file di studio in formato WAV 24-bit non taggati (untagged), la versione MP3 ad alta definizione e il contratto ufficiale di cessione licenza in formato PDF vengono inviati automaticamente al tuo indirizzo email."
+    }
+  ]
+},
+  "it/salerno": {
+  "name": "Italia \u2013 Salerno & Costa Campana Trap",
+  "flag": "\ud83c\uddee\ud83c\uddf9",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "Postepay, Satispay, Apple Pay, Google Pay, Carte di Credito, PayPal",
+  "pro": "SIAE & Soundreef",
+  "proFullName": "Societ\u00e0 Italiana degli Autori ed Editori (SIAE) & Soundreef",
+  "proGuide": "100% deposito SIAE garantito con licenza commerciale.",
+  "headline": "Basi Trap a Salerno: Capo Plaza Vibe, Melodie Solari & 808s",
+  "description": "Banger da festival ed estivi con autotune melodico e bassi potenti ispirati a Capo Plaza per artisti di Salerno e della costa campana.",
+  "popularGenres": [
+    "Salerno Trap",
+    "Capo Plaza Style",
+    "Summer Banger"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Capo Plaza Vibe Hub",
+      "slug": "../../vibe/capo-plaza-commercial-club-trap",
+      "description": "Banger da club ed estivi con rolling hi-hats."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Posso pubblicare brani registrati con queste basi su Spotify, Apple Music e YouTube in Italia \u2013 Salerno & Costa Campana Trap?",
+      "answer": "S\u00ec, assolutamente! Tutte le licenze WAV e MP3 di Different Type of Vibe includono il 100% dei diritti di streaming e distribuzione commerciale per Spotify, Apple Music, YouTube, Deezer, TikTok e radio. Mantieni il 100% delle tue royalties d'artista e interprete."
+    },
+    {
+      "question": "Le basi sono 100% compatibili con SIAE & Soundreef e prive di campioni non autorizzati?",
+      "answer": "S\u00ec! Tutti gli strumentali sono composizioni originali al 100% prodotte da Onzieb. Nessun campione di terzi non liberato. Puoi depositare il tuo testo e la tua opera presso la SIAE & Soundreef in totale serenit\u00e0 legale."
+    },
+    {
+      "question": "Quali metodi di pagamento sono accettati in Italia?",
+      "answer": "Puoi pagare comodamente e all'istante tramite Postepay, Satispay, Apple Pay, Google Pay, Carte di Credito, PayPal."
+    },
+    {
+      "question": "Come e quando ricevo i miei file audio senza vinilete vocali?",
+      "answer": "Subito dopo il completamento del pagamento, i file di studio in formato WAV 24-bit non taggati (untagged), la versione MP3 ad alta definizione e il contratto ufficiale di cessione licenza in formato PDF vengono inviati automaticamente al tuo indirizzo email."
+    }
+  ]
+},
+  "it/lazio": {
+  "name": "Italia \u2013 Lazio & Area Metropolitana di Roma",
+  "flag": "\ud83c\uddee\ud83c\uddf9",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "Postepay, Satispay, Apple Pay, Google Pay, Carte di Credito, PayPal",
+  "pro": "SIAE & Soundreef",
+  "proFullName": "Societ\u00e0 Italiana degli Autori ed Editori (SIAE) & Soundreef",
+  "proGuide": "100% conforme SIAE per artisti romani e del Lazio.",
+  "headline": "Basi Trap nel Lazio: Suono Romano, Dark Polo Gang Vibe & Tony Effe",
+  "description": "Bassi 808 profondi, synth glaciali e attitudine street per la capitale e tutta la regione Lazio.",
+  "popularGenres": [
+    "Trap Laziale",
+    "Roma Sound",
+    "Dark Trap 808"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Roma Deal Hub",
+      "slug": "it/roma",
+      "description": "Bassi profondi e synth moderni romani."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Posso pubblicare brani registrati con queste basi su Spotify, Apple Music e YouTube in Italia \u2013 Lazio & Area Metropolitana di Roma?",
+      "answer": "S\u00ec, assolutamente! Tutte le licenze WAV e MP3 di Different Type of Vibe includono il 100% dei diritti di streaming e distribuzione commerciale per Spotify, Apple Music, YouTube, Deezer, TikTok e radio. Mantieni il 100% delle tue royalties d'artista e interprete."
+    },
+    {
+      "question": "Le basi sono 100% compatibili con SIAE & Soundreef e prive di campioni non autorizzati?",
+      "answer": "S\u00ec! Tutti gli strumentali sono composizioni originali al 100% prodotte da Onzieb. Nessun campione di terzi non liberato. Puoi depositare il tuo testo e la tua opera presso la SIAE & Soundreef in totale serenit\u00e0 legale."
+    },
+    {
+      "question": "Quali metodi di pagamento sono accettati in Italia?",
+      "answer": "Puoi pagare comodamente e all'istante tramite Postepay, Satispay, Apple Pay, Google Pay, Carte di Credito, PayPal."
+    },
+    {
+      "question": "Come e quando ricevo i miei file audio senza vinilete vocali?",
+      "answer": "Subito dopo il completamento del pagamento, i file di studio in formato WAV 24-bit non taggati (untagged), la versione MP3 ad alta definizione e il contratto ufficiale di cessione licenza in formato PDF vengono inviati automaticamente al tuo indirizzo email."
+    }
+  ]
+},
+  "it/liguria": {
+  "name": "Italia \u2013 Liguria & Riviera Trap Hub",
+  "flag": "\ud83c\uddee\ud83c\uddf9",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "Postepay, Satispay, Apple Pay, Google Pay, Carte di Credito, PayPal",
+  "pro": "SIAE & Soundreef",
+  "proFullName": "Societ\u00e0 Italiana degli Autori ed Editori (SIAE) & Soundreef",
+  "proGuide": "100% conforme SIAE con download digitale immediato.",
+  "headline": "Basi Rap in Liguria: Scuola Ligure, Drill-Flute Tedua & Chitarre Bresh",
+  "description": "Chitarre acustiche emotive, flauti sognanti e ritmiche contemporanee per artisti a Genova, La Spezia e Savona.",
+  "popularGenres": [
+    "Scuola Ligure Rap",
+    "Drill-Flute",
+    "Chitarre Poetiche"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Genova Deal Hub",
+      "slug": "it/genova",
+      "description": "Melodie liguri e rap poetico."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Posso pubblicare brani registrati con queste basi su Spotify, Apple Music e YouTube in Italia \u2013 Liguria & Riviera Trap Hub?",
+      "answer": "S\u00ec, assolutamente! Tutte le licenze WAV e MP3 di Different Type of Vibe includono il 100% dei diritti di streaming e distribuzione commerciale per Spotify, Apple Music, YouTube, Deezer, TikTok e radio. Mantieni il 100% delle tue royalties d'artista e interprete."
+    },
+    {
+      "question": "Le basi sono 100% compatibili con SIAE & Soundreef e prive di campioni non autorizzati?",
+      "answer": "S\u00ec! Tutti gli strumentali sono composizioni originali al 100% prodotte da Onzieb. Nessun campione di terzi non liberato. Puoi depositare il tuo testo e la tua opera presso la SIAE & Soundreef in totale serenit\u00e0 legale."
+    },
+    {
+      "question": "Quali metodi di pagamento sono accettati in Italia?",
+      "answer": "Puoi pagare comodamente e all'istante tramite Postepay, Satispay, Apple Pay, Google Pay, Carte di Credito, PayPal."
+    },
+    {
+      "question": "Come e quando ricevo i miei file audio senza vinilete vocali?",
+      "answer": "Subito dopo il completamento del pagamento, i file di studio in formato WAV 24-bit non taggati (untagged), la versione MP3 ad alta definizione e il contratto ufficiale di cessione licenza in formato PDF vengono inviati automaticamente al tuo indirizzo email."
+    }
+  ]
+},
+  "it/sicilia": {
+  "name": "Italia \u2013 Sicilia & Street Trap del Sud",
+  "flag": "\ud83c\uddee\ud83c\uddf9",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "Postepay, Satispay, Apple Pay, Google Pay, Carte di Credito, PayPal",
+  "pro": "SIAE & Soundreef",
+  "proFullName": "Societ\u00e0 Italiana degli Autori ed Editori (SIAE) & Soundreef",
+  "proGuide": "100% conforme SIAE con contratto PDF scaricabile.",
+  "headline": "Basi Rap in Sicilia: Trap Palermitano, Catania Drill & Bassi 808",
+  "description": "Atmosfere intense, pianoforti cupi e batterie con impatto per artisti e MC a Palermo, Catania, Messina e in tutta la Sicilia.",
+  "popularGenres": [
+    "Trap Siciliano",
+    "Catania Drill",
+    "Street Rap del Sud"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Palermo Deal Hub",
+      "slug": "it/palermo",
+      "description": "Pianoforti cupi e street rap autentico."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Posso pubblicare brani registrati con queste basi su Spotify, Apple Music e YouTube in Italia \u2013 Sicilia & Street Trap del Sud?",
+      "answer": "S\u00ec, assolutamente! Tutte le licenze WAV e MP3 di Different Type of Vibe includono il 100% dei diritti di streaming e distribuzione commerciale per Spotify, Apple Music, YouTube, Deezer, TikTok e radio. Mantieni il 100% delle tue royalties d'artista e interprete."
+    },
+    {
+      "question": "Le basi sono 100% compatibili con SIAE & Soundreef e prive di campioni non autorizzati?",
+      "answer": "S\u00ec! Tutti gli strumentali sono composizioni originali al 100% prodotte da Onzieb. Nessun campione di terzi non liberato. Puoi depositare il tuo testo e la tua opera presso la SIAE & Soundreef in totale serenit\u00e0 legale."
+    },
+    {
+      "question": "Quali metodi di pagamento sono accettati in Italia?",
+      "answer": "Puoi pagare comodamente e all'istante tramite Postepay, Satispay, Apple Pay, Google Pay, Carte di Credito, PayPal."
+    },
+    {
+      "question": "Come e quando ricevo i miei file audio senza vinilete vocali?",
+      "answer": "Subito dopo il completamento del pagamento, i file di studio in formato WAV 24-bit non taggati (untagged), la versione MP3 ad alta definizione e il contratto ufficiale di cessione licenza in formato PDF vengono inviati automaticamente al tuo indirizzo email."
+    }
+  ]
+},
+  "it/catania": {
+  "name": "Italia \u2013 Catania & Sicilia Orientale Drill",
+  "flag": "\ud83c\uddee\ud83c\uddf9",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "Postepay, Satispay, Apple Pay, Google Pay, Carte di Credito, PayPal",
+  "pro": "SIAE & Soundreef",
+  "proFullName": "Societ\u00e0 Italiana degli Autori ed Editori (SIAE) & Soundreef",
+  "proGuide": "100% conforme SIAE per uscite ufficiali.",
+  "headline": "Basi Drill a Catania: Trap Catanese, 808 Pesanti & Street Rap",
+  "description": "Bassi 808 scivolati e percussioni serrate per la vibrante scena musicale di Catania e della Sicilia Orientale.",
+  "popularGenres": [
+    "Catania Trap",
+    "Drill Catanese",
+    "Bassi 808"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Posso pubblicare brani registrati con queste basi su Spotify, Apple Music e YouTube in Italia \u2013 Catania & Sicilia Orientale Drill?",
+      "answer": "S\u00ec, assolutamente! Tutte le licenze WAV e MP3 di Different Type of Vibe includono il 100% dei diritti di streaming e distribuzione commerciale per Spotify, Apple Music, YouTube, Deezer, TikTok e radio. Mantieni il 100% delle tue royalties d'artista e interprete."
+    },
+    {
+      "question": "Le basi sono 100% compatibili con SIAE & Soundreef e prive di campioni non autorizzati?",
+      "answer": "S\u00ec! Tutti gli strumentali sono composizioni originali al 100% prodotte da Onzieb. Nessun campione di terzi non liberato. Puoi depositare il tuo testo e la tua opera presso la SIAE & Soundreef in totale serenit\u00e0 legale."
+    },
+    {
+      "question": "Quali metodi di pagamento sono accettati in Italia?",
+      "answer": "Puoi pagare comodamente e all'istante tramite Postepay, Satispay, Apple Pay, Google Pay, Carte di Credito, PayPal."
+    },
+    {
+      "question": "Come e quando ricevo i miei file audio senza vinilete vocali?",
+      "answer": "Subito dopo il completamento del pagamento, i file di studio in formato WAV 24-bit non taggati (untagged), la versione MP3 ad alta definizione e il contratto ufficiale di cessione licenza in formato PDF vengono inviati automaticamente al tuo indirizzo email."
+    }
+  ]
+},
+  "it/puglia": {
+  "name": "Italia \u2013 Puglia & Sud Italia Urban Hub",
+  "flag": "\ud83c\uddee\ud83c\uddf9",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "Postepay, Satispay, Apple Pay, Google Pay, Carte di Credito, PayPal",
+  "pro": "SIAE & Soundreef",
+  "proFullName": "Societ\u00e0 Italiana degli Autori ed Editori (SIAE) & Soundreef",
+  "proGuide": "100% originale e conforme SIAE.",
+  "headline": "Basi Trap in Puglia: Sound di Bari, Trap Tarantino Kid Yugi & Drill",
+  "description": "Ritmiche contagiose, pianoforti cupi e bassi profondi ispirati alla nuova ondata pugliese per artisti di Bari, Taranto e Lecce.",
+  "popularGenres": [
+    "Trap Pugliese",
+    "Bari Rap",
+    "Kid Yugi Style"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Bari Deal Hub",
+      "slug": "it/bari",
+      "description": "Trap mediterraneo e suoni del sud."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Posso pubblicare brani registrati con queste basi su Spotify, Apple Music e YouTube in Italia \u2013 Puglia & Sud Italia Urban Hub?",
+      "answer": "S\u00ec, assolutamente! Tutte le licenze WAV e MP3 di Different Type of Vibe includono il 100% dei diritti di streaming e distribuzione commerciale per Spotify, Apple Music, YouTube, Deezer, TikTok e radio. Mantieni il 100% delle tue royalties d'artista e interprete."
+    },
+    {
+      "question": "Le basi sono 100% compatibili con SIAE & Soundreef e prive di campioni non autorizzati?",
+      "answer": "S\u00ec! Tutti gli strumentali sono composizioni originali al 100% prodotte da Onzieb. Nessun campione di terzi non liberato. Puoi depositare il tuo testo e la tua opera presso la SIAE & Soundreef in totale serenit\u00e0 legale."
+    },
+    {
+      "question": "Quali metodi di pagamento sono accettati in Italia?",
+      "answer": "Puoi pagare comodamente e all'istante tramite Postepay, Satispay, Apple Pay, Google Pay, Carte di Credito, PayPal."
+    },
+    {
+      "question": "Come e quando ricevo i miei file audio senza vinilete vocali?",
+      "answer": "Subito dopo il completamento del pagamento, i file di studio in formato WAV 24-bit non taggati (untagged), la versione MP3 ad alta definizione e il contratto ufficiale di cessione licenza in formato PDF vengono inviati automaticamente al tuo indirizzo email."
+    }
+  ]
+},
 };
