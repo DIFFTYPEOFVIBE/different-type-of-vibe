@@ -1,6 +1,6 @@
 // src/data/stagedClusters.ts
-// Programmatic SEO Staged Batch Cluster Ledger - Global Big 8 Complete Footprint (Netherlands / Nederhop)
-// Deployed automatically by scripts/deploy_netherlands_pseo.py
+// Programmatic SEO Staged Batch Cluster Ledger - Global Big 8 Complete Footprint (Netherlands Complete)
+// Deployed automatically by scripts/deploy_wave2_netherlands_pseo.py
 
 export interface StagedClusterItem {
   type: 'vibe' | 'genre' | 'mood' | 'bpm' | 'key' | 'scene' | 'instrument' | 'blog';
@@ -6648,5 +6648,400 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "type": "scene",
     "slug": "tilburg-straatrap-instrumental",
     "batchId": 16
+  },
+  {
+    "type": "scene",
+    "slug": "noord-holland-nederhop-trap",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "zuid-holland-straatrap-hub",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "amsterdam-bijlmer-1104-afro",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "rotterdam-spangen-broederliefde",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "noord-brabant-club-trap",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "gelderland-straatrap-drill",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "overijssel-zwolle-boombap",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "limburg-grenzeloze-trap",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "haarlem-melodische-nederhop",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "dordrecht-drechtsteden-drill",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "amersfoort-midden-nederland-rap",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "leiden-zuid-holland-trap",
+    "batchId": 17
+  },
+  {
+    "type": "vibe",
+    "slug": "kevin-grote-versnelling-melodic-rap",
+    "batchId": 17
+  },
+  {
+    "type": "vibe",
+    "slug": "louivos-wild-west-caged-trap",
+    "batchId": 17
+  },
+  {
+    "type": "vibe",
+    "slug": "3robi-marokkaanse-snelle-trap-beats",
+    "batchId": 17
+  },
+  {
+    "type": "vibe",
+    "slug": "hef-bundy-classic-noordholland-boombap",
+    "batchId": 17
+  },
+  {
+    "type": "vibe",
+    "slug": "fresku-eindhoven-storytelling-hiphop",
+    "batchId": 17
+  },
+  {
+    "type": "vibe",
+    "slug": "sfb-strictly-family-afro-banger",
+    "batchId": 17
+  },
+  {
+    "type": "vibe",
+    "slug": "sbmg-chivv-henkie-t-trap",
+    "batchId": 17
+  },
+  {
+    "type": "vibe",
+    "slug": "snelle-radio-melodische-nederpop-rap",
+    "batchId": 17
+  },
+  {
+    "type": "vibe",
+    "slug": "kraantje-pappie-high-energy-party-rap",
+    "batchId": 17
+  },
+  {
+    "type": "vibe",
+    "slug": "frenna-was-je-hier-lofi-rnb",
+    "batchId": 17
+  },
+  {
+    "type": "vibe",
+    "slug": "broederliefde-jungly-caribbean-soca",
+    "batchId": 17
+  },
+  {
+    "type": "vibe",
+    "slug": "boef-habiba-orchestral-banger",
+    "batchId": 17
+  },
+  {
+    "type": "vibe",
+    "slug": "cho-chocolat-smooth-late-night",
+    "batchId": 17
+  },
+  {
+    "type": "vibe",
+    "slug": "chivv-unlocked-afro-dancehall-banger",
+    "batchId": 17
+  },
+  {
+    "type": "vibe",
+    "slug": "josylvio-killer-kamal-moroccan-trap",
+    "batchId": 17
+  },
+  {
+    "type": "genre",
+    "slug": "beats-kopen-fonds-podiumkunsten",
+    "batchId": 17
+  },
+  {
+    "type": "genre",
+    "slug": "nederhop-drill-zonder-voice-tag",
+    "batchId": 17
+  },
+  {
+    "type": "genre",
+    "slug": "afro-dancehall-zomer-beats-ideal",
+    "batchId": 17
+  },
+  {
+    "type": "genre",
+    "slug": "professionele-trap-beats-nederland",
+    "batchId": 17
+  },
+  {
+    "type": "genre",
+    "slug": "nederlandse-hiphop-licenties-buma",
+    "batchId": 17
+  },
+  {
+    "type": "genre",
+    "slug": "popronde-geselecteerde-instrumentals",
+    "batchId": 17
+  },
+  {
+    "type": "genre",
+    "slug": "rotterdam-drill-wav-trackouts",
+    "batchId": 17
+  },
+  {
+    "type": "genre",
+    "slug": "nederhop-piano-ballad-beats",
+    "batchId": 17
+  },
+  {
+    "type": "genre",
+    "slug": "exclusive-rights-beatmaker-contract-nl",
+    "batchId": 17
+  },
+  {
+    "type": "genre",
+    "slug": "amsterdam-urban-producers-beats",
+    "batchId": 17
+  },
+  {
+    "type": "genre",
+    "slug": "beats-voor-rappers-met-ideal-nederland",
+    "batchId": 17
+  },
+  {
+    "type": "genre",
+    "slug": "nederlandse-hit-instrumentals-wav",
+    "batchId": 17
+  },
+  {
+    "type": "bpm",
+    "slug": "102-bpm-nederhop-afro-caribbean",
+    "batchId": 17
+  },
+  {
+    "type": "bpm",
+    "slug": "138-bpm-spangen-rotterdam-drill",
+    "batchId": 17
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-dutch-drill-fast-bounce",
+    "batchId": 17
+  },
+  {
+    "type": "bpm",
+    "slug": "92-bpm-kevin-chilled-melodic-rap",
+    "batchId": 17
+  },
+  {
+    "type": "bpm",
+    "slug": "128-bpm-amsterdam-club-trap",
+    "batchId": 17
+  },
+  {
+    "type": "key",
+    "slug": "b-minor-dutch-drill-beats",
+    "batchId": 17
+  },
+  {
+    "type": "key",
+    "slug": "f-sharp-minor-nederhop-trap",
+    "batchId": 17
+  },
+  {
+    "type": "key",
+    "slug": "c-sharp-minor-rotterdam-straatrap",
+    "batchId": 17
+  },
+  {
+    "type": "key",
+    "slug": "e-minor-afro-dancehall-bounces",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "amsterdam-rotterdam-drill-wav",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "amsterdam-afro-dancehall-instrumentals",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "amsterdam-straatrap-pianobeats",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "rotterdam-nederhop-trap-beats",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "rotterdam-rotterdam-drill-wav",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "rotterdam-afro-dancehall-instrumentals",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "rotterdam-straatrap-pianobeats",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "den-haag-nederhop-trap-beats",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "den-haag-rotterdam-drill-wav",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "den-haag-afro-dancehall-instrumentals",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "den-haag-straatrap-pianobeats",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "utrecht-nederhop-trap-beats",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "utrecht-rotterdam-drill-wav",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "utrecht-afro-dancehall-instrumentals",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "utrecht-straatrap-pianobeats",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "bijlmer-nederhop-trap-beats",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "bijlmer-rotterdam-drill-wav",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "bijlmer-afro-dancehall-instrumentals",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "bijlmer-straatrap-pianobeats",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "spangen-nederhop-trap-beats",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "spangen-rotterdam-drill-wav",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "spangen-afro-dancehall-instrumentals",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "spangen-straatrap-pianobeats",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "eindhoven-nederhop-trap-beats",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "eindhoven-rotterdam-drill-wav",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "eindhoven-afro-dancehall-instrumentals",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "eindhoven-straatrap-pianobeats",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "zwolle-nederhop-trap-beats",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "zwolle-rotterdam-drill-wav",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "zwolle-afro-dancehall-instrumentals",
+    "batchId": 17
+  },
+  {
+    "type": "scene",
+    "slug": "zwolle-straatrap-pianobeats",
+    "batchId": 17
   }
 ];
