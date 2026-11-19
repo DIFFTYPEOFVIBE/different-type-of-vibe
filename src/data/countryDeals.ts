@@ -21929,4 +21929,483 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
     }
   ]
 },
+  "cl": {
+  "name": "Chile – Trap Chileno, Reggaetón del Género & Boom Bap (Cuenta RUT, Webpay & SCD)",
+  "flag": "🇨🇱",
+  "currency": "CLP ($)",
+  "currencyCode": "CLP",
+  "gateways": "Cuenta RUT (BancoEstado), Webpay Plus (Transbank), Mach, Khipu, Tarjetas de Débito/Crédito, Apple Pay, PayPal",
+  "pro": "SCD",
+  "proFullName": "Sociedad Chilena del Derecho de Autor (SCD)",
+  "proGuide": "100% legal para registro ante la SCD y el Departamento de Derechos Intelectuales (DDI) en Chile. Todas las pistas son composiciones originales producidas por Onzieb sin samples no autorizados. Conservas el 100% de tus regalías de autor e intérprete en Spotify, Apple Music y YouTube.",
+  "headline": "Comprar Beats en Chile: Paga con Cuenta RUT o Webpay, Licencias WAV y Stems",
+  "description": "Instrumentales profesionales sin voz de fondo (untagged) en calidad WAV 24-bit de estudio y pistas separadas (Stems). Especialmente producidas para Reggaetón Chileno estilo Cris Mj, Trap de Población estilo Pablo Chill-E y Boom Bap clásico. Descarga inmediata con contrato legal en PDF.",
+  "popularGenres": [
+    "Reggaetón Chileno",
+    "Trap Chileno",
+    "Boom Bap Clásico",
+    "R&B Urbano"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Santiago Capital del Género",
+      "slug": "cl/santiago-centro",
+      "description": "La capital mundial del streaming de reggaetón y trap latino."
+    },
+    {
+      "name": "La Serena IV Región",
+      "slug": "cl/la-serena-coquimbo",
+      "description": "Cuna de Cris Mj, FloyyMenor y el hit global Gata Only."
+    },
+    {
+      "name": "Puente Alto Shishi Gang",
+      "slug": "cl/puente-alto",
+      "description": "Pablo Chill-E, trap de población y sonido de calle auténtico."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Chile – Trap Chileno, Reggaetón del Género & Boom Bap (Cuenta RUT, Webpay & SCD)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante la SCD y el DDI?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante el Departamento de Derechos Intelectuales (DDI) y la SCD (Sociedad Chilena del Derecho de Autor) sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Chile?",
+      "answer": "En Pesos Chilenos (CLP $), puedes pagar de forma instantánea a través de Cuenta RUT (BancoEstado), Webpay Plus (Transbank con tarjeta de débito o crédito chilena), Mach, Khipu, Apple Pay y PayPal sin cargos ocultos de conversión."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "cl/santiago-centro": {
+  "name": "Chile – Santiago de Chile (Capital Mundial del Streaming Urbano)",
+  "flag": "🇨🇱",
+  "currency": "CLP ($)",
+  "currencyCode": "CLP",
+  "gateways": "Cuenta RUT, Webpay Plus, Mach, Tarjetas, Apple Pay",
+  "pro": "SCD",
+  "proFullName": "SCD Chile",
+  "proGuide": "100% compatible con SCD con descarga inmediata de contrato PDF.",
+  "headline": "Beats en Santiago: Perreo del Género, Trap Porteño & Baterías de Élite",
+  "description": "La ciudad que más reggaetón y trap consume en el planeta: dembows acelerados a 96-98 BPM, bajos 808 demoledores y sintetizadores envolventes para sonar en todas las discos de Santiago.",
+  "popularGenres": [
+    "Reggaetón Santiaguino",
+    "Trap Urbano",
+    "R&B Pop",
+    "Club Banger"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Chile – Santiago de Chile (Capital Mundial del Streaming Urbano)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante la SCD y el DDI?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante el Departamento de Derechos Intelectuales (DDI) y la SCD (Sociedad Chilena del Derecho de Autor) sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Chile?",
+      "answer": "En Pesos Chilenos (CLP $), puedes pagar de forma instantánea a través de Cuenta RUT (BancoEstado), Webpay Plus (Transbank con tarjeta de débito o crédito chilena), Mach, Khipu, Apple Pay y PayPal sin cargos ocultos de conversión."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "cl/la-serena-coquimbo": {
+  "name": "Chile – La Serena & Coquimbo (IV Región & Cuna de Gata Only)",
+  "flag": "🇨🇱",
+  "currency": "CLP ($)",
+  "currencyCode": "CLP",
+  "gateways": "Cuenta RUT, Webpay Plus, Mach, Tarjetas, Apple Pay",
+  "pro": "SCD",
+  "proFullName": "SCD Chile",
+  "proGuide": "Composiciones originales libres de reclamos de copyright.",
+  "headline": "Beats en La Serena: Estilo Cris Mj, FloyyMenor & Perreo Melódico a 96 BPM",
+  "description": "La tierra que exportó el sonido chileno al Billboard global: campanitas pegajosas de sintetizador, perreo suave bailable y bajos 808 redondos para coros que cantan millones.",
+  "popularGenres": [
+    "Gata Only Style",
+    "Cris Mj Vibe",
+    "Perreo Serenense",
+    "Melodic Dembow"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Cris Mj Vibe",
+      "slug": "../../vibe/cris-mj-gata-only-melodic-perreo",
+      "description": "Campanitas de sinte brillantes y perreo melódico a 96 BPM."
+    },
+    {
+      "name": "FloyyMenor Vibe",
+      "slug": "../../vibe/floyymenor-pelotera-deep-vocal-perreo",
+      "description": "Cadencia hipnótica grave, perreo minimalista y sintes oscuros."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Chile – La Serena & Coquimbo (IV Región & Cuna de Gata Only)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante la SCD y el DDI?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante el Departamento de Derechos Intelectuales (DDI) y la SCD (Sociedad Chilena del Derecho de Autor) sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Chile?",
+      "answer": "En Pesos Chilenos (CLP $), puedes pagar de forma instantánea a través de Cuenta RUT (BancoEstado), Webpay Plus (Transbank con tarjeta de débito o crédito chilena), Mach, Khipu, Apple Pay y PayPal sin cargos ocultos de conversión."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "cl/puente-alto": {
+  "name": "Chile – Puente Alto & Zona Sur (Cuna del Trap Shishi Gang)",
+  "flag": "🇨🇱",
+  "currency": "CLP ($)",
+  "currencyCode": "CLP",
+  "gateways": "Cuenta RUT, Webpay Plus, Mach, Tarjetas, Apple Pay",
+  "pro": "SCD",
+  "proFullName": "SCD Chile",
+  "proGuide": "100% listo para distribución comercial en plataformas digitales.",
+  "headline": "Beats en Puente Alto: Pablo Chill-E Shishi Gang, Trap Pesado & Barras Crudas",
+  "description": "La voz indiscutida de la calle chilena: campanas frías de trap, bombos cortantes, bajos 808 deslizantes y actitud de población sin pelos en la lengua.",
+  "popularGenres": [
+    "Shishi Gang Vibe",
+    "Trap de Población",
+    "Hardcore Trap",
+    "Puente Alto Sound"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Pablo Chill-E Vibe",
+      "slug": "../../vibe/pablo-chill-e-shishi-gang-hardcore-trap",
+      "description": "Trap de población crudo con bajos 808 pesados."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Chile – Puente Alto & Zona Sur (Cuna del Trap Shishi Gang)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante la SCD y el DDI?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante el Departamento de Derechos Intelectuales (DDI) y la SCD (Sociedad Chilena del Derecho de Autor) sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Chile?",
+      "answer": "En Pesos Chilenos (CLP $), puedes pagar de forma instantánea a través de Cuenta RUT (BancoEstado), Webpay Plus (Transbank con tarjeta de débito o crédito chilena), Mach, Khipu, Apple Pay y PayPal sin cargos ocultos de conversión."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "cl/valparaiso-vina": {
+  "name": "Chile – Valparaíso & Viña del Mar (Costa Central & Festival Urbano)",
+  "flag": "🇨🇱",
+  "currency": "CLP ($)",
+  "currencyCode": "CLP",
+  "gateways": "Cuenta RUT, Webpay Plus, Mach, Tarjetas, Apple Pay",
+  "pro": "SCD",
+  "proFullName": "SCD Chile",
+  "proGuide": "100% legal ante SCD con contrato en PDF descargable.",
+  "headline": "Beats en Valparaíso & Viña: Reggaetón Costero, Trap de Playa & Verano",
+  "description": "La energía de la costa central y el festival más grande de América Latina: sintetizadores brillantes, cajas bailables y ritmos tropicales.",
+  "popularGenres": [
+    "Reggaetón Costero",
+    "Verano Trap",
+    "Urbano Viñamarino"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Chile – Valparaíso & Viña del Mar (Costa Central & Festival Urbano)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante la SCD y el DDI?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante el Departamento de Derechos Intelectuales (DDI) y la SCD (Sociedad Chilena del Derecho de Autor) sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Chile?",
+      "answer": "En Pesos Chilenos (CLP $), puedes pagar de forma instantánea a través de Cuenta RUT (BancoEstado), Webpay Plus (Transbank con tarjeta de débito o crédito chilena), Mach, Khipu, Apple Pay y PayPal sin cargos ocultos de conversión."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "cl/concepcion-biobio": {
+  "name": "Chile – Concepción & Bío Bío (Capital Alternativa & Rock-Trap)",
+  "flag": "🇨🇱",
+  "currency": "CLP ($)",
+  "currencyCode": "CLP",
+  "gateways": "Cuenta RUT, Webpay Plus, Mach, Tarjetas, Apple Pay",
+  "pro": "SCD",
+  "proFullName": "SCD Chile",
+  "proGuide": "100% libre de samples protegidos para monetizar en Spotify.",
+  "headline": "Beats en Concepción: Rock-Trap Alternativo, Guitarras Oscuras & Boom Bap",
+  "description": "La cuna del arte del sur: guitarras saturadas, pianos melancólicos y baterías con swing analógico para letras con mensaje y contenido.",
+  "popularGenres": [
+    "Rock-Trap Penquista",
+    "Boom Bap Alternativo",
+    "Conce Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Chile – Concepción & Bío Bío (Capital Alternativa & Rock-Trap)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante la SCD y el DDI?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante el Departamento de Derechos Intelectuales (DDI) y la SCD (Sociedad Chilena del Derecho de Autor) sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Chile?",
+      "answer": "En Pesos Chilenos (CLP $), puedes pagar de forma instantánea a través de Cuenta RUT (BancoEstado), Webpay Plus (Transbank con tarjeta de débito o crédito chilena), Mach, Khipu, Apple Pay y PayPal sin cargos ocultos de conversión."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "cl/antofagasta-norte": {
+  "name": "Chile – Antofagasta & Norte Grande (Drill Minero & Trap del Desierto)",
+  "flag": "🇨🇱",
+  "currency": "CLP ($)",
+  "currencyCode": "CLP",
+  "gateways": "Cuenta RUT, Webpay Plus, Mach, Tarjetas, Apple Pay",
+  "pro": "SCD",
+  "proFullName": "SCD Chile",
+  "proGuide": "Garantía de autoría 100% original por Onzieb.",
+  "headline": "Beats en Antofagasta: Drill del Desierto, Cajas Metálicas & 808s",
+  "description": "La fuerza del desierto de Atacama: patrones rápidos de hi-hat, bajos 808 que retumban en la noche y actitud callejera del norte grande.",
+  "popularGenres": [
+    "Drill Minero",
+    "Trap Norteño",
+    "Street Rap Antofagasta"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Chile – Antofagasta & Norte Grande (Drill Minero & Trap del Desierto)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante la SCD y el DDI?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante el Departamento de Derechos Intelectuales (DDI) y la SCD (Sociedad Chilena del Derecho de Autor) sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Chile?",
+      "answer": "En Pesos Chilenos (CLP $), puedes pagar de forma instantánea a través de Cuenta RUT (BancoEstado), Webpay Plus (Transbank con tarjeta de débito o crédito chilena), Mach, Khipu, Apple Pay y PayPal sin cargos ocultos de conversión."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "cl/temuco-araucania": {
+  "name": "Chile – Temuco & La Araucanía (Hip-Hop del Sur & Guitarras)",
+  "flag": "🇨🇱",
+  "currency": "CLP ($)",
+  "currencyCode": "CLP",
+  "gateways": "Cuenta RUT, Webpay Plus, Mach, Tarjetas, Apple Pay",
+  "pro": "SCD",
+  "proFullName": "SCD Chile",
+  "proGuide": "100% compatible con SCD.",
+  "headline": "Beats en Temuco: Boom Bap Sureño, Pianos Nostálgicos & Rap Consciente",
+  "description": "El frío y la lluvia del sur chileno: loops de jazz polvorientos, bombos con pegada pesada y espacio amplio para barras testimoniales.",
+  "popularGenres": [
+    "Boom Bap Sureño",
+    "Rap Consciente",
+    "Temuco Sound"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Chile – Temuco & La Araucanía (Hip-Hop del Sur & Guitarras)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante la SCD y el DDI?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante el Departamento de Derechos Intelectuales (DDI) y la SCD (Sociedad Chilena del Derecho de Autor) sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Chile?",
+      "answer": "En Pesos Chilenos (CLP $), puedes pagar de forma instantánea a través de Cuenta RUT (BancoEstado), Webpay Plus (Transbank con tarjeta de débito o crédito chilena), Mach, Khipu, Apple Pay y PayPal sin cargos ocultos de conversión."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "cl/maipu-santiago": {
+  "name": "Chile – Maipú & Zona Poniente (Cuna de El Jordan 23)",
+  "flag": "🇨🇱",
+  "currency": "CLP ($)",
+  "currencyCode": "CLP",
+  "gateways": "Cuenta RUT, Webpay Plus, Mach, Tarjetas, Apple Pay",
+  "pro": "SCD",
+  "proFullName": "SCD Chile",
+  "proGuide": "100% original con entrega de stems multitrack.",
+  "headline": "Beats en Maipú: Perreo Pesado de Población, Dembow Agresivo & 808",
+  "description": "El corazón de la Zona Poniente de Santiago: dembows cortantes, bajos que rebotan en los autos y sonido directo de la población.",
+  "popularGenres": [
+    "Perreo de Población",
+    "El Jordan 23 Style",
+    "Maipú Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "El Jordan 23 Vibe",
+      "slug": "../../vibe/el-jordan-23-poblacion-perreo-pesado",
+      "description": "Perreo de población pesado y bajos 808 demoledores."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Chile – Maipú & Zona Poniente (Cuna de El Jordan 23)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante la SCD y el DDI?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante el Departamento de Derechos Intelectuales (DDI) y la SCD (Sociedad Chilena del Derecho de Autor) sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Chile?",
+      "answer": "En Pesos Chilenos (CLP $), puedes pagar de forma instantánea a través de Cuenta RUT (BancoEstado), Webpay Plus (Transbank con tarjeta de débito o crédito chilena), Mach, Khipu, Apple Pay y PayPal sin cargos ocultos de conversión."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "cl/talca-maule": {
+  "name": "Chile – Talca & Región del Maule (Cuna de Marcianeke)",
+  "flag": "🇨🇱",
+  "currency": "CLP ($)",
+  "currencyCode": "CLP",
+  "gateways": "Cuenta RUT, Webpay Plus, Mach, Tarjetas, Apple Pay",
+  "pro": "SCD",
+  "proFullName": "SCD Chile",
+  "proGuide": "Derechos comerciales completos para lanzamientos mundiales.",
+  "headline": "Beats en Talca: Perreo Viral Rápido, Sintetizadores de Fiesta & 98 BPM",
+  "description": "El fenómeno viral del Maule: sintetizadores estridentes, patrones de dembow acelerados y bajos energéticos para hacer saltar la disco entera.",
+  "popularGenres": [
+    "Perreo Viral",
+    "Marcianeke Vibe",
+    "Fiesta Urbana"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Marcianeke Vibe",
+      "slug": "../../vibe/marcianeke-dimelo-ma-viral-perreo",
+      "description": "Perreo fiestero de alta energía y ritmo viral."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Chile – Talca & Región del Maule (Cuna de Marcianeke)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante la SCD y el DDI?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante el Departamento de Derechos Intelectuales (DDI) y la SCD (Sociedad Chilena del Derecho de Autor) sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Chile?",
+      "answer": "En Pesos Chilenos (CLP $), puedes pagar de forma instantánea a través de Cuenta RUT (BancoEstado), Webpay Plus (Transbank con tarjeta de débito o crédito chilena), Mach, Khipu, Apple Pay y PayPal sin cargos ocultos de conversión."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
 };
