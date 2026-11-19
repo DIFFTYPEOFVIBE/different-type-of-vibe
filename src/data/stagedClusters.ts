@@ -22245,4 +22245,1437 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "1"
   ]
 },
+  {
+  "slug": "tito-double-p-demoniaco-trap-belico",
+  "name": "Tito Double P Demoniaco Trap Bélico",
+  "category": "vibe",
+  "badge": "Demoniaco Bélico Vibe",
+  "headline": "Beats Estilo Tito Double P: Requintos Agresivos, Metales Rápidos & Trap Bélico Viral",
+  "description": "El compositor detrás de los mayores éxitos bélicos: requintos a doble velocidad, trombones cortantes y bajo tololoche 808 para barras agresivas y directas.",
+  "targetArtists": [
+    "Tito Double P",
+    "Peso Pluma",
+    "Génesis",
+    "El Gavilán"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Requinto Doble Velocidad",
+    "Metales Cortantes",
+    "Trap Bélico",
+    "Tololoche 808"
+  ],
+  "popularGenres": [
+    "Trap Bélico",
+    "Corridos Tumbados",
+    "Regional Urbano"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "xavi-la-diabla-tumbado-romantico",
+  "name": "Xavi La Diabla Tumbado Romántico",
+  "category": "vibe",
+  "badge": "Tumbado Romántico Vibe",
+  "headline": "Beats Estilo Xavi: Tumbado Romántico, Guitarras Sentidas & Coros de Desamor",
+  "description": "El fenómeno mundial del corrido romántico: guitarras acústicas dulces, rasgueos sutiles y bajo envolvente para voces altas y coros virales de TikTok.",
+  "targetArtists": [
+    "Xavi",
+    "La Diabla",
+    "La Víctima"
+  ],
+  "recommendedBpm": "120-128 BPM",
+  "recommendedKey": "G-Major / E-Minor",
+  "vibeAttributes": [
+    "Tumbado Romántico",
+    "Guitarra Dulce",
+    "Coro Viral",
+    "Bajo Envolvente"
+  ],
+  "popularGenres": [
+    "Corrido Romántico",
+    "Corridos Tumbados",
+    "Urbano Mexicano"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "gabito-ballesteros-lou-lou-electro-corrido",
+  "name": "Gabito Ballesteros Lou Lou Electro Corrido",
+  "category": "vibe",
+  "badge": "Electro-Corrido Vibe",
+  "headline": "Beats Estilo Gabito Ballesteros: Electro-Corrido, Sintetizadores EDM & Charchetas 808",
+  "description": "La evolución electrónica del corrido: sintetizadores de club, charchetas y trombones bélicos con un drop contundente de trap para romper festivales.",
+  "targetArtists": [
+    "Gabito Ballesteros",
+    "Lou Lou",
+    "Natanael Cano",
+    "Peso Pluma"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "Sintetizadores EDM",
+    "Drop Electrónico",
+    "Charchetas Bélicas",
+    "Fiesta Total"
+  ],
+  "popularGenres": [
+    "Electro Corrido",
+    "Trap Bélico",
+    "EDM Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "oscar-maydon-distorsion-corrido-trap",
+  "name": "Oscar Maydon Distorsión Corrido Trap",
+  "category": "vibe",
+  "badge": "Distorsión Tumbada",
+  "headline": "Beats Estilo Oscar Maydon: Requintos con Reverb Oscuro, Bajos 808 Saturados & Misterio",
+  "description": "El lado más oscuro y elegante del movimiento: requintos menores con misterio, saturación sutil en el bajo 808 y cadencia pesada para historias nocturnas.",
+  "targetArtists": [
+    "Oscar Maydon",
+    "Fin de Semana",
+    "Fuerza Regida"
+  ],
+  "recommendedBpm": "124-130 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Reverb Oscuro",
+    "Bajo Saturado",
+    "Ambiente Nocturno",
+    "Elegancia Bélica"
+  ],
+  "popularGenres": [
+    "Corridos Tumbados",
+    "Dark Trap",
+    "Trap Bélico"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "tornillo-473-cumbia-callejera-rap",
+  "name": "Tornillo 473 Cumbia Callejera Rap",
+  "category": "vibe",
+  "badge": "Cumbia Callejera Vibe",
+  "headline": "Beats Estilo Tornillo 473: Cumbia Callejera del Bajío, Acordeones Añejos & Bombo Seco",
+  "description": "La voz joven del barrio de Santa Fe: acordeones con sabor tradicional, cajas de rap secas y percusión de cumbia auténtica para líricas de lealtad y calle.",
+  "targetArtists": [
+    "Tornillo",
+    "Santa Fe Klan",
+    "473 Music"
+  ],
+  "recommendedBpm": "92-96 BPM",
+  "recommendedKey": "A-Minor / C-Minor",
+  "vibeAttributes": [
+    "Acordeón Añejo",
+    "Cumbia Callejera",
+    "Bombo Seco",
+    "Lealtad y Barrio"
+  ],
+  "popularGenres": [
+    "Cumbia Rap",
+    "Rap de Barrio",
+    "Rap Mexicano"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "millonario-babilonia-hardcore-trap",
+  "name": "Millonario Babilonia Hardcore Trap",
+  "category": "vibe",
+  "badge": "Babilonia Hardcore",
+  "headline": "Beats Estilo Millonario: Trap Agresivo, Baterías Descontroladas & Barras Rudas",
+  "description": "Tavizsismo y pura adrenalina: bombos que distorsionan con intención, cajas explosivas y sonido pesado al estilo Babilonia Music y Cartel de Santa.",
+  "targetArtists": [
+    "Millonario",
+    "Cartel de Santa",
+    "Babo"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Pura Adrenalina",
+    "Bombos Distorsionados",
+    "Cajas Explosivas",
+    "Barras Rudas"
+  ],
+  "popularGenres": [
+    "Hardcore Trap",
+    "Rap Regio",
+    "Rap Mexicano"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "chicho-castro-requinto-drill-fusion",
+  "name": "Chicho Castro Requinto Drill Fusion",
+  "category": "vibe",
+  "badge": "Requinto Drill Vibe",
+  "headline": "Beats Estilo Chicho Castro: Fusión de Requinto con Drill 140 BPM & Bajos Deslizantes",
+  "description": "La vanguardia del género: técnica virtuosa de requinto de 12 cuerdas sobre patrones rápidos de drill hi-hats y bajos 808 con deslizamiento.",
+  "targetArtists": [
+    "Chicho Castro",
+    "Los Chavalos",
+    "Drill Mexicano"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Requinto Drill",
+    "Bajo Deslizante",
+    "Hi-Hats Rápidos",
+    "Virtuosismo"
+  ],
+  "popularGenres": [
+    "Requinto Drill",
+    "Corridos Tumbados",
+    "Trap Bélico"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "lefty-sm-por-mi-mexico-anthem-rap",
+  "name": "Lefty SM Por Mi México Anthem Rap",
+  "category": "vibe",
+  "badge": "Himno Nacional Rap",
+  "headline": "Beats Estilo Lefty SM: Metales Épicos, Orgullo Mexicano & Cajas con Fuerza",
+  "description": "El himno que une a todo el país: trompetas triunfales, coros patrióticos callejeros y cajas con pegada para letras de orgullo y esfuerzo.",
+  "targetArtists": [
+    "Lefty SM",
+    "Por Mi México",
+    "Santa Fe Klan",
+    "Alemán"
+  ],
+  "recommendedBpm": "95-102 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Trompetas Triunfales",
+    "Orgullo Mexicano",
+    "Caja con Pegada",
+    "Himno Callejero"
+  ],
+  "popularGenres": [
+    "Rap Mexicano",
+    "Himno Rap",
+    "Hip Hop Latino"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "6"
+  ]
+},
+  {
+  "slug": "dharius-directo-hasta-arriba-party-trap",
+  "name": "Dharius Directo Hasta Arriba Party Trap",
+  "category": "vibe",
+  "badge": "Party Bounce Regio",
+  "headline": "Beats Estilo Dharius: West Coast Regio, Sintetizadores Divertidos & Fiesta Callejera",
+  "description": "Pura vibra de fiesta y esquina: sintetizadores alegres, bajo 808 rebotante y ritmo contagioso para rimas con carisma callejero inigualable.",
+  "targetArtists": [
+    "Dharius",
+    "Tiro Loko",
+    "El Clan"
+  ],
+  "recommendedBpm": "100-110 BPM / 128 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Sintetizadores Alegres",
+    "Bajo 808 Rebotante",
+    "Fiesta Callejera",
+    "Carisma"
+  ],
+  "popularGenres": [
+    "West Coast Regio",
+    "Party Trap",
+    "Rap Mexicano"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "neto-pena-guadalajara-acoustic-rnb-rap",
+  "name": "Neto Peña Guadalajara Acoustic RnB Rap",
+  "category": "vibe",
+  "badge": "R&B Acústico Vibe",
+  "headline": "Beats Estilo Neto Peña: Guitarras Acústicas Suaves, R&B Melódico & Sentimiento Fino",
+  "description": "Sonido fino y romántico de Guadalajara: rasgueos acústicos cálidos, acordes de R&B contemporáneo y bajo suave para voces con sentimiento.",
+  "targetArtists": [
+    "Neto Peña",
+    "Rich Vagos",
+    "Leonel García Crossover"
+  ],
+  "recommendedBpm": "90-100 BPM / 120 BPM",
+  "recommendedKey": "G-Major / C-Major",
+  "vibeAttributes": [
+    "Guitarra Acústica Suave",
+    "R&B Contemporáneo",
+    "Voz Melódica",
+    "Sentimiento"
+  ],
+  "popularGenres": [
+    "R&B Rap",
+    "Melodic Trap",
+    "Rich Vagos Sound"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "yoss-bones-rnb-trap-femenino-mexico",
+  "name": "Yoss Bones RnB Trap Femenino México",
+  "category": "vibe",
+  "badge": "Femenino R&B Trap",
+  "headline": "Beats Estilo Yoss Bones: R&B Oscuro, Atmósferas Sensuales & Trap con Estilo",
+  "description": "Elegancia vocal femenina: pads envolventes, sintetizadores sensuales y baterías de trap finamente procesadas para voces potentes.",
+  "targetArtists": [
+    "Yoss Bones",
+    "Rich Vagos",
+    "Hispana"
+  ],
+  "recommendedBpm": "115-125 BPM",
+  "recommendedKey": "E-Minor / B-Minor",
+  "vibeAttributes": [
+    "R&B Oscuro",
+    "Sensualidad",
+    "Batería Fina",
+    "Poder Femenino"
+  ],
+  "popularGenres": [
+    "R&B Trap",
+    "Urbano Femenino",
+    "Rich Vagos Vibe"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "remik-gonzalez-tijuana-malandro-rap",
+  "name": "Remik González Tijuana Malandro Rap",
+  "category": "vibe",
+  "badge": "Rap Malandro Vibe",
+  "headline": "Beats Estilo Remik González: Violines Menores Oscuros, Caja Seca & Rap de Frontera",
+  "description": "Crudeza y realidad de barrio: cuerdas menores en loop, cajas de boom bap secas y bajos densos para narraciones crudas de la frontera.",
+  "targetArtists": [
+    "Remik González",
+    "Tijuana Malandro",
+    "Baja California"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Violines Menores",
+    "Caja Seca",
+    "Rap Malandro",
+    "Crudeza"
+  ],
+  "popularGenres": [
+    "Hardcore Rap",
+    "Rap de Frontera",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "pistas-de-corridos-tumbados-baratas-oxxo",
+  "name": "Pistas de Corridos Tumbados Baratas (Pago OXXO)",
+  "category": "genre",
+  "badge": "Pistas Baratas OXXO",
+  "headline": "Pistas de Corridos Tumbados Económicas: Paga en Tiendas OXXO en Pesos (MXN $)",
+  "description": "Instrumentales de calidad profesional de estudio al alcance de tu bolsillo. Descarga directa con contrato legal y paga en efectivo en cualquier OXXO.",
+  "targetArtists": [
+    "Artistas Emergentes",
+    "Compositores de Corridos",
+    "Estudiantes"
+  ],
+  "recommendedBpm": "Todos los Tempos",
+  "recommendedKey": "Todas las Tonalidades",
+  "vibeAttributes": [
+    "Precio Accesible",
+    "Pago en OXXO",
+    "Pesos MXN",
+    "Descarga WAV"
+  ],
+  "popularGenres": [
+    "Corridos Tumbados",
+    "Trap Bélico",
+    "Regional Urbano"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "requintos-para-corridos-tumbados-wav-pack",
+  "name": "Requintos para Corridos Tumbados WAV Pack y Stems",
+  "category": "genre",
+  "badge": "Requintos WAV Stems",
+  "headline": "Pack de Requintos de 12 Cuerdas para Corridos: Grabaciones en WAV 24-bit",
+  "description": "Líneas de requinto virtuosas grabadas en estudio con docerolas acústicas reales. Listas para usar en FL Studio o Pro Tools con canales separados.",
+  "targetArtists": [
+    "Productores de Corridos",
+    "Músicos de Estudio",
+    "Beatmakers"
+  ],
+  "recommendedBpm": "125-135 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Docerolas Reales",
+    "Stems Separados",
+    "WAV 24-bit",
+    "Alta Fidelidad"
+  ],
+  "popularGenres": [
+    "Corridos Tumbados",
+    "Trap Bélico"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "6"
+  ]
+},
+  {
+  "slug": "trap-belico-type-beat-fl-studio-mexico",
+  "name": "Trap Bélico Type Beat para FL Studio en México",
+  "category": "genre",
+  "badge": "FL Studio Bélico",
+  "headline": "Trap Bélico Type Beat para FL Studio: Archivos WAV con -6dB Headroom para Voz",
+  "description": "Pistas optimizadas para productores y raperos que usan FL Studio. Canales limpios para ecualizar y masterizar tu voz sin saturación.",
+  "targetArtists": [
+    "Usuarios de FL Studio",
+    "Ingenieros de Mezcla",
+    "Raperos"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "FL Studio Ready",
+    "Headroom -6dB",
+    "Trombones",
+    "808 Limpio"
+  ],
+  "popularGenres": [
+    "Trap Bélico",
+    "Corridos Tumbados"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "musica-sin-copyright-para-creadores-mexico",
+  "name": "Música Sin Copyright para Creadores de Contenido México",
+  "category": "genre",
+  "badge": "Sin Reclamos México",
+  "headline": "Música Libre de Copyright para YouTube y TikTok: Cero Reclamos en México",
+  "description": "Monetiza tus videos de YouTube, TikTok y transmisiones de Twitch sin preocuparte por bloqueos de Content ID o penalizaciones de derechos.",
+  "targetArtists": [
+    "YouTubers Mexicanos",
+    "TikTokers",
+    "Creadores de Contenido"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Cero Reclamos",
+    "Monetización Completa",
+    "TikTok Ready",
+    "YouTube Safe"
+  ],
+  "popularGenres": [
+    "Trap",
+    "Corridos Tumbados",
+    "Chillhop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6",
+    "5"
+  ]
+},
+  {
+  "slug": "paquete-de-beats-de-rap-2x1-mexico",
+  "name": "Paquete de Beats de Rap Promoción 2x1 en México",
+  "category": "genre",
+  "badge": "Promoción 2x1 México",
+  "headline": "Promoción de Beats en México: Compra 2 Beats y Recibe 1 Gratis (Ahorro en MXN)",
+  "description": "Produce tu EP o mixtape completo por una fracción de su costo normal. Descuento automático aplicado al añadir tus pistas al carrito.",
+  "targetArtists": [
+    "Artistas de Mixtape",
+    "Grupos de Rap",
+    "Creadores de Álbum"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Compra 2 Lleva 3",
+    "Descuento Automático",
+    "WAV de Estudio",
+    "Ahorro MXN"
+  ],
+  "popularGenres": [
+    "Rap Mexicano",
+    "Corridos Tumbados",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6"
+  ]
+},
+  {
+  "slug": "bases-de-rap-mexicano-callejero-descarga",
+  "name": "Bases de Rap Mexicano Callejero Descarga Inmediata",
+  "category": "genre",
+  "badge": "Bases de Barrio",
+  "headline": "Bases de Rap Callejero Mexicano: Baterías Contundentes y Descarga Directa",
+  "description": "La esencia pura del hip-hop mexicano: ritmos agresivos, bajos de 808 profundos y arreglos de cuerdas para letras de barrio reales.",
+  "targetArtists": [
+    "Raperos de Barrio",
+    "Artistas Callejeros"
+  ],
+  "recommendedBpm": "88-128 BPM",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Bases de Barrio",
+    "Descarga Inmediata",
+    "Calidad Estudio",
+    "WAV + MP3"
+  ],
+  "popularGenres": [
+    "Rap Mexicano",
+    "Boom Bap",
+    "Trap Callejero"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "1",
+    "7"
+  ]
+},
+  {
+  "slug": "instrumentales-de-banda-y-trap-con-charchetas",
+  "name": "Instrumentales de Banda y Trap con Charchetas",
+  "category": "genre",
+  "badge": "Banda-Trap Fusión",
+  "headline": "Instrumentales de Banda Trap: Charchetas Sinaloenses, Tubas y Baterías de 808",
+  "description": "La combinación más fiestera de México: el poder de la banda sinaloense fusionado con la contundencia del trap moderno.",
+  "targetArtists": [
+    "Artistas de Banda Urbana",
+    "Creadores de Fusión"
+  ],
+  "recommendedBpm": "125-136 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Charchetas Sinaloenses",
+    "Tuba y 808",
+    "Fiesta Total",
+    "WAV de Estudio"
+  ],
+  "popularGenres": [
+    "Banda Trap",
+    "Trap Bélico",
+    "Corridos Tumbados"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "comprar-pistas-para-ep-de-rap-mexico",
+  "name": "Comprar Pistas para EP o Álbum de Rap en México",
+  "category": "genre",
+  "badge": "Pistas para Álbum",
+  "headline": "Pistas para Lanzar tu EP o Álbum en México: Coherencia Sonora y Licencia Oficial",
+  "description": "Arma un proyecto discográfico con sonido profesional y coherente. Licencias comerciales válidas ante SACM y plataformas de streaming.",
+  "targetArtists": [
+    "Artistas Grabando EP",
+    "Productores Ejecutivos",
+    "Managers"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Coherencia Sonora",
+    "Licencia para EP",
+    "WAV 24-bit",
+    "Descuento por Volumen"
+  ],
+  "popularGenres": [
+    "Rap Mexicano",
+    "Corridos Tumbados",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "produccion-musical-personalizada-en-mexico",
+  "name": "Producción Musical Personalizada en México",
+  "category": "genre",
+  "badge": "Producción Exclusiva",
+  "headline": "Producción Musical Personalizada: Trabaja Directamente con el Productor Onzieb",
+  "description": "Diseña tu sonido único. Creamos la pista desde cero según tu tono vocal, visión artística y estilo de rima.",
+  "targetArtists": [
+    "Artistas con Sello",
+    "Proyectos Profesionales",
+    "Cantantes"
+  ],
+  "recommendedBpm": "BPM a Medida",
+  "recommendedKey": "Tono a Medida",
+  "vibeAttributes": [
+    "A Medida",
+    "Exclusivo",
+    "Contacto Directo",
+    "Mezcla Especial"
+  ],
+  "popularGenres": [
+    "Trap Bélico",
+    "Corridos Tumbados",
+    "Rap Mexicano"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "beats-para-grabar-en-fl-studio-con-headroom",
+  "name": "Beats para Grabar en FL Studio con -6dB Headroom",
+  "category": "genre",
+  "badge": "Headroom -6dB",
+  "headline": "Beats de Rap con -6dB Headroom: Espacio Perfecto para Mezclar tu Voz en FL Studio",
+  "description": "La norma de los estudios profesionales: pistas masterizadas sin saturar para que el ingeniero de mezcla pueda procesar tu voz con compresores y ecualizadores sin distorsión.",
+  "targetArtists": [
+    "Ingenieros de Mezcla",
+    "Home Studio",
+    "Productores"
+  ],
+  "recommendedBpm": "90-144 BPM",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "-6dB Headroom",
+    "Mezcla Limpia",
+    "Estándar de Estudio",
+    "FL Studio Ready"
+  ],
+  "popularGenres": [
+    "Corridos Tumbados",
+    "Trap Bélico",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6"
+  ]
+},
+  {
+  "slug": "queretaro-corridos-tumbados-beats",
+  "name": "Querétaro Corridos Tumbados Beats",
+  "category": "scene",
+  "badge": "Querétaro Corridos Tumbados",
+  "headline": "Querétaro (El Bajío) Corridos Tumbados Beats: Pistas WAV & OXXO Pay",
+  "description": "Requintos docerolas veloces, bajo tololoche y baterías de trap en calidad WAV 24-bit para artistas de Querétaro.",
+  "targetArtists": [
+    "Raperos de Querétaro",
+    "Música Urbana México",
+    "Artistas Independientes"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Querétaro",
+    "Corridos Tumbados",
+    "OXXO Pay",
+    "Aprobado SACM"
+  ],
+  "popularGenres": [
+    "Corridos Tumbados Beats",
+    "Rap Mexicano",
+    "Corridos Tumbados"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "queretaro-trap-belico-instrumental",
+  "name": "Querétaro Trap Bélico Instrumental",
+  "category": "scene",
+  "badge": "Querétaro Trap Bélico",
+  "headline": "Querétaro (El Bajío) Trap Bélico Instrumental: Pistas WAV & OXXO Pay",
+  "description": "Trombones bélicos pesados y bajos 808 demoledores diseñados para el movimiento urbano en Querétaro.",
+  "targetArtists": [
+    "Raperos de Querétaro",
+    "Música Urbana México",
+    "Artistas Independientes"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "Querétaro",
+    "Trap Bélico",
+    "OXXO Pay",
+    "Aprobado SACM"
+  ],
+  "popularGenres": [
+    "Trap Bélico Instrumental",
+    "Rap Mexicano",
+    "Corridos Tumbados"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "queretaro-rap-mexicano-boombap",
+  "name": "Querétaro Rap Mexicano Boom Bap",
+  "category": "scene",
+  "badge": "Querétaro Boom Bap Mexicano",
+  "headline": "Querétaro (El Bajío) Rap Mexicano Boom Bap: Pistas WAV & OXXO Pay",
+  "description": "Bombos secos, rimas crudas y cajas cortantes para los verdaderos MCs de la escena de Querétaro.",
+  "targetArtists": [
+    "Raperos de Querétaro",
+    "Música Urbana México",
+    "Artistas Independientes"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Querétaro",
+    "Boom Bap Mexicano",
+    "OXXO Pay",
+    "Aprobado SACM"
+  ],
+  "popularGenres": [
+    "Rap Mexicano Boom Bap",
+    "Rap Mexicano",
+    "Corridos Tumbados"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "queretaro-cumbia-rap-acordeon",
+  "name": "Querétaro Cumbia Rap con Acordeón",
+  "category": "scene",
+  "badge": "Querétaro Cumbia Rap",
+  "headline": "Querétaro (El Bajío) Cumbia Rap con Acordeón: Pistas WAV & OXXO Pay",
+  "description": "Percusión bailable de cumbia sonidera y acordeón tradicional con ritmo de rap para Querétaro.",
+  "targetArtists": [
+    "Raperos de Querétaro",
+    "Música Urbana México",
+    "Artistas Independientes"
+  ],
+  "recommendedBpm": "92-98 BPM",
+  "recommendedKey": "A-Minor / D-Minor",
+  "vibeAttributes": [
+    "Querétaro",
+    "Cumbia Rap",
+    "OXXO Pay",
+    "Aprobado SACM"
+  ],
+  "popularGenres": [
+    "Cumbia Rap con Acordeón",
+    "Rap Mexicano",
+    "Corridos Tumbados"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "chihuahua-juarez-corridos-tumbados-beats",
+  "name": "Ciudad Juárez Corridos Tumbados Beats",
+  "category": "scene",
+  "badge": "Ciudad Juárez Corridos Tumbados",
+  "headline": "Ciudad Juárez (Chihuahua) Corridos Tumbados Beats: Pistas WAV & OXXO Pay",
+  "description": "Requintos docerolas veloces, bajo tololoche y baterías de trap en calidad WAV 24-bit para artistas de Ciudad Juárez.",
+  "targetArtists": [
+    "Raperos de Ciudad Juárez",
+    "Música Urbana México",
+    "Artistas Independientes"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Ciudad Juárez",
+    "Corridos Tumbados",
+    "OXXO Pay",
+    "Aprobado SACM"
+  ],
+  "popularGenres": [
+    "Corridos Tumbados Beats",
+    "Rap Mexicano",
+    "Corridos Tumbados"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "chihuahua-juarez-trap-belico-instrumental",
+  "name": "Ciudad Juárez Trap Bélico Instrumental",
+  "category": "scene",
+  "badge": "Ciudad Juárez Trap Bélico",
+  "headline": "Ciudad Juárez (Chihuahua) Trap Bélico Instrumental: Pistas WAV & OXXO Pay",
+  "description": "Trombones bélicos pesados y bajos 808 demoledores diseñados para el movimiento urbano en Ciudad Juárez.",
+  "targetArtists": [
+    "Raperos de Ciudad Juárez",
+    "Música Urbana México",
+    "Artistas Independientes"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "Ciudad Juárez",
+    "Trap Bélico",
+    "OXXO Pay",
+    "Aprobado SACM"
+  ],
+  "popularGenres": [
+    "Trap Bélico Instrumental",
+    "Rap Mexicano",
+    "Corridos Tumbados"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "chihuahua-juarez-rap-mexicano-boombap",
+  "name": "Ciudad Juárez Rap Mexicano Boom Bap",
+  "category": "scene",
+  "badge": "Ciudad Juárez Boom Bap Mexicano",
+  "headline": "Ciudad Juárez (Chihuahua) Rap Mexicano Boom Bap: Pistas WAV & OXXO Pay",
+  "description": "Bombos secos, rimas crudas y cajas cortantes para los verdaderos MCs de la escena de Ciudad Juárez.",
+  "targetArtists": [
+    "Raperos de Ciudad Juárez",
+    "Música Urbana México",
+    "Artistas Independientes"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Ciudad Juárez",
+    "Boom Bap Mexicano",
+    "OXXO Pay",
+    "Aprobado SACM"
+  ],
+  "popularGenres": [
+    "Rap Mexicano Boom Bap",
+    "Rap Mexicano",
+    "Corridos Tumbados"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "chihuahua-juarez-cumbia-rap-acordeon",
+  "name": "Ciudad Juárez Cumbia Rap con Acordeón",
+  "category": "scene",
+  "badge": "Ciudad Juárez Cumbia Rap",
+  "headline": "Ciudad Juárez (Chihuahua) Cumbia Rap con Acordeón: Pistas WAV & OXXO Pay",
+  "description": "Percusión bailable de cumbia sonidera y acordeón tradicional con ritmo de rap para Ciudad Juárez.",
+  "targetArtists": [
+    "Raperos de Ciudad Juárez",
+    "Música Urbana México",
+    "Artistas Independientes"
+  ],
+  "recommendedBpm": "92-98 BPM",
+  "recommendedKey": "A-Minor / D-Minor",
+  "vibeAttributes": [
+    "Ciudad Juárez",
+    "Cumbia Rap",
+    "OXXO Pay",
+    "Aprobado SACM"
+  ],
+  "popularGenres": [
+    "Cumbia Rap con Acordeón",
+    "Rap Mexicano",
+    "Corridos Tumbados"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "san-luis-potosi-corridos-tumbados-beats",
+  "name": "San Luis Potosí Corridos Tumbados Beats",
+  "category": "scene",
+  "badge": "San Luis Potosí Corridos Tumbados",
+  "headline": "San Luis Potosí (Centro Norte) Corridos Tumbados Beats: Pistas WAV & OXXO Pay",
+  "description": "Requintos docerolas veloces, bajo tololoche y baterías de trap en calidad WAV 24-bit para artistas de San Luis Potosí.",
+  "targetArtists": [
+    "Raperos de San Luis Potosí",
+    "Música Urbana México",
+    "Artistas Independientes"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "San Luis Potosí",
+    "Corridos Tumbados",
+    "OXXO Pay",
+    "Aprobado SACM"
+  ],
+  "popularGenres": [
+    "Corridos Tumbados Beats",
+    "Rap Mexicano",
+    "Corridos Tumbados"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "san-luis-potosi-trap-belico-instrumental",
+  "name": "San Luis Potosí Trap Bélico Instrumental",
+  "category": "scene",
+  "badge": "San Luis Potosí Trap Bélico",
+  "headline": "San Luis Potosí (Centro Norte) Trap Bélico Instrumental: Pistas WAV & OXXO Pay",
+  "description": "Trombones bélicos pesados y bajos 808 demoledores diseñados para el movimiento urbano en San Luis Potosí.",
+  "targetArtists": [
+    "Raperos de San Luis Potosí",
+    "Música Urbana México",
+    "Artistas Independientes"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "San Luis Potosí",
+    "Trap Bélico",
+    "OXXO Pay",
+    "Aprobado SACM"
+  ],
+  "popularGenres": [
+    "Trap Bélico Instrumental",
+    "Rap Mexicano",
+    "Corridos Tumbados"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "san-luis-potosi-rap-mexicano-boombap",
+  "name": "San Luis Potosí Rap Mexicano Boom Bap",
+  "category": "scene",
+  "badge": "San Luis Potosí Boom Bap Mexicano",
+  "headline": "San Luis Potosí (Centro Norte) Rap Mexicano Boom Bap: Pistas WAV & OXXO Pay",
+  "description": "Bombos secos, rimas crudas y cajas cortantes para los verdaderos MCs de la escena de San Luis Potosí.",
+  "targetArtists": [
+    "Raperos de San Luis Potosí",
+    "Música Urbana México",
+    "Artistas Independientes"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "San Luis Potosí",
+    "Boom Bap Mexicano",
+    "OXXO Pay",
+    "Aprobado SACM"
+  ],
+  "popularGenres": [
+    "Rap Mexicano Boom Bap",
+    "Rap Mexicano",
+    "Corridos Tumbados"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "san-luis-potosi-cumbia-rap-acordeon",
+  "name": "San Luis Potosí Cumbia Rap con Acordeón",
+  "category": "scene",
+  "badge": "San Luis Potosí Cumbia Rap",
+  "headline": "San Luis Potosí (Centro Norte) Cumbia Rap con Acordeón: Pistas WAV & OXXO Pay",
+  "description": "Percusión bailable de cumbia sonidera y acordeón tradicional con ritmo de rap para San Luis Potosí.",
+  "targetArtists": [
+    "Raperos de San Luis Potosí",
+    "Música Urbana México",
+    "Artistas Independientes"
+  ],
+  "recommendedBpm": "92-98 BPM",
+  "recommendedKey": "A-Minor / D-Minor",
+  "vibeAttributes": [
+    "San Luis Potosí",
+    "Cumbia Rap",
+    "OXXO Pay",
+    "Aprobado SACM"
+  ],
+  "popularGenres": [
+    "Cumbia Rap con Acordeón",
+    "Rap Mexicano",
+    "Corridos Tumbados"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "veracruz-corridos-tumbados-beats",
+  "name": "Veracruz Corridos Tumbados Beats",
+  "category": "scene",
+  "badge": "Veracruz Corridos Tumbados",
+  "headline": "Veracruz (Golfo) Corridos Tumbados Beats: Pistas WAV & OXXO Pay",
+  "description": "Requintos docerolas veloces, bajo tololoche y baterías de trap en calidad WAV 24-bit para artistas de Veracruz.",
+  "targetArtists": [
+    "Raperos de Veracruz",
+    "Música Urbana México",
+    "Artistas Independientes"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Veracruz",
+    "Corridos Tumbados",
+    "OXXO Pay",
+    "Aprobado SACM"
+  ],
+  "popularGenres": [
+    "Corridos Tumbados Beats",
+    "Rap Mexicano",
+    "Corridos Tumbados"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "veracruz-trap-belico-instrumental",
+  "name": "Veracruz Trap Bélico Instrumental",
+  "category": "scene",
+  "badge": "Veracruz Trap Bélico",
+  "headline": "Veracruz (Golfo) Trap Bélico Instrumental: Pistas WAV & OXXO Pay",
+  "description": "Trombones bélicos pesados y bajos 808 demoledores diseñados para el movimiento urbano en Veracruz.",
+  "targetArtists": [
+    "Raperos de Veracruz",
+    "Música Urbana México",
+    "Artistas Independientes"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "Veracruz",
+    "Trap Bélico",
+    "OXXO Pay",
+    "Aprobado SACM"
+  ],
+  "popularGenres": [
+    "Trap Bélico Instrumental",
+    "Rap Mexicano",
+    "Corridos Tumbados"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "veracruz-rap-mexicano-boombap",
+  "name": "Veracruz Rap Mexicano Boom Bap",
+  "category": "scene",
+  "badge": "Veracruz Boom Bap Mexicano",
+  "headline": "Veracruz (Golfo) Rap Mexicano Boom Bap: Pistas WAV & OXXO Pay",
+  "description": "Bombos secos, rimas crudas y cajas cortantes para los verdaderos MCs de la escena de Veracruz.",
+  "targetArtists": [
+    "Raperos de Veracruz",
+    "Música Urbana México",
+    "Artistas Independientes"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Veracruz",
+    "Boom Bap Mexicano",
+    "OXXO Pay",
+    "Aprobado SACM"
+  ],
+  "popularGenres": [
+    "Rap Mexicano Boom Bap",
+    "Rap Mexicano",
+    "Corridos Tumbados"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "veracruz-cumbia-rap-acordeon",
+  "name": "Veracruz Cumbia Rap con Acordeón",
+  "category": "scene",
+  "badge": "Veracruz Cumbia Rap",
+  "headline": "Veracruz (Golfo) Cumbia Rap con Acordeón: Pistas WAV & OXXO Pay",
+  "description": "Percusión bailable de cumbia sonidera y acordeón tradicional con ritmo de rap para Veracruz.",
+  "targetArtists": [
+    "Raperos de Veracruz",
+    "Música Urbana México",
+    "Artistas Independientes"
+  ],
+  "recommendedBpm": "92-98 BPM",
+  "recommendedKey": "A-Minor / D-Minor",
+  "vibeAttributes": [
+    "Veracruz",
+    "Cumbia Rap",
+    "OXXO Pay",
+    "Aprobado SACM"
+  ],
+  "popularGenres": [
+    "Cumbia Rap con Acordeón",
+    "Rap Mexicano",
+    "Corridos Tumbados"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "mazatlan-sinaloa-corridos-tumbados-beats",
+  "name": "Mazatlán Corridos Tumbados Beats",
+  "category": "scene",
+  "badge": "Mazatlán Corridos Tumbados",
+  "headline": "Mazatlán (Costa de Sinaloa) Corridos Tumbados Beats: Pistas WAV & OXXO Pay",
+  "description": "Requintos docerolas veloces, bajo tololoche y baterías de trap en calidad WAV 24-bit para artistas de Mazatlán.",
+  "targetArtists": [
+    "Raperos de Mazatlán",
+    "Música Urbana México",
+    "Artistas Independientes"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Mazatlán",
+    "Corridos Tumbados",
+    "OXXO Pay",
+    "Aprobado SACM"
+  ],
+  "popularGenres": [
+    "Corridos Tumbados Beats",
+    "Rap Mexicano",
+    "Corridos Tumbados"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "mazatlan-sinaloa-trap-belico-instrumental",
+  "name": "Mazatlán Trap Bélico Instrumental",
+  "category": "scene",
+  "badge": "Mazatlán Trap Bélico",
+  "headline": "Mazatlán (Costa de Sinaloa) Trap Bélico Instrumental: Pistas WAV & OXXO Pay",
+  "description": "Trombones bélicos pesados y bajos 808 demoledores diseñados para el movimiento urbano en Mazatlán.",
+  "targetArtists": [
+    "Raperos de Mazatlán",
+    "Música Urbana México",
+    "Artistas Independientes"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "Mazatlán",
+    "Trap Bélico",
+    "OXXO Pay",
+    "Aprobado SACM"
+  ],
+  "popularGenres": [
+    "Trap Bélico Instrumental",
+    "Rap Mexicano",
+    "Corridos Tumbados"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "mazatlan-sinaloa-rap-mexicano-boombap",
+  "name": "Mazatlán Rap Mexicano Boom Bap",
+  "category": "scene",
+  "badge": "Mazatlán Boom Bap Mexicano",
+  "headline": "Mazatlán (Costa de Sinaloa) Rap Mexicano Boom Bap: Pistas WAV & OXXO Pay",
+  "description": "Bombos secos, rimas crudas y cajas cortantes para los verdaderos MCs de la escena de Mazatlán.",
+  "targetArtists": [
+    "Raperos de Mazatlán",
+    "Música Urbana México",
+    "Artistas Independientes"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Mazatlán",
+    "Boom Bap Mexicano",
+    "OXXO Pay",
+    "Aprobado SACM"
+  ],
+  "popularGenres": [
+    "Rap Mexicano Boom Bap",
+    "Rap Mexicano",
+    "Corridos Tumbados"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "mazatlan-sinaloa-cumbia-rap-acordeon",
+  "name": "Mazatlán Cumbia Rap con Acordeón",
+  "category": "scene",
+  "badge": "Mazatlán Cumbia Rap",
+  "headline": "Mazatlán (Costa de Sinaloa) Cumbia Rap con Acordeón: Pistas WAV & OXXO Pay",
+  "description": "Percusión bailable de cumbia sonidera y acordeón tradicional con ritmo de rap para Mazatlán.",
+  "targetArtists": [
+    "Raperos de Mazatlán",
+    "Música Urbana México",
+    "Artistas Independientes"
+  ],
+  "recommendedBpm": "92-98 BPM",
+  "recommendedKey": "A-Minor / D-Minor",
+  "vibeAttributes": [
+    "Mazatlán",
+    "Cumbia Rap",
+    "OXXO Pay",
+    "Aprobado SACM"
+  ],
+  "popularGenres": [
+    "Cumbia Rap con Acordeón",
+    "Rap Mexicano",
+    "Corridos Tumbados"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "morelia-michoacan-corridos-tumbados-beats",
+  "name": "Morelia Corridos Tumbados Beats",
+  "category": "scene",
+  "badge": "Morelia Corridos Tumbados",
+  "headline": "Morelia (Michoacán) Corridos Tumbados Beats: Pistas WAV & OXXO Pay",
+  "description": "Requintos docerolas veloces, bajo tololoche y baterías de trap en calidad WAV 24-bit para artistas de Morelia.",
+  "targetArtists": [
+    "Raperos de Morelia",
+    "Música Urbana México",
+    "Artistas Independientes"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Morelia",
+    "Corridos Tumbados",
+    "OXXO Pay",
+    "Aprobado SACM"
+  ],
+  "popularGenres": [
+    "Corridos Tumbados Beats",
+    "Rap Mexicano",
+    "Corridos Tumbados"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "morelia-michoacan-trap-belico-instrumental",
+  "name": "Morelia Trap Bélico Instrumental",
+  "category": "scene",
+  "badge": "Morelia Trap Bélico",
+  "headline": "Morelia (Michoacán) Trap Bélico Instrumental: Pistas WAV & OXXO Pay",
+  "description": "Trombones bélicos pesados y bajos 808 demoledores diseñados para el movimiento urbano en Morelia.",
+  "targetArtists": [
+    "Raperos de Morelia",
+    "Música Urbana México",
+    "Artistas Independientes"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "Morelia",
+    "Trap Bélico",
+    "OXXO Pay",
+    "Aprobado SACM"
+  ],
+  "popularGenres": [
+    "Trap Bélico Instrumental",
+    "Rap Mexicano",
+    "Corridos Tumbados"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "morelia-michoacan-rap-mexicano-boombap",
+  "name": "Morelia Rap Mexicano Boom Bap",
+  "category": "scene",
+  "badge": "Morelia Boom Bap Mexicano",
+  "headline": "Morelia (Michoacán) Rap Mexicano Boom Bap: Pistas WAV & OXXO Pay",
+  "description": "Bombos secos, rimas crudas y cajas cortantes para los verdaderos MCs de la escena de Morelia.",
+  "targetArtists": [
+    "Raperos de Morelia",
+    "Música Urbana México",
+    "Artistas Independientes"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Morelia",
+    "Boom Bap Mexicano",
+    "OXXO Pay",
+    "Aprobado SACM"
+  ],
+  "popularGenres": [
+    "Rap Mexicano Boom Bap",
+    "Rap Mexicano",
+    "Corridos Tumbados"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "morelia-michoacan-cumbia-rap-acordeon",
+  "name": "Morelia Cumbia Rap con Acordeón",
+  "category": "scene",
+  "badge": "Morelia Cumbia Rap",
+  "headline": "Morelia (Michoacán) Cumbia Rap con Acordeón: Pistas WAV & OXXO Pay",
+  "description": "Percusión bailable de cumbia sonidera y acordeón tradicional con ritmo de rap para Morelia.",
+  "targetArtists": [
+    "Raperos de Morelia",
+    "Música Urbana México",
+    "Artistas Independientes"
+  ],
+  "recommendedBpm": "92-98 BPM",
+  "recommendedKey": "A-Minor / D-Minor",
+  "vibeAttributes": [
+    "Morelia",
+    "Cumbia Rap",
+    "OXXO Pay",
+    "Aprobado SACM"
+  ],
+  "popularGenres": [
+    "Cumbia Rap con Acordeón",
+    "Rap Mexicano",
+    "Corridos Tumbados"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
 ];

@@ -19655,4 +19655,434 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
     }
   ]
 },
+  "mx/queretaro": {
+  "name": "México – Querétaro & El Bajío Industrial",
+  "flag": "🇲🇽",
+  "currency": "MXN ($)",
+  "currencyCode": "MXN",
+  "gateways": "OXXO Pay, SPEI, Mercado Pago, Tarjetas, Apple Pay",
+  "pro": "SACM",
+  "proFullName": "SACM México",
+  "proGuide": "100% legal ante SACM e INDAUTOR con entrega de contrato PDF.",
+  "headline": "Beats en Querétaro: Trap Moderno, Sonido Industrial & Bajos Pesados",
+  "description": "El dinámico centro del país: producciones urbanas pulidas, cajas brillantes y bajos 808 profundos para artistas independientes de Querétaro.",
+  "popularGenres": [
+    "Trap Queretano",
+    "Urbano Bajío",
+    "Melodic Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en México – Querétaro & El Bajío Industrial?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SACM e INDAUTOR?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu canción ante la SACM e INDAUTOR sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en México?",
+      "answer": "En Pesos Mexicanos (MXN $), puedes pagar en efectivo en cualquier tienda OXXO de la República a través de OXXO Pay, mediante transferencia interbancaria SPEI, Mercado Pago, tarjetas de débito/crédito mexicanas, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "mx/chihuahua-juarez": {
+  "name": "México – Ciudad Juárez & Chihuahua (Rap de Frontera)",
+  "flag": "🇲🇽",
+  "currency": "MXN ($)",
+  "currencyCode": "MXN",
+  "gateways": "OXXO Pay, SPEI, Mercado Pago, Tarjetas, Apple Pay",
+  "pro": "SACM",
+  "proFullName": "SACM México",
+  "proGuide": "Composiciones originales libres de reclamos de copyright.",
+  "headline": "Beats en Ciudad Juárez & Chihuahua: Hardcore Trap, Drill Callejero & 808s",
+  "description": "La realidad cruda de la frontera: cajas secas cortantes, melodías oscuras y bajos potentes para el rap fronterizo del norte.",
+  "popularGenres": [
+    "Rap de Frontera",
+    "Juárez Drill",
+    "Hardcore Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en México – Ciudad Juárez & Chihuahua (Rap de Frontera)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SACM e INDAUTOR?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu canción ante la SACM e INDAUTOR sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en México?",
+      "answer": "En Pesos Mexicanos (MXN $), puedes pagar en efectivo en cualquier tienda OXXO de la República a través de OXXO Pay, mediante transferencia interbancaria SPEI, Mercado Pago, tarjetas de débito/crédito mexicanas, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "mx/san-luis-potosi": {
+  "name": "México – San Luis Potosí & Centro Norte",
+  "flag": "🇲🇽",
+  "currency": "MXN ($)",
+  "currencyCode": "MXN",
+  "gateways": "OXXO Pay, SPEI, Mercado Pago, Tarjetas, Apple Pay",
+  "pro": "SACM",
+  "proFullName": "SACM México",
+  "proGuide": "100% listo para distribución comercial en plataformas digitales.",
+  "headline": "Beats en San Luis Potosí: Boom Bap Callejero, Guitarras & Trap Melódico",
+  "description": "El sonido auténtico del centro-norte: guitarras acústicas y baterías dinámicas para canciones con mensaje y flow callejero.",
+  "popularGenres": [
+    "Rap Potosino",
+    "Boom Bap de Barrio",
+    "Trap Melódico"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en México – San Luis Potosí & Centro Norte?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SACM e INDAUTOR?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu canción ante la SACM e INDAUTOR sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en México?",
+      "answer": "En Pesos Mexicanos (MXN $), puedes pagar en efectivo en cualquier tienda OXXO de la República a través de OXXO Pay, mediante transferencia interbancaria SPEI, Mercado Pago, tarjetas de débito/crédito mexicanas, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "mx/veracruz": {
+  "name": "México – Veracruz & Golfo de México (Cumbia-Rap & Afro-Trap)",
+  "flag": "🇲🇽",
+  "currency": "MXN ($)",
+  "currencyCode": "MXN",
+  "gateways": "OXXO Pay, SPEI, Mercado Pago, Tarjetas, Apple Pay",
+  "pro": "SACM",
+  "proFullName": "SACM México",
+  "proGuide": "Garantía de autoría 100% original por Onzieb.",
+  "headline": "Beats en Veracruz: Cumbia-Rap del Golfo, Afro-Trap & Ritmos Tropicales",
+  "description": "El sabor caliente del Golfo: percusiones afrocaribeñas, acordeones tropicales y bajos envolventes para la música urbana veracruzana.",
+  "popularGenres": [
+    "Cumbia-Rap del Golfo",
+    "Afro-Trap",
+    "Urbano Tropical"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en México – Veracruz & Golfo de México (Cumbia-Rap & Afro-Trap)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SACM e INDAUTOR?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu canción ante la SACM e INDAUTOR sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en México?",
+      "answer": "En Pesos Mexicanos (MXN $), puedes pagar en efectivo en cualquier tienda OXXO de la República a través de OXXO Pay, mediante transferencia interbancaria SPEI, Mercado Pago, tarjetas de débito/crédito mexicanas, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "mx/mazatlan-sinaloa": {
+  "name": "México – Mazatlán & Costa de Sinaloa (Banda & Corrido Trap)",
+  "flag": "🇲🇽",
+  "currency": "MXN ($)",
+  "currencyCode": "MXN",
+  "gateways": "OXXO Pay, SPEI, Mercado Pago, Tarjetas, Apple Pay",
+  "pro": "SACM",
+  "proFullName": "SACM México",
+  "proGuide": "Derechos comerciales completos para lanzamientos mundiales.",
+  "headline": "Beats en Mazatlán: Charchetas Bélicas, Viento Metal & Trap Playero",
+  "description": "La cuna de la tambora sinaloense combinada con el trap moderno: metales explosivos, requintos de playa y bajos 808 arrolladores.",
+  "popularGenres": [
+    "Mazatlán Trap",
+    "Banda Trap",
+    "Corridos Bélicos"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en México – Mazatlán & Costa de Sinaloa (Banda & Corrido Trap)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SACM e INDAUTOR?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu canción ante la SACM e INDAUTOR sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en México?",
+      "answer": "En Pesos Mexicanos (MXN $), puedes pagar en efectivo en cualquier tienda OXXO de la República a través de OXXO Pay, mediante transferencia interbancaria SPEI, Mercado Pago, tarjetas de débito/crédito mexicanas, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "mx/morelia-michoacan": {
+  "name": "México – Morelia & Michoacán (Tierra Caliente Urban Hub)",
+  "flag": "🇲🇽",
+  "currency": "MXN ($)",
+  "currencyCode": "MXN",
+  "gateways": "OXXO Pay, SPEI, Mercado Pago, Tarjetas, Apple Pay",
+  "pro": "SACM",
+  "proFullName": "SACM México",
+  "proGuide": "100% original con entrega de stems.",
+  "headline": "Beats en Morelia & Michoacán: Viento Metal, Requintos Bélicos & Trap Pesado",
+  "description": "La bravura de Tierra Caliente: arreglos de viento metal potentes, requintos agresivos y bajos demoledores para historias reales.",
+  "popularGenres": [
+    "Michoacán Trap",
+    "Tierra Caliente Sound",
+    "Corridos Bélicos"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en México – Morelia & Michoacán (Tierra Caliente Urban Hub)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SACM e INDAUTOR?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu canción ante la SACM e INDAUTOR sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en México?",
+      "answer": "En Pesos Mexicanos (MXN $), puedes pagar en efectivo en cualquier tienda OXXO de la República a través de OXXO Pay, mediante transferencia interbancaria SPEI, Mercado Pago, tarjetas de débito/crédito mexicanas, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "mx/toluca-edomex": {
+  "name": "México – Toluca & Estado de México (Hardcore Trap de Altura)",
+  "flag": "🇲🇽",
+  "currency": "MXN ($)",
+  "currencyCode": "MXN",
+  "gateways": "OXXO Pay, SPEI, Mercado Pago, Tarjetas, Apple Pay",
+  "pro": "SACM",
+  "proFullName": "SACM México",
+  "proGuide": "100% legal ante SACM con contrato en PDF.",
+  "headline": "Beats en Toluca & Edomex: Trap Frío, Cajas Cortantes & 808s de Altura",
+  "description": "El clima frío y la intensidad del Estado de México: sintetizadores oscuros, cajas secas y bajos profundos para el rap subterráneo.",
+  "popularGenres": [
+    "Edomex Rap",
+    "Trap de Altura",
+    "Underground 808"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en México – Toluca & Estado de México (Hardcore Trap de Altura)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SACM e INDAUTOR?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu canción ante la SACM e INDAUTOR sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en México?",
+      "answer": "En Pesos Mexicanos (MXN $), puedes pagar en efectivo en cualquier tienda OXXO de la República a través de OXXO Pay, mediante transferencia interbancaria SPEI, Mercado Pago, tarjetas de débito/crédito mexicanas, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "mx/aguascalientes": {
+  "name": "México – Aguascalientes & Feria San Marcos Rap",
+  "flag": "🇲🇽",
+  "currency": "MXN ($)",
+  "currencyCode": "MXN",
+  "gateways": "OXXO Pay, SPEI, Mercado Pago, Tarjetas, Apple Pay",
+  "pro": "SACM",
+  "proFullName": "SACM México",
+  "proGuide": "100% libre de samples protegidos para monetizar en Spotify.",
+  "headline": "Beats en Aguascalientes: Guitarras Acústicas, Trap Melódico & Corridos",
+  "description": "El cruce cultural de San Marcos: guitarras acústicas elegantes, percusiones enérgicas y melodías listas para la radio y el escenario.",
+  "popularGenres": [
+    "Aguascalientes Trap",
+    "Guitarras Acústicas",
+    "Corridos Urbanos"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en México – Aguascalientes & Feria San Marcos Rap?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SACM e INDAUTOR?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu canción ante la SACM e INDAUTOR sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en México?",
+      "answer": "En Pesos Mexicanos (MXN $), puedes pagar en efectivo en cualquier tienda OXXO de la República a través de OXXO Pay, mediante transferencia interbancaria SPEI, Mercado Pago, tarjetas de débito/crédito mexicanas, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "mx/merida-yucatan": {
+  "name": "México – Mérida & Península de Yucatán (Chillhop & Trap Suave)",
+  "flag": "🇲🇽",
+  "currency": "MXN ($)",
+  "currencyCode": "MXN",
+  "gateways": "OXXO Pay, SPEI, Mercado Pago, Tarjetas, Apple Pay",
+  "pro": "SACM",
+  "proFullName": "SACM México",
+  "proGuide": "Composiciones originales libres de reclamos de copyright.",
+  "headline": "Beats en Mérida & Yucatán: Pianos Cálidos, Chillhop Caribeño & Trap Fino",
+  "description": "La atmósfera relajada de la blanca Mérida: acordes de piano Rhodes, guitarras suaves y ritmos pausados para líricas profundas.",
+  "popularGenres": [
+    "Yucatán Chillhop",
+    "Trap Suave",
+    "Rap Peninsular"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en México – Mérida & Península de Yucatán (Chillhop & Trap Suave)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SACM e INDAUTOR?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu canción ante la SACM e INDAUTOR sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en México?",
+      "answer": "En Pesos Mexicanos (MXN $), puedes pagar en efectivo en cualquier tienda OXXO de la República a través de OXXO Pay, mediante transferencia interbancaria SPEI, Mercado Pago, tarjetas de débito/crédito mexicanas, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "mx/saltillo-coahuila": {
+  "name": "México – Saltillo & Coahuila (Rap del Desierto del Norte)",
+  "flag": "🇲🇽",
+  "currency": "MXN ($)",
+  "currencyCode": "MXN",
+  "gateways": "OXXO Pay, SPEI, Mercado Pago, Tarjetas, Apple Pay",
+  "pro": "SACM",
+  "proFullName": "SACM México",
+  "proGuide": "100% legal ante SACM con entrega inmediata.",
+  "headline": "Beats en Saltillo: Rap del Desierto, Cajas Secas & Fuerza Norteña",
+  "description": "Baterías secas y contundentes, bajos 808 profundos y ambiente desértico para el rap norteño de Coahuila.",
+  "popularGenres": [
+    "Coahuila Rap",
+    "Rap del Desierto",
+    "Norteño Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en México – Saltillo & Coahuila (Rap del Desierto del Norte)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SACM e INDAUTOR?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu canción ante la SACM e INDAUTOR sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en México?",
+      "answer": "En Pesos Mexicanos (MXN $), puedes pagar en efectivo en cualquier tienda OXXO de la República a través de OXXO Pay, mediante transferencia interbancaria SPEI, Mercado Pago, tarjetas de débito/crédito mexicanas, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
 };
