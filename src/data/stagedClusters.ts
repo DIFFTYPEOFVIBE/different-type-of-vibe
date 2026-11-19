@@ -1,6 +1,6 @@
 // src/data/stagedClusters.ts
-// Programmatic SEO Staged Batch Cluster Ledger - Global Big 10 Complete Footprint (Italy Complete Wave 2)
-// Deployed automatically by scripts/deploy_wave2_italy_pseo.py
+// Programmatic SEO Staged Batch Cluster Ledger - Global Big 11 Complete Footprint (Japan / 日本)
+// Deployed automatically by scripts/deploy_japan_pseo.py
 
 export interface StagedClusterItem {
   type: 'vibe' | 'genre' | 'mood' | 'bpm' | 'key' | 'scene' | 'instrument' | 'blog';
@@ -8393,5 +8393,365 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "type": "scene",
     "slug": "salerno-boom-bap-classico",
     "batchId": 21
+  },
+  {
+    "type": "scene",
+    "slug": "tokyo-shibuya-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "scene",
+    "slug": "kanagawa-kawasaki-808-trap",
+    "batchId": 22
+  },
+  {
+    "type": "scene",
+    "slug": "osaka-kansai-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "scene",
+    "slug": "okinawa-island-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "scene",
+    "slug": "nagoya-tokai-street-rap",
+    "batchId": 22
+  },
+  {
+    "type": "scene",
+    "slug": "fukuoka-hakata-trap-drill",
+    "batchId": 22
+  },
+  {
+    "type": "scene",
+    "slug": "sapporo-hokkaido-cold-drill",
+    "batchId": 22
+  },
+  {
+    "type": "scene",
+    "slug": "kyoto-lofi-boombap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "scene",
+    "slug": "kobe-melodic-rnb-trap",
+    "batchId": 22
+  },
+  {
+    "type": "scene",
+    "slug": "shinjuku-cyberpunk-trap",
+    "batchId": 22
+  },
+  {
+    "type": "scene",
+    "slug": "yokohama-sliding-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "yuki-chiba-team-tomodachi-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "bad-hop-kawasaki-heavy-808-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "awich-okinawa-queen-cinematic-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "jp-the-wavy-neo-gal-bounce-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "nujabes-lofi-chillhop-jazz-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "lex-futuristic-autotune-hyper-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "tohji-mall-boyz-rave-cloud-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "jin-dogg-osaka-hardcore-metal-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "ralph-yokohama-dark-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "kzm-deathtopia-cyberpunk-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "daichi-yamamoto-soulful-jazz-rap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "miyachi-tokyo-bilingual-street-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "kohh-dirt-boys-tokyo-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "eyden-chiba-melodic-drill-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "bim-creative-drug-store-chill-rap",
+    "batchId": 22
+  },
+  {
+    "type": "genre",
+    "slug": "biito-kounyu-shouyou-riyou",
+    "batchId": 22
+  },
+  {
+    "type": "genre",
+    "slug": "jasrac-shinsei-kanou-biito-online",
+    "batchId": 22
+  },
+  {
+    "type": "genre",
+    "slug": "chousakuken-furii-torakku-kounyu-nihon",
+    "batchId": 22
+  },
+  {
+    "type": "genre",
+    "slug": "japanese-drill-biito-wav-stems",
+    "batchId": 22
+  },
+  {
+    "type": "genre",
+    "slug": "anime-trap-lofi-hiphop-biito",
+    "batchId": 22
+  },
+  {
+    "type": "genre",
+    "slug": "biito-kounyu-paypay-konbini",
+    "batchId": 22
+  },
+  {
+    "type": "genre",
+    "slug": "shouyou-sutoriimingu-spotify-japan",
+    "batchId": 22
+  },
+  {
+    "type": "genre",
+    "slug": "untagged-wav-biito-riisu-nihon-en",
+    "batchId": 22
+  },
+  {
+    "type": "genre",
+    "slug": "torakku-kounyu-keiyakusho-pdf-japan",
+    "batchId": 22
+  },
+  {
+    "type": "genre",
+    "slug": "shibuya-tokyo-trap-biito-online",
+    "batchId": 22
+  },
+  {
+    "type": "genre",
+    "slug": "anime-soundtrack-trap-beats-japan",
+    "batchId": 22
+  },
+  {
+    "type": "genre",
+    "slug": "j-rap-instrumentals-for-spotify",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-japanese-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-yuki-chiba-team-tomodachi",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-nujabes-lofi-chillhop",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-bad-hop-kawasaki-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-tokyo-future-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "d-minor-japanese-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-minor-team-tomodachi-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-minor-awich-cinematic-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "a-minor-nujabes-jazz-lofi",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-minor-bad-hop-heavy-808s",
+    "batchId": 22
+  },
+  {
+    "type": "scene",
+    "slug": "tokyo-japanese-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "scene",
+    "slug": "tokyo-tokyo-trap-instrumentals",
+    "batchId": 22
+  },
+  {
+    "type": "scene",
+    "slug": "tokyo-lofi-chillhop-beats",
+    "batchId": 22
+  },
+  {
+    "type": "scene",
+    "slug": "tokyo-anime-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "scene",
+    "slug": "osaka-japanese-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "scene",
+    "slug": "osaka-tokyo-trap-instrumentals",
+    "batchId": 22
+  },
+  {
+    "type": "scene",
+    "slug": "osaka-lofi-chillhop-beats",
+    "batchId": 22
+  },
+  {
+    "type": "scene",
+    "slug": "osaka-anime-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "scene",
+    "slug": "kawasaki-japanese-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "scene",
+    "slug": "kawasaki-tokyo-trap-instrumentals",
+    "batchId": 22
+  },
+  {
+    "type": "scene",
+    "slug": "kawasaki-lofi-chillhop-beats",
+    "batchId": 22
+  },
+  {
+    "type": "scene",
+    "slug": "kawasaki-anime-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "scene",
+    "slug": "yokohama-japanese-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "scene",
+    "slug": "yokohama-tokyo-trap-instrumentals",
+    "batchId": 22
+  },
+  {
+    "type": "scene",
+    "slug": "yokohama-lofi-chillhop-beats",
+    "batchId": 22
+  },
+  {
+    "type": "scene",
+    "slug": "yokohama-anime-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "scene",
+    "slug": "okinawa-japanese-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "scene",
+    "slug": "okinawa-tokyo-trap-instrumentals",
+    "batchId": 22
+  },
+  {
+    "type": "scene",
+    "slug": "okinawa-lofi-chillhop-beats",
+    "batchId": 22
+  },
+  {
+    "type": "scene",
+    "slug": "okinawa-anime-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "scene",
+    "slug": "kyoto-japanese-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "scene",
+    "slug": "kyoto-tokyo-trap-instrumentals",
+    "batchId": 22
+  },
+  {
+    "type": "scene",
+    "slug": "kyoto-lofi-chillhop-beats",
+    "batchId": 22
+  },
+  {
+    "type": "scene",
+    "slug": "kyoto-anime-trap-bangers",
+    "batchId": 22
   }
 ];

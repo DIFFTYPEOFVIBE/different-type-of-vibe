@@ -12798,4 +12798,436 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
     }
   ]
 },
+  "jp/tokyo": {
+  "name": "Japan – 東京 (Tokyo & 首都圏 J-Rap Hub)",
+  "flag": "🇯🇵",
+  "currency": "JPY (¥)",
+  "currencyCode": "JPY",
+  "gateways": "PayPay, Apple Pay, Google Pay, クレジットカード, コンビニ決済",
+  "pro": "JASRAC & NexTone",
+  "proFullName": "日本音楽著作権協会 (JASRAC) & NexTone",
+  "proGuide": "100% JASRAC/NexTone登録対応。商用配信およびタイアップ利用可能。",
+  "headline": "東京トラップ・ビート購入: 千葉雄喜スタイル, JP The Wavy & Lexサウンド",
+  "description": "渋谷・六本木・原宿のストリートを席巻する東京最前線サウンド。バウンシーなトラップビート、サイバーパンクシンセ、滑らかなオートチューンサウンドを商用WAVリースでお届けします。",
+  "popularGenres": [
+    "Tokyo Trap",
+    "Team Tomodachi Style",
+    "Cyberpunk Trap",
+    "Lex Sound"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Team Tomodachi Vibe",
+      "slug": "../../vibe/yuki-chiba-team-tomodachi-trap-beats",
+      "description": "世界的なバイラルヒットを記録したダークミニマルトラップ。"
+    },
+    {
+      "name": "JP The Wavy Bounce",
+      "slug": "../../vibe/jp-the-wavy-neo-gal-bounce-trap",
+      "description": "ダンスフロア対応のアップテンポなフューチャートラップ。"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "このビートで制作した楽曲をSpotifyやApple Music、YouTubeで配信・収益化できますか？",
+      "answer": "はい、100%可能です！Different Type of VibeのWAVおよびMP3ライセンスには、Spotify、Apple Music、YouTube、TikTok、テレビ・ラジオでの商用配信権がすべて含まれています。アーティストとしてのストリーミング収益は100%あなたのものです。"
+    },
+    {
+      "question": "ビートはJASRAC & NexToneへの楽曲申請・著作権登録に対応していますか？",
+      "answer": "はい！すべてのインストゥルメンタルはプロデューサーOnziebによる100%完全オリジナル楽曲であり、未許諾の外部サンプリングは一切含みません。安心してお客様の作詞・歌唱・ラップをJASRAC & NexToneに著作権登録していただけます。"
+    },
+    {
+      "question": "日本国内で利用可能な支払い方法は何ですか？",
+      "answer": "日本円（¥ / JPY）にて、PayPay, Apple Pay, Google Pay, クレジットカード, コンビニ決済で安全かつ即時にお支払いいただけます。"
+    },
+    {
+      "question": "音声ロゴ（タグ）なしの音源データはいつ届きますか？",
+      "answer": "決済完了後、直ちにタグなし（音声ロゴなし）のスタジオ品質24-bit WAVファイル、高解像度MP3ファイル、および法的効力を持つ正式なPDFライセンス契約書がメールにて自動配信されます。"
+    }
+  ]
+},
+  "jp/kanagawa": {
+  "name": "Japan – 神奈川 (川崎 BAD HOP & 横浜 Drill)",
+  "flag": "🇯🇵",
+  "currency": "JPY (¥)",
+  "currencyCode": "JPY",
+  "gateways": "PayPay, Apple Pay, Google Pay, クレジットカード, コンビニ決済",
+  "pro": "JASRAC & NexTone",
+  "proFullName": "日本音楽著作権協会 (JASRAC) & NexTone",
+  "proGuide": "100%著作権クリアランス保証付き。",
+  "headline": "川崎・横浜ビート購入: BAD HOPスタイル, 重低音808 & ジャパニーズ・ドリル",
+  "description": "東京ドームを揺らした川崎BAD HOPの重厚なUSトラップと、横浜の冷徹なスライドドリル。重低音サブベースが唸る本格派インストゥルメンタル。",
+  "popularGenres": [
+    "Kawasaki Trap",
+    "BAD HOP Style",
+    "Yokohama Drill",
+    "重低音808"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "BAD HOP Style Hub",
+      "slug": "../../vibe/bad-hop-kawasaki-heavy-808-trap",
+      "description": "重厚なブラスと破壊的な808ベースライン。"
+    },
+    {
+      "name": "Ralph Dark Drill Vibe",
+      "slug": "../../vibe/ralph-yokohama-dark-drill-beats",
+      "description": "UK仕込みの鋭利なスライドドリル。"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "このビートで制作した楽曲をSpotifyやApple Music、YouTubeで配信・収益化できますか？",
+      "answer": "はい、100%可能です！Different Type of VibeのWAVおよびMP3ライセンスには、Spotify、Apple Music、YouTube、TikTok、テレビ・ラジオでの商用配信権がすべて含まれています。アーティストとしてのストリーミング収益は100%あなたのものです。"
+    },
+    {
+      "question": "ビートはJASRAC & NexToneへの楽曲申請・著作権登録に対応していますか？",
+      "answer": "はい！すべてのインストゥルメンタルはプロデューサーOnziebによる100%完全オリジナル楽曲であり、未許諾の外部サンプリングは一切含みません。安心してお客様の作詞・歌唱・ラップをJASRAC & NexToneに著作権登録していただけます。"
+    },
+    {
+      "question": "日本国内で利用可能な支払い方法は何ですか？",
+      "answer": "日本円（¥ / JPY）にて、PayPay, Apple Pay, Google Pay, クレジットカード, コンビニ決済で安全かつ即時にお支払いいただけます。"
+    },
+    {
+      "question": "音声ロゴ（タグ）なしの音源データはいつ届きますか？",
+      "answer": "決済完了後、直ちにタグなし（音声ロゴなし）のスタジオ品質24-bit WAVファイル、高解像度MP3ファイル、および法的効力を持つ正式なPDFライセンス契約書がメールにて自動配信されます。"
+    }
+  ]
+},
+  "jp/osaka": {
+  "name": "Japan – 大阪 & 関西 (Dotonbori Hardcore)",
+  "flag": "🇯🇵",
+  "currency": "JPY (¥)",
+  "currencyCode": "JPY",
+  "gateways": "PayPay, Apple Pay, Google Pay, クレジットカード, コンビニ決済",
+  "pro": "JASRAC & NexTone",
+  "proFullName": "日本音楽著作権協会 (JASRAC) & NexTone",
+  "proGuide": "100% JASRAC対応。Spotify/Apple Music収益100%保持。",
+  "headline": "大阪ヒップホップ・ビート購入: Jin Doggスタイル, アグレッシブ808 & ドリル",
+  "description": "アメリカ村・道頓堀の熱狂を生むハードコアトラップとメタルテイストの歪んだベース。Jin Doggに代表される圧倒的なエネルギーのビート。",
+  "popularGenres": [
+    "Osaka Hardcore",
+    "Jin Dogg Style",
+    "関西ドリル",
+    "ヘビートラップ"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Jin Dogg Vibe Hub",
+      "slug": "../../vibe/jin-dogg-osaka-hardcore-metal-trap",
+      "description": "破壊的なディストーションベースとアグレッシブなドラム。"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "このビートで制作した楽曲をSpotifyやApple Music、YouTubeで配信・収益化できますか？",
+      "answer": "はい、100%可能です！Different Type of VibeのWAVおよびMP3ライセンスには、Spotify、Apple Music、YouTube、TikTok、テレビ・ラジオでの商用配信権がすべて含まれています。アーティストとしてのストリーミング収益は100%あなたのものです。"
+    },
+    {
+      "question": "ビートはJASRAC & NexToneへの楽曲申請・著作権登録に対応していますか？",
+      "answer": "はい！すべてのインストゥルメンタルはプロデューサーOnziebによる100%完全オリジナル楽曲であり、未許諾の外部サンプリングは一切含みません。安心してお客様の作詞・歌唱・ラップをJASRAC & NexToneに著作権登録していただけます。"
+    },
+    {
+      "question": "日本国内で利用可能な支払い方法は何ですか？",
+      "answer": "日本円（¥ / JPY）にて、PayPay, Apple Pay, Google Pay, クレジットカード, コンビニ決済で安全かつ即時にお支払いいただけます。"
+    },
+    {
+      "question": "音声ロゴ（タグ）なしの音源データはいつ届きますか？",
+      "answer": "決済完了後、直ちにタグなし（音声ロゴなし）のスタジオ品質24-bit WAVファイル、高解像度MP3ファイル、および法的効力を持つ正式なPDFライセンス契約書がメールにて自動配信されます。"
+    }
+  ]
+},
+  "jp/okinawa": {
+  "name": "Japan – 沖縄 (Naha & Awich Island Trap)",
+  "flag": "🇯🇵",
+  "currency": "JPY (¥)",
+  "currencyCode": "JPY",
+  "gateways": "PayPay, Apple Pay, Google Pay, クレジットカード, コンビニ決済",
+  "pro": "JASRAC & NexTone",
+  "proFullName": "日本音楽著作権協会 (JASRAC) & NexTone",
+  "proGuide": "100% JASRAC/NexTone登録可能で即時ダウンロード。",
+  "headline": "沖縄トラップ・ビート購入: Awichスタイル, シネマティックブラス & 島トラップ",
+  "description": "クイーン・オブ・ヒップホップAwichとYentown直系の壮大なシネマティックトラップ。亜熱帯の空気感と重量級ブラス、太いベースが融合した唯一無二のサウンド。",
+  "popularGenres": [
+    "Okinawa Trap",
+    "Awich Style",
+    "Yentown Sound",
+    "アイランドトラップ"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Awich Cinematic Vibe",
+      "slug": "../../vibe/awich-okinawa-queen-cinematic-trap",
+      "description": "壮大なオーケストラブラスと重厚な808ベース。"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "このビートで制作した楽曲をSpotifyやApple Music、YouTubeで配信・収益化できますか？",
+      "answer": "はい、100%可能です！Different Type of VibeのWAVおよびMP3ライセンスには、Spotify、Apple Music、YouTube、TikTok、テレビ・ラジオでの商用配信権がすべて含まれています。アーティストとしてのストリーミング収益は100%あなたのものです。"
+    },
+    {
+      "question": "ビートはJASRAC & NexToneへの楽曲申請・著作権登録に対応していますか？",
+      "answer": "はい！すべてのインストゥルメンタルはプロデューサーOnziebによる100%完全オリジナル楽曲であり、未許諾の外部サンプリングは一切含みません。安心してお客様の作詞・歌唱・ラップをJASRAC & NexToneに著作権登録していただけます。"
+    },
+    {
+      "question": "日本国内で利用可能な支払い方法は何ですか？",
+      "answer": "日本円（¥ / JPY）にて、PayPay, Apple Pay, Google Pay, クレジットカード, コンビニ決済で安全かつ即時にお支払いいただけます。"
+    },
+    {
+      "question": "音声ロゴ（タグ）なしの音源データはいつ届きますか？",
+      "answer": "決済完了後、直ちにタグなし（音声ロゴなし）のスタジオ品質24-bit WAVファイル、高解像度MP3ファイル、および法的効力を持つ正式なPDFライセンス契約書がメールにて自動配信されます。"
+    }
+  ]
+},
+  "jp/nagoya": {
+  "name": "Japan – 名古屋 & 愛知 (東海 Street Trap)",
+  "flag": "🇯🇵",
+  "currency": "JPY (¥)",
+  "currencyCode": "JPY",
+  "gateways": "PayPay, Apple Pay, Google Pay, クレジットカード, コンビニ決済",
+  "pro": "JASRAC & NexTone",
+  "proFullName": "日本音楽著作権協会 (JASRAC) & NexTone",
+  "proGuide": "100%商用利用ライセンス付き。",
+  "headline": "名古屋ヒップホップ・ビート購入: 東海ストリートトラップ & ローライダーBounce",
+  "description": "AK-69を生んだ東海ヒップホップの伝統を受け継ぐ、重厚なローライダートラップと力強いシンセリード。",
+  "popularGenres": [
+    "Nagoya Trap",
+    "東海ヒップホップ",
+    "Street Bounce"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "このビートで制作した楽曲をSpotifyやApple Music、YouTubeで配信・収益化できますか？",
+      "answer": "はい、100%可能です！Different Type of VibeのWAVおよびMP3ライセンスには、Spotify、Apple Music、YouTube、TikTok、テレビ・ラジオでの商用配信権がすべて含まれています。アーティストとしてのストリーミング収益は100%あなたのものです。"
+    },
+    {
+      "question": "ビートはJASRAC & NexToneへの楽曲申請・著作権登録に対応していますか？",
+      "answer": "はい！すべてのインストゥルメンタルはプロデューサーOnziebによる100%完全オリジナル楽曲であり、未許諾の外部サンプリングは一切含みません。安心してお客様の作詞・歌唱・ラップをJASRAC & NexToneに著作権登録していただけます。"
+    },
+    {
+      "question": "日本国内で利用可能な支払い方法は何ですか？",
+      "answer": "日本円（¥ / JPY）にて、PayPay, Apple Pay, Google Pay, クレジットカード, コンビニ決済で安全かつ即時にお支払いいただけます。"
+    },
+    {
+      "question": "音声ロゴ（タグ）なしの音源データはいつ届きますか？",
+      "answer": "決済完了後、直ちにタグなし（音声ロゴなし）のスタジオ品質24-bit WAVファイル、高解像度MP3ファイル、および法的効力を持つ正式なPDFライセンス契約書がメールにて自動配信されます。"
+    }
+  ]
+},
+  "jp/fukuoka": {
+  "name": "Japan – 福岡 & 九州 (博多 Street Rap)",
+  "flag": "🇯🇵",
+  "currency": "JPY (¥)",
+  "currencyCode": "JPY",
+  "gateways": "PayPay, Apple Pay, Google Pay, クレジットカード, コンビニ決済",
+  "pro": "JASRAC & NexTone",
+  "proFullName": "日本音楽著作権協会 (JASRAC) & NexTone",
+  "proGuide": "100% JASRACクリアランス済み。",
+  "headline": "福岡ヒップホップ・ビート購入: 博多ストリートトラップ & バウンシーDrill",
+  "description": "熱気溢れる親不孝通りのカルチャーを反映した、エネルギッシュなトラップとタイトなドラム。",
+  "popularGenres": [
+    "Fukuoka Rap",
+    "博多トラップ",
+    "九州ドリル"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "このビートで制作した楽曲をSpotifyやApple Music、YouTubeで配信・収益化できますか？",
+      "answer": "はい、100%可能です！Different Type of VibeのWAVおよびMP3ライセンスには、Spotify、Apple Music、YouTube、TikTok、テレビ・ラジオでの商用配信権がすべて含まれています。アーティストとしてのストリーミング収益は100%あなたのものです。"
+    },
+    {
+      "question": "ビートはJASRAC & NexToneへの楽曲申請・著作権登録に対応していますか？",
+      "answer": "はい！すべてのインストゥルメンタルはプロデューサーOnziebによる100%完全オリジナル楽曲であり、未許諾の外部サンプリングは一切含みません。安心してお客様の作詞・歌唱・ラップをJASRAC & NexToneに著作権登録していただけます。"
+    },
+    {
+      "question": "日本国内で利用可能な支払い方法は何ですか？",
+      "answer": "日本円（¥ / JPY）にて、PayPay, Apple Pay, Google Pay, クレジットカード, コンビニ決済で安全かつ即時にお支払いいただけます。"
+    },
+    {
+      "question": "音声ロゴ（タグ）なしの音源データはいつ届きますか？",
+      "answer": "決済完了後、直ちにタグなし（音声ロゴなし）のスタジオ品質24-bit WAVファイル、高解像度MP3ファイル、および法的効力を持つ正式なPDFライセンス契約書がメールにて自動配信されます。"
+    }
+  ]
+},
+  "jp/sapporo": {
+  "name": "Japan – 札幌 & 北海道 (North Coast Drill)",
+  "flag": "🇯🇵",
+  "currency": "JPY (¥)",
+  "currencyCode": "JPY",
+  "gateways": "PayPay, Apple Pay, Google Pay, クレジットカード, コンビニ決済",
+  "pro": "JASRAC & NexTone",
+  "proFullName": "日本音楽著作権協会 (JASRAC) & NexTone",
+  "proGuide": "100% JASRAC登録可能。",
+  "headline": "札幌ビート購入: 北の冷徹ドリル, アトモスフェリックトラップ & ブーンバップ",
+  "description": "雪景色を想起させる冷たいシンセパッドと、鋭くスライドする808ベースライン。",
+  "popularGenres": [
+    "Sapporo Drill",
+    "北海トラップ",
+    "Cold Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "このビートで制作した楽曲をSpotifyやApple Music、YouTubeで配信・収益化できますか？",
+      "answer": "はい、100%可能です！Different Type of VibeのWAVおよびMP3ライセンスには、Spotify、Apple Music、YouTube、TikTok、テレビ・ラジオでの商用配信権がすべて含まれています。アーティストとしてのストリーミング収益は100%あなたのものです。"
+    },
+    {
+      "question": "ビートはJASRAC & NexToneへの楽曲申請・著作権登録に対応していますか？",
+      "answer": "はい！すべてのインストゥルメンタルはプロデューサーOnziebによる100%完全オリジナル楽曲であり、未許諾の外部サンプリングは一切含みません。安心してお客様の作詞・歌唱・ラップをJASRAC & NexToneに著作権登録していただけます。"
+    },
+    {
+      "question": "日本国内で利用可能な支払い方法は何ですか？",
+      "answer": "日本円（¥ / JPY）にて、PayPay, Apple Pay, Google Pay, クレジットカード, コンビニ決済で安全かつ即時にお支払いいただけます。"
+    },
+    {
+      "question": "音声ロゴ（タグ）なしの音源データはいつ届きますか？",
+      "answer": "決済完了後、直ちにタグなし（音声ロゴなし）のスタジオ品質24-bit WAVファイル、高解像度MP3ファイル、および法的効力を持つ正式なPDFライセンス契約書がメールにて自動配信されます。"
+    }
+  ]
+},
+  "jp/kyoto": {
+  "name": "Japan – 京都 (Nujabes Lo-Fi & 和風 Hiphop)",
+  "flag": "🇯🇵",
+  "currency": "JPY (¥)",
+  "currencyCode": "JPY",
+  "gateways": "PayPay, Apple Pay, Google Pay, クレジットカード, コンビニ決済",
+  "pro": "JASRAC & NexTone",
+  "proFullName": "日本音楽著作権協会 (JASRAC) & NexTone",
+  "proGuide": "100% JASRAC対応のオリジナル・ジャズインストゥルメンタル。",
+  "headline": "京都ローファイ・ビート購入: Nujabesスタイル, 琴・尺八 & 和風ジャズラップ",
+  "description": "伝統的な和楽器の響きと、Nujabesにインスパイアされた極上のローファイ・ジャズピアノ。温かみのあるアナログドラム。",
+  "popularGenres": [
+    "Kyoto Lo-Fi",
+    "Nujabes Style",
+    "和風トラップ",
+    "ジャズブーンバップ"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Nujabes Lo-Fi Vibe",
+      "slug": "../../vibe/nujabes-lofi-chillhop-jazz-beats",
+      "description": "哀愁のジャズピアノと心地よいヴィンテージMPCドラム。"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "このビートで制作した楽曲をSpotifyやApple Music、YouTubeで配信・収益化できますか？",
+      "answer": "はい、100%可能です！Different Type of VibeのWAVおよびMP3ライセンスには、Spotify、Apple Music、YouTube、TikTok、テレビ・ラジオでの商用配信権がすべて含まれています。アーティストとしてのストリーミング収益は100%あなたのものです。"
+    },
+    {
+      "question": "ビートはJASRAC & NexToneへの楽曲申請・著作権登録に対応していますか？",
+      "answer": "はい！すべてのインストゥルメンタルはプロデューサーOnziebによる100%完全オリジナル楽曲であり、未許諾の外部サンプリングは一切含みません。安心してお客様の作詞・歌唱・ラップをJASRAC & NexToneに著作権登録していただけます。"
+    },
+    {
+      "question": "日本国内で利用可能な支払い方法は何ですか？",
+      "answer": "日本円（¥ / JPY）にて、PayPay, Apple Pay, Google Pay, クレジットカード, コンビニ決済で安全かつ即時にお支払いいただけます。"
+    },
+    {
+      "question": "音声ロゴ（タグ）なしの音源データはいつ届きますか？",
+      "answer": "決済完了後、直ちにタグなし（音声ロゴなし）のスタジオ品質24-bit WAVファイル、高解像度MP3ファイル、および法的効力を持つ正式なPDFライセンス契約書がメールにて自動配信されます。"
+    }
+  ]
+},
+  "jp/kobe": {
+  "name": "Japan – 神戸 & 兵庫 (Kansai Melodic Trap)",
+  "flag": "🇯🇵",
+  "currency": "JPY (¥)",
+  "currencyCode": "JPY",
+  "gateways": "PayPay, Apple Pay, Google Pay, クレジットカード, コンビニ決済",
+  "pro": "JASRAC & NexTone",
+  "proFullName": "日本音楽著作権協会 (JASRAC) & NexTone",
+  "proGuide": "100%商用利用ライセンス即時発行。",
+  "headline": "神戸ビート購入: 洗練されたメロディックトラップ & スムースR&B",
+  "description": "港町・神戸の夜景を彩る都会的で洗練されたコード進行と、クリアな808ベース。",
+  "popularGenres": [
+    "Kobe Melodic",
+    "Urban R&B Trap",
+    "スムースビート"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "このビートで制作した楽曲をSpotifyやApple Music、YouTubeで配信・収益化できますか？",
+      "answer": "はい、100%可能です！Different Type of VibeのWAVおよびMP3ライセンスには、Spotify、Apple Music、YouTube、TikTok、テレビ・ラジオでの商用配信権がすべて含まれています。アーティストとしてのストリーミング収益は100%あなたのものです。"
+    },
+    {
+      "question": "ビートはJASRAC & NexToneへの楽曲申請・著作権登録に対応していますか？",
+      "answer": "はい！すべてのインストゥルメンタルはプロデューサーOnziebによる100%完全オリジナル楽曲であり、未許諾の外部サンプリングは一切含みません。安心してお客様の作詞・歌唱・ラップをJASRAC & NexToneに著作権登録していただけます。"
+    },
+    {
+      "question": "日本国内で利用可能な支払い方法は何ですか？",
+      "answer": "日本円（¥ / JPY）にて、PayPay, Apple Pay, Google Pay, クレジットカード, コンビニ決済で安全かつ即時にお支払いいただけます。"
+    },
+    {
+      "question": "音声ロゴ（タグ）なしの音源データはいつ届きますか？",
+      "answer": "決済完了後、直ちにタグなし（音声ロゴなし）のスタジオ品質24-bit WAVファイル、高解像度MP3ファイル、および法的効力を持つ正式なPDFライセンス契約書がメールにて自動配信されます。"
+    }
+  ]
+},
 };
