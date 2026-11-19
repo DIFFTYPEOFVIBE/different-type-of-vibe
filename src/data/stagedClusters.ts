@@ -26808,4 +26808,1689 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "2"
   ]
 },
+  {
+  "slug": "feid-ferxxo-nostalgic-perreo-synth",
+  "name": "Feid Ferxxo Nostalgic Perreo Synth",
+  "category": "vibe",
+  "badge": "Ferxxo Perreo Vibe",
+  "headline": "Beats Estilo Feid (Ferxxo): Sintetizadores Nostálgicos, Dembow Suave & Perreo de 90 BPM",
+  "description": "El sonido insignia del reggaetón mundial: pads analógicos envolventes, sintetizadores nostálgicos inspirados en los 90, bajos profundos y dembow bailable para coros virales.",
+  "targetArtists": [
+    "Feid",
+    "Ferxxo",
+    "Sky Rompiendo",
+    "Mor, No Le Temas a la Oscuridad"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Sintetizadores Nostálgicos",
+    "Dembow Suave",
+    "Pads Analógicos",
+    "Perreo Paisa"
+  ],
+  "popularGenres": [
+    "Perreo Nostálgico",
+    "Reggaetón Paisa",
+    "Urbano Comercial"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "blessd-barrio-antioquia-street-trap",
+  "name": "Blessd Barrio Antioquia Street Trap",
+  "category": "vibe",
+  "badge": "Hecho en Medellín Vibe",
+  "headline": "Beats Estilo Blessd: Trap Paisa de Barrio, Cajas Secas & Perreo Agresivo",
+  "description": "La energía de Barrio Antioquia: bajos 808 pesados con distorsión sutil, percusiones de reggaetón agresivo y melodías oscuras para barras de calle y superación.",
+  "targetArtists": [
+    "Blessd",
+    "Hecho en Medellín",
+    "El Bendito",
+    "Ovy On The Drums"
+  ],
+  "recommendedBpm": "92-96 BPM / 130 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Trap Paisa",
+    "Bajo 808 Pesado",
+    "Perreo Agresivo",
+    "Barrio Sound"
+  ],
+  "popularGenres": [
+    "Trap Latino",
+    "Reggaetón de Barrio",
+    "Trap Paisa"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "ryan-castro-el-cantante-del-ghetto-dancehall",
+  "name": "Ryan Castro El Cantante del Ghetto Dancehall",
+  "category": "vibe",
+  "badge": "Ghetto Dancehall Vibe",
+  "headline": "Beats Estilo Ryan Castro: Dancehall Panameño, Dembow Clásico & Sabor del Ghetto",
+  "description": "El regreso a las raíces del movimiento: cajas de dancehall jamaicano y dembow de la vieja escuela con bajos rebotantes para voces con chispa y sabor.",
+  "targetArtists": [
+    "Ryan Castro",
+    "El Cantante del Ghetto",
+    "Jordan",
+    "Mujeriego"
+  ],
+  "recommendedBpm": "95-102 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Dancehall Clásico",
+    "Dembow Calle",
+    "Sabor del Ghetto",
+    "Bajo Rebotante"
+  ],
+  "popularGenres": [
+    "Dancehall Urbano",
+    "Reggaetón Clásico",
+    "Urbano Colombiano"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "1",
+    "6"
+  ]
+},
+  {
+  "slug": "nanpa-basico-acoustic-poetic-rap",
+  "name": "Nanpa Básico Acoustic Poetic Rap",
+  "category": "vibe",
+  "badge": "Poesía Urbana Acústica",
+  "headline": "Beats Estilo Nanpa Básico: Guitarras Acústicas Sentidas, Boom Bap & Rimas de Amor",
+  "description": "Sentimiento en cada acorde: rasgueos de guitarra acústica española, pianos emotivos y bombos cálidos para canciones de amor, despecho y poesía urbana.",
+  "targetArtists": [
+    "Nanpa Básico",
+    "Gera MX Crossover",
+    "Santa Fe Klan Crossover"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Guitarra Acústica",
+    "Poesía Urbana",
+    "Pianos Emotivos",
+    "Boom Bap Cálido"
+  ],
+  "popularGenres": [
+    "Rap Poético",
+    "Acoustic Rap",
+    "Boom Bap Colombiano"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "pirlo-420-cali-street-drill-trap",
+  "name": "Pirlo 420 Cali Street Drill Trap",
+  "category": "vibe",
+  "badge": "Cali Drill Vibe",
+  "headline": "Beats Estilo Pirlo 420: Drill de Cali, Bajos Deslizantes 808 & Actitud Callejera",
+  "description": "La revolución del sonido del Valle: patrones rápidos de drill, campanas gélidas y bajos 808 que barren el suelo para rimas crudas y sin censura.",
+  "targetArtists": [
+    "Pirlo 420",
+    "Cali Cartel",
+    "Drill Caleño",
+    "Calle 420"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / F-Minor",
+  "vibeAttributes": [
+    "Drill de Cali",
+    "Bajo Deslizante 808",
+    "Campanas Gélidas",
+    "Actitud Callejera"
+  ],
+  "popularGenres": [
+    "Drill Colombiano",
+    "Trap Callejero",
+    "Cali Sound"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "crudo-means-raw-boombap-jazz-medellin",
+  "name": "Crudo Means Raw Boombap Jazz Medellín",
+  "category": "vibe",
+  "badge": "Jazz-Hop Paisa Vibe",
+  "headline": "Beats Estilo Crudo Means Raw: Samples de Jazz Oscuro, Texturas de Vinilo & Boom Bap Fino",
+  "description": "Alta cocina musical de Medellín: Rhodes polvorientos, líneas de contrabajo caminantes y swing de MPC analógico para hip hop vanguardista.",
+  "targetArtists": [
+    "Crudo Means Raw",
+    "Moebiuz",
+    "Alcolirykoz Crossover"
+  ],
+  "recommendedBpm": "85-92 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Samples de Jazz",
+    "Contrabajo",
+    "Swing de MPC",
+    "Vinilo Polvoriento"
+  ],
+  "popularGenres": [
+    "Jazz Rap",
+    "Boom Bap Fino",
+    "Hip Hop Paisa"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "alcolirykoz-aranjuez-vintage-boombap",
+  "name": "Alcolirykoz Aranjuez Vintage Boombap",
+  "category": "vibe",
+  "badge": "Aranjuez Boombap Vibe",
+  "headline": "Beats Estilo Alcolirykoz: Metales Vintage, Sonido de Barrio Aranjuez & Baterías Secas",
+  "description": "La leyenda del hip hop de Medellín: vientos de salsa antigua, cortes de vinilo de los 70 y baterías analógicas con golpe seco para crónicas reales de la ciudad.",
+  "targetArtists": [
+    "Alcolirykoz",
+    "Kaztro",
+    "Gambeta",
+    "Fazeta",
+    "Aranjuez"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Metales Vintage",
+    "Cortes de Vinilo",
+    "Batería Analógica",
+    "Crónica de Barrio"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico",
+    "Hip Hop Paisa",
+    "Rap de Barrio"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "karol-g-bichota-female-urban-pop",
+  "name": "Karol G Bichota Female Urban Pop",
+  "category": "vibe",
+  "badge": "Bichota Urban Vibe",
+  "headline": "Beats Estilo Karol G: Reggaetón Bailable, Bajos Envolventes & Himnos Femeninos",
+  "description": "El estándar del pop urbano mundial: melodías de sintetizador contagiosas, dembows limpios y bajos cálidos que destacan la presencia vocal femenina.",
+  "targetArtists": [
+    "Karol G",
+    "Mañana Será Bonito",
+    "Ovy On The Drums",
+    "Bichota"
+  ],
+  "recommendedBpm": "90-96 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Dembow Limpio",
+    "Sintetizadores Brillantes",
+    "Himno Femenino",
+    "Bajo Cálido"
+  ],
+  "popularGenres": [
+    "Reggaetón Pop",
+    "Urbano Latino",
+    "Commercial Dance"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "sky-rompiendo-future-sound-reggaeton",
+  "name": "Sky Rompiendo Future Sound Reggaeton",
+  "category": "vibe",
+  "badge": "Sky Rompiendo Vibe",
+  "headline": "Beats Estilo Sky Rompiendo: Producción de Élite, Reverb Espaciosa & Kicks con Punch",
+  "description": "Producción de clase mundial: mezclas cristalinas con compresión precisa, sintetizadores futuristas y el espacio exacto para hits de radio internacionales.",
+  "targetArtists": [
+    "Sky Rompiendo",
+    "J Balvin",
+    "Mora",
+    "Feid"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "C-Minor / E-Minor",
+  "vibeAttributes": [
+    "Producción de Élite",
+    "Mezcla Cristalina",
+    "Kicks con Punch",
+    "Reverb Espaciosa"
+  ],
+  "popularGenres": [
+    "Commercial Reggaetón",
+    "Future Pop",
+    "Urbano Global"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "oblivions-mighty-trash-indie-boombap",
+  "name": "Oblivion's Mighty Trash Indie Boombap",
+  "category": "vibe",
+  "badge": "Indie Boombap Paisa",
+  "headline": "Beats Estilo Oblivions: SP-404 Lofi Loops, Swing Descuantizado & Sonido Joven",
+  "description": "La nueva joya del underground de Medellín: loops de jazz y soul procesados en sampler SP-404, baterías descuantizadas y vibra relajada.",
+  "targetArtists": [
+    "Oblivion's Mighty Trash",
+    "Hache St",
+    "Afterclass"
+  ],
+  "recommendedBpm": "82-90 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "SP-404 Lofi",
+    "Swing Descuantizado",
+    "Samples de Soul",
+    "Underground Puro"
+  ],
+  "popularGenres": [
+    "Lo-Fi Hip Hop",
+    "Indie Boom Bap",
+    "Rap Paisa"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "ali-aka-mind-conscious-orchestral-rap",
+  "name": "Ali AKA Mind Conscious Orchestral Rap",
+  "category": "vibe",
+  "badge": "Rap Consciente Orquestal",
+  "headline": "Beats Estilo Ali AKA Mind: Violines Cinemáticos, Pianos Clásicos & Mensaje Profundo",
+  "description": "Arreglos orquestales conmovedores: cuartetos de cuerda dramáticos, pianos acústicos majestuosos y baterías con pegada para canciones reflexivas.",
+  "targetArtists": [
+    "Ali A.K.A. Mind",
+    "Lianna",
+    "Rap Capitalino"
+  ],
+  "recommendedBpm": "88-96 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Violines Cinemáticos",
+    "Pianos Clásicos",
+    "Mensaje Profundo",
+    "Rap Consciente"
+  ],
+  "popularGenres": [
+    "Orchestral Hip Hop",
+    "Rap Consciente",
+    "Boom Bap Bogotano"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6"
+  ]
+},
+  {
+  "slug": "esteban-rojas-sucursal-melodic-trap",
+  "name": "Esteban Rojas Sucursal Melodic Trap",
+  "category": "vibe",
+  "badge": "La Sucursal Melodic",
+  "headline": "Beats Estilo Esteban Rojas: Trap Melódico de Cali, Guitarras Sentidas & Autotune",
+  "description": "El nuevo sonido de Cali: guitarras acústicas nostálgicas, bajos 808 envolventes y baterías dinámicas de trap para rimas de barrio con sentimiento.",
+  "targetArtists": [
+    "Esteban Rojas",
+    "Cali Cartel",
+    "Los de la Fara"
+  ],
+  "recommendedBpm": "120-130 BPM",
+  "recommendedKey": "E-Minor / B-Minor",
+  "vibeAttributes": [
+    "Guitarras Sentidas",
+    "Trap Melódico",
+    "La Sucursal",
+    "Bajo 808 Envolvente"
+  ],
+  "popularGenres": [
+    "Melodic Trap",
+    "Cali Sound",
+    "Trap Latino"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "comprar-beats-de-reggaeton-colombia-nequi",
+  "name": "Comprar Beats de Reggaetón en Colombia (Nequi, Daviplata & PSE)",
+  "category": "genre",
+  "badge": "Paga con Nequi & PSE",
+  "headline": "Comprar Beats en Colombia: Paga al Instante con Nequi, Daviplata o PSE en Pesos COP",
+  "description": "La forma más fácil y rápida de comprar instrumentales de reggaetón y trap en Colombia. Paga desde tu app de Nequi o Daviplata en segundos y descarga tus archivos WAV de 24 bits con contrato legal.",
+  "targetArtists": [
+    "Artistas de Medellín",
+    "Cantantes de Reggaetón",
+    "Raperos Colombianos"
+  ],
+  "recommendedBpm": "Todos los Tempos",
+  "recommendedKey": "Todas las Tonalidades",
+  "vibeAttributes": [
+    "Pago Nequi",
+    "Daviplata Inmediato",
+    "PSE Bancolombia",
+    "Pesos COP"
+  ],
+  "popularGenres": [
+    "Reggaetón",
+    "Trap Latino",
+    "Boom Bap",
+    "Afrobeat"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "pistas-de-reggaeton-estilo-feid-wav-stems",
+  "name": "Pistas de Reggaetón Estilo Feid WAV con Stems",
+  "category": "genre",
+  "badge": "Feid Ferxxo WAV",
+  "headline": "Pistas de Reggaetón Estilo Feid (Ferxxo): Sintetizadores Nostálgicos y Canales Separados",
+  "description": "Instrumentales comerciales con el sonido paisa a 90 BPM. Canales multitrack separados (stems) para que tu ingeniero de mezcla logre un sonido radial impecable.",
+  "targetArtists": [
+    "Feid Fans",
+    "Cantantes Urbanos",
+    "Productores Vocales"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Stems Separados",
+    "Sintetizadores 90s",
+    "WAV 24-bit",
+    "Dembow Suave"
+  ],
+  "popularGenres": [
+    "Reggaetón Paisa",
+    "Perreo Nostálgico",
+    "Commercial Urban"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "sayco-acinpro-derechos-de-autor-pistas-colombia",
+  "name": "Pistas Seguras para Registrar ante SAYCO, ACINPRO y DNDA",
+  "category": "genre",
+  "badge": "Aprobado SAYCO & DNDA",
+  "headline": "Pistas 100% Seguras para Registro en SAYCO y DNDA: Libres de Reclamos de Copyright",
+  "description": "Registra tus canciones sin problemas legales ante la Dirección Nacional de Derecho de Autor (DNDA) y SAYCO. Producciones 100% originales sin samples ilegales que garantizan tus regalías.",
+  "targetArtists": [
+    "Socios SAYCO",
+    "Compositores Colombianos",
+    "Sellos Independientes"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "100% Original",
+    "SAYCO Safe",
+    "DNDA Registro",
+    "Contrato Legal PDF"
+  ],
+  "popularGenres": [
+    "Reggaetón",
+    "Trap Latino",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6",
+    "5"
+  ]
+},
+  {
+  "slug": "pistas-de-trap-caleno-y-drill-colombiano",
+  "name": "Pistas de Trap Caleño y Drill Colombiano",
+  "category": "genre",
+  "badge": "Cali Drill & Trap",
+  "headline": "Beats de Drill Caleño y Trap Pesado: Bajos 808 Deslizantes y Campanas Oscuras",
+  "description": "El movimiento que sacude a Cali: patrones agresivos de drill a 140 BPM combinados con la cadencia callejera de La Sucursal del Cielo.",
+  "targetArtists": [
+    "Pirlo 420 Style",
+    "Esteban Rojas Style",
+    "Raperos de Calle"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Drill Caleño",
+    "Bajos 808 Deslizantes",
+    "Campanas Oscuras",
+    "Agresivo"
+  ],
+  "popularGenres": [
+    "Drill Colombiano",
+    "Trap Callejero",
+    "Cali Sound"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "bases-de-rap-colombiano-sin-etiqueta-untagged",
+  "name": "Bases de Rap Colombiano Sin Etiqueta de Voz (Untagged)",
+  "category": "genre",
+  "badge": "WAV Sin Etiquetas",
+  "headline": "Bases de Rap Colombiano Sin Voz de Fondo: Calidad Estudio 24-bit",
+  "description": "Pistas de audio totalmente limpias de firmas sonoras o marcas de agua. Entra a cabina de grabación con -6dB de margen para masterizar tus voces limpiamente.",
+  "targetArtists": [
+    "Raperos de Estudio",
+    "Ingenieros de Mezcla",
+    "Vocalistas"
+  ],
+  "recommendedBpm": "88-144 BPM",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Sin Etiqueta",
+    "Audio Limpio",
+    "Headroom -6dB",
+    "Máster Estudio"
+  ],
+  "popularGenres": [
+    "Boom Bap Colombiano",
+    "Trap",
+    "Reggaetón"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1",
+    "6"
+  ]
+},
+  {
+  "slug": "licencia-comercial-spotify-colombia",
+  "name": "Licencia Comercial para Spotify Colombia y YouTube",
+  "category": "genre",
+  "badge": "Spotify Colombia Ready",
+  "headline": "Licencia Comercial para Streaming: Lanza en Spotify Colombia y Quédate con el 100%",
+  "description": "Lanza tus sencillos en Spotify, Apple Music, Deezer y YouTube a través de DistroKid, ONErpm o cualquier distribuidora conservando el 100% de tus regalías.",
+  "targetArtists": [
+    "Artistas Independientes",
+    "Sellos de Medellín",
+    "Distribuidoras"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "100% Regalías",
+    "Spotify Colombia",
+    "Monetización YouTube",
+    "Ilimitado"
+  ],
+  "popularGenres": [
+    "Reggaetón Paisa",
+    "Trap Latino",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "beats-de-boom-bap-medellin-alcolirykoz-style",
+  "name": "Beats de Boom Bap Medellín Estilo Alcolirykoz",
+  "category": "genre",
+  "badge": "Boom Bap Paisa",
+  "headline": "Beats de Boom Bap Estilo Medellín: Vientos de Salsa Clásica, Cortes de Vinilo y Cajas Secas",
+  "description": "Para los amantes del hip hop con identidad de barrio: samples añejos de salsa, contrabajos acústicos y baterías analógicas inspiradas en Aranjuez.",
+  "targetArtists": [
+    "Alcolirykoz Fans",
+    "Crudo Means Raw Fans",
+    "MCs de Barrio"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Salsa Vintage",
+    "Vinilo Analógico",
+    "Aranjuez Vibe",
+    "Caja Seca"
+  ],
+  "popularGenres": [
+    "Boom Bap Paisa",
+    "Hip Hop Colombiano",
+    "Jazz Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6"
+  ]
+},
+  {
+  "slug": "bases-de-rap-acustico-y-poetico-nanpa-style",
+  "name": "Bases de Rap Acústico y Poético Estilo Nanpa Básico",
+  "category": "genre",
+  "badge": "Rap Poético Acústico",
+  "headline": "Beats de Rap con Guitarras Acústicas Españolas: El Sentimiento de Nanpa Básico",
+  "description": "Acordes melancólicos de guitarra criolla y española, pianos románticos y baterías suaves ideales para canciones sentidas de amor y despecho.",
+  "targetArtists": [
+    "Nanpa Básico Fans",
+    "Compositores de Letras",
+    "Vocalistas Poéticos"
+  ],
+  "recommendedBpm": "88-96 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Guitarras Españolas",
+    "Rap Poético",
+    "Sentimiento Puro",
+    "Batería Suave"
+  ],
+  "popularGenres": [
+    "Acoustic Rap",
+    "Rap Poético",
+    "Boom Bap Melódico"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "pistas-exclusivas-para-artistas-en-colombia",
+  "name": "Pistas Exclusivas para Artistas en Colombia (Derechos Totales)",
+  "category": "genre",
+  "badge": "Derechos Exclusivos",
+  "headline": "Beats con Derechos Exclusivos en Colombia: Propiedad Total y Retiro de Catálogo",
+  "description": "Adquiere la propiedad exclusiva del máster. La pista se retira definitivamente del catálogo de la tienda y se transfiere legalmente a tu nombre en Pesos COP.",
+  "targetArtists": [
+    "Artistas Firmados",
+    "Proyectos de Álbum",
+    "Managers"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Derechos Exclusivos",
+    "Retiro de Tienda",
+    "Propiedad Total",
+    "Contrato Legal"
+  ],
+  "popularGenres": [
+    "Reggaetón",
+    "Trap Latino",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "descargar-paquete-3-beats-gratis-colombia",
+  "name": "Descargar Paquete de 3 Beats Gratis para Probar Voz",
+  "category": "genre",
+  "badge": "Paquete Gratis MP3",
+  "headline": "Descarga Gratis 3 Pistas de Reggaetón y Trap: Prueba tu Flow en Casa",
+  "description": "Descarga instantánea de 3 instrumentales en MP3 de alta fidelidad para practicar tus letras y probar cómo suena tu voz antes de comprar tu licencia definitiva.",
+  "targetArtists": [
+    "Artistas Nuevos",
+    "Home Studio",
+    "Compositores"
+  ],
+  "recommendedBpm": "90, 94, 130 BPM",
+  "recommendedKey": "C-Minor, F-Minor",
+  "vibeAttributes": [
+    "Descarga Gratis",
+    "3 Pistas",
+    "Prueba de Voz",
+    "Envío al Correo"
+  ],
+  "popularGenres": [
+    "Reggaetón",
+    "Trap Latino",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "5"
+  ]
+},
+  {
+  "slug": "90-bpm-feid-reggaeton-tempo",
+  "name": "90 BPM Feid Reggaetón Tempo",
+  "category": "bpm",
+  "badge": "90 BPM Perreo Suave",
+  "headline": "90 BPM Reggaetón Nostálgico: El Tempo de Oro del Perreo Paisa",
+  "description": "El tempo predilecto de Feid: cadencia lenta y bailable para sintetizadores retro y coros envolventes.",
+  "recommendedBpm": "90 BPM",
+  "recommendedKey": "F-Minor",
+  "vibeAttributes": [
+    "90 BPM",
+    "Perreo Suave",
+    "Feid Style",
+    "Cadencia"
+  ],
+  "popularGenres": [
+    "Reggaetón",
+    "Perreo Nostálgico"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "95-bpm-blessd-perreo-banger",
+  "name": "95 BPM Blessd Perreo Banger",
+  "category": "bpm",
+  "badge": "95 BPM Perreo Pesado",
+  "headline": "95 BPM Perreo Pesado: El Golpe Energético de las Discotecas de Medellín",
+  "description": "Mayor energía para romper la pista de baile con dembows marcados y bajos 808 con peso.",
+  "recommendedBpm": "95 BPM",
+  "recommendedKey": "D-Minor",
+  "vibeAttributes": [
+    "95 BPM",
+    "Perreo Pesado",
+    "Discoteca",
+    "Blessd Vibe"
+  ],
+  "popularGenres": [
+    "Reggaetón de Barrio",
+    "Club Banger"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "88-bpm-alcolirykoz-boombap-tempo",
+  "name": "88 BPM Alcolirykoz Boombap Tempo",
+  "category": "bpm",
+  "badge": "88 BPM Boom Bap Paisa",
+  "headline": "88 BPM Boom Bap de Barrio: Cadencia Relajada para Crónicas Urbanas",
+  "description": "El tempo clásico de Aranjuez: espacio amplio para barras complejas, pausas y rimas con peso.",
+  "recommendedBpm": "88 BPM",
+  "recommendedKey": "G-Minor",
+  "vibeAttributes": [
+    "88 BPM",
+    "Boom Bap",
+    "Aranjuez Vibe",
+    "Swing"
+  ],
+  "popularGenres": [
+    "Boom Bap Paisa",
+    "Hip Hop Colombiano"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6"
+  ]
+},
+  {
+  "slug": "130-bpm-trap-colombiano-beats",
+  "name": "130 BPM Trap Colombiano Beats",
+  "category": "bpm",
+  "badge": "130 BPM Trap Latino",
+  "headline": "130 BPM Trap Latino: El Pulso Urbano de Medellín y Cali",
+  "description": "Tempo clásico de trap con rebote dinámico en los hi-hats y bajos 808 profundos.",
+  "recommendedBpm": "130 BPM",
+  "recommendedKey": "C-Minor",
+  "vibeAttributes": [
+    "130 BPM",
+    "Trap Latino",
+    "Bajo 808",
+    "Hi-Hats"
+  ],
+  "popularGenres": [
+    "Trap Latino",
+    "Trap Paisa"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "140-bpm-cali-street-drill",
+  "name": "140 BPM Cali Street Drill",
+  "category": "bpm",
+  "badge": "140 BPM Cali Drill",
+  "headline": "140 BPM Drill Caleño: Rapidez y Bajos Deslizantes en La Sucursal",
+  "description": "El tempo insignia del drill callejero de Cali con deslizamiento continuo de sub-bajos 808.",
+  "recommendedBpm": "140 BPM",
+  "recommendedKey": "D-Minor",
+  "vibeAttributes": [
+    "140 BPM",
+    "Drill Caleño",
+    "Bajo Deslizante",
+    "Pirlo Vibe"
+  ],
+  "popularGenres": [
+    "Drill Colombiano",
+    "Trap Callejero"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "f-minor-feid-nostalgic-perreo",
+  "name": "F-Minor Feid Nostalgic Perreo",
+  "category": "key",
+  "badge": "F-Minor Perreo",
+  "headline": "Beats en F-Minor Estilo Feid: Nostalgia Urbana y Sintetizadores Cálidos",
+  "description": "La tonalidad por excelencia del perreo melancólico que domina el streaming mundial.",
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "F-Minor",
+  "vibeAttributes": [
+    "F-Minor",
+    "Perreo Nostálgico",
+    "Sintetizadores"
+  ],
+  "popularGenres": [
+    "Reggaetón",
+    "Perreo Suave"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "c-minor-medellin-street-trap",
+  "name": "C-Minor Medellín Street Trap",
+  "category": "key",
+  "badge": "C-Minor Trap Paisa",
+  "headline": "Beats de Trap en C-Minor: Graves Potentes y Oscuridad de Barrio",
+  "description": "Tono clásico de trap con máxima resonancia en los sub-bajos 808 para barras de superación.",
+  "recommendedBpm": "125-135 BPM",
+  "recommendedKey": "C-Minor",
+  "vibeAttributes": [
+    "C-Minor",
+    "Sub-Bajos 808",
+    "Oscuridad"
+  ],
+  "popularGenres": [
+    "Trap Latino",
+    "Trap Paisa"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "a-minor-nanpa-acoustic-rap",
+  "name": "A-Minor Nanpa Acoustic Rap",
+  "category": "key",
+  "badge": "A-Minor Acústico",
+  "headline": "Beats en A-Minor: Guitarras Españolas y Melodía Romántica",
+  "description": "Tono abierto y natural para guitarras acústicas y letras con poesía urbana y despecho.",
+  "recommendedBpm": "88-96 BPM",
+  "recommendedKey": "A-Minor",
+  "vibeAttributes": [
+    "A-Minor",
+    "Guitarras",
+    "Sentimiento"
+  ],
+  "popularGenres": [
+    "Rap Poético",
+    "Acoustic Rap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "d-minor-cali-drill-beats",
+  "name": "D-Minor Cali Drill Beats",
+  "category": "key",
+  "badge": "D-Minor Drill",
+  "headline": "Beats de Drill en D-Minor: Tensión Callejera y Bajos Arrolladores",
+  "description": "La tonalidad más amenazante y seria para el sonido de calle de La Sucursal.",
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor",
+  "vibeAttributes": [
+    "D-Minor",
+    "Tensión",
+    "Drill Caleño"
+  ],
+  "popularGenres": [
+    "Drill Colombiano",
+    "Trap Callejero"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "g-minor-blessd-barrio-banger",
+  "name": "G-Minor Blessd Barrio Banger",
+  "category": "key",
+  "badge": "G-Minor Barrio Banger",
+  "headline": "Beats en G-Minor Estilo Blessd: Fuerza de Barrio y Perreo de Discoteca",
+  "description": "Tonalidad que brinda gran definición en los kicks de dembow y cortes enérgicos para shows en vivo.",
+  "recommendedBpm": "92-98 BPM",
+  "recommendedKey": "G-Minor",
+  "vibeAttributes": [
+    "G-Minor",
+    "Fuerza de Barrio",
+    "Discoteca"
+  ],
+  "popularGenres": [
+    "Reggaetón de Barrio",
+    "Club Banger"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "medellin-antioquia-reggaeton-paisa-beats",
+  "name": "Medellín Reggaetón Paisa Beats",
+  "category": "scene",
+  "badge": "Medellín Reggaetón Paisa",
+  "headline": "Medellín (Antioquia) Reggaetón Paisa Beats: Pistas WAV & Nequi / PSE",
+  "description": "Sintetizadores nostálgicos a 90 BPM, dembow suave y calidad WAV 24-bit de estudio para artistas de Medellín.",
+  "targetArtists": [
+    "Artistas de Medellín",
+    "Música Urbana Colombia",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Medellín",
+    "Reggaetón Paisa",
+    "Nequi & PSE",
+    "Aprobado SAYCO"
+  ],
+  "popularGenres": [
+    "Reggaetón Paisa Beats",
+    "Reggaetón",
+    "Trap Latino"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "medellin-antioquia-trap-latino-colombiano",
+  "name": "Medellín Trap Latino Colombiano",
+  "category": "scene",
+  "badge": "Medellín Trap Latino",
+  "headline": "Medellín (Antioquia) Trap Latino Colombiano: Pistas WAV & Nequi / PSE",
+  "description": "Bajos 808 pesados, cajas cortantes y melodías oscuras con identidad urbana para Medellín.",
+  "targetArtists": [
+    "Artistas de Medellín",
+    "Música Urbana Colombia",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "Medellín",
+    "Trap Latino",
+    "Nequi & PSE",
+    "Aprobado SAYCO"
+  ],
+  "popularGenres": [
+    "Trap Latino Colombiano",
+    "Reggaetón",
+    "Trap Latino"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "medellin-antioquia-boombap-clasico-colombiano",
+  "name": "Medellín Boom Bap Clásico Colombiano",
+  "category": "scene",
+  "badge": "Medellín Boom Bap Clásico",
+  "headline": "Medellín (Antioquia) Boom Bap Clásico Colombiano: Pistas WAV & Nequi / PSE",
+  "description": "Baterías pesadas, samples de salsa antigua y métricas puras inspiradas en las calles de Medellín.",
+  "targetArtists": [
+    "Artistas de Medellín",
+    "Música Urbana Colombia",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Medellín",
+    "Boom Bap Clásico",
+    "Nequi & PSE",
+    "Aprobado SAYCO"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Colombiano",
+    "Reggaetón",
+    "Trap Latino"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6"
+  ]
+},
+  {
+  "slug": "medellin-antioquia-drill-caleno-callejero",
+  "name": "Medellín Drill Caleño Callejero",
+  "category": "scene",
+  "badge": "Medellín Drill Caleño",
+  "headline": "Medellín (Antioquia) Drill Caleño Callejero: Pistas WAV & Nequi / PSE",
+  "description": "Patrones rápidos de drill a 140 BPM, campanas oscuras y bajos deslizantes para artistas de Medellín.",
+  "targetArtists": [
+    "Artistas de Medellín",
+    "Música Urbana Colombia",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / F-Minor",
+  "vibeAttributes": [
+    "Medellín",
+    "Drill Caleño",
+    "Nequi & PSE",
+    "Aprobado SAYCO"
+  ],
+  "popularGenres": [
+    "Drill Caleño Callejero",
+    "Reggaetón",
+    "Trap Latino"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "bogota-cundinamarca-reggaeton-paisa-beats",
+  "name": "Bogotá Reggaetón Paisa Beats",
+  "category": "scene",
+  "badge": "Bogotá Reggaetón Paisa",
+  "headline": "Bogotá (Cundinamarca) Reggaetón Paisa Beats: Pistas WAV & Nequi / PSE",
+  "description": "Sintetizadores nostálgicos a 90 BPM, dembow suave y calidad WAV 24-bit de estudio para artistas de Bogotá.",
+  "targetArtists": [
+    "Artistas de Bogotá",
+    "Música Urbana Colombia",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Bogotá",
+    "Reggaetón Paisa",
+    "Nequi & PSE",
+    "Aprobado SAYCO"
+  ],
+  "popularGenres": [
+    "Reggaetón Paisa Beats",
+    "Reggaetón",
+    "Trap Latino"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "bogota-cundinamarca-trap-latino-colombiano",
+  "name": "Bogotá Trap Latino Colombiano",
+  "category": "scene",
+  "badge": "Bogotá Trap Latino",
+  "headline": "Bogotá (Cundinamarca) Trap Latino Colombiano: Pistas WAV & Nequi / PSE",
+  "description": "Bajos 808 pesados, cajas cortantes y melodías oscuras con identidad urbana para Bogotá.",
+  "targetArtists": [
+    "Artistas de Bogotá",
+    "Música Urbana Colombia",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "Bogotá",
+    "Trap Latino",
+    "Nequi & PSE",
+    "Aprobado SAYCO"
+  ],
+  "popularGenres": [
+    "Trap Latino Colombiano",
+    "Reggaetón",
+    "Trap Latino"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "bogota-cundinamarca-boombap-clasico-colombiano",
+  "name": "Bogotá Boom Bap Clásico Colombiano",
+  "category": "scene",
+  "badge": "Bogotá Boom Bap Clásico",
+  "headline": "Bogotá (Cundinamarca) Boom Bap Clásico Colombiano: Pistas WAV & Nequi / PSE",
+  "description": "Baterías pesadas, samples de salsa antigua y métricas puras inspiradas en las calles de Bogotá.",
+  "targetArtists": [
+    "Artistas de Bogotá",
+    "Música Urbana Colombia",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Bogotá",
+    "Boom Bap Clásico",
+    "Nequi & PSE",
+    "Aprobado SAYCO"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Colombiano",
+    "Reggaetón",
+    "Trap Latino"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6"
+  ]
+},
+  {
+  "slug": "bogota-cundinamarca-drill-caleno-callejero",
+  "name": "Bogotá Drill Caleño Callejero",
+  "category": "scene",
+  "badge": "Bogotá Drill Caleño",
+  "headline": "Bogotá (Cundinamarca) Drill Caleño Callejero: Pistas WAV & Nequi / PSE",
+  "description": "Patrones rápidos de drill a 140 BPM, campanas oscuras y bajos deslizantes para artistas de Bogotá.",
+  "targetArtists": [
+    "Artistas de Bogotá",
+    "Música Urbana Colombia",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / F-Minor",
+  "vibeAttributes": [
+    "Bogotá",
+    "Drill Caleño",
+    "Nequi & PSE",
+    "Aprobado SAYCO"
+  ],
+  "popularGenres": [
+    "Drill Caleño Callejero",
+    "Reggaetón",
+    "Trap Latino"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "cali-valle-reggaeton-paisa-beats",
+  "name": "Cali Reggaetón Paisa Beats",
+  "category": "scene",
+  "badge": "Cali Reggaetón Paisa",
+  "headline": "Cali (Valle del Cauca) Reggaetón Paisa Beats: Pistas WAV & Nequi / PSE",
+  "description": "Sintetizadores nostálgicos a 90 BPM, dembow suave y calidad WAV 24-bit de estudio para artistas de Cali.",
+  "targetArtists": [
+    "Artistas de Cali",
+    "Música Urbana Colombia",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Cali",
+    "Reggaetón Paisa",
+    "Nequi & PSE",
+    "Aprobado SAYCO"
+  ],
+  "popularGenres": [
+    "Reggaetón Paisa Beats",
+    "Reggaetón",
+    "Trap Latino"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "cali-valle-trap-latino-colombiano",
+  "name": "Cali Trap Latino Colombiano",
+  "category": "scene",
+  "badge": "Cali Trap Latino",
+  "headline": "Cali (Valle del Cauca) Trap Latino Colombiano: Pistas WAV & Nequi / PSE",
+  "description": "Bajos 808 pesados, cajas cortantes y melodías oscuras con identidad urbana para Cali.",
+  "targetArtists": [
+    "Artistas de Cali",
+    "Música Urbana Colombia",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "Cali",
+    "Trap Latino",
+    "Nequi & PSE",
+    "Aprobado SAYCO"
+  ],
+  "popularGenres": [
+    "Trap Latino Colombiano",
+    "Reggaetón",
+    "Trap Latino"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "cali-valle-boombap-clasico-colombiano",
+  "name": "Cali Boom Bap Clásico Colombiano",
+  "category": "scene",
+  "badge": "Cali Boom Bap Clásico",
+  "headline": "Cali (Valle del Cauca) Boom Bap Clásico Colombiano: Pistas WAV & Nequi / PSE",
+  "description": "Baterías pesadas, samples de salsa antigua y métricas puras inspiradas en las calles de Cali.",
+  "targetArtists": [
+    "Artistas de Cali",
+    "Música Urbana Colombia",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Cali",
+    "Boom Bap Clásico",
+    "Nequi & PSE",
+    "Aprobado SAYCO"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Colombiano",
+    "Reggaetón",
+    "Trap Latino"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6"
+  ]
+},
+  {
+  "slug": "cali-valle-drill-caleno-callejero",
+  "name": "Cali Drill Caleño Callejero",
+  "category": "scene",
+  "badge": "Cali Drill Caleño",
+  "headline": "Cali (Valle del Cauca) Drill Caleño Callejero: Pistas WAV & Nequi / PSE",
+  "description": "Patrones rápidos de drill a 140 BPM, campanas oscuras y bajos deslizantes para artistas de Cali.",
+  "targetArtists": [
+    "Artistas de Cali",
+    "Música Urbana Colombia",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / F-Minor",
+  "vibeAttributes": [
+    "Cali",
+    "Drill Caleño",
+    "Nequi & PSE",
+    "Aprobado SAYCO"
+  ],
+  "popularGenres": [
+    "Drill Caleño Callejero",
+    "Reggaetón",
+    "Trap Latino"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "barranquilla-atlantico-reggaeton-paisa-beats",
+  "name": "Barranquilla Reggaetón Paisa Beats",
+  "category": "scene",
+  "badge": "Barranquilla Reggaetón Paisa",
+  "headline": "Barranquilla (Atlántico) Reggaetón Paisa Beats: Pistas WAV & Nequi / PSE",
+  "description": "Sintetizadores nostálgicos a 90 BPM, dembow suave y calidad WAV 24-bit de estudio para artistas de Barranquilla.",
+  "targetArtists": [
+    "Artistas de Barranquilla",
+    "Música Urbana Colombia",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Barranquilla",
+    "Reggaetón Paisa",
+    "Nequi & PSE",
+    "Aprobado SAYCO"
+  ],
+  "popularGenres": [
+    "Reggaetón Paisa Beats",
+    "Reggaetón",
+    "Trap Latino"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "barranquilla-atlantico-trap-latino-colombiano",
+  "name": "Barranquilla Trap Latino Colombiano",
+  "category": "scene",
+  "badge": "Barranquilla Trap Latino",
+  "headline": "Barranquilla (Atlántico) Trap Latino Colombiano: Pistas WAV & Nequi / PSE",
+  "description": "Bajos 808 pesados, cajas cortantes y melodías oscuras con identidad urbana para Barranquilla.",
+  "targetArtists": [
+    "Artistas de Barranquilla",
+    "Música Urbana Colombia",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "Barranquilla",
+    "Trap Latino",
+    "Nequi & PSE",
+    "Aprobado SAYCO"
+  ],
+  "popularGenres": [
+    "Trap Latino Colombiano",
+    "Reggaetón",
+    "Trap Latino"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "barranquilla-atlantico-boombap-clasico-colombiano",
+  "name": "Barranquilla Boom Bap Clásico Colombiano",
+  "category": "scene",
+  "badge": "Barranquilla Boom Bap Clásico",
+  "headline": "Barranquilla (Atlántico) Boom Bap Clásico Colombiano: Pistas WAV & Nequi / PSE",
+  "description": "Baterías pesadas, samples de salsa antigua y métricas puras inspiradas en las calles de Barranquilla.",
+  "targetArtists": [
+    "Artistas de Barranquilla",
+    "Música Urbana Colombia",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Barranquilla",
+    "Boom Bap Clásico",
+    "Nequi & PSE",
+    "Aprobado SAYCO"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Colombiano",
+    "Reggaetón",
+    "Trap Latino"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6"
+  ]
+},
+  {
+  "slug": "barranquilla-atlantico-drill-caleno-callejero",
+  "name": "Barranquilla Drill Caleño Callejero",
+  "category": "scene",
+  "badge": "Barranquilla Drill Caleño",
+  "headline": "Barranquilla (Atlántico) Drill Caleño Callejero: Pistas WAV & Nequi / PSE",
+  "description": "Patrones rápidos de drill a 140 BPM, campanas oscuras y bajos deslizantes para artistas de Barranquilla.",
+  "targetArtists": [
+    "Artistas de Barranquilla",
+    "Música Urbana Colombia",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / F-Minor",
+  "vibeAttributes": [
+    "Barranquilla",
+    "Drill Caleño",
+    "Nequi & PSE",
+    "Aprobado SAYCO"
+  ],
+  "popularGenres": [
+    "Drill Caleño Callejero",
+    "Reggaetón",
+    "Trap Latino"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "cartagena-bolivar-reggaeton-paisa-beats",
+  "name": "Cartagena Reggaetón Paisa Beats",
+  "category": "scene",
+  "badge": "Cartagena Reggaetón Paisa",
+  "headline": "Cartagena (Bolívar) Reggaetón Paisa Beats: Pistas WAV & Nequi / PSE",
+  "description": "Sintetizadores nostálgicos a 90 BPM, dembow suave y calidad WAV 24-bit de estudio para artistas de Cartagena.",
+  "targetArtists": [
+    "Artistas de Cartagena",
+    "Música Urbana Colombia",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Cartagena",
+    "Reggaetón Paisa",
+    "Nequi & PSE",
+    "Aprobado SAYCO"
+  ],
+  "popularGenres": [
+    "Reggaetón Paisa Beats",
+    "Reggaetón",
+    "Trap Latino"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "cartagena-bolivar-trap-latino-colombiano",
+  "name": "Cartagena Trap Latino Colombiano",
+  "category": "scene",
+  "badge": "Cartagena Trap Latino",
+  "headline": "Cartagena (Bolívar) Trap Latino Colombiano: Pistas WAV & Nequi / PSE",
+  "description": "Bajos 808 pesados, cajas cortantes y melodías oscuras con identidad urbana para Cartagena.",
+  "targetArtists": [
+    "Artistas de Cartagena",
+    "Música Urbana Colombia",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "Cartagena",
+    "Trap Latino",
+    "Nequi & PSE",
+    "Aprobado SAYCO"
+  ],
+  "popularGenres": [
+    "Trap Latino Colombiano",
+    "Reggaetón",
+    "Trap Latino"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "cartagena-bolivar-boombap-clasico-colombiano",
+  "name": "Cartagena Boom Bap Clásico Colombiano",
+  "category": "scene",
+  "badge": "Cartagena Boom Bap Clásico",
+  "headline": "Cartagena (Bolívar) Boom Bap Clásico Colombiano: Pistas WAV & Nequi / PSE",
+  "description": "Baterías pesadas, samples de salsa antigua y métricas puras inspiradas en las calles de Cartagena.",
+  "targetArtists": [
+    "Artistas de Cartagena",
+    "Música Urbana Colombia",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Cartagena",
+    "Boom Bap Clásico",
+    "Nequi & PSE",
+    "Aprobado SAYCO"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Colombiano",
+    "Reggaetón",
+    "Trap Latino"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6"
+  ]
+},
+  {
+  "slug": "cartagena-bolivar-drill-caleno-callejero",
+  "name": "Cartagena Drill Caleño Callejero",
+  "category": "scene",
+  "badge": "Cartagena Drill Caleño",
+  "headline": "Cartagena (Bolívar) Drill Caleño Callejero: Pistas WAV & Nequi / PSE",
+  "description": "Patrones rápidos de drill a 140 BPM, campanas oscuras y bajos deslizantes para artistas de Cartagena.",
+  "targetArtists": [
+    "Artistas de Cartagena",
+    "Música Urbana Colombia",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / F-Minor",
+  "vibeAttributes": [
+    "Cartagena",
+    "Drill Caleño",
+    "Nequi & PSE",
+    "Aprobado SAYCO"
+  ],
+  "popularGenres": [
+    "Drill Caleño Callejero",
+    "Reggaetón",
+    "Trap Latino"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "pereira-eje-cafetero-reggaeton-paisa-beats",
+  "name": "Pereira Reggaetón Paisa Beats",
+  "category": "scene",
+  "badge": "Pereira Reggaetón Paisa",
+  "headline": "Pereira (Eje Cafetero) Reggaetón Paisa Beats: Pistas WAV & Nequi / PSE",
+  "description": "Sintetizadores nostálgicos a 90 BPM, dembow suave y calidad WAV 24-bit de estudio para artistas de Pereira.",
+  "targetArtists": [
+    "Artistas de Pereira",
+    "Música Urbana Colombia",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Pereira",
+    "Reggaetón Paisa",
+    "Nequi & PSE",
+    "Aprobado SAYCO"
+  ],
+  "popularGenres": [
+    "Reggaetón Paisa Beats",
+    "Reggaetón",
+    "Trap Latino"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "pereira-eje-cafetero-trap-latino-colombiano",
+  "name": "Pereira Trap Latino Colombiano",
+  "category": "scene",
+  "badge": "Pereira Trap Latino",
+  "headline": "Pereira (Eje Cafetero) Trap Latino Colombiano: Pistas WAV & Nequi / PSE",
+  "description": "Bajos 808 pesados, cajas cortantes y melodías oscuras con identidad urbana para Pereira.",
+  "targetArtists": [
+    "Artistas de Pereira",
+    "Música Urbana Colombia",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "Pereira",
+    "Trap Latino",
+    "Nequi & PSE",
+    "Aprobado SAYCO"
+  ],
+  "popularGenres": [
+    "Trap Latino Colombiano",
+    "Reggaetón",
+    "Trap Latino"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "pereira-eje-cafetero-boombap-clasico-colombiano",
+  "name": "Pereira Boom Bap Clásico Colombiano",
+  "category": "scene",
+  "badge": "Pereira Boom Bap Clásico",
+  "headline": "Pereira (Eje Cafetero) Boom Bap Clásico Colombiano: Pistas WAV & Nequi / PSE",
+  "description": "Baterías pesadas, samples de salsa antigua y métricas puras inspiradas en las calles de Pereira.",
+  "targetArtists": [
+    "Artistas de Pereira",
+    "Música Urbana Colombia",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Pereira",
+    "Boom Bap Clásico",
+    "Nequi & PSE",
+    "Aprobado SAYCO"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Colombiano",
+    "Reggaetón",
+    "Trap Latino"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6"
+  ]
+},
+  {
+  "slug": "pereira-eje-cafetero-drill-caleno-callejero",
+  "name": "Pereira Drill Caleño Callejero",
+  "category": "scene",
+  "badge": "Pereira Drill Caleño",
+  "headline": "Pereira (Eje Cafetero) Drill Caleño Callejero: Pistas WAV & Nequi / PSE",
+  "description": "Patrones rápidos de drill a 140 BPM, campanas oscuras y bajos deslizantes para artistas de Pereira.",
+  "targetArtists": [
+    "Artistas de Pereira",
+    "Música Urbana Colombia",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / F-Minor",
+  "vibeAttributes": [
+    "Pereira",
+    "Drill Caleño",
+    "Nequi & PSE",
+    "Aprobado SAYCO"
+  ],
+  "popularGenres": [
+    "Drill Caleño Callejero",
+    "Reggaetón",
+    "Trap Latino"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
 ];
