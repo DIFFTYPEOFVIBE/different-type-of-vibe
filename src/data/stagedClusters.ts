@@ -1,6 +1,6 @@
 // src/data/stagedClusters.ts
-// Programmatic SEO Staged Batch Cluster Ledger - US, DACH, UK & France Complete Footprint
-// Deployed automatically by scripts/deploy_france_pseo.py
+// Programmatic SEO Staged Batch Cluster Ledger - US, DACH, UK & Complete Francophone Footprint
+// Deployed automatically by scripts/deploy_wave2_france_pseo.py
 
 export interface StagedClusterItem {
   type: 'vibe' | 'genre' | 'mood' | 'bpm' | 'key' | 'scene' | 'instrument' | 'blog';
@@ -3533,5 +3533,405 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "type": "scene",
     "slug": "toulouse-cloud-rap-prod",
     "batchId": 8
+  },
+  {
+    "type": "scene",
+    "slug": "seine-saint-denis-93-rap",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "hauts-de-seine-92-trap",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "val-de-marne-94-drill",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "essonne-91-drill-beats",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "geneve-suisse-rap",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "liege-belgique-trap",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "charleroi-wallonie-drill",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "lausanne-romand-rap",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "rouen-normandie-rap",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "grenoble-alpes-drill",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "rennes-bretagne-trap",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "quebec-rap-francophone",
+    "batchId": 9
+  },
+  {
+    "type": "vibe",
+    "slug": "sdm-liens-du-100-melodic-drill",
+    "batchId": 9
+  },
+  {
+    "type": "vibe",
+    "slug": "werenoi-pyramide-dark-trap",
+    "batchId": 9
+  },
+  {
+    "type": "vibe",
+    "slug": "dinos-hiver-a-paris-soul-trap",
+    "batchId": 9
+  },
+  {
+    "type": "vibe",
+    "slug": "dadju-tayc-afro-rnb-gentleman",
+    "batchId": 9
+  },
+  {
+    "type": "vibe",
+    "slug": "koba-lad-binks-energy-trap",
+    "batchId": 9
+  },
+  {
+    "type": "vibe",
+    "slug": "maes-omerta-melodic-piano",
+    "batchId": 9
+  },
+  {
+    "type": "vibe",
+    "slug": "kalash-criminel-sauvagerie-hardcore",
+    "batchId": 9
+  },
+  {
+    "type": "vibe",
+    "slug": "plk-polak-banger-trap",
+    "batchId": 9
+  },
+  {
+    "type": "vibe",
+    "slug": "lacrim-force-honneur-mafia-trap",
+    "batchId": 9
+  },
+  {
+    "type": "vibe",
+    "slug": "booba-ultra-autotune-dark-trap",
+    "batchId": 9
+  },
+  {
+    "type": "vibe",
+    "slug": "vald-x-cyber-satirical-trap",
+    "batchId": 9
+  },
+  {
+    "type": "vibe",
+    "slug": "niska-charo-afro-trap-banger",
+    "batchId": 9
+  },
+  {
+    "type": "vibe",
+    "slug": "franglish-mood-afro-rnb-bounce",
+    "batchId": 9
+  },
+  {
+    "type": "vibe",
+    "slug": "fave-fast-melodic-jersey-fr",
+    "batchId": 9
+  },
+  {
+    "type": "vibe",
+    "slug": "menace-santana-horror-drill-fr",
+    "batchId": 9
+  },
+  {
+    "type": "vibe",
+    "slug": "green-montana-belge-melancholy",
+    "batchId": 9
+  },
+  {
+    "type": "genre",
+    "slug": "acheter-des-beats-rap-avec-paypal",
+    "batchId": 9
+  },
+  {
+    "type": "genre",
+    "slug": "achat-instru-rap-carte-bleue",
+    "batchId": 9
+  },
+  {
+    "type": "genre",
+    "slug": "contrat-licence-beatmaker-sacem-pdf",
+    "batchId": 9
+  },
+  {
+    "type": "genre",
+    "slug": "instru-drill-fr-sans-tag-wav",
+    "batchId": 9
+  },
+  {
+    "type": "genre",
+    "slug": "instru-piano-voix-rap-francais",
+    "batchId": 9
+  },
+  {
+    "type": "genre",
+    "slug": "instru-afro-rnb-love-francais",
+    "batchId": 9
+  },
+  {
+    "type": "genre",
+    "slug": "instru-jersey-club-drill-paris",
+    "batchId": 9
+  },
+  {
+    "type": "genre",
+    "slug": "instru-rap-commerciale-pour-streaming",
+    "batchId": 9
+  },
+  {
+    "type": "genre",
+    "slug": "exclusivite-totale-beat-rap-francais",
+    "batchId": 9
+  },
+  {
+    "type": "genre",
+    "slug": "telechargement-instru-rap-gratuit-wav",
+    "batchId": 9
+  },
+  {
+    "type": "genre",
+    "slug": "droits-voisins-producteur-sacem",
+    "batchId": 9
+  },
+  {
+    "type": "genre",
+    "slug": "prods-rap-francais-wav-trackouts",
+    "batchId": 9
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-drill-fr-beats",
+    "batchId": 9
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-fast-drill-fr",
+    "batchId": 9
+  },
+  {
+    "type": "bpm",
+    "slug": "108-bpm-afro-rnb-love-beats",
+    "batchId": 9
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-marseille-jul-bounce",
+    "batchId": 9
+  },
+  {
+    "type": "key",
+    "slug": "e-minor-drill-fr-beats",
+    "batchId": 9
+  },
+  {
+    "type": "key",
+    "slug": "b-minor-rap-francais-melodique",
+    "batchId": 9
+  },
+  {
+    "type": "key",
+    "slug": "c-sharp-minor-sombre-trap",
+    "batchId": 9
+  },
+  {
+    "type": "key",
+    "slug": "g-sharp-minor-afro-rnb-piano",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "paris-drill-fr-sombre",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "paris-trap-melodique",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "paris-afro-trap-banger",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "paris-boombap-classique",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "marseille-drill-fr-sombre",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "marseille-trap-melodique",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "marseille-afro-trap-banger",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "marseille-boombap-classique",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "lyon-drill-fr-sombre",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "lyon-trap-melodique",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "lyon-afro-trap-banger",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "lyon-boombap-classique",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "sevran-drill-fr-sombre",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "sevran-trap-melodique",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "sevran-afro-trap-banger",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "sevran-boombap-classique",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "bruxelles-drill-fr-sombre",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "bruxelles-trap-melodique",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "bruxelles-afro-trap-banger",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "bruxelles-boombap-classique",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "geneve-drill-fr-sombre",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "geneve-trap-melodique",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "geneve-afro-trap-banger",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "geneve-boombap-classique",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "nice-drill-fr-sombre",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "nice-trap-melodique",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "nice-afro-trap-banger",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "nice-boombap-classique",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "montreal-drill-fr-sombre",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "montreal-trap-melodique",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "montreal-afro-trap-banger",
+    "batchId": 9
+  },
+  {
+    "type": "scene",
+    "slug": "montreal-boombap-classique",
+    "batchId": 9
   }
 ];
