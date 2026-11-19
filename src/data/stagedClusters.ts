@@ -1,6 +1,6 @@
 // src/data/stagedClusters.ts
-// Programmatic SEO Staged Batch Cluster Ledger - Global Big 6 Complete Footprint
-// Deployed automatically by scripts/deploy_australia_pseo.py
+// Programmatic SEO Staged Batch Cluster Ledger - Global Big 6 Complete Footprint (Wave 2 AU)
+// Deployed automatically by scripts/deploy_wave2_australia_pseo.py
 
 export interface StagedClusterItem {
   type: 'vibe' | 'genre' | 'mood' | 'bpm' | 'key' | 'scene' | 'instrument' | 'blog';
@@ -5103,5 +5103,400 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "type": "scene",
     "slug": "gold-coast-coastal-rnb-bounces",
     "batchId": 12
+  },
+  {
+    "type": "scene",
+    "slug": "nsw-drill-movement",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "mount-druitt-2770-drill",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "campbelltown-2560-rap",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "wollongong-south-coast-drill",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "victoria-melodic-trap-hub",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "queensland-club-trap",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "western-australia-underground",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "south-australia-street-rap",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "darwin-top-end-hiphop",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "sunshine-coast-melodic-trap",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "parramatta-urban-rap",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "fremantle-wa-hiphop",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "gold-coast-party-trap",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "townsville-north-qld-drill",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "cairns-tropical-trap",
+    "batchId": 13
+  },
+  {
+    "type": "vibe",
+    "slug": "onefour-spot-the-difference-drill",
+    "batchId": 13
+  },
+  {
+    "type": "vibe",
+    "slug": "the-kid-laroi-stay-pop-trap",
+    "batchId": 13
+  },
+  {
+    "type": "vibe",
+    "slug": "hp-boyz-engineers-melodic-drill",
+    "batchId": 13
+  },
+  {
+    "type": "vibe",
+    "slug": "chillinit-october-20th-lyrical-flow",
+    "batchId": 13
+  },
+  {
+    "type": "vibe",
+    "slug": "hooligan-hefs-no-fun-party-drill",
+    "batchId": 13
+  },
+  {
+    "type": "vibe",
+    "slug": "manu-crooks-different-wave-trap",
+    "batchId": 13
+  },
+  {
+    "type": "vibe",
+    "slug": "youngn-lipz-misunderstood-rnb",
+    "batchId": 13
+  },
+  {
+    "type": "vibe",
+    "slug": "lisi-say-less-queensland-rap",
+    "batchId": 13
+  },
+  {
+    "type": "vibe",
+    "slug": "barkaa-for-my-people-indigenous-trap",
+    "batchId": 13
+  },
+  {
+    "type": "vibe",
+    "slug": "drapht-jimmy-recard-perth-bounce",
+    "batchId": 13
+  },
+  {
+    "type": "vibe",
+    "slug": "bliss-n-eso-flying-colours-anthem",
+    "batchId": 13
+  },
+  {
+    "type": "vibe",
+    "slug": "kerser-the-nebula-hard-rap",
+    "batchId": 13
+  },
+  {
+    "type": "vibe",
+    "slug": "spanian-the-hood-hardcore-drill",
+    "batchId": 13
+  },
+  {
+    "type": "vibe",
+    "slug": "allday-chubby-boy-melodic-cloud",
+    "batchId": 13
+  },
+  {
+    "type": "vibe",
+    "slug": "illy-heard-it-all-melodic-rap",
+    "batchId": 13
+  },
+  {
+    "type": "vibe",
+    "slug": "360-vintage-melodic-rap",
+    "batchId": 13
+  },
+  {
+    "type": "genre",
+    "slug": "triple-j-unearthed-type-beats",
+    "batchId": 13
+  },
+  {
+    "type": "genre",
+    "slug": "aussie-hip-hop-instrumentals-for-sale",
+    "batchId": 13
+  },
+  {
+    "type": "genre",
+    "slug": "sydney-drill-type-beat-free-download",
+    "batchId": 13
+  },
+  {
+    "type": "genre",
+    "slug": "melbourne-underground-boom-bap-beats",
+    "batchId": 13
+  },
+  {
+    "type": "genre",
+    "slug": "apra-amcos-split-sheet-beat-leases",
+    "batchId": 13
+  },
+  {
+    "type": "genre",
+    "slug": "commercial-streaming-licenses-australia-spotify",
+    "batchId": 13
+  },
+  {
+    "type": "genre",
+    "slug": "first-nations-hip-hop-beats",
+    "batchId": 13
+  },
+  {
+    "type": "genre",
+    "slug": "pacific-islander-drill-beats",
+    "batchId": 13
+  },
+  {
+    "type": "genre",
+    "slug": "buy-beats-with-afterpay-aud",
+    "batchId": 13
+  },
+  {
+    "type": "genre",
+    "slug": "hard-sliding-808-drill-australia",
+    "batchId": 13
+  },
+  {
+    "type": "genre",
+    "slug": "melodic-guitar-rap-beats-australia",
+    "batchId": 13
+  },
+  {
+    "type": "genre",
+    "slug": "fast-bpm-double-time-grime-trap-au",
+    "batchId": 13
+  },
+  {
+    "type": "genre",
+    "slug": "untagged-aussie-drill-wav-stems",
+    "batchId": 13
+  },
+  {
+    "type": "bpm",
+    "slug": "138-bpm-aussie-drill-beats",
+    "batchId": 13
+  },
+  {
+    "type": "bpm",
+    "slug": "141-bpm-onefour-sliding-drill",
+    "batchId": 13
+  },
+  {
+    "type": "bpm",
+    "slug": "128-bpm-kid-laroi-pop-trap",
+    "batchId": 13
+  },
+  {
+    "type": "bpm",
+    "slug": "136-bpm-hooligan-hefs-club-drill",
+    "batchId": 13
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-australian-boom-bap",
+    "batchId": 13
+  },
+  {
+    "type": "key",
+    "slug": "b-minor-aussie-drill-beats",
+    "batchId": 13
+  },
+  {
+    "type": "key",
+    "slug": "c-sharp-minor-western-sydney-drill",
+    "batchId": 13
+  },
+  {
+    "type": "key",
+    "slug": "f-sharp-minor-kid-laroi-guitar",
+    "batchId": 13
+  },
+  {
+    "type": "key",
+    "slug": "e-minor-sliding-pacific-drill",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "sydney-aussie-drill-instrumentals",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "sydney-melodic-rap-beats",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "sydney-coastal-trap-beats",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "melbourne-aussie-drill-instrumentals",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "melbourne-melodic-rap-beats",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "melbourne-coastal-trap-beats",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "brisbane-aussie-drill-instrumentals",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "brisbane-melodic-rap-beats",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "brisbane-coastal-trap-beats",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "perth-aussie-drill-instrumentals",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "perth-melodic-rap-beats",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "perth-coastal-trap-beats",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "adelaide-aussie-drill-instrumentals",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "adelaide-melodic-rap-beats",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "adelaide-coastal-trap-beats",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "gold-coast-aussie-drill-instrumentals",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "gold-coast-melodic-rap-beats",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "gold-coast-coastal-trap-beats",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "newcastle-nsw-aussie-drill-instrumentals",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "newcastle-nsw-melodic-rap-beats",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "newcastle-nsw-underground-hiphop-beats",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "newcastle-nsw-coastal-trap-beats",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "mount-druitt-aussie-drill-instrumentals",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "mount-druitt-melodic-rap-beats",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "mount-druitt-underground-hiphop-beats",
+    "batchId": 13
+  },
+  {
+    "type": "scene",
+    "slug": "mount-druitt-coastal-trap-beats",
+    "batchId": 13
   }
 ];
