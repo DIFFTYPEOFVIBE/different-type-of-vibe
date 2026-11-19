@@ -4342,4 +4342,597 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
     }
   ]
 },
+  "de/berlin": {
+  "name": "Deutschland \u2013 Berlin Deutschrap & Drill Scene",
+  "flag": "\ud83c\udde9\ud83c\uddea",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "Klarna, Sofort, Giropay, Apple Pay, Google Pay, Kreditkarte",
+  "pro": "GEMA",
+  "proFullName": "Gesellschaft f\u00fcr musikalische Auff\u00fchrungs- und mechanische Vervielf\u00e4ltigungsrechte (GEMA)",
+  "proGuide": "100% GEMA-konform. Alle Beats sind Originalkompositionen ohne ungekl\u00e4rte Samples. Du beh\u00e4ltst alle Streaming-Erl\u00f6se.",
+  "headline": "Berlin Beats Kaufen: Aggressiver Drill, Cloud Trap & Boom Bap Leases",
+  "description": "Exklusive ungetaggte WAV Beat Lizenzen f\u00fcr Rapper und Produzenten in Berlin. 100% GEMA-konform, unkomprimierte Studio-Audiospuren (Stems) und sofortige Freigabe f\u00fcr Spotify, Apple Music & YouTube.",
+  "popularGenres": [
+    "Berlin Drill",
+    "Deutschrap Trap",
+    "Underground Boom Bap",
+    "Luciano Style"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Berlin Drill Scene Hub",
+      "slug": "../../scene/berlin-drill-beats",
+      "description": "Schwere 808-Slides und aggressiver Drill-Sound."
+    },
+    {
+      "name": "Pashanim Style Hub",
+      "slug": "../../vibe/pashanim-berlin-summer-beats",
+      "description": "Sommerliche 2000er Melodien und melodischer Bounce."
+    },
+    {
+      "name": "Luciano Drill Vibe",
+      "slug": "../../vibe/luciano-drill-type-beats",
+      "description": "Majestic UK/German Drill mit harten B\u00e4ssen."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Darf ich Songs mit diesen Beats auf Spotify, Apple Music und YouTube in Deutschland \u2013 Berlin Deutschrap & Drill Scene ver\u00f6ffentlichen?",
+      "answer": "Ja, absolut! Alle WAV- und MP3-Leases von Different Type of Vibe enthalten 100% kommerzielle Streaming-Rechte f\u00fcr Spotify, Apple Music, YouTube, Deezer, TikTok und weltweiten Vertrieb. Du beh\u00e4ltst 100% deiner Artist-Einnahmen."
+    },
+    {
+      "question": "Sind die Beats 100% GEMA-frei und sample-cleared in Deutschland?",
+      "answer": "Ja! Alle Instrumentals wurden von Onzieb original komponiert und produziert. Es gibt keine ungekl\u00e4rten Fremdsamples. Wenn du bei der GEMA als Urheber gemeldet bist, kannst du deinen Text und deine Performance zu 100% abrechnen."
+    },
+    {
+      "question": "Welche Zahlungsmethoden stehen in Deutschland zur Verf\u00fcgung?",
+      "answer": "Du kannst bequem und sicher per Klarna / Sofort\u00fcberweisung, Giropay, Apple Pay, Google Pay, Kreditkarte (Visa, Mastercard) sowie PayPal und Stripe bezahlen."
+    },
+    {
+      "question": "Wie schnell erhalte ich die ungetaggten Beat-Dateien?",
+      "answer": "Sofort nach dem Bezahlvorgang werden die ungetaggten 24-Bit WAV-Dateien, die MP3-Audiodatei und der rechtsg\u00fcltig unterzeichnete PDF-Lizenzvertrag direkt per Download-Link an deine E-Mail gesendet."
+    }
+  ]
+},
+  "de/hamburg": {
+  "name": "Deutschland \u2013 Hamburg Street Drill & Boom Bap",
+  "flag": "\ud83c\udde9\ud83c\uddea",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "Klarna, Sofort, Giropay, Apple Pay, Google Pay, Kreditkarte",
+  "pro": "GEMA",
+  "proFullName": "Gesellschaft f\u00fcr musikalische Auff\u00fchrungs- und mechanische Vervielf\u00e4ltigungsrechte (GEMA)",
+  "proGuide": "100% GEMA-konform. Alle Beats sind Originalkompositionen ohne ungekl\u00e4rte Samples. Du beh\u00e4ltst alle Streaming-Erl\u00f6se.",
+  "headline": "Hamburg Beats Kaufen: 187 Strassen-Sound, UK Drill & GEMA-freie Instrumentals",
+  "description": "Authentische Hamburger Deutschrap Beats. Druckvolle 808 Kicks, d\u00fcstere Streicher und energiegeladener Stra\u00dfen-Rap Sound f\u00fcr K\u00fcnstler in Hamburg, St. Pauli und Altona.",
+  "popularGenres": [
+    "Hamburg Drill",
+    "187 Sound",
+    "Stra\u00dfenrap",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Hamburg Drill Hub",
+      "slug": "../../scene/hamburg-street-drill",
+      "description": "Dunkle 808 B\u00e4sse und treibende Percussion."
+    },
+    {
+      "name": "Bonez MC Afro-Trap Vibe",
+      "slug": "../../vibe/bonez-mc-187-dancehall-trap",
+      "description": "Tanzbare Afro-Trap und Dancehall Beats."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Darf ich Songs mit diesen Beats auf Spotify, Apple Music und YouTube in Deutschland \u2013 Hamburg Street Drill & Boom Bap ver\u00f6ffentlichen?",
+      "answer": "Ja, absolut! Alle WAV- und MP3-Leases von Different Type of Vibe enthalten 100% kommerzielle Streaming-Rechte f\u00fcr Spotify, Apple Music, YouTube, Deezer, TikTok und weltweiten Vertrieb. Du beh\u00e4ltst 100% deiner Artist-Einnahmen."
+    },
+    {
+      "question": "Sind die Beats 100% GEMA-frei und sample-cleared in Deutschland?",
+      "answer": "Ja! Alle Instrumentals wurden von Onzieb original komponiert und produziert. Es gibt keine ungekl\u00e4rten Fremdsamples. Wenn du bei der GEMA als Urheber gemeldet bist, kannst du deinen Text und deine Performance zu 100% abrechnen."
+    },
+    {
+      "question": "Welche Zahlungsmethoden stehen in Deutschland zur Verf\u00fcgung?",
+      "answer": "Du kannst bequem und sicher per Klarna / Sofort\u00fcberweisung, Giropay, Apple Pay, Google Pay, Kreditkarte (Visa, Mastercard) sowie PayPal und Stripe bezahlen."
+    },
+    {
+      "question": "Wie schnell erhalte ich die ungetaggten Beat-Dateien?",
+      "answer": "Sofort nach dem Bezahlvorgang werden die ungetaggten 24-Bit WAV-Dateien, die MP3-Audiodatei und der rechtsg\u00fcltig unterzeichnete PDF-Lizenzvertrag direkt per Download-Link an deine E-Mail gesendet."
+    }
+  ]
+},
+  "de/frankfurt": {
+  "name": "Deutschland \u2013 Frankfurt am Main (FFM) Street Trap",
+  "flag": "\ud83c\udde9\ud83c\uddea",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "Klarna, Sofort, Giropay, Apple Pay, Google Pay, Kreditkarte",
+  "pro": "GEMA",
+  "proFullName": "Gesellschaft f\u00fcr musikalische Auff\u00fchrungs- und mechanische Vervielf\u00e4ltigungsrechte (GEMA)",
+  "proGuide": "100% GEMA-konform. Alle Beats sind Originalkompositionen ohne ungekl\u00e4rte Samples. Du beh\u00e4ltst alle Streaming-Erl\u00f6se.",
+  "headline": "Frankfurt Beats Kaufen: D\u00fcstere Azzlackz B\u00e4sse, Harter Trap & Boom Bap",
+  "description": "Kompromissloser Frankfurter Rap Sound. Schwere Sub-B\u00e4sse, bedrohliche Klaviermelodien und punchige Drums inspiriert von FFM Legenden wie Haftbefehl und Olexesh.",
+  "popularGenres": [
+    "FFM Street Trap",
+    "Dunkle 808s",
+    "Haftbefehl Style",
+    "Azzlackz Sound"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Frankfurt Dark Trap Scene",
+      "slug": "../../scene/frankfurt-dark-trap",
+      "description": "Brachiale Drums und d\u00fcstere Kl\u00e4nge aus Mainhatten."
+    },
+    {
+      "name": "Haftbefehl Dark Trap Vibe",
+      "slug": "../../vibe/haftbefehl-dark-street-trap",
+      "description": "Filmreife Orchester-Hits und kompromissloser Stra\u00dfen-Trap."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Darf ich Songs mit diesen Beats auf Spotify, Apple Music und YouTube in Deutschland \u2013 Frankfurt am Main (FFM) Street Trap ver\u00f6ffentlichen?",
+      "answer": "Ja, absolut! Alle WAV- und MP3-Leases von Different Type of Vibe enthalten 100% kommerzielle Streaming-Rechte f\u00fcr Spotify, Apple Music, YouTube, Deezer, TikTok und weltweiten Vertrieb. Du beh\u00e4ltst 100% deiner Artist-Einnahmen."
+    },
+    {
+      "question": "Sind die Beats 100% GEMA-frei und sample-cleared in Deutschland?",
+      "answer": "Ja! Alle Instrumentals wurden von Onzieb original komponiert und produziert. Es gibt keine ungekl\u00e4rten Fremdsamples. Wenn du bei der GEMA als Urheber gemeldet bist, kannst du deinen Text und deine Performance zu 100% abrechnen."
+    },
+    {
+      "question": "Welche Zahlungsmethoden stehen in Deutschland zur Verf\u00fcgung?",
+      "answer": "Du kannst bequem und sicher per Klarna / Sofort\u00fcberweisung, Giropay, Apple Pay, Google Pay, Kreditkarte (Visa, Mastercard) sowie PayPal und Stripe bezahlen."
+    },
+    {
+      "question": "Wie schnell erhalte ich die ungetaggten Beat-Dateien?",
+      "answer": "Sofort nach dem Bezahlvorgang werden die ungetaggten 24-Bit WAV-Dateien, die MP3-Audiodatei und der rechtsg\u00fcltig unterzeichnete PDF-Lizenzvertrag direkt per Download-Link an deine E-Mail gesendet."
+    }
+  ]
+},
+  "de/koeln": {
+  "name": "Deutschland \u2013 K\u00f6ln & Rheinland Melodic Rap Hub",
+  "flag": "\ud83c\udde9\ud83c\uddea",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "Klarna, Sofort, Giropay, Apple Pay, Google Pay, Kreditkarte",
+  "pro": "GEMA",
+  "proFullName": "Gesellschaft f\u00fcr musikalische Auff\u00fchrungs- und mechanische Vervielf\u00e4ltigungsrechte (GEMA)",
+  "proGuide": "100% GEMA-konform. Alle Beats sind Originalkompositionen ohne ungekl\u00e4rte Samples. Du beh\u00e4ltst alle Streaming-Erl\u00f6se.",
+  "headline": "K\u00f6ln Beats Kaufen: Melodischer Trap, R&B Vibes & Moderner Club Sound",
+  "description": "Catchy Synth-Melodien, warme Gitarrenakkorde und tanzbare Trap Bounces f\u00fcr Rapper und S\u00e4nger im Rheinland. Sofortiger WAV Download und GEMA Freigabe.",
+  "popularGenres": [
+    "K\u00f6ln Melodic Rap",
+    "R&B Trap",
+    "Club Bounce",
+    "Afro-Pop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "K\u00f6ln Melodic Rap Hub",
+      "slug": "../../scene/koeln-melodic-rap",
+      "description": "Eing\u00e4ngige Melodien und moderne Rhythmen."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Darf ich Songs mit diesen Beats auf Spotify, Apple Music und YouTube in Deutschland \u2013 K\u00f6ln & Rheinland Melodic Rap Hub ver\u00f6ffentlichen?",
+      "answer": "Ja, absolut! Alle WAV- und MP3-Leases von Different Type of Vibe enthalten 100% kommerzielle Streaming-Rechte f\u00fcr Spotify, Apple Music, YouTube, Deezer, TikTok und weltweiten Vertrieb. Du beh\u00e4ltst 100% deiner Artist-Einnahmen."
+    },
+    {
+      "question": "Sind die Beats 100% GEMA-frei und sample-cleared in Deutschland?",
+      "answer": "Ja! Alle Instrumentals wurden von Onzieb original komponiert und produziert. Es gibt keine ungekl\u00e4rten Fremdsamples. Wenn du bei der GEMA als Urheber gemeldet bist, kannst du deinen Text und deine Performance zu 100% abrechnen."
+    },
+    {
+      "question": "Welche Zahlungsmethoden stehen in Deutschland zur Verf\u00fcgung?",
+      "answer": "Du kannst bequem und sicher per Klarna / Sofort\u00fcberweisung, Giropay, Apple Pay, Google Pay, Kreditkarte (Visa, Mastercard) sowie PayPal und Stripe bezahlen."
+    },
+    {
+      "question": "Wie schnell erhalte ich die ungetaggten Beat-Dateien?",
+      "answer": "Sofort nach dem Bezahlvorgang werden die ungetaggten 24-Bit WAV-Dateien, die MP3-Audiodatei und der rechtsg\u00fcltig unterzeichnete PDF-Lizenzvertrag direkt per Download-Link an deine E-Mail gesendet."
+    }
+  ]
+},
+  "de/muenchen": {
+  "name": "Deutschland \u2013 M\u00fcnchen & Bayern Hip-Hop Hub",
+  "flag": "\ud83c\udde9\ud83c\uddea",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "Klarna, Sofort, Giropay, Apple Pay, Google Pay, Kreditkarte",
+  "pro": "GEMA",
+  "proFullName": "Gesellschaft f\u00fcr musikalische Auff\u00fchrungs- und mechanische Vervielf\u00e4ltigungsrechte (GEMA)",
+  "proGuide": "100% GEMA-konform. Alle Beats sind Originalkompositionen ohne ungekl\u00e4rte Samples. Du beh\u00e4ltst alle Streaming-Erl\u00f6se.",
+  "headline": "M\u00fcnchen Beats Kaufen: High-End Trap, Melodic Hip-Hop & Commercial WAV Leases",
+  "description": "Glasklar produzierte 24-Bit Studio-Beats f\u00fcr Recording Artists in M\u00fcnchen und Bayern. Volle kommerzielle Rechte f\u00fcr alle Streaming-Plattformen weltweit.",
+  "popularGenres": [
+    "M\u00fcnchen Trap",
+    "Commercial Hip-Hop",
+    "Melodische Beats"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "M\u00fcnchen Hip-Hop Hub",
+      "slug": "../../scene/muenchen-hiphop-beats",
+      "description": "Edle Synth-Fl\u00e4chen und moderne Trap Drums."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Darf ich Songs mit diesen Beats auf Spotify, Apple Music und YouTube in Deutschland \u2013 M\u00fcnchen & Bayern Hip-Hop Hub ver\u00f6ffentlichen?",
+      "answer": "Ja, absolut! Alle WAV- und MP3-Leases von Different Type of Vibe enthalten 100% kommerzielle Streaming-Rechte f\u00fcr Spotify, Apple Music, YouTube, Deezer, TikTok und weltweiten Vertrieb. Du beh\u00e4ltst 100% deiner Artist-Einnahmen."
+    },
+    {
+      "question": "Sind die Beats 100% GEMA-frei und sample-cleared in Deutschland?",
+      "answer": "Ja! Alle Instrumentals wurden von Onzieb original komponiert und produziert. Es gibt keine ungekl\u00e4rten Fremdsamples. Wenn du bei der GEMA als Urheber gemeldet bist, kannst du deinen Text und deine Performance zu 100% abrechnen."
+    },
+    {
+      "question": "Welche Zahlungsmethoden stehen in Deutschland zur Verf\u00fcgung?",
+      "answer": "Du kannst bequem und sicher per Klarna / Sofort\u00fcberweisung, Giropay, Apple Pay, Google Pay, Kreditkarte (Visa, Mastercard) sowie PayPal und Stripe bezahlen."
+    },
+    {
+      "question": "Wie schnell erhalte ich die ungetaggten Beat-Dateien?",
+      "answer": "Sofort nach dem Bezahlvorgang werden die ungetaggten 24-Bit WAV-Dateien, die MP3-Audiodatei und der rechtsg\u00fcltig unterzeichnete PDF-Lizenzvertrag direkt per Download-Link an deine E-Mail gesendet."
+    }
+  ]
+},
+  "de/stuttgart": {
+  "name": "Deutschland \u2013 Stuttgart & 0711 Cloud Trap Hub",
+  "flag": "\ud83c\udde9\ud83c\uddea",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "Klarna, Sofort, Giropay, Apple Pay, Google Pay, Kreditkarte",
+  "pro": "GEMA",
+  "proFullName": "Gesellschaft f\u00fcr musikalische Auff\u00fchrungs- und mechanische Vervielf\u00e4ltigungsrechte (GEMA)",
+  "proGuide": "100% GEMA-konform. Alle Beats sind Originalkompositionen ohne ungekl\u00e4rte Samples. Du beh\u00e4ltst alle Streaming-Erl\u00f6se.",
+  "headline": "Stuttgart Beats Kaufen: Vintage Synths, Cloud Rap & Melodischer Trap",
+  "description": "Atmosph\u00e4rische Soundscapes, analoge Synth-Texturen und emotionale 808 Grooves inspiriert vom Stuttgarter Sound (RIN, Bausa).",
+  "popularGenres": [
+    "Stuttgart Cloud Rap",
+    "Melodischer Trap",
+    "Vintage Synths"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Stuttgart Cloud Rap Hub",
+      "slug": "../../scene/stuttgart-cloud-rap",
+      "description": "Tr\u00e4umerische Akkorde und spacige Beats."
+    },
+    {
+      "name": "RIN Cloud Rap Vibe",
+      "slug": "../../vibe/rin-cloud-rap-beats",
+      "description": "Emotionale Melodien und unverwechselbarer Cloud Sound."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Darf ich Songs mit diesen Beats auf Spotify, Apple Music und YouTube in Deutschland \u2013 Stuttgart & 0711 Cloud Trap Hub ver\u00f6ffentlichen?",
+      "answer": "Ja, absolut! Alle WAV- und MP3-Leases von Different Type of Vibe enthalten 100% kommerzielle Streaming-Rechte f\u00fcr Spotify, Apple Music, YouTube, Deezer, TikTok und weltweiten Vertrieb. Du beh\u00e4ltst 100% deiner Artist-Einnahmen."
+    },
+    {
+      "question": "Sind die Beats 100% GEMA-frei und sample-cleared in Deutschland?",
+      "answer": "Ja! Alle Instrumentals wurden von Onzieb original komponiert und produziert. Es gibt keine ungekl\u00e4rten Fremdsamples. Wenn du bei der GEMA als Urheber gemeldet bist, kannst du deinen Text und deine Performance zu 100% abrechnen."
+    },
+    {
+      "question": "Welche Zahlungsmethoden stehen in Deutschland zur Verf\u00fcgung?",
+      "answer": "Du kannst bequem und sicher per Klarna / Sofort\u00fcberweisung, Giropay, Apple Pay, Google Pay, Kreditkarte (Visa, Mastercard) sowie PayPal und Stripe bezahlen."
+    },
+    {
+      "question": "Wie schnell erhalte ich die ungetaggten Beat-Dateien?",
+      "answer": "Sofort nach dem Bezahlvorgang werden die ungetaggten 24-Bit WAV-Dateien, die MP3-Audiodatei und der rechtsg\u00fcltig unterzeichnete PDF-Lizenzvertrag direkt per Download-Link an deine E-Mail gesendet."
+    }
+  ]
+},
+  "de/duesseldorf": {
+  "name": "Deutschland \u2013 D\u00fcsseldorf & NRW Trap Hub",
+  "flag": "\ud83c\udde9\ud83c\uddea",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "Klarna, Sofort, Giropay, Apple Pay, Google Pay, Kreditkarte",
+  "pro": "GEMA",
+  "proFullName": "Gesellschaft f\u00fcr musikalische Auff\u00fchrungs- und mechanische Vervielf\u00e4ltigungsrechte (GEMA)",
+  "proGuide": "100% GEMA-konform. Alle Beats sind Originalkompositionen ohne ungekl\u00e4rte Samples. Du beh\u00e4ltst alle Streaming-Erl\u00f6se.",
+  "headline": "D\u00fcsseldorf Beats Kaufen: Punchige 808s, Trap & Moderner Stra\u00dfenrap",
+  "description": "Moderne Club- und Stra\u00dfenrap Beats f\u00fcr K\u00fcnstler in D\u00fcsseldorf und Nordrhein-Westfalen. 100% GEMA-konforme Vertr\u00e4ge und sofortiger Trackout-Download.",
+  "popularGenres": [
+    "NRW Trap",
+    "D\u00fcsseldorf Street Rap",
+    "Melodische 808s"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Darf ich Songs mit diesen Beats auf Spotify, Apple Music und YouTube in Deutschland \u2013 D\u00fcsseldorf & NRW Trap Hub ver\u00f6ffentlichen?",
+      "answer": "Ja, absolut! Alle WAV- und MP3-Leases von Different Type of Vibe enthalten 100% kommerzielle Streaming-Rechte f\u00fcr Spotify, Apple Music, YouTube, Deezer, TikTok und weltweiten Vertrieb. Du beh\u00e4ltst 100% deiner Artist-Einnahmen."
+    },
+    {
+      "question": "Sind die Beats 100% GEMA-frei und sample-cleared in Deutschland?",
+      "answer": "Ja! Alle Instrumentals wurden von Onzieb original komponiert und produziert. Es gibt keine ungekl\u00e4rten Fremdsamples. Wenn du bei der GEMA als Urheber gemeldet bist, kannst du deinen Text und deine Performance zu 100% abrechnen."
+    },
+    {
+      "question": "Welche Zahlungsmethoden stehen in Deutschland zur Verf\u00fcgung?",
+      "answer": "Du kannst bequem und sicher per Klarna / Sofort\u00fcberweisung, Giropay, Apple Pay, Google Pay, Kreditkarte (Visa, Mastercard) sowie PayPal und Stripe bezahlen."
+    },
+    {
+      "question": "Wie schnell erhalte ich die ungetaggten Beat-Dateien?",
+      "answer": "Sofort nach dem Bezahlvorgang werden die ungetaggten 24-Bit WAV-Dateien, die MP3-Audiodatei und der rechtsg\u00fcltig unterzeichnete PDF-Lizenzvertrag direkt per Download-Link an deine E-Mail gesendet."
+    }
+  ]
+},
+  "de/ruhrgebiet": {
+  "name": "Deutschland \u2013 Ruhrgebiet (Pott) Hardcore & Drill",
+  "flag": "\ud83c\udde9\ud83c\uddea",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "Klarna, Sofort, Giropay, Apple Pay, Google Pay, Kreditkarte",
+  "pro": "GEMA",
+  "proFullName": "Gesellschaft f\u00fcr musikalische Auff\u00fchrungs- und mechanische Vervielf\u00e4ltigungsrechte (GEMA)",
+  "proGuide": "100% GEMA-konform. Alle Beats sind Originalkompositionen ohne ungekl\u00e4rte Samples. Du beh\u00e4ltst alle Streaming-Erl\u00f6se.",
+  "headline": "Ruhrpott Beats Kaufen: Dreckige Basslines, Hardcore Stra\u00dfenrap & Drill",
+  "description": "Rohe, ungeschliffene Drums und d\u00fcstere Melodien f\u00fcr K\u00fcnstler in Dortmund, Essen, Bochum und Duisburg. Perfekt f\u00fcr harte Punchlines und Real Talk.",
+  "popularGenres": [
+    "Ruhrpott Rap",
+    "Hardcore Stra\u00dfenrap",
+    "Pott Drill"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Ruhrpott Rap Scene Hub",
+      "slug": "../../scene/ruhrpott-hardcore-rap",
+      "description": "Dunkle, druckvolle Beats aus dem Kohlenpott."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Darf ich Songs mit diesen Beats auf Spotify, Apple Music und YouTube in Deutschland \u2013 Ruhrgebiet (Pott) Hardcore & Drill ver\u00f6ffentlichen?",
+      "answer": "Ja, absolut! Alle WAV- und MP3-Leases von Different Type of Vibe enthalten 100% kommerzielle Streaming-Rechte f\u00fcr Spotify, Apple Music, YouTube, Deezer, TikTok und weltweiten Vertrieb. Du beh\u00e4ltst 100% deiner Artist-Einnahmen."
+    },
+    {
+      "question": "Sind die Beats 100% GEMA-frei und sample-cleared in Deutschland?",
+      "answer": "Ja! Alle Instrumentals wurden von Onzieb original komponiert und produziert. Es gibt keine ungekl\u00e4rten Fremdsamples. Wenn du bei der GEMA als Urheber gemeldet bist, kannst du deinen Text und deine Performance zu 100% abrechnen."
+    },
+    {
+      "question": "Welche Zahlungsmethoden stehen in Deutschland zur Verf\u00fcgung?",
+      "answer": "Du kannst bequem und sicher per Klarna / Sofort\u00fcberweisung, Giropay, Apple Pay, Google Pay, Kreditkarte (Visa, Mastercard) sowie PayPal und Stripe bezahlen."
+    },
+    {
+      "question": "Wie schnell erhalte ich die ungetaggten Beat-Dateien?",
+      "answer": "Sofort nach dem Bezahlvorgang werden die ungetaggten 24-Bit WAV-Dateien, die MP3-Audiodatei und der rechtsg\u00fcltig unterzeichnete PDF-Lizenzvertrag direkt per Download-Link an deine E-Mail gesendet."
+    }
+  ]
+},
+  "de/leipzig": {
+  "name": "Deutschland \u2013 Leipzig & Sachsen Underground Hub",
+  "flag": "\ud83c\udde9\ud83c\uddea",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "Klarna, Sofort, Giropay, Apple Pay, Google Pay, Kreditkarte",
+  "pro": "GEMA",
+  "proFullName": "Gesellschaft f\u00fcr musikalische Auff\u00fchrungs- und mechanische Vervielf\u00e4ltigungsrechte (GEMA)",
+  "proGuide": "100% GEMA-konform. Alle Beats sind Originalkompositionen ohne ungekl\u00e4rte Samples. Du beh\u00e4ltst alle Streaming-Erl\u00f6se.",
+  "headline": "Leipzig Beats Kaufen: Authentischer Boom Bap, Lofi & Underground Trap",
+  "description": "Klassische Vinyl-Samples, staubige MPC-Drums und atmosph\u00e4rischer Underground Trap f\u00fcr die Leipziger und Dresdner Hip-Hop Szene.",
+  "popularGenres": [
+    "Leipzig Underground",
+    "Staubiger Boom Bap",
+    "Lofi Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Leipzig Underground Hub",
+      "slug": "../../scene/leipzig-underground-boombap",
+      "description": "Vintage Akustik-Chops und schwere Kicks."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Darf ich Songs mit diesen Beats auf Spotify, Apple Music und YouTube in Deutschland \u2013 Leipzig & Sachsen Underground Hub ver\u00f6ffentlichen?",
+      "answer": "Ja, absolut! Alle WAV- und MP3-Leases von Different Type of Vibe enthalten 100% kommerzielle Streaming-Rechte f\u00fcr Spotify, Apple Music, YouTube, Deezer, TikTok und weltweiten Vertrieb. Du beh\u00e4ltst 100% deiner Artist-Einnahmen."
+    },
+    {
+      "question": "Sind die Beats 100% GEMA-frei und sample-cleared in Deutschland?",
+      "answer": "Ja! Alle Instrumentals wurden von Onzieb original komponiert und produziert. Es gibt keine ungekl\u00e4rten Fremdsamples. Wenn du bei der GEMA als Urheber gemeldet bist, kannst du deinen Text und deine Performance zu 100% abrechnen."
+    },
+    {
+      "question": "Welche Zahlungsmethoden stehen in Deutschland zur Verf\u00fcgung?",
+      "answer": "Du kannst bequem und sicher per Klarna / Sofort\u00fcberweisung, Giropay, Apple Pay, Google Pay, Kreditkarte (Visa, Mastercard) sowie PayPal und Stripe bezahlen."
+    },
+    {
+      "question": "Wie schnell erhalte ich die ungetaggten Beat-Dateien?",
+      "answer": "Sofort nach dem Bezahlvorgang werden die ungetaggten 24-Bit WAV-Dateien, die MP3-Audiodatei und der rechtsg\u00fcltig unterzeichnete PDF-Lizenzvertrag direkt per Download-Link an deine E-Mail gesendet."
+    }
+  ]
+},
+  "de/hannover": {
+  "name": "Deutschland \u2013 Hannover & Niedersachsen Trap",
+  "flag": "\ud83c\udde9\ud83c\uddea",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "Klarna, Sofort, Giropay, Apple Pay, Google Pay, Kreditkarte",
+  "pro": "GEMA",
+  "proFullName": "Gesellschaft f\u00fcr musikalische Auff\u00fchrungs- und mechanische Vervielf\u00e4ltigungsrechte (GEMA)",
+  "proGuide": "100% GEMA-konform. Alle Beats sind Originalkompositionen ohne ungekl\u00e4rte Samples. Du beh\u00e4ltst alle Streaming-Erl\u00f6se.",
+  "headline": "Hannover Beats Kaufen: Moderner Trap, Melodischer Rap & GEMA-frei",
+  "description": "Vielseitige Instrumentals f\u00fcr K\u00fcnstler in Niedersachsen. Unkomprimierte 24-Bit WAV Audio-Leases inklusive kommerzieller Streaming-Lizenz.",
+  "popularGenres": [
+    "Hannover Trap",
+    "Melodic Rap",
+    "Moderne 808s"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Darf ich Songs mit diesen Beats auf Spotify, Apple Music und YouTube in Deutschland \u2013 Hannover & Niedersachsen Trap ver\u00f6ffentlichen?",
+      "answer": "Ja, absolut! Alle WAV- und MP3-Leases von Different Type of Vibe enthalten 100% kommerzielle Streaming-Rechte f\u00fcr Spotify, Apple Music, YouTube, Deezer, TikTok und weltweiten Vertrieb. Du beh\u00e4ltst 100% deiner Artist-Einnahmen."
+    },
+    {
+      "question": "Sind die Beats 100% GEMA-frei und sample-cleared in Deutschland?",
+      "answer": "Ja! Alle Instrumentals wurden von Onzieb original komponiert und produziert. Es gibt keine ungekl\u00e4rten Fremdsamples. Wenn du bei der GEMA als Urheber gemeldet bist, kannst du deinen Text und deine Performance zu 100% abrechnen."
+    },
+    {
+      "question": "Welche Zahlungsmethoden stehen in Deutschland zur Verf\u00fcgung?",
+      "answer": "Du kannst bequem und sicher per Klarna / Sofort\u00fcberweisung, Giropay, Apple Pay, Google Pay, Kreditkarte (Visa, Mastercard) sowie PayPal und Stripe bezahlen."
+    },
+    {
+      "question": "Wie schnell erhalte ich die ungetaggten Beat-Dateien?",
+      "answer": "Sofort nach dem Bezahlvorgang werden die ungetaggten 24-Bit WAV-Dateien, die MP3-Audiodatei und der rechtsg\u00fcltig unterzeichnete PDF-Lizenzvertrag direkt per Download-Link an deine E-Mail gesendet."
+    }
+  ]
+},
+  "de/nuernberg": {
+  "name": "Deutschland \u2013 N\u00fcrnberg & Franken Hip-Hop",
+  "flag": "\ud83c\udde9\ud83c\uddea",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "Klarna, Sofort, Giropay, Apple Pay, Google Pay, Kreditkarte",
+  "pro": "GEMA",
+  "proFullName": "Gesellschaft f\u00fcr musikalische Auff\u00fchrungs- und mechanische Vervielf\u00e4ltigungsrechte (GEMA)",
+  "proGuide": "100% GEMA-konform. Alle Beats sind Originalkompositionen ohne ungekl\u00e4rte Samples. Du beh\u00e4ltst alle Streaming-Erl\u00f6se.",
+  "headline": "N\u00fcrnberg Beats Kaufen: Fr\u00e4nkischer Trap, Melodische Keys & Drill",
+  "description": "Dynamische Instrumentals mit tiefen 808 Kicks und eing\u00e4ngigen Melodien f\u00fcr Aufnahmen im Tonstudio und Spotify Releases.",
+  "popularGenres": [
+    "Franken Trap",
+    "Melodische Keys",
+    "German Drill"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Darf ich Songs mit diesen Beats auf Spotify, Apple Music und YouTube in Deutschland \u2013 N\u00fcrnberg & Franken Hip-Hop ver\u00f6ffentlichen?",
+      "answer": "Ja, absolut! Alle WAV- und MP3-Leases von Different Type of Vibe enthalten 100% kommerzielle Streaming-Rechte f\u00fcr Spotify, Apple Music, YouTube, Deezer, TikTok und weltweiten Vertrieb. Du beh\u00e4ltst 100% deiner Artist-Einnahmen."
+    },
+    {
+      "question": "Sind die Beats 100% GEMA-frei und sample-cleared in Deutschland?",
+      "answer": "Ja! Alle Instrumentals wurden von Onzieb original komponiert und produziert. Es gibt keine ungekl\u00e4rten Fremdsamples. Wenn du bei der GEMA als Urheber gemeldet bist, kannst du deinen Text und deine Performance zu 100% abrechnen."
+    },
+    {
+      "question": "Welche Zahlungsmethoden stehen in Deutschland zur Verf\u00fcgung?",
+      "answer": "Du kannst bequem und sicher per Klarna / Sofort\u00fcberweisung, Giropay, Apple Pay, Google Pay, Kreditkarte (Visa, Mastercard) sowie PayPal und Stripe bezahlen."
+    },
+    {
+      "question": "Wie schnell erhalte ich die ungetaggten Beat-Dateien?",
+      "answer": "Sofort nach dem Bezahlvorgang werden die ungetaggten 24-Bit WAV-Dateien, die MP3-Audiodatei und der rechtsg\u00fcltig unterzeichnete PDF-Lizenzvertrag direkt per Download-Link an deine E-Mail gesendet."
+    }
+  ]
+},
+  "de/bremen": {
+  "name": "Deutschland \u2013 Bremen Nord-Sound & Trap",
+  "flag": "\ud83c\udde9\ud83c\uddea",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "Klarna, Sofort, Giropay, Apple Pay, Google Pay, Kreditkarte",
+  "pro": "GEMA",
+  "proFullName": "Gesellschaft f\u00fcr musikalische Auff\u00fchrungs- und mechanische Vervielf\u00e4ltigungsrechte (GEMA)",
+  "proGuide": "100% GEMA-konform. Alle Beats sind Originalkompositionen ohne ungekl\u00e4rte Samples. Du beh\u00e4ltst alle Streaming-Erl\u00f6se.",
+  "headline": "Bremen Beats Kaufen: Norddeutscher Stra\u00dfenrap & Treibender Drill",
+  "description": "Frischer, harter Sound aus dem Norden mit treibenden Hi-Hats und tiefen B\u00e4ssen f\u00fcr Streaming-Erfolge in ganz Deutschland.",
+  "popularGenres": [
+    "Bremen Street Rap",
+    "Nord Drill",
+    "Dark 808s"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Darf ich Songs mit diesen Beats auf Spotify, Apple Music und YouTube in Deutschland \u2013 Bremen Nord-Sound & Trap ver\u00f6ffentlichen?",
+      "answer": "Ja, absolut! Alle WAV- und MP3-Leases von Different Type of Vibe enthalten 100% kommerzielle Streaming-Rechte f\u00fcr Spotify, Apple Music, YouTube, Deezer, TikTok und weltweiten Vertrieb. Du beh\u00e4ltst 100% deiner Artist-Einnahmen."
+    },
+    {
+      "question": "Sind die Beats 100% GEMA-frei und sample-cleared in Deutschland?",
+      "answer": "Ja! Alle Instrumentals wurden von Onzieb original komponiert und produziert. Es gibt keine ungekl\u00e4rten Fremdsamples. Wenn du bei der GEMA als Urheber gemeldet bist, kannst du deinen Text und deine Performance zu 100% abrechnen."
+    },
+    {
+      "question": "Welche Zahlungsmethoden stehen in Deutschland zur Verf\u00fcgung?",
+      "answer": "Du kannst bequem und sicher per Klarna / Sofort\u00fcberweisung, Giropay, Apple Pay, Google Pay, Kreditkarte (Visa, Mastercard) sowie PayPal und Stripe bezahlen."
+    },
+    {
+      "question": "Wie schnell erhalte ich die ungetaggten Beat-Dateien?",
+      "answer": "Sofort nach dem Bezahlvorgang werden die ungetaggten 24-Bit WAV-Dateien, die MP3-Audiodatei und der rechtsg\u00fcltig unterzeichnete PDF-Lizenzvertrag direkt per Download-Link an deine E-Mail gesendet."
+    }
+  ]
+},
 };

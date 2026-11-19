@@ -1,6 +1,6 @@
 // src/data/stagedClusters.ts
-// Programmatic SEO Staged Batch Cluster Ledger - US High-Intent Clusters Wave 2
-// Deployed automatically by scripts/deploy_wave2_us_pseo.py
+// Programmatic SEO Staged Batch Cluster Ledger - US & Germany Clusters
+// Deployed automatically by scripts/deploy_germany_pseo.py
 
 export interface StagedClusterItem {
   type: 'vibe' | 'genre' | 'mood' | 'bpm' | 'key' | 'scene' | 'instrument' | 'blog';
@@ -1223,5 +1223,535 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "type": "scene",
     "slug": "michigan-rnb-beats",
     "batchId": 3
+  },
+  {
+    "type": "scene",
+    "slug": "berlin-drill-beats",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "hamburg-street-drill",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "frankfurt-dark-trap",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "koeln-melodic-rap",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "ruhrpott-hardcore-rap",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "stuttgart-cloud-rap",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "muenchen-hiphop-beats",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "leipzig-underground-boombap",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "deutschrap-beats-berlin",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "deutschrap-drill-hamburg",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "duesseldorf-trap-beats",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "hannover-street-beats",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "nuernberg-franken-trap",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "bremen-nord-drill",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "wien-austria-deutschrap",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "zuerich-schweiz-trap",
+    "batchId": 4
+  },
+  {
+    "type": "vibe",
+    "slug": "luciano-drill-type-beats",
+    "batchId": 4
+  },
+  {
+    "type": "vibe",
+    "slug": "pashanim-berlin-summer-beats",
+    "batchId": 4
+  },
+  {
+    "type": "vibe",
+    "slug": "raf-camora-afro-trap-beats",
+    "batchId": 4
+  },
+  {
+    "type": "vibe",
+    "slug": "bonez-mc-187-dancehall-trap",
+    "batchId": 4
+  },
+  {
+    "type": "vibe",
+    "slug": "ufo361-wave-trap-beats",
+    "batchId": 4
+  },
+  {
+    "type": "vibe",
+    "slug": "apache-207-80s-retro-trap",
+    "batchId": 4
+  },
+  {
+    "type": "vibe",
+    "slug": "haftbefehl-dark-street-trap",
+    "batchId": 4
+  },
+  {
+    "type": "vibe",
+    "slug": "shindy-classy-boom-bap-beats",
+    "batchId": 4
+  },
+  {
+    "type": "vibe",
+    "slug": "rin-cloud-rap-beats",
+    "batchId": 4
+  },
+  {
+    "type": "vibe",
+    "slug": "t-low-melodic-pluggnb-beats",
+    "batchId": 4
+  },
+  {
+    "type": "vibe",
+    "slug": "reezy-soulful-trap-beats",
+    "batchId": 4
+  },
+  {
+    "type": "vibe",
+    "slug": "og-keemo-dark-gritty-boombap",
+    "batchId": 4
+  },
+  {
+    "type": "vibe",
+    "slug": "bato-afrobeats-deutschland",
+    "batchId": 4
+  },
+  {
+    "type": "vibe",
+    "slug": "miksu-macloud-pop-trap",
+    "batchId": 4
+  },
+  {
+    "type": "vibe",
+    "slug": "bhz-berlin-underground-trap",
+    "batchId": 4
+  },
+  {
+    "type": "vibe",
+    "slug": "gzuz-hardcore-street-rap",
+    "batchId": 4
+  },
+  {
+    "type": "vibe",
+    "slug": "capital-bra-berlin-melodic",
+    "batchId": 4
+  },
+  {
+    "type": "vibe",
+    "slug": "samra-dark-street-melodic",
+    "batchId": 4
+  },
+  {
+    "type": "vibe",
+    "slug": "kontra-k-motivational-trap",
+    "batchId": 4
+  },
+  {
+    "type": "vibe",
+    "slug": "cro-easy-summer-melodic",
+    "batchId": 4
+  },
+  {
+    "type": "vibe",
+    "slug": "badmomzjay-female-trap-drill",
+    "batchId": 4
+  },
+  {
+    "type": "vibe",
+    "slug": "takt32-berlin-street-rap",
+    "batchId": 4
+  },
+  {
+    "type": "vibe",
+    "slug": "disarstar-hamburg-conscious-rap",
+    "batchId": 4
+  },
+  {
+    "type": "vibe",
+    "slug": "luciano-majestic-drill",
+    "batchId": 4
+  },
+  {
+    "type": "genre",
+    "slug": "gemafreie-beats-kaufen",
+    "batchId": 4
+  },
+  {
+    "type": "genre",
+    "slug": "deutschrap-beats-kaufen",
+    "batchId": 4
+  },
+  {
+    "type": "genre",
+    "slug": "afro-trap-instrumentals-kaufen",
+    "batchId": 4
+  },
+  {
+    "type": "genre",
+    "slug": "drill-beats-kaufen-deutschland",
+    "batchId": 4
+  },
+  {
+    "type": "genre",
+    "slug": "untagged-wav-leases-deutschland",
+    "batchId": 4
+  },
+  {
+    "type": "genre",
+    "slug": "exklusiv-rechte-beats-kaufen",
+    "batchId": 4
+  },
+  {
+    "type": "genre",
+    "slug": "commercial-streaming-lizenz-deutschrap",
+    "batchId": 4
+  },
+  {
+    "type": "genre",
+    "slug": "amapiano-beats-kaufen-deutschland",
+    "batchId": 4
+  },
+  {
+    "type": "genre",
+    "slug": "boom-bap-beats-kaufen-deutschland",
+    "batchId": 4
+  },
+  {
+    "type": "genre",
+    "slug": "lofi-beats-kaufen-deutschland",
+    "batchId": 4
+  },
+  {
+    "type": "genre",
+    "slug": "pluggnb-beats-kaufen-deutschland",
+    "batchId": 4
+  },
+  {
+    "type": "genre",
+    "slug": "deutschrap-type-beat-free-download",
+    "batchId": 4
+  },
+  {
+    "type": "genre",
+    "slug": "deutschrap-instrumentals-online-kaufen",
+    "batchId": 4
+  },
+  {
+    "type": "genre",
+    "slug": "gema-freie-commercial-beats",
+    "batchId": 4
+  },
+  {
+    "type": "bpm",
+    "slug": "142-bpm-deutschrap-drill",
+    "batchId": 4
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-deutschrap-trap",
+    "batchId": 4
+  },
+  {
+    "type": "bpm",
+    "slug": "105-bpm-afro-trap-beats",
+    "batchId": 4
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-deutschrap-boombap",
+    "batchId": 4
+  },
+  {
+    "type": "bpm",
+    "slug": "145-bpm-luciano-drill",
+    "batchId": 4
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-deutschrap-melodic",
+    "batchId": 4
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-berlin-drill",
+    "batchId": 4
+  },
+  {
+    "type": "key",
+    "slug": "d-minor-deutschrap-drill",
+    "batchId": 4
+  },
+  {
+    "type": "key",
+    "slug": "c-minor-dark-deutschrap",
+    "batchId": 4
+  },
+  {
+    "type": "key",
+    "slug": "f-minor-emotional-deutschrap",
+    "batchId": 4
+  },
+  {
+    "type": "key",
+    "slug": "a-minor-melodischer-deutschrap",
+    "batchId": 4
+  },
+  {
+    "type": "key",
+    "slug": "g-minor-berlin-drill",
+    "batchId": 4
+  },
+  {
+    "type": "key",
+    "slug": "e-minor-street-trap",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "berlin-trap-beats",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "berlin-boombap-beats",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "berlin-afro-trap",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "berlin-melodic-beats",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "hamburg-trap-beats",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "hamburg-drill-beats",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "hamburg-boombap-beats",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "hamburg-afro-trap",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "hamburg-melodic-beats",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "frankfurt-trap-beats",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "frankfurt-drill-beats",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "frankfurt-boombap-beats",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "frankfurt-afro-trap",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "frankfurt-melodic-beats",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "koeln-trap-beats",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "koeln-drill-beats",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "koeln-boombap-beats",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "koeln-afro-trap",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "koeln-melodic-beats",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "stuttgart-trap-beats",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "stuttgart-drill-beats",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "stuttgart-boombap-beats",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "stuttgart-afro-trap",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "stuttgart-melodic-beats",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "muenchen-trap-beats",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "muenchen-drill-beats",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "muenchen-boombap-beats",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "muenchen-afro-trap",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "muenchen-melodic-beats",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "leipzig-trap-beats",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "leipzig-drill-beats",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "leipzig-boombap-beats",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "leipzig-afro-trap",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "leipzig-melodic-beats",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "dortmund-trap-beats",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "dortmund-drill-beats",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "dortmund-boombap-beats",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "dortmund-afro-trap",
+    "batchId": 4
+  },
+  {
+    "type": "scene",
+    "slug": "dortmund-melodic-beats",
+    "batchId": 4
   }
 ];
