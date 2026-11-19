@@ -23678,4 +23678,1691 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "1"
   ]
 },
+  {
+  "slug": "duki-modo-diablo-trap-argentino",
+  "name": "Duki Modo Diablo Trap Argentino",
+  "category": "vibe",
+  "badge": "Modo Diablo Vibe",
+  "headline": "Beats Estilo Duki: Modo Diablo Trap, Guitarras Rockeras & Bajos 808 de Estadio",
+  "description": "El rey indiscutido del trap latino: bajos 808 demoledores que hacen vibrar estadios, guitarras distorsionadas de rock-trap y baterías aceleradas para shows multitudinarios.",
+  "targetArtists": [
+    "Duki",
+    "Modo Diablo",
+    "Ameri",
+    "Goteo"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Bajo 808 de Estadio",
+    "Guitarras Rockeras",
+    "Energía de Festival",
+    "Autotune Agresivo"
+  ],
+  "popularGenres": [
+    "Trap Argentino",
+    "Rock Trap",
+    "Modo Diablo Style"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "bizarrap-bzrp-music-sessions-electro-trap",
+  "name": "Bizarrap BZRP Music Sessions Electro Trap",
+  "category": "vibe",
+  "badge": "BZRP Sessions Vibe",
+  "headline": "Beats Estilo Bizarrap: Kicks con Sidechain, Sintes Electrónicos & Drops Demoledores",
+  "description": "La fórmula del productor más exitoso del mundo: transiciones dinámicas, kicks nítidos con compresión sidechain y melodías épicas de sintetizador para Sessions inolvidables.",
+  "targetArtists": [
+    "Bizarrap",
+    "BZRP Sessions",
+    "Quevedo",
+    "Villano Antillano"
+  ],
+  "recommendedBpm": "126-134 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Kick con Sidechain",
+    "Sintes Electrónicos",
+    "Drop Demoledor",
+    "Producción Top"
+  ],
+  "popularGenres": [
+    "Electro Trap",
+    "EDM Trap",
+    "BZRP Style"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "milo-j-moron-melancholic-bolero-trap",
+  "name": "Milo J Morón Melancholic Bolero Trap",
+  "category": "vibe",
+  "badge": "Morón Bolero-Trap",
+  "headline": "Beats Estilo Milo J: Guitarras Españolas Nostálgicas, Boom Bap Cálido & Rimas Sentidas",
+  "description": "El prodigio de Morón: rasgueos de guitarra española nostálgica, acordes menores de bolero y baterías orgánicas de boom bap para voces graves y letras profundas.",
+  "targetArtists": [
+    "Milo J",
+    "1 1 1",
+    "Rara Vez",
+    "Morón Sound"
+  ],
+  "recommendedBpm": "88-96 BPM",
+  "recommendedKey": "A-Minor / D-Minor",
+  "vibeAttributes": [
+    "Guitarra Española",
+    "Acordes Bolero",
+    "Voz Grave",
+    "Boom Bap Cálido"
+  ],
+  "popularGenres": [
+    "Bolero Trap",
+    "Soulful Boom Bap",
+    "Trap Argentino"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "ysy-a-terremoto-electronic-trap",
+  "name": "YSY A Terremoto Electronic Trap",
+  "category": "vibe",
+  "badge": "Terremoto Vibe",
+  "headline": "Beats Estilo YSY A: Trap Acelerado, Sintetizadores Sónico-Electrónicos & Pogo Infinito",
+  "description": "El varón del trap: arpegios de sintetizador electrizantes, tempo acelerado y patrones de batería enérgicos que provocan verdaderos sismos en la pista de baile.",
+  "targetArtists": [
+    "YSY A",
+    "Sponsor Dios",
+    "El Varón",
+    "El After del After"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Sintetizadores Electrónicos",
+    "Pogo Infinito",
+    "Trap Sónico",
+    "Terremoto"
+  ],
+  "popularGenres": [
+    "Electronic Trap",
+    "Trap Porteño",
+    "Club Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "tiago-pzk-gotti-melodic-rnb-trap",
+  "name": "Tiago PZK Gotti Melodic RnB Trap",
+  "category": "vibe",
+  "badge": "Gotti Melodic Vibe",
+  "headline": "Beats Estilo Tiago PZK: R&B Contemporáneo, Coros Melódicos & Trap Radial",
+  "description": "El puente entre el rap y el pop urbano: acordes de piano Rhodes aterciopelados, bajos 808 redondos y baterías bailables para coros que conquistan el dial.",
+  "targetArtists": [
+    "Tiago PZK",
+    "Gotti",
+    "Portales",
+    "Sola"
+  ],
+  "recommendedBpm": "115-125 BPM",
+  "recommendedKey": "E-Minor / B-Minor",
+  "vibeAttributes": [
+    "R&B Contemporáneo",
+    "Coros Melódicos",
+    "Piano Rhodes",
+    "Trap Radial"
+  ],
+  "popularGenres": [
+    "Melodic Trap",
+    "R&B Pop",
+    "Urbano Latino"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "l-gante-cumbia-420-rkt-banger",
+  "name": "L-Gante Cumbia 420 RKT Banger",
+  "category": "vibe",
+  "badge": "Cumbia 420 RKT",
+  "headline": "Beats Estilo L-Gante: Dembow Sincopado RKT, Silbidos Callejeros & Cumbia 420",
+  "description": "El sonido que redefinió la fiesta en el Conurbano: ritmo sincopado de RKT a 98 BPM, silbidos característicos, percusiones de cumbia villera y bajos rebotantes.",
+  "targetArtists": [
+    "L-Gante",
+    "DT.Bilardo",
+    "Callejero Fino",
+    "Perro Primo"
+  ],
+  "recommendedBpm": "95-100 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Dembow RKT Sincopado",
+    "Silbidos Callejeros",
+    "Cumbia Villera",
+    "Bajo Rebotante"
+  ],
+  "popularGenres": [
+    "RKT",
+    "Cumbia 420",
+    "Turreo"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "trueno-la-boca-golden-boombap-trap",
+  "name": "Trueno La Boca Golden Boombap Trap",
+  "category": "vibe",
+  "badge": "La Boca Hip-Hop Vibe",
+  "headline": "Beats Estilo Trueno: Herencia de La Boca, Boom Bap Clásico & Fusión Trap",
+  "description": "Hip hop en las venas: scratches de vinilo, trompetas con sabor funk y baterías clásicas con punch demoledor para flows veloces y rimas callejeras.",
+  "targetArtists": [
+    "Trueno",
+    "Mateo",
+    "Atrevido",
+    "Bien o Mal"
+  ],
+  "recommendedBpm": "92-98 BPM / 128 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "Scratches Vinilo",
+    "Herencia La Boca",
+    "Funk Trompetas",
+    "Punch Clásico"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico",
+    "Trap Argentino",
+    "Funk Hop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "dillom-post-mortem-dark-punk-trap",
+  "name": "Dillom Post Mortem Dark Punk Trap",
+  "category": "vibe",
+  "badge": "Post Mortem Dark Vibe",
+  "headline": "Beats Estilo Dillom: Punk-Trap Oscuro, Bajos 808 Distorsionados & Estilo Sátira",
+  "description": "La propuesta más vanguardista y transgresora: texturas sonoras industriales, sintetizadores siniestros y baterías agresivas de trap con actitud punk.",
+  "targetArtists": [
+    "Dillom",
+    "Post Mortem",
+    "Rip Gang",
+    "Saramalacara"
+  ],
+  "recommendedBpm": "125-135 BPM",
+  "recommendedKey": "F-Minor / B-Minor",
+  "vibeAttributes": [
+    "Punk-Trap",
+    "Bajos Distorsionados",
+    "Texturas Industriales",
+    "Siniestro"
+  ],
+  "popularGenres": [
+    "Alternative Trap",
+    "Punk Rap",
+    "Dark Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "acru-heavyweight-lyrical-boombap",
+  "name": "Acru Heavyweight Lyrical Boombap",
+  "category": "vibe",
+  "badge": "Lírica Pesada Vibe",
+  "headline": "Beats Estilo Acru: Boom Bap Pesado de los 90, Cajas Clásicas & Barras Puras",
+  "description": "El templo del rap puro: loops de piano polvorientos, bombos con pegada analógica y cajas nítidas que dan total protagonismo al liricismo y métricas complejas.",
+  "targetArtists": [
+    "Acru",
+    "Anonimato",
+    "El Don",
+    "FMS Legends"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Pegada Analógica",
+    "Piano Polvoriento",
+    "Lírica Pura",
+    "Boom Bap 90s"
+  ],
+  "popularGenres": [
+    "Underground Boom Bap",
+    "Rap Clásico",
+    "Hip Hop Argentino"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6"
+  ]
+},
+  {
+  "slug": "khea-loca-melodic-trap-pioneer",
+  "name": "Khea Loca Melodic Trap Pioneer",
+  "category": "vibe",
+  "badge": "Pionero Melódico Vibe",
+  "headline": "Beats Estilo Khea: Sintetizadores Brillantes, Melodías de Desamor & Trap Bailable",
+  "description": "El origen del trap sentimental en español: leads de sintetizador contagiosos, bajos 808 envolventes y baterías ágiles para coros que no salen de la cabeza.",
+  "targetArtists": [
+    "Khea",
+    "Loca",
+    "Serotonina",
+    "Duki Crossover"
+  ],
+  "recommendedBpm": "120-128 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Sintetizadores Brillantes",
+    "Trap Sentimental",
+    "Coros Virales",
+    "808 Envolvente"
+  ],
+  "popularGenres": [
+    "Melodic Trap",
+    "Trap Latino",
+    "Urbano"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "neo-pistea-tony-the-kid-raw-trap",
+  "name": "Neo Pistea Tony The Kid Raw Trap",
+  "category": "vibe",
+  "badge": "Tony The Kid Vibe",
+  "headline": "Beats Estilo Neo Pistea: Trap Subterráneo Puro, Bajos Deslizantes & Barras Crudas",
+  "description": "El arquitecto del trap argentino: sonidos de campanas gélidas, líneas de 808 deslizantes y actitud callejera sin filtros al estilo Tony Montana.",
+  "targetArtists": [
+    "Neo Pistea",
+    "Modo Diablo",
+    "Tumbando El Club"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Trap Subterráneo",
+    "Campanas Gélidas",
+    "Bajo Deslizante",
+    "Sin Filtros"
+  ],
+  "popularGenres": [
+    "Trap Argentino",
+    "Street Trap",
+    "Modo Diablo"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "lit-killah-futuristic-hyper-trap",
+  "name": "Lit Killah Futuristic Hyper Trap",
+  "category": "vibe",
+  "badge": "Hyper-Trap Futurista",
+  "headline": "Beats Estilo Lit Killah: Hi-Hats Ultrarrápidos, Leads de Videojuego & Chopper Flow",
+  "description": "Velocidad y tecnología: secuencias frenéticas de hi-hat, arpegios futuristas y bajos que empujan para rapear a máxima velocidad sin perder el ritmo.",
+  "targetArtists": [
+    "Lit Killah",
+    "Mawz",
+    "Sniper Flow"
+  ],
+  "recommendedBpm": "138-144 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Hi-Hats Ultrarrápidos",
+    "Leads Futuristas",
+    "Chopper Flow",
+    "Energía Digital"
+  ],
+  "popularGenres": [
+    "Hyper Trap",
+    "Chopper Rap",
+    "Trap Argentino"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "comprar-beats-de-trap-argentina-mercado-pago",
+  "name": "Comprar Beats de Trap en Argentina (Mercado Pago & Pesos ARS)",
+  "category": "genre",
+  "badge": "Paga con Mercado Pago",
+  "headline": "Comprar Beats de Trap en Argentina: Paga al Instante con Mercado Pago o CVU en Pesos",
+  "description": "La forma más fácil y rápida de comprar instrumentales en Argentina. Sin tarjeta de crédito internacional ni retenciones de dólares. Paga con dinero en cuenta de Mercado Pago o transferencia bancaria y descarga tus archivos WAV de inmediato.",
+  "targetArtists": [
+    "Traperos Argentinos",
+    "Raperos Independientes",
+    "Freestylers"
+  ],
+  "recommendedBpm": "Todos los Tempos",
+  "recommendedKey": "Todas las Tonalidades",
+  "vibeAttributes": [
+    "Mercado Pago",
+    "Transferencia CVU",
+    "Pesos ARS",
+    "Descarga WAV"
+  ],
+  "popularGenres": [
+    "Trap Argentino",
+    "RKT",
+    "Boom Bap",
+    "R&B"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "pistas-de-trap-argentino-wav-stems",
+  "name": "Pistas de Trap Argentino WAV con Stems Separados",
+  "category": "genre",
+  "badge": "Trap Argentino WAV",
+  "headline": "Pistas de Trap Argentino en Venta: WAV 24-bit y Canales Separados (Multitrack)",
+  "description": "Bajos 808 profundos y baterías de festival (130-136 BPM) al estilo Duki e YSY A. Incluye stems por pista para una mezcla vocal profesional y precisa en tu DAW.",
+  "targetArtists": [
+    "Duki Fans",
+    "YSY A Fans",
+    "Productores Vocales"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Stems Separados",
+    "Bajo 808",
+    "WAV Estudio",
+    "Trap Argentino"
+  ],
+  "popularGenres": [
+    "Trap Argentino",
+    "Rock Trap",
+    "Club Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "instrumentales-de-rkt-cumbia-420-descarga",
+  "name": "Instrumentales de RKT y Cumbia 420 Descarga Directa",
+  "category": "genre",
+  "badge": "RKT Cumbia 420",
+  "headline": "Beats de RKT y Cumbia 420: Ritmo Sincopado a 98 BPM, Silbidos y Bajos Pesados",
+  "description": "El ritmo bailable que llena los boliches en toda Argentina. Dembows característicos de RKT, cortes festivos y graves contundentes listos para romper la noche.",
+  "targetArtists": [
+    "L-Gante Style",
+    "Callejero Fino Style",
+    "Artistas RKT"
+  ],
+  "recommendedBpm": "95-100 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "RKT Sincopado",
+    "Cumbia 420",
+    "Silbidos Callejeros",
+    "Boliche Banger"
+  ],
+  "popularGenres": [
+    "RKT",
+    "Cumbia 420",
+    "Turreo"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "sadaic-derechos-de-autor-pistas-argentina",
+  "name": "Pistas Seguras para Registrar ante SADAIC y AADI",
+  "category": "genre",
+  "badge": "Aprobado SADAIC",
+  "headline": "Pistas 100% Seguras para Registro en SADAIC: Originales y Sin Reclamos de Copyright",
+  "description": "Registra tus canciones sin problemas legales ante SADAIC, AADI y CAPIF. Producciones exclusivas libres de samples no autorizados que garantizan el cobro de tus regalías de autor.",
+  "targetArtists": [
+    "Socios SADAIC",
+    "Sellos de Trap",
+    "Compositores"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "100% Original",
+    "SADAIC Safe",
+    "Sin Reclamos",
+    "Contrato Legal PDF"
+  ],
+  "popularGenres": [
+    "Trap Argentino",
+    "Boom Bap",
+    "R&B"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6",
+    "5"
+  ]
+},
+  {
+  "slug": "bases-de-rap-argentino-sin-etiqueta-untagged",
+  "name": "Bases de Rap Argentino Sin Etiqueta de Voz (Untagged)",
+  "category": "genre",
+  "badge": "WAV Sin Etiquetas",
+  "headline": "Bases de Rap Argentino Sin Voz de Fondo: Grabación Limpia para Estudio",
+  "description": "Pistas de audio en calidad máster de 24 bits totalmente limpias de sellos de voz. Ideales para ingresar al estudio o grabar maquetas de alta definición.",
+  "targetArtists": [
+    "Raperos de Estudio",
+    "Freestylers",
+    "Vocalistas"
+  ],
+  "recommendedBpm": "90-144 BPM",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Sin Etiqueta",
+    "Audio Limpio",
+    "Headroom -6dB",
+    "Máster Estudio"
+  ],
+  "popularGenres": [
+    "Trap Argentino",
+    "Boom Bap",
+    "RKT"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1",
+    "6"
+  ]
+},
+  {
+  "slug": "licencia-comercial-spotify-argentina",
+  "name": "Licencia Comercial para Spotify Argentina y YouTube",
+  "category": "genre",
+  "badge": "Spotify Argentina Ready",
+  "headline": "Licencia Comercial para Streaming: Lanza en Spotify Argentina y Quédate con el 100%",
+  "description": "Distribuye tus lanzamientos en Spotify, Apple Music y YouTube a través de DistroKid o cualquier distribuidora manteniendo el 100% de tus ingresos por reproducciones.",
+  "targetArtists": [
+    "Artistas Independientes",
+    "Distribuidoras Digitales"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "100% Regalías",
+    "Spotify Argentina",
+    "Monetización YouTube",
+    "Ilimitado"
+  ],
+  "popularGenres": [
+    "Trap Argentino",
+    "RKT",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "bzrp-music-sessions-type-beat-wav",
+  "name": "BZRP Music Sessions Type Beat WAV",
+  "category": "genre",
+  "badge": "BZRP Session Type Beat",
+  "headline": "BZRP Sessions Type Beat: Baterías con Sidechain, Sintes Épicos & Drops Demoledores",
+  "description": "Instrumentales inspirados en las legendarias BZRP Music Sessions: transiciones explosivas, drops electrónicos y baterías que destacan en cualquier parlante.",
+  "targetArtists": [
+    "Artistas de Session",
+    "Traperos",
+    "Productores"
+  ],
+  "recommendedBpm": "125-134 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "BZRP Vibe",
+    "Sidechain Kick",
+    "Drop Electrónico",
+    "WAV Estudio"
+  ],
+  "popularGenres": [
+    "Electro Trap",
+    "EDM Trap",
+    "Club Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "beats-de-boom-bap-argentino-estilo-acru",
+  "name": "Beats de Boom Bap Argentino Estilo Acru y Trueno",
+  "category": "genre",
+  "badge": "Boom Bap de Competencia",
+  "headline": "Beats de Boom Bap Argentino: Cajas Clásicas, Loops Polvorientos y Métricas Puras",
+  "description": "Para los que valoran el hip hop de verdad: baterías con pegada analógica inspiradas en las plazas argentinas y en maestros como Acru y Trueno.",
+  "targetArtists": [
+    "Acru Fans",
+    "Freestylers de Plaza",
+    "MC Tradicionales"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Batería Analógica",
+    "Loop Polvoriento",
+    "Rap de Plaza",
+    "Lírica Pura"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico",
+    "Hip Hop Argentino",
+    "Underground"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6"
+  ]
+},
+  {
+  "slug": "pistas-exclusivas-para-artistas-en-argentina",
+  "name": "Pistas Exclusivas para Artistas en Argentina (Derechos Totales)",
+  "category": "genre",
+  "badge": "Derechos Exclusivos",
+  "headline": "Beats con Derechos Exclusivos en Argentina: Propiedad Total y Retiro de Catálogo",
+  "description": "Adquiere la propiedad exclusiva del máster. La pista se retira definitivamente del catálogo de la tienda y se transfiere legalmente a tu nombre en Pesos ARS.",
+  "targetArtists": [
+    "Artistas Firmados",
+    "Proyectos de Álbum",
+    "Managers"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Derechos Exclusivos",
+    "Retiro de Tienda",
+    "Propiedad Total",
+    "Contrato Legal"
+  ],
+  "popularGenres": [
+    "Trap Argentino",
+    "RKT",
+    "R&B Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "descargar-paquete-3-beats-gratis-argentina",
+  "name": "Descargar Paquete de 3 Beats Gratis para Probar Voz",
+  "category": "genre",
+  "badge": "Paquete Gratis MP3",
+  "headline": "Descarga Gratis 3 Pistas de Trap y Rap: Prueba tu Flow en Casa",
+  "description": "Descarga instantánea de 3 instrumentales en MP3 de alta fidelidad para practicar tus barras y probar cómo suena tu voz antes de comprar tu licencia definitiva.",
+  "targetArtists": [
+    "Artistas Nuevos",
+    "Home Studio",
+    "Freestylers"
+  ],
+  "recommendedBpm": "90, 130, 135 BPM",
+  "recommendedKey": "C-Minor, F-Minor",
+  "vibeAttributes": [
+    "Descarga Gratis",
+    "3 Pistas",
+    "Prueba de Voz",
+    "Envío al Correo"
+  ],
+  "popularGenres": [
+    "Trap Argentino",
+    "Boom Bap",
+    "RKT"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "6"
+  ]
+},
+  {
+  "slug": "130-bpm-trap-argentino-beats",
+  "name": "130 BPM Trap Argentino Beats",
+  "category": "bpm",
+  "badge": "130 BPM Trap",
+  "headline": "130 BPM Trap Argentino: El Tempo de Oro del Movimiento de Buenos Aires",
+  "description": "El tempo clásico de los himnos de Duki e YSY A: cadencia ideal para coros pegajosos y bajos 808 rebotantes.",
+  "recommendedBpm": "130 BPM",
+  "recommendedKey": "F-Minor",
+  "vibeAttributes": [
+    "130 BPM",
+    "Trap Argentino",
+    "Bajo 808",
+    "Cadencia"
+  ],
+  "popularGenres": [
+    "Trap Argentino",
+    "Modo Diablo"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "98-bpm-rkt-cumbia-420-instrumental",
+  "name": "98 BPM RKT Cumbia 420 Instrumental",
+  "category": "bpm",
+  "badge": "98 BPM RKT",
+  "headline": "98 BPM RKT y Cumbia 420: El Ritmo Sincopado que Enciende los Boliches",
+  "description": "El tempo insignia del turreo y la cumbia 420: dembows bailables y silbidos de fiesta.",
+  "recommendedBpm": "98 BPM",
+  "recommendedKey": "D-Minor",
+  "vibeAttributes": [
+    "98 BPM",
+    "RKT",
+    "Cumbia 420",
+    "Boliche"
+  ],
+  "popularGenres": [
+    "RKT",
+    "Turreo",
+    "Cumbia Villera"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "135-bpm-ysy-a-terremoto-trap",
+  "name": "135 BPM YSY A Terremoto Trap",
+  "category": "bpm",
+  "badge": "135 BPM Terremoto",
+  "headline": "135 BPM Trap Electrónico Acelerado: Pogo y Energía Inagotable",
+  "description": "Ritmo acelerado con arpegios de sintetizador para encender el público en vivo.",
+  "recommendedBpm": "135 BPM",
+  "recommendedKey": "C-Minor",
+  "vibeAttributes": [
+    "135 BPM",
+    "Terremoto",
+    "Pogo",
+    "Trap Acelerado"
+  ],
+  "popularGenres": [
+    "Electronic Trap",
+    "Trap Porteño"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "90-bpm-milo-j-boombap-tempo",
+  "name": "90 BPM Milo J Boombap Tempo",
+  "category": "bpm",
+  "badge": "90 BPM Bolero-Trap",
+  "headline": "90 BPM Boom Bap Melancólico: Guitarras Españolas y Letras Sentidas",
+  "description": "Cadencia nostálgica y relajada con espacio para versos emotivos y arreglos acústicos.",
+  "recommendedBpm": "90 BPM",
+  "recommendedKey": "A-Minor",
+  "vibeAttributes": [
+    "90 BPM",
+    "Milo J Vibe",
+    "Guitarra Española",
+    "Nostalgia"
+  ],
+  "popularGenres": [
+    "Bolero Trap",
+    "Soulful Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "128-bpm-bzrp-session-electro-trap",
+  "name": "128 BPM BZRP Session Electro Trap",
+  "category": "bpm",
+  "badge": "128 BPM BZRP Session",
+  "headline": "128 BPM Electro-Trap: Transiciones Explosivas y Baterías de Alta Energía",
+  "description": "La velocidad perfecta para drops electrónicos y barras contundentes de Session.",
+  "recommendedBpm": "128 BPM",
+  "recommendedKey": "G-Minor",
+  "vibeAttributes": [
+    "128 BPM",
+    "BZRP Energy",
+    "Drop Electrónico"
+  ],
+  "popularGenres": [
+    "Electro Trap",
+    "EDM Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "c-minor-trap-argentino-beats",
+  "name": "C-Minor Trap Argentino Beats",
+  "category": "key",
+  "badge": "C-Minor Trap",
+  "headline": "Beats de Trap Argentino en C-Minor: Bajos 808 Profundos y Melodías Clásicas",
+  "description": "La tonalidad por excelencia del trap de Buenos Aires. Graves contundentes y atmósfera oscura.",
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C-Minor",
+  "vibeAttributes": [
+    "C-Minor",
+    "Bajo 808",
+    "Oscuridad",
+    "Clásico Trap"
+  ],
+  "popularGenres": [
+    "Trap Argentino",
+    "Modo Diablo"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "f-minor-duki-modo-diablo",
+  "name": "F-Minor Duki Modo Diablo",
+  "category": "key",
+  "badge": "F-Minor Modo Diablo",
+  "headline": "Beats en F-Minor Estilo Duki: Guitarras Pesadas y Tensión de Estadio",
+  "description": "Tensión dramática y potencia para himnos que llenan River Plate y estadios internacionales.",
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "F-Minor",
+  "vibeAttributes": [
+    "F-Minor",
+    "Duki Style",
+    "Tensión Dramática"
+  ],
+  "popularGenres": [
+    "Rock Trap",
+    "Trap Argentino"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "a-minor-milo-j-melancholic-trap",
+  "name": "A-Minor Milo J Melancholic Trap",
+  "category": "key",
+  "badge": "A-Minor Melancólico",
+  "headline": "Beats en A-Minor: Guitarras Españolas y Melancolía Urbana",
+  "description": "Tono abierto y natural para arpegios de guitarra acústica y voces profundas cargadas de sentimiento.",
+  "recommendedBpm": "88-125 BPM",
+  "recommendedKey": "A-Minor",
+  "vibeAttributes": [
+    "A-Minor",
+    "Guitarras",
+    "Melancolía"
+  ],
+  "popularGenres": [
+    "Bolero Trap",
+    "Soul Trap"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "d-minor-rkt-cumbia-420-bass",
+  "name": "D-Minor RKT Cumbia 420 Bass",
+  "category": "key",
+  "badge": "D-Minor RKT",
+  "headline": "Beats en D-Minor: Bajos Rebotantes de RKT y Cumbia Villera",
+  "description": "La tonalidad predilecta de las fiestas clandestinas y los boliches del Conurbano.",
+  "recommendedBpm": "95-100 BPM",
+  "recommendedKey": "D-Minor",
+  "vibeAttributes": [
+    "D-Minor",
+    "Bajo Rebotante",
+    "RKT"
+  ],
+  "popularGenres": [
+    "RKT",
+    "Cumbia 420"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "g-minor-bzrp-dark-session",
+  "name": "G-Minor BZRP Dark Session",
+  "category": "key",
+  "badge": "G-Minor BZRP",
+  "headline": "Beats en G-Minor: Sintetizadores Oscuros y Drops Electrónicos",
+  "description": "Tonalidad que brinda máxima claridad en los sintetizadores y una pegada limpia en los bombos.",
+  "recommendedBpm": "125-134 BPM",
+  "recommendedKey": "G-Minor",
+  "vibeAttributes": [
+    "G-Minor",
+    "Sintetizadores",
+    "Drop Limpio"
+  ],
+  "popularGenres": [
+    "Electro Trap",
+    "EDM Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "buenos-aires-caba-trap-argentino-beats",
+  "name": "Buenos Aires CABA Trap Argentino Beats",
+  "category": "scene",
+  "badge": "Buenos Aires CABA Trap Argentino",
+  "headline": "Buenos Aires CABA (Capital Federal) Trap Argentino Beats: Pistas WAV & Mercado Pago",
+  "description": "Bajos 808 demoledores, guitarras de rock-trap y calidad WAV 24-bit de estudio para artistas de Buenos Aires CABA.",
+  "targetArtists": [
+    "Artistas de Buenos Aires CABA",
+    "Trap Argentino Scene",
+    "Música Urbana"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Buenos Aires CABA",
+    "Trap Argentino",
+    "Mercado Pago",
+    "Aprobado SADAIC"
+  ],
+  "popularGenres": [
+    "Trap Argentino Beats",
+    "Trap Argentino",
+    "RKT"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "buenos-aires-caba-rkt-cumbia-420-instrumental",
+  "name": "Buenos Aires CABA RKT Cumbia 420 Instrumental",
+  "category": "scene",
+  "badge": "Buenos Aires CABA RKT Cumbia 420",
+  "headline": "Buenos Aires CABA (Capital Federal) RKT Cumbia 420 Instrumental: Pistas WAV & Mercado Pago",
+  "description": "Dembow sincopado a 98 BPM, silbidos característicos y bajos pesados para hacer vibrar las pistas de Buenos Aires CABA.",
+  "targetArtists": [
+    "Artistas de Buenos Aires CABA",
+    "Trap Argentino Scene",
+    "Música Urbana"
+  ],
+  "recommendedBpm": "95-100 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Buenos Aires CABA",
+    "RKT Cumbia 420",
+    "Mercado Pago",
+    "Aprobado SADAIC"
+  ],
+  "popularGenres": [
+    "RKT Cumbia 420 Instrumental",
+    "Trap Argentino",
+    "RKT"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "buenos-aires-caba-boombap-clasico-argentino",
+  "name": "Buenos Aires CABA Boom Bap Clásico Argentino",
+  "category": "scene",
+  "badge": "Buenos Aires CABA Boom Bap Clásico",
+  "headline": "Buenos Aires CABA (Capital Federal) Boom Bap Clásico Argentino: Pistas WAV & Mercado Pago",
+  "description": "Baterías pesadas de los 90, samples polvorientos y métricas puras inspiradas en las plazas de Buenos Aires CABA.",
+  "targetArtists": [
+    "Artistas de Buenos Aires CABA",
+    "Trap Argentino Scene",
+    "Música Urbana"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Buenos Aires CABA",
+    "Boom Bap Clásico",
+    "Mercado Pago",
+    "Aprobado SADAIC"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Argentino",
+    "Trap Argentino",
+    "RKT"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6"
+  ]
+},
+  {
+  "slug": "buenos-aires-caba-melodic-rnb-trap",
+  "name": "Buenos Aires CABA Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Buenos Aires CABA R&B Trap Latino",
+  "headline": "Buenos Aires CABA (Capital Federal) Melodic R&B Trap: Pistas WAV & Mercado Pago",
+  "description": "Guitarras acústicas suaves, acordes de piano cálidos y baterías de trap bailable para vocalistas de Buenos Aires CABA.",
+  "targetArtists": [
+    "Artistas de Buenos Aires CABA",
+    "Trap Argentino Scene",
+    "Música Urbana"
+  ],
+  "recommendedBpm": "115-125 BPM",
+  "recommendedKey": "E-Minor / B-Minor",
+  "vibeAttributes": [
+    "Buenos Aires CABA",
+    "R&B Trap Latino",
+    "Mercado Pago",
+    "Aprobado SADAIC"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "Trap Argentino",
+    "RKT"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "conurbano-oeste-trap-argentino-beats",
+  "name": "Conurbano Oeste Trap Argentino Beats",
+  "category": "scene",
+  "badge": "Conurbano Oeste Trap Argentino",
+  "headline": "Conurbano Oeste (Morón & Matanza) Trap Argentino Beats: Pistas WAV & Mercado Pago",
+  "description": "Bajos 808 demoledores, guitarras de rock-trap y calidad WAV 24-bit de estudio para artistas de Conurbano Oeste.",
+  "targetArtists": [
+    "Artistas de Conurbano Oeste",
+    "Trap Argentino Scene",
+    "Música Urbana"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Conurbano Oeste",
+    "Trap Argentino",
+    "Mercado Pago",
+    "Aprobado SADAIC"
+  ],
+  "popularGenres": [
+    "Trap Argentino Beats",
+    "Trap Argentino",
+    "RKT"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "conurbano-oeste-rkt-cumbia-420-instrumental",
+  "name": "Conurbano Oeste RKT Cumbia 420 Instrumental",
+  "category": "scene",
+  "badge": "Conurbano Oeste RKT Cumbia 420",
+  "headline": "Conurbano Oeste (Morón & Matanza) RKT Cumbia 420 Instrumental: Pistas WAV & Mercado Pago",
+  "description": "Dembow sincopado a 98 BPM, silbidos característicos y bajos pesados para hacer vibrar las pistas de Conurbano Oeste.",
+  "targetArtists": [
+    "Artistas de Conurbano Oeste",
+    "Trap Argentino Scene",
+    "Música Urbana"
+  ],
+  "recommendedBpm": "95-100 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Conurbano Oeste",
+    "RKT Cumbia 420",
+    "Mercado Pago",
+    "Aprobado SADAIC"
+  ],
+  "popularGenres": [
+    "RKT Cumbia 420 Instrumental",
+    "Trap Argentino",
+    "RKT"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "conurbano-oeste-boombap-clasico-argentino",
+  "name": "Conurbano Oeste Boom Bap Clásico Argentino",
+  "category": "scene",
+  "badge": "Conurbano Oeste Boom Bap Clásico",
+  "headline": "Conurbano Oeste (Morón & Matanza) Boom Bap Clásico Argentino: Pistas WAV & Mercado Pago",
+  "description": "Baterías pesadas de los 90, samples polvorientos y métricas puras inspiradas en las plazas de Conurbano Oeste.",
+  "targetArtists": [
+    "Artistas de Conurbano Oeste",
+    "Trap Argentino Scene",
+    "Música Urbana"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Conurbano Oeste",
+    "Boom Bap Clásico",
+    "Mercado Pago",
+    "Aprobado SADAIC"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Argentino",
+    "Trap Argentino",
+    "RKT"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6"
+  ]
+},
+  {
+  "slug": "conurbano-oeste-melodic-rnb-trap",
+  "name": "Conurbano Oeste Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Conurbano Oeste R&B Trap Latino",
+  "headline": "Conurbano Oeste (Morón & Matanza) Melodic R&B Trap: Pistas WAV & Mercado Pago",
+  "description": "Guitarras acústicas suaves, acordes de piano cálidos y baterías de trap bailable para vocalistas de Conurbano Oeste.",
+  "targetArtists": [
+    "Artistas de Conurbano Oeste",
+    "Trap Argentino Scene",
+    "Música Urbana"
+  ],
+  "recommendedBpm": "115-125 BPM",
+  "recommendedKey": "E-Minor / B-Minor",
+  "vibeAttributes": [
+    "Conurbano Oeste",
+    "R&B Trap Latino",
+    "Mercado Pago",
+    "Aprobado SADAIC"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "Trap Argentino",
+    "RKT"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "conurbano-sur-trap-argentino-beats",
+  "name": "Conurbano Sur Trap Argentino Beats",
+  "category": "scene",
+  "badge": "Conurbano Sur Trap Argentino",
+  "headline": "Conurbano Sur (Avellaneda & Lanús) Trap Argentino Beats: Pistas WAV & Mercado Pago",
+  "description": "Bajos 808 demoledores, guitarras de rock-trap y calidad WAV 24-bit de estudio para artistas de Conurbano Sur.",
+  "targetArtists": [
+    "Artistas de Conurbano Sur",
+    "Trap Argentino Scene",
+    "Música Urbana"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Conurbano Sur",
+    "Trap Argentino",
+    "Mercado Pago",
+    "Aprobado SADAIC"
+  ],
+  "popularGenres": [
+    "Trap Argentino Beats",
+    "Trap Argentino",
+    "RKT"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "conurbano-sur-rkt-cumbia-420-instrumental",
+  "name": "Conurbano Sur RKT Cumbia 420 Instrumental",
+  "category": "scene",
+  "badge": "Conurbano Sur RKT Cumbia 420",
+  "headline": "Conurbano Sur (Avellaneda & Lanús) RKT Cumbia 420 Instrumental: Pistas WAV & Mercado Pago",
+  "description": "Dembow sincopado a 98 BPM, silbidos característicos y bajos pesados para hacer vibrar las pistas de Conurbano Sur.",
+  "targetArtists": [
+    "Artistas de Conurbano Sur",
+    "Trap Argentino Scene",
+    "Música Urbana"
+  ],
+  "recommendedBpm": "95-100 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Conurbano Sur",
+    "RKT Cumbia 420",
+    "Mercado Pago",
+    "Aprobado SADAIC"
+  ],
+  "popularGenres": [
+    "RKT Cumbia 420 Instrumental",
+    "Trap Argentino",
+    "RKT"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "conurbano-sur-boombap-clasico-argentino",
+  "name": "Conurbano Sur Boom Bap Clásico Argentino",
+  "category": "scene",
+  "badge": "Conurbano Sur Boom Bap Clásico",
+  "headline": "Conurbano Sur (Avellaneda & Lanús) Boom Bap Clásico Argentino: Pistas WAV & Mercado Pago",
+  "description": "Baterías pesadas de los 90, samples polvorientos y métricas puras inspiradas en las plazas de Conurbano Sur.",
+  "targetArtists": [
+    "Artistas de Conurbano Sur",
+    "Trap Argentino Scene",
+    "Música Urbana"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Conurbano Sur",
+    "Boom Bap Clásico",
+    "Mercado Pago",
+    "Aprobado SADAIC"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Argentino",
+    "Trap Argentino",
+    "RKT"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6"
+  ]
+},
+  {
+  "slug": "conurbano-sur-melodic-rnb-trap",
+  "name": "Conurbano Sur Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Conurbano Sur R&B Trap Latino",
+  "headline": "Conurbano Sur (Avellaneda & Lanús) Melodic R&B Trap: Pistas WAV & Mercado Pago",
+  "description": "Guitarras acústicas suaves, acordes de piano cálidos y baterías de trap bailable para vocalistas de Conurbano Sur.",
+  "targetArtists": [
+    "Artistas de Conurbano Sur",
+    "Trap Argentino Scene",
+    "Música Urbana"
+  ],
+  "recommendedBpm": "115-125 BPM",
+  "recommendedKey": "E-Minor / B-Minor",
+  "vibeAttributes": [
+    "Conurbano Sur",
+    "R&B Trap Latino",
+    "Mercado Pago",
+    "Aprobado SADAIC"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "Trap Argentino",
+    "RKT"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "cordoba-trap-argentino-beats",
+  "name": "Córdoba Capital Trap Argentino Beats",
+  "category": "scene",
+  "badge": "Córdoba Capital Trap Argentino",
+  "headline": "Córdoba Capital (Sierras) Trap Argentino Beats: Pistas WAV & Mercado Pago",
+  "description": "Bajos 808 demoledores, guitarras de rock-trap y calidad WAV 24-bit de estudio para artistas de Córdoba Capital.",
+  "targetArtists": [
+    "Artistas de Córdoba Capital",
+    "Trap Argentino Scene",
+    "Música Urbana"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Córdoba Capital",
+    "Trap Argentino",
+    "Mercado Pago",
+    "Aprobado SADAIC"
+  ],
+  "popularGenres": [
+    "Trap Argentino Beats",
+    "Trap Argentino",
+    "RKT"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "cordoba-rkt-cumbia-420-instrumental",
+  "name": "Córdoba Capital RKT Cumbia 420 Instrumental",
+  "category": "scene",
+  "badge": "Córdoba Capital RKT Cumbia 420",
+  "headline": "Córdoba Capital (Sierras) RKT Cumbia 420 Instrumental: Pistas WAV & Mercado Pago",
+  "description": "Dembow sincopado a 98 BPM, silbidos característicos y bajos pesados para hacer vibrar las pistas de Córdoba Capital.",
+  "targetArtists": [
+    "Artistas de Córdoba Capital",
+    "Trap Argentino Scene",
+    "Música Urbana"
+  ],
+  "recommendedBpm": "95-100 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Córdoba Capital",
+    "RKT Cumbia 420",
+    "Mercado Pago",
+    "Aprobado SADAIC"
+  ],
+  "popularGenres": [
+    "RKT Cumbia 420 Instrumental",
+    "Trap Argentino",
+    "RKT"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "cordoba-boombap-clasico-argentino",
+  "name": "Córdoba Capital Boom Bap Clásico Argentino",
+  "category": "scene",
+  "badge": "Córdoba Capital Boom Bap Clásico",
+  "headline": "Córdoba Capital (Sierras) Boom Bap Clásico Argentino: Pistas WAV & Mercado Pago",
+  "description": "Baterías pesadas de los 90, samples polvorientos y métricas puras inspiradas en las plazas de Córdoba Capital.",
+  "targetArtists": [
+    "Artistas de Córdoba Capital",
+    "Trap Argentino Scene",
+    "Música Urbana"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Córdoba Capital",
+    "Boom Bap Clásico",
+    "Mercado Pago",
+    "Aprobado SADAIC"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Argentino",
+    "Trap Argentino",
+    "RKT"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6"
+  ]
+},
+  {
+  "slug": "cordoba-melodic-rnb-trap",
+  "name": "Córdoba Capital Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Córdoba Capital R&B Trap Latino",
+  "headline": "Córdoba Capital (Sierras) Melodic R&B Trap: Pistas WAV & Mercado Pago",
+  "description": "Guitarras acústicas suaves, acordes de piano cálidos y baterías de trap bailable para vocalistas de Córdoba Capital.",
+  "targetArtists": [
+    "Artistas de Córdoba Capital",
+    "Trap Argentino Scene",
+    "Música Urbana"
+  ],
+  "recommendedBpm": "115-125 BPM",
+  "recommendedKey": "E-Minor / B-Minor",
+  "vibeAttributes": [
+    "Córdoba Capital",
+    "R&B Trap Latino",
+    "Mercado Pago",
+    "Aprobado SADAIC"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "Trap Argentino",
+    "RKT"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "rosario-santa-fe-trap-argentino-beats",
+  "name": "Rosario Trap Argentino Beats",
+  "category": "scene",
+  "badge": "Rosario Trap Argentino",
+  "headline": "Rosario (Santa Fe) Trap Argentino Beats: Pistas WAV & Mercado Pago",
+  "description": "Bajos 808 demoledores, guitarras de rock-trap y calidad WAV 24-bit de estudio para artistas de Rosario.",
+  "targetArtists": [
+    "Artistas de Rosario",
+    "Trap Argentino Scene",
+    "Música Urbana"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Rosario",
+    "Trap Argentino",
+    "Mercado Pago",
+    "Aprobado SADAIC"
+  ],
+  "popularGenres": [
+    "Trap Argentino Beats",
+    "Trap Argentino",
+    "RKT"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "rosario-santa-fe-rkt-cumbia-420-instrumental",
+  "name": "Rosario RKT Cumbia 420 Instrumental",
+  "category": "scene",
+  "badge": "Rosario RKT Cumbia 420",
+  "headline": "Rosario (Santa Fe) RKT Cumbia 420 Instrumental: Pistas WAV & Mercado Pago",
+  "description": "Dembow sincopado a 98 BPM, silbidos característicos y bajos pesados para hacer vibrar las pistas de Rosario.",
+  "targetArtists": [
+    "Artistas de Rosario",
+    "Trap Argentino Scene",
+    "Música Urbana"
+  ],
+  "recommendedBpm": "95-100 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Rosario",
+    "RKT Cumbia 420",
+    "Mercado Pago",
+    "Aprobado SADAIC"
+  ],
+  "popularGenres": [
+    "RKT Cumbia 420 Instrumental",
+    "Trap Argentino",
+    "RKT"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "rosario-santa-fe-boombap-clasico-argentino",
+  "name": "Rosario Boom Bap Clásico Argentino",
+  "category": "scene",
+  "badge": "Rosario Boom Bap Clásico",
+  "headline": "Rosario (Santa Fe) Boom Bap Clásico Argentino: Pistas WAV & Mercado Pago",
+  "description": "Baterías pesadas de los 90, samples polvorientos y métricas puras inspiradas en las plazas de Rosario.",
+  "targetArtists": [
+    "Artistas de Rosario",
+    "Trap Argentino Scene",
+    "Música Urbana"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Rosario",
+    "Boom Bap Clásico",
+    "Mercado Pago",
+    "Aprobado SADAIC"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Argentino",
+    "Trap Argentino",
+    "RKT"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6"
+  ]
+},
+  {
+  "slug": "rosario-santa-fe-melodic-rnb-trap",
+  "name": "Rosario Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Rosario R&B Trap Latino",
+  "headline": "Rosario (Santa Fe) Melodic R&B Trap: Pistas WAV & Mercado Pago",
+  "description": "Guitarras acústicas suaves, acordes de piano cálidos y baterías de trap bailable para vocalistas de Rosario.",
+  "targetArtists": [
+    "Artistas de Rosario",
+    "Trap Argentino Scene",
+    "Música Urbana"
+  ],
+  "recommendedBpm": "115-125 BPM",
+  "recommendedKey": "E-Minor / B-Minor",
+  "vibeAttributes": [
+    "Rosario",
+    "R&B Trap Latino",
+    "Mercado Pago",
+    "Aprobado SADAIC"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "Trap Argentino",
+    "RKT"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "mendoza-trap-argentino-beats",
+  "name": "Mendoza Trap Argentino Beats",
+  "category": "scene",
+  "badge": "Mendoza Trap Argentino",
+  "headline": "Mendoza (Cuyo) Trap Argentino Beats: Pistas WAV & Mercado Pago",
+  "description": "Bajos 808 demoledores, guitarras de rock-trap y calidad WAV 24-bit de estudio para artistas de Mendoza.",
+  "targetArtists": [
+    "Artistas de Mendoza",
+    "Trap Argentino Scene",
+    "Música Urbana"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Mendoza",
+    "Trap Argentino",
+    "Mercado Pago",
+    "Aprobado SADAIC"
+  ],
+  "popularGenres": [
+    "Trap Argentino Beats",
+    "Trap Argentino",
+    "RKT"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "mendoza-rkt-cumbia-420-instrumental",
+  "name": "Mendoza RKT Cumbia 420 Instrumental",
+  "category": "scene",
+  "badge": "Mendoza RKT Cumbia 420",
+  "headline": "Mendoza (Cuyo) RKT Cumbia 420 Instrumental: Pistas WAV & Mercado Pago",
+  "description": "Dembow sincopado a 98 BPM, silbidos característicos y bajos pesados para hacer vibrar las pistas de Mendoza.",
+  "targetArtists": [
+    "Artistas de Mendoza",
+    "Trap Argentino Scene",
+    "Música Urbana"
+  ],
+  "recommendedBpm": "95-100 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Mendoza",
+    "RKT Cumbia 420",
+    "Mercado Pago",
+    "Aprobado SADAIC"
+  ],
+  "popularGenres": [
+    "RKT Cumbia 420 Instrumental",
+    "Trap Argentino",
+    "RKT"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "mendoza-boombap-clasico-argentino",
+  "name": "Mendoza Boom Bap Clásico Argentino",
+  "category": "scene",
+  "badge": "Mendoza Boom Bap Clásico",
+  "headline": "Mendoza (Cuyo) Boom Bap Clásico Argentino: Pistas WAV & Mercado Pago",
+  "description": "Baterías pesadas de los 90, samples polvorientos y métricas puras inspiradas en las plazas de Mendoza.",
+  "targetArtists": [
+    "Artistas de Mendoza",
+    "Trap Argentino Scene",
+    "Música Urbana"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Mendoza",
+    "Boom Bap Clásico",
+    "Mercado Pago",
+    "Aprobado SADAIC"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Argentino",
+    "Trap Argentino",
+    "RKT"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6"
+  ]
+},
+  {
+  "slug": "mendoza-melodic-rnb-trap",
+  "name": "Mendoza Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Mendoza R&B Trap Latino",
+  "headline": "Mendoza (Cuyo) Melodic R&B Trap: Pistas WAV & Mercado Pago",
+  "description": "Guitarras acústicas suaves, acordes de piano cálidos y baterías de trap bailable para vocalistas de Mendoza.",
+  "targetArtists": [
+    "Artistas de Mendoza",
+    "Trap Argentino Scene",
+    "Música Urbana"
+  ],
+  "recommendedBpm": "115-125 BPM",
+  "recommendedKey": "E-Minor / B-Minor",
+  "vibeAttributes": [
+    "Mendoza",
+    "R&B Trap Latino",
+    "Mercado Pago",
+    "Aprobado SADAIC"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "Trap Argentino",
+    "RKT"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
 ];

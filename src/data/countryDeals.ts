@@ -20085,4 +20085,488 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
     }
   ]
 },
+  "ar": {
+  "name": "Argentina – Trap Argentino, RKT Cumbia 420 & Boom Bap (Mercado Pago, CVU & SADAIC)",
+  "flag": "🇦🇷",
+  "currency": "ARS ($)",
+  "currencyCode": "ARS",
+  "gateways": "Mercado Pago, Transferencia CVU/CBU, Tarjetas de Débito/Crédito, Apple Pay, PayPal, Stripe",
+  "pro": "SADAIC",
+  "proFullName": "Sociedad Argentina de Autores y Compositores (SADAIC)",
+  "proGuide": "100% legal para registro ante SADAIC, AADI y CAPIF en Argentina. Todas las pistas son composiciones originales producidas por Onzieb sin samples no autorizados. Conservas el 100% de tus regalías de autor e intérprete en Spotify, Apple Music y YouTube.",
+  "headline": "Comprar Beats en Argentina: Mercado Pago, Licencias WAV 24-bit y Stems",
+  "description": "Instrumentales profesionales sin voz de fondo (untagged) en calidad WAV estudio y pistas separadas (Stems). Especialmente creadas para Trap Argentino, RKT Cumbia 420 y Boom Bap clásico. Descarga inmediata con contrato legal en PDF.",
+  "popularGenres": [
+    "Trap Argentino",
+    "RKT Cumbia 420",
+    "Boom Bap Clásico",
+    "Melodic R&B Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Buenos Aires CABA Hub",
+      "slug": "ar/buenos-aires-caba",
+      "description": "Capital mundial del trap latino y El Quinto Escalón."
+    },
+    {
+      "name": "Conurbano Oeste Hub",
+      "slug": "ar/conurbano-oeste",
+      "description": "Morón, La Matanza: cuna de Milo J, Bizarrap y el sonido auténtico."
+    },
+    {
+      "name": "Conurbano Sur Hub",
+      "slug": "ar/conurbano-sur",
+      "description": "Avellaneda, Lanús: cuna de Tiago PZK y el RKT callejero."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Argentina – Trap Argentino, RKT Cumbia 420 & Boom Bap (Mercado Pago, CVU & SADAIC)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como artista e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SADAIC, AADI y CAPIF?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu canción ante SADAIC sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Argentina?",
+      "answer": "En Pesos Argentinos (ARS $), puedes pagar de forma instantánea a través de Mercado Pago (dinero en cuenta o tarjetas), transferencia bancaria directa (CBU / CVU), tarjetas de débito/crédito, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "ar/buenos-aires-caba": {
+  "name": "Argentina – Ciudad de Buenos Aires (CABA & El Quinto Escalón)",
+  "flag": "🇦🇷",
+  "currency": "ARS ($)",
+  "currencyCode": "ARS",
+  "gateways": "Mercado Pago, Transferencia CVU/CBU, Tarjetas, Apple Pay",
+  "pro": "SADAIC",
+  "proFullName": "SADAIC Argentina",
+  "proGuide": "100% compatible con SADAIC con descarga inmediata de contrato PDF.",
+  "headline": "Beats en Buenos Aires CABA: Modo Diablo Trap, YSY A Terremoto & BZRP Energy",
+  "description": "El epicentro del movimiento: bajos 808 demoledores, sintetizadores agresivos y baterías con pegada para llenar estadios al estilo Duki, YSY A y Trueno.",
+  "popularGenres": [
+    "Trap Porteño",
+    "Modo Diablo Style",
+    "Boom Bap de La Boca",
+    "Electronic Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Duki Modo Diablo Vibe",
+      "slug": "../../vibe/duki-modo-diablo-trap-argentino",
+      "description": "Bajos 808 pesados, guitarras de rock-trap y energía de estadio."
+    },
+    {
+      "name": "YSY A Terremoto Vibe",
+      "slug": "../../vibe/ysy-a-terremoto-electronic-trap",
+      "description": "Sintetizadores electrónicos explosivos y trap acelerado."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Argentina – Ciudad de Buenos Aires (CABA & El Quinto Escalón)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como artista e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SADAIC, AADI y CAPIF?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu canción ante SADAIC sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Argentina?",
+      "answer": "En Pesos Argentinos (ARS $), puedes pagar de forma instantánea a través de Mercado Pago (dinero en cuenta o tarjetas), transferencia bancaria directa (CBU / CVU), tarjetas de débito/crédito, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "ar/conurbano-oeste": {
+  "name": "Argentina – Conurbano Oeste (Morón, La Matanza & BZRP Roots)",
+  "flag": "🇦🇷",
+  "currency": "ARS ($)",
+  "currencyCode": "ARS",
+  "gateways": "Mercado Pago, Transferencia CVU/CBU, Tarjetas, Apple Pay",
+  "pro": "SADAIC",
+  "proFullName": "SADAIC Argentina",
+  "proGuide": "Composiciones originales libres de reclamos de copyright.",
+  "headline": "Beats en el Oeste: Milo J Bolero-Trap, BZRP Sessions & RKT Callejero",
+  "description": "La cuna del talento internacional: guitarras acústicas nostálgicas, rimas sentidas y drops electrónicos demoledores nacidos en el oeste del Gran Buenos Aires.",
+  "popularGenres": [
+    "West Sound",
+    "Milo J Style",
+    "BZRP Sessions",
+    "RKT Oeste"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Milo J Vibe",
+      "slug": "../../vibe/milo-j-moron-melancholic-bolero-trap",
+      "description": "Guitarras acústicas nostálgicas y boom bap melancólico."
+    },
+    {
+      "name": "Bizarrap Sessions",
+      "slug": "../../vibe/bizarrap-bzrp-music-sessions-electro-trap",
+      "description": "Kicks con sidechain, sintes oscuros y energía electrónica."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Argentina – Conurbano Oeste (Morón, La Matanza & BZRP Roots)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como artista e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SADAIC, AADI y CAPIF?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu canción ante SADAIC sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Argentina?",
+      "answer": "En Pesos Argentinos (ARS $), puedes pagar de forma instantánea a través de Mercado Pago (dinero en cuenta o tarjetas), transferencia bancaria directa (CBU / CVU), tarjetas de débito/crédito, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "ar/conurbano-sur": {
+  "name": "Argentina – Conurbano Sur (Avellaneda, Lanús & Tiago PZK Roots)",
+  "flag": "🇦🇷",
+  "currency": "ARS ($)",
+  "currencyCode": "ARS",
+  "gateways": "Mercado Pago, Transferencia CVU/CBU, Tarjetas, Apple Pay",
+  "pro": "SADAIC",
+  "proFullName": "SADAIC Argentina",
+  "proGuide": "100% listo para distribución comercial en plataformas digitales.",
+  "headline": "Beats en el Sur: Tiago PZK R&B Trap, RKT 420 & Flow Callejero",
+  "description": "El flow melódico del sur: melodías vocales pegajosas, acordes modernos de R&B y bases bailables de RKT y Cumbia 420 para romper la noche.",
+  "popularGenres": [
+    "Sur Melodic Trap",
+    "Tiago PZK Vibe",
+    "RKT 420",
+    "Cumbia Callejera"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Tiago PZK Vibe",
+      "slug": "../../vibe/tiago-pzk-gotti-melodic-rnb-trap",
+      "description": "R&B trap contemporáneo con coros melódicos."
+    },
+    {
+      "name": "L-Gante RKT Vibe",
+      "slug": "../../vibe/l-gante-cumbia-420-rkt-banger",
+      "description": "Dembow sincopado de RKT y cumbia 420."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Argentina – Conurbano Sur (Avellaneda, Lanús & Tiago PZK Roots)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como artista e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SADAIC, AADI y CAPIF?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu canción ante SADAIC sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Argentina?",
+      "answer": "En Pesos Argentinos (ARS $), puedes pagar de forma instantánea a través de Mercado Pago (dinero en cuenta o tarjetas), transferencia bancaria directa (CBU / CVU), tarjetas de débito/crédito, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "ar/conurbano-norte": {
+  "name": "Argentina – Conurbano Norte (San Isidro, Vicente López & Tigre)",
+  "flag": "🇦🇷",
+  "currency": "ARS ($)",
+  "currencyCode": "ARS",
+  "gateways": "Mercado Pago, Transferencia CVU/CBU, Tarjetas, Apple Pay",
+  "pro": "SADAIC",
+  "proFullName": "SADAIC Argentina",
+  "proGuide": "100% legal ante SADAIC con contrato descargable en PDF.",
+  "headline": "Beats en Zona Norte: Trap Pulido, R&B Soul & Producción de Estudio",
+  "description": "Sonido limpio y vanguardista: sintetizadores espaciales, cajas cortantes y melodías refinadas para proyectos con proyección internacional.",
+  "popularGenres": [
+    "Trap Norte",
+    "R&B Alternativo",
+    "Studio Quality"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Argentina – Conurbano Norte (San Isidro, Vicente López & Tigre)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como artista e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SADAIC, AADI y CAPIF?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu canción ante SADAIC sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Argentina?",
+      "answer": "En Pesos Argentinos (ARS $), puedes pagar de forma instantánea a través de Mercado Pago (dinero en cuenta o tarjetas), transferencia bancaria directa (CBU / CVU), tarjetas de débito/crédito, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "ar/cordoba": {
+  "name": "Argentina – Córdoba Capital & Sierras (Movimiento Creativo)",
+  "flag": "🇦🇷",
+  "currency": "ARS ($)",
+  "currencyCode": "ARS",
+  "gateways": "Mercado Pago, Transferencia CVU/CBU, Tarjetas, Apple Pay",
+  "pro": "SADAIC",
+  "proFullName": "SADAIC Argentina",
+  "proGuide": "100% libre de samples protegidos para monetizar en Spotify.",
+  "headline": "Beats en Córdoba: Trap Energético, Cuarteto-Trap Fusión & Freestyle",
+  "description": "La docta cultural: rimas rápidas de freestyle, bajos con mucho groove y fusiones innovadoras para la vibrante juventud cordobesa.",
+  "popularGenres": [
+    "Trap Cordobés",
+    "Freestyle Beats",
+    "Groove Urbano"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Argentina – Córdoba Capital & Sierras (Movimiento Creativo)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como artista e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SADAIC, AADI y CAPIF?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu canción ante SADAIC sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Argentina?",
+      "answer": "En Pesos Argentinos (ARS $), puedes pagar de forma instantánea a través de Mercado Pago (dinero en cuenta o tarjetas), transferencia bancaria directa (CBU / CVU), tarjetas de débito/crédito, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "ar/rosario-santa-fe": {
+  "name": "Argentina – Rosario & Santa Fe (Cuna del Underground & Nicki Nicole)",
+  "flag": "🇦🇷",
+  "currency": "ARS ($)",
+  "currencyCode": "ARS",
+  "gateways": "Mercado Pago, Transferencia CVU/CBU, Tarjetas, Apple Pay",
+  "pro": "SADAIC",
+  "proFullName": "SADAIC Argentina",
+  "proGuide": "Garantía de autoría 100% original por Onzieb.",
+  "headline": "Beats en Rosario: Trap con Alma, R&B Soul Estilo Nicki & Rap Callejero",
+  "description": "La fuerza del litoral: acordes de jazz cálidos, baterías secas de boom bap y trap sentimental para voces sentidas y rimas crudas.",
+  "popularGenres": [
+    "Rap Rosarino",
+    "Nicki Nicole Style",
+    "Soul Trap",
+    "Litoral Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Argentina – Rosario & Santa Fe (Cuna del Underground & Nicki Nicole)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como artista e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SADAIC, AADI y CAPIF?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu canción ante SADAIC sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Argentina?",
+      "answer": "En Pesos Argentinos (ARS $), puedes pagar de forma instantánea a través de Mercado Pago (dinero en cuenta o tarjetas), transferencia bancaria directa (CBU / CVU), tarjetas de débito/crédito, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "ar/mendoza": {
+  "name": "Argentina – Mendoza & Región de Cuyo (Indie Trap & Rap de Cordillera)",
+  "flag": "🇦🇷",
+  "currency": "ARS ($)",
+  "currencyCode": "ARS",
+  "gateways": "Mercado Pago, Transferencia CVU/CBU, Tarjetas, Apple Pay",
+  "pro": "SADAIC",
+  "proFullName": "SADAIC Argentina",
+  "proGuide": "100% compatible con SADAIC.",
+  "headline": "Beats en Mendoza: Rap de Cordillera, Guitarras Indie & Trap Espacial",
+  "description": "El aire puro de los Andes: guitarras con delay, atmósferas espaciales y trap alternativo para el movimiento indie y urbano mendocino.",
+  "popularGenres": [
+    "Mendoza Trap",
+    "Indie Urbano",
+    "Cordillera Beats"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Argentina – Mendoza & Región de Cuyo (Indie Trap & Rap de Cordillera)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como artista e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SADAIC, AADI y CAPIF?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu canción ante SADAIC sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Argentina?",
+      "answer": "En Pesos Argentinos (ARS $), puedes pagar de forma instantánea a través de Mercado Pago (dinero en cuenta o tarjetas), transferencia bancaria directa (CBU / CVU), tarjetas de débito/crédito, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "ar/mar-del-plata": {
+  "name": "Argentina – Mar del Plata & Costa Atlántica (Surf Rap & Verano Trap)",
+  "flag": "🇦🇷",
+  "currency": "ARS ($)",
+  "currencyCode": "ARS",
+  "gateways": "Mercado Pago, Transferencia CVU/CBU, Tarjetas, Apple Pay",
+  "pro": "SADAIC",
+  "proFullName": "SADAIC Argentina",
+  "proGuide": "Derechos comerciales completos para lanzamientos mundiales.",
+  "headline": "Beats en Mar del Plata: Sonido Costero, Chillhop Marino & Trap de Playa",
+  "description": "La brisa del Atlántico: percusiones frescas, baterías relajadas de boom bap y bajos envolventes para canciones veraniegas.",
+  "popularGenres": [
+    "Surf Rap",
+    "Chillhop Costero",
+    "Verano Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Argentina – Mar del Plata & Costa Atlántica (Surf Rap & Verano Trap)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como artista e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SADAIC, AADI y CAPIF?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu canción ante SADAIC sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Argentina?",
+      "answer": "En Pesos Argentinos (ARS $), puedes pagar de forma instantánea a través de Mercado Pago (dinero en cuenta o tarjetas), transferencia bancaria directa (CBU / CVU), tarjetas de débito/crédito, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "ar/la-plata": {
+  "name": "Argentina – La Plata & Ciudad Universitaria (Rock-Trap & Poesía)",
+  "flag": "🇦🇷",
+  "currency": "ARS ($)",
+  "currencyCode": "ARS",
+  "gateways": "Mercado Pago, Transferencia CVU/CBU, Tarjetas, Apple Pay",
+  "pro": "SADAIC",
+  "proFullName": "SADAIC Argentina",
+  "proGuide": "100% original con entrega de stems.",
+  "headline": "Beats en La Plata: Rock-Trap Alternativo, Pianos Dramáticos & Letras Profundas",
+  "description": "La tradición universitaria platense: fusiones de guitarras distorsionadas, pianos dramáticos y baterías con fuerza para letras reflexivas.",
+  "popularGenres": [
+    "La Plata Rap",
+    "Rock-Trap",
+    "Poesía Urbana"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Argentina – La Plata & Ciudad Universitaria (Rock-Trap & Poesía)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como artista e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SADAIC, AADI y CAPIF?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu canción ante SADAIC sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Argentina?",
+      "answer": "En Pesos Argentinos (ARS $), puedes pagar de forma instantánea a través de Mercado Pago (dinero en cuenta o tarjetas), transferencia bancaria directa (CBU / CVU), tarjetas de débito/crédito, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
 };
