@@ -1,6 +1,6 @@
 // src/data/stagedClusters.ts
-// Programmatic SEO Staged Batch Cluster Ledger - US, DACH & UK Complete Footprint (Wave 2 UK)
-// Deployed automatically by scripts/deploy_wave2_uk_pseo.py
+// Programmatic SEO Staged Batch Cluster Ledger - US, DACH, UK & France Complete Footprint
+// Deployed automatically by scripts/deploy_france_pseo.py
 
 export interface StagedClusterItem {
   type: 'vibe' | 'genre' | 'mood' | 'bpm' | 'key' | 'scene' | 'instrument' | 'blog';
@@ -3118,5 +3118,420 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "type": "scene",
     "slug": "brighton-grime-instrumentals",
     "batchId": 7
+  },
+  {
+    "type": "scene",
+    "slug": "paris-drill-fr-beats",
+    "batchId": 8
+  },
+  {
+    "type": "scene",
+    "slug": "marseille-afro-trap-beats",
+    "batchId": 8
+  },
+  {
+    "type": "scene",
+    "slug": "lyon-dark-drill-beats",
+    "batchId": 8
+  },
+  {
+    "type": "scene",
+    "slug": "lille-nord-drill",
+    "batchId": 8
+  },
+  {
+    "type": "scene",
+    "slug": "toulouse-cyber-trap",
+    "batchId": 8
+  },
+  {
+    "type": "scene",
+    "slug": "bordeaux-chill-trap",
+    "batchId": 8
+  },
+  {
+    "type": "scene",
+    "slug": "bruxelles-rap-francophone",
+    "batchId": 8
+  },
+  {
+    "type": "scene",
+    "slug": "montreal-rap-quebecois",
+    "batchId": 8
+  },
+  {
+    "type": "scene",
+    "slug": "sevran-93-hardcore-trap",
+    "batchId": 8
+  },
+  {
+    "type": "scene",
+    "slug": "evry-91-melodic-drill",
+    "batchId": 8
+  },
+  {
+    "type": "scene",
+    "slug": "nice-mediterranee-rap",
+    "batchId": 8
+  },
+  {
+    "type": "scene",
+    "slug": "strasbourg-grand-est-trap",
+    "batchId": 8
+  },
+  {
+    "type": "scene",
+    "slug": "nantes-rap-melodique",
+    "batchId": 8
+  },
+  {
+    "type": "scene",
+    "slug": "montpellier-afro-bounces",
+    "batchId": 8
+  },
+  {
+    "type": "vibe",
+    "slug": "gazo-drill-fr-type-beats",
+    "batchId": 8
+  },
+  {
+    "type": "vibe",
+    "slug": "freeze-corleone-667-drill-beats",
+    "batchId": 8
+  },
+  {
+    "type": "vibe",
+    "slug": "ninho-destin-melodic-piano-trap",
+    "batchId": 8
+  },
+  {
+    "type": "vibe",
+    "slug": "tiakola-melodic-afro-rnb-beats",
+    "batchId": 8
+  },
+  {
+    "type": "vibe",
+    "slug": "pnl-cloud-rap-peace-loves",
+    "batchId": 8
+  },
+  {
+    "type": "vibe",
+    "slug": "jul-marseille-afro-bounce-beats",
+    "batchId": 8
+  },
+  {
+    "type": "vibe",
+    "slug": "sch-autobahn-cinematic-trap",
+    "batchId": 8
+  },
+  {
+    "type": "vibe",
+    "slug": "damso-dark-introspective-rnb-trap",
+    "batchId": 8
+  },
+  {
+    "type": "vibe",
+    "slug": "hamza-saucegod-smooth-trap",
+    "batchId": 8
+  },
+  {
+    "type": "vibe",
+    "slug": "laylow-digital-cyber-trap-beats",
+    "batchId": 8
+  },
+  {
+    "type": "vibe",
+    "slug": "soolking-algerian-rai-afro-trap",
+    "batchId": 8
+  },
+  {
+    "type": "vibe",
+    "slug": "kaaris-sevran-hardcore-trap",
+    "batchId": 8
+  },
+  {
+    "type": "vibe",
+    "slug": "ashe-22-lyon-dark-drill",
+    "batchId": 8
+  },
+  {
+    "type": "vibe",
+    "slug": "plk-paris-melodic-banger",
+    "batchId": 8
+  },
+  {
+    "type": "vibe",
+    "slug": "booba-classic-dark-trap",
+    "batchId": 8
+  },
+  {
+    "type": "vibe",
+    "slug": "werenoi-drill-sombre-paris",
+    "batchId": 8
+  },
+  {
+    "type": "vibe",
+    "slug": "dinos-nocturne-soul-trap",
+    "batchId": 8
+  },
+  {
+    "type": "vibe",
+    "slug": "ziak-drill-masque-agressif",
+    "batchId": 8
+  },
+  {
+    "type": "vibe",
+    "slug": "kerchak-jersey-drill-fr",
+    "batchId": 8
+  },
+  {
+    "type": "vibe",
+    "slug": "gradur-sheguey-trap-banger",
+    "batchId": 8
+  },
+  {
+    "type": "vibe",
+    "slug": "maes-sevran-melodic-piano",
+    "batchId": 8
+  },
+  {
+    "type": "genre",
+    "slug": "acheter-des-prods-de-rap-en-ligne",
+    "batchId": 8
+  },
+  {
+    "type": "genre",
+    "slug": "instru-rap-francais-a-vendre",
+    "batchId": 8
+  },
+  {
+    "type": "genre",
+    "slug": "instru-drill-fr-libre-de-droit",
+    "batchId": 8
+  },
+  {
+    "type": "genre",
+    "slug": "beats-declaration-sacem-garantie",
+    "batchId": 8
+  },
+  {
+    "type": "genre",
+    "slug": "instru-melodique-piano-rap-francais",
+    "batchId": 8
+  },
+  {
+    "type": "genre",
+    "slug": "instru-afro-trap-marseille",
+    "batchId": 8
+  },
+  {
+    "type": "genre",
+    "slug": "achat-licence-beat-wav-stems",
+    "batchId": 8
+  },
+  {
+    "type": "genre",
+    "slug": "instru-type-beat-gratuit-commercial",
+    "batchId": 8
+  },
+  {
+    "type": "genre",
+    "slug": "instru-cloud-rap-pnl-style",
+    "batchId": 8
+  },
+  {
+    "type": "genre",
+    "slug": "prods-rap-avec-carte-bancaire",
+    "batchId": 8
+  },
+  {
+    "type": "genre",
+    "slug": "instru-jersey-drill-france",
+    "batchId": 8
+  },
+  {
+    "type": "genre",
+    "slug": "commercial-streaming-droits-sacem",
+    "batchId": 8
+  },
+  {
+    "type": "genre",
+    "slug": "beats-pour-spotify-apple-music-france",
+    "batchId": 8
+  },
+  {
+    "type": "genre",
+    "slug": "instru-rap-sombre-808-fr",
+    "batchId": 8
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-drill-fr-beats",
+    "batchId": 8
+  },
+  {
+    "type": "bpm",
+    "slug": "142-bpm-gazo-drill",
+    "batchId": 8
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-jul-marseille-bounce",
+    "batchId": 8
+  },
+  {
+    "type": "bpm",
+    "slug": "100-bpm-tiakola-afro-trap",
+    "batchId": 8
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-jersey-drill-fr",
+    "batchId": 8
+  },
+  {
+    "type": "key",
+    "slug": "d-minor-french-drill-beats",
+    "batchId": 8
+  },
+  {
+    "type": "key",
+    "slug": "c-minor-freeze-corleone-drill",
+    "batchId": 8
+  },
+  {
+    "type": "key",
+    "slug": "f-minor-ninho-piano-trap",
+    "batchId": 8
+  },
+  {
+    "type": "key",
+    "slug": "a-minor-pnl-cloud-rap",
+    "batchId": 8
+  },
+  {
+    "type": "key",
+    "slug": "g-minor-sch-cinematic-trap",
+    "batchId": 8
+  },
+  {
+    "type": "scene",
+    "slug": "paris-drill-fr-instru",
+    "batchId": 8
+  },
+  {
+    "type": "scene",
+    "slug": "paris-afro-trap-prod",
+    "batchId": 8
+  },
+  {
+    "type": "scene",
+    "slug": "paris-melodique-piano",
+    "batchId": 8
+  },
+  {
+    "type": "scene",
+    "slug": "paris-cloud-rap-prod",
+    "batchId": 8
+  },
+  {
+    "type": "scene",
+    "slug": "marseille-drill-fr-instru",
+    "batchId": 8
+  },
+  {
+    "type": "scene",
+    "slug": "marseille-afro-trap-prod",
+    "batchId": 8
+  },
+  {
+    "type": "scene",
+    "slug": "marseille-melodique-piano",
+    "batchId": 8
+  },
+  {
+    "type": "scene",
+    "slug": "marseille-cloud-rap-prod",
+    "batchId": 8
+  },
+  {
+    "type": "scene",
+    "slug": "lyon-drill-fr-instru",
+    "batchId": 8
+  },
+  {
+    "type": "scene",
+    "slug": "lyon-afro-trap-prod",
+    "batchId": 8
+  },
+  {
+    "type": "scene",
+    "slug": "lyon-melodique-piano",
+    "batchId": 8
+  },
+  {
+    "type": "scene",
+    "slug": "lyon-cloud-rap-prod",
+    "batchId": 8
+  },
+  {
+    "type": "scene",
+    "slug": "bruxelles-drill-fr-instru",
+    "batchId": 8
+  },
+  {
+    "type": "scene",
+    "slug": "bruxelles-afro-trap-prod",
+    "batchId": 8
+  },
+  {
+    "type": "scene",
+    "slug": "bruxelles-melodique-piano",
+    "batchId": 8
+  },
+  {
+    "type": "scene",
+    "slug": "bruxelles-cloud-rap-prod",
+    "batchId": 8
+  },
+  {
+    "type": "scene",
+    "slug": "lille-drill-fr-instru",
+    "batchId": 8
+  },
+  {
+    "type": "scene",
+    "slug": "lille-afro-trap-prod",
+    "batchId": 8
+  },
+  {
+    "type": "scene",
+    "slug": "lille-melodique-piano",
+    "batchId": 8
+  },
+  {
+    "type": "scene",
+    "slug": "lille-cloud-rap-prod",
+    "batchId": 8
+  },
+  {
+    "type": "scene",
+    "slug": "toulouse-drill-fr-instru",
+    "batchId": 8
+  },
+  {
+    "type": "scene",
+    "slug": "toulouse-afro-trap-prod",
+    "batchId": 8
+  },
+  {
+    "type": "scene",
+    "slug": "toulouse-melodique-piano",
+    "batchId": 8
+  },
+  {
+    "type": "scene",
+    "slug": "toulouse-cloud-rap-prod",
+    "batchId": 8
   }
 ];

@@ -6273,4 +6273,412 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
     }
   ]
 },
+  "fr/paris": {
+  "name": "France \u2013 Paris & \u00cele-de-France (75, 93, 92, 94)",
+  "flag": "\ud83c\uddeb\ud83c\uddf7",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "Carte Bancaire, Apple Pay, Google Pay, PayPal, Cartes de Cr\u00e9dit",
+  "pro": "SACEM",
+  "proFullName": "Soci\u00e9t\u00e9 des Auteurs, Compositeurs et \u00c9diteurs de Musique (SACEM)",
+  "proGuide": "100% conforme SACEM en France. Tous les beats sont des compositions originales sans samples non lib\u00e9r\u00e9s. Tu conserves 100% de tes royalties d'artiste sur Spotify et Apple Music.",
+  "headline": "Paris Beats & Prods \u00e0 Vendre: Drill FR, Trap 808 & Licences WAV",
+  "description": "Instrumentales exclusives non tagu\u00e9es en WAV 24-bit studio et pistes s\u00e9par\u00e9es (Stems) pour rappeurs et chanteurs \u00e0 Paris et en \u00cele-de-France. T\u00e9l\u00e9chargement imm\u00e9diat et contrat de licence PDF.",
+  "popularGenres": [
+    "Drill FR",
+    "Trap 93",
+    "Rap Fran\u00e7ais M\u00e9lodique",
+    "Gazo Style"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Drill FR Scene Hub",
+      "slug": "../../scene/paris-drill-fr-beats",
+      "description": "Basses 808 glissantes et ambiance sombre."
+    },
+    {
+      "name": "Gazo Drill FR Style",
+      "slug": "../../vibe/gazo-drill-fr-type-beats",
+      "description": "Drill agressive avec synth\u00e9s lourds et percussions rapides."
+    },
+    {
+      "name": "Ninho Piano Trap Vibe",
+      "slug": "../../vibe/ninho-destin-melodic-piano-trap",
+      "description": "Piano acoustique \u00e9motionnel et 808s puissantes."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Puis-je diffuser des morceaux enregistr\u00e9s avec ces prods sur Spotify, Apple Music et YouTube en France \u2013 Paris & \u00cele-de-France (75, 93, 92, 94) ?",
+      "answer": "Oui, absolument ! Toutes les licences WAV et MP3 de Different Type of Vibe incluent 100% des droits de diffusion commerciale pour Spotify, Apple Music, YouTube, Deezer, TikTok et les radios fran\u00e7aises. Tu conserves 100% de tes revenus d'artiste."
+    },
+    {
+      "question": "Les prods sont-elles conformes avec la SACEM et libres de tout sample non autoris\u00e9 ?",
+      "answer": "Oui ! Toutes nos instrumentales sont des compositions 100% originales produites par Onzieb. Aucun sample tiers non lib\u00e9r\u00e9. Tu peux d\u00e9poser ton texte et ton interpr\u00e9tation aupr\u00e8s de la SACEM en toute s\u00e9curit\u00e9."
+    },
+    {
+      "question": "Quels sont les moyens de paiement accept\u00e9s ?",
+      "answer": "Tu peux r\u00e9gler instantan\u00e9ment et en toute s\u00e9curit\u00e9 par Carte Bancaire, Apple Pay, Google Pay, PayPal, Cartes de Cr\u00e9dit."
+    },
+    {
+      "question": "En combien de temps re\u00e7ois-je les fichiers audio non tagu\u00e9s ?",
+      "answer": "Imm\u00e9diatement apr\u00e8s le paiement, tes fichiers WAV 24-bit studio non tagu\u00e9s, la version MP3 haute qualit\u00e9 et ton contrat de cession de droits d'auteur au format PDF sont envoy\u00e9s directement par email."
+    }
+  ]
+},
+  "fr/marseille": {
+  "name": "France \u2013 Marseille & PACA (13)",
+  "flag": "\ud83c\uddeb\ud83c\uddf7",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "Carte Bancaire, Apple Pay, Google Pay, PayPal, Cartes de Cr\u00e9dit",
+  "pro": "SACEM",
+  "proFullName": "Soci\u00e9t\u00e9 des Auteurs, Compositeurs et \u00c9diteurs de Musique (SACEM)",
+  "proGuide": "100% conforme SACEM. Conserve l'int\u00e9gralit\u00e9 de tes droits sur tes sorties streaming.",
+  "headline": "Marseille Beats \u00e0 Vendre: Bounces Afro-Trap, Rythmes Jul & SCH Sound",
+  "description": "Le son marseillais authentique: guitares m\u00e9diterran\u00e9ennes entra\u00eenantes, claps rapides \u00e0 130 BPM et trap cin\u00e9matographique sombre pour rappeurs marseillais.",
+  "popularGenres": [
+    "Marseille Afro-Trap",
+    "Jul Bounce",
+    "SCH Trap Cin\u00e9matique",
+    "Rap 13"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Marseille Scene Hub",
+      "slug": "../../scene/marseille-afro-trap-beats",
+      "description": "Guitares ensoleill\u00e9es et tempo rapide."
+    },
+    {
+      "name": "Jul Afro Bounce Vibe",
+      "slug": "../../vibe/jul-marseille-afro-bounce-beats",
+      "description": "Bounces dansants \u00e0 130 BPM avec synth\u00e9s chauds."
+    },
+    {
+      "name": "SCH Autobahn Trap",
+      "slug": "../../vibe/sch-autobahn-cinematic-trap",
+      "description": "Cuivres de film noir et 808s profondes."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Puis-je diffuser des morceaux enregistr\u00e9s avec ces prods sur Spotify, Apple Music et YouTube en France \u2013 Marseille & PACA (13) ?",
+      "answer": "Oui, absolument ! Toutes les licences WAV et MP3 de Different Type of Vibe incluent 100% des droits de diffusion commerciale pour Spotify, Apple Music, YouTube, Deezer, TikTok et les radios fran\u00e7aises. Tu conserves 100% de tes revenus d'artiste."
+    },
+    {
+      "question": "Les prods sont-elles conformes avec la SACEM et libres de tout sample non autoris\u00e9 ?",
+      "answer": "Oui ! Toutes nos instrumentales sont des compositions 100% originales produites par Onzieb. Aucun sample tiers non lib\u00e9r\u00e9. Tu peux d\u00e9poser ton texte et ton interpr\u00e9tation aupr\u00e8s de la SACEM en toute s\u00e9curit\u00e9."
+    },
+    {
+      "question": "Quels sont les moyens de paiement accept\u00e9s ?",
+      "answer": "Tu peux r\u00e9gler instantan\u00e9ment et en toute s\u00e9curit\u00e9 par Carte Bancaire, Apple Pay, Google Pay, PayPal, Cartes de Cr\u00e9dit."
+    },
+    {
+      "question": "En combien de temps re\u00e7ois-je les fichiers audio non tagu\u00e9s ?",
+      "answer": "Imm\u00e9diatement apr\u00e8s le paiement, tes fichiers WAV 24-bit studio non tagu\u00e9s, la version MP3 haute qualit\u00e9 et ton contrat de cession de droits d'auteur au format PDF sont envoy\u00e9s directement par email."
+    }
+  ]
+},
+  "fr/lyon": {
+  "name": "France \u2013 Lyon & Rh\u00f4ne-Alpes (69)",
+  "flag": "\ud83c\uddeb\ud83c\uddf7",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "Carte Bancaire, Apple Pay, Google Pay, PayPal, Cartes de Cr\u00e9dit",
+  "pro": "SACEM",
+  "proFullName": "Soci\u00e9t\u00e9 des Auteurs, Compositeurs et \u00c9diteurs de Musique (SACEM)",
+  "proGuide": "D\u00e9claration SACEM garantie sans litige de droits d'auteur.",
+  "headline": "Lyon Prods Rap \u00e0 Vendre: Drill Sombre 69, Trap Agressif & Stems WAV",
+  "description": "Prods de rap et drill lyonnaise inspir\u00e9es d'ASHE 22 et Lyonzon. Basses 808 lourdes et m\u00e9lodies t\u00e9n\u00e9breuses pour artistes ind\u00e9pendants \u00e0 Lyon.",
+  "popularGenres": [
+    "Lyon Drill",
+    "Trap 69",
+    "Dark Drill",
+    "Basses 808 Glissantes"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Lyon Drill Scene Hub",
+      "slug": "../../scene/lyon-dark-drill-beats",
+      "description": "Percussions syncop\u00e9es et ambiance crue."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Puis-je diffuser des morceaux enregistr\u00e9s avec ces prods sur Spotify, Apple Music et YouTube en France \u2013 Lyon & Rh\u00f4ne-Alpes (69) ?",
+      "answer": "Oui, absolument ! Toutes les licences WAV et MP3 de Different Type of Vibe incluent 100% des droits de diffusion commerciale pour Spotify, Apple Music, YouTube, Deezer, TikTok et les radios fran\u00e7aises. Tu conserves 100% de tes revenus d'artiste."
+    },
+    {
+      "question": "Les prods sont-elles conformes avec la SACEM et libres de tout sample non autoris\u00e9 ?",
+      "answer": "Oui ! Toutes nos instrumentales sont des compositions 100% originales produites par Onzieb. Aucun sample tiers non lib\u00e9r\u00e9. Tu peux d\u00e9poser ton texte et ton interpr\u00e9tation aupr\u00e8s de la SACEM en toute s\u00e9curit\u00e9."
+    },
+    {
+      "question": "Quels sont les moyens de paiement accept\u00e9s ?",
+      "answer": "Tu peux r\u00e9gler instantan\u00e9ment et en toute s\u00e9curit\u00e9 par Carte Bancaire, Apple Pay, Google Pay, PayPal, Cartes de Cr\u00e9dit."
+    },
+    {
+      "question": "En combien de temps re\u00e7ois-je les fichiers audio non tagu\u00e9s ?",
+      "answer": "Imm\u00e9diatement apr\u00e8s le paiement, tes fichiers WAV 24-bit studio non tagu\u00e9s, la version MP3 haute qualit\u00e9 et ton contrat de cession de droits d'auteur au format PDF sont envoy\u00e9s directement par email."
+    }
+  ]
+},
+  "fr/lille": {
+  "name": "France \u2013 Lille & Hauts-de-France (59)",
+  "flag": "\ud83c\uddeb\ud83c\uddf7",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "Carte Bancaire, Apple Pay, Google Pay, PayPal, Cartes de Cr\u00e9dit",
+  "pro": "SACEM",
+  "proFullName": "Soci\u00e9t\u00e9 des Auteurs, Compositeurs et \u00c9diteurs de Musique (SACEM)",
+  "proGuide": "100% conforme SACEM avec t\u00e9l\u00e9chargement direct du contrat de cession.",
+  "headline": "Lille Beats \u00e0 Vendre: Drill Nordique, Trap Sombre & Prods Rap Fran\u00e7ais",
+  "description": "Instrumentales percutantes avec grosses basses et m\u00e9lodies froides pour rappeurs et studios d'enregistrement \u00e0 Lille et dans le Nord.",
+  "popularGenres": [
+    "Lille Drill",
+    "Trap Nord",
+    "Rap Fran\u00e7ais Sombre"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Puis-je diffuser des morceaux enregistr\u00e9s avec ces prods sur Spotify, Apple Music et YouTube en France \u2013 Lille & Hauts-de-France (59) ?",
+      "answer": "Oui, absolument ! Toutes les licences WAV et MP3 de Different Type of Vibe incluent 100% des droits de diffusion commerciale pour Spotify, Apple Music, YouTube, Deezer, TikTok et les radios fran\u00e7aises. Tu conserves 100% de tes revenus d'artiste."
+    },
+    {
+      "question": "Les prods sont-elles conformes avec la SACEM et libres de tout sample non autoris\u00e9 ?",
+      "answer": "Oui ! Toutes nos instrumentales sont des compositions 100% originales produites par Onzieb. Aucun sample tiers non lib\u00e9r\u00e9. Tu peux d\u00e9poser ton texte et ton interpr\u00e9tation aupr\u00e8s de la SACEM en toute s\u00e9curit\u00e9."
+    },
+    {
+      "question": "Quels sont les moyens de paiement accept\u00e9s ?",
+      "answer": "Tu peux r\u00e9gler instantan\u00e9ment et en toute s\u00e9curit\u00e9 par Carte Bancaire, Apple Pay, Google Pay, PayPal, Cartes de Cr\u00e9dit."
+    },
+    {
+      "question": "En combien de temps re\u00e7ois-je les fichiers audio non tagu\u00e9s ?",
+      "answer": "Imm\u00e9diatement apr\u00e8s le paiement, tes fichiers WAV 24-bit studio non tagu\u00e9s, la version MP3 haute qualit\u00e9 et ton contrat de cession de droits d'auteur au format PDF sont envoy\u00e9s directement par email."
+    }
+  ]
+},
+  "fr/toulouse": {
+  "name": "France \u2013 Toulouse & Occitanie (31)",
+  "flag": "\ud83c\uddeb\ud83c\uddf7",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "Carte Bancaire, Apple Pay, Google Pay, PayPal, Cartes de Cr\u00e9dit",
+  "pro": "SACEM",
+  "proFullName": "Soci\u00e9t\u00e9 des Auteurs, Compositeurs et \u00c9diteurs de Musique (SACEM)",
+  "proGuide": "100% conforme SACEM avec cession de droits non exclusive.",
+  "headline": "Toulouse Beats \u00e0 Vendre: Rap M\u00e9lodique, Trap Cyberpunk & Cloud Rap",
+  "description": "Synth\u00e9tiseurs spatiaux, m\u00e9lodies autotun\u00e9es et rythmiques percutantes inspir\u00e9es de Laylow et Bigflo & Oli pour artistes toulousains.",
+  "popularGenres": [
+    "Toulouse Rap M\u00e9lodique",
+    "Trap Cyberpunk",
+    "Cloud Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Puis-je diffuser des morceaux enregistr\u00e9s avec ces prods sur Spotify, Apple Music et YouTube en France \u2013 Toulouse & Occitanie (31) ?",
+      "answer": "Oui, absolument ! Toutes les licences WAV et MP3 de Different Type of Vibe incluent 100% des droits de diffusion commerciale pour Spotify, Apple Music, YouTube, Deezer, TikTok et les radios fran\u00e7aises. Tu conserves 100% de tes revenus d'artiste."
+    },
+    {
+      "question": "Les prods sont-elles conformes avec la SACEM et libres de tout sample non autoris\u00e9 ?",
+      "answer": "Oui ! Toutes nos instrumentales sont des compositions 100% originales produites par Onzieb. Aucun sample tiers non lib\u00e9r\u00e9. Tu peux d\u00e9poser ton texte et ton interpr\u00e9tation aupr\u00e8s de la SACEM en toute s\u00e9curit\u00e9."
+    },
+    {
+      "question": "Quels sont les moyens de paiement accept\u00e9s ?",
+      "answer": "Tu peux r\u00e9gler instantan\u00e9ment et en toute s\u00e9curit\u00e9 par Carte Bancaire, Apple Pay, Google Pay, PayPal, Cartes de Cr\u00e9dit."
+    },
+    {
+      "question": "En combien de temps re\u00e7ois-je les fichiers audio non tagu\u00e9s ?",
+      "answer": "Imm\u00e9diatement apr\u00e8s le paiement, tes fichiers WAV 24-bit studio non tagu\u00e9s, la version MP3 haute qualit\u00e9 et ton contrat de cession de droits d'auteur au format PDF sont envoy\u00e9s directement par email."
+    }
+  ]
+},
+  "fr/bordeaux": {
+  "name": "France \u2013 Bordeaux & Nouvelle-Aquitaine (33)",
+  "flag": "\ud83c\uddeb\ud83c\uddf7",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "Carte Bancaire, Apple Pay, Google Pay, PayPal, Cartes de Cr\u00e9dit",
+  "pro": "SACEM",
+  "proFullName": "Soci\u00e9t\u00e9 des Auteurs, Compositeurs et \u00c9diteurs de Musique (SACEM)",
+  "proGuide": "100% conforme SACEM pour diffusion sur Spotify et radios fran\u00e7aises.",
+  "headline": "Bordeaux Prods Rap \u00e0 Vendre: Trap Chill, Boom Bap Moderne & R&B",
+  "description": "Prods \u00e9l\u00e9gantes, pianos jazzy et basses rondes pour rappeurs et interpr\u00e8tes \u00e0 Bordeaux et en Gironde.",
+  "popularGenres": [
+    "Bordeaux Chill Trap",
+    "Boom Bap Moderne",
+    "R&B Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Puis-je diffuser des morceaux enregistr\u00e9s avec ces prods sur Spotify, Apple Music et YouTube en France \u2013 Bordeaux & Nouvelle-Aquitaine (33) ?",
+      "answer": "Oui, absolument ! Toutes les licences WAV et MP3 de Different Type of Vibe incluent 100% des droits de diffusion commerciale pour Spotify, Apple Music, YouTube, Deezer, TikTok et les radios fran\u00e7aises. Tu conserves 100% de tes revenus d'artiste."
+    },
+    {
+      "question": "Les prods sont-elles conformes avec la SACEM et libres de tout sample non autoris\u00e9 ?",
+      "answer": "Oui ! Toutes nos instrumentales sont des compositions 100% originales produites par Onzieb. Aucun sample tiers non lib\u00e9r\u00e9. Tu peux d\u00e9poser ton texte et ton interpr\u00e9tation aupr\u00e8s de la SACEM en toute s\u00e9curit\u00e9."
+    },
+    {
+      "question": "Quels sont les moyens de paiement accept\u00e9s ?",
+      "answer": "Tu peux r\u00e9gler instantan\u00e9ment et en toute s\u00e9curit\u00e9 par Carte Bancaire, Apple Pay, Google Pay, PayPal, Cartes de Cr\u00e9dit."
+    },
+    {
+      "question": "En combien de temps re\u00e7ois-je les fichiers audio non tagu\u00e9s ?",
+      "answer": "Imm\u00e9diatement apr\u00e8s le paiement, tes fichiers WAV 24-bit studio non tagu\u00e9s, la version MP3 haute qualit\u00e9 et ton contrat de cession de droits d'auteur au format PDF sont envoy\u00e9s directement par email."
+    }
+  ]
+},
+  "be/bruxelles": {
+  "name": "Belgique \u2013 Bruxelles Rap Francophone Hub",
+  "flag": "\ud83c\udde7\ud83c\uddea",
+  "currency": "EUR (\u20ac)",
+  "currencyCode": "EUR",
+  "gateways": "Bancontact, Apple Pay, Google Pay, PayPal, Cartes de Cr\u00e9dit",
+  "pro": "SABAM",
+  "proFullName": "Soci\u00e9t\u00e9 Belge des Auteurs, Compositeurs et \u00c9diteurs (SABAM)",
+  "proGuide": "100% conforme SABAM pour artistes belges. Cession claire des droits de diffusion commerciale.",
+  "headline": "Bruxelles Prods Rap \u00e0 Vendre: Trap Belge, R&B Sombre & Vibe Damso",
+  "description": "Le son percutant du rap belge francophone: atmosph\u00e8res m\u00e9lancoliques, accords R&B nocturnes et basses profondes inspir\u00e9es de Damso, Hamza et Green Montana.",
+  "popularGenres": [
+    "Rap Belge",
+    "R&B Sombre",
+    "Hamza Vibe",
+    "Damso Sound"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Bruxelles Scene Hub",
+      "slug": "../../scene/bruxelles-rap-francophone",
+      "description": "Atmosph\u00e8res nocturnes et sonorit\u00e9s l\u00e9ch\u00e9es."
+    },
+    {
+      "name": "Damso Introspectif Vibe",
+      "slug": "../../vibe/damso-dark-introspective-rnb-trap",
+      "description": "Accords riches et trap m\u00e9lancolique."
+    },
+    {
+      "name": "Hamza Saucegod Vibe",
+      "slug": "../../vibe/hamza-saucegod-smooth-trap",
+      "description": "Synth\u00e9s futuristes et bounce a\u00e9rien."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Puis-je diffuser des morceaux enregistr\u00e9s avec ces prods sur Spotify, Apple Music et YouTube en Belgique \u2013 Bruxelles Rap Francophone Hub ?",
+      "answer": "Oui, absolument ! Toutes les licences WAV et MP3 de Different Type of Vibe incluent 100% des droits de diffusion commerciale pour Spotify, Apple Music, YouTube, Deezer, TikTok et les radios fran\u00e7aises. Tu conserves 100% de tes revenus d'artiste."
+    },
+    {
+      "question": "Les prods sont-elles conformes avec la SABAM et libres de tout sample non autoris\u00e9 ?",
+      "answer": "Oui ! Toutes nos instrumentales sont des compositions 100% originales produites par Onzieb. Aucun sample tiers non lib\u00e9r\u00e9. Tu peux d\u00e9poser ton texte et ton interpr\u00e9tation aupr\u00e8s de la SABAM en toute s\u00e9curit\u00e9."
+    },
+    {
+      "question": "Quels sont les moyens de paiement accept\u00e9s ?",
+      "answer": "Tu peux r\u00e9gler instantan\u00e9ment et en toute s\u00e9curit\u00e9 par Bancontact, Apple Pay, Google Pay, PayPal, Cartes de Cr\u00e9dit."
+    },
+    {
+      "question": "En combien de temps re\u00e7ois-je les fichiers audio non tagu\u00e9s ?",
+      "answer": "Imm\u00e9diatement apr\u00e8s le paiement, tes fichiers WAV 24-bit studio non tagu\u00e9s, la version MP3 haute qualit\u00e9 et ton contrat de cession de droits d'auteur au format PDF sont envoy\u00e9s directement par email."
+    }
+  ]
+},
+  "ca/montreal": {
+  "name": "Canada \u2013 Montr\u00e9al Rap Qu\u00e9b\u00e9cois Hub",
+  "flag": "\ud83c\udde8\ud83c\udde6",
+  "currency": "CAD / EUR",
+  "currencyCode": "CAD",
+  "gateways": "Apple Pay, Google Pay, Interac, Cartes de Cr\u00e9dit, Stripe",
+  "pro": "SOCAN",
+  "proFullName": "Soci\u00e9t\u00e9 Canadienne des Auteurs, Compositeurs et \u00c9diteurs de Musique (SOCAN)",
+  "proGuide": "100% conforme SOCAN et \u00e9ligible aux bourses FACTOR et Musicaction.",
+  "headline": "Montr\u00e9al Beats \u00e0 Vendre: Rap Qu\u00e9b\u00e9cois, Drill FR & Trap M\u00e9lodique",
+  "description": "Instrumentales studio haute d\u00e9finition pour artistes ind\u00e9pendants \u00e0 Montr\u00e9al et au Qu\u00e9bec. Fichiers WAV 24-bit non tagu\u00e9s avec droits de streaming commerciaux.",
+  "popularGenres": [
+    "Rap Qu\u00e9b\u00e9cois",
+    "Montr\u00e9al Drill",
+    "Trap M\u00e9lodique"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Montr\u00e9al Scene Hub",
+      "slug": "../../scene/montreal-rap-quebecois",
+      "description": "Bounces nord-am\u00e9ricains avec plume francophone."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Puis-je diffuser des morceaux enregistr\u00e9s avec ces prods sur Spotify, Apple Music et YouTube en Canada \u2013 Montr\u00e9al Rap Qu\u00e9b\u00e9cois Hub ?",
+      "answer": "Oui, absolument ! Toutes les licences WAV et MP3 de Different Type of Vibe incluent 100% des droits de diffusion commerciale pour Spotify, Apple Music, YouTube, Deezer, TikTok et les radios fran\u00e7aises. Tu conserves 100% de tes revenus d'artiste."
+    },
+    {
+      "question": "Les prods sont-elles conformes avec la SOCAN et libres de tout sample non autoris\u00e9 ?",
+      "answer": "Oui ! Toutes nos instrumentales sont des compositions 100% originales produites par Onzieb. Aucun sample tiers non lib\u00e9r\u00e9. Tu peux d\u00e9poser ton texte et ton interpr\u00e9tation aupr\u00e8s de la SOCAN en toute s\u00e9curit\u00e9."
+    },
+    {
+      "question": "Quels sont les moyens de paiement accept\u00e9s ?",
+      "answer": "Tu peux r\u00e9gler instantan\u00e9ment et en toute s\u00e9curit\u00e9 par Apple Pay, Google Pay, Interac, Cartes de Cr\u00e9dit, Stripe."
+    },
+    {
+      "question": "En combien de temps re\u00e7ois-je les fichiers audio non tagu\u00e9s ?",
+      "answer": "Imm\u00e9diatement apr\u00e8s le paiement, tes fichiers WAV 24-bit studio non tagu\u00e9s, la version MP3 haute qualit\u00e9 et ton contrat de cession de droits d'auteur au format PDF sont envoy\u00e9s directement par email."
+    }
+  ]
+},
 };
