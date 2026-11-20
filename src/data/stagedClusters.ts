@@ -66703,4 +66703,1446 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "2"
   ]
 },
+  {
+  "slug": "nando-boom-enfermo-de-amor-legend",
+  "name": "Nando Boom Enfermo De Amor Legend",
+  "category": "vibe",
+  "badge": "Nando Boom Leyenda Viva",
+  "headline": "Beats Estilo Nando Boom: Enfermo de Amor, Reggae en Español Fundacional & Dub",
+  "description": "El origen sagrado del género: baterías de reggae bailable analógicas, líneas de bajo envolventes y metales alegres que marcaron el nacimiento de la música urbana en español.",
+  "targetArtists": [
+    "Nando Boom",
+    "Enfermo de Amor",
+    "Pensión",
+    "Reggae en Español"
+  ],
+  "recommendedBpm": "100-108 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Leyenda Fundacional",
+    "Enfermo de Amor",
+    "Dembow Original",
+    "Bajo Dub"
+  ],
+  "popularGenres": [
+    "Reggae en Español",
+    "Classic Plena",
+    "Roots Urbano"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "mr-fox-musulini-dancehall-colon",
+  "name": "Mr Fox Musulini Dancehall Colon",
+  "category": "vibe",
+  "badge": "Mr. Fox Musulini Flow",
+  "headline": "Beats Estilo Mr. Fox: Dancehall Colonense Picante, Jerga Callejera & Fiesta",
+  "description": "La picardía y la energía pura de Colón: cajas secas rápidas, timbales saltarines y un swing bailable contagioso que no perdona en ninguna discoteca del patio.",
+  "targetArtists": [
+    "Mr. Fox",
+    "Musulini",
+    "Shorter",
+    "Colón Dancehall",
+    "Plena Brava"
+  ],
+  "recommendedBpm": "102-110 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Dancehall Colonense",
+    "Picardía Callejera",
+    "Snare Seco",
+    "Fiesta del Patio"
+  ],
+  "popularGenres": [
+    "Dancehall Colonense",
+    "Plena Panameña",
+    "Club Banger"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "el-roockie-barrio-de-chacales-lyrical",
+  "name": "El Roockie Barrio De Chacales Lyrical",
+  "category": "vibe",
+  "badge": "El Roockie Liricista Supremo",
+  "headline": "Beats Estilo El Roockie: Plena Consciente Poética, Pianos Sentidos & Barrio",
+  "description": "La máxima escuela lírica panameña: melodías melancólicas de piano acústico, guitarras sentidas y un ritmo de plena pausado diseñado para narrar verdades de barrio con voz de oro.",
+  "targetArtists": [
+    "El Roockie",
+    "Barrio de Chacales",
+    "Sigue Bailando",
+    "Buay del Barrio"
+  ],
+  "recommendedBpm": "95-104 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Lírica Suprema",
+    "Barrio de Chacales",
+    "Piano Sentido",
+    "Plena Consciente"
+  ],
+  "popularGenres": [
+    "Plena Consciente",
+    "Reggae Panameño",
+    "Storytelling Urban"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "chamaco-calle-caliente-drill-507",
+  "name": "Chamaco Calle Caliente Drill 507",
+  "category": "vibe",
+  "badge": "Chamaco Calle Caliente",
+  "headline": "Beats Estilo Chamaco: Drill 507 Callejero Agresivo, Bajos 808 & Lealtad",
+  "description": "El sonido más rudo de la nueva camada: baterías de drill a 140 BPM con caídas demoledoras, campanas de teclado gélidas y bajos que sacuden el asfalto para barras de lealtad.",
+  "targetArtists": [
+    "Chamaco",
+    "Calle Caliente",
+    "Drill 507",
+    "Street Rap Panamá"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "C-Minor / C-Sharp Minor",
+  "vibeAttributes": [
+    "Drill 507",
+    "Calle Caliente",
+    "Bajo 808 Deslizante",
+    "Lealtad de Barrio"
+  ],
+  "popularGenres": [
+    "Panama Drill",
+    "Street Trap",
+    "Hardcore 507"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "congo-afro-panameno-tambor-trap",
+  "name": "Congo Afro Panameño Tambor Trap",
+  "category": "vibe",
+  "badge": "Congo Afrocolonial Fusión",
+  "headline": "Beats de Tambor Congo: Percusión Tradicional de Portobelo & Sub-Bajo 808",
+  "description": "La resistencia y la mística afrocolonial de la Costa Arriba: golpes vivos de tambor repicador, palmadas a compás y cantos ancestrales combinados con el peso moderno del trap.",
+  "targetArtists": [
+    "Música Congo",
+    "Cultura de Portobelo",
+    "Afro-Panameño",
+    "Fusión Étnica"
+  ],
+  "recommendedBpm": "120-130 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Tambor Repicador",
+    "Tradición Congo",
+    "Afrocolonial",
+    "Sub-Bajo 808"
+  ],
+  "popularGenres": [
+    "Congo Trap",
+    "Afro-Panameño",
+    "Folk Fusion"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "calle-arriba-calle-abajo-carnaval-plena",
+  "name": "Calle Arriba Calle Abajo Carnaval Plena",
+  "category": "vibe",
+  "badge": "Carnaval de Las Tablas",
+  "headline": "Beats de Carnaval Tableño: Metales de Tuna, Pitos de Fiesta & Dembow Plena",
+  "description": "La rivalidad festiva más famosa de Panamá: trompetas estridentes de tunas de carnaval, silbidos y baterías de plena aceleradas que garantizan prender cualquier tarima y fiesta.",
+  "targetArtists": [
+    "Calle Arriba",
+    "Calle Abajo",
+    "Carnaval Tableño",
+    "Tuna de Fiesta"
+  ],
+  "recommendedBpm": "115-122 BPM",
+  "recommendedKey": "C-Major / F-Major",
+  "vibeAttributes": [
+    "Metales de Tuna",
+    "Carnaval Tableño",
+    "Pitos de Fiesta",
+    "Dembow Plena"
+  ],
+  "popularGenres": [
+    "Carnaval Plena",
+    "Party Banger",
+    "Fiesta 507"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "latin-fresh-tranquilo-fresco-boombap",
+  "name": "Latin Fresh Tranquilo Fresco Boombap",
+  "category": "vibe",
+  "badge": "Latin Fresh Noventero",
+  "headline": "Beats Estilo Latin Fresh: Hip-Hop Clásico de los 90, Teclados Jazz & Flow Fresco",
+  "description": "El pionero del rap y dancehall internacional panameño: baterías de boom bap con pegada redonda de MPC, acordes de teclado jazzeros y un swing relajado pero contundente.",
+  "targetArtists": [
+    "Latin Fresh",
+    "Tranquilo y Fresco",
+    "Ella Se Arrebata",
+    "Boom Bap 90s"
+  ],
+  "recommendedBpm": "90-98 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Boom Bap 90s",
+    "Tranquilo y Fresco",
+    "Teclados Jazz",
+    "Flow Legendario"
+  ],
+  "popularGenres": [
+    "Classic Hip-Hop",
+    "Boom Bap Panameño",
+    "Retro Urban"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "banda-independiente-diana-panamena-trap",
+  "name": "Banda Independiente Diana Panameña Trap",
+  "category": "vibe",
+  "badge": "Diana Panameña Trap",
+  "headline": "Beats de Diana Panameña: Redoblantes de Fiestas Patrias, Clarines & Bajo 808",
+  "description": "El fervor de las Dianas y las bandas independientes de noviembre: redobles marciales virtuosos, clarines festivos y bombos gigantescos cruzados con el poder del trap.",
+  "targetArtists": [
+    "Bandas Independientes",
+    "Dianas Patrias",
+    "Fiestas de Noviembre",
+    "Fusión"
+  ],
+  "recommendedBpm": "125-135 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Redoblantes de Dianas",
+    "Clarines Patrios",
+    "Banda Independiente",
+    "Bajo 808"
+  ],
+  "popularGenres": [
+    "Marching Band Trap",
+    "Folk Fusion",
+    "Música Panameña"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "danny-lux-reggaeton-panameno-acustico",
+  "name": "Danny Lux Reggaeton Panameño Acústico",
+  "category": "vibe",
+  "badge": "Acústico Romántico 507",
+  "headline": "Beats de Reggaetón Acústico: Guitarras Españolas Lloronas & Dembow Suave",
+  "description": "La combinación más sentida del pop urbano: rasgueos de guitarra de nylon grabados en estudio, dembows lentos y bajos envolventes para canciones de desamor y nostalgia.",
+  "targetArtists": [
+    "Pop Urbano Panameño",
+    "Guitarras de Desamor",
+    "Reggaetón Romántico"
+  ],
+  "recommendedBpm": "92-98 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Guitarra Acústica",
+    "Dembow Suave",
+    "Desamor y Nostalgia",
+    "Voz Emotiva"
+  ],
+  "popularGenres": [
+    "Reggaetón Romántico",
+    "Acoustic Urban",
+    "Latin Pop"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "toty-el-bloke-melodic-trap-507",
+  "name": "Toty El Bloke Melodic Trap 507",
+  "category": "vibe",
+  "badge": "El Bloke Trap Melódico",
+  "headline": "Beats Estilo El Bloke: Melodic Trap Moderno, Pianos Tristes & 808s de Lujo",
+  "description": "La evolución musical del colectivo El Bloke: sintetizadores elegantes con chorus, pianos melancólicos y caídas de bajo 808 que crean una atmósfera cinematográfica de lujo.",
+  "targetArtists": [
+    "El Bloke Family",
+    "Trap Melódico 507",
+    "Sonido Sech",
+    "Lujo Callejero"
+  ],
+  "recommendedBpm": "125-135 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Trap Melódico",
+    "Pianos Tristes",
+    "Sonido El Bloke",
+    "Atmósfera de Lujo"
+  ],
+  "popularGenres": [
+    "Melodic Trap",
+    "Trap 507",
+    "R&B Latino"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "chiva-parrandera-car-audio-bass",
+  "name": "Chiva Parrandera Car Audio Bass",
+  "category": "vibe",
+  "badge": "Chiva Parrandera Bass",
+  "headline": "Beats de Chiva Parrandera: Bajos Explosivos de Car Audio & Fiesta Panameña",
+  "description": "El sonido que retumba en las noches de rumba por la Cinta Costera y Amador: bombos pesados con ataque frontal, metales de fiesta y bajos diseñados para reventar bocinas.",
+  "targetArtists": [
+    "Chivas Parranderas",
+    "Car Audio Panamá",
+    "Rumba Nocturna",
+    "Party Beat"
+  ],
+  "recommendedBpm": "105-115 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Car Audio Bass",
+    "Chiva Parrandera",
+    "Bajo Explosivo",
+    "Rumba Nocturna"
+  ],
+  "popularGenres": [
+    "Car Audio Beat",
+    "Plena Banger",
+    "Fiesta 507"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "red-bull-panama-plaza-batalla-beat",
+  "name": "Red Bull Panama Plaza Batalla Beat",
+  "category": "vibe",
+  "badge": "Batalla de Plaza Panamá",
+  "headline": "Beats de Batalla de Plaza: Cajas Secas sin Piedad, Metales & Pausa en Cuarta Barra",
+  "description": "El ritmo de las grandes competencias de freestyle en Panamá: baterías con golpe seco y contundente, metales de guerra y el espacio exacto para rematar con punchlines.",
+  "targetArtists": [
+    "Red Bull Batalla Panamá",
+    "Freestylers del Patio",
+    "Batallas de Plaza"
+  ],
+  "recommendedBpm": "92-96 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "Batería de Batalla",
+    "Pausa en Cuarta Barra",
+    "Metales de Guerra",
+    "Punchline"
+  ],
+  "popularGenres": [
+    "Battle Boom Bap",
+    "Freestyle Rap",
+    "Street Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "pistas-de-plena-baratas-en-panama-yappy",
+  "name": "Pistas de Plena Baratas en Panamá en Dólares USD (Pago con Yappy)",
+  "category": "genre",
+  "badge": "Pistas Baratas Yappy",
+  "headline": "Pistas de Plena Económicas: Paga con Yappy en Dólares ($) y Descarga WAV",
+  "description": "Instrumentales de plena y reggaetón de calidad profesional sin comisiones ocultas. Paga directamente por Yappy desde tu celular con Banco General y descarga tus archivos de estudio en WAV 24-bit.",
+  "targetArtists": [
+    "Pleneros Nuevos",
+    "Home Studios",
+    "Artistas Independientes"
+  ],
+  "recommendedBpm": "Todos los Tempos",
+  "recommendedKey": "Todas las Tonalidades",
+  "vibeAttributes": [
+    "Precio en USD",
+    "Yappy Inmediato",
+    "Sin Conversión",
+    "Descarga WAV"
+  ],
+  "popularGenres": [
+    "Plena Panameña",
+    "Trap 507",
+    "Dancehall"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6"
+  ]
+},
+  {
+  "slug": "bases-de-reggaeton-romantico-estilo-sech",
+  "name": "Bases de Reggaetón Romántico con Piano Acústico Estilo Sech y Boza",
+  "category": "genre",
+  "badge": "Reggaetón Romántico 507",
+  "headline": "Bases de Reggaetón Romántico: Pianos Sentidos, Dembow Suave y Calidad de Radio",
+  "description": "El estilo melódico panameño que conquista el mundo: progresiones de piano emotivas, dembows limpios a 95 BPM y bajos redondos que dejan respirar tu voz.",
+  "targetArtists": [
+    "Vocalistas Urbanos",
+    "Compositores de Amor",
+    "Cantantes de R&B"
+  ],
+  "recommendedBpm": "92-98 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Pianos Sentidos",
+    "Dembow Suave",
+    "Sonido Sech",
+    "WAV de Estudio"
+  ],
+  "popularGenres": [
+    "Reggaetón Romántico",
+    "R&B Latino",
+    "Pop Urbano"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "instrumentales-de-dancehall-para-grabar-colon",
+  "name": "Instrumentales de Dancehall para Grabar en Estudio con Stems en Colón",
+  "category": "genre",
+  "badge": "Dancehall de Estudio Colón",
+  "headline": "Instrumentales de Dancehall Pesado: Baterías Contundentes y Stems Separados",
+  "description": "Pistas de dancehall caribeño masterizadas con la pegada necesaria para sonar en sound systems y tarimas. Canales separados (stems) para mezclar y masterizar voces en estudio.",
+  "targetArtists": [
+    "Deejays de Colón",
+    "Artistas de Calle",
+    "Estudios de Grabación"
+  ],
+  "recommendedBpm": "100-112 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Dancehall Pesado",
+    "Stems Multitrack",
+    "WAV 24-bit",
+    "Sin Voz de Fondo"
+  ],
+  "popularGenres": [
+    "Dancehall Colonense",
+    "Plena Brava",
+    "Street Reggae"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "beats-de-trap-507-pesado-con-bajos-slidings",
+  "name": "Beats de Trap 507 Pesado con Bajos 808 Slidings y Campanas Gélidas",
+  "category": "genre",
+  "badge": "Trap 507 Sliding 808",
+  "headline": "Beats de Trap 507 Pesado: Bajos 808 Deslizantes y Campanas Oscuras",
+  "description": "El sonido exacto de los barrios de San Miguelito y la capital: frecuencias sub-graves deslizantes y sintetizadores fríos con espacio acústico amplio para frontear.",
+  "targetArtists": [
+    "Traperos 507",
+    "Freestylers",
+    "Rappers de Barrio"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "808 Slidings",
+    "Campanas Gélidas",
+    "Trap 507",
+    "WAV Estudio"
+  ],
+  "popularGenres": [
+    "Trap 507",
+    "Street Trap",
+    "Drill Latino"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "combo-de-beats-para-mixtape-panama-usd",
+  "name": "Paquete de Beats con Descuento por Volumen para Mixtape en Panamá (USD)",
+  "category": "genre",
+  "badge": "Combo para Mixtape Panamá",
+  "headline": "Paquete de Beats para Mixtape: Sonido Coherente y Ahorro en Dólares con Yappy",
+  "description": "Produce tu EP o mixtape completa con una identidad sonora homogénea. Descuento aplicado automáticamente en el carrito al adquirir 3 o más pistas.",
+  "targetArtists": [
+    "Artistas de Mixtape",
+    "Grupos Urbanos",
+    "Lanzamientos de EP"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Descuento en USD",
+    "Coherencia Sonora",
+    "WAV de Estudio",
+    "Ahorro con Yappy"
+  ],
+  "popularGenres": [
+    "Plena Panameña",
+    "Trap 507",
+    "Reggaetón"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6"
+  ]
+},
+  {
+  "slug": "bases-de-drill-panameno-140-bpm-para-grabar",
+  "name": "Bases de Drill Panameño a 140 BPM Listas para Grabar en Estudio (WAV)",
+  "category": "genre",
+  "badge": "Drill 507 a 140 BPM",
+  "headline": "Bases de Drill Panameño: Cajas Sincopadas y Deslizamientos de 808 sin Tags",
+  "description": "La energía callejera del drill a 140 BPM. Cajas que golpean seco y rápido, patrones de hi-hat con tresillos y bajos deslizantes continuos sin voces de fondo.",
+  "targetArtists": [
+    "Drillers 507",
+    "Rappers de Barrio",
+    "Estudios de Grabación"
+  ],
+  "recommendedBpm": "138-144 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "140 BPM Drill",
+    "808 Slide",
+    "Street Sound",
+    "Untagged WAV"
+  ],
+  "popularGenres": [
+    "Panama Drill",
+    "UK Drill Latino",
+    "Street Rap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "pistas-de-plena-con-congo-y-tambores-afro",
+  "name": "Pistas de Plena con Tambores Congo Afro-Panameños en Calidad WAV",
+  "category": "genre",
+  "badge": "Plena Congo Afro",
+  "headline": "Beats de Plena Congo: Tambores Afrocoloniales Tradicionales y Caídas de 808",
+  "description": "La unión entre la herencia afroantillana y la plena urbana contemporánea. Golpes vivos de tambor repicador de Portobelo combinados con la contundencia del trap.",
+  "targetArtists": [
+    "Músicos de Fusión",
+    "Artistas de Plena",
+    "Raperos Culturales"
+  ],
+  "recommendedBpm": "115-125 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Tambor Congo",
+    "Percusión Afro",
+    "Plena Panameña",
+    "WAV de Estudio"
+  ],
+  "popularGenres": [
+    "Congo Trap",
+    "Afro-Panameño",
+    "Folk Fusion"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "contrato-de-licencia-comercial-spac-pdf",
+  "name": "Contrato de Licencia Comercial SPAC en Dólares con Entrega en PDF",
+  "category": "genre",
+  "badge": "Contrato SPAC en PDF",
+  "headline": "Licencias Comerciales con Contrato PDF: 100% Válidas ante SPAC y MICI",
+  "description": "Lanza tus temas en Spotify y YouTube sin preocupaciones legales. Incluye contrato oficial de cesión de derechos no exclusivos en PDF con términos comerciales claros.",
+  "targetArtists": [
+    "Artistas Profesionales",
+    "Managers",
+    "Sellos Panameños"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Contrato PDF",
+    "SPAC Safe",
+    "MICI Compatible",
+    "Royaltíes 100% del Artista"
+  ],
+  "popularGenres": [
+    "Plena Panameña",
+    "Trap 507",
+    "Reggaetón"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "produccion-de-beats-exclusivos-panama-onzieb",
+  "name": "Producción de Beats Exclusivos en Panamá Directo con Productor Onzieb",
+  "category": "genre",
+  "badge": "Producción Exclusiva 507",
+  "headline": "Producción de Beats a Medida en Panamá: Crea tu Propio Sonido con Onzieb",
+  "description": "Trabaja directamente en una instrumental hecha exclusivamente para tu estilo vocal y concepto artístico. La pista se retira del catálogo y se transfiere la propiedad total del máster.",
+  "targetArtists": [
+    "Artistas Exclusivos",
+    "Proyectos de Álbum",
+    "Compositores"
+  ],
+  "recommendedBpm": "BPM a Medida",
+  "recommendedKey": "Tono a Medida",
+  "vibeAttributes": [
+    "Exclusividad Total",
+    "Retiro de Tienda",
+    "Contacto Directo",
+    "Identidad Propia"
+  ],
+  "popularGenres": [
+    "Plena Panameña",
+    "Trap 507",
+    "Reggaetón Romántico"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "descargar-paquete-3-beats-gratis-panama-mp3",
+  "name": "Descargar Paquete de 3 Beats Gratis en MP3 320kbps para Probar Voz en Panamá",
+  "category": "genre",
+  "badge": "Paquete Gratis Panamá",
+  "headline": "Descarga Gratis 3 Pistas de Plena y Trap: Graba tus Maquetas en Casa",
+  "description": "Paquete de bienvenida con 3 instrumentales completas en MP3 de 320kbps para practicar tus rimas, grabar demos y comprobar cómo suena tu voz en la mezcla antes de adquirir una licencia.",
+  "targetArtists": [
+    "Raperos Nuevos",
+    "Home Studios",
+    "Compositores de Plena"
+  ],
+  "recommendedBpm": "95, 105, 130 BPM",
+  "recommendedKey": "C-Minor, D-Minor",
+  "vibeAttributes": [
+    "Descarga Gratis",
+    "3 Pistas Incluidas",
+    "Prueba de Voz",
+    "Envío al Correo"
+  ],
+  "popularGenres": [
+    "Plena Panameña",
+    "Trap 507",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "5"
+  ]
+},
+  {
+  "slug": "penonome-plena-panamena-beats",
+  "name": "Penonomé Plena Panameña Beats",
+  "category": "scene",
+  "badge": "Penonomé Plena Panameña",
+  "headline": "Penonomé (Coclé & Centro Geográfico) Plena Panameña Beats: Pistas WAV & Pago Yappy USD",
+  "description": "Baterías bailables de plena, güiras caribeñas y calidad WAV 24-bit de estudio con Yappy en Dólares ($) para artistas de Penonomé.",
+  "targetArtists": [
+    "Artistas de Penonomé",
+    "Hip-Hop Panamá Scene",
+    "Música Urbana 507"
+  ],
+  "recommendedBpm": "98-106 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Penonomé",
+    "Plena Panameña",
+    "Yappy & USD",
+    "Aprobado SPAC"
+  ],
+  "popularGenres": [
+    "Plena Panameña Beats",
+    "Plena Panameña",
+    "Trap 507"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "penonome-trap-507-callejero",
+  "name": "Penonomé Trap 507 Callejero",
+  "category": "scene",
+  "badge": "Penonomé Trap 507",
+  "headline": "Penonomé (Coclé & Centro Geográfico) Trap 507 Callejero: Pistas WAV & Pago Yappy USD",
+  "description": "Bajos 808 profundos, campanas oscuras y baterías de trap pesado inspiradas en las calles de Penonomé.",
+  "targetArtists": [
+    "Artistas de Penonomé",
+    "Hip-Hop Panamá Scene",
+    "Música Urbana 507"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Penonomé",
+    "Trap 507",
+    "Yappy & USD",
+    "Aprobado SPAC"
+  ],
+  "popularGenres": [
+    "Trap 507 Callejero",
+    "Plena Panameña",
+    "Trap 507"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "penonome-dancehall-colonense",
+  "name": "Penonomé Dancehall Colonense",
+  "category": "scene",
+  "badge": "Penonomé Dancehall 507",
+  "headline": "Penonomé (Coclé & Centro Geográfico) Dancehall Colonense: Pistas WAV & Pago Yappy USD",
+  "description": "Metales de sintetizador estridentes, cajas con pegada dura y bajos imponentes para deejays de Penonomé.",
+  "targetArtists": [
+    "Artistas de Penonomé",
+    "Hip-Hop Panamá Scene",
+    "Música Urbana 507"
+  ],
+  "recommendedBpm": "100-112 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Penonomé",
+    "Dancehall 507",
+    "Yappy & USD",
+    "Aprobado SPAC"
+  ],
+  "popularGenres": [
+    "Dancehall Colonense",
+    "Plena Panameña",
+    "Trap 507"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "penonome-melodic-rnb-trap",
+  "name": "Penonomé Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Penonomé Melodic R&B 507",
+  "headline": "Penonomé (Coclé & Centro Geográfico) Melodic R&B Trap: Pistas WAV & Pago Yappy USD",
+  "description": "Pianos emotivos estilo Sech, guitarras suaves y baterías de dembow lento para vocalistas de Penonomé.",
+  "targetArtists": [
+    "Artistas de Penonomé",
+    "Hip-Hop Panamá Scene",
+    "Música Urbana 507"
+  ],
+  "recommendedBpm": "92-100 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Penonomé",
+    "Melodic R&B 507",
+    "Yappy & USD",
+    "Aprobado SPAC"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "Plena Panameña",
+    "Trap 507"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "las-tablas-plena-panamena-beats",
+  "name": "Las Tablas Plena Panameña Beats",
+  "category": "scene",
+  "badge": "Las Tablas Plena Panameña",
+  "headline": "Las Tablas (Los Santos & Carnaval Tableño) Plena Panameña Beats: Pistas WAV & Pago Yappy USD",
+  "description": "Baterías bailables de plena, güiras caribeñas y calidad WAV 24-bit de estudio con Yappy en Dólares ($) para artistas de Las Tablas.",
+  "targetArtists": [
+    "Artistas de Las Tablas",
+    "Hip-Hop Panamá Scene",
+    "Música Urbana 507"
+  ],
+  "recommendedBpm": "98-106 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Las Tablas",
+    "Plena Panameña",
+    "Yappy & USD",
+    "Aprobado SPAC"
+  ],
+  "popularGenres": [
+    "Plena Panameña Beats",
+    "Plena Panameña",
+    "Trap 507"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "las-tablas-trap-507-callejero",
+  "name": "Las Tablas Trap 507 Callejero",
+  "category": "scene",
+  "badge": "Las Tablas Trap 507",
+  "headline": "Las Tablas (Los Santos & Carnaval Tableño) Trap 507 Callejero: Pistas WAV & Pago Yappy USD",
+  "description": "Bajos 808 profundos, campanas oscuras y baterías de trap pesado inspiradas en las calles de Las Tablas.",
+  "targetArtists": [
+    "Artistas de Las Tablas",
+    "Hip-Hop Panamá Scene",
+    "Música Urbana 507"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Las Tablas",
+    "Trap 507",
+    "Yappy & USD",
+    "Aprobado SPAC"
+  ],
+  "popularGenres": [
+    "Trap 507 Callejero",
+    "Plena Panameña",
+    "Trap 507"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "las-tablas-dancehall-colonense",
+  "name": "Las Tablas Dancehall Colonense",
+  "category": "scene",
+  "badge": "Las Tablas Dancehall 507",
+  "headline": "Las Tablas (Los Santos & Carnaval Tableño) Dancehall Colonense: Pistas WAV & Pago Yappy USD",
+  "description": "Metales de sintetizador estridentes, cajas con pegada dura y bajos imponentes para deejays de Las Tablas.",
+  "targetArtists": [
+    "Artistas de Las Tablas",
+    "Hip-Hop Panamá Scene",
+    "Música Urbana 507"
+  ],
+  "recommendedBpm": "100-112 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Las Tablas",
+    "Dancehall 507",
+    "Yappy & USD",
+    "Aprobado SPAC"
+  ],
+  "popularGenres": [
+    "Dancehall Colonense",
+    "Plena Panameña",
+    "Trap 507"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "las-tablas-melodic-rnb-trap",
+  "name": "Las Tablas Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Las Tablas Melodic R&B 507",
+  "headline": "Las Tablas (Los Santos & Carnaval Tableño) Melodic R&B Trap: Pistas WAV & Pago Yappy USD",
+  "description": "Pianos emotivos estilo Sech, guitarras suaves y baterías de dembow lento para vocalistas de Las Tablas.",
+  "targetArtists": [
+    "Artistas de Las Tablas",
+    "Hip-Hop Panamá Scene",
+    "Música Urbana 507"
+  ],
+  "recommendedBpm": "92-100 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Las Tablas",
+    "Melodic R&B 507",
+    "Yappy & USD",
+    "Aprobado SPAC"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "Plena Panameña",
+    "Trap 507"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "puerto-armuelles-plena-panamena-beats",
+  "name": "Puerto Armuelles Plena Panameña Beats",
+  "category": "scene",
+  "badge": "Puerto Armuelles Plena Panameña",
+  "headline": "Puerto Armuelles (Barú & Frontera Sur) Plena Panameña Beats: Pistas WAV & Pago Yappy USD",
+  "description": "Baterías bailables de plena, güiras caribeñas y calidad WAV 24-bit de estudio con Yappy en Dólares ($) para artistas de Puerto Armuelles.",
+  "targetArtists": [
+    "Artistas de Puerto Armuelles",
+    "Hip-Hop Panamá Scene",
+    "Música Urbana 507"
+  ],
+  "recommendedBpm": "98-106 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Puerto Armuelles",
+    "Plena Panameña",
+    "Yappy & USD",
+    "Aprobado SPAC"
+  ],
+  "popularGenres": [
+    "Plena Panameña Beats",
+    "Plena Panameña",
+    "Trap 507"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "puerto-armuelles-trap-507-callejero",
+  "name": "Puerto Armuelles Trap 507 Callejero",
+  "category": "scene",
+  "badge": "Puerto Armuelles Trap 507",
+  "headline": "Puerto Armuelles (Barú & Frontera Sur) Trap 507 Callejero: Pistas WAV & Pago Yappy USD",
+  "description": "Bajos 808 profundos, campanas oscuras y baterías de trap pesado inspiradas en las calles de Puerto Armuelles.",
+  "targetArtists": [
+    "Artistas de Puerto Armuelles",
+    "Hip-Hop Panamá Scene",
+    "Música Urbana 507"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Puerto Armuelles",
+    "Trap 507",
+    "Yappy & USD",
+    "Aprobado SPAC"
+  ],
+  "popularGenres": [
+    "Trap 507 Callejero",
+    "Plena Panameña",
+    "Trap 507"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "puerto-armuelles-dancehall-colonense",
+  "name": "Puerto Armuelles Dancehall Colonense",
+  "category": "scene",
+  "badge": "Puerto Armuelles Dancehall 507",
+  "headline": "Puerto Armuelles (Barú & Frontera Sur) Dancehall Colonense: Pistas WAV & Pago Yappy USD",
+  "description": "Metales de sintetizador estridentes, cajas con pegada dura y bajos imponentes para deejays de Puerto Armuelles.",
+  "targetArtists": [
+    "Artistas de Puerto Armuelles",
+    "Hip-Hop Panamá Scene",
+    "Música Urbana 507"
+  ],
+  "recommendedBpm": "100-112 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Puerto Armuelles",
+    "Dancehall 507",
+    "Yappy & USD",
+    "Aprobado SPAC"
+  ],
+  "popularGenres": [
+    "Dancehall Colonense",
+    "Plena Panameña",
+    "Trap 507"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "puerto-armuelles-melodic-rnb-trap",
+  "name": "Puerto Armuelles Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Puerto Armuelles Melodic R&B 507",
+  "headline": "Puerto Armuelles (Barú & Frontera Sur) Melodic R&B Trap: Pistas WAV & Pago Yappy USD",
+  "description": "Pianos emotivos estilo Sech, guitarras suaves y baterías de dembow lento para vocalistas de Puerto Armuelles.",
+  "targetArtists": [
+    "Artistas de Puerto Armuelles",
+    "Hip-Hop Panamá Scene",
+    "Música Urbana 507"
+  ],
+  "recommendedBpm": "92-100 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Puerto Armuelles",
+    "Melodic R&B 507",
+    "Yappy & USD",
+    "Aprobado SPAC"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "Plena Panameña",
+    "Trap 507"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "boquete-plena-panamena-beats",
+  "name": "Boquete Plena Panameña Beats",
+  "category": "scene",
+  "badge": "Boquete Plena Panameña",
+  "headline": "Boquete (Chiriquí & Tierras Altas) Plena Panameña Beats: Pistas WAV & Pago Yappy USD",
+  "description": "Baterías bailables de plena, güiras caribeñas y calidad WAV 24-bit de estudio con Yappy en Dólares ($) para artistas de Boquete.",
+  "targetArtists": [
+    "Artistas de Boquete",
+    "Hip-Hop Panamá Scene",
+    "Música Urbana 507"
+  ],
+  "recommendedBpm": "98-106 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Boquete",
+    "Plena Panameña",
+    "Yappy & USD",
+    "Aprobado SPAC"
+  ],
+  "popularGenres": [
+    "Plena Panameña Beats",
+    "Plena Panameña",
+    "Trap 507"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "boquete-trap-507-callejero",
+  "name": "Boquete Trap 507 Callejero",
+  "category": "scene",
+  "badge": "Boquete Trap 507",
+  "headline": "Boquete (Chiriquí & Tierras Altas) Trap 507 Callejero: Pistas WAV & Pago Yappy USD",
+  "description": "Bajos 808 profundos, campanas oscuras y baterías de trap pesado inspiradas en las calles de Boquete.",
+  "targetArtists": [
+    "Artistas de Boquete",
+    "Hip-Hop Panamá Scene",
+    "Música Urbana 507"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Boquete",
+    "Trap 507",
+    "Yappy & USD",
+    "Aprobado SPAC"
+  ],
+  "popularGenres": [
+    "Trap 507 Callejero",
+    "Plena Panameña",
+    "Trap 507"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "boquete-dancehall-colonense",
+  "name": "Boquete Dancehall Colonense",
+  "category": "scene",
+  "badge": "Boquete Dancehall 507",
+  "headline": "Boquete (Chiriquí & Tierras Altas) Dancehall Colonense: Pistas WAV & Pago Yappy USD",
+  "description": "Metales de sintetizador estridentes, cajas con pegada dura y bajos imponentes para deejays de Boquete.",
+  "targetArtists": [
+    "Artistas de Boquete",
+    "Hip-Hop Panamá Scene",
+    "Música Urbana 507"
+  ],
+  "recommendedBpm": "100-112 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Boquete",
+    "Dancehall 507",
+    "Yappy & USD",
+    "Aprobado SPAC"
+  ],
+  "popularGenres": [
+    "Dancehall Colonense",
+    "Plena Panameña",
+    "Trap 507"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "boquete-melodic-rnb-trap",
+  "name": "Boquete Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Boquete Melodic R&B 507",
+  "headline": "Boquete (Chiriquí & Tierras Altas) Melodic R&B Trap: Pistas WAV & Pago Yappy USD",
+  "description": "Pianos emotivos estilo Sech, guitarras suaves y baterías de dembow lento para vocalistas de Boquete.",
+  "targetArtists": [
+    "Artistas de Boquete",
+    "Hip-Hop Panamá Scene",
+    "Música Urbana 507"
+  ],
+  "recommendedBpm": "92-100 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Boquete",
+    "Melodic R&B 507",
+    "Yappy & USD",
+    "Aprobado SPAC"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "Plena Panameña",
+    "Trap 507"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "tocumen-plena-panamena-beats",
+  "name": "Tocumen Plena Panameña Beats",
+  "category": "scene",
+  "badge": "Tocumen Plena Panameña",
+  "headline": "Tocumen (Panamá Este & Car Audio) Plena Panameña Beats: Pistas WAV & Pago Yappy USD",
+  "description": "Baterías bailables de plena, güiras caribeñas y calidad WAV 24-bit de estudio con Yappy en Dólares ($) para artistas de Tocumen.",
+  "targetArtists": [
+    "Artistas de Tocumen",
+    "Hip-Hop Panamá Scene",
+    "Música Urbana 507"
+  ],
+  "recommendedBpm": "98-106 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Tocumen",
+    "Plena Panameña",
+    "Yappy & USD",
+    "Aprobado SPAC"
+  ],
+  "popularGenres": [
+    "Plena Panameña Beats",
+    "Plena Panameña",
+    "Trap 507"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "tocumen-trap-507-callejero",
+  "name": "Tocumen Trap 507 Callejero",
+  "category": "scene",
+  "badge": "Tocumen Trap 507",
+  "headline": "Tocumen (Panamá Este & Car Audio) Trap 507 Callejero: Pistas WAV & Pago Yappy USD",
+  "description": "Bajos 808 profundos, campanas oscuras y baterías de trap pesado inspiradas en las calles de Tocumen.",
+  "targetArtists": [
+    "Artistas de Tocumen",
+    "Hip-Hop Panamá Scene",
+    "Música Urbana 507"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Tocumen",
+    "Trap 507",
+    "Yappy & USD",
+    "Aprobado SPAC"
+  ],
+  "popularGenres": [
+    "Trap 507 Callejero",
+    "Plena Panameña",
+    "Trap 507"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "tocumen-dancehall-colonense",
+  "name": "Tocumen Dancehall Colonense",
+  "category": "scene",
+  "badge": "Tocumen Dancehall 507",
+  "headline": "Tocumen (Panamá Este & Car Audio) Dancehall Colonense: Pistas WAV & Pago Yappy USD",
+  "description": "Metales de sintetizador estridentes, cajas con pegada dura y bajos imponentes para deejays de Tocumen.",
+  "targetArtists": [
+    "Artistas de Tocumen",
+    "Hip-Hop Panamá Scene",
+    "Música Urbana 507"
+  ],
+  "recommendedBpm": "100-112 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Tocumen",
+    "Dancehall 507",
+    "Yappy & USD",
+    "Aprobado SPAC"
+  ],
+  "popularGenres": [
+    "Dancehall Colonense",
+    "Plena Panameña",
+    "Trap 507"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "tocumen-melodic-rnb-trap",
+  "name": "Tocumen Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Tocumen Melodic R&B 507",
+  "headline": "Tocumen (Panamá Este & Car Audio) Melodic R&B Trap: Pistas WAV & Pago Yappy USD",
+  "description": "Pianos emotivos estilo Sech, guitarras suaves y baterías de dembow lento para vocalistas de Tocumen.",
+  "targetArtists": [
+    "Artistas de Tocumen",
+    "Hip-Hop Panamá Scene",
+    "Música Urbana 507"
+  ],
+  "recommendedBpm": "92-100 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Tocumen",
+    "Melodic R&B 507",
+    "Yappy & USD",
+    "Aprobado SPAC"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "Plena Panameña",
+    "Trap 507"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "chilibre-plena-panamena-beats",
+  "name": "Chilibre Plena Panameña Beats",
+  "category": "scene",
+  "badge": "Chilibre Plena Panameña",
+  "headline": "Chilibre (Panamá Norte & Valle Verde) Plena Panameña Beats: Pistas WAV & Pago Yappy USD",
+  "description": "Baterías bailables de plena, güiras caribeñas y calidad WAV 24-bit de estudio con Yappy en Dólares ($) para artistas de Chilibre.",
+  "targetArtists": [
+    "Artistas de Chilibre",
+    "Hip-Hop Panamá Scene",
+    "Música Urbana 507"
+  ],
+  "recommendedBpm": "98-106 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Chilibre",
+    "Plena Panameña",
+    "Yappy & USD",
+    "Aprobado SPAC"
+  ],
+  "popularGenres": [
+    "Plena Panameña Beats",
+    "Plena Panameña",
+    "Trap 507"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "chilibre-trap-507-callejero",
+  "name": "Chilibre Trap 507 Callejero",
+  "category": "scene",
+  "badge": "Chilibre Trap 507",
+  "headline": "Chilibre (Panamá Norte & Valle Verde) Trap 507 Callejero: Pistas WAV & Pago Yappy USD",
+  "description": "Bajos 808 profundos, campanas oscuras y baterías de trap pesado inspiradas en las calles de Chilibre.",
+  "targetArtists": [
+    "Artistas de Chilibre",
+    "Hip-Hop Panamá Scene",
+    "Música Urbana 507"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Chilibre",
+    "Trap 507",
+    "Yappy & USD",
+    "Aprobado SPAC"
+  ],
+  "popularGenres": [
+    "Trap 507 Callejero",
+    "Plena Panameña",
+    "Trap 507"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "chilibre-dancehall-colonense",
+  "name": "Chilibre Dancehall Colonense",
+  "category": "scene",
+  "badge": "Chilibre Dancehall 507",
+  "headline": "Chilibre (Panamá Norte & Valle Verde) Dancehall Colonense: Pistas WAV & Pago Yappy USD",
+  "description": "Metales de sintetizador estridentes, cajas con pegada dura y bajos imponentes para deejays de Chilibre.",
+  "targetArtists": [
+    "Artistas de Chilibre",
+    "Hip-Hop Panamá Scene",
+    "Música Urbana 507"
+  ],
+  "recommendedBpm": "100-112 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Chilibre",
+    "Dancehall 507",
+    "Yappy & USD",
+    "Aprobado SPAC"
+  ],
+  "popularGenres": [
+    "Dancehall Colonense",
+    "Plena Panameña",
+    "Trap 507"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "chilibre-melodic-rnb-trap",
+  "name": "Chilibre Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Chilibre Melodic R&B 507",
+  "headline": "Chilibre (Panamá Norte & Valle Verde) Melodic R&B Trap: Pistas WAV & Pago Yappy USD",
+  "description": "Pianos emotivos estilo Sech, guitarras suaves y baterías de dembow lento para vocalistas de Chilibre.",
+  "targetArtists": [
+    "Artistas de Chilibre",
+    "Hip-Hop Panamá Scene",
+    "Música Urbana 507"
+  ],
+  "recommendedBpm": "92-100 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Chilibre",
+    "Melodic R&B 507",
+    "Yappy & USD",
+    "Aprobado SPAC"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "Plena Panameña",
+    "Trap 507"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
 ];
