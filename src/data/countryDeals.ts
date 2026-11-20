@@ -37068,4 +37068,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "tt/couva-central": {
+  "slug": "tt/couva-central",
+  "name": "Trinidad & Tobago – Couva & Point Lisas (Energy Capital & Industrial Bass)",
+  "flag": "🇹🇹",
+  "currency": "TTD (TT$) / USD ($)",
+  "currencyCode": "TTD",
+  "gateways": "WiPay, Republic Bank, First Citizens, Cards, Apple Pay, PayPal",
+  "pro": "COTT",
+  "proFullName": "COTT",
+  "proGuide": "100% compliant with COTT guidelines with downloadable PDF license.",
+  "headline": "Beats in Couva: Point Lisas Energy, Industrial Sub-Bass & Trinibad",
+  "description": "The industrial and petrochemical powerhouse of Central Trinidad: earth-shattering 808 sub-bass, punchy dancehall snares, and cutting synths for southern and central recording artists.",
+  "popularGenres": [
+    "Couva Industrial Bass",
+    "Central Trinibad",
+    "Point Lisas Heavy Trap"
+  ],
+  "subClusters": []
+},
+  "tt/penal-debe-south": {
+  "slug": "tt/penal-debe-south",
+  "name": "Trinidad & Tobago – Penal & Debe (Indo-Trinidadian Heart & Tassa Soca)",
+  "flag": "🇹🇹",
+  "currency": "TTD (TT$) / USD ($)",
+  "currencyCode": "TTD",
+  "gateways": "WiPay, Republic Bank, First Citizens, Cards, Apple Pay, PayPal",
+  "pro": "COTT",
+  "proFullName": "COTT",
+  "proGuide": "100% original productions with multitrack stem delivery.",
+  "headline": "Beats in Penal & Debe: Tassa Drums, Chutney Soca & Southern Bounce",
+  "description": "The vibrant Indo-Caribbean cultural cradle: authentic Dholak and Tassa drum rolls, energetic brass fanfares, and bouncy modern soca beats engineered for carnival and wedding fete anthems.",
+  "popularGenres": [
+    "Penal Tassa Soca",
+    "Debe Chutney Beat",
+    "Southern Fete Anthem"
+  ],
+  "subClusters": []
+},
+  "tt/princes-town-victoria": {
+  "slug": "tt/princes-town-victoria",
+  "name": "Trinidad & Tobago – Princes Town (Victoria County & Street Dancehall)",
+  "flag": "🇹🇹",
+  "currency": "TTD (TT$) / USD ($)",
+  "currencyCode": "TTD",
+  "gateways": "WiPay, Republic Bank, First Citizens, Cards, Apple Pay, PayPal",
+  "pro": "COTT",
+  "proFullName": "COTT",
+  "proGuide": "100% royalty-free clearance on all master samples.",
+  "headline": "Beats in Princes Town: Crossroads to the Oilfields & Melodic Dancehall",
+  "description": "The bustling southern crossroads: tight minor-key piano melodies, sliding 808s, and fast-paced dancehall percussion crafted for vocalists and deejays in County Victoria.",
+  "popularGenres": [
+    "Princes Town Dancehall",
+    "Victoria Street Drill",
+    "South Crossroad Beat"
+  ],
+  "subClusters": []
+},
+  "tt/tunapuna-piarco-corridor": {
+  "slug": "tt/tunapuna-piarco-corridor",
+  "name": "Trinidad & Tobago – Tunapuna & St. Augustine (UWI Campus & Youth Flow)",
+  "flag": "🇹🇹",
+  "currency": "TTD (TT$) / USD ($)",
+  "currencyCode": "TTD",
+  "gateways": "WiPay, Republic Bank, First Citizens, Cards, Apple Pay, PayPal",
+  "pro": "COTT",
+  "proFullName": "COTT",
+  "proGuide": "100% compatible with digital aggregators and streaming platforms.",
+  "headline": "Beats in Tunapuna: University Energy, Conscious Reggae & Modern Trap",
+  "description": "The student and creative hub of the East-West Corridor: acoustic guitar arpeggios, warm Rhodes keyboards, and contemporary trap-soca beats for the next generation of West Indian creators.",
+  "popularGenres": [
+    "Tunapuna Indie Trap",
+    "St. Augustine Campus Beat",
+    "Corridor Conscious Flow"
+  ],
+  "subClusters": []
+},
+  "tt/morvant-east-dry-river": {
+  "slug": "tt/morvant-east-dry-river",
+  "name": "Trinidad & Tobago – Morvant & East Dry River (Raw Trinibad Drill Capital)",
+  "flag": "🇹🇹",
+  "currency": "TTD (TT$) / USD ($)",
+  "currencyCode": "TTD",
+  "gateways": "WiPay, Republic Bank, First Citizens, Cards, Apple Pay, PayPal",
+  "pro": "COTT",
+  "proFullName": "COTT",
+  "proGuide": "Full commercial sync and streaming monetization rights included.",
+  "headline": "Beats in Morvant: East Dry River, Dark Church Bells & Raw 808 Glides",
+  "description": "The trenches of the modern Caribbean drill explosion: haunting minor-key pianos, icy church bells, and ferocious sliding 808s engineered for raw reality rap and street anthems.",
+  "popularGenres": [
+    "Morvant Raw Drill",
+    "East Dry River Trinibad",
+    "Ghetto Reality 808"
+  ],
+  "subClusters": []
+},
+  "tt/marabella-south-metro": {
+  "slug": "tt/marabella-south-metro",
+  "name": "Trinidad & Tobago – Marabella (Southern Strip & Weekend Club Banger)",
+  "flag": "🇹🇹",
+  "currency": "TTD (TT$) / USD ($)",
+  "currencyCode": "TTD",
+  "gateways": "WiPay, Republic Bank, First Citizens, Cards, Apple Pay, PayPal",
+  "pro": "COTT",
+  "proFullName": "COTT",
+  "proGuide": "100% original productions ready for live performance and radio.",
+  "headline": "Beats in Marabella: Southern Nightlife Strip, Club Trinibad & Dembow",
+  "description": "The entertainment and dining strip of San Fernando: bouncy dancehall claps, syncopated sub-bass rolls, and catchy synth leads tailored for weekend club rotation.",
+  "popularGenres": [
+    "Marabella Club Beat",
+    "South Strip Trinibad",
+    "Weekend Banger TT"
+  ],
+  "subClusters": []
+},
+  "tt/san-juan-barataria": {
+  "slug": "tt/san-juan-barataria",
+  "name": "Trinidad & Tobago – San Juan & Barataria (Corridor Gateway & Zesser Heat)",
+  "flag": "🇹🇹",
+  "currency": "TTD (TT$) / USD ($)",
+  "currencyCode": "TTD",
+  "gateways": "WiPay, Republic Bank, First Citizens, Cards, Apple Pay, PayPal",
+  "pro": "COTT",
+  "proFullName": "COTT",
+  "proGuide": "100% legal under COTT licensing with downloadable PDF agreement.",
+  "headline": "Beats in San Juan: Croisee Commercial Hub, Fast Trap & Zesser Rhythm",
+  "description": "The bustling gateway connecting Port of Spain to the east: fast-paced hi-hats, hard-hitting kicks, and streetwise Caribbean melodies designed for energetic deejay releases.",
+  "popularGenres": [
+    "San Juan Zesser Flow",
+    "Barataria Street Trap",
+    "Croisee Fast Beat"
+  ],
+  "subClusters": []
+},
+  "tt/plymouth-black-rock-tobago": {
+  "slug": "tt/plymouth-black-rock-tobago",
+  "name": "Trinidad & Tobago – Plymouth & Black Rock (Tobago Coast & Heritage Dub)",
+  "flag": "🇹🇹",
+  "currency": "TTD (TT$) / USD ($)",
+  "currencyCode": "TTD",
+  "gateways": "WiPay, Republic Bank, First Citizens, Cards, Apple Pay, PayPal",
+  "pro": "COTT",
+  "proFullName": "COTT",
+  "proGuide": "Licencias con derechos mundiales de monetización.",
+  "headline": "Beats in Plymouth: Tobago Historic Coastline, Surf Dub & Steelpan",
+  "description": "The serene coastal beauty of western Tobago: acoustic guitar skanks, cascading steelpan melodies, and deep, warm sub-bass designed for chillout sessions and beach bar sound systems.",
+  "popularGenres": [
+    "Plymouth Surf Dub",
+    "Black Rock Steelpan",
+    "Tobago Coastline Lofi"
+  ],
+  "subClusters": []
+},
+  "tt/mayaro-guayaguayare-coast": {
+  "slug": "tt/mayaro-guayaguayare-coast",
+  "name": "Trinidad & Tobago – Mayaro & Guayaguayare (Atlantic Coastline & Offshore Bass)",
+  "flag": "🇹🇹",
+  "currency": "TTD (TT$) / USD ($)",
+  "currencyCode": "TTD",
+  "gateways": "WiPay, Republic Bank, First Citizens, Cards, Apple Pay, PayPal",
+  "pro": "COTT",
+  "proFullName": "COTT",
+  "proGuide": "100% original con entrega de stems multitrack.",
+  "headline": "Beats in Mayaro: Atlantic Ocean Waves, Coconut Palm Reggae & Offshore Sub",
+  "description": "The Atlantic coastal paradise and offshore energy frontier: deep rolling basslines, acoustic nylon guitars, and relaxed soca grooves for seaside festivals and road trips.",
+  "popularGenres": [
+    "Mayaro Beach Reggae",
+    "Guayaguayare Offshore Bass",
+    "Atlantic Palm Beat"
+  ],
+  "subClusters": []
+},
+  "tt/siparia-south-border": {
+  "slug": "tt/siparia-south-border",
+  "name": "Trinidad & Tobago – Siparia (Southern Forest Hills & Acoustic Parang Folk)",
+  "flag": "🇹🇹",
+  "currency": "TTD (TT$) / USD ($)",
+  "currencyCode": "TTD",
+  "gateways": "WiPay, Republic Bank, First Citizens, Cards, Apple Pay, PayPal",
+  "pro": "COTT",
+  "proFullName": "COTT",
+  "proGuide": "100% original y listo para monetizar en Spotify.",
+  "headline": "Beats in Siparia: Southern Hills, Acoustic Cuatro & Folk Dancehall",
+  "description": "The spiritual and forested hills of the deep south: acoustic cuatro strumming, traditional chac-chac maracas, and modern 808 sub drops for unique Trinidadian folk-urban crossovers.",
+  "popularGenres": [
+    "Siparia Folk Parang",
+    "Southern Hills Dancehall",
+    "Cuatro Trap Beat"
+  ],
+  "subClusters": []
+},
 };

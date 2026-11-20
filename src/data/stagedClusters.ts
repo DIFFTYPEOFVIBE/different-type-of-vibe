@@ -92875,4 +92875,1300 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "1"
   ]
 },
+  {
+  "slug": "rebel-sixx-sixx-crew-dark-trinibad",
+  "title": "Rebel Sixx 6ixx Crew Dark Trinibad & Raw Street Piano Beat",
+  "description": "Haunting, sinister Trinibad street instrumental inspired by the legacy of Rebel Sixx and the 6ixx crew, featuring minor-key acoustic piano arpeggios, aggressive 808 pitch glides, and cold street reality.",
+  "targetKeywords": [
+    "rebel sixx type beat",
+    "6ixx crew beat",
+    "dark trinibad piano beat",
+    "rebel sixx instrumental",
+    "trinidad street drill raw"
+  ],
+  "heroCta": "Buy Rebel Sixx Beat (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Street Drill, Reality Dancehall and Cinematic Music Video",
+  "similarArtists": [
+    "Rebel Sixx",
+    "Prince Swanny",
+    "Jahllano",
+    "Squash"
+  ],
+  "recommendedBpm": "138-142 BPM",
+  "productionTips": "Layered upright piano with analog tape warble and heavy sub-808 slides jumping two octaves.",
+  "idealVocalStyle": "Sinister patois delivery, street reality storytelling, and aggressive underground cadence.",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "Insuperable for hardcore Caribbean dancehall playlists and viral YouTube street visuals."
+},
+  {
+  "slug": "voice-sing-in-time-inspirational-soca",
+  "title": "Voice Inspirational Groovy Soca & Live Horns Road Anthem Beat",
+  "description": "Uplifting, inspirational groovy soca instrumental inspired by Voice (Year for Love, Far From Finished, Alive and Well), featuring live brass fanfares, acoustic guitars, and triumphant carnival singalong energy.",
+  "targetKeywords": [
+    "voice soca type beat",
+    "year for love instrumental",
+    "inspirational groovy soca beat",
+    "trinidad carnival brass beat",
+    "voice soca anthem"
+  ],
+  "heroCta": "Buy Voice Soca Beat (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Groovy Soca Monarch, Inspirational Anthem and Commercial Single",
+  "similarArtists": [
+    "Voice",
+    "Kes The Band",
+    "Machel Montano",
+    "Nailah Blackman"
+  ],
+  "recommendedBpm": "110-116 BPM",
+  "productionTips": "Bright trumpet and trombone stabs recorded with stereo room ambiance over a driving acoustic guitar and warm bassline.",
+  "idealVocalStyle": "Soulful, melodic vocal delivery with positive conscious lyrics and triumphant choruses.",
+  "suggestedKey": "D Major",
+  "streamingSuitability": "The definitive format for radio rotation, carnival competitions, and stadium singalongs."
+},
+  {
+  "slug": "nailah-blackman-soca-pop-sweet-melodies",
+  "title": "Nailah Blackman Soca-Pop & Sweet Island Tropical Melodies Beat",
+  "description": "Sweet, vibrant Caribbean pop-soca instrumental inspired by Nailah Blackman (Baila Mami, Iron Love), combining iron-drum carnival bounce, lush synthesizer pads, and infectious radio pop hooks.",
+  "targetKeywords": [
+    "nailah blackman type beat",
+    "soca pop instrumental",
+    "baila mami beat",
+    "sweet island soca pop",
+    "trinidad female soca beat"
+  ],
+  "heroCta": "Buy Soca-Pop Beat (Commercial License)",
+  "energyLevel": "High",
+  "primaryUse": "Soca-Pop Commercial, Radio Hit and Summer Music Video",
+  "similarArtists": [
+    "Nailah Blackman",
+    "Patrice Roberts",
+    "Kes The Band",
+    "Shenseea"
+  ],
+  "recommendedBpm": "108-114 BPM",
+  "productionTips": "Crisp percussive iron engine rhythm balanced with modern pop synths and a round, melodic 808.",
+  "idealVocalStyle": "Sweet melodic female or male singing, playful vocal runs, and catchy commercial hooks.",
+  "suggestedKey": "A Major",
+  "streamingSuitability": "Perfect for mainstream radio, international carnival tours, and TikTok summer dance trends."
+},
+  {
+  "slug": "patrice-roberts-groovy-soca-queen",
+  "title": "Patrice Roberts Groovy Soca & Afrobeats-Soca Crossover Beat",
+  "description": "Smooth, sultry groovy soca and afrobeats crossover instrumental inspired by Patrice Roberts (Like Yuh Self, Mind My Business), with organic log drums, acoustic guitar riffs, and seductive carnival bounce.",
+  "targetKeywords": [
+    "patrice roberts type beat",
+    "afrobeats soca crossover beat",
+    "mind my business instrumental",
+    "smooth groovy soca beat",
+    "trinidad carnival queen beat"
+  ],
+  "heroCta": "Buy Groovy Soca Beat (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Afro-Soca Hit, Carnival Fete Anthem and Commercial Release",
+  "similarArtists": [
+    "Patrice Roberts",
+    "Nailah Blackman",
+    "Tiwa Savage",
+    "Kes The Band"
+  ],
+  "recommendedBpm": "106-112 BPM",
+  "productionTips": "Layered amapiano/afrobeats log drum accents beneath a driving groovy soca percussion loop.",
+  "idealVocalStyle": "Sultry, confident singing with rhythmic island cadences and unforgettable choruses.",
+  "suggestedKey": "F# Minor",
+  "streamingSuitability": "Engineered for international crossover between Caribbean fete circuits and global Afropop charts."
+},
+  {
+  "slug": "tassa-drum-fete-trap-fusion",
+  "title": "Trinidad Tassa Drum Ensemble & Trap 808 Carnival Fusion Beat",
+  "description": "Thunderous cultural fusion featuring the authentic Trinidadian Tassa drum ensemble (Dhol bass, cutter, and jhanj cymbals) driving high-energy festival drops over sliding 808 sub-bass.",
+  "targetKeywords": [
+    "tassa drum trap beat",
+    "tassa soca fusion instrumental",
+    "trinidad tassa drum beat",
+    "hosay tassa trap banger",
+    "indo caribbean fete beat"
+  ],
+  "heroCta": "Buy Tassa-Trap Beat (Stems Multitrack)",
+  "energyLevel": "Very High",
+  "primaryUse": "Cultural Carnival Banger, Stadium Entrance and Sound Clash",
+  "similarArtists": [
+    "Ravi B",
+    "Kchiporros",
+    "Bunji Garlin",
+    "Machel Montano"
+  ],
+  "recommendedBpm": "124-130 BPM",
+  "productionTips": "Acoustic Tassa cutter drum rolls in wide stereo with deep Dhol sub hits matched to electronic 808 drops.",
+  "idealVocalStyle": "High-octane crowd hype chanting, rapid patois bars, or traditional chutney-soca phrasing.",
+  "suggestedKey": "G Major",
+  "streamingSuitability": "Insuperable for carnival parade trucks, sports stadiums, and viral dance challenges."
+},
+  {
+  "slug": "plumpy-boss-mad-head-trinibad-bounce",
+  "title": "Plumpy Boss Mad Head Trinibad & Zesser Party Bounce Beat",
+  "description": "High-energy, witty Trinibad street banger inspired by Plumpy Boss and the Zesser movement, featuring bouncy 808 sub-bass, snappy dancehall claps, and staccato brass stabs for club dominance.",
+  "targetKeywords": [
+    "plumpy boss type beat",
+    "mad head trinibad beat",
+    "zesser party dancehall beat",
+    "trinidad street club banger",
+    "plumpy boss instrumental"
+  ],
+  "heroCta": "Buy Plumpy Boss Beat (WAV Mastered)",
+  "energyLevel": "Very High",
+  "primaryUse": "Trinibad Club Banger, Street Single and TikTok Dance Challenge",
+  "similarArtists": [
+    "Plumpy Boss",
+    "Boy Boy",
+    "Prince Swanny",
+    "Skillibeng"
+  ],
+  "recommendedBpm": "100-106 / 138 BPM",
+  "productionTips": "Punchy kick-snare syncopation with bouncy sub-bass portamento and rapid hi-hat rolls.",
+  "idealVocalStyle": "Witty street patois flow, catchy repetitive catchphrases, and raw deejay charisma.",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "Guaranteed viral engagement across TikTok, Caribbean club sets, and YouTube street music videos."
+},
+  {
+  "slug": "jahllano-dark-melodic-trinidad-drill",
+  "title": "Jahllano Dark Melodic Trinidad Drill & Pain in Ghetto Beat",
+  "description": "Emotional and melodic street drill instrumental inspired by Jahllano (War, Ghetto Life), with weeping acoustic guitar loops, melancholic piano chords, and hard sliding 808s reflecting ghetto pain.",
+  "targetKeywords": [
+    "jahllano type beat",
+    "melodic trinibad drill beat",
+    "pain in ghetto trinidad beat",
+    "jahllano instrumental 808",
+    "emotional caribbean drill"
+  ],
+  "heroCta": "Buy Melodic Drill Beat (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Melodic Drill, Conscious Street Rap and Storytelling Video",
+  "similarArtists": [
+    "Jahllano",
+    "Prince Swanny",
+    "Rygin King",
+    "Squash"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "productionTips": "Acoustic nylon-string guitar with analog tape saturation over two-octave sub-808 pitch glides.",
+  "idealVocalStyle": "Autotuned emotional singing, heartfelt pain lyrics, and street-conscious patois storytelling.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Insuperable for emotional street playlists, YouTube visuals, and heartfelt Caribbean anthems."
+},
+  {
+  "slug": "calypso-classic-lord-kitchener-steel",
+  "title": "Lord Kitchener & Mighty Sparrow Calypso & Trap 808 Fusion Beat",
+  "description": "Golden-era cultural tribute fusing the timeless acoustic guitars and brass swing of Calypso monarchs Lord Kitchener and Mighty Sparrow with modern trap drums and sub-bass.",
+  "targetKeywords": [
+    "calypso trap beat",
+    "lord kitchener instrumental remix",
+    "mighty sparrow calypso beat",
+    "vintage trinidad calypso trap",
+    "traditional calypso 808"
+  ],
+  "heroCta": "Buy Calypso Trap Beat (Stems Multitrack)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Cultural Crossover, Tourism Soundtrack and Heritage Hip-Hop",
+  "similarArtists": [
+    "Lord Kitchener",
+    "Mighty Sparrow",
+    "David Rudder",
+    "Boi-1da"
+  ],
+  "recommendedBpm": "100-108 BPM",
+  "productionTips": "Warm acoustic guitar strumming and vintage brass riffs layered over a modern 808 trap drum groove.",
+  "idealVocalStyle": "Witty calypso storytelling, humorous double-entendre lyricism, or conscious spoken word.",
+  "suggestedKey": "C Major",
+  "streamingSuitability": "Perfect for film soundtracks, tourism commercials, and culturally resonant hip-hop releases."
+},
+  {
+  "slug": "sea-lots-harbor-raw-zesser-trap",
+  "title": "Sea Lots Harbor Raw Zesser Trap & Port of Spain Ghetto Bass Beat",
+  "description": "Uncompromising, industrial street trap instrumental representing the Sea Lots and Morvant waterfront: shipping dock echoes, dark industrial sirens, and distorted sub-bass drops.",
+  "targetKeywords": [
+    "sea lots trap beat",
+    "raw zesser instrumental",
+    "port of spain harbor drill beat",
+    "trinidad underground trap 808",
+    "sea lots street sound"
+  ],
+  "heroCta": "Buy Sea Lots Trap Beat (WAV Mastered)",
+  "energyLevel": "Very High",
+  "primaryUse": "Raw Reality Rap, Underground Street Visuals and Sound Clash",
+  "similarArtists": [
+    "Prince Swanny",
+    "Rebel Sixx",
+    "Paky",
+    "Crypy"
+  ],
+  "recommendedBpm": "134-140 BPM",
+  "productionTips": "Low-pass filtered industrial percussion layers with an aggressive, saturated 808 that shakes room walls.",
+  "idealVocalStyle": "Gritty street patois delivery, cold reality lyrics, and aggressive confrontation bars.",
+  "suggestedKey": "G Minor",
+  "streamingSuitability": "The definitive sound for raw underground Caribbean street music."
+},
+  {
+  "slug": "maracas-bay-bake-and-shark-lofi",
+  "title": "Maracas Bay Bake & Shark Sunset Lofi & North Coast Beats",
+  "description": "Chill, relaxing coastal vibes inspired by Maracas Bay and North Coast road trips: acoustic nylon guitar chords, breaking ocean waves, warm Rhodes piano, and mellow island chillhop drums.",
+  "targetKeywords": [
+    "maracas bay lofi beat",
+    "trinidad chillhop island beat",
+    "relaxing caribbean lofi",
+    "bake and shark sunset beat",
+    "trinidad beach lofi 868"
+  ],
+  "heroCta": "Buy Maracas Bay Lofi (Unlimited Use)",
+  "energyLevel": "Low",
+  "primaryUse": "Island Chillhop, Travel Vlogs, Study Relaxing and Beach Videos",
+  "similarArtists": [
+    "Monte",
+    "Tomppabeats",
+    "Nujabes",
+    "Kes The Band"
+  ],
+  "recommendedBpm": "78-84 BPM",
+  "productionTips": "Field recordings of North Coast surf layered beneath a warm, tape-saturated Rhodes electric piano.",
+  "idealVocalStyle": "Spoken word, conscious poetic singing, or relaxing background listening.",
+  "suggestedKey": "E Major",
+  "streamingSuitability": "Perfect for study playlists, travel content creators, and chilled beach bar atmospheres."
+},
+  {
+  "slug": "sound-clash-kingston-to-port-of-spain",
+  "title": "Sound Clash Kingston to Port of Spain Dancehall Battle Beat",
+  "description": "High-intensity dancehall sound clash instrumental built for sound system selector duels between Kingston and Port of Spain: razor snares, siren horns, and dramatic 4th-bar punchline mic drops.",
+  "targetKeywords": [
+    "sound clash beat 808",
+    "kingston to port of spain dancehall",
+    "deejay battle instrumental",
+    "caribbean clash riddim",
+    "dancehall dubplate beat"
+  ],
+  "heroCta": "Buy Sound Clash Beat (Untagged)",
+  "energyLevel": "Very High",
+  "primaryUse": "Sound System Clash, Dubplate Specials and Deejay Battles",
+  "similarArtists": [
+    "Prince Swanny",
+    "Skillibeng",
+    "Vybz Kartel",
+    "Bounty Killer"
+  ],
+  "recommendedBpm": "96-102 / 140 BPM",
+  "productionTips": "Thunderous kick-snare punch with authentic dub siren FX and complete rhythmic dropouts for dubplate intros.",
+  "idealVocalStyle": "Commanding sound clash delivery, deadly dubplate lyrics, and crowd hype authority.",
+  "suggestedKey": "E Minor",
+  "streamingSuitability": "Essential for sound clash selectors, dubplate specials, and online deejay battles."
+},
+  {
+  "slug": "van-audio-trinidad-extreme-spl-sub",
+  "title": "Maxi Taxi Van Audio Trinidad Extreme SPL Subwoofer 32 Hz Beat",
+  "description": "The ultimate celebration of Trinidad's world-famous 'maxi taxi' and sound van audio competition culture: sub-bass frequencies tuned down to 32 Hz to vibrate glass and blow air through horn stacks.",
+  "targetKeywords": [
+    "maxi taxi van audio beat",
+    "subwoofer 32hz trinidad trap",
+    "bases para sound van trinidad",
+    "heavy bass 868 car audio",
+    "spl competition bass beat"
+  ],
+  "heroCta": "Buy Van Audio Beat (WAV Mastered)",
+  "energyLevel": "Very High",
+  "primaryUse": "Car Audio Competitions, Sound Van Exhibitions and Street Hype",
+  "similarArtists": [
+    "Prince Swanny",
+    "Mister H",
+    "Danger Man",
+    "Crypy"
+  ],
+  "recommendedBpm": "138-142 BPM",
+  "productionTips": "Pure 35Hz sine wave with second and fourth harmonic saturation for maximum acoustic displacement.",
+  "idealVocalStyle": "Aggressive hype vocals, repetitive singalong hooks, and party chants.",
+  "suggestedKey": "F Minor",
+  "streamingSuitability": "The undisputed favorite for car audio shows, night cruises, and modified vehicle gatherings."
+},
+  {
+  "slug": "affordable-trinibad-beats-wipay-checkout",
+  "title": "Affordable Trinibad Beats with Instant WiPay Checkout (TTD & USD)",
+  "description": "Budget-friendly, high-quality Trinibad dancehall instrumentals for emerging Caribbean artists starting from $15 USD / $100 TTD with instant WiPay voucher and card checkout.",
+  "targetKeywords": [
+    "affordable trinibad beats wipay",
+    "cheap dancehall beats trinidad",
+    "buy trinibad beats under 20 dollars",
+    "budget caribbean drill beats"
+  ],
+  "heroCta": "Browse Affordable Beats (From $15 USD / $100 TTD)",
+  "energyLevel": "High",
+  "primaryUse": "Demo Recordings, Songwriting Practice and Breakthrough Singles",
+  "similarArtists": [
+    "Trinidad Urban Music Scene",
+    "New Talent 868"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "productionTips": "Direct verse-chorus song structures formatted for rapid recording and vocal sketching.",
+  "idealVocalStyle": "Versatile delivery for up-and-coming recording artists.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Includes commercial license valid up to 25,000 streams on digital platforms."
+},
+  {
+  "slug": "groovy-soca-instrumentals-with-guitars-wav",
+  "title": "Groovy Soca Instrumentals with Live Acoustic Guitars in WAV Studio",
+  "description": "Commercial groovy soca instrumentals featuring live acoustic guitar tracks, warm synth brass, and radio-ready balance delivered in pristine 24-bit studio WAV format.",
+  "targetKeywords": [
+    "groovy soca instrumentals with guitars",
+    "soca beats acoustic guitar wav",
+    "kes the band style groovy soca",
+    "trinidad carnival radio beats"
+  ],
+  "heroCta": "Buy Groovy Soca Beat (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Commercial Radio Single, Island Pop Track and Carnival Release",
+  "similarArtists": [
+    "Kes The Band",
+    "Voice",
+    "Nailah Blackman",
+    "Patrice Roberts"
+  ],
+  "recommendedBpm": "108-114 BPM",
+  "productionTips": "Stereo acoustic guitar tracks recorded with clean preamps and non-muddy bass synthesis.",
+  "idealVocalStyle": "Smooth melodic vocal delivery, heartfelt lyrics, and catchy singalong hooks.",
+  "suggestedKey": "D Major",
+  "streamingSuitability": "Guaranteed 100% royalty monetization on Spotify, Apple Music, and YouTube."
+},
+  {
+  "slug": "power-soca-carnival-road-march-beats-stems",
+  "title": "Power Soca Carnival Road March Beats 135 BPM with Full Stems",
+  "description": "High-speed 130-135 BPM power soca road march beats featuring explosive horn fanfares, frantic iron engine percussion, and separated multitrack stems for studio mixing.",
+  "targetKeywords": [
+    "power soca road march beats stems",
+    "135 bpm carnival soca beats",
+    "machel montano power soca wav",
+    "trinidad road march beats stems"
+  ],
+  "heroCta": "Download Road March Beat (With Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Road March Contender, Stadium Performance and Carnival Truck Track",
+  "similarArtists": [
+    "Machel Montano",
+    "Bunji Garlin",
+    "Skinny Fabulous",
+    "Fay-Ann Lyons"
+  ],
+  "recommendedBpm": "132-136 BPM",
+  "productionTips": "Categorized stem folders with separated live brass, percussive iron engine, and bass.",
+  "idealVocalStyle": "Commanding carnival hype chanting and crowd interaction commands.",
+  "suggestedKey": "G Major",
+  "streamingSuitability": "Maximum mixing flexibility for audio engineers preparing festival releases."
+},
+  {
+  "slug": "dark-piano-trinibad-drill-beats-808s",
+  "title": "Dark Piano Trinibad Drill Beats with Heavy 808 Portamento",
+  "description": "Menacing and cinematic street drill instrumentals featuring dark minor-key acoustic piano chords and extreme two-octave sliding sub-808s engineered for Port of Spain bars.",
+  "targetKeywords": [
+    "dark piano trinibad drill beats",
+    "trinibad piano 808s",
+    "rebel sixx prince swanny style beats",
+    "haunting caribbean drill wav"
+  ],
+  "heroCta": "Buy Dark Piano Trinibad (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hardcore Reality Rap, Music Videos and Street Anthems",
+  "similarArtists": [
+    "Rebel Sixx",
+    "Prince Swanny",
+    "Jahllano",
+    "Popcaan"
+  ],
+  "recommendedBpm": "138-142 BPM",
+  "productionTips": "Upright piano with tape warble layered over aggressive sub-808 slides jumping across octaves.",
+  "idealVocalStyle": "Cold street patois flows, aggressive deejay deliveries, and pain-in-the-ghetto bars.",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "Insuperable for hardcore Caribbean dancehall playlists and viral YouTube street visuals."
+},
+  {
+  "slug": "album-mixtape-beat-packages-trinidad-discount",
+  "title": "Album & Mixtape Beat Packages in Trinidad (Save up to 40% in TTD)",
+  "description": "Special multi-beat bundle packages for Caribbean artists recording full albums or EPs: get 5 or 10 instrumentals with volume discount and direct producer mixing support.",
+  "targetKeywords": [
+    "album mixtape beat packages trinidad",
+    "bulk beats discount wipay ttd",
+    "discount beat package port of spain",
+    "mixtape instrumental deal trinidad"
+  ],
+  "heroCta": "View Album Packages (Save up to 40%)",
+  "energyLevel": "Variable",
+  "primaryUse": "Full EP Production, Studio Albums and Continuous Projects",
+  "similarArtists": [
+    "Caribbean Artists and Bands"
+  ],
+  "recommendedBpm": "88-144 BPM",
+  "productionTips": "Curated sonic uniformity ensuring your album flows smoothly from intro to outro.",
+  "idealVocalStyle": "Adaptable across the artist's full vocal range and stylistic concepts.",
+  "suggestedKey": "Various Keys",
+  "streamingSuitability": "Extended commercial licenses valid for multiple simultaneous releases."
+},
+  {
+  "slug": "afro-soca-fusion-beats-105-bpm-radio",
+  "title": "Afro-Soca Fusion Beats 105 BPM for International Radio Release",
+  "description": "Seductive and infectious fusion of West African afrobeats percussions and sweet Trinidadian groovy soca bounce at 105-110 BPM, engineered for international streaming charts.",
+  "targetKeywords": [
+    "afro soca fusion beats 105 bpm",
+    "afrobeats soca radio beat",
+    "patrice roberts nailah blackman type beat",
+    "caribbean afropop crossover wav"
+  ],
+  "heroCta": "Download Afro-Soca Beat (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "International Radio Single, Summer Island Anthem and Commercial Release",
+  "similarArtists": [
+    "Patrice Roberts",
+    "Tiwa Savage",
+    "Kes The Band",
+    "Burna Boy"
+  ],
+  "recommendedBpm": "106-110 BPM",
+  "productionTips": "Organic log drum bass accents beneath a driving groovy soca percussion loop.",
+  "idealVocalStyle": "Sultry, confident vocal delivery with rhythmic island cadences and memorable hooks.",
+  "suggestedKey": "F# Minor",
+  "streamingSuitability": "Ideal for global crossover across African, Caribbean, and European urban charts."
+},
+  {
+  "slug": "untagged-caribbean-dancehall-beats-wav-stems",
+  "title": "Untagged Caribbean Dancehall & Trinibad Beats with WAV Stems",
+  "description": "Premium Caribbean dancehall and Trinibad instrumentals delivered 100% voice-tag free with complete multitrack stems for unrestricted recording in studios across Trinidad & Tobago.",
+  "targetKeywords": [
+    "untagged caribbean dancehall beats",
+    "trinibad beats without voice tags",
+    "dancehall beats with wav stems port of spain",
+    "untagged zesser drill beats"
+  ],
+  "heroCta": "Buy Untagged Dancehall Beat (With Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Studio Master Recording, Commercial Releases and Music Videos",
+  "similarArtists": [
+    "Prince Swanny",
+    "Skillibeng",
+    "Popcaan",
+    "Plumpy Boss"
+  ],
+  "recommendedBpm": "100-142 BPM",
+  "productionTips": "Every drum, synth, and bass track separated at -6dB headroom for seamless vocal mastering.",
+  "idealVocalStyle": "Hard-hitting patois flows, vocal harmonies, and melodic deejay choruses.",
+  "suggestedKey": "Various Keys",
+  "streamingSuitability": "100% royalty monetization and freedom across all digital platforms."
+},
+  {
+  "slug": "cott-mechanical-license-royalty-splits-pdf",
+  "title": "COTT Mechanical License & Producer Royalty Split Agreement (PDF)",
+  "description": "Download an official legal licensing contract in PDF format ready for registration with the Copyright Music Organisation of Trinidad and Tobago (COTT) protecting your master and publishing splits.",
+  "targetKeywords": [
+    "cott mechanical license contract pdf",
+    "copyright music organisation trinidad contract",
+    "producer split sheet agreement trinidad",
+    "legal music contract caribbean"
+  ],
+  "heroCta": "Download COTT Split Agreement (Instant PDF)",
+  "energyLevel": "N/A",
+  "primaryUse": "Copyright Protection, Publishing Royalty Splits and COTT Registration",
+  "similarArtists": [
+    "Onzieb",
+    "COTT Registered Songwriters and Publishers"
+  ],
+  "recommendedBpm": "All Tempos",
+  "productionTips": "Formulated under Trinidad & Tobago copyright law ensuring 100% writer protection.",
+  "idealVocalStyle": "Valid across all original musical compositions.",
+  "suggestedKey": "All Keys",
+  "streamingSuitability": "Guaranteed legal protection and worry-free global commercial distribution."
+},
+  {
+  "slug": "online-beatmaker-producer-trinidad-onzieb",
+  "title": "Online Music Producer for Trinidad & Tobago Artists (Producer Onzieb)",
+  "description": "Connect directly with music producer Onzieb via WhatsApp for custom beat commissions, executive production, and personalized mix arrangements tailored for Caribbean artists.",
+  "targetKeywords": [
+    "online music producer trinidad",
+    "onzieb beatmaker caribbean",
+    "custom soca trinibad producer",
+    "hire music producer port of spain whatsapp"
+  ],
+  "heroCta": "Chat with Onzieb on WhatsApp",
+  "energyLevel": "Custom",
+  "primaryUse": "Career-Defining Projects, Executive Production and Label Submissions",
+  "similarArtists": [
+    "Onzieb",
+    "Prince Swanny",
+    "Machel Montano"
+  ],
+  "recommendedBpm": "Customized to your project",
+  "productionTips": "Interactive arrangement reviews and key/tempo adjustments matching your exact vocal range.",
+  "idealVocalStyle": "Collaborative production designed to elevate your unique artistic identity.",
+  "suggestedKey": "Personalized",
+  "streamingSuitability": "Delivery of industry-standard master files ready for radio airplay and DSP placement."
+},
+  {
+  "slug": "free-trinibad-drum-kit-and-demo-beats-mp3",
+  "title": "Download Free Trinibad & Soca Demo Beats in MP3 (320 kbps)",
+  "description": "Complimentary demo beat pack featuring 3 high-quality instrumentals (Trinibad drill, carnival power soca, and acoustic groovy soca) in 320 kbps MP3 quality for writing demos.",
+  "targetKeywords": [
+    "free trinibad beats mp3 download",
+    "free soca instrumentals trinidad",
+    "download free caribbean beats 320kbps",
+    "free demo beats port of spain"
+  ],
+  "heroCta": "Download Free Demo Beats (Instant Access)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Home Studio Demos, Lyric Writing and Rehearsals",
+  "similarArtists": [
+    "Trinidad Urban Music Community",
+    "Emerging West Indian Artists"
+  ],
+  "recommendedBpm": "100, 112, 138 BPM",
+  "productionTips": "Includes a subtle courtesy producer tag; removed completely upon commercial license purchase.",
+  "idealVocalStyle": "Open space for testing vocal flows, song structures, and choruses.",
+  "suggestedKey": "Various",
+  "streamingSuitability": "Permitted for non-commercial promotional demos on YouTube, SoundCloud, and social media."
+},
+  {
+  "slug": "couva-trinibad-dancehall-drill",
+  "name": "Couva Trinibad Dancehall Drill Beats",
+  "category": "scene",
+  "badge": "Couva Trinibad 808",
+  "headline": "Couva (Central Point Lisas) Trinibad Dancehall Drill Beats: 24-Bit WAV Beats & WiPay Checkout",
+  "description": "Heavy sliding 808s, dark acoustic pianos, and syncopated dancehall drums designed for artists in Couva.",
+  "targetArtists": [
+    "Artists from Couva",
+    "Trinidad Urban Music Scene",
+    "Caribbean Dancehall Community"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Couva",
+    "Trinibad 808",
+    "WiPay TTD & USD",
+    "COTT Compliant"
+  ],
+  "popularGenres": [
+    "Trinibad Dancehall Drill Beats",
+    "Trinibad Dancehall",
+    "Groovy Soca"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "couva-power-soca-banger",
+  "name": "Couva Power Soca Road March Beats",
+  "category": "scene",
+  "badge": "Couva Power Soca",
+  "headline": "Couva (Central Point Lisas) Power Soca Road March Beats: 24-Bit WAV Beats & WiPay Checkout",
+  "description": "High-octane carnival brass fanfares, driving 130-135 BPM percussion, and sound truck energy for Couva.",
+  "targetArtists": [
+    "Artists from Couva",
+    "Trinidad Urban Music Scene",
+    "Caribbean Dancehall Community"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "G-Major / D-Major",
+  "vibeAttributes": [
+    "Couva",
+    "Power Soca",
+    "WiPay TTD & USD",
+    "COTT Compliant"
+  ],
+  "popularGenres": [
+    "Power Soca Road March Beats",
+    "Trinibad Dancehall",
+    "Groovy Soca"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "couva-groovy-soca-afroswing",
+  "name": "Couva Groovy Soca Afroswing",
+  "category": "scene",
+  "badge": "Couva Groovy Soca",
+  "headline": "Couva (Central Point Lisas) Groovy Soca Afroswing: 24-Bit WAV Beats & WiPay Checkout",
+  "description": "Acoustic island guitars, smooth synth pads, and melodic 105-112 BPM grooves for vocalists in Couva.",
+  "targetArtists": [
+    "Artists from Couva",
+    "Trinidad Urban Music Scene",
+    "Caribbean Dancehall Community"
+  ],
+  "recommendedBpm": "108-114 BPM",
+  "recommendedKey": "D-Major / A-Major",
+  "vibeAttributes": [
+    "Couva",
+    "Groovy Soca",
+    "WiPay TTD & USD",
+    "COTT Compliant"
+  ],
+  "popularGenres": [
+    "Groovy Soca Afroswing",
+    "Trinibad Dancehall",
+    "Groovy Soca"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "couva-caribbean-trap-808",
+  "name": "Couva Caribbean Steelpan Trap",
+  "category": "scene",
+  "badge": "Couva Steelpan Trap",
+  "headline": "Couva (Central Point Lisas) Caribbean Steelpan Trap: 24-Bit WAV Beats & WiPay Checkout",
+  "description": "Cascading acoustic steelpan melodies, deep 808 sub drops, and crisp trap drums for artists in Couva.",
+  "targetArtists": [
+    "Artists from Couva",
+    "Trinidad Urban Music Scene",
+    "Caribbean Dancehall Community"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Couva",
+    "Steelpan Trap",
+    "WiPay TTD & USD",
+    "COTT Compliant"
+  ],
+  "popularGenres": [
+    "Caribbean Steelpan Trap",
+    "Trinibad Dancehall",
+    "Groovy Soca"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "penal-trinibad-dancehall-drill",
+  "name": "Penal Trinibad Dancehall Drill Beats",
+  "category": "scene",
+  "badge": "Penal Trinibad 808",
+  "headline": "Penal (South Indo-Caribbean) Trinibad Dancehall Drill Beats: 24-Bit WAV Beats & WiPay Checkout",
+  "description": "Heavy sliding 808s, dark acoustic pianos, and syncopated dancehall drums designed for artists in Penal.",
+  "targetArtists": [
+    "Artists from Penal",
+    "Trinidad Urban Music Scene",
+    "Caribbean Dancehall Community"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Penal",
+    "Trinibad 808",
+    "WiPay TTD & USD",
+    "COTT Compliant"
+  ],
+  "popularGenres": [
+    "Trinibad Dancehall Drill Beats",
+    "Trinibad Dancehall",
+    "Groovy Soca"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "penal-power-soca-banger",
+  "name": "Penal Power Soca Road March Beats",
+  "category": "scene",
+  "badge": "Penal Power Soca",
+  "headline": "Penal (South Indo-Caribbean) Power Soca Road March Beats: 24-Bit WAV Beats & WiPay Checkout",
+  "description": "High-octane carnival brass fanfares, driving 130-135 BPM percussion, and sound truck energy for Penal.",
+  "targetArtists": [
+    "Artists from Penal",
+    "Trinidad Urban Music Scene",
+    "Caribbean Dancehall Community"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "G-Major / D-Major",
+  "vibeAttributes": [
+    "Penal",
+    "Power Soca",
+    "WiPay TTD & USD",
+    "COTT Compliant"
+  ],
+  "popularGenres": [
+    "Power Soca Road March Beats",
+    "Trinibad Dancehall",
+    "Groovy Soca"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "penal-groovy-soca-afroswing",
+  "name": "Penal Groovy Soca Afroswing",
+  "category": "scene",
+  "badge": "Penal Groovy Soca",
+  "headline": "Penal (South Indo-Caribbean) Groovy Soca Afroswing: 24-Bit WAV Beats & WiPay Checkout",
+  "description": "Acoustic island guitars, smooth synth pads, and melodic 105-112 BPM grooves for vocalists in Penal.",
+  "targetArtists": [
+    "Artists from Penal",
+    "Trinidad Urban Music Scene",
+    "Caribbean Dancehall Community"
+  ],
+  "recommendedBpm": "108-114 BPM",
+  "recommendedKey": "D-Major / A-Major",
+  "vibeAttributes": [
+    "Penal",
+    "Groovy Soca",
+    "WiPay TTD & USD",
+    "COTT Compliant"
+  ],
+  "popularGenres": [
+    "Groovy Soca Afroswing",
+    "Trinibad Dancehall",
+    "Groovy Soca"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "penal-caribbean-trap-808",
+  "name": "Penal Caribbean Steelpan Trap",
+  "category": "scene",
+  "badge": "Penal Steelpan Trap",
+  "headline": "Penal (South Indo-Caribbean) Caribbean Steelpan Trap: 24-Bit WAV Beats & WiPay Checkout",
+  "description": "Cascading acoustic steelpan melodies, deep 808 sub drops, and crisp trap drums for artists in Penal.",
+  "targetArtists": [
+    "Artists from Penal",
+    "Trinidad Urban Music Scene",
+    "Caribbean Dancehall Community"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Penal",
+    "Steelpan Trap",
+    "WiPay TTD & USD",
+    "COTT Compliant"
+  ],
+  "popularGenres": [
+    "Caribbean Steelpan Trap",
+    "Trinibad Dancehall",
+    "Groovy Soca"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "tunapuna-trinibad-dancehall-drill",
+  "name": "Tunapuna Trinibad Dancehall Drill Beats",
+  "category": "scene",
+  "badge": "Tunapuna Trinibad 808",
+  "headline": "Tunapuna (East-West UWI) Trinibad Dancehall Drill Beats: 24-Bit WAV Beats & WiPay Checkout",
+  "description": "Heavy sliding 808s, dark acoustic pianos, and syncopated dancehall drums designed for artists in Tunapuna.",
+  "targetArtists": [
+    "Artists from Tunapuna",
+    "Trinidad Urban Music Scene",
+    "Caribbean Dancehall Community"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Tunapuna",
+    "Trinibad 808",
+    "WiPay TTD & USD",
+    "COTT Compliant"
+  ],
+  "popularGenres": [
+    "Trinibad Dancehall Drill Beats",
+    "Trinibad Dancehall",
+    "Groovy Soca"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "tunapuna-power-soca-banger",
+  "name": "Tunapuna Power Soca Road March Beats",
+  "category": "scene",
+  "badge": "Tunapuna Power Soca",
+  "headline": "Tunapuna (East-West UWI) Power Soca Road March Beats: 24-Bit WAV Beats & WiPay Checkout",
+  "description": "High-octane carnival brass fanfares, driving 130-135 BPM percussion, and sound truck energy for Tunapuna.",
+  "targetArtists": [
+    "Artists from Tunapuna",
+    "Trinidad Urban Music Scene",
+    "Caribbean Dancehall Community"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "G-Major / D-Major",
+  "vibeAttributes": [
+    "Tunapuna",
+    "Power Soca",
+    "WiPay TTD & USD",
+    "COTT Compliant"
+  ],
+  "popularGenres": [
+    "Power Soca Road March Beats",
+    "Trinibad Dancehall",
+    "Groovy Soca"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "tunapuna-groovy-soca-afroswing",
+  "name": "Tunapuna Groovy Soca Afroswing",
+  "category": "scene",
+  "badge": "Tunapuna Groovy Soca",
+  "headline": "Tunapuna (East-West UWI) Groovy Soca Afroswing: 24-Bit WAV Beats & WiPay Checkout",
+  "description": "Acoustic island guitars, smooth synth pads, and melodic 105-112 BPM grooves for vocalists in Tunapuna.",
+  "targetArtists": [
+    "Artists from Tunapuna",
+    "Trinidad Urban Music Scene",
+    "Caribbean Dancehall Community"
+  ],
+  "recommendedBpm": "108-114 BPM",
+  "recommendedKey": "D-Major / A-Major",
+  "vibeAttributes": [
+    "Tunapuna",
+    "Groovy Soca",
+    "WiPay TTD & USD",
+    "COTT Compliant"
+  ],
+  "popularGenres": [
+    "Groovy Soca Afroswing",
+    "Trinibad Dancehall",
+    "Groovy Soca"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "tunapuna-caribbean-trap-808",
+  "name": "Tunapuna Caribbean Steelpan Trap",
+  "category": "scene",
+  "badge": "Tunapuna Steelpan Trap",
+  "headline": "Tunapuna (East-West UWI) Caribbean Steelpan Trap: 24-Bit WAV Beats & WiPay Checkout",
+  "description": "Cascading acoustic steelpan melodies, deep 808 sub drops, and crisp trap drums for artists in Tunapuna.",
+  "targetArtists": [
+    "Artists from Tunapuna",
+    "Trinidad Urban Music Scene",
+    "Caribbean Dancehall Community"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Tunapuna",
+    "Steelpan Trap",
+    "WiPay TTD & USD",
+    "COTT Compliant"
+  ],
+  "popularGenres": [
+    "Caribbean Steelpan Trap",
+    "Trinibad Dancehall",
+    "Groovy Soca"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "morvant-trinibad-dancehall-drill",
+  "name": "Morvant Trinibad Dancehall Drill Beats",
+  "category": "scene",
+  "badge": "Morvant Trinibad 808",
+  "headline": "Morvant (East Dry River) Trinibad Dancehall Drill Beats: 24-Bit WAV Beats & WiPay Checkout",
+  "description": "Heavy sliding 808s, dark acoustic pianos, and syncopated dancehall drums designed for artists in Morvant.",
+  "targetArtists": [
+    "Artists from Morvant",
+    "Trinidad Urban Music Scene",
+    "Caribbean Dancehall Community"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Morvant",
+    "Trinibad 808",
+    "WiPay TTD & USD",
+    "COTT Compliant"
+  ],
+  "popularGenres": [
+    "Trinibad Dancehall Drill Beats",
+    "Trinibad Dancehall",
+    "Groovy Soca"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "morvant-power-soca-banger",
+  "name": "Morvant Power Soca Road March Beats",
+  "category": "scene",
+  "badge": "Morvant Power Soca",
+  "headline": "Morvant (East Dry River) Power Soca Road March Beats: 24-Bit WAV Beats & WiPay Checkout",
+  "description": "High-octane carnival brass fanfares, driving 130-135 BPM percussion, and sound truck energy for Morvant.",
+  "targetArtists": [
+    "Artists from Morvant",
+    "Trinidad Urban Music Scene",
+    "Caribbean Dancehall Community"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "G-Major / D-Major",
+  "vibeAttributes": [
+    "Morvant",
+    "Power Soca",
+    "WiPay TTD & USD",
+    "COTT Compliant"
+  ],
+  "popularGenres": [
+    "Power Soca Road March Beats",
+    "Trinibad Dancehall",
+    "Groovy Soca"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "morvant-groovy-soca-afroswing",
+  "name": "Morvant Groovy Soca Afroswing",
+  "category": "scene",
+  "badge": "Morvant Groovy Soca",
+  "headline": "Morvant (East Dry River) Groovy Soca Afroswing: 24-Bit WAV Beats & WiPay Checkout",
+  "description": "Acoustic island guitars, smooth synth pads, and melodic 105-112 BPM grooves for vocalists in Morvant.",
+  "targetArtists": [
+    "Artists from Morvant",
+    "Trinidad Urban Music Scene",
+    "Caribbean Dancehall Community"
+  ],
+  "recommendedBpm": "108-114 BPM",
+  "recommendedKey": "D-Major / A-Major",
+  "vibeAttributes": [
+    "Morvant",
+    "Groovy Soca",
+    "WiPay TTD & USD",
+    "COTT Compliant"
+  ],
+  "popularGenres": [
+    "Groovy Soca Afroswing",
+    "Trinibad Dancehall",
+    "Groovy Soca"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "morvant-caribbean-trap-808",
+  "name": "Morvant Caribbean Steelpan Trap",
+  "category": "scene",
+  "badge": "Morvant Steelpan Trap",
+  "headline": "Morvant (East Dry River) Caribbean Steelpan Trap: 24-Bit WAV Beats & WiPay Checkout",
+  "description": "Cascading acoustic steelpan melodies, deep 808 sub drops, and crisp trap drums for artists in Morvant.",
+  "targetArtists": [
+    "Artists from Morvant",
+    "Trinidad Urban Music Scene",
+    "Caribbean Dancehall Community"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Morvant",
+    "Steelpan Trap",
+    "WiPay TTD & USD",
+    "COTT Compliant"
+  ],
+  "popularGenres": [
+    "Caribbean Steelpan Trap",
+    "Trinibad Dancehall",
+    "Groovy Soca"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "point-fortin-trinibad-dancehall-drill",
+  "name": "Point Fortin Trinibad Dancehall Drill Beats",
+  "category": "scene",
+  "badge": "Point Fortin Trinibad 808",
+  "headline": "Point Fortin (South West Borough) Trinibad Dancehall Drill Beats: 24-Bit WAV Beats & WiPay Checkout",
+  "description": "Heavy sliding 808s, dark acoustic pianos, and syncopated dancehall drums designed for artists in Point Fortin.",
+  "targetArtists": [
+    "Artists from Point Fortin",
+    "Trinidad Urban Music Scene",
+    "Caribbean Dancehall Community"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Point Fortin",
+    "Trinibad 808",
+    "WiPay TTD & USD",
+    "COTT Compliant"
+  ],
+  "popularGenres": [
+    "Trinibad Dancehall Drill Beats",
+    "Trinibad Dancehall",
+    "Groovy Soca"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "point-fortin-power-soca-banger",
+  "name": "Point Fortin Power Soca Road March Beats",
+  "category": "scene",
+  "badge": "Point Fortin Power Soca",
+  "headline": "Point Fortin (South West Borough) Power Soca Road March Beats: 24-Bit WAV Beats & WiPay Checkout",
+  "description": "High-octane carnival brass fanfares, driving 130-135 BPM percussion, and sound truck energy for Point Fortin.",
+  "targetArtists": [
+    "Artists from Point Fortin",
+    "Trinidad Urban Music Scene",
+    "Caribbean Dancehall Community"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "G-Major / D-Major",
+  "vibeAttributes": [
+    "Point Fortin",
+    "Power Soca",
+    "WiPay TTD & USD",
+    "COTT Compliant"
+  ],
+  "popularGenres": [
+    "Power Soca Road March Beats",
+    "Trinibad Dancehall",
+    "Groovy Soca"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "point-fortin-groovy-soca-afroswing",
+  "name": "Point Fortin Groovy Soca Afroswing",
+  "category": "scene",
+  "badge": "Point Fortin Groovy Soca",
+  "headline": "Point Fortin (South West Borough) Groovy Soca Afroswing: 24-Bit WAV Beats & WiPay Checkout",
+  "description": "Acoustic island guitars, smooth synth pads, and melodic 105-112 BPM grooves for vocalists in Point Fortin.",
+  "targetArtists": [
+    "Artists from Point Fortin",
+    "Trinidad Urban Music Scene",
+    "Caribbean Dancehall Community"
+  ],
+  "recommendedBpm": "108-114 BPM",
+  "recommendedKey": "D-Major / A-Major",
+  "vibeAttributes": [
+    "Point Fortin",
+    "Groovy Soca",
+    "WiPay TTD & USD",
+    "COTT Compliant"
+  ],
+  "popularGenres": [
+    "Groovy Soca Afroswing",
+    "Trinibad Dancehall",
+    "Groovy Soca"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "point-fortin-caribbean-trap-808",
+  "name": "Point Fortin Caribbean Steelpan Trap",
+  "category": "scene",
+  "badge": "Point Fortin Steelpan Trap",
+  "headline": "Point Fortin (South West Borough) Caribbean Steelpan Trap: 24-Bit WAV Beats & WiPay Checkout",
+  "description": "Cascading acoustic steelpan melodies, deep 808 sub drops, and crisp trap drums for artists in Point Fortin.",
+  "targetArtists": [
+    "Artists from Point Fortin",
+    "Trinidad Urban Music Scene",
+    "Caribbean Dancehall Community"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Point Fortin",
+    "Steelpan Trap",
+    "WiPay TTD & USD",
+    "COTT Compliant"
+  ],
+  "popularGenres": [
+    "Caribbean Steelpan Trap",
+    "Trinibad Dancehall",
+    "Groovy Soca"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "diego-martin-trinibad-dancehall-drill",
+  "name": "Diego Martin Trinibad Dancehall Drill Beats",
+  "category": "scene",
+  "badge": "Diego Martin Trinibad 808",
+  "headline": "Diego Martin (West Marina) Trinibad Dancehall Drill Beats: 24-Bit WAV Beats & WiPay Checkout",
+  "description": "Heavy sliding 808s, dark acoustic pianos, and syncopated dancehall drums designed for artists in Diego Martin.",
+  "targetArtists": [
+    "Artists from Diego Martin",
+    "Trinidad Urban Music Scene",
+    "Caribbean Dancehall Community"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Diego Martin",
+    "Trinibad 808",
+    "WiPay TTD & USD",
+    "COTT Compliant"
+  ],
+  "popularGenres": [
+    "Trinibad Dancehall Drill Beats",
+    "Trinibad Dancehall",
+    "Groovy Soca"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "diego-martin-power-soca-banger",
+  "name": "Diego Martin Power Soca Road March Beats",
+  "category": "scene",
+  "badge": "Diego Martin Power Soca",
+  "headline": "Diego Martin (West Marina) Power Soca Road March Beats: 24-Bit WAV Beats & WiPay Checkout",
+  "description": "High-octane carnival brass fanfares, driving 130-135 BPM percussion, and sound truck energy for Diego Martin.",
+  "targetArtists": [
+    "Artists from Diego Martin",
+    "Trinidad Urban Music Scene",
+    "Caribbean Dancehall Community"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "G-Major / D-Major",
+  "vibeAttributes": [
+    "Diego Martin",
+    "Power Soca",
+    "WiPay TTD & USD",
+    "COTT Compliant"
+  ],
+  "popularGenres": [
+    "Power Soca Road March Beats",
+    "Trinibad Dancehall",
+    "Groovy Soca"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "diego-martin-groovy-soca-afroswing",
+  "name": "Diego Martin Groovy Soca Afroswing",
+  "category": "scene",
+  "badge": "Diego Martin Groovy Soca",
+  "headline": "Diego Martin (West Marina) Groovy Soca Afroswing: 24-Bit WAV Beats & WiPay Checkout",
+  "description": "Acoustic island guitars, smooth synth pads, and melodic 105-112 BPM grooves for vocalists in Diego Martin.",
+  "targetArtists": [
+    "Artists from Diego Martin",
+    "Trinidad Urban Music Scene",
+    "Caribbean Dancehall Community"
+  ],
+  "recommendedBpm": "108-114 BPM",
+  "recommendedKey": "D-Major / A-Major",
+  "vibeAttributes": [
+    "Diego Martin",
+    "Groovy Soca",
+    "WiPay TTD & USD",
+    "COTT Compliant"
+  ],
+  "popularGenres": [
+    "Groovy Soca Afroswing",
+    "Trinibad Dancehall",
+    "Groovy Soca"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "diego-martin-caribbean-trap-808",
+  "name": "Diego Martin Caribbean Steelpan Trap",
+  "category": "scene",
+  "badge": "Diego Martin Steelpan Trap",
+  "headline": "Diego Martin (West Marina) Caribbean Steelpan Trap: 24-Bit WAV Beats & WiPay Checkout",
+  "description": "Cascading acoustic steelpan melodies, deep 808 sub drops, and crisp trap drums for artists in Diego Martin.",
+  "targetArtists": [
+    "Artists from Diego Martin",
+    "Trinidad Urban Music Scene",
+    "Caribbean Dancehall Community"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Diego Martin",
+    "Steelpan Trap",
+    "WiPay TTD & USD",
+    "COTT Compliant"
+  ],
+  "popularGenres": [
+    "Caribbean Steelpan Trap",
+    "Trinibad Dancehall",
+    "Groovy Soca"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
 ];
