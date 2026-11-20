@@ -58790,4 +58790,683 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "2"
   ]
 },
+  {
+  "slug": "bad-hop-kawasaki-south-side-trap",
+  "name": "BAD HOP Kawasaki South Side Trap",
+  "category": "vibe",
+  "badge": "BAD HOP 川崎サウスサイド",
+  "headline": "BAD HOP風ビート: 川崎サウスサイド重低音808, 哀愁シンセベル & USトラップ",
+  "description": "東京ドーム解散公演で伝説となったBAD HOPサウンド。アトランタ直系のうねる重低音808サブベース、氷のように冷たいシンセベル、タイトなローリングハイハット。",
+  "targetArtists": [
+    "BAD HOP",
+    "YZERR",
+    "T-Pablow",
+    "Bark",
+    "川崎サウスサイド"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "重低音808",
+    "川崎サウスサイド",
+    "哀愁ベル",
+    "USトラップ"
+  ],
+  "popularGenres": [
+    "Japanese Trap",
+    "US Trap",
+    "Street Rap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "yuki-chiba-team-tomodachi-trap",
+  "name": "Yuki Chiba Team Tomodachi Trap",
+  "category": "vibe",
+  "badge": "チーム友達 トラップ",
+  "headline": "千葉雄喜風ビート: チーム友達 ミニマルバウンス, 粘り気ある808 & キャッチー",
+  "description": "世界中でバイラル現象を起こしたチーム友達サウンド。無駄を極限まで削ぎ落としたミニマルなビート、中毒性抜群のパーカッション、印象的なフックのための空間設計。",
+  "targetArtists": [
+    "千葉雄喜",
+    "KOHH",
+    "チーム友達",
+    "Jin Dogg",
+    "Young Coco"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "チーム友達",
+    "ミニマルバウンス",
+    "中毒性抜群",
+    "粘り気ある808"
+  ],
+  "popularGenres": [
+    "Tokyo Trap",
+    "Minimal Trap",
+    "Viral Rap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "awich-queendom-okinawa-trap",
+  "name": "Awich Queendom Okinawa Trap",
+  "category": "vibe",
+  "badge": "Awich クイーンダム",
+  "headline": "Awich風ビート: 堂々たるブラスホーン, 沖縄の誇り & クイーンダム・トラップ",
+  "description": "日本のヒップホップ界の女王Awichの圧倒的オーラ。荘厳なホーンセクション、シネマティックなストリングス、重厚なキックが織りなす威厳に満ちたサウンドスケープ。",
+  "targetArtists": [
+    "Awich",
+    "YENTOWN",
+    "Queendom",
+    "沖縄ヒップホップ",
+    "女帝"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "荘厳なブラス",
+    "威厳あるサウンド",
+    "クイーンダム",
+    "重厚キック"
+  ],
+  "popularGenres": [
+    "Empowerment Rap",
+    "Orchestral Trap",
+    "J-Rap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "tohji-hyperpop-cyber-trap",
+  "name": "Tohji Hyperpop Cyber Trap",
+  "category": "vibe",
+  "badge": "Tohji サイバートラップ",
+  "headline": "Tohji風ビート: 近未来サイバーパンク, ハイパーポップシンセ & 疾走感",
+  "description": "インターネットとレイヴカルチャーが融合した新世代サウンド。極彩色のデジタルアルペジオ、浮遊感のあるオートチューン空間、圧倒的解放感をもたらすドロップ。",
+  "targetArtists": [
+    "Tohji",
+    "Mall Boyz",
+    "Goku Vibes",
+    "ハイパーポップ",
+    "レイヴ"
+  ],
+  "recommendedBpm": "135-145 BPM",
+  "recommendedKey": "E-Minor / B-Minor",
+  "vibeAttributes": [
+    "近未来サイバー",
+    "ハイパーポップ",
+    "圧倒的疾走感",
+    "浮遊感オートチューン"
+  ],
+  "popularGenres": [
+    "Hyperpop Trap",
+    "Cyber Trap",
+    "Experimental J-Rap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "lex-melodic-autotune-teen-trap",
+  "name": "Lex Melodic Autotune Teen Trap",
+  "category": "vibe",
+  "badge": "LEX メロディックトラップ",
+  "headline": "LEX風ビート: エモーショナルな美メロギター, オートチューン & 新世代トラップ",
+  "description": "Z世代を熱狂させるメロディックトラップの最高峰。切ないアコースティックギターのアルペジオ、包み込むようなパッド、心に刺さるエモいメロディのためのトラック。",
+  "targetArtists": [
+    "LEX",
+    "Romeo Must Die",
+    "LOGIC",
+    "エモトラップ",
+    "Z世代"
+  ],
+  "recommendedBpm": "120-130 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "美メロギター",
+    "エモーショナル",
+    "切ないオートチューン",
+    "新世代サウンド"
+  ],
+  "popularGenres": [
+    "Emo Trap",
+    "Melodic J-Rap",
+    "Teen Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "namedaruma-aphrodite-gang-boombap",
+  "name": "Namedaruma Aphrodite Gang Boombap",
+  "category": "vibe",
+  "badge": "舐達麻 アフロディーテギャング",
+  "headline": "舐達麻風ビート: 極上ジャズピアノサンプリング, 煙るヴィンテージドラム & 詩世界",
+  "description": "熊谷発・APHRODITE GANGの極上の煙と美学。メロウなジャズピアノのループ、ヴィンテージレコードの温かい質感、静かに語りかけるようなリリックのための上質空間。",
+  "targetArtists": [
+    "舐達麻",
+    "BADSAIKUSH",
+    "DELTA9KID",
+    "G-PLANTS",
+    "APHRODITE GANG"
+  ],
+  "recommendedBpm": "86-94 BPM",
+  "recommendedKey": "C-Minor / E-Flat Major",
+  "vibeAttributes": [
+    "極上ジャズピアノ",
+    "煙るヴィンテージ",
+    "上質ブーンバップ",
+    "美しい詩世界"
+  ],
+  "popularGenres": [
+    "Jazz Boom Bap",
+    "Underground J-Rap",
+    "Soulful Hiphop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "nujabes-samurai-champloo-lofi-chillhop",
+  "name": "Nujabes Samurai Champloo Lofi Chillhop",
+  "category": "vibe",
+  "badge": "Nujabes 永遠の美学",
+  "headline": "Nujabes風ビート: サムライチャンプルー 美しいジャズピアノ, 哀愁 & 和の心",
+  "description": "世界中のLo-Fi Hip Hopの源流となったNujabesの永遠の美学。心洗われるジャズピアノの旋律、ヴィンテージレコードのスクラッチノイズ、魂を揺さぶるワンループ。",
+  "targetArtists": [
+    "Nujabes",
+    "Shing02",
+    "サムライチャンプルー",
+    "Luv(sic)",
+    "Hydeout"
+  ],
+  "recommendedBpm": "82-90 BPM",
+  "recommendedKey": "F-Major / D-Minor",
+  "vibeAttributes": [
+    "美しいジャズピアノ",
+    "サムライチャンプルー",
+    "永遠の美学",
+    "哀愁と温もり"
+  ],
+  "popularGenres": [
+    "Lo-Fi Hip Hop",
+    "Jazzhop",
+    "Chillhop"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "jp-the-wavy-cho-wavy-bounce",
+  "name": "JP THE WAVY Cho Wavy Bounce",
+  "category": "vibe",
+  "badge": "JP THE WAVY バウンス",
+  "headline": "JP THE WAVY風ビート: 超WAVY バウンシーなクラブトラップ & キャッチー",
+  "description": "ダンスカルチャーと最高峰のファッションセンスが融合した波に乗るサウンド。弾むようなパーカッション、切れ味鋭いスネア、踊り出さずにはいられないリズムグルーヴ。",
+  "targetArtists": [
+    "JP THE WAVY",
+    "Cho Wavy De Gomenne",
+    "ダンサー対応",
+    "ネオギャル"
+  ],
+  "recommendedBpm": "100-112 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "超WAVY",
+    "バウンシートラップ",
+    "ダンスフロア対応",
+    "洗練されたドラム"
+  ],
+  "popularGenres": [
+    "Club Trap",
+    "Dance Rap",
+    "Commercial J-Rap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "kzm-distorted-cyberpunk-tokyo-drill",
+  "name": "kZm Distorted Cyberpunk Tokyo Drill",
+  "category": "vibe",
+  "badge": "kZm ディストーションドリル",
+  "headline": "kZm風ビート: YENTOWN 歪んだエレクトロニックシンセ & 東京サイバーパンク",
+  "description": "夜の渋谷・新宿の路地裏を想起させるダークで前衛的なサウンド。ディストーションが効いた重厚ベース、冷たいノイズテクスチャ、破壊力抜群のドリルビート。",
+  "targetArtists": [
+    "kZm",
+    "YENTOWN",
+    "Chaki Zuluサウンド",
+    "ディストーション",
+    "サイバーパンク"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "歪みベース",
+    "YENTOWNサウンド",
+    "ダークサイバー",
+    "東京アンダーグラウンド"
+  ],
+  "popularGenres": [
+    "Japanese Drill",
+    "Cyberpunk Trap",
+    "Industrial Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "shakuhachi-koto-traditional-japanese-trap",
+  "name": "Shakuhachi Koto Traditional Japanese Trap",
+  "category": "vibe",
+  "badge": "和楽器尺八・琴トラップ",
+  "headline": "和楽器トラップ: 幽玄な尺八の息遣い, 琴の調べ & 重低音808の融合",
+  "description": "日本の伝統芸能と現代ストリートミュージックの奇跡の融合。十三絃の琴の透き通る響き、尺八の息遣いと唸り、それらを支える最新鋭の808サブベース。",
+  "targetArtists": [
+    "和風ラップ",
+    "和楽器トラップ",
+    "アニメタイアップ",
+    "サムライサウンド"
+  ],
+  "recommendedBpm": "125-135 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "幽玄な尺八",
+    "十三絃の琴",
+    "和風トラップ",
+    "重低音808"
+  ],
+  "popularGenres": [
+    "Traditional Japanese Trap",
+    "Anime Trap",
+    "Folk Fusion"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "jinmenusagi-lyrical-technical-rap-tokyo",
+  "name": "Jinmenusagi Lyrical Technical Rap Tokyo",
+  "category": "vibe",
+  "badge": "Jinmenusagi 超絶技巧派",
+  "headline": "Jinmenusagi風ビート: タイトなスネア, 複雑な韻のための空間 & 技巧派サウンド",
+  "description": "日本語ラップ最高峰のテクニカルMCに捧ぐビート。音数を選び抜きクリアに配置されたタイトなドラム、複雑な脚韻とフロウを際立たせる研ぎ澄まされた上モノ設計。",
+  "targetArtists": [
+    "Jinmenusagi",
+    "ジメサギ",
+    "技巧派MC",
+    "LESTA",
+    "東京テクニカル"
+  ],
+  "recommendedBpm": "90-98 BPM / 130 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "研ぎ澄まされた音空間",
+    "タイトスネア",
+    "超絶技巧対応",
+    "テクニカルフロウ"
+  ],
+  "popularGenres": [
+    "Technical Hip-Hop",
+    "Boom Bap",
+    "Lyrical Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "nihon-yen-paypay-biito-kounyuu",
+  "name": "日本円決済・PayPayで買える高品質ヒップホップビート (商用利用可能)",
+  "category": "genre",
+  "badge": "PayPay & 日本円即時決済",
+  "headline": "日本円・PayPayで買えるビートトラック: 24-bit高解像度WAV即時ダウンロード",
+  "description": "海外サイトのようなドル建ての煩わしさやクレジットカード手数料は一切不要。PayPayや日本のクレカで円建て即時決済。購入完了後すぐにタグなしWAVファイルが手に入ります。",
+  "targetArtists": [
+    "日本人ラッパー",
+    "歌い手",
+    "個人アーティスト"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "日本円決済",
+    "PayPay対応",
+    "手数料ゼロ",
+    "WAV即時納品"
+  ],
+  "popularGenres": [
+    "Japanese Trap",
+    "Boom Bap",
+    "Lo-Fi Hip Hop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "japanese-drill-808-sub-bass-wav-stems",
+  "name": "ジャパニーズ・ドリル用ビート 24-bit WAV & パラデータStems",
+  "category": "genre",
+  "badge": "Japanese Drill 808",
+  "headline": "ジャパニーズ・ドリル用トラック: 唸るスライド808 & パラデータStems完備",
+  "description": "川崎・東京のストリートを揺るがす本物のドリルサウンド。スネアの跳ね、ハイハットの三連符、重低音808スライドを完全網羅。レコーディングスタジオでの本格ミックスに対応するStems付き。",
+  "targetArtists": [
+    "ドリルラッパー",
+    "レコーディングエンジニア",
+    "ストリートMC"
+  ],
+  "recommendedBpm": "138-144 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "スライド808",
+    "パラデータ完備",
+    "24-bit WAV",
+    "プロ仕様ミックス"
+  ],
+  "popularGenres": [
+    "Japanese Drill",
+    "UK Drill",
+    "Dark Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "jasrac-shouyou-riyou-kanou-rap-track",
+  "name": "JASRAC楽曲登録・Spotify商用配信可能なビートライセンス (正規契約書)",
+  "category": "genre",
+  "badge": "JASRAC・NexTone登録対応",
+  "headline": "JASRAC登録可能なビート音源: Spotify/Apple Music商用配信100%クリアランス",
+  "description": "TuneCore JapanやDistroKid経由での音楽配信も完全安心。未許諾サンプリングを一切含まない完全オリジナル制作のため、著作権トラブルの心配なくアーティスト収益を100%保持できます。",
+  "targetArtists": [
+    "プロ志向アーティスト",
+    "インディーズレーベル",
+    "事務所所属MC"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "JASRAC対応",
+    "NexTone対応",
+    "収益100%保持",
+    "正規PDF契約書"
+  ],
+  "popularGenres": [
+    "J-Rap",
+    "Tokyo Trap",
+    "Pop Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "anime-op-ed-style-hyper-trap-beats",
+  "name": "アニメOP・ED風ハイパートラップ・インストゥルメンタル (劇伴・タイアップ)",
+  "category": "genre",
+  "badge": "アニメタイアップ風サウンド",
+  "headline": "アニメOP・ED風トラップビート: 劇的展開, オーケストラ & デジタルシンセ",
+  "description": "アニメのオープニングやエンディング曲を彷彿とさせるドラマチックな構成。疾走感あふれるドラム、壮大なストリングス、キャッチーなシンセリフがボーカルの存在感を極限まで高めます。",
+  "targetArtists": [
+    "歌い手",
+    "VTuber",
+    "タイアップ志向アーティスト"
+  ],
+  "recommendedBpm": "130-145 BPM",
+  "recommendedKey": "E-Minor / B-Minor",
+  "vibeAttributes": [
+    "アニメタイアップ風",
+    "ドラマチック構成",
+    "疾走感",
+    "圧倒的キャッチー"
+  ],
+  "popularGenres": [
+    "Anime Trap",
+    "Hyperpop",
+    "Future Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "combo-biito-2-mai-kounyuu-1-mai-muryou",
+  "name": "ビート2曲購入で1曲無料キャンペーン・日本円即時決済 (アルバム制作)",
+  "category": "genre",
+  "badge": "まとめ買い2+1無料",
+  "headline": "EP・アルバム制作応援キャンペーン: ビート2曲購入で追加1曲が自動無料",
+  "description": "まとまった楽曲制作をお得に。カートに3曲のインストゥルメンタルを追加するだけで自動的に1曲分が無料割引。日本円決済で無駄なコストを抑えて作品を完成させましょう。",
+  "targetArtists": [
+    "EP制作アーティスト",
+    "アルバム制作中MC",
+    "音楽仲間"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "2曲買ったら1曲無料",
+    "アルバム応援",
+    "高音質WAV",
+    "即時ディスカウント"
+  ],
+  "popularGenres": [
+    "Japanese Trap",
+    "Boom Bap",
+    "Lo-Fi Hip Hop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6"
+  ]
+},
+  {
+  "slug": "lofi-hiphop-samurai-jazz-piano-beats",
+  "name": "サムライ風ジャズピアノ・Lo-Fiヒップホップビート (チル・リラックス)",
+  "category": "genre",
+  "badge": "サムライLo-Fiジャズ",
+  "headline": "サムライ風Lo-Fiビート: 哀愁のジャズピアノ, アナログテープノイズ & 和の心",
+  "description": "静寂の中に宿る武士道精神とジャズの融合。耳に心地よいアナログテープの揺らぎ、温かなベースライン、心に寄り添うピアノループが日々の疲れを癒します。",
+  "targetArtists": [
+    "チルラッパー",
+    "ポエトリーリーディング",
+    "リラックスBGM制作"
+  ],
+  "recommendedBpm": "80-88 BPM",
+  "recommendedKey": "F-Major / D-Minor",
+  "vibeAttributes": [
+    "哀愁ジャズピアノ",
+    "アナログテープ",
+    "心に寄り添う",
+    "サムライLo-Fi"
+  ],
+  "popularGenres": [
+    "Lo-Fi Hip Hop",
+    "Jazzhop",
+    "Chillhop"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "mubyou-biito-haishin-spotify-youtube",
+  "name": "タグなし・完全未加工プロ仕様ビート Spotify/YouTube収益化対応",
+  "category": "genre",
+  "badge": "声ロゴなし・タグなしWAV",
+  "headline": "タグなし（Untagged）高解像度WAV: 音声ロゴの一切ないプロフェッショナル音源",
+  "description": "プロデューサーのプロモ音声ロゴ（Voice Tag）は一切含まれていません。イントロからアウトロまで完全にクリアな状態でレコーディング・マスタリング作業に専念できます。",
+  "targetArtists": [
+    "レコーディングスタジオ",
+    "本格派アーティスト",
+    "ミックスエンジニア"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "完全タグなし",
+    "スタジオ直結",
+    "24-bit高解像度",
+    "収益化100%"
+  ],
+  "popularGenres": [
+    "Tokyo Trap",
+    "Boom Bap",
+    "Japanese Drill"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6"
+  ]
+},
+  {
+  "slug": "vtuber-streamer-muryou-bgm-hiphop",
+  "name": "VTuber・配信者向け著作権フリー商用ヒップホップBGM (生配信・動画BGM)",
+  "category": "genre",
+  "badge": "VTuber・配信BGM商用対応",
+  "headline": "配信者・VTuber向けヒップホップBGM: YouTube・Twitch収益化配信完全対応",
+  "description": "雑談配信、ゲーム実況、企画動画の背景をスタイリッシュに彩るヒップホップBGM。Content IDによる配信停止や音声ミュートの心配なく安心してご活用いただけます。",
+  "targetArtists": [
+    "VTuber",
+    "ストリーマー",
+    "YouTube動画クリエイター"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "配信ミュート心配なし",
+    "スタイリッシュBGM",
+    "商用収益化OK",
+    "ループ仕様"
+  ],
+  "popularGenres": [
+    "Lo-Fi Hip Hop",
+    "Future Trap",
+    "Chillhop"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2",
+    "5"
+  ]
+},
+  {
+  "slug": "exclusive-biito-seisaku-order-japan",
+  "name": "完全独占・オリジナルビート制作オーダー オンライン直通 (Onzieb制作)",
+  "category": "genre",
+  "badge": "完全オーダーメイド独占制作",
+  "headline": "完全独占ビート制作: お客様の声質とコンセプトに合わせたオーダーメイド",
+  "description": "世界であなただけのシグネチャーサウンドを。プロデューサーOnziebが直接ヒアリングを行い、お客様のフロウや声域に完全に最適化したオリジナル楽曲を制作・権利完全譲渡します。",
+  "targetArtists": [
+    "メジャーデビュー志向",
+    "勝負曲制作MC",
+    "ワンマンライブ用楽曲"
+  ],
+  "recommendedBpm": "ご希望のBPM",
+  "recommendedKey": "ご希望のキー",
+  "vibeAttributes": [
+    "完全独占権利",
+    "ストア完全非公開化",
+    "個別ヒアリング",
+    "最高峰音質"
+  ],
+  "popularGenres": [
+    "Tokyo Trap",
+    "Japanese Drill",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "muryou-3-kyoku-biito-pack-rec-test",
+  "name": "無料3曲ビートパック レコーディング・声当てテスト用MP3 (即時受取)",
+  "category": "genre",
+  "badge": "無料ダウンロード3曲パック",
+  "headline": "無料3曲ビートパックプレゼント: 自宅マイクでのリリック書き・仮歌テスト用",
+  "description": "高音質MP3 320kbps形式のサンプルビート3曲を完全無料でお届け。自宅でのリリック執筆、マイクテスト、フロウの確認にお役立てください。気に入ったら後から商用WAVライセンスへアップグレード可能。",
+  "targetArtists": [
+    "初心者ラッパー",
+    "自宅レコーディング派",
+    "リリック執筆中の方"
+  ],
+  "recommendedBpm": "90, 125, 138 BPM",
+  "recommendedKey": "C-Minor, D-Minor",
+  "vibeAttributes": [
+    "無料プレゼント",
+    "3曲入り",
+    "声当てテスト用",
+    "メール即時納品"
+  ],
+  "popularGenres": [
+    "Japanese Trap",
+    "Boom Bap",
+    "Lo-Fi Hip Hop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "5"
+  ]
+},
 ];
