@@ -36454,4 +36454,216 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "bo": {
+  "slug": "bo",
+  "name": "Bolivia – Hub Nacional (Charango-Trap, Trap Camba, QR Simple & SOBODAYCOM)",
+  "flag": "🇧🇴",
+  "currency": "BOB (Bs.) / USD ($)",
+  "currencyCode": "BOB",
+  "gateways": "QR Simple (Bancos de Bolivia), Tigo Money, Billetera Móvil BNB, BCP, Tarjetas, Apple Pay, PayPal",
+  "pro": "SOBODAYCOM (Sociedad Boliviana de Autores y Compositores)",
+  "proFullName": "SOBODAYCOM & SENAPI (Servicio Nacional de Propiedad Intelectual)",
+  "proGuide": "100% legal ante SOBODAYCOM y SENAPI con contrato en PDF descargable.",
+  "headline": "Beats en Bolivia: Charango-Trap, Trap Camba & Pago Fácil con QR Simple",
+  "description": "El catálogo líder de instrumentales urbanas para artistas de toda Bolivia. Licencias comerciales en Bolivianos (Bs.) y Dólares con entrega instantánea de WAV 24-bit y pistas separadas multitrack.",
+  "popularGenres": [
+    "Charango-Trap Andino",
+    "Trap Camba 591",
+    "Boom Bap Andino",
+    "Dembow Boliviano"
+  ],
+  "subClusters": [
+    {
+      "name": "Charango-Trap Andino",
+      "slug": "../../vibe/charango-trap-andino-808-fusion",
+      "description": "Trémolos virtuosos de charango andino sobre caídas de trap 808."
+    },
+    {
+      "name": "Trap Camba Santa Cruz",
+      "slug": "../../vibe/corona-street-trap-camba-591",
+      "description": "Trap tropical de Santa Cruz con bajos 808 potentes y melodías de club."
+    },
+    {
+      "name": "Boom Bap de El Alto",
+      "slug": "../../vibe/el-alto-wayna-rap-aymara-boom-bap",
+      "description": "Hip-hop contestatario a 4.000m de altura con vientos andinos y golpe MPC."
+    },
+    {
+      "name": "Pago con QR Simple y Tigo Money",
+      "slug": "../../genre/comprar-beats-en-bolivia-qr-simple-tigo-money",
+      "description": "Compra sin fricción en Bolivianos usando QR Simple y Tigo Money."
+    }
+  ]
+},
+  "bo/santa-cruz-de-la-sierra": {
+  "slug": "bo/santa-cruz-de-la-sierra",
+  "name": "Bolivia – Santa Cruz de la Sierra (Capital Económica & Trap Camba)",
+  "flag": "🇧🇴",
+  "currency": "BOB (Bs.) / USD ($)",
+  "currencyCode": "BOB",
+  "gateways": "QR Simple, Tigo Money, BNB, BCP, Tarjetas, Apple Pay, PayPal",
+  "pro": "SOBODAYCOM & SENAPI",
+  "proFullName": "SOBODAYCOM",
+  "proGuide": "100% compatible con distribución en Spotify y YouTube.",
+  "headline": "Beats en Santa Cruz: Trap Camba, Reggaetón Bailable & Noche Cruceña",
+  "description": "El epicentro comercial y de entretenimiento de Bolivia: trap tropical contundente, sintetizadores brillantes y caídas de bajo 808 para sonar en los anillos y boliches cruceños.",
+  "popularGenres": [
+    "Santa Cruz Trap Camba",
+    "Cruceño Dembow",
+    "Tropical Urban 591"
+  ],
+  "subClusters": []
+},
+  "bo/la-paz-sede-de-gobierno": {
+  "slug": "bo/la-paz-sede-de-gobierno",
+  "name": "Bolivia – La Paz (Sede de Gobierno, Illimani & Boom Bap de Altura)",
+  "flag": "🇧🇴",
+  "currency": "BOB (Bs.) / USD ($)",
+  "currencyCode": "BOB",
+  "gateways": "QR Simple, Tigo Money, BNB, BCP, Tarjetas, Apple Pay, PayPal",
+  "pro": "SOBODAYCOM",
+  "proFullName": "SOBODAYCOM",
+  "proGuide": "100% original con entrega de stems multitrack.",
+  "headline": "Beats en La Paz: Mirador del Illimani, Teleférico Lofi & Rap Lírico",
+  "description": "La atmósfera majestuosa de la hoya paceña: pianos acústicos nostálgicos, baterías con swing clásico y vientos andinos melancólicos para narrar la realidad de la sede de gobierno.",
+  "popularGenres": [
+    "La Paz Conscious Rap",
+    "Illimani Chillhop",
+    "Paceño Boom Bap"
+  ],
+  "subClusters": []
+},
+  "bo/el-alto-fuerza-indigena": {
+  "slug": "bo/el-alto-fuerza-indigena",
+  "name": "Bolivia – El Alto (Ciudad de Altura, Wayna Rap & Drill Andino)",
+  "flag": "🇧🇴",
+  "currency": "BOB (Bs.) / USD ($)",
+  "currencyCode": "BOB",
+  "gateways": "QR Simple, Tigo Money, Banco FIE, Tarjetas, Apple Pay, PayPal",
+  "pro": "SOBODAYCOM",
+  "proFullName": "SOBODAYCOM",
+  "proGuide": "100% libre de reclamos de derechos de autor.",
+  "headline": "Beats en El Alto: 4.000 Metros de Altura, Furia Aymara & 808s",
+  "description": "La rebeldía y la fuerza de la ciudad más alta del mundo: cajas secas cortantes, zampoñas con eco distorsionado y bajos 808 devastadores para el rap combativo alteño.",
+  "popularGenres": [
+    "El Alto Wayna Rap",
+    "Andean Drill 591",
+    "Aymara Street Flow"
+  ],
+  "subClusters": []
+},
+  "bo/cochabamba-valle-central": {
+  "slug": "bo/cochabamba-valle-central",
+  "name": "Bolivia – Cochabamba (Ciudad Jardín, Valle & R&B Melódico)",
+  "flag": "🇧🇴",
+  "currency": "BOB (Bs.) / USD ($)",
+  "currencyCode": "BOB",
+  "gateways": "QR Simple, Tigo Money, BNB, BCP, Tarjetas, Apple Pay, PayPal",
+  "pro": "SOBODAYCOM",
+  "proFullName": "SOBODAYCOM",
+  "proGuide": "100% garantizado con derechos comerciales de streaming.",
+  "headline": "Beats en Cochabamba: Clima del Valle, Pianos Rhodes & Pop Urbano",
+  "description": "El corazón templado y gastronómico de Bolivia: teclados vintage Rhodes, melodías de guitarra acústica y percusiones urbanas suaves para canciones románticas y de radio.",
+  "popularGenres": [
+    "Cochabamba Melodic R&B",
+    "Valle Pop Urbano",
+    "Llajta Beat 591"
+  ],
+  "subClusters": []
+},
+  "bo/sucre-capital-historica": {
+  "slug": "bo/sucre-capital-historica",
+  "name": "Bolivia – Sucre (Ciudad Blanca, Capital Constitucional & Guitarra)",
+  "flag": "🇧🇴",
+  "currency": "BOB (Bs.) / USD ($)",
+  "currencyCode": "BOB",
+  "gateways": "QR Simple, Tigo Money, BNB, Tarjetas, Apple Pay, PayPal",
+  "pro": "SOBODAYCOM",
+  "proFullName": "SOBODAYCOM",
+  "proGuide": "100% legal ante SOBODAYCOM con contrato en PDF.",
+  "headline": "Beats en Sucre: Arquitectura Colonial, Cuerdas Nobles & Boom Bap",
+  "description": "La elegancia histórica de la Ciudad Blanca: arpegios clásicos de guitarra española, armonías teatrales y baterías de hip-hop con calidez analógica para proyectos de autor.",
+  "popularGenres": [
+    "Sucre Colonial Rap",
+    "White City Boom Bap",
+    "Chuquisaca Flow"
+  ],
+  "subClusters": []
+},
+  "bo/oruro-capital-del-folclore": {
+  "slug": "bo/oruro-capital-del-folclore",
+  "name": "Bolivia – Oruro (Capital del Folclore & Caporal-Trap Remix)",
+  "flag": "🇧🇴",
+  "currency": "BOB (Bs.) / USD ($)",
+  "currencyCode": "BOB",
+  "gateways": "QR Simple, Tigo Money, Banco Unión, Tarjetas, Apple Pay, PayPal",
+  "pro": "SOBODAYCOM",
+  "proFullName": "SOBODAYCOM",
+  "proGuide": "100% compatible con agregadoras digitales.",
+  "headline": "Beats en Oruro: Carnaval Majestuoso, Metales de Banda & Morenada Trap",
+  "description": "La mayor fiesta cultural de Bolivia: fanfarrias de trompetas de bandas de bronce, cascabeles de caporales y caídas de 808 masivas para prender comparsas y conciertos.",
+  "popularGenres": [
+    "Oruro Carnaval Beat",
+    "Caporal-Trap",
+    "Morenada 808 Remix"
+  ],
+  "subClusters": []
+},
+  "bo/tarija-valle-de-la-concepcion": {
+  "slug": "bo/tarija-valle-de-la-concepcion",
+  "name": "Bolivia – Tarija (Valle Chapaco, Viñedos & Violín Trap Fusión)",
+  "flag": "🇧🇴",
+  "currency": "BOB (Bs.) / USD ($)",
+  "currencyCode": "BOB",
+  "gateways": "QR Simple, Tigo Money, BNB, BCP, Tarjetas, Apple Pay, PayPal",
+  "pro": "SOBODAYCOM",
+  "proFullName": "SOBODAYCOM",
+  "proGuide": "100% original con entrega de stems.",
+  "headline": "Beats en Tarija: Valle de Viñedos, Violín Chapaco & Rápido de Rueda",
+  "description": "El encanto y la alegría del sur boliviano: violines tradicionales de rueda chapaca, guitarras criollas vivaces y ritmos de trap latino para temas festivos y de orgullo.",
+  "popularGenres": [
+    "Tarija Chapaco Trap",
+    "Violín del Sur Beat",
+    "Valle de Concepción Flow"
+  ],
+  "subClusters": []
+},
+  "bo/potosi-cerro-rico": {
+  "slug": "bo/potosi-cerro-rico",
+  "name": "Bolivia – Potosí (Villa Imperial, Cerro Rico & Boom Bap Minero)",
+  "flag": "🇧🇴",
+  "currency": "BOB (Bs.) / USD ($)",
+  "currencyCode": "BOB",
+  "gateways": "QR Simple, Tigo Money, Banco Unión, Tarjetas, Apple Pay, PayPal",
+  "pro": "SOBODAYCOM",
+  "proFullName": "SOBODAYCOM",
+  "proGuide": "Licencias comerciales ilimitadas.",
+  "headline": "Beats en Potosí: Villa Imperial, Viento Frío del Cerro & Reality Rap",
+  "description": "La historia monumental y la dureza minera del Cerro Rico: ecos de viento andino, campanas coloniales y baterías pesadas de hip-hop para el rap testimonial de resistencia.",
+  "popularGenres": [
+    "Potosí Mining Rap",
+    "Cerro Rico Boom Bap",
+    "Imperial Cold Flow"
+  ],
+  "subClusters": []
+},
+  "bo/trinidad-beni-amazonia": {
+  "slug": "bo/trinidad-beni-amazonia",
+  "name": "Bolivia – Trinidad & Beni (Amazonía Boliviana & Dancehall Tropical)",
+  "flag": "🇧🇴",
+  "currency": "BOB (Bs.) / USD ($)",
+  "currencyCode": "BOB",
+  "gateways": "QR Simple, Tigo Money, BNB, Tarjetas, Apple Pay, PayPal",
+  "pro": "SOBODAYCOM",
+  "proFullName": "SOBODAYCOM",
+  "proGuide": "100% original y listo para monetizar en Spotify.",
+  "headline": "Beats en Trinidad: Ríos del Beni, Selva Virgen & Dancehall Tropical",
+  "description": "La calidez de los llanos de Moxos y la Amazonía boliviana: sintetizadores acuáticos, ritmos relajados de dancehall y reggaetón suave con brisa selvática.",
+  "popularGenres": [
+    "Trinidad Amazon Beat",
+    "Beni Tropical Dancehall",
+    "Moxos River Flow"
+  ],
+  "subClusters": []
+},
 };
