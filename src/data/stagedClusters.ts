@@ -98044,4 +98044,1293 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "1"
   ]
 },
+  {
+  "slug": "mente-fuerte-melodic-trap-smooth",
+  "title": "Mente Fuerte Smooth Melodic Trap & Latin-Afro Bounce Beat",
+  "description": "Sultry, infectious commercial trap and Afro-Latin fusion instrumental inspired by Mente Fuerte (Caliente, Dale, Rudeboys), featuring smooth nylon guitar skanks, silky autotuned chords, and irresistible danceable bounce.",
+  "targetKeywords": [
+    "mente fuerte type beat",
+    "caliente instrumental mente fuerte",
+    "smooth greek trap beat",
+    "latin afro trap greece",
+    "mente fuerte instrumental"
+  ],
+  "heroCta": "Buy Mente Fuerte Beat (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Commercial Radio Single, Summer Island Hit and Seductive Music Video",
+  "similarArtists": [
+    "Mente Fuerte",
+    "SNIK",
+    "Hawk",
+    "El Chombo"
+  ],
+  "recommendedBpm": "102-108 BPM",
+  "productionTips": "Warm acoustic guitar chords with stereo room ambience over a punchy kick-snare Afro-trap syncopation.",
+  "idealVocalStyle": "Sultry, melodic delivery with smooth autotuned runs and unforgettable commercial hooks.",
+  "suggestedKey": "F# Minor",
+  "streamingSuitability": "Guaranteed high mainstream radio rotation across Greece and Cyprus."
+},
+  {
+  "slug": "dani-gambino-raw-protest-rap",
+  "title": "Dani Gambino Raw Street Conscious Rap & Acoustic Drive Beat",
+  "description": "Fierce, revolutionary street conscious rap instrumental inspired by Dani Gambino (The New Order, Stand Tall, Kapoia Mera), combining crying acoustic guitar riffs, dramatic minor pianos, and heavy boom bap/drill drums.",
+  "targetKeywords": [
+    "dani gambino type beat",
+    "greek conscious street rap",
+    "stand tall dani gambino beat",
+    "acoustic rap beat greece",
+    "dani gambino instrumental"
+  ],
+  "heroCta": "Buy Dani Gambino Beat (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Conscious Protest Rap, Raw Reality Visuals and Stadium Singalongs",
+  "similarArtists": [
+    "Dani Gambino",
+    "Bloody Hawk",
+    "Wang",
+    "Logos Timis"
+  ],
+  "recommendedBpm": "90-96 / 140 BPM",
+  "productionTips": "Acoustic nylon guitar arpeggios layered with analog tape saturation and punchy acoustic drum transients.",
+  "idealVocalStyle": "Explosive, impassioned delivery with uncompromising political and street reality lyrics.",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "Cult status with intense organic engagement and viral word-of-mouth momentum."
+},
+  {
+  "slug": "saske-deluxe-flow-trap-fashion",
+  "title": "Saske Deluxe Fashion Trap & Avant-Garde Synth Progressions Beat",
+  "description": "Avant-garde, luxurious fashion trap instrumental inspired by Saske (Safari, Cyan, Checks, Nana), featuring futuristic synth chords, razor-sharp hi-hats, and sleek 808 sub-bass designed for bilingual high-concept aesthetics.",
+  "targetKeywords": [
+    "saske type beat",
+    "deluxe fashion trap beat",
+    "safari saske instrumental",
+    "futuristic greek trap beat",
+    "saske cyan type beat"
+  ],
+  "heroCta": "Buy Saske Style Beat (WAV Mastered)",
+  "energyLevel": "High",
+  "primaryUse": "High-Concept Trap, Fashion Runway Visuals and Modern Single",
+  "similarArtists": [
+    "Saske",
+    "SNIK",
+    "Mente Fuerte",
+    "Rack"
+  ],
+  "recommendedBpm": "132-138 BPM",
+  "productionTips": "Layered modular synthesizer pads with tape flutter and ultra-clean low-end 808 tuning.",
+  "idealVocalStyle": "Slick bilingual flow (Greek/English), dynamic vocal pockets, and effortless style.",
+  "suggestedKey": "C# Minor",
+  "streamingSuitability": "Perfect for aesthetic music videos, lifestyle brands, and modern urban playlists."
+},
+  {
+  "slug": "bossikan-high-roller-skg-banger",
+  "title": "Bossikan High-Roller SKG Street Drill & Heavy 808 Banger Beat",
+  "description": "High-octane northern Greek street drill banger inspired by Bossikan (King Kong, Full Press, Fly), featuring aggressive dark synth horns, snapping drill rimshots, and monstrous sliding 808s dominating Thessaloniki streets.",
+  "targetKeywords": [
+    "bossikan type beat",
+    "king kong bossikan instrumental",
+    "skg drill banger beat",
+    "northern greek street drill",
+    "bossikan instrumental 808"
+  ],
+  "heroCta": "Buy Bossikan Beat (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hard Drill Anthem, Car Sound Systems and High-Impact Music Videos",
+  "similarArtists": [
+    "Bossikan",
+    "Trannos",
+    "Light",
+    "Rack"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Heavy pitch glides on sub-808 frequencies with aggressive sidechain compression on kicks.",
+  "idealVocalStyle": "Swaggering baritone flow, menacing street bars, and commanding hype choruses.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Insuperable for gym workout playlists and trending Greek drill YouTube channels."
+},
+  {
+  "slug": "wang-athens-underground-reality",
+  "title": "Wang Raw Athens Underground Drill & Weeping Cold Piano Beat",
+  "description": "Unforgiving reality drill instrumental inspired by Wang (Gaza, Fast Life, West Side), combining weeping minor piano loops, icy church bells, and relentless UK-influenced drill hats capturing Athens underground realities.",
+  "targetKeywords": [
+    "wang type beat",
+    "athens underground drill beat",
+    "gaza wang instrumental",
+    "raw greek street drill",
+    "wang fast life beat"
+  ],
+  "heroCta": "Buy Wang Style Beat (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Underground Street Drill, Reality Storytelling and Raw Cyphers",
+  "similarArtists": [
+    "Wang",
+    "Dani Gambino",
+    "Trannos",
+    "Rack"
+  ],
+  "recommendedBpm": "142-145 BPM",
+  "productionTips": "Dark minor grand piano drenched in vinyl crackle with aggressive counter-snare syncopation.",
+  "idealVocalStyle": "Cold, unfiltered street rhymes with direct reality storytelling and intense conviction.",
+  "suggestedKey": "G Minor",
+  "streamingSuitability": "High organic virality across underground rap communities and TikTok drill edits."
+},
+  {
+  "slug": "thug-slime-dark-athens-streets",
+  "title": "Thug Slime Dark Athens Street Trap & Sinister Siren Beat",
+  "description": "Dark, gritty street trap instrumental inspired by Thug Slime (Alitissa, Maradona, Crime, Bitch), featuring menacing minor synth stabs, police siren echoes, and a distorted 808 that shakes venue walls.",
+  "targetKeywords": [
+    "thug slime type beat",
+    "alitissa thug slime instrumental",
+    "dark athens street trap",
+    "thug slime maradona beat",
+    "greek underground trap 808"
+  ],
+  "heroCta": "Buy Thug Slime Beat (WAV Mastered)",
+  "energyLevel": "Very High",
+  "primaryUse": "Street Trap Single, Gangsta Rap Visuals and Underground Anthems",
+  "similarArtists": [
+    "Thug Slime",
+    "Light",
+    "Trannos",
+    "SNIK"
+  ],
+  "recommendedBpm": "136-140 BPM",
+  "productionTips": "Low-pass filtered siren FX with heavily saturated 808 sub drops jumping across two octaves.",
+  "idealVocalStyle": "Aggressive street delivery with Greek and international urban slang and raw energy.",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "The definitive sound for high-impact Greek urban YouTube music videos."
+},
+  {
+  "slug": "marina-satti-polyphonic-balkan-trap",
+  "title": "Marina Satti Polyphonic Greek Folk & Modern 808 Trap Beat",
+  "description": "Groundbreaking cultural fusion inspired by Marina Satti (Zari, Mantissa, Tucutum), uniting traditional Greek polyphonic vocal chants, Zurna folk horns, and thunderous electronic 808 bass for Eurovision-caliber anthems.",
+  "targetKeywords": [
+    "marina satti type beat",
+    "zari instrumental marina satti",
+    "greek folk trap fusion beat",
+    "tucutum type beat",
+    "polyphonic balkan trap 808"
+  ],
+  "heroCta": "Buy Folk Trap Fusion (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Cultural Crossover Anthem, Eurovision-Style Performance and Dance Trend",
+  "similarArtists": [
+    "Marina Satti",
+    "Daphne Lawrence",
+    "Kareem Kalokoh",
+    "Rosalía"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "productionTips": "Layered microtonal acoustic folk woodwinds over a clean, sub-heavy 808 trap drum groove.",
+  "idealVocalStyle": "Traditional polyphonic singing, rhythmic chanting, or modern vocal phrasing with folk inflections.",
+  "suggestedKey": "D Minor / Phrygian",
+  "streamingSuitability": "Massive global crossover appeal across European charts and viral international trends."
+},
+  {
+  "slug": "cretan-lauto-and-trap-outlaw",
+  "title": "Cretan Lauto (Λαούτο) Outlaw Strumming & Trap 808 Sub Beat",
+  "description": "Fierce regional outlaw instrumental featuring the authentic rhythmic strumming and picking of the Cretan Lauto (Λαούτο) driving heavy modern 808 trap drops and crisp urban percussion.",
+  "targetKeywords": [
+    "cretan laouto trap beat",
+    "laouto hip hop instrumental",
+    "traditional cretan trap beat",
+    "cretan outlaw rap 808",
+    "laouto rap beat crete"
+  ],
+  "heroCta": "Buy Cretan Lauto Beat (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Cretan Outlaw Rap, Regional Pride Single and Film Soundtrack",
+  "similarArtists": [
+    "Bloody Hawk",
+    "Villagers of Ioannina City",
+    "Logos Timis"
+  ],
+  "recommendedBpm": "126-134 BPM",
+  "productionTips": "Dual-tracked acoustic Lauto strums with stereo widening over an uncompressed sub-bass foundation.",
+  "idealVocalStyle": "Passionate Greek rhymes, poetic Mantinada verses, and defiant vocal deliveries.",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "Insuperable cultural resonance across the Greek diaspora and island communities."
+},
+  {
+  "slug": "balkan-brass-fanfare-trap-banger",
+  "title": "Northern Greek Balkan Brass Fanfare & Festival 140 BPM Trap Beat",
+  "description": "Explosive, high-energy festival trap banger powered by Northern Greek and Balkan brass trumpet fanfares (Χάλκινα Μακεδονίας) driving a fast 140 BPM drop with room-shaking kicks.",
+  "targetKeywords": [
+    "balkan brass trap beat",
+    "xalkina macedonia trap instrumental",
+    "greek brass festival beat",
+    "northern greek fanfare trap 808",
+    "balkan trap banger 140 bpm"
+  ],
+  "heroCta": "Buy Balkan Brass Beat (WAV Mastered)",
+  "energyLevel": "Very High",
+  "primaryUse": "Festival Mainstage, Live Concert Opener and High-Energy Club Set",
+  "similarArtists": [
+    "Goran Bregović",
+    "Kura",
+    "Yellow Claw",
+    "SNIK"
+  ],
+  "recommendedBpm": "138-144 BPM",
+  "productionTips": "Live brass section recorded with stereo room ambiance over a driving festival trap drum pattern.",
+  "idealVocalStyle": "Hype crowd-control chants, rapid-fire rhythmic rhymes, and high-energy hooks.",
+  "suggestedKey": "G Minor",
+  "streamingSuitability": "Engineered for festival crowds, sports arenas, and viral dance videos."
+},
+  {
+  "slug": "tsitras-rebetiko-baglamas-trap",
+  "title": "Rebetiko Baglamas (Μπαγλαμάς) High-Pitch Strum & Trap 808 Beat",
+  "description": "Unique urban outlaw crossover featuring the sharp, metallic high-register strumming of the traditional Greek Baglamas (Μπαγλαμάς) over punchy 808s and modern hip-hop drums.",
+  "targetKeywords": [
+    "baglamas trap beat",
+    "rebetiko baglamas rap beat",
+    "traditional greek baglamas 808",
+    "outlaw rebetiko hip hop",
+    "baglamas urban crossover beat"
+  ],
+  "heroCta": "Buy Baglamas Trap Beat (Unlimited Use)",
+  "energyLevel": "High",
+  "primaryUse": "Modern Rebetiko Hip-Hop, Acoustic Street Single and Outlaw Storytelling",
+  "similarArtists": [
+    "Anser",
+    "Killah P",
+    "Logos Timis",
+    "Kareem Kalokoh"
+  ],
+  "recommendedBpm": "92-98 / 136 BPM",
+  "productionTips": "Crisp high-frequency Baglamas picking with analog saturation balanced by a clean 40Hz sub-bass.",
+  "idealVocalStyle": "Gritty street storytelling, philosophical rhymes, and passionate Greek delivery.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "High cultural appreciation among hip-hop purists and traditional Greek music enthusiasts."
+},
+  {
+  "slug": "athens-underground-cypher-boom-bap",
+  "title": "Athens Exarcheia Underground Cypher Boom Bap & Vinyl Scratch Beat",
+  "description": "Authentic, raw Exarcheia underground cypher boom bap beat featuring dusty SP1200 vinyl scratches, soulful jazz horn cuts, and hard snapping acoustic snares for pure lyricists.",
+  "targetKeywords": [
+    "exarcheia boom bap beat",
+    "athens underground cypher beat",
+    "greek vinyl scratch rap instrumental",
+    "old school athens hip hop beat",
+    "boom bap mpc greece"
+  ],
+  "heroCta": "Buy Athens Cypher Beat (WAV 24-bit)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Underground Cyphers, MC Battles and Vinyl Headset Singles",
+  "similarArtists": [
+    "Active Member",
+    "Terror X Crew",
+    "FF.C",
+    "Bloody Hawk"
+  ],
+  "recommendedBpm": "90-94 BPM",
+  "productionTips": "Warm tape-saturated drums with natural swing and filtered upright jazz basslines.",
+  "idealVocalStyle": "Complex multi-syllabic rhymes, deep political consciousness, and precise flow.",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "The definitive format for real hip-hop cyphers and underground battle leagues."
+},
+  {
+  "slug": "aegean-sea-blue-acoustic-chillhop",
+  "title": "Aegean Sea Turquoise Waves & Greek Island Acoustic Chillhop Beat",
+  "description": "Sun-drenched, tranquil coastal chillhop inspired by the turquoise waters of the Aegean Sea: gentle nylon guitar fingerpicking, soft Mediterranean waves, and warm mellow hip-hop drums.",
+  "targetKeywords": [
+    "aegean sea chillhop beat",
+    "greek island acoustic lofi",
+    "summer relaxing beat greece",
+    "cyclades sunset chillhop",
+    "greek acoustic guitar hip hop"
+  ],
+  "heroCta": "Buy Aegean Chillhop Beat (Commercial License)",
+  "energyLevel": "Low",
+  "primaryUse": "Travel Videos, Summer Island Vlogs, Study Relaxing and Aesthetic Backgrounds",
+  "similarArtists": [
+    "Nujabes",
+    "Tomppabeats",
+    "Kudasaibeats",
+    "Marina Satti"
+  ],
+  "recommendedBpm": "76-82 BPM",
+  "productionTips": "Organic field recordings of Mediterranean sea surf with warm acoustic guitar harmonics.",
+  "idealVocalStyle": "Gentle poetic singing, spoken-word reflection, or relaxing background listening.",
+  "suggestedKey": "D Major",
+  "streamingSuitability": "Insuperable for lifestyle content creators, travel commercials, and aesthetic summer edits."
+},
+  {
+  "slug": "affordable-greek-trap-beats-iris-checkout",
+  "title": "Affordable Greek Trap Beats from 15€ with Instant IRIS Checkout",
+  "description": "High-quality, budget-friendly Greek trap and drill instrumentals for emerging recording artists starting from only 15€ with instant IRIS mobile banking transfer in Greece.",
+  "targetKeywords": [
+    "affordable greek trap beats iris",
+    "ftina beats trap ellada 15 euro",
+    "cheap trap beats athens skg",
+    "budget greek drill beats iris online"
+  ],
+  "heroCta": "Browse Affordable Beats (From 15€ via IRIS)",
+  "energyLevel": "High",
+  "primaryUse": "Emerging Artist Releases, Home Demos and Breakthrough Singles",
+  "similarArtists": [
+    "Greek Independent Rap Community"
+  ],
+  "recommendedBpm": "130-142 BPM",
+  "productionTips": "Direct verse-chorus song structures formatted for rapid recording and vocal sketching.",
+  "idealVocalStyle": "Adaptable across all emerging rap and melodic vocal styles.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Includes commercial license valid up to 25,000 streams on Spotify and Apple Music."
+},
+  {
+  "slug": "melodic-rnb-trap-beats-greece-wav",
+  "title": "Commercial Greek R&B-Trap Beats with Clean Guitars in Studio WAV",
+  "description": "Radio-ready, smooth R&B-trap productions featuring silky acoustic guitars and Rhodes keyboards delivered in pristine 24-bit studio WAV format for singers and melodic MCs.",
+  "targetKeywords": [
+    "melodic rnb trap beats greece wav",
+    "rnb trap instrumentals athens",
+    "mente fuerte style beats wav",
+    "commercial melodic beats greece"
+  ],
+  "heroCta": "Buy R&B-Trap Beat (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Commercial Radio Single, Island Summer Hit and Romantic Visual",
+  "similarArtists": [
+    "Mente Fuerte",
+    "Saske",
+    "Toquel",
+    "FY"
+  ],
+  "recommendedBpm": "105-115 BPM",
+  "productionTips": "Stereo acoustic guitar loops treated with warm preamps and smooth melodic sub-bass.",
+  "idealVocalStyle": "Smooth autotuned singing, seductive vocal runs, and memorable radio hooks.",
+  "suggestedKey": "F# Minor",
+  "streamingSuitability": "Engineered for mainstream Greek radio rotation and high Spotify streaming numbers."
+},
+  {
+  "slug": "aggressive-greek-drill-beats-808-stems",
+  "title": "Aggressive Greek Drill Beats with Heavy 808s & Multitrack Stems",
+  "description": "Hard-hitting, menacing Greek street drill instrumentals featuring aggressive sliding 808s and separated multitrack audio stems for mixing in recording studios across Athens and Thessaloniki.",
+  "targetKeywords": [
+    "aggressive greek drill beats stems",
+    "skg drill beats multitrack wav",
+    "athens street drill stems 808",
+    "hard greek drill instrumentals pistas"
+  ],
+  "heroCta": "Download Drill Beat (With Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hard Drill Singles, Studio Recording and High-Impact Music Videos",
+  "similarArtists": [
+    "Trannos",
+    "Rack",
+    "Wang",
+    "Thug Slime"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Separated stems for kick, sub-808, snare, hats, and melodics exported at -6dB headroom.",
+  "idealVocalStyle": "Cold reality punchlines, fast drill cadence, and direct street delivery.",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "Maximum flexibility for audio mixing engineers preparing club-ready master tracks."
+},
+  {
+  "slug": "summer-party-trap-beats-greece-radio",
+  "title": "Summer Party Trap Beats 108 BPM for Greek Radio Airplay (WAV)",
+  "description": "Catchy, sun-drenched summer party trap and Afro-trap instrumentals at 105-110 BPM engineered for beach clubs, festival stages, and heavy rotation on Greek mainstream radio.",
+  "targetKeywords": [
+    "summer party trap beats greece",
+    "greek radio trap beats 108 bpm",
+    "afro trap beat athens summer",
+    "fy snik style party beat wav"
+  ],
+  "heroCta": "Buy Summer Party Beat (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Summer Radio Anthem, Beach Club Banger and Commercial Single",
+  "similarArtists": [
+    "FY",
+    "SNIK",
+    "Mente Fuerte",
+    "Mad Clip"
+  ],
+  "recommendedBpm": "106-110 BPM",
+  "productionTips": "Bright synth plucks and syncopated tropical percussion with wide stereo image.",
+  "idealVocalStyle": "High-energy singalong hooks, playful verses, and crowd-control party chants.",
+  "suggestedKey": "A Major",
+  "streamingSuitability": "Insuperable for summer playlists, TikTok trends, and beach resort DJ sets."
+},
+  {
+  "slug": "autodia-exclusive-rights-assignment-pdf",
+  "title": "AUTODIA Exclusive Beat Rights Assignment Contract Agreement (PDF)",
+  "description": "Download an official legal licensing contract in PDF format ready for registration with AUTODIA (ΑΥΤΟΔΙΑΧΕΙΡΙΣΗ) ensuring 100% copyright protection and exclusive master ownership.",
+  "targetKeywords": [
+    "autodia exclusive rights contract pdf",
+    "apokleistiki ekxwrisi dikaiwmatwn autodia",
+    "greek music exclusive contract template",
+    "legal beat contract greece pdf"
+  ],
+  "heroCta": "Download AUTODIA Agreement (Instant PDF)",
+  "energyLevel": "N/A",
+  "primaryUse": "Copyright Registration with AUTODIA, Exclusive Transfers and Label Submissions",
+  "similarArtists": [
+    "Onzieb",
+    "AUTODIA Registered Songwriters and Composers"
+  ],
+  "recommendedBpm": "All Tempos",
+  "productionTips": "Formulated under Greek and European intellectual property law.",
+  "idealVocalStyle": "Valid for all musical genres and vocal compositions.",
+  "suggestedKey": "All Keys",
+  "streamingSuitability": "Guaranteed legal protection and worry-free global commercial distribution."
+},
+  {
+  "slug": "viva-wallet-beat-store-checkout-greece",
+  "title": "Buy Beats with Viva Wallet & Greek Debit Cards (Instant Download €)",
+  "description": "Secure instant checkout via Viva Wallet and all Greek bank cards (Alpha Bank, Eurobank, NBG, Piraeus) with zero conversion fees and immediate 24-bit WAV file delivery.",
+  "targetKeywords": [
+    "viva wallet beat store greece",
+    "buy beats viva wallet eur",
+    "agora beats me karta ellada",
+    "instant download beats viva wallet"
+  ],
+  "heroCta": "Checkout with Viva Wallet (€)",
+  "energyLevel": "Universal",
+  "primaryUse": "Fast and Secure Beat Purchasing for Greek Creators",
+  "similarArtists": [
+    "Greek Recording Artists and Producers"
+  ],
+  "recommendedBpm": "All BPMs",
+  "productionTips": "Encrypted direct processing with instant license and audio download link generation.",
+  "idealVocalStyle": "Accessible to all creators across Greece and Cyprus.",
+  "suggestedKey": "All Keys",
+  "streamingSuitability": "Commercial licensing with immediate monetization freedom on DSPs."
+},
+  {
+  "slug": "album-discount-deals-skg-athens-rap",
+  "title": "Greek Rap Album & Mixtape Deals: 5 Beats Bundle (Save 40% in EUR €)",
+  "description": "Multi-beat bundle package for Greek artists recording a 5-track EP or 10-track album: save up to 40% in EUR (€) with direct mixing support and consistent production quality.",
+  "targetKeywords": [
+    "album discount deals greek rap",
+    "5 beats bundle skg athens",
+    "mixtape beat package greece eur",
+    "prosfora paketo beats ellada"
+  ],
+  "heroCta": "View 5-Beat Album Bundle (Save 40%)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Full EP Recording, Continuous Album Projects and Consistent Sound",
+  "similarArtists": [
+    "Independent Greek Hip-Hop Artists"
+  ],
+  "recommendedBpm": "88-144 BPM",
+  "productionTips": "Curated sonic continuity ensuring your EP flows smoothly from track to track.",
+  "idealVocalStyle": "Adaptable across the artist's full stylistic range.",
+  "suggestedKey": "Various Keys",
+  "streamingSuitability": "Multi-release commercial license valid across all streaming platforms."
+},
+  {
+  "slug": "online-mix-master-service-greece-onzieb",
+  "title": "Full Music Production, Vocal Mixing & Stem Mastering (Producer Onzieb)",
+  "description": "Complete audio production service including custom beat composition, surgical vocal mixing, and stem mastering for Greek artists via WhatsApp consultation with Onzieb.",
+  "targetKeywords": [
+    "mix master service greece onzieb",
+    "paragogi mousikis mix master ellada",
+    "custom beats and mixing athens whatsapp",
+    "mastering trap rap greece onzieb"
+  ],
+  "heroCta": "Chat with Onzieb about Mixing on WhatsApp",
+  "energyLevel": "Custom",
+  "primaryUse": "Major Single Releases, Label Presentations and Broadcast Airplay",
+  "similarArtists": [
+    "Onzieb",
+    "Greek Professional Artists"
+  ],
+  "recommendedBpm": "Tailored to your project",
+  "productionTips": "Broadcast standard mastering (-14 LUFS) with precise multiband compression on vocal tracks.",
+  "idealVocalStyle": "Home studio or commercial studio vocal recordings.",
+  "suggestedKey": "Personalized",
+  "streamingSuitability": "Guaranteed compliance with Spotify, Apple Music, and European radio loudness standards."
+},
+  {
+  "slug": "acoustic-guitar-pain-trap-beats-greece",
+  "title": "Emotional Pain Trap Beats with Live Acoustic Guitars & Weeping Pianos",
+  "description": "Deeply emotional, introspective Greek trap instrumentals featuring real acoustic nylon guitars, melancholic piano progressions, and hard sliding 808s for pain storytelling.",
+  "targetKeywords": [
+    "acoustic guitar pain trap beats greece",
+    "bloody hawk style guitar beats",
+    "greek emotional trap instrumentals wav",
+    "pain trap beats athens skg"
+  ],
+  "heroCta": "Buy Acoustic Pain Trap Beat (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Emotional Pain Rap, Confessional Singles and Deep Visualizers",
+  "similarArtists": [
+    "Bloody Hawk",
+    "Dani Gambino",
+    "Toquel",
+    "Wang"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "productionTips": "Intimate acoustic guitar picking layered with tape-saturated pianos and clean sub-bass.",
+  "idealVocalStyle": "Honest, emotionally charged delivery, pain lyrics, and heartfelt vocal cadence.",
+  "suggestedKey": "E Minor / G Minor",
+  "streamingSuitability": "High organic streaming longevity and strong audience emotional loyalty."
+},
+  {
+  "slug": "free-greek-drill-drum-kit-and-samples",
+  "title": "Free Greek Drill Drum Kit & 808 Percussion Sample Pack (24-bit WAV)",
+  "description": "Download a free producer drum kit featuring 25 punchy sounds (tuned Greek drill 808s, snappy rimshots, counter-snares, and hi-hat rolls) in studio 24-bit WAV quality.",
+  "targetKeywords": [
+    "free greek drill drum kit",
+    "dwrean samples trap ellada",
+    "athens drill drum pack free download",
+    "808 samples greek trap download"
+  ],
+  "heroCta": "Download Free Drum Kit (Instant WAV Access)",
+  "energyLevel": "High",
+  "primaryUse": "Music Production, Beatmaking and Home Studio Experimentation",
+  "similarArtists": [
+    "Greek Beatmakers and Producers"
+  ],
+  "recommendedBpm": "Compatible with all BPMs",
+  "productionTips": "Tuned in C, pre-mastered with clean transient attacks ready to drag and drop into any DAW.",
+  "idealVocalStyle": "For beatmakers creating tracks for recording artists.",
+  "suggestedKey": "808s tuned to C",
+  "streamingSuitability": "100% royalty-free for commercial use in your own original musical productions."
+},
+  {
+  "slug": "glyfada-greek-trap-808",
+  "name": "Glyfada Greek Trap 808 Beats",
+  "category": "scene",
+  "badge": "Glyfada Greek Trap 808",
+  "headline": "Glyfada (Athens Riviera & Luxury Coast) Greek Trap 808 Beats: 24-Bit WAV Beats & IRIS Payments",
+  "description": "Heavy sliding 808 sub-bass, menacing brass stabs, and punchy snares engineered for artists in Glyfada.",
+  "targetArtists": [
+    "Artists from Glyfada",
+    "Greek Urban Music Community",
+    "Balkan Hip-Hop Scene"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Glyfada",
+    "Greek Trap 808",
+    "IRIS Payments & Cards (€)",
+    "AUTODIA Compliant"
+  ],
+  "popularGenres": [
+    "Greek Trap 808 Beats",
+    "Greek Trap",
+    "Greek Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "glyfada-greek-drill-streets",
+  "name": "Glyfada Greek Street Drill Beats",
+  "category": "scene",
+  "badge": "Glyfada Greek Drill",
+  "headline": "Glyfada (Athens Riviera & Luxury Coast) Greek Street Drill Beats: 24-Bit WAV Beats & IRIS Payments",
+  "description": "Cold church bells, fast syncopated drill hats, and hard-hitting kicks crafted for MCs in Glyfada.",
+  "targetArtists": [
+    "Artists from Glyfada",
+    "Greek Urban Music Community",
+    "Balkan Hip-Hop Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Glyfada",
+    "Greek Drill",
+    "IRIS Payments & Cards (€)",
+    "AUTODIA Compliant"
+  ],
+  "popularGenres": [
+    "Greek Street Drill Beats",
+    "Greek Trap",
+    "Greek Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "glyfada-bouzouki-trap-fusion",
+  "name": "Glyfada Bouzouki Trap Fusion Beats",
+  "category": "scene",
+  "badge": "Glyfada Bouzouki Trap",
+  "headline": "Glyfada (Athens Riviera & Luxury Coast) Bouzouki Trap Fusion Beats: 24-Bit WAV Beats & IRIS Payments",
+  "description": "Authentic double-string Bouzouki picked arpeggios, warm Rhodes keys, and modern trap drums for Glyfada.",
+  "targetArtists": [
+    "Artists from Glyfada",
+    "Greek Urban Music Community",
+    "Balkan Hip-Hop Scene"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "D-Hijaz / A-Minor",
+  "vibeAttributes": [
+    "Glyfada",
+    "Bouzouki Trap",
+    "IRIS Payments & Cards (€)",
+    "AUTODIA Compliant"
+  ],
+  "popularGenres": [
+    "Bouzouki Trap Fusion Beats",
+    "Greek Trap",
+    "Greek Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "glyfada-boom-bap-classics",
+  "name": "Glyfada Boom Bap Classics Beats",
+  "category": "scene",
+  "badge": "Glyfada Boom Bap Greece",
+  "headline": "Glyfada (Athens Riviera & Luxury Coast) Boom Bap Classics Beats: 24-Bit WAV Beats & IRIS Payments",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and vintage MPC groove for MCs in Glyfada.",
+  "targetArtists": [
+    "Artists from Glyfada",
+    "Greek Urban Music Community",
+    "Balkan Hip-Hop Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Glyfada",
+    "Boom Bap Greece",
+    "IRIS Payments & Cards (€)",
+    "AUTODIA Compliant"
+  ],
+  "popularGenres": [
+    "Boom Bap Classics Beats",
+    "Greek Trap",
+    "Greek Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "peristeri-greek-trap-808",
+  "name": "Peristeri Greek Trap 808 Beats",
+  "category": "scene",
+  "badge": "Peristeri Greek Trap 808",
+  "headline": "Peristeri (West Athens & Raw Reality) Greek Trap 808 Beats: 24-Bit WAV Beats & IRIS Payments",
+  "description": "Heavy sliding 808 sub-bass, menacing brass stabs, and punchy snares engineered for artists in Peristeri.",
+  "targetArtists": [
+    "Artists from Peristeri",
+    "Greek Urban Music Community",
+    "Balkan Hip-Hop Scene"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Peristeri",
+    "Greek Trap 808",
+    "IRIS Payments & Cards (€)",
+    "AUTODIA Compliant"
+  ],
+  "popularGenres": [
+    "Greek Trap 808 Beats",
+    "Greek Trap",
+    "Greek Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "peristeri-greek-drill-streets",
+  "name": "Peristeri Greek Street Drill Beats",
+  "category": "scene",
+  "badge": "Peristeri Greek Drill",
+  "headline": "Peristeri (West Athens & Raw Reality) Greek Street Drill Beats: 24-Bit WAV Beats & IRIS Payments",
+  "description": "Cold church bells, fast syncopated drill hats, and hard-hitting kicks crafted for MCs in Peristeri.",
+  "targetArtists": [
+    "Artists from Peristeri",
+    "Greek Urban Music Community",
+    "Balkan Hip-Hop Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Peristeri",
+    "Greek Drill",
+    "IRIS Payments & Cards (€)",
+    "AUTODIA Compliant"
+  ],
+  "popularGenres": [
+    "Greek Street Drill Beats",
+    "Greek Trap",
+    "Greek Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "peristeri-bouzouki-trap-fusion",
+  "name": "Peristeri Bouzouki Trap Fusion Beats",
+  "category": "scene",
+  "badge": "Peristeri Bouzouki Trap",
+  "headline": "Peristeri (West Athens & Raw Reality) Bouzouki Trap Fusion Beats: 24-Bit WAV Beats & IRIS Payments",
+  "description": "Authentic double-string Bouzouki picked arpeggios, warm Rhodes keys, and modern trap drums for Peristeri.",
+  "targetArtists": [
+    "Artists from Peristeri",
+    "Greek Urban Music Community",
+    "Balkan Hip-Hop Scene"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "D-Hijaz / A-Minor",
+  "vibeAttributes": [
+    "Peristeri",
+    "Bouzouki Trap",
+    "IRIS Payments & Cards (€)",
+    "AUTODIA Compliant"
+  ],
+  "popularGenres": [
+    "Bouzouki Trap Fusion Beats",
+    "Greek Trap",
+    "Greek Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "peristeri-boom-bap-classics",
+  "name": "Peristeri Boom Bap Classics Beats",
+  "category": "scene",
+  "badge": "Peristeri Boom Bap Greece",
+  "headline": "Peristeri (West Athens & Raw Reality) Boom Bap Classics Beats: 24-Bit WAV Beats & IRIS Payments",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and vintage MPC groove for MCs in Peristeri.",
+  "targetArtists": [
+    "Artists from Peristeri",
+    "Greek Urban Music Community",
+    "Balkan Hip-Hop Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Peristeri",
+    "Boom Bap Greece",
+    "IRIS Payments & Cards (€)",
+    "AUTODIA Compliant"
+  ],
+  "popularGenres": [
+    "Boom Bap Classics Beats",
+    "Greek Trap",
+    "Greek Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "kalamaria-greek-trap-808",
+  "name": "Kalamaria Greek Trap 808 Beats",
+  "category": "scene",
+  "badge": "Kalamaria Greek Trap 808",
+  "headline": "Kalamaria (East SKG & Thermaic Gulf) Greek Trap 808 Beats: 24-Bit WAV Beats & IRIS Payments",
+  "description": "Heavy sliding 808 sub-bass, menacing brass stabs, and punchy snares engineered for artists in Kalamaria.",
+  "targetArtists": [
+    "Artists from Kalamaria",
+    "Greek Urban Music Community",
+    "Balkan Hip-Hop Scene"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Kalamaria",
+    "Greek Trap 808",
+    "IRIS Payments & Cards (€)",
+    "AUTODIA Compliant"
+  ],
+  "popularGenres": [
+    "Greek Trap 808 Beats",
+    "Greek Trap",
+    "Greek Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "kalamaria-greek-drill-streets",
+  "name": "Kalamaria Greek Street Drill Beats",
+  "category": "scene",
+  "badge": "Kalamaria Greek Drill",
+  "headline": "Kalamaria (East SKG & Thermaic Gulf) Greek Street Drill Beats: 24-Bit WAV Beats & IRIS Payments",
+  "description": "Cold church bells, fast syncopated drill hats, and hard-hitting kicks crafted for MCs in Kalamaria.",
+  "targetArtists": [
+    "Artists from Kalamaria",
+    "Greek Urban Music Community",
+    "Balkan Hip-Hop Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Kalamaria",
+    "Greek Drill",
+    "IRIS Payments & Cards (€)",
+    "AUTODIA Compliant"
+  ],
+  "popularGenres": [
+    "Greek Street Drill Beats",
+    "Greek Trap",
+    "Greek Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "kalamaria-bouzouki-trap-fusion",
+  "name": "Kalamaria Bouzouki Trap Fusion Beats",
+  "category": "scene",
+  "badge": "Kalamaria Bouzouki Trap",
+  "headline": "Kalamaria (East SKG & Thermaic Gulf) Bouzouki Trap Fusion Beats: 24-Bit WAV Beats & IRIS Payments",
+  "description": "Authentic double-string Bouzouki picked arpeggios, warm Rhodes keys, and modern trap drums for Kalamaria.",
+  "targetArtists": [
+    "Artists from Kalamaria",
+    "Greek Urban Music Community",
+    "Balkan Hip-Hop Scene"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "D-Hijaz / A-Minor",
+  "vibeAttributes": [
+    "Kalamaria",
+    "Bouzouki Trap",
+    "IRIS Payments & Cards (€)",
+    "AUTODIA Compliant"
+  ],
+  "popularGenres": [
+    "Bouzouki Trap Fusion Beats",
+    "Greek Trap",
+    "Greek Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "kalamaria-boom-bap-classics",
+  "name": "Kalamaria Boom Bap Classics Beats",
+  "category": "scene",
+  "badge": "Kalamaria Boom Bap Greece",
+  "headline": "Kalamaria (East SKG & Thermaic Gulf) Boom Bap Classics Beats: 24-Bit WAV Beats & IRIS Payments",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and vintage MPC groove for MCs in Kalamaria.",
+  "targetArtists": [
+    "Artists from Kalamaria",
+    "Greek Urban Music Community",
+    "Balkan Hip-Hop Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Kalamaria",
+    "Boom Bap Greece",
+    "IRIS Payments & Cards (€)",
+    "AUTODIA Compliant"
+  ],
+  "popularGenres": [
+    "Boom Bap Classics Beats",
+    "Greek Trap",
+    "Greek Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "rethymno-greek-trap-808",
+  "name": "Rethymno Greek Trap 808 Beats",
+  "category": "scene",
+  "badge": "Rethymno Greek Trap 808",
+  "headline": "Rethymno (Central Crete & Student Arts) Greek Trap 808 Beats: 24-Bit WAV Beats & IRIS Payments",
+  "description": "Heavy sliding 808 sub-bass, menacing brass stabs, and punchy snares engineered for artists in Rethymno.",
+  "targetArtists": [
+    "Artists from Rethymno",
+    "Greek Urban Music Community",
+    "Balkan Hip-Hop Scene"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Rethymno",
+    "Greek Trap 808",
+    "IRIS Payments & Cards (€)",
+    "AUTODIA Compliant"
+  ],
+  "popularGenres": [
+    "Greek Trap 808 Beats",
+    "Greek Trap",
+    "Greek Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "rethymno-greek-drill-streets",
+  "name": "Rethymno Greek Street Drill Beats",
+  "category": "scene",
+  "badge": "Rethymno Greek Drill",
+  "headline": "Rethymno (Central Crete & Student Arts) Greek Street Drill Beats: 24-Bit WAV Beats & IRIS Payments",
+  "description": "Cold church bells, fast syncopated drill hats, and hard-hitting kicks crafted for MCs in Rethymno.",
+  "targetArtists": [
+    "Artists from Rethymno",
+    "Greek Urban Music Community",
+    "Balkan Hip-Hop Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Rethymno",
+    "Greek Drill",
+    "IRIS Payments & Cards (€)",
+    "AUTODIA Compliant"
+  ],
+  "popularGenres": [
+    "Greek Street Drill Beats",
+    "Greek Trap",
+    "Greek Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "rethymno-bouzouki-trap-fusion",
+  "name": "Rethymno Bouzouki Trap Fusion Beats",
+  "category": "scene",
+  "badge": "Rethymno Bouzouki Trap",
+  "headline": "Rethymno (Central Crete & Student Arts) Bouzouki Trap Fusion Beats: 24-Bit WAV Beats & IRIS Payments",
+  "description": "Authentic double-string Bouzouki picked arpeggios, warm Rhodes keys, and modern trap drums for Rethymno.",
+  "targetArtists": [
+    "Artists from Rethymno",
+    "Greek Urban Music Community",
+    "Balkan Hip-Hop Scene"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "D-Hijaz / A-Minor",
+  "vibeAttributes": [
+    "Rethymno",
+    "Bouzouki Trap",
+    "IRIS Payments & Cards (€)",
+    "AUTODIA Compliant"
+  ],
+  "popularGenres": [
+    "Bouzouki Trap Fusion Beats",
+    "Greek Trap",
+    "Greek Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "rethymno-boom-bap-classics",
+  "name": "Rethymno Boom Bap Classics Beats",
+  "category": "scene",
+  "badge": "Rethymno Boom Bap Greece",
+  "headline": "Rethymno (Central Crete & Student Arts) Boom Bap Classics Beats: 24-Bit WAV Beats & IRIS Payments",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and vintage MPC groove for MCs in Rethymno.",
+  "targetArtists": [
+    "Artists from Rethymno",
+    "Greek Urban Music Community",
+    "Balkan Hip-Hop Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Rethymno",
+    "Boom Bap Greece",
+    "IRIS Payments & Cards (€)",
+    "AUTODIA Compliant"
+  ],
+  "popularGenres": [
+    "Boom Bap Classics Beats",
+    "Greek Trap",
+    "Greek Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "kavala-greek-trap-808",
+  "name": "Kavala Greek Trap 808 Beats",
+  "category": "scene",
+  "badge": "Kavala Greek Trap 808",
+  "headline": "Kavala (Eastern Macedonia Port) Greek Trap 808 Beats: 24-Bit WAV Beats & IRIS Payments",
+  "description": "Heavy sliding 808 sub-bass, menacing brass stabs, and punchy snares engineered for artists in Kavala.",
+  "targetArtists": [
+    "Artists from Kavala",
+    "Greek Urban Music Community",
+    "Balkan Hip-Hop Scene"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Kavala",
+    "Greek Trap 808",
+    "IRIS Payments & Cards (€)",
+    "AUTODIA Compliant"
+  ],
+  "popularGenres": [
+    "Greek Trap 808 Beats",
+    "Greek Trap",
+    "Greek Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "kavala-greek-drill-streets",
+  "name": "Kavala Greek Street Drill Beats",
+  "category": "scene",
+  "badge": "Kavala Greek Drill",
+  "headline": "Kavala (Eastern Macedonia Port) Greek Street Drill Beats: 24-Bit WAV Beats & IRIS Payments",
+  "description": "Cold church bells, fast syncopated drill hats, and hard-hitting kicks crafted for MCs in Kavala.",
+  "targetArtists": [
+    "Artists from Kavala",
+    "Greek Urban Music Community",
+    "Balkan Hip-Hop Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Kavala",
+    "Greek Drill",
+    "IRIS Payments & Cards (€)",
+    "AUTODIA Compliant"
+  ],
+  "popularGenres": [
+    "Greek Street Drill Beats",
+    "Greek Trap",
+    "Greek Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "kavala-bouzouki-trap-fusion",
+  "name": "Kavala Bouzouki Trap Fusion Beats",
+  "category": "scene",
+  "badge": "Kavala Bouzouki Trap",
+  "headline": "Kavala (Eastern Macedonia Port) Bouzouki Trap Fusion Beats: 24-Bit WAV Beats & IRIS Payments",
+  "description": "Authentic double-string Bouzouki picked arpeggios, warm Rhodes keys, and modern trap drums for Kavala.",
+  "targetArtists": [
+    "Artists from Kavala",
+    "Greek Urban Music Community",
+    "Balkan Hip-Hop Scene"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "D-Hijaz / A-Minor",
+  "vibeAttributes": [
+    "Kavala",
+    "Bouzouki Trap",
+    "IRIS Payments & Cards (€)",
+    "AUTODIA Compliant"
+  ],
+  "popularGenres": [
+    "Bouzouki Trap Fusion Beats",
+    "Greek Trap",
+    "Greek Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "kavala-boom-bap-classics",
+  "name": "Kavala Boom Bap Classics Beats",
+  "category": "scene",
+  "badge": "Kavala Boom Bap Greece",
+  "headline": "Kavala (Eastern Macedonia Port) Boom Bap Classics Beats: 24-Bit WAV Beats & IRIS Payments",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and vintage MPC groove for MCs in Kavala.",
+  "targetArtists": [
+    "Artists from Kavala",
+    "Greek Urban Music Community",
+    "Balkan Hip-Hop Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Kavala",
+    "Boom Bap Greece",
+    "IRIS Payments & Cards (€)",
+    "AUTODIA Compliant"
+  ],
+  "popularGenres": [
+    "Boom Bap Classics Beats",
+    "Greek Trap",
+    "Greek Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "corfu-greek-trap-808",
+  "name": "Corfu Greek Trap 808 Beats",
+  "category": "scene",
+  "badge": "Corfu Greek Trap 808",
+  "headline": "Corfu (Ionian Islands & Brass Heritage) Greek Trap 808 Beats: 24-Bit WAV Beats & IRIS Payments",
+  "description": "Heavy sliding 808 sub-bass, menacing brass stabs, and punchy snares engineered for artists in Corfu.",
+  "targetArtists": [
+    "Artists from Corfu",
+    "Greek Urban Music Community",
+    "Balkan Hip-Hop Scene"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Corfu",
+    "Greek Trap 808",
+    "IRIS Payments & Cards (€)",
+    "AUTODIA Compliant"
+  ],
+  "popularGenres": [
+    "Greek Trap 808 Beats",
+    "Greek Trap",
+    "Greek Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "corfu-greek-drill-streets",
+  "name": "Corfu Greek Street Drill Beats",
+  "category": "scene",
+  "badge": "Corfu Greek Drill",
+  "headline": "Corfu (Ionian Islands & Brass Heritage) Greek Street Drill Beats: 24-Bit WAV Beats & IRIS Payments",
+  "description": "Cold church bells, fast syncopated drill hats, and hard-hitting kicks crafted for MCs in Corfu.",
+  "targetArtists": [
+    "Artists from Corfu",
+    "Greek Urban Music Community",
+    "Balkan Hip-Hop Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Corfu",
+    "Greek Drill",
+    "IRIS Payments & Cards (€)",
+    "AUTODIA Compliant"
+  ],
+  "popularGenres": [
+    "Greek Street Drill Beats",
+    "Greek Trap",
+    "Greek Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "corfu-bouzouki-trap-fusion",
+  "name": "Corfu Bouzouki Trap Fusion Beats",
+  "category": "scene",
+  "badge": "Corfu Bouzouki Trap",
+  "headline": "Corfu (Ionian Islands & Brass Heritage) Bouzouki Trap Fusion Beats: 24-Bit WAV Beats & IRIS Payments",
+  "description": "Authentic double-string Bouzouki picked arpeggios, warm Rhodes keys, and modern trap drums for Corfu.",
+  "targetArtists": [
+    "Artists from Corfu",
+    "Greek Urban Music Community",
+    "Balkan Hip-Hop Scene"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "D-Hijaz / A-Minor",
+  "vibeAttributes": [
+    "Corfu",
+    "Bouzouki Trap",
+    "IRIS Payments & Cards (€)",
+    "AUTODIA Compliant"
+  ],
+  "popularGenres": [
+    "Bouzouki Trap Fusion Beats",
+    "Greek Trap",
+    "Greek Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "corfu-boom-bap-classics",
+  "name": "Corfu Boom Bap Classics Beats",
+  "category": "scene",
+  "badge": "Corfu Boom Bap Greece",
+  "headline": "Corfu (Ionian Islands & Brass Heritage) Boom Bap Classics Beats: 24-Bit WAV Beats & IRIS Payments",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and vintage MPC groove for MCs in Corfu.",
+  "targetArtists": [
+    "Artists from Corfu",
+    "Greek Urban Music Community",
+    "Balkan Hip-Hop Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Corfu",
+    "Boom Bap Greece",
+    "IRIS Payments & Cards (€)",
+    "AUTODIA Compliant"
+  ],
+  "popularGenres": [
+    "Boom Bap Classics Beats",
+    "Greek Trap",
+    "Greek Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
 ];

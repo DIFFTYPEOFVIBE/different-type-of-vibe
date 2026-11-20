@@ -37828,4 +37828,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "gr/glyfada-athens-riviera": {
+  "slug": "gr/glyfada-athens-riviera",
+  "name": "Greece – Glyfada & Athens Riviera (Γλυφάδα: Luxury Coast & VIP Trap)",
+  "flag": "🇬🇷",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "IRIS Payments, Viva Wallet, Alpha Bank, Eurobank, NBG, Piraeus, Cards, Apple Pay, PayPal",
+  "pro": "AUTODIA",
+  "proFullName": "AUTODIA (ΑΥΤΟΔΙΑΧΕΙΡΙΣΗ)",
+  "proGuide": "100% compliant with AUTODIA licensing and European commercial clearance.",
+  "headline": "Beats in Glyfada: Athens Riviera Luxury, VIP Yacht Sound & Melodic Trap",
+  "description": "The glamorous coastal strip of southern Athens: smooth tropical plucks, sleek modern 808s, and high-roller lifestyle bounce crafted for Glyfada, Vouliagmeni, and Alimos artists.",
+  "popularGenres": [
+    "Glyfada Luxury Trap",
+    "Riviera Melodic Rap",
+    "Summer Coast Beat"
+  ],
+  "subClusters": []
+},
+  "gr/peristeri-west-athens": {
+  "slug": "gr/peristeri-west-athens",
+  "name": "Greece – Peristeri & West Athens (Περιστέρι: Raw Reality & Street Drill)",
+  "flag": "🇬🇷",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "IRIS Payments, Viva Wallet, Alpha Bank, Eurobank, NBG, Piraeus, Cards, Apple Pay, PayPal",
+  "pro": "AUTODIA",
+  "proFullName": "AUTODIA (ΑΥΤΟΔΙΑΧΕΙΡΙΣΗ)",
+  "proGuide": "Pristine 24-bit studio WAV delivery with multitrack stem files.",
+  "headline": "Beats in Peristeri: West Athens Working-Class Grit, Dark Church Bells & 808s",
+  "description": "The authentic street capital of western Athens (Peristeri, Ilion, Egaleo): heavy sliding 808 sub-bass, cold minor pianos, and relentless drill snares for hardcore reality lyricists.",
+  "popularGenres": [
+    "Peristeri Street Drill",
+    "West Athens Trap",
+    "Working-Class 808"
+  ],
+  "subClusters": []
+},
+  "gr/kalamaria-thessaloniki-east": {
+  "slug": "gr/kalamaria-thessaloniki-east",
+  "name": "Greece – Kalamaria & East SKG (Καλαμαριά: Seaside Northern Vibe & R&B)",
+  "flag": "🇬🇷",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "IRIS Payments, Viva Wallet, Alpha Bank, Eurobank, NBG, Piraeus, Cards, Apple Pay, PayPal",
+  "pro": "AUTODIA",
+  "proFullName": "AUTODIA (ΑΥΤΟΔΙΑΧΕΙΡΙΣΗ)",
+  "proGuide": "100% royalty-free clearance on master recordings.",
+  "headline": "Beats in Kalamaria: Thermaic Gulf Coastline, Smooth R&B-Trap & SKG Flow",
+  "description": "The refined coastal soul of eastern Thessaloniki: lush Rhodes electric pianos, acoustic guitar loops, and smooth melodic 808 bounce for Kalamaria and Panorama creators.",
+  "popularGenres": [
+    "Kalamaria R&B-Trap",
+    "East SKG Melodic Rap",
+    "Thermaic Gulf Vibe"
+  ],
+  "subClusters": []
+},
+  "gr/irakleio-rethymno-corridor": {
+  "slug": "gr/irakleio-rethymno-corridor",
+  "name": "Greece – Rethymno & Central Crete (Ρέθυμνο: Venetian Fortress & Student Rap)",
+  "flag": "🇬🇷",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "IRIS Payments, Viva Wallet, Alpha Bank, Eurobank, NBG, Piraeus, Cards, Apple Pay, PayPal",
+  "pro": "AUTODIA",
+  "proFullName": "AUTODIA (ΑΥΤΟΔΙΑΧΕΙΡΙΣΗ)",
+  "proGuide": "Full mechanical rights under Greek and EU copyright law.",
+  "headline": "Beats in Rethymno: Venetian Fortezza, Cretan Arts & Folk Trap Fusion",
+  "description": "The artistic and student heart of central Crete: acoustic Cretan Lyra arpeggios, folk Lauto strumming, and warm hip-hop drums tailored for lyrical and conscious island MCs.",
+  "popularGenres": [
+    "Rethymno Folk Trap",
+    "Central Crete Hip-Hop",
+    "Venetian Student Rap"
+  ],
+  "subClusters": []
+},
+  "gr/kavala-eastern-macedonia": {
+  "slug": "gr/kavala-eastern-macedonia",
+  "name": "Greece – Kavala (Καβάλα: Eastern Macedonia Port & Raw Industrial Rap)",
+  "flag": "🇬🇷",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "IRIS Payments, Viva Wallet, Alpha Bank, Eurobank, NBG, Piraeus, Cards, Apple Pay, PayPal",
+  "pro": "AUTODIA",
+  "proFullName": "AUTODIA (ΑΥΤΟΔΙΑΧΕΙΡΙΣΗ)",
+  "proGuide": "Instant checkout via IRIS interbank transfer in EUR (€).",
+  "headline": "Beats in Kavala: Tobacco Warehouse Heritage, Aegean Harbor & Heavy 808s",
+  "description": "The historic amphitheater port of northern Greece: rugged industrial sub-bass, punchy acoustic kicks, and dark minor-key leads engineered for East Macedonian recording artists.",
+  "popularGenres": [
+    "Kavala Harbor Rap",
+    "East Macedonia Trap",
+    "Northern Port 808"
+  ],
+  "subClusters": []
+},
+  "gr/serres-macedonia-norte": {
+  "slug": "gr/serres-macedonia-norte",
+  "name": "Greece – Serres (Σέρρες: Northern Macedonian Crossroads & Fast Street Trap)",
+  "flag": "🇬🇷",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "IRIS Payments, Viva Wallet, Alpha Bank, Eurobank, NBG, Piraeus, Cards, Apple Pay, PayPal",
+  "pro": "AUTODIA",
+  "proFullName": "AUTODIA (ΑΥΤΟΔΙΑΧΕΙΡΙΣΗ)",
+  "proGuide": "100% original productions cleared for live performance and radio.",
+  "headline": "Beats in Serres: Macedonian Crossroads, Rapid Hi-Hats & Heavy 808s",
+  "description": "The proud northern agricultural and urban crossroad: lightning-fast hi-hat rolls, hard-hitting 808 kicks, and relentless brass for the emerging Macedonian underground scene.",
+  "popularGenres": [
+    "Serres Street Trap",
+    "Macedonian 808",
+    "Northern Crossroad Beat"
+  ],
+  "subClusters": []
+},
+  "gr/corfu-ionian-islands": {
+  "slug": "gr/corfu-ionian-islands",
+  "name": "Greece – Corfu (Κέρκυρα: Ionian Musical Heritage & Orchestral Brass)",
+  "flag": "🇬🇷",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "IRIS Payments, Viva Wallet, Alpha Bank, Eurobank, NBG, Piraeus, Cards, Apple Pay, PayPal",
+  "pro": "AUTODIA",
+  "proFullName": "AUTODIA (ΑΥΤΟΔΙΑΧΕΙΡΙΣΗ)",
+  "proGuide": "Worldwide digital distribution with instant PDF license.",
+  "headline": "Beats in Corfu: Philharmonic Brass Heritage, Venetian Palace & Trap",
+  "description": "The musical queen of the Ionian Sea: rich philharmonic brass fanfares, warm orchestral strings, and deep trap 808 drops designed for creative island vocalists.",
+  "popularGenres": [
+    "Corfu Brass Trap",
+    "Ionian Island Rap",
+    "Philharmonic Hip-Hop"
+  ],
+  "subClusters": []
+},
+  "gr/chalkida-evia-strait": {
+  "slug": "gr/chalkida-evia-strait",
+  "name": "Greece – Chalkida & Evia (Χαλκίδα, Εύβοια: Euripus Tidal Strait & Cyphers)",
+  "flag": "🇬🇷",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "IRIS Payments, Viva Wallet, Alpha Bank, Eurobank, NBG, Piraeus, Cards, Apple Pay, PayPal",
+  "pro": "AUTODIA",
+  "proFullName": "AUTODIA (ΑΥΤΟΔΙΑΧΕΙΡΙΣΗ)",
+  "proGuide": "Direct stems multitrack download for studio engineers.",
+  "headline": "Beats in Chalkida: Euripus Tidal Current, Fast Trap & Evia Cyphers",
+  "description": "Where the tidal currents change direction: fast-paced trap drums, crisp syncopated snares, and punchy basslines crafted for the lively hip-hop cyphers of Evia and Central Greece.",
+  "popularGenres": [
+    "Chalkida Fast Trap",
+    "Evia Island Cypher",
+    "Euripus Tidal Beat"
+  ],
+  "subClusters": []
+},
+  "gr/kalamata-messinia-south": {
+  "slug": "gr/kalamata-messinia-south",
+  "name": "Greece – Kalamata (Καλαμάτα: Messinian Olive Coast & Sunset Hip-Hop)",
+  "flag": "🇬🇷",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "IRIS Payments, Viva Wallet, Alpha Bank, Eurobank, NBG, Piraeus, Cards, Apple Pay, PayPal",
+  "pro": "AUTODIA",
+  "proFullName": "AUTODIA (ΑΥΤΟΔΙΑΧΕΙΡΙΣΗ)",
+  "proGuide": "Monetization rights guaranteed across Spotify, Apple Music, and YouTube.",
+  "headline": "Beats in Kalamata: Taygetos Mountain, Messinian Gulf & Coastal Rap",
+  "description": "The southern sun and historic Taygetos slopes: acoustic nylon guitar strums, breezy summer shakers, and warm basslines tailored for Mediterranean coastal hip-hop and chillhop.",
+  "popularGenres": [
+    "Kalamata Coastal Rap",
+    "Messinian Chillhop",
+    "Taygetos Mountain Beat"
+  ],
+  "subClusters": []
+},
+  "gr/mytilene-lesvos-aegean": {
+  "slug": "gr/mytilene-lesvos-aegean",
+  "name": "Greece – Mytilene & Lesvos (Μυτιλήνη, Λέσβος: Eastern Aegean Gateway)",
+  "flag": "🇬🇷",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "IRIS Payments, Viva Wallet, Alpha Bank, Eurobank, NBG, Piraeus, Cards, Apple Pay, PayPal",
+  "pro": "AUTODIA",
+  "proFullName": "AUTODIA (ΑΥΤΟΔΙΑΧΕΙΡΙΣΗ)",
+  "proGuide": "100% legal protection with downloadable split sheet agreement.",
+  "headline": "Beats in Mytilene: Eastern Aegean Crossroads, Acoustic Oud & Conscious Trap",
+  "description": "The poetic and cultural crossroads of the north-eastern Aegean: Middle-Eastern Oud textures, melancholic violin progressions, and modern 808 beats for conscious poets and lyricists.",
+  "popularGenres": [
+    "Mytilene Conscious Trap",
+    "Eastern Aegean Oud Rap",
+    "Lesvos Poetic Beat"
+  ],
+  "subClusters": []
+},
 };
