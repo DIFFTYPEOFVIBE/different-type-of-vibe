@@ -90283,4 +90283,1299 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "2"
   ]
 },
+  {
+  "slug": "alcoholika-la-christo-industrial-rock-trap",
+  "title": "Alcohólika La Christo Goth-Industrial Metal & Trap 808 Beat",
+  "description": "Fusión legendaria y poderosa que une las guitarras distorsionadas góticas e industriales del rock boliviano (Alcohólika La Christo) con coros gregorianos oscuros y caídas de 808 demoledoras.",
+  "targetKeywords": [
+    "alcoholika la christo type beat",
+    "industrial rock trap bolivia",
+    "goth metal trap beat 591",
+    "bases de rock pesado boliviano 808",
+    "dark trap la paz"
+  ],
+  "heroCta": "Comprar Beat Rock-Trap 591 (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Rock-Trap, Metal Urbano y Concierto Masivo de Pogo",
+  "similarArtists": [
+    "Alcohólika La Christo",
+    "Post Malone",
+    "Ghostemane",
+    "Duki"
+  ],
+  "recommendedBpm": "136-144 BPM",
+  "productionTips": "Guitarras eléctricas en afinación Drop D con amplificador a válvulas saturado y sub-808 masivo en mono.",
+  "idealVocalStyle": "Voz desgarrada y potente, coros épicos dramáticos y rimas de introspección oscura.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Insuperable para festivales de rock, bandas sonoras de acción y listas de Rock Urbano."
+},
+  {
+  "slug": "los-kjarkas-saya-afro-boliviana-trap",
+  "title": "Los Kjarkas & Saya Afroboliviana Cascabeles & Trap 808 Beat",
+  "description": "Fusión rítmica arrolladora entre los vientos de caña de Los Kjarkas y la cadencia festiva de la saya afroboliviana de Los Yungas, combinada con cajas de trap contemporáneo.",
+  "targetKeywords": [
+    "los kjarkas trap beat",
+    "saya afroboliviana beat",
+    "carnaval boliviano trap remix",
+    "bases de saya rap 591",
+    "musica tipica bolivia trap"
+  ],
+  "heroCta": "Comprar Beat Saya-Trap (Stems Multitrack)",
+  "energyLevel": "Very High",
+  "primaryUse": "Trap Folclórico, Entrada de Carnaval y Festival de Danza",
+  "similarArtists": [
+    "Los Kjarkas",
+    "Kalamarka",
+    "Kchiporros",
+    "Llajtaymanta"
+  ],
+  "recommendedBpm": "116-124 BPM",
+  "productionTips": "Cascabeles y tambores de saya paneados en estéreo con caídas contundentes de 808 en el estribillo.",
+  "idealVocalStyle": "Animación festiva, rimas de comparsa o coros multitudinarios de estadio.",
+  "suggestedKey": "G Major",
+  "streamingSuitability": "Viral por naturaleza para bailes en TikTok, entradas folclóricas y celebraciones bolivianas."
+},
+  {
+  "slug": "montero-norte-integrado-trap-camba",
+  "title": "Montero Norte Integrado Trap Camba & Cañero Street Beat",
+  "description": "Beat oscuro y pesado de trap oriental inspirado en las avenidas cañeras y el dinamismo productivo de Montero y Warnes: campanas gélidas, hi-hats rápidos y bajos 808 que estremecen.",
+  "targetKeywords": [
+    "montero trap beat",
+    "trap canero santa cruz",
+    "bases de trap norte integrado 591",
+    "beats pesados montero",
+    "trap camba 808"
+  ],
+  "heroCta": "Comprar Beat Montero Trap (Descarga Directa)",
+  "energyLevel": "Very High",
+  "primaryUse": "Trap Callejero, Banger de Barrio y Video Musical",
+  "similarArtists": [
+    "Corona",
+    "El Parche",
+    "Dakos",
+    "Duki"
+  ],
+  "recommendedBpm": "134-140 BPM",
+  "productionTips": "Deslizamientos de pitch en el sub-808 con saturación armónica en 120Hz para presencia en cualquier parlante.",
+  "idealVocalStyle": "Voz grave y agresiva, delivery pausado y barras crudas sobre la realidad urbana oriental.",
+  "suggestedKey": "C# Minor",
+  "streamingSuitability": "Insuperable para listas de Trap Latino Pesado y boliches del oriente boliviano."
+},
+  {
+  "slug": "copacabana-titicaca-sunset-chillhop",
+  "title": "Copacabana Titicaca Sunset Chillhop & Quena Sagrada Beat",
+  "description": "Vibras místicas y reconfortantes inspiradas en el santuario del Lago Titicaca y la Isla del Sol: arpegios acústicos de guitarra de nailon, ecos suaves de quena andina y sonido de olas sagradas.",
+  "targetKeywords": [
+    "copacabana titicaca lofi beat",
+    "lago titicaca chillhop andino",
+    "beats de meditacion bolivia",
+    "instrumental andino lofi titicaca",
+    "sunset copacabana 591"
+  ],
+  "heroCta": "Comprar Beat Titicaca Lofi (Uso Ilimitado)",
+  "energyLevel": "Low",
+  "primaryUse": "Lofi Hip-Hop, Rap Melancólico, Estudio y Vlogs de Viaje",
+  "similarArtists": [
+    "Monte",
+    "Tomppabeats",
+    "Nujabes",
+    "Zeballos"
+  ],
+  "recommendedBpm": "78-84 BPM",
+  "productionTips": "Arpegios acústicos de cuerdas de nailon con sonidos ambientales reales de lago y aves locales.",
+  "idealVocalStyle": "Spoken word tranquilo, rap poético suave o escucha puramente instrumental.",
+  "suggestedKey": "C Major",
+  "streamingSuitability": "Perfecto para playlists de estudio, concentración, cafés de altura y videos de turismo."
+},
+  {
+  "slug": "yacuiba-chaco-border-trap-argentino",
+  "title": "Yacuiba Chaco Border Crossover Trap & Chacarera 808 Beat",
+  "description": "Fusión callejera de frontera que une los rasgueos de guitarra campera de la chacarera y el violín del Chaco con el trap pesado y RKT argentino-boliviano para barras de frontera.",
+  "targetKeywords": [
+    "yacuiba border trap beat",
+    "chaco crossover trap 591",
+    "chacarera trap instrumental",
+    "bases de trap frontera argentina bolivia",
+    "yacuiba banger 808"
+  ],
+  "heroCta": "Comprar Beat Yacuiba Crossover (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Trap de Frontera, Reality Rap y Banger Internacional",
+  "similarArtists": [
+    "Mister H",
+    "Corona",
+    "Duki",
+    "C.R.O"
+  ],
+  "recommendedBpm": "128-134 BPM",
+  "productionTips": "Guitarra criolla grabada en estéreo con rasgueo sincopado de chacarera sobre una base de trap contundente.",
+  "idealVocalStyle": "Flow pausado y amenazante con rimas de frontera y superación en el Gran Chaco.",
+  "suggestedKey": "F# Minor",
+  "streamingSuitability": "Insuperable para listas de Trap Latino de Frontera y videos de alta intensidad urbana."
+},
+  {
+  "slug": "saya-afro-boliviana-yungas-trap",
+  "title": "Saya Afroboliviana Nor Yungas & Tambores Ancestrales Trap Beat",
+  "description": "Ritmos sagrados y festivos de la comunidad afroboliviana de Tocaña y Nor Yungas: bombos de saya, cascabeles y repiques de caña sobre un bajo sub-808 arrollador.",
+  "targetKeywords": [
+    "saya afroboliviana trap beat",
+    "tambores de saya yungas beat",
+    "afro bolivia trap fusion",
+    "bases de musica afroboliviana 591",
+    "saya y rap boliviano"
+  ],
+  "heroCta": "Comprar Beat Saya Afroboliviana (Licencia Comercial)",
+  "energyLevel": "Very High",
+  "primaryUse": "Saya Afroboliviana, Resistencia Cultural y Festival",
+  "similarArtists": [
+    "Afrobolivian Drums",
+    "Kalamarka",
+    "Los Kjarkas",
+    "Kazzabe"
+  ],
+  "recommendedBpm": "114-120 BPM",
+  "productionTips": "Coloca los tambores de saya paneados en estéreo para crear un trance rítmico envolvente.",
+  "idealVocalStyle": "Cantos de coplas afrobolivianas tradicionales o rapeo sincopado de alta energía.",
+  "suggestedKey": "E Minor",
+  "streamingSuitability": "Perfecto para festivales de World Music y listas de Afro-Latin Beats."
+},
+  {
+  "slug": "chapare-tropical-dancehall-591",
+  "title": "Chapare Tropical Dancehall & Selva Cochabambina Beat",
+  "description": "Base bailable y relajada de dancehall caribeño y reggaetón suave inspirada en los ríos y la selva del Chapare: sintetizadores acuáticos, guitarras con skank y bajos redondos de verano.",
+  "targetKeywords": [
+    "chapare dancehall beat",
+    "tropical trap cochabamba",
+    "bases de dancehall bolivia",
+    "beats de verano 591 chapare",
+    "reggae dancehall boliviano"
+  ],
+  "heroCta": "Comprar Beat Chapare Dancehall (WAV 24-bit)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Dancehall Tropical, Reggae Urbano y Vlogs de Naturaleza",
+  "similarArtists": [
+    "Toledo",
+    "Gimario",
+    "Corona",
+    "El Chevo"
+  ],
+  "recommendedBpm": "98-104 BPM",
+  "productionTips": "Arpegios de guitarra grabados con chorus tropical y una línea de bajo caminante redonda.",
+  "idealVocalStyle": "Canto melódico bailable, deejay enérgico o voz suave de verano.",
+  "suggestedKey": "G Minor",
+  "streamingSuitability": "Perfecto para fiestas al aire libre, balnearios y listas de Tropical Urban."
+},
+  {
+  "slug": "urkupina-fiesta-patronal-brass-trap",
+  "title": "Virgen de Urkupiña Fanfarria de Metales & Trap 808 Beat",
+  "description": "El homenaje definitivo a la mayor fiesta patronal del valle cochabambino: trompetas y trombones festivos de bandas de bronce combinados con una base de trap 808 para tarimas y conciertos.",
+  "targetKeywords": [
+    "urkupina trap beat",
+    "fanfarria de metales trap bolivia",
+    "fiesta de urkupina instrumental",
+    "quillacollo trap banger 591",
+    "metales festivos cochabamba"
+  ],
+  "heroCta": "Comprar Beat Urkupiña Trap (Stems Multitrack)",
+  "energyLevel": "Very High",
+  "primaryUse": "Trap Folclórico, Entrada Folclórica y Concierto Masivo",
+  "similarArtists": [
+    "Kalamarka",
+    "Kchiporros",
+    "Llajtaymanta",
+    "Miseria Cumbia"
+  ],
+  "recommendedBpm": "120-128 BPM",
+  "productionTips": "Sección de vientos metales alegre doblada en estéreo con caídas contundentes de 808 en el estribillo.",
+  "idealVocalStyle": "Animación festiva enérgica, versos rápidos y llamados multitudinarios al baile.",
+  "suggestedKey": "D Major",
+  "streamingSuitability": "Insuperable para festividades patronales, entradas folclóricas y celebraciones bolivianas."
+},
+  {
+  "slug": "tunari-mountain-pianos-lofi",
+  "title": "Cordillera Tunari Mountain Pianos & Valle Lofi Beats",
+  "description": "Nostalgia inspirada en los bosques de eucaliptos y las cumbres nevadas del Parque Nacional Tunari: pianos verticales melancólicos, arpegios acústicos suaves y lluvia lofi relajante.",
+  "targetKeywords": [
+    "tunari lofi beat",
+    "cordillera tunari chillhop",
+    "beats de piano lofi cochabamba",
+    "instrumental nostalgico valle 591",
+    "mountain lofi bolivia"
+  ],
+  "heroCta": "Comprar Beat Tunari Lofi (Uso Ilimitado)",
+  "energyLevel": "Low",
+  "primaryUse": "Lofi Hip-Hop, Rap Melancólico, Estudio y Vlogs de Viaje",
+  "similarArtists": [
+    "Monte",
+    "Tomppabeats",
+    "Nujabes",
+    "Zeballos"
+  ],
+  "recommendedBpm": "76-82 BPM",
+  "productionTips": "Piano vertical con emulación de cinta analógica y sonido de lluvia sobre hojas de eucalipto.",
+  "idealVocalStyle": "Spoken word, rimas reflexivas de noche o simplemente escucha instrumental.",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "Perfecto para playlists de estudio, concentración, cafés de Tiquipaya y videos de turismo."
+},
+  {
+  "slug": "sound-car-santa-cruz-cambodromo-bass",
+  "title": "Sound Car Santa Cruz Cambódromo 32 Hz Subwoofer Banger Beat",
+  "description": "El beat definitivo diseñado para las exhibiciones de Sound Car y camionetas modificadas en el Cambódromo de Santa Cruz y Montero, con frecuencias sub-bajas afinadas a 32 Hz para hacer temblar parabrisas.",
+  "targetKeywords": [
+    "sound car santa cruz beat",
+    "subwoofer bolivia trap 32hz",
+    "cambodromo sound car beat",
+    "beats de bajo pesado 591 cruzeno",
+    "musica para bafles santa cruz"
+  ],
+  "heroCta": "Comprar Beat Sound Car Cambódromo (WAV Masterizado)",
+  "energyLevel": "Very High",
+  "primaryUse": "Competiciones de Sound Car, Banger Callejero y Caravanas",
+  "similarArtists": [
+    "Corona",
+    "Pekeño 77",
+    "Danger Man",
+    "Crypy"
+  ],
+  "recommendedBpm": "138-142 BPM",
+  "productionTips": "Onda sinusoidal pura calibrada a 35Hz con refuerzo armónico en 70Hz y 140Hz para máxima presión acústica SPL.",
+  "idealVocalStyle": "Rapeo retador, frases enérgicas y coros repetitivos para gritar en autos.",
+  "suggestedKey": "F Minor",
+  "streamingSuitability": "El favorito absoluto para caravanas nocturnas, autos modificados y eventos urbanos de motor."
+},
+  {
+  "slug": "red-bull-batalla-bolivia-final",
+  "title": "Red Bull Batalla Bolivia Final & Freestyle Cypher 591 Beat",
+  "description": "Pista de alta tensión y ataque percusivo diseñada para las finales de Red Bull Batalla Bolivia y torneos de plaza de La Paz y Santa Cruz, con cajas cortantes y pausas en el compás 4.",
+  "targetKeywords": [
+    "red bull batalla bolivia beat",
+    "freestyle final bolivia instrumental",
+    "bases para batallas de rap la paz santa cruz",
+    "pistas de freestyle boliviano 591"
+  ],
+  "heroCta": "Comprar Beat Batalla Nacional (Sin Tags)",
+  "energyLevel": "Very High",
+  "primaryUse": "Batallas de Freestyle, Finales de Torneos y Cyphers Callejeros",
+  "similarArtists": [
+    "Red Bull Batalla Bolivia",
+    "SNK",
+    "Wos",
+    "Zaki"
+  ],
+  "recommendedBpm": "94-98 BPM",
+  "productionTips": "Corta la batería en el tiempo 4 del cuarto compás para que el remate del punchline caiga en seco.",
+  "idealVocalStyle": "Punchlines afilados, rimas rápidas al momento y actitud desafiante de tarima.",
+  "suggestedKey": "E Minor",
+  "streamingSuitability": "Indispensable para ligas de plaza, torneos de freestyle en el cono sur y YouTube."
+},
+  {
+  "slug": "quechua-flow-valle-andino-rap",
+  "title": "Quechua Flow Valle Andino & Rimas Bilingües Boom Bap Beat",
+  "description": "Instrumental reflexiva y poética con acordes de charango noble, muestras de vinilo y cajas de MPC secas diseñada para rimas bilingües en lengua quechua y español de Cochabamba y Chuquisaca.",
+  "targetKeywords": [
+    "quechua flow rap beat",
+    "rap en quechua bolivia",
+    "bases de boom bap en quechua",
+    "hip hop andino bilingue 591",
+    "charango rap quechua"
+  ],
+  "heroCta": "Comprar Beat Quechua Flow (WAV + Stems)",
+  "energyLevel": "Medium",
+  "primaryUse": "Rap Consciente, Hip-Hop Quechua y Poesía de la Tierra",
+  "similarArtists": [
+    "Wayna Rap",
+    "Zeballos",
+    "Ukamau y Ké",
+    "Polache"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "productionTips": "Charango y guitarra criolla dialogando en las esquinas estéreo con amplio espacio central para la voz.",
+  "idealVocalStyle": "Rapeo métrico en quechua o español con líricas sobre la identidad cultural y la dignidad campesina.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Ideal para la comunidad de hip-hop con sustancia, documentales y proyectos culturales."
+},
+  {
+  "slug": "pistas-de-trap-baratas-bolivia-qr-simple",
+  "title": "Pistas de Trap Baratas en Bolivia (Pago con QR Simple en Bs.)",
+  "description": "Instrumentales profesionales de trap a precios económicos para talentos emergentes en Bolivia. Pago directo en Bolivianos (Bs.) vía QR Simple interbancario o Tigo Money con descarga inmediata.",
+  "targetKeywords": [
+    "pistas de trap baratas bolivia qr simple",
+    "beats de trap economicos 591",
+    "comprar bases de trap qr simple bolivianos",
+    "instrumentales baratas santa cruz"
+  ],
+  "heroCta": "Ver Pistas de Trap (Desde Bs. 100 / $15 USD)",
+  "energyLevel": "High",
+  "primaryUse": "Lanzamiento de Demos, Grabaciones Caseras y Primeros Sencillos",
+  "similarArtists": [
+    "Comunidad Trap 591",
+    "Artistas Independientes Bolivianos"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "productionTips": "Estructuras directas con 16 barras de verso y 8 de coro para facilitar la grabación rápida.",
+  "idealVocalStyle": "Flow versátil para jóvenes que inician su carrera en la música urbana.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Licencia comercial con hasta 25,000 reproducciones monetizadas en plataformas."
+},
+  {
+  "slug": "bases-de-reggaeton-camba-para-grabar-wav",
+  "title": "Bases de Reggaetón Camba y Dembow Comercial en WAV 24-bit",
+  "description": "Catálogo de instrumentales bailables de reggaetón y pop latino listas para sonar en la radio boliviana. Compra instantánea en Bolivianos o Dólares con entrega de stems multitrack.",
+  "targetKeywords": [
+    "bases reggaeton camba para grabar",
+    "comprar beats reggaeton santa cruz bolivia",
+    "pistas de reggaeton radio 591",
+    "beats para cantantes urbanos bolivia"
+  ],
+  "heroCta": "Comprar con QR Simple (Licencia Comercial)",
+  "energyLevel": "High",
+  "primaryUse": "Canción Radial, Pop Urbano y Videos Oficiales",
+  "similarArtists": [
+    "Corona",
+    "El Parche",
+    "Kchiporros",
+    "Feid"
+  ],
+  "recommendedBpm": "94-98 BPM",
+  "productionTips": "Arreglos pulidos con espacio sonoro amplio para coros femeninos o masculinos.",
+  "idealVocalStyle": "Voz limpia, armonías comerciales y estribillos pegadizos.",
+  "suggestedKey": "E Major",
+  "streamingSuitability": "Garantía total de monetización en YouTube y Spotify sin reclamos."
+},
+  {
+  "slug": "instrumentales-de-saya-afroboliviana-trap-fusion",
+  "title": "Instrumentales de Saya Afroboliviana Fusión Trap en WAV 24-bit",
+  "description": "Bases auténticas de saya afroboliviana con tambores de Nor Yungas, cascabeles y metales combinados con caídas pesadas de 808 en archivos WAV de estudio con stems multitrack.",
+  "targetKeywords": [
+    "instrumentales saya afroboliviana trap",
+    "bases de saya trap bolivia wav",
+    "pistas de saya moderna con tambores",
+    "beats de folclore afroboliviano stems"
+  ],
+  "heroCta": "Descargar Saya-Trap Beat (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Producción de Trap Folclórico, Entrada de Carnaval y Concierto",
+  "similarArtists": [
+    "Kalamarka",
+    "Los Kjarkas",
+    "Kazzabe"
+  ],
+  "recommendedBpm": "114-122 BPM",
+  "productionTips": "Stems multitrack organizados por carpetas con tambores de saya separados para mezcla personalizada.",
+  "idealVocalStyle": "Rapeo sincopado con slang boliviano o canto festivo bailable.",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "Excelente para eventos en vivo, sound systems y fiestas patronales."
+},
+  {
+  "slug": "beats-de-boom-bap-andino-con-charango-90-bpm",
+  "title": "Beats de Boom Bap Andino con Charango y Vientos a 90 BPM",
+  "description": "Instrumentales de hip-hop clásico con arpegios de charango andino, quenas procesadas y golpes secos de MPC a 90 BPM para liricistas y raperos conscientes bolivianos.",
+  "targetKeywords": [
+    "beats boom bap andino charango",
+    "rap clasico 90 bpm la paz el alto",
+    "bases de hip hop con charango 591",
+    "pistas boom bap quechua aymara"
+  ],
+  "heroCta": "Comprar Boom Bap Andino (WAV + Stems)",
+  "energyLevel": "Medium",
+  "primaryUse": "Rap Lírico, Álbum Conceptual y Storytelling Profundo",
+  "similarArtists": [
+    "Wayna Rap",
+    "Zeballos",
+    "Akapellah",
+    "Ukamau y Ké"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "productionTips": "Charango con filtro analógico cálido que deja libre el centro para la voz del artista.",
+  "idealVocalStyle": "Rapeo métrico, juego de palabras y mensaje reflexivo sobre la realidad social.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Ideal para la comunidad de hip-hop clásico y underground de Latinoamérica."
+},
+  {
+  "slug": "paquete-de-beats-para-album-bolivia-descuento",
+  "title": "Paquete de Beats para Álbum Completo en Bolivia (40% Descuento)",
+  "description": "Oferta especial para artistas bolivianos que graban su disco o EP: adquiere 5 o 10 instrumentales completas con descuento por volumen y soporte técnico directo durante la grabación.",
+  "targetKeywords": [
+    "paquete de beats para album bolivia",
+    "oferta beats por mayor 591",
+    "descuento beats disco completo santa cruz la paz",
+    "mixtape paquete instrumentales qr simple"
+  ],
+  "heroCta": "Ver Paquetes de Álbum (Ahorra hasta 40%)",
+  "energyLevel": "Variable",
+  "primaryUse": "Producción Integral de EPs, Álbumes y Mixtapes",
+  "similarArtists": [
+    "Artistas y Agrupaciones 591"
+  ],
+  "recommendedBpm": "88-144 BPM",
+  "productionTips": "Curaduría tonal y estilística coherente para garantizar que todo el álbum suene uniforme.",
+  "idealVocalStyle": "Adaptable a la narrativa y el concepto integral de la obra del artista.",
+  "suggestedKey": "Various Keys",
+  "streamingSuitability": "Licencia comercial extendida válida para múltiples lanzamientos simultáneos."
+},
+  {
+  "slug": "bases-de-drill-boliviano-140-bpm-con-stems",
+  "title": "Bases de Drill Boliviano a 140 BPM con Bajos Slidings & Stems",
+  "description": "Instrumentales de drill oscuro adaptadas al flow y vivencia de la calle boliviana, con patrones sincopados de charles a 140 BPM, tarolas afiladas y bajos con deslices vertiginosos.",
+  "targetKeywords": [
+    "bases de drill boliviano 140 bpm",
+    "uk drill bolivia beat",
+    "drill 591 con bajos slidings",
+    "pistas de drill para grabar el alto santa cruz"
+  ],
+  "heroCta": "Descargar Drill Beat 140 BPM (WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Drill Urbano, Barras Callejeras y Duelos de Rima",
+  "similarArtists": [
+    "Corona",
+    "Mister H",
+    "Crypy",
+    "Central Cee"
+  ],
+  "recommendedBpm": "140 BPM",
+  "productionTips": "Usa slides de pitch de dos octavas en el sub-808 en el segundo compás de cada frase.",
+  "idealVocalStyle": "Voz grave y amenazante con rimas rápidas en tresillos y cortes precisos.",
+  "suggestedKey": "C# Minor",
+  "streamingSuitability": "Ideal para posicionar en playlists de 'Drill Latino' y videos de alta intensidad urbana."
+},
+  {
+  "slug": "pistas-de-pop-urbano-y-reggaeton-santa-cruz",
+  "title": "Pistas de Pop Urbano y Reggaetón en Santa Cruz con Guitarras WAV",
+  "description": "Instrumentales comerciales de pop latino y reggaetón suave con sintetizadores luminosos, guitarras brillantes y dembow bailable con compra en Bolivianos vía QR Simple.",
+  "targetKeywords": [
+    "pistas de pop urbano santa cruz",
+    "bases de reggaeton comercial bolivia",
+    "comprar pop urbano en bolivianos",
+    "instrumentales de reggaeton con guitarra 591"
+  ],
+  "heroCta": "Comprar Pop Urbano (Con Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Pop Urbano Comercial, Radio Hit y Canción de Verano",
+  "similarArtists": [
+    "Corona",
+    "El Parche",
+    "Kchiporros",
+    "Feid"
+  ],
+  "recommendedBpm": "95-100 BPM",
+  "productionTips": "Arreglos de guitarra afinados con brillo armónico en 8kHz sobre una base de dembow pulida.",
+  "idealVocalStyle": "Canto melódico con sentimiento sincero, armonías dulces y coros pegadizos.",
+  "suggestedKey": "G Major",
+  "streamingSuitability": "Monetización garantizada en todas las plataformas de streaming."
+},
+  {
+  "slug": "contrato-de-licencia-comercial-senapi-pdf",
+  "title": "Contrato de Licencia Comercial para el SENAPI de Bolivia (PDF)",
+  "description": "Descarga de contrato legal en PDF con validez oficial ante el Servicio Nacional de Propiedad Intelectual (SENAPI) y SOBODAYCOM de Bolivia para registrar tu obra y proteger tus derechos.",
+  "targetKeywords": [
+    "contrato licencia comercial senapi bolivia",
+    "registro de canciones senapi bolivia",
+    "derechos de autor propiedad intelectual bolivia",
+    "contrato legal beats 591"
+  ],
+  "heroCta": "Ver Contrato Legal SENAPI (Descarga Inmediata)",
+  "energyLevel": "N/A",
+  "primaryUse": "Registro Oficial de Obra, Distribución en Agregadoras y Cobro de Regalías",
+  "similarArtists": [
+    "Onzieb",
+    "Compositores de Bolivia",
+    "Artistas Independientes"
+  ],
+  "recommendedBpm": "Cualquier Tempo",
+  "productionTips": "Documento legal redactado conforme a la Ley de Derecho de Autor de Bolivia (Ley 1322).",
+  "idealVocalStyle": "Válido para todo tipo de letras y melodías originales.",
+  "suggestedKey": "All Keys",
+  "streamingSuitability": "100% de protección legal y tranquilidad para monetizar tu música."
+},
+  {
+  "slug": "productor-de-beats-online-bolivia-onzieb",
+  "title": "Productor de Beats Online para Artistas de Bolivia (Onzieb)",
+  "description": "Conéctate de forma remota y directa con el productor Onzieb para asesoría artística, producción ejecutiva y personalización de pistas con atención personalizada por WhatsApp.",
+  "targetKeywords": [
+    "productor de beats online bolivia",
+    "onzieb productor musical boliviano",
+    "comprar bases personalizadas santa cruz la paz",
+    "productor rap trap 591 whatsapp"
+  ],
+  "heroCta": "Hablar con Onzieb por WhatsApp",
+  "energyLevel": "Custom",
+  "primaryUse": "Asesoría de Proyecto, Producción a Medida y Arreglos Vocales",
+  "similarArtists": [
+    "Onzieb",
+    "Corona",
+    "Wayna Rap"
+  ],
+  "recommendedBpm": "A tu elección",
+  "productionTips": "Sesiones interactivas de revisión de mezcla y ajustes de tempo y tono según tu tesitura.",
+  "idealVocalStyle": "Trabajo colaborativo diseñado para potenciar tu estilo único.",
+  "suggestedKey": "Personalizada",
+  "streamingSuitability": "Entrega de material listo para masterizar con estándares de la industria."
+},
+  {
+  "slug": "descargar-bases-de-trap-boliviano-gratis-mp3",
+  "title": "Descargar Bases de Trap Boliviano Gratis en MP3 (Uso Libre)",
+  "description": "Paquete de cortesía con instrumentales de trap camba 591, charango-trap andino y boom bap en formato MP3 a 320 kbps para que practiques tu freestyle y grabes maquetas sin pagar un solo centavo.",
+  "targetKeywords": [
+    "descargar bases de trap boliviano gratis mp3",
+    "beats gratis para maquetas santa cruz la paz",
+    "pistas de trap boliviano libres de costo",
+    "descarga trap 591 mp3 320kbps"
+  ],
+  "heroCta": "Descargar Pistas Gratis (Sin Registro)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Grabación de Maquetas Caseras, Práctica de Rimas y Freestyle",
+  "similarArtists": [
+    "Comunidad Urbana de Bolivia",
+    "Nuevos Talentos 591"
+  ],
+  "recommendedBpm": "90, 100, 136 BPM",
+  "productionTips": "Incluye un tag de cortesía sutil al inicio; al comprar la licencia se remueve completamente.",
+  "idealVocalStyle": "Espacio abierto para experimentar flows y probar tu voz frente al micrófono.",
+  "suggestedKey": "Various",
+  "streamingSuitability": "Permitido en videos no monetizados de YouTube, TikTok y SoundCloud."
+},
+  {
+  "slug": "montero-trap-boliviano-pesado",
+  "name": "Montero Trap Boliviano Pesado Beats",
+  "category": "scene",
+  "badge": "Montero Trap 591",
+  "headline": "Montero (Norte Integrado) Trap Boliviano Pesado Beats: Pistas WAV & Pago QR Simple en Bolivianos",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de Montero.",
+  "targetArtists": [
+    "Artistas de Montero",
+    "Comunidad Urbana 591",
+    "Movimiento Hip-Hop Bolivia"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Montero",
+    "Trap 591",
+    "QR Simple Bs.",
+    "Avalado SOBODAYCOM"
+  ],
+  "popularGenres": [
+    "Trap Boliviano Pesado Beats",
+    "Trap 591",
+    "Boom Bap Andino"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "montero-boom-bap-andino",
+  "name": "Montero Boom Bap Andino Clásico",
+  "category": "scene",
+  "badge": "Montero Boom Bap 591",
+  "headline": "Montero (Norte Integrado) Boom Bap Andino Clásico: Pistas WAV & Pago QR Simple en Bolivianos",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de Montero.",
+  "targetArtists": [
+    "Artistas de Montero",
+    "Comunidad Urbana 591",
+    "Movimiento Hip-Hop Bolivia"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Montero",
+    "Boom Bap 591",
+    "QR Simple Bs.",
+    "Avalado SOBODAYCOM"
+  ],
+  "popularGenres": [
+    "Boom Bap Andino Clásico",
+    "Trap 591",
+    "Boom Bap Andino"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "montero-reggaeton-camba",
+  "name": "Montero Reggaetón Camba Comercial",
+  "category": "scene",
+  "badge": "Montero Reggaetón 591",
+  "headline": "Montero (Norte Integrado) Reggaetón Camba Comercial: Pistas WAV & Pago QR Simple en Bolivianos",
+  "description": "Dembow bailable, sintetizadores luminosos y bajos envolventes para sonar en todas las fiestas y emisoras de Montero.",
+  "targetArtists": [
+    "Artistas de Montero",
+    "Comunidad Urbana 591",
+    "Movimiento Hip-Hop Bolivia"
+  ],
+  "recommendedBpm": "94-100 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Montero",
+    "Reggaetón 591",
+    "QR Simple Bs.",
+    "Avalado SOBODAYCOM"
+  ],
+  "popularGenres": [
+    "Reggaetón Camba Comercial",
+    "Trap 591",
+    "Boom Bap Andino"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "montero-melodic-rnb-trap-bo",
+  "name": "Montero Melodic R&B Trap Boliviano",
+  "category": "scene",
+  "badge": "Montero R&B Andino",
+  "headline": "Montero (Norte Integrado) Melodic R&B Trap Boliviano: Pistas WAV & Pago QR Simple en Bolivianos",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de Montero.",
+  "targetArtists": [
+    "Artistas de Montero",
+    "Comunidad Urbana 591",
+    "Movimiento Hip-Hop Bolivia"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "Montero",
+    "R&B Andino",
+    "QR Simple Bs.",
+    "Avalado SOBODAYCOM"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap Boliviano",
+    "Trap 591",
+    "Boom Bap Andino"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "quillacollo-trap-boliviano-pesado",
+  "name": "Quillacollo Trap Boliviano Pesado Beats",
+  "category": "scene",
+  "badge": "Quillacollo Trap 591",
+  "headline": "Quillacollo (Valle Bajo Urkupiña) Trap Boliviano Pesado Beats: Pistas WAV & Pago QR Simple en Bolivianos",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de Quillacollo.",
+  "targetArtists": [
+    "Artistas de Quillacollo",
+    "Comunidad Urbana 591",
+    "Movimiento Hip-Hop Bolivia"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Quillacollo",
+    "Trap 591",
+    "QR Simple Bs.",
+    "Avalado SOBODAYCOM"
+  ],
+  "popularGenres": [
+    "Trap Boliviano Pesado Beats",
+    "Trap 591",
+    "Boom Bap Andino"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "quillacollo-boom-bap-andino",
+  "name": "Quillacollo Boom Bap Andino Clásico",
+  "category": "scene",
+  "badge": "Quillacollo Boom Bap 591",
+  "headline": "Quillacollo (Valle Bajo Urkupiña) Boom Bap Andino Clásico: Pistas WAV & Pago QR Simple en Bolivianos",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de Quillacollo.",
+  "targetArtists": [
+    "Artistas de Quillacollo",
+    "Comunidad Urbana 591",
+    "Movimiento Hip-Hop Bolivia"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Quillacollo",
+    "Boom Bap 591",
+    "QR Simple Bs.",
+    "Avalado SOBODAYCOM"
+  ],
+  "popularGenres": [
+    "Boom Bap Andino Clásico",
+    "Trap 591",
+    "Boom Bap Andino"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "quillacollo-reggaeton-camba",
+  "name": "Quillacollo Reggaetón Camba Comercial",
+  "category": "scene",
+  "badge": "Quillacollo Reggaetón 591",
+  "headline": "Quillacollo (Valle Bajo Urkupiña) Reggaetón Camba Comercial: Pistas WAV & Pago QR Simple en Bolivianos",
+  "description": "Dembow bailable, sintetizadores luminosos y bajos envolventes para sonar en todas las fiestas y emisoras de Quillacollo.",
+  "targetArtists": [
+    "Artistas de Quillacollo",
+    "Comunidad Urbana 591",
+    "Movimiento Hip-Hop Bolivia"
+  ],
+  "recommendedBpm": "94-100 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Quillacollo",
+    "Reggaetón 591",
+    "QR Simple Bs.",
+    "Avalado SOBODAYCOM"
+  ],
+  "popularGenres": [
+    "Reggaetón Camba Comercial",
+    "Trap 591",
+    "Boom Bap Andino"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "quillacollo-melodic-rnb-trap-bo",
+  "name": "Quillacollo Melodic R&B Trap Boliviano",
+  "category": "scene",
+  "badge": "Quillacollo R&B Andino",
+  "headline": "Quillacollo (Valle Bajo Urkupiña) Melodic R&B Trap Boliviano: Pistas WAV & Pago QR Simple en Bolivianos",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de Quillacollo.",
+  "targetArtists": [
+    "Artistas de Quillacollo",
+    "Comunidad Urbana 591",
+    "Movimiento Hip-Hop Bolivia"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "Quillacollo",
+    "R&B Andino",
+    "QR Simple Bs.",
+    "Avalado SOBODAYCOM"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap Boliviano",
+    "Trap 591",
+    "Boom Bap Andino"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "sacaba-trap-boliviano-pesado",
+  "name": "Sacaba Trap Boliviano Pesado Beats",
+  "category": "scene",
+  "badge": "Sacaba Trap 591",
+  "headline": "Sacaba (Valle Alto Chapare) Trap Boliviano Pesado Beats: Pistas WAV & Pago QR Simple en Bolivianos",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de Sacaba.",
+  "targetArtists": [
+    "Artistas de Sacaba",
+    "Comunidad Urbana 591",
+    "Movimiento Hip-Hop Bolivia"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Sacaba",
+    "Trap 591",
+    "QR Simple Bs.",
+    "Avalado SOBODAYCOM"
+  ],
+  "popularGenres": [
+    "Trap Boliviano Pesado Beats",
+    "Trap 591",
+    "Boom Bap Andino"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "sacaba-boom-bap-andino",
+  "name": "Sacaba Boom Bap Andino Clásico",
+  "category": "scene",
+  "badge": "Sacaba Boom Bap 591",
+  "headline": "Sacaba (Valle Alto Chapare) Boom Bap Andino Clásico: Pistas WAV & Pago QR Simple en Bolivianos",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de Sacaba.",
+  "targetArtists": [
+    "Artistas de Sacaba",
+    "Comunidad Urbana 591",
+    "Movimiento Hip-Hop Bolivia"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Sacaba",
+    "Boom Bap 591",
+    "QR Simple Bs.",
+    "Avalado SOBODAYCOM"
+  ],
+  "popularGenres": [
+    "Boom Bap Andino Clásico",
+    "Trap 591",
+    "Boom Bap Andino"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "sacaba-reggaeton-camba",
+  "name": "Sacaba Reggaetón Camba Comercial",
+  "category": "scene",
+  "badge": "Sacaba Reggaetón 591",
+  "headline": "Sacaba (Valle Alto Chapare) Reggaetón Camba Comercial: Pistas WAV & Pago QR Simple en Bolivianos",
+  "description": "Dembow bailable, sintetizadores luminosos y bajos envolventes para sonar en todas las fiestas y emisoras de Sacaba.",
+  "targetArtists": [
+    "Artistas de Sacaba",
+    "Comunidad Urbana 591",
+    "Movimiento Hip-Hop Bolivia"
+  ],
+  "recommendedBpm": "94-100 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Sacaba",
+    "Reggaetón 591",
+    "QR Simple Bs.",
+    "Avalado SOBODAYCOM"
+  ],
+  "popularGenres": [
+    "Reggaetón Camba Comercial",
+    "Trap 591",
+    "Boom Bap Andino"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "sacaba-melodic-rnb-trap-bo",
+  "name": "Sacaba Melodic R&B Trap Boliviano",
+  "category": "scene",
+  "badge": "Sacaba R&B Andino",
+  "headline": "Sacaba (Valle Alto Chapare) Melodic R&B Trap Boliviano: Pistas WAV & Pago QR Simple en Bolivianos",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de Sacaba.",
+  "targetArtists": [
+    "Artistas de Sacaba",
+    "Comunidad Urbana 591",
+    "Movimiento Hip-Hop Bolivia"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "Sacaba",
+    "R&B Andino",
+    "QR Simple Bs.",
+    "Avalado SOBODAYCOM"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap Boliviano",
+    "Trap 591",
+    "Boom Bap Andino"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "yacuiba-trap-boliviano-pesado",
+  "name": "Yacuiba Trap Boliviano Pesado Beats",
+  "category": "scene",
+  "badge": "Yacuiba Trap 591",
+  "headline": "Yacuiba (Gran Chaco Frontera) Trap Boliviano Pesado Beats: Pistas WAV & Pago QR Simple en Bolivianos",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de Yacuiba.",
+  "targetArtists": [
+    "Artistas de Yacuiba",
+    "Comunidad Urbana 591",
+    "Movimiento Hip-Hop Bolivia"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Yacuiba",
+    "Trap 591",
+    "QR Simple Bs.",
+    "Avalado SOBODAYCOM"
+  ],
+  "popularGenres": [
+    "Trap Boliviano Pesado Beats",
+    "Trap 591",
+    "Boom Bap Andino"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "yacuiba-boom-bap-andino",
+  "name": "Yacuiba Boom Bap Andino Clásico",
+  "category": "scene",
+  "badge": "Yacuiba Boom Bap 591",
+  "headline": "Yacuiba (Gran Chaco Frontera) Boom Bap Andino Clásico: Pistas WAV & Pago QR Simple en Bolivianos",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de Yacuiba.",
+  "targetArtists": [
+    "Artistas de Yacuiba",
+    "Comunidad Urbana 591",
+    "Movimiento Hip-Hop Bolivia"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Yacuiba",
+    "Boom Bap 591",
+    "QR Simple Bs.",
+    "Avalado SOBODAYCOM"
+  ],
+  "popularGenres": [
+    "Boom Bap Andino Clásico",
+    "Trap 591",
+    "Boom Bap Andino"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "yacuiba-reggaeton-camba",
+  "name": "Yacuiba Reggaetón Camba Comercial",
+  "category": "scene",
+  "badge": "Yacuiba Reggaetón 591",
+  "headline": "Yacuiba (Gran Chaco Frontera) Reggaetón Camba Comercial: Pistas WAV & Pago QR Simple en Bolivianos",
+  "description": "Dembow bailable, sintetizadores luminosos y bajos envolventes para sonar en todas las fiestas y emisoras de Yacuiba.",
+  "targetArtists": [
+    "Artistas de Yacuiba",
+    "Comunidad Urbana 591",
+    "Movimiento Hip-Hop Bolivia"
+  ],
+  "recommendedBpm": "94-100 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Yacuiba",
+    "Reggaetón 591",
+    "QR Simple Bs.",
+    "Avalado SOBODAYCOM"
+  ],
+  "popularGenres": [
+    "Reggaetón Camba Comercial",
+    "Trap 591",
+    "Boom Bap Andino"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "yacuiba-melodic-rnb-trap-bo",
+  "name": "Yacuiba Melodic R&B Trap Boliviano",
+  "category": "scene",
+  "badge": "Yacuiba R&B Andino",
+  "headline": "Yacuiba (Gran Chaco Frontera) Melodic R&B Trap Boliviano: Pistas WAV & Pago QR Simple en Bolivianos",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de Yacuiba.",
+  "targetArtists": [
+    "Artistas de Yacuiba",
+    "Comunidad Urbana 591",
+    "Movimiento Hip-Hop Bolivia"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "Yacuiba",
+    "R&B Andino",
+    "QR Simple Bs.",
+    "Avalado SOBODAYCOM"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap Boliviano",
+    "Trap 591",
+    "Boom Bap Andino"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "riberalta-trap-boliviano-pesado",
+  "name": "Riberalta Trap Boliviano Pesado Beats",
+  "category": "scene",
+  "badge": "Riberalta Trap 591",
+  "headline": "Riberalta (Amazonía Vaca Díez) Trap Boliviano Pesado Beats: Pistas WAV & Pago QR Simple en Bolivianos",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de Riberalta.",
+  "targetArtists": [
+    "Artistas de Riberalta",
+    "Comunidad Urbana 591",
+    "Movimiento Hip-Hop Bolivia"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Riberalta",
+    "Trap 591",
+    "QR Simple Bs.",
+    "Avalado SOBODAYCOM"
+  ],
+  "popularGenres": [
+    "Trap Boliviano Pesado Beats",
+    "Trap 591",
+    "Boom Bap Andino"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "riberalta-boom-bap-andino",
+  "name": "Riberalta Boom Bap Andino Clásico",
+  "category": "scene",
+  "badge": "Riberalta Boom Bap 591",
+  "headline": "Riberalta (Amazonía Vaca Díez) Boom Bap Andino Clásico: Pistas WAV & Pago QR Simple en Bolivianos",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de Riberalta.",
+  "targetArtists": [
+    "Artistas de Riberalta",
+    "Comunidad Urbana 591",
+    "Movimiento Hip-Hop Bolivia"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Riberalta",
+    "Boom Bap 591",
+    "QR Simple Bs.",
+    "Avalado SOBODAYCOM"
+  ],
+  "popularGenres": [
+    "Boom Bap Andino Clásico",
+    "Trap 591",
+    "Boom Bap Andino"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "riberalta-reggaeton-camba",
+  "name": "Riberalta Reggaetón Camba Comercial",
+  "category": "scene",
+  "badge": "Riberalta Reggaetón 591",
+  "headline": "Riberalta (Amazonía Vaca Díez) Reggaetón Camba Comercial: Pistas WAV & Pago QR Simple en Bolivianos",
+  "description": "Dembow bailable, sintetizadores luminosos y bajos envolventes para sonar en todas las fiestas y emisoras de Riberalta.",
+  "targetArtists": [
+    "Artistas de Riberalta",
+    "Comunidad Urbana 591",
+    "Movimiento Hip-Hop Bolivia"
+  ],
+  "recommendedBpm": "94-100 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Riberalta",
+    "Reggaetón 591",
+    "QR Simple Bs.",
+    "Avalado SOBODAYCOM"
+  ],
+  "popularGenres": [
+    "Reggaetón Camba Comercial",
+    "Trap 591",
+    "Boom Bap Andino"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "riberalta-melodic-rnb-trap-bo",
+  "name": "Riberalta Melodic R&B Trap Boliviano",
+  "category": "scene",
+  "badge": "Riberalta R&B Andino",
+  "headline": "Riberalta (Amazonía Vaca Díez) Melodic R&B Trap Boliviano: Pistas WAV & Pago QR Simple en Bolivianos",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de Riberalta.",
+  "targetArtists": [
+    "Artistas de Riberalta",
+    "Comunidad Urbana 591",
+    "Movimiento Hip-Hop Bolivia"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "Riberalta",
+    "R&B Andino",
+    "QR Simple Bs.",
+    "Avalado SOBODAYCOM"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap Boliviano",
+    "Trap 591",
+    "Boom Bap Andino"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "tarija-trap-boliviano-pesado",
+  "name": "Tarija Trap Boliviano Pesado Beats",
+  "category": "scene",
+  "badge": "Tarija Trap 591",
+  "headline": "Tarija (Valle Chapaco Sur) Trap Boliviano Pesado Beats: Pistas WAV & Pago QR Simple en Bolivianos",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de Tarija.",
+  "targetArtists": [
+    "Artistas de Tarija",
+    "Comunidad Urbana 591",
+    "Movimiento Hip-Hop Bolivia"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Tarija",
+    "Trap 591",
+    "QR Simple Bs.",
+    "Avalado SOBODAYCOM"
+  ],
+  "popularGenres": [
+    "Trap Boliviano Pesado Beats",
+    "Trap 591",
+    "Boom Bap Andino"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "tarija-boom-bap-andino",
+  "name": "Tarija Boom Bap Andino Clásico",
+  "category": "scene",
+  "badge": "Tarija Boom Bap 591",
+  "headline": "Tarija (Valle Chapaco Sur) Boom Bap Andino Clásico: Pistas WAV & Pago QR Simple en Bolivianos",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de Tarija.",
+  "targetArtists": [
+    "Artistas de Tarija",
+    "Comunidad Urbana 591",
+    "Movimiento Hip-Hop Bolivia"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Tarija",
+    "Boom Bap 591",
+    "QR Simple Bs.",
+    "Avalado SOBODAYCOM"
+  ],
+  "popularGenres": [
+    "Boom Bap Andino Clásico",
+    "Trap 591",
+    "Boom Bap Andino"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "tarija-reggaeton-camba",
+  "name": "Tarija Reggaetón Camba Comercial",
+  "category": "scene",
+  "badge": "Tarija Reggaetón 591",
+  "headline": "Tarija (Valle Chapaco Sur) Reggaetón Camba Comercial: Pistas WAV & Pago QR Simple en Bolivianos",
+  "description": "Dembow bailable, sintetizadores luminosos y bajos envolventes para sonar en todas las fiestas y emisoras de Tarija.",
+  "targetArtists": [
+    "Artistas de Tarija",
+    "Comunidad Urbana 591",
+    "Movimiento Hip-Hop Bolivia"
+  ],
+  "recommendedBpm": "94-100 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Tarija",
+    "Reggaetón 591",
+    "QR Simple Bs.",
+    "Avalado SOBODAYCOM"
+  ],
+  "popularGenres": [
+    "Reggaetón Camba Comercial",
+    "Trap 591",
+    "Boom Bap Andino"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "tarija-melodic-rnb-trap-bo",
+  "name": "Tarija Melodic R&B Trap Boliviano",
+  "category": "scene",
+  "badge": "Tarija R&B Andino",
+  "headline": "Tarija (Valle Chapaco Sur) Melodic R&B Trap Boliviano: Pistas WAV & Pago QR Simple en Bolivianos",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de Tarija.",
+  "targetArtists": [
+    "Artistas de Tarija",
+    "Comunidad Urbana 591",
+    "Movimiento Hip-Hop Bolivia"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "Tarija",
+    "R&B Andino",
+    "QR Simple Bs.",
+    "Avalado SOBODAYCOM"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap Boliviano",
+    "Trap 591",
+    "Boom Bap Andino"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
 ];

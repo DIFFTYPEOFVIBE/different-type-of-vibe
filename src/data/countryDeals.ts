@@ -36666,4 +36666,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "bo/montero-norte-integrado": {
+  "slug": "bo/montero-norte-integrado",
+  "name": "Bolivia – Montero (Norte Integrado de Santa Cruz & Trap Cañero)",
+  "flag": "🇧🇴",
+  "currency": "BOB (Bs.) / USD ($)",
+  "currencyCode": "BOB",
+  "gateways": "QR Simple, Tigo Money, BNB, BCP, Tarjetas, Apple Pay, PayPal",
+  "pro": "SOBODAYCOM & SENAPI",
+  "proFullName": "SOBODAYCOM",
+  "proGuide": "100% legal ante SOBODAYCOM con contrato en PDF descargable.",
+  "headline": "Beats en Montero: Norte Integrado, Trap Pesado & Furia del Oriente",
+  "description": "El polo productivo y cañero de Santa Cruz: baterías de trap apretadas, campanas industriales oscuras y caídas de bajo 808 demoledoras para la juventud urbana de Montero y Warnes.",
+  "popularGenres": [
+    "Montero Trap Camba",
+    "Norte Integrado Beat",
+    "Cruceño Street Flow"
+  ],
+  "subClusters": []
+},
+  "bo/quillacollo-valle-bajo": {
+  "slug": "bo/quillacollo-valle-bajo",
+  "name": "Bolivia – Quillacollo (Valle Bajo & Cuna de la Fiesta de Urkupiña)",
+  "flag": "🇧🇴",
+  "currency": "BOB (Bs.) / USD ($)",
+  "currencyCode": "BOB",
+  "gateways": "QR Simple, Tigo Money, BNB, BCP, Tarjetas, Apple Pay, PayPal",
+  "pro": "SOBODAYCOM",
+  "proFullName": "SOBODAYCOM",
+  "proGuide": "100% original con entrega de stems multitrack.",
+  "headline": "Beats en Quillacollo: Urkupiña Brass, Fanfarrias de Fiesta & 808s",
+  "description": "La capital espiritual del valle cochabambino: trompetas festivas de bandas de bronce, cascabeles de caporales y caídas de trap masivas diseñadas para prender eventos.",
+  "popularGenres": [
+    "Quillacollo Urkupiña Beat",
+    "Valle Bajo Brass Trap",
+    "Morenada 591"
+  ],
+  "subClusters": []
+},
+  "bo/sacaba-valle-alto": {
+  "slug": "bo/sacaba-valle-alto",
+  "name": "Bolivia – Sacaba (Valle Alto & Corredor Industrial del Chapare)",
+  "flag": "🇧🇴",
+  "currency": "BOB (Bs.) / USD ($)",
+  "currencyCode": "BOB",
+  "gateways": "QR Simple, Tigo Money, Banco Unión, Tarjetas, Apple Pay, PayPal",
+  "pro": "SOBODAYCOM",
+  "proFullName": "SOBODAYCOM",
+  "proGuide": "100% libre de reclamos de derechos de autor.",
+  "headline": "Beats en Sacaba: Puerta al Trópico, Cajas Secas & Street Trap",
+  "description": "El enlace industrial entre el valle y la selva: baterías de hip-hop con golpe contundente, sintetizadores oscuros y bajos profundos para el rap de barrio sacabeño.",
+  "popularGenres": [
+    "Sacaba Street Trap",
+    "Valle Alto Boom Bap",
+    "Chapare Gateway Beat"
+  ],
+  "subClusters": []
+},
+  "bo/yacuiba-gran-chaco": {
+  "slug": "bo/yacuiba-gran-chaco",
+  "name": "Bolivia – Yacuiba (Gran Chaco & Frontera Argentina Trap-Crossover)",
+  "flag": "🇧🇴",
+  "currency": "BOB (Bs.) / USD ($)",
+  "currencyCode": "BOB",
+  "gateways": "QR Simple, Tigo Money, BNB, Tarjetas, Apple Pay, PayPal",
+  "pro": "SOBODAYCOM",
+  "proFullName": "SOBODAYCOM",
+  "proGuide": "100% compatible con agregadoras digitales.",
+  "headline": "Beats en Yacuiba: Frontera con Pocitos, Chaco Crossover & Trap 808",
+  "description": "El vibrante paso fronterizo con Argentina: guitarras camperas de chacarera mezcladas con trap 808 moderno y RKT para un sonido bicultural fronterizo único.",
+  "popularGenres": [
+    "Yacuiba Frontier Trap",
+    "Gran Chaco Crossover",
+    "Pocitos Border Flow"
+  ],
+  "subClusters": []
+},
+  "bo/riberalta-vaca-diez": {
+  "slug": "bo/riberalta-vaca-diez",
+  "name": "Bolivia – Riberalta (Capital de la Castaña & Dancehall Amazónico)",
+  "flag": "🇧🇴",
+  "currency": "BOB (Bs.) / USD ($)",
+  "currencyCode": "BOB",
+  "gateways": "QR Simple, Tigo Money, BNB, Tarjetas, Apple Pay, PayPal",
+  "pro": "SOBODAYCOM",
+  "proFullName": "SOBODAYCOM",
+  "proGuide": "Garantía comercial de uso ilimitado en streaming.",
+  "headline": "Beats en Riberalta: Río Beni, Selva Amazónica & Dancehall Cálido",
+  "description": "La fuerza y el calor del extremo norte amazónico: sintetizadores acuáticos, ritmos relajados de dancehall caribeño-amazónico y bajos redondos para música tropical.",
+  "popularGenres": [
+    "Riberalta Amazon Beat",
+    "Vaca Díez Dancehall",
+    "North Jungle Flow"
+  ],
+  "subClusters": []
+},
+  "bo/cobija-pando-frontera": {
+  "slug": "bo/cobija-pando-frontera",
+  "name": "Bolivia – Cobija (Perla del Acre, Pando & Portuñol Trap-Funk)",
+  "flag": "🇧🇴",
+  "currency": "BOB (Bs.) / USD ($)",
+  "currencyCode": "BOB",
+  "gateways": "QR Simple, Tigo Money, BNB, Tarjetas, Apple Pay, PayPal",
+  "pro": "SOBODAYCOM",
+  "proFullName": "SOBODAYCOM",
+  "proGuide": "100% original con entrega de stems.",
+  "headline": "Beats en Cobija: Frontera con Brasiléia, Portuñol & Trap-Funk Banger",
+  "description": "El punto más septentrional de Bolivia: cajas de funk brasileño, percusiones de trap latino y líneas de bajo envolventes para una sonoridad única de la frontera amazónica.",
+  "popularGenres": [
+    "Cobija Portuñol Beat",
+    "Pando Funk-Trap",
+    "Acre Border Flow"
+  ],
+  "subClusters": []
+},
+  "bo/tiquipaya-ecologica": {
+  "slug": "bo/tiquipaya-ecologica",
+  "name": "Bolivia – Tiquipaya (Ciudad de las Flores, Tunari & R&B Melódico)",
+  "flag": "🇧🇴",
+  "currency": "BOB (Bs.) / USD ($)",
+  "currencyCode": "BOB",
+  "gateways": "QR Simple, Tigo Money, BNB, BCP, Tarjetas, Apple Pay, PayPal",
+  "pro": "SOBODAYCOM",
+  "proFullName": "SOBODAYCOM",
+  "proGuide": "Licencias comerciales legales con PDF descargable.",
+  "headline": "Beats en Tiquipaya: Ciudad Ecológica, Cordillera Tunari & Pianos Suaves",
+  "description": "La serenidad y el clima perfecto a las faldas del Tunari: pianos Rhodes cálidos, arpegios acústicos limpios y ritmos de R&B contemporáneo para canciones románticas de radio.",
+  "popularGenres": [
+    "Tiquipaya R&B",
+    "Tunari Acoustic Beat",
+    "Valle Ecológico Flow"
+  ],
+  "subClusters": []
+},
+  "bo/villamontes-chaco-tarijeno": {
+  "slug": "bo/villamontes-chaco-tarijeno",
+  "name": "Bolivia – Villa Montes (Gran Chaco & Río Pilcomayo Trap Campero)",
+  "flag": "🇧🇴",
+  "currency": "BOB (Bs.) / USD ($)",
+  "currencyCode": "BOB",
+  "gateways": "QR Simple, Tigo Money, BNB, Tarjetas, Apple Pay, PayPal",
+  "pro": "SOBODAYCOM",
+  "proFullName": "SOBODAYCOM",
+  "proGuide": "100% libre de reclamos de Content ID.",
+  "headline": "Beats en Villa Montes: Río Pilcomayo, Chaco Petrolero & Guitarra 808",
+  "description": "La bravura del Chaco tarijeño: acordes de guitarra criolla campera, acordes de violín chaqueño y caídas de 808 pesadas para historias de esfuerzo, calor y frontera.",
+  "popularGenres": [
+    "Villa Montes Chaco Beat",
+    "Pilcomayo River Trap",
+    "Gaucho Chaco Flow"
+  ],
+  "subClusters": []
+},
+  "bo/viacha-ingavi-altiplano": {
+  "slug": "bo/viacha-ingavi-altiplano",
+  "name": "Bolivia – Viacha (Polo Industrial Ingavi & Boom Bap Aymara)",
+  "flag": "🇧🇴",
+  "currency": "BOB (Bs.) / USD ($)",
+  "currencyCode": "BOB",
+  "gateways": "QR Simple, Tigo Money, Banco Unión, Tarjetas, Apple Pay, PayPal",
+  "pro": "SOBODAYCOM",
+  "proFullName": "SOBODAYCOM",
+  "proGuide": "100% original con entrega de stems multitrack.",
+  "headline": "Beats en Viacha: Altiplano Central, Rieles de Tren & Rap Pesado 591",
+  "description": "La encrucijada ferroviaria e industrial del altiplano paceño: cajas analógicas con golpe seco de MPC, vientos de zampoña distorsionados y bajos sólidos para barras crudas alteñas.",
+  "popularGenres": [
+    "Viacha Industrial Rap",
+    "Ingavi Boom Bap",
+    "Altiplano Heavy Flow"
+  ],
+  "subClusters": []
+},
+  "bo/copacabana-lago-titicaca": {
+  "slug": "bo/copacabana-lago-titicaca",
+  "name": "Bolivia – Copacabana & Lago Titicaca (Santuario Sagrado & Lofi Andino)",
+  "flag": "🇧🇴",
+  "currency": "BOB (Bs.) / USD ($)",
+  "currencyCode": "BOB",
+  "gateways": "QR Simple, Tigo Money, BNB, Tarjetas, Apple Pay, PayPal",
+  "pro": "SOBODAYCOM",
+  "proFullName": "SOBODAYCOM",
+  "proGuide": "Licencias con derechos mundiales de monetización.",
+  "headline": "Beats en Copacabana: Lago Titicaca, Mística Sagrada & Flautas Lofi",
+  "description": "La espiritualidad del lago navegable más alto del mundo: ecos de quena andina, sonido de agua cristalina del Titicaca y guitarras de nailon para música de meditación y rap poético.",
+  "popularGenres": [
+    "Copacabana Titicaca Lofi",
+    "Sacred Lake Chillhop",
+    "Andean Water Beat"
+  ],
+  "subClusters": []
+},
 };
