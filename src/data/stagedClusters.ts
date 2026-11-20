@@ -87693,4 +87693,1299 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "2"
   ]
 },
+  {
+  "slug": "japiaguar-cumbia-pop-paraguaya",
+  "title": "Japiaguar Cumbia-Pop Paraguaya & Fiesta Urbana Beat",
+  "description": "Base contagiosa y festiva de cumbia-pop y reggaetón latino inspirada en Japiaguar, con trompetas enérgicas, guitarras bailables y melodías con autotune para sonar en todas las radios de Asunción.",
+  "targetKeywords": [
+    "japiaguar type beat",
+    "cumbia pop paraguay beat",
+    "bases de cumbia fiesta asuncion",
+    "japiaguar instrumental",
+    "pistas de cumbia urbana 595"
+  ],
+  "heroCta": "Comprar Beat Japiaguar (Tigo Money / Zimple)",
+  "energyLevel": "Very High",
+  "primaryUse": "Cumbia-Pop Comercial, Fiesta Bailable y Radio Hit",
+  "similarArtists": [
+    "Japiaguar",
+    "Kchiporros",
+    "Mesita",
+    "Rombai"
+  ],
+  "recommendedBpm": "104-110 BPM",
+  "productionTips": "Percusiones de cumbia nítidas con claps brillantes y sintetizadores cálidos con paneo amplio.",
+  "idealVocalStyle": "Voz limpia, armonías comerciales alegres y estribillos pegadizos para bailar en pareja.",
+  "suggestedKey": "G Major",
+  "streamingSuitability": "Insuperable para boliches, radio fórmulas y celebraciones en todo el país."
+},
+  {
+  "slug": "la-nuestra-indie-latin-rock-trap",
+  "title": "La Nuestra Indie-Rock Latino & Fusión Urbana Charrúa Beat",
+  "description": "Fusión fresca que une las guitarras del rock alternativo y pop latino de La Nuestra con vientos metales sabrosos y una base rítmica de trap moderno con bajos 808 redondos.",
+  "targetKeywords": [
+    "la nuestra type beat",
+    "indie rock trap paraguay",
+    "bases de rock latino asuncion",
+    "la nuestra instrumental beat",
+    "pop rock urbano 595"
+  ],
+  "heroCta": "Comprar Beat La Nuestra (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Indie Pop-Rock, Canción de Festival y Videoclip Oficial",
+  "similarArtists": [
+    "La Nuestra",
+    "Kchiporros",
+    "Bandalos Chinos",
+    "Duki"
+  ],
+  "recommendedBpm": "118-125 BPM",
+  "productionTips": "Guitarras eléctricas limpias con chorus sutil combinadas con una línea de bajo 808 melódica.",
+  "idealVocalStyle": "Voz con actitud rockera, melodías pegajosas y coros ideales para festivales masivos.",
+  "suggestedKey": "D Major",
+  "streamingSuitability": "Ideal para sonar en festivales como Asuncionico y listas de Pop-Rock Latino."
+},
+  {
+  "slug": "kuña-bichera-rap-feminista-guarani",
+  "title": "Kuña Bichera Rap Feminista & Resistencia en Guaraní Beat",
+  "description": "Instrumental contundente y combativa inspirada en el rap femenino en guaraní estilo Kuña Bichera, con cuerdas dramáticas en bucle, cajas secas de MPC y bajo analógico que empuja las barras.",
+  "targetKeywords": [
+    "kuna bichera type beat",
+    "rap feminista paraguay",
+    "rap en guarani combativo",
+    "bases de rap contestatario 595",
+    "hip hop indigena guarani"
+  ],
+  "heroCta": "Comprar Beat Kuña Rap (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Rap Consciente, Empoderamiento y Festivales de Cultura",
+  "similarArtists": [
+    "Kuña Bichera",
+    "Rebeca Lane",
+    "Ana Tijoux",
+    "Alika"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "productionTips": "Corta las cuerdas dramáticamente antes de cada estribillo para maximizar la tensión lírica.",
+  "idealVocalStyle": "Entrega vocal implacable, dicción impecable en guaraní o español y mensaje de fuerza.",
+  "suggestedKey": "F Minor",
+  "streamingSuitability": "Perfecto para festivales de cultura, documentales sociales y playlists activistas."
+},
+  {
+  "slug": "sanber-verano-pool-party-trap",
+  "title": "Sanber Verano Pool Party EDM-Trap & Ypacaraí Sunset Beat",
+  "description": "Vibras glamorosas y fiesteras desde San Bernardino: sintetizadores analógicos luminosos, percusión elegante de club y caídas de trap de festival para fiestas junto al lago.",
+  "targetKeywords": [
+    "sanber pool party beat",
+    "verano san bernardino trap",
+    "edm trap paraguay banger",
+    "beats de fiesta esteña paraguay",
+    "summer club sanber 595"
+  ],
+  "heroCta": "Comprar Beat Sanber Party (Licencia Comercial)",
+  "energyLevel": "Very High",
+  "primaryUse": "Pool Party Banger, Fiesta Exclusiva y Música de Verano",
+  "similarArtists": [
+    "Kchiporros",
+    "Mesita",
+    "Bizarrap",
+    "Tiago PZK"
+  ],
+  "recommendedBpm": "128-134 BPM",
+  "productionTips": "Pads abiertos con sidechain profundo y baterías electro-trap con transitorios afilados.",
+  "idealVocalStyle": "Autotune limpio, estribillos enérgicos en spanglish o español y actitud de fiesta.",
+  "suggestedKey": "F Major",
+  "streamingSuitability": "Insuperable para ambientar boliches de moda, eventos de verano y videos de alta gama."
+},
+  {
+  "slug": "itaipu-electric-bass-hydro-drill",
+  "title": "Itaipú Electric Bass Hydro Drill & Hernandarias 140 BPM Beat",
+  "description": "Beat oscuro y pesado de drill industrial inspirado en la energía hidroeléctrica de la represa de Itaipú: sub-graves de 30 Hz que vibran como turbinas, violines gélidos y percusiones en terzinas.",
+  "targetKeywords": [
+    "itaipu hydro drill beat",
+    "drill industrial paraguay",
+    "hernandarias 140 bpm drill",
+    "bases de drill 595 itaipu",
+    "heavy bass alto parana"
+  ],
+  "heroCta": "Comprar Beat Itaipú Drill (WAV Masterizado)",
+  "energyLevel": "Very High",
+  "primaryUse": "Industrial Drill, Reality Rap y Duelos de Rima",
+  "similarArtists": [
+    "Mister H",
+    "Crypy",
+    "Central Cee",
+    "Morad"
+  ],
+  "recommendedBpm": "140 BPM",
+  "productionTips": "Deslices de 808 hacia notas octavadas altas y golpes de caja con ataque punzante.",
+  "idealVocalStyle": "Voz grave y amenazante, juegos rítmicos en tresillos y pausas dramáticas.",
+  "suggestedKey": "C# Minor",
+  "streamingSuitability": "Ideal para posicionar en playlists de 'Drill Latino' y videos de alta intensidad urbana."
+},
+  {
+  "slug": "chaco-boreal-western-gaucho-trap",
+  "title": "Chaco Boreal Western Gaucho & Punteo Acústico Trap Beat",
+  "description": "Fusión rústica y árida inspirada en la inmensidad del Chaco Central y Filadelfia: punteos de guitarra acústica seca, acordes camperos y un bajo 808 lento e imponente para historias de frontera.",
+  "targetKeywords": [
+    "chaco boreal trap beat",
+    "western gaucho rap paraguay",
+    "guitarra campera 808 paraguay",
+    "bases de trap rural 595",
+    "chaco frontier hip hop"
+  ],
+  "heroCta": "Comprar Beat Chaco Boreal (WAV + Stems)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Trap Folclórico, Relato Campero y Canción de Autor",
+  "similarArtists": [
+    "Mister H",
+    "Polache",
+    "Zeballos",
+    "Ysy A"
+  ],
+  "recommendedBpm": "122-128 BPM",
+  "productionTips": "Guitarra criolla grabada en estéreo con sonido de viento árido de fondo y caídas de 808 profundas.",
+  "idealVocalStyle": "Voz raspada campera, rimas sobre la soledad y la fortaleza chaqueña.",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "Insuperable para documentales rurales, bandas sonoras y canciones con identidad de tierra adentro."
+},
+  {
+  "slug": "turreo-asunceno-105-bpm-remix",
+  "title": "Turreo Asunceno 105 BPM & Dembow Boliche Paraguay Beat",
+  "description": "Instrumental bailable de turreo y RKT acelerado a 105 BPM inspirada en la noche de Asunción y San Lorenzo: sintetizadores agudos con pitch-bend, percusión de cumbia y bajos arrolladores.",
+  "targetKeywords": [
+    "turreo asunceno 105 bpm",
+    "rkt paraguayo banger",
+    "bases de turreo asuncion 595",
+    "cumbia turreo paraguay beat",
+    "beats de boliche san lorenzo"
+  ],
+  "heroCta": "Comprar Beat Turreo 105 (Descarga Directa)",
+  "energyLevel": "Very High",
+  "primaryUse": "Turreo Banger, Boliches y Bailes Virales de TikTok",
+  "similarArtists": [
+    "Mesita",
+    "Kchiporros",
+    "Callejero Fino",
+    "L-Gante"
+  ],
+  "recommendedBpm": "105 BPM",
+  "productionTips": "Caja de dembow procesada con saturación cortante y silencios milimétricos en el compás 4.",
+  "idealVocalStyle": "Voz jocosa y rápida, rimas sobre la noche de fiesta y llamados constantes al baile.",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "Viral por excelencia para TikTok, Reels y fiestas de toda la región."
+},
+  {
+  "slug": "cerro-lambare-view-sunset-lofi",
+  "title": "Cerro Lambaré Panoramic View Sunset Lofi & Río Paraguay Beat",
+  "description": "Texturas cálidas y relajantes desde el mirador del Cerro Lambaré: guitarras acústicas nobles, notas cálidas de piano Rhodes y sonido de agua del Río Paraguay con ritmos chillhop reconfortantes.",
+  "targetKeywords": [
+    "cerro lambare lofi beat",
+    "chillhop asuncion rio paraguay",
+    "beats de relajacion paraguay",
+    "instrumental nostalgico lambare",
+    "lofi sunset paraguay 595"
+  ],
+  "heroCta": "Comprar Beat Cerro Lambaré (Uso Ilimitado)",
+  "energyLevel": "Low",
+  "primaryUse": "Lofi Hip-Hop, Rap Melancólico, Estudio y Vlogs de Viaje",
+  "similarArtists": [
+    "Monte",
+    "Tomppabeats",
+    "Nujabes",
+    "Zeballos"
+  ],
+  "recommendedBpm": "78-84 BPM",
+  "productionTips": "Sonido ambiental de agua de río y brisa bajo un piano tratado con emulación de cinta analógica.",
+  "idealVocalStyle": "Spoken word tranquilo, rap poético suave o escucha puramente instrumental.",
+  "suggestedKey": "C Major",
+  "streamingSuitability": "Perfecto para playlists de estudio, concentración, cafés de Asunción y videos de turismo."
+},
+  {
+  "slug": "terere-ruso-conscious-boom-bap",
+  "title": "Tereré Ruso Conscious Boom Bap & Hielo en la Guampa Beat",
+  "description": "Hip-hop introspectivo y reflexivo con textura de hielo en la guampa de tereré: acordes menores de piano, muestras de vinilo melancólicas y batería MPC seca para rimar bajo el calor de la siesta.",
+  "targetKeywords": [
+    "terere boom bap beat",
+    "rap consciente paraguayo terere",
+    "hip hop de la siesta asuncion",
+    "bases de rap reflexivo 595",
+    "boom bap paraguay 90 bpm"
+  ],
+  "heroCta": "Comprar Beat Tereré Boom Bap (WAV 24-bit)",
+  "energyLevel": "Medium",
+  "primaryUse": "Rap Consciente, Storytelling y Poesía Urbana",
+  "similarArtists": [
+    "Zeballos",
+    "Mister H",
+    "Acru",
+    "Pescozada"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "productionTips": "Piano con filtro analógico cálido y sonido sutil de hielo moviéndose en la guampa metálica.",
+  "idealVocalStyle": "Voz pausada y sentida, rimas profundas sobre el paso del tiempo y vivencias reales.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Ideal para los amantes del hip-hop con sustancia, bibliotecas y playlists de estudio."
+},
+  {
+  "slug": "marching-band-caacupe-brass-trap",
+  "title": "Banda de Caacupé Festive Brass Fanfare & Trap 808 Beat",
+  "description": "Fusión festiva y solemne que toma los vientos de metales de las bandas de música de Caacupé y los une a caídas de trap 808 pesado para himnos de fiesta patronal y estadio.",
+  "targetKeywords": [
+    "banda caacupe trap beat",
+    "metales festivos paraguay trap",
+    "caacupe brass fanfare beat",
+    "musica tipica cordillera trap",
+    "fiesta patronal paraguay beat"
+  ],
+  "heroCta": "Comprar Beat Caacupé Brass (Stems Multitrack)",
+  "energyLevel": "Very High",
+  "primaryUse": "Trap Folclórico, Fiestas Patronales y Himnos Populares",
+  "similarArtists": [
+    "Kchiporros",
+    "La Vela Puerca",
+    "Miseria Cumbia",
+    "Tierra Adentro"
+  ],
+  "recommendedBpm": "120-128 BPM",
+  "productionTips": "Trompetas y trombones grabados en estéreo con caídas contundentes de 808 en el estribillo.",
+  "idealVocalStyle": "Animación festiva, rimas de celebración o coros multitudinarios para cantar en masa.",
+  "suggestedKey": "F Major",
+  "streamingSuitability": "Insuperable para festividades, comerciales y celebraciones populares."
+},
+  {
+  "slug": "costanera-asuncion-car-audio-spl",
+  "title": "Costanera de Asunción Car Audio SPL Extreme 32 Hz Bass Beat",
+  "description": "El beat definitivo diseñado para las caravanas y exhibiciones de Car Audio en la Costanera de Asunción y Luque, con frecuencias de sub-bajo afinadas a 32 Hz para hacer temblar los parabrisas.",
+  "targetKeywords": [
+    "costanera asuncion car audio beat",
+    "subwoofer paraguay trap 32hz",
+    "bases para car audio asuncion",
+    "beats de bajo pesado 595",
+    "musica para bafles asuncion"
+  ],
+  "heroCta": "Comprar Beat Car Audio Costanera (WAV Masterizado)",
+  "energyLevel": "Very High",
+  "primaryUse": "Competiciones de Car Audio, Banger Callejero y Caravanas",
+  "similarArtists": [
+    "Mister H",
+    "Pekeño 77",
+    "Danger Man",
+    "Crypy"
+  ],
+  "recommendedBpm": "138-142 BPM",
+  "productionTips": "Onda sinusoidal pura calibrada a 35Hz con refuerzo armónico en 70Hz y 140Hz para máxima presión acústica SPL.",
+  "idealVocalStyle": "Rapeo retador, frases enérgicas y coros repetitivos para gritar en autos.",
+  "suggestedKey": "F Minor",
+  "streamingSuitability": "El sonido favorito para caravanas nocturnas, autos modificados y eventos urbanos de motor."
+},
+  {
+  "slug": "red-bull-batalla-paraguay-final",
+  "title": "Red Bull Batalla Paraguay Final & Freestyle Cypher 595 Beat",
+  "description": "Pista de alta tensión y ataque percusivo diseñada para las finales de Red Bull Batalla Paraguay y torneos de plaza de Asunción, con cajas cortantes y pausas en el compás 4.",
+  "targetKeywords": [
+    "red bull batalla paraguay beat",
+    "freestyle final paraguay instrumental",
+    "bases para batallas de rap asuncion",
+    "pistas de freestyle paraguay 595"
+  ],
+  "heroCta": "Comprar Beat Batalla Nacional (Sin Tags)",
+  "energyLevel": "Very High",
+  "primaryUse": "Batallas de Freestyle, Finales de Torneos y Cyphers Callejeros",
+  "similarArtists": [
+    "Liga de Freestyle Paraguaya",
+    "SNK",
+    "Wos",
+    "Zaki"
+  ],
+  "recommendedBpm": "94-98 BPM",
+  "productionTips": "Corta la batería en el tiempo 4 del cuarto compás para que el remate del punchline caiga en seco.",
+  "idealVocalStyle": "Punchlines afilados, rimas rápidas al momento y actitud desafiante de tarima.",
+  "suggestedKey": "E Minor",
+  "streamingSuitability": "Indispensable para ligas de plaza, torneos de freestyle en el cono sur y YouTube."
+},
+  {
+  "slug": "pistas-de-rkt-baratas-paraguay-tigo-money",
+  "title": "Pistas de RKT Baratas en Paraguay (Pago con Tigo Money en Guaraníes)",
+  "description": "Instrumentales profesionales de RKT y cumbia villera a precios económicos para talentos emergentes en Paraguay. Pago directo en Guaraníes vía Tigo Money o Zimple y descarga inmediata.",
+  "targetKeywords": [
+    "pistas de rkt baratas paraguay",
+    "beats de rkt economicos 595",
+    "comprar bases de rkt tigo money guaranies",
+    "instrumentales baratas paraguayas"
+  ],
+  "heroCta": "Ver Pistas de RKT (Desde ₲150.000)",
+  "energyLevel": "High",
+  "primaryUse": "Lanzamiento de Demos, Grabaciones Caseras y Primeros Sencillos",
+  "similarArtists": [
+    "Comunidad RKT 595",
+    "Artistas Independientes Paraguayos"
+  ],
+  "recommendedBpm": "100-105 BPM",
+  "productionTips": "Estructuras directas con 16 barras de verso y 8 de coro para facilitar la grabación rápida.",
+  "idealVocalStyle": "Flow versátil para jóvenes que inician su carrera en la música urbana.",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "Licencia comercial con hasta 25,000 reproducciones monetizadas en plataformas."
+},
+  {
+  "slug": "bases-de-trap-asuncion-con-808-sliding",
+  "title": "Bases de Trap Asunción con Bajos 808 Slidings & Dark Melody",
+  "description": "Colección de pistas de trap asunceno de alto calibre con deslizamientos de bajo 808, campanas gélidas y percusión contundente para romper la escena urbana de la capital.",
+  "targetKeywords": [
+    "bases de trap asuncion 808 sliding",
+    "trap asunceno con 808",
+    "beats de trap mister h asuncion",
+    "instrumentales trap 595 para grabar"
+  ],
+  "heroCta": "Comprar Trap Asunción (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Trap Callejero, Banger de Barrio y Sencillos de Alto Impacto",
+  "similarArtists": [
+    "Mister H",
+    "Pekeño 77",
+    "Duki",
+    "C.R.O"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "productionTips": "Sub-bajos 808 afinados al tono exacto de la tónica con saturación de armónicos pares.",
+  "idealVocalStyle": "Flow agresivo, rimas rápidas o melodías melancólicas con autotune.",
+  "suggestedKey": "D# Minor",
+  "streamingSuitability": "Diseñado para reventar boliches y playlists de Trap del Cono Sur."
+},
+  {
+  "slug": "instrumentales-de-arpa-paraguaya-fusion-wav",
+  "title": "Instrumentales de Arpa Paraguaya Fusión Trap en WAV 24-bit con Stems",
+  "description": "Bases auténticas que fusionan las cascadas de notas del arpa de 36 cuerdas con la contundencia del trap moderno en archivos WAV de estudio con stems multitrack.",
+  "targetKeywords": [
+    "instrumentales arpa paraguaya fusion wav",
+    "bases de arpa paraguaya para voz",
+    "pistas de arpa con trap moderno 595",
+    "beats de arpa charrua stems"
+  ],
+  "heroCta": "Descargar Arpa Trap Beat (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Producción de Trap Folclórico, Sencillo Épico y Concierto",
+  "similarArtists": [
+    "Kchiporros",
+    "Mister H",
+    "Zeballos"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "productionTips": "Stems multitrack organizados por carpetas con el arpa separada para mezcla personalizada.",
+  "idealVocalStyle": "Rapeo potente en guaraní o español o canto tradicional con identidad.",
+  "suggestedKey": "G Major",
+  "streamingSuitability": "Excelente para eventos en vivo, festivales patrios y plataformas de streaming."
+},
+  {
+  "slug": "beats-de-boom-bap-lirico-paraguayo-90-bpm",
+  "title": "Beats de Boom Bap Lírico Paraguayo con Pianos Melancólicos a 90 BPM",
+  "description": "Instrumentales de hip-hop clásico con notas de piano acústico, muestras de vinilo y golpes secos de bombo y caja para liricistas y raperos conscientes paraguayos.",
+  "targetKeywords": [
+    "beats boom bap lirico paraguayo",
+    "rap clasico 90 bpm asuncion",
+    "bases de hip hop con piano 595",
+    "pistas boom bap terere style"
+  ],
+  "heroCta": "Comprar Boom Bap Lírico (WAV + Stems)",
+  "energyLevel": "Medium",
+  "primaryUse": "Rap Lírico, Álbum Conceptual y Storytelling Profundo",
+  "similarArtists": [
+    "Zeballos",
+    "Akapellah",
+    "Acru",
+    "Pescozada"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "productionTips": "Piano con filtro analógico cálido que deja libre el centro para la voz del artista.",
+  "idealVocalStyle": "Rapeo métrico, juego de palabras y mensaje reflexivo sobre la realidad social.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Ideal para la comunidad de hip-hop clásico y underground de Latinoamérica."
+},
+  {
+  "slug": "paquete-de-beats-para-disco-paraguay-descuento",
+  "title": "Paquete de Beats para Álbum Completo en Paraguay (40% Descuento)",
+  "description": "Oferta especial para artistas paraguayos que graban su disco o EP: adquiere 5 o 10 instrumentales completas con descuento por volumen y soporte técnico directo durante la grabación.",
+  "targetKeywords": [
+    "paquete de beats para album paraguay",
+    "oferta beats por mayor 595",
+    "descuento beats disco completo asuncion",
+    "mixtape paquete instrumentales tigo money"
+  ],
+  "heroCta": "Ver Paquetes de Álbum (Ahorra hasta 40%)",
+  "energyLevel": "Variable",
+  "primaryUse": "Producción Integral de EPs, Álbumes y Mixtapes",
+  "similarArtists": [
+    "Artistas y Agrupaciones 595"
+  ],
+  "recommendedBpm": "88-144 BPM",
+  "productionTips": "Curaduría tonal y estilística coherente para garantizar que todo el álbum suene uniforme.",
+  "idealVocalStyle": "Adaptable a la narrativa y el concepto integral de la obra del artista.",
+  "suggestedKey": "Various Keys",
+  "streamingSuitability": "Licencia comercial extendida válida para múltiples lanzamientos simultáneos."
+},
+  {
+  "slug": "bases-de-drill-paraguayo-140-bpm-con-stems",
+  "title": "Bases de Drill Paraguayo a 140 BPM con Bajos Slidings & Stems",
+  "description": "Instrumentales de drill oscuro adaptadas al flow y vivencia de la calle paraguaya, con patrones sincopados de charles a 140 BPM, tarolas afiladas y bajos con deslices vertiginosos.",
+  "targetKeywords": [
+    "bases de drill paraguayo 140 bpm",
+    "uk drill paraguay beat",
+    "drill 595 con bajos slidings",
+    "pistas de drill para grabar asuncion"
+  ],
+  "heroCta": "Descargar Drill Beat 140 BPM (WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Drill Urbano, Barras Callejeras y Duelos de Rima",
+  "similarArtists": [
+    "Mister H",
+    "Crypy",
+    "Morad",
+    "Central Cee"
+  ],
+  "recommendedBpm": "140 BPM",
+  "productionTips": "Usa slides de pitch de dos octavas en el sub-808 en el segundo compás de cada frase.",
+  "idealVocalStyle": "Voz grave y amenazante con rimas rápidas en tresillos y cortes precisos.",
+  "suggestedKey": "C# Minor",
+  "streamingSuitability": "Ideal para posicionar en playlists de 'Drill Latino' y videos de alta intensidad urbana."
+},
+  {
+  "slug": "pistas-de-pop-urbano-y-reggaeton-asuncion",
+  "title": "Pistas de Pop Urbano y Reggaetón en Asunción con Guitarras WAV",
+  "description": "Instrumentales comerciales de pop latino y reggaetón suave con sintetizadores luminosos, guitarras brillantes y dembow bailable con compra en Guaraníes vía Tigo Money o Bancard.",
+  "targetKeywords": [
+    "pistas de pop urbano asuncion",
+    "bases de reggaeton comercial paraguay",
+    "comprar pop urbano en guaranies",
+    "instrumentales de reggaeton con guitarra 595"
+  ],
+  "heroCta": "Comprar Pop Urbano (Con Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Pop Urbano Comercial, Radio Hit y Canción de Verano",
+  "similarArtists": [
+    "Caja Blanda",
+    "Kchiporros",
+    "Micro TDH",
+    "Feid"
+  ],
+  "recommendedBpm": "95-100 BPM",
+  "productionTips": "Arreglos de guitarra afinados con brillo armónico en 8kHz sobre una base de dembow pulida.",
+  "idealVocalStyle": "Canto melódico con sentimiento sincero, armonías dulces y coros pegadizos.",
+  "suggestedKey": "G Major",
+  "streamingSuitability": "Monetización garantizada en todas las plataformas de streaming."
+},
+  {
+  "slug": "contrato-de-licencia-comercial-dinapi-pdf",
+  "title": "Contrato de Licencia Comercial para la DINAPI de Paraguay (PDF)",
+  "description": "Descarga de contrato legal en PDF con validez oficial ante la Dirección Nacional de Propiedad Intelectual (DINAPI) y APA de Paraguay para registrar tu obra y proteger tus derechos.",
+  "targetKeywords": [
+    "contrato licencia comercial dinapi paraguay",
+    "registro de canciones dinapi paraguay",
+    "derechos de autor propiedad intelectual paraguay",
+    "contrato legal beats 595"
+  ],
+  "heroCta": "Ver Contrato Legal DINAPI (Descarga Inmediata)",
+  "energyLevel": "N/A",
+  "primaryUse": "Registro Oficial de Obra, Distribución en Agregadoras y Cobro de Regalías",
+  "similarArtists": [
+    "Onzieb",
+    "Compositores de Paraguay",
+    "Artistas Independientes"
+  ],
+  "recommendedBpm": "Cualquier Tempo",
+  "productionTips": "Documento legal redactado conforme a la Ley de Derecho de Autor y Derechos Conexos de Paraguay (Ley 1328/98).",
+  "idealVocalStyle": "Válido para todo tipo de letras y melodías originales.",
+  "suggestedKey": "All Keys",
+  "streamingSuitability": "100% de protección legal y tranquilidad para monetizar tu música."
+},
+  {
+  "slug": "productor-de-beats-online-paraguay-onzieb",
+  "title": "Productor de Beats Online para Artistas de Paraguay (Onzieb)",
+  "description": "Conéctate de forma remota y directa con el productor Onzieb para asesoría artística, producción ejecutiva y personalización de pistas con atención personalizada por WhatsApp.",
+  "targetKeywords": [
+    "productor de beats online paraguay",
+    "onzieb productor musical guarani",
+    "comprar bases personalizadas asuncion cde",
+    "productor rap trap 595 whatsapp"
+  ],
+  "heroCta": "Hablar con Onzieb por WhatsApp",
+  "energyLevel": "Custom",
+  "primaryUse": "Asesoría de Proyecto, Producción a Medida y Arreglos Vocales",
+  "similarArtists": [
+    "Onzieb",
+    "Mister H",
+    "Kchiporros"
+  ],
+  "recommendedBpm": "A tu elección",
+  "productionTips": "Sesiones interactivas de revisión de mezcla y ajustes de tempo y tono según tu tesitura.",
+  "idealVocalStyle": "Trabajo colaborativo diseñado para potenciar tu estilo único.",
+  "suggestedKey": "Personalizada",
+  "streamingSuitability": "Entrega de material listo para masterizar con estándares de la industria."
+},
+  {
+  "slug": "descargar-bases-de-trap-paraguayo-gratis-mp3",
+  "title": "Descargar Bases de Trap Paraguayo Gratis en MP3 (Uso Libre)",
+  "description": "Paquete de cortesía con instrumentales de trap en guaraní, RKT y boom bap en formato MP3 a 320 kbps para que practiques tu freestyle y grabes maquetas sin pagar un solo centavo.",
+  "targetKeywords": [
+    "descargar bases de trap paraguayo gratis mp3",
+    "beats gratis para maquetas asuncion",
+    "pistas de trap guarani libres de costo",
+    "descarga trap 595 mp3 320kbps"
+  ],
+  "heroCta": "Descargar Pistas Gratis (Sin Registro)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Grabación de Maquetas Caseras, Práctica de Rimas y Freestyle",
+  "similarArtists": [
+    "Comunidad Urbana de Paraguay",
+    "Nuevos Talentos 595"
+  ],
+  "recommendedBpm": "90, 100, 136 BPM",
+  "productionTips": "Incluye un tag de cortesía sutil al inicio; al comprar la licencia se remueve completamente.",
+  "idealVocalStyle": "Espacio abierto para experimentar flows y probar tu voz frente al micrófono.",
+  "suggestedKey": "Various",
+  "streamingSuitability": "Permitido en videos no monetizados de YouTube, TikTok y SoundCloud."
+},
+  {
+  "slug": "fernando-de-la-mora-trap-paraguayo-pesado",
+  "name": "Fernando de la Mora Trap Paraguayo Pesado Beats",
+  "category": "scene",
+  "badge": "Fernando de la Mora Trap 595",
+  "headline": "Fernando de la Mora (Central Eje) Trap Paraguayo Pesado Beats: Pistas WAV & Pago Tigo Money en Guaraníes",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de Fernando de la Mora.",
+  "targetArtists": [
+    "Artistas de Fernando de la Mora",
+    "Comunidad Urbana 595",
+    "Movimiento Hip-Hop Paraguay"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Fernando de la Mora",
+    "Trap 595",
+    "Tigo Money & Zimple ₲",
+    "Avalado APA"
+  ],
+  "popularGenres": [
+    "Trap Paraguayo Pesado Beats",
+    "Trap 595",
+    "RKT Paraguayo"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "fernando-de-la-mora-rkt-turreo-paraguayo",
+  "name": "Fernando de la Mora RKT Turreo Paraguayo",
+  "category": "scene",
+  "badge": "Fernando de la Mora RKT 595",
+  "headline": "Fernando de la Mora (Central Eje) RKT Turreo Paraguayo: Pistas WAV & Pago Tigo Money en Guaraníes",
+  "description": "Percusión dembow acelerada a 100 BPM, sintetizadores desafinados y ritmo bailable de boliche para Fernando de la Mora.",
+  "targetArtists": [
+    "Artistas de Fernando de la Mora",
+    "Comunidad Urbana 595",
+    "Movimiento Hip-Hop Paraguay"
+  ],
+  "recommendedBpm": "100 BPM",
+  "recommendedKey": "A-Minor / G-Minor",
+  "vibeAttributes": [
+    "Fernando de la Mora",
+    "RKT 595",
+    "Tigo Money & Zimple ₲",
+    "Avalado APA"
+  ],
+  "popularGenres": [
+    "RKT Turreo Paraguayo",
+    "Trap 595",
+    "RKT Paraguayo"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "fernando-de-la-mora-boom-bap-asunceno",
+  "name": "Fernando de la Mora Boom Bap Clásico Paraguayo",
+  "category": "scene",
+  "badge": "Fernando de la Mora Boom Bap 595",
+  "headline": "Fernando de la Mora (Central Eje) Boom Bap Clásico Paraguayo: Pistas WAV & Pago Tigo Money en Guaraníes",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de Fernando de la Mora.",
+  "targetArtists": [
+    "Artistas de Fernando de la Mora",
+    "Comunidad Urbana 595",
+    "Movimiento Hip-Hop Paraguay"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Fernando de la Mora",
+    "Boom Bap 595",
+    "Tigo Money & Zimple ₲",
+    "Avalado APA"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Paraguayo",
+    "Trap 595",
+    "RKT Paraguayo"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "fernando-de-la-mora-melodic-rnb-trap-py",
+  "name": "Fernando de la Mora Melodic R&B Trap Paraguayo",
+  "category": "scene",
+  "badge": "Fernando de la Mora R&B Guaraní",
+  "headline": "Fernando de la Mora (Central Eje) Melodic R&B Trap Paraguayo: Pistas WAV & Pago Tigo Money en Guaraníes",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de Fernando de la Mora.",
+  "targetArtists": [
+    "Artistas de Fernando de la Mora",
+    "Comunidad Urbana 595",
+    "Movimiento Hip-Hop Paraguay"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "Fernando de la Mora",
+    "R&B Guaraní",
+    "Tigo Money & Zimple ₲",
+    "Avalado APA"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap Paraguayo",
+    "Trap 595",
+    "RKT Paraguayo"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "lambare-trap-paraguayo-pesado",
+  "name": "Lambaré Trap Paraguayo Pesado Beats",
+  "category": "scene",
+  "badge": "Lambaré Trap 595",
+  "headline": "Lambaré (Central Cerro) Trap Paraguayo Pesado Beats: Pistas WAV & Pago Tigo Money en Guaraníes",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de Lambaré.",
+  "targetArtists": [
+    "Artistas de Lambaré",
+    "Comunidad Urbana 595",
+    "Movimiento Hip-Hop Paraguay"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Lambaré",
+    "Trap 595",
+    "Tigo Money & Zimple ₲",
+    "Avalado APA"
+  ],
+  "popularGenres": [
+    "Trap Paraguayo Pesado Beats",
+    "Trap 595",
+    "RKT Paraguayo"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "lambare-rkt-turreo-paraguayo",
+  "name": "Lambaré RKT Turreo Paraguayo",
+  "category": "scene",
+  "badge": "Lambaré RKT 595",
+  "headline": "Lambaré (Central Cerro) RKT Turreo Paraguayo: Pistas WAV & Pago Tigo Money en Guaraníes",
+  "description": "Percusión dembow acelerada a 100 BPM, sintetizadores desafinados y ritmo bailable de boliche para Lambaré.",
+  "targetArtists": [
+    "Artistas de Lambaré",
+    "Comunidad Urbana 595",
+    "Movimiento Hip-Hop Paraguay"
+  ],
+  "recommendedBpm": "100 BPM",
+  "recommendedKey": "A-Minor / G-Minor",
+  "vibeAttributes": [
+    "Lambaré",
+    "RKT 595",
+    "Tigo Money & Zimple ₲",
+    "Avalado APA"
+  ],
+  "popularGenres": [
+    "RKT Turreo Paraguayo",
+    "Trap 595",
+    "RKT Paraguayo"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "lambare-boom-bap-asunceno",
+  "name": "Lambaré Boom Bap Clásico Paraguayo",
+  "category": "scene",
+  "badge": "Lambaré Boom Bap 595",
+  "headline": "Lambaré (Central Cerro) Boom Bap Clásico Paraguayo: Pistas WAV & Pago Tigo Money en Guaraníes",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de Lambaré.",
+  "targetArtists": [
+    "Artistas de Lambaré",
+    "Comunidad Urbana 595",
+    "Movimiento Hip-Hop Paraguay"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Lambaré",
+    "Boom Bap 595",
+    "Tigo Money & Zimple ₲",
+    "Avalado APA"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Paraguayo",
+    "Trap 595",
+    "RKT Paraguayo"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "lambare-melodic-rnb-trap-py",
+  "name": "Lambaré Melodic R&B Trap Paraguayo",
+  "category": "scene",
+  "badge": "Lambaré R&B Guaraní",
+  "headline": "Lambaré (Central Cerro) Melodic R&B Trap Paraguayo: Pistas WAV & Pago Tigo Money en Guaraníes",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de Lambaré.",
+  "targetArtists": [
+    "Artistas de Lambaré",
+    "Comunidad Urbana 595",
+    "Movimiento Hip-Hop Paraguay"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "Lambaré",
+    "R&B Guaraní",
+    "Tigo Money & Zimple ₲",
+    "Avalado APA"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap Paraguayo",
+    "Trap 595",
+    "RKT Paraguayo"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "capiata-trap-paraguayo-pesado",
+  "name": "Capiatá Trap Paraguayo Pesado Beats",
+  "category": "scene",
+  "badge": "Capiatá Trap 595",
+  "headline": "Capiatá (Central Ruta Dos) Trap Paraguayo Pesado Beats: Pistas WAV & Pago Tigo Money en Guaraníes",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de Capiatá.",
+  "targetArtists": [
+    "Artistas de Capiatá",
+    "Comunidad Urbana 595",
+    "Movimiento Hip-Hop Paraguay"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Capiatá",
+    "Trap 595",
+    "Tigo Money & Zimple ₲",
+    "Avalado APA"
+  ],
+  "popularGenres": [
+    "Trap Paraguayo Pesado Beats",
+    "Trap 595",
+    "RKT Paraguayo"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "capiata-rkt-turreo-paraguayo",
+  "name": "Capiatá RKT Turreo Paraguayo",
+  "category": "scene",
+  "badge": "Capiatá RKT 595",
+  "headline": "Capiatá (Central Ruta Dos) RKT Turreo Paraguayo: Pistas WAV & Pago Tigo Money en Guaraníes",
+  "description": "Percusión dembow acelerada a 100 BPM, sintetizadores desafinados y ritmo bailable de boliche para Capiatá.",
+  "targetArtists": [
+    "Artistas de Capiatá",
+    "Comunidad Urbana 595",
+    "Movimiento Hip-Hop Paraguay"
+  ],
+  "recommendedBpm": "100 BPM",
+  "recommendedKey": "A-Minor / G-Minor",
+  "vibeAttributes": [
+    "Capiatá",
+    "RKT 595",
+    "Tigo Money & Zimple ₲",
+    "Avalado APA"
+  ],
+  "popularGenres": [
+    "RKT Turreo Paraguayo",
+    "Trap 595",
+    "RKT Paraguayo"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "capiata-boom-bap-asunceno",
+  "name": "Capiatá Boom Bap Clásico Paraguayo",
+  "category": "scene",
+  "badge": "Capiatá Boom Bap 595",
+  "headline": "Capiatá (Central Ruta Dos) Boom Bap Clásico Paraguayo: Pistas WAV & Pago Tigo Money en Guaraníes",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de Capiatá.",
+  "targetArtists": [
+    "Artistas de Capiatá",
+    "Comunidad Urbana 595",
+    "Movimiento Hip-Hop Paraguay"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Capiatá",
+    "Boom Bap 595",
+    "Tigo Money & Zimple ₲",
+    "Avalado APA"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Paraguayo",
+    "Trap 595",
+    "RKT Paraguayo"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "capiata-melodic-rnb-trap-py",
+  "name": "Capiatá Melodic R&B Trap Paraguayo",
+  "category": "scene",
+  "badge": "Capiatá R&B Guaraní",
+  "headline": "Capiatá (Central Ruta Dos) Melodic R&B Trap Paraguayo: Pistas WAV & Pago Tigo Money en Guaraníes",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de Capiatá.",
+  "targetArtists": [
+    "Artistas de Capiatá",
+    "Comunidad Urbana 595",
+    "Movimiento Hip-Hop Paraguay"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "Capiatá",
+    "R&B Guaraní",
+    "Tigo Money & Zimple ₲",
+    "Avalado APA"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap Paraguayo",
+    "Trap 595",
+    "RKT Paraguayo"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "san-bernardino-trap-paraguayo-pesado",
+  "name": "San Bernardino Trap Paraguayo Pesado Beats",
+  "category": "scene",
+  "badge": "San Bernardino Trap 595",
+  "headline": "San Bernardino (Cordillera Lago) Trap Paraguayo Pesado Beats: Pistas WAV & Pago Tigo Money en Guaraníes",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de San Bernardino.",
+  "targetArtists": [
+    "Artistas de San Bernardino",
+    "Comunidad Urbana 595",
+    "Movimiento Hip-Hop Paraguay"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "San Bernardino",
+    "Trap 595",
+    "Tigo Money & Zimple ₲",
+    "Avalado APA"
+  ],
+  "popularGenres": [
+    "Trap Paraguayo Pesado Beats",
+    "Trap 595",
+    "RKT Paraguayo"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "san-bernardino-rkt-turreo-paraguayo",
+  "name": "San Bernardino RKT Turreo Paraguayo",
+  "category": "scene",
+  "badge": "San Bernardino RKT 595",
+  "headline": "San Bernardino (Cordillera Lago) RKT Turreo Paraguayo: Pistas WAV & Pago Tigo Money en Guaraníes",
+  "description": "Percusión dembow acelerada a 100 BPM, sintetizadores desafinados y ritmo bailable de boliche para San Bernardino.",
+  "targetArtists": [
+    "Artistas de San Bernardino",
+    "Comunidad Urbana 595",
+    "Movimiento Hip-Hop Paraguay"
+  ],
+  "recommendedBpm": "100 BPM",
+  "recommendedKey": "A-Minor / G-Minor",
+  "vibeAttributes": [
+    "San Bernardino",
+    "RKT 595",
+    "Tigo Money & Zimple ₲",
+    "Avalado APA"
+  ],
+  "popularGenres": [
+    "RKT Turreo Paraguayo",
+    "Trap 595",
+    "RKT Paraguayo"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "san-bernardino-boom-bap-asunceno",
+  "name": "San Bernardino Boom Bap Clásico Paraguayo",
+  "category": "scene",
+  "badge": "San Bernardino Boom Bap 595",
+  "headline": "San Bernardino (Cordillera Lago) Boom Bap Clásico Paraguayo: Pistas WAV & Pago Tigo Money en Guaraníes",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de San Bernardino.",
+  "targetArtists": [
+    "Artistas de San Bernardino",
+    "Comunidad Urbana 595",
+    "Movimiento Hip-Hop Paraguay"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "San Bernardino",
+    "Boom Bap 595",
+    "Tigo Money & Zimple ₲",
+    "Avalado APA"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Paraguayo",
+    "Trap 595",
+    "RKT Paraguayo"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "san-bernardino-melodic-rnb-trap-py",
+  "name": "San Bernardino Melodic R&B Trap Paraguayo",
+  "category": "scene",
+  "badge": "San Bernardino R&B Guaraní",
+  "headline": "San Bernardino (Cordillera Lago) Melodic R&B Trap Paraguayo: Pistas WAV & Pago Tigo Money en Guaraníes",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de San Bernardino.",
+  "targetArtists": [
+    "Artistas de San Bernardino",
+    "Comunidad Urbana 595",
+    "Movimiento Hip-Hop Paraguay"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "San Bernardino",
+    "R&B Guaraní",
+    "Tigo Money & Zimple ₲",
+    "Avalado APA"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap Paraguayo",
+    "Trap 595",
+    "RKT Paraguayo"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "caacupe-trap-paraguayo-pesado",
+  "name": "Caacupé Trap Paraguayo Pesado Beats",
+  "category": "scene",
+  "badge": "Caacupé Trap 595",
+  "headline": "Caacupé (Cordillera Sacra) Trap Paraguayo Pesado Beats: Pistas WAV & Pago Tigo Money en Guaraníes",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de Caacupé.",
+  "targetArtists": [
+    "Artistas de Caacupé",
+    "Comunidad Urbana 595",
+    "Movimiento Hip-Hop Paraguay"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Caacupé",
+    "Trap 595",
+    "Tigo Money & Zimple ₲",
+    "Avalado APA"
+  ],
+  "popularGenres": [
+    "Trap Paraguayo Pesado Beats",
+    "Trap 595",
+    "RKT Paraguayo"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "caacupe-rkt-turreo-paraguayo",
+  "name": "Caacupé RKT Turreo Paraguayo",
+  "category": "scene",
+  "badge": "Caacupé RKT 595",
+  "headline": "Caacupé (Cordillera Sacra) RKT Turreo Paraguayo: Pistas WAV & Pago Tigo Money en Guaraníes",
+  "description": "Percusión dembow acelerada a 100 BPM, sintetizadores desafinados y ritmo bailable de boliche para Caacupé.",
+  "targetArtists": [
+    "Artistas de Caacupé",
+    "Comunidad Urbana 595",
+    "Movimiento Hip-Hop Paraguay"
+  ],
+  "recommendedBpm": "100 BPM",
+  "recommendedKey": "A-Minor / G-Minor",
+  "vibeAttributes": [
+    "Caacupé",
+    "RKT 595",
+    "Tigo Money & Zimple ₲",
+    "Avalado APA"
+  ],
+  "popularGenres": [
+    "RKT Turreo Paraguayo",
+    "Trap 595",
+    "RKT Paraguayo"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "caacupe-boom-bap-asunceno",
+  "name": "Caacupé Boom Bap Clásico Paraguayo",
+  "category": "scene",
+  "badge": "Caacupé Boom Bap 595",
+  "headline": "Caacupé (Cordillera Sacra) Boom Bap Clásico Paraguayo: Pistas WAV & Pago Tigo Money en Guaraníes",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de Caacupé.",
+  "targetArtists": [
+    "Artistas de Caacupé",
+    "Comunidad Urbana 595",
+    "Movimiento Hip-Hop Paraguay"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Caacupé",
+    "Boom Bap 595",
+    "Tigo Money & Zimple ₲",
+    "Avalado APA"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Paraguayo",
+    "Trap 595",
+    "RKT Paraguayo"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "caacupe-melodic-rnb-trap-py",
+  "name": "Caacupé Melodic R&B Trap Paraguayo",
+  "category": "scene",
+  "badge": "Caacupé R&B Guaraní",
+  "headline": "Caacupé (Cordillera Sacra) Melodic R&B Trap Paraguayo: Pistas WAV & Pago Tigo Money en Guaraníes",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de Caacupé.",
+  "targetArtists": [
+    "Artistas de Caacupé",
+    "Comunidad Urbana 595",
+    "Movimiento Hip-Hop Paraguay"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "Caacupé",
+    "R&B Guaraní",
+    "Tigo Money & Zimple ₲",
+    "Avalado APA"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap Paraguayo",
+    "Trap 595",
+    "RKT Paraguayo"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "hernandarias-trap-paraguayo-pesado",
+  "name": "Hernandarias Trap Paraguayo Pesado Beats",
+  "category": "scene",
+  "badge": "Hernandarias Trap 595",
+  "headline": "Hernandarias (Alto Paraná Itaipú) Trap Paraguayo Pesado Beats: Pistas WAV & Pago Tigo Money en Guaraníes",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de Hernandarias.",
+  "targetArtists": [
+    "Artistas de Hernandarias",
+    "Comunidad Urbana 595",
+    "Movimiento Hip-Hop Paraguay"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Hernandarias",
+    "Trap 595",
+    "Tigo Money & Zimple ₲",
+    "Avalado APA"
+  ],
+  "popularGenres": [
+    "Trap Paraguayo Pesado Beats",
+    "Trap 595",
+    "RKT Paraguayo"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "hernandarias-rkt-turreo-paraguayo",
+  "name": "Hernandarias RKT Turreo Paraguayo",
+  "category": "scene",
+  "badge": "Hernandarias RKT 595",
+  "headline": "Hernandarias (Alto Paraná Itaipú) RKT Turreo Paraguayo: Pistas WAV & Pago Tigo Money en Guaraníes",
+  "description": "Percusión dembow acelerada a 100 BPM, sintetizadores desafinados y ritmo bailable de boliche para Hernandarias.",
+  "targetArtists": [
+    "Artistas de Hernandarias",
+    "Comunidad Urbana 595",
+    "Movimiento Hip-Hop Paraguay"
+  ],
+  "recommendedBpm": "100 BPM",
+  "recommendedKey": "A-Minor / G-Minor",
+  "vibeAttributes": [
+    "Hernandarias",
+    "RKT 595",
+    "Tigo Money & Zimple ₲",
+    "Avalado APA"
+  ],
+  "popularGenres": [
+    "RKT Turreo Paraguayo",
+    "Trap 595",
+    "RKT Paraguayo"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "hernandarias-boom-bap-asunceno",
+  "name": "Hernandarias Boom Bap Clásico Paraguayo",
+  "category": "scene",
+  "badge": "Hernandarias Boom Bap 595",
+  "headline": "Hernandarias (Alto Paraná Itaipú) Boom Bap Clásico Paraguayo: Pistas WAV & Pago Tigo Money en Guaraníes",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de Hernandarias.",
+  "targetArtists": [
+    "Artistas de Hernandarias",
+    "Comunidad Urbana 595",
+    "Movimiento Hip-Hop Paraguay"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Hernandarias",
+    "Boom Bap 595",
+    "Tigo Money & Zimple ₲",
+    "Avalado APA"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Paraguayo",
+    "Trap 595",
+    "RKT Paraguayo"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "hernandarias-melodic-rnb-trap-py",
+  "name": "Hernandarias Melodic R&B Trap Paraguayo",
+  "category": "scene",
+  "badge": "Hernandarias R&B Guaraní",
+  "headline": "Hernandarias (Alto Paraná Itaipú) Melodic R&B Trap Paraguayo: Pistas WAV & Pago Tigo Money en Guaraníes",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de Hernandarias.",
+  "targetArtists": [
+    "Artistas de Hernandarias",
+    "Comunidad Urbana 595",
+    "Movimiento Hip-Hop Paraguay"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "Hernandarias",
+    "R&B Guaraní",
+    "Tigo Money & Zimple ₲",
+    "Avalado APA"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap Paraguayo",
+    "Trap 595",
+    "RKT Paraguayo"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
 ];

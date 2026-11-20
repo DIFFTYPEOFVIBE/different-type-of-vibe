@@ -36264,4 +36264,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "py/fernando-de-la-mora-central": {
+  "slug": "py/fernando-de-la-mora-central",
+  "name": "Paraguay – Fernando de la Mora (Eje Urbano & Trap Pesado)",
+  "flag": "🇵🇾",
+  "currency": "PYG (₲) / USD ($)",
+  "currencyCode": "PYG",
+  "gateways": "Tigo Money, Zimple, Bancard, Itaú, Tarjetas, Apple Pay, PayPal",
+  "pro": "APA & DINAPI",
+  "proFullName": "APA",
+  "proGuide": "100% legal ante APA con contrato en PDF descargable.",
+  "headline": "Beats en Fernando de la Mora: El Corredor Central, Trap Pesado & 808s",
+  "description": "El conector urbano entre la capital y San Lorenzo: campanas gélidas, baterías apretadas de trap moderno y caídas de sub-bajo arrolladoras para artistas de barrio fernandinos.",
+  "popularGenres": [
+    "Fernando Street Trap",
+    "Corredor Central Drill",
+    "Urban 595"
+  ],
+  "subClusters": []
+},
+  "py/lambare-cerro": {
+  "slug": "py/lambare-cerro",
+  "name": "Paraguay – Lambaré (Cerro Lambaré & Street RKT Rioplatense)",
+  "flag": "🇵🇾",
+  "currency": "PYG (₲) / USD ($)",
+  "currencyCode": "PYG",
+  "gateways": "Tigo Money, Zimple, Bancard, Tarjetas, Apple Pay, PayPal",
+  "pro": "APA",
+  "proFullName": "APA",
+  "proGuide": "100% original con entrega de stems multitrack.",
+  "headline": "Beats en Lambaré: Vista al Río, RKT Banger & Trap Callejero",
+  "description": "A las faldas del cerro y con vista al Río Paraguay: ritmos acelerados de RKT, sintetizadores desafinados festivos y líneas de bajo envolventes para boliches y autos.",
+  "popularGenres": [
+    "Lambaré RKT",
+    "Cerro Street Trap",
+    "Río Paraguay Flow"
+  ],
+  "subClusters": []
+},
+  "py/capiata-ruta-dos": {
+  "slug": "py/capiata-ruta-dos",
+  "name": "Paraguay – Capiatá (Ruta 2 Industrial & Hip-Hop Callejero)",
+  "flag": "🇵🇾",
+  "currency": "PYG (₲) / USD ($)",
+  "currencyCode": "PYG",
+  "gateways": "Tigo Money, Zimple, Bancard, Tarjetas, Apple Pay, PayPal",
+  "pro": "APA",
+  "proFullName": "APA",
+  "proGuide": "100% libre de reclamos de derechos de autor.",
+  "headline": "Beats en Capiatá: La Fuerza de la Ruta 2, Cajas Secas & Freestyle",
+  "description": "El nervio del transporte y la industria central: cajas analógicas con golpe seco de MPC, melodías oscuras y bajos sólidos para barras crudas de superación de barrio.",
+  "popularGenres": [
+    "Capiatá Street Rap",
+    "Ruta 2 Boom Bap",
+    "Underground 595"
+  ],
+  "subClusters": []
+},
+  "py/san-bernardino-cordillera": {
+  "slug": "py/san-bernardino-cordillera",
+  "name": "Paraguay – San Bernardino (Verano en Sanber & Pool Party Trap)",
+  "flag": "🇵🇾",
+  "currency": "PYG (₲) / USD ($)",
+  "currencyCode": "PYG",
+  "gateways": "Tigo Money, Zimple, Bancard, Tarjetas, Apple Pay, PayPal",
+  "pro": "APA",
+  "proFullName": "APA",
+  "proGuide": "100% compatible con agregadoras digitales.",
+  "headline": "Beats en Sanber: Verano sobre el Lago, Club Banger & EDM-Trap",
+  "description": "La exclusividad y la fiesta del verano paraguayo a orillas de Ypacaraí: sintetizadores de fiesta electrónica, caídas de bajo festivalero y dembow suave para atardeceres y boliches.",
+  "popularGenres": [
+    "Sanber Pool Party",
+    "Summer Club Trap",
+    "Ypacaraí Sunset Beat"
+  ],
+  "subClusters": []
+},
+  "py/caacupe-cordillera-espiritual": {
+  "slug": "py/caacupe-cordillera-espiritual",
+  "name": "Paraguay – Caacupé (Capital Espiritual & Fusión de Metales y Arpa)",
+  "flag": "🇵🇾",
+  "currency": "PYG (₲) / USD ($)",
+  "currencyCode": "PYG",
+  "gateways": "Tigo Money, Zimple, Bancard, Tarjetas, Apple Pay, PayPal",
+  "pro": "APA",
+  "proFullName": "APA",
+  "proGuide": "Garantía comercial de uso ilimitado en streaming.",
+  "headline": "Beats en Caacupé: Serranía de Cordillera, Metales Vivos & Trap Sacro",
+  "description": "La devoción y el fervor de la serranía cordillerana: fanfarrias de vientos metales tradicionales, arpegios de arpa paraguaya y caídas de 808 para canciones épicas de identidad.",
+  "popularGenres": [
+    "Caacupé Brass Trap",
+    "Cordillera Epic Beat",
+    "Spiritual Charrúa Flow"
+  ],
+  "subClusters": []
+},
+  "py/hernandarias-represa-itaipu": {
+  "slug": "py/hernandarias-represa-itaipu",
+  "name": "Paraguay – Hernandarias (Capital de la Energía & Hydro Drill)",
+  "flag": "🇵🇾",
+  "currency": "PYG (₲) / USD ($)",
+  "currencyCode": "PYG",
+  "gateways": "Tigo Money, Zimple, Bancard, Tarjetas, Apple Pay, PayPal",
+  "pro": "APA",
+  "proFullName": "APA",
+  "proGuide": "100% original con entrega de stems.",
+  "headline": "Beats en Hernandarias: Represa de Itaipú, Energía Pura & Hydro Drill 808",
+  "description": "La colosal potencia eléctrica de Itaipú: sub-graves demoledores a 30 Hz, baterías de drill industrial en terzinas a 140 BPM y estética futurista para la frontera este.",
+  "popularGenres": [
+    "Itaipú Hydro Drill",
+    "Hernandarias Heavy Bass",
+    "Electric Border Beat"
+  ],
+  "subClusters": []
+},
+  "py/pilar-neembucu-humaita": {
+  "slug": "py/pilar-neembucu-humaita",
+  "name": "Paraguay – Pilar (La Ciudad de las Aves, Ñeembucú & Rap Poético)",
+  "flag": "🇵🇾",
+  "currency": "PYG (₲) / USD ($)",
+  "currencyCode": "PYG",
+  "gateways": "Tigo Money, Zimple, Bancard, Tarjetas, Apple Pay, PayPal",
+  "pro": "APA",
+  "proFullName": "APA",
+  "proGuide": "Licencias comerciales legales con PDF descargable.",
+  "headline": "Beats en Pilar: Río Paraguay, Memoria de Humaitá & Trova Boom Bap",
+  "description": "El encanto ribereño y la memoria histórica del sur: arpegios acústicos de guitarra noble, pianos sobrios y baterías con swing holgado para barras poéticas de reflexión.",
+  "popularGenres": [
+    "Pilar Poetic Rap",
+    "Ñeembucú River Beat",
+    "Humaitá Historic Flow"
+  ],
+  "subClusters": []
+},
+  "py/caaguazu-capital-de-la-madera": {
+  "slug": "py/caaguazu-capital-de-la-madera",
+  "name": "Paraguay – Caaguazú (Capital de la Madera & Trap Industrial)",
+  "flag": "🇵🇾",
+  "currency": "PYG (₲) / USD ($)",
+  "currencyCode": "PYG",
+  "gateways": "Tigo Money, Zimple, Bancard, Tarjetas, Apple Pay, PayPal",
+  "pro": "APA",
+  "proFullName": "APA",
+  "proGuide": "100% libre de reclamos de Content ID.",
+  "headline": "Beats en Caaguazú: Capital Maderera, Golpes Pesados & Trap Criollo",
+  "description": "El nervio del departamento maderero: percusiones de madera dura, cajas metálicas y bajos 808 demoledores diseñados para el rap callejero de tierra adentro.",
+  "popularGenres": [
+    "Caaguazú Timber Trap",
+    "Maderero Street Beat",
+    "Tierra Adentro 595"
+  ],
+  "subClusters": []
+},
+  "py/filadelfia-chaco-central": {
+  "slug": "py/filadelfia-chaco-central",
+  "name": "Paraguay – Filadelfia (Chaco Central & Western Boreal Trap)",
+  "flag": "🇵🇾",
+  "currency": "PYG (₲) / USD ($)",
+  "currencyCode": "PYG",
+  "gateways": "Tigo Money, Zimple, Bancard, Tarjetas, Apple Pay, PayPal",
+  "pro": "APA",
+  "proFullName": "APA",
+  "proGuide": "100% original con entrega de stems multitrack.",
+  "headline": "Beats en Filadelfia: Inmensidad del Chaco Boreal, Guitarras Secas & 808s",
+  "description": "La soledad y la inmensidad del Chaco paraguayo: rasgueos camperos de guitarra acústica, vientos áridos y baterías de trap pausado para historias de frontera e identidad única.",
+  "popularGenres": [
+    "Chaco Western Trap",
+    "Filadelfia Frontier Beat",
+    "Boreal Acoustic Flow"
+  ],
+  "subClusters": []
+},
+  "py/nemby-central-sur": {
+  "slug": "py/nemby-central-sur",
+  "name": "Paraguay – Ñemby (Cerro Ñemby & Movida RKT Central)",
+  "flag": "🇵🇾",
+  "currency": "PYG (₲) / USD ($)",
+  "currencyCode": "PYG",
+  "gateways": "Tigo Money, Zimple, Bancard, Tarjetas, Apple Pay, PayPal",
+  "pro": "APA",
+  "proFullName": "APA",
+  "proGuide": "Licencias con derechos mundiales de monetización.",
+  "headline": "Beats en Ñemby: Canteras del Cerro, RKT Bailable & Flow Popular",
+  "description": "La vitalidad del sur del área metropolitana: ritmos sincopados de cumbia y RKT a 100 BPM, sintetizadores agudos y bajos que retumban en boliches y autos modificados.",
+  "popularGenres": [
+    "Ñemby RKT",
+    "Cerro Ñemby Beat",
+    "Central Sur Party"
+  ],
+  "subClusters": []
+},
 };
