@@ -95460,4 +95460,1297 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "1"
   ]
 },
+  {
+  "slug": "gson-flow-metrico-rnb-trap",
+  "title": "Gson Flow Métrico R&B-Trap & Harmonias Vocais Beat",
+  "description": "Instrumental cativante e melódico inspirado em Gson (Wet Bed Gang / 5 Estrelas / Voar), com acordes doces de piano, sintetizadores aéreos, linhas de baixo pulsantes e espaço perfeito para harmonias vocais e cadências métricas rápidas.",
+  "targetKeywords": [
+    "gson type beat",
+    "gson wet bed gang instrumental",
+    "flow metrico trap beat",
+    "rnb melodico portugal beat",
+    "beat gson voar"
+  ],
+  "heroCta": "Comprar Beat Gson (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "R&B-Trap Contemporâneo, Single Melódico e Canção de Rádio",
+  "similarArtists": [
+    "Gson",
+    "Wet Bed Gang",
+    "T-Rex",
+    "Plutónio"
+  ],
+  "recommendedBpm": "115-125 BPM",
+  "productionTips": "Arranjo com sintetizadores modulados, claps estalados e sub-baixo melódico com notas de passagem.",
+  "idealVocalStyle": "Vocal versátil capaz de alternar entre rimas rápidas sincopadas e refrões cantados de alto impacto.",
+  "suggestedKey": "Ab Minor",
+  "streamingSuitability": "Potencial gigantesco para tabelas de streaming em Portugal e plataformas de música luso-africana."
+},
+  {
+  "slug": "nenny-afro-pop-rnb-banger",
+  "title": "Nenny Afro-Pop & R&B Melódico com Batida Vibrante Beat",
+  "description": "Instrumental alegre, contagiante e fresco inspirado em Nenny (Sushi, Bússola, Mar Azul), combinando percussões saltitantes de afro-pop, acordes vibrantes de marimba e um groove contagiante que fica no ouvido.",
+  "targetKeywords": [
+    "nenny type beat",
+    "afro pop portugal beat",
+    "sushi nenny instrumental",
+    "bussola beat nenny",
+    "afro beat melodico portugues"
+  ],
+  "heroCta": "Comprar Beat Nenny (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Afro-Pop Comercial, Hit de Rádio e Tendência de TikTok",
+  "similarArtists": [
+    "Nenny",
+    "Pongo",
+    "Blaya",
+    "Iza"
+  ],
+  "recommendedBpm": "105-112 BPM",
+  "productionTips": "Percussões de marimba e kalimba estéreo com bumbo arredondado e caixa estalada com swing.",
+  "idealVocalStyle": "Voz jovem, ritmada, cheia de carisma e com ganchos vocais fáceis de memorizar.",
+  "suggestedKey": "C Major",
+  "streamingSuitability": "Ideal para viralizar nas redes sociais e entrar diretamente em playlists de música de verão."
+},
+  {
+  "slug": "valete-rap-consciente-politico",
+  "title": "Valete Rap Político Consciente & Metais Dramáticos Beat",
+  "description": "Instrumental épico e impactante inspirado na lenda viva Valete (Educação Visual, Serviço Público, Roleta Russa): metais triunfantes, cordas cinematográficas orquestradas e uma bateria pesada de boom bap com poder de intervenção.",
+  "targetKeywords": [
+    "valete type beat",
+    "rap politico portugues beat",
+    "servico publico instrumental",
+    "boom bap orquestral portugal",
+    "valete instrumental"
+  ],
+  "heroCta": "Comprar Beat Valete (WAV Mastered)",
+  "energyLevel": "Very High",
+  "primaryUse": "Rap de Intervenção, Canção Manifesta e Faixa Cinematográfica",
+  "similarArtists": [
+    "Valete",
+    "Sam The Kid",
+    "Chullage",
+    "Immortal Technique"
+  ],
+  "recommendedBpm": "86-92 BPM",
+  "productionTips": "Metais e trompas teatrais misturados com caixas acústicas secas e sub-baixo analógico encorpado.",
+  "idealVocalStyle": "Voz cavernosa e autoritária, dicção implacável e liricismo focado em reflexão social.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "O formato supremo para obras de rap consciente e videoclipes com mensagem contundente."
+},
+  {
+  "slug": "kura-electronic-rave-trap-portugal",
+  "title": "Festival Rave Trap & Supersaw Eletrónico Portugal Beat",
+  "description": "Instrumental de alta octanagem para festivais eletrónicos (Super Bock Super Rock, MEO Sudoeste, NOS Alive): sintetizadores supersaw brilhantes, sub-quedas de 150 BPM e bumbos destruidores de recintos.",
+  "targetKeywords": [
+    "festival trap portugal beat",
+    "electronic rave trap instrumental",
+    "kura style trap beat",
+    "edm trap festival banger",
+    "150 bpm trap rave beat"
+  ],
+  "heroCta": "Comprar Festival Rave Beat (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Atuação em Festivais, Hino de Palco Principal e DJ Set de Trap",
+  "similarArtists": [
+    "Kura",
+    "Branko",
+    "Hardwell",
+    "Yellow Claw"
+  ],
+  "recommendedBpm": "145-150 BPM",
+  "productionTips": "Quedas massivas com camadas de supersaws abertos, ruído branco e sub-bass de 35Hz sem cortes.",
+  "idealVocalStyle": "Gritos de animação de multidão, rimas curtas e enérgicas e palavras de ordem.",
+  "suggestedKey": "F Minor",
+  "streamingSuitability": "Concebido para explosões de adrenalina em palcos gigantes e eventos desportivos."
+},
+  {
+  "slug": "chullage-hip-hop-resistencia-tejo",
+  "title": "Chullage Rap de Resistência Margem Sul & Linhas Dub Reggae Beat",
+  "description": "Batida profunda de rap de resistência inspirada no pioneiro Chullage (Rapresas, Rap Notícias): linhas de baixo inspiradas no dub jamaicano, guitarras com eco de fita e ritmo firme com alma de protesto.",
+  "targetKeywords": [
+    "chullage type beat",
+    "rap de resistencia portugal",
+    "dub reggae rap beat margem sul",
+    "chullage instrumental",
+    "rap noticias type beat"
+  ],
+  "heroCta": "Comprar Beat Chullage (WAV 24-bit)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Rap de Mensagem, Intervenção Poética e Faixas de Resistência Social",
+  "similarArtists": [
+    "Chullage",
+    "Valete",
+    "Sir Scratch",
+    "General D"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "productionTips": "Baixo com filtro passa-baixo expressivo estilo dub com guitarras secas em contratempo.",
+  "idealVocalStyle": "Entrega poética rascante, versos de denúncia e firmeza rítmica inegociável.",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "Perfeito para projetos de culto, documentários sociais e canais de ativismo cultural."
+},
+  {
+  "slug": "lon3r-johny-rage-hyperpop-trap",
+  "title": "Lon3r Johny Rage Trap & Sintetizadores Hyperpop com Distorção Beat",
+  "description": "Instrumental frenético e rebelde de Rage Trap inspirado em Lon3r Johny (GT3, Death Note, Anti-Social): leads de sintetizador 8-bit com distorção, caixas ultrarrápidas e graves 808 que distorcem suavemente as colunas.",
+  "targetKeywords": [
+    "lon3r johny type beat",
+    "rage trap portugal beat",
+    "gt3 lon3r johny instrumental",
+    "hyperpop trap beat tuga",
+    "lon3r johny instrumental"
+  ],
+  "heroCta": "Comprar Rage Trap Beat (WAV Mastered)",
+  "energyLevel": "Very High",
+  "primaryUse": "Rage Trap, Moshpit Banger e Videoclipe com Efeitos Cibernéticos",
+  "similarArtists": [
+    "Lon3r Johny",
+    "ProfJam",
+    "Playboi Carti",
+    "Trippie Redd"
+  ],
+  "recommendedBpm": "142-150 BPM",
+  "productionTips": "Leads sintetizados em dente de serra com saturação ótica e baixos 808 esmagados com corte em 120Hz.",
+  "idealVocalStyle": "Vozes agudas com autotune extremo, ad-libs constantes e gritos cheios de energia.",
+  "suggestedKey": "E Minor",
+  "streamingSuitability": "O formato predileto para a geração Z, concertos com moshpit e canais de trap visual."
+},
+  {
+  "slug": "holly-hood-super-villain-dark-trap",
+  "title": "Holly Hood Super-Vilão Dark Trap & Sub-Grave Lisboa Beat",
+  "description": "Instrumental sombrio, calculista e imponente inspirado em Holly Hood (Cobras e Ratos, Fácil, Carteira do Povo): sintetizadores industriais assustadores, baixos 808 colossais e atitude destemida de super-vilão urbano.",
+  "targetKeywords": [
+    "holly hood type beat",
+    "cobras e ratos instrumental",
+    "dark trap lisboa beat",
+    "facil holly hood beat",
+    "super vilao trap portugal"
+  ],
+  "heroCta": "Comprar Beat Holly Hood (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Dark Trap, Entrada Triunfante e Videoclipes de Grande Produção",
+  "similarArtists": [
+    "Holly Hood",
+    "No Maka",
+    "Here's Johnny",
+    "Piruka"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "productionTips": "Arranjo minimalista e agressivo com espaço enorme para o vocal e percussões secas e precisas.",
+  "idealVocalStyle": "Voz grave e confiante, delivery pausado com sarcasmo e autoridade inquestionável.",
+  "suggestedKey": "C# Minor",
+  "streamingSuitability": "Insuperável para canções imponentes que dominam a cena urbana e playlists de ginásio."
+},
+  {
+  "slug": "mishlawi-international-melodic-trap",
+  "title": "Mishlawi Trap Melódico Internacional & Acordes de Guitarra Beat",
+  "description": "Vibe sofisticada de trap melódico e R&B cosmopolita inspirada em Mishlawi (All Night, Limbo, Always on My Mind): guitarras limpas e elegantes, acordes luxuosos de piano elétrico e uma bateria suave e moderna.",
+  "targetKeywords": [
+    "mishlawi type beat",
+    "all night mishlawi instrumental",
+    "international trap portugal beat",
+    "melodic trap rnb lisboa",
+    "limbo type beat"
+  ],
+  "heroCta": "Comprar Beat Mishlawi (Stems Multitrack)",
+  "energyLevel": "High",
+  "primaryUse": "Trap Melódico Internacional, Single de Rádio e Videoclipe Estético",
+  "similarArtists": [
+    "Mishlawi",
+    "Richie Campbell",
+    "Post Malone",
+    "Plutónio"
+  ],
+  "recommendedBpm": "100-108 BPM",
+  "productionTips": "Guitarras limpas com reverberação ampla, claps estalados e 808 afinado sem frequências ásperas.",
+  "idealVocalStyle": "Vocal fluído em inglês ou português com autotune melódico suave e bom controlo de falsete.",
+  "suggestedKey": "G Major",
+  "streamingSuitability": "Ideal para cruzar fronteiras entre o mercado português, o resto da Europa e os EUA."
+},
+  {
+  "slug": "papillon-deep-soul-conscious-rap",
+  "title": "Papillon Rap Consciente & Baixo Orgânico com Alma Soul Beat",
+  "description": "Produção rica, orgânica e profunda inspirada em Papillon (Deepak Chopra, Impressão Digital, J玩): linhas de contrabaixo com calor acústico, teclas com acordes de neo-soul e bateria de hip-hop com humanização viva.",
+  "targetKeywords": [
+    "papillon type beat",
+    "deepak chopra beat papillon",
+    "soul rap portugal beat",
+    "slow j papillon instrumental",
+    "hip hop organico tuga"
+  ],
+  "heroCta": "Comprar Beat Papillon (WAV Mastered)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Rap Poético, Canção com Instrumentos Vivos e Álbum Conceptual",
+  "similarArtists": [
+    "Papillon",
+    "Slow J",
+    "Lhast",
+    "Mundo Segundo"
+  ],
+  "recommendedBpm": "84-90 BPM",
+  "productionTips": "Contrabaixo acústico ou sintetizador Moog quente com piano Rhodes passado por fita magnética.",
+  "idealVocalStyle": "Rimas reflexivas, inteligência emocional na escrita e versatilidade melódica.",
+  "suggestedKey": "F Minor",
+  "streamingSuitability": "Perfeito para críticos de música, rádios de autor (como a Antena 3) e projetos premiados."
+},
+  {
+  "slug": "cais-do-sodre-nightlife-club-trap",
+  "title": "Cais do Sodré Rua Cor-de-Rosa Nightlife Trap & Club Banger Beat",
+  "description": "A vibração noctívaga, elétrica e cosmopolita da Rua Cor-de-Rosa do Cais do Sodré: sintetizadores de clube a pulsar, percussões cintilantes e bumbos que fazem tremer as pistas de dança lisboetas.",
+  "targetKeywords": [
+    "cais do sodre club trap",
+    "rua cor de rosa lisboa beat",
+    "nightlife trap portugal instrumental",
+    "banger de discoteca lisboa",
+    "club trap lisboa 808"
+  ],
+  "heroCta": "Comprar Beat Cais do Sodré (Uso Ilimitado)",
+  "energyLevel": "Very High",
+  "primaryUse": "Noites de Clube, Festas Urbanas e Videoclipes Nocturnos",
+  "similarArtists": [
+    "Branko",
+    "No Maka",
+    "DJ Ride",
+    "Stereossauro"
+  ],
+  "recommendedBpm": "128-134 BPM",
+  "productionTips": "Sintetizadores com modulação sidechain agressiva sobre um bumbo gordo e percussões nítidas.",
+  "idealVocalStyle": "Refrões de festa, letras hedonistas sobre noites na cidade e entoações energéticas.",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "Excelente para DJs de clubes e playlists de festa pré-saída à noite."
+},
+  {
+  "slug": "sintra-nevoeiro-mystic-dark-trap",
+  "title": "Sintra Nevoeiro Místico & Pianos Sombrios com Reverb Épico Beat",
+  "description": "Inspirado na mística inconfundível da serra e palácios de Sintra envoltos em nevoeiro: sinos solenes, acordes góticos de piano em tons menores e reverberações monumentais com baixos de tremer o solo.",
+  "targetKeywords": [
+    "sintra dark trap beat",
+    "nevoeiro de sintra instrumental",
+    "mystic trap piano portugal",
+    "palacio da pena cinematic beat",
+    "dark ambient trap tuga"
+  ],
+  "heroCta": "Comprar Sintra Mystic Beat (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Trap Cinematográfico, Trailer de Álbum e Rap de Atmosfera Sombria",
+  "similarArtists": [
+    "Here's Johnny",
+    "Holly Hood",
+    "Dillaz",
+    "Travis Scott"
+  ],
+  "recommendedBpm": "134-140 BPM",
+  "productionTips": "Piano de cauda com reverberação de catedral e compressão paralela sobre slides de 808 profundos.",
+  "idealVocalStyle": "Flow misterioso e contido, rimas enigmáticas e presença cénica envolvente.",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "O instrumental de eleição para videoclipes estéticos na serra e aberturas de concertos."
+},
+  {
+  "slug": "tuga-drill-vs-uk-drill-fusion",
+  "title": "Tuga Drill x UK Drill London to Lisbon Sliding 808s Beat",
+  "description": "A derradeira ponte sonora entre as ruas de Londres e a periferia de Lisboa: caixas sincopadas de drill inglês, padrões complexos de contratempo e slides brutais de 808 para MCs de calibre internacional.",
+  "targetKeywords": [
+    "tuga drill uk drill fusion beat",
+    "london to lisbon drill beat",
+    "drill 808 sliding portugal",
+    "uk drill beat portugues",
+    "drill crioulo lisboa london"
+  ],
+  "heroCta": "Comprar Tuga x UK Drill (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Drill Internacional, Cyphers e Desafios de Rimas em Vídeo",
+  "similarArtists": [
+    "Central Cee",
+    "Russ Millions",
+    "NGA",
+    "Trigga"
+  ],
+  "recommendedBpm": "142-145 BPM",
+  "productionTips": "Três camadas de hi-hats com automação de pan estéreo e sub-grave 808 com portamento longo.",
+  "idealVocalStyle": "Métrica impecável de drill, rimas velozes e trocas linguísticas entre português e inglês.",
+  "suggestedKey": "F# Minor",
+  "streamingSuitability": "Garante alta circulação em canais europeus de drill e visualizações no TikTok."
+},
+  {
+  "slug": "beats-de-trap-baratos-mb-way-portugal",
+  "title": "Beats de Trap Baratos desde 15€ com MB Way (Para MCs Emergentes)",
+  "description": "Instrumentais de trap acessíveis e com qualidade de topo para novos talentos da música urbana em Portugal a partir de 15€, com pagamento imediato e sem complicações via MB Way.",
+  "targetKeywords": [
+    "beats de trap baratos mb way portugal",
+    "comprar beats 15 euros portugal",
+    "instrumentais baratos trap tuga",
+    "beats acessiveis mbway lisboa porto"
+  ],
+  "heroCta": "Ver Beats Baratos (A Partir de 15€ via MB Way)",
+  "energyLevel": "High",
+  "primaryUse": "Primeiros Lançamentos, Demonstrações em Home Studio e Mixtapes",
+  "similarArtists": [
+    "Novos Talentos do Rap Português"
+  ],
+  "recommendedBpm": "130-142 BPM",
+  "productionTips": "Arranjos estruturados em verso-refrão direto, ideais para gravação rápida de vocais.",
+  "idealVocalStyle": "Vozes jovens a desenvolver a sua identidade no rap e trap nacional.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Licença comercial válida até 25.000 reproduções no Spotify e Apple Music."
+},
+  {
+  "slug": "instrumentais-rnb-trap-comercial-wav",
+  "title": "Instrumentais de R&B-Trap Comercial com Guitarras e Pianos em WAV",
+  "description": "Produções profissionais e radiofónicas de R&B-Trap com melodias suaves de guitarra e teclado Rhodes entregues em áudio WAV 24-bit de alta definição para estúdio.",
+  "targetKeywords": [
+    "instrumentais rnb trap comercial wav",
+    "beats rnb portugal wav 24bit",
+    "t-rex style rnb trap beat",
+    "comprar instrumental comercial lisboa"
+  ],
+  "heroCta": "Comprar R&B-Trap Beat (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Single Comercial para Rádio, Videoclipe de Amor Urbano e Spotify",
+  "similarArtists": [
+    "T-Rex",
+    "Plutónio",
+    "Gson",
+    "Diogo Piçarra"
+  ],
+  "recommendedBpm": "105-115 BPM",
+  "productionTips": "Gravação com pré-amplificadores quentes e compressão suave nos elementos melódicos.",
+  "idealVocalStyle": "Interpretação cantada suave, linhas melódicas emotivas e refrões com pegada pop.",
+  "suggestedKey": "F# Minor",
+  "streamingSuitability": "Excelente aceitação em rádios de grande audiência como Mega Hits e Cidade FM."
+},
+  {
+  "slug": "bases-de-drill-pesadas-808-portugal",
+  "title": "Bases de Drill Pesadas com 808 Deslizante para Estúdios de Portugal",
+  "description": "Bases brutais de drill underground com baixos 808 agressivos afinados e slides de duas oitavas prontas para gravar nos melhores estúdios de Lisboa, Porto e arredores.",
+  "targetKeywords": [
+    "bases de drill pesadas 808 portugal",
+    "drill pesado lisboa instrumental",
+    "comprar base drill 808 chelas",
+    "instrumental drill agressivo tuga"
+  ],
+  "heroCta": "Comprar Base de Drill (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Gravação Profissional de Drill, Videoclipes de Impacto e Batalhas",
+  "similarArtists": [
+    "Drill Crioulo",
+    "NGA",
+    "Central Cee",
+    "Headie One"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Distorção harmónica no 808 para tocar com definição tanto em colunas grandes como no telemóvel.",
+  "idealVocalStyle": "Rimas cruas de rua, métrica afiada e entrega vocal imponente sem hesitações.",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "Projetado para obter grande repercussão em vídeos de drill do YouTube e TikTok."
+},
+  {
+  "slug": "beats-afro-pop-radio-hit-portugal",
+  "title": "Beats de Afro-Pop e Afrobeats a 105 BPM para Rotação em Rádios",
+  "description": "Instrumentais solares e contagiantes de Afro-Pop a 105 BPM combinando guitarras tropicais, percussões vivas e melodias desenhadas para conquistar as rádios nacionais portuguesas.",
+  "targetKeywords": [
+    "beats afro pop radio hit portugal",
+    "afrobeats 105 bpm instrumental lisboa",
+    "nenny soraia ramos style beat",
+    "afro pop comercial comprar portugal"
+  ],
+  "heroCta": "Comprar Beat Afro-Pop (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Canção de Verão para Rádio, Hit de Festival e Lançamento Comercial",
+  "similarArtists": [
+    "Nenny",
+    "Soraia Ramos",
+    "Calema",
+    "Burna Boy"
+  ],
+  "recommendedBpm": "104-108 BPM",
+  "productionTips": "Percussão mista acústica e digital com abertura panorâmica estereofónica cristalina.",
+  "idealVocalStyle": "Voz cativante, refrão explosivo para multidões e versos com cadência ritmada.",
+  "suggestedKey": "A Major",
+  "streamingSuitability": "Garante alta taxa de retenção em playlists de verão e festas universitárias."
+},
+  {
+  "slug": "contrato-cessao-direitos-exclusivos-spa",
+  "title": "Contrato de Cessão de Direitos Exclusivos com Minuta SPA em PDF",
+  "description": "Documento legal de cessão irrevogável de direitos patrimoniais de instrumentais formulado segundo a lei portuguesa, pronto a anexar ao registo oficial na SPA.",
+  "targetKeywords": [
+    "contrato cessao direitos exclusivos spa pdf",
+    "minuta de contrato de producao musical portugal",
+    "termo cessao beatmaker spa autores",
+    "documento legal compra beat portugal"
+  ],
+  "heroCta": "Descarregar Minuta SPA de Exclusividade (PDF)",
+  "energyLevel": "N/A",
+  "primaryUse": "Segurança Jurídica na Compra Exclusiva, Registo na SPA e Editoras",
+  "similarArtists": [
+    "Onzieb",
+    "Advogados de Direito de Autor em Portugal"
+  ],
+  "recommendedBpm": "Todos os Tempos",
+  "productionTips": "Cláusulas completas sobre distribuição digital, sincronização e apresentações ao vivo.",
+  "idealVocalStyle": "Válido para qualquer obra e intérprete.",
+  "suggestedKey": "Todas",
+  "streamingSuitability": "Proteção patrimonial máxima para carreiras apoiadas por investidores ou editoras."
+},
+  {
+  "slug": "compra-beats-online-multibanco-referencia",
+  "title": "Comprar Beats Online com Referência Multibanco (Caixas ATM & Homebanking)",
+  "description": "Paga os teus instrumentais comodamente através de Entidade e Referência Multibanco em qualquer caixa ATM de Portugal ou pela aplicação do teu banco habitual.",
+  "targetKeywords": [
+    "comprar beats com referencia multibanco",
+    "pagar instrumental multibanco portugal",
+    "beats online entidade e referencia atm",
+    "loja de beats portugal multibanco"
+  ],
+  "heroCta": "Pagar com Referência Multibanco (€)",
+  "energyLevel": "Universal",
+  "primaryUse": "Aquisição Rápida e Segura de Beats Sem Cartão de Crédito",
+  "similarArtists": [
+    "Produtores e Artistas de Todo o País"
+  ],
+  "recommendedBpm": "Qualquer BPM",
+  "productionTips": "Geração instantânea dos dados de pagamento com validação automática 24 horas por dia.",
+  "idealVocalStyle": "Acessível a todos os criadores musicais em território nacional.",
+  "suggestedKey": "Todas",
+  "streamingSuitability": "Permite acesso imediato à licença de utilização comercial logo após o pagamento."
+},
+  {
+  "slug": "pacote-beats-boom-bap-old-school-tuga",
+  "title": "Pacote de Beats Boom Bap Old School Tuga (Poupe 40% em 5 Beats)",
+  "description": "Pack especial com 5 instrumentais selecionados de puro Boom Bap e Rap Underground dos anos 90 com caixas secas e samples de vinil, com desconto direto de 40% em euros.",
+  "targetKeywords": [
+    "pacote beats boom bap portugal",
+    "5 beats boom bap tuga desconto",
+    "comprar lote de beats hip hop lisboa",
+    "deal boom bap old school porto"
+  ],
+  "heroCta": "Comprar Pack 5 Beats Boom Bap (-40%)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Gravação de EP ou Mixtape Completa de Boom Bap Clássico",
+  "similarArtists": [
+    "Sam The Kid",
+    "Dealema",
+    "Mundo Segundo",
+    "Valete"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "productionTips": "Unidade sonora garantida com calor analógico constante ao longo de todas as 5 faixas.",
+  "idealVocalStyle": "Rappers fiéis à cultura com barras profundas e respeito pelas raízes.",
+  "suggestedKey": "Várias Tonalidades",
+  "streamingSuitability": "Licença multi-projeto incluída para lançar um projeto musical coeso."
+},
+  {
+  "slug": "mix-master-com-beats-portugal-onzieb",
+  "title": "Produção Musical, Mistura & Masterização por Produtor Onzieb via WhatsApp",
+  "description": "Pacote completo de instrumental personalizado acompanhado de serviços de mistura vocal e masterização de alta precisão para artistas em Portugal com assistência por WhatsApp.",
+  "targetKeywords": [
+    "mistura e masterizacao beats portugal",
+    "produtor onzieb servico mix master",
+    "gravar com produtor lisboa porto whatsapp",
+    "masterizar musica trap rap portugal"
+  ],
+  "heroCta": "Falar sobre Produção & Mistura no WhatsApp",
+  "energyLevel": "Custom",
+  "primaryUse": "Lançamento de Alto Nível Técnico, Apresentação a Editoras e Rádios",
+  "similarArtists": [
+    "Onzieb",
+    "Artistas Profissionais de Portugal"
+  ],
+  "recommendedBpm": "À escolha do artista",
+  "productionTips": "Tratamento de voz com equalização cirúrgica, autotune profissional e saturação valvulada.",
+  "idealVocalStyle": "Voz gravada em estúdio ou em home studio com bom microfone.",
+  "suggestedKey": "Personalizada",
+  "streamingSuitability": "Entrega nos parâmetros estritos da indústria internacional (-14 LUFS para Spotify)."
+},
+  {
+  "slug": "beats-trap-soul-guitarra-acustica-portugal",
+  "title": "Beats de Trap-Soul com Guitarras Acústicas e Acordes Emocionais",
+  "description": "Fusão intimista de trap suave com acordes dedilhados de guitarra acústica e sintetizadores vintage, criando o ambiente perfeito para canções confessionais e nostálgicas.",
+  "targetKeywords": [
+    "beats trap soul guitarra acustica portugal",
+    "guitar trap soul beat lisboa",
+    "instrumental emotivo rap portugues",
+    "dillaz slow j acoustic trap beat"
+  ],
+  "heroCta": "Comprar Trap-Soul Acústico (WAV 24-bit)",
+  "energyLevel": "Medium",
+  "primaryUse": "Trap-Soul Melódico, Canção Íntima e Gravação de Vídeo Acústico",
+  "similarArtists": [
+    "Slow J",
+    "Dillaz",
+    "Frankieonthetrack",
+    "Papillon"
+  ],
+  "recommendedBpm": "120-130 BPM (Half-time 60-65)",
+  "productionTips": "Acústica com arpejos naturais e caixas com reverberação plate curta.",
+  "idealVocalStyle": "Canto emotivo com dinâmicas sussurradas e refrões intensos.",
+  "suggestedKey": "B Minor",
+  "streamingSuitability": "Grande tração em playlists acústicas e de rap emotivo."
+},
+  {
+  "slug": "drum-kit-trap-tuga-e-amostras-gratis",
+  "title": "Download Grátis de Drum Kit Trap Tuga e Amostras de Percussão em WAV",
+  "description": "Descarrega gratuitamente o pack oficial de percussões de Trap Tuga e Batida de Lisboa com 25 sons (808s afinados, caixas estaladas, claps e hi-hats) em WAV 24-bit.",
+  "targetKeywords": [
+    "drum kit trap tuga gratis download",
+    "amostras percussao rap portugues wav",
+    "808 afinados trap lisboa download",
+    "free samples tuga drill batida"
+  ],
+  "heroCta": "Descarregar Drum Kit Grátis (WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Produção Musical, Criação de Beats e Beatmaking em Portugal",
+  "similarArtists": [
+    "Beatmakers e Produtores de Portugal"
+  ],
+  "recommendedBpm": "Compatível com qualquer BPM",
+  "productionTips": "Sons processados e masterizados individualmente prontos para arrastar para a DAW.",
+  "idealVocalStyle": "Ideal para beatmakers e produtores que criam para vocalistas.",
+  "suggestedKey": "808s afinados em Dó (C)",
+  "streamingSuitability": "Sons 100% royalty-free para utilização nas tuas próprias produções comerciais."
+},
+  {
+  "slug": "cascais-tuga-trap-808",
+  "name": "Cascais Beats de Trap Tuga 808",
+  "category": "scene",
+  "badge": "Cascais Trap Tuga",
+  "headline": "Cascais (Linha de Cascais & Estoril) Beats de Trap Tuga 808: Áudio WAV 24-Bit & MB Way Imediato",
+  "description": "Graves 808 pesados, sintetizadores cortantes e claps vibrantes produzidos para artistas e MCs em Cascais.",
+  "targetArtists": [
+    "Artistas de Cascais",
+    "Comunidade Hip-Hop de Portugal",
+    "Cena Urbana Luso-Africana"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Cascais",
+    "Trap Tuga",
+    "MB Way & Multibanco (€)",
+    "Conforme com a SPA"
+  ],
+  "popularGenres": [
+    "Beats de Trap Tuga 808",
+    "Trap Tuga",
+    "Rap Português"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "cascais-tuga-drill-crioulo",
+  "name": "Cascais Beats de Tuga Drill & Drill Crioulo",
+  "category": "scene",
+  "badge": "Cascais Drill Crioulo",
+  "headline": "Cascais (Linha de Cascais & Estoril) Beats de Tuga Drill & Drill Crioulo: Áudio WAV 24-Bit & MB Way Imediato",
+  "description": "Pianos escuros em tons menores, caixas afiadas e slides agressivos de baixo 808 para rimas duras em Cascais.",
+  "targetArtists": [
+    "Artistas de Cascais",
+    "Comunidade Hip-Hop de Portugal",
+    "Cena Urbana Luso-Africana"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "G-Minor / E-Minor",
+  "vibeAttributes": [
+    "Cascais",
+    "Drill Crioulo",
+    "MB Way & Multibanco (€)",
+    "Conforme com a SPA"
+  ],
+  "popularGenres": [
+    "Beats de Tuga Drill & Drill Crioulo",
+    "Trap Tuga",
+    "Rap Português"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "cascais-afro-trap-melodico",
+  "name": "Cascais Beats de Afro-Trap Melódico",
+  "category": "scene",
+  "badge": "Cascais Afro-Trap",
+  "headline": "Cascais (Linha de Cascais & Estoril) Beats de Afro-Trap Melódico: Áudio WAV 24-Bit & MB Way Imediato",
+  "description": "Guitarras quentes, percussões sincopadas de afrobeat e acordes doces de R&B desenhados para vozes em Cascais.",
+  "targetArtists": [
+    "Artistas de Cascais",
+    "Comunidade Hip-Hop de Portugal",
+    "Cena Urbana Luso-Africana"
+  ],
+  "recommendedBpm": "100-108 BPM",
+  "recommendedKey": "F#-Minor / A-Minor",
+  "vibeAttributes": [
+    "Cascais",
+    "Afro-Trap",
+    "MB Way & Multibanco (€)",
+    "Conforme com a SPA"
+  ],
+  "popularGenres": [
+    "Beats de Afro-Trap Melódico",
+    "Trap Tuga",
+    "Rap Português"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "cascais-boom-bap-classico",
+  "name": "Cascais Beats de Boom Bap Clássico MPC",
+  "category": "scene",
+  "badge": "Cascais Boom Bap Tuga",
+  "headline": "Cascais (Linha de Cascais & Estoril) Beats de Boom Bap Clássico MPC: Áudio WAV 24-Bit & MB Way Imediato",
+  "description": "Textura autêntica de vinil, caixas secas estaladas e samples de soul da velha guarda para os MCs de Cascais.",
+  "targetArtists": [
+    "Artistas de Cascais",
+    "Comunidade Hip-Hop de Portugal",
+    "Cena Urbana Luso-Africana"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Cascais",
+    "Boom Bap Tuga",
+    "MB Way & Multibanco (€)",
+    "Conforme com a SPA"
+  ],
+  "popularGenres": [
+    "Beats de Boom Bap Clássico MPC",
+    "Trap Tuga",
+    "Rap Português"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "sintra-tuga-trap-808",
+  "name": "Sintra Beats de Trap Tuga 808",
+  "category": "scene",
+  "badge": "Sintra Trap Tuga",
+  "headline": "Sintra (Agualva-Cacém & Linha Sintra) Beats de Trap Tuga 808: Áudio WAV 24-Bit & MB Way Imediato",
+  "description": "Graves 808 pesados, sintetizadores cortantes e claps vibrantes produzidos para artistas e MCs em Sintra.",
+  "targetArtists": [
+    "Artistas de Sintra",
+    "Comunidade Hip-Hop de Portugal",
+    "Cena Urbana Luso-Africana"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Sintra",
+    "Trap Tuga",
+    "MB Way & Multibanco (€)",
+    "Conforme com a SPA"
+  ],
+  "popularGenres": [
+    "Beats de Trap Tuga 808",
+    "Trap Tuga",
+    "Rap Português"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "sintra-tuga-drill-crioulo",
+  "name": "Sintra Beats de Tuga Drill & Drill Crioulo",
+  "category": "scene",
+  "badge": "Sintra Drill Crioulo",
+  "headline": "Sintra (Agualva-Cacém & Linha Sintra) Beats de Tuga Drill & Drill Crioulo: Áudio WAV 24-Bit & MB Way Imediato",
+  "description": "Pianos escuros em tons menores, caixas afiadas e slides agressivos de baixo 808 para rimas duras em Sintra.",
+  "targetArtists": [
+    "Artistas de Sintra",
+    "Comunidade Hip-Hop de Portugal",
+    "Cena Urbana Luso-Africana"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "G-Minor / E-Minor",
+  "vibeAttributes": [
+    "Sintra",
+    "Drill Crioulo",
+    "MB Way & Multibanco (€)",
+    "Conforme com a SPA"
+  ],
+  "popularGenres": [
+    "Beats de Tuga Drill & Drill Crioulo",
+    "Trap Tuga",
+    "Rap Português"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "sintra-afro-trap-melodico",
+  "name": "Sintra Beats de Afro-Trap Melódico",
+  "category": "scene",
+  "badge": "Sintra Afro-Trap",
+  "headline": "Sintra (Agualva-Cacém & Linha Sintra) Beats de Afro-Trap Melódico: Áudio WAV 24-Bit & MB Way Imediato",
+  "description": "Guitarras quentes, percussões sincopadas de afrobeat e acordes doces de R&B desenhados para vozes em Sintra.",
+  "targetArtists": [
+    "Artistas de Sintra",
+    "Comunidade Hip-Hop de Portugal",
+    "Cena Urbana Luso-Africana"
+  ],
+  "recommendedBpm": "100-108 BPM",
+  "recommendedKey": "F#-Minor / A-Minor",
+  "vibeAttributes": [
+    "Sintra",
+    "Afro-Trap",
+    "MB Way & Multibanco (€)",
+    "Conforme com a SPA"
+  ],
+  "popularGenres": [
+    "Beats de Afro-Trap Melódico",
+    "Trap Tuga",
+    "Rap Português"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "sintra-boom-bap-classico",
+  "name": "Sintra Beats de Boom Bap Clássico MPC",
+  "category": "scene",
+  "badge": "Sintra Boom Bap Tuga",
+  "headline": "Sintra (Agualva-Cacém & Linha Sintra) Beats de Boom Bap Clássico MPC: Áudio WAV 24-Bit & MB Way Imediato",
+  "description": "Textura autêntica de vinil, caixas secas estaladas e samples de soul da velha guarda para os MCs de Sintra.",
+  "targetArtists": [
+    "Artistas de Sintra",
+    "Comunidade Hip-Hop de Portugal",
+    "Cena Urbana Luso-Africana"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Sintra",
+    "Boom Bap Tuga",
+    "MB Way & Multibanco (€)",
+    "Conforme com a SPA"
+  ],
+  "popularGenres": [
+    "Beats de Boom Bap Clássico MPC",
+    "Trap Tuga",
+    "Rap Português"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "almada-tuga-trap-808",
+  "name": "Almada Beats de Trap Tuga 808",
+  "category": "scene",
+  "badge": "Almada Trap Tuga",
+  "headline": "Almada (Costa da Caparica & Margem Sul) Beats de Trap Tuga 808: Áudio WAV 24-Bit & MB Way Imediato",
+  "description": "Graves 808 pesados, sintetizadores cortantes e claps vibrantes produzidos para artistas e MCs em Almada.",
+  "targetArtists": [
+    "Artistas de Almada",
+    "Comunidade Hip-Hop de Portugal",
+    "Cena Urbana Luso-Africana"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Almada",
+    "Trap Tuga",
+    "MB Way & Multibanco (€)",
+    "Conforme com a SPA"
+  ],
+  "popularGenres": [
+    "Beats de Trap Tuga 808",
+    "Trap Tuga",
+    "Rap Português"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "almada-tuga-drill-crioulo",
+  "name": "Almada Beats de Tuga Drill & Drill Crioulo",
+  "category": "scene",
+  "badge": "Almada Drill Crioulo",
+  "headline": "Almada (Costa da Caparica & Margem Sul) Beats de Tuga Drill & Drill Crioulo: Áudio WAV 24-Bit & MB Way Imediato",
+  "description": "Pianos escuros em tons menores, caixas afiadas e slides agressivos de baixo 808 para rimas duras em Almada.",
+  "targetArtists": [
+    "Artistas de Almada",
+    "Comunidade Hip-Hop de Portugal",
+    "Cena Urbana Luso-Africana"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "G-Minor / E-Minor",
+  "vibeAttributes": [
+    "Almada",
+    "Drill Crioulo",
+    "MB Way & Multibanco (€)",
+    "Conforme com a SPA"
+  ],
+  "popularGenres": [
+    "Beats de Tuga Drill & Drill Crioulo",
+    "Trap Tuga",
+    "Rap Português"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "almada-afro-trap-melodico",
+  "name": "Almada Beats de Afro-Trap Melódico",
+  "category": "scene",
+  "badge": "Almada Afro-Trap",
+  "headline": "Almada (Costa da Caparica & Margem Sul) Beats de Afro-Trap Melódico: Áudio WAV 24-Bit & MB Way Imediato",
+  "description": "Guitarras quentes, percussões sincopadas de afrobeat e acordes doces de R&B desenhados para vozes em Almada.",
+  "targetArtists": [
+    "Artistas de Almada",
+    "Comunidade Hip-Hop de Portugal",
+    "Cena Urbana Luso-Africana"
+  ],
+  "recommendedBpm": "100-108 BPM",
+  "recommendedKey": "F#-Minor / A-Minor",
+  "vibeAttributes": [
+    "Almada",
+    "Afro-Trap",
+    "MB Way & Multibanco (€)",
+    "Conforme com a SPA"
+  ],
+  "popularGenres": [
+    "Beats de Afro-Trap Melódico",
+    "Trap Tuga",
+    "Rap Português"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "almada-boom-bap-classico",
+  "name": "Almada Beats de Boom Bap Clássico MPC",
+  "category": "scene",
+  "badge": "Almada Boom Bap Tuga",
+  "headline": "Almada (Costa da Caparica & Margem Sul) Beats de Boom Bap Clássico MPC: Áudio WAV 24-Bit & MB Way Imediato",
+  "description": "Textura autêntica de vinil, caixas secas estaladas e samples de soul da velha guarda para os MCs de Almada.",
+  "targetArtists": [
+    "Artistas de Almada",
+    "Comunidade Hip-Hop de Portugal",
+    "Cena Urbana Luso-Africana"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Almada",
+    "Boom Bap Tuga",
+    "MB Way & Multibanco (€)",
+    "Conforme com a SPA"
+  ],
+  "popularGenres": [
+    "Beats de Boom Bap Clássico MPC",
+    "Trap Tuga",
+    "Rap Português"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "barreiro-tuga-trap-808",
+  "name": "Barreiro Beats de Trap Tuga 808",
+  "category": "scene",
+  "badge": "Barreiro Trap Tuga",
+  "headline": "Barreiro (Baixa da Banheira & Tejo Sul) Beats de Trap Tuga 808: Áudio WAV 24-Bit & MB Way Imediato",
+  "description": "Graves 808 pesados, sintetizadores cortantes e claps vibrantes produzidos para artistas e MCs em Barreiro.",
+  "targetArtists": [
+    "Artistas de Barreiro",
+    "Comunidade Hip-Hop de Portugal",
+    "Cena Urbana Luso-Africana"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Barreiro",
+    "Trap Tuga",
+    "MB Way & Multibanco (€)",
+    "Conforme com a SPA"
+  ],
+  "popularGenres": [
+    "Beats de Trap Tuga 808",
+    "Trap Tuga",
+    "Rap Português"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "barreiro-tuga-drill-crioulo",
+  "name": "Barreiro Beats de Tuga Drill & Drill Crioulo",
+  "category": "scene",
+  "badge": "Barreiro Drill Crioulo",
+  "headline": "Barreiro (Baixa da Banheira & Tejo Sul) Beats de Tuga Drill & Drill Crioulo: Áudio WAV 24-Bit & MB Way Imediato",
+  "description": "Pianos escuros em tons menores, caixas afiadas e slides agressivos de baixo 808 para rimas duras em Barreiro.",
+  "targetArtists": [
+    "Artistas de Barreiro",
+    "Comunidade Hip-Hop de Portugal",
+    "Cena Urbana Luso-Africana"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "G-Minor / E-Minor",
+  "vibeAttributes": [
+    "Barreiro",
+    "Drill Crioulo",
+    "MB Way & Multibanco (€)",
+    "Conforme com a SPA"
+  ],
+  "popularGenres": [
+    "Beats de Tuga Drill & Drill Crioulo",
+    "Trap Tuga",
+    "Rap Português"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "barreiro-afro-trap-melodico",
+  "name": "Barreiro Beats de Afro-Trap Melódico",
+  "category": "scene",
+  "badge": "Barreiro Afro-Trap",
+  "headline": "Barreiro (Baixa da Banheira & Tejo Sul) Beats de Afro-Trap Melódico: Áudio WAV 24-Bit & MB Way Imediato",
+  "description": "Guitarras quentes, percussões sincopadas de afrobeat e acordes doces de R&B desenhados para vozes em Barreiro.",
+  "targetArtists": [
+    "Artistas de Barreiro",
+    "Comunidade Hip-Hop de Portugal",
+    "Cena Urbana Luso-Africana"
+  ],
+  "recommendedBpm": "100-108 BPM",
+  "recommendedKey": "F#-Minor / A-Minor",
+  "vibeAttributes": [
+    "Barreiro",
+    "Afro-Trap",
+    "MB Way & Multibanco (€)",
+    "Conforme com a SPA"
+  ],
+  "popularGenres": [
+    "Beats de Afro-Trap Melódico",
+    "Trap Tuga",
+    "Rap Português"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "barreiro-boom-bap-classico",
+  "name": "Barreiro Beats de Boom Bap Clássico MPC",
+  "category": "scene",
+  "badge": "Barreiro Boom Bap Tuga",
+  "headline": "Barreiro (Baixa da Banheira & Tejo Sul) Beats de Boom Bap Clássico MPC: Áudio WAV 24-Bit & MB Way Imediato",
+  "description": "Textura autêntica de vinil, caixas secas estaladas e samples de soul da velha guarda para os MCs de Barreiro.",
+  "targetArtists": [
+    "Artistas de Barreiro",
+    "Comunidade Hip-Hop de Portugal",
+    "Cena Urbana Luso-Africana"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Barreiro",
+    "Boom Bap Tuga",
+    "MB Way & Multibanco (€)",
+    "Conforme com a SPA"
+  ],
+  "popularGenres": [
+    "Beats de Boom Bap Clássico MPC",
+    "Trap Tuga",
+    "Rap Português"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "guimaraes-tuga-trap-808",
+  "name": "Guimarães Beats de Trap Tuga 808",
+  "category": "scene",
+  "badge": "Guimarães Trap Tuga",
+  "headline": "Guimarães (Vale do Ave & Berço Norte) Beats de Trap Tuga 808: Áudio WAV 24-Bit & MB Way Imediato",
+  "description": "Graves 808 pesados, sintetizadores cortantes e claps vibrantes produzidos para artistas e MCs em Guimarães.",
+  "targetArtists": [
+    "Artistas de Guimarães",
+    "Comunidade Hip-Hop de Portugal",
+    "Cena Urbana Luso-Africana"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Guimarães",
+    "Trap Tuga",
+    "MB Way & Multibanco (€)",
+    "Conforme com a SPA"
+  ],
+  "popularGenres": [
+    "Beats de Trap Tuga 808",
+    "Trap Tuga",
+    "Rap Português"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "guimaraes-tuga-drill-crioulo",
+  "name": "Guimarães Beats de Tuga Drill & Drill Crioulo",
+  "category": "scene",
+  "badge": "Guimarães Drill Crioulo",
+  "headline": "Guimarães (Vale do Ave & Berço Norte) Beats de Tuga Drill & Drill Crioulo: Áudio WAV 24-Bit & MB Way Imediato",
+  "description": "Pianos escuros em tons menores, caixas afiadas e slides agressivos de baixo 808 para rimas duras em Guimarães.",
+  "targetArtists": [
+    "Artistas de Guimarães",
+    "Comunidade Hip-Hop de Portugal",
+    "Cena Urbana Luso-Africana"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "G-Minor / E-Minor",
+  "vibeAttributes": [
+    "Guimarães",
+    "Drill Crioulo",
+    "MB Way & Multibanco (€)",
+    "Conforme com a SPA"
+  ],
+  "popularGenres": [
+    "Beats de Tuga Drill & Drill Crioulo",
+    "Trap Tuga",
+    "Rap Português"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "guimaraes-afro-trap-melodico",
+  "name": "Guimarães Beats de Afro-Trap Melódico",
+  "category": "scene",
+  "badge": "Guimarães Afro-Trap",
+  "headline": "Guimarães (Vale do Ave & Berço Norte) Beats de Afro-Trap Melódico: Áudio WAV 24-Bit & MB Way Imediato",
+  "description": "Guitarras quentes, percussões sincopadas de afrobeat e acordes doces de R&B desenhados para vozes em Guimarães.",
+  "targetArtists": [
+    "Artistas de Guimarães",
+    "Comunidade Hip-Hop de Portugal",
+    "Cena Urbana Luso-Africana"
+  ],
+  "recommendedBpm": "100-108 BPM",
+  "recommendedKey": "F#-Minor / A-Minor",
+  "vibeAttributes": [
+    "Guimarães",
+    "Afro-Trap",
+    "MB Way & Multibanco (€)",
+    "Conforme com a SPA"
+  ],
+  "popularGenres": [
+    "Beats de Afro-Trap Melódico",
+    "Trap Tuga",
+    "Rap Português"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "guimaraes-boom-bap-classico",
+  "name": "Guimarães Beats de Boom Bap Clássico MPC",
+  "category": "scene",
+  "badge": "Guimarães Boom Bap Tuga",
+  "headline": "Guimarães (Vale do Ave & Berço Norte) Beats de Boom Bap Clássico MPC: Áudio WAV 24-Bit & MB Way Imediato",
+  "description": "Textura autêntica de vinil, caixas secas estaladas e samples de soul da velha guarda para os MCs de Guimarães.",
+  "targetArtists": [
+    "Artistas de Guimarães",
+    "Comunidade Hip-Hop de Portugal",
+    "Cena Urbana Luso-Africana"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Guimarães",
+    "Boom Bap Tuga",
+    "MB Way & Multibanco (€)",
+    "Conforme com a SPA"
+  ],
+  "popularGenres": [
+    "Beats de Boom Bap Clássico MPC",
+    "Trap Tuga",
+    "Rap Português"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "leiria-tuga-trap-808",
+  "name": "Leiria Beats de Trap Tuga 808",
+  "category": "scene",
+  "badge": "Leiria Trap Tuga",
+  "headline": "Leiria (Pinhal Litoral & Centro) Beats de Trap Tuga 808: Áudio WAV 24-Bit & MB Way Imediato",
+  "description": "Graves 808 pesados, sintetizadores cortantes e claps vibrantes produzidos para artistas e MCs em Leiria.",
+  "targetArtists": [
+    "Artistas de Leiria",
+    "Comunidade Hip-Hop de Portugal",
+    "Cena Urbana Luso-Africana"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Leiria",
+    "Trap Tuga",
+    "MB Way & Multibanco (€)",
+    "Conforme com a SPA"
+  ],
+  "popularGenres": [
+    "Beats de Trap Tuga 808",
+    "Trap Tuga",
+    "Rap Português"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "leiria-tuga-drill-crioulo",
+  "name": "Leiria Beats de Tuga Drill & Drill Crioulo",
+  "category": "scene",
+  "badge": "Leiria Drill Crioulo",
+  "headline": "Leiria (Pinhal Litoral & Centro) Beats de Tuga Drill & Drill Crioulo: Áudio WAV 24-Bit & MB Way Imediato",
+  "description": "Pianos escuros em tons menores, caixas afiadas e slides agressivos de baixo 808 para rimas duras em Leiria.",
+  "targetArtists": [
+    "Artistas de Leiria",
+    "Comunidade Hip-Hop de Portugal",
+    "Cena Urbana Luso-Africana"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "G-Minor / E-Minor",
+  "vibeAttributes": [
+    "Leiria",
+    "Drill Crioulo",
+    "MB Way & Multibanco (€)",
+    "Conforme com a SPA"
+  ],
+  "popularGenres": [
+    "Beats de Tuga Drill & Drill Crioulo",
+    "Trap Tuga",
+    "Rap Português"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "leiria-afro-trap-melodico",
+  "name": "Leiria Beats de Afro-Trap Melódico",
+  "category": "scene",
+  "badge": "Leiria Afro-Trap",
+  "headline": "Leiria (Pinhal Litoral & Centro) Beats de Afro-Trap Melódico: Áudio WAV 24-Bit & MB Way Imediato",
+  "description": "Guitarras quentes, percussões sincopadas de afrobeat e acordes doces de R&B desenhados para vozes em Leiria.",
+  "targetArtists": [
+    "Artistas de Leiria",
+    "Comunidade Hip-Hop de Portugal",
+    "Cena Urbana Luso-Africana"
+  ],
+  "recommendedBpm": "100-108 BPM",
+  "recommendedKey": "F#-Minor / A-Minor",
+  "vibeAttributes": [
+    "Leiria",
+    "Afro-Trap",
+    "MB Way & Multibanco (€)",
+    "Conforme com a SPA"
+  ],
+  "popularGenres": [
+    "Beats de Afro-Trap Melódico",
+    "Trap Tuga",
+    "Rap Português"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "leiria-boom-bap-classico",
+  "name": "Leiria Beats de Boom Bap Clássico MPC",
+  "category": "scene",
+  "badge": "Leiria Boom Bap Tuga",
+  "headline": "Leiria (Pinhal Litoral & Centro) Beats de Boom Bap Clássico MPC: Áudio WAV 24-Bit & MB Way Imediato",
+  "description": "Textura autêntica de vinil, caixas secas estaladas e samples de soul da velha guarda para os MCs de Leiria.",
+  "targetArtists": [
+    "Artistas de Leiria",
+    "Comunidade Hip-Hop de Portugal",
+    "Cena Urbana Luso-Africana"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Leiria",
+    "Boom Bap Tuga",
+    "MB Way & Multibanco (€)",
+    "Conforme com a SPA"
+  ],
+  "popularGenres": [
+    "Beats de Boom Bap Clássico MPC",
+    "Trap Tuga",
+    "Rap Português"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
 ];

@@ -37448,4 +37448,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "pt/cascais-estoril-linha": {
+  "slug": "pt/cascais-estoril-linha",
+  "name": "Portugal – Cascais & Linha de Cascais (Trap Costeiro e Som da Linha)",
+  "flag": "🇵🇹",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "MB Way, Multibanco, Cartões, Apple Pay, PayPal, Stripe",
+  "pro": "SPA",
+  "proFullName": "Sociedade Portuguesa de Autores (SPA)",
+  "proGuide": "100% compatível com a SPA e licença europeia comercial.",
+  "headline": "Beats em Cascais & Estoril: Trap Melódico, Brisa Costeira e Linha",
+  "description": "O estilo refinado da costa atlântica: acordes quentes de guitarra, sintetizadores modernos e 808s pulsantes desenhados para os artistas e MCs da Linha de Cascais e Estoril.",
+  "popularGenres": [
+    "Cascais Trap",
+    "Linha Hip-Hop",
+    "Coastal Melodic Rap"
+  ],
+  "subClusters": []
+},
+  "pt/sintra-cacem-quilombo": {
+  "slug": "pt/sintra-cacem-quilombo",
+  "name": "Portugal – Sintra & Agualva-Cacém (Coração Multicultural da Linha)",
+  "flag": "🇵🇹",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "MB Way, Multibanco, Cartões, Apple Pay, PayPal, Stripe",
+  "pro": "SPA",
+  "proFullName": "Sociedade Portuguesa de Autores (SPA)",
+  "proGuide": "Entrega imediata em áudio WAV 24-bit com stems de estúdio.",
+  "headline": "Beats no Cacém & Sintra: Ritmos Urbanos, Afro-Trap e Drill da Linha",
+  "description": "O pulso multicultural e operário de Agualva-Cacém, Rio de Mouro e Queluz: percussões pesadas, melodias melancólicas e rimas autênticas da periferia de Lisboa.",
+  "popularGenres": [
+    "Cacém Afro-Trap",
+    "Linha de Sintra Drill",
+    "Queluz Street Beat"
+  ],
+  "subClusters": []
+},
+  "pt/almada-cacilhas-costa": {
+  "slug": "pt/almada-cacilhas-costa",
+  "name": "Portugal – Almada & Costa da Caparica (Margem Sul & Vibe de Praia)",
+  "flag": "🇵🇹",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "MB Way, Multibanco, Cartões, Apple Pay, PayPal, Stripe",
+  "pro": "SPA",
+  "proFullName": "Sociedade Portuguesa de Autores (SPA)",
+  "proGuide": "Totalmente livre de royalties com monetização em todas as DSPs.",
+  "headline": "Beats em Almada & Caparica: Vista do Tejo, Surf Hip-Hop e 808s",
+  "description": "A energia descontraída da Costa da Caparica com a atitude urbana de Cacilhas e Almada: grooves relaxados de lofi, R&B moderno e batidas soalheiras de verão.",
+  "popularGenres": [
+    "Caparica Surf Beat",
+    "Almada R&B-Trap",
+    "Cacilhas Tejo Vibe"
+  ],
+  "subClusters": []
+},
+  "pt/barreiro-industrial-tejo": {
+  "slug": "pt/barreiro-industrial-tejo",
+  "name": "Portugal – Barreiro & Baixa da Banheira (Resistência e Boom Bap Pesado)",
+  "flag": "🇵🇹",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "MB Way, Multibanco, Cartões, Apple Pay, PayPal, Stripe",
+  "pro": "SPA",
+  "proFullName": "Sociedade Portuguesa de Autores (SPA)",
+  "proGuide": "100% legal sob os termos da SPA com contrato descarregável.",
+  "headline": "Beats no Barreiro: Herança Operária, Boom Bap Cru e Rap Consciente",
+  "description": "O peso histórico do rap underground na margem sul do Tejo: caixas estaladas, samples obscuros de vinil e mensagens de intervenção social para MCs genuínos.",
+  "popularGenres": [
+    "Barreiro Boom Bap",
+    "Baixa da Banheira Rap",
+    "Tejo Underground"
+  ],
+  "subClusters": []
+},
+  "pt/guimaraes-berco-norte": {
+  "slug": "pt/guimaraes-berco-norte",
+  "name": "Portugal – Guimarães & Vale do Ave (Berço da Nação & Vanguarda Rap)",
+  "flag": "🇵🇹",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "MB Way, Multibanco, Cartões, Apple Pay, PayPal, Stripe",
+  "pro": "SPA",
+  "proFullName": "Sociedade Portuguesa de Autores (SPA)",
+  "proGuide": "Pagamento rápido por MB Way em euros com recibo comercial.",
+  "headline": "Beats em Guimarães: Tradição Histórica, Trap do Vale e Energia do Norte",
+  "description": "O berço de Portugal com a pujança criativa do Vale do Ave: graves poderosos, caixas rápidas e melodias intensas para a cena jovem de Guimarães e Famalicão.",
+  "popularGenres": [
+    "Guimarães Trap",
+    "Vale do Ave Rap",
+    "Norte Independente"
+  ],
+  "subClusters": []
+},
+  "pt/leiria-centro-litoral": {
+  "slug": "pt/leiria-centro-litoral",
+  "name": "Portugal – Leiria & Marinha Grande (Pinhal Litoral & Trap Eletrónico)",
+  "flag": "🇵🇹",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "MB Way, Multibanco, Cartões, Apple Pay, PayPal, Stripe",
+  "pro": "SPA",
+  "proFullName": "Sociedade Portuguesa de Autores (SPA)",
+  "proGuide": "Isenção total de royalties com download imediato pós-compra.",
+  "headline": "Beats em Leiria: Centro Litoral, Sintetizadores Analógicos e Trap",
+  "description": "A vanguarda do centro litoral português: sintetizadores espaciais, texturas sonoras limpas e ritmos dançáveis para cantores e beatmakers da região de Leiria.",
+  "popularGenres": [
+    "Leiria Synth Trap",
+    "Pinhal Beat",
+    "Centro Litoral Rap"
+  ],
+  "subClusters": []
+},
+  "pt/portimao-praia-rocha": {
+  "slug": "pt/portimao-praia-rocha",
+  "name": "Portugal – Portimão & Praia da Rocha (Barlavento Algarvio e Club Banger)",
+  "flag": "🇵🇹",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "MB Way, Multibanco, Cartões, Apple Pay, PayPal, Stripe",
+  "pro": "SPA",
+  "proFullName": "Sociedade Portuguesa de Autores (SPA)",
+  "proGuide": "Totalmente aprovado para noites de clube, eventos e streaming.",
+  "headline": "Beats em Portimão: Praia da Rocha, Noites Quentes e Banger de Clube",
+  "description": "O pulsar noturno do Barlavento algarvio: fusão de dancehall, afrobeats e trap de alta rotação para festas de verão e videoclipes costeiros.",
+  "popularGenres": [
+    "Portimão Club Beat",
+    "Praia da Rocha Dancehall",
+    "Barlavento Trap"
+  ],
+  "subClusters": []
+},
+  "pt/viseu-beira-alta": {
+  "slug": "pt/viseu-beira-alta",
+  "name": "Portugal – Viseu & Beira Alta (Cidade de Viriato e Rap de Mensagem)",
+  "flag": "🇵🇹",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "MB Way, Multibanco, Cartões, Apple Pay, PayPal, Stripe",
+  "pro": "SPA",
+  "proFullName": "Sociedade Portuguesa de Autores (SPA)",
+  "proGuide": "Suporte a artistas independentes e estúdios da Beira Alta.",
+  "headline": "Beats em Viseu: História de Viriato, Liricismo Puro e Acordes de Guitarra",
+  "description": "A tranquilidade e profundidade do interior beirão: melodias nostálgicas de piano, guitarras dedilhadas e ritmos pausados para MCs com mensagens fortes.",
+  "popularGenres": [
+    "Viseu Rap Consciente",
+    "Beira Alta Lofi",
+    "Viriato Beat"
+  ],
+  "subClusters": []
+},
+  "pt/vila-real-tras-os-montes": {
+  "slug": "pt/vila-real-tras-os-montes",
+  "name": "Portugal – Vila Real & Trás-os-Montes (Serras do Norte e 808s Robustos)",
+  "flag": "🇵🇹",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "MB Way, Multibanco, Cartões, Apple Pay, PayPal, Stripe",
+  "pro": "SPA",
+  "proFullName": "Sociedade Portuguesa de Autores (SPA)",
+  "proGuide": "Direitos de monetização global sem taxas ocultas.",
+  "headline": "Beats em Vila Real: Montanhas Transmontanas, Força e Trap do Norte",
+  "description": "A bravura e autenticidade de Trás-os-Montes e do Alto Douro: batidas robustas, bumbos contundentes e sintetizadores com impacto para a nova geração transmontana.",
+  "popularGenres": [
+    "Trap Transmontano",
+    "Vila Real 808",
+    "Alto Douro Beat"
+  ],
+  "subClusters": []
+},
+  "pt/evora-alentejo-sul": {
+  "slug": "pt/evora-alentejo-sul",
+  "name": "Portugal – Évora & Alentejo (Planície Dourada, Cante e Lofi Relaxante)",
+  "flag": "🇵🇹",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "MB Way, Multibanco, Cartões, Apple Pay, PayPal, Stripe",
+  "pro": "SPA",
+  "proFullName": "Sociedade Portuguesa de Autores (SPA)",
+  "proGuide": "Licenciamento descarregável em formato digital pronto a usar.",
+  "headline": "Beats em Évora: Planície Alentejana, Vibe de Fim de Tarde e Chillhop",
+  "description": "A beleza serena do grande Alentejo: texturas acústicas quentes, ecos da planície, tempo calmo e batidas suaves ideais para reflexão e poesia declamada.",
+  "popularGenres": [
+    "Alentejo Chillhop",
+    "Évora Lofi Beat",
+    "Planície Dourada Trap"
+  ],
+  "subClusters": []
+},
 };
