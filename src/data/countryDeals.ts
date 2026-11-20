@@ -27681,4 +27681,474 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
     }
   ]
 },
+  "vn": {
+  "name": "Việt Nam – Beat Rap Việt, V-Trap & Hiphop Quốc Dân",
+  "flag": "🇻🇳",
+  "currency": "VND (₫) / USD ($)",
+  "currencyCode": "VND",
+  "gateways": "MoMo, VietQR (Quét mã mọi ngân hàng), ZaloPay, Viettel Money, Thẻ ATM/Visa, Apple Pay, PayPal, Stripe",
+  "pro": "VCPMC & Cục Bản quyền Tác giả (COV)",
+  "proFullName": "Trung tâm Bảo vệ Quyền tác giả Âm nhạc Việt Nam (VCPMC) & Cục Bản quyền Tác giả (COV)",
+  "proGuide": "100% bản quyền độc lập sản xuất bởi Onzieb. Hợp đồng PDF có giá trị pháp lý quốc tế và VCPMC. Tự do phát hành kiếm tiền trên Spotify, Apple Music, YouTube mà không lo bị gậy bản quyền.",
+  "headline": "Mua Beat Rap Việt: Thanh Toán MoMo & VietQR Ngay Lập Tức, File WAV 24-bit & Stems",
+  "description": "Kho beat rap và trap chất lượng phòng thu cao cấp dành cho rapper, ca sĩ và producer Việt Nam. Tải ngay file WAV không tag giọng nói kèm hợp đồng cấp phép thương mại.",
+  "popularGenres": [
+    "V-Trap",
+    "Boom Bap Việt",
+    "Melodic Rap",
+    "Drill Việt Nam"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Sài Gòn Trap Hub",
+      "slug": "vn/ho-chi-minh-saigon",
+      "description": "Cái nôi SpaceSpeakers, trap sang trọng và R&B melo."
+    },
+    {
+      "name": "Hà Nội Under Hub",
+      "slug": "vn/hanoi-thu-do",
+      "description": "Thủ đô của rap chiêm nghiệm, Low G baritone và boom bap."
+    },
+    {
+      "name": "Hải Phòng Street Hub",
+      "slug": "vn/hai-phong-dat-cang",
+      "description": "Đất Cảng 16 Northside, trap đường phố gai góc."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Tôi có thể phát hành bài hát thu trên beat này lên Spotify, Apple Music và YouTube tại Việt Nam – Beat Rap Việt, V-Trap & Hiphop Quốc Dân không?",
+      "answer": "Hoàn toàn ĐƯỢC 100%! Tất cả giấy phép WAV và MP3 từ Different Type of Vibe đều bao gồm quyền thương mại không giới hạn trên Spotify, Apple Music, YouTube, TikTok và Zing MP3. Bạn giữ trọn 100% doanh thu tiền bản quyền phát trực tuyến của mình."
+    },
+    {
+      "question": "Beat có dính bản quyền YouTube Content ID hoặc vi phạm VCPMC không?",
+      "answer": "Tuyệt đối KHÔNG! Mỗi bản nhạc đều là sáng tác gốc 100% do Onzieb sản xuất, không sử dụng sample lậu trái phép. Bạn hoàn toàn có thể đăng ký tác phẩm với Cục Bản quyền Tác giả (COV) và VCPMC mà không gặp bất kỳ tranh chấp hay cảnh báo gậy bản quyền nào."
+    },
+    {
+      "question": "Phương thức thanh toán nào khả dụng tại Việt Nam?",
+      "answer": "Bạn có thể thanh toán trực tiếp bằng Việt Nam Đồng (VND ₫) qua ví MoMo, ZaloPay, Viettel Money, quét mã VietQR tự động qua tất cả ngân hàng Việt Nam (Vietcombank, Techcombank, VPBank, MB Bank, ACB, BIDV) hoặc thẻ ATM/Visa/Mastercard nội địa và quốc tế."
+    },
+    {
+      "question": "Tôi sẽ nhận file âm thanh không tag giọng nói (untagged) như thế nào?",
+      "answer": "Ngay sau khi giao dịch chuyển khoản hoặc quét mã QR thành công, hệ thống sẽ tự động gửi đường link tải trực tiếp file WAV 24-bit phòng thu chất lượng cao không có giọng chèn, file MP3 320kbps và hợp đồng cấp phép bản quyền PDF có chữ ký đến email của bạn."
+    }
+  ]
+},
+  "vn/ho-chi-minh-saigon": {
+  "name": "Việt Nam – TP. Hồ Chí Minh (Sài Gòn, Quận 1 & Thảo Điền)",
+  "flag": "🇻🇳",
+  "currency": "VND (₫) / USD ($)",
+  "currencyCode": "VND",
+  "gateways": "MoMo, VietQR, ZaloPay, Viettel Money, Thẻ ATM/Visa, Apple Pay, PayPal",
+  "pro": "VCPMC & COV",
+  "proFullName": "VCPMC & Cục Bản quyền Tác giả Việt Nam",
+  "proGuide": "100% hợp pháp phát hành nhạc thương mại với hợp đồng PDF.",
+  "headline": "Beat Rap Sài Gòn: SpaceSpeakers Vibe, Trap Sang Trọng & R&B Melodic",
+  "description": "Âm hưởng sôi động của thành phố không ngủ: synthesizer thời thượng, bass 808 căng tròn và trống trap sắc nét cho các bản hit bar, club và streaming.",
+  "popularGenres": [
+    "Sài Gòn Trap",
+    "Club Banger",
+    "Melodic R&B"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Touliver Electronic Vibe",
+      "slug": "../../vibe/touliver-spacespeakers-electronic-trap",
+      "description": "Drop điện tử đầy uy lực và bass nặng kiểu SpaceSpeakers."
+    },
+    {
+      "name": "MCK Melodic Vibe",
+      "slug": "../../vibe/mck-melodic-autotune-emo-trap",
+      "description": "Autotune ngọt ngào, synth da diết và trap melo."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Tôi có thể phát hành bài hát thu trên beat này lên Spotify, Apple Music và YouTube tại Việt Nam – TP. Hồ Chí Minh (Sài Gòn, Quận 1 & Thảo Điền) không?",
+      "answer": "Hoàn toàn ĐƯỢC 100%! Tất cả giấy phép WAV và MP3 từ Different Type of Vibe đều bao gồm quyền thương mại không giới hạn trên Spotify, Apple Music, YouTube, TikTok và Zing MP3. Bạn giữ trọn 100% doanh thu tiền bản quyền phát trực tuyến của mình."
+    },
+    {
+      "question": "Beat có dính bản quyền YouTube Content ID hoặc vi phạm VCPMC không?",
+      "answer": "Tuyệt đối KHÔNG! Mỗi bản nhạc đều là sáng tác gốc 100% do Onzieb sản xuất, không sử dụng sample lậu trái phép. Bạn hoàn toàn có thể đăng ký tác phẩm với Cục Bản quyền Tác giả (COV) và VCPMC mà không gặp bất kỳ tranh chấp hay cảnh báo gậy bản quyền nào."
+    },
+    {
+      "question": "Phương thức thanh toán nào khả dụng tại Việt Nam?",
+      "answer": "Bạn có thể thanh toán trực tiếp bằng Việt Nam Đồng (VND ₫) qua ví MoMo, ZaloPay, Viettel Money, quét mã VietQR tự động qua tất cả ngân hàng Việt Nam (Vietcombank, Techcombank, VPBank, MB Bank, ACB, BIDV) hoặc thẻ ATM/Visa/Mastercard nội địa và quốc tế."
+    },
+    {
+      "question": "Tôi sẽ nhận file âm thanh không tag giọng nói (untagged) như thế nào?",
+      "answer": "Ngay sau khi giao dịch chuyển khoản hoặc quét mã QR thành công, hệ thống sẽ tự động gửi đường link tải trực tiếp file WAV 24-bit phòng thu chất lượng cao không có giọng chèn, file MP3 320kbps và hợp đồng cấp phép bản quyền PDF có chữ ký đến email của bạn."
+    }
+  ]
+},
+  "vn/hanoi-thu-do": {
+  "name": "Việt Nam – Hà Nội (Thủ Đô, Hoàn Kiếm & Tây Hồ)",
+  "flag": "🇻🇳",
+  "currency": "VND (₫) / USD ($)",
+  "currencyCode": "VND",
+  "gateways": "MoMo, VietQR, ZaloPay, Viettel Money, Thẻ ATM/Visa, Apple Pay, PayPal",
+  "pro": "VCPMC & COV",
+  "proFullName": "VCPMC & Cục Bản quyền Tác giả Việt Nam",
+  "proGuide": "100% sáng tác gốc, an toàn tuyệt đối trên YouTube Content ID.",
+  "headline": "Beat Rap Hà Nội: Flow Baritone Tối Giản, Boom Bap & Chiêm Nghiệm",
+  "description": "Nét trầm mặc và sâu cay của rap Thủ Đô: piano lofi ấm áp, tiếng trống analog khô giòn và không gian thoáng đãng cho những câu vần đắt giá.",
+  "popularGenres": [
+    "Hà Nội Boom Bap",
+    "Lofi Chillhop",
+    "Baritone Flow"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Low G Baritone Vibe",
+      "slug": "../../vibe/low-g-rap-nguoi-ha-noi-baritone-flow",
+      "description": "Bass 808 tối giản mượt mà và flow tự sự độc đáo."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Tôi có thể phát hành bài hát thu trên beat này lên Spotify, Apple Music và YouTube tại Việt Nam – Hà Nội (Thủ Đô, Hoàn Kiếm & Tây Hồ) không?",
+      "answer": "Hoàn toàn ĐƯỢC 100%! Tất cả giấy phép WAV và MP3 từ Different Type of Vibe đều bao gồm quyền thương mại không giới hạn trên Spotify, Apple Music, YouTube, TikTok và Zing MP3. Bạn giữ trọn 100% doanh thu tiền bản quyền phát trực tuyến của mình."
+    },
+    {
+      "question": "Beat có dính bản quyền YouTube Content ID hoặc vi phạm VCPMC không?",
+      "answer": "Tuyệt đối KHÔNG! Mỗi bản nhạc đều là sáng tác gốc 100% do Onzieb sản xuất, không sử dụng sample lậu trái phép. Bạn hoàn toàn có thể đăng ký tác phẩm với Cục Bản quyền Tác giả (COV) và VCPMC mà không gặp bất kỳ tranh chấp hay cảnh báo gậy bản quyền nào."
+    },
+    {
+      "question": "Phương thức thanh toán nào khả dụng tại Việt Nam?",
+      "answer": "Bạn có thể thanh toán trực tiếp bằng Việt Nam Đồng (VND ₫) qua ví MoMo, ZaloPay, Viettel Money, quét mã VietQR tự động qua tất cả ngân hàng Việt Nam (Vietcombank, Techcombank, VPBank, MB Bank, ACB, BIDV) hoặc thẻ ATM/Visa/Mastercard nội địa và quốc tế."
+    },
+    {
+      "question": "Tôi sẽ nhận file âm thanh không tag giọng nói (untagged) như thế nào?",
+      "answer": "Ngay sau khi giao dịch chuyển khoản hoặc quét mã QR thành công, hệ thống sẽ tự động gửi đường link tải trực tiếp file WAV 24-bit phòng thu chất lượng cao không có giọng chèn, file MP3 320kbps và hợp đồng cấp phép bản quyền PDF có chữ ký đến email của bạn."
+    }
+  ]
+},
+  "vn/hai-phong-dat-cang": {
+  "name": "Việt Nam – Hải Phòng (Đất Cảng & 16 Northside)",
+  "flag": "🇻🇳",
+  "currency": "VND (₫) / USD ($)",
+  "currencyCode": "VND",
+  "gateways": "MoMo, VietQR, ZaloPay, Viettel Money, Thẻ ATM/Visa, Apple Pay, PayPal",
+  "pro": "VCPMC & COV",
+  "proFullName": "VCPMC & Cục Bản quyền Tác giả Việt Nam",
+  "proGuide": "100% hợp pháp với hợp đồng tải ngay.",
+  "headline": "Beat Rap Hải Phòng: Trap Đất Cảng Gai Góc, 808 Nặng Đô & Drill",
+  "description": "Chất ngông nghênh khí khái của Hải Phòng: tiếng chuông lạnh lùng, snare đanh thép và bass trượt gắt gao cho những bài rap đường phố thực thụ.",
+  "popularGenres": [
+    "Trap Đất Cảng",
+    "16 Northside Vibe",
+    "Drill Hải Phòng"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "16 Typh Vibe",
+      "slug": "../../vibe/16-typh-hai-phong-gang-street-trap",
+      "description": "Trap đường phố Hải Phòng lạnh lùng và tiếng bass 808 uy lực."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Tôi có thể phát hành bài hát thu trên beat này lên Spotify, Apple Music và YouTube tại Việt Nam – Hải Phòng (Đất Cảng & 16 Northside) không?",
+      "answer": "Hoàn toàn ĐƯỢC 100%! Tất cả giấy phép WAV và MP3 từ Different Type of Vibe đều bao gồm quyền thương mại không giới hạn trên Spotify, Apple Music, YouTube, TikTok và Zing MP3. Bạn giữ trọn 100% doanh thu tiền bản quyền phát trực tuyến của mình."
+    },
+    {
+      "question": "Beat có dính bản quyền YouTube Content ID hoặc vi phạm VCPMC không?",
+      "answer": "Tuyệt đối KHÔNG! Mỗi bản nhạc đều là sáng tác gốc 100% do Onzieb sản xuất, không sử dụng sample lậu trái phép. Bạn hoàn toàn có thể đăng ký tác phẩm với Cục Bản quyền Tác giả (COV) và VCPMC mà không gặp bất kỳ tranh chấp hay cảnh báo gậy bản quyền nào."
+    },
+    {
+      "question": "Phương thức thanh toán nào khả dụng tại Việt Nam?",
+      "answer": "Bạn có thể thanh toán trực tiếp bằng Việt Nam Đồng (VND ₫) qua ví MoMo, ZaloPay, Viettel Money, quét mã VietQR tự động qua tất cả ngân hàng Việt Nam (Vietcombank, Techcombank, VPBank, MB Bank, ACB, BIDV) hoặc thẻ ATM/Visa/Mastercard nội địa và quốc tế."
+    },
+    {
+      "question": "Tôi sẽ nhận file âm thanh không tag giọng nói (untagged) như thế nào?",
+      "answer": "Ngay sau khi giao dịch chuyển khoản hoặc quét mã QR thành công, hệ thống sẽ tự động gửi đường link tải trực tiếp file WAV 24-bit phòng thu chất lượng cao không có giọng chèn, file MP3 320kbps và hợp đồng cấp phép bản quyền PDF có chữ ký đến email của bạn."
+    }
+  ]
+},
+  "vn/da-nang-mien-trung": {
+  "name": "Việt Nam – Đà Nẵng & Miền Trung (Thành Phố Đáng Sống Urban)",
+  "flag": "🇻🇳",
+  "currency": "VND (₫) / USD ($)",
+  "currencyCode": "VND",
+  "gateways": "MoMo, VietQR, ZaloPay, Viettel Money, Thẻ ATM/Visa, Apple Pay, PayPal",
+  "pro": "VCPMC & COV",
+  "proFullName": "VCPMC & Cục Bản quyền Tác giả Việt Nam",
+  "proGuide": "100% tự do kiếm tiền trên mọi nền tảng số.",
+  "headline": "Beat Rap Đà Nẵng: Trap Biển Chill, Melodic Hip-Hop & Gió Miền Trung",
+  "description": "Nhịp điệu thư thái hiện đại của miền Trung: hợp âm guitar điện trong trẻo, tiếng hi-hat mượt mà và bass 808 êm ái cho các bản rap du lịch và tình yêu.",
+  "popularGenres": [
+    "Đà Nẵng Chill Trap",
+    "Melodic Hip-Hop",
+    "Biển Xanh Vibe"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Tôi có thể phát hành bài hát thu trên beat này lên Spotify, Apple Music và YouTube tại Việt Nam – Đà Nẵng & Miền Trung (Thành Phố Đáng Sống Urban) không?",
+      "answer": "Hoàn toàn ĐƯỢC 100%! Tất cả giấy phép WAV và MP3 từ Different Type of Vibe đều bao gồm quyền thương mại không giới hạn trên Spotify, Apple Music, YouTube, TikTok và Zing MP3. Bạn giữ trọn 100% doanh thu tiền bản quyền phát trực tuyến của mình."
+    },
+    {
+      "question": "Beat có dính bản quyền YouTube Content ID hoặc vi phạm VCPMC không?",
+      "answer": "Tuyệt đối KHÔNG! Mỗi bản nhạc đều là sáng tác gốc 100% do Onzieb sản xuất, không sử dụng sample lậu trái phép. Bạn hoàn toàn có thể đăng ký tác phẩm với Cục Bản quyền Tác giả (COV) và VCPMC mà không gặp bất kỳ tranh chấp hay cảnh báo gậy bản quyền nào."
+    },
+    {
+      "question": "Phương thức thanh toán nào khả dụng tại Việt Nam?",
+      "answer": "Bạn có thể thanh toán trực tiếp bằng Việt Nam Đồng (VND ₫) qua ví MoMo, ZaloPay, Viettel Money, quét mã VietQR tự động qua tất cả ngân hàng Việt Nam (Vietcombank, Techcombank, VPBank, MB Bank, ACB, BIDV) hoặc thẻ ATM/Visa/Mastercard nội địa và quốc tế."
+    },
+    {
+      "question": "Tôi sẽ nhận file âm thanh không tag giọng nói (untagged) như thế nào?",
+      "answer": "Ngay sau khi giao dịch chuyển khoản hoặc quét mã QR thành công, hệ thống sẽ tự động gửi đường link tải trực tiếp file WAV 24-bit phòng thu chất lượng cao không có giọng chèn, file MP3 320kbps và hợp đồng cấp phép bản quyền PDF có chữ ký đến email của bạn."
+    }
+  ]
+},
+  "vn/can-tho-mien-tay": {
+  "name": "Việt Nam – Cần Thơ & Miền Tây (Sông Nước & Rap Miền Tây)",
+  "flag": "🇻🇳",
+  "currency": "VND (₫) / USD ($)",
+  "currencyCode": "VND",
+  "gateways": "MoMo, VietQR, ZaloPay, Viettel Money, Thẻ ATM/Visa, Apple Pay, PayPal",
+  "pro": "VCPMC & COV",
+  "proFullName": "VCPMC & Cục Bản quyền Tác giả Việt Nam",
+  "proGuide": "Nhạc cụ dân gian thu âm độc quyền, không dính bản quyền.",
+  "headline": "Beat Rap Cần Thơ: Đàn Tranh, Sáo Trúc Sông Nước & Trap Miền Tây Bouncy",
+  "description": "Nét dân dã phóng khoáng của đất phương Nam: âm sắc đàn tranh, tiếng sáo trúc réo rắt quyện vào nhịp bass nảy tưng bừng của trap hiện đại.",
+  "popularGenres": [
+    "Rap Miền Tây",
+    "Folk Trap",
+    "Đàn Tranh Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Tôi có thể phát hành bài hát thu trên beat này lên Spotify, Apple Music và YouTube tại Việt Nam – Cần Thơ & Miền Tây (Sông Nước & Rap Miền Tây) không?",
+      "answer": "Hoàn toàn ĐƯỢC 100%! Tất cả giấy phép WAV và MP3 từ Different Type of Vibe đều bao gồm quyền thương mại không giới hạn trên Spotify, Apple Music, YouTube, TikTok và Zing MP3. Bạn giữ trọn 100% doanh thu tiền bản quyền phát trực tuyến của mình."
+    },
+    {
+      "question": "Beat có dính bản quyền YouTube Content ID hoặc vi phạm VCPMC không?",
+      "answer": "Tuyệt đối KHÔNG! Mỗi bản nhạc đều là sáng tác gốc 100% do Onzieb sản xuất, không sử dụng sample lậu trái phép. Bạn hoàn toàn có thể đăng ký tác phẩm với Cục Bản quyền Tác giả (COV) và VCPMC mà không gặp bất kỳ tranh chấp hay cảnh báo gậy bản quyền nào."
+    },
+    {
+      "question": "Phương thức thanh toán nào khả dụng tại Việt Nam?",
+      "answer": "Bạn có thể thanh toán trực tiếp bằng Việt Nam Đồng (VND ₫) qua ví MoMo, ZaloPay, Viettel Money, quét mã VietQR tự động qua tất cả ngân hàng Việt Nam (Vietcombank, Techcombank, VPBank, MB Bank, ACB, BIDV) hoặc thẻ ATM/Visa/Mastercard nội địa và quốc tế."
+    },
+    {
+      "question": "Tôi sẽ nhận file âm thanh không tag giọng nói (untagged) như thế nào?",
+      "answer": "Ngay sau khi giao dịch chuyển khoản hoặc quét mã QR thành công, hệ thống sẽ tự động gửi đường link tải trực tiếp file WAV 24-bit phòng thu chất lượng cao không có giọng chèn, file MP3 320kbps và hợp đồng cấp phép bản quyền PDF có chữ ký đến email của bạn."
+    }
+  ]
+},
+  "vn/bien-hoa-dong-nai": {
+  "name": "Việt Nam – Biên Hòa & Đồng Nai (Đô Thị Công Nghiệp & Drill Nhanh)",
+  "flag": "🇻🇳",
+  "currency": "VND (₫) / USD ($)",
+  "currencyCode": "VND",
+  "gateways": "MoMo, VietQR, ZaloPay, Viettel Money, Thẻ ATM/Visa, Apple Pay, PayPal",
+  "pro": "VCPMC & COV",
+  "proFullName": "VCPMC & Cục Bản quyền Tác giả Việt Nam",
+  "proGuide": "100% bản quyền studio độc quyền.",
+  "headline": "Beat Rap Biên Hòa: Drill Công Nghiệp Tốc Độ Cao, 808 Slide & Năng Lượng",
+  "description": "Năng lượng trẻ cuồn cuộn của cửa ngõ Đông Nam Bộ: tiết tấu drill 140 BPM dồn dập, snare đảo nhịp sắc sảo và bass kéo dài đầy kích thích.",
+  "popularGenres": [
+    "Biên Hòa Drill",
+    "Trap Công Nghiệp",
+    "Fast Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Tôi có thể phát hành bài hát thu trên beat này lên Spotify, Apple Music và YouTube tại Việt Nam – Biên Hòa & Đồng Nai (Đô Thị Công Nghiệp & Drill Nhanh) không?",
+      "answer": "Hoàn toàn ĐƯỢC 100%! Tất cả giấy phép WAV và MP3 từ Different Type of Vibe đều bao gồm quyền thương mại không giới hạn trên Spotify, Apple Music, YouTube, TikTok và Zing MP3. Bạn giữ trọn 100% doanh thu tiền bản quyền phát trực tuyến của mình."
+    },
+    {
+      "question": "Beat có dính bản quyền YouTube Content ID hoặc vi phạm VCPMC không?",
+      "answer": "Tuyệt đối KHÔNG! Mỗi bản nhạc đều là sáng tác gốc 100% do Onzieb sản xuất, không sử dụng sample lậu trái phép. Bạn hoàn toàn có thể đăng ký tác phẩm với Cục Bản quyền Tác giả (COV) và VCPMC mà không gặp bất kỳ tranh chấp hay cảnh báo gậy bản quyền nào."
+    },
+    {
+      "question": "Phương thức thanh toán nào khả dụng tại Việt Nam?",
+      "answer": "Bạn có thể thanh toán trực tiếp bằng Việt Nam Đồng (VND ₫) qua ví MoMo, ZaloPay, Viettel Money, quét mã VietQR tự động qua tất cả ngân hàng Việt Nam (Vietcombank, Techcombank, VPBank, MB Bank, ACB, BIDV) hoặc thẻ ATM/Visa/Mastercard nội địa và quốc tế."
+    },
+    {
+      "question": "Tôi sẽ nhận file âm thanh không tag giọng nói (untagged) như thế nào?",
+      "answer": "Ngay sau khi giao dịch chuyển khoản hoặc quét mã QR thành công, hệ thống sẽ tự động gửi đường link tải trực tiếp file WAV 24-bit phòng thu chất lượng cao không có giọng chèn, file MP3 320kbps và hợp đồng cấp phép bản quyền PDF có chữ ký đến email của bạn."
+    }
+  ]
+},
+  "vn/nha-trang-khanh-hoa": {
+  "name": "Việt Nam – Nha Trang & Khánh Hòa (Tiệc Tùng Bờ Biển & House-Rap)",
+  "flag": "🇻🇳",
+  "currency": "VND (₫) / USD ($)",
+  "currencyCode": "VND",
+  "gateways": "MoMo, VietQR, ZaloPay, Viettel Money, Thẻ ATM/Visa, Apple Pay, PayPal",
+  "pro": "VCPMC & COV",
+  "proFullName": "VCPMC & Cục Bản quyền Tác giả Việt Nam",
+  "proGuide": "100% bản quyền sử dụng biểu diễn và sự kiện.",
+  "headline": "Beat Rap Nha Trang: Tropical House-Rap, Drop Lễ Hội & Bass Nẩy",
+  "description": "Không khí lễ hội bãi biển tràn đầy nắng gió: nhịp 4/4 rộn rã, tiếng synth mở rộng hoành tráng và bass căng đầy cho những bản hit mùa hè sôi động.",
+  "popularGenres": [
+    "House-Rap",
+    "Tropical Trap",
+    "Festival Banger"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Tôi có thể phát hành bài hát thu trên beat này lên Spotify, Apple Music và YouTube tại Việt Nam – Nha Trang & Khánh Hòa (Tiệc Tùng Bờ Biển & House-Rap) không?",
+      "answer": "Hoàn toàn ĐƯỢC 100%! Tất cả giấy phép WAV và MP3 từ Different Type of Vibe đều bao gồm quyền thương mại không giới hạn trên Spotify, Apple Music, YouTube, TikTok và Zing MP3. Bạn giữ trọn 100% doanh thu tiền bản quyền phát trực tuyến của mình."
+    },
+    {
+      "question": "Beat có dính bản quyền YouTube Content ID hoặc vi phạm VCPMC không?",
+      "answer": "Tuyệt đối KHÔNG! Mỗi bản nhạc đều là sáng tác gốc 100% do Onzieb sản xuất, không sử dụng sample lậu trái phép. Bạn hoàn toàn có thể đăng ký tác phẩm với Cục Bản quyền Tác giả (COV) và VCPMC mà không gặp bất kỳ tranh chấp hay cảnh báo gậy bản quyền nào."
+    },
+    {
+      "question": "Phương thức thanh toán nào khả dụng tại Việt Nam?",
+      "answer": "Bạn có thể thanh toán trực tiếp bằng Việt Nam Đồng (VND ₫) qua ví MoMo, ZaloPay, Viettel Money, quét mã VietQR tự động qua tất cả ngân hàng Việt Nam (Vietcombank, Techcombank, VPBank, MB Bank, ACB, BIDV) hoặc thẻ ATM/Visa/Mastercard nội địa và quốc tế."
+    },
+    {
+      "question": "Tôi sẽ nhận file âm thanh không tag giọng nói (untagged) như thế nào?",
+      "answer": "Ngay sau khi giao dịch chuyển khoản hoặc quét mã QR thành công, hệ thống sẽ tự động gửi đường link tải trực tiếp file WAV 24-bit phòng thu chất lượng cao không có giọng chèn, file MP3 320kbps và hợp đồng cấp phép bản quyền PDF có chữ ký đến email của bạn."
+    }
+  ]
+},
+  "vn/buon-ma-thuot-tay-nguyen": {
+  "name": "Việt Nam – Buôn Ma Thuột & Tây Nguyên (Tiếng Cồng Chiêng & Đại Ngàn)",
+  "flag": "🇻🇳",
+  "currency": "VND (₫) / USD ($)",
+  "currencyCode": "VND",
+  "gateways": "MoMo, VietQR, ZaloPay, Viettel Money, Thẻ ATM/Visa, Apple Pay, PayPal",
+  "pro": "VCPMC & COV",
+  "proFullName": "VCPMC & Cục Bản quyền Tác giả Việt Nam",
+  "proGuide": "100% nguyên bản, đầy đủ file WAV không nén.",
+  "headline": "Beat Rap Buôn Ma Thuột: Tiếng Cồng Chiêng Núi Rừng, Đàn Đá & 808 Đại Ngàn",
+  "description": "Bản sắc hào hùng của đất đỏ Tây Nguyên: tiếng cồng chiêng ngân vang, âm hưởng đàn T'rưng dân tộc kết hợp với sub-bass trầm hùng rền vang.",
+  "popularGenres": [
+    "Tây Nguyên Trap",
+    "Cồng Chiêng Fusion",
+    "Đại Ngàn Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Tôi có thể phát hành bài hát thu trên beat này lên Spotify, Apple Music và YouTube tại Việt Nam – Buôn Ma Thuột & Tây Nguyên (Tiếng Cồng Chiêng & Đại Ngàn) không?",
+      "answer": "Hoàn toàn ĐƯỢC 100%! Tất cả giấy phép WAV và MP3 từ Different Type of Vibe đều bao gồm quyền thương mại không giới hạn trên Spotify, Apple Music, YouTube, TikTok và Zing MP3. Bạn giữ trọn 100% doanh thu tiền bản quyền phát trực tuyến của mình."
+    },
+    {
+      "question": "Beat có dính bản quyền YouTube Content ID hoặc vi phạm VCPMC không?",
+      "answer": "Tuyệt đối KHÔNG! Mỗi bản nhạc đều là sáng tác gốc 100% do Onzieb sản xuất, không sử dụng sample lậu trái phép. Bạn hoàn toàn có thể đăng ký tác phẩm với Cục Bản quyền Tác giả (COV) và VCPMC mà không gặp bất kỳ tranh chấp hay cảnh báo gậy bản quyền nào."
+    },
+    {
+      "question": "Phương thức thanh toán nào khả dụng tại Việt Nam?",
+      "answer": "Bạn có thể thanh toán trực tiếp bằng Việt Nam Đồng (VND ₫) qua ví MoMo, ZaloPay, Viettel Money, quét mã VietQR tự động qua tất cả ngân hàng Việt Nam (Vietcombank, Techcombank, VPBank, MB Bank, ACB, BIDV) hoặc thẻ ATM/Visa/Mastercard nội địa và quốc tế."
+    },
+    {
+      "question": "Tôi sẽ nhận file âm thanh không tag giọng nói (untagged) như thế nào?",
+      "answer": "Ngay sau khi giao dịch chuyển khoản hoặc quét mã QR thành công, hệ thống sẽ tự động gửi đường link tải trực tiếp file WAV 24-bit phòng thu chất lượng cao không có giọng chèn, file MP3 320kbps và hợp đồng cấp phép bản quyền PDF có chữ ký đến email của bạn."
+    }
+  ]
+},
+  "vn/hue-co-do": {
+  "name": "Việt Nam – Huế & Cố Đô (Trầm Mặc Cung Đình & Thơ Ca)",
+  "flag": "🇻🇳",
+  "currency": "VND (₫) / USD ($)",
+  "currencyCode": "VND",
+  "gateways": "MoMo, VietQR, ZaloPay, Viettel Money, Thẻ ATM/Visa, Apple Pay, PayPal",
+  "pro": "VCPMC & COV",
+  "proFullName": "VCPMC & Cục Bản quyền Tác giả Việt Nam",
+  "proGuide": "100% an toàn bản quyền trên Spotify và YouTube.",
+  "headline": "Beat Rap Huế: Đàn Bầu Da Diết, Tiếng Mưa Sông Hương & Boom Bap Trữ Tình",
+  "description": "Nét thơ mộng cổ kính của đất Cố Đô: tiếng đàn bầu u buồn, tiếng mưa rơi tí tách và nhịp trống hip-hop chậm rãi cho những câu từ đậm chất văn học.",
+  "popularGenres": [
+    "Huế Poetic Rap",
+    "Đàn Bầu Hip-Hop",
+    "Trữ Tình Lofi"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Tôi có thể phát hành bài hát thu trên beat này lên Spotify, Apple Music và YouTube tại Việt Nam – Huế & Cố Đô (Trầm Mặc Cung Đình & Thơ Ca) không?",
+      "answer": "Hoàn toàn ĐƯỢC 100%! Tất cả giấy phép WAV và MP3 từ Different Type of Vibe đều bao gồm quyền thương mại không giới hạn trên Spotify, Apple Music, YouTube, TikTok và Zing MP3. Bạn giữ trọn 100% doanh thu tiền bản quyền phát trực tuyến của mình."
+    },
+    {
+      "question": "Beat có dính bản quyền YouTube Content ID hoặc vi phạm VCPMC không?",
+      "answer": "Tuyệt đối KHÔNG! Mỗi bản nhạc đều là sáng tác gốc 100% do Onzieb sản xuất, không sử dụng sample lậu trái phép. Bạn hoàn toàn có thể đăng ký tác phẩm với Cục Bản quyền Tác giả (COV) và VCPMC mà không gặp bất kỳ tranh chấp hay cảnh báo gậy bản quyền nào."
+    },
+    {
+      "question": "Phương thức thanh toán nào khả dụng tại Việt Nam?",
+      "answer": "Bạn có thể thanh toán trực tiếp bằng Việt Nam Đồng (VND ₫) qua ví MoMo, ZaloPay, Viettel Money, quét mã VietQR tự động qua tất cả ngân hàng Việt Nam (Vietcombank, Techcombank, VPBank, MB Bank, ACB, BIDV) hoặc thẻ ATM/Visa/Mastercard nội địa và quốc tế."
+    },
+    {
+      "question": "Tôi sẽ nhận file âm thanh không tag giọng nói (untagged) như thế nào?",
+      "answer": "Ngay sau khi giao dịch chuyển khoản hoặc quét mã QR thành công, hệ thống sẽ tự động gửi đường link tải trực tiếp file WAV 24-bit phòng thu chất lượng cao không có giọng chèn, file MP3 320kbps và hợp đồng cấp phép bản quyền PDF có chữ ký đến email của bạn."
+    }
+  ]
+},
 };

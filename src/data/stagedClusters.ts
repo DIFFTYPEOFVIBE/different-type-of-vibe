@@ -50098,4 +50098,1449 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "1"
   ]
 },
+  {
+  "slug": "low-g-rap-nguoi-ha-noi-baritone-flow",
+  "name": "Low G Rap Nguoi Ha Noi Baritone Flow",
+  "category": "vibe",
+  "badge": "Low G Baritone Vibe",
+  "headline": "Beat Kiểu Low G: Bass 808 Tối Giản Mượt Mà, Snare Đanh & Flow Tự Sự",
+  "description": "Phong cách triệu view của Pháp Sư Hệ Không Màu: nhịp bass 808 trầm sâu được tiết chế tinh tế, tiếng snare khô dứt khoát và không gian rộng để kể những câu chuyện hài hước, sắc sảo.",
+  "targetArtists": [
+    "Low G",
+    "Pháp Sư Hệ Không Màu",
+    "Rap Người Hà Nội",
+    "An Thần Vibe"
+  ],
+  "recommendedBpm": "125-135 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Bass 808 Tối Giản",
+    "Baritone Flow",
+    "Snare Đanh",
+    "Hài Hước & Sâu Sắc"
+  ],
+  "popularGenres": [
+    "V-Trap",
+    "Baritone Hip-Hop",
+    "Rap Hà Nội"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "mck-melodic-autotune-emo-trap",
+  "name": "MCK Melodic Autotune Emo Trap",
+  "category": "vibe",
+  "badge": "MCK Emo Melodic Vibe",
+  "headline": "Beat Kiểu MCK: Hợp Âm Synth Da Diết, Melodic R&B Ngọt Ngào & Bass Tròn",
+  "description": "Giai điệu làm tan chảy triệu trái tim: synthesizer nhiều lớp mờ ảo, chuỗi hợp âm thứ sâu lắng và nhịp trap nẩy nhẹ nhàng dành riêng cho những bản tình ca suy và tự sự.",
+  "targetArtists": [
+    "MCK",
+    "99%",
+    "Thắt Cà Vạt",
+    "Chìm Sâu",
+    "Tay-Lai Pro"
+  ],
+  "recommendedBpm": "115-125 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Synth Da Diết",
+    "Melodic Autotune",
+    "Trap Tình Yêu",
+    "Bass Tròn Trịu"
+  ],
+  "popularGenres": [
+    "Melodic Trap",
+    "Emo Rap",
+    "R&B Việt"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "16-typh-hai-phong-gang-street-trap",
+  "name": "16 Typh Hai Phong Gang Street Trap",
+  "category": "vibe",
+  "badge": "16 Northside Gang Trap",
+  "headline": "Beat Kiểu 16 Typh: Trap Đất Cảng Gai Góc, Chuông Lạnh Lùng & 808 Trượt",
+  "description": "Thần thái công tử đường phố Hải Phòng: tiếng chuông ngân lạnh buốt, hi-hat giật liên hồi và những cú slide 808 đập thẳng vào tai người nghe với chất ngông tự tin.",
+  "targetArtists": [
+    "16 Typh",
+    "16 Northside",
+    "Người Chơi Hệ Đẹp",
+    "Rap Đất Cảng"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Chuông Lạnh",
+    "808 Trượt Cực Căng",
+    "Trap Đường Phố",
+    "16 Northside"
+  ],
+  "popularGenres": [
+    "V-Trap",
+    "Street Trap",
+    "Drill Việt Nam"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "tlinh-sensual-rnb-trap-female-flow",
+  "name": "Tlinh Sensual Rnb Trap Female Flow",
+  "category": "vibe",
+  "badge": "tlinh Sensual R&B Vibe",
+  "headline": "Beat Kiểu tlinh: R&B Nữ Quyến Rũ, Nhịp Bouncy Tưng Bừng & Bass Đầy",
+  "description": "Năng lượng nữ quyền lôi cuốn của nữ hoàng Gen-Z: bộ gõ đậm chất dancehall và afrobeats hòa quyện với trap hiện đại, bass căng nẩy nâng tầm giọng hát ngọt ngào.",
+  "targetArtists": [
+    "tlinh",
+    "Ái Ái",
+    "Nếu Lúc Đó",
+    "Gái Độc Thân",
+    "Gen-Z Pop"
+  ],
+  "recommendedBpm": "105-115 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Quyến Rũ Nữ Quyền",
+    "Bouncy Nẩy",
+    "R&B Hiện Đại",
+    "Bass Đầy Đặn"
+  ],
+  "popularGenres": [
+    "Sensual Trap",
+    "R&B Pop",
+    "Female Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "andree-right-hand-luxury-club-trap",
+  "name": "Andree Right Hand Luxury Club Trap",
+  "category": "vibe",
+  "badge": "Anh Bâus Luxury Trap",
+  "headline": "Beat Kiểu Andree Right Hand: Kèn Brass Hùng Hồn, Trap Nhà Giàu & Tiệc Tùng",
+  "description": "Đẳng cấp xa hoa của giới thượng lưu: kèn đồng brass vang rền kiểu miền Nam nước Mỹ, tiếng trống trap uy lực và không khí ăn chơi bất tận nơi phòng VIP club.",
+  "targetArtists": [
+    "Andree Right Hand",
+    "Anh Bâus",
+    "Nhạc Cho Con Gái",
+    "Club Banger"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Kèn Brass Hùng Hồn",
+    "Trap Nhà Giàu",
+    "Club Banger",
+    "Bass Căng"
+  ],
+  "popularGenres": [
+    "Luxury Trap",
+    "Dirty South",
+    "Club Rap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "den-vau-acoustic-chillhop-triet-ly",
+  "name": "Den Vau Acoustic Chillhop Triet Ly",
+  "category": "vibe",
+  "badge": "Đen Vâu Mộc Mạc Vibe",
+  "headline": "Beat Kiểu Đen Vâu: Guitar Mộc Dân Dã, Tiếng Trống Analog & Lối Sống Tự Do",
+  "description": "Sự đồng điệu của hàng triệu tâm hồn yêu tự do: tiếng gảy đàn guitar mộc mạc không cầu kỳ, tiếng trống hip-hop chậm rãi và không gian thoáng đãng cho những vần thơ chiêm nghiệm.",
+  "targetArtists": [
+    "Đen Vâu",
+    "Trốn Tìm",
+    "Đi Về Nhà",
+    "Mang Tiền Về Cho Mẹ",
+    "Chillhop Việt"
+  ],
+  "recommendedBpm": "85-92 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Guitar Mộc Mạc",
+    "Triết Lý Sống",
+    "Trống Analog",
+    "Thư Thái"
+  ],
+  "popularGenres": [
+    "Acoustic Hip-Hop",
+    "Chillhop Việt",
+    "Conscious Rap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "touliver-spacespeakers-electronic-trap",
+  "name": "Touliver Spacespeakers Electronic Trap",
+  "category": "vibe",
+  "badge": "Touliver SpaceSpeakers Drop",
+  "headline": "Beat Kiểu Touliver: Drop Điện Tử Hủy Diệt, Bass Nặng Đô & Đẳng Cấp SpaceSpeakers",
+  "description": "Thương hiệu âm nhạc của 'Phù Thủy Âm Nhạc': synthesizer công nghiệp gai góc, nhịp drop điện tử dồn dập và sub-bass uy lực khiến mọi khán phòng rung chuyển.",
+  "targetArtists": [
+    "Touliver",
+    "SpaceSpeakers",
+    "Binz Collab",
+    "Hiphop Điện Tử"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Drop Điện Tử Hủy Diệt",
+    "Bass Nặng Đô",
+    "SpaceSpeakers",
+    "Uy Lực"
+  ],
+  "popularGenres": [
+    "Electronic Trap",
+    "EDM-Rap",
+    "Club Banger"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "b-ray-lyrical-storytelling-rap-viet",
+  "name": "B Ray Lyrical Storytelling Rap Viet",
+  "category": "vibe",
+  "badge": "B Ray Sát Thủ Câu Chữ",
+  "headline": "Beat Kiểu B Ray: Piano Trữ Tình Sắc Lạnh, Trống Dồn Dập & Kể Chuyện Cay Đắng",
+  "description": "Nhịp beat cho những câu chuyện tình yêu ngang trái và battle đanh thép: giai điệu piano dồn đuổi kịch tính, nhịp trống rõ ràng giúp kiểm soát từng nhịp thở của lời rap.",
+  "targetArtists": [
+    "B Ray",
+    "Ex's Hate Me",
+    "Xin Đừng Nhấc Máy",
+    "Do For Love"
+  ],
+  "recommendedBpm": "95-105 BPM",
+  "recommendedKey": "A-Minor / D-Minor",
+  "vibeAttributes": [
+    "Kể Chuyện Cay Đắng",
+    "Piano Kịch Tính",
+    "Trống Rõ Ràng",
+    "Storytelling"
+  ],
+  "popularGenres": [
+    "Storytelling Rap",
+    "Melodic Hip-Hop",
+    "Rap Việt"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "6"
+  ]
+},
+  {
+  "slug": "suboi-queen-of-vietnamese-hip-hop",
+  "name": "Suboi Queen Of Vietnamese Hip Hop",
+  "category": "vibe",
+  "badge": "Suboi Nữ Hoàng Hiphop",
+  "headline": "Beat Kiểu Suboi: Jazz-Rap Tinh Tế, Đàn Phím Độc Đáo & Bản Lĩnh Quốc Tế",
+  "description": "Đẳng cấp tiên phong của nữ rapper số một Việt Nam: hòa thanh jazz ấm áp, tiếng phím Rhodes lả lơi và tiếng trống boom bap phá cách đầy chiều sâu nghệ thuật.",
+  "targetArtists": [
+    "Suboi",
+    "N-Sao",
+    "Bet On Me",
+    "Jazz Rap Việt Nam"
+  ],
+  "recommendedBpm": "88-96 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Jazz-Rap Tinh Tế",
+    "Phím Rhodes",
+    "Nữ Quyền",
+    "Chiều Sâu Nghệ Thuật"
+  ],
+  "popularGenres": [
+    "Jazz Rap",
+    "Boom Bap Hiện Đại",
+    "Conscious Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "dan-tranh-traditional-vietnamese-trap",
+  "name": "Dan Tranh Traditional Vietnamese Trap",
+  "category": "vibe",
+  "badge": "Đàn Tranh Trap Dân Tộc",
+  "headline": "Beat Fusión Đàn Tranh: Âm Sắc Cổ Truyền 16 Dây, Sáo Trúc & Bass 808 Hiện Đại",
+  "description": "Tuyệt tác giao thoa giữa hồn cốt dân tộc và âm nhạc hiện đại: tiếng gảy đàn tranh lảnh lót, sáo trúc bay bổng trên nền drop bass 808 uy lực mang đậm tinh thần Việt Nam.",
+  "targetArtists": [
+    "Dân gian Đương Đại",
+    "Rap Dân Tộc",
+    "Hào Khí Việt Nam"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Đàn Tranh 16 Dây",
+    "Sáo Trúc Dân Tộc",
+    "Bass 808 Hiện Đại",
+    "Hào Khí"
+  ],
+  "popularGenres": [
+    "Folk Trap",
+    "Traditional Fusion",
+    "Rap Việt Nam"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "gducky-cinematic-orchestral-rap-viet",
+  "name": "Gducky Cinematic Orchestral Rap Viet",
+  "category": "vibe",
+  "badge": "GDucky Điện Ảnh Hùng Tráng",
+  "headline": "Beat Kiểu GDucky: Dàn Dây Giao Hưởng Hùng Tráng, Hợp Xướng & Đỉnh Cao Sân Khấu",
+  "description": "Âm hưởng của những trận chung kết lịch sử: bè dây violin dồn dập nghẹt thở, dàn hợp xướng thánh ca uy nghiêm và tiếng trống nổ bùng như sấm rền.",
+  "targetArtists": [
+    "GDucky",
+    "Tiền Nhiều Để Làm Gì",
+    "Đôi Mắt",
+    "Rap Việt Chung Kết"
+  ],
+  "recommendedBpm": "90-98 BPM",
+  "recommendedKey": "D-Minor / F-Minor",
+  "vibeAttributes": [
+    "Dàn Dây Giao Hưởng",
+    "Hợp Xướng Thánh Ca",
+    "Sấm Rền",
+    "Đỉnh Cao Sân Khấu"
+  ],
+  "popularGenres": [
+    "Orchestral Rap",
+    "Cinematic Trap",
+    "Epic Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "24k-right-melodic-drill-viet-nam",
+  "name": "24k Right Melodic Drill Viet Nam",
+  "category": "vibe",
+  "badge": "24k.Right Quán Quân Drill",
+  "headline": "Beat Kiểu 24k.Right: Drill Giai Điệu 140 BPM, Bass 808 Trượt & Flow Thượng Hạng",
+  "description": "Phong cách drill giàu giai điệu làm say đắm Rap Việt: hi-hat chạy tam phân thần tốc, nhịp snare nẩy lệch và những đường lướt 808 cực mượt.",
+  "targetArtists": [
+    "24k.Right",
+    "Bao Giờ Lấy Chồng",
+    "Chung Kết Rap Việt",
+    "Drill Melo"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "C-Minor / C-Sharp Minor",
+  "vibeAttributes": [
+    "140 BPM Drill",
+    "808 Lướt Cực Mượt",
+    "Drill Giai Điệu",
+    "Flow Thượng Hạng"
+  ],
+  "popularGenres": [
+    "Melodic Drill",
+    "UK Drill Việt",
+    "Trap Nhanh"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "mua-beat-rap-viet-gia-re-momo-vietqr",
+  "name": "Mua Beat Rap Việt Giá Rẻ Thanh Toán MoMo & VietQR (Tiền Đồng VND)",
+  "category": "genre",
+  "badge": "Thanh Toán MoMo & VietQR",
+  "headline": "Mua Beat Rap Việt Nam Giá Rẻ: Quét Mã MoMo & VietQR Nhận File WAV Tức Thì",
+  "description": "Cách nhanh nhất để sở hữu beat rap bản quyền tại Việt Nam. Không cần thẻ Visa quốc tế, thanh toán tiện lợi bằng tiền Đồng (VND ₫) qua MoMo hoặc mọi app ngân hàng và tải ngay file WAV 24-bit chất lượng cao.",
+  "targetArtists": [
+    "Rapper Trẻ",
+    "Rapper Mới Vào Nghề",
+    "Thí Sinh Rap Việt"
+  ],
+  "recommendedBpm": "Mọi Tốc Độ",
+  "recommendedKey": "Mọi Tone Nhạc",
+  "vibeAttributes": [
+    "Giá Tiền VND",
+    "MoMo Nhanh",
+    "VietQR Tự Động",
+    "Tải WAV Ngay"
+  ],
+  "popularGenres": [
+    "V-Trap",
+    "Boom Bap",
+    "Melodic Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "beat-trap-viet-nam-bass-808-cang-wav",
+  "name": "Beat Trap Việt Nam Bass 808 Căng Đét File WAV & Stems Tách Line",
+  "category": "genre",
+  "badge": "Trap 808 Cực Căng",
+  "headline": "Beat Trap Việt Nam: Bass 808 Căng Tròn Rung Phòng Thu & Tách Kênh Stems",
+  "description": "Âm thanh hiện đại chuẩn thi đấu Rap Việt. Dải trầm được căn chỉnh chính xác, dải trung sạch sẽ để giọng rap của bạn nổi bật trên nền nhạc mà không bị đè nén.",
+  "targetArtists": [
+    "Trappers",
+    "Home Studio",
+    "Producer Thu Âm"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Bass 808 Căng",
+    "Stems Tách Line",
+    "WAV Phòng Thu",
+    "Mix Trong Trẻo"
+  ],
+  "popularGenres": [
+    "V-Trap",
+    "Club Trap",
+    "Street Sound"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "beat-rap-khong-dinh-ban-quyen-youtube",
+  "name": "Beat Rap Không Dính Bản Quyền Đăng YouTube, Spotify và TikTok",
+  "category": "genre",
+  "badge": "0 Gậy Bản Quyền YouTube",
+  "headline": "Beat Rap Bản Quyền Sạch: Bật Kiếm Tiền YouTube & Spotify 100% Không Gậy",
+  "description": "Tự tin phát hành bài hát và video mà không lo bị đánh bản quyền Content ID hoặc chặn kiếm tiền. Đi kèm giấy phép thương mại có giá trị pháp lý quốc tế và VCPMC.",
+  "targetArtists": [
+    "YouTuber",
+    "TikToker",
+    "Nghệ Sĩ Độc Lập"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Không Dính Gậy",
+    "Bật Kiếm Tiền",
+    "TikTok Ready",
+    "Hợp Đồng Đầy Đủ"
+  ],
+  "popularGenres": [
+    "V-Trap",
+    "Chillhop",
+    "Lofi"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2",
+    "5"
+  ]
+},
+  {
+  "slug": "beat-rap-lofi-acoustic-guitar-style-den-vau",
+  "name": "Beat Rap Lofi & Acoustic Guitar Mộc Mạc Kiểu Đen Vâu",
+  "category": "genre",
+  "badge": "Guitar Mộc Kiểu Đen Vâu",
+  "headline": "Beat Rap Lofi Guitar Mộc: Giai Điệu Ấm Áp Dành Cho Lời Rap Tự Sự Sâu Lắng",
+  "description": "Âm thanh mộc mạc và chân thành: tiếng gảy đàn guitar cổ điển không qua biến âm điện tử, tiếng mưa rơi lofi dịu êm và nhịp trống nhè nhẹ giúp làm nổi bật câu từ.",
+  "targetArtists": [
+    "Fan Đen Vâu",
+    "Rapper Tự Sự",
+    "Nhạc Thư Giãn"
+  ],
+  "recommendedBpm": "85-92 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Guitar Mộc Mạc",
+    "Tiếng Mưa Lofi",
+    "Sâu Lắng",
+    "Tự Sự"
+  ],
+  "popularGenres": [
+    "Chillhop",
+    "Acoustic Rap",
+    "Lofi Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "combo-beat-rap-2-tang-1-viet-nam-momo",
+  "name": "Combo Beat Rap 2 Tặng 1 Khuyến Mãi Việt Nam (Thanh Toán MoMo)",
+  "category": "genre",
+  "badge": "Khuyến Mãi 2 Tặng 1",
+  "headline": "Ưu Đãi Beat Rap Việt: Mua 2 Beat Tặng Ngay 1 Beat Miễn Phí Qua MoMo",
+  "description": "Thu âm trọn gói EP hoặc mixtape với chi phí tiết kiệm tối đa. Tự động áp dụng giảm giá khi thêm 3 beat vào giỏ hàng và chọn thanh toán bằng MoMo hoặc VietQR.",
+  "targetArtists": [
+    "Rapper Làm EP",
+    "Nhóm Hiphop",
+    "Làm Album Mixtape"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Mua 2 Tặng 1",
+    "Tiết Kiệm Tiền Đồng",
+    "WAV Phòng Thu",
+    "Thanh Toán Nhanh"
+  ],
+  "popularGenres": [
+    "V-Trap",
+    "Boom Bap",
+    "Melodic Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6"
+  ]
+},
+  {
+  "slug": "beat-drill-viet-nam-140-bpm-untagged",
+  "name": "Beat Drill Việt Nam 140 BPM Không Tag Giọng Nói Tải WAV",
+  "category": "genre",
+  "badge": "140 BPM Drill Việt",
+  "headline": "Beat Drill Việt Nam 140 BPM: Snare Đảo Nhịp, Bass Lướt 808 & Không Tag",
+  "description": "Dòng nhạc năng lượng cao đang gây sốt trong giới trẻ Việt Nam. Nhịp trống 140 BPM dồn dập, đường trượt bass căng đét sẵn sàng cho những màn so kè kỹ năng đỉnh cao.",
+  "targetArtists": [
+    "Drillers",
+    "Thí Sinh Rap Game",
+    "Battle MC"
+  ],
+  "recommendedBpm": "138-144 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "140 BPM Drill",
+    "808 Lướt Căng",
+    "Snare Đảo Nhịp",
+    "Untagged WAV"
+  ],
+  "popularGenres": [
+    "Drill Việt Nam",
+    "UK Drill",
+    "Trap Nhanh"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "beat-rap-tinh-yeu-melodic-rnb-style-mck",
+  "name": "Beat Rap Tình Yêu Melodic R&B Autotune Ngọt Ngào Kiểu MCK",
+  "category": "genre",
+  "badge": "Trap Tình Yêu Melodic",
+  "headline": "Beat Rap Tình Yêu: Hợp Âm R&B Êm Ái, Tiếng Phím Ngọt Ngào & Autotune",
+  "description": "Nhịp beat chuyên dụng cho các bản tình ca ngọt ngào và suy tình. Hợp âm piano và synth giàu cảm xúc, dải bass tròn êm nâng đỡ từng câu hát luyến láy.",
+  "targetArtists": [
+    "Fan MCK",
+    "Ca Sĩ R&B",
+    "Rapper Melo"
+  ],
+  "recommendedBpm": "115-125 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Hợp Âm R&B",
+    "Autotune Ngọt Ngào",
+    "Nhạc Suy",
+    "WAV Chất Lượng Cao"
+  ],
+  "popularGenres": [
+    "Melodic Trap",
+    "R&B Pop",
+    "Emo Rap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "beat-rap-de-thi-rap-viet-va-battle",
+  "name": "Beat Rap Để Thi Casting Rap Việt và Battle Rap Đường Phố",
+  "category": "genre",
+  "badge": "Chuẩn Thi Đấu Rap Việt",
+  "headline": "Beat Chuẩn Casting Rap Việt: Cấu Trúc Bùng Nổ, Khoảng Trống Flow & Drop Đỉnh",
+  "description": "Được thiết kế chuyên biệt để phô diễn kỹ thuật rap và chiếm trọn sự chú ý của giám khảo. Cao trào dồn dập, khoảng drop đầy kịch tính để khẳng định đẳng cấp thí sinh.",
+  "targetArtists": [
+    "Thí Sinh Casting Rap Việt",
+    "Battle Rapper",
+    "Rapper Biểu Diễn"
+  ],
+  "recommendedBpm": "90-95 BPM / 130-135 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Cấu Trúc Bùng Nổ",
+    "Chuẩn Thi Đấu",
+    "Khoảng Trống Flow",
+    "Drop Kịch Tính"
+  ],
+  "popularGenres": [
+    "Battle Boom Bap",
+    "V-Trap",
+    "Epic Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "dat-san-xuat-beat-doc-quyen-tai-viet-nam",
+  "name": "Đặt Sản Xuất Beat Độc Quyền Tại Việt Nam (Làm Việc Cùng Producer)",
+  "category": "genre",
+  "badge": "Sản Xuất Độc Quyền",
+  "headline": "Sản Xuất Beat Độc Quyền Theo Yêu Cầu: Làm Việc Trực Tiếp Cùng Onzieb",
+  "description": "Sở hữu bản beat được đo ni đóng giày riêng cho chất giọng và ý tưởng của bạn. Bản beat sẽ được gỡ vĩnh viễn khỏi cửa hàng và chuyển nhượng 100% quyền sở hữu tác phẩm.",
+  "targetArtists": [
+    "Nghệ Sĩ Chuyên Nghiệp",
+    "Dự Án Album",
+    "Ca Sĩ Ký Hợp Đồng"
+  ],
+  "recommendedBpm": "BPM Theo Yêu Cầu",
+  "recommendedKey": "Tone Theo Yêu Cầu",
+  "vibeAttributes": [
+    "Độc Quyền 100%",
+    "Gỡ Khỏi Cửa Hàng",
+    "Tư Vấn Trực Tiếp",
+    "Âm Thanh Riêng"
+  ],
+  "popularGenres": [
+    "V-Trap",
+    "Boom Bap",
+    "R&B"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "tai-mien-phi-3-beat-rap-test-giong",
+  "name": "Tải Miễn Phí 3 Beat Rap MP3 Chất Lượng Cao Để Test Giọng Thu Âm",
+  "category": "genre",
+  "badge": "Tải Miễn Phí 3 Beat",
+  "headline": "Tải Miễn Phí 3 Bản Beat Rap & Trap: Thử Flow và Giọng Thu Âm Tại Nhà",
+  "description": "Tải ngay gói 3 beat rap MP3 320kbps miễn phí để luyện tập viết lời, thu demo tại nhà và cảm nhận độ êm của âm thanh trước khi quyết định nâng cấp lên bản WAV.",
+  "targetArtists": [
+    "Rapper Mới",
+    "Tự Thu Tại Nhà",
+    "Luyện Viết Lyric"
+  ],
+  "recommendedBpm": "90, 125, 132 BPM",
+  "recommendedKey": "C-Minor, D-Minor",
+  "vibeAttributes": [
+    "Tải Miễn Phí",
+    "3 Bản Beat",
+    "Test Giọng Thu Âm",
+    "Gửi Qua Email"
+  ],
+  "popularGenres": [
+    "V-Trap",
+    "Boom Bap",
+    "Melodic Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "5"
+  ]
+},
+  {
+  "slug": "ho-chi-minh-saigon-trap-viet-nam-beats",
+  "name": "Sài Gòn Trap Việt Nam Beats",
+  "category": "scene",
+  "badge": "Sài Gòn V-Trap Hiện Đại",
+  "headline": "Sài Gòn (TP. Hồ Chí Minh) Trap Việt Nam Beats: Beat WAV & Thanh Toán MoMo",
+  "description": "Bass 808 căng tròn, hi-hat sắc bén và chất lượng WAV 24-bit phòng thu hỗ trợ thanh toán MoMo cho nghệ sĩ tại Sài Gòn.",
+  "targetArtists": [
+    "Rapper Sài Gòn",
+    "Rap Việt Scene",
+    "Hiphop Việt Nam"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Sài Gòn",
+    "V-Trap Hiện Đại",
+    "MoMo & VietQR",
+    "Bản Quyền VCPMC"
+  ],
+  "popularGenres": [
+    "Trap Việt Nam Beats",
+    "Rap Việt",
+    "V-Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "ho-chi-minh-saigon-boombap-viet-nam-classic",
+  "name": "Sài Gòn Boom Bap Việt Nam Classic",
+  "category": "scene",
+  "badge": "Sài Gòn Boom Bap Cổ Điển",
+  "headline": "Sài Gòn (TP. Hồ Chí Minh) Boom Bap Việt Nam Classic: Beat WAV & Thanh Toán MoMo",
+  "description": "Trống analog đanh gọn của thập niên 90, sample ấm áp và chất đường phố mộc mạc lấy cảm hứng từ Sài Gòn.",
+  "targetArtists": [
+    "Rapper Sài Gòn",
+    "Rap Việt Scene",
+    "Hiphop Việt Nam"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Sài Gòn",
+    "Boom Bap Cổ Điển",
+    "MoMo & VietQR",
+    "Bản Quyền VCPMC"
+  ],
+  "popularGenres": [
+    "Boom Bap Việt Nam Classic",
+    "Rap Việt",
+    "V-Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "ho-chi-minh-saigon-dan-tranh-trap-fusion",
+  "name": "Sài Gòn Đàn Tranh Trap Fusión",
+  "category": "scene",
+  "badge": "Sài Gòn Đàn Tranh Fusion",
+  "headline": "Sài Gòn (TP. Hồ Chí Minh) Đàn Tranh Trap Fusión: Beat WAV & Thanh Toán MoMo",
+  "description": "Tiếng gảy đàn tranh cổ truyền, sáo trúc mộc mạc hòa cùng nhịp bass 808 cho những rapper yêu văn hóa tại Sài Gòn.",
+  "targetArtists": [
+    "Rapper Sài Gòn",
+    "Rap Việt Scene",
+    "Hiphop Việt Nam"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Sài Gòn",
+    "Đàn Tranh Fusion",
+    "MoMo & VietQR",
+    "Bản Quyền VCPMC"
+  ],
+  "popularGenres": [
+    "Đàn Tranh Trap Fusión",
+    "Rap Việt",
+    "V-Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "ho-chi-minh-saigon-melodic-rnb-trap",
+  "name": "Sài Gòn Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Sài Gòn Melodic R&B",
+  "headline": "Sài Gòn (TP. Hồ Chí Minh) Melodic R&B Trap: Beat WAV & Thanh Toán MoMo",
+  "description": "Tiếng phím Rhodes dịu êm, synthesizer da diết và trống trap thư thái cho những bản tình ca tại Sài Gòn.",
+  "targetArtists": [
+    "Rapper Sài Gòn",
+    "Rap Việt Scene",
+    "Hiphop Việt Nam"
+  ],
+  "recommendedBpm": "95-108 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Sài Gòn",
+    "Melodic R&B",
+    "MoMo & VietQR",
+    "Bản Quyền VCPMC"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "Rap Việt",
+    "V-Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "hanoi-thu-do-trap-viet-nam-beats",
+  "name": "Hà Nội Trap Việt Nam Beats",
+  "category": "scene",
+  "badge": "Hà Nội V-Trap Hiện Đại",
+  "headline": "Hà Nội (Thủ Đô Nghìn Năm) Trap Việt Nam Beats: Beat WAV & Thanh Toán MoMo",
+  "description": "Bass 808 căng tròn, hi-hat sắc bén và chất lượng WAV 24-bit phòng thu hỗ trợ thanh toán MoMo cho nghệ sĩ tại Hà Nội.",
+  "targetArtists": [
+    "Rapper Hà Nội",
+    "Rap Việt Scene",
+    "Hiphop Việt Nam"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Hà Nội",
+    "V-Trap Hiện Đại",
+    "MoMo & VietQR",
+    "Bản Quyền VCPMC"
+  ],
+  "popularGenres": [
+    "Trap Việt Nam Beats",
+    "Rap Việt",
+    "V-Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "hanoi-thu-do-boombap-viet-nam-classic",
+  "name": "Hà Nội Boom Bap Việt Nam Classic",
+  "category": "scene",
+  "badge": "Hà Nội Boom Bap Cổ Điển",
+  "headline": "Hà Nội (Thủ Đô Nghìn Năm) Boom Bap Việt Nam Classic: Beat WAV & Thanh Toán MoMo",
+  "description": "Trống analog đanh gọn của thập niên 90, sample ấm áp và chất đường phố mộc mạc lấy cảm hứng từ Hà Nội.",
+  "targetArtists": [
+    "Rapper Hà Nội",
+    "Rap Việt Scene",
+    "Hiphop Việt Nam"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Hà Nội",
+    "Boom Bap Cổ Điển",
+    "MoMo & VietQR",
+    "Bản Quyền VCPMC"
+  ],
+  "popularGenres": [
+    "Boom Bap Việt Nam Classic",
+    "Rap Việt",
+    "V-Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "hanoi-thu-do-dan-tranh-trap-fusion",
+  "name": "Hà Nội Đàn Tranh Trap Fusión",
+  "category": "scene",
+  "badge": "Hà Nội Đàn Tranh Fusion",
+  "headline": "Hà Nội (Thủ Đô Nghìn Năm) Đàn Tranh Trap Fusión: Beat WAV & Thanh Toán MoMo",
+  "description": "Tiếng gảy đàn tranh cổ truyền, sáo trúc mộc mạc hòa cùng nhịp bass 808 cho những rapper yêu văn hóa tại Hà Nội.",
+  "targetArtists": [
+    "Rapper Hà Nội",
+    "Rap Việt Scene",
+    "Hiphop Việt Nam"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Hà Nội",
+    "Đàn Tranh Fusion",
+    "MoMo & VietQR",
+    "Bản Quyền VCPMC"
+  ],
+  "popularGenres": [
+    "Đàn Tranh Trap Fusión",
+    "Rap Việt",
+    "V-Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "hanoi-thu-do-melodic-rnb-trap",
+  "name": "Hà Nội Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Hà Nội Melodic R&B",
+  "headline": "Hà Nội (Thủ Đô Nghìn Năm) Melodic R&B Trap: Beat WAV & Thanh Toán MoMo",
+  "description": "Tiếng phím Rhodes dịu êm, synthesizer da diết và trống trap thư thái cho những bản tình ca tại Hà Nội.",
+  "targetArtists": [
+    "Rapper Hà Nội",
+    "Rap Việt Scene",
+    "Hiphop Việt Nam"
+  ],
+  "recommendedBpm": "95-108 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Hà Nội",
+    "Melodic R&B",
+    "MoMo & VietQR",
+    "Bản Quyền VCPMC"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "Rap Việt",
+    "V-Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "hai-phong-dat-cang-trap-viet-nam-beats",
+  "name": "Hải Phòng Trap Việt Nam Beats",
+  "category": "scene",
+  "badge": "Hải Phòng V-Trap Hiện Đại",
+  "headline": "Hải Phòng (Đất Cảng 16) Trap Việt Nam Beats: Beat WAV & Thanh Toán MoMo",
+  "description": "Bass 808 căng tròn, hi-hat sắc bén và chất lượng WAV 24-bit phòng thu hỗ trợ thanh toán MoMo cho nghệ sĩ tại Hải Phòng.",
+  "targetArtists": [
+    "Rapper Hải Phòng",
+    "Rap Việt Scene",
+    "Hiphop Việt Nam"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Hải Phòng",
+    "V-Trap Hiện Đại",
+    "MoMo & VietQR",
+    "Bản Quyền VCPMC"
+  ],
+  "popularGenres": [
+    "Trap Việt Nam Beats",
+    "Rap Việt",
+    "V-Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "hai-phong-dat-cang-boombap-viet-nam-classic",
+  "name": "Hải Phòng Boom Bap Việt Nam Classic",
+  "category": "scene",
+  "badge": "Hải Phòng Boom Bap Cổ Điển",
+  "headline": "Hải Phòng (Đất Cảng 16) Boom Bap Việt Nam Classic: Beat WAV & Thanh Toán MoMo",
+  "description": "Trống analog đanh gọn của thập niên 90, sample ấm áp và chất đường phố mộc mạc lấy cảm hứng từ Hải Phòng.",
+  "targetArtists": [
+    "Rapper Hải Phòng",
+    "Rap Việt Scene",
+    "Hiphop Việt Nam"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Hải Phòng",
+    "Boom Bap Cổ Điển",
+    "MoMo & VietQR",
+    "Bản Quyền VCPMC"
+  ],
+  "popularGenres": [
+    "Boom Bap Việt Nam Classic",
+    "Rap Việt",
+    "V-Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "hai-phong-dat-cang-dan-tranh-trap-fusion",
+  "name": "Hải Phòng Đàn Tranh Trap Fusión",
+  "category": "scene",
+  "badge": "Hải Phòng Đàn Tranh Fusion",
+  "headline": "Hải Phòng (Đất Cảng 16) Đàn Tranh Trap Fusión: Beat WAV & Thanh Toán MoMo",
+  "description": "Tiếng gảy đàn tranh cổ truyền, sáo trúc mộc mạc hòa cùng nhịp bass 808 cho những rapper yêu văn hóa tại Hải Phòng.",
+  "targetArtists": [
+    "Rapper Hải Phòng",
+    "Rap Việt Scene",
+    "Hiphop Việt Nam"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Hải Phòng",
+    "Đàn Tranh Fusion",
+    "MoMo & VietQR",
+    "Bản Quyền VCPMC"
+  ],
+  "popularGenres": [
+    "Đàn Tranh Trap Fusión",
+    "Rap Việt",
+    "V-Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "hai-phong-dat-cang-melodic-rnb-trap",
+  "name": "Hải Phòng Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Hải Phòng Melodic R&B",
+  "headline": "Hải Phòng (Đất Cảng 16) Melodic R&B Trap: Beat WAV & Thanh Toán MoMo",
+  "description": "Tiếng phím Rhodes dịu êm, synthesizer da diết và trống trap thư thái cho những bản tình ca tại Hải Phòng.",
+  "targetArtists": [
+    "Rapper Hải Phòng",
+    "Rap Việt Scene",
+    "Hiphop Việt Nam"
+  ],
+  "recommendedBpm": "95-108 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Hải Phòng",
+    "Melodic R&B",
+    "MoMo & VietQR",
+    "Bản Quyền VCPMC"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "Rap Việt",
+    "V-Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "da-nang-mien-trung-trap-viet-nam-beats",
+  "name": "Đà Nẵng Trap Việt Nam Beats",
+  "category": "scene",
+  "badge": "Đà Nẵng V-Trap Hiện Đại",
+  "headline": "Đà Nẵng (Miền Trung Xanh) Trap Việt Nam Beats: Beat WAV & Thanh Toán MoMo",
+  "description": "Bass 808 căng tròn, hi-hat sắc bén và chất lượng WAV 24-bit phòng thu hỗ trợ thanh toán MoMo cho nghệ sĩ tại Đà Nẵng.",
+  "targetArtists": [
+    "Rapper Đà Nẵng",
+    "Rap Việt Scene",
+    "Hiphop Việt Nam"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Đà Nẵng",
+    "V-Trap Hiện Đại",
+    "MoMo & VietQR",
+    "Bản Quyền VCPMC"
+  ],
+  "popularGenres": [
+    "Trap Việt Nam Beats",
+    "Rap Việt",
+    "V-Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "da-nang-mien-trung-boombap-viet-nam-classic",
+  "name": "Đà Nẵng Boom Bap Việt Nam Classic",
+  "category": "scene",
+  "badge": "Đà Nẵng Boom Bap Cổ Điển",
+  "headline": "Đà Nẵng (Miền Trung Xanh) Boom Bap Việt Nam Classic: Beat WAV & Thanh Toán MoMo",
+  "description": "Trống analog đanh gọn của thập niên 90, sample ấm áp và chất đường phố mộc mạc lấy cảm hứng từ Đà Nẵng.",
+  "targetArtists": [
+    "Rapper Đà Nẵng",
+    "Rap Việt Scene",
+    "Hiphop Việt Nam"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Đà Nẵng",
+    "Boom Bap Cổ Điển",
+    "MoMo & VietQR",
+    "Bản Quyền VCPMC"
+  ],
+  "popularGenres": [
+    "Boom Bap Việt Nam Classic",
+    "Rap Việt",
+    "V-Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "da-nang-mien-trung-dan-tranh-trap-fusion",
+  "name": "Đà Nẵng Đàn Tranh Trap Fusión",
+  "category": "scene",
+  "badge": "Đà Nẵng Đàn Tranh Fusion",
+  "headline": "Đà Nẵng (Miền Trung Xanh) Đàn Tranh Trap Fusión: Beat WAV & Thanh Toán MoMo",
+  "description": "Tiếng gảy đàn tranh cổ truyền, sáo trúc mộc mạc hòa cùng nhịp bass 808 cho những rapper yêu văn hóa tại Đà Nẵng.",
+  "targetArtists": [
+    "Rapper Đà Nẵng",
+    "Rap Việt Scene",
+    "Hiphop Việt Nam"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Đà Nẵng",
+    "Đàn Tranh Fusion",
+    "MoMo & VietQR",
+    "Bản Quyền VCPMC"
+  ],
+  "popularGenres": [
+    "Đàn Tranh Trap Fusión",
+    "Rap Việt",
+    "V-Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "da-nang-mien-trung-melodic-rnb-trap",
+  "name": "Đà Nẵng Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Đà Nẵng Melodic R&B",
+  "headline": "Đà Nẵng (Miền Trung Xanh) Melodic R&B Trap: Beat WAV & Thanh Toán MoMo",
+  "description": "Tiếng phím Rhodes dịu êm, synthesizer da diết và trống trap thư thái cho những bản tình ca tại Đà Nẵng.",
+  "targetArtists": [
+    "Rapper Đà Nẵng",
+    "Rap Việt Scene",
+    "Hiphop Việt Nam"
+  ],
+  "recommendedBpm": "95-108 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Đà Nẵng",
+    "Melodic R&B",
+    "MoMo & VietQR",
+    "Bản Quyền VCPMC"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "Rap Việt",
+    "V-Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "can-tho-mien-tay-trap-viet-nam-beats",
+  "name": "Cần Thơ Trap Việt Nam Beats",
+  "category": "scene",
+  "badge": "Cần Thơ V-Trap Hiện Đại",
+  "headline": "Cần Thơ (Sông Nước Miền Tây) Trap Việt Nam Beats: Beat WAV & Thanh Toán MoMo",
+  "description": "Bass 808 căng tròn, hi-hat sắc bén và chất lượng WAV 24-bit phòng thu hỗ trợ thanh toán MoMo cho nghệ sĩ tại Cần Thơ.",
+  "targetArtists": [
+    "Rapper Cần Thơ",
+    "Rap Việt Scene",
+    "Hiphop Việt Nam"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Cần Thơ",
+    "V-Trap Hiện Đại",
+    "MoMo & VietQR",
+    "Bản Quyền VCPMC"
+  ],
+  "popularGenres": [
+    "Trap Việt Nam Beats",
+    "Rap Việt",
+    "V-Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "can-tho-mien-tay-boombap-viet-nam-classic",
+  "name": "Cần Thơ Boom Bap Việt Nam Classic",
+  "category": "scene",
+  "badge": "Cần Thơ Boom Bap Cổ Điển",
+  "headline": "Cần Thơ (Sông Nước Miền Tây) Boom Bap Việt Nam Classic: Beat WAV & Thanh Toán MoMo",
+  "description": "Trống analog đanh gọn của thập niên 90, sample ấm áp và chất đường phố mộc mạc lấy cảm hứng từ Cần Thơ.",
+  "targetArtists": [
+    "Rapper Cần Thơ",
+    "Rap Việt Scene",
+    "Hiphop Việt Nam"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Cần Thơ",
+    "Boom Bap Cổ Điển",
+    "MoMo & VietQR",
+    "Bản Quyền VCPMC"
+  ],
+  "popularGenres": [
+    "Boom Bap Việt Nam Classic",
+    "Rap Việt",
+    "V-Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "can-tho-mien-tay-dan-tranh-trap-fusion",
+  "name": "Cần Thơ Đàn Tranh Trap Fusión",
+  "category": "scene",
+  "badge": "Cần Thơ Đàn Tranh Fusion",
+  "headline": "Cần Thơ (Sông Nước Miền Tây) Đàn Tranh Trap Fusión: Beat WAV & Thanh Toán MoMo",
+  "description": "Tiếng gảy đàn tranh cổ truyền, sáo trúc mộc mạc hòa cùng nhịp bass 808 cho những rapper yêu văn hóa tại Cần Thơ.",
+  "targetArtists": [
+    "Rapper Cần Thơ",
+    "Rap Việt Scene",
+    "Hiphop Việt Nam"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Cần Thơ",
+    "Đàn Tranh Fusion",
+    "MoMo & VietQR",
+    "Bản Quyền VCPMC"
+  ],
+  "popularGenres": [
+    "Đàn Tranh Trap Fusión",
+    "Rap Việt",
+    "V-Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "can-tho-mien-tay-melodic-rnb-trap",
+  "name": "Cần Thơ Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Cần Thơ Melodic R&B",
+  "headline": "Cần Thơ (Sông Nước Miền Tây) Melodic R&B Trap: Beat WAV & Thanh Toán MoMo",
+  "description": "Tiếng phím Rhodes dịu êm, synthesizer da diết và trống trap thư thái cho những bản tình ca tại Cần Thơ.",
+  "targetArtists": [
+    "Rapper Cần Thơ",
+    "Rap Việt Scene",
+    "Hiphop Việt Nam"
+  ],
+  "recommendedBpm": "95-108 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Cần Thơ",
+    "Melodic R&B",
+    "MoMo & VietQR",
+    "Bản Quyền VCPMC"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "Rap Việt",
+    "V-Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "bien-hoa-dong-nai-trap-viet-nam-beats",
+  "name": "Biên Hòa Trap Việt Nam Beats",
+  "category": "scene",
+  "badge": "Biên Hòa V-Trap Hiện Đại",
+  "headline": "Biên Hòa (Đồng Nai Công Nghiệp) Trap Việt Nam Beats: Beat WAV & Thanh Toán MoMo",
+  "description": "Bass 808 căng tròn, hi-hat sắc bén và chất lượng WAV 24-bit phòng thu hỗ trợ thanh toán MoMo cho nghệ sĩ tại Biên Hòa.",
+  "targetArtists": [
+    "Rapper Biên Hòa",
+    "Rap Việt Scene",
+    "Hiphop Việt Nam"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Biên Hòa",
+    "V-Trap Hiện Đại",
+    "MoMo & VietQR",
+    "Bản Quyền VCPMC"
+  ],
+  "popularGenres": [
+    "Trap Việt Nam Beats",
+    "Rap Việt",
+    "V-Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "bien-hoa-dong-nai-boombap-viet-nam-classic",
+  "name": "Biên Hòa Boom Bap Việt Nam Classic",
+  "category": "scene",
+  "badge": "Biên Hòa Boom Bap Cổ Điển",
+  "headline": "Biên Hòa (Đồng Nai Công Nghiệp) Boom Bap Việt Nam Classic: Beat WAV & Thanh Toán MoMo",
+  "description": "Trống analog đanh gọn của thập niên 90, sample ấm áp và chất đường phố mộc mạc lấy cảm hứng từ Biên Hòa.",
+  "targetArtists": [
+    "Rapper Biên Hòa",
+    "Rap Việt Scene",
+    "Hiphop Việt Nam"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Biên Hòa",
+    "Boom Bap Cổ Điển",
+    "MoMo & VietQR",
+    "Bản Quyền VCPMC"
+  ],
+  "popularGenres": [
+    "Boom Bap Việt Nam Classic",
+    "Rap Việt",
+    "V-Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "bien-hoa-dong-nai-dan-tranh-trap-fusion",
+  "name": "Biên Hòa Đàn Tranh Trap Fusión",
+  "category": "scene",
+  "badge": "Biên Hòa Đàn Tranh Fusion",
+  "headline": "Biên Hòa (Đồng Nai Công Nghiệp) Đàn Tranh Trap Fusión: Beat WAV & Thanh Toán MoMo",
+  "description": "Tiếng gảy đàn tranh cổ truyền, sáo trúc mộc mạc hòa cùng nhịp bass 808 cho những rapper yêu văn hóa tại Biên Hòa.",
+  "targetArtists": [
+    "Rapper Biên Hòa",
+    "Rap Việt Scene",
+    "Hiphop Việt Nam"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Biên Hòa",
+    "Đàn Tranh Fusion",
+    "MoMo & VietQR",
+    "Bản Quyền VCPMC"
+  ],
+  "popularGenres": [
+    "Đàn Tranh Trap Fusión",
+    "Rap Việt",
+    "V-Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "bien-hoa-dong-nai-melodic-rnb-trap",
+  "name": "Biên Hòa Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Biên Hòa Melodic R&B",
+  "headline": "Biên Hòa (Đồng Nai Công Nghiệp) Melodic R&B Trap: Beat WAV & Thanh Toán MoMo",
+  "description": "Tiếng phím Rhodes dịu êm, synthesizer da diết và trống trap thư thái cho những bản tình ca tại Biên Hòa.",
+  "targetArtists": [
+    "Rapper Biên Hòa",
+    "Rap Việt Scene",
+    "Hiphop Việt Nam"
+  ],
+  "recommendedBpm": "95-108 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Biên Hòa",
+    "Melodic R&B",
+    "MoMo & VietQR",
+    "Bản Quyền VCPMC"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "Rap Việt",
+    "V-Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
 ];
