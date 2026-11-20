@@ -38208,4 +38208,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "ro/galati-dunarea-port": {
+  "slug": "ro/galati-dunarea-port",
+  "name": "România – Galați (Portul Dunării: Siderurgie & Rap Industrial Dur)",
+  "flag": "🇷🇴",
+  "currency": "RON (lei) / EUR (€)",
+  "currencyCode": "RON",
+  "gateways": "Revolut Pay, Banca Transilvania (BT Pay), BCR George, ING, Carduri, Apple Pay, PayPal, Stripe",
+  "pro": "UCMR-ADA",
+  "proFullName": "UCMR-ADA (Uniunea Compozitorilor și Muzicologilor din România)",
+  "proGuide": "100% conform cu reglementările UCMR-ADA și licență comercială europeană.",
+  "headline": "Negative în Galați: Dunărea Industrială, Oțel Dur & Bași 808 Grei",
+  "description": "Forța industrială a portului dunărean: tobe aspre, sintetizatoare metalice și bași 808 colosali concepuți pentru versurile de stradă din Galați și Brăila.",
+  "popularGenres": [
+    "Galați Industrial Rap",
+    "Dunărea Street Drill",
+    "Heavy Port 808"
+  ],
+  "subClusters": []
+},
+  "ro/pitesti-arges-trap": {
+  "slug": "ro/pitesti-arges-trap",
+  "name": "România – Pitești & Argeș (Capitala Auto: Trap Alert & Cyphers Tineret)",
+  "flag": "🇷🇴",
+  "currency": "RON (lei) / EUR (€)",
+  "currencyCode": "RON",
+  "gateways": "Revolut Pay, Banca Transilvania (BT Pay), BCR George, ING, Carduri, Apple Pay, PayPal, Stripe",
+  "pro": "UCMR-ADA",
+  "proFullName": "UCMR-ADA (Uniunea Compozitorilor și Muzicologilor din România)",
+  "proGuide": "Livrări în format studio WAV 24-bit cu piste multitrack separate.",
+  "headline": "Negative în Pitești: Viteză, Tineret Energetic & Trap Românesc Modern",
+  "description": "Dinamismul și energia tânără a județului Argeș: cinele ultrarapide, claps strălucitoare și bași elastici pentru noile talente urbane din Pitești.",
+  "popularGenres": [
+    "Pitești Fast Trap",
+    "Argeș Street Beat",
+    "Youth Trap Flow"
+  ],
+  "subClusters": []
+},
+  "ro/arad-mures-vest": {
+  "slug": "ro/arad-mures-vest",
+  "name": "România – Arad (Poarta Mureșului: Vibe Vestic & Trap Melodic)",
+  "flag": "🇷🇴",
+  "currency": "RON (lei) / EUR (€)",
+  "currencyCode": "RON",
+  "gateways": "Revolut Pay, Banca Transilvania (BT Pay), BCR George, ING, Carduri, Apple Pay, PayPal, Stripe",
+  "pro": "UCMR-ADA",
+  "proFullName": "UCMR-ADA (Uniunea Compozitorilor și Muzicologilor din România)",
+  "proGuide": "100% drepturi depline de monetizare pe Spotify și YouTube.",
+  "headline": "Negative în Arad: Malurile Mureșului, R&B-Trap & Producție Europeană",
+  "description": "Eleganța cosmopolită a frontierei de vest: acorduri calde de clape, linii de chitară melodioase și ritmuri moderne pentru artiștii din Arad.",
+  "popularGenres": [
+    "Arad Melodic Trap",
+    "Mureș R&B Beat",
+    "Western Vibe"
+  ],
+  "subClusters": []
+},
+  "ro/bacau-moldova-centru": {
+  "slug": "ro/bacau-moldova-centru",
+  "name": "România – Bacău (Inima Moldovei: Tradiție Hip-Hop & Boom Bap Liric)",
+  "flag": "🇷🇴",
+  "currency": "RON (lei) / EUR (€)",
+  "currencyCode": "RON",
+  "gateways": "Revolut Pay, Banca Transilvania (BT Pay), BCR George, ING, Carduri, Apple Pay, PayPal, Stripe",
+  "pro": "UCMR-ADA",
+  "proFullName": "UCMR-ADA (Uniunea Compozitorilor și Muzicologilor din România)",
+  "proGuide": "Declarație descarcăbilă pentru înregistrare la UCMR-ADA.",
+  "headline": "Negative în Bacău: Tradiție de Hip-Hop, Tobe de Vinil & Mesaj Sincer",
+  "description": "Rădăcinile puternice ale rap-ului moldovenesc: tobe de vinil cu atac uscat, sample-uri nostalgice de soul și bași analogici pentru poezie de cartier.",
+  "popularGenres": [
+    "Bacău Boom Bap",
+    "Moldova Conscious Rap",
+    "Cartier Clasic Beat"
+  ],
+  "subClusters": []
+},
+  "ro/baia-mare-maramures": {
+  "slug": "ro/baia-mare-maramures",
+  "name": "România – Baia Mare & Maramureș (Țara Tradiției: Viori & Trap Folcloric)",
+  "flag": "🇷🇴",
+  "currency": "RON (lei) / EUR (€)",
+  "currencyCode": "RON",
+  "gateways": "Revolut Pay, Banca Transilvania (BT Pay), BCR George, ING, Carduri, Apple Pay, PayPal, Stripe",
+  "pro": "UCMR-ADA",
+  "proFullName": "UCMR-ADA (Uniunea Compozitorilor și Muzicologilor din România)",
+  "proGuide": "Plată instantanee prin Revolut Pay în lei (RON) cu descărcare directă.",
+  "headline": "Negative în Baia Mare: Rădăcini Maramureșene, Viori & Trap Modern",
+  "description": "Fuziunea unică dintre folclorul autentic maramureșean și trapul contemporan: viori zglobii, chitare tradiționale și bași 808 masivi.",
+  "popularGenres": [
+    "Maramureș Folk Trap",
+    "Baia Mare Beat",
+    "Nord Urban 808"
+  ],
+  "subClusters": []
+},
+  "ro/suceava-bucovina-cetate": {
+  "slug": "ro/suceava-bucovina-cetate",
+  "name": "România – Suceava & Bucovina (Cetatea de Scaun: Trap Epic & Clopote Gotice)",
+  "flag": "🇷🇴",
+  "currency": "RON (lei) / EUR (€)",
+  "currencyCode": "RON",
+  "gateways": "Revolut Pay, Banca Transilvania (BT Pay), BCR George, ING, Carduri, Apple Pay, PayPal, Stripe",
+  "pro": "UCMR-ADA",
+  "proFullName": "UCMR-ADA (Uniunea Compozitorilor și Muzicologilor din România)",
+  "proGuide": "100% drepturi de utilizare comercială pe toate platformele.",
+  "headline": "Negative în Suceava: Cetatea de Scaun, Clopote Gotice & Trap Epic",
+  "description": "Măreția medievală a Bucovinei: clopote ceremoniale de biserică, reverberații epice și bași seismici pentru piese cu greutate istorică și mândrie regională.",
+  "popularGenres": [
+    "Suceava Epic Trap",
+    "Bucovina Gothic 808",
+    "Cetate Medieval Beat"
+  ],
+  "subClusters": []
+},
+  "ro/targu-mures-mures-transilvania": {
+  "slug": "ro/targu-mures-mures-transilvania",
+  "name": "România – Târgu Mureș (Inima Transilvaniei: Energie Multiculturală & R&B)",
+  "flag": "🇷🇴",
+  "currency": "RON (lei) / EUR (€)",
+  "currencyCode": "RON",
+  "gateways": "Revolut Pay, Banca Transilvania (BT Pay), BCR George, ING, Carduri, Apple Pay, PayPal, Stripe",
+  "pro": "UCMR-ADA",
+  "proFullName": "UCMR-ADA (Uniunea Compozitorilor și Muzicologilor din România)",
+  "proGuide": "Descărcare directă a fișierelor WAV de înaltă rezoluție.",
+  "headline": "Negative în Târgu Mureș: Vibe Multicultural, R&B-Trap & Piane Calde",
+  "description": "Comunitatea creativă și tânără din inima Ardealului: sintetizatoare armonioase, acorduri de pian și ritmuri relaxate pentru proiecte de hip-hop modern și pop urban.",
+  "popularGenres": [
+    "Mureș R&B-Trap",
+    "Transilvania Urban Flow",
+    "Student Beat"
+  ],
+  "subClusters": []
+},
+  "ro/drobeta-turnu-severin-cazane": {
+  "slug": "ro/drobeta-turnu-severin-cazane",
+  "name": "România – Drobeta-Turnu Severin (Cazanele Dunării & Drill Oltenesc)",
+  "flag": "🇷🇴",
+  "currency": "RON (lei) / EUR (€)",
+  "currencyCode": "RON",
+  "gateways": "Revolut Pay, Banca Transilvania (BT Pay), BCR George, ING, Carduri, Apple Pay, PayPal, Stripe",
+  "pro": "UCMR-ADA",
+  "proFullName": "UCMR-ADA (Uniunea Compozitorilor și Muzicologilor din România)",
+  "proGuide": "Suport dedicat pentru artiștii și studiourile din Mehedinți.",
+  "headline": "Negative în Severin: Cazanele Dunării, Stâncă & Drill Dur de Sud",
+  "description": "Peisajul impunător al Cazanelor Dunării: bași de adâncime, percuții percutante și armonii sobre create pentru rap-ul autentic din Mehedinți și Oltenia de sud.",
+  "popularGenres": [
+    "Severin Street Drill",
+    "Cazane Dunăre Beat",
+    "Sud Oltean 808"
+  ],
+  "subClusters": []
+},
+  "ro/tulcea-delta-dunarii": {
+  "slug": "ro/tulcea-delta-dunarii",
+  "name": "România – Tulcea & Delta Dunării (Poarta Rezervației: Lofi & Chillhop Cald)",
+  "flag": "🇷🇴",
+  "currency": "RON (lei) / EUR (€)",
+  "currencyCode": "RON",
+  "gateways": "Revolut Pay, Banca Transilvania (BT Pay), BCR George, ING, Carduri, Apple Pay, PayPal, Stripe",
+  "pro": "UCMR-ADA",
+  "proFullName": "UCMR-ADA (Uniunea Compozitorilor și Muzicologilor din România)",
+  "proGuide": "Autorizat pentru vlogging, sincronizare TV și streaming.",
+  "headline": "Negative în Tulcea: Liniștea Deltei, Chitare Acustice & Chillhop de Apus",
+  "description": "Armonia unică a Deltei Dunării: sunete naturale de apă, acorduri calde de chitară de nailon și ritmuri lente de lofi hip-hop pentru poezie și introspecție.",
+  "popularGenres": [
+    "Tulcea Delta Lofi",
+    "Apus Chillhop",
+    "Acoustic Water Beat"
+  ],
+  "subClusters": []
+},
+  "ro/bistrita-transilvania-nord": {
+  "slug": "ro/bistrita-transilvania-nord",
+  "name": "România – Bistrița & Năsăud (Porțile Ardealului: Trap Melodic & Poezie)",
+  "flag": "🇷🇴",
+  "currency": "RON (lei) / EUR (€)",
+  "currencyCode": "RON",
+  "gateways": "Revolut Pay, Banca Transilvania (BT Pay), BCR George, ING, Carduri, Apple Pay, PayPal, Stripe",
+  "pro": "UCMR-ADA",
+  "proFullName": "UCMR-ADA (Uniunea Compozitorilor și Muzicologilor din România)",
+  "proGuide": "Contract legal complet descărcabil în format PDF.",
+  "headline": "Negative în Bistrița: Porțile Transilvaniei, Chitare & Trap Emoțional",
+  "description": "Lirismul și frumusețea nordului transilvănean: chitare acustice cordate, piane melancolice și bași 808 calzi pentru versuri pline de sentiment.",
+  "popularGenres": [
+    "Bistrița Melodic Rap",
+    "Năsăud Acoustic Trap",
+    "Nord Transilvan Beat"
+  ],
+  "subClusters": []
+},
 };

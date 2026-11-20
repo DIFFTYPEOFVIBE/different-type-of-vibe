@@ -100623,4 +100623,1296 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "1"
   ]
 },
+  {
+  "slug": "deliric-complex-lyricism-conscious-rap",
+  "title": "Deliric Liricism Tehnic Complex & Jazz Boom Bap Beat",
+  "description": "Instrumental sofisticat și rafinat inspirat de Deliric (Inspecția Tehnică Periodică, Lamă Fină, Demonstrație de Forță), cu solo-uri tăiate de saxofon, pian electric Rhodes vintage și tobe de hip-hop cu leagăn impecabil.",
+  "targetKeywords": [
+    "deliric type beat",
+    "rap liric romanesc beat",
+    "deliric lama fina instrumental",
+    "jazz rap romania beat",
+    "deliric ctp instrumental"
+  ],
+  "heroCta": "Cumpără Beat Stil Deliric (WAV 24-bit)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Rap Liric Avansat, Piese Tehnice și Albume de Colecție",
+  "similarArtists": [
+    "Deliric",
+    "Doc",
+    "Vlad Dobrescu",
+    "Silent Strike"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "productionTips": "Sample-uri de jazz procesate prin filtre analogice și tobe acustice comprimate în stil MPC 3000.",
+  "idealVocalStyle": "Rime complexe multisilabice, dicție impecabilă și jocuri de cuvinte ingenioase.",
+  "suggestedKey": "F Minor",
+  "streamingSuitability": "O alegere supremă pentru ascultătorii sofisticați de hip-hop și platformele de streaming."
+},
+  {
+  "slug": "rava-dark-trap-rage-romanesc",
+  "title": "Rava Dark Rage Trap & Coruri Gotice Giulești Beat",
+  "description": "Instrumental sinistru și frenetic inspirat de Rava (Regula 9, Bulibașa, Giulești, Zana), combinând coruri gotice în tonalități minore, sintetizatoare agresive de tip rage și bași 808 care saturează incintele.",
+  "targetKeywords": [
+    "rava type beat",
+    "regula 9 rava instrumental",
+    "rage trap romanesc beat",
+    "giulesti street trap 808",
+    "rava bulibasa beat"
+  ],
+  "heroCta": "Cumpără Beat Stil Rava (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Rage Trap, Moshpit Banger și Videoclipuri cu Impact Vizual Extrem",
+  "similarArtists": [
+    "Rava",
+    "Ian",
+    "Killa Fonic",
+    "Playboi Carti"
+  ],
+  "recommendedBpm": "142-150 BPM",
+  "productionTips": "Leads de sintetizator distorsionate cu saturație optică și bas 808 tăiat chirurgical sub 35Hz.",
+  "idealVocalStyle": "Vocal agresiv, ton gutural, ad-libs tăioase și energie neîmblânzită.",
+  "suggestedKey": "E Minor",
+  "streamingSuitability": "Conceput pentru concerte cu moshpit și trending pe YouTube Music România."
+},
+  {
+  "slug": "amuly-melodic-trap-campina-flow",
+  "title": "Amuly Trap Melodic Bouncy & Party Vibe Câmpina Beat",
+  "description": "Instrumental vesel, dinamic și melodic inspirat de Amuly (Scrisori Din Viitor, Amuly, Abundența), cu clape luminoase, percuții alerte și un bas 808 dansabil cu energie de petrecere urbană.",
+  "targetKeywords": [
+    "amuly type beat",
+    "trap melodic amuly beat",
+    "scrisori din viitor instrumental",
+    "bouncy trap romania beat",
+    "amuly instrumental 808"
+  ],
+  "heroCta": "Cumpără Beat Stil Amuly (WAV Masterizat)",
+  "energyLevel": "High",
+  "primaryUse": "Trap Melodic de Petrecere, Single Comercial și Videoclip Viral",
+  "similarArtists": [
+    "Amuly",
+    "Ian",
+    "PRNY",
+    "Oscar"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "productionTips": "Sintetizatoare pop-trap cu atac rapid peste o linie de bas 808 cu groove pronunțat.",
+  "idealVocalStyle": "Autotune flexibil, rime ritmate cu spirit tânăr și refrene ușor de fredonat.",
+  "suggestedKey": "A Major",
+  "streamingSuitability": "Asigură retenție masivă în playlisturile de tineret și petreceri de club."
+},
+  {
+  "slug": "el-nino-inima-de-strada-rap",
+  "title": "El Nino Rap de Stradă Sincer & Chitară Acustică de Cartier Beat",
+  "description": "Instrumental cald, emoțional și profund inspirat de El Nino (Oricând, Inimă de Leu, Oltean, Binecuvântat), combinând arpegii de chitară acustică, piane nostalgice și o tobă de hip-hop cu lovitură sinceră de suflet.",
+  "targetKeywords": [
+    "el nino type beat",
+    "rap de strada sincer beat",
+    "el nino inima de leu instrumental",
+    "beat chitara acustica rap romanesc",
+    "el nino instrumental"
+  ],
+  "heroCta": "Cumpără Beat Stil El Nino (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Rap Emoțional de Stradă, Storytelling de Viață și Single de Suflet",
+  "similarArtists": [
+    "El Nino",
+    "Samir",
+    "Stres",
+    "Keri"
+  ],
+  "recommendedBpm": "88-94 / 138 BPM",
+  "productionTips": "Chitară acustică înregistrată cald cu preamplificator pe lămpi și bas rotund fără asprime.",
+  "idealVocalStyle": "Voce sinceră, încărcată de trăire personală, rime despre familie, loialitate și cartier.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Generază o conexiune emoțională uriașă cu publicul și milioane de vizualizări pe YouTube."
+},
+  {
+  "slug": "berechet-braila-gang-drill-808",
+  "title": "Berechet Brăila Street Drill & Glisări Agresive de 808 Beat",
+  "description": "Beat agresiv și dur de street drill inspirat de Berechet (Brăila, Mafia, Frățioru', G Class), cu cinele tăioase, clape minore întunecate și glisări rapide de bas 808 care impun respect.",
+  "targetKeywords": [
+    "berechet type beat",
+    "braila drill beat",
+    "berechet frat顕ru instrumental",
+    "drill agresiv romania 808",
+    "berechet instrumental"
+  ],
+  "heroCta": "Cumpără Beat Stil Berechet (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Drill Dur de Stradă, Piese de Sală și Videoclipuri de Cartier",
+  "similarArtists": [
+    "Berechet",
+    "Ian",
+    "Azel",
+    "YNY Sebi"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Cinele rapide cu întreruperi ritmice bruște și bas 808 suprasaturat cu atac percutant.",
+  "idealVocalStyle": "Flow accelerat de cartier, atitudine impunătoare și refren simplu și percutant.",
+  "suggestedKey": "G Minor",
+  "streamingSuitability": "Insuperabil pentru playlisturi de hip-hop dur, antrenamente și clipuri virale."
+},
+  {
+  "slug": "doc-veteran-cadence-hip-hop",
+  "title": "Doc Cadență Tehnică de Veteran & MPC Soul Swing Beat",
+  "description": "Instrumental clasic de hip-hop pur inspirat de Doc (Scăpat de sub Control, Lucrare de Control, Ceai), cu sample-uri calde de vinil soul, bas plin și tobe cu swing natural pentru maeștrii de ceremonii.",
+  "targetKeywords": [
+    "doc type beat",
+    "cadenta rap tehnic beat",
+    "doc scapat de sub control instrumental",
+    "soul boom bap romanesc",
+    "doc ctc instrumental"
+  ],
+  "heroCta": "Cumpără Beat Stil Doc (WAV Masterizat)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Hip-Hop Clasic Tehnic, Bătălii Lirice și Piese de Autor",
+  "similarArtists": [
+    "Doc",
+    "Deliric",
+    "Vlad Dobrescu",
+    "Cedry2k"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "productionTips": "Sample-uri de alamă și pian tăiate fin cu leagăn uman necuantizat la 100%.",
+  "idealVocalStyle": "Măiestrie tehnică a cadenței, rime ascuțite și dicție fermă de veteran.",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "Apreciat la cel mai înalt nivel de comunitatea puristă a hip-hop-ului românesc."
+},
+  {
+  "slug": "calinacho-ambient-cloud-trap",
+  "title": "Călinacho Ambient Cloud Trap & Sintetizatoare În Aer Beat",
+  "description": "Vibe visător și hipnotic de cloud-trap inspirat de Călinacho (Marea Neagră, Nopți Târzii, Planeta), cu pad-uri sintetizate aerisite, bași 808 moi și reverberații plutitoare pentru stări nocturne.",
+  "targetKeywords": [
+    "calinacho type beat",
+    "ambient cloud trap romania",
+    "calinacho marea neagra instrumental",
+    "cloud rap romanesc 808",
+    "calinacho instrumental"
+  ],
+  "heroCta": "Cumpără Cloud Trap Beat (WAV 24-bit)",
+  "energyLevel": "Medium",
+  "primaryUse": "Cloud Trap Nocturn, Single Atmosferic și Videoclip Estetic",
+  "similarArtists": [
+    "Călinacho",
+    "Killa Fonic",
+    "Nane",
+    "Oscar"
+  ],
+  "recommendedBpm": "118-125 BPM",
+  "productionTips": "Pad-uri analogice cu filtru trece-jos lent și bas 808 cald fără distorsiune dură.",
+  "idealVocalStyle": "Vocal melancolic cu autotune fin, frazare relaxată și ecou spațios.",
+  "suggestedKey": "Ab Minor",
+  "streamingSuitability": "Perfect pentru călătorii nocturne, playlisturi de relaxare și fani ai esteticii cloud rap."
+},
+  {
+  "slug": "cobza-folclor-acoustic-trap-beat",
+  "title": "Cobză Tradițională Românească Folclor & Bași 808 Masivi Beat",
+  "description": "Fuziune acustică spectaculoasă ce aduce în prim-plan ciupiturile rapide ale Cobzei tradiționale românești, acompaniate de tobe moderne de trap și căderi grele de bas 808.",
+  "targetKeywords": [
+    "cobza trap beat",
+    "folclor romanesc trap beat",
+    "beat traditional cobza rap",
+    "instrumental folcloric urban 808",
+    "cobza romaneasca trap"
+  ],
+  "heroCta": "Cumpără Cobză Trap (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Fuziune Culturală Inovatoare, Piese de Identitate Națională și Coloane Sonore",
+  "similarArtists": [
+    "Subcarpați",
+    "Argatu'",
+    "Cred Că Sunt Extraterestru"
+  ],
+  "recommendedBpm": "124-132 BPM",
+  "productionTips": "Înregistrare stereo de cobză cu ciupituri clare echilibrate de un bas 808 la 40Hz.",
+  "idealVocalStyle": "Rime energice în limba română, motive folclorice sau poezie contemporană.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Succes garantat în mediul online, festivaluri de profil și comunitatea diasporei."
+},
+  {
+  "slug": "fanfara-ciocarlia-brass-trap-banger",
+  "title": "Fanfara Ciocârlia Alamă Balcanică & Festival Trap 140 BPM Beat",
+  "description": "Instrumental exploziv alimentat de energia de neegalat a trompetelor și tubelor moldovenești de fanfară (stil Fanfara Ciocârlia), peste un ritm de festival trap la 140 BPM cu putere devastatoare.",
+  "targetKeywords": [
+    "fanfara ciocarlia trap beat",
+    "balcan brass trap banger",
+    "alama moldoveneasca trap instrumental",
+    "festival trap romania 140 bpm",
+    "fanfara trap beat"
+  ],
+  "heroCta": "Cumpără Fanfară Trap (WAV Masterizat)",
+  "energyLevel": "Very High",
+  "primaryUse": "Scenă Principală de Festival, Intro de Concert și Imn de Energie Maximă",
+  "similarArtists": [
+    "Fanfara Ciocârlia",
+    "Goran Bregović",
+    "Subcarpați",
+    "Yellow Claw"
+  ],
+  "recommendedBpm": "138-144 BPM",
+  "productionTips": "Secțiune completă de alămuri vii cu reverberație de sală peste tobe de festival.",
+  "idealVocalStyle": "Îndemnuri energice pentru public, refrene scandate și rime rapide de petrecere.",
+  "suggestedKey": "G Minor",
+  "streamingSuitability": "Creat pentru marile festivaluri, arene sportive și momente de descătușare totală."
+},
+  {
+  "slug": "nai-pan-flute-gheorghe-zamfir-trap",
+  "title": "Nai Tradițional Românesc & Trap 808 Hipnotic Beat",
+  "description": "Capodoperă acustică ce unește sunetul nemuritor al Naiului românesc (inspirat de măiestria lui Gheorghe Zamfir) cu bași subwoofere rotunzi și ritmuri lente și profunde de hip-hop modern.",
+  "targetKeywords": [
+    "nai trap beat",
+    "pan flute hip hop beat romania",
+    "gheorghe zamfir style trap beat",
+    "nai traditional romanesc instrumental",
+    "flaut romanesc beat 808"
+  ],
+  "heroCta": "Cumpără Nai Trap Beat (WAV 24-bit)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Piesă Lirică de Profunzime, Coloană Sonoră de Film și Proiect Artistic",
+  "similarArtists": [
+    "Gheorghe Zamfir",
+    "Subcarpați",
+    "Grigore Leșe",
+    "Damian Drăghici"
+  ],
+  "recommendedBpm": "120-128 BPM",
+  "productionTips": "Nai acustic înregistrat cu aer natural peste un bas 808 cald fără asprime digitală.",
+  "idealVocalStyle": "Rostire poetică, versuri cu greutate spirituală sau interpretare instrumentală pură.",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "Apreciere culturală imensă și potențial mare de sincronizare în cinematografie."
+},
+  {
+  "slug": "salajan-underground-street-cypher",
+  "title": "Sălăjan Titan Cypher de Cartier Boom Bap & Tobe Grele Beat",
+  "description": "Atmosferă dură și nefiltrată de cypher din cartierele bucureștene Sălăjan și Titan: tobe grele de boom bap acustic, scratch-uri tăioase și pian în tonalități minore pentru bătălii de rime.",
+  "targetKeywords": [
+    "salajan boom bap beat",
+    "titan cypher rap beat bucuresti",
+    "beat hip hop cartier salajan",
+    "rap underground bucuresti tobe",
+    "cypher boom bap romania"
+  ],
+  "heroCta": "Cumpără Sălăjan Cypher Beat (Uso Ilimitat)",
+  "energyLevel": "High",
+  "primaryUse": "Cyphers de Stradă, Confruntări între MC-i și Piese Grele de Cartier",
+  "similarArtists": [
+    "B.U.G. Mafia",
+    "La Familia",
+    "Paraziții",
+    "Nimeni Altu'"
+  ],
+  "recommendedBpm": "90-94 BPM",
+  "productionTips": "Tobe cu saturație analogică de bandă și linie de bas cu caracter de sampler SP1200.",
+  "idealVocalStyle": "Rime tăioase, atitudine autentică de cartier bucureștean și flow neîntrerupt.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "O piesă de referință pentru toți cei crescuți în cultura rap-ului clasic de bloc."
+},
+  {
+  "slug": "carpati-sunrise-mountain-chillhop",
+  "title": "Apus în Munții Carpați Răcoare & Lofi Hip-Hop Relaxant Beat",
+  "description": "Atmosferă pașnică și răcoroasă inspirată de răsăriturile peste crestele Carpaților: chitare acustice dedilblate, vânt lin prin pini și tobe calde de lofi pentru momente de meditație și creație.",
+  "targetKeywords": [
+    "carpati mountain lofi beat",
+    "lofi hip hop natura romania",
+    "relaxing mountain chillhop",
+    "beat lofi cu chitara acustica romaneasca",
+    "bucegi sunrise beat"
+  ],
+  "heroCta": "Cumpără Carpați Chillhop (Licență Comercială)",
+  "energyLevel": "Low",
+  "primaryUse": "Lofi de Relaxare, Fundal pentru Citit și Vlogging Montan",
+  "similarArtists": [
+    "Kudasaibeats",
+    "Tomppabeats",
+    "Nujabes",
+    "Silent Strike"
+  ],
+  "recommendedBpm": "76-82 BPM",
+  "productionTips": "Zgomot alb discret de pădure și râu montan împletit cu chitară clasică cordată cald.",
+  "idealVocalStyle": "Poezie șoptită, reflecție personală sau audiție ambientală pură.",
+  "suggestedKey": "E Major",
+  "streamingSuitability": "Creat pentru playlisturi de concentrare, studiu și conținut video de călătorie montană."
+},
+  {
+  "slug": "negative-trap-ieftine-revolut-romania",
+  "title": "Negative de Trap Ieftine de la 75 Lei cu Revolut Pay (Pentru MC Tineri)",
+  "description": "Instrumentale accesibile de trap și drill românesc cu producție de studio începând de la doar 75 lei (15€), cu plată instantanee și sigură prin Revolut Pay pentru tinerii artiști.",
+  "targetKeywords": [
+    "negative de trap ieftine revolut romania",
+    "beat uri trap 75 lei",
+    "cumpara negative ieftine bucuresti",
+    "negative rap accesibile revolut pay"
+  ],
+  "heroCta": "Vezi Negative Ieftine (De la 75 Lei via Revolut)",
+  "energyLevel": "High",
+  "primaryUse": "Primele Piese de Studio, Demo-uri Acasă și Lansări pe YouTube",
+  "similarArtists": [
+    "Noua Generație de Trap din România"
+  ],
+  "recommendedBpm": "130-142 BPM",
+  "productionTips": "Structură directă de piesă concepută pentru înregistrare rapidă și testare de versuri.",
+  "idealVocalStyle": "Adaptabil la toate stilurile de trap, drill și rap de tineret.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Include licență comercială legală valabilă până la 25.000 de redări pe platforme."
+},
+  {
+  "slug": "instrumentale-rnb-trap-comercial-wav",
+  "title": "Instrumentale de R&B-Trap Comercial cu Chitare și Piane în WAV",
+  "description": "Producții radiofonice elegante de R&B-Trap cu chitare melodioase și clape Rhodes calde, livrate în format WAV 24-bit de rezoluție înaltă pentru soliști vocali și artiști melodici.",
+  "targetKeywords": [
+    "instrumentale rnb trap comercial wav",
+    "negative rnb melodice romania",
+    "nane amuly style beat wav",
+    "cumpara negative comerciale bucuresti"
+  ],
+  "heroCta": "Cumpără R&B-Trap Beat (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Single Comercial de Radio, Videoclip Muzical de Dragoste și Spotify",
+  "similarArtists": [
+    "Nane",
+    "Rareș",
+    "Connect-R",
+    "Alex Velea"
+  ],
+  "recommendedBpm": "105-115 BPM",
+  "productionTips": "Mixaj aerisit cu spațiu generos pentru linia vocală și bași rotunzi fără mud.",
+  "idealVocalStyle": "Interpretare cantată caldă, refrene memorabile și modulații vocale moderne.",
+  "suggestedKey": "F# Minor",
+  "streamingSuitability": "Format excelent pentru rotație radio comercială și playlisturi de streaming populare."
+},
+  {
+  "slug": "negative-drill-bucuresti-808-stems",
+  "title": "Negative de Drill București cu Bași 808 Glisați & Piste Separate",
+  "description": "Instrumentale agresive de street drill cu bași 808 glisați pe două octave și piste separate multitrack (stems) pentru mixaj vocal avansat în studiouri din București și din țară.",
+  "targetKeywords": [
+    "negative drill bucuresti 808 stems",
+    "drill bucurestean negativ cu piste",
+    "ian berechet style drill stems",
+    "negative drill romania canale separate"
+  ],
+  "heroCta": "Descarcă Drill cu Piste Separate (WAV Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Înregistrare Profesională de Drill, Videoclipuri de Cartier și Lansări Oficiale",
+  "similarArtists": [
+    "Ian",
+    "Berechet",
+    "Azel",
+    "Central Cee"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Stems exportate la -6dB headroom pentru integrare chirurgicală cu vocea înregistrată.",
+  "idealVocalStyle": "Rime rapide, atitudine neînfricată de cartier și livrare fermă.",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "Libertate maximă pentru inginerii de sunet pentru a obține un produs final devastator."
+},
+  {
+  "slug": "negative-afro-pop-hit-radio-romania",
+  "title": "Negative de Afro-Pop & Dancehall la 105 BPM pentru Difuzare Radio",
+  "description": "Instrumentale solare și ritmate de Afro-Pop și Dancehall la 105 BPM combinând chitare tropicale, percuții vii și armonii create special pentru playlisturile radio din România.",
+  "targetKeywords": [
+    "negative afro pop hit radio romania",
+    "beat afro trap 105 bpm bucuresti",
+    "negative radio dancehall romania",
+    "afrobeats negativ cumpara romania"
+  ],
+  "heroCta": "Cumpără Beat Afro-Pop (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Piesă de Vară pentru Radio, Hit de Festival și Videoclip Comercial",
+  "similarArtists": [
+    "Rareș",
+    "Nane",
+    "Inna",
+    "Minelli"
+  ],
+  "recommendedBpm": "104-108 BPM",
+  "productionTips": "Percuție mixtă acustică și digitală cu deschidere panoramică largă în frecvențele medii.",
+  "idealVocalStyle": "Voce captivantă, refren pozitiv și versuri dinamice cu ritm susținut.",
+  "suggestedKey": "A Major",
+  "streamingSuitability": "Ideal pentru sezonul estival și playlisturile marilor posturi comerciale."
+},
+  {
+  "slug": "contract-cesiune-exclusiva-drepturi-ucmr",
+  "title": "Contract de Cesiune Exclusivă a Drepturilor de Autor cu Acord UCMR în PDF",
+  "description": "Descarcă un contract legal de cesiune irevocabilă a drepturilor patrimoniale de autor pentru instrumentale, conform Legii nr. 8/1996, pregătit pentru atașare la dosarul de înregistrare UCMR-ADA.",
+  "targetKeywords": [
+    "contract cesiune exclusiva drepturi ucmr pdf",
+    "contract drepturi de autor negativ muzical",
+    "cesiune drepturi patrimoniale beatmaker romania",
+    "model contract cumparare beat exclusiv"
+  ],
+  "heroCta": "Descarcă Model Contract UCMR Exclusiv (PDF)",
+  "energyLevel": "N/A",
+  "primaryUse": "Securitate Juridică la Cumpărare Exclusivă, Înregistrare la UCMR-ADA și Case de Discuri",
+  "similarArtists": [
+    "Onzieb",
+    "Avocați Specializați în Proprietate Intelectuală"
+  ],
+  "recommendedBpm": "Toate Tempourile",
+  "productionTips": "Clauze exhaustive privind distribuția pe platforme, radiodifuziunea și sincronizarea video.",
+  "idealVocalStyle": "Valabil pentru orice gen muzical și interpret.",
+  "suggestedKey": "Toate",
+  "streamingSuitability": "Protecție patrimonială de 100% pentru proiectele finanțate serios."
+},
+  {
+  "slug": "banca-transilvania-bt-pay-negative-rap",
+  "title": "Cumpără Negative de Rap cu BT Pay și Carduri Românești (Descărcare Imediată)",
+  "description": "Achiziționează instrumentale rapid și fără comisioane bancare prin BT Pay sau orice card de debit emis în România (Banca Transilvania, BCR, BRD, Raiffeisen) cu livrare instantanee a fișierelor.",
+  "targetKeywords": [
+    "banca transilvania bt pay negative rap",
+    "cumpara beat uri cu bt pay",
+    "negative rap plata card romanesc",
+    "magazin negative instrumentale bt pay"
+  ],
+  "heroCta": "Plătește prin BT Pay / Card Românesc (RON)",
+  "energyLevel": "Universal",
+  "primaryUse": "Achiziție Rapidă și Sigură de Negative Fără Dificultăți de Plată",
+  "similarArtists": [
+    "Comunitatea Muzicală din România"
+  ],
+  "recommendedBpm": "Orice BPM",
+  "productionTips": "Procesare securizată cu generare automată a linkurilor de descărcare la confirmarea plății.",
+  "idealVocalStyle": "Accesibil tuturor creatorilor independenți din România și Republica Moldova.",
+  "suggestedKey": "Toate Gamele",
+  "streamingSuitability": "Permite utilizarea comercială imediată a licenței fără timp de așteptare."
+},
+  {
+  "slug": "pachet-5-negative-boom-bap-old-school",
+  "title": "Pachet Promoțional 5 Negative Boom Bap Clasic Românesc (Economisește 40%)",
+  "description": "Pachet special care conține 5 instrumentale atent selectate de Boom Bap clasic românesc cu tobe acustice sparte, praf de vinil și bas cald, cu un discount direct de 40% în lei (RON).",
+  "targetKeywords": [
+    "pachet 5 negative boom bap old school",
+    "oferta 5 beat uri rap clasic bucuresti",
+    "pachet bundle boom bap romania",
+    "cumpara pachet negative rap vechi"
+  ],
+  "heroCta": "Cumpără Pachetul de 5 Negative (-40%)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Înregistrare de EP sau Mixtape Complet de Boom Bap Clasic",
+  "similarArtists": [
+    "B.U.G. Mafia",
+    "Paraziții",
+    "Deliric",
+    "Doc"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "productionTips": "Continuitate timbrală asigurată pe întreg parcursul celor 5 piese pentru un sunet coerent.",
+  "idealVocalStyle": "Rime cu mesaj greu, atitudine loială față de cultura hip-hop și dicție impecabilă.",
+  "suggestedKey": "Game Diverse",
+  "streamingSuitability": "Licență multi-track inclusă pentru lansarea unui proiect discografic complet."
+},
+  {
+  "slug": "mix-master-vocal-producator-onzieb",
+  "title": "Serviciu Complet de Înregistrare, Mixaj Vocal & Masterizare cu Onzieb",
+  "description": "Pachet premium ce include negativ personalizat la comandă, mixaj vocal chirurgical și masterizare la standarde de difuzare radio pentru artiștii din România prin consultare pe WhatsApp cu Onzieb.",
+  "targetKeywords": [
+    "mix master vocal producator onzieb",
+    "serviciu mixaj masterizare hip hop romania",
+    "mastering trap rap bucuresti whatsapp",
+    "producator onzieb colaborare whatsapp"
+  ],
+  "heroCta": "Discută despre Mix & Master pe WhatsApp",
+  "energyLevel": "Custom",
+  "primaryUse": "Lansare Muzicală la Standard Maxim de Studio și Audiții la Case de Discuri",
+  "similarArtists": [
+    "Onzieb",
+    "Artiști Profesioniști din România"
+  ],
+  "recommendedBpm": "La alegerea artistului",
+  "productionTips": "Tratare chirurgicală a vocii cu egalizare dinamică, autotune profesional și compresie pe lămpi.",
+  "idealVocalStyle": "Voce înregistrată în studio sau în home studio cu microfon de calitate.",
+  "suggestedKey": "Personalizată",
+  "streamingSuitability": "Livrare conform normelor internaționale (-14 LUFS pentru Spotify și Apple Music)."
+},
+  {
+  "slug": "negative-emo-trap-chitara-acustica",
+  "title": "Negative de Emo-Trap cu Chitară Acustică Rece & Piane Emoționale",
+  "description": "Fuziune profundă de trap lent cu acorduri ciupite de chitară acustică rece și piane melancolice, creând atmosfera perfectă pentru versuri confesionale și piese de suflet.",
+  "targetKeywords": [
+    "negative emo trap chitara acustica",
+    "emo trap romania beat",
+    "instrumental trist pian rap romanesc",
+    "oscar killa fonic style emo beat"
+  ],
+  "heroCta": "Cumpără Emo-Trap Acustic (WAV 24-bit)",
+  "energyLevel": "Medium",
+  "primaryUse": "Trap Melancolic, Piesă Confesională și Videoclip Emoțional",
+  "similarArtists": [
+    "Oscar",
+    "Killa Fonic",
+    "Ian",
+    "Juice WRLD"
+  ],
+  "recommendedBpm": "120-130 BPM (Half-time 60-65)",
+  "productionTips": "Chitare acustice cu ecou discret de bandă și claps moi cu reverberație scurtă.",
+  "idealVocalStyle": "Interpretare sinceră, linii vocale pline de emoție și refrene dramatice.",
+  "suggestedKey": "B Minor / E Minor",
+  "streamingSuitability": "Tragere mare în rândul tinerilor pe Spotify și în conținutul video sensibil de pe TikTok."
+},
+  {
+  "slug": "drum-kit-trap-romanesc-samples-gratis",
+  "title": "Descarcă Gratuit Drum Kit Trap Românesc & Samplere de Percuție în WAV",
+  "description": "Descarcă gratuit pachetul oficial de tobe pentru Trap Românesc conținând 25 de sunete (bași 808 acordați, cinele tăioase, claps percutante și rimshots) în calitate studio 24-bit WAV.",
+  "targetKeywords": [
+    "drum kit trap romanesc samples gratis",
+    "descarca tobe trap romania wav",
+    "808 acordat trap bucuresti free",
+    "sample pack hip hop romanesc gratuit"
+  ],
+  "heroCta": "Descarcă Drum Kit Gratuit (WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Producție Muzicală, Beatmaking și Creare de Negative în România",
+  "similarArtists": [
+    "Beatmakeri și Producători din România"
+  ],
+  "recommendedBpm": "Compatibil cu orice BPM",
+  "productionTips": "Sunete pre-masterizate și procesate individual gata de tras în DAW fără editare suplimentară.",
+  "idealVocalStyle": "Destinat producătorilor care creează piese pentru artiști vocali.",
+  "suggestedKey": "808 acordați în Do (C)",
+  "streamingSuitability": "Sunete 100% royalty-free pentru utilizare în propriile producții muzicale comerciale."
+},
+  {
+  "slug": "galati-trap-romanesc-808",
+  "name": "Galați Negative de Trap Românesc 808",
+  "category": "scene",
+  "badge": "Galați Trap Românesc",
+  "headline": "Galați (Dunărea & Siderurgie Dură) Negative de Trap Românesc 808: Audio WAV 24-Bit & Plată Revolut Imediată",
+  "description": "Bași 808 masivi și glisați, sintetizatoare acide și cinele rapide în triolete pentru artiștii din Galați.",
+  "targetArtists": [
+    "Artiști din Galați",
+    "Comunitatea Hip-Hop și Trap din România",
+    "Scena Urbană Est-Europeană"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Galați",
+    "Trap Românesc",
+    "Revolut Pay & Carduri (RON)",
+    "Conform UCMR-ADA"
+  ],
+  "popularGenres": [
+    "Negative de Trap Românesc 808",
+    "Trap Românesc",
+    "Rap de Cartier"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "galati-drill-romanesc-strada",
+  "name": "Galați Negative de Drill Românesc de Stradă",
+  "category": "scene",
+  "badge": "Galați Drill Românesc",
+  "headline": "Galați (Dunărea & Siderurgie Dură) Negative de Drill Românesc de Stradă: Audio WAV 24-Bit & Plată Revolut Imediată",
+  "description": "Clopote reci de biserică, cinele de drill sincopate și bași agresivi concepuți pentru versuri de stradă în Galați.",
+  "targetArtists": [
+    "Artiști din Galați",
+    "Comunitatea Hip-Hop și Trap din România",
+    "Scena Urbană Est-Europeană"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Galați",
+    "Drill Românesc",
+    "Revolut Pay & Carduri (RON)",
+    "Conform UCMR-ADA"
+  ],
+  "popularGenres": [
+    "Negative de Drill Românesc de Stradă",
+    "Trap Românesc",
+    "Rap de Cartier"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "galati-trap-lautaresc-fusion",
+  "name": "Galați Negative de Trap Lăutăresc cu Țambal",
+  "category": "scene",
+  "badge": "Galați Trap Lăutăresc",
+  "headline": "Galați (Dunărea & Siderurgie Dură) Negative de Trap Lăutăresc cu Țambal: Audio WAV 24-Bit & Plată Revolut Imediată",
+  "description": "Arpegii autentice de țambal, solo-uri plânse de vioară și bași rotunzi 808 pentru artiștii vizionari din Galați.",
+  "targetArtists": [
+    "Artiști din Galați",
+    "Comunitatea Hip-Hop și Trap din România",
+    "Scena Urbană Est-Europeană"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "D-Hijaz / A-Minor",
+  "vibeAttributes": [
+    "Galați",
+    "Trap Lăutăresc",
+    "Revolut Pay & Carduri (RON)",
+    "Conform UCMR-ADA"
+  ],
+  "popularGenres": [
+    "Negative de Trap Lăutăresc cu Țambal",
+    "Trap Românesc",
+    "Rap de Cartier"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "galati-boom-bap-clasic-blocuri",
+  "name": "Galați Negative de Boom Bap Clasic După Blocuri",
+  "category": "scene",
+  "badge": "Galați Boom Bap Clasic",
+  "headline": "Galați (Dunărea & Siderurgie Dură) Negative de Boom Bap Clasic După Blocuri: Audio WAV 24-Bit & Plată Revolut Imediată",
+  "description": "Praf autentic de vinil, tobe sparte cu atac greu și sample-uri calde de soul pentru MC-ii adevărați din Galați.",
+  "targetArtists": [
+    "Artiști din Galați",
+    "Comunitatea Hip-Hop și Trap din România",
+    "Scena Urbană Est-Europeană"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Galați",
+    "Boom Bap Clasic",
+    "Revolut Pay & Carduri (RON)",
+    "Conform UCMR-ADA"
+  ],
+  "popularGenres": [
+    "Negative de Boom Bap Clasic După Blocuri",
+    "Trap Românesc",
+    "Rap de Cartier"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "pitesti-trap-romanesc-808",
+  "name": "Pitești Negative de Trap Românesc 808",
+  "category": "scene",
+  "badge": "Pitești Trap Românesc",
+  "headline": "Pitești (Argeș & Trap Alert Tineret) Negative de Trap Românesc 808: Audio WAV 24-Bit & Plată Revolut Imediată",
+  "description": "Bași 808 masivi și glisați, sintetizatoare acide și cinele rapide în triolete pentru artiștii din Pitești.",
+  "targetArtists": [
+    "Artiști din Pitești",
+    "Comunitatea Hip-Hop și Trap din România",
+    "Scena Urbană Est-Europeană"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Pitești",
+    "Trap Românesc",
+    "Revolut Pay & Carduri (RON)",
+    "Conform UCMR-ADA"
+  ],
+  "popularGenres": [
+    "Negative de Trap Românesc 808",
+    "Trap Românesc",
+    "Rap de Cartier"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "pitesti-drill-romanesc-strada",
+  "name": "Pitești Negative de Drill Românesc de Stradă",
+  "category": "scene",
+  "badge": "Pitești Drill Românesc",
+  "headline": "Pitești (Argeș & Trap Alert Tineret) Negative de Drill Românesc de Stradă: Audio WAV 24-Bit & Plată Revolut Imediată",
+  "description": "Clopote reci de biserică, cinele de drill sincopate și bași agresivi concepuți pentru versuri de stradă în Pitești.",
+  "targetArtists": [
+    "Artiști din Pitești",
+    "Comunitatea Hip-Hop și Trap din România",
+    "Scena Urbană Est-Europeană"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Pitești",
+    "Drill Românesc",
+    "Revolut Pay & Carduri (RON)",
+    "Conform UCMR-ADA"
+  ],
+  "popularGenres": [
+    "Negative de Drill Românesc de Stradă",
+    "Trap Românesc",
+    "Rap de Cartier"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "pitesti-trap-lautaresc-fusion",
+  "name": "Pitești Negative de Trap Lăutăresc cu Țambal",
+  "category": "scene",
+  "badge": "Pitești Trap Lăutăresc",
+  "headline": "Pitești (Argeș & Trap Alert Tineret) Negative de Trap Lăutăresc cu Țambal: Audio WAV 24-Bit & Plată Revolut Imediată",
+  "description": "Arpegii autentice de țambal, solo-uri plânse de vioară și bași rotunzi 808 pentru artiștii vizionari din Pitești.",
+  "targetArtists": [
+    "Artiști din Pitești",
+    "Comunitatea Hip-Hop și Trap din România",
+    "Scena Urbană Est-Europeană"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "D-Hijaz / A-Minor",
+  "vibeAttributes": [
+    "Pitești",
+    "Trap Lăutăresc",
+    "Revolut Pay & Carduri (RON)",
+    "Conform UCMR-ADA"
+  ],
+  "popularGenres": [
+    "Negative de Trap Lăutăresc cu Țambal",
+    "Trap Românesc",
+    "Rap de Cartier"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "pitesti-boom-bap-clasic-blocuri",
+  "name": "Pitești Negative de Boom Bap Clasic După Blocuri",
+  "category": "scene",
+  "badge": "Pitești Boom Bap Clasic",
+  "headline": "Pitești (Argeș & Trap Alert Tineret) Negative de Boom Bap Clasic După Blocuri: Audio WAV 24-Bit & Plată Revolut Imediată",
+  "description": "Praf autentic de vinil, tobe sparte cu atac greu și sample-uri calde de soul pentru MC-ii adevărați din Pitești.",
+  "targetArtists": [
+    "Artiști din Pitești",
+    "Comunitatea Hip-Hop și Trap din România",
+    "Scena Urbană Est-Europeană"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Pitești",
+    "Boom Bap Clasic",
+    "Revolut Pay & Carduri (RON)",
+    "Conform UCMR-ADA"
+  ],
+  "popularGenres": [
+    "Negative de Boom Bap Clasic După Blocuri",
+    "Trap Românesc",
+    "Rap de Cartier"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "arad-trap-romanesc-808",
+  "name": "Arad Negative de Trap Românesc 808",
+  "category": "scene",
+  "badge": "Arad Trap Românesc",
+  "headline": "Arad (Mureș & Vibe Vestic Melodic) Negative de Trap Românesc 808: Audio WAV 24-Bit & Plată Revolut Imediată",
+  "description": "Bași 808 masivi și glisați, sintetizatoare acide și cinele rapide în triolete pentru artiștii din Arad.",
+  "targetArtists": [
+    "Artiști din Arad",
+    "Comunitatea Hip-Hop și Trap din România",
+    "Scena Urbană Est-Europeană"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Arad",
+    "Trap Românesc",
+    "Revolut Pay & Carduri (RON)",
+    "Conform UCMR-ADA"
+  ],
+  "popularGenres": [
+    "Negative de Trap Românesc 808",
+    "Trap Românesc",
+    "Rap de Cartier"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "arad-drill-romanesc-strada",
+  "name": "Arad Negative de Drill Românesc de Stradă",
+  "category": "scene",
+  "badge": "Arad Drill Românesc",
+  "headline": "Arad (Mureș & Vibe Vestic Melodic) Negative de Drill Românesc de Stradă: Audio WAV 24-Bit & Plată Revolut Imediată",
+  "description": "Clopote reci de biserică, cinele de drill sincopate și bași agresivi concepuți pentru versuri de stradă în Arad.",
+  "targetArtists": [
+    "Artiști din Arad",
+    "Comunitatea Hip-Hop și Trap din România",
+    "Scena Urbană Est-Europeană"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Arad",
+    "Drill Românesc",
+    "Revolut Pay & Carduri (RON)",
+    "Conform UCMR-ADA"
+  ],
+  "popularGenres": [
+    "Negative de Drill Românesc de Stradă",
+    "Trap Românesc",
+    "Rap de Cartier"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "arad-trap-lautaresc-fusion",
+  "name": "Arad Negative de Trap Lăutăresc cu Țambal",
+  "category": "scene",
+  "badge": "Arad Trap Lăutăresc",
+  "headline": "Arad (Mureș & Vibe Vestic Melodic) Negative de Trap Lăutăresc cu Țambal: Audio WAV 24-Bit & Plată Revolut Imediată",
+  "description": "Arpegii autentice de țambal, solo-uri plânse de vioară și bași rotunzi 808 pentru artiștii vizionari din Arad.",
+  "targetArtists": [
+    "Artiști din Arad",
+    "Comunitatea Hip-Hop și Trap din România",
+    "Scena Urbană Est-Europeană"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "D-Hijaz / A-Minor",
+  "vibeAttributes": [
+    "Arad",
+    "Trap Lăutăresc",
+    "Revolut Pay & Carduri (RON)",
+    "Conform UCMR-ADA"
+  ],
+  "popularGenres": [
+    "Negative de Trap Lăutăresc cu Țambal",
+    "Trap Românesc",
+    "Rap de Cartier"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "arad-boom-bap-clasic-blocuri",
+  "name": "Arad Negative de Boom Bap Clasic După Blocuri",
+  "category": "scene",
+  "badge": "Arad Boom Bap Clasic",
+  "headline": "Arad (Mureș & Vibe Vestic Melodic) Negative de Boom Bap Clasic După Blocuri: Audio WAV 24-Bit & Plată Revolut Imediată",
+  "description": "Praf autentic de vinil, tobe sparte cu atac greu și sample-uri calde de soul pentru MC-ii adevărați din Arad.",
+  "targetArtists": [
+    "Artiști din Arad",
+    "Comunitatea Hip-Hop și Trap din România",
+    "Scena Urbană Est-Europeană"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Arad",
+    "Boom Bap Clasic",
+    "Revolut Pay & Carduri (RON)",
+    "Conform UCMR-ADA"
+  ],
+  "popularGenres": [
+    "Negative de Boom Bap Clasic După Blocuri",
+    "Trap Românesc",
+    "Rap de Cartier"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "bacau-trap-romanesc-808",
+  "name": "Bacău Negative de Trap Românesc 808",
+  "category": "scene",
+  "badge": "Bacău Trap Românesc",
+  "headline": "Bacău (Moldova Centru & Hip-Hop Clasic) Negative de Trap Românesc 808: Audio WAV 24-Bit & Plată Revolut Imediată",
+  "description": "Bași 808 masivi și glisați, sintetizatoare acide și cinele rapide în triolete pentru artiștii din Bacău.",
+  "targetArtists": [
+    "Artiști din Bacău",
+    "Comunitatea Hip-Hop și Trap din România",
+    "Scena Urbană Est-Europeană"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Bacău",
+    "Trap Românesc",
+    "Revolut Pay & Carduri (RON)",
+    "Conform UCMR-ADA"
+  ],
+  "popularGenres": [
+    "Negative de Trap Românesc 808",
+    "Trap Românesc",
+    "Rap de Cartier"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "bacau-drill-romanesc-strada",
+  "name": "Bacău Negative de Drill Românesc de Stradă",
+  "category": "scene",
+  "badge": "Bacău Drill Românesc",
+  "headline": "Bacău (Moldova Centru & Hip-Hop Clasic) Negative de Drill Românesc de Stradă: Audio WAV 24-Bit & Plată Revolut Imediată",
+  "description": "Clopote reci de biserică, cinele de drill sincopate și bași agresivi concepuți pentru versuri de stradă în Bacău.",
+  "targetArtists": [
+    "Artiști din Bacău",
+    "Comunitatea Hip-Hop și Trap din România",
+    "Scena Urbană Est-Europeană"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Bacău",
+    "Drill Românesc",
+    "Revolut Pay & Carduri (RON)",
+    "Conform UCMR-ADA"
+  ],
+  "popularGenres": [
+    "Negative de Drill Românesc de Stradă",
+    "Trap Românesc",
+    "Rap de Cartier"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "bacau-trap-lautaresc-fusion",
+  "name": "Bacău Negative de Trap Lăutăresc cu Țambal",
+  "category": "scene",
+  "badge": "Bacău Trap Lăutăresc",
+  "headline": "Bacău (Moldova Centru & Hip-Hop Clasic) Negative de Trap Lăutăresc cu Țambal: Audio WAV 24-Bit & Plată Revolut Imediată",
+  "description": "Arpegii autentice de țambal, solo-uri plânse de vioară și bași rotunzi 808 pentru artiștii vizionari din Bacău.",
+  "targetArtists": [
+    "Artiști din Bacău",
+    "Comunitatea Hip-Hop și Trap din România",
+    "Scena Urbană Est-Europeană"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "D-Hijaz / A-Minor",
+  "vibeAttributes": [
+    "Bacău",
+    "Trap Lăutăresc",
+    "Revolut Pay & Carduri (RON)",
+    "Conform UCMR-ADA"
+  ],
+  "popularGenres": [
+    "Negative de Trap Lăutăresc cu Țambal",
+    "Trap Românesc",
+    "Rap de Cartier"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "bacau-boom-bap-clasic-blocuri",
+  "name": "Bacău Negative de Boom Bap Clasic După Blocuri",
+  "category": "scene",
+  "badge": "Bacău Boom Bap Clasic",
+  "headline": "Bacău (Moldova Centru & Hip-Hop Clasic) Negative de Boom Bap Clasic După Blocuri: Audio WAV 24-Bit & Plată Revolut Imediată",
+  "description": "Praf autentic de vinil, tobe sparte cu atac greu și sample-uri calde de soul pentru MC-ii adevărați din Bacău.",
+  "targetArtists": [
+    "Artiști din Bacău",
+    "Comunitatea Hip-Hop și Trap din România",
+    "Scena Urbană Est-Europeană"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Bacău",
+    "Boom Bap Clasic",
+    "Revolut Pay & Carduri (RON)",
+    "Conform UCMR-ADA"
+  ],
+  "popularGenres": [
+    "Negative de Boom Bap Clasic După Blocuri",
+    "Trap Românesc",
+    "Rap de Cartier"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "baia-mare-trap-romanesc-808",
+  "name": "Baia Mare Negative de Trap Românesc 808",
+  "category": "scene",
+  "badge": "Baia Mare Trap Românesc",
+  "headline": "Baia Mare (Maramureș & Viori Tradiționale) Negative de Trap Românesc 808: Audio WAV 24-Bit & Plată Revolut Imediată",
+  "description": "Bași 808 masivi și glisați, sintetizatoare acide și cinele rapide în triolete pentru artiștii din Baia Mare.",
+  "targetArtists": [
+    "Artiști din Baia Mare",
+    "Comunitatea Hip-Hop și Trap din România",
+    "Scena Urbană Est-Europeană"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Baia Mare",
+    "Trap Românesc",
+    "Revolut Pay & Carduri (RON)",
+    "Conform UCMR-ADA"
+  ],
+  "popularGenres": [
+    "Negative de Trap Românesc 808",
+    "Trap Românesc",
+    "Rap de Cartier"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "baia-mare-drill-romanesc-strada",
+  "name": "Baia Mare Negative de Drill Românesc de Stradă",
+  "category": "scene",
+  "badge": "Baia Mare Drill Românesc",
+  "headline": "Baia Mare (Maramureș & Viori Tradiționale) Negative de Drill Românesc de Stradă: Audio WAV 24-Bit & Plată Revolut Imediată",
+  "description": "Clopote reci de biserică, cinele de drill sincopate și bași agresivi concepuți pentru versuri de stradă în Baia Mare.",
+  "targetArtists": [
+    "Artiști din Baia Mare",
+    "Comunitatea Hip-Hop și Trap din România",
+    "Scena Urbană Est-Europeană"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Baia Mare",
+    "Drill Românesc",
+    "Revolut Pay & Carduri (RON)",
+    "Conform UCMR-ADA"
+  ],
+  "popularGenres": [
+    "Negative de Drill Românesc de Stradă",
+    "Trap Românesc",
+    "Rap de Cartier"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "baia-mare-trap-lautaresc-fusion",
+  "name": "Baia Mare Negative de Trap Lăutăresc cu Țambal",
+  "category": "scene",
+  "badge": "Baia Mare Trap Lăutăresc",
+  "headline": "Baia Mare (Maramureș & Viori Tradiționale) Negative de Trap Lăutăresc cu Țambal: Audio WAV 24-Bit & Plată Revolut Imediată",
+  "description": "Arpegii autentice de țambal, solo-uri plânse de vioară și bași rotunzi 808 pentru artiștii vizionari din Baia Mare.",
+  "targetArtists": [
+    "Artiști din Baia Mare",
+    "Comunitatea Hip-Hop și Trap din România",
+    "Scena Urbană Est-Europeană"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "D-Hijaz / A-Minor",
+  "vibeAttributes": [
+    "Baia Mare",
+    "Trap Lăutăresc",
+    "Revolut Pay & Carduri (RON)",
+    "Conform UCMR-ADA"
+  ],
+  "popularGenres": [
+    "Negative de Trap Lăutăresc cu Țambal",
+    "Trap Românesc",
+    "Rap de Cartier"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "baia-mare-boom-bap-clasic-blocuri",
+  "name": "Baia Mare Negative de Boom Bap Clasic După Blocuri",
+  "category": "scene",
+  "badge": "Baia Mare Boom Bap Clasic",
+  "headline": "Baia Mare (Maramureș & Viori Tradiționale) Negative de Boom Bap Clasic După Blocuri: Audio WAV 24-Bit & Plată Revolut Imediată",
+  "description": "Praf autentic de vinil, tobe sparte cu atac greu și sample-uri calde de soul pentru MC-ii adevărați din Baia Mare.",
+  "targetArtists": [
+    "Artiști din Baia Mare",
+    "Comunitatea Hip-Hop și Trap din România",
+    "Scena Urbană Est-Europeană"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Baia Mare",
+    "Boom Bap Clasic",
+    "Revolut Pay & Carduri (RON)",
+    "Conform UCMR-ADA"
+  ],
+  "popularGenres": [
+    "Negative de Boom Bap Clasic După Blocuri",
+    "Trap Românesc",
+    "Rap de Cartier"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "suceava-trap-romanesc-808",
+  "name": "Suceava Negative de Trap Românesc 808",
+  "category": "scene",
+  "badge": "Suceava Trap Românesc",
+  "headline": "Suceava (Bucovina & Cetate de Scaun) Negative de Trap Românesc 808: Audio WAV 24-Bit & Plată Revolut Imediată",
+  "description": "Bași 808 masivi și glisați, sintetizatoare acide și cinele rapide în triolete pentru artiștii din Suceava.",
+  "targetArtists": [
+    "Artiști din Suceava",
+    "Comunitatea Hip-Hop și Trap din România",
+    "Scena Urbană Est-Europeană"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Suceava",
+    "Trap Românesc",
+    "Revolut Pay & Carduri (RON)",
+    "Conform UCMR-ADA"
+  ],
+  "popularGenres": [
+    "Negative de Trap Românesc 808",
+    "Trap Românesc",
+    "Rap de Cartier"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "suceava-drill-romanesc-strada",
+  "name": "Suceava Negative de Drill Românesc de Stradă",
+  "category": "scene",
+  "badge": "Suceava Drill Românesc",
+  "headline": "Suceava (Bucovina & Cetate de Scaun) Negative de Drill Românesc de Stradă: Audio WAV 24-Bit & Plată Revolut Imediată",
+  "description": "Clopote reci de biserică, cinele de drill sincopate și bași agresivi concepuți pentru versuri de stradă în Suceava.",
+  "targetArtists": [
+    "Artiști din Suceava",
+    "Comunitatea Hip-Hop și Trap din România",
+    "Scena Urbană Est-Europeană"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Suceava",
+    "Drill Românesc",
+    "Revolut Pay & Carduri (RON)",
+    "Conform UCMR-ADA"
+  ],
+  "popularGenres": [
+    "Negative de Drill Românesc de Stradă",
+    "Trap Românesc",
+    "Rap de Cartier"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "suceava-trap-lautaresc-fusion",
+  "name": "Suceava Negative de Trap Lăutăresc cu Țambal",
+  "category": "scene",
+  "badge": "Suceava Trap Lăutăresc",
+  "headline": "Suceava (Bucovina & Cetate de Scaun) Negative de Trap Lăutăresc cu Țambal: Audio WAV 24-Bit & Plată Revolut Imediată",
+  "description": "Arpegii autentice de țambal, solo-uri plânse de vioară și bași rotunzi 808 pentru artiștii vizionari din Suceava.",
+  "targetArtists": [
+    "Artiști din Suceava",
+    "Comunitatea Hip-Hop și Trap din România",
+    "Scena Urbană Est-Europeană"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "D-Hijaz / A-Minor",
+  "vibeAttributes": [
+    "Suceava",
+    "Trap Lăutăresc",
+    "Revolut Pay & Carduri (RON)",
+    "Conform UCMR-ADA"
+  ],
+  "popularGenres": [
+    "Negative de Trap Lăutăresc cu Țambal",
+    "Trap Românesc",
+    "Rap de Cartier"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "suceava-boom-bap-clasic-blocuri",
+  "name": "Suceava Negative de Boom Bap Clasic După Blocuri",
+  "category": "scene",
+  "badge": "Suceava Boom Bap Clasic",
+  "headline": "Suceava (Bucovina & Cetate de Scaun) Negative de Boom Bap Clasic După Blocuri: Audio WAV 24-Bit & Plată Revolut Imediată",
+  "description": "Praf autentic de vinil, tobe sparte cu atac greu și sample-uri calde de soul pentru MC-ii adevărați din Suceava.",
+  "targetArtists": [
+    "Artiști din Suceava",
+    "Comunitatea Hip-Hop și Trap din România",
+    "Scena Urbană Est-Europeană"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Suceava",
+    "Boom Bap Clasic",
+    "Revolut Pay & Carduri (RON)",
+    "Conform UCMR-ADA"
+  ],
+  "popularGenres": [
+    "Negative de Boom Bap Clasic După Blocuri",
+    "Trap Românesc",
+    "Rap de Cartier"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
 ];
