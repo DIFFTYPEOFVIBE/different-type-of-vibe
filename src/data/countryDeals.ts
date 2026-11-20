@@ -38588,4 +38588,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "cz/zlin-valassko-bata": {
+  "slug": "cz/zlin-valassko-bata",
+  "name": "Česko – Zlín & Valašsko (Baťovské Město: Průmyslová Inovace & Energický Trap)",
+  "flag": "🇨🇿",
+  "currency": "CZK (Kč) / EUR (€)",
+  "currencyCode": "CZK",
+  "gateways": "QR Platba, ČSOB, Česká spořitelna, KB, Air Bank, Raiffeisenbank, Revolut Pay, Karty, Apple Pay, PayPal",
+  "pro": "OSA",
+  "proFullName": "OSA (Ochranný svaz autorský)",
+  "proGuide": "100% v souladu se stanovami OSA a evropskou komerční licencí.",
+  "headline": "Beaty ve Zlíně: Baťovský Funkcionalismus, Cihlové Továrny a Moderní Trap",
+  "description": "Průmyslová přesnost a mladistvá energie Zlína a Valašska: ostré syntezátory, úderné bicí a masivní basy 808 navržené pro novou vlnu moravského rapu.",
+  "popularGenres": [
+    "Zlín Synth Trap",
+    "Valašsko Rap Flow",
+    "Industrial 808"
+  ],
+  "subClusters": []
+},
+  "cz/kladno-stredni-cechy": {
+  "slug": "cz/kladno-stredni-cechy",
+  "name": "Česko – Kladno (Ocelové Kladno: Důlní Historie, Syrová Realita & Těžký Bas)",
+  "flag": "🇨🇿",
+  "currency": "CZK (Kč) / EUR (€)",
+  "currencyCode": "CZK",
+  "gateways": "QR Platba, ČSOB, Česká spořitelna, KB, Air Bank, Raiffeisenbank, Revolut Pay, Karty, Apple Pay, PayPal",
+  "pro": "OSA",
+  "proFullName": "OSA (Ochranný svaz autorský)",
+  "proGuide": "Dodání ve studiové kvalitě WAV 24-bit s oddělenými stopami (stems).",
+  "headline": "Beaty v Kladně: Hutnické Město, Ostré Rýmy a Neúprosný Pouliční Bas",
+  "description": "Těžká dělnická tradice a syrový pouliční rap největšího středočeského města: temná piana, drsné bicí z ulice a hluboké podladěné basy 808 pro kladenské MCs.",
+  "popularGenres": [
+    "Kladno Street Rap",
+    "Střední Čechy Drill",
+    "Heavy Bass 808"
+  ],
+  "subClusters": []
+},
+  "cz/most-severni-cechy": {
+  "slug": "cz/most-severni-cechy",
+  "name": "Česko – Most & Litvínov (Severočeská Pánev: Syrový Rap z Mostu & Tvrdý Drill)",
+  "flag": "🇨🇿",
+  "currency": "CZK (Kč) / EUR (€)",
+  "currencyCode": "CZK",
+  "gateways": "QR Platba, ČSOB, Česká spořitelna, KB, Air Bank, Raiffeisenbank, Revolut Pay, Karty, Apple Pay, PayPal",
+  "pro": "OSA",
+  "proFullName": "OSA (Ochranný svaz autorský)",
+  "proGuide": "100% neomezená práva na monetizaci na Spotify, Apple Music i YouTube.",
+  "headline": "Beaty v Mostě: Severočeská Hnědouhelná Pánev, Autenticita a Neústupný Drill",
+  "description": "Nejupřímnější a nejsyrovější atmosféra severních Čech: zvonové melodie v moll, agresivní hi-hats a basy, které třesou paneláky, pro nekompromisní texty z Mostu a Litvínova.",
+  "popularGenres": [
+    "Most Street Drill",
+    "Severočeský Real Rap",
+    "Panelákový Bas"
+  ],
+  "subClusters": []
+},
+  "cz/karlovy-vary-zapad": {
+  "slug": "cz/karlovy-vary-zapad",
+  "name": "Česko – Karlovy Vary (Lázeňské Kolonády: Filmový Vibe & Luxusní Trap)",
+  "flag": "🇨🇿",
+  "currency": "CZK (Kč) / EUR (€)",
+  "currencyCode": "CZK",
+  "gateways": "QR Platba, ČSOB, Česká spořitelna, KB, Air Bank, Raiffeisenbank, Revolut Pay, Karty, Apple Pay, PayPal",
+  "pro": "OSA",
+  "proFullName": "OSA (Ochranný svaz autorský)",
+  "proGuide": "Okamžitá platba přes QR Platbu v CZK s rychlým stažením souborů.",
+  "headline": "Beaty v Karlových Varech: Filmový Festival, Kolonády a Luxusní Melodický Trap",
+  "description": "Kosmopolitní elegance světoznámých lázní: teplé filmové smyčce, luxusní piana a jemné klenuté basy 808 stvořené pro estetické videoklipy a noční jízdy.",
+  "popularGenres": [
+    "Karlovy Vary Luxury Trap",
+    "Lázeňský Melodic Beat",
+    "West Coast CZ"
+  ],
+  "subClusters": []
+},
+  "cz/opava-slezsko-historie": {
+  "slug": "cz/opava-slezsko-historie",
+  "name": "Česko – Opava (Historická Metropole Slezska: Studentská Kultura & Akustický Rap)",
+  "flag": "🇨🇿",
+  "currency": "CZK (Kč) / EUR (€)",
+  "currencyCode": "CZK",
+  "gateways": "QR Platba, ČSOB, Česká spořitelna, KB, Air Bank, Raiffeisenbank, Revolut Pay, Karty, Apple Pay, PayPal",
+  "pro": "OSA",
+  "proFullName": "OSA (Ochranný svaz autorský)",
+  "proGuide": "Formulář OSA ke stažení pro oficiální registraci nahrávky.",
+  "headline": "Beaty v Opavě: Slezská Hrdost, Univerzitní Parky a Poetický Boom Bap",
+  "description": "Historická noblesa slezského hlavního města: jemné kytarové vyhrávky, akustická piana a uvolněný hip-hopový rytmus pro uvědomělý rap a příběhy z Opavska.",
+  "popularGenres": [
+    "Opava Conscious Rap",
+    "Slezský Boom Bap",
+    "Akustický Hip-Hop"
+  ],
+  "subClusters": []
+},
+  "cz/jihlava-vysocina-stred": {
+  "slug": "cz/jihlava-vysocina-stred",
+  "name": "Česko – Jihlava (Srdce Vysočiny: Zvlněné Lesy, Chlad & Temné Piana)",
+  "flag": "🇨🇿",
+  "currency": "CZK (Kč) / EUR (€)",
+  "currencyCode": "CZK",
+  "gateways": "QR Platba, ČSOB, Česká spořitelna, KB, Air Bank, Raiffeisenbank, Revolut Pay, Karty, Apple Pay, PayPal",
+  "pro": "OSA",
+  "proFullName": "OSA (Ochranný svaz autorský)",
+  "proGuide": "100% komerční práva bez skrytých poplatků.",
+  "headline": "Beaty v Jihlavě: Chladné Hvozdy Vysočiny, Piana a Hluboké Basy",
+  "description": "Drsná a čistá příroda Vysočiny: tklivé klavíry pod sněhem, vzdušné reverby a těžké basy 808 pro melancholické texty z křižovatky Čech a Moravy.",
+  "popularGenres": [
+    "Jihlava Dark Trap",
+    "Vysočina Hip-Hop",
+    "Pianový 808 Beat"
+  ],
+  "subClusters": []
+},
+  "cz/teplice-lazne-sever": {
+  "slug": "cz/teplice-lazne-sever",
+  "name": "Česko – Teplice (Lázně pod Krušnými Horami: Pouliční Drill & Rychlé Rýmy)",
+  "flag": "🇨🇿",
+  "currency": "CZK (Kč) / EUR (€)",
+  "currencyCode": "CZK",
+  "gateways": "QR Platba, ČSOB, Česká spořitelna, KB, Air Bank, Raiffeisenbank, Revolut Pay, Karty, Apple Pay, PayPal",
+  "pro": "OSA",
+  "proFullName": "OSA (Ochranný svaz autorský)",
+  "proGuide": "Přímé stažení souborů WAV a MP3 po zaplacení.",
+  "headline": "Beaty v Teplicích: Krušnohorské Úpatí, Ostrý Drill a Rychlé Tempo",
+  "description": "Kontrast lázeňské architektury a drsného severočeského podhůří: úderné drillové bicí, chladné syntezátory a basy 808 pro přímočaré rýmy teplických interpretů.",
+  "popularGenres": [
+    "Teplice Street Drill",
+    "Krušné Hory Rap",
+    "Rychlý Trap 808"
+  ],
+  "subClusters": []
+},
+  "cz/frydek-mistek-beskydy": {
+  "slug": "cz/frydek-mistek-beskydy",
+  "name": "Česko – Frýdek-Místek (Brána Beskyd: Řeka Ostravice & Hutný Severní Rap)",
+  "flag": "🇨🇿",
+  "currency": "CZK (Kč) / EUR (€)",
+  "currencyCode": "CZK",
+  "gateways": "QR Platba, ČSOB, Česká spořitelna, KB, Air Bank, Raiffeisenbank, Revolut Pay, Karty, Apple Pay, PayPal",
+  "pro": "OSA",
+  "proFullName": "OSA (Ochranný svaz autorský)",
+  "proGuide": "Podpora pro nezávislá studia a umělce v podhůří Beskyd.",
+  "headline": "Beaty ve Frýdku-Místku: Horská Řeka Ostravice, Masivní Basy a Slezský Vibe",
+  "description": "Podhorská síla Frýdecko-Místecka: těžké basové linky, akustické kytary a úderné bicí stvořené pro texty o odvaze a severomoravské soudržnosti.",
+  "popularGenres": [
+    "Frýdek Street Beat",
+    "Beskydy Rap Flow",
+    "Hutný 808 Bas"
+  ],
+  "subClusters": []
+},
+  "cz/prerov-stredni-morava": {
+  "slug": "cz/prerov-stredni-morava",
+  "name": "Česko – Přerov (Moravský Železniční Uzel: Ryzí Boom Bap & Cyphers)",
+  "flag": "🇨🇿",
+  "currency": "CZK (Kč) / EUR (€)",
+  "currencyCode": "CZK",
+  "gateways": "QR Platba, ČSOB, Česká spořitelna, KB, Air Bank, Raiffeisenbank, Revolut Pay, Karty, Apple Pay, PayPal",
+  "pro": "OSA",
+  "proFullName": "OSA (Ochranný svaz autorský)",
+  "proGuide": "Autorizováno pro živá vystoupení, streamování a rozhlas.",
+  "headline": "Beaty v Přerově: Železniční Křižovatka, Zemitý Boom Bap a Pravý Hip-Hop",
+  "description": "Poctivý zvuk střední Moravy: vinylové samply s přirozenou patinou, průrazné kopáky a melodická basa pro pouliční cyphers a vyzrálý rap.",
+  "popularGenres": [
+    "Přerov Boom Bap",
+    "Střední Morava Rap",
+    "Vinylový Cypher"
+  ],
+  "subClusters": []
+},
+  "cz/znojmo-jizni-pohranici": {
+  "slug": "cz/znojmo-jizni-pohranici",
+  "name": "Česko – Znojmo (Vinařský Kraj nad Dyjí: Akustické Kytary & Letní Chillhop)",
+  "flag": "🇨🇿",
+  "currency": "CZK (Kč) / EUR (€)",
+  "currencyCode": "CZK",
+  "gateways": "QR Platba, ČSOB, Česká spořitelna, KB, Air Bank, Raiffeisenbank, Revolut Pay, Karty, Apple Pay, PayPal",
+  "pro": "OSA",
+  "proFullName": "OSA (Ochranný svaz autorský)",
+  "proGuide": "Kompletní licenční smlouva v PDF ke stažení.",
+  "headline": "Beaty ve Znojmě: Kaňon Řeky Dyje, Vinné Sklípky a Slunný Akustický Lofi",
+  "description": "Sluncem zalitá jihomoravská krajina: měkké nylonové kytary, vzdušné perkuse a poklidný rytmus pro pohodový letní rap a poetické texty.",
+  "popularGenres": [
+    "Znojmo Wine Chillhop",
+    "Jižní Pohraničí Rap",
+    "Akustický Lofi"
+  ],
+  "subClusters": []
+},
 };

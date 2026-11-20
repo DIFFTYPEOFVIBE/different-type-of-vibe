@@ -103206,4 +103206,1297 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "1"
   ]
 },
+  {
+  "slug": "ektor-alpha-male-hard-trap",
+  "title": "Ektor Alpha-Male Hard Trap & Agresivní Dechové Žestě Beat",
+  "description": "Dominantní, těžkotonážní a sebevědomý trapový beat inspirovaný Ektorem (Detektor, Marko, Kancelář, Original), s triumfálními žestěmi, údernými kopáky a basem 808 pro neochvějnou autoritu.",
+  "targetKeywords": [
+    "ektor type beat",
+    "detektor ektor instrumental",
+    "tvrdy trap beat praha",
+    "ektor original instrumental",
+    "alpha male trap cesko"
+  ],
+  "heroCta": "Koupit Beat Styl Ektor (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hard Trap, Klubový Banger, Vstupní Skladba do Zápasu a Fitness",
+  "similarArtists": [
+    "Ektor",
+    "Smack",
+    "Separ",
+    "Pil C"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "productionTips": "Masivní orchestrální žestě s úzkým stereem uprostřed a tvrdý 808 bas s rychlým atakem.",
+  "idealVocalStyle": "Hluboký, sebevědomý a úsečný hlas s nekompromisním postojem a autoritativním přednesem.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Insuperabilní pro tréninkové playlisty, fitness videa i vyprodaná klubová pódia."
+},
+  {
+  "slug": "smack-one-grime-trap-legend",
+  "title": "Smack One Grime & 140 BPM UK Trap Fast Glides Beat",
+  "description": "Bleskurychlý a agresivní beat inspirovaný legendou českého grime Smackem One (A1, Chimera, P's a Love, 160), s divokými klouzavými basy, sekanými perkusemi a elektrizující atmosférou.",
+  "targetKeywords": [
+    "smack type beat",
+    "grime cesko 140 bpm beat",
+    "smack a1 instrumental",
+    "fast trap grime praha",
+    "smack one type beat"
+  ],
+  "heroCta": "Koupit Beat Styl Smack (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Grime, Rychlý Drill, Moshpity a Agresivní Cyphers",
+  "similarArtists": [
+    "Smack One",
+    "Skepta",
+    "Jme",
+    "Ghetts"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Sekané činely s vysokou dynamikou a sub-basy skákající v rychlých intervalech bez zpoždění.",
+  "idealVocalStyle": "Bleskurychlá kadence, neúprosná dikce a maximální zásoba energie v hlase.",
+  "suggestedKey": "F Minor",
+  "streamingSuitability": "Neporazitelný nástroj pro festivalové pódia a fanoušky nejrychlejšího rapu."
+},
+  {
+  "slug": "stein27-melodic-emo-trap-guitar",
+  "title": "Stein27 Emo-Trap Melancholie & Zlomená Kytara Beat",
+  "description": "Hluboce melancholický a citlivý kytarový trap inspirovaný Steinem27 (Teorie Pádu, Planeta Země, Růže, Habibi), spojující plačtivou akustickou kytaru, vzdušné piana a pop-punkovou melodiku.",
+  "targetKeywords": [
+    "stein27 type beat",
+    "teorie padu instrumental",
+    "emo trap kytara cesko",
+    "stein27 ruze beat",
+    "smutny trap beat brno"
+  ],
+  "heroCta": "Koupit Beat Styl Stein27 (WAV Mastered)",
+  "energyLevel": "High",
+  "primaryUse": "Emo-Trap, Osobní Balada, TikTok Trend a Melodický Singl",
+  "similarArtists": [
+    "Stein27",
+    "Calin",
+    "Viktor Sheen",
+    "Juice WRLD"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "productionTips": "Akustická kytara s lehkým páskovým driftem a měkké claps s prostorovým dozvukem.",
+  "idealVocalStyle": "Zlomený, citově vypjatý zpěv, výrazný autotune a chytlavé melodické refrény.",
+  "suggestedKey": "B Minor",
+  "streamingSuitability": "Masivní dosah u mladého publika s obrovskou schopností virálního šíření na TikToku."
+},
+  {
+  "slug": "hasan-milion-plus-melancholy",
+  "title": "Hasan Milion+ Ambientní Melancholie & Noční Trap Beat",
+  "description": "Zasněný, atmosférický a hluboký noční trap inspirovaný Hasanem (Oceán, Hasan, Prototyp, Dneska v Noci), s plujícími syntezátory, prostorovými echy a jemným basem 808.",
+  "targetKeywords": [
+    "hasan type beat",
+    "milion plus hasan instrumental",
+    "ambientni noční trap cesko",
+    "hasan ocean beat",
+    "melancholicky trap beat"
+  ],
+  "heroCta": "Koupit Beat Styl Hasan (WAV 24-bit)",
+  "energyLevel": "Medium",
+  "primaryUse": "Noční Jízda, Atmosférický Melodický Rap a Meditativní Texty",
+  "similarArtists": [
+    "Hasan",
+    "Karlo",
+    "Kamil Hoffmann",
+    "Yzomandias"
+  ],
+  "recommendedBpm": "120-128 BPM",
+  "productionTips": "Analogové pady filtrované přes dolnopropustný filtr a měkký 808 bas bez agresivního zkreslení.",
+  "idealVocalStyle": "Klidný, melancholický přednes, jemný autotune a prostorově bohaté ad-libs.",
+  "suggestedKey": "Ab Minor",
+  "streamingSuitability": "Oblíbená volba pro noční poslech v autě, chillout playlisty a vizuálně vytříbené klipy."
+},
+  {
+  "slug": "robin-zoot-party-humor-banger",
+  "title": "Robin Zoot Sudety Party Trap & Hravý Stadionový Banger Beat",
+  "description": "Veselý, nadsazený a chytlavý trapový banger inspirovaný Robinem Zootem (Pouzar, Make Sudety Great Again, Česká Floriida), s údernými bicími, hravou melodií a stadiónovým refrénem.",
+  "targetKeywords": [
+    "robin zoot type beat",
+    "make sudety great again instrumental",
+    "party trap banger cesko",
+    "robin zoot pouzar beat",
+    "milion plus party beat"
+  ],
+  "heroCta": "Koupit Beat Styl Robin Zoot (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Party Rap, Vtipné a Sebevědomé Texty, Festivalové Hity",
+  "similarArtists": [
+    "Robin Zoot",
+    "Nik Tendo",
+    "Koky",
+    "Yzomandias"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "productionTips": "Hravé syntezátorové linky s rychlým atakem a rytmický 808 bas podporující skákání publika.",
+  "idealVocalStyle": "Vtipný a uvolněný projev, výrazné slogany a refrény, které si lidé okamžitě zpívají.",
+  "suggestedKey": "C Major",
+  "streamingSuitability": "Zaručená vysoká odezva na festivalech, letních akcích a studentských večírcích."
+},
+  {
+  "slug": "rest-veteran-boombap-flow",
+  "title": "Rest Legendární Boom Bap & Ryzí Soul Samply Beat",
+  "description": "Kultovní a zemitý hip-hop staré školy inspirovaný Restem (Střepy, Restart, Premiéra, Čas Nečeká): hřejivé soulové smyčky, poctivý bas a bicí s těžkým swingem pro skutečné mistry pera.",
+  "targetKeywords": [
+    "rest type beat",
+    "ty nikdy rest instrumental",
+    "klasicky boom bap cesko",
+    "rest strepy beat",
+    "soul boombap praha beat"
+  ],
+  "heroCta": "Koupit Beat Styl Rest (WAV Mastered)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Ryzí Boom Bap, Osobní Životní Výpovědi a Freestyle Cyphers",
+  "similarArtists": [
+    "Rest",
+    "DJ Fatte",
+    "Paulie Garand",
+    "Idea"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "productionTips": "Pečlivě nasamplovaný soul s přirozeným praskotem desky a hutným basem hraným naživo.",
+  "idealVocalStyle": "Bezchybná technika, přesná dikce, upřímné životní texty a respekt k hip-hopové kultuře.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Absolutní jistota pro tradiční hip-hopové posluchače a vinylová vydání."
+},
+  {
+  "slug": "mc-gey-rap-comedy-alternative",
+  "title": "MC Gey Alternativní Hip-Hop & Bizarní Jazzové Samply Beat",
+  "description": "Originální, neotřelý a humorný beat inspirovaný MC Geyem (Raptor, Opičí Král, Turbulence Ropuch), spojující bizarní jazzové vzorky, hravé basové linky a nečekané rytmické zvraty.",
+  "targetKeywords": [
+    "mc gey type beat",
+    "alternativni rap cesko beat",
+    "mc gey raptor instrumental",
+    "jazz rap ty nikdy beat",
+    "humorny hip hop beat"
+  ],
+  "heroCta": "Koupit Beat Styl MC Gey (WAV 24-bit)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Alternativní Rap, Inteligentní Komedie a Unikátní Deskový Projekt",
+  "similarArtists": [
+    "MC Gey",
+    "Kato",
+    "Prago Union",
+    "Krusty"
+  ],
+  "recommendedBpm": "92-96 BPM",
+  "productionTips": "Netradiční perkuse, přeladěné žesťové vzorky a pružná baskytara s analogovým teplem.",
+  "idealVocalStyle": "Sarkastický, hravý tón, neobvyklá témata a originální rýmové konstrukce.",
+  "suggestedKey": "G Minor",
+  "streamingSuitability": "Vysoká obliba v komunitě náročných posluchačů a na alternativní hudební scéně."
+},
+  {
+  "slug": "bedrich-smetana-moldau-epic-trap",
+  "title": "Bedřich Smetana Vltava Klasická Hudba & Trap 808 Fúze Beat",
+  "description": "Nádherná a velkolepá fúze motivů Vltavy z cyklu Má Vlast Bedřicha Smetany s masivními basy 808, filmovými kotli a moderními trapovými hi-hats pro vlastenecký a hrdý rap.",
+  "targetKeywords": [
+    "smetana vltava trap beat",
+    "klasicka hudba trap cesko",
+    "ma vlast hip hop beat",
+    "narodni cesky trap 808",
+    "vltava instrumental remix"
+  ],
+  "heroCta": "Koupit Smetana Vltava Trap (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Kulturní Fúze, Velkolepé Intro, Reprezentativní Skladba a Filmový Klip",
+  "similarArtists": [
+    "Antonín Dvořák",
+    "Ektor",
+    "Smack",
+    "NobodyListen"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "productionTips": "Autentické flétnové a smyčcové motivy Vltavy doplněné moderními trapovými bubny s plným dynamickým rozsahem.",
+  "idealVocalStyle": "Hrdý přednes, hluboké vlastenecké nebo společenské texty a dramatická síla.",
+  "suggestedKey": "E Minor",
+  "streamingSuitability": "Obrovská virální odezva na sociálních sítích i v zahraničních komunitách."
+},
+  {
+  "slug": "moravian-wine-cellar-acoustic-lofi",
+  "title": "Jihomoravský Vinný Sklípek & Akustická Kytara Chillhop Beat",
+  "description": "Pohodová letní atmosféra jihomoravských vinic kolem Pálavy a Mikulova: jemné vyhrávky španělské kytary, cinkání skleniček, letní vánek a lofi hip-hopové bicí.",
+  "targetKeywords": [
+    "jizni morava chillhop beat",
+    "vinny sklipek lofi beat",
+    "palava letni hip hop instrumental",
+    "akusticka kytara chillhop morava",
+    "moravian wine lofi"
+  ],
+  "heroCta": "Koupit Morava Chillhop (Komerční Licence)",
+  "energyLevel": "Low",
+  "primaryUse": "Letní Pohoda, Cestovatelská Videa, Degustace a Uvolněné Texty",
+  "similarArtists": [
+    "Calin",
+    "Paulie Garand",
+    "Tomppabeats",
+    "Nujabes"
+  ],
+  "recommendedBpm": "76-82 BPM",
+  "productionTips": "Organické terénní zvuky letní přírody podložené teplým tónem akustické kytary.",
+  "idealVocalStyle": "Uvolněný zpěv nebo pohodový rap o přátelství, životě a letních večerech.",
+  "suggestedKey": "G Major",
+  "streamingSuitability": "Skvělá volba pro letní vlogy, relaxační videa i slunné hudební klipy."
+},
+  {
+  "slug": "valassko-fujara-and-shepherd-trap",
+  "title": "Valašská Fujara & Pastevecké Píšťaly Trap 808 Beat",
+  "description": "Starobylá a tajemná horská atmosféra moravského Valašska a Beskyd: hluboké tóny pastýřské fujary a dřevěných píšťal nad dunivým basem moderního trapového zvuku.",
+  "targetKeywords": [
+    "fujara trap beat",
+    "valassko folklor trap",
+    "moravska fujara instrumental",
+    "horsky trap beat morava",
+    "traditional czech pipe trap 808"
+  ],
+  "heroCta": "Koupit Fujara Trap (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Kulturní Fúze, Písně s Horskou Tématikou a Filmový Rap",
+  "similarArtists": [
+    "Subcarpați",
+    "Čechomor",
+    "Argatu'",
+    "Vlad Dobrescu"
+  ],
+  "recommendedBpm": "124-130 BPM",
+  "productionTips": "Autentické dechové nahrávky fujary s lehkým horským echem podložené 40Hz sub-basem.",
+  "idealVocalStyle": "Výrazné rýmy s nářečními prvky, folklórní nápěvy nebo uvědomělý projev.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Výjimečná kulturní hodnota s vysokým potenciálem zaujmout na festivalech a YouTube."
+},
+  {
+  "slug": "stodolni-ostrava-nightlife-party-banger",
+  "title": "Ostrava Stodolní Noční Jízda & Klubový Trap 132 BPM Beat",
+  "description": "Divoká a nezkrotná energie legendární ostravské ulice Stodolní: rychlé syntezátory, úderné basy 808 a klubový groove navržený pro bary, párty a víkendové noci.",
+  "targetKeywords": [
+    "stodolni ostrava beat",
+    "klubovy trap ostrava 132 bpm",
+    "nocni jizda ostrava trap instrumental",
+    "stodolni party banger 808",
+    "ostrava club beat"
+  ],
+  "heroCta": "Koupit Stodolní Banger (Neomezené Užití)",
+  "energyLevel": "Very High",
+  "primaryUse": "Klubový Banger, Párty Skladba a Noční Vizuál z Ostravy",
+  "similarArtists": [
+    "Ektor",
+    "Smack",
+    "Sergei Barracuda",
+    "Pastor"
+  ],
+  "recommendedBpm": "130-135 BPM",
+  "productionTips": "Agresivní syntezátory s rychlým filtrem a hutný bas 808 třesoucí reproduktory.",
+  "idealVocalStyle": "Sebevědomý párty projev, energické rýmy o nočním životě a chytlavé refrény.",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "Zaručená rotace v nočních klubech, barech i studentských playlistech."
+},
+  {
+  "slug": "sudeten-border-drift-phonk-trap",
+  "title": "Sudetský Pohraniční Drift Phonk & Krkonošský Trap Beat",
+  "description": "Temný a agresivní drift phonk spojený s trapem inspirovaný horskými serpentinami Krkonoš a Sudet: zkreslené kravské zvonce (cowbells), těžké 808 basy a rychlost.",
+  "targetKeywords": [
+    "sudetsky drift phonk beat",
+    "cesky phonk trap instrumental",
+    "drift beat krkonose",
+    "cowbell phonk trap cesko",
+    "pohranicni rychly trap beat"
+  ],
+  "heroCta": "Koupit Drift Phonk Beat (WAV Mastered)",
+  "energyLevel": "Very High",
+  "primaryUse": "Noční Jízdy Autem, Tuningová a Drift Videa, TikTok Edity",
+  "similarArtists": [
+    "Kordhell",
+    "DVRST",
+    "PTK",
+    "Yung Buda"
+  ],
+  "recommendedBpm": "135-142 BPM",
+  "productionTips": "Zkreslený cowbell s páskovou saturací a masivní bas 808 s tvrdou kompresí.",
+  "idealVocalStyle": "Rychlý úsečný rap, agresivní flow nebo čistě instrumentální drift jízda.",
+  "suggestedKey": "F# Minor",
+  "streamingSuitability": "Masivní virální zájem v automobilové komunitě, posilovnách a na TikToku."
+},
+  {
+  "slug": "levne-trap-beaty-qr-platba-cesko",
+  "title": "Levné Trap Beaty od 350 Kč s QR Platbou (Pro Mladé MCs)",
+  "description": "Kvalitní a cenově dostupné trapové a drillové instrumentály se studiovým masteringem již od 350 Kč (cca 15€), s okamžitou QR Platbou bez nutnosti platební karty.",
+  "targetKeywords": [
+    "levne trap beaty qr platba cesko",
+    "beaty od 350 kc czk",
+    "levne instrumentaly na prodej praha brno",
+    "dostupne ceske beaty qr prevod"
+  ],
+  "heroCta": "Zobrazit Levné Beaty (Od 350 Kč přes QR Kód)",
+  "energyLevel": "High",
+  "primaryUse": "První Studiové Nahrávky, Demosnímky a Videa na YouTube",
+  "similarArtists": [
+    "Mladá Generace Českého Rapu"
+  ],
+  "recommendedBpm": "130-142 BPM",
+  "productionTips": "Přehledná stavba skladby sloka-refrén připravená pro snadné nahrání hlasu.",
+  "idealVocalStyle": "Vhodné pro všechny mladé rappery hledající svůj osobitý styl.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Zahrnuje komerční licenci platnou až do 25 000 přehrání na Spotify a Apple Music."
+},
+  {
+  "slug": "komercni-rnb-trap-beaty-wav-studiovy",
+  "title": "Komerční R&B-Trapové Instrumentály s Pianem a Kytarou v WAV",
+  "description": "Rádiově čisté produkce R&B-trapu s jemnými kytarovými vyhrávkami a rhodes pianem dodávané ve 24-bitové studiové WAV kvalitě pro zpěváky a melodické MCs v Česku.",
+  "targetKeywords": [
+    "komercni rnb trap beaty wav studiovy",
+    "melodicke instrumentaly kytara cesko",
+    "calin viktor sheen style beaty na prodej",
+    "moderni rnb instrumentaly praha brno"
+  ],
+  "heroCta": "Koupit R&B-Trap Beat (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Rádiový Singl, Romantický Videoklip a Spotify Hlavní Playlisty",
+  "similarArtists": [
+    "Calin",
+    "Viktor Sheen",
+    "Ben Cristovao",
+    "Stein27"
+  ],
+  "recommendedBpm": "105-115 BPM",
+  "productionTips": "Dostatek frekvenčního prostoru pro vokál a zaoblený bas bez nežádoucího dunění.",
+  "idealVocalStyle": "Melodický zpěv, citlivý autotune a silné chytlavé refrény.",
+  "suggestedKey": "F# Minor",
+  "streamingSuitability": "Výborná volba pro rozhlasový éter i streamovací platformy."
+},
+  {
+  "slug": "tvrde-drill-beaty-ostrava-praha-stems",
+  "title": "Tvrdé Drill Beaty s Klouzavým 808 Basem a Stopami (Stems)",
+  "description": "Nekompromisní pouliční drill s klouzavými basy 808 přes dvě oktávy a oddělenými stopami (stems) pro dokonalé smíchání hlasu v nahrávacích studiích v Praze i Ostravě.",
+  "targetKeywords": [
+    "tvrde drill beaty ostrava praha stems",
+    "cesky drill negativ s oddelenymi stopami",
+    "ptk yzomandias style drill stems",
+    "pouliční drill beaty czk ke stazeni"
+  ],
+  "heroCta": "Stáhnout Drill se Stopami (WAV Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Oficiální Drillové Singly, Studiové Nahrávání a Videa z Ulice",
+  "similarArtists": [
+    "PTK",
+    "Yzomandias",
+    "Smack",
+    "Central Cee"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Stopy exportované s rezervou -6dB pro precizní usazení vokálu do mixu.",
+  "idealVocalStyle": "Rychlé rýmy, přísná pouliční výpověď a sebevědomý přednes.",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "Maximální svoboda pro zvukaře k dosažení průrazného klubového zvuku."
+},
+  {
+  "slug": "letni-pop-trap-beaty-radio-cesko",
+  "title": "Letní Pop-Trap & Afro-Trap Instrumentály na 108 BPM pro Česká Rádia",
+  "description": "Slunné, taneční a pozitivní pop-trapové podklady na 108 BPM kombinující tropické kytary, vzdušné bicí a melodie navržené přímo pro rádia Evropa 2, Fajn a Spin.",
+  "targetKeywords": [
+    "letni pop trap beaty radio cesko",
+    "afro trap beat 108 bpm praha",
+    "letni rapovy beat radio ceska republika",
+    "calin ben cristovao letni beaty"
+  ],
+  "heroCta": "Koupit Letní Pop-Trap (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Letní Rádiový Singl, Festivalový Hit a Komerční Videoklip",
+  "similarArtists": [
+    "Calin",
+    "Ben Cristovao",
+    "Stein27",
+    "Sofian Medjmedj"
+  ],
+  "recommendedBpm": "106-110 BPM",
+  "productionTips": "Smíšená akustická a digitální perkusní linka s širokým stereem a vzdušnými výškami.",
+  "idealVocalStyle": "Zpěvný refrén, pozitivní vibe a rytmické verše vhodné k tanci.",
+  "suggestedKey": "A Major",
+  "streamingSuitability": "Ideální formát pro letní sezónu a hlavní proudové hudební playlisty."
+},
+  {
+  "slug": "osa-postoupeni-autorskych-prav-smlouva",
+  "title": "Smlouva o Výhradním Postoupení Práv k Beatu s Formulářem OSA (PDF)",
+  "description": "Stáhni si vzor oficiální smlouvy o neodvolatelném postoupení majetkových autorských práv k hudebnímu podkladu podle autorského zákona ČR, připravený k registraci u OSA.",
+  "targetKeywords": [
+    "osa postoupeni autorskych prav smlouva pdf",
+    "smlouva o prevodu prav k hudebnimu podkladu",
+    "vzory smluv osa nakup beatu",
+    "pravni smlouva na beat ceska republika"
+  ],
+  "heroCta": "Stáhnout Vzor Smlouvy OSA (PDF)",
+  "energyLevel": "N/A",
+  "primaryUse": "Právní Jistota při Výhradním Nákupu, Registrace u OSA a Vydavatelství",
+  "similarArtists": [
+    "Onzieb",
+    "Právníci Specializovaní na Autorské Právo v ČR"
+  ],
+  "recommendedBpm": "Všechna Tempa",
+  "productionTips": "Kompletní klauzule o digitální distribuci, synchronizaci i rozhlasovém vysílání.",
+  "idealVocalStyle": "Platné pro jakéhokoliv interpreta a žánr.",
+  "suggestedKey": "Všechny",
+  "streamingSuitability": "Stoprocentní majetková ochrana pro profesionální nahrávky."
+},
+  {
+  "slug": "koupit-beaty-air-bank-fio-sporitelna",
+  "title": "Nákup Beatů přes České Banky (Air Bank, Fio, Spořitelna & Okamžité Stažení)",
+  "description": "Plať za instrumentály pohodlně z účtu u kterékoli české banky (Česká spořitelna, ČSOB, KB, Air Bank, Fio, Raiffeisenbank) bez poplatků a s okamžitým dodáním souborů.",
+  "targetKeywords": [
+    "koupit beaty air bank fio sporitelna",
+    "platba za beaty ceska banka czk",
+    "online beat store ceske bankovnictvi",
+    "nakup podkladu prevodem bez karty"
+  ],
+  "heroCta": "Zaplatit Českou Bankou / Kartou (Kč)",
+  "energyLevel": "Universal",
+  "primaryUse": "Rychlý a Bezpečný Nákup Instrumentálů pro České Autory",
+  "similarArtists": [
+    "Česká a Slovenská Hudební Scéna"
+  ],
+  "recommendedBpm": "Libovolné BPM",
+  "productionTips": "Zabezpečené zpracování s automatickým odesláním odkazů ke stažení ihned po úhradě.",
+  "idealVocalStyle": "Dostupné všem nezávislým autorům v České republice.",
+  "suggestedKey": "Všechny Tóniny",
+  "streamingSuitability": "Okamžité využití komerční licence bez zbytečných prodlev."
+},
+  {
+  "slug": "vyhodny-balik-5-beatu-boombap-sleva",
+  "title": "Výhodný Balíček 5 Boom Bap Beatů se Slevou 40% v Českých Korunách",
+  "description": "Speciální balíček obsahující 5 vybraných instrumentálů ryzího boom bap hip-hopu s vinylovým praskáním a živým basem, se slevou 40% v českých korunách (Kč).",
+  "targetKeywords": [
+    "vyhodny balik 5 beatu boombap sleva",
+    "5 beatu boom bap cesko sleva",
+    "vyhodny balik instrumentalu praha",
+    "old school rap beaty bundle czk"
+  ],
+  "heroCta": "Koupit Balíček 5 Beatů (-40%)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Nahrání Celého EP nebo Mixtapu s Tradičním Lyrickým Rapem",
+  "similarArtists": [
+    "Rest",
+    "Paulie Garand",
+    "Idea",
+    "Kato"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "productionTips": "Zvuková jednota zachovaná napříč všemi 5 stopami pro souvislý dojem z alba.",
+  "idealVocalStyle": "Rýmy s hloubkou, věrnost hip-hopovým kořenům a čistá technika.",
+  "suggestedKey": "Různé Tóniny",
+  "streamingSuitability": "Včetně multi-track licence pro vydání kompletního hudebního projektu."
+},
+  {
+  "slug": "online-mix-mastering-vokalu-onzieb",
+  "title": "Kompletní Produkce, Vokální Mix & Mastering s Onziebem (WhatsApp)",
+  "description": "Prémiový balíček zahrnující beat na míru, profesionální vokální mix a mastering podle mezinárodních standardů pro české umělce prostřednictvím WhatsAppu s Onziebem.",
+  "targetKeywords": [
+    "online mix mastering vokalu onzieb",
+    "mix a mastering hip hop cesko",
+    "vokalni mastering praha brno whatsapp",
+    "producent onzieb mix na zakazku"
+  ],
+  "heroCta": "Poptat Mix & Mastering na WhatsAppu",
+  "energyLevel": "Custom",
+  "primaryUse": "Vydání Singlu na Nejvyšší Možné Zvukové Úrovni a Prezentace Labelům",
+  "similarArtists": [
+    "Onzieb",
+    "Česká Profesionální Scéna"
+  ],
+  "recommendedBpm": "Podle přání interpreta",
+  "productionTips": "Chirurgické zpracování hlasu s dynamickým EQ, špičkovým autotunem a lampovou saturací.",
+  "idealVocalStyle": "Vokál nahraný ve studiu nebo v domácím studiu s kvalitním mikrofonem.",
+  "suggestedKey": "Individuální",
+  "streamingSuitability": "Doručení přesně v mezích mezinárodních norem (-14 LUFS pro Spotify)."
+},
+  {
+  "slug": "emo-trap-kytarove-beaty-stein27-style",
+  "title": "Emo-Trap Kytarové Instrumentály s Akustickým Pianem (Stein27 Style)",
+  "description": "Hluboce emotivní propojení pomalejšího trapového rytmu s melancholickými kytarovými vyhrávkami a tklivým klavírem, vytvářející prostor pro upřímné osobní výpovědi.",
+  "targetKeywords": [
+    "emo trap kytarove beaty stein27 style",
+    "smutne kytarove beaty cesko",
+    "emo rap instrumental praha brno",
+    "melancholicky kytarovy trap wav"
+  ],
+  "heroCta": "Koupit Emo-Trap Kytarový Beat (WAV 24-bit)",
+  "energyLevel": "Medium",
+  "primaryUse": "Zpověď, Melancholická Skladba a Emoční Videoklip",
+  "similarArtists": [
+    "Stein27",
+    "Calin",
+    "Viktor Sheen",
+    "Juice WRLD"
+  ],
+  "recommendedBpm": "120-130 BPM (Half-time 60-65)",
+  "productionTips": "Akustická kytara s lehkým páskovým driftem a měkké bicí s krátkým dozvukem.",
+  "idealVocalStyle": "Upřímný citový přednes, výrazný autotune a dramatické refrény.",
+  "suggestedKey": "B Minor / E Minor",
+  "streamingSuitability": "Velký dosah u mladého publika na Spotify a v citlivých videích na TikToku."
+},
+  {
+  "slug": "drum-kit-cesky-trap-drill-samply-zdarma",
+  "title": "Stáhnout Zdarma Drum Kit Český Trap & Drill (24-bit WAV Samply)",
+  "description": "Stáhni si zdarma oficiální producentský balíček bicích pro český trap a drill obsahující 25 zvuků (naladěné 808 basy, úderné claps, rimshots a hi-hats) ve studiovém formátu WAV.",
+  "targetKeywords": [
+    "drum kit cesky trap drill samply zdarma",
+    "ceske tobe trap samply ke stazeni",
+    "808 samply cesky drill free download",
+    "producentsky pack zdarma rap cesko"
+  ],
+  "heroCta": "Stáhnout Drum Kit Zdarma (WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Hudební Produkce, Tvorba Beatů a Beatmaking v ČR",
+  "similarArtists": [
+    "Čeští a Slovenští Beatmakeři"
+  ],
+  "recommendedBpm": "Kompatibilní s libovolným BPM",
+  "productionTips": "Zvuky předem zmasterované a individuálně ošetřené, připravené k okamžitému vložení do DAW.",
+  "idealVocalStyle": "Určeno producentům tvořícím hudební podklady pro interprety.",
+  "suggestedKey": "808 basy naladěné v tónu C",
+  "streamingSuitability": "100% royalty-free samply pro použití ve vlastních komerčních hudebních nahrávkách."
+},
+  {
+  "slug": "zlin-cesky-trap-808",
+  "name": "Zlín Beaty Český Trap 808",
+  "category": "scene",
+  "badge": "Zlín Český Trap",
+  "headline": "Zlín (Valašsko & Baťovská Tradice) Beaty Český Trap 808: Zvuk WAV 24-Bit & QR Platba",
+  "description": "Masivní klouzavé 808 basy, temné syntezátory a ostré hi-hats navržené pro MCs z Zlín.",
+  "targetArtists": [
+    "Umělci z Zlín",
+    "Česká a Slovenská Rapová Komunita",
+    "Středoevropská Scéna"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Zlín",
+    "Český Trap",
+    "QR Platba v Kč",
+    "V souladu s OSA"
+  ],
+  "popularGenres": [
+    "Beaty Český Trap 808",
+    "Český Trap",
+    "Český Rap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "zlin-cesky-drill-ulice",
+  "name": "Zlín Beaty Český Pouliční Drill",
+  "category": "scene",
+  "badge": "Zlín Český Drill",
+  "headline": "Zlín (Valašsko & Baťovská Tradice) Beaty Český Pouliční Drill: Zvuk WAV 24-Bit & QR Platba",
+  "description": "Chladné zvony, rychlé synkopované bicí a nekompromisní basové linky pro rýmy z ulic v Zlín.",
+  "targetArtists": [
+    "Umělci z Zlín",
+    "Česká a Slovenská Rapová Komunita",
+    "Středoevropská Scéna"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Zlín",
+    "Český Drill",
+    "QR Platba v Kč",
+    "V souladu s OSA"
+  ],
+  "popularGenres": [
+    "Beaty Český Pouliční Drill",
+    "Český Trap",
+    "Český Rap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "zlin-melodic-rnb-trap",
+  "name": "Zlín Beaty Melodický R&B-Trap",
+  "category": "scene",
+  "badge": "Zlín R&B-Trap",
+  "headline": "Zlín (Valašsko & Baťovská Tradice) Beaty Melodický R&B-Trap: Zvuk WAV 24-Bit & QR Platba",
+  "description": "Zářivé kytary, vzdušné syntezátory a moderní taneční groove pro zpěvní polohy v Zlín.",
+  "targetArtists": [
+    "Umělci z Zlín",
+    "Česká a Slovenská Rapová Komunita",
+    "Středoevropská Scéna"
+  ],
+  "recommendedBpm": "108-115 BPM",
+  "recommendedKey": "D-Major / A-Minor",
+  "vibeAttributes": [
+    "Zlín",
+    "R&B-Trap",
+    "QR Platba v Kč",
+    "V souladu s OSA"
+  ],
+  "popularGenres": [
+    "Beaty Melodický R&B-Trap",
+    "Český Trap",
+    "Český Rap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "zlin-boom-bap-klasika",
+  "name": "Zlín Beaty Klasický Boom Bap MPC",
+  "category": "scene",
+  "badge": "Zlín Boom Bap Klasika",
+  "headline": "Zlín (Valašsko & Baťovská Tradice) Beaty Klasický Boom Bap MPC: Zvuk WAV 24-Bit & QR Platba",
+  "description": "Poctivé vinylové praskání, úderné suché bicí a hřejivé rhodes piano pro pravý rap v Zlín.",
+  "targetArtists": [
+    "Umělci z Zlín",
+    "Česká a Slovenská Rapová Komunita",
+    "Středoevropská Scéna"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Zlín",
+    "Boom Bap Klasika",
+    "QR Platba v Kč",
+    "V souladu s OSA"
+  ],
+  "popularGenres": [
+    "Beaty Klasický Boom Bap MPC",
+    "Český Trap",
+    "Český Rap"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "kladno-cesky-trap-808",
+  "name": "Kladno Beaty Český Trap 808",
+  "category": "scene",
+  "badge": "Kladno Český Trap",
+  "headline": "Kladno (Střední Čechy & Ocelový Kraj) Beaty Český Trap 808: Zvuk WAV 24-Bit & QR Platba",
+  "description": "Masivní klouzavé 808 basy, temné syntezátory a ostré hi-hats navržené pro MCs z Kladno.",
+  "targetArtists": [
+    "Umělci z Kladno",
+    "Česká a Slovenská Rapová Komunita",
+    "Středoevropská Scéna"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Kladno",
+    "Český Trap",
+    "QR Platba v Kč",
+    "V souladu s OSA"
+  ],
+  "popularGenres": [
+    "Beaty Český Trap 808",
+    "Český Trap",
+    "Český Rap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "kladno-cesky-drill-ulice",
+  "name": "Kladno Beaty Český Pouliční Drill",
+  "category": "scene",
+  "badge": "Kladno Český Drill",
+  "headline": "Kladno (Střední Čechy & Ocelový Kraj) Beaty Český Pouliční Drill: Zvuk WAV 24-Bit & QR Platba",
+  "description": "Chladné zvony, rychlé synkopované bicí a nekompromisní basové linky pro rýmy z ulic v Kladno.",
+  "targetArtists": [
+    "Umělci z Kladno",
+    "Česká a Slovenská Rapová Komunita",
+    "Středoevropská Scéna"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Kladno",
+    "Český Drill",
+    "QR Platba v Kč",
+    "V souladu s OSA"
+  ],
+  "popularGenres": [
+    "Beaty Český Pouliční Drill",
+    "Český Trap",
+    "Český Rap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "kladno-melodic-rnb-trap",
+  "name": "Kladno Beaty Melodický R&B-Trap",
+  "category": "scene",
+  "badge": "Kladno R&B-Trap",
+  "headline": "Kladno (Střední Čechy & Ocelový Kraj) Beaty Melodický R&B-Trap: Zvuk WAV 24-Bit & QR Platba",
+  "description": "Zářivé kytary, vzdušné syntezátory a moderní taneční groove pro zpěvní polohy v Kladno.",
+  "targetArtists": [
+    "Umělci z Kladno",
+    "Česká a Slovenská Rapová Komunita",
+    "Středoevropská Scéna"
+  ],
+  "recommendedBpm": "108-115 BPM",
+  "recommendedKey": "D-Major / A-Minor",
+  "vibeAttributes": [
+    "Kladno",
+    "R&B-Trap",
+    "QR Platba v Kč",
+    "V souladu s OSA"
+  ],
+  "popularGenres": [
+    "Beaty Melodický R&B-Trap",
+    "Český Trap",
+    "Český Rap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "kladno-boom-bap-klasika",
+  "name": "Kladno Beaty Klasický Boom Bap MPC",
+  "category": "scene",
+  "badge": "Kladno Boom Bap Klasika",
+  "headline": "Kladno (Střední Čechy & Ocelový Kraj) Beaty Klasický Boom Bap MPC: Zvuk WAV 24-Bit & QR Platba",
+  "description": "Poctivé vinylové praskání, úderné suché bicí a hřejivé rhodes piano pro pravý rap v Kladno.",
+  "targetArtists": [
+    "Umělci z Kladno",
+    "Česká a Slovenská Rapová Komunita",
+    "Středoevropská Scéna"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Kladno",
+    "Boom Bap Klasika",
+    "QR Platba v Kč",
+    "V souladu s OSA"
+  ],
+  "popularGenres": [
+    "Beaty Klasický Boom Bap MPC",
+    "Český Trap",
+    "Český Rap"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "most-cesky-trap-808",
+  "name": "Most Beaty Český Trap 808",
+  "category": "scene",
+  "badge": "Most Český Trap",
+  "headline": "Most (Severočeská Pánev & Syrová Ulice) Beaty Český Trap 808: Zvuk WAV 24-Bit & QR Platba",
+  "description": "Masivní klouzavé 808 basy, temné syntezátory a ostré hi-hats navržené pro MCs z Most.",
+  "targetArtists": [
+    "Umělci z Most",
+    "Česká a Slovenská Rapová Komunita",
+    "Středoevropská Scéna"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Most",
+    "Český Trap",
+    "QR Platba v Kč",
+    "V souladu s OSA"
+  ],
+  "popularGenres": [
+    "Beaty Český Trap 808",
+    "Český Trap",
+    "Český Rap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "most-cesky-drill-ulice",
+  "name": "Most Beaty Český Pouliční Drill",
+  "category": "scene",
+  "badge": "Most Český Drill",
+  "headline": "Most (Severočeská Pánev & Syrová Ulice) Beaty Český Pouliční Drill: Zvuk WAV 24-Bit & QR Platba",
+  "description": "Chladné zvony, rychlé synkopované bicí a nekompromisní basové linky pro rýmy z ulic v Most.",
+  "targetArtists": [
+    "Umělci z Most",
+    "Česká a Slovenská Rapová Komunita",
+    "Středoevropská Scéna"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Most",
+    "Český Drill",
+    "QR Platba v Kč",
+    "V souladu s OSA"
+  ],
+  "popularGenres": [
+    "Beaty Český Pouliční Drill",
+    "Český Trap",
+    "Český Rap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "most-melodic-rnb-trap",
+  "name": "Most Beaty Melodický R&B-Trap",
+  "category": "scene",
+  "badge": "Most R&B-Trap",
+  "headline": "Most (Severočeská Pánev & Syrová Ulice) Beaty Melodický R&B-Trap: Zvuk WAV 24-Bit & QR Platba",
+  "description": "Zářivé kytary, vzdušné syntezátory a moderní taneční groove pro zpěvní polohy v Most.",
+  "targetArtists": [
+    "Umělci z Most",
+    "Česká a Slovenská Rapová Komunita",
+    "Středoevropská Scéna"
+  ],
+  "recommendedBpm": "108-115 BPM",
+  "recommendedKey": "D-Major / A-Minor",
+  "vibeAttributes": [
+    "Most",
+    "R&B-Trap",
+    "QR Platba v Kč",
+    "V souladu s OSA"
+  ],
+  "popularGenres": [
+    "Beaty Melodický R&B-Trap",
+    "Český Trap",
+    "Český Rap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "most-boom-bap-klasika",
+  "name": "Most Beaty Klasický Boom Bap MPC",
+  "category": "scene",
+  "badge": "Most Boom Bap Klasika",
+  "headline": "Most (Severočeská Pánev & Syrová Ulice) Beaty Klasický Boom Bap MPC: Zvuk WAV 24-Bit & QR Platba",
+  "description": "Poctivé vinylové praskání, úderné suché bicí a hřejivé rhodes piano pro pravý rap v Most.",
+  "targetArtists": [
+    "Umělci z Most",
+    "Česká a Slovenská Rapová Komunita",
+    "Středoevropská Scéna"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Most",
+    "Boom Bap Klasika",
+    "QR Platba v Kč",
+    "V souladu s OSA"
+  ],
+  "popularGenres": [
+    "Beaty Klasický Boom Bap MPC",
+    "Český Trap",
+    "Český Rap"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "karlovy-vary-cesky-trap-808",
+  "name": "Karlovy Vary Beaty Český Trap 808",
+  "category": "scene",
+  "badge": "Karlovy Vary Český Trap",
+  "headline": "Karlovy Vary (Západní Čechy & Lázeňská Kolonáda) Beaty Český Trap 808: Zvuk WAV 24-Bit & QR Platba",
+  "description": "Masivní klouzavé 808 basy, temné syntezátory a ostré hi-hats navržené pro MCs z Karlovy Vary.",
+  "targetArtists": [
+    "Umělci z Karlovy Vary",
+    "Česká a Slovenská Rapová Komunita",
+    "Středoevropská Scéna"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Karlovy Vary",
+    "Český Trap",
+    "QR Platba v Kč",
+    "V souladu s OSA"
+  ],
+  "popularGenres": [
+    "Beaty Český Trap 808",
+    "Český Trap",
+    "Český Rap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "karlovy-vary-cesky-drill-ulice",
+  "name": "Karlovy Vary Beaty Český Pouliční Drill",
+  "category": "scene",
+  "badge": "Karlovy Vary Český Drill",
+  "headline": "Karlovy Vary (Západní Čechy & Lázeňská Kolonáda) Beaty Český Pouliční Drill: Zvuk WAV 24-Bit & QR Platba",
+  "description": "Chladné zvony, rychlé synkopované bicí a nekompromisní basové linky pro rýmy z ulic v Karlovy Vary.",
+  "targetArtists": [
+    "Umělci z Karlovy Vary",
+    "Česká a Slovenská Rapová Komunita",
+    "Středoevropská Scéna"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Karlovy Vary",
+    "Český Drill",
+    "QR Platba v Kč",
+    "V souladu s OSA"
+  ],
+  "popularGenres": [
+    "Beaty Český Pouliční Drill",
+    "Český Trap",
+    "Český Rap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "karlovy-vary-melodic-rnb-trap",
+  "name": "Karlovy Vary Beaty Melodický R&B-Trap",
+  "category": "scene",
+  "badge": "Karlovy Vary R&B-Trap",
+  "headline": "Karlovy Vary (Západní Čechy & Lázeňská Kolonáda) Beaty Melodický R&B-Trap: Zvuk WAV 24-Bit & QR Platba",
+  "description": "Zářivé kytary, vzdušné syntezátory a moderní taneční groove pro zpěvní polohy v Karlovy Vary.",
+  "targetArtists": [
+    "Umělci z Karlovy Vary",
+    "Česká a Slovenská Rapová Komunita",
+    "Středoevropská Scéna"
+  ],
+  "recommendedBpm": "108-115 BPM",
+  "recommendedKey": "D-Major / A-Minor",
+  "vibeAttributes": [
+    "Karlovy Vary",
+    "R&B-Trap",
+    "QR Platba v Kč",
+    "V souladu s OSA"
+  ],
+  "popularGenres": [
+    "Beaty Melodický R&B-Trap",
+    "Český Trap",
+    "Český Rap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "karlovy-vary-boom-bap-klasika",
+  "name": "Karlovy Vary Beaty Klasický Boom Bap MPC",
+  "category": "scene",
+  "badge": "Karlovy Vary Boom Bap Klasika",
+  "headline": "Karlovy Vary (Západní Čechy & Lázeňská Kolonáda) Beaty Klasický Boom Bap MPC: Zvuk WAV 24-Bit & QR Platba",
+  "description": "Poctivé vinylové praskání, úderné suché bicí a hřejivé rhodes piano pro pravý rap v Karlovy Vary.",
+  "targetArtists": [
+    "Umělci z Karlovy Vary",
+    "Česká a Slovenská Rapová Komunita",
+    "Středoevropská Scéna"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Karlovy Vary",
+    "Boom Bap Klasika",
+    "QR Platba v Kč",
+    "V souladu s OSA"
+  ],
+  "popularGenres": [
+    "Beaty Klasický Boom Bap MPC",
+    "Český Trap",
+    "Český Rap"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "opava-cesky-trap-808",
+  "name": "Opava Beaty Český Trap 808",
+  "category": "scene",
+  "badge": "Opava Český Trap",
+  "headline": "Opava (Slezsko & Historická Metropole) Beaty Český Trap 808: Zvuk WAV 24-Bit & QR Platba",
+  "description": "Masivní klouzavé 808 basy, temné syntezátory a ostré hi-hats navržené pro MCs z Opava.",
+  "targetArtists": [
+    "Umělci z Opava",
+    "Česká a Slovenská Rapová Komunita",
+    "Středoevropská Scéna"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Opava",
+    "Český Trap",
+    "QR Platba v Kč",
+    "V souladu s OSA"
+  ],
+  "popularGenres": [
+    "Beaty Český Trap 808",
+    "Český Trap",
+    "Český Rap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "opava-cesky-drill-ulice",
+  "name": "Opava Beaty Český Pouliční Drill",
+  "category": "scene",
+  "badge": "Opava Český Drill",
+  "headline": "Opava (Slezsko & Historická Metropole) Beaty Český Pouliční Drill: Zvuk WAV 24-Bit & QR Platba",
+  "description": "Chladné zvony, rychlé synkopované bicí a nekompromisní basové linky pro rýmy z ulic v Opava.",
+  "targetArtists": [
+    "Umělci z Opava",
+    "Česká a Slovenská Rapová Komunita",
+    "Středoevropská Scéna"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Opava",
+    "Český Drill",
+    "QR Platba v Kč",
+    "V souladu s OSA"
+  ],
+  "popularGenres": [
+    "Beaty Český Pouliční Drill",
+    "Český Trap",
+    "Český Rap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "opava-melodic-rnb-trap",
+  "name": "Opava Beaty Melodický R&B-Trap",
+  "category": "scene",
+  "badge": "Opava R&B-Trap",
+  "headline": "Opava (Slezsko & Historická Metropole) Beaty Melodický R&B-Trap: Zvuk WAV 24-Bit & QR Platba",
+  "description": "Zářivé kytary, vzdušné syntezátory a moderní taneční groove pro zpěvní polohy v Opava.",
+  "targetArtists": [
+    "Umělci z Opava",
+    "Česká a Slovenská Rapová Komunita",
+    "Středoevropská Scéna"
+  ],
+  "recommendedBpm": "108-115 BPM",
+  "recommendedKey": "D-Major / A-Minor",
+  "vibeAttributes": [
+    "Opava",
+    "R&B-Trap",
+    "QR Platba v Kč",
+    "V souladu s OSA"
+  ],
+  "popularGenres": [
+    "Beaty Melodický R&B-Trap",
+    "Český Trap",
+    "Český Rap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "opava-boom-bap-klasika",
+  "name": "Opava Beaty Klasický Boom Bap MPC",
+  "category": "scene",
+  "badge": "Opava Boom Bap Klasika",
+  "headline": "Opava (Slezsko & Historická Metropole) Beaty Klasický Boom Bap MPC: Zvuk WAV 24-Bit & QR Platba",
+  "description": "Poctivé vinylové praskání, úderné suché bicí a hřejivé rhodes piano pro pravý rap v Opava.",
+  "targetArtists": [
+    "Umělci z Opava",
+    "Česká a Slovenská Rapová Komunita",
+    "Středoevropská Scéna"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Opava",
+    "Boom Bap Klasika",
+    "QR Platba v Kč",
+    "V souladu s OSA"
+  ],
+  "popularGenres": [
+    "Beaty Klasický Boom Bap MPC",
+    "Český Trap",
+    "Český Rap"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "jihlava-cesky-trap-808",
+  "name": "Jihlava Beaty Český Trap 808",
+  "category": "scene",
+  "badge": "Jihlava Český Trap",
+  "headline": "Jihlava (Vysočina & Chladné Hvozdy) Beaty Český Trap 808: Zvuk WAV 24-Bit & QR Platba",
+  "description": "Masivní klouzavé 808 basy, temné syntezátory a ostré hi-hats navržené pro MCs z Jihlava.",
+  "targetArtists": [
+    "Umělci z Jihlava",
+    "Česká a Slovenská Rapová Komunita",
+    "Středoevropská Scéna"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Jihlava",
+    "Český Trap",
+    "QR Platba v Kč",
+    "V souladu s OSA"
+  ],
+  "popularGenres": [
+    "Beaty Český Trap 808",
+    "Český Trap",
+    "Český Rap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "jihlava-cesky-drill-ulice",
+  "name": "Jihlava Beaty Český Pouliční Drill",
+  "category": "scene",
+  "badge": "Jihlava Český Drill",
+  "headline": "Jihlava (Vysočina & Chladné Hvozdy) Beaty Český Pouliční Drill: Zvuk WAV 24-Bit & QR Platba",
+  "description": "Chladné zvony, rychlé synkopované bicí a nekompromisní basové linky pro rýmy z ulic v Jihlava.",
+  "targetArtists": [
+    "Umělci z Jihlava",
+    "Česká a Slovenská Rapová Komunita",
+    "Středoevropská Scéna"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Jihlava",
+    "Český Drill",
+    "QR Platba v Kč",
+    "V souladu s OSA"
+  ],
+  "popularGenres": [
+    "Beaty Český Pouliční Drill",
+    "Český Trap",
+    "Český Rap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "jihlava-melodic-rnb-trap",
+  "name": "Jihlava Beaty Melodický R&B-Trap",
+  "category": "scene",
+  "badge": "Jihlava R&B-Trap",
+  "headline": "Jihlava (Vysočina & Chladné Hvozdy) Beaty Melodický R&B-Trap: Zvuk WAV 24-Bit & QR Platba",
+  "description": "Zářivé kytary, vzdušné syntezátory a moderní taneční groove pro zpěvní polohy v Jihlava.",
+  "targetArtists": [
+    "Umělci z Jihlava",
+    "Česká a Slovenská Rapová Komunita",
+    "Středoevropská Scéna"
+  ],
+  "recommendedBpm": "108-115 BPM",
+  "recommendedKey": "D-Major / A-Minor",
+  "vibeAttributes": [
+    "Jihlava",
+    "R&B-Trap",
+    "QR Platba v Kč",
+    "V souladu s OSA"
+  ],
+  "popularGenres": [
+    "Beaty Melodický R&B-Trap",
+    "Český Trap",
+    "Český Rap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "jihlava-boom-bap-klasika",
+  "name": "Jihlava Beaty Klasický Boom Bap MPC",
+  "category": "scene",
+  "badge": "Jihlava Boom Bap Klasika",
+  "headline": "Jihlava (Vysočina & Chladné Hvozdy) Beaty Klasický Boom Bap MPC: Zvuk WAV 24-Bit & QR Platba",
+  "description": "Poctivé vinylové praskání, úderné suché bicí a hřejivé rhodes piano pro pravý rap v Jihlava.",
+  "targetArtists": [
+    "Umělci z Jihlava",
+    "Česká a Slovenská Rapová Komunita",
+    "Středoevropská Scéna"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Jihlava",
+    "Boom Bap Klasika",
+    "QR Platba v Kč",
+    "V souladu s OSA"
+  ],
+  "popularGenres": [
+    "Beaty Klasický Boom Bap MPC",
+    "Český Trap",
+    "Český Rap"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
 ];
