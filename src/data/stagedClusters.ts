@@ -78617,4 +78617,1301 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "2"
   ]
 },
+  {
+  "slug": "el-chevo-punta-urban-catracha",
+  "title": "El Chevo Punta Urbana & Fiesta Catracha Type Beat",
+  "description": "Instrumental explosiva y festiva de punta urbana y dembow latino inspirada en El Chevo (Metela Sacala, Fiesta), con metales vivos, tambores garífunas enérgicos y caídas de bajo modernas.",
+  "targetKeywords": [
+    "el chevo type beat",
+    "punta urbana hondurena",
+    "bases de punta trap catracha",
+    "beats estilo el chevo",
+    "musica punta moderna beat"
+  ],
+  "heroCta": "Comprar Beat El Chevo (Tigo Money / Tengo)",
+  "energyLevel": "Very High",
+  "primaryUse": "Punta Urbana, Tormentone Bailable y Concierto Masivo",
+  "similarArtists": [
+    "El Chevo",
+    "Kazzabe",
+    "Los Hermanos Flores",
+    "Mr. Yambo"
+  ],
+  "recommendedBpm": "108-115 BPM",
+  "productionTips": "Sección de vientos metales alegre doblada en estéreo con compás bailable acelerado de güiro y timbales.",
+  "idealVocalStyle": "Voz festiva de animación, frases típicas catrachas y coros para saltar en la pista.",
+  "suggestedKey": "D Major",
+  "streamingSuitability": "Viral por naturaleza para bailes en TikTok, ferias patronales y fiestas latinas."
+},
+  {
+  "slug": "mr-yambo-dancehall-dembow-504",
+  "title": "Mr. Yambo Dancehall Catracho & Street Dembow 504 Beat",
+  "description": "Base bailable y pegajosa de dancehall caribeño y reggaetón callejero inspirada en Mr. Yambo, con bombos pesados, sintetizadores frescos y cadencia playera para discotecas.",
+  "targetKeywords": [
+    "mr yambo type beat",
+    "dancehall hondureno beat",
+    "bases de dembow 504 mr yambo",
+    "beats de reggaeton catracho",
+    "pistas urbanas honduras"
+  ],
+  "heroCta": "Comprar Beat Mr. Yambo (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Dancehall Callejero, Banger de Club y Sencillo Radial",
+  "similarArtists": [
+    "Mr. Yambo",
+    "El Chevo",
+    "Kavvo",
+    "Toledo"
+  ],
+  "recommendedBpm": "98-104 BPM",
+  "productionTips": "Rimshots procesados con delay analógico y una línea de bajo que oscila suavemente en frecuencias sub.",
+  "idealVocalStyle": "Voz melódica con flow caribeño, deejay enérgico y rimas con modismos hondureños.",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "Ideal para sonar en discotecas de San Pedro Sula, Tegucigalpa y La Ceiba."
+},
+  {
+  "slug": "menor-menor-latin-trap-melodico",
+  "title": "Menor Menor Latin Trap Melódico & Desamor 504 Beat",
+  "description": "Instrumental emotiva de trap latino inspirada en Menor Menor (Fantasías, Ahora Sé), con guitarras melancólicas, pianos tristes y bajos 808 profundos para letras de corazón y superación.",
+  "targetKeywords": [
+    "menor menor type beat",
+    "trap hondureno melodico",
+    "bases de trap menor menor",
+    "beats de desamor 504",
+    "pistas de trap latino honduras"
+  ],
+  "heroCta": "Comprar Beat Menor Menor (Licencia Comercial)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Latin Trap Melódico, Canción de Desamor y Video Musical",
+  "similarArtists": [
+    "Menor Menor",
+    "Jesse Baez",
+    "Amenazzy",
+    "Noriel"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "productionTips": "Arpegios de guitarra electroacústica con delay suave y caídas de 808 distorsionado en el estribillo.",
+  "idealVocalStyle": "Voz melódica con autotune expresivo, falsetes sentidos y versos con sentimiento.",
+  "suggestedKey": "F# Minor",
+  "streamingSuitability": "Insuperable para listas de Trap Latino Emotivo y reproducciones en Spotify."
+},
+  {
+  "slug": "kazzabe-punta-rock-trap-fusion",
+  "title": "Kazzabe Agrupación Punta-Rock & Trap Moderno Fusión Beat",
+  "description": "Fusión electrizante del ritmo punta-rock caribeño de Kazzabe con la potencia de los bombos 808 del trap moderno, con tambores de garawoun en vivo y metales arrolladores.",
+  "targetKeywords": [
+    "kazzabe type beat",
+    "punta rock hondureno instrumental",
+    "bases de punta rock trap",
+    "kazzabe agrupacion beat",
+    "musica de fiesta honduras beat"
+  ],
+  "heroCta": "Comprar Beat Punta-Rock (Stems Multitrack)",
+  "energyLevel": "Very High",
+  "primaryUse": "Conciertos Masivos, Carnaval de Verano y Pista Bailable",
+  "similarArtists": [
+    "Kazzabe",
+    "El Chevo",
+    "Banda Blanca",
+    "Punta Cartel"
+  ],
+  "recommendedBpm": "116-124 BPM",
+  "productionTips": "Tambores garífunas en primer plano con doble cassa de 808 para un impacto que mueve a toda la pista.",
+  "idealVocalStyle": "Animación frenética, rimas festivas y estribillos masivos para corear en eventos.",
+  "suggestedKey": "G Major",
+  "streamingSuitability": "Ideal para carnavales, fiestas patronales y festivales de música tropical."
+},
+  {
+  "slug": "polache-trova-catracha-acustica",
+  "title": "Polache Trova Catracha & Rap Acústico con Guitarras Beat",
+  "description": "Base acústica y auténtica con guitarra de cuerdas de nailon, percusión orgánica de madera y alma de trova popular inspirada en Polache (Mira a Honduras, Hablo Español).",
+  "targetKeywords": [
+    "polache type beat",
+    "trova hondurena instrumental",
+    "rap acustico catracho",
+    "bases de guitarra polache",
+    "hip hop folclorico honduras"
+  ],
+  "heroCta": "Comprar Beat Trova Catracha (WAV 24-bit)",
+  "energyLevel": "Medium",
+  "primaryUse": "Trova Urbana, Hip-Hop Poético y Crónica Costumbrista",
+  "similarArtists": [
+    "Polache",
+    "Guillermo Anderson",
+    "Zaki",
+    "Kontra Marín"
+  ],
+  "recommendedBpm": "90-96 BPM",
+  "productionTips": "Guitarra criolla grabada en vivo con calidez natural y batería boom bap de tempo holgado.",
+  "idealVocalStyle": "Canto sentido, declamación poética o versos sinceros con modismos populares catrachos.",
+  "suggestedKey": "C Major",
+  "streamingSuitability": "Insuperable para documentales, eventos patrios y música con conciencia social."
+},
+  {
+  "slug": "la-ceiba-garifuna-punta-trap-504",
+  "title": "La Ceiba Garífuna Ancestral & Punta-Trap 504 Type Beat",
+  "description": "Pista rítmica sagrada y moderna que reúne los tambores garífunas Garawoun de Sambo Creek y Corozal con bajos sub-808 arrolladores para un sonido afrocaribeño único de Honduras.",
+  "targetKeywords": [
+    "garifuna punta trap beat",
+    "la ceiba tambores garifunas beat",
+    "bases de musica afrocaribena honduras",
+    "garawoun punta beat",
+    "afro honduras trap"
+  ],
+  "heroCta": "Comprar Beat Garífuna (Licencia Comercial)",
+  "energyLevel": "Very High",
+  "primaryUse": "Punta-Trap Afrocaribeño, Resistencia Cultural y Festival",
+  "similarArtists": [
+    "Aurelio Martínez",
+    "Kazzabe",
+    "El Chevo",
+    "Toledo"
+  ],
+  "recommendedBpm": "114-120 BPM",
+  "productionTips": "Coloca los tambores garífunas primera y segunda paneados en estéreo para crear un trance rítmico envolvente.",
+  "idealVocalStyle": "Canto con raíz afrocaribeña o rimas enérgicas en español o garífuna.",
+  "suggestedKey": "E Minor",
+  "streamingSuitability": "Perfecto para festivales de World Music y listas de Afro-Latin Beats."
+},
+  {
+  "slug": "san-pedro-sula-street-trap-808",
+  "title": "San Pedro Sula Street Trap 504 & Heavy Sliding 808s Beat",
+  "description": "Beat oscuro y pesado inspirado en la capital industrial de Honduras: campanas gélidas, hi-hats frenéticos con tresillos y bajos 808 que estremecen para rimas de barrio y superación.",
+  "targetKeywords": [
+    "san pedro sula trap beat",
+    "street trap 504 honduras",
+    "bases de trap sps",
+    "beats pesados san pedro sula",
+    "trap hondureno 808"
+  ],
+  "heroCta": "Comprar Beat Trap SPS (WAV Masterizado)",
+  "energyLevel": "Very High",
+  "primaryUse": "Trap Callejero, Banger de Barrio y Video Musical",
+  "similarArtists": [
+    "Crypy",
+    "Tropa 506",
+    "Dakos",
+    "Duki"
+  ],
+  "recommendedBpm": "134-140 BPM",
+  "productionTips": "Deslizamientos de pitch en el sub-808 con saturación armónica en 120Hz para presencia en cualquier parlante.",
+  "idealVocalStyle": "Voz grave y agresiva, flow acelerado y letras de vivencia real urbana.",
+  "suggestedKey": "C# Minor",
+  "streamingSuitability": "Insuperable para listas de Trap Latino Pesado y Car Audio en Centroamérica."
+},
+  {
+  "slug": "tegucigalpa-conscious-boom-bap-504",
+  "title": "Tegucigalpa Conscious Boom Bap & Pianos del Distrito Central",
+  "description": "Instrumental reflexiva de hip-hop clásico con notas solitarias de piano acústico, trompetas melancólicas y batería MPC seca inspirada en las calles y laderas de Tegucigalpa.",
+  "targetKeywords": [
+    "tegucigalpa boom bap beat",
+    "rap consciente honduras",
+    "bases de hip hop teguz 504",
+    "beats clasicos honduras 90 bpm",
+    "rap hondureno lirico"
+  ],
+  "heroCta": "Comprar Beat Teguz Boom Bap (WAV + Stems)",
+  "energyLevel": "Medium",
+  "primaryUse": "Rap Consciente, Liricismo Puro y Álbum Conceptual",
+  "similarArtists": [
+    "Polache",
+    "Zaki",
+    "Kontra Marín",
+    "Pescozada"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "productionTips": "Muestreo cálido de vinilo con degradación armónica analógica y caja sin reverb para impacto seco.",
+  "idealVocalStyle": "Voz madura, métricas avanzadas y contenido con profundidad reflexiva y social.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Ideal para la comunidad de hip-hop underground de Centroamérica y el Caribe."
+},
+  {
+  "slug": "roatan-caribbean-reggae-dancehall",
+  "title": "Roatán Caribbean Reggae-Dancehall & Island Breeze Beat",
+  "description": "Vibras paradisíacas de las Islas de la Bahía con guitarras con compás en skank, sintetizadores acuáticos y ritmos sincopados de reggae-dancehall para música de playa y verano.",
+  "targetKeywords": [
+    "roatan reggae beat",
+    "dancehall honduras roatan",
+    "island breeze beat catracho",
+    "bases de reggae caribeno honduras",
+    "chill dancehall 504"
+  ],
+  "heroCta": "Comprar Beat Roatán Reggae (Uso Ilimitado)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Música Playera, Reggae de Verano y Vlogs de Turismo",
+  "similarArtists": [
+    "Toledo",
+    "Gimario",
+    "Kavvo",
+    "Skillibeng"
+  ],
+  "recommendedBpm": "96-102 BPM",
+  "productionTips": "Arpegios de guitarra grabados con chorus tropical y una línea de bajo caminante redonda.",
+  "idealVocalStyle": "Canto melódico bilingüe (spanglish / creole), deejay enérgico o voz suave de verano.",
+  "suggestedKey": "G Major",
+  "streamingSuitability": "Perfecto para playlists de verano, bares de playa y vlogs de viajes internacionales."
+},
+  {
+  "slug": "sopa-de-caracol-punta-trap-remix",
+  "title": "Sopa de Caracol Legend & Punta-Trap 504 Modern Remix Beat",
+  "description": "El homenaje más enérgico al mayor himno de la música hondureña a nivel mundial: metales emblemáticos de punta, percusión caribeña y caídas de trap 808 para incendiar tarimas.",
+  "targetKeywords": [
+    "sopa de caracol trap remix",
+    "punta trap honduras beat",
+    "banda blanca modern beat",
+    "musica hondurena famosa trap",
+    "punta banger 504"
+  ],
+  "heroCta": "Comprar Beat Sopa de Caracol (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Conciertos Masivos, Fiestas Patronales y Videos Virales",
+  "similarArtists": [
+    "Banda Blanca",
+    "Kazzabe",
+    "El Chevo",
+    "Punta Cartel"
+  ],
+  "recommendedBpm": "120-128 BPM",
+  "productionTips": "Sección de metales alegre doblada en estéreo con caídas contundentes de 808 en el estribillo.",
+  "idealVocalStyle": "Animación festiva, rimas alegres y coros masivos para cantar en caravanas.",
+  "suggestedKey": "F Major",
+  "streamingSuitability": "Viral por naturaleza para bailes en TikTok, celebraciones patrias y clubes latinos."
+},
+  {
+  "slug": "cypher-504-plaza-freestyle-batalla",
+  "title": "Cypher 504 Plaza Freestyle & Batalla de Gallos Honduras Beat",
+  "description": "Pista de alta tensión y ataque percusivo diseñada para las batallas de freestyle de los parques de Tegucigalpa y San Pedro Sula, con cajas cortantes y pausas en el compás 4.",
+  "targetKeywords": [
+    "cypher 504 freestyle beat",
+    "bases para batallas de rap honduras",
+    "freestyle hondureno instrumental",
+    "pistas de rap batalla catracho"
+  ],
+  "heroCta": "Comprar Beat Batalla 504 (Sin Tags)",
+  "energyLevel": "High",
+  "primaryUse": "Batallas de Freestyle, Cyphers Callejeros y Torneos de Rap",
+  "similarArtists": [
+    "Red Bull Batalla Honduras",
+    "Verso 504",
+    "SNK",
+    "Zaki"
+  ],
+  "recommendedBpm": "92-96 BPM",
+  "productionTips": "Deja un silencio seco en el tiempo 4 antes de la caja final de cada 4 compases para rematar los punchlines.",
+  "idealVocalStyle": "Punchlines afilados, rimas rápidas al momento y actitud desafiante de competencia.",
+  "suggestedKey": "E Minor",
+  "streamingSuitability": "Indispensable para ligas de plaza, torneos de freestyle en Centroamérica y YouTube."
+},
+  {
+  "slug": "car-audio-504-catracho-subwoofer",
+  "title": "Car Audio 504 Catracho Subwoofer & Heavy Bass Banger",
+  "description": "Beat ultra pesado diseñado para competir en exhibiciones de Car Audio y camionetas modificadas en San Pedro Sula y Tegucigalpa, con sub-graves afinados a 32 Hz.",
+  "targetKeywords": [
+    "car audio 504 beat",
+    "sub bass honduras trap",
+    "bases para car audio san pedro sula",
+    "beats de bajo pesado catracho",
+    "musica para bocinas honduras"
+  ],
+  "heroCta": "Comprar Beat Car Audio 504 (WAV Masterizado)",
+  "energyLevel": "Very High",
+  "primaryUse": "Competiciones de Car Audio, Banger Callejero y Exhibiciones",
+  "similarArtists": [
+    "Crypy",
+    "Toledo",
+    "DJ Pablito",
+    "Danger Man"
+  ],
+  "recommendedBpm": "138-142 BPM",
+  "productionTips": "Onda sinusoidal pura calibrata a 35Hz con saturación armónica en 70Hz y 140Hz para máxima presión acustica.",
+  "idealVocalStyle": "Rapeo agresivo, estribillos repetitivos y actitud retadora de competencia.",
+  "suggestedKey": "F Minor",
+  "streamingSuitability": "El sonido favorito para caravanas nocturnas, autos modificados y eventos urbanos de motor."
+},
+  {
+  "slug": "comprar-beats-en-honduras-tigo-money-tengo",
+  "title": "Comprar Beats en Honduras con Tigo Money, Tengo & Banco Atlántida",
+  "description": "Adquiere instrumentales urbanas profesionales en Honduras con pago directo en Lempiras (L) o Dólares vía Tigo Money, Tengo o transferencia bancaria con descarga inmediata de archivos WAV.",
+  "targetKeywords": [
+    "comprar beats en honduras tigo money",
+    "bases de rap pago tengo lempiras",
+    "comprar pistas banco atlantida honduras",
+    "beats catrachos compra segura"
+  ],
+  "heroCta": "Comprar Beats con Tigo Money (Desde L350)",
+  "energyLevel": "Variable",
+  "primaryUse": "Compra Segura Nacional, Pago Fácil en Lempiras y Licencia Comercial",
+  "similarArtists": [
+    "Comunidad Urbana 504",
+    "Artistas Independientes Catrachos"
+  ],
+  "recommendedBpm": "Cualquier Tempo",
+  "productionTips": "Confirmación instantánea en pantalla y por correo electrónico con enlace de descarga permanente.",
+  "idealVocalStyle": "Todo tipo de géneros urbanos y tropicales en Honduras.",
+  "suggestedKey": "All Keys",
+  "streamingSuitability": "Licencia comercial formal con 100% de regalías para el artista."
+},
+  {
+  "slug": "bases-de-trap-catracho-504-con-bajos-808",
+  "title": "Bases de Trap Catracho 504 con Bajos 808 Slidings & Dark Melody",
+  "description": "Colección de pistas de trap hondureño de alto calibre con deslizamientos de bajo 808, campanas gélidas y percusión contundente para romper la escena urbana 504.",
+  "targetKeywords": [
+    "bases de trap catracho 504",
+    "trap hondureno con 808",
+    "beats de trap san pedro sula tegucigalpa",
+    "instrumentales trap 504 para grabar"
+  ],
+  "heroCta": "Comprar Trap Beat 504 (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Trap Callejero, Banger de Barrio y Sencillos de Alto Impacto",
+  "similarArtists": [
+    "Menor Menor",
+    "Crypy",
+    "Tropa 506",
+    "Duki"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "productionTips": "Sub-bajos 808 afinados al tono exacto de la tónica con saturación de armónicos pares.",
+  "idealVocalStyle": "Flow agresivo, rimas rápidas o melodías melancólicas con autotune.",
+  "suggestedKey": "D# Minor",
+  "streamingSuitability": "Diseñado para reventar discotecas y playlists de Trap Centroamericano."
+},
+  {
+  "slug": "pistas-de-punta-urbana-hondurena-wav",
+  "title": "Pistas de Punta Urbana Hondureña en WAV 24-bit con Stems",
+  "description": "Instrumentales bailables que fusionan el ritmo punta tradicional garífuna con el flow moderno del dembow y trap en archivos WAV a 24-bit con pistas por separado.",
+  "targetKeywords": [
+    "pistas de punta urbana hondurena",
+    "bases de punta rap catracho",
+    "punta hondurena instrumental wav",
+    "beats de punta moderna stems"
+  ],
+  "heroCta": "Comprar Punta Urbana (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Punta Urbana, Fiesta Patronal y Canción de Carnaval",
+  "similarArtists": [
+    "El Chevo",
+    "Kazzabe",
+    "Banda Blanca",
+    "Mr. Yambo"
+  ],
+  "recommendedBpm": "112-120 BPM",
+  "productionTips": "Stems multitrack organizados por carpetas con percusiones garífunas separadas para mezcla personalizada.",
+  "idealVocalStyle": "Rapeo sincopado con slang hondureño o canto festivo bailable.",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "Perfecto para fiestas, conciertos en vivo y plataformas de streaming."
+},
+  {
+  "slug": "bases-de-boom-bap-honduras-para-grabar",
+  "title": "Bases de Boom Bap Honduras Clásico a 90 BPM para Grabar en WAV",
+  "description": "Instrumentales de hip-hop auténtico inspiradas en la escuela dorada de Honduras, grabadas con baterías analógicas crujientes y samples de jazz para barras con contenido social.",
+  "targetKeywords": [
+    "bases de boom bap honduras para grabar",
+    "beats de rap 90 bpm catrachos",
+    "instrumentales boom bap 504 wav",
+    "descargar bases de hip hop honduras"
+  ],
+  "heroCta": "Descargar Base Boom Bap (WAV 24-bit)",
+  "energyLevel": "Medium",
+  "primaryUse": "Rap Consciente, Liricismo Puro y Álbumes Conceptuales",
+  "similarArtists": [
+    "Polache",
+    "Zaki",
+    "Kontra Marín",
+    "Pescozada"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "productionTips": "Cajas procesadas con emulación de cinta analógica para lograr pegada seca e inmediata.",
+  "idealVocalStyle": "Rapeo métrico, juego de palabras y mensaje reflexivo sobre la realidad social.",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "Ideal para la comunidad devota de hip-hop latinoamericano en streaming."
+},
+  {
+  "slug": "combo-de-beats-2x1-honduras-lempiras",
+  "title": "Combo 2x1 y 3x1 de Beats en Honduras (Oferta en Lempiras L)",
+  "description": "Aprovecha el combo promocional de instrumentales para la producción de tu EP o mixtape en Honduras. Paga 1 y lleva 2 licencias comerciales completas con pago fácil por Tigo Money o Tengo.",
+  "targetKeywords": [
+    "combo de beats 2x1 honduras",
+    "oferta beats lempiras 504",
+    "paquete de bases para mixtape catracho",
+    "descuento beats tigo money"
+  ],
+  "heroCta": "Aprovechar Combo 2x1 (Pago en Lempiras)",
+  "energyLevel": "Variable",
+  "primaryUse": "Lanzamiento de Proyectos Completos, EPs y Discos",
+  "similarArtists": [
+    "Comunidad Urbana 504",
+    "El Chevo",
+    "Menor Menor"
+  ],
+  "recommendedBpm": "90-140 BPM",
+  "productionTips": "Mezclas calibradas uniformemente para dar continuidad sonora al proyecto.",
+  "idealVocalStyle": "Versatilidad de estilos dentro de la propuesta musical del artista.",
+  "suggestedKey": "Various Keys",
+  "streamingSuitability": "Licencias comerciales extendidas con derechos de distribución mundial."
+},
+  {
+  "slug": "instrumentales-de-reggaeton-hondureno-stems",
+  "title": "Instrumentales de Reggaetón Hondureño con Stems Multitrack",
+  "description": "Pistas bailables de reggaetón moderno y comercial con entrega de pistas por separado (stems en WAV) para mezcla y masterización profesional en estudios de Honduras.",
+  "targetKeywords": [
+    "instrumentales reggaeton hondureno stems",
+    "pistas de reggaeton catracho pistas separadas",
+    "beats de dembow honduras comercial",
+    "descargar stems reggaeton 504"
+  ],
+  "heroCta": "Comprar Reggaetón Beat (Con Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Lanzamientos de Emisora Radial, Club Banger y Videoclip Oficial",
+  "similarArtists": [
+    "Mr. Yambo",
+    "El Chevo",
+    "Kavvo",
+    "Feid"
+  ],
+  "recommendedBpm": "95-100 BPM",
+  "productionTips": "Stems organizados y etiquetados por carpetas (Drums, Bass, Synths, FX) a 24-bit/44.1kHz.",
+  "idealVocalStyle": "Canto melódico bailable con coros pegajosos y versos dinámicos.",
+  "suggestedKey": "G Minor",
+  "streamingSuitability": "Máxima flexibilidad para ingenieros de mezcla y productores ejecutivos."
+},
+  {
+  "slug": "beats-de-trap-504-untagged-sin-marcas",
+  "title": "Beats de Trap 504 Untagged (Sin Marcas Vocales en WAV)",
+  "description": "Instrumentales exclusivas de trap pesado catracho entregadas totalmente libres de marcas de voz o tags de productor para grabación limpia en estudios de Honduras.",
+  "targetKeywords": [
+    "beats trap 504 untagged",
+    "trap honduras sin marcas de voz",
+    "bases de trap catracho wav",
+    "pistas de trap honduras sin tags"
+  ],
+  "heroCta": "Comprar Trap Beat (Sin Tags Vocales)",
+  "energyLevel": "High",
+  "primaryUse": "Producción Discográfica, Videos Oficiales y Sencillos de Barrio",
+  "similarArtists": [
+    "Menor Menor",
+    "Crypy",
+    "Tropa 506"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "productionTips": "Cada mazazo de bombo y bajo mantiene el impacto sin interferencia de audios promocionales.",
+  "idealVocalStyle": "Rapeo potente o melodías oscuras con autotune.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "100% libre de reclamos de Content ID en YouTube y redes sociales."
+},
+  {
+  "slug": "licencia-comercial-de-beats-aacimh-honduras",
+  "title": "Licencia Comercial de Beats Válida para Registro AACIMH Honduras",
+  "description": "Contrato legal en formato PDF con validez oficial ante la Asociación de Autores, Compositores e Intérpretes de Honduras (AACIMH) y la DIGEPIH para distribución en plataformas digitales.",
+  "targetKeywords": [
+    "licencia comercial beats aacimh honduras",
+    "registro de canciones digepih honduras contrato",
+    "derechos de autor beats honduras",
+    "comprar licencia legal de beats 504"
+  ],
+  "heroCta": "Ver Modelos de Licencia AACIMH (PDF Incluido)",
+  "energyLevel": "N/A",
+  "primaryUse": "Registro Legal de Canciones, Cobro de Regalías y Agregadoras",
+  "similarArtists": [
+    "Onzieb",
+    "Artistas Registrados en AACIMH"
+  ],
+  "recommendedBpm": "Cualquier Tempo",
+  "productionTips": "Incluye contrato formal en español e inglés firmado con términos claros de monetización.",
+  "idealVocalStyle": "Todo tipo de composiciones originales registrables.",
+  "suggestedKey": "All Keys",
+  "streamingSuitability": "100% de regalías editoriales para el compositor de la letra y melodía vocal."
+},
+  {
+  "slug": "produccion-de-beats-exclusivos-honduras-onzieb",
+  "title": "Producción de Beats Exclusivos en Honduras con Productor Onzieb",
+  "description": "Servicio de producción musical personalizada 1 a 1 directamente con Onzieb. Composición a la medida para tu registro vocal, sesión de mezcla remota y entrega de stems exclusivos.",
+  "targetKeywords": [
+    "produccion de beats exclusivos honduras",
+    "productor musical honduras onzieb",
+    "comprar exclusivas rap trap 504",
+    "bases a la medida san pedro sula tegucigalpa"
+  ],
+  "heroCta": "Solicitar Beat Exclusivo (Contacto Directo)",
+  "energyLevel": "Custom",
+  "primaryUse": "Álbum Debut, Firma con Disquera y Exclusividad Comercial Absoluta",
+  "similarArtists": [
+    "Onzieb",
+    "El Chevo",
+    "Menor Menor",
+    "Mr. Yambo"
+  ],
+  "recommendedBpm": "Diseñado a tu medida",
+  "productionTips": "Desarrollo completo desde la concepción del acorde hasta el máster final de la pista.",
+  "idealVocalStyle": "Ajustado milimétricamente al timbre y rango vocal del artista.",
+  "suggestedKey": "Personalizada",
+  "streamingSuitability": "Retiro perpetuo de la tienda; ningún otro artista podrá usar esta composición jamás."
+},
+  {
+  "slug": "descargar-paquete-3-beats-gratis-honduras-mp3",
+  "title": "Descargar Paquete de 3 Beats Gratis en Honduras (MP3 320 kbps)",
+  "description": "Descarga de cortesía sin costo de 3 instrumentales completas (trap catracho, punta urbana y boom bap clásico) en alta calidad MP3 para maquetar tus canciones antes de adquirir la licencia WAV.",
+  "targetKeywords": [
+    "descargar beats gratis honduras",
+    "bases de rap gratis catracho mp3",
+    "pistas de punta trap gratis 504",
+    "beats gratis honduras para maquetas"
+  ],
+  "heroCta": "Descargar 3 Beats Gratis (Acceso Instantáneo)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Grabación de Maquetas en Casa, Práctica de Rimas y Escritura",
+  "similarArtists": [
+    "Comunidad Urbana 504",
+    "Nuevos Talentos de Honduras"
+  ],
+  "recommendedBpm": "90, 114, 134 BPM",
+  "productionTips": "Incluye tag vocal breve de cortesía; se remueve automáticamente al adquirir la licencia comercial.",
+  "idealVocalStyle": "Ideal para probar tonos, métricas y estructuras líricas.",
+  "suggestedKey": "Various",
+  "streamingSuitability": "Uso no comercial permitido en demos de YouTube y SoundCloud para darte a conocer."
+},
+  {
+  "slug": "san-pedro-sula-trap-catracho-504",
+  "name": "San Pedro Sula Trap Catracho 504 Beats",
+  "category": "scene",
+  "badge": "San Pedro Sula Trap 504",
+  "headline": "San Pedro Sula (Valle de Sula) Trap Catracho 504 Beats: Pistas WAV & Pago Tigo Money en Lempiras",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de San Pedro Sula.",
+  "targetArtists": [
+    "Artistas de San Pedro Sula",
+    "Comunidad Urbana 504",
+    "Movimiento Hip-Hop Honduras"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "San Pedro Sula",
+    "Trap 504",
+    "Tigo Money & Tengo L",
+    "Avalado AACIMH"
+  ],
+  "popularGenres": [
+    "Trap Catracho 504 Beats",
+    "Trap 504",
+    "Boom Bap Catracho"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "san-pedro-sula-boom-bap-hondureno",
+  "name": "San Pedro Sula Boom Bap Clásico Hondureño",
+  "category": "scene",
+  "badge": "San Pedro Sula Boom Bap Catracho",
+  "headline": "San Pedro Sula (Valle de Sula) Boom Bap Clásico Hondureño: Pistas WAV & Pago Tigo Money en Lempiras",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de San Pedro Sula.",
+  "targetArtists": [
+    "Artistas de San Pedro Sula",
+    "Comunidad Urbana 504",
+    "Movimiento Hip-Hop Honduras"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "San Pedro Sula",
+    "Boom Bap Catracho",
+    "Tigo Money & Tengo L",
+    "Avalado AACIMH"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Hondureño",
+    "Trap 504",
+    "Boom Bap Catracho"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "san-pedro-sula-reggaeton-catracho",
+  "name": "San Pedro Sula Reggaetón Catracho Comercial",
+  "category": "scene",
+  "badge": "San Pedro Sula Reggaetón 504",
+  "headline": "San Pedro Sula (Valle de Sula) Reggaetón Catracho Comercial: Pistas WAV & Pago Tigo Money en Lempiras",
+  "description": "Dembow bailable, sintetizadores luminosos y bajos envolventes para sonar en todas las fiestas y emisoras de San Pedro Sula.",
+  "targetArtists": [
+    "Artistas de San Pedro Sula",
+    "Comunidad Urbana 504",
+    "Movimiento Hip-Hop Honduras"
+  ],
+  "recommendedBpm": "94-100 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "San Pedro Sula",
+    "Reggaetón 504",
+    "Tigo Money & Tengo L",
+    "Avalado AACIMH"
+  ],
+  "popularGenres": [
+    "Reggaetón Catracho Comercial",
+    "Trap 504",
+    "Boom Bap Catracho"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "san-pedro-sula-melodic-rnb-504",
+  "name": "San Pedro Sula Melodic R&B 504",
+  "category": "scene",
+  "badge": "San Pedro Sula R&B Hondureño",
+  "headline": "San Pedro Sula (Valle de Sula) Melodic R&B 504: Pistas WAV & Pago Tigo Money en Lempiras",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de San Pedro Sula.",
+  "targetArtists": [
+    "Artistas de San Pedro Sula",
+    "Comunidad Urbana 504",
+    "Movimiento Hip-Hop Honduras"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "San Pedro Sula",
+    "R&B Hondureño",
+    "Tigo Money & Tengo L",
+    "Avalado AACIMH"
+  ],
+  "popularGenres": [
+    "Melodic R&B 504",
+    "Trap 504",
+    "Boom Bap Catracho"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "tegucigalpa-trap-catracho-504",
+  "name": "Tegucigalpa Trap Catracho 504 Beats",
+  "category": "scene",
+  "badge": "Tegucigalpa Trap 504",
+  "headline": "Tegucigalpa (Distrito Central) Trap Catracho 504 Beats: Pistas WAV & Pago Tigo Money en Lempiras",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de Tegucigalpa.",
+  "targetArtists": [
+    "Artistas de Tegucigalpa",
+    "Comunidad Urbana 504",
+    "Movimiento Hip-Hop Honduras"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Tegucigalpa",
+    "Trap 504",
+    "Tigo Money & Tengo L",
+    "Avalado AACIMH"
+  ],
+  "popularGenres": [
+    "Trap Catracho 504 Beats",
+    "Trap 504",
+    "Boom Bap Catracho"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "tegucigalpa-boom-bap-hondureno",
+  "name": "Tegucigalpa Boom Bap Clásico Hondureño",
+  "category": "scene",
+  "badge": "Tegucigalpa Boom Bap Catracho",
+  "headline": "Tegucigalpa (Distrito Central) Boom Bap Clásico Hondureño: Pistas WAV & Pago Tigo Money en Lempiras",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de Tegucigalpa.",
+  "targetArtists": [
+    "Artistas de Tegucigalpa",
+    "Comunidad Urbana 504",
+    "Movimiento Hip-Hop Honduras"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Tegucigalpa",
+    "Boom Bap Catracho",
+    "Tigo Money & Tengo L",
+    "Avalado AACIMH"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Hondureño",
+    "Trap 504",
+    "Boom Bap Catracho"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "tegucigalpa-reggaeton-catracho",
+  "name": "Tegucigalpa Reggaetón Catracho Comercial",
+  "category": "scene",
+  "badge": "Tegucigalpa Reggaetón 504",
+  "headline": "Tegucigalpa (Distrito Central) Reggaetón Catracho Comercial: Pistas WAV & Pago Tigo Money en Lempiras",
+  "description": "Dembow bailable, sintetizadores luminosos y bajos envolventes para sonar en todas las fiestas y emisoras de Tegucigalpa.",
+  "targetArtists": [
+    "Artistas de Tegucigalpa",
+    "Comunidad Urbana 504",
+    "Movimiento Hip-Hop Honduras"
+  ],
+  "recommendedBpm": "94-100 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Tegucigalpa",
+    "Reggaetón 504",
+    "Tigo Money & Tengo L",
+    "Avalado AACIMH"
+  ],
+  "popularGenres": [
+    "Reggaetón Catracho Comercial",
+    "Trap 504",
+    "Boom Bap Catracho"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "tegucigalpa-melodic-rnb-504",
+  "name": "Tegucigalpa Melodic R&B 504",
+  "category": "scene",
+  "badge": "Tegucigalpa R&B Hondureño",
+  "headline": "Tegucigalpa (Distrito Central) Melodic R&B 504: Pistas WAV & Pago Tigo Money en Lempiras",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de Tegucigalpa.",
+  "targetArtists": [
+    "Artistas de Tegucigalpa",
+    "Comunidad Urbana 504",
+    "Movimiento Hip-Hop Honduras"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "Tegucigalpa",
+    "R&B Hondureño",
+    "Tigo Money & Tengo L",
+    "Avalado AACIMH"
+  ],
+  "popularGenres": [
+    "Melodic R&B 504",
+    "Trap 504",
+    "Boom Bap Catracho"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "la-ceiba-trap-catracho-504",
+  "name": "La Ceiba Trap Catracho 504 Beats",
+  "category": "scene",
+  "badge": "La Ceiba Trap 504",
+  "headline": "La Ceiba (Atlántida Caribe) Trap Catracho 504 Beats: Pistas WAV & Pago Tigo Money en Lempiras",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de La Ceiba.",
+  "targetArtists": [
+    "Artistas de La Ceiba",
+    "Comunidad Urbana 504",
+    "Movimiento Hip-Hop Honduras"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "La Ceiba",
+    "Trap 504",
+    "Tigo Money & Tengo L",
+    "Avalado AACIMH"
+  ],
+  "popularGenres": [
+    "Trap Catracho 504 Beats",
+    "Trap 504",
+    "Boom Bap Catracho"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "la-ceiba-boom-bap-hondureno",
+  "name": "La Ceiba Boom Bap Clásico Hondureño",
+  "category": "scene",
+  "badge": "La Ceiba Boom Bap Catracho",
+  "headline": "La Ceiba (Atlántida Caribe) Boom Bap Clásico Hondureño: Pistas WAV & Pago Tigo Money en Lempiras",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de La Ceiba.",
+  "targetArtists": [
+    "Artistas de La Ceiba",
+    "Comunidad Urbana 504",
+    "Movimiento Hip-Hop Honduras"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "La Ceiba",
+    "Boom Bap Catracho",
+    "Tigo Money & Tengo L",
+    "Avalado AACIMH"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Hondureño",
+    "Trap 504",
+    "Boom Bap Catracho"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "la-ceiba-reggaeton-catracho",
+  "name": "La Ceiba Reggaetón Catracho Comercial",
+  "category": "scene",
+  "badge": "La Ceiba Reggaetón 504",
+  "headline": "La Ceiba (Atlántida Caribe) Reggaetón Catracho Comercial: Pistas WAV & Pago Tigo Money en Lempiras",
+  "description": "Dembow bailable, sintetizadores luminosos y bajos envolventes para sonar en todas las fiestas y emisoras de La Ceiba.",
+  "targetArtists": [
+    "Artistas de La Ceiba",
+    "Comunidad Urbana 504",
+    "Movimiento Hip-Hop Honduras"
+  ],
+  "recommendedBpm": "94-100 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "La Ceiba",
+    "Reggaetón 504",
+    "Tigo Money & Tengo L",
+    "Avalado AACIMH"
+  ],
+  "popularGenres": [
+    "Reggaetón Catracho Comercial",
+    "Trap 504",
+    "Boom Bap Catracho"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "la-ceiba-melodic-rnb-504",
+  "name": "La Ceiba Melodic R&B 504",
+  "category": "scene",
+  "badge": "La Ceiba R&B Hondureño",
+  "headline": "La Ceiba (Atlántida Caribe) Melodic R&B 504: Pistas WAV & Pago Tigo Money en Lempiras",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de La Ceiba.",
+  "targetArtists": [
+    "Artistas de La Ceiba",
+    "Comunidad Urbana 504",
+    "Movimiento Hip-Hop Honduras"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "La Ceiba",
+    "R&B Hondureño",
+    "Tigo Money & Tengo L",
+    "Avalado AACIMH"
+  ],
+  "popularGenres": [
+    "Melodic R&B 504",
+    "Trap 504",
+    "Boom Bap Catracho"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "roatan-trap-catracho-504",
+  "name": "Roatán Trap Catracho 504 Beats",
+  "category": "scene",
+  "badge": "Roatán Trap 504",
+  "headline": "Roatán (Islas de la Bahía) Trap Catracho 504 Beats: Pistas WAV & Pago Tigo Money en Lempiras",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de Roatán.",
+  "targetArtists": [
+    "Artistas de Roatán",
+    "Comunidad Urbana 504",
+    "Movimiento Hip-Hop Honduras"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Roatán",
+    "Trap 504",
+    "Tigo Money & Tengo L",
+    "Avalado AACIMH"
+  ],
+  "popularGenres": [
+    "Trap Catracho 504 Beats",
+    "Trap 504",
+    "Boom Bap Catracho"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "roatan-boom-bap-hondureno",
+  "name": "Roatán Boom Bap Clásico Hondureño",
+  "category": "scene",
+  "badge": "Roatán Boom Bap Catracho",
+  "headline": "Roatán (Islas de la Bahía) Boom Bap Clásico Hondureño: Pistas WAV & Pago Tigo Money en Lempiras",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de Roatán.",
+  "targetArtists": [
+    "Artistas de Roatán",
+    "Comunidad Urbana 504",
+    "Movimiento Hip-Hop Honduras"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Roatán",
+    "Boom Bap Catracho",
+    "Tigo Money & Tengo L",
+    "Avalado AACIMH"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Hondureño",
+    "Trap 504",
+    "Boom Bap Catracho"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "roatan-reggaeton-catracho",
+  "name": "Roatán Reggaetón Catracho Comercial",
+  "category": "scene",
+  "badge": "Roatán Reggaetón 504",
+  "headline": "Roatán (Islas de la Bahía) Reggaetón Catracho Comercial: Pistas WAV & Pago Tigo Money en Lempiras",
+  "description": "Dembow bailable, sintetizadores luminosos y bajos envolventes para sonar en todas las fiestas y emisoras de Roatán.",
+  "targetArtists": [
+    "Artistas de Roatán",
+    "Comunidad Urbana 504",
+    "Movimiento Hip-Hop Honduras"
+  ],
+  "recommendedBpm": "94-100 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Roatán",
+    "Reggaetón 504",
+    "Tigo Money & Tengo L",
+    "Avalado AACIMH"
+  ],
+  "popularGenres": [
+    "Reggaetón Catracho Comercial",
+    "Trap 504",
+    "Boom Bap Catracho"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "roatan-melodic-rnb-504",
+  "name": "Roatán Melodic R&B 504",
+  "category": "scene",
+  "badge": "Roatán R&B Hondureño",
+  "headline": "Roatán (Islas de la Bahía) Melodic R&B 504: Pistas WAV & Pago Tigo Money en Lempiras",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de Roatán.",
+  "targetArtists": [
+    "Artistas de Roatán",
+    "Comunidad Urbana 504",
+    "Movimiento Hip-Hop Honduras"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "Roatán",
+    "R&B Hondureño",
+    "Tigo Money & Tengo L",
+    "Avalado AACIMH"
+  ],
+  "popularGenres": [
+    "Melodic R&B 504",
+    "Trap 504",
+    "Boom Bap Catracho"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "choluteca-trap-catracho-504",
+  "name": "Choluteca Trap Catracho 504 Beats",
+  "category": "scene",
+  "badge": "Choluteca Trap 504",
+  "headline": "Choluteca (Sur Pacífico) Trap Catracho 504 Beats: Pistas WAV & Pago Tigo Money en Lempiras",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de Choluteca.",
+  "targetArtists": [
+    "Artistas de Choluteca",
+    "Comunidad Urbana 504",
+    "Movimiento Hip-Hop Honduras"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Choluteca",
+    "Trap 504",
+    "Tigo Money & Tengo L",
+    "Avalado AACIMH"
+  ],
+  "popularGenres": [
+    "Trap Catracho 504 Beats",
+    "Trap 504",
+    "Boom Bap Catracho"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "choluteca-boom-bap-hondureno",
+  "name": "Choluteca Boom Bap Clásico Hondureño",
+  "category": "scene",
+  "badge": "Choluteca Boom Bap Catracho",
+  "headline": "Choluteca (Sur Pacífico) Boom Bap Clásico Hondureño: Pistas WAV & Pago Tigo Money en Lempiras",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de Choluteca.",
+  "targetArtists": [
+    "Artistas de Choluteca",
+    "Comunidad Urbana 504",
+    "Movimiento Hip-Hop Honduras"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Choluteca",
+    "Boom Bap Catracho",
+    "Tigo Money & Tengo L",
+    "Avalado AACIMH"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Hondureño",
+    "Trap 504",
+    "Boom Bap Catracho"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "choluteca-reggaeton-catracho",
+  "name": "Choluteca Reggaetón Catracho Comercial",
+  "category": "scene",
+  "badge": "Choluteca Reggaetón 504",
+  "headline": "Choluteca (Sur Pacífico) Reggaetón Catracho Comercial: Pistas WAV & Pago Tigo Money en Lempiras",
+  "description": "Dembow bailable, sintetizadores luminosos y bajos envolventes para sonar en todas las fiestas y emisoras de Choluteca.",
+  "targetArtists": [
+    "Artistas de Choluteca",
+    "Comunidad Urbana 504",
+    "Movimiento Hip-Hop Honduras"
+  ],
+  "recommendedBpm": "94-100 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Choluteca",
+    "Reggaetón 504",
+    "Tigo Money & Tengo L",
+    "Avalado AACIMH"
+  ],
+  "popularGenres": [
+    "Reggaetón Catracho Comercial",
+    "Trap 504",
+    "Boom Bap Catracho"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "choluteca-melodic-rnb-504",
+  "name": "Choluteca Melodic R&B 504",
+  "category": "scene",
+  "badge": "Choluteca R&B Hondureño",
+  "headline": "Choluteca (Sur Pacífico) Melodic R&B 504: Pistas WAV & Pago Tigo Money en Lempiras",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de Choluteca.",
+  "targetArtists": [
+    "Artistas de Choluteca",
+    "Comunidad Urbana 504",
+    "Movimiento Hip-Hop Honduras"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "Choluteca",
+    "R&B Hondureño",
+    "Tigo Money & Tengo L",
+    "Avalado AACIMH"
+  ],
+  "popularGenres": [
+    "Melodic R&B 504",
+    "Trap 504",
+    "Boom Bap Catracho"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "el-progreso-trap-catracho-504",
+  "name": "El Progreso Trap Catracho 504 Beats",
+  "category": "scene",
+  "badge": "El Progreso Trap 504",
+  "headline": "El Progreso (Yoro Perla) Trap Catracho 504 Beats: Pistas WAV & Pago Tigo Money en Lempiras",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de El Progreso.",
+  "targetArtists": [
+    "Artistas de El Progreso",
+    "Comunidad Urbana 504",
+    "Movimiento Hip-Hop Honduras"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "El Progreso",
+    "Trap 504",
+    "Tigo Money & Tengo L",
+    "Avalado AACIMH"
+  ],
+  "popularGenres": [
+    "Trap Catracho 504 Beats",
+    "Trap 504",
+    "Boom Bap Catracho"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "el-progreso-boom-bap-hondureno",
+  "name": "El Progreso Boom Bap Clásico Hondureño",
+  "category": "scene",
+  "badge": "El Progreso Boom Bap Catracho",
+  "headline": "El Progreso (Yoro Perla) Boom Bap Clásico Hondureño: Pistas WAV & Pago Tigo Money en Lempiras",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de El Progreso.",
+  "targetArtists": [
+    "Artistas de El Progreso",
+    "Comunidad Urbana 504",
+    "Movimiento Hip-Hop Honduras"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "El Progreso",
+    "Boom Bap Catracho",
+    "Tigo Money & Tengo L",
+    "Avalado AACIMH"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Hondureño",
+    "Trap 504",
+    "Boom Bap Catracho"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "el-progreso-reggaeton-catracho",
+  "name": "El Progreso Reggaetón Catracho Comercial",
+  "category": "scene",
+  "badge": "El Progreso Reggaetón 504",
+  "headline": "El Progreso (Yoro Perla) Reggaetón Catracho Comercial: Pistas WAV & Pago Tigo Money en Lempiras",
+  "description": "Dembow bailable, sintetizadores luminosos y bajos envolventes para sonar en todas las fiestas y emisoras de El Progreso.",
+  "targetArtists": [
+    "Artistas de El Progreso",
+    "Comunidad Urbana 504",
+    "Movimiento Hip-Hop Honduras"
+  ],
+  "recommendedBpm": "94-100 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "El Progreso",
+    "Reggaetón 504",
+    "Tigo Money & Tengo L",
+    "Avalado AACIMH"
+  ],
+  "popularGenres": [
+    "Reggaetón Catracho Comercial",
+    "Trap 504",
+    "Boom Bap Catracho"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "el-progreso-melodic-rnb-504",
+  "name": "El Progreso Melodic R&B 504",
+  "category": "scene",
+  "badge": "El Progreso R&B Hondureño",
+  "headline": "El Progreso (Yoro Perla) Melodic R&B 504: Pistas WAV & Pago Tigo Money en Lempiras",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de El Progreso.",
+  "targetArtists": [
+    "Artistas de El Progreso",
+    "Comunidad Urbana 504",
+    "Movimiento Hip-Hop Honduras"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "El Progreso",
+    "R&B Hondureño",
+    "Tigo Money & Tengo L",
+    "Avalado AACIMH"
+  ],
+  "popularGenres": [
+    "Melodic R&B 504",
+    "Trap 504",
+    "Boom Bap Catracho"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
 ];

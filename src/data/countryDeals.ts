@@ -34846,4 +34846,216 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "hn": {
+  "slug": "hn",
+  "name": "Honduras – Hub Nacional (Punta-Trap, Trap 504, Tigo Money & AACIMH)",
+  "flag": "🇭🇳",
+  "currency": "HNL (L) / USD ($)",
+  "currencyCode": "HNL",
+  "gateways": "Tigo Money, Tengo (Billetera Móvil), Banco Atlántida, Ficohsa, Tarjetas, Apple Pay, PayPal",
+  "pro": "AACIMH (Asociación de Autores y Compositores de Honduras)",
+  "proFullName": "AACIMH & DIGEPIH (Dirección General de Propiedad Intelectual)",
+  "proGuide": "100% legal ante AACIMH y DIGEPIH con contrato en PDF descargable.",
+  "headline": "Beats en Honduras: Punta-Trap, Trap 504 & Pago Seguro con Tigo Money",
+  "description": "El catálogo líder de instrumentales urbanas para artistas de toda Honduras. Licencias comerciales en Lempiras (L) y Dólares con entrega instantánea de WAV 24-bit y pistas separadas multitrack.",
+  "popularGenres": [
+    "Punta-Trap",
+    "Trap 504",
+    "Boom Bap Catracho",
+    "Dembow Hondureño"
+  ],
+  "subClusters": [
+    {
+      "name": "El Chevo Punta Beat",
+      "slug": "../../vibe/el-chevo-punta-urban-catracha",
+      "description": "Punta urbana explosiva con metales festivos y percusión de dembow."
+    },
+    {
+      "name": "Menor Menor Trap Vibe",
+      "slug": "../../vibe/menor-menor-latin-trap-melodico",
+      "description": "Trap latino melódico con 808s cálidos y letras de desamor."
+    },
+    {
+      "name": "Trap 504 Pesado",
+      "slug": "../../genre/bases-de-trap-catracho-504-con-bajos-808",
+      "description": "Bases de trap callejero con campanas oscuras y 808s demoledores."
+    },
+    {
+      "name": "Pago con Tigo Money y Tengo",
+      "slug": "../../genre/comprar-beats-en-honduras-tigo-money-tengo",
+      "description": "Compra sin fricción en Lempiras usando Tigo Money y Banco Atlántida."
+    }
+  ]
+},
+  "hn/san-pedro-sula-valle-sula": {
+  "slug": "hn/san-pedro-sula-valle-sula",
+  "name": "Honduras – San Pedro Sula (Valle de Sula & Cuna del Trap 504)",
+  "flag": "🇭🇳",
+  "currency": "HNL (L) / USD ($)",
+  "currencyCode": "HNL",
+  "gateways": "Tigo Money, Tengo, Banco Atlántida, Ficohsa, Tarjetas, Apple Pay, PayPal",
+  "pro": "AACIMH & DIGEPIH",
+  "proFullName": "AACIMH",
+  "proGuide": "100% compatible con distribución en Spotify y YouTube.",
+  "headline": "Beats en San Pedro Sula: La Capital Industrial, Trap Pesado 504 & 808s",
+  "description": "El motor económico y urbano de Honduras: trap callejero contundente, campanas industriales gélidas y bajos sub-808 deslizantes para artistas de San Pedro Sula y Choloma.",
+  "popularGenres": [
+    "SPS Street Trap",
+    "Valle de Sula Drill",
+    "Industrial 504"
+  ],
+  "subClusters": []
+},
+  "hn/tegucigalpa-distrito-central": {
+  "slug": "hn/tegucigalpa-distrito-central",
+  "name": "Honduras – Tegucigalpa (Distrito Central & Hip-Hop Consciente)",
+  "flag": "🇭🇳",
+  "currency": "HNL (L) / USD ($)",
+  "currencyCode": "HNL",
+  "gateways": "Tigo Money, Tengo, Banco Atlántida, Ficohsa, Tarjetas, Apple Pay, PayPal",
+  "pro": "AACIMH",
+  "proFullName": "AACIMH",
+  "proGuide": "100% original con entrega de stems multitrack.",
+  "headline": "Beats en Tegucigalpa: Clima de Montaña, Pianos Melancólicos & Boom Bap",
+  "description": "El centro cultural y político de la nación: hip-hop poético con alma de jazz, cajas analógicas crujientes y bajos cálidos para narrar la realidad de Teguz y Comayagüela.",
+  "popularGenres": [
+    "Teguz Boom Bap",
+    "Capital Conscious Rap",
+    "Central District Beat"
+  ],
+  "subClusters": []
+},
+  "hn/la-ceiba-atlantida": {
+  "slug": "hn/la-ceiba-atlantida",
+  "name": "Honduras – La Ceiba (Novia de Honduras & Cuna del Punta-Trap)",
+  "flag": "🇭🇳",
+  "currency": "HNL (L) / USD ($)",
+  "currencyCode": "HNL",
+  "gateways": "Tigo Money, Tengo, Banco Atlántida, Tarjetas, Apple Pay, PayPal",
+  "pro": "AACIMH",
+  "proFullName": "AACIMH",
+  "proGuide": "100% libre de reclamos de derechos de autor.",
+  "headline": "Beats en La Ceiba: Tambores Garífunas, Punta-Trap & Fervor del Carnaval",
+  "description": "El corazón de la cultura caribeña y garífuna de Atlántida: tambores tradicionales primera y segunda, metales carnavalescos y caídas de trap bailable para la fiesta popular.",
+  "popularGenres": [
+    "La Ceiba Punta-Trap",
+    "Garífuna Beat",
+    "Carnaval de San Isidro Sound"
+  ],
+  "subClusters": []
+},
+  "hn/roatan-islas-de-la-bahia": {
+  "slug": "hn/roatan-islas-de-la-bahia",
+  "name": "Honduras – Roatán & Islas de la Bahía (Paraíso Caribeño & Island Dub)",
+  "flag": "🇭🇳",
+  "currency": "HNL (L) / USD ($)",
+  "currencyCode": "HNL",
+  "gateways": "Tigo Money, Tengo, Banco Atlántida, Tarjetas, Apple Pay, PayPal",
+  "pro": "AACIMH",
+  "proFullName": "AACIMH",
+  "proGuide": "100% garantizado con derechos comerciales de streaming.",
+  "headline": "Beats en Roatán: Arrecifes de Coral, Dancehall Caribeño & Sunset Chill",
+  "description": "La joya turística del Caribe hondureño: sintetizadores tropicales luminosos, líneas de bajo dub profundas y ritmos dancehall relajados para música de verano y playa.",
+  "popularGenres": [
+    "Roatán Dancehall",
+    "Bay Islands Chillhop",
+    "Caribbean Sunset Beat"
+  ],
+  "subClusters": []
+},
+  "hn/choluteca-sur": {
+  "slug": "hn/choluteca-sur",
+  "name": "Honduras – Choluteca & Valle (La Sultana del Sur & Dembow Caliente)",
+  "flag": "🇭🇳",
+  "currency": "HNL (L) / USD ($)",
+  "currencyCode": "HNL",
+  "gateways": "Tigo Money, Tengo, Banco Atlántida, Tarjetas, Apple Pay, PayPal",
+  "pro": "AACIMH",
+  "proFullName": "AACIMH",
+  "proGuide": "100% legal ante AACIMH con contrato en PDF.",
+  "headline": "Beats en Choluteca: Calor del Pacífico, Dembow Enérgico & Fiesta del Sur",
+  "description": "La calidez del pacífico sur hondureño: baterías aceleradas de reggaetón y dembow playero, sintetizadores vivaces y caídas diseñadas para reventar bocinas en fiestas patronales.",
+  "popularGenres": [
+    "Choluteca Dembow",
+    "Sultana del Sur Beat",
+    "Pacific Coastal Urban"
+  ],
+  "subClusters": []
+},
+  "hn/comayagua-colonial": {
+  "slug": "hn/comayagua-colonial",
+  "name": "Honduras – Comayagua (Antigua Capital Colonial & Trova Urbana)",
+  "flag": "🇭🇳",
+  "currency": "HNL (L) / USD ($)",
+  "currencyCode": "HNL",
+  "gateways": "Tigo Money, Tengo, Banco Atlántida, Ficohsa, Tarjetas, Apple Pay, PayPal",
+  "pro": "AACIMH",
+  "proFullName": "AACIMH",
+  "proGuide": "100% compatible con agregadoras digitales.",
+  "headline": "Beats en Comayagua: Historia Colonial, Guitarras Españolas & R&B Melódico",
+  "description": "La elegancia histórica del valle central: arpegios clásicos de guitarra acústica, armonías de pop urbano sofisticadas y baterías con mezcla limpia para canciones atemporales.",
+  "popularGenres": [
+    "Comayagua Acoustic Trap",
+    "Colonial R&B",
+    "Central Valley Flow"
+  ],
+  "subClusters": []
+},
+  "hn/el-progreso-yoro": {
+  "slug": "hn/el-progreso-yoro",
+  "name": "Honduras – El Progreso & Yoro (La Perla del Ulúa & Rap Urbano)",
+  "flag": "🇭🇳",
+  "currency": "HNL (L) / USD ($)",
+  "currencyCode": "HNL",
+  "gateways": "Tigo Money, Tengo, Banco Atlántida, Tarjetas, Apple Pay, PayPal",
+  "pro": "AACIMH",
+  "proFullName": "AACIMH",
+  "proGuide": "100% original con entrega de stems.",
+  "headline": "Beats en El Progreso: Río Ulúa, Fuerza Joven & Trap de Calle",
+  "description": "El dinamismo de la juventud progreseña: baterías apretadas de trap moderno, sintetizadores punzantes y líneas de bajo contundentes para el nuevo sonido callejero de Yoro.",
+  "popularGenres": [
+    "El Progreso Street Trap",
+    "Perla del Ulúa Beat",
+    "Yoro Underground"
+  ],
+  "subClusters": []
+},
+  "hn/copan-ruinas-maya": {
+  "slug": "hn/copan-ruinas-maya",
+  "name": "Honduras – Copán Ruinas & Santa Rosa (Reino Maya & Lofi de Altura)",
+  "flag": "🇭🇳",
+  "currency": "HNL (L) / USD ($)",
+  "currencyCode": "HNL",
+  "gateways": "Tigo Money, Tengo, Banco Atlántida, Tarjetas, Apple Pay, PayPal",
+  "pro": "AACIMH",
+  "proFullName": "AACIMH",
+  "proGuide": "Licencias comerciales ilimitadas.",
+  "headline": "Beats en Copán Ruinas: Mística Maya, Flautas de Barro & Chillhop Cafetalero",
+  "description": "La herencia ancestral de la civilización maya y el frío de la cordillera occidental: flautas de barro, tambores tribales y ritmos lofi relajantes para producciones de alto vuelo.",
+  "popularGenres": [
+    "Copán Maya Trap",
+    "Santa Rosa Coffee Lofi",
+    "Ancestral Tribal Beat"
+  ],
+  "subClusters": []
+},
+  "hn/danli-el-paraiso": {
+  "slug": "hn/danli-el-paraiso",
+  "name": "Honduras – Danlí & El Paraíso (Tierra del Maíz & Rap de Tradición)",
+  "flag": "🇭🇳",
+  "currency": "HNL (L) / USD ($)",
+  "currencyCode": "HNL",
+  "gateways": "Tigo Money, Tengo, Banco Atlántida, Tarjetas, Apple Pay, PayPal",
+  "pro": "AACIMH",
+  "proFullName": "AACIMH",
+  "proGuide": "100% original y listo para monetizar en Spotify.",
+  "headline": "Beats en Danlí: Colinas Orientales, Guitarras Nobles & Boom Bap Campesino",
+  "description": "La calidez del oriente hondureño: acordes de guitarra noble, pianos acústicos y baterías con swing pausado para historias sinceras de esfuerzo y orgullo catracho.",
+  "popularGenres": [
+    "Danlí Folk Rap",
+    "El Paraíso Boom Bap",
+    "Eastern Mountain Beat"
+  ],
+  "subClusters": []
+},
 };
