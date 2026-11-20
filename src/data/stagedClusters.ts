@@ -36199,4 +36199,1665 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "1"
   ]
 },
+  {
+  "slug": "anuel-aa-real-hasta-la-muerte-hardcore-trap",
+  "name": "Anuel AA Real Hasta La Muerte Hardcore Trap",
+  "category": "vibe",
+  "badge": "RHLM Hardcore Trap",
+  "headline": "Anuel AA Style Beats: Hardcore 808s, Distorted Street Bass & Dramatic Pianos",
+  "description": "The definitive sound of street trap in Puerto Rico: dark piano progressions, aggressive distorted sub-bass drops, and sharp snares built for unapologetic street bars and anthemic hooks.",
+  "targetArtists": [
+    "Anuel AA",
+    "Real Hasta La Muerte",
+    "Las Leyendas Nunca Mueren"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Dramatic Piano",
+    "Distorted 808",
+    "Street Power",
+    "RHLM Vibe"
+  ],
+  "popularGenres": [
+    "Hardcore Trap",
+    "Street Trap",
+    "Latin Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "eladio-carrion-sauce-boyz-atlanta-trap",
+  "name": "Eladio Carrión Sauce Boyz Atlanta Trap",
+  "category": "vibe",
+  "badge": "Sauce Boyz Atlanta Vibe",
+  "headline": "Eladio Carrión Style Beats: Heavy Atlanta 808s, Ice-Cold Bells & Drill Bounce",
+  "description": "The heavyweight champion of Latin trap: 808 Mafia style triplet hi-hats, menacing bell plucks, and heavy low-end engineered for complex punchline flows and drill pockets.",
+  "targetArtists": [
+    "Eladio Carrión",
+    "Sauce Boyz",
+    "3MEN2 KBRN",
+    "Bizarrap Crossover"
+  ],
+  "recommendedBpm": "135-142 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "Atlanta 808",
+    "Ice-Cold Bells",
+    "Sauce Flow",
+    "Heavyweight Trap"
+  ],
+  "popularGenres": [
+    "Latin Trap",
+    "Atlanta Trap",
+    "Drill Latino"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "mora-microdosis-futuristic-synth-trap",
+  "name": "Mora Microdosis Futuristic Synth Trap",
+  "category": "vibe",
+  "badge": "Microdosis Futuristic Vibe",
+  "headline": "Mora Style Beats: Ethereal Analog Pads, Spacey Melodic Trap & Gliding 808s",
+  "description": "The futuristic sound of San Juan: lush tape-saturated synthesizer pads, ethereal vocal chop textures, and smooth perreo bounce designed for dreamy melodies and heartbreak anthems.",
+  "targetArtists": [
+    "Mora",
+    "Microdosis",
+    "Paraíso",
+    "Estrella"
+  ],
+  "recommendedBpm": "94-102 BPM / 125 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Ethereal Pads",
+    "Spacey Synths",
+    "Gliding 808s",
+    "Futuristic Perreo"
+  ],
+  "popularGenres": [
+    "Futuristic Trap",
+    "Melodic Perreo",
+    "Alternative Urban"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "tainy-data-cinematic-cyberpunk-reggaeton",
+  "name": "Tainy DATA Cinematic Cyberpunk Reggaeton",
+  "category": "vibe",
+  "badge": "DATA Cyberpunk Vibe",
+  "headline": "Tainy Style Beats: Cyberpunk Synthesizers, Pristine Sidechain & Cinematic Drums",
+  "description": "Production by the greatest Latin producer of all time: analog Japanese synth leads, sidechained acoustic kicks, expansive reverbs, and flawless spatial headroom for vocals.",
+  "targetArtists": [
+    "Tainy",
+    "DATA",
+    "Lo Siento BB",
+    "Neon16"
+  ],
+  "recommendedBpm": "90-96 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Cyberpunk Synths",
+    "Sidechained Kicks",
+    "Pristine Headroom",
+    "Cinematic Sound"
+  ],
+  "popularGenres": [
+    "Cyberpunk Reggaetón",
+    "Electronic Urban",
+    "Future Pop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "myke-towers-la-vida-es-una-slick-rap",
+  "name": "Myke Towers La Vida Es Una Slick Rap",
+  "category": "vibe",
+  "badge": "Young King Slick Flow",
+  "headline": "Myke Towers Style Beats: West Coast Bounce, Crisp Snares & Commercial Dembow",
+  "description": "The smoothest flow in Puerto Rico: bouncy synthesizer baselines, crisp radio-ready snares, and swinging perreo drums built for lightning-fast rhymes and effortless swagger.",
+  "targetArtists": [
+    "Myke Towers",
+    "LALA",
+    "Easy Money Baby",
+    "La Vida Es Una"
+  ],
+  "recommendedBpm": "98-106 BPM / 128 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Slick Bounce",
+    "Crisp Snares",
+    "Commercial Dembow",
+    "Young King Flow"
+  ],
+  "popularGenres": [
+    "Reggaetón Comercial",
+    "West Coast Latin",
+    "Radio Urban"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "rauw-alejandro-saturno-synthwave-perreo",
+  "name": "Rauw Alejandro Saturno Synthwave Perreo",
+  "category": "vibe",
+  "badge": "Saturno Synthwave Vibe",
+  "headline": "Rauw Alejandro Style Beats: 80s Synthwave Basslines, Electronic Drums & Dance Perreo",
+  "description": "The fusion of 80s retro synthwave and modern Puerto Rican reggaetón: driving analog bass arpeggios, gated snares, and danceable dembow grooves for vocal falsettos.",
+  "targetArtists": [
+    "Rauw Alejandro",
+    "Saturno",
+    "Playa Saturno",
+    "Todo De Ti"
+  ],
+  "recommendedBpm": "100-112 BPM",
+  "recommendedKey": "E-Minor / B-Minor",
+  "vibeAttributes": [
+    "80s Synthwave",
+    "Electronic Drums",
+    "Dance Perreo",
+    "Analog Basslines"
+  ],
+  "popularGenres": [
+    "Synthwave Reggaetón",
+    "Dance Pop",
+    "Electro Urban"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "young-miko-trap-kitty-bouncy-flow",
+  "name": "Young Miko Trap Kitty Bouncy Flow",
+  "category": "vibe",
+  "badge": "Trap Kitty Bouncy Vibe",
+  "headline": "Young Miko Style Beats: Bouncy 808 Drops, West Coast Synths & Irresistible Swagger",
+  "description": "The fresh sound dominating global playlists: bouncy, swinging 808s, playful G-funk synthesizer whistles, and crisp snares built for confident, charismatic cadence.",
+  "targetArtists": [
+    "Young Miko",
+    "Trap Kitty",
+    "Att.",
+    "Classy 101"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Bouncy 808s",
+    "West Coast Whistle",
+    "Confident Swagger",
+    "Trap Kitty"
+  ],
+  "popularGenres": [
+    "Latin Trap",
+    "West Coast Bounce",
+    "Female Urban"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "7"
+  ]
+},
+  {
+  "slug": "arcangel-la-maravilla-regal-trap",
+  "name": "Arcángel La Maravilla Regal Trap",
+  "category": "vibe",
+  "badge": "La Maravilla Regal Vibe",
+  "headline": "Arcángel Style Beats: Triumphant Brass Horns, Regal String Samples & Timeless Flow",
+  "description": "Elegance and authority from the veteran icon: dramatic orchestral horn fanfares, lush minor strings, and crisp uncompressed boom bap and trap drums.",
+  "targetArtists": [
+    "Arcángel",
+    "La Maravilla",
+    "Sr. Santos",
+    "Sentimiento Elegancia"
+  ],
+  "recommendedBpm": "92-98 BPM / 130 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Triumphant Brass",
+    "Regal Strings",
+    "Crisp Snares",
+    "Timeless Flow"
+  ],
+  "popularGenres": [
+    "Latin Trap",
+    "Classic Reggaetón",
+    "Orchestral Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "luar-la-l-carolina-street-drill",
+  "name": "Luar La L Carolina Street Drill",
+  "category": "vibe",
+  "badge": "Carolina Drill Vibe",
+  "headline": "Luar La L Style Beats: 140 BPM Carolina Street Drill, Cold Bells & Menacing Sub-Bass",
+  "description": "The underground king of raw Carolina street drill: syncopated drill snare patterns, ice-cold bell melodies, and sweeping sub-bass slides built for relentless delivery.",
+  "targetArtists": [
+    "Luar La L",
+    "L3TRA",
+    "Carolina Drillers",
+    "Bad Bunny Collab"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Carolina Drill",
+    "Cold Bells",
+    "Sweeping Sub-Bass",
+    "Relentless Delivery"
+  ],
+  "popularGenres": [
+    "Latin Drill",
+    "Street Trap",
+    "Carolina Sound"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "alvaro-diaz-felicilandia-alternative-rnb",
+  "name": "Álvaro Díaz Felicilandia Alternative RnB",
+  "category": "vibe",
+  "badge": "Felicilandia Indie Vibe",
+  "headline": "Álvaro Díaz Style Beats: Retro Boom Bap Swing, Warm Electric Pianos & Indie Urban",
+  "description": "The cutting-edge alternative side of San Juan: vintage Rhodes keyboards, unquantized live-feel drums, and rich jazz harmonies for introspective hip-hop.",
+  "targetArtists": [
+    "Álvaro Díaz",
+    "Felicilandia",
+    "Sayonara",
+    "Tainy Collab"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Vintage Rhodes",
+    "Retro Boom Bap",
+    "Indie Urban",
+    "Jazz Harmonies"
+  ],
+  "popularGenres": [
+    "Alternative Hip Hop",
+    "Indie R&B",
+    "Boom Bap Boricua"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "daddy-yankee-legendaddy-classic-playero",
+  "name": "Daddy Yankee Legendaddy Classic Playero",
+  "category": "vibe",
+  "badge": "Legendaddy Playero Vibe",
+  "headline": "Daddy Yankee Style Beats: Classic Playero Dembow, Anthemic Horns & World Hit Energy",
+  "description": "The blueprint of global reggaetón: driving Playero drum breaks, triumphant synthesizer stabs, and stadium-rocking energy that defined the genre.",
+  "targetArtists": [
+    "Daddy Yankee",
+    "Legendaddy",
+    "Barrio Fino",
+    "Playero Roots"
+  ],
+  "recommendedBpm": "94-98 BPM",
+  "recommendedKey": "A-Minor / D-Minor",
+  "vibeAttributes": [
+    "Playero Dembow",
+    "Anthemic Horns",
+    "Global Hit Energy",
+    "Classic Reggaetón"
+  ],
+  "popularGenres": [
+    "Classic Reggaetón",
+    "Global Perreo",
+    "Stadium Urban"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "buy-beats-puerto-rico-ath-movil-usd",
+  "name": "Buy Beats in Puerto Rico with ATH Móvil (USD $)",
+  "category": "genre",
+  "badge": "ATH Móvil Beats",
+  "headline": "Buy Beats in Puerto Rico: Pay Instantly with ATH Móvil in US Dollars (USD $)",
+  "description": "The fastest and most trusted way for Puerto Rican artists to buy beats. Pay in seconds via ATH Móvil, Apple Pay, or credit/debit card and download full 24-bit WAV files and stems immediately.",
+  "targetArtists": [
+    "Puerto Rican Artists",
+    "San Juan Trappers",
+    "Reggaetoneros"
+  ],
+  "recommendedBpm": "All Tempos",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "ATH Móvil",
+    "USD Pricing",
+    "Instant WAV",
+    "US Copyright Safe"
+  ],
+  "popularGenres": [
+    "Reggaetón Boricua",
+    "Latin Trap",
+    "Carolina Drill",
+    "R&B"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "bad-bunny-type-beat-wav-stems",
+  "name": "Bad Bunny Type Beat WAV with Multitrack Stems",
+  "category": "genre",
+  "badge": "Bad Bunny WAV Stems",
+  "headline": "Bad Bunny Type Beats: Dark Minor Strings, Uncompressed 808s & Stems Included",
+  "description": "Studio-grade instrumentals capturing the authentic sonic aesthetic of Nadie Sabe and Un Verano Sin Ti. Includes separate multitrack stems for pristine mixing.",
+  "targetArtists": [
+    "Bad Bunny Fans",
+    "Latin Trappers",
+    "Studio Engineers"
+  ],
+  "recommendedBpm": "92-96 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Trackout Stems",
+    "Dark Minor Strings",
+    "WAV 24-bit",
+    "El Conejo Vibe"
+  ],
+  "popularGenres": [
+    "Latin Trap",
+    "Reggaetón Boricua",
+    "Dark Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "eladio-carrion-trap-instrumentals-808s",
+  "name": "Eladio Carrión Trap Instrumentals with Heavy 808s",
+  "category": "genre",
+  "badge": "Sauce Boyz 808s",
+  "headline": "Eladio Carrión Style Beats: Atlanta 808s, Ice-Cold Bells & Complex Flow Pockets",
+  "description": "The gold standard of heavyweight Latin trap: 808 Mafia style triplet hi-hats, menacing bell melodies, and heavy sub-bass engineered for complex rhyme schemes.",
+  "targetArtists": [
+    "Eladio Carrión Fans",
+    "Sauce Boyz",
+    "Heavyweight Trappers"
+  ],
+  "recommendedBpm": "135-142 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "Heavy 808",
+    "Ice-Cold Bells",
+    "Sauce Flow",
+    "WAV Audio"
+  ],
+  "popularGenres": [
+    "Latin Trap",
+    "Atlanta Trap",
+    "Drill Latino"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "ascap-and-bmi-cleared-beats-puerto-rico",
+  "name": "ASCAP & BMI Cleared Royalty-Free Beats Puerto Rico",
+  "category": "genre",
+  "badge": "ASCAP & BMI Cleared",
+  "headline": "100% ASCAP & BMI Safe Beats: Original Compositions, Zero Copyright Claims",
+  "description": "Register your songs with ASCAP, BMI, SESAC, and the US Copyright Office without fear of sample clearance lawsuits. Countersigned legal PDF contract included.",
+  "targetArtists": [
+    "ASCAP Members",
+    "BMI Members",
+    "Independent Labels"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "100% Original",
+    "ASCAP Safe",
+    "BMI Cleared",
+    "PDF License"
+  ],
+  "popularGenres": [
+    "Reggaetón Boricua",
+    "Latin Trap",
+    "Pop Urbano"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6",
+    "5"
+  ]
+},
+  {
+  "slug": "untagged-reggaeton-studio-leases-san-juan",
+  "name": "Untagged Reggaetón Studio Leases San Juan (No Voice Tags)",
+  "category": "genre",
+  "badge": "Untagged Studio WAV",
+  "headline": "Untagged Studio Beats for Puerto Rican Recording Artists: Clean 24-bit WAV",
+  "description": "Master-grade studio files without any producer voice tags or audio watermarks. Walk into the booth in Santurce or Carolina with -6dB headroom for clean mixing.",
+  "targetArtists": [
+    "Recording Artists",
+    "Mixing Engineers",
+    "Studio Producers"
+  ],
+  "recommendedBpm": "88-144 BPM",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Untagged",
+    "Clean Audio",
+    "Headroom -6dB",
+    "Studio Master"
+  ],
+  "popularGenres": [
+    "Reggaetón",
+    "Latin Trap",
+    "Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1",
+    "6"
+  ]
+},
+  {
+  "slug": "commercial-streaming-license-spotify-puerto-rico",
+  "name": "Commercial Streaming License Spotify & Latin Billboard",
+  "category": "genre",
+  "badge": "Latin Billboard Ready",
+  "headline": "Commercial Beat License for Puerto Rican Releases: Keep 100% of Royalties",
+  "description": "Distribute via DistroKid, TuneCore, Sony Latin, or Universal Music Latino. Retain 100% of your royalties across Spotify, Apple Music, and Latin Billboard charts.",
+  "targetArtists": [
+    "Independent Artists",
+    "Managers",
+    "Producers"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "100% Royalties",
+    "Latin Billboard",
+    "Spotify Safe",
+    "Unlimited Streams"
+  ],
+  "popularGenres": [
+    "Reggaetón Boricua",
+    "Latin Trap",
+    "Pop Urbano"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "tainy-cyberpunk-synth-reggaeton-beats",
+  "name": "Tainy Cyberpunk Synth Reggaetón Beats (DATA Style)",
+  "category": "genre",
+  "badge": "Tainy Cyberpunk",
+  "headline": "Tainy DATA Style Beats: Analog Cyberpunk Synths & Sidechained Dembow Kicks",
+  "description": "Cinematic and futuristic: analog synth plucks, sidechained acoustic kicks, and expansive reverbs engineered to elevate commercial Latin releases.",
+  "targetArtists": [
+    "Tainy Fans",
+    "Mora Fans",
+    "Vocal Performers"
+  ],
+  "recommendedBpm": "90-96 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Cyberpunk Synths",
+    "Sidechained Kicks",
+    "DATA Style",
+    "WAV Audio"
+  ],
+  "popularGenres": [
+    "Cyberpunk Reggaetón",
+    "Electronic Urban",
+    "Future Pop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "carolina-drill-and-street-trap-beats",
+  "name": "Carolina Drill and Street Trap Beats (Luar & Anuel Style)",
+  "category": "genre",
+  "badge": "Carolina Street Drill",
+  "headline": "Carolina Street Drill Beats: 140 BPM Snare Rolls & Sweeping Sub-Bass 808s",
+  "description": "The darkest sound of Puerto Rico: rapid drill hi-hats, menacing bell melodies, and deep sliding sub-bass designed for aggressive street delivery.",
+  "targetArtists": [
+    "Luar La L Fans",
+    "Anuel Fans",
+    "Carolina Drillers"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Carolina Drill",
+    "140 BPM",
+    "Sliding 808",
+    "Street Power"
+  ],
+  "popularGenres": [
+    "Latin Drill",
+    "Street Trap",
+    "Carolina Sound"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "exclusive-rights-beats-puerto-rico-contract",
+  "name": "Exclusive Rights Beats Puerto Rico (Sole Master Ownership)",
+  "category": "genre",
+  "badge": "Exclusive Rights",
+  "headline": "Exclusive Rights Beats in Puerto Rico: 100% Master Ownership & Pulled from Catalog",
+  "description": "Acquire sole ownership of the master recording. The instrumental is permanently removed from the catalog and legally assigned to you in USD ($).",
+  "targetArtists": [
+    "Signed Artists",
+    "Major Label Projects",
+    "Management Teams"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Exclusive Rights",
+    "Pulled from Catalog",
+    "Sole Ownership",
+    "Legal Contract"
+  ],
+  "popularGenres": [
+    "Reggaetón Boricua",
+    "Latin Trap",
+    "Pop Urbano"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "free-3-beat-demo-pack-puerto-rico",
+  "name": "Free 3-Beat Demo Pack Download Puerto Rico",
+  "category": "genre",
+  "badge": "Free Demo Pack",
+  "headline": "Free 3-Beat Demo Pack: Test Your Flow in the Studio Before Buying",
+  "description": "Download 3 high-quality MP3 instrumentals immediately to practice your verses and test your vocal mix before investing in a full WAV lease.",
+  "targetArtists": [
+    "Emerging Artists",
+    "Home Recorders",
+    "Songwriters"
+  ],
+  "recommendedBpm": "92, 96, 130 BPM",
+  "recommendedKey": "C-Minor, F-Minor",
+  "vibeAttributes": [
+    "Free Download",
+    "3-Beat Pack",
+    "Demo Testing",
+    "Instant Email"
+  ],
+  "popularGenres": [
+    "Reggaetón Boricua",
+    "Latin Trap",
+    "Carolina Drill"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "6"
+  ]
+},
+  {
+  "slug": "92-bpm-tainy-bad-bunny-perreo",
+  "name": "92 BPM Tainy Bad Bunny Perreo",
+  "category": "bpm",
+  "badge": "92 BPM Perreo Boricua",
+  "headline": "92 BPM Reggaetón Boricua: The Modern Pulse of Global Perreo",
+  "description": "The exact tempo of international chart-topping reggaetón: relaxed dembow swing, warm sub-bass, and spacious arrangements.",
+  "recommendedBpm": "92 BPM",
+  "recommendedKey": "F-Minor",
+  "vibeAttributes": [
+    "92 BPM",
+    "Perreo Boricua",
+    "Tainy Style",
+    "Bad Bunny Vibe"
+  ],
+  "popularGenres": [
+    "Reggaetón Boricua",
+    "Modern Perreo"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "96-bpm-reggaeton-boricua-tempo",
+  "name": "96 BPM Reggaetón Boricua Tempo",
+  "category": "bpm",
+  "badge": "96 BPM Club Banger",
+  "headline": "96 BPM Classic Club Dembow: High-Energy Rhythm for San Juan Nightclubs",
+  "description": "The driving tempo of Puerto Rican nightclub anthems: hard punchy kicks, cutting snares, and rolling basslines.",
+  "recommendedBpm": "96 BPM",
+  "recommendedKey": "G-Minor",
+  "vibeAttributes": [
+    "96 BPM",
+    "Club Dembow",
+    "High-Energy",
+    "San Juan Sound"
+  ],
+  "popularGenres": [
+    "Reggaetón Boricua",
+    "Club Banger"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "130-bpm-latin-trap-puerto-rico",
+  "name": "130 BPM Latin Trap Puerto Rico",
+  "category": "bpm",
+  "badge": "130 BPM Latin Trap",
+  "headline": "130 BPM Latin Trap: The Classic Puerto Rican Street Trap Tempo",
+  "description": "The standard tempo of Boricua street trap with bouncy hi-hat patterns and deep 808 sub-bass drops.",
+  "recommendedBpm": "130 BPM",
+  "recommendedKey": "C-Minor",
+  "vibeAttributes": [
+    "130 BPM",
+    "Latin Trap",
+    "Boricua Sound",
+    "Heavy 808"
+  ],
+  "popularGenres": [
+    "Latin Trap",
+    "Street Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "138-bpm-eladio-carrion-sauce-trap",
+  "name": "138 BPM Eladio Carrión Sauce Trap",
+  "category": "bpm",
+  "badge": "138 BPM Heavy Trap",
+  "headline": "138 BPM Heavyweight Sauce Trap: Explosive Beats for Rapid Punchlines",
+  "description": "Engineered for complex multi-syllabic rhyme schemes and heavy Atlanta-inspired 808 drops.",
+  "recommendedBpm": "138 BPM",
+  "recommendedKey": "C-Minor",
+  "vibeAttributes": [
+    "138 BPM",
+    "Sauce Trap",
+    "Eladio Vibe",
+    "Heavyweight"
+  ],
+  "popularGenres": [
+    "Latin Trap",
+    "Atlanta Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "140-bpm-luar-la-l-carolina-drill",
+  "name": "140 BPM Luar La L Carolina Drill",
+  "category": "bpm",
+  "badge": "140 BPM Carolina Drill",
+  "headline": "140 BPM Carolina Street Drill: Sliding 808 Glides and Dark Bells",
+  "description": "The defining tempo of raw Puerto Rican drill music with rapid syncopated snares and sliding sub-bass.",
+  "recommendedBpm": "140 BPM",
+  "recommendedKey": "D-Minor",
+  "vibeAttributes": [
+    "140 BPM",
+    "Carolina Drill",
+    "Sliding 808s",
+    "Street Power"
+  ],
+  "popularGenres": [
+    "Latin Drill",
+    "Carolina Sound"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "f-minor-bad-bunny-dark-trap",
+  "name": "F-Minor Bad Bunny Dark Trap",
+  "category": "key",
+  "badge": "F-Minor Dark Trap",
+  "headline": "Beats in F-Minor Style Bad Bunny: Cinematic Melancholy & Deep Bass",
+  "description": "The defining minor key of modern Latin music: emotional strings, cinematic weight, and dark 808s.",
+  "recommendedBpm": "92-96 BPM",
+  "recommendedKey": "F-Minor",
+  "vibeAttributes": [
+    "F-Minor",
+    "Cinematic Strings",
+    "Dark Melancholy",
+    "Bad Bunny"
+  ],
+  "popularGenres": [
+    "Latin Trap",
+    "Reggaetón Boricua"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "c-minor-eladio-carrion-808s",
+  "name": "C-Minor Eladio Carrión 808s",
+  "category": "key",
+  "badge": "C-Minor Heavy 808",
+  "headline": "Beats in C-Minor Style Eladio Carrión: Maximum Sub-Bass Power",
+  "description": "The gold standard key for heavy 808 punch, ensuring sub-bass notes vibrate with maximum clarity.",
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "C-Minor",
+  "vibeAttributes": [
+    "C-Minor",
+    "Heavy 808",
+    "Sauce Boyz",
+    "Clarity"
+  ],
+  "popularGenres": [
+    "Latin Trap",
+    "Atlanta Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "d-minor-anuel-hardcore-trap",
+  "name": "D-Minor Anuel Hardcore Trap",
+  "category": "key",
+  "badge": "D-Minor Hardcore",
+  "headline": "Beats in D-Minor Style Anuel AA: Street Tension & Aggressive Drums",
+  "description": "High-tension minor key built for raw street storytelling and hard-hitting piano progressions.",
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "D-Minor",
+  "vibeAttributes": [
+    "D-Minor",
+    "Street Tension",
+    "RHLM Style",
+    "Aggressive"
+  ],
+  "popularGenres": [
+    "Hardcore Trap",
+    "Street Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "g-minor-tainy-synth-reggaeton",
+  "name": "G-Minor Tainy Synth Reggaeton",
+  "category": "key",
+  "badge": "G-Minor Cyberpunk",
+  "headline": "Beats in G-Minor Style Tainy: Cyberpunk Synthesizers & Clean Kick Punch",
+  "description": "The tonal foundation of futuristic perreo: clear mid frequencies for synths and tight low-end for dembow kicks.",
+  "recommendedBpm": "90-96 BPM",
+  "recommendedKey": "G-Minor",
+  "vibeAttributes": [
+    "G-Minor",
+    "Cyberpunk",
+    "Clean Kick",
+    "Tainy Style"
+  ],
+  "popularGenres": [
+    "Cyberpunk Reggaetón",
+    "Electronic Urban"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "a-minor-mora-melodic-pads",
+  "name": "A-Minor Mora Melodic Pads",
+  "category": "key",
+  "badge": "A-Minor Melodic Pads",
+  "headline": "Beats in A-Minor Style Mora: Ethereal Chords & Melodic Heartbreak",
+  "description": "Open and resonant key tailored for analog synthesizer pads, emotional vocal chops, and smooth perreo.",
+  "recommendedBpm": "94-102 BPM",
+  "recommendedKey": "A-Minor",
+  "vibeAttributes": [
+    "A-Minor",
+    "Ethereal Pads",
+    "Heartbreak",
+    "Mora Style"
+  ],
+  "popularGenres": [
+    "Melodic Perreo",
+    "Futuristic Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "san-juan-santurce-reggaeton-boricua-beats",
+  "name": "San Juan & Santurce Reggaetón Boricua Beats",
+  "category": "scene",
+  "badge": "San Juan & Santurce Reggaetón Boricua",
+  "headline": "San Juan & Santurce (Calle Loíza) Reggaetón Boricua Beats: Studio WAV & ATH Móvil",
+  "description": "Classic Playero and modern perreo bounce, punchy dembow, and studio 24-bit WAV quality for artists in San Juan & Santurce.",
+  "targetArtists": [
+    "Artists in San Juan & Santurce",
+    "Puerto Rican Urban Scene",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "92-96 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "San Juan & Santurce",
+    "Reggaetón Boricua",
+    "ATH Móvil Pay",
+    "ASCAP & BMI Cleared"
+  ],
+  "popularGenres": [
+    "Reggaetón Boricua Beats",
+    "Reggaetón Boricua",
+    "Latin Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "san-juan-santurce-latin-trap-puerto-rico",
+  "name": "San Juan & Santurce Latin Trap Puerto Rico",
+  "category": "scene",
+  "badge": "San Juan & Santurce Latin Trap",
+  "headline": "San Juan & Santurce (Calle Loíza) Latin Trap Puerto Rico: Studio WAV & ATH Móvil",
+  "description": "Heavy 808 sub-bass drops, dark minor strings, and Atlanta-style triplet hi-hats crafted for lyricists in San Juan & Santurce.",
+  "targetArtists": [
+    "Artists in San Juan & Santurce",
+    "Puerto Rican Urban Scene",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "San Juan & Santurce",
+    "Latin Trap",
+    "ATH Móvil Pay",
+    "ASCAP & BMI Cleared"
+  ],
+  "popularGenres": [
+    "Latin Trap Puerto Rico",
+    "Reggaetón Boricua",
+    "Latin Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "san-juan-santurce-cyberpunk-synth-perreo",
+  "name": "San Juan & Santurce Cyberpunk Synth Perreo",
+  "category": "scene",
+  "badge": "San Juan & Santurce Cyberpunk Perreo",
+  "headline": "San Juan & Santurce (Calle Loíza) Cyberpunk Synth Perreo: Studio WAV & ATH Móvil",
+  "description": "Analog synth leads, sidechained kicks, and futuristic Tainy DATA soundscapes engineered for artists in San Juan & Santurce.",
+  "targetArtists": [
+    "Artists in San Juan & Santurce",
+    "Puerto Rican Urban Scene",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "90-96 BPM",
+  "recommendedKey": "G-Minor / E-Minor",
+  "vibeAttributes": [
+    "San Juan & Santurce",
+    "Cyberpunk Perreo",
+    "ATH Móvil Pay",
+    "ASCAP & BMI Cleared"
+  ],
+  "popularGenres": [
+    "Cyberpunk Synth Perreo",
+    "Reggaetón Boricua",
+    "Latin Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "san-juan-santurce-street-drill-carolina",
+  "name": "San Juan & Santurce Street Drill Carolina Style",
+  "category": "scene",
+  "badge": "San Juan & Santurce Carolina Drill",
+  "headline": "San Juan & Santurce (Calle Loíza) Street Drill Carolina Style: Studio WAV & ATH Móvil",
+  "description": "Ice-cold bell melodies, syncopated 140 BPM drill snares, and sweeping sub-bass slides tailored for raw delivery in San Juan & Santurce.",
+  "targetArtists": [
+    "Artists in San Juan & Santurce",
+    "Puerto Rican Urban Scene",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / F-Minor",
+  "vibeAttributes": [
+    "San Juan & Santurce",
+    "Carolina Drill",
+    "ATH Móvil Pay",
+    "ASCAP & BMI Cleared"
+  ],
+  "popularGenres": [
+    "Street Drill Carolina Style",
+    "Reggaetón Boricua",
+    "Latin Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "bayamon-reggaeton-boricua-beats",
+  "name": "Bayamón Reggaetón Boricua Beats",
+  "category": "scene",
+  "badge": "Bayamón Reggaetón Boricua",
+  "headline": "Bayamón (El Vaquero) Reggaetón Boricua Beats: Studio WAV & ATH Móvil",
+  "description": "Classic Playero and modern perreo bounce, punchy dembow, and studio 24-bit WAV quality for artists in Bayamón.",
+  "targetArtists": [
+    "Artists in Bayamón",
+    "Puerto Rican Urban Scene",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "92-96 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Bayamón",
+    "Reggaetón Boricua",
+    "ATH Móvil Pay",
+    "ASCAP & BMI Cleared"
+  ],
+  "popularGenres": [
+    "Reggaetón Boricua Beats",
+    "Reggaetón Boricua",
+    "Latin Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "bayamon-latin-trap-puerto-rico",
+  "name": "Bayamón Latin Trap Puerto Rico",
+  "category": "scene",
+  "badge": "Bayamón Latin Trap",
+  "headline": "Bayamón (El Vaquero) Latin Trap Puerto Rico: Studio WAV & ATH Móvil",
+  "description": "Heavy 808 sub-bass drops, dark minor strings, and Atlanta-style triplet hi-hats crafted for lyricists in Bayamón.",
+  "targetArtists": [
+    "Artists in Bayamón",
+    "Puerto Rican Urban Scene",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "Bayamón",
+    "Latin Trap",
+    "ATH Móvil Pay",
+    "ASCAP & BMI Cleared"
+  ],
+  "popularGenres": [
+    "Latin Trap Puerto Rico",
+    "Reggaetón Boricua",
+    "Latin Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "bayamon-cyberpunk-synth-perreo",
+  "name": "Bayamón Cyberpunk Synth Perreo",
+  "category": "scene",
+  "badge": "Bayamón Cyberpunk Perreo",
+  "headline": "Bayamón (El Vaquero) Cyberpunk Synth Perreo: Studio WAV & ATH Móvil",
+  "description": "Analog synth leads, sidechained kicks, and futuristic Tainy DATA soundscapes engineered for artists in Bayamón.",
+  "targetArtists": [
+    "Artists in Bayamón",
+    "Puerto Rican Urban Scene",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "90-96 BPM",
+  "recommendedKey": "G-Minor / E-Minor",
+  "vibeAttributes": [
+    "Bayamón",
+    "Cyberpunk Perreo",
+    "ATH Móvil Pay",
+    "ASCAP & BMI Cleared"
+  ],
+  "popularGenres": [
+    "Cyberpunk Synth Perreo",
+    "Reggaetón Boricua",
+    "Latin Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "bayamon-street-drill-carolina",
+  "name": "Bayamón Street Drill Carolina Style",
+  "category": "scene",
+  "badge": "Bayamón Carolina Drill",
+  "headline": "Bayamón (El Vaquero) Street Drill Carolina Style: Studio WAV & ATH Móvil",
+  "description": "Ice-cold bell melodies, syncopated 140 BPM drill snares, and sweeping sub-bass slides tailored for raw delivery in Bayamón.",
+  "targetArtists": [
+    "Artists in Bayamón",
+    "Puerto Rican Urban Scene",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / F-Minor",
+  "vibeAttributes": [
+    "Bayamón",
+    "Carolina Drill",
+    "ATH Móvil Pay",
+    "ASCAP & BMI Cleared"
+  ],
+  "popularGenres": [
+    "Street Drill Carolina Style",
+    "Reggaetón Boricua",
+    "Latin Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "carolina-reggaeton-boricua-beats",
+  "name": "Carolina Reggaetón Boricua Beats",
+  "category": "scene",
+  "badge": "Carolina Reggaetón Boricua",
+  "headline": "Carolina (Tierra de Gigantes) Reggaetón Boricua Beats: Studio WAV & ATH Móvil",
+  "description": "Classic Playero and modern perreo bounce, punchy dembow, and studio 24-bit WAV quality for artists in Carolina.",
+  "targetArtists": [
+    "Artists in Carolina",
+    "Puerto Rican Urban Scene",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "92-96 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Carolina",
+    "Reggaetón Boricua",
+    "ATH Móvil Pay",
+    "ASCAP & BMI Cleared"
+  ],
+  "popularGenres": [
+    "Reggaetón Boricua Beats",
+    "Reggaetón Boricua",
+    "Latin Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "carolina-latin-trap-puerto-rico",
+  "name": "Carolina Latin Trap Puerto Rico",
+  "category": "scene",
+  "badge": "Carolina Latin Trap",
+  "headline": "Carolina (Tierra de Gigantes) Latin Trap Puerto Rico: Studio WAV & ATH Móvil",
+  "description": "Heavy 808 sub-bass drops, dark minor strings, and Atlanta-style triplet hi-hats crafted for lyricists in Carolina.",
+  "targetArtists": [
+    "Artists in Carolina",
+    "Puerto Rican Urban Scene",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "Carolina",
+    "Latin Trap",
+    "ATH Móvil Pay",
+    "ASCAP & BMI Cleared"
+  ],
+  "popularGenres": [
+    "Latin Trap Puerto Rico",
+    "Reggaetón Boricua",
+    "Latin Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "carolina-cyberpunk-synth-perreo",
+  "name": "Carolina Cyberpunk Synth Perreo",
+  "category": "scene",
+  "badge": "Carolina Cyberpunk Perreo",
+  "headline": "Carolina (Tierra de Gigantes) Cyberpunk Synth Perreo: Studio WAV & ATH Móvil",
+  "description": "Analog synth leads, sidechained kicks, and futuristic Tainy DATA soundscapes engineered for artists in Carolina.",
+  "targetArtists": [
+    "Artists in Carolina",
+    "Puerto Rican Urban Scene",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "90-96 BPM",
+  "recommendedKey": "G-Minor / E-Minor",
+  "vibeAttributes": [
+    "Carolina",
+    "Cyberpunk Perreo",
+    "ATH Móvil Pay",
+    "ASCAP & BMI Cleared"
+  ],
+  "popularGenres": [
+    "Cyberpunk Synth Perreo",
+    "Reggaetón Boricua",
+    "Latin Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "carolina-street-drill-carolina",
+  "name": "Carolina Street Drill Carolina Style",
+  "category": "scene",
+  "badge": "Carolina Carolina Drill",
+  "headline": "Carolina (Tierra de Gigantes) Street Drill Carolina Style: Studio WAV & ATH Móvil",
+  "description": "Ice-cold bell melodies, syncopated 140 BPM drill snares, and sweeping sub-bass slides tailored for raw delivery in Carolina.",
+  "targetArtists": [
+    "Artists in Carolina",
+    "Puerto Rican Urban Scene",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / F-Minor",
+  "vibeAttributes": [
+    "Carolina",
+    "Carolina Drill",
+    "ATH Móvil Pay",
+    "ASCAP & BMI Cleared"
+  ],
+  "popularGenres": [
+    "Street Drill Carolina Style",
+    "Reggaetón Boricua",
+    "Latin Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "vega-baja-reggaeton-boricua-beats",
+  "name": "Vega Baja Reggaetón Boricua Beats",
+  "category": "scene",
+  "badge": "Vega Baja Reggaetón Boricua",
+  "headline": "Vega Baja (Costa Norte) Reggaetón Boricua Beats: Studio WAV & ATH Móvil",
+  "description": "Classic Playero and modern perreo bounce, punchy dembow, and studio 24-bit WAV quality for artists in Vega Baja.",
+  "targetArtists": [
+    "Artists in Vega Baja",
+    "Puerto Rican Urban Scene",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "92-96 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Vega Baja",
+    "Reggaetón Boricua",
+    "ATH Móvil Pay",
+    "ASCAP & BMI Cleared"
+  ],
+  "popularGenres": [
+    "Reggaetón Boricua Beats",
+    "Reggaetón Boricua",
+    "Latin Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "vega-baja-latin-trap-puerto-rico",
+  "name": "Vega Baja Latin Trap Puerto Rico",
+  "category": "scene",
+  "badge": "Vega Baja Latin Trap",
+  "headline": "Vega Baja (Costa Norte) Latin Trap Puerto Rico: Studio WAV & ATH Móvil",
+  "description": "Heavy 808 sub-bass drops, dark minor strings, and Atlanta-style triplet hi-hats crafted for lyricists in Vega Baja.",
+  "targetArtists": [
+    "Artists in Vega Baja",
+    "Puerto Rican Urban Scene",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "Vega Baja",
+    "Latin Trap",
+    "ATH Móvil Pay",
+    "ASCAP & BMI Cleared"
+  ],
+  "popularGenres": [
+    "Latin Trap Puerto Rico",
+    "Reggaetón Boricua",
+    "Latin Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "vega-baja-cyberpunk-synth-perreo",
+  "name": "Vega Baja Cyberpunk Synth Perreo",
+  "category": "scene",
+  "badge": "Vega Baja Cyberpunk Perreo",
+  "headline": "Vega Baja (Costa Norte) Cyberpunk Synth Perreo: Studio WAV & ATH Móvil",
+  "description": "Analog synth leads, sidechained kicks, and futuristic Tainy DATA soundscapes engineered for artists in Vega Baja.",
+  "targetArtists": [
+    "Artists in Vega Baja",
+    "Puerto Rican Urban Scene",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "90-96 BPM",
+  "recommendedKey": "G-Minor / E-Minor",
+  "vibeAttributes": [
+    "Vega Baja",
+    "Cyberpunk Perreo",
+    "ATH Móvil Pay",
+    "ASCAP & BMI Cleared"
+  ],
+  "popularGenres": [
+    "Cyberpunk Synth Perreo",
+    "Reggaetón Boricua",
+    "Latin Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "vega-baja-street-drill-carolina",
+  "name": "Vega Baja Street Drill Carolina Style",
+  "category": "scene",
+  "badge": "Vega Baja Carolina Drill",
+  "headline": "Vega Baja (Costa Norte) Street Drill Carolina Style: Studio WAV & ATH Móvil",
+  "description": "Ice-cold bell melodies, syncopated 140 BPM drill snares, and sweeping sub-bass slides tailored for raw delivery in Vega Baja.",
+  "targetArtists": [
+    "Artists in Vega Baja",
+    "Puerto Rican Urban Scene",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / F-Minor",
+  "vibeAttributes": [
+    "Vega Baja",
+    "Carolina Drill",
+    "ATH Móvil Pay",
+    "ASCAP & BMI Cleared"
+  ],
+  "popularGenres": [
+    "Street Drill Carolina Style",
+    "Reggaetón Boricua",
+    "Latin Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "ponce-reggaeton-boricua-beats",
+  "name": "Ponce Reggaetón Boricua Beats",
+  "category": "scene",
+  "badge": "Ponce Reggaetón Boricua",
+  "headline": "Ponce (La Perla del Sur) Reggaetón Boricua Beats: Studio WAV & ATH Móvil",
+  "description": "Classic Playero and modern perreo bounce, punchy dembow, and studio 24-bit WAV quality for artists in Ponce.",
+  "targetArtists": [
+    "Artists in Ponce",
+    "Puerto Rican Urban Scene",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "92-96 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Ponce",
+    "Reggaetón Boricua",
+    "ATH Móvil Pay",
+    "ASCAP & BMI Cleared"
+  ],
+  "popularGenres": [
+    "Reggaetón Boricua Beats",
+    "Reggaetón Boricua",
+    "Latin Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "ponce-latin-trap-puerto-rico",
+  "name": "Ponce Latin Trap Puerto Rico",
+  "category": "scene",
+  "badge": "Ponce Latin Trap",
+  "headline": "Ponce (La Perla del Sur) Latin Trap Puerto Rico: Studio WAV & ATH Móvil",
+  "description": "Heavy 808 sub-bass drops, dark minor strings, and Atlanta-style triplet hi-hats crafted for lyricists in Ponce.",
+  "targetArtists": [
+    "Artists in Ponce",
+    "Puerto Rican Urban Scene",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "Ponce",
+    "Latin Trap",
+    "ATH Móvil Pay",
+    "ASCAP & BMI Cleared"
+  ],
+  "popularGenres": [
+    "Latin Trap Puerto Rico",
+    "Reggaetón Boricua",
+    "Latin Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "ponce-cyberpunk-synth-perreo",
+  "name": "Ponce Cyberpunk Synth Perreo",
+  "category": "scene",
+  "badge": "Ponce Cyberpunk Perreo",
+  "headline": "Ponce (La Perla del Sur) Cyberpunk Synth Perreo: Studio WAV & ATH Móvil",
+  "description": "Analog synth leads, sidechained kicks, and futuristic Tainy DATA soundscapes engineered for artists in Ponce.",
+  "targetArtists": [
+    "Artists in Ponce",
+    "Puerto Rican Urban Scene",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "90-96 BPM",
+  "recommendedKey": "G-Minor / E-Minor",
+  "vibeAttributes": [
+    "Ponce",
+    "Cyberpunk Perreo",
+    "ATH Móvil Pay",
+    "ASCAP & BMI Cleared"
+  ],
+  "popularGenres": [
+    "Cyberpunk Synth Perreo",
+    "Reggaetón Boricua",
+    "Latin Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "ponce-street-drill-carolina",
+  "name": "Ponce Street Drill Carolina Style",
+  "category": "scene",
+  "badge": "Ponce Carolina Drill",
+  "headline": "Ponce (La Perla del Sur) Street Drill Carolina Style: Studio WAV & ATH Móvil",
+  "description": "Ice-cold bell melodies, syncopated 140 BPM drill snares, and sweeping sub-bass slides tailored for raw delivery in Ponce.",
+  "targetArtists": [
+    "Artists in Ponce",
+    "Puerto Rican Urban Scene",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / F-Minor",
+  "vibeAttributes": [
+    "Ponce",
+    "Carolina Drill",
+    "ATH Móvil Pay",
+    "ASCAP & BMI Cleared"
+  ],
+  "popularGenres": [
+    "Street Drill Carolina Style",
+    "Reggaetón Boricua",
+    "Latin Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "caguas-reggaeton-boricua-beats",
+  "name": "Caguas Reggaetón Boricua Beats",
+  "category": "scene",
+  "badge": "Caguas Reggaetón Boricua",
+  "headline": "Caguas (Valle del Turabo) Reggaetón Boricua Beats: Studio WAV & ATH Móvil",
+  "description": "Classic Playero and modern perreo bounce, punchy dembow, and studio 24-bit WAV quality for artists in Caguas.",
+  "targetArtists": [
+    "Artists in Caguas",
+    "Puerto Rican Urban Scene",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "92-96 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Caguas",
+    "Reggaetón Boricua",
+    "ATH Móvil Pay",
+    "ASCAP & BMI Cleared"
+  ],
+  "popularGenres": [
+    "Reggaetón Boricua Beats",
+    "Reggaetón Boricua",
+    "Latin Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "caguas-latin-trap-puerto-rico",
+  "name": "Caguas Latin Trap Puerto Rico",
+  "category": "scene",
+  "badge": "Caguas Latin Trap",
+  "headline": "Caguas (Valle del Turabo) Latin Trap Puerto Rico: Studio WAV & ATH Móvil",
+  "description": "Heavy 808 sub-bass drops, dark minor strings, and Atlanta-style triplet hi-hats crafted for lyricists in Caguas.",
+  "targetArtists": [
+    "Artists in Caguas",
+    "Puerto Rican Urban Scene",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "Caguas",
+    "Latin Trap",
+    "ATH Móvil Pay",
+    "ASCAP & BMI Cleared"
+  ],
+  "popularGenres": [
+    "Latin Trap Puerto Rico",
+    "Reggaetón Boricua",
+    "Latin Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "caguas-cyberpunk-synth-perreo",
+  "name": "Caguas Cyberpunk Synth Perreo",
+  "category": "scene",
+  "badge": "Caguas Cyberpunk Perreo",
+  "headline": "Caguas (Valle del Turabo) Cyberpunk Synth Perreo: Studio WAV & ATH Móvil",
+  "description": "Analog synth leads, sidechained kicks, and futuristic Tainy DATA soundscapes engineered for artists in Caguas.",
+  "targetArtists": [
+    "Artists in Caguas",
+    "Puerto Rican Urban Scene",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "90-96 BPM",
+  "recommendedKey": "G-Minor / E-Minor",
+  "vibeAttributes": [
+    "Caguas",
+    "Cyberpunk Perreo",
+    "ATH Móvil Pay",
+    "ASCAP & BMI Cleared"
+  ],
+  "popularGenres": [
+    "Cyberpunk Synth Perreo",
+    "Reggaetón Boricua",
+    "Latin Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "caguas-street-drill-carolina",
+  "name": "Caguas Street Drill Carolina Style",
+  "category": "scene",
+  "badge": "Caguas Carolina Drill",
+  "headline": "Caguas (Valle del Turabo) Street Drill Carolina Style: Studio WAV & ATH Móvil",
+  "description": "Ice-cold bell melodies, syncopated 140 BPM drill snares, and sweeping sub-bass slides tailored for raw delivery in Caguas.",
+  "targetArtists": [
+    "Artists in Caguas",
+    "Puerto Rican Urban Scene",
+    "Reggaetón & Trap"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / F-Minor",
+  "vibeAttributes": [
+    "Caguas",
+    "Carolina Drill",
+    "ATH Móvil Pay",
+    "ASCAP & BMI Cleared"
+  ],
+  "popularGenres": [
+    "Street Drill Carolina Style",
+    "Reggaetón Boricua",
+    "Latin Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
 ];
