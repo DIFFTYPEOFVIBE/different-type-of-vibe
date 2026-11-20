@@ -76074,4 +76074,1304 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "2"
   ]
 },
+  {
+  "slug": "sfera-ebbasta-rockstar-trap-italiano",
+  "title": "Sfera Ebbasta Rockstar & Famoso Trap Italiano Type Beat",
+  "description": "Base trap italiana di lusso ispirata a Sfera Ebbasta e Charlie Charles (Rockstar, Famoso, X2VR), con campane scintillanti, synth analogici moderni, bassi 808 potenti e ritmica dembow-trap banger.",
+  "targetKeywords": [
+    "sfera ebbasta type beat",
+    "trap italiano beat",
+    "basi trap sfera ebbasta",
+    "sfera ebbasta famoso beat",
+    "trap milano type beat"
+  ],
+  "heroCta": "Acquista Beat Sfera Ebbasta (Postepay / Satispay)",
+  "energyLevel": "High",
+  "primaryUse": "Trap Italiano Commerciale, Hit Radiofonica e Club Banger",
+  "similarArtists": [
+    "Sfera Ebbasta",
+    "Charlie Charles",
+    "Shiva",
+    "Capo Plaza"
+  ],
+  "recommendedBpm": "128-134 BPM",
+  "productionTips": "Usa campane luminose in riverbero aperto e un basso 808 corto e rotondo per far risaltare il ritornello in autotune.",
+  "idealVocalStyle": "Autotune marcato, melodie accattivanti ed estetica di lusso e rivalsa.",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "Perfetto per la rotazione su Spotify 'Zona Trap' e Radio 105 / m2o."
+},
+  {
+  "slug": "rondodasosa-milano-san-siro-seven-7oo",
+  "title": "Rondodasosa San Siro Seven 7oo & Drill Italiano Type Beat",
+  "description": "Instrumentale drill oscura e violenta ispirata a Rondodasosa e al collettivo Seven 7oo di San Siro Milano, con violini drammatici, hi-hats in terzine sincopate e bassi 808 con glissandi aggressivi a 142 BPM.",
+  "targetKeywords": [
+    "rondodasosa type beat",
+    "drill italiano beat san siro",
+    "basi drill rondodasosa seven 7oo",
+    "drill milano 142 bpm",
+    "instrumental drill italia"
+  ],
+  "heroCta": "Acquista Beat Drill San Siro (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Drill Italiano, Banger di Strada e Video Musicale Cinematografico",
+  "similarArtists": [
+    "Rondodasosa",
+    "Baby Gang",
+    "Central Cee",
+    "Gazo"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Frequenti pitch slide di due ottave sul sub-808 con rullanti taglienti sul terzo tempo per massima aggressività.",
+  "idealVocalStyle": "Timbro vocale graffiante, delivery energico e barre crude sulla vita di quartiere.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Insuperabile per le playlist 'Street Culto' e 'Rapturama' su Spotify."
+},
+  {
+  "slug": "geolier-napoli-secondigliano-street-trap",
+  "title": "Geolier Napoli Secondigliano & Chitarra Trap Type Beat",
+  "description": "Base trap e drill melodica ispirata a Geolier (Il Coraggio dei Bambini, Dio lo Sa), fondendo arpeggi nostalgici di chitarra napoletana mediterranea con bassi 808 profondi e percussioni trap moderne.",
+  "targetKeywords": [
+    "geolier type beat",
+    "trap napoletano beat",
+    "basi geolier chitarra",
+    "beat rap napoli secondigliano",
+    "geolier dio lo sa instrumental"
+  ],
+  "heroCta": "Acquista Beat Geolier (Postepay / Satispay)",
+  "energyLevel": "High",
+  "primaryUse": "Trap Napoletano, Street Hit e Canzone Melodica di Quartiere",
+  "similarArtists": [
+    "Geolier",
+    "Luchè",
+    "Baby Gang",
+    "Sfera Ebbasta"
+  ],
+  "recommendedBpm": "126-132 BPM",
+  "productionTips": "Chitarra acustica campionata con riverbero caldo e sidechain morbido per lasciare spazio al flow serrato in dialetto.",
+  "idealVocalStyle": "Flow veloce e ritmico in dialetto napoletano o italiano, con ritornelli melodici toccanti.",
+  "suggestedKey": "F# Minor",
+  "streamingSuitability": "Il sound numero 1 in Italia per dominare la Top 50 FIMI e TikTok."
+},
+  {
+  "slug": "lazza-sirio-pianoforte-trap-virtuoso",
+  "title": "Lazza Sirio Pianoforte Classico Virtuoso & Trap Drill Beat",
+  "description": "Base maestosa e tecnica ispirata al talento pianistico di Lazza (Sirio, Locura, Cenere), con accordi virtuosi di gran coda classico, arpeggi drammatici e drop trap/drill devastanti a 95/140 BPM.",
+  "targetKeywords": [
+    "lazza type beat",
+    "lazza sirio piano beat",
+    "basi trap con pianoforte lazza",
+    "beat lazza cenere locura",
+    "pianoforte virtuoso trap italia"
+  ],
+  "heroCta": "Acquista Beat Lazza Piano (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Canzone Portante d'Album, Hit Festival Sanremo e Rap Virtuoso",
+  "similarArtists": [
+    "Lazza",
+    "Sfera Ebbasta",
+    "Geolier",
+    "Tedua"
+  ],
+  "recommendedBpm": "92-96 / 140 BPM",
+  "productionTips": "Pianoforte Steinway registrato con dinamica classica dal pianissimo al fortissimo prima del drop di sub-808.",
+  "idealVocalStyle": "Rime metriche serratissime ad incastro, modulazioni vocali precise e ritornello da stadio.",
+  "suggestedKey": "F Minor",
+  "streamingSuitability": "Il format di platino per scalare le classifiche radio e streaming in Italia."
+},
+  {
+  "slug": "baby-gang-lecco-french-drill-marocchino",
+  "title": "Baby Gang Lecco & Milano French-Italian Street Drill Beat",
+  "description": "Strumentale street drill dalle sonorità nordafricane e francesi ispirata a Baby Gang (Mentalité, Mocro Mafia), con archi arabi veloci, percussioni secche e bassi profondi di protesta urbana.",
+  "targetKeywords": [
+    "baby gang type beat",
+    "drill marocchino italia",
+    "basi baby gang mentalite",
+    "french drill italiano beat",
+    "street drill lecco milano"
+  ],
+  "heroCta": "Acquista Beat Baby Gang (Stems Multitrack)",
+  "energyLevel": "Very High",
+  "primaryUse": "Street Drill Internazionale, Reality Rap e Video Musicale di Quartiere",
+  "similarArtists": [
+    "Baby Gang",
+    "Rondodasosa",
+    "Morad",
+    "Gazo"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Archi in scale minori armoniche arabe combinati con un rullante drill metallico senza riverbero.",
+  "idealVocalStyle": "Timbro crudo e sincero, testi di rivalsa sociale e ritornelli cantati con enfasi.",
+  "suggestedKey": "G Minor",
+  "streamingSuitability": "Ideale per il pubblico drill europeo, italo-francese e nordafricano."
+},
+  {
+  "slug": "shiva-milano-west-santana-banger",
+  "title": "Shiva Milano West Santana Season & Trap Banger Beat",
+  "description": "Pista trap aggressiva e notturna ispirata a Shiva (Milano Demons, Santana Season), con campane tetre, lead synth taglienti e un groove 808 energico perfetto per barre da club e strada.",
+  "targetKeywords": [
+    "shiva type beat",
+    "milano west trap beat",
+    "basi trap shiva santana",
+    "beat shiva milano demons",
+    "trap banger italia 2026"
+  ],
+  "heroCta": "Acquista Beat Shiva (Licenza Commerciale)",
+  "energyLevel": "High",
+  "primaryUse": "Trap da Strada, Club Banger e Freestyle",
+  "similarArtists": [
+    "Shiva",
+    "Paky",
+    "Sfera Ebbasta",
+    "Tony Effe"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "productionTips": "Lead melodico con distorsione a valvole e raddoppio del clap per creare un muro di suono percussivo.",
+  "idealVocalStyle": "Flow continuo senza fiato, rime ad effetto e ritornelli carichi di energia.",
+  "suggestedKey": "C# Minor",
+  "streamingSuitability": "Incredibile per scaldare i club e le palestre di tutta Italia."
+},
+  {
+  "slug": "marracash-persona-king-del-rap-boom-bap",
+  "title": "Marracash Persona & King del Rap Cinematic Hip-Hop Beat",
+  "description": "Strumentale epica e cinematografica ispirata a Marracash (Persona, Noi Loro Gli Altri), con campionamenti soul caldi di vinile, fiati imponenti, archi maestosi e batteria boom bap dal colpo secco.",
+  "targetKeywords": [
+    "marracash type beat",
+    "king del rap beat",
+    "basi rap marracash persona",
+    "cinematic hip hop italia beat",
+    "boom bap italiano classico"
+  ],
+  "heroCta": "Acquista Beat Marracash (WAV + Stems)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Rap d'Autore, Canzone Concettuale e Album Masterpiece",
+  "similarArtists": [
+    "Marracash",
+    "Guè",
+    "Noyz Narcos",
+    "Salmo"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "productionTips": "Campionamento con calore analogico valvolare, sezioni di archi orchestrali e rullante senza riverbero.",
+  "idealVocalStyle": "Timbro baritonale profondo, metrica ricercata e testi introspettivi di altissimo spessore intellettuale.",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "Perfetto per gli amanti del grande hip-hop italiano e album da disco d'oro."
+},
+  {
+  "slug": "tedua-divina-commedia-genova-drilligote",
+  "title": "Tedua La Divina Commedia Genova Drilligote Melodic Beat",
+  "description": "Base drill melodica e suggestiva ispirata a Tedua e al sound di Genova (Mowgli, La Divina Commedia), con arpeggi di flauto celtico, chitarre sognanti e ritmica drill in terzine fluide.",
+  "targetKeywords": [
+    "tedua type beat",
+    "drilligote genova beat",
+    "basi tedua divina commedia",
+    "melodic drill italia tedua",
+    "beat rap genovese flauto"
+  ],
+  "heroCta": "Acquista Beat Tedua (Licenza Commerciale)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Drill Melodico, Storytelling Urbano e Canzone Poetica",
+  "similarArtists": [
+    "Tedua",
+    "Bresh",
+    "Izi",
+    "Rkomi"
+  ],
+  "recommendedBpm": "138-142 BPM",
+  "productionTips": "Flauto etereo processato con delay stereo e drop di cassa morbido che accompagna il flow a cascata.",
+  "idealVocalStyle": "Flow continuo e irregolare con rime incrociate, tono poetico e ritornelli aperti ed evocativi.",
+  "suggestedKey": "B Minor",
+  "streamingSuitability": "Ideale per scalare le classifiche FIMI e creare brani di culto generazionali."
+},
+  {
+  "slug": "paky-rozzano-dark-street-drill-rozzi",
+  "title": "Paky Rozzano Rozzi Dark Street Drill & Sirene Type Beat",
+  "description": "Beat oscuro, claustrofobico e pesante ispirato a Paky (Rozzi, Salvatore), con sirene distanti, accordi minori cupi di pianoforte, colpi di cassa monolitici e attitudine 100% strada.",
+  "targetKeywords": [
+    "paky type beat",
+    "rozzano street drill",
+    "basi paky rozzi salvatore",
+    "dark trap milano beat",
+    "basi rap violente italia"
+  ],
+  "heroCta": "Acquista Beat Paky Rozzi (WAV Masterizzato)",
+  "energyLevel": "Very High",
+  "primaryUse": "Street Drill Crudo, Banger Underground e Reality Rap",
+  "similarArtists": [
+    "Paky",
+    "Shiva",
+    "Baby Gang",
+    "Simba La Rue"
+  ],
+  "recommendedBpm": "136-140 BPM",
+  "productionTips": "Linee di basso 808 accordate in saturazione estrema a 40Hz con pause drammatiche prima dell'attacco vocale.",
+  "idealVocalStyle": "Vocal grave, tono minaccioso e narrazione cruda e veritiera delle periferie.",
+  "suggestedKey": "G Minor",
+  "streamingSuitability": "Il suono di riferimento per il rap di strada più autentico e seguito d'Italia."
+},
+  {
+  "slug": "capo-plaza-salerno-commercial-club-trap",
+  "title": "Capo Plaza Salerno Commercial Club Trap & Dembow Bounce Beat",
+  "description": "Base trap estiva, ballabile e commerciale ispirata a Capo Plaza, con melodie di sintetizzatore solari, percussioni trap dal rimbalzo irresistibile e ganci autotune da discoteca.",
+  "targetKeywords": [
+    "capo plaza type beat",
+    "trap commerciale club beat",
+    "basi capo plaza salerno",
+    "summer trap italia beat",
+    "club banger trap italiano"
+  ],
+  "heroCta": "Acquista Beat Capo Plaza (Postepay / Satispay)",
+  "energyLevel": "High",
+  "primaryUse": "Tormentone Estivo, Club Trap e Canzone Radiofonica",
+  "similarArtists": [
+    "Capo Plaza",
+    "Sfera Ebbasta",
+    "Tony Effe",
+    "DrefGold"
+  ],
+  "recommendedBpm": "100-106 / 130 BPM",
+  "productionTips": "Percussioni rimbalzanti con hi-hats leggeri e raddoppi di cassa che invitano al ballo in pista.",
+  "idealVocalStyle": "Autotune melodico solare, flow rimbalzante e ritornelli da cantare in coro ai festival estivi.",
+  "suggestedKey": "E Major",
+  "streamingSuitability": "Perfetto per le playlist estive di Spotify Italia e i trend di TikTok."
+},
+  {
+  "slug": "chitarra-napoletana-mediterranean-trap-flow",
+  "title": "Chitarra Napoletana Mediterranean Trap & Mandolino 808 Beat",
+  "description": "Fusione tradizionale e contemporanea tra arpeggi di chitarra classica napoletana, mandolino acustico e una solida base trap con bassi 808 caldi ed avvolgenti.",
+  "targetKeywords": [
+    "chitarra napoletana trap beat",
+    "trap mediterraneo strumentale",
+    "mandolino rap beat napoli",
+    "basi trap con chitarra classica italia",
+    "rap napoletano con chitarra"
+  ],
+  "heroCta": "Acquista Beat Chitarra Napoletana (Stems Multitrack)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Trap d'Autore, Canzone Romantica e Identità Partenopea",
+  "similarArtists": [
+    "Geolier",
+    "Liberato",
+    "Luchè",
+    "Pino Daniele Trap Remix"
+  ],
+  "recommendedBpm": "124-130 BPM",
+  "productionTips": "Chitarra di liuteria registrata con due microfoni a condensatore in stereofonia Blumlein per massimo calore.",
+  "idealVocalStyle": "Canto appassionato, sfumature di dialetto napoletano e rime di cuore e rivalsa.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Un successo garantito per brani emotivi ad alto impatto di streaming."
+},
+  {
+  "slug": "sanremo-orchestral-pop-trap-festival",
+  "title": "Festival di Sanremo Orchestral Pop-Trap & Archi Epici Beat",
+  "description": "Strumentale maestosa di altissima fascia arrangiata con archi sinfonici, pianoforte verticale e ritmica pop-trap moderna progettata per conquistare il palco dell'Ariston e le radio nazionali.",
+  "targetKeywords": [
+    "sanremo trap beat",
+    "basi pop trap orchestrale festival",
+    "archi sanremo instrumental beat",
+    "canzone festival di sanremo rap",
+    "sanremo hit radiofonica beat"
+  ],
+  "heroCta": "Acquista Beat Sanremo Orchestrale (Licenza Ilimitata)",
+  "energyLevel": "High",
+  "primaryUse": "Candidatura Sanremo, Singolo Radiofonico Nazionale e Brano Orchestrale",
+  "similarArtists": [
+    "Lazza",
+    "Mahmood",
+    "Irama",
+    "Geolier"
+  ],
+  "recommendedBpm": "128-134 BPM",
+  "productionTips": "Sezione d'archi completa con violini, viole e violoncelli orchestrati che culminano in un ritornello esplosivo.",
+  "idealVocalStyle": "Grande estensione vocale, acuti potenti ed emozione drammatica pura.",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "Destinato al podio di Sanremo, alle rotazioni su RTL 102.5 e ai primi posti FIMI."
+},
+  {
+  "slug": "comprare-basi-trap-italia-postepay-satispay",
+  "title": "Comprare Basi Trap in Italia con Postepay, Satispay & Carte",
+  "description": "Acquista basi trap e hip-hop professionali in Italia con pagamento istantaneo in Euro (€) tramite Postepay, Satispay, Apple Pay o carta di credito. Download immediato di file WAV studio e licenza commerciale.",
+  "targetKeywords": [
+    "comprare basi trap italia postepay",
+    "basi trap satispay euro",
+    "acquistare beat rap italia sicuro",
+    "basi trap milano roma online"
+  ],
+  "heroCta": "Vedi Basi Trap Disponibili (Da €25)",
+  "energyLevel": "Variable",
+  "primaryUse": "Acquisto Sicuro Italiano, Pagamento con Postepay e Download Immediato",
+  "similarArtists": [
+    "Comunità Trap Italia",
+    "Artisti Emergenti Italiani"
+  ],
+  "recommendedBpm": "Qualsiasi Tempo",
+  "productionTips": "Consegna istantanea a schermo e via email con link di download permanente dei file audio non compressi.",
+  "idealVocalStyle": "Tutti i generi rap, trap, drill e R&B della scena italiana.",
+  "suggestedKey": "All Keys",
+  "streamingSuitability": "Licenza commerciale valida per Spotify, Apple Music e YouTube con 100% delle royalties d'artista."
+},
+  {
+  "slug": "basi-drill-milano-san-siro-con-808-sliding",
+  "title": "Basi Drill Milano San Siro con Bassi 808 Sliding a 140 BPM",
+  "description": "Collezione di produzioni drill di altissimo livello ispirate alla scena di San Siro Milano e Seven 7oo, con scivolate di basso sub-808 estreme, percussioni sincopate e melodie oscure in WAV 24-bit.",
+  "targetKeywords": [
+    "basi drill milano san siro",
+    "drill 808 sliding italia beat",
+    "basi drill 140 bpm milano",
+    "beat drill san siro style"
+  ],
+  "heroCta": "Scarica Drill Beat Milano (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Drill di Strada, Banger per Live e Video Ufficiali",
+  "similarArtists": [
+    "Rondodasosa",
+    "Seven 7oo",
+    "Central Cee",
+    "Paky"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Linee di basso 808 accordate in tono con portamento morbido e saturazione adatta all'ascolto su smartphone.",
+  "idealVocalStyle": "Delivery veloce, incastri ritmici e barre taglienti sulla realtà urbana.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Creato appositamente per le classifiche drill europee e playlist editoriali."
+},
+  {
+  "slug": "beat-trap-napoletano-con-chitarra-acustica",
+  "title": "Beat Trap Napoletano con Chitarra Acustica & Melodie Partenopee",
+  "description": "Strumentali romantiche e street di trap napoletano con chitarre acustiche dal vivo, fisarmonica sottiilissima e ritmica trap moderna per brani intensi ed emozionanti stile Geolier e Luchè.",
+  "targetKeywords": [
+    "beat trap napoletano con chitarra",
+    "basi rap napoli chitarra acustica",
+    "trap partenopeo geolier instrumental",
+    "basi melodiche napoli wav"
+  ],
+  "heroCta": "Acquista Beat Napoletano (WAV 24-bit)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Trap Partenopeo, Canzone di Cuore e Street Single",
+  "similarArtists": [
+    "Geolier",
+    "Luchè",
+    "Lele Blade",
+    "Liberato"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "productionTips": "Arpeggi di chitarra in primo piano stereo con cassa rotonda che non sporca il calore delle corde acustiche.",
+  "idealVocalStyle": "Vocal melodico con autotune espressivo e dialetto napoletano o italiano.",
+  "suggestedKey": "F# Minor",
+  "streamingSuitability": "Perfetto per conquistare le vette della classifica FIMI italiana."
+},
+  {
+  "slug": "basi-boom-bap-italiano-90-bpm-con-pianoforte",
+  "title": "Basi Boom Bap Italiano Classico a 90 BPM con Pianoforte & Vinile",
+  "description": "Basi rap tradizionali con calore da vinile, accordi malinconici di pianoforte classico e batterie campionate da drum machine storiche a 90 BPM per liricisti e rapper d'autore.",
+  "targetKeywords": [
+    "basi boom bap italiano con pianoforte",
+    "beat rap classico 90 bpm italia",
+    "basi marracash persona boom bap",
+    "scaricare basi rap italiano vintage"
+  ],
+  "heroCta": "Scarica Base Boom Bap (WAV + Stems)",
+  "energyLevel": "Medium",
+  "primaryUse": "Rap Conscious, Liricismo Puro e Dischi Underground",
+  "similarArtists": [
+    "Marracash",
+    "Guè",
+    "Noyz Narcos",
+    "Salmo"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "productionTips": "Cassa asciutta e rullante metallico con campionamenti jazz e soul trattati con filtri analogici.",
+  "idealVocalStyle": "Rime metriche pesanti, storytelling e barre cariche di significato sociale.",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "Ideale per il pubblico fedele dell'hip-hop italiano d'autore."
+},
+  {
+  "slug": "pacchetto-basi-trap-2x1-offerta-italia",
+  "title": "Pacchetto Basi Trap 2x1 e 3x1 in Offerta Speciale per Mixtape",
+  "description": "Offerta speciale per artisti italiani: acquista pacchetti completi di 2 o 3 basi musicali al prezzo di una sola licenza con pagamento sicuro in Euro (€) tramite Postepay o Satispay.",
+  "targetKeywords": [
+    "pacchetto basi trap 2x1 italia",
+    "offerta beat rap mixtape italia",
+    "sconto basi trap postepay satispay",
+    "bundle beat trap italiano 2026"
+  ],
+  "heroCta": "Approfitta dell'Offerta 2x1 (Da €35)",
+  "energyLevel": "Variable",
+  "primaryUse": "Produzione di Album, EP e Mixtape Completi",
+  "similarArtists": [
+    "Sfera Ebbasta",
+    "Lazza",
+    "Shiva",
+    "Geolier"
+  ],
+  "recommendedBpm": "90-144 BPM",
+  "productionTips": "Mix calibrato e master uniforme per garantire coerenza timbrica a tutto il disco.",
+  "idealVocalStyle": "Adattabile alla narrazione e al concept sonoro del progetto dell'artista.",
+  "suggestedKey": "Various Keys",
+  "streamingSuitability": "Licenza commerciale estesa valida per uscite discografiche multiple."
+},
+  {
+  "slug": "basi-drill-italiane-senza-tag-vocali-wav",
+  "title": "Basi Drill Italiane Senza Tag Vocali (Untagged in WAV Studio 24-bit)",
+  "description": "Basi drill per artisti italiani consegnate completamente pulite senza tag vocali promozionali, con qualità studio professionale a 24-bit per registrazioni impeccabili.",
+  "targetKeywords": [
+    "basi drill italiane senza tag vocali",
+    "beat drill untagged italia wav",
+    "basi drill pulite san siro",
+    "scaricare basi drill senza voce"
+  ],
+  "heroCta": "Acquista Base Drill Senza Tag",
+  "energyLevel": "Very High",
+  "primaryUse": "Registrazione Professionale, Master per Spotify e Video Ufficiale",
+  "similarArtists": [
+    "Rondodasosa",
+    "Baby Gang",
+    "Paky",
+    "Seven 7oo"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Tutte le tracce stereo sono masterizzate con headroom di -6dB per lasciare spazio alle voci in studio.",
+  "idealVocalStyle": "Consegna vocale energica con doppie e cori ben definiti.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "100% pronta per la pubblicazione su tutte le piattaforme di streaming."
+},
+  {
+  "slug": "strumentali-reggaeton-estivo-italiano-stems",
+  "title": "Strumentali Reggaeton Estivo Italiano con Stems Multitrack",
+  "description": "Basi ballabili di reggaetón e pop latino estivo con consegna di tracce separate per mix e master professionale in studi di registrazione italiani, pensate per tormentoni radiofonici.",
+  "targetKeywords": [
+    "strumentali reggaeton estivo italiano stems",
+    "basi reggaeton radio italia tracce separate",
+    "beat dembow estivo italiano wav",
+    "reggaeton tormentone beat italia"
+  ],
+  "heroCta": "Acquista Reggaeton Beat (Con Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Singolo Estivo, Hit Radiofonica e Video Estivo",
+  "similarArtists": [
+    "Capo Plaza",
+    "Sfera Ebbasta",
+    "Fred De Palma",
+    "Rocco Hunt"
+  ],
+  "recommendedBpm": "96-102 BPM",
+  "productionTips": "Stems organizzati per cartelle (Drums, Bass, Synths, FX) a 24-bit/44.1kHz.",
+  "idealVocalStyle": "Canto melodico solare con ritornelli catchy e rime fresche.",
+  "suggestedKey": "G Minor",
+  "streamingSuitability": "Ideale per scalare le classifiche estive e i beach party in tutta la penisola."
+},
+  {
+  "slug": "contratto-licenza-beat-siae-soundreef-pdf",
+  "title": "Contratto di Licenza Beat Conforme per Deposito SIAE & Soundreef (PDF)",
+  "description": "Ogni base acquistata include un contratto formale di cessione diritti in PDF legalmente valido per il deposito delle opere musicali presso SIAE e Soundreef in Italia.",
+  "targetKeywords": [
+    "contratto licenza beat siae soundreef pdf",
+    "deposito siae basi rap contratto",
+    "diritti autore beat italia documento",
+    "licenza commerciale beat euro"
+  ],
+  "heroCta": "Vedi Modelli di Licenza SIAE (PDF Incluso)",
+  "energyLevel": "N/A",
+  "primaryUse": "Deposito Opere SIAE/Soundreef, Distribuzione Digitale e Tutela Legale",
+  "similarArtists": [
+    "Onzieb",
+    "Artisti Iscritti SIAE & Soundreef"
+  ],
+  "recommendedBpm": "Qualsiasi Tempo",
+  "productionTips": "Include codice ISRC e dati anagrafici completi del compositore per il borderò e il portale SIAE.",
+  "idealVocalStyle": "Valido per qualsiasi tipo di composizione vocale originale.",
+  "suggestedKey": "All Keys",
+  "streamingSuitability": "100% delle royalties d'autore e di registrazione riservate all'artista."
+},
+  {
+  "slug": "produzione-beat-esclusivi-milano-onzieb",
+  "title": "Produzione di Beat Esclusivi a Milano con Producer Onzieb",
+  "description": "Servizio di produzione musicale esclusiva su misura direttamente con il producer Onzieb. Composizione originale per la tua voce, mixaggio personalizzato e ritiro immediato del beat dal catalogo.",
+  "targetKeywords": [
+    "produzione beat esclusivi milano",
+    "producer trap italia onzieb",
+    "comprare beat esclusivo milano rap",
+    "basi su misura per cantanti italia"
+  ],
+  "heroCta": "Richiedi Produzione Esclusiva (WhatsApp)",
+  "energyLevel": "Custom",
+  "primaryUse": "Album Principale, Singolo di Lancio e Proprietà Esclusiva Assoluta",
+  "similarArtists": [
+    "Onzieb",
+    "Sfera Ebbasta",
+    "Lazza",
+    "Charlie Charles"
+  ],
+  "recommendedBpm": "Adattato alla tua voce",
+  "productionTips": "Sessione interattiva di arrangiamento e calibrazione della tonalità per esaltare il tuo timbro.",
+  "idealVocalStyle": "Adattato al 100% all'identità artistica del cantante.",
+  "suggestedKey": "Personalizzata",
+  "streamingSuitability": "Il beat diventa di tua proprietà esclusiva per sempre e non sarà mai più venduto a nessun altro."
+},
+  {
+  "slug": "scaricare-3-beat-gratis-trap-italia-mp3",
+  "title": "Scaricare Pacchetto di 3 Beat Gratis Trap Italia (MP3 320 kbps)",
+  "description": "Download gratuito di 3 basi complete in alta qualità MP3 (trap melodico, drill milanese e boom bap classico) per registrare provini e demo in home studio prima dell'acquisto definitivo.",
+  "targetKeywords": [
+    "scaricare beat gratis trap italia",
+    "basi rap gratis provini mp3",
+    "beat drill gratis milano 320kbps",
+    "download basi hip hop gratis"
+  ],
+  "heroCta": "Scarica 3 Beat Gratis (Accesso Diretto)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Registrazione Provini, Prove Vocali e Scrittura a Casa",
+  "similarArtists": [
+    "Comunità Hip Hop Italia",
+    "Nuove Leve Trap"
+  ],
+  "recommendedBpm": "90, 132, 142 BPM",
+  "productionTips": "Include un tag vocale leggero di cortesia; al momento dell'acquisto della licenza commerciale tutti i tag vengono rimossi.",
+  "idealVocalStyle": "Ideale per testare flow, metriche e tonalità al microfono.",
+  "suggestedKey": "Various",
+  "streamingSuitability": "Uso promozionale non monetizzato consentito su YouTube e SoundCloud per farti conoscere."
+},
+  {
+  "slug": "milano-san-siro-trap-italiano-pesante",
+  "name": "Milano San Siro Trap Italiano Pesante",
+  "category": "scene",
+  "badge": "Milano San Siro Trap Italia",
+  "headline": "Milano San Siro (Lombardia Trap) Trap Italiano Pesante: Basi WAV & Pagamento Postepay / Satispay",
+  "description": "Bassi 808 devastanti, melodie di synth oscure e ritmica trap pesante progettata per artisti e rapper di Milano San Siro.",
+  "targetArtists": [
+    "Artisti di Milano San Siro",
+    "Scena Trap Italia",
+    "Movimento Hip Hop Italiano"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Milano San Siro",
+    "Trap Italia",
+    "Postepay & Satispay €",
+    "Deposito SIAE Conforme"
+  ],
+  "popularGenres": [
+    "Trap Italiano Pesante",
+    "Trap Italiano",
+    "Drill Milano"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "milano-san-siro-drill-di-milano-140",
+  "name": "Milano San Siro Drill di Milano 140 BPM",
+  "category": "scene",
+  "badge": "Milano San Siro Drill Milano",
+  "headline": "Milano San Siro (Lombardia Trap) Drill di Milano 140 BPM: Basi WAV & Pagamento Postepay / Satispay",
+  "description": "Bassi 808 con glissandi aggressivi, percussioni drill sincopate in terzine e campioni di violino per Milano San Siro.",
+  "targetArtists": [
+    "Artisti di Milano San Siro",
+    "Scena Trap Italia",
+    "Movimento Hip Hop Italiano"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Milano San Siro",
+    "Drill Milano",
+    "Postepay & Satispay €",
+    "Deposito SIAE Conforme"
+  ],
+  "popularGenres": [
+    "Drill di Milano 140 BPM",
+    "Trap Italiano",
+    "Drill Milano"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "milano-san-siro-boom-bap-italiano-classico",
+  "name": "Milano San Siro Boom Bap Italiano Classico",
+  "category": "scene",
+  "badge": "Milano San Siro Boom Bap Italia",
+  "headline": "Milano San Siro (Lombardia Trap) Boom Bap Italiano Classico: Basi WAV & Pagamento Postepay / Satispay",
+  "description": "Batterie analogiche con colpo secco di MPC, armonie di pianoforte classico e calore di vinile per liricisti di Milano San Siro.",
+  "targetArtists": [
+    "Artisti di Milano San Siro",
+    "Scena Trap Italia",
+    "Movimento Hip Hop Italiano"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "C-Minor / E-Minor",
+  "vibeAttributes": [
+    "Milano San Siro",
+    "Boom Bap Italia",
+    "Postepay & Satispay €",
+    "Deposito SIAE Conforme"
+  ],
+  "popularGenres": [
+    "Boom Bap Italiano Classico",
+    "Trap Italiano",
+    "Drill Milano"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "milano-san-siro-melodic-rnb-trap-italia",
+  "name": "Milano San Siro Melodic R&B Trap Italiano",
+  "category": "scene",
+  "badge": "Milano San Siro R&B Italia",
+  "headline": "Milano San Siro (Lombardia Trap) Melodic R&B Trap Italiano: Basi WAV & Pagamento Postepay / Satispay",
+  "description": "Chitarre acustiche ed elettriche malinconiche, pianoforti Rhodes vintage e ritmica trap morbida per cantanti di Milano San Siro.",
+  "targetArtists": [
+    "Artisti di Milano San Siro",
+    "Scena Trap Italia",
+    "Movimento Hip Hop Italiano"
+  ],
+  "recommendedBpm": "90-96 BPM",
+  "recommendedKey": "F-Major / D#-Minor",
+  "vibeAttributes": [
+    "Milano San Siro",
+    "R&B Italia",
+    "Postepay & Satispay €",
+    "Deposito SIAE Conforme"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap Italiano",
+    "Trap Italiano",
+    "Drill Milano"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "roma-capitale-trap-italiano-pesante",
+  "name": "Roma Capitale Trap Italiano Pesante",
+  "category": "scene",
+  "badge": "Roma Capitale Trap Italia",
+  "headline": "Roma Capitale (Lazio Street) Trap Italiano Pesante: Basi WAV & Pagamento Postepay / Satispay",
+  "description": "Bassi 808 devastanti, melodie di synth oscure e ritmica trap pesante progettata per artisti e rapper di Roma Capitale.",
+  "targetArtists": [
+    "Artisti di Roma Capitale",
+    "Scena Trap Italia",
+    "Movimento Hip Hop Italiano"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Roma Capitale",
+    "Trap Italia",
+    "Postepay & Satispay €",
+    "Deposito SIAE Conforme"
+  ],
+  "popularGenres": [
+    "Trap Italiano Pesante",
+    "Trap Italiano",
+    "Drill Milano"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "roma-capitale-drill-di-milano-140",
+  "name": "Roma Capitale Drill di Milano 140 BPM",
+  "category": "scene",
+  "badge": "Roma Capitale Drill Milano",
+  "headline": "Roma Capitale (Lazio Street) Drill di Milano 140 BPM: Basi WAV & Pagamento Postepay / Satispay",
+  "description": "Bassi 808 con glissandi aggressivi, percussioni drill sincopate in terzine e campioni di violino per Roma Capitale.",
+  "targetArtists": [
+    "Artisti di Roma Capitale",
+    "Scena Trap Italia",
+    "Movimento Hip Hop Italiano"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Roma Capitale",
+    "Drill Milano",
+    "Postepay & Satispay €",
+    "Deposito SIAE Conforme"
+  ],
+  "popularGenres": [
+    "Drill di Milano 140 BPM",
+    "Trap Italiano",
+    "Drill Milano"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "roma-capitale-boom-bap-italiano-classico",
+  "name": "Roma Capitale Boom Bap Italiano Classico",
+  "category": "scene",
+  "badge": "Roma Capitale Boom Bap Italia",
+  "headline": "Roma Capitale (Lazio Street) Boom Bap Italiano Classico: Basi WAV & Pagamento Postepay / Satispay",
+  "description": "Batterie analogiche con colpo secco di MPC, armonie di pianoforte classico e calore di vinile per liricisti di Roma Capitale.",
+  "targetArtists": [
+    "Artisti di Roma Capitale",
+    "Scena Trap Italia",
+    "Movimento Hip Hop Italiano"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "C-Minor / E-Minor",
+  "vibeAttributes": [
+    "Roma Capitale",
+    "Boom Bap Italia",
+    "Postepay & Satispay €",
+    "Deposito SIAE Conforme"
+  ],
+  "popularGenres": [
+    "Boom Bap Italiano Classico",
+    "Trap Italiano",
+    "Drill Milano"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "roma-capitale-melodic-rnb-trap-italia",
+  "name": "Roma Capitale Melodic R&B Trap Italiano",
+  "category": "scene",
+  "badge": "Roma Capitale R&B Italia",
+  "headline": "Roma Capitale (Lazio Street) Melodic R&B Trap Italiano: Basi WAV & Pagamento Postepay / Satispay",
+  "description": "Chitarre acustiche ed elettriche malinconiche, pianoforti Rhodes vintage e ritmica trap morbida per cantanti di Roma Capitale.",
+  "targetArtists": [
+    "Artisti di Roma Capitale",
+    "Scena Trap Italia",
+    "Movimento Hip Hop Italiano"
+  ],
+  "recommendedBpm": "90-96 BPM",
+  "recommendedKey": "F-Major / D#-Minor",
+  "vibeAttributes": [
+    "Roma Capitale",
+    "R&B Italia",
+    "Postepay & Satispay €",
+    "Deposito SIAE Conforme"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap Italiano",
+    "Trap Italiano",
+    "Drill Milano"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "napoli-secondigliano-trap-italiano-pesante",
+  "name": "Napoli Secondigliano Trap Italiano Pesante",
+  "category": "scene",
+  "badge": "Napoli Secondigliano Trap Italia",
+  "headline": "Napoli Secondigliano (Campania Flow) Trap Italiano Pesante: Basi WAV & Pagamento Postepay / Satispay",
+  "description": "Bassi 808 devastanti, melodie di synth oscure e ritmica trap pesante progettata per artisti e rapper di Napoli Secondigliano.",
+  "targetArtists": [
+    "Artisti di Napoli Secondigliano",
+    "Scena Trap Italia",
+    "Movimento Hip Hop Italiano"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Napoli Secondigliano",
+    "Trap Italia",
+    "Postepay & Satispay €",
+    "Deposito SIAE Conforme"
+  ],
+  "popularGenres": [
+    "Trap Italiano Pesante",
+    "Trap Italiano",
+    "Drill Milano"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "napoli-secondigliano-drill-di-milano-140",
+  "name": "Napoli Secondigliano Drill di Milano 140 BPM",
+  "category": "scene",
+  "badge": "Napoli Secondigliano Drill Milano",
+  "headline": "Napoli Secondigliano (Campania Flow) Drill di Milano 140 BPM: Basi WAV & Pagamento Postepay / Satispay",
+  "description": "Bassi 808 con glissandi aggressivi, percussioni drill sincopate in terzine e campioni di violino per Napoli Secondigliano.",
+  "targetArtists": [
+    "Artisti di Napoli Secondigliano",
+    "Scena Trap Italia",
+    "Movimento Hip Hop Italiano"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Napoli Secondigliano",
+    "Drill Milano",
+    "Postepay & Satispay €",
+    "Deposito SIAE Conforme"
+  ],
+  "popularGenres": [
+    "Drill di Milano 140 BPM",
+    "Trap Italiano",
+    "Drill Milano"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "napoli-secondigliano-boom-bap-italiano-classico",
+  "name": "Napoli Secondigliano Boom Bap Italiano Classico",
+  "category": "scene",
+  "badge": "Napoli Secondigliano Boom Bap Italia",
+  "headline": "Napoli Secondigliano (Campania Flow) Boom Bap Italiano Classico: Basi WAV & Pagamento Postepay / Satispay",
+  "description": "Batterie analogiche con colpo secco di MPC, armonie di pianoforte classico e calore di vinile per liricisti di Napoli Secondigliano.",
+  "targetArtists": [
+    "Artisti di Napoli Secondigliano",
+    "Scena Trap Italia",
+    "Movimento Hip Hop Italiano"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "C-Minor / E-Minor",
+  "vibeAttributes": [
+    "Napoli Secondigliano",
+    "Boom Bap Italia",
+    "Postepay & Satispay €",
+    "Deposito SIAE Conforme"
+  ],
+  "popularGenres": [
+    "Boom Bap Italiano Classico",
+    "Trap Italiano",
+    "Drill Milano"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "napoli-secondigliano-melodic-rnb-trap-italia",
+  "name": "Napoli Secondigliano Melodic R&B Trap Italiano",
+  "category": "scene",
+  "badge": "Napoli Secondigliano R&B Italia",
+  "headline": "Napoli Secondigliano (Campania Flow) Melodic R&B Trap Italiano: Basi WAV & Pagamento Postepay / Satispay",
+  "description": "Chitarre acustiche ed elettriche malinconiche, pianoforti Rhodes vintage e ritmica trap morbida per cantanti di Napoli Secondigliano.",
+  "targetArtists": [
+    "Artisti di Napoli Secondigliano",
+    "Scena Trap Italia",
+    "Movimento Hip Hop Italiano"
+  ],
+  "recommendedBpm": "90-96 BPM",
+  "recommendedKey": "F-Major / D#-Minor",
+  "vibeAttributes": [
+    "Napoli Secondigliano",
+    "R&B Italia",
+    "Postepay & Satispay €",
+    "Deposito SIAE Conforme"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap Italiano",
+    "Trap Italiano",
+    "Drill Milano"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "torino-barriera-trap-italiano-pesante",
+  "name": "Torino Barriera Trap Italiano Pesante",
+  "category": "scene",
+  "badge": "Torino Barriera Trap Italia",
+  "headline": "Torino Barriera (Piemonte Underground) Trap Italiano Pesante: Basi WAV & Pagamento Postepay / Satispay",
+  "description": "Bassi 808 devastanti, melodie di synth oscure e ritmica trap pesante progettata per artisti e rapper di Torino Barriera.",
+  "targetArtists": [
+    "Artisti di Torino Barriera",
+    "Scena Trap Italia",
+    "Movimento Hip Hop Italiano"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Torino Barriera",
+    "Trap Italia",
+    "Postepay & Satispay €",
+    "Deposito SIAE Conforme"
+  ],
+  "popularGenres": [
+    "Trap Italiano Pesante",
+    "Trap Italiano",
+    "Drill Milano"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "torino-barriera-drill-di-milano-140",
+  "name": "Torino Barriera Drill di Milano 140 BPM",
+  "category": "scene",
+  "badge": "Torino Barriera Drill Milano",
+  "headline": "Torino Barriera (Piemonte Underground) Drill di Milano 140 BPM: Basi WAV & Pagamento Postepay / Satispay",
+  "description": "Bassi 808 con glissandi aggressivi, percussioni drill sincopate in terzine e campioni di violino per Torino Barriera.",
+  "targetArtists": [
+    "Artisti di Torino Barriera",
+    "Scena Trap Italia",
+    "Movimento Hip Hop Italiano"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Torino Barriera",
+    "Drill Milano",
+    "Postepay & Satispay €",
+    "Deposito SIAE Conforme"
+  ],
+  "popularGenres": [
+    "Drill di Milano 140 BPM",
+    "Trap Italiano",
+    "Drill Milano"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "torino-barriera-boom-bap-italiano-classico",
+  "name": "Torino Barriera Boom Bap Italiano Classico",
+  "category": "scene",
+  "badge": "Torino Barriera Boom Bap Italia",
+  "headline": "Torino Barriera (Piemonte Underground) Boom Bap Italiano Classico: Basi WAV & Pagamento Postepay / Satispay",
+  "description": "Batterie analogiche con colpo secco di MPC, armonie di pianoforte classico e calore di vinile per liricisti di Torino Barriera.",
+  "targetArtists": [
+    "Artisti di Torino Barriera",
+    "Scena Trap Italia",
+    "Movimento Hip Hop Italiano"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "C-Minor / E-Minor",
+  "vibeAttributes": [
+    "Torino Barriera",
+    "Boom Bap Italia",
+    "Postepay & Satispay €",
+    "Deposito SIAE Conforme"
+  ],
+  "popularGenres": [
+    "Boom Bap Italiano Classico",
+    "Trap Italiano",
+    "Drill Milano"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "torino-barriera-melodic-rnb-trap-italia",
+  "name": "Torino Barriera Melodic R&B Trap Italiano",
+  "category": "scene",
+  "badge": "Torino Barriera R&B Italia",
+  "headline": "Torino Barriera (Piemonte Underground) Melodic R&B Trap Italiano: Basi WAV & Pagamento Postepay / Satispay",
+  "description": "Chitarre acustiche ed elettriche malinconiche, pianoforti Rhodes vintage e ritmica trap morbida per cantanti di Torino Barriera.",
+  "targetArtists": [
+    "Artisti di Torino Barriera",
+    "Scena Trap Italia",
+    "Movimento Hip Hop Italiano"
+  ],
+  "recommendedBpm": "90-96 BPM",
+  "recommendedKey": "F-Major / D#-Minor",
+  "vibeAttributes": [
+    "Torino Barriera",
+    "R&B Italia",
+    "Postepay & Satispay €",
+    "Deposito SIAE Conforme"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap Italiano",
+    "Trap Italiano",
+    "Drill Milano"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "bologna-downtown-trap-italiano-pesante",
+  "name": "Bologna Downtown Trap Italiano Pesante",
+  "category": "scene",
+  "badge": "Bologna Downtown Trap Italia",
+  "headline": "Bologna Downtown (Emilia Hip-Hop) Trap Italiano Pesante: Basi WAV & Pagamento Postepay / Satispay",
+  "description": "Bassi 808 devastanti, melodie di synth oscure e ritmica trap pesante progettata per artisti e rapper di Bologna Downtown.",
+  "targetArtists": [
+    "Artisti di Bologna Downtown",
+    "Scena Trap Italia",
+    "Movimento Hip Hop Italiano"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Bologna Downtown",
+    "Trap Italia",
+    "Postepay & Satispay €",
+    "Deposito SIAE Conforme"
+  ],
+  "popularGenres": [
+    "Trap Italiano Pesante",
+    "Trap Italiano",
+    "Drill Milano"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "bologna-downtown-drill-di-milano-140",
+  "name": "Bologna Downtown Drill di Milano 140 BPM",
+  "category": "scene",
+  "badge": "Bologna Downtown Drill Milano",
+  "headline": "Bologna Downtown (Emilia Hip-Hop) Drill di Milano 140 BPM: Basi WAV & Pagamento Postepay / Satispay",
+  "description": "Bassi 808 con glissandi aggressivi, percussioni drill sincopate in terzine e campioni di violino per Bologna Downtown.",
+  "targetArtists": [
+    "Artisti di Bologna Downtown",
+    "Scena Trap Italia",
+    "Movimento Hip Hop Italiano"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Bologna Downtown",
+    "Drill Milano",
+    "Postepay & Satispay €",
+    "Deposito SIAE Conforme"
+  ],
+  "popularGenres": [
+    "Drill di Milano 140 BPM",
+    "Trap Italiano",
+    "Drill Milano"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "bologna-downtown-boom-bap-italiano-classico",
+  "name": "Bologna Downtown Boom Bap Italiano Classico",
+  "category": "scene",
+  "badge": "Bologna Downtown Boom Bap Italia",
+  "headline": "Bologna Downtown (Emilia Hip-Hop) Boom Bap Italiano Classico: Basi WAV & Pagamento Postepay / Satispay",
+  "description": "Batterie analogiche con colpo secco di MPC, armonie di pianoforte classico e calore di vinile per liricisti di Bologna Downtown.",
+  "targetArtists": [
+    "Artisti di Bologna Downtown",
+    "Scena Trap Italia",
+    "Movimento Hip Hop Italiano"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "C-Minor / E-Minor",
+  "vibeAttributes": [
+    "Bologna Downtown",
+    "Boom Bap Italia",
+    "Postepay & Satispay €",
+    "Deposito SIAE Conforme"
+  ],
+  "popularGenres": [
+    "Boom Bap Italiano Classico",
+    "Trap Italiano",
+    "Drill Milano"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "bologna-downtown-melodic-rnb-trap-italia",
+  "name": "Bologna Downtown Melodic R&B Trap Italiano",
+  "category": "scene",
+  "badge": "Bologna Downtown R&B Italia",
+  "headline": "Bologna Downtown (Emilia Hip-Hop) Melodic R&B Trap Italiano: Basi WAV & Pagamento Postepay / Satispay",
+  "description": "Chitarre acustiche ed elettriche malinconiche, pianoforti Rhodes vintage e ritmica trap morbida per cantanti di Bologna Downtown.",
+  "targetArtists": [
+    "Artisti di Bologna Downtown",
+    "Scena Trap Italia",
+    "Movimento Hip Hop Italiano"
+  ],
+  "recommendedBpm": "90-96 BPM",
+  "recommendedKey": "F-Major / D#-Minor",
+  "vibeAttributes": [
+    "Bologna Downtown",
+    "R&B Italia",
+    "Postepay & Satispay €",
+    "Deposito SIAE Conforme"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap Italiano",
+    "Trap Italiano",
+    "Drill Milano"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "genova-porto-trap-italiano-pesante",
+  "name": "Genova Porto Trap Italiano Pesante",
+  "category": "scene",
+  "badge": "Genova Porto Trap Italia",
+  "headline": "Genova Porto (Liguria Drilligote) Trap Italiano Pesante: Basi WAV & Pagamento Postepay / Satispay",
+  "description": "Bassi 808 devastanti, melodie di synth oscure e ritmica trap pesante progettata per artisti e rapper di Genova Porto.",
+  "targetArtists": [
+    "Artisti di Genova Porto",
+    "Scena Trap Italia",
+    "Movimento Hip Hop Italiano"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Genova Porto",
+    "Trap Italia",
+    "Postepay & Satispay €",
+    "Deposito SIAE Conforme"
+  ],
+  "popularGenres": [
+    "Trap Italiano Pesante",
+    "Trap Italiano",
+    "Drill Milano"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "genova-porto-drill-di-milano-140",
+  "name": "Genova Porto Drill di Milano 140 BPM",
+  "category": "scene",
+  "badge": "Genova Porto Drill Milano",
+  "headline": "Genova Porto (Liguria Drilligote) Drill di Milano 140 BPM: Basi WAV & Pagamento Postepay / Satispay",
+  "description": "Bassi 808 con glissandi aggressivi, percussioni drill sincopate in terzine e campioni di violino per Genova Porto.",
+  "targetArtists": [
+    "Artisti di Genova Porto",
+    "Scena Trap Italia",
+    "Movimento Hip Hop Italiano"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Genova Porto",
+    "Drill Milano",
+    "Postepay & Satispay €",
+    "Deposito SIAE Conforme"
+  ],
+  "popularGenres": [
+    "Drill di Milano 140 BPM",
+    "Trap Italiano",
+    "Drill Milano"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "genova-porto-boom-bap-italiano-classico",
+  "name": "Genova Porto Boom Bap Italiano Classico",
+  "category": "scene",
+  "badge": "Genova Porto Boom Bap Italia",
+  "headline": "Genova Porto (Liguria Drilligote) Boom Bap Italiano Classico: Basi WAV & Pagamento Postepay / Satispay",
+  "description": "Batterie analogiche con colpo secco di MPC, armonie di pianoforte classico e calore di vinile per liricisti di Genova Porto.",
+  "targetArtists": [
+    "Artisti di Genova Porto",
+    "Scena Trap Italia",
+    "Movimento Hip Hop Italiano"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "C-Minor / E-Minor",
+  "vibeAttributes": [
+    "Genova Porto",
+    "Boom Bap Italia",
+    "Postepay & Satispay €",
+    "Deposito SIAE Conforme"
+  ],
+  "popularGenres": [
+    "Boom Bap Italiano Classico",
+    "Trap Italiano",
+    "Drill Milano"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "genova-porto-melodic-rnb-trap-italia",
+  "name": "Genova Porto Melodic R&B Trap Italiano",
+  "category": "scene",
+  "badge": "Genova Porto R&B Italia",
+  "headline": "Genova Porto (Liguria Drilligote) Melodic R&B Trap Italiano: Basi WAV & Pagamento Postepay / Satispay",
+  "description": "Chitarre acustiche ed elettriche malinconiche, pianoforti Rhodes vintage e ritmica trap morbida per cantanti di Genova Porto.",
+  "targetArtists": [
+    "Artisti di Genova Porto",
+    "Scena Trap Italia",
+    "Movimento Hip Hop Italiano"
+  ],
+  "recommendedBpm": "90-96 BPM",
+  "recommendedKey": "F-Major / D#-Minor",
+  "vibeAttributes": [
+    "Genova Porto",
+    "R&B Italia",
+    "Postepay & Satispay €",
+    "Deposito SIAE Conforme"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap Italiano",
+    "Trap Italiano",
+    "Drill Milano"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
 ];
