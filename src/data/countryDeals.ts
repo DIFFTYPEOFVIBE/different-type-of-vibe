@@ -34466,4 +34466,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "sv/apopa-valle-norte": {
+  "slug": "sv/apopa-valle-norte",
+  "name": "El Salvador – Apopa & Valle del Norte (Fuerza Urbana & Trap Pesado)",
+  "flag": "🇸🇻",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Wompi, Transfer365, Chivo Wallet, Tarjetas, Apple Pay, PayPal",
+  "pro": "ASAP EGC",
+  "proFullName": "ASAP EGC",
+  "proGuide": "100% legal ante ASAP con contrato en PDF descargable.",
+  "headline": "Beats en Apopa: Trap Pesado, Vivencia Real del Asfalto & Bajos 808",
+  "description": "La fuerza y el ritmo implacable de la juventud de Apopa y la zona norte metropolitana: campanas oscuras, baterías contundentes de trap y líneas de bajo que no dan tregua.",
+  "popularGenres": [
+    "Apopa Street Trap",
+    "Valle Norte Drill",
+    "Underground 503"
+  ],
+  "subClusters": []
+},
+  "sv/chalatenango-norte-montana": {
+  "slug": "sv/chalatenango-norte-montana",
+  "name": "El Salvador – Chalatenango & La Palma (Norte Montañoso & Trova Urbana)",
+  "flag": "🇸🇻",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Wompi, Transfer365, Chivo Wallet, Tarjetas, Apple Pay, PayPal",
+  "pro": "ASAP EGC",
+  "proFullName": "ASAP EGC",
+  "proGuide": "100% original con entrega de stems multitrack.",
+  "headline": "Beats en Chalatenango: Guitarras de La Palma, Brisa de Montaña & Boom Bap",
+  "description": "La herencia artesanal y la serenidad de los pinos norteños: guitarras acústicas cálidas, baterías orgánicas con calidez analógica y líricas conscientes sobre memoria y superación.",
+  "popularGenres": [
+    "Chalatenango Trova Rap",
+    "La Palma Acoustic Lofi",
+    "Northern Mountain Beat"
+  ],
+  "subClusters": []
+},
+  "sv/cojutepeque-cuscatlan": {
+  "slug": "sv/cojutepeque-cuscatlan",
+  "name": "El Salvador – Cojutepeque (Cerro de las Pavas & Cumbia-Trap Tradicional)",
+  "flag": "🇸🇻",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Wompi, Transfer365, Chivo Wallet, Tarjetas, Apple Pay, PayPal",
+  "pro": "ASAP EGC",
+  "proFullName": "ASAP EGC",
+  "proGuide": "100% libre de reclamos de derechos de autor.",
+  "headline": "Beats en Cojutepeque: Cerro de las Pavas, Metales Tradicionales & Cumbia-Trap",
+  "description": "El encanto colonial y festivo del departamento de Cuscatlán: metales alegres de cumbia, cajas crujientes de hip-hop y bajos que retumban en ferias y fiestas de pueblo.",
+  "popularGenres": [
+    "Cojute Cumbia Trap",
+    "Cuscatlán Urban Beat",
+    "Traditional Fiesta 503"
+  ],
+  "subClusters": []
+},
+  "sv/san-vicente-chinchontepec": {
+  "slug": "sv/san-vicente-chinchontepec",
+  "name": "El Salvador – San Vicente (Volcán Chinchontepec & Rap Rebelde)",
+  "flag": "🇸🇻",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Wompi, Transfer365, Chivo Wallet, Tarjetas, Apple Pay, PayPal",
+  "pro": "ASAP EGC",
+  "proFullName": "ASAP EGC",
+  "proGuide": "100% compatible con agregadoras digitales.",
+  "headline": "Beats en San Vicente: La Furia de Chinchontepec, Bombos Pesados & Barras",
+  "description": "La calidez del valle central a las faldas del volcán: cuerdas dramáticas menores, cajas con golpe seco y melodías que capturan la resistencia y la historia vicentina.",
+  "popularGenres": [
+    "San Vicente Hardcore",
+    "Chinchontepec Boom Bap",
+    "Valley Rap 503"
+  ],
+  "subClusters": []
+},
+  "sv/la-union-golfo-fonseca": {
+  "slug": "sv/la-union-golfo-fonseca",
+  "name": "El Salvador – La Unión & Golfo de Fonseca (Puerto Trinacional & Dancehall)",
+  "flag": "🇸🇻",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Wompi, Transfer365, Chivo Wallet, Tarjetas, Apple Pay, PayPal",
+  "pro": "ASAP EGC",
+  "proFullName": "ASAP EGC",
+  "proGuide": "Garantía comercial de uso ilimitado en streaming.",
+  "headline": "Beats en La Unión: El Golfo de Fonseca, Dancehall Costero & Trap de Puerto",
+  "description": "El punto de encuentro entre tres naciones en el golfo pacífico: ritmos acelerados de dancehall caribeño-costero, sintetizadores enérgicos y caídas de sub-graves de alto impacto.",
+  "popularGenres": [
+    "La Unión Coastal Dancehall",
+    "Fonseca Gulf Beat",
+    "Port Trap 503"
+  ],
+  "subClusters": []
+},
+  "sv/zacatecoluca-la-paz": {
+  "slug": "sv/zacatecoluca-la-paz",
+  "name": "El Salvador – Zacatecoluca & La Paz (Tierra Virola & Dembow Costero)",
+  "flag": "🇸🇻",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Wompi, Transfer365, Chivo Wallet, Tarjetas, Apple Pay, PayPal",
+  "pro": "ASAP EGC",
+  "proFullName": "ASAP EGC",
+  "proGuide": "100% original con entrega de stems.",
+  "headline": "Beats en Zacatecoluca: Tierra Virola, Ritmo Caliente & Dembow Bailable",
+  "description": "La energía costeña y alegre de La Paz: percusión dembow bailable acelerada, sintetizadores luminosos y bajos contundentes para fiestas populares y clubes.",
+  "popularGenres": [
+    "Zacatecoluca Dembow",
+    "Tierra Virola Party",
+    "La Paz Tropical Urban"
+  ],
+  "subClusters": []
+},
+  "sv/sensuntepeque-cabanas": {
+  "slug": "sv/sensuntepeque-cabanas",
+  "name": "El Salvador – Sensuntepeque & Cabañas (Colina Central & Rap Narrativo)",
+  "flag": "🇸🇻",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Wompi, Transfer365, Chivo Wallet, Tarjetas, Apple Pay, PayPal",
+  "pro": "ASAP EGC",
+  "proFullName": "ASAP EGC",
+  "proGuide": "Licencias comerciales legales con PDF descargable.",
+  "headline": "Beats en Sensuntepeque: Las 400 Colinas, Acordes de Piano & Rap Poético",
+  "description": "El corazón montañoso de Cabañas: pianos reflexivos, baterías con textura analógica y melodías para historias de esfuerzo, identidad campesina y orgullo guanaco.",
+  "popularGenres": [
+    "Sensunte Storytelling",
+    "Cabañas Mountain Rap",
+    "400 Colinas Beat"
+  ],
+  "subClusters": []
+},
+  "sv/san-marcos-san-salvador-sur": {
+  "slug": "sv/san-marcos-san-salvador-sur",
+  "name": "El Salvador – San Marcos (San Salvador Sur & Trap de Cuenca)",
+  "flag": "🇸🇻",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Wompi, Transfer365, Chivo Wallet, Tarjetas, Apple Pay, PayPal",
+  "pro": "ASAP EGC",
+  "proFullName": "ASAP EGC",
+  "proGuide": "100% libre de reclamos de Content ID.",
+  "headline": "Beats en San Marcos: Sur de la Capital, Trap Apretado & Freestyle Callejero",
+  "description": "La cuenca urbana del sur de San Salvador: baterías rápidas de trap moderno, sintetizadores punzantes y líneas de bajo diseñadas para romper en bocinas.",
+  "popularGenres": [
+    "San Marcos Street Trap",
+    "Sur Metro Freestyle",
+    "Cuenca Beat 503"
+  ],
+  "subClusters": []
+},
+  "sv/mejicanos-san-salvador-norte": {
+  "slug": "sv/mejicanos-san-salvador-norte",
+  "name": "El Salvador – Mejicanos (Tierra de la Yuca & Underground 503)",
+  "flag": "🇸🇻",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Wompi, Transfer365, Chivo Wallet, Tarjetas, Apple Pay, PayPal",
+  "pro": "ASAP EGC",
+  "proFullName": "ASAP EGC",
+  "proGuide": "100% original con entrega de stems multitrack.",
+  "headline": "Beats en Mejicanos: Densidad Urbana, Cajas Secas & Reality Rap",
+  "description": "El nervio del norte de la capital salvadoreña: cajas cortantes, muestras de vinilo callejero y melodías oscuras que reflejan la autenticidad y resistencia del barrio.",
+  "popularGenres": [
+    "Mejicanos Underground",
+    "Norte Metro Boom Bap",
+    "Reality 503"
+  ],
+  "subClusters": []
+},
+  "sv/antiguo-cuscatlan-la-libertad": {
+  "slug": "sv/antiguo-cuscatlan-la-libertad",
+  "name": "El Salvador – Antiguo Cuscatlán & Santa Elena (Estudios de Élite & Latin R&B)",
+  "flag": "🇸🇻",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Wompi, Transfer365, Chivo Wallet, Tarjetas, Apple Pay, PayPal",
+  "pro": "ASAP EGC",
+  "proFullName": "ASAP EGC",
+  "proGuide": "Licencias con derechos mundiales de monetización.",
+  "headline": "Beats en Antiguo Cuscatlán: Santa Elena, Pianos Eléctricos & Pop Urbano",
+  "description": "El polo corporativo y de innovación de La Libertad: teclados vintage Rhodes, armonías de pop urbano sofisticadas y baterías con mezcla limpia para éxitos radiales.",
+  "popularGenres": [
+    "Antiguo Cuscatlán R&B",
+    "Santa Elena Modern Urban",
+    "Elite Pop 503"
+  ],
+  "subClusters": []
+},
 };
