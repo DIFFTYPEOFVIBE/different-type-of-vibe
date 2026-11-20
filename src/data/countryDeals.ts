@@ -38018,4 +38018,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "ro/bucuresti-capitala": {
+  "slug": "ro/bucuresti-capitala",
+  "name": "România – București (Capitala: Pantelimon, Sălăjan, Titan & Trap Românesc)",
+  "flag": "🇷🇴",
+  "currency": "RON (lei) / EUR (€)",
+  "currencyCode": "RON",
+  "gateways": "Revolut Pay, Banca Transilvania (BT Pay), BCR George, ING, Carduri, Apple Pay, PayPal, Stripe",
+  "pro": "UCMR-ADA",
+  "proFullName": "UCMR-ADA (Uniunea Compozitorilor și Muzicologilor din România)",
+  "proGuide": "100% conform cu reglementările UCMR-ADA și contract de cesiune în PDF.",
+  "headline": "Negative în București: Trap Românesc, Drill din Pantelimon & Bași 808 Grei",
+  "description": "Epicentrul incontestabil al muzicii urbane din România: bași 808 glisați masivi, sintetizatoare întunecate și ritmuri agresive pentru artiștii din Pantelimon, Sălăjan, Ferentari și Titan.",
+  "popularGenres": [
+    "Trap Românesc",
+    "Drill București",
+    "Boom Bap După Blocuri"
+  ],
+  "subClusters": []
+},
+  "ro/cluj-napoca-transilvania": {
+  "slug": "ro/cluj-napoca-transilvania",
+  "name": "România – Cluj-Napoca (Capitala Transilvaniei: Energie de Festival & Trap Melodic)",
+  "flag": "🇷🇴",
+  "currency": "RON (lei) / EUR (€)",
+  "currencyCode": "RON",
+  "gateways": "Revolut Pay, Banca Transilvania (BT Pay), BCR George, ING, Carduri, Apple Pay, PayPal, Stripe",
+  "pro": "UCMR-ADA",
+  "proFullName": "UCMR-ADA (Uniunea Compozitorilor și Muzicologilor din România)",
+  "proGuide": "Livrări în format studio WAV 24-bit cu licență comercială europeană.",
+  "headline": "Negative în Cluj-Napoca: Vibe de Festival, Trap Melodic & Sintetizatoare Moderne",
+  "description": "Inima creativă și universitară a Ardealului: acorduri strălucitoare de pian, linii vocale sintetizate și ritmuri dinamice pentru noua generație de MC și producători din Cluj.",
+  "popularGenres": [
+    "Cluj Melodic Trap",
+    "Festival Urban Beat",
+    "Ardeal New Wave"
+  ],
+  "subClusters": []
+},
+  "ro/timisoara-banat-vest": {
+  "slug": "ro/timisoara-banat-vest",
+  "name": "România – Timișoara (Capitala Banatului: Poarta de Vest & Drill Industrial)",
+  "flag": "🇷🇴",
+  "currency": "RON (lei) / EUR (€)",
+  "currencyCode": "RON",
+  "gateways": "Revolut Pay, Banca Transilvania (BT Pay), BCR George, ING, Carduri, Apple Pay, PayPal, Stripe",
+  "pro": "UCMR-ADA",
+  "proFullName": "UCMR-ADA (Uniunea Compozitorilor și Muzicologilor din România)",
+  "proGuide": "100% producții originale cu piese separate (stems) pentru mixaj.",
+  "headline": "Negative în Timișoara: Spirit Bănățean de Vest, Drill European & Bași Robuști",
+  "description": "Forța vestică și industrială a Timișoarei: cinele rapide de drill, tobe electro-acustice percutante și armonii reci concepute pentru rime sincere și directe.",
+  "popularGenres": [
+    "Timișoara Street Drill",
+    "Banat West Trap",
+    "Industrial 808"
+  ],
+  "subClusters": []
+},
+  "ro/iasi-moldova-capitala": {
+  "slug": "ro/iasi-moldova-capitala",
+  "name": "România – Iași (Capitala Moldovei: Tradiție Lirică & Trap cu Viori Melancolice)",
+  "flag": "🇷🇴",
+  "currency": "RON (lei) / EUR (€)",
+  "currencyCode": "RON",
+  "gateways": "Revolut Pay, Banca Transilvania (BT Pay), BCR George, ING, Carduri, Apple Pay, PayPal, Stripe",
+  "pro": "UCMR-ADA",
+  "proFullName": "UCMR-ADA (Uniunea Compozitorilor și Muzicologilor din România)",
+  "proGuide": "Drepturi de monetizare mondială pe Spotify, Apple Music și YouTube.",
+  "headline": "Negative în Iași: Copou Liric, Viori Melancolice & Trap Emoțional",
+  "description": "Poezia și profunzimea culturală a Moldovei: arpegii nostalgice de vioară și pian acustic îmbinate cu bași 808 calzi pentru versuri pline de substanță și emoție.",
+  "popularGenres": [
+    "Iași Lyrical Trap",
+    "Moldova Conscious Rap",
+    "Violin Trap Beat"
+  ],
+  "subClusters": []
+},
+  "ro/constanta-marea-neagra": {
+  "slug": "ro/constanta-marea-neagra",
+  "name": "România – Constanța & Mamaia (Litoralul Mării Negre: Clubbing & Afro-Trap)",
+  "flag": "🇷🇴",
+  "currency": "RON (lei) / EUR (€)",
+  "currencyCode": "RON",
+  "gateways": "Revolut Pay, Banca Transilvania (BT Pay), BCR George, ING, Carduri, Apple Pay, PayPal, Stripe",
+  "pro": "UCMR-ADA",
+  "proFullName": "UCMR-ADA (Uniunea Compozitorilor și Muzicologilor din România)",
+  "proGuide": "Plată instantanee prin Revolut Pay cu descărcare directă.",
+  "headline": "Negative în Constanța: Mamaia VIP, Valurile Mării Negre & Summer Trap",
+  "description": "Atmosfera nopților de vară de pe litoral: sintetizatoare luminoase, ritmuri tropicale de afrobeat și trap comercial conceput pentru hituri radio și cluburi de plajă.",
+  "popularGenres": [
+    "Constanța Summer Trap",
+    "Mamaia Beach Beat",
+    "Litoral Afro-Trap"
+  ],
+  "subClusters": []
+},
+  "ro/craiova-oltenia-sud": {
+  "slug": "ro/craiova-oltenia-sud",
+  "name": "România – Craiova (Capitala Olteniei: Drill de Stradă & Ritmuri Neiertătoare)",
+  "flag": "🇷🇴",
+  "currency": "RON (lei) / EUR (€)",
+  "currencyCode": "RON",
+  "gateways": "Revolut Pay, Banca Transilvania (BT Pay), BCR George, ING, Carduri, Apple Pay, PayPal, Stripe",
+  "pro": "UCMR-ADA",
+  "proFullName": "UCMR-ADA (Uniunea Compozitorilor și Muzicologilor din România)",
+  "proGuide": "100% drepturi comerciale fără redevențe ascunse.",
+  "headline": "Negative în Craiova: Spirit Oltenesc Neîmblânzit, Drill Dur & Bași 808",
+  "description": "Ambiția și forța neîmblânzită a Olteniei: clopote reci de biserică, ritmuri sincopate de drill și bași 808 care zguduie incintele pentru MC-ii din Craiova.",
+  "popularGenres": [
+    "Craiova Street Drill",
+    "Oltenia Rap",
+    "Hard Trap 808"
+  ],
+  "subClusters": []
+},
+  "ro/brasov-carpati-munte": {
+  "slug": "ro/brasov-carpati-munte",
+  "name": "România – Brașov (Fortăreața Carpaților: Trap Gotic & Vibe Montan)",
+  "flag": "🇷🇴",
+  "currency": "RON (lei) / EUR (€)",
+  "currencyCode": "RON",
+  "gateways": "Revolut Pay, Banca Transilvania (BT Pay), BCR George, ING, Carduri, Apple Pay, PayPal, Stripe",
+  "pro": "UCMR-ADA",
+  "proFullName": "UCMR-ADA (Uniunea Compozitorilor și Muzicologilor din România)",
+  "proGuide": "Descărcare imediată în format WAV și MP3 cu factură.",
+  "headline": "Negative în Brașov: Cetatea Brașovului, Piane Reci & Trap Atmosferic",
+  "description": "Misterul și măreția Carpaților: piane melancolice sub ceață, reverberații epice și ritmuri lente de trap atmosferic create pentru artiștii din inima muntelui.",
+  "popularGenres": [
+    "Brașov Dark Trap",
+    "Carpați Mountain Rap",
+    "Atmosferic 808"
+  ],
+  "subClusters": []
+},
+  "ro/ploiesti-prahova-petrol": {
+  "slug": "ro/ploiesti-prahova-petrol",
+  "name": "România – Ploiești (Capitala Aurului Negru: Rădăcini de Boom Bap & Rap Autentic)",
+  "flag": "🇷🇴",
+  "currency": "RON (lei) / EUR (€)",
+  "currencyCode": "RON",
+  "gateways": "Revolut Pay, Banca Transilvania (BT Pay), BCR George, ING, Carduri, Apple Pay, PayPal, Stripe",
+  "pro": "UCMR-ADA",
+  "proFullName": "UCMR-ADA (Uniunea Compozitorilor și Muzicologilor din România)",
+  "proGuide": "Acord de cesiune descarcăbil pentru înregistrare la UCMR-ADA.",
+  "headline": "Negative în Ploiești: Prahova Industrială, Tobe Boom Bap & Rap de Cartier",
+  "description": "Tradiția puternică a hip-hop-ului prahovean: cinele calde de vinil, tobe sparte cu atac agresiv și bași rotunzi pentru versuri sincere de cartier.",
+  "popularGenres": [
+    "Ploiești Boom Bap",
+    "Prahova Rap Autentic",
+    "Cartier Beat"
+  ],
+  "subClusters": []
+},
+  "ro/oradea-crisana-vest": {
+  "slug": "ro/oradea-crisana-vest",
+  "name": "România – Oradea (Crișana & Arta Nouă: Trap Melodic & Vibe Cosmopolit)",
+  "flag": "🇷🇴",
+  "currency": "RON (lei) / EUR (€)",
+  "currencyCode": "RON",
+  "gateways": "Revolut Pay, Banca Transilvania (BT Pay), BCR George, ING, Carduri, Apple Pay, PayPal, Stripe",
+  "pro": "UCMR-ADA",
+  "proFullName": "UCMR-ADA (Uniunea Compozitorilor și Muzicologilor din România)",
+  "proGuide": "Compatibil cu toate platformele de streaming și radio.",
+  "headline": "Negative în Oradea: Eleganță Art Nouveau, R&B-Trap & Producție Modernă",
+  "description": "Eleganța arhitecturală a vestului: chitare acustice prelucrate fin, sintetizatoare calde și bași dinamici pentru piese comerciale și videoclipuri estetice.",
+  "popularGenres": [
+    "Oradea Melodic Trap",
+    "Crișana R&B Beat",
+    "Western Border Flow"
+  ],
+  "subClusters": []
+},
+  "ro/sibiu-hermannstadt-cultura": {
+  "slug": "ro/sibiu-hermannstadt-cultura",
+  "name": "România – Sibiu (Hermannstadt: Capitală Culturală & Lofi Hip-Hop Liric)",
+  "flag": "🇷🇴",
+  "currency": "RON (lei) / EUR (€)",
+  "currencyCode": "RON",
+  "gateways": "Revolut Pay, Banca Transilvania (BT Pay), BCR George, ING, Carduri, Apple Pay, PayPal, Stripe",
+  "pro": "UCMR-ADA",
+  "proFullName": "UCMR-ADA (Uniunea Compozitorilor și Muzicologilor din România)",
+  "proGuide": "Contracte transparente cu cesiune completă de drepturi conexe.",
+  "headline": "Negative în Sibiu: Cetatea Medievală, Chitare Acustice & Hip-Hop Lofi",
+  "description": "Liniștea și noblețea Sibiului medieval: texturi acustice calde, ritmuri de chillhop lente și acorduri de pian ideale pentru poezie hip-hop și introspecție.",
+  "popularGenres": [
+    "Sibiu Lofi Chillhop",
+    "Medieval Hip-Hop",
+    "Acoustic Rap Beat"
+  ],
+  "subClusters": []
+},
 };
