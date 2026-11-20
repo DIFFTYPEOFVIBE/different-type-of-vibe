@@ -34656,4 +34656,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "it/venezia-mestre": {
+  "slug": "it/venezia-mestre",
+  "name": "Italia – Venezia & Mestre (Laguna Veneta & Trap Notturno)",
+  "flag": "🇮🇹",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "Postepay, Satispay, Apple Pay, Google Pay, Carte, PayPal",
+  "pro": "SIAE & Soundreef",
+  "proFullName": "SIAE & Soundreef",
+  "proGuide": "100% conforme SIAE con contratto PDF scaricabile.",
+  "headline": "Basi Trap a Venezia & Mestre: Atmosfere Lagunari, Synth Spaziali & 808",
+  "description": "L'inconfondibile atmosfera della laguna veneta e del polo urbano di Mestre: arpeggi di sintetizzatore eterei, riverberi avvolgenti e bassi sub-808 caldi per brani notturni.",
+  "popularGenres": [
+    "Venezia Ambient Trap",
+    "Mestre Street Flow",
+    "Veneto Urban"
+  ],
+  "subClusters": []
+},
+  "it/brescia-valtrompia": {
+  "slug": "it/brescia-valtrompia",
+  "name": "Italia – Brescia & Val Trompia (Polo Industriale & Street Drill)",
+  "flag": "🇮🇹",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "Postepay, Satispay, Apple Pay, Google Pay, Carte, PayPal",
+  "pro": "SIAE & Soundreef",
+  "proFullName": "SIAE & Soundreef",
+  "proGuide": "100% originale con consegna di stems multitrack.",
+  "headline": "Basi Drill a Brescia: Furia Industriale, Corde Taglienti & Bassi Cupi",
+  "description": "La forza dell'industria lombarda e la determinazione delle valli bresciane: chitarre distorte, percussioni drill secche e bassi 808 pesanti per il rap di quartiere più autentico.",
+  "popularGenres": [
+    "Brescia Hard Drill",
+    "Valtrompia Street Rap",
+    "Lombardia Underground"
+  ],
+  "subClusters": []
+},
+  "it/bergamo-alta-bassa": {
+  "slug": "it/bergamo-alta-bassa",
+  "name": "Italia – Bergamo (Città Alta & Bassi 808 di Periferia)",
+  "flag": "🇮🇹",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "Postepay, Satispay, Apple Pay, Google Pay, Carte, PayPal",
+  "pro": "SIAE & Soundreef",
+  "proFullName": "SIAE & Soundreef",
+  "proGuide": "100% libero da campionamenti non autorizzati.",
+  "headline": "Basi Trap a Bergamo: Pianoforti Melodici, Ritmica Serrata & Barre",
+  "description": "Dalla maestosità delle mura venete di Città Alta alle periferie orobiche: melodie toccanti di pianoforte, batterie serrate e sonorità moderne per artisti bergamaschi.",
+  "popularGenres": [
+    "Bergamo Melodic Trap",
+    "Orobic Flow",
+    "Piano Trap Lombardo"
+  ],
+  "subClusters": []
+},
+  "it/padova-veneto-centro": {
+  "slug": "it/padova-veneto-centro",
+  "name": "Italia – Padova (Città Universitaria & Boom Bap Cosciente)",
+  "flag": "🇮🇹",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "Postepay, Satispay, Apple Pay, Google Pay, Carte, PayPal",
+  "pro": "SIAE & Soundreef",
+  "proFullName": "SIAE & Soundreef",
+  "proGuide": "100% compatibile per distribuzione su Spotify e Apple Music.",
+  "headline": "Basi Rap a Padova: Fermento Universitario, Suono Jazz & Vinile",
+  "description": "La culla del fermento culturale e giovanile veneto: accordi caldi di piano elettrico Rhodes, fiati jazz campionati e batterie boom bap asciutte per testi riflessivi e lirici.",
+  "popularGenres": [
+    "Padova Conscious Rap",
+    "Veneto Jazz Hop",
+    "University Boom Bap"
+  ],
+  "subClusters": []
+},
+  "it/cagliari-sardegna": {
+  "slug": "it/cagliari-sardegna",
+  "name": "Italia – Cagliari & Sardegna (L'Isola del Trap, Vento & Mare)",
+  "flag": "🇮🇹",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "Postepay, Satispay, Apple Pay, Google Pay, Carte, PayPal",
+  "pro": "SIAE & Soundreef",
+  "proFullName": "SIAE & Soundreef",
+  "proGuide": "Diritti commerciali completi garantiti.",
+  "headline": "Basi Trap a Cagliari: Sound Sardo, Chitarre Acustiche & Furia Machete",
+  "description": "L'orgoglio e l'energia selvaggia dell'isola: chitarre acustiche toccanti, casse distorte e attitudine hardcore per la prolifica scena hip-hop e trap della Sardegna.",
+  "popularGenres": [
+    "Sardegna Trap",
+    "Cagliari Street Flow",
+    "Machete Style Beat"
+  ],
+  "subClusters": []
+},
+  "it/reggio-calabria-stretto": {
+  "slug": "it/reggio-calabria-stretto",
+  "name": "Italia – Reggio Calabria & Stretto (Calabria Street & Trap del Sud)",
+  "flag": "🇮🇹",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "Postepay, Satispay, Apple Pay, Google Pay, Carte, PayPal",
+  "pro": "SIAE & Soundreef",
+  "proFullName": "SIAE & Soundreef",
+  "proGuide": "100% originale con consegna di stems.",
+  "headline": "Basi Trap a Reggio Calabria: Calore dello Stretto, 808 Pesanti & Riscatto",
+  "description": "La passione e la determinazione della punta dello stivale: bassi profondi che scuotono le coste calabresi, melodie oscure e ritmi incalzanti per storie di riscatto del Sud.",
+  "popularGenres": [
+    "Calabria Trap",
+    "Stretto Street Beat",
+    "South Italy Rap"
+  ],
+  "subClusters": []
+},
+  "it/trieste-confine-est": {
+  "slug": "it/trieste-confine-est",
+  "name": "Italia – Trieste & Friuli (Confine Orientale & Drill Cinematografica)",
+  "flag": "🇮🇹",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "Postepay, Satispay, Apple Pay, Google Pay, Carte, PayPal",
+  "pro": "SIAE & Soundreef",
+  "proFullName": "SIAE & Soundreef",
+  "proGuide": "Licenze commerciali con contratto in PDF.",
+  "headline": "Basi Drill a Trieste: Vento di Bora, Campioni dell'Est & Bassi Glissati",
+  "description": "Il fascino mitteleuropeo e la forza del vento di confine: archi cinematografici drammatici, pianoforti solenni e batterie drill a 140 BPM per produzioni epiche.",
+  "popularGenres": [
+    "Trieste Cinematic Drill",
+    "Friuli Border Beat",
+    "Bora Dark Trap"
+  ],
+  "subClusters": []
+},
+  "it/ancona-marche-adriatico": {
+  "slug": "it/ancona-marche-adriatico",
+  "name": "Italia – Ancona & Marche (Costa Adriatica & Pop Urbano Solare)",
+  "flag": "🇮🇹",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "Postepay, Satispay, Apple Pay, Google Pay, Carte, PayPal",
+  "pro": "SIAE & Soundreef",
+  "proFullName": "SIAE & Soundreef",
+  "proGuide": "100% compatibile con monetizzazione su YouTube e Spotify.",
+  "headline": "Basi Trap ad Ancona: Adriatico Sound, Dembow Estivo & Synth Chiari",
+  "description": "Il calore delle spiagge marchigiane e la freschezza adriatica: melodie pop-trap commerciali, synth scintillanti e ritmi dembow perfetti per singoli radiofonici estivi.",
+  "popularGenres": [
+    "Ancona Pop Trap",
+    "Adriatico Dembow",
+    "Marche Summer Urban"
+  ],
+  "subClusters": []
+},
+  "it/parma-emilia-ovest": {
+  "slug": "it/parma-emilia-ovest",
+  "name": "Italia – Parma & Reggio Emilia (Città d'Arte & Trap Sinfonico)",
+  "flag": "🇮🇹",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "Postepay, Satispay, Apple Pay, Google Pay, Carte, PayPal",
+  "pro": "SIAE & Soundreef",
+  "proFullName": "SIAE & Soundreef",
+  "proGuide": "100% originale con consegna di stems multitrack.",
+  "headline": "Basi Trap a Parma: Eredità Lirica, Violini Teatrali & Trap Elegante",
+  "description": "L'eleganza della tradizione lirica e teatrale parmense tradotta in musica contemporanea: violini solisti virtuosi, pianoforti classici e drop di trap sofisticata.",
+  "popularGenres": [
+    "Parma Symphonic Trap",
+    "Emilia Elegant Urban",
+    "Violin Trap Beat"
+  ],
+  "subClusters": []
+},
+  "it/taranto-due-mari": {
+  "slug": "it/taranto-due-mari",
+  "name": "Italia – Taranto & Puglia Ionica (Città dei Due Mari & Street Banger)",
+  "flag": "🇮🇹",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "Postepay, Satispay, Apple Pay, Google Pay, Carte, PayPal",
+  "pro": "SIAE & Soundreef",
+  "proFullName": "SIAE & Soundreef",
+  "proGuide": "Licenze con diritti mondiali di streaming.",
+  "headline": "Basi Trap a Taranto: La Forza dei Due Mari, 808 Devastanti & Realtà",
+  "description": "L'intensità operaia e il calore ionico di Taranto: linee di sub-basso telluriche, rullanti asciutti e atmosfere industriali cupe per il rap di denuncia e rivalsa.",
+  "popularGenres": [
+    "Taranto Street Trap",
+    "Due Mari Bass",
+    "Puglia Hard Beat"
+  ],
+  "subClusters": []
+},
 };
