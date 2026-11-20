@@ -33181,4 +33181,479 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
     }
   ]
 },
+  "cr": {
+  "name": "Costa Rica – Urbano Tico, Dancehall de Limón & Trap 506",
+  "flag": "🇨🇷",
+  "currency": "CRC (₡) / USD ($)",
+  "currencyCode": "CRC",
+  "gateways": "SINPE Móvil (BAC, BNCR, BCR, Banco Popular), Tarjetas de Débito/Crédito, Apple Pay, PayPal, Stripe",
+  "pro": "ACAM & Registro Nacional",
+  "proFullName": "Asociación de Compositores y Autores Musicales de Costa Rica (ACAM) & Registro Nacional",
+  "proGuide": "100% legal ante ACAM y la Dirección de Derecho de Autor. Pago instantáneo mediante SINPE Móvil en Colones (CRC ₡) y Dólares (USD $). Conservas el 100% de tus regalías en Spotify, Apple Music y YouTube.",
+  "headline": "Comprar Beats en Costa Rica: Pago con SINPE Móvil, WAV 24-bit de Estudio & Stems",
+  "description": "Instrumentales profesionales para artistas ticos: dancehall bailable de Limón, trap 506 pesado, reggaetón melódico estilo Kavvo y boom bap consciente. Descarga inmediata con contrato de licencia formal en PDF.",
+  "popularGenres": [
+    "Dancehall Tico",
+    "Trap 506",
+    "Reggaetón Costarricense",
+    "Melodic Urban"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "San José Chepe Hub",
+      "slug": "cr/san-jose-chepe",
+      "description": "El epicentro de estudios de élite y trap melódico."
+    },
+    {
+      "name": "Puerto Limón Caribe Hub",
+      "slug": "cr/puerto-limon-caribe",
+      "description": "La cuna del dancehall y reggae afrocaribeño."
+    },
+    {
+      "name": "Alajuela La Liga Hub",
+      "slug": "cr/alajuela-la-liga",
+      "description": "Hip-hop callejero y sonido urbano joven."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Costa Rica – Urbano Tico, Dancehall de Limón & Trap 506?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante ACAM y el Registro Nacional?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Dirección de Derecho de Autor del Registro Nacional y afiliar tu tema a ACAM sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Costa Rica?",
+      "answer": "Puedes pagar instantáneamente en Colones (CRC ₡) o Dólares (USD $) a través de SINPE Móvil mediante tu número celular desde cualquier banco en Costa Rica (BAC Credomatic, Banco Nacional BNCR, Banco de Costa Rica BCR, Banco Popular), tarjetas de débito/crédito, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago (en segundos mediante SINPE Móvil o tarjeta), los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "cr/san-jose-chepe": {
+  "name": "Costa Rica – San José (Chepe Centro, Escazú & San Pedro)",
+  "flag": "🇨🇷",
+  "currency": "CRC (₡) / USD ($)",
+  "currencyCode": "CRC",
+  "gateways": "SINPE Móvil, BAC Credomatic, BNCR, Tarjetas, Apple Pay, PayPal",
+  "pro": "ACAM & Registro Nacional",
+  "proFullName": "ACAM Costa Rica",
+  "proGuide": "100% compatible con ACAM con contrato en PDF descargable.",
+  "headline": "Beats en San José: Pop Urbano, Trap Melódico Estilo Kavvo & Pianos",
+  "description": "La producción musical más sofisticada del Gran Área Metropolitana: pianos acústicos con sentimiento, baterías de trap moderno y dembows suaves para canciones de éxito radial.",
+  "popularGenres": [
+    "Pop Urbano Tico",
+    "Trap Melódico",
+    "R&B Latino"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Kavvo Vibe",
+      "slug": "../../vibe/kavvo-amorfoda-melodic-trap-dancehall",
+      "description": "Guitarras acústicas de desamor con dembow melódico a 96 BPM."
+    },
+    {
+      "name": "Crypy Vibe",
+      "slug": "../../vibe/crypy-trap-tico-callejero-506",
+      "description": "Trap 506 callejero oscuro con bajos 808 pesados."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Costa Rica – San José (Chepe Centro, Escazú & San Pedro)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante ACAM y el Registro Nacional?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Dirección de Derecho de Autor del Registro Nacional y afiliar tu tema a ACAM sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Costa Rica?",
+      "answer": "Puedes pagar instantáneamente en Colones (CRC ₡) o Dólares (USD $) a través de SINPE Móvil mediante tu número celular desde cualquier banco en Costa Rica (BAC Credomatic, Banco Nacional BNCR, Banco de Costa Rica BCR, Banco Popular), tarjetas de débito/crédito, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago (en segundos mediante SINPE Móvil o tarjeta), los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "cr/puerto-limon-caribe": {
+  "name": "Costa Rica – Puerto Limón & Cieneguita (Cuna del Dancehall Tico)",
+  "flag": "🇨🇷",
+  "currency": "CRC (₡) / USD ($)",
+  "currencyCode": "CRC",
+  "gateways": "SINPE Móvil, Banco Nacional, BCR, Tarjetas, Apple Pay, PayPal",
+  "pro": "ACAM & Registro Nacional",
+  "proFullName": "ACAM Costa Rica",
+  "proGuide": "100% original con entrega de stems multitrack.",
+  "headline": "Beats en Puerto Limón: Dancehall Puro Afrocaribeño, Metales & 808s",
+  "description": "La capital afrodescendiente del Caribe costarricense: cajas secas cortantes, metales estridentes de sintetizador y líneas de bajo demoledoras para rimas de baile y respeto.",
+  "popularGenres": [
+    "Dancehall Limonense",
+    "Afrocaribeño 506",
+    "Roots Reggae"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Toledo Vibe",
+      "slug": "../../vibe/toledo-king-of-costa-rican-dancehall",
+      "description": "El rey del dancehall tico con lírica picante y ritmo arrollador."
+    },
+    {
+      "name": "Gimario Vibe",
+      "slug": "../../vibe/gimario-melodic-dancehall-caribe-tico",
+      "description": "Dancehall melódico suave con coros románticos caribeños."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Costa Rica – Puerto Limón & Cieneguita (Cuna del Dancehall Tico)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante ACAM y el Registro Nacional?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Dirección de Derecho de Autor del Registro Nacional y afiliar tu tema a ACAM sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Costa Rica?",
+      "answer": "Puedes pagar instantáneamente en Colones (CRC ₡) o Dólares (USD $) a través de SINPE Móvil mediante tu número celular desde cualquier banco en Costa Rica (BAC Credomatic, Banco Nacional BNCR, Banco de Costa Rica BCR, Banco Popular), tarjetas de débito/crédito, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago (en segundos mediante SINPE Móvil o tarjeta), los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "cr/alajuela-la-liga": {
+  "name": "Costa Rica – Alajuela (Ciudad de los Mangos & La Liga Urbana)",
+  "flag": "🇨🇷",
+  "currency": "CRC (₡) / USD ($)",
+  "currencyCode": "CRC",
+  "gateways": "SINPE Móvil, BAC Credomatic, BNCR, Tarjetas, Apple Pay, PayPal",
+  "pro": "ACAM & Registro Nacional",
+  "proFullName": "ACAM Costa Rica",
+  "proGuide": "100% libre de samples protegidos para distribución en plataformas.",
+  "headline": "Beats en Alajuela: Trap Callejero Joven, Dembow Acelerado & 808s",
+  "description": "La energía juvenil de la ciudad de los mangos: patrones rápidos de trap moderno, sintetizadores brillantes y caídas de bajo pensadas para sonar en eventos y autos modificados.",
+  "popularGenres": [
+    "Alajuela Trap",
+    "Dembow Joven",
+    "Street Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Costa Rica – Alajuela (Ciudad de los Mangos & La Liga Urbana)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante ACAM y el Registro Nacional?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Dirección de Derecho de Autor del Registro Nacional y afiliar tu tema a ACAM sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Costa Rica?",
+      "answer": "Puedes pagar instantáneamente en Colones (CRC ₡) o Dólares (USD $) a través de SINPE Móvil mediante tu número celular desde cualquier banco en Costa Rica (BAC Credomatic, Banco Nacional BNCR, Banco de Costa Rica BCR, Banco Popular), tarjetas de débito/crédito, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago (en segundos mediante SINPE Móvil o tarjeta), los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "cr/heredia-ciudad-de-las-flores": {
+  "name": "Costa Rica – Heredia (Ciudad de las Flores & Juventud Universitaria)",
+  "flag": "🇨🇷",
+  "currency": "CRC (₡) / USD ($)",
+  "currencyCode": "CRC",
+  "gateways": "SINPE Móvil, BAC Credomatic, BNCR, Tarjetas, Apple Pay, PayPal",
+  "pro": "ACAM & Registro Nacional",
+  "proFullName": "ACAM Costa Rica",
+  "proGuide": "100% legal ante ACAM con entrega inmediata.",
+  "headline": "Beats en Heredia: Indie Trap Melódico, Acordes Cálidos & R&B Tico",
+  "description": "El ambiente estudiantil e innovador de Heredia: pianos eléctricos con textura lofi, guitarras suaves y ritmos pausados para letras creativas y reflexivas.",
+  "popularGenres": [
+    "Heredia Indie Trap",
+    "R&B Tico",
+    "Chillhop Universitario"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Costa Rica – Heredia (Ciudad de las Flores & Juventud Universitaria)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante ACAM y el Registro Nacional?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Dirección de Derecho de Autor del Registro Nacional y afiliar tu tema a ACAM sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Costa Rica?",
+      "answer": "Puedes pagar instantáneamente en Colones (CRC ₡) o Dólares (USD $) a través de SINPE Móvil mediante tu número celular desde cualquier banco en Costa Rica (BAC Credomatic, Banco Nacional BNCR, Banco de Costa Rica BCR, Banco Popular), tarjetas de débito/crédito, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago (en segundos mediante SINPE Móvil o tarjeta), los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "cr/puntarenas-el-puerto": {
+  "name": "Costa Rica – Puntarenas (El Puerto & Reggaetón Playero del Pacífico)",
+  "flag": "🇨🇷",
+  "currency": "CRC (₡) / USD ($)",
+  "currencyCode": "CRC",
+  "gateways": "SINPE Móvil, Banco Nacional, BCR, Tarjetas, Apple Pay, PayPal",
+  "pro": "ACAM & Registro Nacional",
+  "proFullName": "ACAM Costa Rica",
+  "proGuide": "100% original con entrega de stems multitrack.",
+  "headline": "Beats en Puntarenas: Reggaetón del Puerto, Brisa Marina & Dembow",
+  "description": "El sabor caliente del litoral pacífico costarricense: percusiones bailables de reggaetón playero, campanas tropicales y bajos envolventes para fiestas y verano.",
+  "popularGenres": [
+    "Puntarenas Reggaetón",
+    "Pacific Dembow",
+    "Tropical Urban"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Costa Rica – Puntarenas (El Puerto & Reggaetón Playero del Pacífico)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante ACAM y el Registro Nacional?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Dirección de Derecho de Autor del Registro Nacional y afiliar tu tema a ACAM sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Costa Rica?",
+      "answer": "Puedes pagar instantáneamente en Colones (CRC ₡) o Dólares (USD $) a través de SINPE Móvil mediante tu número celular desde cualquier banco en Costa Rica (BAC Credomatic, Banco Nacional BNCR, Banco de Costa Rica BCR, Banco Popular), tarjetas de débito/crédito, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago (en segundos mediante SINPE Móvil o tarjeta), los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "cr/cartago-antigua-metropoli": {
+  "name": "Costa Rica – Cartago (La Vieja Metrópoli & Rap Andino Brumoso)",
+  "flag": "🇨🇷",
+  "currency": "CRC (₡) / USD ($)",
+  "currencyCode": "CRC",
+  "gateways": "SINPE Móvil, BAC Credomatic, BNCR, Tarjetas, Apple Pay, PayPal",
+  "pro": "ACAM & Registro Nacional",
+  "proFullName": "ACAM Costa Rica",
+  "proGuide": "100% garantizado para streaming y eventos.",
+  "headline": "Beats en Cartago: Frío Brumoso de las Alturas, Boom Bap & Cajas Secas",
+  "description": "La sobriedad y resistencia de la antigua metrópoli: loops oscuros de soul, cajas analógicas de MPC pesadas y espacio amplio para barras con mensaje y peso lírico.",
+  "popularGenres": [
+    "Cartago Boom Bap",
+    "Bruma Hip Hop",
+    "Underground 506"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Costa Rica – Cartago (La Vieja Metrópoli & Rap Andino Brumoso)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante ACAM y el Registro Nacional?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Dirección de Derecho de Autor del Registro Nacional y afiliar tu tema a ACAM sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Costa Rica?",
+      "answer": "Puedes pagar instantáneamente en Colones (CRC ₡) o Dólares (USD $) a través de SINPE Móvil mediante tu número celular desde cualquier banco en Costa Rica (BAC Credomatic, Banco Nacional BNCR, Banco de Costa Rica BCR, Banco Popular), tarjetas de débito/crédito, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago (en segundos mediante SINPE Móvil o tarjeta), los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "cr/guanacaste-tamarindo": {
+  "name": "Costa Rica – Guanacaste (Liberia, Tamarindo & Clubes de Playa)",
+  "flag": "🇨🇷",
+  "currency": "CRC (₡) / USD ($)",
+  "currencyCode": "CRC",
+  "gateways": "SINPE Móvil, BAC Credomatic, BNCR, Tarjetas, Apple Pay, PayPal",
+  "pro": "ACAM & Registro Nacional",
+  "proFullName": "ACAM Costa Rica",
+  "proGuide": "100% legal ante ACAM con entrega inmediata.",
+  "headline": "Beats en Guanacaste: Festival Playero, Marimba Fusión & EDM-Trap",
+  "description": "El punto de encuentro del turismo y la fiesta internacional: marimba guanacasteca tradicional combinada con sintetizadores de festival y bajos de trap bailable.",
+  "popularGenres": [
+    "Tamarindo EDM-Trap",
+    "Guanacaste Beat",
+    "Marimba Urbana"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Marimba Tica Vibe",
+      "slug": "../../vibe/marimba-guanacasteca-tico-trap",
+      "description": "Marimba tradicional de Guanacaste con bajo 808."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Costa Rica – Guanacaste (Liberia, Tamarindo & Clubes de Playa)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante ACAM y el Registro Nacional?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Dirección de Derecho de Autor del Registro Nacional y afiliar tu tema a ACAM sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Costa Rica?",
+      "answer": "Puedes pagar instantáneamente en Colones (CRC ₡) o Dólares (USD $) a través de SINPE Móvil mediante tu número celular desde cualquier banco en Costa Rica (BAC Credomatic, Banco Nacional BNCR, Banco de Costa Rica BCR, Banco Popular), tarjetas de débito/crédito, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago (en segundos mediante SINPE Móvil o tarjeta), los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "cr/perez-zeledon-valle-general": {
+  "name": "Costa Rica – Pérez Zeledón & Valle de El General (Zona Sur Urbana)",
+  "flag": "🇨🇷",
+  "currency": "CRC (₡) / USD ($)",
+  "currencyCode": "CRC",
+  "gateways": "SINPE Móvil, Banco Nacional, BCR, Tarjetas, Apple Pay, PayPal",
+  "pro": "ACAM & Registro Nacional",
+  "proFullName": "ACAM Costa Rica",
+  "proGuide": "Instrumentos grabados en estudio libres de reclamos.",
+  "headline": "Beats en Pérez Zeledón: Fuerza del Valle del General, Trap Sureño & 808",
+  "description": "La capital comercial de la zona sur: baterías apretadas de trap moderno, melodías limpias y líneas de bajo contundentes para la creciente escena urbana sureña.",
+  "popularGenres": [
+    "Pérez Zeledón Trap",
+    "Zona Sur 506",
+    "Street Beat"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Costa Rica – Pérez Zeledón & Valle de El General (Zona Sur Urbana)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante ACAM y el Registro Nacional?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Dirección de Derecho de Autor del Registro Nacional y afiliar tu tema a ACAM sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Costa Rica?",
+      "answer": "Puedes pagar instantáneamente en Colones (CRC ₡) o Dólares (USD $) a través de SINPE Móvil mediante tu número celular desde cualquier banco en Costa Rica (BAC Credomatic, Banco Nacional BNCR, Banco de Costa Rica BCR, Banco Popular), tarjetas de débito/crédito, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago (en segundos mediante SINPE Móvil o tarjeta), los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "cr/san-carlos-zona-norte": {
+  "name": "Costa Rica – San Carlos & La Fortuna (Volcán Arenal & Trap Acústico)",
+  "flag": "🇨🇷",
+  "currency": "CRC (₡) / USD ($)",
+  "currencyCode": "CRC",
+  "gateways": "SINPE Móvil, BAC Credomatic, BNCR, Tarjetas, Apple Pay, PayPal",
+  "pro": "ACAM & Registro Nacional",
+  "proFullName": "ACAM Costa Rica",
+  "proGuide": "100% original y listo para monetizar en Spotify.",
+  "headline": "Beats en San Carlos: Majestuosidad del Volcán Arenal, Guitarras & Flow",
+  "description": "El pulmón verde y turístico de la zona norte: guitarras acústicas profundas, texturas ambientales de naturaleza y caídas de trap bailable para temas frescos y vivos.",
+  "popularGenres": [
+    "San Carlos Trap",
+    "Arenal Acoustic",
+    "Zona Norte Flow"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Costa Rica – San Carlos & La Fortuna (Volcán Arenal & Trap Acústico)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante ACAM y el Registro Nacional?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Dirección de Derecho de Autor del Registro Nacional y afiliar tu tema a ACAM sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Costa Rica?",
+      "answer": "Puedes pagar instantáneamente en Colones (CRC ₡) o Dólares (USD $) a través de SINPE Móvil mediante tu número celular desde cualquier banco en Costa Rica (BAC Credomatic, Banco Nacional BNCR, Banco de Costa Rica BCR, Banco Popular), tarjetas de débito/crédito, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago (en segundos mediante SINPE Móvil o tarjeta), los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
 };
