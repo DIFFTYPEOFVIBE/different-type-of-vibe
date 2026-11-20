@@ -35248,4 +35248,216 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "uy": {
+  "slug": "uy",
+  "name": "Uruguay – Hub Nacional (RKT Rioplatense, Trap Charrúa, Prex & AGADU)",
+  "flag": "🇺🇾",
+  "currency": "UYU ($) / USD ($)",
+  "currencyCode": "UYU",
+  "gateways": "Prex (App / Tarjeta), Redpagos, Abitab, BROU, Santander Uruguay, Tarjetas, Apple Pay, PayPal",
+  "pro": "AGADU (Asociación General de Autores del Uruguay)",
+  "proFullName": "AGADU & DNDA (Dirección Nacional de Derecho de Autor)",
+  "proGuide": "100% legal ante AGADU y DNDA con contrato en PDF descargable.",
+  "headline": "Beats en Uruguay: RKT, Trap Charrúa, Candombe & Pago Seguro con Prex",
+  "description": "El catálogo líder de instrumentales urbanas para artistas de todo el Uruguay. Licencias comerciales en Pesos Uruguayos ($) y Dólares con entrega instantánea de WAV 24-bit y pistas separadas multitrack.",
+  "popularGenres": [
+    "RKT Rioplatense",
+    "Trap Charrúa",
+    "Candombe-Trap",
+    "Boom Bap Montevideano"
+  ],
+  "subClusters": [
+    {
+      "name": "Mesita RKT Vibe",
+      "slug": "../../vibe/mesita-una-foto-rkt-trap-cumbia",
+      "description": "RKT y cumbia-trap de alta energía inspirado en los éxitos de Mesita."
+    },
+    {
+      "name": "Pekeño 77 Street Vibe",
+      "slug": "../../vibe/pekeno-77-street-trap-uruguayo",
+      "description": "Trap callejero oscuro con 808s demoledores y actitud cruda."
+    },
+    {
+      "name": "Candombe-Trap Fusión",
+      "slug": "../../vibe/candombe-trap-barrio-sur-fusion",
+      "description": "Tambores afro-uruguayos de Barrio Sur y Palermo fusionados con trap moderno."
+    },
+    {
+      "name": "Pago con Prex y Redpagos",
+      "slug": "../../genre/comprar-beats-en-uruguay-prex-redpagos-abitab",
+      "description": "Compra sin fricción en Pesos Uruguayos con Prex, Abitab y Redpagos."
+    }
+  ]
+},
+  "uy/montevideo-centro-sur": {
+  "slug": "uy/montevideo-centro-sur",
+  "name": "Uruguay – Montevideo (Barrio Sur, Palermo & Estudios de la Capital)",
+  "flag": "🇺🇾",
+  "currency": "UYU ($) / USD ($)",
+  "currencyCode": "UYU",
+  "gateways": "Prex, Redpagos, Abitab, BROU, Tarjetas, Apple Pay, PayPal",
+  "pro": "AGADU & DNDA",
+  "proFullName": "AGADU",
+  "proGuide": "100% compatible con distribución en Spotify y YouTube.",
+  "headline": "Beats en Montevideo: Candombe-Trap de Barrio Sur, RKT & Trap Pesado",
+  "description": "El epicentro de la música urbana uruguaya: desde los tambores de las llamadas en Barrio Sur y Palermo hasta el trap callejero de los barrios periféricos y estudios céntricos.",
+  "popularGenres": [
+    "Montevideo Street Trap",
+    "Candombe Fusión",
+    "Capital Boom Bap"
+  ],
+  "subClusters": []
+},
+  "uy/punta-del-este-maldonado": {
+  "slug": "uy/punta-del-este-maldonado",
+  "name": "Uruguay – Punta del Este & Maldonado (Clubes Atlánticos & Trap de Lujo)",
+  "flag": "🇺🇾",
+  "currency": "UYU ($) / USD ($)",
+  "currencyCode": "UYU",
+  "gateways": "Prex, Redpagos, Abitab, Santander, Tarjetas, Apple Pay, PayPal",
+  "pro": "AGADU",
+  "proFullName": "AGADU",
+  "proGuide": "100% original con entrega de stems multitrack.",
+  "headline": "Beats en Punta del Este: Verano Atlántico, Club Banger & EDM-Trap",
+  "description": "La exclusividad de la costa atlántica internacional: sintetizadores brillantes, percusiones enérgicas de club y líneas de bajo envolventes para fiestas y residencias de verano.",
+  "popularGenres": [
+    "Punta del Este Club Beat",
+    "Atlantic Luxury Trap",
+    "Summer Dembow"
+  ],
+  "subClusters": []
+},
+  "uy/ciudad-de-la-costa-canelones": {
+  "slug": "uy/ciudad-de-la-costa-canelones",
+  "name": "Uruguay – Ciudad de la Costa & Canelones (Fuerza Joven & Street RKT)",
+  "flag": "🇺🇾",
+  "currency": "UYU ($) / USD ($)",
+  "currencyCode": "UYU",
+  "gateways": "Prex, Redpagos, Abitab, BROU, Tarjetas, Apple Pay, PayPal",
+  "pro": "AGADU",
+  "proFullName": "AGADU",
+  "proGuide": "100% libre de reclamos de derechos de autor.",
+  "headline": "Beats en Ciudad de la Costa: El Cinturón Urbano, RKT Pesado & 808s",
+  "description": "La vitalidad de la juventud canaria: baterías contundentes de trap moderno, ritmos sincopados de RKT y bajos que retumban en autos por la rambla costanera.",
+  "popularGenres": [
+    "Costa RKT",
+    "Canelones Street Trap",
+    "Rioplatense Flow"
+  ],
+  "subClusters": []
+},
+  "uy/salto-litoral-norte": {
+  "slug": "uy/salto-litoral-norte",
+  "name": "Uruguay – Salto (Litoral Norte, Río Uruguay & Cumbia-Trap)",
+  "flag": "🇺🇾",
+  "currency": "UYU ($) / USD ($)",
+  "currencyCode": "UYU",
+  "gateways": "Prex, Redpagos, Abitab, BROU, Tarjetas, Apple Pay, PayPal",
+  "pro": "AGADU",
+  "proFullName": "AGADU",
+  "proGuide": "100% garantizado con derechos comerciales de streaming.",
+  "headline": "Beats en Salto: Río Uruguay, Cumbia Cheta & Trap Fronterizo",
+  "description": "La influencia ribereña y festiva del litoral norte: acordes alegres de cumbia-trap, sintetizadores tropicales y caídas de 808 para fiestas populares y boliches.",
+  "popularGenres": [
+    "Salto Cumbia-Trap",
+    "Litoral Urban Beat",
+    "Río Uruguay Flow"
+  ],
+  "subClusters": []
+},
+  "uy/paysandu-heroica": {
+  "slug": "uy/paysandu-heroica",
+  "name": "Uruguay – Paysandú (La Ciudad Heroica & Rap Cosciente)",
+  "flag": "🇺🇾",
+  "currency": "UYU ($) / USD ($)",
+  "currencyCode": "UYU",
+  "gateways": "Prex, Redpagos, Abitab, BROU, Tarjetas, Apple Pay, PayPal",
+  "pro": "AGADU",
+  "proFullName": "AGADU",
+  "proGuide": "100% legal ante AGADU con contrato en PDF.",
+  "headline": "Beats en Paysandú: Ciudad Heroica, Pianos Acústicos & Boom Bap Lírico",
+  "description": "La cuna del liricismo y el compromiso del litoral: pianos nostálgicos, baterías con swing pausado y bajos redondos para el hip-hop con mensaje poético y social.",
+  "popularGenres": [
+    "Paysandú Lyrical Boom Bap",
+    "Heroica Conscious Rap",
+    "River Beat"
+  ],
+  "subClusters": []
+},
+  "uy/rivera-frontera-brasil": {
+  "slug": "uy/rivera-frontera-brasil",
+  "name": "Uruguay – Rivera (Frontera de la Paz & Portuñol Trap-Funk)",
+  "flag": "🇺🇾",
+  "currency": "UYU ($) / USD ($)",
+  "currencyCode": "UYU",
+  "gateways": "Prex, Redpagos, Abitab, BROU, Tarjetas, Apple Pay, PayPal",
+  "pro": "AGADU",
+  "proFullName": "AGADU",
+  "proGuide": "100% compatible con agregadoras digitales.",
+  "headline": "Beats en Rivera: Frontera con Livramento, Portuñol & Trap-Funk Banger",
+  "description": "La mágica fusión bilingüe de la frontera seca: cajas de funk brasileño, percusiones de trap latino y líneas de bajo envolventes para una sonoridad única del norte uruguayo.",
+  "popularGenres": [
+    "Rivera Trap-Funk",
+    "Portuñol Beat",
+    "Frontera 598/055"
+  ],
+  "subClusters": []
+},
+  "uy/colonia-del-sacramento": {
+  "slug": "uy/colonia-del-sacramento",
+  "name": "Uruguay – Colonia del Sacramento (Barrio Histórico & Guitarra Acústica)",
+  "flag": "🇺🇾",
+  "currency": "UYU ($) / USD ($)",
+  "currencyCode": "UYU",
+  "gateways": "Prex, Redpagos, Abitab, BROU, Tarjetas, Apple Pay, PayPal",
+  "pro": "AGADU",
+  "proFullName": "AGADU",
+  "proGuide": "100% original con entrega de stems.",
+  "headline": "Beats en Colonia: Calle de los Suspiros, Farol Antiguo & Lofi Rioplatense",
+  "description": "La magia colonial a orillas del Río de la Plata: arpegios clásicos de guitarra española, melodías cálidas de bandoneón y ritmos lofi relajantes para momentos de contemplación.",
+  "popularGenres": [
+    "Colonia Acoustic Lofi",
+    "Rioplatense Chillhop",
+    "Barrio Histórico Beat"
+  ],
+  "subClusters": []
+},
+  "uy/tacuarembo-pampa-gaucha": {
+  "slug": "uy/tacuarembo-pampa-gaucha",
+  "name": "Uruguay – Tacuarembó (Patria Gaucha & Milonga-Trap Tradicional)",
+  "flag": "🇺🇾",
+  "currency": "UYU ($) / USD ($)",
+  "currencyCode": "UYU",
+  "gateways": "Prex, Redpagos, Abitab, BROU, Tarjetas, Apple Pay, PayPal",
+  "pro": "AGADU",
+  "proFullName": "AGADU",
+  "proGuide": "Licencias comerciales ilimitadas.",
+  "headline": "Beats en Tacuarembó: Cuna de Gardel, Milonga Tradicional & 808s",
+  "description": "El corazón de la pampa y del folclore gaucho charrúa: rasgueos camperos de guitarra criolla, acordes tangueros y caídas de trap moderno para canciones con identidad profunda.",
+  "popularGenres": [
+    "Tacuarembó Milonga-Trap",
+    "Patria Gaucha Beat",
+    "Folclore Charrúa 808"
+  ],
+  "subClusters": []
+},
+  "uy/melo-cerro-largo": {
+  "slug": "uy/melo-cerro-largo",
+  "name": "Uruguay – Melo & Cerro Largo (Carnaval de la Frontera & Dembow)",
+  "flag": "🇺🇾",
+  "currency": "UYU ($) / USD ($)",
+  "currencyCode": "UYU",
+  "gateways": "Prex, Redpagos, Abitab, BROU, Tarjetas, Apple Pay, PayPal",
+  "pro": "AGADU",
+  "proFullName": "AGADU",
+  "proGuide": "100% original y listo para monetizar en Spotify.",
+  "headline": "Beats en Melo: Carnaval de Cerro Largo, Samba-Reggaetón & Furia",
+  "description": "El calor del carnaval más largo del interior uruguayo: repiques festivos, sintetizadores bailables y ritmos sincopados de RKT y dembow para prender la noche.",
+  "popularGenres": [
+    "Melo Carnaval Beat",
+    "Cerro Largo RKT",
+    "Eastern Frontier Urban"
+  ],
+  "subClusters": []
+},
 };

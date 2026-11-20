@@ -81210,4 +81210,1301 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "2"
   ]
 },
+  {
+  "slug": "mesita-una-foto-rkt-trap-cumbia",
+  "title": "Mesita Una Foto Remix RKT & Trap Cumbia Rioplatense Beat",
+  "description": "Instrumental bailable y explosiva de RKT y cumbia-trap inspirada en Mesita (Una Foto Remix, Dale Mecha), con sintetizadores picados de cumbia, dembow sincopado a 100 BPM y bajos 808 rebotantes.",
+  "targetKeywords": [
+    "mesita type beat",
+    "rkt uruguayo beat",
+    "una foto remix instrumental",
+    "cumbia trap rioplatense beat",
+    "bases de rkt mesita"
+  ],
+  "heroCta": "Comprar Beat Mesita RKT (Pago con Prex $)",
+  "energyLevel": "Very High",
+  "primaryUse": "RKT Banger, Fiesta Nocturna y Hit Viral de TikTok",
+  "similarArtists": [
+    "Mesita",
+    "Nicki Nicole",
+    "Tiago PZK",
+    "L-Gante"
+  ],
+  "recommendedBpm": "98-104 BPM",
+  "productionTips": "Sintetizadores con pitch bend agresivo en semicorcheas y un bajo 808 corto que rebota al compás del dembow.",
+  "idealVocalStyle": "Voz melódica con autotune bailable, rimas pícaras y ganchos de fiesta multitudinarios.",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "Insuperable para la rotazione nei boliches e le playlist di RKT & Turreo su Spotify."
+},
+  {
+  "slug": "pekeno-77-street-trap-uruguayo",
+  "title": "Pekeño 77 Rangos Street Trap Uruguayo & 808s Oscuros Beat",
+  "description": "Beat oscuro, frío y pesado de trap callejero inspirado en el pionero uruguayo Pekeño 77 (Rangos II, Pistola), con campanas tétricas de iglesia, baterías agresivas y bajos 808 demoledores.",
+  "targetKeywords": [
+    "pekeno 77 type beat",
+    "trap uruguayo pesado",
+    "bases de trap pekeno 77 rangos",
+    "beats oscuros montevideo 598",
+    "street trap charrua 808"
+  ],
+  "heroCta": "Comprar Beat Pekeño 77 (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Trap Callejero, Banger de Barrio y Video Musical",
+  "similarArtists": [
+    "Pekeño 77",
+    "Duki",
+    "C.R.O",
+    "Zaramay"
+  ],
+  "recommendedBpm": "134-140 BPM",
+  "productionTips": "Deslizamientos de pitch en el sub-808 con saturación armónica en 120Hz para presencia en cualquier parlante.",
+  "idealVocalStyle": "Voz grave y amenazante, delivery pausado y barras crudas sobre la realidad urbana.",
+  "suggestedKey": "C# Minor",
+  "streamingSuitability": "Insuperable para listas de Trap Latino Pesado y Car Audio en el Río de la Plata."
+},
+  {
+  "slug": "agus-padilla-pop-urbano-reggaeton",
+  "title": "Agus Padilla Pop Urbano & Reggaetón Comercial Rioplatense Beat",
+  "description": "Base contagiosa y comercial de pop urbano y reggaetón femenino inspirada en Agus Padilla, con sintetizadores brillantes, percusión dembow limpia y melodías de radio.",
+  "targetKeywords": [
+    "agus padilla type beat",
+    "pop urbano uruguayo",
+    "reggaeton femenino rioplatense",
+    "bases de pop latino montevideo",
+    "beats comerciales agus padilla"
+  ],
+  "heroCta": "Comprar Beat Pop Urbano (Licencia Comercial)",
+  "energyLevel": "High",
+  "primaryUse": "Pop Urbano Comercial, Radio Hit y Reggaetón Bailable",
+  "similarArtists": [
+    "Agus Padilla",
+    "Emilia",
+    "Maria Becerra",
+    "Tini"
+  ],
+  "recommendedBpm": "94-98 BPM",
+  "productionTips": "Mantén la percusión dembow nítida y al frente con un toque de sidechain sobre los acordes del sintetizador.",
+  "idealVocalStyle": "Voz limpia, armonías femeninas pulidas y estribillos pegajosos para cantar en vivo.",
+  "suggestedKey": "E Major",
+  "streamingSuitability": "El sonido por excelencia para radio fórmulas y listas de Pop Urbano de Sudamérica."
+},
+  {
+  "slug": "zeballos-conscious-rap-boom-bap-uy",
+  "title": "Zeballos Conscious Rap & Liricismo Montevideano Boom Bap Beat",
+  "description": "Instrumental refinada y poética de hip-hop con alma de jazz inspirada en Zeballos (Asfalto, Melancolía), con pianos acústicos tristes, trompetas melancólicas y batería MPC seca a 90 BPM.",
+  "targetKeywords": [
+    "zeballos type beat",
+    "rap consciente uruguayo",
+    "boom bap montevideo zeballos",
+    "bases de rap lirico uruguay",
+    "beats estilo zeballos"
+  ],
+  "heroCta": "Comprar Beat Zeballos (WAV + Stems)",
+  "energyLevel": "Medium",
+  "primaryUse": "Rap Consciente, Storytelling y Hip-Hop Poético",
+  "similarArtists": [
+    "Zeballos",
+    "Dost",
+    "Acru",
+    "Wos"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "productionTips": "Sampleo cálido de vinilo con degradación armónica analógica y caja sin reverb para impacto seco.",
+  "idealVocalStyle": "Voz madura, métricas avanzadas y contenido con profundidad reflexiva y social.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Ideal para posicionar en 'Rap en Español' y comunidades de hip-hop underground."
+},
+  {
+  "slug": "candombe-trap-barrio-sur-fusion",
+  "title": "Candombe-Trap Barrio Sur & Tambores de las Llamadas Fusión Beat",
+  "description": "Fusión legendaria y auténtica del ritmo patrio afro-uruguayo: repiques de tambor chico, repique y piano grabados en Isla de Flores (Barrio Sur) sobre bajos 808 demoledores.",
+  "targetKeywords": [
+    "candombe trap beat",
+    "tambores de candombe rap instrumental",
+    "fusion candombe hip hop uruguayo",
+    "barrio sur candombe beat",
+    "musica tipica uruguaya trap"
+  ],
+  "heroCta": "Comprar Beat Candombe-Trap (Stems Multitrack)",
+  "energyLevel": "Very High",
+  "primaryUse": "Trap Folclórico, Identidad Uruguaya y Fusión Étnica",
+  "similarArtists": [
+    "Ruben Rada Trap Collab",
+    "Mesita",
+    "Pekeño 77",
+    "Zeballos"
+  ],
+  "recommendedBpm": "108-116 BPM",
+  "productionTips": "Madera de tambor de candombe en primer plano paneada en estéreo con caídas de 808 en el compás 1.",
+  "idealVocalStyle": "Desde versos de trap callejero con slang uruguayo hasta cantos corales de candombe.",
+  "suggestedKey": "G Minor",
+  "streamingSuitability": "Inmejorable para comerciales turísticos de Uruguay, eventos del Carnaval y virales en TikTok."
+},
+  {
+  "slug": "milonga-tango-trap-rioplatense",
+  "title": "Milonga Tango-Trap Rioplatense & Bandoneón 808 Beat",
+  "description": "Poderosa fusión entre el tango y la milonga del Río de la Plata y el trap contemporáneo: acordes dramáticos de bandoneón, guitarras criollas de milonga campera y baterías 808 pesadas.",
+  "targetKeywords": [
+    "milonga trap beat",
+    "tango rap instrumental uruguay",
+    "bandoneon trap rioplatense beat",
+    "milonga campera 808 beat",
+    "tango urbano montevideo"
+  ],
+  "heroCta": "Comprar Beat Milonga-Trap (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Tango-Trap, Canción Conceptual y Videoclips de Élite",
+  "similarArtists": [
+    "Bajofondo Trap Remix",
+    "Ysy A",
+    "Duki",
+    "Astor Piazzolla Beat"
+  ],
+  "recommendedBpm": "124-130 BPM",
+  "productionTips": "Bandoneón acústico con corte de medios agresivo para no chocar con el rango vocal del rapero.",
+  "idealVocalStyle": "Voz raspada tanguera, flow sincopado con jerga lunfarda o canto melódico de arrabal.",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "Ideal para sincronización en series, videos de alta estética y listas de Tango Urbano."
+},
+  {
+  "slug": "punta-del-este-beach-club-trap",
+  "title": "Punta del Este Beach Club EDM-Trap & Luxury Pads Beat",
+  "description": "Vibras glamorosas y sofisticadas de la temporada de Punta del Este: sintetizadores analógicos luminosos, percusión elegante de club y caídas de trap de festival para fiestas de playa.",
+  "targetKeywords": [
+    "punta del este club trap beat",
+    "luxury trap uruguay",
+    "edm trap punta del este",
+    "beats de fiesta esteña",
+    "summer beach trap montevideo"
+  ],
+  "heroCta": "Comprar Beat Punta del Este (Licencia Comercial)",
+  "energyLevel": "Very High",
+  "primaryUse": "Club Banger, Fiesta Exclusiva y Música de Verano",
+  "similarArtists": [
+    "Bizarrap",
+    "Tiago PZK",
+    "Mesita",
+    "David Guetta Trap Remix"
+  ],
+  "recommendedBpm": "128-134 BPM",
+  "productionTips": "Pads abiertos con sidechain profundo y baterías electro-trap con transitorios afilados.",
+  "idealVocalStyle": "Autotune limpio, estribillos enérgicos en spanglish o español y actitud de fiesta.",
+  "suggestedKey": "F Major",
+  "streamingSuitability": "Insuperable para ambientar boliches de moda, eventos de marca y videos de alta gama."
+},
+  {
+  "slug": "rkt-turreo-uruguayo-100-bpm",
+  "title": "RKT Turreo Uruguayo & Cumbia Villera 100 BPM Banger Beat",
+  "description": "Instrumental implacable de RKT y turreo rioplatense a 100 BPM con percusiones dembow cortantes, sintetizadores desafinados festivos y bajos sub que revientan autos y parlantes portátiles.",
+  "targetKeywords": [
+    "rkt turreo uruguayo beat",
+    "rkt 100 bpm instrumental",
+    "bases de turreo uruguay",
+    "cumbia rkt banger 598",
+    "beats de boliche montevideo"
+  ],
+  "heroCta": "Comprar Beat RKT 100 BPM (Descarga WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "RKT Callejero, Boliches y Bailes de TikTok",
+  "similarArtists": [
+    "Mesita",
+    "Callejero Fino",
+    "Kaleb Di Masi",
+    "L-Gante"
+  ],
+  "recommendedBpm": "100 BPM",
+  "productionTips": "Caja de dembow procesada con saturación cortante y silencios milimétricos en el compás 4.",
+  "idealVocalStyle": "Voz jocosa y rápida, rimas sobre la noche de fiesta y llamados constantes al baile.",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "Viral por naturaleza para coreografías en TikTok, Instagram Reels y boliches."
+},
+  {
+  "slug": "rambla-montevideo-sunset-lofi-mate",
+  "title": "Rambla de Montevideo Sunset Lofi & Sesión de Mate Chillhop Beat",
+  "description": "Texturas nostálgicas inspiradas en los atardeceres frente al Río de la Plata en la Rambla de Montevideo: guitarras acústicas nobles, notas cálidas de piano Rhodes y sonido de agua y gaviotas.",
+  "targetKeywords": [
+    "rambla montevideo lofi beat",
+    "chillhop uruguayo mate",
+    "beats de relajacion montevideo",
+    "instrumental nostalgico charrua",
+    "lofi rioplatense 598"
+  ],
+  "heroCta": "Comprar Beat Rambla Lofi (Uso Ilimitado)",
+  "energyLevel": "Low",
+  "primaryUse": "Lofi Hip-Hop, Rap Melancólico, Estudio y Vlogs de Viaje",
+  "similarArtists": [
+    "Monte",
+    "Tomppabeats",
+    "Nujabes",
+    "Zeballos"
+  ],
+  "recommendedBpm": "78-84 BPM",
+  "productionTips": "Sonido ambiental de olas de río y murmullo de gente bajo un piano procesado con cinta analógica.",
+  "idealVocalStyle": "Spoken word, rimas íntimas de noche o escucha puramente instrumental.",
+  "suggestedKey": "C Major",
+  "streamingSuitability": "Perfecto para playlists de estudio, concentración, cafés de Pocitos y videos de turismo."
+},
+  {
+  "slug": "rivera-portunol-funk-trap-frontera",
+  "title": "Rivera Portuñol Funk-Trap & Frontera de la Paz Beat",
+  "description": "Fusión bilingüe única que mezcla las cajas del funk brasileño de Livramento con el trap pesado y RKT uruguayo de Rivera, creando un sonido fronterizo contagioso.",
+  "targetKeywords": [
+    "rivera portunol trap funk beat",
+    "funk trap uruguay brasil",
+    "frontera de la paz beat 598",
+    "bases de funk rap rivera",
+    "trap bilingue portunol"
+  ],
+  "heroCta": "Comprar Beat Portuñol (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Trap-Funk, Boliche de Frontera y Banger Bilingüe",
+  "similarArtists": [
+    "Pekeño 77",
+    "Mesita",
+    "MC Poze",
+    "Veigh"
+  ],
+  "recommendedBpm": "128-132 BPM",
+  "productionTips": "Cajas de funk carioca sincopadas combinadas con un sub-808 afinado en notas graves.",
+  "idealVocalStyle": "Rapeo en portuñol, rimas callejeras rápidas y actitud relajada de frontera.",
+  "suggestedKey": "G Minor",
+  "streamingSuitability": "Insuperable para conquistar las pistas de baile del norte de Uruguay y sur de Brasil."
+},
+  {
+  "slug": "plaza-bomberos-freestyle-cypher-uy",
+  "title": "Plaza de los Bomberos Freestyle Cypher & Batalla de Gallos UY Beat",
+  "description": "Pista de alta tensión y ataque percusivo diseñada para las batallas de freestyle de la Plaza de los Bomberos y El Prado en Montevideo, con cajas afiladas y pausas en el compás 4.",
+  "targetKeywords": [
+    "plaza bomberos freestyle beat",
+    "batalla de gallos uruguay beat",
+    "freestyle montevideo instrumental",
+    "pistas de rap batalla charrua"
+  ],
+  "heroCta": "Comprar Beat Batalla UY (Sin Tags)",
+  "energyLevel": "High",
+  "primaryUse": "Batallas de Freestyle, Cyphers Callejeros y Torneos de Rap",
+  "similarArtists": [
+    "Franco",
+    "Hammer",
+    "Wos",
+    "Zeballos"
+  ],
+  "recommendedBpm": "92-96 BPM",
+  "productionTips": "Deja un silencio seco en el tiempo 4 antes de la caja final de cada 4 compases para rematar los punchlines.",
+  "idealVocalStyle": "Punchlines afilados, rimas rápidas al momento y actitud desafiante de competencia.",
+  "suggestedKey": "E Minor",
+  "streamingSuitability": "Indispensable para ligas de plaza, torneos de freestyle en el Río de la Plata y YouTube."
+},
+  {
+  "slug": "car-audio-montevideo-subwoofer-bass",
+  "title": "Car Audio Montevideo Rambla 598 Ultra Subwoofer Bass Beat",
+  "description": "Beat ultra pesado diseñado para competir en exhibiciones de Car Audio y autos modificados en la Rambla de Montevideo y Ciudad de la Costa, con sub-graves afinados a 32 Hz.",
+  "targetKeywords": [
+    "car audio montevideo beat",
+    "sub bass 598 car audio",
+    "bases para car audio uruguay",
+    "beats de bajo pesado charrua",
+    "musica para bafles uruguay"
+  ],
+  "heroCta": "Comprar Beat Car Audio 598 (WAV Masterizado)",
+  "energyLevel": "Very High",
+  "primaryUse": "Competiciones de Car Audio, Banger Urbano y Caravanas Callejeras",
+  "similarArtists": [
+    "Pekeño 77",
+    "Mesita",
+    "Danger Man",
+    "Crypy"
+  ],
+  "recommendedBpm": "138-142 BPM",
+  "productionTips": "Onda sinusoidal pura calibrada a 35Hz con refuerzo armónico en 70Hz y 140Hz para máxima presión acústica.",
+  "idealVocalStyle": "Rapeo retador, frases enérgicas y coros repetitivos para gritar en autos.",
+  "suggestedKey": "F Minor",
+  "streamingSuitability": "El favorito absoluto para caravanas nocturnas, autos modificados y eventos urbanos de motor."
+},
+  {
+  "slug": "comprar-beats-en-uruguay-prex-redpagos-abitab",
+  "title": "Comprar Beats en Uruguay con Prex, Redpagos, Abitab & BROU",
+  "description": "Adquiere instrumentales urbanas profesionales en Uruguay con pago directo en Pesos ($) o Dólares vía Prex, Redpagos, Abitab o transferencia bancaria BROU con descarga inmediata de archivos WAV.",
+  "targetKeywords": [
+    "comprar beats en uruguay prex redpagos",
+    "bases de rap pago abitab pesos uruguayos",
+    "comprar pistas brou uruguay",
+    "beats charruas compra segura"
+  ],
+  "heroCta": "Comprar Beats con Prex (Desde $25 USD / $1,000 UYU)",
+  "energyLevel": "Variable",
+  "primaryUse": "Compra Segura Nacional, Pago Fácil en Pesos y Licencia Comercial",
+  "similarArtists": [
+    "Comunidad Urbana 598",
+    "Artistas Independientes Uruguayos"
+  ],
+  "recommendedBpm": "Cualquier Tempo",
+  "productionTips": "Confirmación instantánea en pantalla y por correo electrónico con enlace de descarga permanente.",
+  "idealVocalStyle": "Todo tipo de géneros urbanos, RKT y trap en Uruguay.",
+  "suggestedKey": "All Keys",
+  "streamingSuitability": "Licencia comercial formal con 100% de regalías para el artista."
+},
+  {
+  "slug": "bases-de-trap-uruguayo-con-bajos-808-wav",
+  "title": "Bases de Trap Uruguayo con Bajos 808 Slidings & Dark Melody",
+  "description": "Colección de pistas de trap charrúa de alto calibre con deslizamientos de bajo 808, campanas gélidas y percusión contundente para romper la escena urbana uruguaya.",
+  "targetKeywords": [
+    "bases de trap uruguayo con 808",
+    "trap montevideo 808 sliding",
+    "beats de trap pekeno 77 style",
+    "instrumentales trap uruguay para grabar"
+  ],
+  "heroCta": "Comprar Trap Charrúa (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Trap Callejero, Banger de Barrio y Sencillos de Alto Impacto",
+  "similarArtists": [
+    "Pekeño 77",
+    "Mesita",
+    "Duki",
+    "C.R.O"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "productionTips": "Sub-bajos 808 afinados al tono exacto de la tónica con saturación de armónicos pares.",
+  "idealVocalStyle": "Flow agresivo, rimas rápidas o melodías melancólicas con autotune.",
+  "suggestedKey": "D# Minor",
+  "streamingSuitability": "Diseñado para reventar boliches y playlists de Trap Rioplatense."
+},
+  {
+  "slug": "pistas-de-rkt-y-turreo-uruguayo-para-grabar",
+  "title": "Pistas de RKT y Turreo Uruguayo a 100 BPM para Grabar en WAV",
+  "description": "Instrumentales bailables de RKT y turreo a 100 BPM inspiradas en el suceso internacional de Mesita, con baterías de cumbia-dembow aceleradas y sintetizadores pegajosos con stems multitrack.",
+  "targetKeywords": [
+    "pistas de rkt uruguayo para grabar",
+    "bases de turreo 100 bpm wav",
+    "rkt uruguay instrumental stems",
+    "beats de cumbia rkt montevideo"
+  ],
+  "heroCta": "Comprar RKT Beat (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "RKT Callejero, Boliches y Canción Viral",
+  "similarArtists": [
+    "Mesita",
+    "Callejero Fino",
+    "L-Gante",
+    "Kaleb Di Masi"
+  ],
+  "recommendedBpm": "100 BPM",
+  "productionTips": "Stems multitrack organizados por carpetas con percusiones dembow separadas para mezcla personalizada.",
+  "idealVocalStyle": "Rapeo sincopado con slang rioplatense o canto festivo bailable.",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "Perfecto para fiestas, conciertos en vivo y plataformas de streaming."
+},
+  {
+  "slug": "bases-de-candombe-trap-con-tambores-stems",
+  "title": "Bases de Candombe-Trap con Tambores Reales de las Llamadas & Stems",
+  "description": "Instrumentales exclusivas que fusionan el candombe afro-uruguayo con el trap moderno, grabadas con tambores chico, repique y piano en alta definición WAV con pistas separadas.",
+  "targetKeywords": [
+    "bases candombe trap stems",
+    "tambores de candombe uruguay beat",
+    "candombe hip hop montevideo wav",
+    "pistas de candombe fusion trap"
+  ],
+  "heroCta": "Comprar Candombe-Trap (Con Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Fusión Folclórica, Carnaval y Proyectos Discográficos de Élite",
+  "similarArtists": [
+    "Ruben Rada Fusión",
+    "Mesita",
+    "Zeballos",
+    "Pekeño 77"
+  ],
+  "recommendedBpm": "108-116 BPM",
+  "productionTips": "Cada tambor garífuna/candombero mantiene su transitorio original sin compresión destructiva.",
+  "idealVocalStyle": "Rapeo potente o canto melódico con identidad charrúa y rioplatense.",
+  "suggestedKey": "G Minor",
+  "streamingSuitability": "Insuperable para comerciales turísticos de Uruguay, Carnaval y listas de música latina."
+},
+  {
+  "slug": "combo-de-beats-2x1-uruguay-pesos-dolares",
+  "title": "Combo 2x1 y 3x1 de Beats en Uruguay (Oferta en Pesos $ / Dólares)",
+  "description": "Aprovecha el combo promocional de instrumentales para la producción de tu EP o mixtape en Uruguay. Paga 1 y lleva 2 licencias comerciales completas con pago fácil por Prex o Abitab.",
+  "targetKeywords": [
+    "combo de beats 2x1 uruguay",
+    "oferta beats pesos uruguayos 598",
+    "paquete de bases para mixtape montevideo",
+    "descuento beats prex uruguay"
+  ],
+  "heroCta": "Aprovechar Combo 2x1 (Pago con Prex)",
+  "energyLevel": "Variable",
+  "primaryUse": "Lanzamiento de Proyectos Completos, EPs y Discos",
+  "similarArtists": [
+    "Comunidad Urbana 598",
+    "Zeballos",
+    "Mesita"
+  ],
+  "recommendedBpm": "90-140 BPM",
+  "productionTips": "Mezclas calibradas uniformemente para dar continuidad sonora al proyecto.",
+  "idealVocalStyle": "Versatilidad de estilos dentro de la propuesta musical del artista.",
+  "suggestedKey": "Various Keys",
+  "streamingSuitability": "Licencias comerciales extendidas con derechos de distribución mundial."
+},
+  {
+  "slug": "instrumentales-de-boom-bap-montevideo-90-bpm",
+  "title": "Instrumentales de Boom Bap Montevideo Clásico a 90 BPM en WAV",
+  "description": "Bases de hip-hop clásico con atmósfera de Montevideo, pianos melancólicos, muestras de vinilo y golpes secos de MPC a 90 BPM para liricistas y raperos conscientes.",
+  "targetKeywords": [
+    "instrumentales boom bap montevideo 90 bpm",
+    "bases de rap clasico uruguayo",
+    "beats de hip hop underground uruguay wav",
+    "descargar rap charrua 90 bpm"
+  ],
+  "heroCta": "Descargar Base Boom Bap (WAV 24-bit)",
+  "energyLevel": "Medium",
+  "primaryUse": "Rap Consciente, Liricismo Puro y Álbumes Conceptuales",
+  "similarArtists": [
+    "Zeballos",
+    "Dost",
+    "Acru",
+    "Pescozada"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "productionTips": "Cajas procesadas con emulación de cinta analógica para lograr pegada seca e inmediata.",
+  "idealVocalStyle": "Rapeo métrico, juego de palabras y mensaje reflexivo sobre la realidad social.",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "Ideal para la comunidad devota de hip-hop latinoamericano en streaming."
+},
+  {
+  "slug": "beats-de-trap-uruguayo-untagged-sin-marcas",
+  "title": "Beats de Trap Uruguayo Untagged (Sin Marcas Vocales en WAV)",
+  "description": "Instrumentales exclusivas de trap pesado uruguayo entregadas totalmente libres de marcas de voz o tags de productor para grabación limpia en estudios de Montevideo.",
+  "targetKeywords": [
+    "beats trap uruguayo untagged",
+    "trap uruguay sin marcas de voz",
+    "bases de trap charrua wav",
+    "pistas de trap uruguay sin tags"
+  ],
+  "heroCta": "Comprar Trap Beat (Sin Tags Vocales)",
+  "energyLevel": "High",
+  "primaryUse": "Producción Discográfica, Videos Oficiales y Sencillos de Barrio",
+  "similarArtists": [
+    "Pekeño 77",
+    "Mesita",
+    "Duki"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "productionTips": "Cada mazazo de bombo y bajo mantiene el impacto sin interferencia de audios promocionales.",
+  "idealVocalStyle": "Rapeo potente o melodías oscuras con autotune.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "100% libre de reclamos de Content ID en YouTube y redes sociales."
+},
+  {
+  "slug": "licencia-comercial-de-beats-agadu-uruguay",
+  "title": "Licencia Comercial de Beats Válida para Registro AGADU Uruguay",
+  "description": "Contrato legal en formato PDF con validez oficial ante la Asociación General de Autores del Uruguay (AGADU) y la DNDA para distribución en plataformas digitales.",
+  "targetKeywords": [
+    "licencia comercial beats agadu uruguay",
+    "registro de canciones agadu uruguay contrato",
+    "derechos de autor beats uruguayos",
+    "comprar licencia legal de beats 598"
+  ],
+  "heroCta": "Ver Modelos de Licencia AGADU (PDF Incluido)",
+  "energyLevel": "N/A",
+  "primaryUse": "Registro Legal de Canciones, Cobro de Regalías y Agregadoras",
+  "similarArtists": [
+    "Onzieb",
+    "Artistas Registrados en AGADU"
+  ],
+  "recommendedBpm": "Cualquier Tempo",
+  "productionTips": "Incluye contrato formal en español e inglés firmado con términos claros de monetización.",
+  "idealVocalStyle": "Todo tipo de composiciones originales registrables.",
+  "suggestedKey": "All Keys",
+  "streamingSuitability": "100% de regalías editoriales para el compositor de la letra y melodía vocal."
+},
+  {
+  "slug": "produccion-de-beats-exclusivos-uruguay-onzieb",
+  "title": "Producción de Beats Exclusivos en Uruguay con Productor Onzieb",
+  "description": "Servicio de producción musical personalizada 1 a 1 directamente con Onzieb. Composición a la medida para tu registro vocal, sesión de mezcla remota y entrega de stems exclusivos.",
+  "targetKeywords": [
+    "produccion de beats exclusivos uruguay",
+    "productor musical uruguay onzieb",
+    "comprar exclusivas rap trap 598",
+    "bases a la medida montevideo punta del este"
+  ],
+  "heroCta": "Solicitar Beat Exclusivo (Contacto Directo)",
+  "energyLevel": "Custom",
+  "primaryUse": "Álbum Debut, Firma con Disquera y Exclusividad Comercial Absoluta",
+  "similarArtists": [
+    "Onzieb",
+    "Mesita",
+    "Pekeño 77",
+    "Zeballos"
+  ],
+  "recommendedBpm": "Diseñado a tu medida",
+  "productionTips": "Desarrollo completo desde la concepción del acorde hasta el máster final de la pista.",
+  "idealVocalStyle": "Ajustado milimétricamente al timbre y rango vocal del artista.",
+  "suggestedKey": "Personalizada",
+  "streamingSuitability": "Retiro perpetuo de la tienda; ningún otro artista podrá usar esta composición jamás."
+},
+  {
+  "slug": "descargar-paquete-3-beats-gratis-uruguay-mp3",
+  "title": "Descargar Paquete de 3 Beats Gratis en Uruguay (MP3 320 kbps)",
+  "description": "Descarga de cortesía sin costo de 3 instrumentales completas (trap charrúa, RKT rioplatense y boom bap montevideano) en alta calidad MP3 para maquetar tus canciones antes de adquirir la licencia WAV.",
+  "targetKeywords": [
+    "descargar beats gratis uruguay",
+    "bases de rap gratis uruguay mp3",
+    "pistas de rkt trap gratis 598",
+    "beats gratis uruguay para maquetas"
+  ],
+  "heroCta": "Descargar 3 Beats Gratis (Acceso Instantáneo)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Grabación de Maquetas en Casa, Práctica de Rimas y Escritura",
+  "similarArtists": [
+    "Comunidad Urbana 598",
+    "Nuevos Talentos de Uruguay"
+  ],
+  "recommendedBpm": "90, 100, 134 BPM",
+  "productionTips": "Incluye tag vocal breve de cortesía; se remueve automáticamente al adquirir la licencia comercial.",
+  "idealVocalStyle": "Ideal para probar tonos, métricas y estructuras líricas.",
+  "suggestedKey": "Various",
+  "streamingSuitability": "Uso no comercial permitido en demos de YouTube y SoundCloud para darte a conocer."
+},
+  {
+  "slug": "montevideo-trap-uruguayo-pesado",
+  "name": "Montevideo Trap Uruguayo Pesado Beats",
+  "category": "scene",
+  "badge": "Montevideo Trap Charrúa",
+  "headline": "Montevideo (Capital Charrúa) Trap Uruguayo Pesado Beats: Pistas WAV & Pago Prex en Pesos",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de Montevideo.",
+  "targetArtists": [
+    "Artistas de Montevideo",
+    "Comunidad Urbana 598",
+    "Movimiento Hip-Hop Uruguay"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Montevideo",
+    "Trap Charrúa",
+    "Prex & Abitab $",
+    "Avalado AGADU"
+  ],
+  "popularGenres": [
+    "Trap Uruguayo Pesado Beats",
+    "Trap Charrúa",
+    "RKT 598"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "montevideo-rkt-turreo-rioplatense",
+  "name": "Montevideo RKT Turreo Rioplatense",
+  "category": "scene",
+  "badge": "Montevideo RKT 598",
+  "headline": "Montevideo (Capital Charrúa) RKT Turreo Rioplatense: Pistas WAV & Pago Prex en Pesos",
+  "description": "Percusión dembow acelerada a 100 BPM, sintetizadores desafinados y ritmo bailable de boliche para Montevideo.",
+  "targetArtists": [
+    "Artistas de Montevideo",
+    "Comunidad Urbana 598",
+    "Movimiento Hip-Hop Uruguay"
+  ],
+  "recommendedBpm": "100 BPM",
+  "recommendedKey": "A-Minor / G-Minor",
+  "vibeAttributes": [
+    "Montevideo",
+    "RKT 598",
+    "Prex & Abitab $",
+    "Avalado AGADU"
+  ],
+  "popularGenres": [
+    "RKT Turreo Rioplatense",
+    "Trap Charrúa",
+    "RKT 598"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "montevideo-boom-bap-uruguayo",
+  "name": "Montevideo Boom Bap Clásico Uruguayo",
+  "category": "scene",
+  "badge": "Montevideo Boom Bap Charrúa",
+  "headline": "Montevideo (Capital Charrúa) Boom Bap Clásico Uruguayo: Pistas WAV & Pago Prex en Pesos",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de Montevideo.",
+  "targetArtists": [
+    "Artistas de Montevideo",
+    "Comunidad Urbana 598",
+    "Movimiento Hip-Hop Uruguay"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Montevideo",
+    "Boom Bap Charrúa",
+    "Prex & Abitab $",
+    "Avalado AGADU"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Uruguayo",
+    "Trap Charrúa",
+    "RKT 598"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "montevideo-melodic-rnb-trap-uy",
+  "name": "Montevideo Melodic R&B Trap Uruguayo",
+  "category": "scene",
+  "badge": "Montevideo R&B Rioplatense",
+  "headline": "Montevideo (Capital Charrúa) Melodic R&B Trap Uruguayo: Pistas WAV & Pago Prex en Pesos",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de Montevideo.",
+  "targetArtists": [
+    "Artistas de Montevideo",
+    "Comunidad Urbana 598",
+    "Movimiento Hip-Hop Uruguay"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "Montevideo",
+    "R&B Rioplatense",
+    "Prex & Abitab $",
+    "Avalado AGADU"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap Uruguayo",
+    "Trap Charrúa",
+    "RKT 598"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "punta-del-este-trap-uruguayo-pesado",
+  "name": "Punta del Este Trap Uruguayo Pesado Beats",
+  "category": "scene",
+  "badge": "Punta del Este Trap Charrúa",
+  "headline": "Punta del Este (Maldonado Atlántico) Trap Uruguayo Pesado Beats: Pistas WAV & Pago Prex en Pesos",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de Punta del Este.",
+  "targetArtists": [
+    "Artistas de Punta del Este",
+    "Comunidad Urbana 598",
+    "Movimiento Hip-Hop Uruguay"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Punta del Este",
+    "Trap Charrúa",
+    "Prex & Abitab $",
+    "Avalado AGADU"
+  ],
+  "popularGenres": [
+    "Trap Uruguayo Pesado Beats",
+    "Trap Charrúa",
+    "RKT 598"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "punta-del-este-rkt-turreo-rioplatense",
+  "name": "Punta del Este RKT Turreo Rioplatense",
+  "category": "scene",
+  "badge": "Punta del Este RKT 598",
+  "headline": "Punta del Este (Maldonado Atlántico) RKT Turreo Rioplatense: Pistas WAV & Pago Prex en Pesos",
+  "description": "Percusión dembow acelerada a 100 BPM, sintetizadores desafinados y ritmo bailable de boliche para Punta del Este.",
+  "targetArtists": [
+    "Artistas de Punta del Este",
+    "Comunidad Urbana 598",
+    "Movimiento Hip-Hop Uruguay"
+  ],
+  "recommendedBpm": "100 BPM",
+  "recommendedKey": "A-Minor / G-Minor",
+  "vibeAttributes": [
+    "Punta del Este",
+    "RKT 598",
+    "Prex & Abitab $",
+    "Avalado AGADU"
+  ],
+  "popularGenres": [
+    "RKT Turreo Rioplatense",
+    "Trap Charrúa",
+    "RKT 598"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "punta-del-este-boom-bap-uruguayo",
+  "name": "Punta del Este Boom Bap Clásico Uruguayo",
+  "category": "scene",
+  "badge": "Punta del Este Boom Bap Charrúa",
+  "headline": "Punta del Este (Maldonado Atlántico) Boom Bap Clásico Uruguayo: Pistas WAV & Pago Prex en Pesos",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de Punta del Este.",
+  "targetArtists": [
+    "Artistas de Punta del Este",
+    "Comunidad Urbana 598",
+    "Movimiento Hip-Hop Uruguay"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Punta del Este",
+    "Boom Bap Charrúa",
+    "Prex & Abitab $",
+    "Avalado AGADU"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Uruguayo",
+    "Trap Charrúa",
+    "RKT 598"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "punta-del-este-melodic-rnb-trap-uy",
+  "name": "Punta del Este Melodic R&B Trap Uruguayo",
+  "category": "scene",
+  "badge": "Punta del Este R&B Rioplatense",
+  "headline": "Punta del Este (Maldonado Atlántico) Melodic R&B Trap Uruguayo: Pistas WAV & Pago Prex en Pesos",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de Punta del Este.",
+  "targetArtists": [
+    "Artistas de Punta del Este",
+    "Comunidad Urbana 598",
+    "Movimiento Hip-Hop Uruguay"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "Punta del Este",
+    "R&B Rioplatense",
+    "Prex & Abitab $",
+    "Avalado AGADU"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap Uruguayo",
+    "Trap Charrúa",
+    "RKT 598"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "ciudad-de-la-costa-trap-uruguayo-pesado",
+  "name": "Ciudad de la Costa Trap Uruguayo Pesado Beats",
+  "category": "scene",
+  "badge": "Ciudad de la Costa Trap Charrúa",
+  "headline": "Ciudad de la Costa (Canelones Sur) Trap Uruguayo Pesado Beats: Pistas WAV & Pago Prex en Pesos",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de Ciudad de la Costa.",
+  "targetArtists": [
+    "Artistas de Ciudad de la Costa",
+    "Comunidad Urbana 598",
+    "Movimiento Hip-Hop Uruguay"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Ciudad de la Costa",
+    "Trap Charrúa",
+    "Prex & Abitab $",
+    "Avalado AGADU"
+  ],
+  "popularGenres": [
+    "Trap Uruguayo Pesado Beats",
+    "Trap Charrúa",
+    "RKT 598"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "ciudad-de-la-costa-rkt-turreo-rioplatense",
+  "name": "Ciudad de la Costa RKT Turreo Rioplatense",
+  "category": "scene",
+  "badge": "Ciudad de la Costa RKT 598",
+  "headline": "Ciudad de la Costa (Canelones Sur) RKT Turreo Rioplatense: Pistas WAV & Pago Prex en Pesos",
+  "description": "Percusión dembow acelerada a 100 BPM, sintetizadores desafinados y ritmo bailable de boliche para Ciudad de la Costa.",
+  "targetArtists": [
+    "Artistas de Ciudad de la Costa",
+    "Comunidad Urbana 598",
+    "Movimiento Hip-Hop Uruguay"
+  ],
+  "recommendedBpm": "100 BPM",
+  "recommendedKey": "A-Minor / G-Minor",
+  "vibeAttributes": [
+    "Ciudad de la Costa",
+    "RKT 598",
+    "Prex & Abitab $",
+    "Avalado AGADU"
+  ],
+  "popularGenres": [
+    "RKT Turreo Rioplatense",
+    "Trap Charrúa",
+    "RKT 598"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "ciudad-de-la-costa-boom-bap-uruguayo",
+  "name": "Ciudad de la Costa Boom Bap Clásico Uruguayo",
+  "category": "scene",
+  "badge": "Ciudad de la Costa Boom Bap Charrúa",
+  "headline": "Ciudad de la Costa (Canelones Sur) Boom Bap Clásico Uruguayo: Pistas WAV & Pago Prex en Pesos",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de Ciudad de la Costa.",
+  "targetArtists": [
+    "Artistas de Ciudad de la Costa",
+    "Comunidad Urbana 598",
+    "Movimiento Hip-Hop Uruguay"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Ciudad de la Costa",
+    "Boom Bap Charrúa",
+    "Prex & Abitab $",
+    "Avalado AGADU"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Uruguayo",
+    "Trap Charrúa",
+    "RKT 598"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "ciudad-de-la-costa-melodic-rnb-trap-uy",
+  "name": "Ciudad de la Costa Melodic R&B Trap Uruguayo",
+  "category": "scene",
+  "badge": "Ciudad de la Costa R&B Rioplatense",
+  "headline": "Ciudad de la Costa (Canelones Sur) Melodic R&B Trap Uruguayo: Pistas WAV & Pago Prex en Pesos",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de Ciudad de la Costa.",
+  "targetArtists": [
+    "Artistas de Ciudad de la Costa",
+    "Comunidad Urbana 598",
+    "Movimiento Hip-Hop Uruguay"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "Ciudad de la Costa",
+    "R&B Rioplatense",
+    "Prex & Abitab $",
+    "Avalado AGADU"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap Uruguayo",
+    "Trap Charrúa",
+    "RKT 598"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "salto-trap-uruguayo-pesado",
+  "name": "Salto Trap Uruguayo Pesado Beats",
+  "category": "scene",
+  "badge": "Salto Trap Charrúa",
+  "headline": "Salto (Litoral Norte) Trap Uruguayo Pesado Beats: Pistas WAV & Pago Prex en Pesos",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de Salto.",
+  "targetArtists": [
+    "Artistas de Salto",
+    "Comunidad Urbana 598",
+    "Movimiento Hip-Hop Uruguay"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Salto",
+    "Trap Charrúa",
+    "Prex & Abitab $",
+    "Avalado AGADU"
+  ],
+  "popularGenres": [
+    "Trap Uruguayo Pesado Beats",
+    "Trap Charrúa",
+    "RKT 598"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "salto-rkt-turreo-rioplatense",
+  "name": "Salto RKT Turreo Rioplatense",
+  "category": "scene",
+  "badge": "Salto RKT 598",
+  "headline": "Salto (Litoral Norte) RKT Turreo Rioplatense: Pistas WAV & Pago Prex en Pesos",
+  "description": "Percusión dembow acelerada a 100 BPM, sintetizadores desafinados y ritmo bailable de boliche para Salto.",
+  "targetArtists": [
+    "Artistas de Salto",
+    "Comunidad Urbana 598",
+    "Movimiento Hip-Hop Uruguay"
+  ],
+  "recommendedBpm": "100 BPM",
+  "recommendedKey": "A-Minor / G-Minor",
+  "vibeAttributes": [
+    "Salto",
+    "RKT 598",
+    "Prex & Abitab $",
+    "Avalado AGADU"
+  ],
+  "popularGenres": [
+    "RKT Turreo Rioplatense",
+    "Trap Charrúa",
+    "RKT 598"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "salto-boom-bap-uruguayo",
+  "name": "Salto Boom Bap Clásico Uruguayo",
+  "category": "scene",
+  "badge": "Salto Boom Bap Charrúa",
+  "headline": "Salto (Litoral Norte) Boom Bap Clásico Uruguayo: Pistas WAV & Pago Prex en Pesos",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de Salto.",
+  "targetArtists": [
+    "Artistas de Salto",
+    "Comunidad Urbana 598",
+    "Movimiento Hip-Hop Uruguay"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Salto",
+    "Boom Bap Charrúa",
+    "Prex & Abitab $",
+    "Avalado AGADU"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Uruguayo",
+    "Trap Charrúa",
+    "RKT 598"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "salto-melodic-rnb-trap-uy",
+  "name": "Salto Melodic R&B Trap Uruguayo",
+  "category": "scene",
+  "badge": "Salto R&B Rioplatense",
+  "headline": "Salto (Litoral Norte) Melodic R&B Trap Uruguayo: Pistas WAV & Pago Prex en Pesos",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de Salto.",
+  "targetArtists": [
+    "Artistas de Salto",
+    "Comunidad Urbana 598",
+    "Movimiento Hip-Hop Uruguay"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "Salto",
+    "R&B Rioplatense",
+    "Prex & Abitab $",
+    "Avalado AGADU"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap Uruguayo",
+    "Trap Charrúa",
+    "RKT 598"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "paysandu-trap-uruguayo-pesado",
+  "name": "Paysandú Trap Uruguayo Pesado Beats",
+  "category": "scene",
+  "badge": "Paysandú Trap Charrúa",
+  "headline": "Paysandú (Heroica Río) Trap Uruguayo Pesado Beats: Pistas WAV & Pago Prex en Pesos",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de Paysandú.",
+  "targetArtists": [
+    "Artistas de Paysandú",
+    "Comunidad Urbana 598",
+    "Movimiento Hip-Hop Uruguay"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Paysandú",
+    "Trap Charrúa",
+    "Prex & Abitab $",
+    "Avalado AGADU"
+  ],
+  "popularGenres": [
+    "Trap Uruguayo Pesado Beats",
+    "Trap Charrúa",
+    "RKT 598"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "paysandu-rkt-turreo-rioplatense",
+  "name": "Paysandú RKT Turreo Rioplatense",
+  "category": "scene",
+  "badge": "Paysandú RKT 598",
+  "headline": "Paysandú (Heroica Río) RKT Turreo Rioplatense: Pistas WAV & Pago Prex en Pesos",
+  "description": "Percusión dembow acelerada a 100 BPM, sintetizadores desafinados y ritmo bailable de boliche para Paysandú.",
+  "targetArtists": [
+    "Artistas de Paysandú",
+    "Comunidad Urbana 598",
+    "Movimiento Hip-Hop Uruguay"
+  ],
+  "recommendedBpm": "100 BPM",
+  "recommendedKey": "A-Minor / G-Minor",
+  "vibeAttributes": [
+    "Paysandú",
+    "RKT 598",
+    "Prex & Abitab $",
+    "Avalado AGADU"
+  ],
+  "popularGenres": [
+    "RKT Turreo Rioplatense",
+    "Trap Charrúa",
+    "RKT 598"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "paysandu-boom-bap-uruguayo",
+  "name": "Paysandú Boom Bap Clásico Uruguayo",
+  "category": "scene",
+  "badge": "Paysandú Boom Bap Charrúa",
+  "headline": "Paysandú (Heroica Río) Boom Bap Clásico Uruguayo: Pistas WAV & Pago Prex en Pesos",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de Paysandú.",
+  "targetArtists": [
+    "Artistas de Paysandú",
+    "Comunidad Urbana 598",
+    "Movimiento Hip-Hop Uruguay"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Paysandú",
+    "Boom Bap Charrúa",
+    "Prex & Abitab $",
+    "Avalado AGADU"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Uruguayo",
+    "Trap Charrúa",
+    "RKT 598"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "paysandu-melodic-rnb-trap-uy",
+  "name": "Paysandú Melodic R&B Trap Uruguayo",
+  "category": "scene",
+  "badge": "Paysandú R&B Rioplatense",
+  "headline": "Paysandú (Heroica Río) Melodic R&B Trap Uruguayo: Pistas WAV & Pago Prex en Pesos",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de Paysandú.",
+  "targetArtists": [
+    "Artistas de Paysandú",
+    "Comunidad Urbana 598",
+    "Movimiento Hip-Hop Uruguay"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "Paysandú",
+    "R&B Rioplatense",
+    "Prex & Abitab $",
+    "Avalado AGADU"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap Uruguayo",
+    "Trap Charrúa",
+    "RKT 598"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "rivera-trap-uruguayo-pesado",
+  "name": "Rivera Trap Uruguayo Pesado Beats",
+  "category": "scene",
+  "badge": "Rivera Trap Charrúa",
+  "headline": "Rivera (Frontera Livramento) Trap Uruguayo Pesado Beats: Pistas WAV & Pago Prex en Pesos",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de Rivera.",
+  "targetArtists": [
+    "Artistas de Rivera",
+    "Comunidad Urbana 598",
+    "Movimiento Hip-Hop Uruguay"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Rivera",
+    "Trap Charrúa",
+    "Prex & Abitab $",
+    "Avalado AGADU"
+  ],
+  "popularGenres": [
+    "Trap Uruguayo Pesado Beats",
+    "Trap Charrúa",
+    "RKT 598"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "rivera-rkt-turreo-rioplatense",
+  "name": "Rivera RKT Turreo Rioplatense",
+  "category": "scene",
+  "badge": "Rivera RKT 598",
+  "headline": "Rivera (Frontera Livramento) RKT Turreo Rioplatense: Pistas WAV & Pago Prex en Pesos",
+  "description": "Percusión dembow acelerada a 100 BPM, sintetizadores desafinados y ritmo bailable de boliche para Rivera.",
+  "targetArtists": [
+    "Artistas de Rivera",
+    "Comunidad Urbana 598",
+    "Movimiento Hip-Hop Uruguay"
+  ],
+  "recommendedBpm": "100 BPM",
+  "recommendedKey": "A-Minor / G-Minor",
+  "vibeAttributes": [
+    "Rivera",
+    "RKT 598",
+    "Prex & Abitab $",
+    "Avalado AGADU"
+  ],
+  "popularGenres": [
+    "RKT Turreo Rioplatense",
+    "Trap Charrúa",
+    "RKT 598"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "rivera-boom-bap-uruguayo",
+  "name": "Rivera Boom Bap Clásico Uruguayo",
+  "category": "scene",
+  "badge": "Rivera Boom Bap Charrúa",
+  "headline": "Rivera (Frontera Livramento) Boom Bap Clásico Uruguayo: Pistas WAV & Pago Prex en Pesos",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de Rivera.",
+  "targetArtists": [
+    "Artistas de Rivera",
+    "Comunidad Urbana 598",
+    "Movimiento Hip-Hop Uruguay"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Rivera",
+    "Boom Bap Charrúa",
+    "Prex & Abitab $",
+    "Avalado AGADU"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Uruguayo",
+    "Trap Charrúa",
+    "RKT 598"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "rivera-melodic-rnb-trap-uy",
+  "name": "Rivera Melodic R&B Trap Uruguayo",
+  "category": "scene",
+  "badge": "Rivera R&B Rioplatense",
+  "headline": "Rivera (Frontera Livramento) Melodic R&B Trap Uruguayo: Pistas WAV & Pago Prex en Pesos",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de Rivera.",
+  "targetArtists": [
+    "Artistas de Rivera",
+    "Comunidad Urbana 598",
+    "Movimiento Hip-Hop Uruguay"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "Rivera",
+    "R&B Rioplatense",
+    "Prex & Abitab $",
+    "Avalado AGADU"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap Uruguayo",
+    "Trap Charrúa",
+    "RKT 598"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
 ];
