@@ -37258,4 +37258,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "pt/lisboa-centro": {
+  "slug": "pt/lisboa-centro",
+  "name": "Portugal – Lisboa, Chelas & Linha de Sintra (Berço do Hip-Hop Tuga)",
+  "flag": "🇵🇹",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "MB Way, Multibanco, Cartões, Apple Pay, PayPal, Stripe",
+  "pro": "SPA",
+  "proFullName": "Sociedade Portuguesa de Autores (SPA)",
+  "proGuide": "100% compatível com registo na SPA e contratos de edição em PDF.",
+  "headline": "Beats em Lisboa: Trap Tuga, Drill Crioulo e Linha de Sintra",
+  "description": "O epicentro do movimento urbano em Portugal: graves 808 profundos, melodias melancólicas de piano e percussões afiadas para artistas de Lisboa, Chelas, Olivais e Amadora.",
+  "popularGenres": [
+    "Trap Tuga",
+    "Drill Crioulo",
+    "Boom Bap Lisboa"
+  ],
+  "subClusters": []
+},
+  "pt/porto-grande": {
+  "slug": "pt/porto-grande",
+  "name": "Portugal – Porto & Vila Nova de Gaia (Capital do Norte e Rap Genuíno)",
+  "flag": "🇵🇹",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "MB Way, Multibanco, Cartões, Apple Pay, PayPal, Stripe",
+  "pro": "SPA",
+  "proFullName": "Sociedade Portuguesa de Autores (SPA)",
+  "proGuide": "Entrega imediata em WAV 24-bit com licença comercial europeia.",
+  "headline": "Beats no Porto & Gaia: Rap do Norte, Boavista e Trap Contemporâneo",
+  "description": "A força autêntica da Invicta: baixos 808 contundentes, atmosferas industriais e rimas cruas para os MCs e produtores do Grande Porto e Vila Nova de Gaia.",
+  "popularGenres": [
+    "Rap do Norte",
+    "Trap Porto",
+    "Boom Bap Portuense"
+  ],
+  "subClusters": []
+},
+  "pt/amadora-linha-sintra": {
+  "slug": "pt/amadora-linha-sintra",
+  "name": "Portugal – Amadora & Linha de Sintra (Afro-Trap & Drill Crioulo)",
+  "flag": "🇵🇹",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "MB Way, Multibanco, Cartões, Apple Pay, PayPal, Stripe",
+  "pro": "SPA",
+  "proFullName": "Sociedade Portuguesa de Autores (SPA)",
+  "proGuide": "100% royalty-free com stems multitrack para estúdio.",
+  "headline": "Beats na Amadora & Sintra: Ritmos Crioulos, Afro-Trap e 808 Deslizantes",
+  "description": "A energia multicultural da Grande Lisboa: fusão electrizante de influências afro-lusófonas, guitarras quentes, caixas pesadas e drill contemporâneo.",
+  "popularGenres": [
+    "Drill Crioulo",
+    "Afro-Trap Amadora",
+    "Linha de Sintra Flow"
+  ],
+  "subClusters": []
+},
+  "pt/setubal-margem-sul": {
+  "slug": "pt/setubal-margem-sul",
+  "name": "Portugal – Setúbal & Margem Sul (Almada, Barreiro e Seixal Underground)",
+  "flag": "🇵🇹",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "MB Way, Multibanco, Cartões, Apple Pay, PayPal, Stripe",
+  "pro": "SPA",
+  "proFullName": "Sociedade Portuguesa de Autores (SPA)",
+  "proGuide": "Direitos mundiais de monetização no Spotify, Apple Music e YouTube.",
+  "headline": "Beats na Margem Sul: Almada, Barreiro, Seixal e Trap Melódico",
+  "description": "O berço de lendas do hip-hop português: grooves melódicos de R&B, trap com alma e rimas conscientes nas margens do Tejo e Sado.",
+  "popularGenres": [
+    "Margem Sul Trap",
+    "Boom Bap Almada",
+    "R&B Setubalense"
+  ],
+  "subClusters": []
+},
+  "pt/braga-minho-norte": {
+  "slug": "pt/braga-minho-norte",
+  "name": "Portugal – Braga & Minho (Vanguarda Jovem e Trap Melódico)",
+  "flag": "🇵🇹",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "MB Way, Multibanco, Cartões, Apple Pay, PayPal, Stripe",
+  "pro": "SPA",
+  "proFullName": "Sociedade Portuguesa de Autores (SPA)",
+  "proGuide": "Pagamento rápido por MB Way com download instantâneo.",
+  "headline": "Beats em Braga: Criatividade Miniota, Trap Futurista e New Wave",
+  "description": "A cidade mais jovem e dinâmica do Minho: sintetizadores espaciais, melodias cativantes e ritmos vibrantes para a nova vaga de cantores e rappers do Norte.",
+  "popularGenres": [
+    "Trap Braga",
+    "New Wave Minho",
+    "Melodic Hip-Hop"
+  ],
+  "subClusters": []
+},
+  "pt/coimbra-universidade": {
+  "slug": "pt/coimbra-universidade",
+  "name": "Portugal – Coimbra (Cidade dos Estudantes & Rap Consciente)",
+  "flag": "🇵🇹",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "MB Way, Multibanco, Cartões, Apple Pay, PayPal, Stripe",
+  "pro": "SPA",
+  "proFullName": "Sociedade Portuguesa de Autores (SPA)",
+  "proGuide": "Isenção total de royalties ocultos com contrato descarregável.",
+  "headline": "Beats em Coimbra: Tradição Académica, Rap Poético e Lofi Hip-Hop",
+  "description": "A atmosfera lírica das margens do Mondego: pianos nostálgicos, guitarras dedilhadas e batidas reflexivas concebidas para MCs de mensagem e poesia urbana.",
+  "popularGenres": [
+    "Rap Consciente Coimbra",
+    "Lofi Estudantil",
+    "Poesia Urbana Beat"
+  ],
+  "subClusters": []
+},
+  "pt/faro-algarve-sul": {
+  "slug": "pt/faro-algarve-sul",
+  "name": "Portugal – Faro & Algarve (Costa Sul, Afro-Trap e Brisa Mediterrânica)",
+  "flag": "🇵🇹",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "MB Way, Multibanco, Cartões, Apple Pay, PayPal, Stripe",
+  "pro": "SPA",
+  "proFullName": "Sociedade Portuguesa de Autores (SPA)",
+  "proGuide": "Totalmente aprovado para sync publicitário, rádio e videoclipes.",
+  "headline": "Beats em Faro & Algarve: Verão Algarvio, Afrobeat e Trap Costeiro",
+  "description": "O calor e a vibração do sul de Portugal: guitarras acústicas, batidas descontraídas de afrobeat e trap soalheiro perfeito para hits de verão e festivais.",
+  "popularGenres": [
+    "Algarve Afro-Trap",
+    "Summer Vibe Beat",
+    "Faro Coastal Rap"
+  ],
+  "subClusters": []
+},
+  "pt/aveiro-beira-litoral": {
+  "slug": "pt/aveiro-beira-litoral",
+  "name": "Portugal – Aveiro & Beira Litoral (Canais da Ria e Hip-Hop Melódico)",
+  "flag": "🇵🇹",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "MB Way, Multibanco, Cartões, Apple Pay, PayPal, Stripe",
+  "pro": "SPA",
+  "proFullName": "Sociedade Portuguesa de Autores (SPA)",
+  "proGuide": "Contratos transparentes com cessão de direitos clara.",
+  "headline": "Beats em Aveiro: Canais da Ria, Sintetizadores R&B e Trap Indie",
+  "description": "A modernidade estética da Beira Litoral: acordes quentes de teclado Rhodes, baixos 808 redondos e percussões nítidas para projetos indie e comerciais.",
+  "popularGenres": [
+    "Indie Trap Aveiro",
+    "R&B Beira Litoral",
+    "Chill Trap Ria"
+  ],
+  "subClusters": []
+},
+  "pt/funchal-madeira-ilha": {
+  "slug": "pt/funchal-madeira-ilha",
+  "name": "Portugal – Funchal & Madeira (Ilha Atlântica e Trap Panorâmico)",
+  "flag": "🇵🇹",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "MB Way, Multibanco, Cartões, Apple Pay, PayPal, Stripe",
+  "pro": "SPA",
+  "proFullName": "Sociedade Portuguesa de Autores (SPA)",
+  "proGuide": "Suporte dedicado a artistas insulares e estúdios da Madeira.",
+  "headline": "Beats no Funchal: Paisagens Atlânticas, 808 Potentes e Rap Madeirense",
+  "description": "A cena urbana da pérola do Atlântico: instrumentais cinematográficos, graves imponentes e melodias épicas para a comunidade artística insular.",
+  "popularGenres": [
+    "Rap Madeirense",
+    "Trap Funchal",
+    "Atlantic Island Beat"
+  ],
+  "subClusters": []
+},
+  "pt/ponta-delgada-acores": {
+  "slug": "pt/ponta-delgada-acores",
+  "name": "Portugal – Ponta Delgada & Açores (Arquipélago Vulcânico e Som Puro)",
+  "flag": "🇵🇹",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "MB Way, Multibanco, Cartões, Apple Pay, PayPal, Stripe",
+  "pro": "SPA",
+  "proFullName": "Sociedade Portuguesa de Autores (SPA)",
+  "proGuide": "Licenciamento mundial sem fronteiras com fatura comercial.",
+  "headline": "Beats em Ponta Delgada: Força Vulcânica dos Açores e Trap Autêntico",
+  "description": "A autenticidade única das nove ilhas açorianas: texturas orgânicas de guitarra, baixos profundos e batidas de hip-hop com identidade própria.",
+  "popularGenres": [
+    "Rap Açoriano",
+    "Trap Ponta Delgada",
+    "Volcanic 808"
+  ],
+  "subClusters": []
+},
 };
