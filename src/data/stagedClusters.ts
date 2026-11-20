@@ -85101,4 +85101,1300 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "2"
   ]
 },
+  {
+  "slug": "canserbero-el-chaman-epico-conscious-rap",
+  "title": "Canserbero El Chamán Épico Piano & Liricismo Existencial Beat",
+  "description": "Instrumental monumental y sombría inspirada en el legado inmortal de Canserbero (Muerte, Vida), con acordes menores de piano fúnebre, violines dramáticos y batería boom bap de impacto seco.",
+  "targetKeywords": [
+    "canserbero type beat",
+    "el chaman beat maracay",
+    "bases de rap filosofico canserbero",
+    "boom bap oscuro muerte vida",
+    "beat hip hop poetico venezuela"
+  ],
+  "heroCta": "Comprar Beat Canserbero (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Rap Filosófico, Liricismo Existencial y Obra Maestra",
+  "similarArtists": [
+    "Canserbero",
+    "Akapellah",
+    "Lil Supa",
+    "Zeballos"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "productionTips": "Piano de cola con tratamiento de cinta analógica, cuerda fúnebre en crescendo y rullante senza riverbero.",
+  "idealVocalStyle": "Voz grave y desgarradora, métricas poéticas complejas y contenido sobre la condición humana.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Insuperable para los amantes del rap de culto y letras inmortales."
+},
+  {
+  "slug": "corina-smith-pop-urbano-glam",
+  "title": "Corina Smith Pop Urbano Glam & R&B Melódico 58 Beat",
+  "description": "Base elegante y estilizada de pop urbano y reggaetón femenino inspirada en Corina Smith (Triste Pero Siempre Mami), con sintetizadores de lujo, percusión dembow suave y ganchos de radio.",
+  "targetKeywords": [
+    "corina smith type beat",
+    "pop urbano venezolano",
+    "reggaeton femenino venezuela",
+    "bases de pop latino caracas",
+    "beats glam corina smith"
+  ],
+  "heroCta": "Comprar Beat Corina Smith (Licencia Comercial)",
+  "energyLevel": "High",
+  "primaryUse": "Pop Urbano Comercial, Radio Hit y Canción de Despecho",
+  "similarArtists": [
+    "Corina Smith",
+    "Micro TDH",
+    "Emilia",
+    "Maria Becerra"
+  ],
+  "recommendedBpm": "94-98 BPM",
+  "productionTips": "Pads sedosos con chorus abierto y una percusión dembow limpia que deja espacio al protagonismo vocal.",
+  "idealVocalStyle": "Voz suave y expresiva, melodías emotivas y letras de superación amorosa.",
+  "suggestedKey": "E Major",
+  "streamingSuitability": "El sonido por excelencia para radio fórmulas y listas de Pop Urbano de Latinoamérica."
+},
+  {
+  "slug": "tambores-de-san-juan-afro-trap",
+  "title": "Tambores de San Juan Barlovento & Trap 808 Cumaco Fusión Beat",
+  "description": "Fusión ancestral y potente entre los tambores afrovenezolanos de Barlovento y La Guaira (cumaco, clarín y mina) con caídas de trap pesado y bajos 808 arrolladores.",
+  "targetKeywords": [
+    "tambores de san juan trap beat",
+    "afro trap venezolano beat",
+    "cumaco barlovento rap beat",
+    "fusion tambores venezolanos 808",
+    "musica afrovenezolana trap"
+  ],
+  "heroCta": "Comprar Beat Tambores San Juan (Stems Multitrack)",
+  "energyLevel": "Very High",
+  "primaryUse": "Trap Folclórico, Fiestas de San Juan y Fusión Étnica",
+  "similarArtists": [
+    "Betsayda Machado Trap Remix",
+    "Neutro Shorty",
+    "Akapellah",
+    "Kazzabe"
+  ],
+  "recommendedBpm": "118-125 BPM",
+  "productionTips": "Tambores de cumaco grabados en estéreo con repique de palos sobre madera y bajo 808 demoledor.",
+  "idealVocalStyle": "Cantos de llamada y respuesta afrocaribeños o rapeo sincopado de alta energía.",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "Inmejorable para festivales de cultura, documentales y virales en TikTok."
+},
+  {
+  "slug": "adso-alejandro-dembow-banger-58",
+  "title": "Adso Alejandro Dembow Callejero & Party Banger 58 Beat",
+  "description": "Base fiestera y explosiva de reggaetón y dembow venezolano inspirada en Adso Alejandro, con cajas que golpean duro, sintetizadores de boliche y rimas con jerga de la calle.",
+  "targetKeywords": [
+    "adso alejandro type beat",
+    "dembow venezolano banger",
+    "bases de reggaeton adso",
+    "beats de fiesta caracas dembow",
+    "perreo 58 beat"
+  ],
+  "heroCta": "Comprar Beat Adso Dembow (WAV Masterizado)",
+  "energyLevel": "Very High",
+  "primaryUse": "Party Banger, Discoteca y Bailes Virales de TikTok",
+  "similarArtists": [
+    "Adso Alejandro",
+    "Big Soto",
+    "Micro TDH",
+    "Ryan Castro"
+  ],
+  "recommendedBpm": "98-104 BPM",
+  "productionTips": "Cajas de dembow saturadas con pegada en el pecho y claps que abren el panorama estéreo.",
+  "idealVocalStyle": "Autotune marcado, actitud de fiesta callejera y coros pegadizos con jerga caraqueña.",
+  "suggestedKey": "G Minor",
+  "streamingSuitability": "Ideal para sonar en discotecas, carros de sonido y listas de perreo intenso."
+},
+  {
+  "slug": "lil-supa-lou-fresco-classic-rap",
+  "title": "Lil Supa Lou Fresco Classic Jazz Rap & 90s Soul Loop Beat",
+  "description": "Strumentale purista de hip-hop auténtico inspirada en Lil Supa / Lou Fresco (Serio, YEYO), con loops de jazz refinados, bajos acústicos y baterías secas de caja y bombo.",
+  "targetKeywords": [
+    "lil supa type beat",
+    "lou fresco jazz rap beat",
+    "bases de rap purista venezuela",
+    "boom bap elegante lil supa",
+    "hip hop 90s caracas beat"
+  ],
+  "heroCta": "Comprar Beat Lil Supa (WAV + Stems)",
+  "energyLevel": "Medium",
+  "primaryUse": "Rap Purista, Liricismo Exquisito y Cultura Hip-Hop",
+  "similarArtists": [
+    "Lil Supa",
+    "Akapellah",
+    "Dano",
+    "Marracash"
+  ],
+  "recommendedBpm": "86-90 BPM",
+  "productionTips": "Corte de vinilo con calidez de válvulas analógicas y textura de aguja sin exceso de efectos digitales.",
+  "idealVocalStyle": "Entrega vocal calmada y autoritaria, pronunciación precisa y métricas avanzadas.",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "Perfecto para la comunidad más exigente del hip-hop underground mundial."
+},
+  {
+  "slug": "jeeiph-melodic-trap-romantico",
+  "title": "Jeeiph Melodic Trap Romántico & Guitarras Tristes 58 Beat",
+  "description": "Pista melancólica de trap latino romántico inspirada en Jeeiph (Bonita, Términos y Condiciones), con arpegios de guitarra electroacústica, pads suaves y bajos 808 profundos.",
+  "targetKeywords": [
+    "jeeiph type beat",
+    "trap romantico venezolano",
+    "bases de trap melodico jeeiph",
+    "beats de desamor caracas 58",
+    "trap con guitarra acustica beat"
+  ],
+  "heroCta": "Comprar Beat Jeeiph Romántico (Licencia Comercial)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Trap Romántico, Balada Urbana y Canción de Despecho",
+  "similarArtists": [
+    "Jeeiph",
+    "Micro TDH",
+    "Big Soto",
+    "Neutro Shorty"
+  ],
+  "recommendedBpm": "126-132 BPM",
+  "productionTips": "Guitarra con chorus y delay espacial sobre un sub-808 cálido con corte suave en agudos.",
+  "idealVocalStyle": "Voz melódica con autotune expresivo, falsetes sentidos y versos con sentimiento.",
+  "suggestedKey": "F# Minor",
+  "streamingSuitability": "Insuperable para listas de Trap Latino Emotivo y reproducciones en Spotify."
+},
+  {
+  "slug": "liga-venom-freestyle-cypher-caracas",
+  "title": "Liga Venom Caracas Freestyle Cypher & Batalla de Rap 58 Beat",
+  "description": "Pista de alta tensión y ataque percusivo diseñada para las batallas de freestyle de Liga Venom y plazas de Caracas, con cajas afiladas y pausas en el compás 4.",
+  "targetKeywords": [
+    "liga venom freestyle beat",
+    "batallas de rap caracas instrumental",
+    "bases de freestyle venezuela liga venom",
+    "cypher caracas 58 beat",
+    "pistas de freestyle venezuela"
+  ],
+  "heroCta": "Comprar Beat Liga Venom (Sin Tags)",
+  "energyLevel": "Very High",
+  "primaryUse": "Batallas de Freestyle, Torneos de Plaza y Cyphers Callejeros",
+  "similarArtists": [
+    "Gaviria",
+    "Akapellah",
+    "Imigrante",
+    "SNK"
+  ],
+  "recommendedBpm": "92-96 BPM",
+  "productionTips": "Corta la batería en el tiempo 4 del cuarto compás para que el remate del punchline caiga en seco.",
+  "idealVocalStyle": "Punchlines afilados, rimas rápidas al momento y actitud desafiante de tarima.",
+  "suggestedKey": "E Minor",
+  "streamingSuitability": "Indispensable para ligas de plaza, torneos de freestyle en Latinoamérica y YouTube."
+},
+  {
+  "slug": "arpa-cuatro-maraca-llanos-trap",
+  "title": "Arpa Cuatro & Maracas Llanos Venezolanos Trap 808 Beat",
+  "description": "El ensamble folclórico llanero completo (arpa de 32 cuerdas, cuatro y maracas de capacho) fusionado con baterías de trap moderno y caídas de sub-bajo demoledoras.",
+  "targetKeywords": [
+    "arpa cuatro maracas trap beat",
+    "joropo llanero trap instrumental",
+    "folclore llanero 808 beat",
+    "musica del llano trap venezuela",
+    "trap venezolano llanero"
+  ],
+  "heroCta": "Comprar Beat Llanero Completo (Stems Multitrack)",
+  "energyLevel": "High",
+  "primaryUse": "Trap Folclórico, Identidad Nacional y Comerciales de Élite",
+  "similarArtists": [
+    "Reynaldo Armas Trap Remix",
+    "Neutro Shorty",
+    "Akapellah",
+    "C4 Trío"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "productionTips": "Arpa llanera en estéreo abierto con maracas marcando las semicorcheas y bombo 808 en el centro.",
+  "idealVocalStyle": "Rapeo veloz, deklamación poética o canto tradicional llanero.",
+  "suggestedKey": "D Major",
+  "streamingSuitability": "El tema estrella para campañas patrias, eventos culturales y virales de redes."
+},
+  {
+  "slug": "sound-car-valencia-audio-spl-extreme",
+  "title": "Sound Car Valencia Audio SPL Extremo & 30 Hz Subwoofer Beat",
+  "description": "Beat ultra pesado diseñado para competir en exhibiciones de Sound Car en Valencia y Maracay, con frecuencias sub-bajas afinadas a 30 Hz para mover masas de aire masivas.",
+  "targetKeywords": [
+    "sound car valencia beat",
+    "subwoofer extremo venezuela 30hz",
+    "bases para sound car valencia maracay",
+    "beats car audio pesado 58",
+    "musica de competencia sound car"
+  ],
+  "heroCta": "Comprar Beat Sound Car Valencia (WAV Masterizado)",
+  "energyLevel": "Very High",
+  "primaryUse": "Competiciones de Sound Car, Exhibiciones de Audio SPL y Caravanas",
+  "similarArtists": [
+    "Neutro Shorty",
+    "Crypy",
+    "Toledo",
+    "Danger Man"
+  ],
+  "recommendedBpm": "138-142 BPM",
+  "productionTips": "Onda sinusoidal pura calibrada a 30Hz con saturación armónica en 60Hz y 120Hz para máxima presión sonora.",
+  "idealVocalStyle": "Rapeo retador, frases enérgicas y coros repetitivos para gritar en autos.",
+  "suggestedKey": "F Minor",
+  "streamingSuitability": "El favorito absoluto para caravanas nocturnas, autos modificados y eventos urbanos de motor."
+},
+  {
+  "slug": "pico-bolivar-merida-mountain-chillhop",
+  "title": "Pico Bolívar Mérida Mountain Chillhop & Nieve Andina Lofi Beat",
+  "description": "Nostalgia inspirada en las cumbres nevadas del Pico Bolívar y el Teleférico Mukumbarí: guitarras acústicas de nailon, sonido de viento de altura y texturas lofi de montaña.",
+  "targetKeywords": [
+    "pico bolivar lofi beat",
+    "merida chillhop andino",
+    "beats de montana venezuela",
+    "instrumental nostalgico merida 58",
+    "mountain lofi venezuela"
+  ],
+  "heroCta": "Comprar Beat Pico Bolívar (Uso Ilimitado)",
+  "energyLevel": "Low",
+  "primaryUse": "Lofi Hip-Hop, Rap Melancólico, Estudio y Vlogs de Viaje",
+  "similarArtists": [
+    "Monte",
+    "Tomppabeats",
+    "Nujabes",
+    "Micro TDH"
+  ],
+  "recommendedBpm": "76-82 BPM",
+  "productionTips": "Piano de pared tratado con cinta analógica y sonido de viento de montaña en el fondo.",
+  "idealVocalStyle": "Spoken word, rimas íntimas de noche o escucha puramente instrumental.",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "Perfecto para playlists de estudio, concentración, cafés andinos y videos de turismo."
+},
+  {
+  "slug": "chacao-luxury-trap-lifestyle",
+  "title": "Chacao & Las Mercedes Luxury Lifestyle Trap 58 Beat",
+  "description": "Base trap sofisticada inspirada en la vida nocturna de Chacao, Las Mercedes y Altamira: sintetizadores de alta gama con chorus, melodías elegantes y bajos 808 pulidos.",
+  "targetKeywords": [
+    "chacao luxury trap beat",
+    "las mercedes trap venezuela",
+    "trap elegante caracas 58",
+    "beats de lusso trap venezuela",
+    "lifestyle trap caracas"
+  ],
+  "heroCta": "Comprar Beat Chacao Luxury (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Trap de Lujo, Club Banger y Videos de Estilo de Vida",
+  "similarArtists": [
+    "Big Soto",
+    "Trainer",
+    "Neutro Shorty",
+    "Álvaro Díaz"
+  ],
+  "recommendedBpm": "128-134 BPM",
+  "productionTips": "Sintetizadores polifónicos modernos procesados con saturación limpia sobre un bajo 808 potente.",
+  "idealVocalStyle": "Flow melódico y relajado, barras sobre estilo, elegancia y vida cosmopolita.",
+  "suggestedKey": "C# Minor",
+  "streamingSuitability": "Insuperable para listas de Trap Elegante, comerciales de moda y clubes nocturnos."
+},
+  {
+  "slug": "los-teques-frio-drill-caraqueno",
+  "title": "Los Teques Frío de Montaña & Drill Caraqueño 140 BPM Beat",
+  "description": "Instrumental oscura de drill en terzinas a 140 BPM inspirada en la niebla y el frío de Los Teques y Carrizal: violines gélidos, tarolas cortantes y deslizamientos de bajo arrolladores.",
+  "targetKeywords": [
+    "los teques drill beat",
+    "drill mirandino 140 bpm",
+    "bases de drill venezolano los teques",
+    "drill frio caracas 58",
+    "trap oscuro miranda"
+  ],
+  "heroCta": "Comprar Beat Los Teques Drill (Licencia Comercial)",
+  "energyLevel": "Very High",
+  "primaryUse": "Drill de Calle, Reality Rap y Duelos de Rima",
+  "similarArtists": [
+    "Neutro Shorty",
+    "Crypy",
+    "Morad",
+    "Central Cee"
+  ],
+  "recommendedBpm": "140 BPM",
+  "productionTips": "Deslices de 808 hacia notas octavadas altas y golpes de caja con ataque punzante.",
+  "idealVocalStyle": "Voz grave y amenazante, juegos rítmicos en tresillos y pausas dramáticas.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Ideal para posicionar en playlists de 'Drill Latino' y videos de alta intensidad urbana."
+},
+  {
+  "slug": "pistas-de-trap-baratas-venezuela-usdt",
+  "title": "Pistas de Trap Baratas en Venezuela (Pago en USDT vía Binance Pay)",
+  "description": "Instrumentales profesionales de trap a precios accesibles para nuevos talentos en Venezuela. Pago directo en USDT vía Binance Pay sin intermediarios bancarios y descarga inmediata.",
+  "targetKeywords": [
+    "pistas de trap baratas venezuela usdt",
+    "beats de trap economicos 58 binance",
+    "comprar bases de trap cripto venezuela",
+    "instrumentales baratas caracas"
+  ],
+  "heroCta": "Ver Pistas de Trap (Desde $15 USDT)",
+  "energyLevel": "High",
+  "primaryUse": "Lanzamiento de Demos, Grabaciones Caseras y Primeros Sencillos",
+  "similarArtists": [
+    "Comunidad Trap 58",
+    "Artistas Independientes Venezolanos"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "productionTips": "Estructuras directas con 16 barras de verso y 8 de coro para facilitar la grabación rápida.",
+  "idealVocalStyle": "Flow versátil para jóvenes que inician su carrera en la música urbana.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Licencia comercial con hasta 25,000 reproducciones monetizadas en plataformas."
+},
+  {
+  "slug": "bases-de-reggaeton-comercial-venezuela-zelle",
+  "title": "Bases de Reggaetón Comercial en Venezuela (Pago Fácil con Zelle)",
+  "description": "Catálogo de instrumentales bailables de reggaetón y pop latino listas para sonar en la radio venezolana. Compra instantánea en Dólares usando Zelle sin comisiones cambiarias.",
+  "targetKeywords": [
+    "bases reggaeton comercial venezuela zelle",
+    "comprar beats zelle dolares",
+    "pistas de reggaeton radio 58",
+    "beats para cantantes urbanos venezuela"
+  ],
+  "heroCta": "Comprar con Zelle (Licencia Comercial)",
+  "energyLevel": "High",
+  "primaryUse": "Canción Radial, Pop Urbano y Videos Oficiales",
+  "similarArtists": [
+    "Micro TDH",
+    "Corina Smith",
+    "Big Soto",
+    "Feid"
+  ],
+  "recommendedBpm": "94-98 BPM",
+  "productionTips": "Arreglos pulidos con espacio sonoro amplio para coros femeninos o masculinos.",
+  "idealVocalStyle": "Voz limpia, armonías comerciales y estribillos pegadizos.",
+  "suggestedKey": "E Major",
+  "streamingSuitability": "Garantía total de monetización en YouTube y Spotify sin reclamos."
+},
+  {
+  "slug": "instrumentales-de-boom-bap-con-pianoforte-estilo-canserbero",
+  "title": "Instrumentales de Boom Bap con Piano Épico & Cuerdas Estilo Canserbero",
+  "description": "Bases auténticas de hip-hop clásico con pianos fúnebres solemnes, violines dramáticos y baterías de MPC secas a 90 BPM en archivos WAV de estudio con stems.",
+  "targetKeywords": [
+    "instrumentales boom bap canserbero piano",
+    "bases de rap oscuro maracay canserbero",
+    "pistas de rap filosofico con violines",
+    "beats de hip hop clasico 90 bpm venezuela"
+  ],
+  "heroCta": "Descargar Beat Épico (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Rap Filosófico, Liricismo Existencial y Obras Maestras",
+  "similarArtists": [
+    "Canserbero",
+    "Akapellah",
+    "Lil Supa",
+    "Zeballos"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "productionTips": "Stems multitrack organizados por carpetas con instrumentos orquestales separados para mezcla personalizada.",
+  "idealVocalStyle": "Voz grave y desgarradora con líricas de profundidad reflexiva y social.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Excelente para proyectos de alta trascendencia artística y streaming."
+},
+  {
+  "slug": "beats-de-trap-con-cuatro-venezolano-exclusivos",
+  "title": "Beats de Trap con Cuatro Venezolano Exclusivos (Retiro de Tienda)",
+  "description": "Composiciones únicas que fusionan el cuatro venezolano y arpa llanera con el trap contemporáneo más exclusivo. Al adquirir esta licencia, la pista es retirada de la tienda permanentemente.",
+  "targetKeywords": [
+    "beats trap con cuatro venezolano exclusivos",
+    "comprar exclusivas cuatro trap 58",
+    "cuatro llanero trap unico usdt",
+    "produccion exclusiva joropo trap"
+  ],
+  "heroCta": "Comprar Licencia Exclusiva (Retiro de Tienda)",
+  "energyLevel": "High",
+  "primaryUse": "Lanzamiento Principal de Carrera, Álbum Debut y Propiedad Absoluta",
+  "similarArtists": [
+    "Cuatro Llanero Trap",
+    "Neutro Shorty",
+    "Akapellah"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "productionTips": "Arreglos de cuatro grabados con micrófonos de condensador de diafragma grande para máxima fidelidad.",
+  "idealVocalStyle": "Propuesta innovadora que busque definir un nuevo estándar en el sonido venezolano.",
+  "suggestedKey": "D Major",
+  "streamingSuitability": "Propiedad comercial y de máster 100% transferida al comprador."
+},
+  {
+  "slug": "paquete-de-beats-para-disco-venezuela-descuento",
+  "title": "Paquete de Beats para Álbum Completo en Venezuela (40% Descuento)",
+  "description": "Oferta especial para artistas venezolanos que graban su disco o EP: adquiere 5 o 10 instrumentales completas con descuento por volumen y soporte técnico directo durante la grabación.",
+  "targetKeywords": [
+    "paquete de beats para album venezuela",
+    "oferta beats por mayor 58",
+    "descuento beats disco completo caracas",
+    "mixtape paquete instrumentales binance"
+  ],
+  "heroCta": "Ver Paquetes de Álbum (Ahorra hasta 40%)",
+  "energyLevel": "Variable",
+  "primaryUse": "Producción Integral de EPs, Álbumes y Mixtapes",
+  "similarArtists": [
+    "Artistas y Agrupaciones 58"
+  ],
+  "recommendedBpm": "88-144 BPM",
+  "productionTips": "Curaduría tonal y estilística coherente para garantizar que todo el álbum suene uniforme.",
+  "idealVocalStyle": "Adaptable a la narrativa y el concepto integral de la obra del artista.",
+  "suggestedKey": "Various Keys",
+  "streamingSuitability": "Licencia comercial extendida válida para múltiples lanzamientos simultáneos."
+},
+  {
+  "slug": "bases-de-drill-venezolano-140-bpm-con-stems",
+  "title": "Bases de Drill Venezolano a 140 BPM con Bajos Slidings & Stems",
+  "description": "Instrumentales de drill oscuro adaptadas al flow y vivencia de la calle venezolana, con patrones sincopados de charles a 140 BPM, tarolas afiladas y bajos con deslices vertiginosos.",
+  "targetKeywords": [
+    "bases de drill venezolano 140 bpm",
+    "uk drill venezuela beat",
+    "drill 58 con bajos slidings",
+    "pistas de drill para grabar caracas"
+  ],
+  "heroCta": "Descargar Drill Beat 140 BPM (WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Drill Urbano, Barras Callejeras y Duelos de Rima",
+  "similarArtists": [
+    "Neutro Shorty",
+    "Crypy",
+    "Morad",
+    "Central Cee"
+  ],
+  "recommendedBpm": "140 BPM",
+  "productionTips": "Usa slides de pitch de dos octavas en el sub-808 en el segundo compás de cada frase.",
+  "idealVocalStyle": "Voz grave y amenazante con rimas rápidas en tresillos y cortes precisos.",
+  "suggestedKey": "C# Minor",
+  "streamingSuitability": "Ideal para posicionar en playlists de 'Drill Latino' y videos de alta intensidad urbana."
+},
+  {
+  "slug": "pistas-de-latin-rnb-romantico-en-dolares-venezuela",
+  "title": "Pistas de Latin R&B Romántico en Dólares ($) con Guitarras WAV",
+  "description": "Instrumentales comerciales de Latin R&B romántico y pop latino suave con pianos elegantes, guitarras brillantes y dembow bailable con compra en Dólares o USDT.",
+  "targetKeywords": [
+    "pistas de latin rnb romantico en dolares venezuela",
+    "rnb venezolano instrumental",
+    "bases de rnb en espanol caracas",
+    "beats de desamor 58 usdt"
+  ],
+  "heroCta": "Comprar Pista R&B (Licencia Comercial Ilimitada)",
+  "energyLevel": "Medium",
+  "primaryUse": "R&B Romántico, Soul Contemporáneo y Balada Urbana",
+  "similarArtists": [
+    "Micro TDH",
+    "Jeeiph",
+    "Corina Smith",
+    "Álvaro Díaz"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "productionTips": "Arreglos limpios con amplio rango dinámico para que la voz brille en el centro de la mezcla.",
+  "idealVocalStyle": "Voz aterciopelada, falsetes controlados y coros polifónicos en capas.",
+  "suggestedKey": "F# Major",
+  "streamingSuitability": "Perfecto para oyentes de Apple Music y Spotify en busca de música sofisticada."
+},
+  {
+  "slug": "contrato-de-licencia-comercial-sapi-venezuela-pdf",
+  "title": "Contrato de Licencia Comercial para el SAPI de Venezuela (PDF)",
+  "description": "Descarga de contrato legal en PDF con validez oficial ante el Servicio Autónomo de la Propiedad Intelectual (SAPI) y SACVEN de Venezuela para registrar tu obra y proteger tus derechos.",
+  "targetKeywords": [
+    "contrato licencia comercial sapi venezuela",
+    "registro de canciones sapi venezuela",
+    "derechos de autor propiedad intelectual venezuela",
+    "contrato legal beats 58"
+  ],
+  "heroCta": "Ver Contrato Legal SAPI (Descarga Inmediata)",
+  "energyLevel": "N/A",
+  "primaryUse": "Registro Oficial de Obra, Distribución en Agregadoras y Cobro de Regalías",
+  "similarArtists": [
+    "Onzieb",
+    "Compositores de Venezuela",
+    "Artistas Independientes"
+  ],
+  "recommendedBpm": "Cualquier Tempo",
+  "productionTips": "Documento legal redactado conforme a la Ley sobre el Derecho de Autor de Venezuela.",
+  "idealVocalStyle": "Válido para todo tipo de letras y melodías originales.",
+  "suggestedKey": "All Keys",
+  "streamingSuitability": "100% de protección legal y tranquilidad para monetizar tu música."
+},
+  {
+  "slug": "productor-de-beats-online-venezuela-onzieb",
+  "title": "Productor de Beats Online para Artistas de Venezuela (Onzieb)",
+  "description": "Conéctate de forma remota y directa con el productor Onzieb para asesoría artística, producción ejecutiva y personalización de pistas con atención personalizada por WhatsApp.",
+  "targetKeywords": [
+    "productor de beats online venezuela",
+    "onzieb productor musical criollo",
+    "comprar bases personalizadas caracas valencia",
+    "productor rap trap 58 whatsapp"
+  ],
+  "heroCta": "Hablar con Onzieb por WhatsApp",
+  "energyLevel": "Custom",
+  "primaryUse": "Asesoría de Proyecto, Producción a Medida y Arreglos Vocales",
+  "similarArtists": [
+    "Onzieb",
+    "Neutro Shorty",
+    "Big Soto"
+  ],
+  "recommendedBpm": "A tu elección",
+  "productionTips": "Sesiones interactivas de revisión de mezcla y ajustes de tempo y tono según tu tesitura.",
+  "idealVocalStyle": "Trabajo colaborativo diseñado para potenciar tu estilo único.",
+  "suggestedKey": "Personalizada",
+  "streamingSuitability": "Entrega de material listo para masterizar con estándares de la industria."
+},
+  {
+  "slug": "descargar-bases-de-rap-venezolano-gratis-mp3",
+  "title": "Descargar Bases de Rap Venezolano Gratis en MP3 (Uso Libre)",
+  "description": "Paquete de cortesía con instrumentales de trap criollo 58, boom bap y R&B en formato MP3 a 320 kbps para que practiques tu freestyle y grabes maquetas sin pagar un solo centavo.",
+  "targetKeywords": [
+    "descargar bases de rap venezolano gratis mp3",
+    "beats gratis para maquetas caracas",
+    "pistas de trap criollo libres de costo",
+    "descarga rap 58 mp3 320kbps"
+  ],
+  "heroCta": "Descargar Pistas Gratis (Sin Registro)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Grabación de Maquetas Caseras, Práctica de Rimas y Freestyle",
+  "similarArtists": [
+    "Comunidad Urbana de Venezuela",
+    "Nuevos Talentos 58"
+  ],
+  "recommendedBpm": "90, 94, 136 BPM",
+  "productionTips": "Incluye un tag de cortesía sutil al inicio; al comprar la licencia se remueve completamente.",
+  "idealVocalStyle": "Espacio abierto para experimentar flows y probar tu voz frente al micrófono.",
+  "suggestedKey": "Various",
+  "streamingSuitability": "Permitido en videos no monetizados de YouTube, TikTok y SoundCloud."
+},
+  {
+  "slug": "merida-trap-venezolano-pesado",
+  "name": "Mérida Trap Venezolano Pesado Beats",
+  "category": "scene",
+  "badge": "Mérida Trap 58",
+  "headline": "Mérida (Andes Mukumbarí) Trap Venezolano Pesado Beats: Pistas WAV & Pago Binance Pay / Zelle",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de Mérida.",
+  "targetArtists": [
+    "Artistas de Mérida",
+    "Comunidad Urbana 58",
+    "Movimiento Hip-Hop Venezuela"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Mérida",
+    "Trap 58",
+    "Binance Pay USDT",
+    "Avalado SACVEN"
+  ],
+  "popularGenres": [
+    "Trap Venezolano Pesado Beats",
+    "Trap 58",
+    "Boom Bap Criollo"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "merida-boom-bap-caraqueno",
+  "name": "Mérida Boom Bap Clásico Venezolano",
+  "category": "scene",
+  "badge": "Mérida Boom Bap Criollo",
+  "headline": "Mérida (Andes Mukumbarí) Boom Bap Clásico Venezolano: Pistas WAV & Pago Binance Pay / Zelle",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de Mérida.",
+  "targetArtists": [
+    "Artistas de Mérida",
+    "Comunidad Urbana 58",
+    "Movimiento Hip-Hop Venezuela"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Mérida",
+    "Boom Bap Criollo",
+    "Binance Pay USDT",
+    "Avalado SACVEN"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Venezolano",
+    "Trap 58",
+    "Boom Bap Criollo"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "merida-reggaeton-venezuela",
+  "name": "Mérida Reggaetón Venezolano Comercial",
+  "category": "scene",
+  "badge": "Mérida Reggaetón 58",
+  "headline": "Mérida (Andes Mukumbarí) Reggaetón Venezolano Comercial: Pistas WAV & Pago Binance Pay / Zelle",
+  "description": "Dembow bailable, sintetizadores luminosos y bajos envolventes para sonar en todas las fiestas y emisoras de Mérida.",
+  "targetArtists": [
+    "Artistas de Mérida",
+    "Comunidad Urbana 58",
+    "Movimiento Hip-Hop Venezuela"
+  ],
+  "recommendedBpm": "94-100 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Mérida",
+    "Reggaetón 58",
+    "Binance Pay USDT",
+    "Avalado SACVEN"
+  ],
+  "popularGenres": [
+    "Reggaetón Venezolano Comercial",
+    "Trap 58",
+    "Boom Bap Criollo"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "merida-melodic-rnb-trap-ve",
+  "name": "Mérida Melodic R&B Trap Venezolano",
+  "category": "scene",
+  "badge": "Mérida R&B Criollo",
+  "headline": "Mérida (Andes Mukumbarí) Melodic R&B Trap Venezolano: Pistas WAV & Pago Binance Pay / Zelle",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de Mérida.",
+  "targetArtists": [
+    "Artistas de Mérida",
+    "Comunidad Urbana 58",
+    "Movimiento Hip-Hop Venezuela"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "Mérida",
+    "R&B Criollo",
+    "Binance Pay USDT",
+    "Avalado SACVEN"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap Venezolano",
+    "Trap 58",
+    "Boom Bap Criollo"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "cumana-trap-venezolano-pesado",
+  "name": "Cumaná Trap Venezolano Pesado Beats",
+  "category": "scene",
+  "badge": "Cumaná Trap 58",
+  "headline": "Cumaná (Sucre Primogénita) Trap Venezolano Pesado Beats: Pistas WAV & Pago Binance Pay / Zelle",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de Cumaná.",
+  "targetArtists": [
+    "Artistas de Cumaná",
+    "Comunidad Urbana 58",
+    "Movimiento Hip-Hop Venezuela"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Cumaná",
+    "Trap 58",
+    "Binance Pay USDT",
+    "Avalado SACVEN"
+  ],
+  "popularGenres": [
+    "Trap Venezolano Pesado Beats",
+    "Trap 58",
+    "Boom Bap Criollo"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "cumana-boom-bap-caraqueno",
+  "name": "Cumaná Boom Bap Clásico Venezolano",
+  "category": "scene",
+  "badge": "Cumaná Boom Bap Criollo",
+  "headline": "Cumaná (Sucre Primogénita) Boom Bap Clásico Venezolano: Pistas WAV & Pago Binance Pay / Zelle",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de Cumaná.",
+  "targetArtists": [
+    "Artistas de Cumaná",
+    "Comunidad Urbana 58",
+    "Movimiento Hip-Hop Venezuela"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Cumaná",
+    "Boom Bap Criollo",
+    "Binance Pay USDT",
+    "Avalado SACVEN"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Venezolano",
+    "Trap 58",
+    "Boom Bap Criollo"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "cumana-reggaeton-venezuela",
+  "name": "Cumaná Reggaetón Venezolano Comercial",
+  "category": "scene",
+  "badge": "Cumaná Reggaetón 58",
+  "headline": "Cumaná (Sucre Primogénita) Reggaetón Venezolano Comercial: Pistas WAV & Pago Binance Pay / Zelle",
+  "description": "Dembow bailable, sintetizadores luminosos y bajos envolventes para sonar en todas las fiestas y emisoras de Cumaná.",
+  "targetArtists": [
+    "Artistas de Cumaná",
+    "Comunidad Urbana 58",
+    "Movimiento Hip-Hop Venezuela"
+  ],
+  "recommendedBpm": "94-100 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Cumaná",
+    "Reggaetón 58",
+    "Binance Pay USDT",
+    "Avalado SACVEN"
+  ],
+  "popularGenres": [
+    "Reggaetón Venezolano Comercial",
+    "Trap 58",
+    "Boom Bap Criollo"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "cumana-melodic-rnb-trap-ve",
+  "name": "Cumaná Melodic R&B Trap Venezolano",
+  "category": "scene",
+  "badge": "Cumaná R&B Criollo",
+  "headline": "Cumaná (Sucre Primogénita) Melodic R&B Trap Venezolano: Pistas WAV & Pago Binance Pay / Zelle",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de Cumaná.",
+  "targetArtists": [
+    "Artistas de Cumaná",
+    "Comunidad Urbana 58",
+    "Movimiento Hip-Hop Venezuela"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "Cumaná",
+    "R&B Criollo",
+    "Binance Pay USDT",
+    "Avalado SACVEN"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap Venezolano",
+    "Trap 58",
+    "Boom Bap Criollo"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "punto-fijo-trap-venezolano-pesado",
+  "name": "Punto Fijo Trap Venezolano Pesado Beats",
+  "category": "scene",
+  "badge": "Punto Fijo Trap 58",
+  "headline": "Punto Fijo (Paraguaná Viento) Trap Venezolano Pesado Beats: Pistas WAV & Pago Binance Pay / Zelle",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de Punto Fijo.",
+  "targetArtists": [
+    "Artistas de Punto Fijo",
+    "Comunidad Urbana 58",
+    "Movimiento Hip-Hop Venezuela"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Punto Fijo",
+    "Trap 58",
+    "Binance Pay USDT",
+    "Avalado SACVEN"
+  ],
+  "popularGenres": [
+    "Trap Venezolano Pesado Beats",
+    "Trap 58",
+    "Boom Bap Criollo"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "punto-fijo-boom-bap-caraqueno",
+  "name": "Punto Fijo Boom Bap Clásico Venezolano",
+  "category": "scene",
+  "badge": "Punto Fijo Boom Bap Criollo",
+  "headline": "Punto Fijo (Paraguaná Viento) Boom Bap Clásico Venezolano: Pistas WAV & Pago Binance Pay / Zelle",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de Punto Fijo.",
+  "targetArtists": [
+    "Artistas de Punto Fijo",
+    "Comunidad Urbana 58",
+    "Movimiento Hip-Hop Venezuela"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Punto Fijo",
+    "Boom Bap Criollo",
+    "Binance Pay USDT",
+    "Avalado SACVEN"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Venezolano",
+    "Trap 58",
+    "Boom Bap Criollo"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "punto-fijo-reggaeton-venezuela",
+  "name": "Punto Fijo Reggaetón Venezolano Comercial",
+  "category": "scene",
+  "badge": "Punto Fijo Reggaetón 58",
+  "headline": "Punto Fijo (Paraguaná Viento) Reggaetón Venezolano Comercial: Pistas WAV & Pago Binance Pay / Zelle",
+  "description": "Dembow bailable, sintetizadores luminosos y bajos envolventes para sonar en todas las fiestas y emisoras de Punto Fijo.",
+  "targetArtists": [
+    "Artistas de Punto Fijo",
+    "Comunidad Urbana 58",
+    "Movimiento Hip-Hop Venezuela"
+  ],
+  "recommendedBpm": "94-100 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Punto Fijo",
+    "Reggaetón 58",
+    "Binance Pay USDT",
+    "Avalado SACVEN"
+  ],
+  "popularGenres": [
+    "Reggaetón Venezolano Comercial",
+    "Trap 58",
+    "Boom Bap Criollo"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "punto-fijo-melodic-rnb-trap-ve",
+  "name": "Punto Fijo Melodic R&B Trap Venezolano",
+  "category": "scene",
+  "badge": "Punto Fijo R&B Criollo",
+  "headline": "Punto Fijo (Paraguaná Viento) Melodic R&B Trap Venezolano: Pistas WAV & Pago Binance Pay / Zelle",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de Punto Fijo.",
+  "targetArtists": [
+    "Artistas de Punto Fijo",
+    "Comunidad Urbana 58",
+    "Movimiento Hip-Hop Venezuela"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "Punto Fijo",
+    "R&B Criollo",
+    "Binance Pay USDT",
+    "Avalado SACVEN"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap Venezolano",
+    "Trap 58",
+    "Boom Bap Criollo"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "los-teques-trap-venezolano-pesado",
+  "name": "Los Teques Trap Venezolano Pesado Beats",
+  "category": "scene",
+  "badge": "Los Teques Trap 58",
+  "headline": "Los Teques (Altos Mirandinos) Trap Venezolano Pesado Beats: Pistas WAV & Pago Binance Pay / Zelle",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de Los Teques.",
+  "targetArtists": [
+    "Artistas de Los Teques",
+    "Comunidad Urbana 58",
+    "Movimiento Hip-Hop Venezuela"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Los Teques",
+    "Trap 58",
+    "Binance Pay USDT",
+    "Avalado SACVEN"
+  ],
+  "popularGenres": [
+    "Trap Venezolano Pesado Beats",
+    "Trap 58",
+    "Boom Bap Criollo"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "los-teques-boom-bap-caraqueno",
+  "name": "Los Teques Boom Bap Clásico Venezolano",
+  "category": "scene",
+  "badge": "Los Teques Boom Bap Criollo",
+  "headline": "Los Teques (Altos Mirandinos) Boom Bap Clásico Venezolano: Pistas WAV & Pago Binance Pay / Zelle",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de Los Teques.",
+  "targetArtists": [
+    "Artistas de Los Teques",
+    "Comunidad Urbana 58",
+    "Movimiento Hip-Hop Venezuela"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Los Teques",
+    "Boom Bap Criollo",
+    "Binance Pay USDT",
+    "Avalado SACVEN"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Venezolano",
+    "Trap 58",
+    "Boom Bap Criollo"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "los-teques-reggaeton-venezuela",
+  "name": "Los Teques Reggaetón Venezolano Comercial",
+  "category": "scene",
+  "badge": "Los Teques Reggaetón 58",
+  "headline": "Los Teques (Altos Mirandinos) Reggaetón Venezolano Comercial: Pistas WAV & Pago Binance Pay / Zelle",
+  "description": "Dembow bailable, sintetizadores luminosos y bajos envolventes para sonar en todas las fiestas y emisoras de Los Teques.",
+  "targetArtists": [
+    "Artistas de Los Teques",
+    "Comunidad Urbana 58",
+    "Movimiento Hip-Hop Venezuela"
+  ],
+  "recommendedBpm": "94-100 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Los Teques",
+    "Reggaetón 58",
+    "Binance Pay USDT",
+    "Avalado SACVEN"
+  ],
+  "popularGenres": [
+    "Reggaetón Venezolano Comercial",
+    "Trap 58",
+    "Boom Bap Criollo"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "los-teques-melodic-rnb-trap-ve",
+  "name": "Los Teques Melodic R&B Trap Venezolano",
+  "category": "scene",
+  "badge": "Los Teques R&B Criollo",
+  "headline": "Los Teques (Altos Mirandinos) Melodic R&B Trap Venezolano: Pistas WAV & Pago Binance Pay / Zelle",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de Los Teques.",
+  "targetArtists": [
+    "Artistas de Los Teques",
+    "Comunidad Urbana 58",
+    "Movimiento Hip-Hop Venezuela"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "Los Teques",
+    "R&B Criollo",
+    "Binance Pay USDT",
+    "Avalado SACVEN"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap Venezolano",
+    "Trap 58",
+    "Boom Bap Criollo"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "barinas-trap-venezolano-pesado",
+  "name": "Barinas Trap Venezolano Pesado Beats",
+  "category": "scene",
+  "badge": "Barinas Trap 58",
+  "headline": "Barinas (Llanos Occidentales) Trap Venezolano Pesado Beats: Pistas WAV & Pago Binance Pay / Zelle",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de Barinas.",
+  "targetArtists": [
+    "Artistas de Barinas",
+    "Comunidad Urbana 58",
+    "Movimiento Hip-Hop Venezuela"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Barinas",
+    "Trap 58",
+    "Binance Pay USDT",
+    "Avalado SACVEN"
+  ],
+  "popularGenres": [
+    "Trap Venezolano Pesado Beats",
+    "Trap 58",
+    "Boom Bap Criollo"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "barinas-boom-bap-caraqueno",
+  "name": "Barinas Boom Bap Clásico Venezolano",
+  "category": "scene",
+  "badge": "Barinas Boom Bap Criollo",
+  "headline": "Barinas (Llanos Occidentales) Boom Bap Clásico Venezolano: Pistas WAV & Pago Binance Pay / Zelle",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de Barinas.",
+  "targetArtists": [
+    "Artistas de Barinas",
+    "Comunidad Urbana 58",
+    "Movimiento Hip-Hop Venezuela"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Barinas",
+    "Boom Bap Criollo",
+    "Binance Pay USDT",
+    "Avalado SACVEN"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Venezolano",
+    "Trap 58",
+    "Boom Bap Criollo"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "barinas-reggaeton-venezuela",
+  "name": "Barinas Reggaetón Venezolano Comercial",
+  "category": "scene",
+  "badge": "Barinas Reggaetón 58",
+  "headline": "Barinas (Llanos Occidentales) Reggaetón Venezolano Comercial: Pistas WAV & Pago Binance Pay / Zelle",
+  "description": "Dembow bailable, sintetizadores luminosos y bajos envolventes para sonar en todas las fiestas y emisoras de Barinas.",
+  "targetArtists": [
+    "Artistas de Barinas",
+    "Comunidad Urbana 58",
+    "Movimiento Hip-Hop Venezuela"
+  ],
+  "recommendedBpm": "94-100 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Barinas",
+    "Reggaetón 58",
+    "Binance Pay USDT",
+    "Avalado SACVEN"
+  ],
+  "popularGenres": [
+    "Reggaetón Venezolano Comercial",
+    "Trap 58",
+    "Boom Bap Criollo"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "barinas-melodic-rnb-trap-ve",
+  "name": "Barinas Melodic R&B Trap Venezolano",
+  "category": "scene",
+  "badge": "Barinas R&B Criollo",
+  "headline": "Barinas (Llanos Occidentales) Melodic R&B Trap Venezolano: Pistas WAV & Pago Binance Pay / Zelle",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de Barinas.",
+  "targetArtists": [
+    "Artistas de Barinas",
+    "Comunidad Urbana 58",
+    "Movimiento Hip-Hop Venezuela"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "Barinas",
+    "R&B Criollo",
+    "Binance Pay USDT",
+    "Avalado SACVEN"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap Venezolano",
+    "Trap 58",
+    "Boom Bap Criollo"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "la-guaira-trap-venezolano-pesado",
+  "name": "La Guaira Trap Venezolano Pesado Beats",
+  "category": "scene",
+  "badge": "La Guaira Trap 58",
+  "headline": "La Guaira (Litoral San Juan) Trap Venezolano Pesado Beats: Pistas WAV & Pago Binance Pay / Zelle",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de La Guaira.",
+  "targetArtists": [
+    "Artistas de La Guaira",
+    "Comunidad Urbana 58",
+    "Movimiento Hip-Hop Venezuela"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "La Guaira",
+    "Trap 58",
+    "Binance Pay USDT",
+    "Avalado SACVEN"
+  ],
+  "popularGenres": [
+    "Trap Venezolano Pesado Beats",
+    "Trap 58",
+    "Boom Bap Criollo"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "la-guaira-boom-bap-caraqueno",
+  "name": "La Guaira Boom Bap Clásico Venezolano",
+  "category": "scene",
+  "badge": "La Guaira Boom Bap Criollo",
+  "headline": "La Guaira (Litoral San Juan) Boom Bap Clásico Venezolano: Pistas WAV & Pago Binance Pay / Zelle",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de La Guaira.",
+  "targetArtists": [
+    "Artistas de La Guaira",
+    "Comunidad Urbana 58",
+    "Movimiento Hip-Hop Venezuela"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "La Guaira",
+    "Boom Bap Criollo",
+    "Binance Pay USDT",
+    "Avalado SACVEN"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Venezolano",
+    "Trap 58",
+    "Boom Bap Criollo"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "la-guaira-reggaeton-venezuela",
+  "name": "La Guaira Reggaetón Venezolano Comercial",
+  "category": "scene",
+  "badge": "La Guaira Reggaetón 58",
+  "headline": "La Guaira (Litoral San Juan) Reggaetón Venezolano Comercial: Pistas WAV & Pago Binance Pay / Zelle",
+  "description": "Dembow bailable, sintetizadores luminosos y bajos envolventes para sonar en todas las fiestas y emisoras de La Guaira.",
+  "targetArtists": [
+    "Artistas de La Guaira",
+    "Comunidad Urbana 58",
+    "Movimiento Hip-Hop Venezuela"
+  ],
+  "recommendedBpm": "94-100 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "La Guaira",
+    "Reggaetón 58",
+    "Binance Pay USDT",
+    "Avalado SACVEN"
+  ],
+  "popularGenres": [
+    "Reggaetón Venezolano Comercial",
+    "Trap 58",
+    "Boom Bap Criollo"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "la-guaira-melodic-rnb-trap-ve",
+  "name": "La Guaira Melodic R&B Trap Venezolano",
+  "category": "scene",
+  "badge": "La Guaira R&B Criollo",
+  "headline": "La Guaira (Litoral San Juan) Melodic R&B Trap Venezolano: Pistas WAV & Pago Binance Pay / Zelle",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de La Guaira.",
+  "targetArtists": [
+    "Artistas de La Guaira",
+    "Comunidad Urbana 58",
+    "Movimiento Hip-Hop Venezuela"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "La Guaira",
+    "R&B Criollo",
+    "Binance Pay USDT",
+    "Avalado SACVEN"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap Venezolano",
+    "Trap 58",
+    "Boom Bap Criollo"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
 ];

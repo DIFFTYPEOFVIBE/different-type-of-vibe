@@ -35862,4 +35862,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "ve/merida-ciudad-de-los-caballeros": {
+  "slug": "ve/merida-ciudad-de-los-caballeros",
+  "name": "Venezuela – Mérida (Ciudad de los Caballeros & Rap Andino)",
+  "flag": "🇻🇪",
+  "currency": "USD ($) / USDT",
+  "currencyCode": "USD",
+  "gateways": "Binance Pay, Zelle, Pago Móvil, Tarjetas, PayPal",
+  "pro": "SACVEN & SAPI",
+  "proFullName": "SACVEN",
+  "proGuide": "100% legal ante SACVEN con contrato en PDF descargable.",
+  "headline": "Beats en Mérida: Frío de los Andes, Pianos de Montaña & Hip-Hop Consciente",
+  "description": "La atmósfera universitaria y bohemia de los Andes venezolanos: guitarras acústicas nobles, pianos melancólicos y ritmos de boom bap pausados para narrar vivencias con altura.",
+  "popularGenres": [
+    "Mérida Conscious Rap",
+    "Andean Lofi Beat",
+    "Sierra Nevada Hip-Hop"
+  ],
+  "subClusters": []
+},
+  "ve/cumana-primogenita": {
+  "slug": "ve/cumana-primogenita",
+  "name": "Venezuela – Cumaná & Sucre (La Primogénita del Continente & Salsa-Rap)",
+  "flag": "🇻🇪",
+  "currency": "USD ($) / USDT",
+  "currencyCode": "USD",
+  "gateways": "Binance Pay, Zelle, Pago Móvil, Tarjetas, PayPal",
+  "pro": "SACVEN",
+  "proFullName": "SACVEN",
+  "proGuide": "100% original con entrega de stems multitrack.",
+  "headline": "Beats en Cumaná: La Primogénita, Sonido Costero Oriental & Boom Bap",
+  "description": "El orgullo histórico y el sabor caribeño de Sucre: vientos de metales con swing oriental, percusiones sincopadas y cajas contundentes para el rap con identidad oriental.",
+  "popularGenres": [
+    "Cumaná Oriental Beat",
+    "Sucre Coast Boom Bap",
+    "Eastern Rap 58"
+  ],
+  "subClusters": []
+},
+  "ve/punto-fijo-paraguana": {
+  "slug": "ve/punto-fijo-paraguana",
+  "name": "Venezuela – Punto Fijo & Paraguaná (Península de Viento & Trap Pesado)",
+  "flag": "🇻🇪",
+  "currency": "USD ($) / USDT",
+  "currencyCode": "USD",
+  "gateways": "Binance Pay, Zelle, Pago Móvil, Tarjetas, PayPal",
+  "pro": "SACVEN",
+  "proFullName": "SACVEN",
+  "proGuide": "100% libre de reclamos de derechos de autor.",
+  "headline": "Beats en Punto Fijo: Viento de Paraguaná, Sub-Bajos 808 & Sound Car",
+  "description": "La fuerza costera y petrolera de Falcón: caídas de bajo sub-808 arrolladoras a 32 Hz, baterías rápidas de trap moderno y sintetizadores afilados para autos y clubes.",
+  "popularGenres": [
+    "Punto Fijo Heavy Trap",
+    "Paraguaná Sound Car",
+    "Falcón Street Bass"
+  ],
+  "subClusters": []
+},
+  "ve/los-teques-miranda": {
+  "slug": "ve/los-teques-miranda",
+  "name": "Venezuela – Los Teques & Altos Mirandinos (Frío de Montaña & Drill)",
+  "flag": "🇻🇪",
+  "currency": "USD ($) / USDT",
+  "currencyCode": "USD",
+  "gateways": "Binance Pay, Zelle, Pago Móvil, Tarjetas, PayPal",
+  "pro": "SACVEN",
+  "proFullName": "SACVEN",
+  "proGuide": "100% compatible con agregadoras digitales.",
+  "headline": "Beats en Los Teques: Altos Mirandinos, Drill Frío & Vivencia de Calle",
+  "description": "El satélite montañoso de la capital: baterías de drill en terzinas a 140 BPM, campanas oscuras y bajos deslizantes que capturan el ritmo acelerado del habitante mirandino.",
+  "popularGenres": [
+    "Los Teques Drill",
+    "Altos Mirandinos Trap",
+    "Mountain Street 58"
+  ],
+  "subClusters": []
+},
+  "ve/guatire-guarenas-miranda": {
+  "slug": "ve/guatire-guarenas-miranda",
+  "name": "Venezuela – Guatire & Guarenas (Eje Oriental & Parranda Trap)",
+  "flag": "🇻🇪",
+  "currency": "USD ($) / USDT",
+  "currencyCode": "USD",
+  "gateways": "Binance Pay, Zelle, Pago Móvil, Tarjetas, PayPal",
+  "pro": "SACVEN",
+  "proFullName": "SACVEN",
+  "proGuide": "Garantía comercial de uso ilimitado en streaming.",
+  "headline": "Beats en Guatire & Guarenas: San Pedro, Furia Obrera & Dembow Pesado",
+  "description": "La vitalidad del gran dormitorio mirandino: percusiones afrovenezolanas tradicionales entrelazadas con dembow callejero y bajos demoledores para la movida urbana.",
+  "popularGenres": [
+    "Guatire Street Dembow",
+    "Guarenas Heavy Beat",
+    "Miranda Urban Flow"
+  ],
+  "subClusters": []
+},
+  "ve/acarigua-araure-portuguesa": {
+  "slug": "ve/acarigua-araure-portuguesa",
+  "name": "Venezuela – Acarigua & Araure (Capital Agrícola & Llanero Trap)",
+  "flag": "🇻🇪",
+  "currency": "USD ($) / USDT",
+  "currencyCode": "USD",
+  "gateways": "Binance Pay, Zelle, Pago Móvil, Tarjetas, PayPal",
+  "pro": "SACVEN",
+  "proFullName": "SACVEN",
+  "proGuide": "100% original con entrega de stems.",
+  "headline": "Beats en Acarigua: Granero de Venezuela, Cuatro Venezolano & 808s",
+  "description": "La pujanza de las ciudades gemelas de Portuguesa: rasgueos criollos de cuatro llanero, bajos contundentes y percusión urbana contemporánea para el nuevo trap del llano.",
+  "popularGenres": [
+    "Acarigua Llanero Trap",
+    "Araure Urban Beat",
+    "Portuguesa Street Flow"
+  ],
+  "subClusters": []
+},
+  "ve/barinas-llanos-occidentales": {
+  "slug": "ve/barinas-llanos-occidentales",
+  "name": "Venezuela – Barinas (Marquesina del Llano & Arpa Trap Bélico)",
+  "flag": "🇻🇪",
+  "currency": "USD ($) / USDT",
+  "currencyCode": "USD",
+  "gateways": "Binance Pay, Zelle, Pago Móvil, Tarjetas, PayPal",
+  "pro": "SACVEN",
+  "proFullName": "SACVEN",
+  "proGuide": "Licencias comerciales legales con PDF descargable.",
+  "headline": "Beats en Barinas: Arpa Llanera, Relatos de Sabana & Trap Pesado",
+  "description": "El corazón de la sabana y el ganado: punteos de arpa llanera afinada en escalas menores, tubas sintetizadas y caídas de 808 para historias reales de frontera y llano.",
+  "popularGenres": [
+    "Barinas Arpa Trap",
+    "Llanos Occidentales Beat",
+    "Corrido Criollo 58"
+  ],
+  "subClusters": []
+},
+  "ve/la-guaira-vargas-litoral": {
+  "slug": "ve/la-guaira-vargas-litoral",
+  "name": "Venezuela – La Guaira & Litoral Central (Tambores de San Juan & Dembow)",
+  "flag": "🇻🇪",
+  "currency": "USD ($) / USDT",
+  "currencyCode": "USD",
+  "gateways": "Binance Pay, Zelle, Pago Móvil, Tarjetas, PayPal",
+  "pro": "SACVEN",
+  "proFullName": "SACVEN",
+  "proGuide": "100% libre de reclamos de Content ID.",
+  "headline": "Beats en La Guaira: Tambores del Litoral, Olas del Caribe & Dembow",
+  "description": "El calor y el sabor de la costa caraqueña: tambores cumaco afrovenezolanos, sintetizadores tropicales y ritmos de dembow y reggaetón que incendian las playas y malecones.",
+  "popularGenres": [
+    "La Guaira Afro-Dembow",
+    "Litoral Central Beat",
+    "San Juan Trap"
+  ],
+  "subClusters": []
+},
+  "ve/cabimas-costa-oriental-lago": {
+  "slug": "ve/cabimas-costa-oriental-lago",
+  "name": "Venezuela – Cabimas & Costa Oriental (Pozos Petroleros & Furia Zuliana)",
+  "flag": "🇻🇪",
+  "currency": "USD ($) / USDT",
+  "currencyCode": "USD",
+  "gateways": "Binance Pay, Zelle, Pago Móvil, Tarjetas, PayPal",
+  "pro": "SACVEN",
+  "proFullName": "SACVEN",
+  "proGuide": "100% original con entrega de stems multitrack.",
+  "headline": "Beats en Cabimas: Petróleo del Lago, Gaita-Trap & Sub-Bass Extremo",
+  "description": "La costa este del Lago de Maracaibo: balanceos rítmicos pesados, bombos de trap industrial y furros sintetizados para producciones con auténtico poder zuliano.",
+  "popularGenres": [
+    "Cabimas Petroleum Trap",
+    "Costa Oriental Beat",
+    "Zulia Heavy Sound"
+  ],
+  "subClusters": []
+},
+  "ve/maturin-monagas": {
+  "slug": "ve/maturin-monagas",
+  "name": "Venezuela – Maturín & Monagas (La Ciudad Distinta & Trap del Este)",
+  "flag": "🇻🇪",
+  "currency": "USD ($) / USDT",
+  "currencyCode": "USD",
+  "gateways": "Binance Pay, Zelle, Pago Móvil, Tarjetas, PayPal",
+  "pro": "SACVEN",
+  "proFullName": "SACVEN",
+  "proGuide": "Licencias con derechos mundiales de monetización.",
+  "headline": "Beats en Maturín: Energía Monaguense, Trap Apretado & Flow Callejero",
+  "description": "El enlace oriental entre los llanos y el delta: baterías sólidas de trap, sintetizadores envolventes y bajos profundos para la creciente escena hip-hop de Monagas.",
+  "popularGenres": [
+    "Maturín Street Trap",
+    "Monagas Underground",
+    "Eastern 58 Banger"
+  ],
+  "subClusters": []
+},
 };
