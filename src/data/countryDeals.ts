@@ -37638,4 +37638,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "gr/athens-central": {
+  "slug": "gr/athens-central",
+  "name": "Greece – Athens (Αθήνα: Exarcheia, Kolonaki & Greek Trap Capital)",
+  "flag": "🇬🇷",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "IRIS Payments, Viva Wallet, Alpha Bank, Eurobank, NBG, Piraeus, Cards, Apple Pay, PayPal",
+  "pro": "AUTODIA",
+  "proFullName": "AUTODIA (ΑΥΤΟΔΙΑΧΕΙΡΙΣΗ)",
+  "proGuide": "100% compliant with AUTODIA guidelines and downloadable PDF licensing agreement.",
+  "headline": "Beats in Athens: Capital Street Trap, Drill & Ancient Heritage Bass",
+  "description": "The creative and industrial epicentre of Greek urban music: sliding 808 sub-bass, menacing synth horns, and sharp percussion for MCs across Exarcheia, Gazi, Pangrati, and Peristeri.",
+  "popularGenres": [
+    "Athens Street Trap",
+    "Greek Drill",
+    "Attica Underground"
+  ],
+  "subClusters": []
+},
+  "gr/thessaloniki-symprotevousa": {
+  "slug": "gr/thessaloniki-symprotevousa",
+  "name": "Greece – Thessaloniki (Θεσσαλονίκη: SKG Flow & Melancholic Trap)",
+  "flag": "🇬🇷",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "IRIS Payments, Viva Wallet, Alpha Bank, Eurobank, NBG, Piraeus, Cards, Apple Pay, PayPal",
+  "pro": "AUTODIA",
+  "proFullName": "AUTODIA (ΑΥΤΟΔΙΑΧΕΙΡΙΣΗ)",
+  "proGuide": "Pristine 24-bit studio WAV delivery with European commercial clearance.",
+  "headline": "Beats in Thessaloniki (SKG): Northern Soul, Melancholic Trap & Bouzouki",
+  "description": "The co-capital and soul of northern Greek hip-hop: weeping minor pianos, acoustic bouzouki arpeggios, and hard 808 drums for artists in Ladadika, Toumba, and Kalamaria.",
+  "popularGenres": [
+    "SKG Melodic Trap",
+    "Northern Greek Rap",
+    "Bouzouki Trap Fusion"
+  ],
+  "subClusters": []
+},
+  "gr/piraeus-port-gate": {
+  "slug": "gr/piraeus-port-gate",
+  "name": "Greece – Piraeus (Πειραιάς: Port Gateway, Rebetiko Legacy & Heavy 808s)",
+  "flag": "🇬🇷",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "IRIS Payments, Viva Wallet, Alpha Bank, Eurobank, NBG, Piraeus, Cards, Apple Pay, PayPal",
+  "pro": "AUTODIA",
+  "proFullName": "AUTODIA (ΑΥΤΟΔΙΑΧΕΙΡΙΣΗ)",
+  "proGuide": "100% original master production with separated multitrack stem delivery.",
+  "headline": "Beats in Piraeus: Port Town Grit, Rebetiko Underworld & Raw Trap Drops",
+  "description": "Where historic Rebetiko outlaw songs meet modern street trap: heavy analog basslines, maritime street grit, and punchy snares crafted for Piraeus, Kastella, and Pasalimani artists.",
+  "popularGenres": [
+    "Piraeus Port Trap",
+    "Rebetiko Fusion",
+    "Outlaw Street Drill"
+  ],
+  "subClusters": []
+},
+  "gr/patras-west-peloponnese": {
+  "slug": "gr/patras-west-peloponnese",
+  "name": "Greece – Patras (Πάτρα: Peloponnese Youth Hub & Carnival Trap)",
+  "flag": "🇬🇷",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "IRIS Payments, Viva Wallet, Alpha Bank, Eurobank, NBG, Piraeus, Cards, Apple Pay, PayPal",
+  "pro": "AUTODIA",
+  "proFullName": "AUTODIA (ΑΥΤΟΔΙΑΧΕΙΡΙΣΗ)",
+  "proGuide": "Worldwide digital monetization rights for Spotify, Apple Music, and YouTube.",
+  "headline": "Beats in Patras: University Energy, Port of the West & Modern Trap",
+  "description": "The vibrant gateway to Western Greece: infectious melodic synth leads, fast hi-hat rolls, and festival bounce designed for Patras student MCs and live stage performers.",
+  "popularGenres": [
+    "Patras Youth Trap",
+    "Peloponnese Rap",
+    "Festival Urban Banger"
+  ],
+  "subClusters": []
+},
+  "gr/heraklion-crete-island": {
+  "slug": "gr/heraklion-crete-island",
+  "name": "Greece – Heraklion & Crete (Ηράκλειο, Κρήτη: Cretan Lyra & Island 808s)",
+  "flag": "🇬🇷",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "IRIS Payments, Viva Wallet, Alpha Bank, Eurobank, NBG, Piraeus, Cards, Apple Pay, PayPal",
+  "pro": "AUTODIA",
+  "proFullName": "AUTODIA (ΑΥΤΟΔΙΑΧΕΙΡΙΣΗ)",
+  "proGuide": "Instant IRIS interbank checkout with immediate file access.",
+  "headline": "Beats in Heraklion: Cretan Lyra Melodies, Proud Island Bass & Trap",
+  "description": "The fierce musical pride of Crete: authentic Cretan Lyra and Lauto strings fused with thunderous trap sub-bass, echoing through Heraklion, Chania, and Rethymno.",
+  "popularGenres": [
+    "Cretan Lyra Trap",
+    "Heraklion Island Drill",
+    "Cretan Outlaw Rap"
+  ],
+  "subClusters": []
+},
+  "gr/larissa-thessaly-plains": {
+  "slug": "gr/larissa-thessaly-plains",
+  "name": "Greece – Larissa (Λάρισα: Thessalian Plains & Fast Street Trap)",
+  "flag": "🇬🇷",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "IRIS Payments, Viva Wallet, Alpha Bank, Eurobank, NBG, Piraeus, Cards, Apple Pay, PayPal",
+  "pro": "AUTODIA",
+  "proFullName": "AUTODIA (ΑΥΤΟΔΙΑΧΕΙΡΙΣΗ)",
+  "proGuide": "100% royalty-free beats with full commercial sync rights.",
+  "headline": "Beats in Larissa: Thessalian Capital, Aggressive 808s & Fast Flow Trap",
+  "description": "The beating heart of central Greece: high-energy trap hi-hats, hard-hitting kicks, and relentless brass lines tailored for the active underground scene of Thessaly.",
+  "popularGenres": [
+    "Larissa Street Trap",
+    "Thessalian 808",
+    "Central Greek Rap"
+  ],
+  "subClusters": []
+},
+  "gr/volos-pilion-port": {
+  "slug": "gr/volos-pilion-port",
+  "name": "Greece – Volos (Βόλος: Pagasetic Gulf, Coastal Chillhop & Urban Flow)",
+  "flag": "🇬🇷",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "IRIS Payments, Viva Wallet, Alpha Bank, Eurobank, NBG, Piraeus, Cards, Apple Pay, PayPal",
+  "pro": "AUTODIA",
+  "proFullName": "AUTODIA (ΑΥΤΟΔΙΑΧΕΙΡΙΣΗ)",
+  "proGuide": "Direct download in WAV and MP3 formats with invoice.",
+  "headline": "Beats in Volos: Pagasetic Coastline, Tsipouradiko Vibe & Melodic Rap",
+  "description": "Where Mount Pelion meets the Aegean Sea: relaxed guitar chords, nostalgic Rhodes keys, and clean boombap/trap rhythms crafted for Volos coastal songwriters and MCs.",
+  "popularGenres": [
+    "Volos Coastal Trap",
+    "Pilion Chillhop",
+    "Aegean Melodic Rap"
+  ],
+  "subClusters": []
+},
+  "gr/ioannina-epirus-lake": {
+  "slug": "gr/ioannina-epirus-lake",
+  "name": "Greece – Ioannina (Ιωάννινα: Lake Pamvotida & Clarino Pentatonic Trap)",
+  "flag": "🇬🇷",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "IRIS Payments, Viva Wallet, Alpha Bank, Eurobank, NBG, Piraeus, Cards, Apple Pay, PayPal",
+  "pro": "AUTODIA",
+  "proFullName": "AUTODIA (ΑΥΤΟΔΙΑΧΕΙΡΙΣΗ)",
+  "proGuide": "Full mechanical rights clearance under Greek copyright law.",
+  "headline": "Beats in Ioannina: Epirus Pentatonic Roots, Crying Clarinet & Heavy Bass",
+  "description": "The mystical capital of Epirus: melancholic pentatonic folk melodies, wailing Greek Clarinet (Κλαρίνο) layers, and heavy modern 808 glides for deep storytelling.",
+  "popularGenres": [
+    "Epirus Clarino Trap",
+    "Ioannina Pentatonic Rap",
+    "Mountain Lake Beat"
+  ],
+  "subClusters": []
+},
+  "gr/rhodes-dodecanese-sun": {
+  "slug": "gr/rhodes-dodecanese-sun",
+  "name": "Greece – Rhodes (Ρόδος: Dodecanese Capital & Summer Nightclub Trap)",
+  "flag": "🇬🇷",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "IRIS Payments, Viva Wallet, Alpha Bank, Eurobank, NBG, Piraeus, Cards, Apple Pay, PayPal",
+  "pro": "AUTODIA",
+  "proFullName": "AUTODIA (ΑΥΤΟΔΙΑΧΕΙΡΙΣΗ)",
+  "proGuide": "Commercial radio and DJ performance authorization included.",
+  "headline": "Beats in Rhodes: Medieval Old Town, Aegean Sun & VIP Club Anthems",
+  "description": "The premier island tourist hub: upbeat commercial trap, bright tropical plucks, and punchy 808s crafted for summer festival bangers, resort parties, and viral music videos.",
+  "popularGenres": [
+    "Rhodes VIP Trap",
+    "Dodecanese Summer Banger",
+    "Aegean Club Beat"
+  ],
+  "subClusters": []
+},
+  "gr/chania-west-crete": {
+  "slug": "gr/chania-west-crete",
+  "name": "Greece – Chania (Χανιά: Venetian Harbor, Outlaw Folk & Coastal Rap)",
+  "flag": "🇬🇷",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "IRIS Payments, Viva Wallet, Alpha Bank, Eurobank, NBG, Piraeus, Cards, Apple Pay, PayPal",
+  "pro": "AUTODIA",
+  "proFullName": "AUTODIA (ΑΥΤΟΔΙΑΧΕΙΡΙΣΗ)",
+  "proGuide": "Immediate stems multitrack download for studio recording.",
+  "headline": "Beats in Chania: Old Venetian Port, Cretan Mantinada & Conscious Trap",
+  "description": "The proud western soul of Crete: acoustic nylon guitars, folk Mantinada chord progressions, and modern hip-hop drums tailored for lyrical and conscious Cretan artists.",
+  "popularGenres": [
+    "Chania Conscious Rap",
+    "West Crete Folk Trap",
+    "Venetian Port Vibe"
+  ],
+  "subClusters": []
+},
 };
