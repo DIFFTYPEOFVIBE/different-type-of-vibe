@@ -34064,4 +34064,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "gt/chinautla-tierra-nueva": {
+  "slug": "gt/chinautla-tierra-nueva",
+  "name": "Guatemala – Chinautla & Tierra Nueva (Rap de Barrio del Norte)",
+  "flag": "🇬🇹",
+  "currency": "GTQ (Q) / USD ($)",
+  "currencyCode": "GTQ",
+  "gateways": "Transfer Móvil BI, Fri, Banrural, Tarjetas, Apple Pay, PayPal",
+  "pro": "AEI Guatemala",
+  "proFullName": "AEI Guatemala",
+  "proGuide": "100% legal ante AEI con contrato en PDF descargable.",
+  "headline": "Beats en Chinautla: Trap Callejero Pesado, 808s Profundos & Barrio 502",
+  "description": "La realidad urbana y la fuerza juvenil de Tierra Nueva y Chinautla: caídas de bajo 808 ensordecedoras, melodías de sintetizador oscuro y baterías implacables para el hip-hop combativo.",
+  "popularGenres": [
+    "Chinautla Street Trap",
+    "Tierra Nueva 502",
+    "Underground Metro"
+  ],
+  "subClusters": []
+},
+  "gt/san-pedro-carcha-verapaz": {
+  "slug": "gt/san-pedro-carcha-verapaz",
+  "name": "Guatemala – San Pedro Carchá & Alta Verapaz (Comercio & Marimba Maya)",
+  "flag": "🇬🇹",
+  "currency": "GTQ (Q) / USD ($)",
+  "currencyCode": "GTQ",
+  "gateways": "Transfer Móvil BI, Fri, Banrural, Tarjetas, Apple Pay, PayPal",
+  "pro": "AEI Guatemala",
+  "proFullName": "AEI Guatemala",
+  "proGuide": "100% original con entrega de stems multitrack.",
+  "headline": "Beats en San Pedro Carchá: Marimba de las Verapaces & Trap Fusión",
+  "description": "El corazón comercial y cultural q'eqchi' de Alta Verapaz: melodías virtuosas de marimba tradicional entrelazadas con ritmos urbanos contemporáneos para la nueva generación.",
+  "popularGenres": [
+    "Carchá Marimba Trap",
+    "Alta Verapaz Hip-Hop",
+    "Qeqchi Urban Beat"
+  ],
+  "subClusters": []
+},
+  "gt/huehuetenango-los-cuchumatanes": {
+  "slug": "gt/huehuetenango-los-cuchumatanes",
+  "name": "Guatemala – Huehuetenango (Sierra de los Cuchumatanes & Rap de Altura)",
+  "flag": "🇬🇹",
+  "currency": "GTQ (Q) / USD ($)",
+  "currencyCode": "GTQ",
+  "gateways": "Transfer Móvil BI, Fri, Banrural, Bam, Tarjetas, Apple Pay, PayPal",
+  "pro": "AEI Guatemala",
+  "proFullName": "AEI Guatemala",
+  "proGuide": "100% libre de reclamos de derechos de autor.",
+  "headline": "Beats en Huehuetenango: Frío de los Cuchumatanes, Guitarras & Rap Consciente",
+  "description": "La majestuosidad de la cordillera más alta de Centroamérica: arpegios acústicos reflexivos, baterías con swing pausado y bajos redondos para el liricismo que trasciende fronteras.",
+  "popularGenres": [
+    "Huehue Lyrical Rap",
+    "Cuchumatanes Acoustic",
+    "Border Hip-Hop"
+  ],
+  "subClusters": []
+},
+  "gt/chimaltenango-valle-central": {
+  "slug": "gt/chimaltenango-valle-central",
+  "name": "Guatemala – Chimaltenango (Cruce del Altiplano & Trap Urbano)",
+  "flag": "🇬🇹",
+  "currency": "GTQ (Q) / USD ($)",
+  "currencyCode": "GTQ",
+  "gateways": "Transfer Móvil BI, Fri, Banrural, Tarjetas, Apple Pay, PayPal",
+  "pro": "AEI Guatemala",
+  "proFullName": "AEI Guatemala",
+  "proGuide": "100% compatible con agregadoras digitales.",
+  "headline": "Beats en Chimaltenango: Encrucijada del País, Trap Rápido & Boom Bap",
+  "description": "El punto neurálgico que conecta la capital con todo el occidente guatemalteco: baterías apretadas de trap moderno, hi-hats frenéticos y melodías contagiosas para artistas en movimiento.",
+  "popularGenres": [
+    "Chimaltenango Trap",
+    "Altiplano Boom Bap",
+    "Crossroads 502"
+  ],
+  "subClusters": []
+},
+  "gt/mazatenango-suchitepequez": {
+  "slug": "gt/mazatenango-suchitepequez",
+  "name": "Guatemala – Mazatenango (Capital del Carnaval & Fiesta Dembow)",
+  "flag": "🇬🇹",
+  "currency": "GTQ (Q) / USD ($)",
+  "currencyCode": "GTQ",
+  "gateways": "Transfer Móvil BI, Fri, Banrural, Tarjetas, Apple Pay, PayPal",
+  "pro": "AEI Guatemala",
+  "proFullName": "AEI Guatemala",
+  "proGuide": "Garantía comercial de uso ilimitado en streaming.",
+  "headline": "Beats en Mazatenango: Fervor del Carnaval, Metales Vivos & Dembow Costeño",
+  "description": "La alegría festiva de la costa caliente de Suchitepéquez: secciones de metales vivos, dembow sincopado acelerado y bajos poderosos diseñados para desatar el baile en caravanas y conciertos.",
+  "popularGenres": [
+    "Mazate Carnaval Beat",
+    "Costa Sur Dembow",
+    "Suchitepéquez Party"
+  ],
+  "subClusters": []
+},
+  "gt/retalhuleu-costa-calida": {
+  "slug": "gt/retalhuleu-costa-calida",
+  "name": "Guatemala – Retalhuleu / Reu (Tierra Cálida & Reggaetón Playero)",
+  "flag": "🇬🇹",
+  "currency": "GTQ (Q) / USD ($)",
+  "currencyCode": "GTQ",
+  "gateways": "Transfer Móvil BI, Fri, Banrural, Tarjetas, Apple Pay, PayPal",
+  "pro": "AEI Guatemala",
+  "proFullName": "AEI Guatemala",
+  "proGuide": "100% original con entrega de stems.",
+  "headline": "Beats en Retalhuleu: Diversión del Pacífico, Reggaetón Suave & Trap Tropical",
+  "description": "El sol radiante del suroccidente: sintetizadores luminosos, percusión dembow limpia y melodías comerciales ideales para éxitos de verano y videos en la playa de Champerico.",
+  "popularGenres": [
+    "Reu Reggaetón",
+    "Champerico Tropical Trap",
+    "Costa Cálida Sound"
+  ],
+  "subClusters": []
+},
+  "gt/chiquimula-la-perla-de-oriente": {
+  "slug": "gt/chiquimula-la-perla-de-oriente",
+  "name": "Guatemala – Chiquimula (La Perla de Oriente & Corredor Fronterizo)",
+  "flag": "🇬🇹",
+  "currency": "GTQ (Q) / USD ($)",
+  "currencyCode": "GTQ",
+  "gateways": "Transfer Móvil BI, Fri, Banrural, Bam, Tarjetas, Apple Pay, PayPal",
+  "pro": "AEI Guatemala",
+  "proFullName": "AEI Guatemala",
+  "proGuide": "Licencias comerciales legales con PDF descargable.",
+  "headline": "Beats en Chiquimula: Fuerza Oriental, Trap Fronterizo & Calle Firme",
+  "description": "El orgullo y la determinación del oriente guatemalteco: baterías pesadas con ataque frontal, bajos imponentes y melodías que capturan la resistencia y el carácter del triángulo fronterizo.",
+  "popularGenres": [
+    "Chiquimula Trap",
+    "Oriente Street Sound",
+    "Trifinio Beat"
+  ],
+  "subClusters": []
+},
+  "gt/zacapa-valle-del-sol": {
+  "slug": "gt/zacapa-valle-del-sol",
+  "name": "Guatemala – Zacapa (Valle del Sol & Ritmos Calientes)",
+  "flag": "🇬🇹",
+  "currency": "GTQ (Q) / USD ($)",
+  "currencyCode": "GTQ",
+  "gateways": "Transfer Móvil BI, Fri, Banrural, Tarjetas, Apple Pay, PayPal",
+  "pro": "AEI Guatemala",
+  "proFullName": "AEI Guatemala",
+  "proGuide": "100% libre de reclamos de Content ID.",
+  "headline": "Beats en Zacapa: Tierra Caliente, Dembow Enérgico & Fusión Urbana",
+  "description": "La pasión del Valle del Sol: cajas contundentes, teclados de fiesta bailable y caídas rítmicas diseñadas para poner a vibrar a toda la afición en eventos multitudinarios.",
+  "popularGenres": [
+    "Zacapa Dembow",
+    "Valle del Sol Party",
+    "Hot Weather Urban"
+  ],
+  "subClusters": []
+},
+  "gt/san-marcos-frontera-mexico": {
+  "slug": "gt/san-marcos-frontera-mexico",
+  "name": "Guatemala – San Marcos & Malacatán (Frontera Mexicana & Corrido Trap)",
+  "flag": "🇬🇹",
+  "currency": "GTQ (Q) / USD ($)",
+  "currencyCode": "GTQ",
+  "gateways": "Transfer Móvil BI, Fri, Banrural, Tarjetas, Apple Pay, PayPal",
+  "pro": "AEI Guatemala",
+  "proFullName": "AEI Guatemala",
+  "proGuide": "100% original con entrega de stems multitrack.",
+  "headline": "Beats en San Marcos: Cruce Fronterizo, Requinto de Corridos & Trap Pesado",
+  "description": "La intensa influencia del cruce limítrofe con México: requintos virtuosos de guitarra acústica, bajos de tuba sintetizada y baterías de trap 808 para historias reales de frontera.",
+  "popularGenres": [
+    "Corrido Trap Chapín",
+    "San Marcos Border Beat",
+    "Requinto 808"
+  ],
+  "subClusters": []
+},
+  "gt/solola-lago-atitlan": {
+  "slug": "gt/solola-lago-atitlan",
+  "name": "Guatemala – Sololá & Lago de Atitlán (El Lago Más Bello & Lofi Místico)",
+  "flag": "🇬🇹",
+  "currency": "GTQ (Q) / USD ($)",
+  "currencyCode": "GTQ",
+  "gateways": "Transfer Móvil BI, Fri, Banrural, Tarjetas, Apple Pay, PayPal",
+  "pro": "AEI Guatemala",
+  "proFullName": "AEI Guatemala",
+  "proGuide": "Licencias con derechos mundiales de monetización.",
+  "headline": "Beats en Atitlán: Atardeceres de Panajachel, Guitarras Lofi & Chill Trap",
+  "description": "La paz mística del lago rodeado de volcanes: suaves ondulaciones de sintetizador, arpegios acústicos orgánicos y baterías lentas para música reflexiva, meditación y rap poético.",
+  "popularGenres": [
+    "Atitlán Chill Trap",
+    "Panajachel Lofi",
+    "Volcano Sunset Beat"
+  ],
+  "subClusters": []
+},
 };
