@@ -73482,4 +73482,1300 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "2"
   ]
 },
+  {
+  "slug": "crooked-stilo-cumbia-urban-salvadorena",
+  "title": "Crooked Stilo Cumbia Urbana & Hip-Hop Salvadoreño Type Beat",
+  "description": "Instrumental legendaria que une la cumbia tradicional salvadoreña con el West Coast hip-hop y 808s modernos, inspirada en los pioneros Crooked Stilo (Ya Lo Sabía).",
+  "targetKeywords": [
+    "crooked stilo type beat",
+    "cumbia urbana salvadorena",
+    "bases de cumbia hip hop 503",
+    "beats estilo crooked stilo",
+    "cumbia rap el salvador"
+  ],
+  "heroCta": "Comprar Beat Crooked Stilo (Pago con Wompi $)",
+  "energyLevel": "Very High",
+  "primaryUse": "Cumbia Urbana, Himno Comunitario y Banger de Fiesta",
+  "similarArtists": [
+    "Crooked Stilo",
+    "Akapellah",
+    "Kinto Sol",
+    "Los Rakas"
+  ],
+  "recommendedBpm": "100-106 BPM",
+  "productionTips": "Combina el acordeón de cumbia con un güiro raspado en semicorcheas y un bajo 808 potente en el primer tiempo.",
+  "idealVocalStyle": "Voz bilingüe con slang guanaco o spanglish, rimas rápidas y actitud fiestera.",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "Insuperable para la comunidad salvadoreña en El Salvador y la diáspora en EE.UU."
+},
+  {
+  "slug": "pescozada-conscious-rap-503-legend",
+  "title": "Pescozada Conscious Rap & Liricismo Contestatario 503 Beat",
+  "description": "Beat clásico de hip-hop contestatario inspirado en la leyenda salvadoreña Pescozada, con cuerdas dramáticas en bucle, cajas secas de MPC y mensaje político de resistencia.",
+  "targetKeywords": [
+    "pescozada type beat",
+    "rap consciente salvadoreno",
+    "boom bap 503 pescozada",
+    "bases de rap contestatario el salvador",
+    "hip hop salvadoreno clasico"
+  ],
+  "heroCta": "Comprar Beat Pescozada (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Rap Consciente, Hip-Hop Político y Crónica Histórica",
+  "similarArtists": [
+    "Pescozada",
+    "Kontra Marín",
+    "Rebeca Lane",
+    "Canserbero"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "productionTips": "Cuerdas orquestales menores con saturación de cinta y bajo sintetizado analógico con pegada firme.",
+  "idealVocalStyle": "Entrega vocal rasgada e intensa con rimas directas sobre la realidad social e histórica.",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "Ideal para la comunidad más fiel de hip-hop underground latinoamericano."
+},
+  {
+  "slug": "zaki-liricismo-salvadoreno-boom-bap",
+  "title": "Zaki Liricismo Salvadoreño & Jazz Rap Bohemia Type Beat",
+  "description": "Instrumental refinada de hip-hop lírico inspirada en Zaki (La Bohemia), con trompetas de jazz melancólicas, bajos acústicos caminantes y baterías con swing holgado.",
+  "targetKeywords": [
+    "zaki type beat",
+    "jazz rap salvadoreno",
+    "boom bap lirico zaki",
+    "bases de rap con trompeta el salvador",
+    "beats de hip hop bohemio 503"
+  ],
+  "heroCta": "Comprar Beat Zaki Bohemia (Licencia Comercial)",
+  "energyLevel": "Medium",
+  "primaryUse": "Rap Filosófico, Liricismo Complejo y Storytelling",
+  "similarArtists": [
+    "Zaki",
+    "Kontra Marín",
+    "Dilemma",
+    "Esnar"
+  ],
+  "recommendedBpm": "86-90 BPM",
+  "productionTips": "Sampleo sutil de piano eléctrico Rhodes con trompeta con sordina que responda a los versos.",
+  "idealVocalStyle": "Métricas complejas, voz serena y rimas reflexivas de alto intelecto.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Perfecto para playlists de 'Liricistas del Rap' y 'Jazz Hop en Español'."
+},
+  {
+  "slug": "dakos-street-trap-pesado-503",
+  "title": "Dakos Street Trap Pesado & Barras de Calle 503 Type Beat",
+  "description": "Instrumental agresiva de trap callejero salvadoreño inspirada en Dakos, con campanas tétricas, hi-hats rápidos con tresillos y bajos 808 que estremecen para rimas de barrio.",
+  "targetKeywords": [
+    "dakos type beat",
+    "trap pesado el salvador",
+    "bases de trap 503 dakos",
+    "beats callejeros salvadorenos",
+    "trap san salvador 808"
+  ],
+  "heroCta": "Comprar Beat Dakos Trap (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Trap Callejero, Banger de Barrio y Video Musical",
+  "similarArtists": [
+    "Dakos",
+    "Crypy",
+    "Tropa 506",
+    "Poesía Callejera"
+  ],
+  "recommendedBpm": "134-140 BPM",
+  "productionTips": "Añade portamento marcado en el sub-808 en notas altas para provocar vibraciones dinámicas.",
+  "idealVocalStyle": "Voz grave y agresiva, rimas rápidas y relato crudo de la vivencia urbana.",
+  "suggestedKey": "F# Minor",
+  "streamingSuitability": "Insuperable para listas de Trap Latino Pesado y Car Audio en Centroamérica."
+},
+  {
+  "slug": "yeik-pop-urbano-reggaeton-salvador",
+  "title": "Yeik Pop Urbano & Reggaetón Guanaco Comercial Type Beat",
+  "description": "Base fresca y contagiosa de pop urbano y reggaetón comercial inspirada en Yeik, con sintetizadores brillantes, baterías dembow limpias y ganchos listos para sonar en emisoras salvadoreñas.",
+  "targetKeywords": [
+    "yeik type beat",
+    "pop urbano salvadoreno",
+    "reggaeton guanaco banger",
+    "bases de pop latino el salvador",
+    "beats comerciales yeik"
+  ],
+  "heroCta": "Comprar Beat Pop Urbano (Licencia Comercial)",
+  "energyLevel": "High",
+  "primaryUse": "Pop Urbano Comercial, Radio Hit y Canción Bailable",
+  "similarArtists": [
+    "Yeik",
+    "Ale Mendoza",
+    "Kavvo",
+    "Ryan Castro"
+  ],
+  "recommendedBpm": "94-98 BPM",
+  "productionTips": "Mantén la percusión dembow nítida y al frente con un toque de sidechain sobre los acordes del sintetizador.",
+  "idealVocalStyle": "Voz melódica con autotune estilizado, coros pegajosos y versos para cantar en conciertos.",
+  "suggestedKey": "G Major",
+  "streamingSuitability": "El formato ideal para sonar en las principales radios de San Salvador y listas de Spotify."
+},
+  {
+  "slug": "surf-city-el-tunco-sunset-chillhop",
+  "title": "Surf City El Tunco Sunset Chillhop & Pacific Coast Beats",
+  "description": "Guitarras acústicas de cuerdas de nailon, sonido ambiental de olas de El Tunco y El Zonte y texturas de vinilo lofi relajantes para el estilo de vida surfista de la costa salvadoreña.",
+  "targetKeywords": [
+    "surf city chillhop",
+    "el tunco sunset beat",
+    "lofi tropical el salvador",
+    "beats de surfistas guanacos",
+    "instrumental playa el salvador"
+  ],
+  "heroCta": "Comprar Beat Surf City (Uso Ilimitado)",
+  "energyLevel": "Low",
+  "primaryUse": "Vlogs de Surf, Lofi Hip-Hop, Relaxing y Rap Melódico",
+  "similarArtists": [
+    "Monte",
+    "Sonámbulo",
+    "Nujabes",
+    "Tomppabeats"
+  ],
+  "recommendedBpm": "78-84 BPM",
+  "productionTips": "Añade samples ambientales de brisa marina y olas rompiendo bajo acordes de jazz en guitarra española.",
+  "idealVocalStyle": "Spoken word tranquilo, rap poético suave o simplemente para escuchar en modo instrumental.",
+  "suggestedKey": "C Major",
+  "streamingSuitability": "Perfecto para listas de reproducción de estudio, relax, cafeterías y videos de surf."
+},
+  {
+  "slug": "cumbia-salvadorena-hermanos-flores-trap",
+  "title": "Cumbia Salvadoreña Hermanos Flores & Trap 808 Fusión Beat",
+  "description": "Fusión festiva y energética que une los vientos alegres de la cumbia tradicional salvadoreña estilo Los Hermanos Flores y Marito Rivera con caídas de trap y dembow moderno.",
+  "targetKeywords": [
+    "cumbia salvadorena hermanos flores beat",
+    "cumbia fiesta 503 trap",
+    "marito rivera cumbia remix beat",
+    "cumbia salvadorena instrumental 808"
+  ],
+  "heroCta": "Comprar Beat Cumbia 503 (Stems Multitrack)",
+  "energyLevel": "Very High",
+  "primaryUse": "Fiestas Patronales, Conciertos Masivos y Videos Virales",
+  "similarArtists": [
+    "Los Hermanos Flores",
+    "Marito Rivera",
+    "Crooked Stilo",
+    "Miseria Cumbia"
+  ],
+  "recommendedBpm": "106-112 BPM",
+  "productionTips": "Sección de vientos metales alegre grabada en estéreo con compás bailable acelerado de güiro y timbales.",
+  "idealVocalStyle": "Voz festiva de animación, frases típicas guanacas y coros para saltar en la pista.",
+  "suggestedKey": "D Major",
+  "streamingSuitability": "Viral por naturaleza para bailes en TikTok, ferias patronales y celebraciones patrias."
+},
+  {
+  "slug": "freestyle-503-plaza-barrios-cypher",
+  "title": "Freestyle 503 Plaza Barrios & Batalla de Gallos Cypher Beat",
+  "description": "Pista de alta tensión y ataque percusivo diseñada para las batallas de freestyle de la Plaza Gerardo Barrios y el Parque Libertad en San Salvador, con cajas hirientes y pausas en el compás 4.",
+  "targetKeywords": [
+    "freestyle 503 plaza barrios beat",
+    "bases para batallas de rap el salvador",
+    "freestyle salvadoreno instrumental",
+    "pistas de rap batalla guanaco"
+  ],
+  "heroCta": "Comprar Beat Batalla 503 (Sin Tags)",
+  "energyLevel": "High",
+  "primaryUse": "Batallas de Freestyle, Cyphers de Parque y Entrenamientos",
+  "similarArtists": [
+    "Verso Callejero 503",
+    "SNK",
+    "Zaki",
+    "Red Bull Batalla"
+  ],
+  "recommendedBpm": "92-96 BPM",
+  "productionTips": "Deja un silencio seco en el tiempo 4 antes de la caja final de cada 4 compases para rematar los punchlines.",
+  "idealVocalStyle": "Punchlines afilados, rimas rápidas al momento y actitud desafiante de competencia.",
+  "suggestedKey": "E Minor",
+  "streamingSuitability": "Indispensable para ligas de plaza, torneos de freestyle en Centroamérica y contenido de YouTube."
+},
+  {
+  "slug": "volcan-san-salvador-lofi-mountain",
+  "title": "Volcán de San Salvador Mountain Lofi & El Boquerón Beats",
+  "description": "Nostalgia inspirada en la neblina fresca del cráter de El Boquerón y los cafetales del volcán de San Salvador: pianos melancólicos, arpegios acústicos suaves y lluvia lofi relajante.",
+  "targetKeywords": [
+    "volcan san salvador lofi",
+    "el boqueron chillhop beat",
+    "beats lofi el salvador",
+    "instrumental nostalgico guanaco",
+    "mountain lofi 503"
+  ],
+  "heroCta": "Comprar Beat Volcán Lofi (Uso Ilimitado)",
+  "energyLevel": "Low",
+  "primaryUse": "Lofi Hip-Hop, Rap Melancólico, Estudio y Vlogs de Viaje",
+  "similarArtists": [
+    "Monte",
+    "Tomppabeats",
+    "Nujabes",
+    "Zaki"
+  ],
+  "recommendedBpm": "76-82 BPM",
+  "productionTips": "Sampleo de piano vertical con filtros cálidos de cinta analógica y sonido ambiental de viento de montaña.",
+  "idealVocalStyle": "Spoken word, rimas íntimas de noche o escucha puramente instrumental.",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "Perfecto para playlists de estudio, concentración y videos de paisajes de El Salvador."
+},
+  {
+  "slug": "car-audio-503-san-salvador-bass",
+  "title": "Car Audio 503 San Salvador Heavy Sub-Bass & Street Trap Beat",
+  "description": "Beat ultra pesado diseñado para competir en exhibiciones de Car Audio en San Salvador y Santa Ana, con sub-graves afinados a 32 Hz y cajas cortantes que retumban en el bulevar.",
+  "targetKeywords": [
+    "car audio 503 beat",
+    "sub bass el salvador trap",
+    "bases para car audio san salvador",
+    "beats de bajo pesado guanaco",
+    "musica para bocinas el salvador"
+  ],
+  "heroCta": "Comprar Beat Car Audio 503 (WAV Masterizado)",
+  "energyLevel": "Very High",
+  "primaryUse": "Competiciones de Car Audio, Banger Callejero y Exhibiciones",
+  "similarArtists": [
+    "Crypy",
+    "Toledo",
+    "DJ Pablito",
+    "Danger Man"
+  ],
+  "recommendedBpm": "138-142 BPM",
+  "productionTips": "Ecualización quirúrgica en torno a 35-50 Hz con saturación armónica en 120 Hz para sonar en cualquier subwoofer.",
+  "idealVocalStyle": "Rapeo agresivo, estribillos repetitivos y actitud retadora de competencia.",
+  "suggestedKey": "F Minor",
+  "streamingSuitability": "El sonido favorito para caravanas nocturnas, autos modificados y eventos urbanos de motor."
+},
+  {
+  "slug": "izalco-pipil-ancestral-trap-fusion",
+  "title": "Izalco Pipil Ancestral Flute & Trap 808 Fusión Beat",
+  "description": "Ritmos ancestrales de la cosmovisión maya-pipil de Sonsonate e Izalco con flautas de barro tradicionales, percusiones de madera y sub-bajos 808 profundos para música con raíz.",
+  "targetKeywords": [
+    "izalco pipil trap beat",
+    "flauta pipil rap beat",
+    "fusion etnica el salvador instrumental",
+    "musica prehispanica salvadorena trap",
+    "ancestral 503 beat"
+  ],
+  "heroCta": "Comprar Beat Pipil Ancestral (Licencia Comercial)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Trap Folclórico, Resistencia Cultural y Proyectos Cinematográficos",
+  "similarArtists": [
+    "Pescozada",
+    "Baktún 13",
+    "Rebeca Lane",
+    "Kawe Calypso"
+  ],
+  "recommendedBpm": "124-130 BPM",
+  "productionTips": "Flautas de barro grabadas con delay espacioso y tambores étnicos que se mezclan con bombos 808.",
+  "idealVocalStyle": "Rapeo con lírica consciente sobre la historia salvadoreña o cantos ancestrales.",
+  "suggestedKey": "G Minor",
+  "streamingSuitability": "Ideal para documentales, festivales culturales y producciones con sentido patrio."
+},
+  {
+  "slug": "antiguo-cuscatlan-rnb-melodico-503",
+  "title": "Antiguo Cuscatlán Latin R&B & Smooth Pop Urbano Type Beat",
+  "description": "Pistas pulidas y elegantes de Latin R&B inspiradas en la vida moderna de Antiguo Cuscatlán y Santa Elena: pianos Rhodes aterciopelados, guitarras suaves y baterías R&B de tempo medio.",
+  "targetKeywords": [
+    "antiguo cuscatlan rnb beat",
+    "latin rnb el salvador",
+    "bases de rnb suave guanaco",
+    "beats estilo jesse baez salvador",
+    "rnb melodico 503"
+  ],
+  "heroCta": "Comprar Beat R&B (Licencia Comercial Ilimitada)",
+  "energyLevel": "Medium",
+  "primaryUse": "Latin R&B, Pop Urbano y Balada Contemporánea",
+  "similarArtists": [
+    "Jesse Baez",
+    "Yeik",
+    "Dani Vega",
+    "Álvaro Díaz"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "productionTips": "Guitarras acústicas procesadas con chorus suave y un bajo eléctrico redondo que sostenga la armonía.",
+  "idealVocalStyle": "Voz limpia, falsetes expresivos y melodías de desamor sinceras.",
+  "suggestedKey": "E Major",
+  "streamingSuitability": "Perfecto para listas de 'R&B en Español', 'Vibras Nocturnas' y canciones de radio."
+},
+  {
+  "slug": "comprar-beats-en-el-salvador-wompi-dolares",
+  "title": "Comprar Beats en El Salvador en Dólares ($) con Wompi & Transfer365",
+  "description": "Adquiere instrumentales urbanas profesionales en El Salvador con pago directo en Dólares ($) vía Wompi (Banco Agrícola), Transfer365 o Chivo Wallet sin recargos bancarios y descarga inmediata.",
+  "targetKeywords": [
+    "comprar beats en el salvador wompi dolares",
+    "bases de rap pago banco agricola",
+    "comprar pistas transfer365 el salvador",
+    "beats chivo wallet compra segura"
+  ],
+  "heroCta": "Comprar Beats con Wompi (Desde $25 USD)",
+  "energyLevel": "Variable",
+  "primaryUse": "Compra Segura Nacional, Pago Fácil en Dólares y Licencia Comercial",
+  "similarArtists": [
+    "Comunidad Urbana 503",
+    "Artistas Independientes Guanacos"
+  ],
+  "recommendedBpm": "Cualquier Tempo",
+  "productionTips": "Confirmación instantánea en pantalla y por correo electrónico con enlace de descarga permanente.",
+  "idealVocalStyle": "Todo tipo de géneros urbanos y alternativos en El Salvador.",
+  "suggestedKey": "All Keys",
+  "streamingSuitability": "Licencia comercial formal con 100% de regalías para el artista."
+},
+  {
+  "slug": "bases-de-trap-503-pesado-con-bajos-808",
+  "title": "Bases de Trap 503 Pesado con Bajos 808 Slidings & Dark Melody",
+  "description": "Colección de pistas de trap salvadoreño de alto calibre con deslizamientos de bajo 808, campanas gélidas y percusión contundente para romper la escena urbana 503.",
+  "targetKeywords": [
+    "bases de trap 503 pesado",
+    "trap salvadoreno con 808",
+    "beats de trap san salvador soyapango",
+    "instrumentales trap 503 para grabar"
+  ],
+  "heroCta": "Comprar Trap Beat 503 (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Trap Callejero, Banger de Barrio y Sencillos de Alto Impacto",
+  "similarArtists": [
+    "Dakos",
+    "Crypy",
+    "Tropa 506",
+    "Duki"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "productionTips": "Sub-bajos 808 afinados al tono exacto de la tónica con saturación de armónicos pares.",
+  "idealVocalStyle": "Flow agresivo, rimas rápidas o melodías melancólicas con autotune.",
+  "suggestedKey": "D# Minor",
+  "streamingSuitability": "Diseñado para reventar discotecas y playlists de Trap Centroamericano."
+},
+  {
+  "slug": "pistas-de-cumbia-urbana-salvadorena-wav",
+  "title": "Pistas de Cumbia Urbana Salvadoreña en WAV 24-bit con Stems",
+  "description": "Instrumentales bailables que fusionan la cumbia guanaca tradicional con el flow contemporáneo del hip-hop y reggaetón en archivos WAV a 24-bit con pistas por separado.",
+  "targetKeywords": [
+    "pistas de cumbia urbana salvadorena",
+    "bases de cumbia rap el salvador",
+    "cumbia salvadorena instrumental wav",
+    "beats de cumbia guanaca stems"
+  ],
+  "heroCta": "Comprar Cumbia Urbana (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Cumbia Urbana, Fiesta Patronal y Canción de Verano",
+  "similarArtists": [
+    "Crooked Stilo",
+    "Los Hermanos Flores",
+    "Marito Rivera",
+    "Miseria Cumbia"
+  ],
+  "recommendedBpm": "100-108 BPM",
+  "productionTips": "Stems multitrack organizados por carpetas con percusiones latinas separadas para mezcla personalizada.",
+  "idealVocalStyle": "Rapeo sincopado con slang salvadoreño o canto festivo bailable.",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "Perfecto para fiestas, conciertos en vivo y plataformas de streaming."
+},
+  {
+  "slug": "bases-de-boom-bap-salvadoreno-para-grabar",
+  "title": "Bases de Boom Bap Salvadoreño Clásico a 90 BPM para Grabar en WAV",
+  "description": "Instrumentales de hip-hop auténtico inspiradas en la escuela dorada de El Salvador, grabadas con baterías analógicas crujientes y samples de jazz para barras con contenido social.",
+  "targetKeywords": [
+    "bases de boom bap salvadoreno para grabar",
+    "beats de rap 90 bpm guanacos",
+    "instrumentales boom bap 503 wav",
+    "descargar bases de hip hop el salvador"
+  ],
+  "heroCta": "Descargar Base Boom Bap (WAV 24-bit)",
+  "energyLevel": "Medium",
+  "primaryUse": "Rap Consciente, Liricismo Puro y Álbumes Conceptuales",
+  "similarArtists": [
+    "Pescozada",
+    "Zaki",
+    "Kontra Marín",
+    "Dilemma"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "productionTips": "Cajas procesadas con emulación de cinta analógica para lograr pegada seca e inmediata.",
+  "idealVocalStyle": "Rapeo métrico, juego de palabras y mensaje reflexivo sobre la realidad social.",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "Ideal para la comunidad devota de hip-hop latinoamericano en streaming."
+},
+  {
+  "slug": "combo-de-beats-2x1-el-salvador-transfer365",
+  "title": "Combo 2x1 y 3x1 de Beats en El Salvador (Oferta en Dólares)",
+  "description": "Aprovecha el combo promocional de instrumentales para la producción de tu EP o mixtape en El Salvador. Paga 1 y lleva 2 licencias comerciales completas con pago fácil por Transfer365.",
+  "targetKeywords": [
+    "combo de beats 2x1 el salvador",
+    "oferta beats dolares 503",
+    "paquete de bases para mixtape guanaco",
+    "descuento beats transfer365"
+  ],
+  "heroCta": "Aprovechar Combo 2x1 (Pago en Dólares)",
+  "energyLevel": "Variable",
+  "primaryUse": "Lanzamiento de Proyectos Completos, EPs y Discos",
+  "similarArtists": [
+    "Comunidad Urbana 503",
+    "Zaki",
+    "Pescozada"
+  ],
+  "recommendedBpm": "90-140 BPM",
+  "productionTips": "Mezclas calibradas uniformemente para dar continuidad sonora al proyecto.",
+  "idealVocalStyle": "Versatilidad de estilos dentro de la propuesta musical del artista.",
+  "suggestedKey": "Various Keys",
+  "streamingSuitability": "Licencias comerciales extendidas con derechos de distribución mundial."
+},
+  {
+  "slug": "instrumentales-de-reggaeton-salvadoreno-stems",
+  "title": "Instrumentales de Reggaetón Salvadoreño con Stems Multitrack",
+  "description": "Pistas bailables de reggaetón moderno y comercial con entrega de pistas por separado (stems en WAV) para mezcla y masterización profesional en estudios de El Salvador.",
+  "targetKeywords": [
+    "instrumentales reggaeton salvadoreno stems",
+    "pistas de reggaeton guanaco pistas separadas",
+    "beats de dembow el salvador comercial",
+    "descargar stems reggaeton 503"
+  ],
+  "heroCta": "Comprar Reggaetón Beat (Con Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Lanzamientos de Emisora Radial, Club Banger y Videoclip Oficial",
+  "similarArtists": [
+    "Yeik",
+    "Ale Mendoza",
+    "Kavvo",
+    "Feid"
+  ],
+  "recommendedBpm": "95-100 BPM",
+  "productionTips": "Stems organizados y etiquetados por carpetas (Drums, Bass, Synths, FX) a 24-bit/44.1kHz.",
+  "idealVocalStyle": "Canto melódico bailable con coros pegajosos y versos dinámicos.",
+  "suggestedKey": "G Minor",
+  "streamingSuitability": "Máxima flexibilidad para ingenieros de mezcla y productores ejecutivos."
+},
+  {
+  "slug": "beats-de-trap-salvadoreno-untagged-sin-marcas",
+  "title": "Beats de Trap Salvadoreño Untagged (Sin Marcas Vocales)",
+  "description": "Instrumentales exclusivas de trap pesado 503 entregadas totalmente libres de marcas de voz o tags de productor para grabación limpia en estudios de San Salvador.",
+  "targetKeywords": [
+    "beats trap salvadoreno untagged",
+    "trap 503 sin marcas de voz",
+    "bases de trap guanaco wav",
+    "pistas de trap el salvador sin tags"
+  ],
+  "heroCta": "Comprar Trap Beat (Sin Tags Vocales)",
+  "energyLevel": "High",
+  "primaryUse": "Producción Discográfica, Videos Oficiales y Sencillos de Barrio",
+  "similarArtists": [
+    "Dakos",
+    "Crypy",
+    "Tropa 506"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "productionTips": "Cada mazazo de bombo y bajo mantiene el impacto sin interferencia de audios promocionales.",
+  "idealVocalStyle": "Rapeo potente o melodías oscuras con autotune.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "100% libre de reclamos de Content ID en YouTube y redes sociales."
+},
+  {
+  "slug": "licencia-comercial-de-beats-asap-el-salvador",
+  "title": "Licencia Comercial de Beats Válida para Registro ASAP El Salvador",
+  "description": "Contrato legal en formato PDF con validez oficial ante la Asociación Salvadoreña de Autores y Compositores (ASAP EGC) y el CNR para distribución en Spotify y Apple Music.",
+  "targetKeywords": [
+    "licencia comercial beats asap el salvador",
+    "registro de canciones cnr el salvador contrato",
+    "derechos de autor beats salvadorenos",
+    "comprar licencia legal de beats 503"
+  ],
+  "heroCta": "Ver Modelos de Licencia ASAP (PDF Incluido)",
+  "energyLevel": "N/A",
+  "primaryUse": "Registro Legal de Canciones, Cobro de Regalías y Agregadoras",
+  "similarArtists": [
+    "Onzieb",
+    "Artistas Registrados en ASAP EGC"
+  ],
+  "recommendedBpm": "Cualquier Tempo",
+  "productionTips": "Incluye contrato formal en español e inglés firmado con términos claros de monetización.",
+  "idealVocalStyle": "Todo tipo de composiciones originales registrables.",
+  "suggestedKey": "All Keys",
+  "streamingSuitability": "100% de regalías editoriales para el compositor de la letra y melodía vocal."
+},
+  {
+  "slug": "produccion-de-beats-exclusivos-el-salvador-onzieb",
+  "title": "Producción de Beats Exclusivos en El Salvador con Productor Onzieb",
+  "description": "Servicio de producción musical personalizada 1 a 1 directamente con Onzieb. Composición a la medida para tu registro vocal, sesión de mezcla remota y entrega de stems exclusivos.",
+  "targetKeywords": [
+    "produccion de beats exclusivos el salvador",
+    "productor musical el salvador onzieb",
+    "comprar exclusivas rap trap 503",
+    "bases a la medida san salvador"
+  ],
+  "heroCta": "Solicitar Beat Exclusivo (Contacto Directo)",
+  "energyLevel": "Custom",
+  "primaryUse": "Álbum Debut, Firma con Disquera y Exclusividad Comercial Absoluta",
+  "similarArtists": [
+    "Onzieb",
+    "Zaki",
+    "Crooked Stilo",
+    "Yeik"
+  ],
+  "recommendedBpm": "Diseñado a tu medida",
+  "productionTips": "Desarrollo completo desde la concepción del acorde hasta el máster final de la pista.",
+  "idealVocalStyle": "Ajustado milimétricamente al timbre y rango vocal del artista.",
+  "suggestedKey": "Personalizada",
+  "streamingSuitability": "Retiro perpetuo de la tienda; ningún otro artista podrá usar esta composición jamás."
+},
+  {
+  "slug": "descargar-paquete-3-beats-gratis-el-salvador-mp3",
+  "title": "Descargar Paquete de 3 Beats Gratis en El Salvador (MP3 320 kbps)",
+  "description": "Descarga de cortesía sin costo de 3 instrumentales completas (trap 503, boom bap guanaco y Latin R&B) en alta calidad MP3 para maquetar tus canciones antes de adquirir la licencia WAV.",
+  "targetKeywords": [
+    "descargar beats gratis el salvador",
+    "bases de rap gratis guanaco mp3",
+    "pistas de trap gratis 503",
+    "beats gratis el salvador para maquetas"
+  ],
+  "heroCta": "Descargar 3 Beats Gratis (Acceso Instantáneo)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Grabación de Maquetas en Casa, Práctica de Rimas y Escritura",
+  "similarArtists": [
+    "Comunidad Urbana 503",
+    "Nuevos Talentos de El Salvador"
+  ],
+  "recommendedBpm": "90, 94, 134 BPM",
+  "productionTips": "Incluye tag vocal breve de cortesía; se remueve automáticamente al adquirir la licencia comercial.",
+  "idealVocalStyle": "Ideal para probar tonos, métricas y estructuras líricas.",
+  "suggestedKey": "Various",
+  "streamingSuitability": "Uso no comercial permitido en demos de YouTube y SoundCloud para darte a conocer."
+},
+  {
+  "slug": "san-salvador-trap-503-pesado",
+  "name": "San Salvador Trap 503 Pesado Beats",
+  "category": "scene",
+  "badge": "San Salvador Trap 503",
+  "headline": "San Salvador (Capital 503) Trap 503 Pesado Beats: Pistas WAV & Pago Wompi en Dólares",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de San Salvador.",
+  "targetArtists": [
+    "Artistas de San Salvador",
+    "Comunidad Urbana 503",
+    "Movimiento Hip-Hop El Salvador"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "San Salvador",
+    "Trap 503",
+    "Dólares Nativos $",
+    "Avalado ASAP"
+  ],
+  "popularGenres": [
+    "Trap 503 Pesado Beats",
+    "Trap 503",
+    "Boom Bap Guanaco"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "san-salvador-boom-bap-salvadoreno",
+  "name": "San Salvador Boom Bap Clásico Salvadoreño",
+  "category": "scene",
+  "badge": "San Salvador Boom Bap Guanaco",
+  "headline": "San Salvador (Capital 503) Boom Bap Clásico Salvadoreño: Pistas WAV & Pago Wompi en Dólares",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de San Salvador.",
+  "targetArtists": [
+    "Artistas de San Salvador",
+    "Comunidad Urbana 503",
+    "Movimiento Hip-Hop El Salvador"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "San Salvador",
+    "Boom Bap Guanaco",
+    "Dólares Nativos $",
+    "Avalado ASAP"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Salvadoreño",
+    "Trap 503",
+    "Boom Bap Guanaco"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "san-salvador-reggaeton-guanaco",
+  "name": "San Salvador Reggaetón Guanaco Comercial",
+  "category": "scene",
+  "badge": "San Salvador Reggaetón 503",
+  "headline": "San Salvador (Capital 503) Reggaetón Guanaco Comercial: Pistas WAV & Pago Wompi en Dólares",
+  "description": "Dembow bailable, sintetizadores luminosos y bajos envolventes para sonar en todas las fiestas y emisoras de San Salvador.",
+  "targetArtists": [
+    "Artistas de San Salvador",
+    "Comunidad Urbana 503",
+    "Movimiento Hip-Hop El Salvador"
+  ],
+  "recommendedBpm": "94-100 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "San Salvador",
+    "Reggaetón 503",
+    "Dólares Nativos $",
+    "Avalado ASAP"
+  ],
+  "popularGenres": [
+    "Reggaetón Guanaco Comercial",
+    "Trap 503",
+    "Boom Bap Guanaco"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "san-salvador-melodic-rnb-503",
+  "name": "San Salvador Melodic R&B 503",
+  "category": "scene",
+  "badge": "San Salvador R&B Salvadoreño",
+  "headline": "San Salvador (Capital 503) Melodic R&B 503: Pistas WAV & Pago Wompi en Dólares",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de San Salvador.",
+  "targetArtists": [
+    "Artistas de San Salvador",
+    "Comunidad Urbana 503",
+    "Movimiento Hip-Hop El Salvador"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "San Salvador",
+    "R&B Salvadoreño",
+    "Dólares Nativos $",
+    "Avalado ASAP"
+  ],
+  "popularGenres": [
+    "Melodic R&B 503",
+    "Trap 503",
+    "Boom Bap Guanaco"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "santa-ana-trap-503-pesado",
+  "name": "Santa Ana Trap 503 Pesado Beats",
+  "category": "scene",
+  "badge": "Santa Ana Trap 503",
+  "headline": "Santa Ana (Occidente Heroica) Trap 503 Pesado Beats: Pistas WAV & Pago Wompi en Dólares",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de Santa Ana.",
+  "targetArtists": [
+    "Artistas de Santa Ana",
+    "Comunidad Urbana 503",
+    "Movimiento Hip-Hop El Salvador"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Santa Ana",
+    "Trap 503",
+    "Dólares Nativos $",
+    "Avalado ASAP"
+  ],
+  "popularGenres": [
+    "Trap 503 Pesado Beats",
+    "Trap 503",
+    "Boom Bap Guanaco"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "santa-ana-boom-bap-salvadoreno",
+  "name": "Santa Ana Boom Bap Clásico Salvadoreño",
+  "category": "scene",
+  "badge": "Santa Ana Boom Bap Guanaco",
+  "headline": "Santa Ana (Occidente Heroica) Boom Bap Clásico Salvadoreño: Pistas WAV & Pago Wompi en Dólares",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de Santa Ana.",
+  "targetArtists": [
+    "Artistas de Santa Ana",
+    "Comunidad Urbana 503",
+    "Movimiento Hip-Hop El Salvador"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Santa Ana",
+    "Boom Bap Guanaco",
+    "Dólares Nativos $",
+    "Avalado ASAP"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Salvadoreño",
+    "Trap 503",
+    "Boom Bap Guanaco"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "santa-ana-reggaeton-guanaco",
+  "name": "Santa Ana Reggaetón Guanaco Comercial",
+  "category": "scene",
+  "badge": "Santa Ana Reggaetón 503",
+  "headline": "Santa Ana (Occidente Heroica) Reggaetón Guanaco Comercial: Pistas WAV & Pago Wompi en Dólares",
+  "description": "Dembow bailable, sintetizadores luminosos y bajos envolventes para sonar en todas las fiestas y emisoras de Santa Ana.",
+  "targetArtists": [
+    "Artistas de Santa Ana",
+    "Comunidad Urbana 503",
+    "Movimiento Hip-Hop El Salvador"
+  ],
+  "recommendedBpm": "94-100 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Santa Ana",
+    "Reggaetón 503",
+    "Dólares Nativos $",
+    "Avalado ASAP"
+  ],
+  "popularGenres": [
+    "Reggaetón Guanaco Comercial",
+    "Trap 503",
+    "Boom Bap Guanaco"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "santa-ana-melodic-rnb-503",
+  "name": "Santa Ana Melodic R&B 503",
+  "category": "scene",
+  "badge": "Santa Ana R&B Salvadoreño",
+  "headline": "Santa Ana (Occidente Heroica) Melodic R&B 503: Pistas WAV & Pago Wompi en Dólares",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de Santa Ana.",
+  "targetArtists": [
+    "Artistas de Santa Ana",
+    "Comunidad Urbana 503",
+    "Movimiento Hip-Hop El Salvador"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "Santa Ana",
+    "R&B Salvadoreño",
+    "Dólares Nativos $",
+    "Avalado ASAP"
+  ],
+  "popularGenres": [
+    "Melodic R&B 503",
+    "Trap 503",
+    "Boom Bap Guanaco"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "san-miguel-trap-503-pesado",
+  "name": "San Miguel Trap 503 Pesado Beats",
+  "category": "scene",
+  "badge": "San Miguel Trap 503",
+  "headline": "San Miguel (Oriente Carnaval) Trap 503 Pesado Beats: Pistas WAV & Pago Wompi en Dólares",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de San Miguel.",
+  "targetArtists": [
+    "Artistas de San Miguel",
+    "Comunidad Urbana 503",
+    "Movimiento Hip-Hop El Salvador"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "San Miguel",
+    "Trap 503",
+    "Dólares Nativos $",
+    "Avalado ASAP"
+  ],
+  "popularGenres": [
+    "Trap 503 Pesado Beats",
+    "Trap 503",
+    "Boom Bap Guanaco"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "san-miguel-boom-bap-salvadoreno",
+  "name": "San Miguel Boom Bap Clásico Salvadoreño",
+  "category": "scene",
+  "badge": "San Miguel Boom Bap Guanaco",
+  "headline": "San Miguel (Oriente Carnaval) Boom Bap Clásico Salvadoreño: Pistas WAV & Pago Wompi en Dólares",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de San Miguel.",
+  "targetArtists": [
+    "Artistas de San Miguel",
+    "Comunidad Urbana 503",
+    "Movimiento Hip-Hop El Salvador"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "San Miguel",
+    "Boom Bap Guanaco",
+    "Dólares Nativos $",
+    "Avalado ASAP"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Salvadoreño",
+    "Trap 503",
+    "Boom Bap Guanaco"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "san-miguel-reggaeton-guanaco",
+  "name": "San Miguel Reggaetón Guanaco Comercial",
+  "category": "scene",
+  "badge": "San Miguel Reggaetón 503",
+  "headline": "San Miguel (Oriente Carnaval) Reggaetón Guanaco Comercial: Pistas WAV & Pago Wompi en Dólares",
+  "description": "Dembow bailable, sintetizadores luminosos y bajos envolventes para sonar en todas las fiestas y emisoras de San Miguel.",
+  "targetArtists": [
+    "Artistas de San Miguel",
+    "Comunidad Urbana 503",
+    "Movimiento Hip-Hop El Salvador"
+  ],
+  "recommendedBpm": "94-100 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "San Miguel",
+    "Reggaetón 503",
+    "Dólares Nativos $",
+    "Avalado ASAP"
+  ],
+  "popularGenres": [
+    "Reggaetón Guanaco Comercial",
+    "Trap 503",
+    "Boom Bap Guanaco"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "san-miguel-melodic-rnb-503",
+  "name": "San Miguel Melodic R&B 503",
+  "category": "scene",
+  "badge": "San Miguel R&B Salvadoreño",
+  "headline": "San Miguel (Oriente Carnaval) Melodic R&B 503: Pistas WAV & Pago Wompi en Dólares",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de San Miguel.",
+  "targetArtists": [
+    "Artistas de San Miguel",
+    "Comunidad Urbana 503",
+    "Movimiento Hip-Hop El Salvador"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "San Miguel",
+    "R&B Salvadoreño",
+    "Dólares Nativos $",
+    "Avalado ASAP"
+  ],
+  "popularGenres": [
+    "Melodic R&B 503",
+    "Trap 503",
+    "Boom Bap Guanaco"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "soyapango-trap-503-pesado",
+  "name": "Soyapango Trap 503 Pesado Beats",
+  "category": "scene",
+  "badge": "Soyapango Trap 503",
+  "headline": "Soyapango (Metro Industrial) Trap 503 Pesado Beats: Pistas WAV & Pago Wompi en Dólares",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de Soyapango.",
+  "targetArtists": [
+    "Artistas de Soyapango",
+    "Comunidad Urbana 503",
+    "Movimiento Hip-Hop El Salvador"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Soyapango",
+    "Trap 503",
+    "Dólares Nativos $",
+    "Avalado ASAP"
+  ],
+  "popularGenres": [
+    "Trap 503 Pesado Beats",
+    "Trap 503",
+    "Boom Bap Guanaco"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "soyapango-boom-bap-salvadoreno",
+  "name": "Soyapango Boom Bap Clásico Salvadoreño",
+  "category": "scene",
+  "badge": "Soyapango Boom Bap Guanaco",
+  "headline": "Soyapango (Metro Industrial) Boom Bap Clásico Salvadoreño: Pistas WAV & Pago Wompi en Dólares",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de Soyapango.",
+  "targetArtists": [
+    "Artistas de Soyapango",
+    "Comunidad Urbana 503",
+    "Movimiento Hip-Hop El Salvador"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Soyapango",
+    "Boom Bap Guanaco",
+    "Dólares Nativos $",
+    "Avalado ASAP"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Salvadoreño",
+    "Trap 503",
+    "Boom Bap Guanaco"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "soyapango-reggaeton-guanaco",
+  "name": "Soyapango Reggaetón Guanaco Comercial",
+  "category": "scene",
+  "badge": "Soyapango Reggaetón 503",
+  "headline": "Soyapango (Metro Industrial) Reggaetón Guanaco Comercial: Pistas WAV & Pago Wompi en Dólares",
+  "description": "Dembow bailable, sintetizadores luminosos y bajos envolventes para sonar en todas las fiestas y emisoras de Soyapango.",
+  "targetArtists": [
+    "Artistas de Soyapango",
+    "Comunidad Urbana 503",
+    "Movimiento Hip-Hop El Salvador"
+  ],
+  "recommendedBpm": "94-100 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Soyapango",
+    "Reggaetón 503",
+    "Dólares Nativos $",
+    "Avalado ASAP"
+  ],
+  "popularGenres": [
+    "Reggaetón Guanaco Comercial",
+    "Trap 503",
+    "Boom Bap Guanaco"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "soyapango-melodic-rnb-503",
+  "name": "Soyapango Melodic R&B 503",
+  "category": "scene",
+  "badge": "Soyapango R&B Salvadoreño",
+  "headline": "Soyapango (Metro Industrial) Melodic R&B 503: Pistas WAV & Pago Wompi en Dólares",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de Soyapango.",
+  "targetArtists": [
+    "Artistas de Soyapango",
+    "Comunidad Urbana 503",
+    "Movimiento Hip-Hop El Salvador"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "Soyapango",
+    "R&B Salvadoreño",
+    "Dólares Nativos $",
+    "Avalado ASAP"
+  ],
+  "popularGenres": [
+    "Melodic R&B 503",
+    "Trap 503",
+    "Boom Bap Guanaco"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "la-libertad-trap-503-pesado",
+  "name": "La Libertad Trap 503 Pesado Beats",
+  "category": "scene",
+  "badge": "La Libertad Trap 503",
+  "headline": "La Libertad (Surf City Costa) Trap 503 Pesado Beats: Pistas WAV & Pago Wompi en Dólares",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de La Libertad.",
+  "targetArtists": [
+    "Artistas de La Libertad",
+    "Comunidad Urbana 503",
+    "Movimiento Hip-Hop El Salvador"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "La Libertad",
+    "Trap 503",
+    "Dólares Nativos $",
+    "Avalado ASAP"
+  ],
+  "popularGenres": [
+    "Trap 503 Pesado Beats",
+    "Trap 503",
+    "Boom Bap Guanaco"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "la-libertad-boom-bap-salvadoreno",
+  "name": "La Libertad Boom Bap Clásico Salvadoreño",
+  "category": "scene",
+  "badge": "La Libertad Boom Bap Guanaco",
+  "headline": "La Libertad (Surf City Costa) Boom Bap Clásico Salvadoreño: Pistas WAV & Pago Wompi en Dólares",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de La Libertad.",
+  "targetArtists": [
+    "Artistas de La Libertad",
+    "Comunidad Urbana 503",
+    "Movimiento Hip-Hop El Salvador"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "La Libertad",
+    "Boom Bap Guanaco",
+    "Dólares Nativos $",
+    "Avalado ASAP"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Salvadoreño",
+    "Trap 503",
+    "Boom Bap Guanaco"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "la-libertad-reggaeton-guanaco",
+  "name": "La Libertad Reggaetón Guanaco Comercial",
+  "category": "scene",
+  "badge": "La Libertad Reggaetón 503",
+  "headline": "La Libertad (Surf City Costa) Reggaetón Guanaco Comercial: Pistas WAV & Pago Wompi en Dólares",
+  "description": "Dembow bailable, sintetizadores luminosos y bajos envolventes para sonar en todas las fiestas y emisoras de La Libertad.",
+  "targetArtists": [
+    "Artistas de La Libertad",
+    "Comunidad Urbana 503",
+    "Movimiento Hip-Hop El Salvador"
+  ],
+  "recommendedBpm": "94-100 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "La Libertad",
+    "Reggaetón 503",
+    "Dólares Nativos $",
+    "Avalado ASAP"
+  ],
+  "popularGenres": [
+    "Reggaetón Guanaco Comercial",
+    "Trap 503",
+    "Boom Bap Guanaco"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "la-libertad-melodic-rnb-503",
+  "name": "La Libertad Melodic R&B 503",
+  "category": "scene",
+  "badge": "La Libertad R&B Salvadoreño",
+  "headline": "La Libertad (Surf City Costa) Melodic R&B 503: Pistas WAV & Pago Wompi en Dólares",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de La Libertad.",
+  "targetArtists": [
+    "Artistas de La Libertad",
+    "Comunidad Urbana 503",
+    "Movimiento Hip-Hop El Salvador"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "La Libertad",
+    "R&B Salvadoreño",
+    "Dólares Nativos $",
+    "Avalado ASAP"
+  ],
+  "popularGenres": [
+    "Melodic R&B 503",
+    "Trap 503",
+    "Boom Bap Guanaco"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "santa-tecla-trap-503-pesado",
+  "name": "Santa Tecla Trap 503 Pesado Beats",
+  "category": "scene",
+  "badge": "Santa Tecla Trap 503",
+  "headline": "Santa Tecla (Paseo El Carmen) Trap 503 Pesado Beats: Pistas WAV & Pago Wompi en Dólares",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de Santa Tecla.",
+  "targetArtists": [
+    "Artistas de Santa Tecla",
+    "Comunidad Urbana 503",
+    "Movimiento Hip-Hop El Salvador"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Santa Tecla",
+    "Trap 503",
+    "Dólares Nativos $",
+    "Avalado ASAP"
+  ],
+  "popularGenres": [
+    "Trap 503 Pesado Beats",
+    "Trap 503",
+    "Boom Bap Guanaco"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "santa-tecla-boom-bap-salvadoreno",
+  "name": "Santa Tecla Boom Bap Clásico Salvadoreño",
+  "category": "scene",
+  "badge": "Santa Tecla Boom Bap Guanaco",
+  "headline": "Santa Tecla (Paseo El Carmen) Boom Bap Clásico Salvadoreño: Pistas WAV & Pago Wompi en Dólares",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de Santa Tecla.",
+  "targetArtists": [
+    "Artistas de Santa Tecla",
+    "Comunidad Urbana 503",
+    "Movimiento Hip-Hop El Salvador"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Santa Tecla",
+    "Boom Bap Guanaco",
+    "Dólares Nativos $",
+    "Avalado ASAP"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Salvadoreño",
+    "Trap 503",
+    "Boom Bap Guanaco"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "santa-tecla-reggaeton-guanaco",
+  "name": "Santa Tecla Reggaetón Guanaco Comercial",
+  "category": "scene",
+  "badge": "Santa Tecla Reggaetón 503",
+  "headline": "Santa Tecla (Paseo El Carmen) Reggaetón Guanaco Comercial: Pistas WAV & Pago Wompi en Dólares",
+  "description": "Dembow bailable, sintetizadores luminosos y bajos envolventes para sonar en todas las fiestas y emisoras de Santa Tecla.",
+  "targetArtists": [
+    "Artistas de Santa Tecla",
+    "Comunidad Urbana 503",
+    "Movimiento Hip-Hop El Salvador"
+  ],
+  "recommendedBpm": "94-100 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Santa Tecla",
+    "Reggaetón 503",
+    "Dólares Nativos $",
+    "Avalado ASAP"
+  ],
+  "popularGenres": [
+    "Reggaetón Guanaco Comercial",
+    "Trap 503",
+    "Boom Bap Guanaco"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "santa-tecla-melodic-rnb-503",
+  "name": "Santa Tecla Melodic R&B 503",
+  "category": "scene",
+  "badge": "Santa Tecla R&B Salvadoreño",
+  "headline": "Santa Tecla (Paseo El Carmen) Melodic R&B 503: Pistas WAV & Pago Wompi en Dólares",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de Santa Tecla.",
+  "targetArtists": [
+    "Artistas de Santa Tecla",
+    "Comunidad Urbana 503",
+    "Movimiento Hip-Hop El Salvador"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "Santa Tecla",
+    "R&B Salvadoreño",
+    "Dólares Nativos $",
+    "Avalado ASAP"
+  ],
+  "popularGenres": [
+    "Melodic R&B 503",
+    "Trap 503",
+    "Boom Bap Guanaco"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
 ];

@@ -34254,4 +34254,216 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "sv": {
+  "slug": "sv",
+  "name": "El Salvador – Hub Nacional (Dólar Nativo $, Trap 503, Cumbia Urbana & ASAP)",
+  "flag": "🇸🇻",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Wompi (Banco Agrícola), Transfer365, Chivo Wallet (BTC/USD), Banco Cuscatlán, Tarjetas, Apple Pay, PayPal",
+  "pro": "ASAP EGC (Asociación Salvadoreña de Autores y Compositores)",
+  "proFullName": "ASAP EGC & Centro Nacional de Registros (CNR)",
+  "proGuide": "100% legal ante ASAP y CNR con contrato en PDF descargable.",
+  "headline": "Beats en El Salvador: Dólar Nativo ($), Trap 503 & Pago Seguro con Wompi",
+  "description": "El catálogo oficial de instrumentales urbanas para artistas de todo El Salvador. Pago directo en Dólares ($) sin comisiones cambiarias usando Wompi, Transfer365 o Chivo Wallet.",
+  "popularGenres": [
+    "Trap 503",
+    "Boom Bap Guanaco",
+    "Cumbia Urbana",
+    "Latin R&B"
+  ],
+  "subClusters": [
+    {
+      "name": "Crooked Stilo Cumbia Beat",
+      "slug": "../../vibe/crooked-stilo-cumbia-urban-salvadorena",
+      "description": "Cumbia urbana icónica con sabor salvadoreño y flow hip-hop."
+    },
+    {
+      "name": "Pescozada Conscious Vibe",
+      "slug": "../../vibe/pescozada-conscious-rap-503-legend",
+      "description": "Hip-hop legendario contestatario con letras conscientes y golpe MPC."
+    },
+    {
+      "name": "Trap 503 Pesado",
+      "slug": "../../genre/bases-de-trap-503-pesado-con-bajos-808",
+      "description": "Bases de trap callejero con campanas oscuras y 808s demoledores."
+    },
+    {
+      "name": "Pago con Wompi en Dólares",
+      "slug": "../../genre/comprar-beats-en-el-salvador-wompi-dolares",
+      "description": "Compra sin fricción en Dólares ($) con Banco Agrícola y Transfer365."
+    }
+  ]
+},
+  "sv/san-salvador-capital": {
+  "slug": "sv/san-salvador-capital",
+  "name": "El Salvador – San Salvador (Centro Histórico, Escalón & Estudios 503)",
+  "flag": "🇸🇻",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Wompi, Transfer365, Chivo Wallet, Tarjetas, Apple Pay, PayPal",
+  "pro": "ASAP EGC & CNR",
+  "proFullName": "ASAP EGC",
+  "proGuide": "100% compatible con distribución en Spotify y YouTube.",
+  "headline": "Beats en San Salvador: Corazón Metropolitano, Trap 503 & R&B de Escalón",
+  "description": "El núcleo de la industria musical salvadoreña: desde los cyphers del Centro Histórico hasta los estudios de producción en Colonia Escalón y San Benito.",
+  "popularGenres": [
+    "San Salvador Trap",
+    "Escalón R&B",
+    "Capital Flow 503"
+  ],
+  "subClusters": []
+},
+  "sv/santa-ana-heroica": {
+  "slug": "sv/santa-ana-heroica",
+  "name": "El Salvador – Santa Ana (La Ciudad Heroica & Rap Consciente)",
+  "flag": "🇸🇻",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Wompi, Transfer365, Banco Cuscatlán, Tarjetas, Apple Pay, PayPal",
+  "pro": "ASAP EGC",
+  "proFullName": "ASAP EGC",
+  "proGuide": "100% original con entrega de stems multitrack.",
+  "headline": "Beats en Santa Ana: Ciudad Heroica, Pianos Acústicos & Boom Bap Lírico",
+  "description": "La segunda capital cultural y urbana del país: hip-hop poético, baterías con swing pausado y armonías melancólicas para el rap de superación y mensaje.",
+  "popularGenres": [
+    "Santa Ana Boom Bap",
+    "Heroica Lyrical Rap",
+    "Western 503 Beat"
+  ],
+  "subClusters": []
+},
+  "sv/san-miguel-oriente": {
+  "slug": "sv/san-miguel-oriente",
+  "name": "El Salvador – San Miguel (Capital de Oriente & Fervor del Carnaval)",
+  "flag": "🇸🇻",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Wompi, Transfer365, Chivo Wallet, Tarjetas, Apple Pay, PayPal",
+  "pro": "ASAP EGC",
+  "proFullName": "ASAP EGC",
+  "proGuide": "100% libre de reclamos de derechos de autor.",
+  "headline": "Beats en San Miguel: Carnaval Oriental, Cumbia-Dembow & Furia Caliente",
+  "description": "La tierra del sol y del carnaval más grande de Centroamérica: trompetas festivas, ritmos dembow contagiosos y bajos potentes diseñados para encender tarimas.",
+  "popularGenres": [
+    "San Miguel Carnaval Beat",
+    "Oriente Dembow",
+    "Cumbia Fiesta 503"
+  ],
+  "subClusters": []
+},
+  "sv/soyapango-fuerza-urbana": {
+  "slug": "sv/soyapango-fuerza-urbana",
+  "name": "El Salvador – Soyapango & Ilopango (Fuerza Obrera & Trap Callejero)",
+  "flag": "🇸🇻",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Wompi, Transfer365, Chivo Wallet, Tarjetas, Apple Pay, PayPal",
+  "pro": "ASAP EGC",
+  "proFullName": "ASAP EGC",
+  "proGuide": "100% garantizado con derechos comerciales de streaming.",
+  "headline": "Beats en Soyapango: El Motor Urbano, Hi-Hats Rápidos & 808s de Barrio",
+  "description": "La intensidad y la vivencia real de la juventud de Soyapango: campanas oscuras, baterías contundentes de trap y líneas de bajo implacables para el asfalto.",
+  "popularGenres": [
+    "Soyapango Street Trap",
+    "Ilopango Drill",
+    "Barrio 503"
+  ],
+  "subClusters": []
+},
+  "sv/surf-city-la-libertad": {
+  "slug": "sv/surf-city-la-libertad",
+  "name": "El Salvador – Surf City & La Libertad (El Tunco, El Zonte & Beach Trap)",
+  "flag": "🇸🇻",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Wompi, Chivo Wallet (BTC/USD), Tarjetas, Apple Pay, PayPal",
+  "pro": "ASAP EGC",
+  "proFullName": "ASAP EGC",
+  "proGuide": "100% legal ante ASAP con contrato en PDF.",
+  "headline": "Beats en Surf City: El Tunco & El Zonte, Olas del Pacífico & Sunset Lofi",
+  "description": "La capital mundial del surf y del turismo internacional: sintetizadores cálidos, arpegios de guitarra playera y baterías relajadas para amaneceres y fiestas en la costa.",
+  "popularGenres": [
+    "Surf City Lofi",
+    "El Tunco Beach Trap",
+    "Pacific Sunset Beat"
+  ],
+  "subClusters": []
+},
+  "sv/santa-tecla-la-libertad": {
+  "slug": "sv/santa-tecla-la-libertad",
+  "name": "El Salvador – Santa Tecla (Paseo El Carmen & Pop Urbano Sofisticado)",
+  "flag": "🇸🇻",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Wompi, Transfer365, Banco Cuscatlán, Tarjetas, Apple Pay, PayPal",
+  "pro": "ASAP EGC",
+  "proFullName": "ASAP EGC",
+  "proGuide": "100% compatible con agregadoras digitales.",
+  "headline": "Beats en Santa Tecla: Clima Fresco, Pianos Rhodes & R&B Melódico",
+  "description": "El refinamiento creativo de Santa Tecla y Paseo El Carmen: pianos eléctricos vintage, arreglos de pop latino contemporáneo y baterías con mezcla cristalina.",
+  "popularGenres": [
+    "Santa Tecla R&B",
+    "Paseo El Carmen Pop",
+    "Melodic Urban 503"
+  ],
+  "subClusters": []
+},
+  "sv/sonsonate-izalco": {
+  "slug": "sv/sonsonate-izalco",
+  "name": "El Salvador – Sonsonate & Izalco (Cuna Pipil, Cocoteros & Fusión Étnica)",
+  "flag": "🇸🇻",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Wompi, Transfer365, Banco Cuscatlán, Tarjetas, Apple Pay, PayPal",
+  "pro": "ASAP EGC",
+  "proFullName": "ASAP EGC",
+  "proGuide": "100% original con entrega de stems.",
+  "headline": "Beats en Sonsonate: Tradición de Izalco, Flautas Ancestrales & Trap",
+  "description": "Las raíces profundas de la tierra de los cocoteros: percusiones étnicas maya-pipil, ecos de instrumentos de viento y caídas de sub-graves para canciones con identidad.",
+  "popularGenres": [
+    "Izalco Ancestral Trap",
+    "Sonsonate Ethnic Beat",
+    "Pipil Folk Rap"
+  ],
+  "subClusters": []
+},
+  "sv/ahuachapan-occidente": {
+  "slug": "sv/ahuachapan-occidente",
+  "name": "El Salvador – Ahuachapán (Tierra de los Ausoles & Hip-Hop del Café)",
+  "flag": "🇸🇻",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Wompi, Transfer365, Banco Cuscatlán, Tarjetas, Apple Pay, PayPal",
+  "pro": "ASAP EGC",
+  "proFullName": "ASAP EGC",
+  "proGuide": "Licencias comerciales ilimitadas.",
+  "headline": "Beats en Ahuachapán: Ausoles Termales, Cordillera Cafetalera & Boom Bap",
+  "description": "La frontera occidental de El Salvador: guitarras acústicas con sentimiento de montaña, baterías orgánicas con calidez analógica y espacio para barras de reflexión.",
+  "popularGenres": [
+    "Ahuachapán Coffee Rap",
+    "Western Border Beat",
+    "Ausoles Acoustic"
+  ],
+  "subClusters": []
+},
+  "sv/usulutan-bahia-jiquilisco": {
+  "slug": "sv/usulutan-bahia-jiquilisco",
+  "name": "El Salvador – Usulután (Bahía de Jiquilisco & Reggaetón Costeño)",
+  "flag": "🇸🇻",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Wompi, Transfer365, Banco Cuscatlán, Tarjetas, Apple Pay, PayPal",
+  "pro": "ASAP EGC",
+  "proFullName": "ASAP EGC",
+  "proGuide": "100% original y listo para monetizar en Spotify.",
+  "headline": "Beats en Usulután: Bahía y Manglares, Dembow Playero & Brisa Tropical",
+  "description": "El encanto natural del oriente costero: baterías de reggaetón suave con swing tropical, sintetizadores envolventes y bajos cálidos para música de viaje y verano.",
+  "popularGenres": [
+    "Usulután Coastal Dembow",
+    "Jiquilisco Tropical",
+    "Mangrove Beat"
+  ],
+  "subClusters": []
+},
 };
