@@ -33067,4 +33067,1696 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "1"
   ]
 },
+  {
+  "slug": "hev-abi-downtown-qc-rnb-trap",
+  "name": "Hev Abi Downtown QC RnB Trap",
+  "category": "vibe",
+  "badge": "Downtown Q.C. Vibe",
+  "headline": "Hev Abi Style Beats: Smooth Manila R&B Trap, Fender Rhodes Chords & 92 BPM Bounce",
+  "description": "The defining sound of Philippine streaming: velvety Fender Rhodes keys, warm sub-bass, and relaxed drum swing tailored for smooth baritone Taglish delivery.",
+  "targetArtists": [
+    "Hev Abi",
+    "Downtown Q.C.",
+    "Walang Alam",
+    "Babaero"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Fender Rhodes",
+    "Manila R&B Trap",
+    "Smooth Baritone Space",
+    "92 BPM Bounce"
+  ],
+  "popularGenres": [
+    "Manila R&B Trap",
+    "Pinoy Hip Hop",
+    "Laid-Back Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "flow-g-rapstar-fast-chopper-trap",
+  "name": "Flow G Rapstar Fast Chopper Trap",
+  "category": "vibe",
+  "badge": "Rapstar Chopper Vibe",
+  "headline": "Flow G Style Beats: Hard-Hitting Trap Kicks, Relentless 808s & Fast Chopper Tempo",
+  "description": "High-octane Pinoy rap anthems: rapid-fire hi-hat rolls, punchy snares, and thunderous 808 drops designed for fast technical flows.",
+  "targetArtists": [
+    "Flow G",
+    "Ex Battalion",
+    "Rapstar",
+    "Batugan"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Fast Chopper",
+    "Punchy Snares",
+    "Thunderous 808",
+    "Rapstar Energy"
+  ],
+  "popularGenres": [
+    "Pinoy Trap",
+    "Hardcore Trap",
+    "Fast Chopper Rap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "al-james-pauwi-nako-nocturnal-rnb",
+  "name": "Al James Pauwi Nako Nocturnal RnB",
+  "category": "vibe",
+  "badge": "Nocturnal Manila R&B",
+  "headline": "Al James Style Beats: Late-Night Metro Manila R&B, Deep Sub-Bass & Seductive Chords",
+  "description": "Irresistible midnight sound: lush atmospheric synthesizer chords, deep warm sub-bass rumbles, and seductive drum pockets for smooth melodic hooks.",
+  "targetArtists": [
+    "Al James",
+    "Pauwi Nako",
+    "Repeat",
+    "Latina"
+  ],
+  "recommendedBpm": "95-105 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Nocturnal R&B",
+    "Deep Sub-Bass",
+    "Seductive Chords",
+    "Midnight Vibe"
+  ],
+  "popularGenres": [
+    "Manila R&B",
+    "Nocturnal Trap",
+    "Urban Pinoy"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "playertwo-thats-my-baby-hyper-trap",
+  "name": "PLAYERTWO Thats My Baby Hyper Trap",
+  "category": "vibe",
+  "badge": "Davao Hyper-Trap",
+  "headline": "PLAYERTWO Style Beats: Bouncy Melodies, Alternative Hip-Hop & High-Energy Fun",
+  "description": "Davao's infectious alternative hip-hop wave: colorful synthesizer plucks, bouncy 808 drops, and joyful groove built for festival crowds.",
+  "targetArtists": [
+    "PLAYERTWO",
+    "THAT'S MY BABY",
+    "TIKTIKTOKIN",
+    "Davao Sound"
+  ],
+  "recommendedBpm": "125-135 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Bouncy Synths",
+    "Alternative Hip-Hop",
+    "Joyful Groove",
+    "Festival Bounce"
+  ],
+  "popularGenres": [
+    "Alternative Trap",
+    "Hyper Trap",
+    "Pinoy Pop-Rap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "shanti-dope-nadarang-acoustic-trap",
+  "name": "Shanti Dope Nadarang Acoustic Trap",
+  "category": "vibe",
+  "badge": "Nadarang Acoustic Vibe",
+  "headline": "Shanti Dope Style Beats: Acoustic Fingerpicked Guitars, Youth Energy & Fast Cadence",
+  "description": "The classic modern Pinoy rap formula: bright acoustic guitar loops, bouncy trap drums, and spacious verse sections for conscious, rapid-fire flows.",
+  "targetArtists": [
+    "Shanti Dope",
+    "Nadarang",
+    "Amatz",
+    "Gloc-9 Mentee"
+  ],
+  "recommendedBpm": "120-128 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Acoustic Guitar",
+    "Youth Energy",
+    "Fast Cadence",
+    "Bouncy Trap"
+  ],
+  "popularGenres": [
+    "Acoustic Trap",
+    "Pinoy Rap",
+    "Melodic Hip Hop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "hellmerry-tondo-pinoy-street-drill",
+  "name": "Hellmerry Tondo Pinoy Street Drill",
+  "category": "vibe",
+  "badge": "Tondo Street Drill",
+  "headline": "Hellmerry Style Beats: Tondo Street Drill, Sliding 808 Glides & Cold Brass Bells",
+  "description": "The raw sound of Manila's underground: menacing bell melodies, relentless 140 BPM drill hi-hats, and sliding sub-bass notes for authentic street lyrics.",
+  "targetArtists": [
+    "Hellmerry",
+    "4x4",
+    "Tondo Drillers",
+    "Manila Street"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Tondo Drill",
+    "Sliding 808 Glides",
+    "Cold Bells",
+    "140 BPM"
+  ],
+  "popularGenres": [
+    "Pinoy Drill",
+    "Hardcore Trap",
+    "Street Rap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "gloc-9-sirena-storytelling-boombap",
+  "name": "Gloc-9 Sirena Storytelling Boombap",
+  "category": "vibe",
+  "badge": "Legendary Speedflow",
+  "headline": "Gloc-9 Style Beats: Dramatic Orchestral Strings, Punchy Boom Bap & Speedflow Pockets",
+  "description": "The foundation of Pinoy lyrical storytelling: uncompressed analog kicks, dramatic string samples, and rhythmic clarity designed for lightning-fast multi-syllabic verses.",
+  "targetArtists": [
+    "Gloc-9",
+    "Sirena",
+    "Lando",
+    "Magda"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Speedflow Pockets",
+    "Dramatic Strings",
+    "Analog Kicks",
+    "Storytelling Boombap"
+  ],
+  "popularGenres": [
+    "Classic Pinoy Boom Bap",
+    "Conscious Rap",
+    "Storytelling Hip Hop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "loonie-abra-fliptop-battle-boombap",
+  "name": "Loonie Abra FlipTop Battle Boombap",
+  "category": "vibe",
+  "badge": "FlipTop Battle Vibe",
+  "headline": "FlipTop Battle Rap Beats: Aggressive Kicks, Crisp Snares & Heavy Vinyl Scratch Loops",
+  "description": "The arena of the world's most viewed battle rap league: classic boom bap drums, punchy battle horns, and space for aggressive punchlines.",
+  "targetArtists": [
+    "Loonie",
+    "Abra",
+    "FlipTop Battle League",
+    "Anygma"
+  ],
+  "recommendedBpm": "90-96 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Battle Rap Drums",
+    "Punchy Snares",
+    "Vinyl Cuts",
+    "Competitive Energy"
+  ],
+  "popularGenres": [
+    "FlipTop Boom Bap",
+    "Battle Rap",
+    "Classic Hip Hop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "cookie-cebu-bisaya-island-trap",
+  "name": "Cookie Cebu Bisaya Island Trap",
+  "category": "vibe",
+  "badge": "Bisaya Island Trap",
+  "headline": "Cookie$ Style Beats: Bisaya Island Swagger, Heavy Sliding 808s & Cebu Street Rap",
+  "description": "The swagger of Central Visayas: heavy trap basslines, tropical percussion accents, and infectious bouncing beats for the rising Bisaya hip-hop movement.",
+  "targetArtists": [
+    "Cookie$",
+    "Yuridope",
+    "Bisaya Rap",
+    "Cebuano Trap"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Bisaya Swagger",
+    "Sliding 808",
+    "Island Trap",
+    "Cebu Street"
+  ],
+  "popularGenres": [
+    "Bisaya Hip Hop",
+    "Island Trap",
+    "Pinoy Street Rap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "felip-ken-dark-rock-trap-banger",
+  "name": "Felip Ken Dark Rock Trap Banger",
+  "category": "vibe",
+  "badge": "Dark Rock-Trap Vibe",
+  "headline": "Felip Style Beats: Distorted Rock Guitars, Heavy 808 Sub-Bass & Visayan Power",
+  "description": "Cutting-edge Filipino rock-trap: distorted electric guitar riffs, thunderous 808 drops, and aggressive rhythms for powerful multilingual vocals.",
+  "targetArtists": [
+    "Felip",
+    "Ken SB19",
+    "Bulan",
+    "Complex"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / B-Minor",
+  "vibeAttributes": [
+    "Distorted Guitars",
+    "Dark Rock-Trap",
+    "Heavy 808",
+    "Multilingual Power"
+  ],
+  "popularGenres": [
+    "Rock Trap",
+    "Dark Trap",
+    "Pinoy Pop-Rap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "o-shann-puyat-lofi-bedroom-rap",
+  "name": "O Shann Puyat Lo-Fi Bedroom Rap",
+  "category": "vibe",
+  "badge": "Puyat Bedroom Lo-Fi",
+  "headline": "O Shann Style Beats: Late-Night Bedroom Tape Saturation, Soft Keys & Gentle 808s",
+  "description": "Intimate midnight confessions: tape-saturated keyboard loops, gentle swinging hi-hats, and warm sub-bass for heartfelt indie rap and melodic R&B.",
+  "targetArtists": [
+    "O Shann",
+    "Puyat",
+    "Mhot",
+    "Pinoy Indie Rap"
+  ],
+  "recommendedBpm": "82-90 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Tape Saturation",
+    "Puyat Midnight",
+    "Soft Keys",
+    "Indie Bedroom Rap"
+  ],
+  "popularGenres": [
+    "Lo-Fi Hip Hop",
+    "Bedroom Rap",
+    "Manila R&B"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "nik-makino-moon-commercial-club-trap",
+  "name": "Nik Makino Moon Commercial Club Trap",
+  "category": "vibe",
+  "badge": "Club Trap Banger",
+  "headline": "Nik Makino Style Beats: Viral Club Dembow, High-Energy Bass & Party Anthems",
+  "description": "The ultimate party sound in Philippine clubs: bouncy dembow-trap percussion, catchy lead melodies, and heavy club-ready basslines.",
+  "targetArtists": [
+    "Nik Makino",
+    "Moon",
+    "Neneng B",
+    "Flow G Crossover"
+  ],
+  "recommendedBpm": "100-110 BPM / 128 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "Club Banger",
+    "Bouncy Dembow",
+    "Viral Party",
+    "High-Energy Bass"
+  ],
+  "popularGenres": [
+    "Club Trap",
+    "Pinoy Party Rap",
+    "Commercial Urban"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "buy-rap-beats-philippines-gcash-php",
+  "name": "Buy Rap Beats in the Philippines with GCash (PHP ₱)",
+  "category": "genre",
+  "badge": "GCash Beat Store",
+  "headline": "Buy Rap Beats in the Philippines: Pay Instantly with GCash or Maya in Philippine Pesos (₱)",
+  "description": "The easiest way to buy beats in the Philippines. Pay directly with your GCash or Maya wallet without international credit cards and download studio WAV files immediately.",
+  "targetArtists": [
+    "Pinoy Rappers",
+    "Manila Singers",
+    "Bisaya Artists"
+  ],
+  "recommendedBpm": "All Tempos",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "GCash Payment",
+    "Maya Wallet",
+    "PHP Pricing",
+    "Instant WAV"
+  ],
+  "popularGenres": [
+    "Manila R&B Trap",
+    "Pinoy Drill",
+    "Bisaya Hip-Hop",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "hev-abi-type-beat-wav-stems",
+  "name": "Hev Abi Type Beat WAV with Multitrack Stems",
+  "category": "genre",
+  "badge": "Hev Abi WAV Stems",
+  "headline": "Hev Abi Type Beats: Downtown Q.C. R&B Chords, Warm 808s & Stems Included",
+  "description": "Studio-grade R&B trap instrumentals with lush Fender Rhodes keys and relaxed 92 BPM bounce. Includes separate trackout stems for professional vocal mixing.",
+  "targetArtists": [
+    "Hev Abi Fans",
+    "R&B Singers",
+    "Vocal Producers"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Stems Included",
+    "Fender Rhodes",
+    "WAV 24-bit",
+    "Manila R&B"
+  ],
+  "popularGenres": [
+    "Manila R&B Trap",
+    "Pinoy Hip Hop",
+    "Laid-Back Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "pinoy-drill-instrumentals-sliding-808s",
+  "name": "Pinoy Drill Instrumentals with Heavy Sliding 808s",
+  "category": "genre",
+  "badge": "Pinoy Drill 140 BPM",
+  "headline": "Pinoy Drill Beats for Sale: Cold Bells, 140 BPM Drums & Heavy 808 Glides",
+  "description": "The authentic sound of Manila's streets: syncopated drill snare patterns, dark melodies, and sliding sub-bass lines engineered for raw delivery.",
+  "targetArtists": [
+    "Hellmerry Fans",
+    "Tondo Drillers",
+    "Street Rappers"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Pinoy Drill",
+    "Sliding 808s",
+    "Cold Bells",
+    "140 BPM"
+  ],
+  "popularGenres": [
+    "Pinoy Drill",
+    "UK Drill Crossover",
+    "Street Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "filscap-copyright-safe-music-licenses",
+  "name": "FILSCAP Safe Royalty-Free Music Licenses Philippines",
+  "category": "genre",
+  "badge": "FILSCAP & IPOPHL Safe",
+  "headline": "100% FILSCAP & IPOPHL Safe Beats: Original Compositions, Zero Copyright Claims",
+  "description": "Register your songs with FILSCAP and distribute to Spotify and Wish 107.5 without fear of copyright strikes. Countersigned legal PDF contract included.",
+  "targetArtists": [
+    "FILSCAP Members",
+    "Independent Songwriters",
+    "Indie Labels"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "100% Original",
+    "FILSCAP Safe",
+    "No Claims",
+    "PDF License"
+  ],
+  "popularGenres": [
+    "Pinoy Hip Hop",
+    "R&B Trap",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6",
+    "5"
+  ]
+},
+  {
+  "slug": "untagged-pinoy-hip-hop-studio-leases",
+  "name": "Untagged Pinoy Hip-Hop Studio Leases (No Voice Tags)",
+  "category": "genre",
+  "badge": "Untagged Studio WAV",
+  "headline": "Untagged Studio Beats for Filipino Artists: Clean 24-bit WAV Audio",
+  "description": "Clean studio files without any producer voice tags or audio watermarks. Mixed with -6dB headroom so your vocal cut naturally shines in the master.",
+  "targetArtists": [
+    "Studio Rappers",
+    "Mixing Engineers",
+    "Recording Artists"
+  ],
+  "recommendedBpm": "88-144 BPM",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Untagged",
+    "Clean Audio",
+    "Headroom -6dB",
+    "Studio Master"
+  ],
+  "popularGenres": [
+    "Pinoy Hip Hop",
+    "Trap",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1",
+    "6"
+  ]
+},
+  {
+  "slug": "commercial-streaming-license-spotify-philippines",
+  "name": "Commercial Streaming License Spotify Philippines & Wish 107.5",
+  "category": "genre",
+  "badge": "Spotify PH Ready",
+  "headline": "Commercial Beat License for Philippine Releases: Keep 100% of Your Royalties",
+  "description": "Distribute via DistroKid, TuneCore, or local DSP aggregators. Collect 100% of your earnings across Spotify, Apple Music, and YouTube.",
+  "targetArtists": [
+    "Independent Filipino Artists",
+    "Labels",
+    "Managers"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "100% Royalties",
+    "Spotify PH Ready",
+    "Wish 107.5 Safe",
+    "Unlimited Streams"
+  ],
+  "popularGenres": [
+    "Pinoy Hip Hop",
+    "Manila R&B",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "smooth-manila-rnb-trap-type-beats",
+  "name": "Smooth Manila R&B Trap Type Beats with Rhodes",
+  "category": "genre",
+  "badge": "Manila R&B Rhodes",
+  "headline": "Smooth Manila R&B Trap Beats: Velvety Rhodes Pianos & Deep Sub-Bass",
+  "description": "The dominant sound of Philippine playlists: emotional keyboard chords, warm sub-bass, and relaxed drum grooves for love songs and late-night vibes.",
+  "targetArtists": [
+    "Al James Fans",
+    "Hev Abi Fans",
+    "R&B Songwriters"
+  ],
+  "recommendedBpm": "90-100 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Rhodes Pianos",
+    "Smooth R&B",
+    "Nocturnal Vibe",
+    "Warm Bass"
+  ],
+  "popularGenres": [
+    "Manila R&B Trap",
+    "Soul Trap",
+    "Urban Pinoy"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "bisaya-rap-and-cebu-trap-beats",
+  "name": "Bisaya Rap and Cebu Island Trap Beats",
+  "category": "genre",
+  "badge": "Bisaya Island Trap",
+  "headline": "Bisaya Rap Beats: Cebu Island Trap, Sliding 808s & Tropical Percussion",
+  "description": "The unique rhythm of the Visayas: heavy trap drums, bouncy percussion accents, and rolling 808s built for Bisaya cadences.",
+  "targetArtists": [
+    "Cookie$ Fans",
+    "Bisaya Rappers",
+    "Cebuano Artists"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Bisaya Cadence",
+    "Island Trap",
+    "Sliding 808s",
+    "Cebu Sound"
+  ],
+  "popularGenres": [
+    "Bisaya Hip Hop",
+    "Island Trap",
+    "Street Rap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "exclusive-rights-beats-philippines-contract",
+  "name": "Exclusive Rights Beats Philippines (Sole Ownership)",
+  "category": "genre",
+  "badge": "Exclusive Rights",
+  "headline": "Exclusive Rights Beats in the Philippines: 100% Sole Ownership & Removed from Store",
+  "description": "Acquire sole ownership of the master recording. The beat is immediately pulled from the store and legally transferred to you with an official contract.",
+  "targetArtists": [
+    "Signed Artists",
+    "Label Projects",
+    "Management Teams"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Exclusive Rights",
+    "Pulled from Store",
+    "Full Ownership",
+    "Legal Contract"
+  ],
+  "popularGenres": [
+    "Pinoy Trap",
+    "Manila R&B",
+    "Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "free-3-beat-demo-pack-philippines",
+  "name": "Free 3-Beat Demo Pack Download Philippines",
+  "category": "genre",
+  "badge": "Free Demo Pack",
+  "headline": "Free 3-Beat Demo Pack: Test Your Flow in the Studio Before Buying",
+  "description": "Download 3 high-quality MP3 instrumentals immediately to practice your Taglish flow and test your vocal mix before purchasing a full WAV lease.",
+  "targetArtists": [
+    "Emerging Rappers",
+    "Bedroom Artists",
+    "Songwriters"
+  ],
+  "recommendedBpm": "92, 130, 140 BPM",
+  "recommendedKey": "C-Minor, D-Minor",
+  "vibeAttributes": [
+    "Free Download",
+    "3-Beat Pack",
+    "Demo Testing",
+    "Instant Email"
+  ],
+  "popularGenres": [
+    "Pinoy Hip Hop",
+    "R&B Trap",
+    "Pinoy Drill"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "6"
+  ]
+},
+  {
+  "slug": "92-bpm-hev-abi-rnb-trap-tempo",
+  "name": "92 BPM Hev Abi RnB Trap Tempo",
+  "category": "bpm",
+  "badge": "92 BPM Manila R&B",
+  "headline": "92 BPM Manila R&B Trap: The Relaxed Groove of Philippine Streaming",
+  "description": "The quintessential tempo of modern Pinoy R&B trap: relaxed drum swing, warm Fender Rhodes, and deep sub-bass.",
+  "recommendedBpm": "92 BPM",
+  "recommendedKey": "C-Minor",
+  "vibeAttributes": [
+    "92 BPM",
+    "Hev Abi Tempo",
+    "Manila R&B",
+    "Relaxed Groove"
+  ],
+  "popularGenres": [
+    "Manila R&B Trap",
+    "Pinoy Hip Hop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "130-bpm-pinoy-trap-beats",
+  "name": "130 BPM Pinoy Trap Beats",
+  "category": "bpm",
+  "badge": "130 BPM Pinoy Trap",
+  "headline": "130 BPM Pinoy Trap Beats: High-Energy Bounce and Melodic 808s",
+  "description": "The standard tempo of Filipino street trap with bouncy hi-hat patterns and punchy 808s.",
+  "recommendedBpm": "130 BPM",
+  "recommendedKey": "G-Minor",
+  "vibeAttributes": [
+    "130 BPM",
+    "Pinoy Trap",
+    "High-Energy",
+    "Melodic 808"
+  ],
+  "popularGenres": [
+    "Pinoy Trap",
+    "Club Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "140-bpm-pinoy-drill-beats",
+  "name": "140 BPM Pinoy Drill Beats",
+  "category": "bpm",
+  "badge": "140 BPM Pinoy Drill",
+  "headline": "140 BPM Pinoy Drill: Sliding 808 Glides and Cold Tondo Snares",
+  "description": "The golden tempo of Manila street drill: rapid-fire hi-hat rolls and heavy sliding basslines.",
+  "recommendedBpm": "140 BPM",
+  "recommendedKey": "D-Minor",
+  "vibeAttributes": [
+    "140 BPM",
+    "Pinoy Drill",
+    "Sliding 808s",
+    "Tondo Sound"
+  ],
+  "popularGenres": [
+    "Pinoy Drill",
+    "UK Drill Crossover"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "135-bpm-flow-g-chopper-tempo",
+  "name": "135 BPM Flow G Chopper Tempo",
+  "category": "bpm",
+  "badge": "135 BPM Chopper",
+  "headline": "135 BPM Fast Chopper Trap: Explosive Beats for Rapid-Fire Rap",
+  "description": "Engineered for technical fast-flowing Pinoy MCs with relentless rhythm and punchy kicks.",
+  "recommendedBpm": "135 BPM",
+  "recommendedKey": "D-Minor",
+  "vibeAttributes": [
+    "135 BPM",
+    "Fast Chopper",
+    "Flow G Tempo",
+    "Explosive"
+  ],
+  "popularGenres": [
+    "Pinoy Trap",
+    "Chopper Rap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "88-bpm-gloc-9-boombap-tempo",
+  "name": "88 BPM Gloc-9 Boombap Tempo",
+  "category": "bpm",
+  "badge": "88 BPM Classic Boombap",
+  "headline": "88 BPM Classic Pinoy Boom Bap: The Golden Era Cadence",
+  "description": "The classic tempo of Filipino storytelling hip-hop with uncompressed kicks and analog swing.",
+  "recommendedBpm": "88 BPM",
+  "recommendedKey": "C-Minor",
+  "vibeAttributes": [
+    "88 BPM",
+    "Classic Boom Bap",
+    "Storytelling",
+    "Gloc-9 Vibe"
+  ],
+  "popularGenres": [
+    "Classic Pinoy Boom Bap",
+    "Conscious Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "c-minor-hev-abi-smooth-rnb",
+  "name": "C-Minor Hev Abi Smooth RnB",
+  "category": "key",
+  "badge": "C-Minor Smooth R&B",
+  "headline": "Beats in C-Minor Style Hev Abi: Velvety Chords and Warm Sub-Bass",
+  "description": "The dominant key of modern Manila R&B trap. Melancholic, smooth, and deeply resonant.",
+  "recommendedBpm": "90-95 BPM",
+  "recommendedKey": "C-Minor",
+  "vibeAttributes": [
+    "C-Minor",
+    "Smooth R&B",
+    "Velvety Chords",
+    "Hev Abi"
+  ],
+  "popularGenres": [
+    "Manila R&B Trap",
+    "Pinoy Hip Hop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "d-minor-pinoy-drill-beats",
+  "name": "D-Minor Pinoy Drill Beats",
+  "category": "key",
+  "badge": "D-Minor Drill",
+  "headline": "Pinoy Drill Beats in D-Minor: Ominous Bells and Heavy Sub-Bass",
+  "description": "The #1 defining key of drill worldwide, perfectly adapted for the raw street realities of Manila.",
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor",
+  "vibeAttributes": [
+    "D-Minor",
+    "Ominous Bells",
+    "Pinoy Drill"
+  ],
+  "popularGenres": [
+    "Pinoy Drill",
+    "UK Drill Crossover"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "f-minor-al-james-nocturnal-trap",
+  "name": "F-Minor Al James Nocturnal Trap",
+  "category": "key",
+  "badge": "F-Minor Nocturnal",
+  "headline": "Beats in F-Minor Style Al James: Late-Night Urban Seduction",
+  "description": "Lush late-night synthesizer atmospheres designed for baritone vocals and seductive melodies.",
+  "recommendedBpm": "95-105 BPM",
+  "recommendedKey": "F-Minor",
+  "vibeAttributes": [
+    "F-Minor",
+    "Nocturnal Vibe",
+    "Al James",
+    "Deep Bass"
+  ],
+  "popularGenres": [
+    "Manila R&B",
+    "Urban Pinoy"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "g-minor-flow-g-street-trap",
+  "name": "G-Minor Flow G Street Trap",
+  "category": "key",
+  "badge": "G-Minor Street Trap",
+  "headline": "Beats in G-Minor Style Flow G: High-Impact 808s and Rapstar Energy",
+  "description": "Powerful key for explosive street trap bangers that pack maximum punch in clubs and car audio.",
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "G-Minor",
+  "vibeAttributes": [
+    "G-Minor",
+    "High Impact 808",
+    "Rapstar Energy"
+  ],
+  "popularGenres": [
+    "Pinoy Trap",
+    "Hardcore Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "a-minor-acoustic-pinoy-rap",
+  "name": "A-Minor Acoustic Pinoy Rap",
+  "category": "key",
+  "badge": "A-Minor Acoustic",
+  "headline": "Acoustic Pinoy Rap Beats in A-Minor: Emotive Guitars and Melodic Flow",
+  "description": "Natural and open key for acoustic fingerpicked guitars and youthful storytelling verses.",
+  "recommendedBpm": "120-128 BPM",
+  "recommendedKey": "A-Minor",
+  "vibeAttributes": [
+    "A-Minor",
+    "Acoustic Guitar",
+    "Emotive",
+    "Youth Rap"
+  ],
+  "popularGenres": [
+    "Acoustic Trap",
+    "Melodic Hip Hop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "quezon-city-ncr-manila-rnb-trap-beats",
+  "name": "Quezon City Manila R&B Trap Beats",
+  "category": "scene",
+  "badge": "Quezon City Manila R&B Trap",
+  "headline": "Quezon City (Downtown Q.C.) Manila R&B Trap Beats: Studio WAV & GCash / Maya",
+  "description": "Smooth Fender Rhodes keys, relaxed 92 BPM bounce, and studio 24-bit WAV quality for singers and rappers in Quezon City.",
+  "targetArtists": [
+    "Quezon City Rappers",
+    "Pinoy Hip-Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Quezon City",
+    "Manila R&B Trap",
+    "GCash Pay",
+    "FILSCAP Cleared"
+  ],
+  "popularGenres": [
+    "Manila R&B Trap Beats",
+    "Pinoy Hip Hop",
+    "Manila R&B"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "quezon-city-ncr-pinoy-drill-instrumental",
+  "name": "Quezon City Pinoy Drill Instrumental",
+  "category": "scene",
+  "badge": "Quezon City Pinoy Drill",
+  "headline": "Quezon City (Downtown Q.C.) Pinoy Drill Instrumental: Studio WAV & GCash / Maya",
+  "description": "Heavy sliding 808 glides, cold bells, and rapid 140 BPM drill patterns engineered for street artists in Quezon City.",
+  "targetArtists": [
+    "Quezon City Rappers",
+    "Pinoy Hip-Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Quezon City",
+    "Pinoy Drill",
+    "GCash Pay",
+    "FILSCAP Cleared"
+  ],
+  "popularGenres": [
+    "Pinoy Drill Instrumental",
+    "Pinoy Hip Hop",
+    "Manila R&B"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "quezon-city-ncr-pinoy-boombap-clasiko",
+  "name": "Quezon City Pinoy Boom Bap Klasiko",
+  "category": "scene",
+  "badge": "Quezon City Classic Pinoy Boombap",
+  "headline": "Quezon City (Downtown Q.C.) Pinoy Boom Bap Klasiko: Studio WAV & GCash / Maya",
+  "description": "Uncompressed analog kicks, dramatic strings, and FlipTop battle energy for conscious MCs in Quezon City.",
+  "targetArtists": [
+    "Quezon City Rappers",
+    "Pinoy Hip-Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Quezon City",
+    "Classic Pinoy Boombap",
+    "GCash Pay",
+    "FILSCAP Cleared"
+  ],
+  "popularGenres": [
+    "Pinoy Boom Bap Klasiko",
+    "Pinoy Hip Hop",
+    "Manila R&B"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "quezon-city-ncr-bisaya-trap-flow",
+  "name": "Quezon City Bisaya Trap Flow",
+  "category": "scene",
+  "badge": "Quezon City Bisaya Trap",
+  "headline": "Quezon City (Downtown Q.C.) Bisaya Trap Flow: Studio WAV & GCash / Maya",
+  "description": "Island swagger, sliding 808s, and bouncy tropical percussion for Visayan and Tagalog lyricists in Quezon City.",
+  "targetArtists": [
+    "Quezon City Rappers",
+    "Pinoy Hip-Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Quezon City",
+    "Bisaya Trap",
+    "GCash Pay",
+    "FILSCAP Cleared"
+  ],
+  "popularGenres": [
+    "Bisaya Trap Flow",
+    "Pinoy Hip Hop",
+    "Manila R&B"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "manila-tondo-manila-rnb-trap-beats",
+  "name": "Manila & Tondo Manila R&B Trap Beats",
+  "category": "scene",
+  "badge": "Manila & Tondo Manila R&B Trap",
+  "headline": "Manila & Tondo (Metro Manila) Manila R&B Trap Beats: Studio WAV & GCash / Maya",
+  "description": "Smooth Fender Rhodes keys, relaxed 92 BPM bounce, and studio 24-bit WAV quality for singers and rappers in Manila & Tondo.",
+  "targetArtists": [
+    "Manila & Tondo Rappers",
+    "Pinoy Hip-Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Manila & Tondo",
+    "Manila R&B Trap",
+    "GCash Pay",
+    "FILSCAP Cleared"
+  ],
+  "popularGenres": [
+    "Manila R&B Trap Beats",
+    "Pinoy Hip Hop",
+    "Manila R&B"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "manila-tondo-pinoy-drill-instrumental",
+  "name": "Manila & Tondo Pinoy Drill Instrumental",
+  "category": "scene",
+  "badge": "Manila & Tondo Pinoy Drill",
+  "headline": "Manila & Tondo (Metro Manila) Pinoy Drill Instrumental: Studio WAV & GCash / Maya",
+  "description": "Heavy sliding 808 glides, cold bells, and rapid 140 BPM drill patterns engineered for street artists in Manila & Tondo.",
+  "targetArtists": [
+    "Manila & Tondo Rappers",
+    "Pinoy Hip-Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Manila & Tondo",
+    "Pinoy Drill",
+    "GCash Pay",
+    "FILSCAP Cleared"
+  ],
+  "popularGenres": [
+    "Pinoy Drill Instrumental",
+    "Pinoy Hip Hop",
+    "Manila R&B"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "manila-tondo-pinoy-boombap-clasiko",
+  "name": "Manila & Tondo Pinoy Boom Bap Klasiko",
+  "category": "scene",
+  "badge": "Manila & Tondo Classic Pinoy Boombap",
+  "headline": "Manila & Tondo (Metro Manila) Pinoy Boom Bap Klasiko: Studio WAV & GCash / Maya",
+  "description": "Uncompressed analog kicks, dramatic strings, and FlipTop battle energy for conscious MCs in Manila & Tondo.",
+  "targetArtists": [
+    "Manila & Tondo Rappers",
+    "Pinoy Hip-Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Manila & Tondo",
+    "Classic Pinoy Boombap",
+    "GCash Pay",
+    "FILSCAP Cleared"
+  ],
+  "popularGenres": [
+    "Pinoy Boom Bap Klasiko",
+    "Pinoy Hip Hop",
+    "Manila R&B"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "manila-tondo-bisaya-trap-flow",
+  "name": "Manila & Tondo Bisaya Trap Flow",
+  "category": "scene",
+  "badge": "Manila & Tondo Bisaya Trap",
+  "headline": "Manila & Tondo (Metro Manila) Bisaya Trap Flow: Studio WAV & GCash / Maya",
+  "description": "Island swagger, sliding 808s, and bouncy tropical percussion for Visayan and Tagalog lyricists in Manila & Tondo.",
+  "targetArtists": [
+    "Manila & Tondo Rappers",
+    "Pinoy Hip-Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Manila & Tondo",
+    "Bisaya Trap",
+    "GCash Pay",
+    "FILSCAP Cleared"
+  ],
+  "popularGenres": [
+    "Bisaya Trap Flow",
+    "Pinoy Hip Hop",
+    "Manila R&B"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "cebu-visayas-manila-rnb-trap-beats",
+  "name": "Cebu City Manila R&B Trap Beats",
+  "category": "scene",
+  "badge": "Cebu City Manila R&B Trap",
+  "headline": "Cebu City (Central Visayas) Manila R&B Trap Beats: Studio WAV & GCash / Maya",
+  "description": "Smooth Fender Rhodes keys, relaxed 92 BPM bounce, and studio 24-bit WAV quality for singers and rappers in Cebu City.",
+  "targetArtists": [
+    "Cebu City Rappers",
+    "Pinoy Hip-Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Cebu City",
+    "Manila R&B Trap",
+    "GCash Pay",
+    "FILSCAP Cleared"
+  ],
+  "popularGenres": [
+    "Manila R&B Trap Beats",
+    "Pinoy Hip Hop",
+    "Manila R&B"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "cebu-visayas-pinoy-drill-instrumental",
+  "name": "Cebu City Pinoy Drill Instrumental",
+  "category": "scene",
+  "badge": "Cebu City Pinoy Drill",
+  "headline": "Cebu City (Central Visayas) Pinoy Drill Instrumental: Studio WAV & GCash / Maya",
+  "description": "Heavy sliding 808 glides, cold bells, and rapid 140 BPM drill patterns engineered for street artists in Cebu City.",
+  "targetArtists": [
+    "Cebu City Rappers",
+    "Pinoy Hip-Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Cebu City",
+    "Pinoy Drill",
+    "GCash Pay",
+    "FILSCAP Cleared"
+  ],
+  "popularGenres": [
+    "Pinoy Drill Instrumental",
+    "Pinoy Hip Hop",
+    "Manila R&B"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "cebu-visayas-pinoy-boombap-clasiko",
+  "name": "Cebu City Pinoy Boom Bap Klasiko",
+  "category": "scene",
+  "badge": "Cebu City Classic Pinoy Boombap",
+  "headline": "Cebu City (Central Visayas) Pinoy Boom Bap Klasiko: Studio WAV & GCash / Maya",
+  "description": "Uncompressed analog kicks, dramatic strings, and FlipTop battle energy for conscious MCs in Cebu City.",
+  "targetArtists": [
+    "Cebu City Rappers",
+    "Pinoy Hip-Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Cebu City",
+    "Classic Pinoy Boombap",
+    "GCash Pay",
+    "FILSCAP Cleared"
+  ],
+  "popularGenres": [
+    "Pinoy Boom Bap Klasiko",
+    "Pinoy Hip Hop",
+    "Manila R&B"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "cebu-visayas-bisaya-trap-flow",
+  "name": "Cebu City Bisaya Trap Flow",
+  "category": "scene",
+  "badge": "Cebu City Bisaya Trap",
+  "headline": "Cebu City (Central Visayas) Bisaya Trap Flow: Studio WAV & GCash / Maya",
+  "description": "Island swagger, sliding 808s, and bouncy tropical percussion for Visayan and Tagalog lyricists in Cebu City.",
+  "targetArtists": [
+    "Cebu City Rappers",
+    "Pinoy Hip-Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Cebu City",
+    "Bisaya Trap",
+    "GCash Pay",
+    "FILSCAP Cleared"
+  ],
+  "popularGenres": [
+    "Bisaya Trap Flow",
+    "Pinoy Hip Hop",
+    "Manila R&B"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "davao-mindanao-manila-rnb-trap-beats",
+  "name": "Davao City Manila R&B Trap Beats",
+  "category": "scene",
+  "badge": "Davao City Manila R&B Trap",
+  "headline": "Davao City (Mindanao) Manila R&B Trap Beats: Studio WAV & GCash / Maya",
+  "description": "Smooth Fender Rhodes keys, relaxed 92 BPM bounce, and studio 24-bit WAV quality for singers and rappers in Davao City.",
+  "targetArtists": [
+    "Davao City Rappers",
+    "Pinoy Hip-Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Davao City",
+    "Manila R&B Trap",
+    "GCash Pay",
+    "FILSCAP Cleared"
+  ],
+  "popularGenres": [
+    "Manila R&B Trap Beats",
+    "Pinoy Hip Hop",
+    "Manila R&B"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "davao-mindanao-pinoy-drill-instrumental",
+  "name": "Davao City Pinoy Drill Instrumental",
+  "category": "scene",
+  "badge": "Davao City Pinoy Drill",
+  "headline": "Davao City (Mindanao) Pinoy Drill Instrumental: Studio WAV & GCash / Maya",
+  "description": "Heavy sliding 808 glides, cold bells, and rapid 140 BPM drill patterns engineered for street artists in Davao City.",
+  "targetArtists": [
+    "Davao City Rappers",
+    "Pinoy Hip-Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Davao City",
+    "Pinoy Drill",
+    "GCash Pay",
+    "FILSCAP Cleared"
+  ],
+  "popularGenres": [
+    "Pinoy Drill Instrumental",
+    "Pinoy Hip Hop",
+    "Manila R&B"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "davao-mindanao-pinoy-boombap-clasiko",
+  "name": "Davao City Pinoy Boom Bap Klasiko",
+  "category": "scene",
+  "badge": "Davao City Classic Pinoy Boombap",
+  "headline": "Davao City (Mindanao) Pinoy Boom Bap Klasiko: Studio WAV & GCash / Maya",
+  "description": "Uncompressed analog kicks, dramatic strings, and FlipTop battle energy for conscious MCs in Davao City.",
+  "targetArtists": [
+    "Davao City Rappers",
+    "Pinoy Hip-Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Davao City",
+    "Classic Pinoy Boombap",
+    "GCash Pay",
+    "FILSCAP Cleared"
+  ],
+  "popularGenres": [
+    "Pinoy Boom Bap Klasiko",
+    "Pinoy Hip Hop",
+    "Manila R&B"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "davao-mindanao-bisaya-trap-flow",
+  "name": "Davao City Bisaya Trap Flow",
+  "category": "scene",
+  "badge": "Davao City Bisaya Trap",
+  "headline": "Davao City (Mindanao) Bisaya Trap Flow: Studio WAV & GCash / Maya",
+  "description": "Island swagger, sliding 808s, and bouncy tropical percussion for Visayan and Tagalog lyricists in Davao City.",
+  "targetArtists": [
+    "Davao City Rappers",
+    "Pinoy Hip-Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Davao City",
+    "Bisaya Trap",
+    "GCash Pay",
+    "FILSCAP Cleared"
+  ],
+  "popularGenres": [
+    "Bisaya Trap Flow",
+    "Pinoy Hip Hop",
+    "Manila R&B"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "makati-bonifacio-manila-rnb-trap-beats",
+  "name": "Makati & BGC Manila R&B Trap Beats",
+  "category": "scene",
+  "badge": "Makati & BGC Manila R&B Trap",
+  "headline": "Makati & BGC (Metro Manila) Manila R&B Trap Beats: Studio WAV & GCash / Maya",
+  "description": "Smooth Fender Rhodes keys, relaxed 92 BPM bounce, and studio 24-bit WAV quality for singers and rappers in Makati & BGC.",
+  "targetArtists": [
+    "Makati & BGC Rappers",
+    "Pinoy Hip-Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Makati & BGC",
+    "Manila R&B Trap",
+    "GCash Pay",
+    "FILSCAP Cleared"
+  ],
+  "popularGenres": [
+    "Manila R&B Trap Beats",
+    "Pinoy Hip Hop",
+    "Manila R&B"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "makati-bonifacio-pinoy-drill-instrumental",
+  "name": "Makati & BGC Pinoy Drill Instrumental",
+  "category": "scene",
+  "badge": "Makati & BGC Pinoy Drill",
+  "headline": "Makati & BGC (Metro Manila) Pinoy Drill Instrumental: Studio WAV & GCash / Maya",
+  "description": "Heavy sliding 808 glides, cold bells, and rapid 140 BPM drill patterns engineered for street artists in Makati & BGC.",
+  "targetArtists": [
+    "Makati & BGC Rappers",
+    "Pinoy Hip-Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Makati & BGC",
+    "Pinoy Drill",
+    "GCash Pay",
+    "FILSCAP Cleared"
+  ],
+  "popularGenres": [
+    "Pinoy Drill Instrumental",
+    "Pinoy Hip Hop",
+    "Manila R&B"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "makati-bonifacio-pinoy-boombap-clasiko",
+  "name": "Makati & BGC Pinoy Boom Bap Klasiko",
+  "category": "scene",
+  "badge": "Makati & BGC Classic Pinoy Boombap",
+  "headline": "Makati & BGC (Metro Manila) Pinoy Boom Bap Klasiko: Studio WAV & GCash / Maya",
+  "description": "Uncompressed analog kicks, dramatic strings, and FlipTop battle energy for conscious MCs in Makati & BGC.",
+  "targetArtists": [
+    "Makati & BGC Rappers",
+    "Pinoy Hip-Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Makati & BGC",
+    "Classic Pinoy Boombap",
+    "GCash Pay",
+    "FILSCAP Cleared"
+  ],
+  "popularGenres": [
+    "Pinoy Boom Bap Klasiko",
+    "Pinoy Hip Hop",
+    "Manila R&B"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "makati-bonifacio-bisaya-trap-flow",
+  "name": "Makati & BGC Bisaya Trap Flow",
+  "category": "scene",
+  "badge": "Makati & BGC Bisaya Trap",
+  "headline": "Makati & BGC (Metro Manila) Bisaya Trap Flow: Studio WAV & GCash / Maya",
+  "description": "Island swagger, sliding 808s, and bouncy tropical percussion for Visayan and Tagalog lyricists in Makati & BGC.",
+  "targetArtists": [
+    "Makati & BGC Rappers",
+    "Pinoy Hip-Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Makati & BGC",
+    "Bisaya Trap",
+    "GCash Pay",
+    "FILSCAP Cleared"
+  ],
+  "popularGenres": [
+    "Bisaya Trap Flow",
+    "Pinoy Hip Hop",
+    "Manila R&B"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "cavite-calabarzon-manila-rnb-trap-beats",
+  "name": "Cavite Manila R&B Trap Beats",
+  "category": "scene",
+  "badge": "Cavite Manila R&B Trap",
+  "headline": "Cavite (South Luzon) Manila R&B Trap Beats: Studio WAV & GCash / Maya",
+  "description": "Smooth Fender Rhodes keys, relaxed 92 BPM bounce, and studio 24-bit WAV quality for singers and rappers in Cavite.",
+  "targetArtists": [
+    "Cavite Rappers",
+    "Pinoy Hip-Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Cavite",
+    "Manila R&B Trap",
+    "GCash Pay",
+    "FILSCAP Cleared"
+  ],
+  "popularGenres": [
+    "Manila R&B Trap Beats",
+    "Pinoy Hip Hop",
+    "Manila R&B"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "cavite-calabarzon-pinoy-drill-instrumental",
+  "name": "Cavite Pinoy Drill Instrumental",
+  "category": "scene",
+  "badge": "Cavite Pinoy Drill",
+  "headline": "Cavite (South Luzon) Pinoy Drill Instrumental: Studio WAV & GCash / Maya",
+  "description": "Heavy sliding 808 glides, cold bells, and rapid 140 BPM drill patterns engineered for street artists in Cavite.",
+  "targetArtists": [
+    "Cavite Rappers",
+    "Pinoy Hip-Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Cavite",
+    "Pinoy Drill",
+    "GCash Pay",
+    "FILSCAP Cleared"
+  ],
+  "popularGenres": [
+    "Pinoy Drill Instrumental",
+    "Pinoy Hip Hop",
+    "Manila R&B"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "cavite-calabarzon-pinoy-boombap-clasiko",
+  "name": "Cavite Pinoy Boom Bap Klasiko",
+  "category": "scene",
+  "badge": "Cavite Classic Pinoy Boombap",
+  "headline": "Cavite (South Luzon) Pinoy Boom Bap Klasiko: Studio WAV & GCash / Maya",
+  "description": "Uncompressed analog kicks, dramatic strings, and FlipTop battle energy for conscious MCs in Cavite.",
+  "targetArtists": [
+    "Cavite Rappers",
+    "Pinoy Hip-Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Cavite",
+    "Classic Pinoy Boombap",
+    "GCash Pay",
+    "FILSCAP Cleared"
+  ],
+  "popularGenres": [
+    "Pinoy Boom Bap Klasiko",
+    "Pinoy Hip Hop",
+    "Manila R&B"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "cavite-calabarzon-bisaya-trap-flow",
+  "name": "Cavite Bisaya Trap Flow",
+  "category": "scene",
+  "badge": "Cavite Bisaya Trap",
+  "headline": "Cavite (South Luzon) Bisaya Trap Flow: Studio WAV & GCash / Maya",
+  "description": "Island swagger, sliding 808s, and bouncy tropical percussion for Visayan and Tagalog lyricists in Cavite.",
+  "targetArtists": [
+    "Cavite Rappers",
+    "Pinoy Hip-Hop Scene",
+    "Independent Artists"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Cavite",
+    "Bisaya Trap",
+    "GCash Pay",
+    "FILSCAP Cleared"
+  ],
+  "popularGenres": [
+    "Bisaya Trap Flow",
+    "Pinoy Hip Hop",
+    "Manila R&B"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
 ];
