@@ -39306,4 +39306,1699 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "1"
   ]
 },
+  {
+  "slug": "rich-brian-dat-stick-baritone-trap",
+  "name": "Rich Brian Dat Stick Baritone Trap",
+  "category": "vibe",
+  "badge": "88rising Global Vibe",
+  "headline": "Beat Gaya Rich Brian: Flow Bariton Berat, Sub-Bass 808 Padat & Rima Teknis Cepat",
+  "description": "Soundtrack pionir hip-hop Asia di kancah dunia: dentuman sub-bass 808 tanpa kompresi berlebih, snare yang tegas, dan ruang vokal leluasa untuk gaya rap bariton yang cepat dan presisi.",
+  "targetArtists": [
+    "Rich Brian",
+    "88rising",
+    "Dat $tick",
+    "Amen",
+    "The Sailor"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Flow Bariton",
+    "Sub-Bass 808 Padat",
+    "Rima Teknis",
+    "88rising Sound"
+  ],
+  "popularGenres": [
+    "Indo Hip-Hop",
+    "Global Trap",
+    "Technical Rap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "ramengvrl-cashmere-bouncy-trap-queen",
+  "name": "Ramengvrl Cashmere Bouncy Trap Queen",
+  "category": "vibe",
+  "badge": "Trap Queen Vibe",
+  "headline": "Beat Gaya Ramengvrl: Dentuman Bass 808 Memantul, Hi-Hat Cepat & Punchline Percaya Diri",
+  "description": "Energi percaya diri sang ratu trap Indonesia: pola bass 808 dengan lompatan dinamis, snare renyah, dan melodi sintetizer bernuansa klub untuk rima dwibahasa yang tajam.",
+  "targetArtists": [
+    "Ramengvrl",
+    "CA$HMERE",
+    "I Am Me",
+    "Asiatic Records"
+  ],
+  "recommendedBpm": "125-135 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "808 Memantul",
+    "Percaya Diri",
+    "Klub Banger",
+    "Punchline Tajam"
+  ],
+  "popularGenres": [
+    "Indo Trap",
+    "Female Rap",
+    "Club Banger"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "basboi-bandung-jazz-rap-bounce",
+  "name": "Basboi Bandung Jazz Rap Bounce",
+  "category": "vibe",
+  "badge": "Bandung Jazz-Hop",
+  "headline": "Beat Gaya Basboi: Progresi Akor Rhodes Hangat, Ayunan Jazz-Rap & Vibe Ceria",
+  "description": "Nuansa segar dan ceria khas skena Bandung: progresi akor keyboard elektrik Fender Rhodes, petikan gitar akustik manis, dan drum santai untuk lirik positif penuh makna.",
+  "targetArtists": [
+    "Basboi",
+    "Adulting For Dummies",
+    "Make Me Proud",
+    "Dominic"
+  ],
+  "recommendedBpm": "88-96 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Fender Rhodes",
+    "Jazz-Rap Ceria",
+    "Gitar Akustik",
+    "Vibe Positif"
+  ],
+  "popularGenres": [
+    "Jazz Rap",
+    "Indo Soul Hip-Hop",
+    "Chillhop"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "tuan-tigabelas-harimau-soal-boombap",
+  "name": "Tuan Tigabelas Harimau Soal Boombap",
+  "category": "vibe",
+  "badge": "Harimau Soal Vibe",
+  "headline": "Beat Gaya Tuan Tigabelas: Tiupan Terompet Megah, Kick Padat & Boom Bap Bertaji",
+  "description": "Karakter vokal berwibawa dan penuh kesadaran: sample instrumen tiup kuningan yang megah, ketukan kick drum tebal khas 90-an, dan ruang rima lugas tentang kenyataan sosial.",
+  "targetArtists": [
+    "Tuan Tigabelas",
+    "Harimau Soal",
+    "Westwew",
+    "High Therapy"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Terompet Megah",
+    "Kick Analog Padat",
+    "Lirik Bertaji",
+    "Boom Bap 90s"
+  ],
+  "popularGenres": [
+    "Classic Boom Bap",
+    "Conscious Rap",
+    "Indo Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "laze-lyrical-mastermind-boombap-trap",
+  "name": "Laze Lyrical Mastermind Boombap Trap",
+  "category": "vibe",
+  "badge": "Lirik Mastermind Vibe",
+  "headline": "Beat Gaya Laze: Progresi Harmoni Piano Berkelas, Melodi Rapi & Rima Multisilabel",
+  "description": "Standar tertinggi penulisan lirik di Indonesia: aransemen piano akustik yang dewasa, tekstur vinil halus, dan ketukan drum terukur untuk rima bersusun yang cerdas.",
+  "targetArtists": [
+    "Laze",
+    "Waktu Bicara",
+    "Puncak Gunung Es",
+    "Onar"
+  ],
+  "recommendedBpm": "86-94 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Harmoni Piano Berkelas",
+    "Rima Multisilabel",
+    "Tekstur Vinil",
+    "Lirik Cerdas"
+  ],
+  "popularGenres": [
+    "Lyrical Hip Hop",
+    "Mature Boom Bap",
+    "Indo Rap"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "1",
+    "6"
+  ]
+},
+  {
+  "slug": "warren-hue-cyberpunk-hyper-trap",
+  "name": "Warren Hue Cyberpunk Hyper Trap",
+  "category": "vibe",
+  "badge": "Cyberpunk Hyper-Trap",
+  "headline": "Beat Gaya Warren Hue: Sintetizer Futuristik, Distorsi 808 & Energi Moshpit",
+  "description": "Masa depan musik trap internasional: melodi sintetizer digital berkecepatan tinggi, dentuman bass 808 menggelegar, dan drum kinetik untuk vokal penuh energi.",
+  "targetArtists": [
+    "Warren Hue",
+    "88rising",
+    "BOY OF THE YEAR",
+    "Party Starter"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "Sintetizer Digital",
+    "Distorsi 808",
+    "Moshpit Trap",
+    "Futuristik"
+  ],
+  "popularGenres": [
+    "Hyper Trap",
+    "Experimental Trap",
+    "Cyberpunk Rap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "a-nayaka-smooth-bilingual-atlanta-trap",
+  "name": "A Nayaka Smooth Bilingual Atlanta Trap",
+  "category": "vibe",
+  "badge": "Atlanta Trap Jakarta",
+  "headline": "Beat Gaya A. Nayaka: Melodi Autotune Halus, Ayunan Trap Atlanta & Bass 808",
+  "description": "Perpaduan cita rasa trap Amerika dengan aksen urban Jakarta: lead sintetizer lembut, dentuman 808 bergulir, dan pola hi-hat modern untuk vokal beraura percaya diri.",
+  "targetArtists": [
+    "A. Nayaka",
+    "Colorblind",
+    "Gimme The Keys",
+    "Def Jam SEA"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "E-Minor / B-Minor",
+  "vibeAttributes": [
+    "Melodi Autotune Halus",
+    "Trap Atlanta",
+    "Bilingual Flow",
+    "Bass 808 Bergulir"
+  ],
+  "popularGenres": [
+    "Indo Trap",
+    "Atlanta Style",
+    "Melodic Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "saykoji-classic-commercial-pinoy-indo-rap",
+  "name": "Saykoji Classic Commercial Indo Rap",
+  "category": "vibe",
+  "badge": "Legenda Komersial Vibe",
+  "headline": "Beat Gaya Saykoji: Melodi Hook Menempel, Ketukan Energik & Gaya Hip-Hop Klasik",
+  "description": "Pondasi musik rap komersial Indonesia: melodi yang gampang diingat, ketukan drum bertempo lincah, dan aransemen yang pas untuk lagu-lagu hits yang dinyanyikan massal.",
+  "targetArtists": [
+    "Saykoji",
+    "Online",
+    "Jalan Panjang",
+    "Pelopor Rap"
+  ],
+  "recommendedBpm": "95-105 BPM",
+  "recommendedKey": "A-Minor / D-Minor",
+  "vibeAttributes": [
+    "Hook Menempel",
+    "Ketukan Lincah",
+    "Rap Komersial",
+    "Legenda Skena"
+  ],
+  "popularGenres": [
+    "Commercial Rap",
+    "Classic Indo Hip-Hop",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "5"
+  ]
+},
+  {
+  "slug": "mario-zwinkle-jogja-reggae-rap-flow",
+  "name": "Mario Zwinkle Jogja Reggae Rap Flow",
+  "category": "vibe",
+  "badge": "Reggae-Rap Jogja",
+  "headline": "Beat Gaya Mario Zwinkle: Petikan Gitar Skank Reggae, Rima Cepat & Ayunan Trap",
+  "description": "Karakter unik skena Yogyakarta: irama skank gitar Karibia, ayunan bass reggae bertenaga, dan ketukan drum yang lincah untuk rap cepat bergaya raggamuffin.",
+  "targetArtists": [
+    "Mario Zwinkle",
+    "Hellhouse",
+    "Dosa",
+    "Jogja All Stars"
+  ],
+  "recommendedBpm": "92-98 BPM / 135 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Gitar Skank Reggae",
+    "Rima Cepat",
+    "Raggamuffin Flow",
+    "Hellhouse Vibe"
+  ],
+  "popularGenres": [
+    "Reggae Rap",
+    "Indo Dancehall",
+    "Jogja Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "1",
+    "7"
+  ]
+},
+  {
+  "slug": "matter-mos-avant-garde-poetic-rap",
+  "name": "Matter Mos Avant-Garde Poetic Rap",
+  "category": "vibe",
+  "badge": "Avant-Garde Poetic Vibe",
+  "headline": "Beat Gaya Matter Mos: Atmosfer Ambient Mengawang, Piano Sendu & Eksplorasi Bunyi",
+  "description": "Eksplorasi musikalitas paling puitis di Jakarta: tekstur suara ambient mengawang, progresi akor yang tak terduga, dan drum bernuansa organik untuk puisi perkotaan.",
+  "targetArtists": [
+    "Matter Mos",
+    "Pronoia",
+    "Dipha Barus Collab",
+    "Pon Your Tone"
+  ],
+  "recommendedBpm": "82-90 BPM",
+  "recommendedKey": "E-Minor / A-Minor",
+  "vibeAttributes": [
+    "Atmosfer Mengawang",
+    "Piano Sendu",
+    "Puisi Perkotaan",
+    "Organik"
+  ],
+  "popularGenres": [
+    "Alternative Rap",
+    "Indie Hip-Hop",
+    "Poetic Soul"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "marion-jola-stephanie-poetri-rnb-trap",
+  "name": "Marion Jola & Stephanie Poetri RnB Trap",
+  "category": "vibe",
+  "badge": "Indo R&B Soul Pop",
+  "headline": "Beat Gaya R&B Indonesia: Akor Keyboard Rhodes Manis, Vokal Lembut & Pop-Trap Santai",
+  "description": "Sentuhan manis yang mendominasi radio dan tangga lagu: progresi akor keyboard elektrik bernuansa jazz-pop, dentuman drum trap lembut, dan ruang vokal merdu yang mewah.",
+  "targetArtists": [
+    "Marion Jola",
+    "Stephanie Poetri",
+    "I Love You 3000",
+    "Laleilmanino"
+  ],
+  "recommendedBpm": "90-98 BPM",
+  "recommendedKey": "G-Major / C-Major",
+  "vibeAttributes": [
+    "Keyboard Manis",
+    "Akor Jazz-Pop",
+    "Vokal Merdu",
+    "Pop-Trap Santai"
+  ],
+  "popularGenres": [
+    "Indo R&B",
+    "Pop Trap",
+    "Contemporary Soul"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "gamelan-ethnic-indo-trap-fusion",
+  "name": "Gamelan Ethnic Indo Trap Fusion",
+  "category": "vibe",
+  "badge": "Gamelan Trap Tradisional",
+  "headline": "Beat Fusi Gamelan: Laras Pelog Slendro, Gong Ageng Megah & Sub-Bass 808",
+  "description": "Kemegahan warisan adiluhung Nusantara: rekaman asli saron, bonang, dan gong ageng berpadu harmonis dengan lompatan sub-bass 808 dan ketukan drum trap modern.",
+  "targetArtists": [
+    "Gamelan Hip-Hop",
+    "Fusi Etnik Nusantara",
+    "Weird Genius Vibe"
+  ],
+  "recommendedBpm": "125-135 BPM",
+  "recommendedKey": "A-Minor / D-Minor",
+  "vibeAttributes": [
+    "Gamelan Asli",
+    "Gong Ageng",
+    "Laras Pelog Slendro",
+    "Sub-Bass 808"
+  ],
+  "popularGenres": [
+    "Ethnic Trap",
+    "Gamelan Hip-Hop",
+    "Fusi Nusantara"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "beli-beat-rap-indonesia-qris-idr",
+  "name": "Beli Beat Rap Indonesia Bayar Pakai QRIS (Rupiah Rp)",
+  "category": "genre",
+  "badge": "Bayar Pakai QRIS Instan",
+  "headline": "Beli Beat Rap di Indonesia: Bayar Praktis Pakai QRIS (GoPay, OVO, DANA) dalam Rupiah",
+  "description": "Cara termudah membeli instrumen musik di Indonesia. Cukup scan kode QRIS menggunakan e-wallet favorit atau mobile banking apa saja tanpa kartu kredit dan langsung unduh file master WAV 24-bit.",
+  "targetArtists": [
+    "Rapper Indonesia",
+    "Penyanyi R&B Jakarta",
+    "Kreator Musik"
+  ],
+  "recommendedBpm": "Semua Tempo",
+  "recommendedKey": "Semua Kunci Nada",
+  "vibeAttributes": [
+    "QRIS Instan",
+    "GoPay OVO DANA",
+    "Harga Rupiah",
+    "Unduh WAV Langsung"
+  ],
+  "popularGenres": [
+    "Indo Hip-Hop",
+    "Jakarta Trap",
+    "R&B Indonesia",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "indo-hip-hop-type-beat-wav-stems",
+  "name": "Indo Hip-Hop Type Beat WAV Lengkap dengan Stems",
+  "category": "genre",
+  "badge": "WAV 24-bit & Stems",
+  "headline": "Beat Indo Hip-Hop untuk Rekaman: Kualitas WAV 24-bit & Track Terpisah Lengkap",
+  "description": "Instrumen studio berkualitas tinggi yang dirancang khusus untuk vokal rap dan nyanyi. Dilengkapi file stems terpisah (kick, snare, bass, melodi) untuk fleksibilitas mixing maksimal.",
+  "targetArtists": [
+    "Produser Musik",
+    "Rapper Studio",
+    "Mixing Engineer"
+  ],
+  "recommendedBpm": "88-140 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "File Stems Terpisah",
+    "WAV Studio",
+    "Bass 808 Bulat",
+    "Mixing Mudah"
+  ],
+  "popularGenres": [
+    "Indo Hip-Hop",
+    "Trap Modern",
+    "R&B Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "gamelan-ethnic-trap-instrumental-beats",
+  "name": "Gamelan Ethnic Trap Instrumental Beats",
+  "category": "genre",
+  "badge": "Fusi Gamelan Trap",
+  "headline": "Beat Fusi Gamelan Tradisional & Trap 808: Warisan Musik Nusantara Bertaraf Dunia",
+  "description": "Aransemen unik instrumen tradisional gamelan (saron, gong, bonang) yang berpadu dengan lompatan bass 808 modern untuk karya musik dengan identitas Indonesia yang kuat.",
+  "targetArtists": [
+    "Karya Fusi Budaya",
+    "Rapper Daerah",
+    "Kreator Musik Nusantara"
+  ],
+  "recommendedBpm": "125-135 BPM",
+  "recommendedKey": "A-Minor / D-Minor",
+  "vibeAttributes": [
+    "Gamelan Asli",
+    "Gong Ageng",
+    "Sub-Bass 808",
+    "Fusi Budaya"
+  ],
+  "popularGenres": [
+    "Ethnic Trap",
+    "Gamelan Hip-Hop",
+    "Nusantara Beat"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "wami-hak-cipta-lisensi-musik-indonesia",
+  "name": "Lisensi Musik Bebas Klaim Hak Cipta WAMI & LMKN",
+  "category": "genre",
+  "badge": "Aman WAMI & LMKN",
+  "headline": "Beat Aman untuk Pendaftaran WAMI & DJKI: 100% Orisinal Tanpa Sample Ilegal",
+  "description": "Rilis lagu Anda di Spotify dan monetisasi di YouTube tanpa khawatir terkena teguran copyright. Setiap pembelian disertai sertifikat lisensi hukum resmi bertanda tangan digital dalam format PDF.",
+  "targetArtists": [
+    "Anggota WAMI",
+    "Pencipta Lagu",
+    "Label Independen"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "100% Orisinal",
+    "Aman WAMI",
+    "Tanpa Teguran Klaim",
+    "Kontrak PDF"
+  ],
+  "popularGenres": [
+    "Indo Hip-Hop",
+    "R&B Indonesia",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6",
+    "5"
+  ]
+},
+  {
+  "slug": "beat-rap-indonesia-tanpa-tag-untagged",
+  "name": "Beat Rap Indonesia Tanpa Tag Suara (Untagged Master)",
+  "category": "genre",
+  "badge": "Master Untagged WAV",
+  "headline": "Beat Rap Indonesia Bersih Tanpa Watermark: Siap Rekam Vokal di Studio",
+  "description": "File audio master berkualitas jernih tanpa gangguan suara produser. Di-mix dengan headroom -6dB sehingga vokal rekaman Anda dapat diproses kompresi dan equalizer dengan sempurna.",
+  "targetArtists": [
+    "Rapper Rekaman",
+    "Studio Musik",
+    "Vokalis"
+  ],
+  "recommendedBpm": "88-144 BPM",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Tanpa Tag Suara",
+    "Audio Jernih",
+    "Headroom -6dB",
+    "Master Bersih"
+  ],
+  "popularGenres": [
+    "Indo Hip-Hop",
+    "Indo Drill",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1",
+    "6"
+  ]
+},
+  {
+  "slug": "lisensi-komersial-spotify-indonesia",
+  "name": "Lisensi Komersial untuk Rilis Spotify Indonesia & DSP",
+  "category": "genre",
+  "badge": "Siap Rilis Spotify",
+  "headline": "Lisensi Komersial Distribusi Musik: Rilis ke Spotify Indonesia & Dapatkan 100% Royalti",
+  "description": "Distribusikan lagu Anda melalui Netrilis, DistroKid, TuneCore, atau agregator mana pun. Anda mempertahankan 100% dari seluruh royalti streaming dan monetisasi digital.",
+  "targetArtists": [
+    "Artistas Independen",
+    "Label Musik",
+    "Musisi Mandiri"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "100% Royalti Anda",
+    "Spotify Indonesia",
+    "Monetisasi YouTube",
+    "Streaming Bebas"
+  ],
+  "popularGenres": [
+    "Indo Hip-Hop",
+    "Jakarta R&B",
+    "Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "rnb-trap-indonesia-type-beat-jakarta",
+  "name": "R&B Trap Indonesia Type Beat Jakarta Selatan",
+  "category": "genre",
+  "badge": "Jaksel R&B Chords",
+  "headline": "Beat R&B Trap Bernuansa Jakarta: Progresi Akor Rhodes & Dentuman Lembut",
+  "description": "Suasana malam kota metropolitan: nada-nada piano elektrik beraroma jazz, dentuman drum trap bernuansa modern, dan ruang lega untuk vokal lembut Taglish.",
+  "targetArtists": [
+    "Penyanyi R&B",
+    "Pencipta Lagu Pop",
+    "Vokalis"
+  ],
+  "recommendedBpm": "90-98 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Piano Rhodes",
+    "Akor R&B Manis",
+    "Nuansa Malam",
+    "Vokal Taglish"
+  ],
+  "popularGenres": [
+    "Jakarta R&B Trap",
+    "Indo Soul",
+    "Pop Urban"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "beli-beat-pakai-gopay-dana-shopeepay",
+  "name": "Beli Beat Pakai E-Wallet (GoPay, DANA, OVO, ShopeePay)",
+  "category": "genre",
+  "badge": "Semua E-Wallet",
+  "headline": "Beli Beat Musik Pakai Dompet Digital: GoPay, DANA, OVO, ShopeePay Tanpa Ribet",
+  "description": "Pembayaran instan 10 detik dari smartphone Anda. Cukup gunakan saldo e-wallet favorit Anda dan nikmati download instan file WAV dan surat lisensi resmi.",
+  "targetArtists": [
+    "Rapper Muda",
+    "Kreator Konten",
+    "Musisi Rumahan"
+  ],
+  "recommendedBpm": "Semua Tempo",
+  "recommendedKey": "Semua Kunci",
+  "vibeAttributes": [
+    "GoPay DANA OVO",
+    "ShopeePay",
+    "Tanpa Kartu Kredit",
+    "Instan 10 Detik"
+  ],
+  "popularGenres": [
+    "Indo Hip-Hop",
+    "Indo Drill",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6"
+  ]
+},
+  {
+  "slug": "exclusive-rights-beat-indonesia-kontrak",
+  "name": "Exclusive Rights Beat Indonesia (Hak Cipta Kepemilikan Penuh)",
+  "category": "genre",
+  "badge": "Hak Eksklusif Penuh",
+  "headline": "Beli Beat Hak Eksklusif Penuh: Hapus dari Katalog & Menjadi Milik Anda Sepenuhnya",
+  "description": "Dapatkan hak kepemilikan master eksklusif tanpa batas. Beat akan langsung dihapus dari toko secara permanen dan dialihkan resmi atas nama Anda dengan kontrak hukum.",
+  "targetArtists": [
+    "Artis Bertanda Tangan",
+    "Proyek Album Penuh",
+    "Manajemen Musik"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Hak Eksklusif",
+    "Hapus dari Toko",
+    "Milik Penuh",
+    "Kontrak Legal"
+  ],
+  "popularGenres": [
+    "Indo Hip-Hop",
+    "R&B Indonesia",
+    "Trap Modern"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "download-paket-3-beat-gratis-indonesia",
+  "name": "Download Paket 3 Beat Gratis untuk Latihan Vokal",
+  "category": "genre",
+  "badge": "Paket 3 Beat Gratis",
+  "headline": "Download Gratis 3 Beat Hip-Hop & Trap: Coba Flow Vokal Anda di Rumah",
+  "description": "Dapatkan 3 instrumen MP3 berkualitas tinggi secara instan dan gratis ke email Anda untuk menguji kecocokan nada vokal dan gaya rap Anda sebelum membeli lisensi penuh.",
+  "targetArtists": [
+    "Rapper Pemula",
+    "Kreator Rumah",
+    "Pencipta Lirik"
+  ],
+  "recommendedBpm": "90, 92, 130 BPM",
+  "recommendedKey": "C-Minor, F-Minor",
+  "vibeAttributes": [
+    "Download Gratis",
+    "3 Beat Lengkap",
+    "Coba Vokal",
+    "Email Instan"
+  ],
+  "popularGenres": [
+    "Indo Hip-Hop",
+    "Trap",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "5"
+  ]
+},
+  {
+  "slug": "92-bpm-indo-rnb-trap-tempo",
+  "name": "92 BPM Indo RnB Trap Tempo",
+  "category": "bpm",
+  "badge": "92 BPM R&B Trap",
+  "headline": "92 BPM R&B Trap Indonesia: Tempo Santai Khas Musik Urban Jaksel",
+  "description": "Tempo favorit untuk vokal R&B dan melodi santai: ayunan drum empuk dan progresi keyboard manis.",
+  "recommendedBpm": "92 BPM",
+  "recommendedKey": "C-Minor",
+  "vibeAttributes": [
+    "92 BPM",
+    "Jaksel Sound",
+    "R&B Santai",
+    "Ayunan Empuk"
+  ],
+  "popularGenres": [
+    "Indo R&B Trap",
+    "Indo Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "130-bpm-indo-trap-beats",
+  "name": "130 BPM Indo Trap Beats",
+  "category": "bpm",
+  "badge": "130 BPM Trap Indonesia",
+  "headline": "130 BPM Trap Indonesia: Ketukan Hi-Hat Cepat & Bass 808 Memantul",
+  "description": "Tempo klasik trap perkotaan dengan dinamika tinggi dan dentuman bass yang tebal.",
+  "recommendedBpm": "130 BPM",
+  "recommendedKey": "G-Minor",
+  "vibeAttributes": [
+    "130 BPM",
+    "Trap Indonesia",
+    "Bass 808",
+    "Hi-Hat Cepat"
+  ],
+  "popularGenres": [
+    "Indo Trap",
+    "Club Banger"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "140-bpm-indo-drill-beats",
+  "name": "140 BPM Indo Drill Beats",
+  "category": "bpm",
+  "badge": "140 BPM Indo Drill",
+  "headline": "140 BPM Indo Drill: Ayunan Snare Sinkopasi & Sub-Bass Meluncur",
+  "description": "Tempo emas musik drill dengan pola snare gesit dan dentuman bass yang menyapu lantai.",
+  "recommendedBpm": "140 BPM",
+  "recommendedKey": "D-Minor",
+  "vibeAttributes": [
+    "140 BPM",
+    "Indo Drill",
+    "Bass Meluncur",
+    "Snare Gesit"
+  ],
+  "popularGenres": [
+    "Indo Drill",
+    "Street Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "135-bpm-rich-brian-trap-tempo",
+  "name": "135 BPM Rich Brian Trap Tempo",
+  "category": "bpm",
+  "badge": "135 BPM Rich Brian Style",
+  "headline": "135 BPM Trap Teknis: Ketukan Cepat untuk Rima Lincah & Aliran Cepat",
+  "description": "Dirancang untuk gaya rap bertempo cepat dan lirik padat berkarakter tegas.",
+  "recommendedBpm": "135 BPM",
+  "recommendedKey": "F-Minor",
+  "vibeAttributes": [
+    "135 BPM",
+    "Rima Lincah",
+    "Trap Cepat",
+    "Teknis"
+  ],
+  "popularGenres": [
+    "Indo Hip-Hop",
+    "Technical Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "88-bpm-tuan-tigabelas-boombap",
+  "name": "88 BPM Tuan Tigabelas Boombap",
+  "category": "bpm",
+  "badge": "88 BPM Klasik Boom Bap",
+  "headline": "88 BPM Boom Bap Klasik: Ayunan Analog Penuh Jiwa untuk Cerita Nyata",
+  "description": "Tempo legendaris hip-hop dengan kick padat dan snare renyah beraroma vinil 90-an.",
+  "recommendedBpm": "88 BPM",
+  "recommendedKey": "C-Minor",
+  "vibeAttributes": [
+    "88 BPM",
+    "Boom Bap Analog",
+    "Cerita Nyata",
+    "Vinil 90s"
+  ],
+  "popularGenres": [
+    "Classic Boom Bap",
+    "Conscious Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "c-minor-indo-hiphop-beats",
+  "name": "C-Minor Indo Hip-Hop Beats",
+  "category": "key",
+  "badge": "C-Minor Indo Hip-Hop",
+  "headline": "Beat Hip-Hop Tangga Nada C-Minor: Nada Gelap & Bass 808 Berbobot",
+  "description": "Kunci nada terfavorit dalam musik rap: memberikan resonansi bass 808 terbersih dan suasana penuh wibawa.",
+  "recommendedBpm": "90-135 BPM",
+  "recommendedKey": "C-Minor",
+  "vibeAttributes": [
+    "C-Minor",
+    "Bass 808 Berbobot",
+    "Nada Gelap",
+    "Favorit Rap"
+  ],
+  "popularGenres": [
+    "Indo Hip-Hop",
+    "Trap Indonesia"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "d-minor-indo-drill-beats",
+  "name": "D-Minor Indo Drill Beats",
+  "category": "key",
+  "badge": "D-Minor Drill",
+  "headline": "Beat Drill Tangga Nada D-Minor: Ketegangan Jalanan & Lonceng Dingin",
+  "description": "Kunci nada standar musik drill di seluruh dunia, menghasilkan suasana dingin dan ancaman yang tegas.",
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor",
+  "vibeAttributes": [
+    "D-Minor",
+    "Lonceng Dingin",
+    "Ketegangan",
+    "Drill Nyata"
+  ],
+  "popularGenres": [
+    "Indo Drill",
+    "UK Drill Style"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "f-minor-rich-brian-808s",
+  "name": "F-Minor Rich Brian 808s",
+  "category": "key",
+  "badge": "F-Minor Bariton 808",
+  "headline": "Beat Tangga Nada F-Minor: Bass Menggelegar untuk Vokal Berkarakter Kuat",
+  "description": "Kunci nada yang sangat cocok untuk vokal bariton berat dan aransemen trap berbobot internasional.",
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "F-Minor",
+  "vibeAttributes": [
+    "F-Minor",
+    "Vokal Bariton",
+    "Bass Menggelegar",
+    "Internasional"
+  ],
+  "popularGenres": [
+    "Indo Hip-Hop",
+    "Global Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "g-minor-ramengvrl-trap-banger",
+  "name": "G-Minor Ramengvrl Trap Banger",
+  "category": "key",
+  "badge": "G-Minor Trap Banger",
+  "headline": "Beat Tangga Nada G-Minor: Kejelasan Melodi Sintetizer & Dentuman Klub",
+  "description": "Memberikan kejernihan luar biasa pada instrumen lead dan tendangan kick yang mantap untuk lantai dansa.",
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "G-Minor",
+  "vibeAttributes": [
+    "G-Minor",
+    "Sintetizer Jernih",
+    "Dentuman Mantap",
+    "Lantai Dansa"
+  ],
+  "popularGenres": [
+    "Indo Trap",
+    "Club Banger"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "a-minor-gamelan-ethnic-trap",
+  "name": "A-Minor Gamelan Ethnic Trap",
+  "category": "key",
+  "badge": "A-Minor Gamelan Etnik",
+  "headline": "Beat Etnik Tangga Nada A-Minor: Resonansi Logam Gamelan Nusantara",
+  "description": "Tangga nada alami yang sangat pas untuk menyelaraskan bilah perunggu gamelan dengan instrumen modern.",
+  "recommendedBpm": "120-135 BPM",
+  "recommendedKey": "A-Minor",
+  "vibeAttributes": [
+    "A-Minor",
+    "Gamelan Perunggu",
+    "Resonansi Alami",
+    "Budaya Asli"
+  ],
+  "popularGenres": [
+    "Ethnic Trap",
+    "Gamelan Fusi"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "6"
+  ]
+},
+  {
+  "slug": "jakarta-selatan-jakarta-rnb-trap-beats",
+  "name": "Jakarta Selatan Jakarta R&B Trap Beats",
+  "category": "scene",
+  "badge": "Jakarta Selatan Jaksel R&B Trap",
+  "headline": "Jakarta Selatan (Jaksel & Senopati) Jakarta R&B Trap Beats: Master WAV & QRIS / GoPay",
+  "description": "Keyboard Rhodes bernuansa jazz-pop manis, dentuman drum trap santai, dan kualitas WAV 24-bit untuk penyanyi di Jakarta Selatan.",
+  "targetArtists": [
+    "Musisi Jakarta Selatan",
+    "Skena Hip-Hop Indonesia",
+    "Kreator Musik Mandiri"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Jakarta Selatan",
+    "Jaksel R&B Trap",
+    "Bayar QRIS",
+    "Resmi WAMI"
+  ],
+  "popularGenres": [
+    "Jakarta R&B Trap Beats",
+    "Indo Hip-Hop",
+    "Trap Indonesia"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "jakarta-selatan-indo-drill-instrumental",
+  "name": "Jakarta Selatan Indo Drill Instrumental",
+  "category": "scene",
+  "badge": "Jakarta Selatan Indo Drill",
+  "headline": "Jakarta Selatan (Jaksel & Senopati) Indo Drill Instrumental: Master WAV & QRIS / GoPay",
+  "description": "Lonceng es dingin, ayunan snare gesit 140 BPM, dan sub-bass 808 meluncur bertenaga untuk rapper di Jakarta Selatan.",
+  "targetArtists": [
+    "Musisi Jakarta Selatan",
+    "Skena Hip-Hop Indonesia",
+    "Kreator Musik Mandiri"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Jakarta Selatan",
+    "Indo Drill",
+    "Bayar QRIS",
+    "Resmi WAMI"
+  ],
+  "popularGenres": [
+    "Indo Drill Instrumental",
+    "Indo Hip-Hop",
+    "Trap Indonesia"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "jakarta-selatan-boombap-indonesia-klasik",
+  "name": "Jakarta Selatan Boom Bap Indonesia Klasik",
+  "category": "scene",
+  "badge": "Jakarta Selatan Boom Bap Klasik",
+  "headline": "Jakarta Selatan (Jaksel & Senopati) Boom Bap Indonesia Klasik: Master WAV & QRIS / GoPay",
+  "description": "Kick analog padat tanpa kompresi berlebih, snare renyah beraroma vinil, dan lirik berbobot untuk MC di Jakarta Selatan.",
+  "targetArtists": [
+    "Musisi Jakarta Selatan",
+    "Skena Hip-Hop Indonesia",
+    "Kreator Musik Mandiri"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Jakarta Selatan",
+    "Boom Bap Klasik",
+    "Bayar QRIS",
+    "Resmi WAMI"
+  ],
+  "popularGenres": [
+    "Boom Bap Indonesia Klasik",
+    "Indo Hip-Hop",
+    "Trap Indonesia"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "jakarta-selatan-gamelan-trap-fusion",
+  "name": "Jakarta Selatan Gamelan Trap Fusion",
+  "category": "scene",
+  "badge": "Jakarta Selatan Gamelan Etnik Trap",
+  "headline": "Jakarta Selatan (Jaksel & Senopati) Gamelan Trap Fusion: Master WAV & QRIS / GoPay",
+  "description": "Laras gamelan perunggu tradisional dipadukan dengan dentuman bass 808 modern untuk karya musik berakar budaya di Jakarta Selatan.",
+  "targetArtists": [
+    "Musisi Jakarta Selatan",
+    "Skena Hip-Hop Indonesia",
+    "Kreator Musik Mandiri"
+  ],
+  "recommendedBpm": "125-135 BPM",
+  "recommendedKey": "A-Minor / D-Minor",
+  "vibeAttributes": [
+    "Jakarta Selatan",
+    "Gamelan Etnik Trap",
+    "Bayar QRIS",
+    "Resmi WAMI"
+  ],
+  "popularGenres": [
+    "Gamelan Trap Fusion",
+    "Indo Hip-Hop",
+    "Trap Indonesia"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "bandung-jawa-barat-jakarta-rnb-trap-beats",
+  "name": "Bandung Jakarta R&B Trap Beats",
+  "category": "scene",
+  "badge": "Bandung Jaksel R&B Trap",
+  "headline": "Bandung (Jawa Barat) Jakarta R&B Trap Beats: Master WAV & QRIS / GoPay",
+  "description": "Keyboard Rhodes bernuansa jazz-pop manis, dentuman drum trap santai, dan kualitas WAV 24-bit untuk penyanyi di Bandung.",
+  "targetArtists": [
+    "Musisi Bandung",
+    "Skena Hip-Hop Indonesia",
+    "Kreator Musik Mandiri"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Bandung",
+    "Jaksel R&B Trap",
+    "Bayar QRIS",
+    "Resmi WAMI"
+  ],
+  "popularGenres": [
+    "Jakarta R&B Trap Beats",
+    "Indo Hip-Hop",
+    "Trap Indonesia"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "bandung-jawa-barat-indo-drill-instrumental",
+  "name": "Bandung Indo Drill Instrumental",
+  "category": "scene",
+  "badge": "Bandung Indo Drill",
+  "headline": "Bandung (Jawa Barat) Indo Drill Instrumental: Master WAV & QRIS / GoPay",
+  "description": "Lonceng es dingin, ayunan snare gesit 140 BPM, dan sub-bass 808 meluncur bertenaga untuk rapper di Bandung.",
+  "targetArtists": [
+    "Musisi Bandung",
+    "Skena Hip-Hop Indonesia",
+    "Kreator Musik Mandiri"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Bandung",
+    "Indo Drill",
+    "Bayar QRIS",
+    "Resmi WAMI"
+  ],
+  "popularGenres": [
+    "Indo Drill Instrumental",
+    "Indo Hip-Hop",
+    "Trap Indonesia"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "bandung-jawa-barat-boombap-indonesia-klasik",
+  "name": "Bandung Boom Bap Indonesia Klasik",
+  "category": "scene",
+  "badge": "Bandung Boom Bap Klasik",
+  "headline": "Bandung (Jawa Barat) Boom Bap Indonesia Klasik: Master WAV & QRIS / GoPay",
+  "description": "Kick analog padat tanpa kompresi berlebih, snare renyah beraroma vinil, dan lirik berbobot untuk MC di Bandung.",
+  "targetArtists": [
+    "Musisi Bandung",
+    "Skena Hip-Hop Indonesia",
+    "Kreator Musik Mandiri"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Bandung",
+    "Boom Bap Klasik",
+    "Bayar QRIS",
+    "Resmi WAMI"
+  ],
+  "popularGenres": [
+    "Boom Bap Indonesia Klasik",
+    "Indo Hip-Hop",
+    "Trap Indonesia"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "bandung-jawa-barat-gamelan-trap-fusion",
+  "name": "Bandung Gamelan Trap Fusion",
+  "category": "scene",
+  "badge": "Bandung Gamelan Etnik Trap",
+  "headline": "Bandung (Jawa Barat) Gamelan Trap Fusion: Master WAV & QRIS / GoPay",
+  "description": "Laras gamelan perunggu tradisional dipadukan dengan dentuman bass 808 modern untuk karya musik berakar budaya di Bandung.",
+  "targetArtists": [
+    "Musisi Bandung",
+    "Skena Hip-Hop Indonesia",
+    "Kreator Musik Mandiri"
+  ],
+  "recommendedBpm": "125-135 BPM",
+  "recommendedKey": "A-Minor / D-Minor",
+  "vibeAttributes": [
+    "Bandung",
+    "Gamelan Etnik Trap",
+    "Bayar QRIS",
+    "Resmi WAMI"
+  ],
+  "popularGenres": [
+    "Gamelan Trap Fusion",
+    "Indo Hip-Hop",
+    "Trap Indonesia"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "surabaya-jawa-timur-jakarta-rnb-trap-beats",
+  "name": "Surabaya Jakarta R&B Trap Beats",
+  "category": "scene",
+  "badge": "Surabaya Jaksel R&B Trap",
+  "headline": "Surabaya (Jawa Timur) Jakarta R&B Trap Beats: Master WAV & QRIS / GoPay",
+  "description": "Keyboard Rhodes bernuansa jazz-pop manis, dentuman drum trap santai, dan kualitas WAV 24-bit untuk penyanyi di Surabaya.",
+  "targetArtists": [
+    "Musisi Surabaya",
+    "Skena Hip-Hop Indonesia",
+    "Kreator Musik Mandiri"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Surabaya",
+    "Jaksel R&B Trap",
+    "Bayar QRIS",
+    "Resmi WAMI"
+  ],
+  "popularGenres": [
+    "Jakarta R&B Trap Beats",
+    "Indo Hip-Hop",
+    "Trap Indonesia"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "surabaya-jawa-timur-indo-drill-instrumental",
+  "name": "Surabaya Indo Drill Instrumental",
+  "category": "scene",
+  "badge": "Surabaya Indo Drill",
+  "headline": "Surabaya (Jawa Timur) Indo Drill Instrumental: Master WAV & QRIS / GoPay",
+  "description": "Lonceng es dingin, ayunan snare gesit 140 BPM, dan sub-bass 808 meluncur bertenaga untuk rapper di Surabaya.",
+  "targetArtists": [
+    "Musisi Surabaya",
+    "Skena Hip-Hop Indonesia",
+    "Kreator Musik Mandiri"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Surabaya",
+    "Indo Drill",
+    "Bayar QRIS",
+    "Resmi WAMI"
+  ],
+  "popularGenres": [
+    "Indo Drill Instrumental",
+    "Indo Hip-Hop",
+    "Trap Indonesia"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "surabaya-jawa-timur-boombap-indonesia-klasik",
+  "name": "Surabaya Boom Bap Indonesia Klasik",
+  "category": "scene",
+  "badge": "Surabaya Boom Bap Klasik",
+  "headline": "Surabaya (Jawa Timur) Boom Bap Indonesia Klasik: Master WAV & QRIS / GoPay",
+  "description": "Kick analog padat tanpa kompresi berlebih, snare renyah beraroma vinil, dan lirik berbobot untuk MC di Surabaya.",
+  "targetArtists": [
+    "Musisi Surabaya",
+    "Skena Hip-Hop Indonesia",
+    "Kreator Musik Mandiri"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Surabaya",
+    "Boom Bap Klasik",
+    "Bayar QRIS",
+    "Resmi WAMI"
+  ],
+  "popularGenres": [
+    "Boom Bap Indonesia Klasik",
+    "Indo Hip-Hop",
+    "Trap Indonesia"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "surabaya-jawa-timur-gamelan-trap-fusion",
+  "name": "Surabaya Gamelan Trap Fusion",
+  "category": "scene",
+  "badge": "Surabaya Gamelan Etnik Trap",
+  "headline": "Surabaya (Jawa Timur) Gamelan Trap Fusion: Master WAV & QRIS / GoPay",
+  "description": "Laras gamelan perunggu tradisional dipadukan dengan dentuman bass 808 modern untuk karya musik berakar budaya di Surabaya.",
+  "targetArtists": [
+    "Musisi Surabaya",
+    "Skena Hip-Hop Indonesia",
+    "Kreator Musik Mandiri"
+  ],
+  "recommendedBpm": "125-135 BPM",
+  "recommendedKey": "A-Minor / D-Minor",
+  "vibeAttributes": [
+    "Surabaya",
+    "Gamelan Etnik Trap",
+    "Bayar QRIS",
+    "Resmi WAMI"
+  ],
+  "popularGenres": [
+    "Gamelan Trap Fusion",
+    "Indo Hip-Hop",
+    "Trap Indonesia"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "yogyakarta-istimewa-jakarta-rnb-trap-beats",
+  "name": "Yogyakarta Jakarta R&B Trap Beats",
+  "category": "scene",
+  "badge": "Yogyakarta Jaksel R&B Trap",
+  "headline": "Yogyakarta (DIY) Jakarta R&B Trap Beats: Master WAV & QRIS / GoPay",
+  "description": "Keyboard Rhodes bernuansa jazz-pop manis, dentuman drum trap santai, dan kualitas WAV 24-bit untuk penyanyi di Yogyakarta.",
+  "targetArtists": [
+    "Musisi Yogyakarta",
+    "Skena Hip-Hop Indonesia",
+    "Kreator Musik Mandiri"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Yogyakarta",
+    "Jaksel R&B Trap",
+    "Bayar QRIS",
+    "Resmi WAMI"
+  ],
+  "popularGenres": [
+    "Jakarta R&B Trap Beats",
+    "Indo Hip-Hop",
+    "Trap Indonesia"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "yogyakarta-istimewa-indo-drill-instrumental",
+  "name": "Yogyakarta Indo Drill Instrumental",
+  "category": "scene",
+  "badge": "Yogyakarta Indo Drill",
+  "headline": "Yogyakarta (DIY) Indo Drill Instrumental: Master WAV & QRIS / GoPay",
+  "description": "Lonceng es dingin, ayunan snare gesit 140 BPM, dan sub-bass 808 meluncur bertenaga untuk rapper di Yogyakarta.",
+  "targetArtists": [
+    "Musisi Yogyakarta",
+    "Skena Hip-Hop Indonesia",
+    "Kreator Musik Mandiri"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Yogyakarta",
+    "Indo Drill",
+    "Bayar QRIS",
+    "Resmi WAMI"
+  ],
+  "popularGenres": [
+    "Indo Drill Instrumental",
+    "Indo Hip-Hop",
+    "Trap Indonesia"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "yogyakarta-istimewa-boombap-indonesia-klasik",
+  "name": "Yogyakarta Boom Bap Indonesia Klasik",
+  "category": "scene",
+  "badge": "Yogyakarta Boom Bap Klasik",
+  "headline": "Yogyakarta (DIY) Boom Bap Indonesia Klasik: Master WAV & QRIS / GoPay",
+  "description": "Kick analog padat tanpa kompresi berlebih, snare renyah beraroma vinil, dan lirik berbobot untuk MC di Yogyakarta.",
+  "targetArtists": [
+    "Musisi Yogyakarta",
+    "Skena Hip-Hop Indonesia",
+    "Kreator Musik Mandiri"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Yogyakarta",
+    "Boom Bap Klasik",
+    "Bayar QRIS",
+    "Resmi WAMI"
+  ],
+  "popularGenres": [
+    "Boom Bap Indonesia Klasik",
+    "Indo Hip-Hop",
+    "Trap Indonesia"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "yogyakarta-istimewa-gamelan-trap-fusion",
+  "name": "Yogyakarta Gamelan Trap Fusion",
+  "category": "scene",
+  "badge": "Yogyakarta Gamelan Etnik Trap",
+  "headline": "Yogyakarta (DIY) Gamelan Trap Fusion: Master WAV & QRIS / GoPay",
+  "description": "Laras gamelan perunggu tradisional dipadukan dengan dentuman bass 808 modern untuk karya musik berakar budaya di Yogyakarta.",
+  "targetArtists": [
+    "Musisi Yogyakarta",
+    "Skena Hip-Hop Indonesia",
+    "Kreator Musik Mandiri"
+  ],
+  "recommendedBpm": "125-135 BPM",
+  "recommendedKey": "A-Minor / D-Minor",
+  "vibeAttributes": [
+    "Yogyakarta",
+    "Gamelan Etnik Trap",
+    "Bayar QRIS",
+    "Resmi WAMI"
+  ],
+  "popularGenres": [
+    "Gamelan Trap Fusion",
+    "Indo Hip-Hop",
+    "Trap Indonesia"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "bali-denpasar-jakarta-rnb-trap-beats",
+  "name": "Bali & Denpasar Jakarta R&B Trap Beats",
+  "category": "scene",
+  "badge": "Bali & Denpasar Jaksel R&B Trap",
+  "headline": "Bali & Denpasar (Pulau Dewata) Jakarta R&B Trap Beats: Master WAV & QRIS / GoPay",
+  "description": "Keyboard Rhodes bernuansa jazz-pop manis, dentuman drum trap santai, dan kualitas WAV 24-bit untuk penyanyi di Bali & Denpasar.",
+  "targetArtists": [
+    "Musisi Bali & Denpasar",
+    "Skena Hip-Hop Indonesia",
+    "Kreator Musik Mandiri"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Bali & Denpasar",
+    "Jaksel R&B Trap",
+    "Bayar QRIS",
+    "Resmi WAMI"
+  ],
+  "popularGenres": [
+    "Jakarta R&B Trap Beats",
+    "Indo Hip-Hop",
+    "Trap Indonesia"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "bali-denpasar-indo-drill-instrumental",
+  "name": "Bali & Denpasar Indo Drill Instrumental",
+  "category": "scene",
+  "badge": "Bali & Denpasar Indo Drill",
+  "headline": "Bali & Denpasar (Pulau Dewata) Indo Drill Instrumental: Master WAV & QRIS / GoPay",
+  "description": "Lonceng es dingin, ayunan snare gesit 140 BPM, dan sub-bass 808 meluncur bertenaga untuk rapper di Bali & Denpasar.",
+  "targetArtists": [
+    "Musisi Bali & Denpasar",
+    "Skena Hip-Hop Indonesia",
+    "Kreator Musik Mandiri"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Bali & Denpasar",
+    "Indo Drill",
+    "Bayar QRIS",
+    "Resmi WAMI"
+  ],
+  "popularGenres": [
+    "Indo Drill Instrumental",
+    "Indo Hip-Hop",
+    "Trap Indonesia"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "bali-denpasar-boombap-indonesia-klasik",
+  "name": "Bali & Denpasar Boom Bap Indonesia Klasik",
+  "category": "scene",
+  "badge": "Bali & Denpasar Boom Bap Klasik",
+  "headline": "Bali & Denpasar (Pulau Dewata) Boom Bap Indonesia Klasik: Master WAV & QRIS / GoPay",
+  "description": "Kick analog padat tanpa kompresi berlebih, snare renyah beraroma vinil, dan lirik berbobot untuk MC di Bali & Denpasar.",
+  "targetArtists": [
+    "Musisi Bali & Denpasar",
+    "Skena Hip-Hop Indonesia",
+    "Kreator Musik Mandiri"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Bali & Denpasar",
+    "Boom Bap Klasik",
+    "Bayar QRIS",
+    "Resmi WAMI"
+  ],
+  "popularGenres": [
+    "Boom Bap Indonesia Klasik",
+    "Indo Hip-Hop",
+    "Trap Indonesia"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "bali-denpasar-gamelan-trap-fusion",
+  "name": "Bali & Denpasar Gamelan Trap Fusion",
+  "category": "scene",
+  "badge": "Bali & Denpasar Gamelan Etnik Trap",
+  "headline": "Bali & Denpasar (Pulau Dewata) Gamelan Trap Fusion: Master WAV & QRIS / GoPay",
+  "description": "Laras gamelan perunggu tradisional dipadukan dengan dentuman bass 808 modern untuk karya musik berakar budaya di Bali & Denpasar.",
+  "targetArtists": [
+    "Musisi Bali & Denpasar",
+    "Skena Hip-Hop Indonesia",
+    "Kreator Musik Mandiri"
+  ],
+  "recommendedBpm": "125-135 BPM",
+  "recommendedKey": "A-Minor / D-Minor",
+  "vibeAttributes": [
+    "Bali & Denpasar",
+    "Gamelan Etnik Trap",
+    "Bayar QRIS",
+    "Resmi WAMI"
+  ],
+  "popularGenres": [
+    "Gamelan Trap Fusion",
+    "Indo Hip-Hop",
+    "Trap Indonesia"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "medan-sumatera-utara-jakarta-rnb-trap-beats",
+  "name": "Medan Jakarta R&B Trap Beats",
+  "category": "scene",
+  "badge": "Medan Jaksel R&B Trap",
+  "headline": "Medan (Sumatera Utara) Jakarta R&B Trap Beats: Master WAV & QRIS / GoPay",
+  "description": "Keyboard Rhodes bernuansa jazz-pop manis, dentuman drum trap santai, dan kualitas WAV 24-bit untuk penyanyi di Medan.",
+  "targetArtists": [
+    "Musisi Medan",
+    "Skena Hip-Hop Indonesia",
+    "Kreator Musik Mandiri"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Medan",
+    "Jaksel R&B Trap",
+    "Bayar QRIS",
+    "Resmi WAMI"
+  ],
+  "popularGenres": [
+    "Jakarta R&B Trap Beats",
+    "Indo Hip-Hop",
+    "Trap Indonesia"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "medan-sumatera-utara-indo-drill-instrumental",
+  "name": "Medan Indo Drill Instrumental",
+  "category": "scene",
+  "badge": "Medan Indo Drill",
+  "headline": "Medan (Sumatera Utara) Indo Drill Instrumental: Master WAV & QRIS / GoPay",
+  "description": "Lonceng es dingin, ayunan snare gesit 140 BPM, dan sub-bass 808 meluncur bertenaga untuk rapper di Medan.",
+  "targetArtists": [
+    "Musisi Medan",
+    "Skena Hip-Hop Indonesia",
+    "Kreator Musik Mandiri"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Medan",
+    "Indo Drill",
+    "Bayar QRIS",
+    "Resmi WAMI"
+  ],
+  "popularGenres": [
+    "Indo Drill Instrumental",
+    "Indo Hip-Hop",
+    "Trap Indonesia"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "medan-sumatera-utara-boombap-indonesia-klasik",
+  "name": "Medan Boom Bap Indonesia Klasik",
+  "category": "scene",
+  "badge": "Medan Boom Bap Klasik",
+  "headline": "Medan (Sumatera Utara) Boom Bap Indonesia Klasik: Master WAV & QRIS / GoPay",
+  "description": "Kick analog padat tanpa kompresi berlebih, snare renyah beraroma vinil, dan lirik berbobot untuk MC di Medan.",
+  "targetArtists": [
+    "Musisi Medan",
+    "Skena Hip-Hop Indonesia",
+    "Kreator Musik Mandiri"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Medan",
+    "Boom Bap Klasik",
+    "Bayar QRIS",
+    "Resmi WAMI"
+  ],
+  "popularGenres": [
+    "Boom Bap Indonesia Klasik",
+    "Indo Hip-Hop",
+    "Trap Indonesia"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "medan-sumatera-utara-gamelan-trap-fusion",
+  "name": "Medan Gamelan Trap Fusion",
+  "category": "scene",
+  "badge": "Medan Gamelan Etnik Trap",
+  "headline": "Medan (Sumatera Utara) Gamelan Trap Fusion: Master WAV & QRIS / GoPay",
+  "description": "Laras gamelan perunggu tradisional dipadukan dengan dentuman bass 808 modern untuk karya musik berakar budaya di Medan.",
+  "targetArtists": [
+    "Musisi Medan",
+    "Skena Hip-Hop Indonesia",
+    "Kreator Musik Mandiri"
+  ],
+  "recommendedBpm": "125-135 BPM",
+  "recommendedKey": "A-Minor / D-Minor",
+  "vibeAttributes": [
+    "Medan",
+    "Gamelan Etnik Trap",
+    "Bayar QRIS",
+    "Resmi WAMI"
+  ],
+  "popularGenres": [
+    "Gamelan Trap Fusion",
+    "Indo Hip-Hop",
+    "Trap Indonesia"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
 ];
