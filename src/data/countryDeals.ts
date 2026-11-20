@@ -26062,4 +26062,446 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
     }
   ]
 },
+  "pe/callao-centro": {
+  "name": "Perú – Callao & Puerto Chalaco (Cuna de Salsa & Rap Duro)",
+  "flag": "🇵🇪",
+  "currency": "PEN (S/)",
+  "currencyCode": "PEN",
+  "gateways": "Yape, Plin, BCP, Interbank, Tarjetas, Apple Pay",
+  "pro": "APDAYC",
+  "proFullName": "APDAYC Perú",
+  "proGuide": "100% legal ante APDAYC con contrato en PDF descargable.",
+  "headline": "Beats en el Callao: Salsa Pesada Fusión, Chalaco Boom Bap & Trap del Puerto",
+  "description": "La bravura del primer puerto del Perú: trompetas de salsa brava, cajas secas cortantes y bajos 808 profundos para rimas de esquina y orgullo chalaco.",
+  "popularGenres": [
+    "Rap Chalaco",
+    "Salsa Trap Fusión",
+    "Callao Street Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Perú – Callao & Puerto Chalaco (Cuna de Salsa & Rap Duro)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante APDAYC, UNIMPRO e INDECOPI?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Dirección de Derecho de Autor de INDECOPI y afiliar tu canción a APDAYC sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en el Perú?",
+      "answer": "En Soles Peruanos (PEN S/), puedes pagar de forma instantánea a través de Yape (código QR o número celular de BCP), Plin (BBVA, Interbank, Scotiabank), transferencia bancaria nacional (BCP, Interbank), tarjetas de débito/crédito peruanas, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "pe/los-olivos-lima-norte": {
+  "name": "Perú – Los Olivos & Lima Norte (Mega-Hub Urbano & Freestyle)",
+  "flag": "🇵🇪",
+  "currency": "PEN (S/)",
+  "currencyCode": "PEN",
+  "gateways": "Yape, Plin, BCP, Interbank, Tarjetas, Apple Pay",
+  "pro": "APDAYC",
+  "proFullName": "APDAYC Perú",
+  "proGuide": "Composiciones originales libres de reclamos de copyright.",
+  "headline": "Beats en Los Olivos: Trap de Lima Norte, Freestyle de Plaza & 808s",
+  "description": "El distrito universitario y nocturno de Lima Norte: baterías de trap modernas, hi-hats rápidos y bajos con pegada para la juventud urbana.",
+  "popularGenres": [
+    "Trap Lima Norte",
+    "Los Olivos Flow",
+    "Freestyle de Plaza"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Perú – Los Olivos & Lima Norte (Mega-Hub Urbano & Freestyle)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante APDAYC, UNIMPRO e INDECOPI?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Dirección de Derecho de Autor de INDECOPI y afiliar tu canción a APDAYC sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en el Perú?",
+      "answer": "En Soles Peruanos (PEN S/), puedes pagar de forma instantánea a través de Yape (código QR o número celular de BCP), Plin (BBVA, Interbank, Scotiabank), transferencia bancaria nacional (BCP, Interbank), tarjetas de débito/crédito peruanas, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "pe/chimbote-ancash": {
+  "name": "Perú – Chimbote & Áncash (Puerto Pesquero & Rap Combativo)",
+  "flag": "🇵🇪",
+  "currency": "PEN (S/)",
+  "currencyCode": "PEN",
+  "gateways": "Yape, Plin, BCP, Interbank, Tarjetas, Apple Pay",
+  "pro": "APDAYC",
+  "proFullName": "APDAYC Perú",
+  "proGuide": "100% original con entrega de stems multitrack.",
+  "headline": "Beats en Chimbote: Rap Combativo de Puerto, Cajas Secas & Fuerza de Áncash",
+  "description": "El sonido obrero del puerto pesquero: bombos pesados sin adornos, líneas de bajo sólidas y melodías oscuras para letras con contenido social.",
+  "popularGenres": [
+    "Rap Chimbotano",
+    "Áncash Boom Bap",
+    "Street Hip Hop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Perú – Chimbote & Áncash (Puerto Pesquero & Rap Combativo)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante APDAYC, UNIMPRO e INDECOPI?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Dirección de Derecho de Autor de INDECOPI y afiliar tu canción a APDAYC sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en el Perú?",
+      "answer": "En Soles Peruanos (PEN S/), puedes pagar de forma instantánea a través de Yape (código QR o número celular de BCP), Plin (BBVA, Interbank, Scotiabank), transferencia bancaria nacional (BCP, Interbank), tarjetas de débito/crédito peruanas, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "pe/tacna-heroica": {
+  "name": "Perú – Tacna & Frontera Sur (Ciudad Heroica Urban)",
+  "flag": "🇵🇪",
+  "currency": "PEN (S/)",
+  "currencyCode": "PEN",
+  "gateways": "Yape, Plin, BCP, Interbank, Tarjetas, Apple Pay",
+  "pro": "APDAYC",
+  "proFullName": "APDAYC Perú",
+  "proGuide": "100% listo para distribución comercial en plataformas digitales.",
+  "headline": "Beats en Tacna: Flow de Frontera Sur, Trap Melódico & Baterías Claras",
+  "description": "El punto de encuentro del sur peruano: guitarras melódicas, percusiones nítidas de trap y bajos envolventes para la vibrante escena tacneña.",
+  "popularGenres": [
+    "Tacna Trap",
+    "Flow Fronterizo",
+    "Sur Melodic"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Perú – Tacna & Frontera Sur (Ciudad Heroica Urban)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante APDAYC, UNIMPRO e INDECOPI?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Dirección de Derecho de Autor de INDECOPI y afiliar tu canción a APDAYC sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en el Perú?",
+      "answer": "En Soles Peruanos (PEN S/), puedes pagar de forma instantánea a través de Yape (código QR o número celular de BCP), Plin (BBVA, Interbank, Scotiabank), transferencia bancaria nacional (BCP, Interbank), tarjetas de débito/crédito peruanas, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "pe/ica-costa-sur": {
+  "name": "Perú – Ica & Chincha (Cuna del Cajón Afroperuano & Festejo)",
+  "flag": "🇵🇪",
+  "currency": "PEN (S/)",
+  "currencyCode": "PEN",
+  "gateways": "Yape, Plin, BCP, Interbank, Tarjetas, Apple Pay",
+  "pro": "APDAYC",
+  "proFullName": "APDAYC Perú",
+  "proGuide": "Instrumentos afroperuanos reales libres de copyright.",
+  "headline": "Beats en Ica & Chincha: Cajón Afroperuano Real, Festejo-Trap & Quijada",
+  "description": "El ritmo negro del Perú: cajón de Chincha grabado en alta fidelidad, quijada de burro y guapeos afroperuanos fusionados con el golpe moderno del trap.",
+  "popularGenres": [
+    "Afroperuano Trap",
+    "Festejo Urbano",
+    "Chincha Groove"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Cajón Festejo Trap",
+      "slug": "../../vibe/cajon-afro-peruano-festejo-trap",
+      "description": "Cajón de Chincha, quijada y bajo 808 demoledor."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Perú – Ica & Chincha (Cuna del Cajón Afroperuano & Festejo)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante APDAYC, UNIMPRO e INDECOPI?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Dirección de Derecho de Autor de INDECOPI y afiliar tu canción a APDAYC sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en el Perú?",
+      "answer": "En Soles Peruanos (PEN S/), puedes pagar de forma instantánea a través de Yape (código QR o número celular de BCP), Plin (BBVA, Interbank, Scotiabank), transferencia bancaria nacional (BCP, Interbank), tarjetas de débito/crédito peruanas, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "pe/puno-juliaca": {
+  "name": "Perú – Puno & Juliaca (Altiplano, Titicaca & Trap de Altura)",
+  "flag": "🇵🇪",
+  "currency": "PEN (S/)",
+  "currencyCode": "PEN",
+  "gateways": "Yape, Plin, BCP, Interbank, Tarjetas, Apple Pay",
+  "pro": "APDAYC",
+  "proFullName": "APDAYC Perú",
+  "proGuide": "Garantía de autoría 100% original por Onzieb.",
+  "headline": "Beats en Puno & Juliaca: Metales de Morenada, Zampoñas & 808 Altiplánico",
+  "description": "La fuerza y el frío del Altiplano a más de 3.800 metros: trompetas de bandas festivas, sikus milenarios y sub-bajos que retumban en el lago Titicaca.",
+  "popularGenres": [
+    "Altiplano Trap",
+    "Morenada Fusión",
+    "Siku Bass"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Perú – Puno & Juliaca (Altiplano, Titicaca & Trap de Altura)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante APDAYC, UNIMPRO e INDECOPI?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Dirección de Derecho de Autor de INDECOPI y afiliar tu canción a APDAYC sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en el Perú?",
+      "answer": "En Soles Peruanos (PEN S/), puedes pagar de forma instantánea a través de Yape (código QR o número celular de BCP), Plin (BBVA, Interbank, Scotiabank), transferencia bancaria nacional (BCP, Interbank), tarjetas de débito/crédito peruanas, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "pe/pucallpa-ucayali": {
+  "name": "Perú – Pucallpa & Ucayali (Selva Central & Cumbia Shipiba)",
+  "flag": "🇵🇪",
+  "currency": "PEN (S/)",
+  "currencyCode": "PEN",
+  "gateways": "Yape, Plin, BCP, Interbank, Tarjetas, Apple Pay",
+  "pro": "APDAYC",
+  "proFullName": "APDAYC Perú",
+  "proGuide": "100% compatible con APDAYC.",
+  "headline": "Beats en Pucallpa: Cumbia Selvática, Percusión Tribal Shipiba & Trap",
+  "description": "El trance chamánico de la Amazonía peruana: cantos tribales ancestrales, percusiones de madera y bajos envolventes para temas con mística selvática.",
+  "popularGenres": [
+    "Selva Central Trap",
+    "Cumbia Shipiba",
+    "Tribal Amazónico"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Perú – Pucallpa & Ucayali (Selva Central & Cumbia Shipiba)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante APDAYC, UNIMPRO e INDECOPI?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Dirección de Derecho de Autor de INDECOPI y afiliar tu canción a APDAYC sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en el Perú?",
+      "answer": "En Soles Peruanos (PEN S/), puedes pagar de forma instantánea a través de Yape (código QR o número celular de BCP), Plin (BBVA, Interbank, Scotiabank), transferencia bancaria nacional (BCP, Interbank), tarjetas de débito/crédito peruanas, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "pe/cajamarca-sierra-norte": {
+  "name": "Perú – Cajamarca & Sierra Norte (Guitarras de Montaña & Rap)",
+  "flag": "🇵🇪",
+  "currency": "PEN (S/)",
+  "currencyCode": "PEN",
+  "gateways": "Yape, Plin, BCP, Interbank, Tarjetas, Apple Pay",
+  "pro": "APDAYC",
+  "proFullName": "APDAYC Perú",
+  "proGuide": "100% original con entrega de stems.",
+  "headline": "Beats en Cajamarca: Clarín Cajamarquino, Guitarras Sentidas & Boom Bap",
+  "description": "La belleza y tradición del norte andino: acordes limpios de guitarra criolla, vientos tradicionales y baterías de hip-hop con alma y poesía.",
+  "popularGenres": [
+    "Rap Cajamarquino",
+    "Guitarras de la Sierra",
+    "Folk Urbano"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Perú – Cajamarca & Sierra Norte (Guitarras de Montaña & Rap)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante APDAYC, UNIMPRO e INDECOPI?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Dirección de Derecho de Autor de INDECOPI y afiliar tu canción a APDAYC sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en el Perú?",
+      "answer": "En Soles Peruanos (PEN S/), puedes pagar de forma instantánea a través de Yape (código QR o número celular de BCP), Plin (BBVA, Interbank, Scotiabank), transferencia bancaria nacional (BCP, Interbank), tarjetas de débito/crédito peruanas, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "pe/villa-el-salvador-lima-sur": {
+  "name": "Perú – Villa El Salvador (VES & Comunidad Hip-Hop Histórica)",
+  "flag": "🇵🇪",
+  "currency": "PEN (S/)",
+  "currencyCode": "PEN",
+  "gateways": "Yape, Plin, BCP, Interbank, Tarjetas, Apple Pay",
+  "pro": "APDAYC",
+  "proFullName": "APDAYC Perú",
+  "proGuide": "100% legal ante APDAYC con entrega inmediata.",
+  "headline": "Beats en Villa El Salvador: Hip-Hop Comunitario, Cajas Secas & Solidaridad",
+  "description": "La legendaria capital de la autogestión y el arte callejero: baterías analógicas contundentes, samples de soul y rimas combativas con historia de barrio.",
+  "popularGenres": [
+    "VES Hip Hop",
+    "Rap Comunitario",
+    "Lima Sur Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Perú – Villa El Salvador (VES & Comunidad Hip-Hop Histórica)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante APDAYC, UNIMPRO e INDECOPI?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Dirección de Derecho de Autor de INDECOPI y afiliar tu canción a APDAYC sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en el Perú?",
+      "answer": "En Soles Peruanos (PEN S/), puedes pagar de forma instantánea a través de Yape (código QR o número celular de BCP), Plin (BBVA, Interbank, Scotiabank), transferencia bancaria nacional (BCP, Interbank), tarjetas de débito/crédito peruanas, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "pe/ayacucho-huamanga": {
+  "name": "Perú – Ayacucho & Huamanga (Guitarra Ayacuchana & Trap Sentido)",
+  "flag": "🇵🇪",
+  "currency": "PEN (S/)",
+  "currencyCode": "PEN",
+  "gateways": "Yape, Plin, BCP, Interbank, Tarjetas, Apple Pay",
+  "pro": "APDAYC",
+  "proFullName": "APDAYC Perú",
+  "proGuide": "100% libre de samples protegidos para monetizar en Spotify.",
+  "headline": "Beats en Ayacucho: Virtuosismo de Guitarra Ayacuchana, Quenas & 808",
+  "description": "El punteo magistral de la guitarra de Huamanga: arpegios que lloran con sentimiento andino sobre caídas de trap moderno y bajos que estremecen.",
+  "popularGenres": [
+    "Guitarra Ayacuchana Trap",
+    "Huamanga Hip Hop",
+    "Folk Sentido"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Guitarra Ayacuchana Vibe",
+      "slug": "../../vibe/guitarra-ayacuchana-folk-trap",
+      "description": "Punteo virtuoso de guitarra ayacuchana con sub-bajo 808."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Perú – Ayacucho & Huamanga (Guitarra Ayacuchana & Trap Sentido)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante APDAYC, UNIMPRO e INDECOPI?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Dirección de Derecho de Autor de INDECOPI y afiliar tu canción a APDAYC sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en el Perú?",
+      "answer": "En Soles Peruanos (PEN S/), puedes pagar de forma instantánea a través de Yape (código QR o número celular de BCP), Plin (BBVA, Interbank, Scotiabank), transferencia bancaria nacional (BCP, Interbank), tarjetas de débito/crédito peruanas, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
 };
