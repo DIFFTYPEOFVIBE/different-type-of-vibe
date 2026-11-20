@@ -26504,4 +26504,280 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
     }
   ]
 },
+  "es/hospitalet-la-florida": {
+  "name": "España – L'Hospitalet & La Florida (Cuna del Sonido MDLR)",
+  "flag": "🇪🇸",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "Bizum, Tarjetas de Débito/Crédito, Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "SGAE",
+  "proFullName": "Sociedad General de Autores y Editores (SGAE)",
+  "proGuide": "100% legal ante la SGAE con contrato de licencia en PDF descargable al instante.",
+  "headline": "Beats en L'Hospitalet & La Florida: Sonido MDLR Puro, Afro-Drill & Guitarras",
+  "description": "El epicentro del movimiento MDLR: guitarras acústicas melancólicas, cajas rápidas de drill a 140 BPM y bajos 808 deslizantes para rimas de barrio y lealtad.",
+  "popularGenres": [
+    "Drill MDLR",
+    "Afro-Drill",
+    "Trap Callejero"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Morad MDLR Vibe",
+      "slug": "../../vibe/morad-mdlr-afro-drill-espanol",
+      "description": "Guitarras españolas acústicas y bajos 808 deslizantes a 140 BPM."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en España – L'Hospitalet & La Florida (Cuna del Sonido MDLR)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante la SGAE?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la SGAE (Sociedad General de Autores y Editores) sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en España?",
+      "answer": "En Euros (€ EUR), puedes pagar de forma instantánea a través de Bizum (introduciendo tu número de móvil para confirmación inmediata), tarjetas de débito/crédito españolas, Apple Pay, Google Pay, PayPal y Stripe."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago (en segundos con Bizum o tarjeta), los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "es/tenerife-canarias": {
+  "name": "España – Santa Cruz de Tenerife (Sonido 922 & R&B Canario)",
+  "flag": "🇪🇸",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "Bizum, Tarjetas de Débito/Crédito, Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "SGAE",
+  "proFullName": "Sociedad General de Autores y Editores (SGAE)",
+  "proGuide": "100% libre de samples protegidos para distribución comercial en plataformas.",
+  "headline": "Beats en Tenerife: Sonido 922, R&B Nocturno Canario & Trap Melódico",
+  "description": "La elegancia del archipiélago: pianos Rhodes filtrados, sintetizadores envolventes y bajos 808 cálidos inspirados en el sonido insular.",
+  "popularGenres": [
+    "R&B Canario",
+    "Trap Melódico",
+    "Afro-Latino"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Cruz Cafuné Vibe",
+      "slug": "../../vibe/cruz-cafune-922-928-canary-rnb",
+      "description": "R&B suave con melodías insulares y ritmos elegantes."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en España – Santa Cruz de Tenerife (Sonido 922 & R&B Canario)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante la SGAE?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la SGAE (Sociedad General de Autores y Editores) sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en España?",
+      "answer": "En Euros (€ EUR), puedes pagar de forma instantánea a través de Bizum (introduciendo tu número de móvil para confirmación inmediata), tarjetas de débito/crédito españolas, Apple Pay, Google Pay, PayPal y Stripe."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago (en segundos con Bizum o tarjeta), los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "es/murcia": {
+  "name": "España – Murcia & Sureste (Freestyle & Boom Bap Sureño)",
+  "flag": "🇪🇸",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "Bizum, Tarjetas de Débito/Crédito, Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "SGAE",
+  "proFullName": "Sociedad General de Autores y Editores (SGAE)",
+  "proGuide": "100% legal ante la SGAE con entrega inmediata.",
+  "headline": "Beats en Murcia: Cajas Secas de Batalla, Boom Bap Sureño & Rimas de Plaza",
+  "description": "La tierra de campeones de freestyle y rap combativo: baterías pesadas analógicas, vientos de bronce y pausas estratégicas para clavar métricas.",
+  "popularGenres": [
+    "Freestyle Boom Bap",
+    "Rap Murciano",
+    "Battle Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en España – Murcia & Sureste (Freestyle & Boom Bap Sureño)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante la SGAE?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la SGAE (Sociedad General de Autores y Editores) sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en España?",
+      "answer": "En Euros (€ EUR), puedes pagar de forma instantánea a través de Bizum (introduciendo tu número de móvil para confirmación inmediata), tarjetas de débito/crédito españolas, Apple Pay, Google Pay, PayPal y Stripe."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago (en segundos con Bizum o tarjeta), los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "es/alicante": {
+  "name": "España – Alicante & Costa Blanca (Cuna Histórica del Rap Español)",
+  "flag": "🇪🇸",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "Bizum, Tarjetas de Débito/Crédito, Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "SGAE",
+  "proFullName": "Sociedad General de Autores y Editores (SGAE)",
+  "proGuide": "100% original con entrega de pistas WAV y stems.",
+  "headline": "Beats en Alicante: Rap Poético con Mensaje, Pianos Clásicos & Cajas Contundentes",
+  "description": "La cuna del liricismo nacional: armonías melancólicas de piano acústico, bombos con pegada de MPC y espacio amplio para barras complejas.",
+  "popularGenres": [
+    "Rap Poético",
+    "Alicante Boom Bap",
+    "Hip Hop Clásico"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en España – Alicante & Costa Blanca (Cuna Histórica del Rap Español)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante la SGAE?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la SGAE (Sociedad General de Autores y Editores) sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en España?",
+      "answer": "En Euros (€ EUR), puedes pagar de forma instantánea a través de Bizum (introduciendo tu número de móvil para confirmación inmediata), tarjetas de débito/crédito españolas, Apple Pay, Google Pay, PayPal y Stripe."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago (en segundos con Bizum o tarjeta), los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "es/cadiz-jerez": {
+  "name": "España – Cádiz & Jerez (Flamenco Puro & Rimas de Bahía)",
+  "flag": "🇪🇸",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "Bizum, Tarjetas de Débito/Crédito, Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "SGAE",
+  "proFullName": "Sociedad General de Autores y Editores (SGAE)",
+  "proGuide": "Instrumentos tradicionales y palmas flamencas libres de copyright.",
+  "headline": "Beats en Cádiz & Jerez: Quejíos Flamencos, Guitarras Calés & 808s",
+  "description": "El duende del sur: guitarras flamencas por bulerías y rumbas, palmas a compás y el golpe moderno de sub-bajos 808 para rap callejero con pellizco.",
+  "popularGenres": [
+    "Flamenco Trap",
+    "Rap Gaditano",
+    "Trap Calé"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Dellafuente Vibe",
+      "slug": "../../vibe/dellafuente-flamenco-trap-puro",
+      "description": "Guitarras flamencas y palmas a compás con bajo 808."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en España – Cádiz & Jerez (Flamenco Puro & Rimas de Bahía)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante la SGAE?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la SGAE (Sociedad General de Autores y Editores) sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en España?",
+      "answer": "En Euros (€ EUR), puedes pagar de forma instantánea a través de Bizum (introduciendo tu número de móvil para confirmación inmediata), tarjetas de débito/crédito españolas, Apple Pay, Google Pay, PayPal y Stripe."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago (en segundos con Bizum o tarjeta), los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "es/asturias-gijon": {
+  "name": "España – Asturias (Gijón & Oviedo Norte Hip-Hop)",
+  "flag": "🇪🇸",
+  "currency": "EUR (€)",
+  "currencyCode": "EUR",
+  "gateways": "Bizum, Tarjetas de Débito/Crédito, Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "SGAE",
+  "proFullName": "Sociedad General de Autores y Editores (SGAE)",
+  "proGuide": "100% registrado y seguro ante la SGAE.",
+  "headline": "Beats en Asturias: Frío del Norte, Cajas Analógicas & Boom Bap Gijonés",
+  "description": "El sonido sobrio y auténtico del Cantábrico: loops oscuros de soul, cajas secas sin brillo innecesario y bajos profundos para líricas con peso.",
+  "popularGenres": [
+    "Rap Asturiano",
+    "Norte Boom Bap",
+    "Street Hip Hop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en España – Asturias (Gijón & Oviedo Norte Hip-Hop)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante la SGAE?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la SGAE (Sociedad General de Autores y Editores) sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en España?",
+      "answer": "En Euros (€ EUR), puedes pagar de forma instantánea a través de Bizum (introduciendo tu número de móvil para confirmación inmediata), tarjetas de débito/crédito españolas, Apple Pay, Google Pay, PayPal y Stripe."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago (en segundos con Bizum o tarjeta), los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
 };
