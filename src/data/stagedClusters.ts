@@ -48658,4 +48658,1444 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "1"
   ]
 },
+  {
+  "slug": "el-mayor-clasico-dembow-pesado-vieja-escuela",
+  "name": "El Mayor Clasico Dembow Pesado Vieja Escuela",
+  "category": "vibe",
+  "badge": "El Clásico Dembow",
+  "headline": "Beats Estilo El Mayor Clásico: Dembow Rápido de la Vieja Escuela, Cajas & Coros",
+  "description": "La época dorada del dembow dominicano: ritmo frenético a 122 BPM, patrones de timbal acelerados y cortes dinámicos para rimar con métricas rápidas y trabalenguas.",
+  "targetArtists": [
+    "El Mayor Clásico",
+    "Dembow Clásico",
+    "Dinero Fácil",
+    "El Cuerpista"
+  ],
+  "recommendedBpm": "120-125 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Vieja Escuela",
+    "Dembow Rápido",
+    "Trabalenguas",
+    "Timbal Digital"
+  ],
+  "popularGenres": [
+    "Dembow Dominicano",
+    "Old School Dembow",
+    "Club Banger"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "quimico-ultra-mega-hardcore-rap-dominicano",
+  "name": "Quimico Ultra Mega Hardcore Rap Dominicano",
+  "category": "vibe",
+  "badge": "Hardcore Ultra Mega",
+  "headline": "Beats Estilo Químico Ultra Mega: Rap Callejero Agresivo, Pianos & Bombos Duros",
+  "description": "La agresividad pura del rap dominicano: acordes gélidos de piano menor, bombos que golpean el pecho y cajas analógicas secas para punchlines de esquina.",
+  "targetArtists": [
+    "Químico Ultra Mega",
+    "El Underground",
+    "Tengo Una Nota",
+    "Callejero"
+  ],
+  "recommendedBpm": "90-98 BPM / 128 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Rap Agresivo",
+    "Piano Gélido",
+    "Bombo Pesado",
+    "Punchline de Calle"
+  ],
+  "popularGenres": [
+    "Hardcore Rap",
+    "Trap Dominicano",
+    "Underground RD"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "haraka-kiko-dembow-frenetico-flow",
+  "name": "Haraka Kiko Dembow Frenetico Flow",
+  "category": "vibe",
+  "badge": "Haraka Frenético Dembow",
+  "headline": "Beats Estilo Haraka Kiko: Dembow Frenético a 125 BPM, Cortes Locos & Rebote",
+  "description": "La locura y genialidad del dembow viral: cortes súbitos de tempo, caídas inesperadas de bajo y una batería ultrarrápida para rimar con cadencia impredecible.",
+  "targetArtists": [
+    "Haraka Kiko",
+    "Tuntun",
+    "Flow Frenético",
+    "Dembow Loco"
+  ],
+  "recommendedBpm": "122-126 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "Frenético 125 BPM",
+    "Cortes Súbitos",
+    "Rebote Máximo",
+    "Viral TikTok"
+  ],
+  "popularGenres": [
+    "Fast Dembow",
+    "Viral Dembow",
+    "Club Banger"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "yomel-el-meloso-dembow-y-fronteo",
+  "name": "Yomel El Meloso Dembow y Fronteo",
+  "category": "vibe",
+  "badge": "Meloso Fronteo Vibe",
+  "headline": "Beats Estilo Yomel El Meloso: Voz Gruesa Barítono, Dembow Pesado & Fronteo",
+  "description": "Diseñado para voces con cuerpo y peso: líneas de bajo 808 arrolladoras, caídas lentas de dembow y sintetizadores oscuros para barras de respeto y dinero.",
+  "targetArtists": [
+    "Yomel El Meloso",
+    "Fronteo Barrial",
+    "Dembow Pesado",
+    "Rochy Collab"
+  ],
+  "recommendedBpm": "116-122 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Voz Barítono",
+    "Dembow Pesado",
+    "Fronteo de Calle",
+    "Bajo Arrollador"
+  ],
+  "popularGenres": [
+    "Dembow Callejero",
+    "Trap Dominicano",
+    "Club Beat"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "ceky-viciny-dembow-festivo-carnaval",
+  "name": "Ceky Viciny Dembow Festivo Carnaval",
+  "category": "vibe",
+  "badge": "Ellos Ben La Festivo",
+  "headline": "Beats Estilo Ceky Viciny: Pitos de Carnaval, Metales Festivos & Dembow Bailable",
+  "description": "La fiesta de todo un pueblo: cornetas de fiesta estridentes, silbatos y una percusión contagiosa que no deja a nadie sentado en el club o en la tarima.",
+  "targetArtists": [
+    "Ceky Viciny",
+    "Ellos Ben La",
+    "Klok Con Klok",
+    "Carnaval RD"
+  ],
+  "recommendedBpm": "118-124 BPM",
+  "recommendedKey": "C-Major / F-Major",
+  "vibeAttributes": [
+    "Pitos de Carnaval",
+    "Metales Festivos",
+    "Dembow Bailable",
+    "Himno de Fiesta"
+  ],
+  "popularGenres": [
+    "Dembow Comercial",
+    "Carnaval Pop",
+    "Fiesta Caribeña"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "lapiz-conciente-papa-del-rap-dominicano",
+  "name": "Lapiz Conciente Papa Del Rap Dominicano",
+  "category": "vibe",
+  "badge": "El Papá del Rap RD",
+  "headline": "Beats Estilo Lápiz Conciente: Baterías Clásicas de MPC, Soul Pesado & Lírica Pura",
+  "description": "La cátedra del hip-hop dominicano: bucles analógicos de soul y R&B, bombos crujientes y cajas secas de los 90 para canciones con historia, peso lírico y leyenda.",
+  "targetArtists": [
+    "Lápiz Conciente",
+    "El Papá del Rap",
+    "Lapiz Mundial",
+    "Army"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "Batería MPC Clásica",
+    "Soul Pesado",
+    "Lírica Pura",
+    "El Papá del Rap"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico",
+    "Rap Dominicano",
+    "Hip Hop Consciente"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "shelow-shaq-dembow-sucio-callejero",
+  "name": "Shelow Shaq Dembow Sucio Callejero",
+  "category": "vibe",
+  "badge": "Dembow Sucio Callejero",
+  "headline": "Beats Estilo Shelow Shaq: Cajas Agresivas, Sintetizadores Rústicos & Frases Callejeras",
+  "description": "El estilo callejero sin filtro: baterías con pegada sucia y distorsión controlada, sintetizadores directos y caídas para temas que se convierten en himnos de discoteca.",
+  "targetArtists": [
+    "Shelow Shaq",
+    "Dembow Sucio",
+    "Callejero Puro",
+    "Discoteca RD"
+  ],
+  "recommendedBpm": "118-124 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Pegada Sucia",
+    "Sintes Rústicos",
+    "Callejero Sin Filtro",
+    "Dembow Puro"
+  ],
+  "popularGenres": [
+    "Dembow Callejero",
+    "Hardcore Dembow",
+    "Club Beat"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "el-fother-rap-callejero-de-barrio",
+  "name": "El Fother Rap Callejero De Barrio",
+  "category": "vibe",
+  "badge": "Fother Rap de Barrio",
+  "headline": "Beats Estilo El Fother: Pianos de Tristeza Barrial, Cajas Secas & Rap Contundente",
+  "description": "Las vivencias reales de los callejones de Santo Domingo: progresiones de piano tristes y sentidas, baterías analógicas pesadas y espacio para narrar la realidad.",
+  "targetArtists": [
+    "El Fother",
+    "Cirujano Nocturno",
+    "Rap de Barrio",
+    "Santo Domingo"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Piano de Tristeza",
+    "Rap de Barrio",
+    "Caja Seca",
+    "Crudeza Callejera"
+  ],
+  "popularGenres": [
+    "Rap Dominicano",
+    "Boom Bap Callejero",
+    "Underground RD"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "la-insuperable-mami-del-swag-dembow",
+  "name": "La Insuperable Mami Del Swag Dembow",
+  "category": "vibe",
+  "badge": "La Mami del Swag",
+  "headline": "Beats Estilo La Insuperable: Dembow Femenino de Lujo, Sintes Brillantes & Perreo",
+  "description": "El empoderamiento femenino con glamour y calle: dembows bailables con producción impecable, melodías pegajosas de sintetizador y bajos redondos que hacen vibrar el club.",
+  "targetArtists": [
+    "La Insuperable",
+    "La Mami del Swag",
+    "Cero Goga",
+    "Perreo de Lujo"
+  ],
+  "recommendedBpm": "116-122 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "Dembow de Lujo",
+    "Glamour & Calle",
+    "Sintes Brillantes",
+    "Perreo Femenino"
+  ],
+  "popularGenres": [
+    "Perreo Dembow",
+    "Pop Urbano",
+    "Club Banger"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "dembow-acelerado-126-bpm-tiktok-viral",
+  "name": "Dembow Acelerado 126 BPM TikTok Viral",
+  "category": "vibe",
+  "badge": "126 BPM TikTok Viral",
+  "headline": "Beats de Dembow Ultrarrápido a 126 BPM: Láseres, Baterías Aceleradas & TikTok",
+  "description": "La máxima velocidad del género urbano: sintetizadores láser futuristas, redobles continuos de timbal y pausas explosivas creadas para retos de baile virales.",
+  "targetArtists": [
+    "Creadores de TikTok",
+    "Dembow Viral",
+    "DJs de Discoteca"
+  ],
+  "recommendedBpm": "124-128 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "126 BPM Acelerado",
+    "Sintes Láser",
+    "Reto de Baile",
+    "Viral TikTok"
+  ],
+  "popularGenres": [
+    "Fast Dembow",
+    "Viral Dembow",
+    "Club Beat"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "bachata-urbana-aventura-requinto-trap",
+  "name": "Bachata Urbana Aventura Requinto Trap",
+  "category": "vibe",
+  "badge": "Aventura Requinto Vibe",
+  "headline": "Beats de Bachata Urbana Estilo Aventura: Requinto Que Llora, Bongo & Bajo 808",
+  "description": "El sonido que internacionalizó la bachata: arpegios virtuosos de guitarra requinto que conmueven el corazón, percusión tradicional y caídas modernas de trap 808.",
+  "targetArtists": [
+    "Aventura",
+    "Romeo Santos",
+    "Bachata Urbana",
+    "Requinto de Pasión"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "E-Minor / B-Minor",
+  "vibeAttributes": [
+    "Requinto que Llora",
+    "Bongo Tradicional",
+    "Pasión Bachatera",
+    "Sub-Bajo 808"
+  ],
+  "popularGenres": [
+    "Bachata Trap",
+    "Urban Bachata",
+    "Música Dominicana"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "palo-afro-dominicano-congo-trap",
+  "name": "Palo Afro Dominicano Congo Trap",
+  "category": "vibe",
+  "badge": "Palo Afro-Dominicano",
+  "headline": "Beats de Palo Afro-Dominicano: Atabales Sagrados, Congos de Villa Mella & 808",
+  "description": "La raíz rítmica africana de Quisqueya: golpes sagrados de tambor atabal, guira tradicional y cantos espirituales caribeños fusionados con la contundencia del trap.",
+  "targetArtists": [
+    "Música Afro-Dominicana",
+    "Fusión Étnica",
+    "Atabales",
+    "Palo Trap"
+  ],
+  "recommendedBpm": "115-125 BPM",
+  "recommendedKey": "A-Minor / D-Minor",
+  "vibeAttributes": [
+    "Atabales Sagrados",
+    "Congos de Villa Mella",
+    "Raíz Africana",
+    "Sub-Bajo 808"
+  ],
+  "popularGenres": [
+    "Afro-Dominicano",
+    "Palo Trap",
+    "Folk Urbano"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "pistas-de-dembow-baratas-republica-dominicana",
+  "name": "Pistas de Dembow Baratas en República Dominicana (Pesos DOP / USD)",
+  "category": "genre",
+  "badge": "Pistas Baratas Dembow",
+  "headline": "Pistas de Dembow Económicas: Paga con Transferencia Banreservas, BHD o Popular",
+  "description": "Instrumentales profesionales de dembow sin pagar comisiones internacionales exorbitantes. Paga en Pesos Dominicanos (DOP RD$) por banca local y descarga tus archivos WAV de 24 bits de estudio.",
+  "targetArtists": [
+    "Dembowseros Nuevos",
+    "Home Studios",
+    "Compositores Barriales"
+  ],
+  "recommendedBpm": "120-125 BPM",
+  "recommendedKey": "Todas las Tonalidades",
+  "vibeAttributes": [
+    "Precio en Pesos DOP",
+    "Bancos Dominicanos",
+    "Sin Dólares",
+    "Descarga WAV"
+  ],
+  "popularGenres": [
+    "Dembow Dominicano",
+    "Fast Dembow",
+    "Trap Barrial"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1",
+    "6"
+  ]
+},
+  {
+  "slug": "bases-de-rap-dominicano-clasico-estilo-lapiz",
+  "name": "Bases de Rap Dominicano Clásico Estilo Lápiz Conciente (MPC)",
+  "category": "genre",
+  "badge": "Rap Clásico Lapicista",
+  "headline": "Bases de Rap Dominicano Clásico: Baterías Pesadas de MPC y Samples Nostálgicos",
+  "description": "El tributo a la era dorada del hip-hop dominicano. Cajas secas con golpe contundente, líneas de bajo envolventes y bucles de piano y cuerdas para rapear con sustancia.",
+  "targetArtists": [
+    "Lapicistas",
+    "Raperos Clásicos",
+    "MCs Conscientes"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "MPC Groove",
+    "Batería Pesada",
+    "Soul Dominicano",
+    "Lápiz Style"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico",
+    "Rap Dominicano",
+    "Hip Hop Consciente"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "instrumentales-de-dembow-para-discotecas-wav",
+  "name": "Instrumentales de Dembow para Discotecas y DJs con Stems Multitrack",
+  "category": "genre",
+  "badge": "Dembow de Discoteca",
+  "headline": "Instrumentales de Dembow para Discoteca: Bajos Explosivos y Stems Separados",
+  "description": "Pistas de dembow masterizadas con el volumen y la pegada necesarios para encender clubes nocturnos y 'sound systems' de calle. Canales separados para mezclas de DJ.",
+  "targetArtists": [
+    "DJs de Club",
+    "Animadores de Discoteca",
+    "Cantantes de Fiesta"
+  ],
+  "recommendedBpm": "120-126 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Bajo Explosivo",
+    "Master de Club",
+    "Stems Multitrack",
+    "WAV 24-bit"
+  ],
+  "popularGenres": [
+    "Dembow Dominicano",
+    "Club Banger",
+    "Fast Dembow"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "beats-de-mambo-electronico-callejero-omega",
+  "name": "Beats de Mambo Electrónico Callejero con Saxofón y Tambora",
+  "category": "genre",
+  "badge": "Mambo Callejero Omega",
+  "headline": "Beats de Mambo Urbano: Saxofones Enérgicos, Tambora Viva y Batería de Calle",
+  "description": "El ritmo acelerado del merengue de calle llevado a la era moderna: saxofones vibrantes, patrones de tambora y güira dominicana con caídas de bajo modernas.",
+  "targetArtists": [
+    "Mamberos",
+    "Omega Fans",
+    "Artistas de Fusión Tropical"
+  ],
+  "recommendedBpm": "145-160 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Saxofón Vivo",
+    "Tambora Dominicana",
+    "Mambo Callejero",
+    "Fiesta Tropical"
+  ],
+  "popularGenres": [
+    "Mambo Urbano",
+    "Merengue Electrónico",
+    "Música Dominicana"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "pistas-de-trap-barrial-para-grabar-mixtape-rd",
+  "name": "Pistas de Trap Barrial para Grabar Mixtape o EP en República Dominicana",
+  "category": "genre",
+  "badge": "Trap Barrial Mixtape",
+  "headline": "Pistas de Trap Barrial Coherentes: Sonido Callejero y Contrato SGACEDOM",
+  "description": "Construye tu proyecto musical completo con una identidad sonora homogénea. Licencias comerciales válidas ante SGACEDOM, ONDA y plataformas digitales.",
+  "targetArtists": [
+    "Artistas de Mixtape",
+    "Traperos de Barrio",
+    "Productores Ejecutivos"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Coherencia Sonora",
+    "Contrato Legal",
+    "WAV 24-bit",
+    "Descuento por Volumen"
+  ],
+  "popularGenres": [
+    "Trap Dominicano",
+    "Dembow Callejero",
+    "Drill Latino"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1",
+    "6"
+  ]
+},
+  {
+  "slug": "bases-de-dembow-con-metales-de-carnaval",
+  "name": "Bases de Dembow Festivo con Metales y Trompetas de Carnaval",
+  "category": "genre",
+  "badge": "Metales de Carnaval",
+  "headline": "Beats de Dembow con Trompetas de Carnaval: Alegría Dominicana y Cajas Festivas",
+  "description": "El sonido que pone a bailar a miles de personas: trompetas de mambo y carnaval, redobles caribeños y compases irresistibles para crear himnos de fiesta.",
+  "targetArtists": [
+    "Dembowseros Festivos",
+    "Chimbala Fans",
+    "Animadores Urbanos"
+  ],
+  "recommendedBpm": "118-124 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Trompetas de Carnaval",
+    "Fiesta Dominicana",
+    "Dembow Bailable",
+    "WAV de Estudio"
+  ],
+  "popularGenres": [
+    "Dembow Comercial",
+    "Carnaval Pop",
+    "Fiesta Caribeña"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "instrumentales-de-bachata-trap-romantica-guitarra",
+  "name": "Instrumentales de Bachata-Trap Romántica con Guitarra Española y Bongo",
+  "category": "genre",
+  "badge": "Bachata Romántica Trap",
+  "headline": "Beats de Bachata-Trap Romántica: Acordes Melancólicos y Baterías de Trap Suaves",
+  "description": "La combinación perfecta entre la nostalgia del requinto bachatero y la cadencia suave del trap para canciones románticas y de despecho.",
+  "targetArtists": [
+    "Vocalistas de R&B",
+    "Bachateros Modernos",
+    "Compositores de Trapchata"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Requinto Melancólico",
+    "Bachata Romántica",
+    "Trap Suave",
+    "WAV 24-bit"
+  ],
+  "popularGenres": [
+    "Bachata Trap",
+    "Urban Bachata",
+    "Música Dominicana"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "beats-de-drill-para-raperos-dominicanos",
+  "name": "Beats de Drill Caribeño para Raperos Dominicanos (Bajos 808 Profundos)",
+  "category": "genre",
+  "badge": "Drill Caribeño RD",
+  "headline": "Beats de Drill Dominicano: 140 BPM, Hi-Hats Rápidos y 808s que Deslizan",
+  "description": "El estilo callejero más respetado por la juventud: baterías sincopadas de drill y sub-bajos continuos para rapear con entrega, fronteo y flow quisqueyano.",
+  "targetArtists": [
+    "Drillers Dominicanos",
+    "Rappers de Santo Domingo",
+    "Home Studios"
+  ],
+  "recommendedBpm": "138-144 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "140 BPM Drill",
+    "808 Slide",
+    "Batería Sincopada",
+    "Untagged WAV"
+  ],
+  "popularGenres": [
+    "Dominican Drill",
+    "Bronx Drill",
+    "Dark Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "paquete-de-3-beats-gratis-dembow-dominicano",
+  "name": "Descargar Paquete de 3 Bases Gratis de Dembow para Probar Voz",
+  "category": "genre",
+  "badge": "Paquete Gratis Dembow",
+  "headline": "Descarga Gratis 3 Pistas de Dembow Dominicano: Prueba tu Cadencia en Casa",
+  "description": "Descarga inmediata de 3 instrumentales de dembow en MP3 de alta definición para practicar tus rimas, grabar maquetas caseras y probar tu voz antes de comprar tu licencia formal.",
+  "targetArtists": [
+    "Nuevos Dembowseros",
+    "Home Studios",
+    "Freestylers Barriales"
+  ],
+  "recommendedBpm": "120, 122, 124 BPM",
+  "recommendedKey": "C-Minor, D-Minor",
+  "vibeAttributes": [
+    "Descarga Gratis",
+    "3 Pistas Dembow",
+    "Prueba de Voz",
+    "Envío al Correo"
+  ],
+  "popularGenres": [
+    "Dembow Dominicano",
+    "Fast Dembow",
+    "Trap Barrial"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "produccion-de-beats-de-dembow-a-medida-rd",
+  "name": "Producción de Beats de Dembow a Medida con Productor Profesional en RD",
+  "category": "genre",
+  "badge": "Producción a Medida RD",
+  "headline": "Producción de Beats de Dembow Exclusivos: Trabaja Mano a Mano con Onzieb",
+  "description": "Construye una instrumental única pensada exactamente para tu tono y ritmo vocal. Comunicación directa, asesoría técnica profesional y transferencia total de derechos.",
+  "targetArtists": [
+    "Artistas Profesionales",
+    "Proyectos de Álbum",
+    "Compositores Urbanos"
+  ],
+  "recommendedBpm": "BPM a Medida",
+  "recommendedKey": "Tono a Medida",
+  "vibeAttributes": [
+    "Exclusividad Total",
+    "Retiro de Tienda",
+    "Contacto Directo",
+    "Sonido Propio"
+  ],
+  "popularGenres": [
+    "Dembow Dominicano",
+    "Trap Barrial",
+    "Mambo Urbano"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "herrera-dembow-dominicano-beats",
+  "name": "Herrera Dembow Dominicano Beats",
+  "category": "scene",
+  "badge": "Herrera Dembow Dominicano",
+  "headline": "Herrera (Santo Domingo Oeste) Dembow Dominicano Beats: Pistas WAV & Dembow Dominicano",
+  "description": "Bajos explosivos, baterías aceleradas de dembow y calidad WAV 24-bit de estudio para artistas de Herrera.",
+  "targetArtists": [
+    "Artistas de Herrera",
+    "Cena Urbana Dominicana",
+    "Dembow RD"
+  ],
+  "recommendedBpm": "120-125 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Herrera",
+    "Dembow Dominicano",
+    "DOP & USD",
+    "Aprobado SGACEDOM"
+  ],
+  "popularGenres": [
+    "Dembow Dominicano Beats",
+    "Dembow Dominicano",
+    "Trap Barrial"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "herrera-trap-dominicano-callejero",
+  "name": "Herrera Trap Dominicano Callejero",
+  "category": "scene",
+  "badge": "Herrera Trap Callejero",
+  "headline": "Herrera (Santo Domingo Oeste) Trap Dominicano Callejero: Pistas WAV & Dembow Dominicano",
+  "description": "Pianos oscuros de barrio, bajos 808 pesados y baterías crudas inspiradas en la realidad de Herrera.",
+  "targetArtists": [
+    "Artistas de Herrera",
+    "Cena Urbana Dominicana",
+    "Dembow RD"
+  ],
+  "recommendedBpm": "120-132 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Herrera",
+    "Trap Callejero",
+    "DOP & USD",
+    "Aprobado SGACEDOM"
+  ],
+  "popularGenres": [
+    "Trap Dominicano Callejero",
+    "Dembow Dominicano",
+    "Trap Barrial"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "herrera-bachata-trap-fusion",
+  "name": "Herrera Bachata Trap Fusión",
+  "category": "scene",
+  "badge": "Herrera Bachata Trap",
+  "headline": "Herrera (Santo Domingo Oeste) Bachata Trap Fusión: Pistas WAV & Dembow Dominicano",
+  "description": "Requintos de bachata con chorus, bongo tradicional y sub-bajos 808 para creadores de Herrera.",
+  "targetArtists": [
+    "Artistas de Herrera",
+    "Cena Urbana Dominicana",
+    "Dembow RD"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Herrera",
+    "Bachata Trap",
+    "DOP & USD",
+    "Aprobado SGACEDOM"
+  ],
+  "popularGenres": [
+    "Bachata Trap Fusión",
+    "Dembow Dominicano",
+    "Trap Barrial"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "herrera-drill-dominicano-beats",
+  "name": "Herrera Drill Dominicano Beats",
+  "category": "scene",
+  "badge": "Herrera Drill Dominicano",
+  "headline": "Herrera (Santo Domingo Oeste) Drill Dominicano Beats: Pistas WAV & Dembow Dominicano",
+  "description": "Hi-hats rápidos, cajas sincopadas y 808s deslizantes estilo Bronx para vocalistas de Herrera.",
+  "targetArtists": [
+    "Artistas de Herrera",
+    "Cena Urbana Dominicana",
+    "Dembow RD"
+  ],
+  "recommendedBpm": "138-144 BPM",
+  "recommendedKey": "C-Minor / C-Sharp Minor",
+  "vibeAttributes": [
+    "Herrera",
+    "Drill Dominicano",
+    "DOP & USD",
+    "Aprobado SGACEDOM"
+  ],
+  "popularGenres": [
+    "Drill Dominicano Beats",
+    "Dembow Dominicano",
+    "Trap Barrial"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "los-mina-dembow-dominicano-beats",
+  "name": "Los Mina Dembow Dominicano Beats",
+  "category": "scene",
+  "badge": "Los Mina Dembow Dominicano",
+  "headline": "Los Mina (Santo Domingo Este) Dembow Dominicano Beats: Pistas WAV & Dembow Dominicano",
+  "description": "Bajos explosivos, baterías aceleradas de dembow y calidad WAV 24-bit de estudio para artistas de Los Mina.",
+  "targetArtists": [
+    "Artistas de Los Mina",
+    "Cena Urbana Dominicana",
+    "Dembow RD"
+  ],
+  "recommendedBpm": "120-125 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Los Mina",
+    "Dembow Dominicano",
+    "DOP & USD",
+    "Aprobado SGACEDOM"
+  ],
+  "popularGenres": [
+    "Dembow Dominicano Beats",
+    "Dembow Dominicano",
+    "Trap Barrial"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "los-mina-trap-dominicano-callejero",
+  "name": "Los Mina Trap Dominicano Callejero",
+  "category": "scene",
+  "badge": "Los Mina Trap Callejero",
+  "headline": "Los Mina (Santo Domingo Este) Trap Dominicano Callejero: Pistas WAV & Dembow Dominicano",
+  "description": "Pianos oscuros de barrio, bajos 808 pesados y baterías crudas inspiradas en la realidad de Los Mina.",
+  "targetArtists": [
+    "Artistas de Los Mina",
+    "Cena Urbana Dominicana",
+    "Dembow RD"
+  ],
+  "recommendedBpm": "120-132 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Los Mina",
+    "Trap Callejero",
+    "DOP & USD",
+    "Aprobado SGACEDOM"
+  ],
+  "popularGenres": [
+    "Trap Dominicano Callejero",
+    "Dembow Dominicano",
+    "Trap Barrial"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "los-mina-bachata-trap-fusion",
+  "name": "Los Mina Bachata Trap Fusión",
+  "category": "scene",
+  "badge": "Los Mina Bachata Trap",
+  "headline": "Los Mina (Santo Domingo Este) Bachata Trap Fusión: Pistas WAV & Dembow Dominicano",
+  "description": "Requintos de bachata con chorus, bongo tradicional y sub-bajos 808 para creadores de Los Mina.",
+  "targetArtists": [
+    "Artistas de Los Mina",
+    "Cena Urbana Dominicana",
+    "Dembow RD"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Los Mina",
+    "Bachata Trap",
+    "DOP & USD",
+    "Aprobado SGACEDOM"
+  ],
+  "popularGenres": [
+    "Bachata Trap Fusión",
+    "Dembow Dominicano",
+    "Trap Barrial"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "los-mina-drill-dominicano-beats",
+  "name": "Los Mina Drill Dominicano Beats",
+  "category": "scene",
+  "badge": "Los Mina Drill Dominicano",
+  "headline": "Los Mina (Santo Domingo Este) Drill Dominicano Beats: Pistas WAV & Dembow Dominicano",
+  "description": "Hi-hats rápidos, cajas sincopadas y 808s deslizantes estilo Bronx para vocalistas de Los Mina.",
+  "targetArtists": [
+    "Artistas de Los Mina",
+    "Cena Urbana Dominicana",
+    "Dembow RD"
+  ],
+  "recommendedBpm": "138-144 BPM",
+  "recommendedKey": "C-Minor / C-Sharp Minor",
+  "vibeAttributes": [
+    "Los Mina",
+    "Drill Dominicano",
+    "DOP & USD",
+    "Aprobado SGACEDOM"
+  ],
+  "popularGenres": [
+    "Drill Dominicano Beats",
+    "Dembow Dominicano",
+    "Trap Barrial"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "san-pedro-macoris-dembow-dominicano-beats",
+  "name": "San Pedro de Macorís Dembow Dominicano Beats",
+  "category": "scene",
+  "badge": "San Pedro de Macorís Dembow Dominicano",
+  "headline": "San Pedro de Macorís (Sultana del Este) Dembow Dominicano Beats: Pistas WAV & Dembow Dominicano",
+  "description": "Bajos explosivos, baterías aceleradas de dembow y calidad WAV 24-bit de estudio para artistas de San Pedro de Macorís.",
+  "targetArtists": [
+    "Artistas de San Pedro de Macorís",
+    "Cena Urbana Dominicana",
+    "Dembow RD"
+  ],
+  "recommendedBpm": "120-125 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "San Pedro de Macorís",
+    "Dembow Dominicano",
+    "DOP & USD",
+    "Aprobado SGACEDOM"
+  ],
+  "popularGenres": [
+    "Dembow Dominicano Beats",
+    "Dembow Dominicano",
+    "Trap Barrial"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "san-pedro-macoris-trap-dominicano-callejero",
+  "name": "San Pedro de Macorís Trap Dominicano Callejero",
+  "category": "scene",
+  "badge": "San Pedro de Macorís Trap Callejero",
+  "headline": "San Pedro de Macorís (Sultana del Este) Trap Dominicano Callejero: Pistas WAV & Dembow Dominicano",
+  "description": "Pianos oscuros de barrio, bajos 808 pesados y baterías crudas inspiradas en la realidad de San Pedro de Macorís.",
+  "targetArtists": [
+    "Artistas de San Pedro de Macorís",
+    "Cena Urbana Dominicana",
+    "Dembow RD"
+  ],
+  "recommendedBpm": "120-132 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "San Pedro de Macorís",
+    "Trap Callejero",
+    "DOP & USD",
+    "Aprobado SGACEDOM"
+  ],
+  "popularGenres": [
+    "Trap Dominicano Callejero",
+    "Dembow Dominicano",
+    "Trap Barrial"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "san-pedro-macoris-bachata-trap-fusion",
+  "name": "San Pedro de Macorís Bachata Trap Fusión",
+  "category": "scene",
+  "badge": "San Pedro de Macorís Bachata Trap",
+  "headline": "San Pedro de Macorís (Sultana del Este) Bachata Trap Fusión: Pistas WAV & Dembow Dominicano",
+  "description": "Requintos de bachata con chorus, bongo tradicional y sub-bajos 808 para creadores de San Pedro de Macorís.",
+  "targetArtists": [
+    "Artistas de San Pedro de Macorís",
+    "Cena Urbana Dominicana",
+    "Dembow RD"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "San Pedro de Macorís",
+    "Bachata Trap",
+    "DOP & USD",
+    "Aprobado SGACEDOM"
+  ],
+  "popularGenres": [
+    "Bachata Trap Fusión",
+    "Dembow Dominicano",
+    "Trap Barrial"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "san-pedro-macoris-drill-dominicano-beats",
+  "name": "San Pedro de Macorís Drill Dominicano Beats",
+  "category": "scene",
+  "badge": "San Pedro de Macorís Drill Dominicano",
+  "headline": "San Pedro de Macorís (Sultana del Este) Drill Dominicano Beats: Pistas WAV & Dembow Dominicano",
+  "description": "Hi-hats rápidos, cajas sincopadas y 808s deslizantes estilo Bronx para vocalistas de San Pedro de Macorís.",
+  "targetArtists": [
+    "Artistas de San Pedro de Macorís",
+    "Cena Urbana Dominicana",
+    "Dembow RD"
+  ],
+  "recommendedBpm": "138-144 BPM",
+  "recommendedKey": "C-Minor / C-Sharp Minor",
+  "vibeAttributes": [
+    "San Pedro de Macorís",
+    "Drill Dominicano",
+    "DOP & USD",
+    "Aprobado SGACEDOM"
+  ],
+  "popularGenres": [
+    "Drill Dominicano Beats",
+    "Dembow Dominicano",
+    "Trap Barrial"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "la-vega-dembow-dominicano-beats",
+  "name": "La Vega Dembow Dominicano Beats",
+  "category": "scene",
+  "badge": "La Vega Dembow Dominicano",
+  "headline": "La Vega (Carnaval Vegano) Dembow Dominicano Beats: Pistas WAV & Dembow Dominicano",
+  "description": "Bajos explosivos, baterías aceleradas de dembow y calidad WAV 24-bit de estudio para artistas de La Vega.",
+  "targetArtists": [
+    "Artistas de La Vega",
+    "Cena Urbana Dominicana",
+    "Dembow RD"
+  ],
+  "recommendedBpm": "120-125 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "La Vega",
+    "Dembow Dominicano",
+    "DOP & USD",
+    "Aprobado SGACEDOM"
+  ],
+  "popularGenres": [
+    "Dembow Dominicano Beats",
+    "Dembow Dominicano",
+    "Trap Barrial"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "la-vega-trap-dominicano-callejero",
+  "name": "La Vega Trap Dominicano Callejero",
+  "category": "scene",
+  "badge": "La Vega Trap Callejero",
+  "headline": "La Vega (Carnaval Vegano) Trap Dominicano Callejero: Pistas WAV & Dembow Dominicano",
+  "description": "Pianos oscuros de barrio, bajos 808 pesados y baterías crudas inspiradas en la realidad de La Vega.",
+  "targetArtists": [
+    "Artistas de La Vega",
+    "Cena Urbana Dominicana",
+    "Dembow RD"
+  ],
+  "recommendedBpm": "120-132 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "La Vega",
+    "Trap Callejero",
+    "DOP & USD",
+    "Aprobado SGACEDOM"
+  ],
+  "popularGenres": [
+    "Trap Dominicano Callejero",
+    "Dembow Dominicano",
+    "Trap Barrial"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "la-vega-bachata-trap-fusion",
+  "name": "La Vega Bachata Trap Fusión",
+  "category": "scene",
+  "badge": "La Vega Bachata Trap",
+  "headline": "La Vega (Carnaval Vegano) Bachata Trap Fusión: Pistas WAV & Dembow Dominicano",
+  "description": "Requintos de bachata con chorus, bongo tradicional y sub-bajos 808 para creadores de La Vega.",
+  "targetArtists": [
+    "Artistas de La Vega",
+    "Cena Urbana Dominicana",
+    "Dembow RD"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "La Vega",
+    "Bachata Trap",
+    "DOP & USD",
+    "Aprobado SGACEDOM"
+  ],
+  "popularGenres": [
+    "Bachata Trap Fusión",
+    "Dembow Dominicano",
+    "Trap Barrial"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "la-vega-drill-dominicano-beats",
+  "name": "La Vega Drill Dominicano Beats",
+  "category": "scene",
+  "badge": "La Vega Drill Dominicano",
+  "headline": "La Vega (Carnaval Vegano) Drill Dominicano Beats: Pistas WAV & Dembow Dominicano",
+  "description": "Hi-hats rápidos, cajas sincopadas y 808s deslizantes estilo Bronx para vocalistas de La Vega.",
+  "targetArtists": [
+    "Artistas de La Vega",
+    "Cena Urbana Dominicana",
+    "Dembow RD"
+  ],
+  "recommendedBpm": "138-144 BPM",
+  "recommendedKey": "C-Minor / C-Sharp Minor",
+  "vibeAttributes": [
+    "La Vega",
+    "Drill Dominicano",
+    "DOP & USD",
+    "Aprobado SGACEDOM"
+  ],
+  "popularGenres": [
+    "Drill Dominicano Beats",
+    "Dembow Dominicano",
+    "Trap Barrial"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "moca-dembow-dominicano-beats",
+  "name": "Moca Dembow Dominicano Beats",
+  "category": "scene",
+  "badge": "Moca Dembow Dominicano",
+  "headline": "Moca (El Cibao Central) Dembow Dominicano Beats: Pistas WAV & Dembow Dominicano",
+  "description": "Bajos explosivos, baterías aceleradas de dembow y calidad WAV 24-bit de estudio para artistas de Moca.",
+  "targetArtists": [
+    "Artistas de Moca",
+    "Cena Urbana Dominicana",
+    "Dembow RD"
+  ],
+  "recommendedBpm": "120-125 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Moca",
+    "Dembow Dominicano",
+    "DOP & USD",
+    "Aprobado SGACEDOM"
+  ],
+  "popularGenres": [
+    "Dembow Dominicano Beats",
+    "Dembow Dominicano",
+    "Trap Barrial"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "moca-trap-dominicano-callejero",
+  "name": "Moca Trap Dominicano Callejero",
+  "category": "scene",
+  "badge": "Moca Trap Callejero",
+  "headline": "Moca (El Cibao Central) Trap Dominicano Callejero: Pistas WAV & Dembow Dominicano",
+  "description": "Pianos oscuros de barrio, bajos 808 pesados y baterías crudas inspiradas en la realidad de Moca.",
+  "targetArtists": [
+    "Artistas de Moca",
+    "Cena Urbana Dominicana",
+    "Dembow RD"
+  ],
+  "recommendedBpm": "120-132 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Moca",
+    "Trap Callejero",
+    "DOP & USD",
+    "Aprobado SGACEDOM"
+  ],
+  "popularGenres": [
+    "Trap Dominicano Callejero",
+    "Dembow Dominicano",
+    "Trap Barrial"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "moca-bachata-trap-fusion",
+  "name": "Moca Bachata Trap Fusión",
+  "category": "scene",
+  "badge": "Moca Bachata Trap",
+  "headline": "Moca (El Cibao Central) Bachata Trap Fusión: Pistas WAV & Dembow Dominicano",
+  "description": "Requintos de bachata con chorus, bongo tradicional y sub-bajos 808 para creadores de Moca.",
+  "targetArtists": [
+    "Artistas de Moca",
+    "Cena Urbana Dominicana",
+    "Dembow RD"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Moca",
+    "Bachata Trap",
+    "DOP & USD",
+    "Aprobado SGACEDOM"
+  ],
+  "popularGenres": [
+    "Bachata Trap Fusión",
+    "Dembow Dominicano",
+    "Trap Barrial"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "moca-drill-dominicano-beats",
+  "name": "Moca Drill Dominicano Beats",
+  "category": "scene",
+  "badge": "Moca Drill Dominicano",
+  "headline": "Moca (El Cibao Central) Drill Dominicano Beats: Pistas WAV & Dembow Dominicano",
+  "description": "Hi-hats rápidos, cajas sincopadas y 808s deslizantes estilo Bronx para vocalistas de Moca.",
+  "targetArtists": [
+    "Artistas de Moca",
+    "Cena Urbana Dominicana",
+    "Dembow RD"
+  ],
+  "recommendedBpm": "138-144 BPM",
+  "recommendedKey": "C-Minor / C-Sharp Minor",
+  "vibeAttributes": [
+    "Moca",
+    "Drill Dominicano",
+    "DOP & USD",
+    "Aprobado SGACEDOM"
+  ],
+  "popularGenres": [
+    "Drill Dominicano Beats",
+    "Dembow Dominicano",
+    "Trap Barrial"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "bani-dembow-dominicano-beats",
+  "name": "Baní Dembow Dominicano Beats",
+  "category": "scene",
+  "badge": "Baní Dembow Dominicano",
+  "headline": "Baní (Provincia Peravia) Dembow Dominicano Beats: Pistas WAV & Dembow Dominicano",
+  "description": "Bajos explosivos, baterías aceleradas de dembow y calidad WAV 24-bit de estudio para artistas de Baní.",
+  "targetArtists": [
+    "Artistas de Baní",
+    "Cena Urbana Dominicana",
+    "Dembow RD"
+  ],
+  "recommendedBpm": "120-125 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Baní",
+    "Dembow Dominicano",
+    "DOP & USD",
+    "Aprobado SGACEDOM"
+  ],
+  "popularGenres": [
+    "Dembow Dominicano Beats",
+    "Dembow Dominicano",
+    "Trap Barrial"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "bani-trap-dominicano-callejero",
+  "name": "Baní Trap Dominicano Callejero",
+  "category": "scene",
+  "badge": "Baní Trap Callejero",
+  "headline": "Baní (Provincia Peravia) Trap Dominicano Callejero: Pistas WAV & Dembow Dominicano",
+  "description": "Pianos oscuros de barrio, bajos 808 pesados y baterías crudas inspiradas en la realidad de Baní.",
+  "targetArtists": [
+    "Artistas de Baní",
+    "Cena Urbana Dominicana",
+    "Dembow RD"
+  ],
+  "recommendedBpm": "120-132 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Baní",
+    "Trap Callejero",
+    "DOP & USD",
+    "Aprobado SGACEDOM"
+  ],
+  "popularGenres": [
+    "Trap Dominicano Callejero",
+    "Dembow Dominicano",
+    "Trap Barrial"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "bani-bachata-trap-fusion",
+  "name": "Baní Bachata Trap Fusión",
+  "category": "scene",
+  "badge": "Baní Bachata Trap",
+  "headline": "Baní (Provincia Peravia) Bachata Trap Fusión: Pistas WAV & Dembow Dominicano",
+  "description": "Requintos de bachata con chorus, bongo tradicional y sub-bajos 808 para creadores de Baní.",
+  "targetArtists": [
+    "Artistas de Baní",
+    "Cena Urbana Dominicana",
+    "Dembow RD"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Baní",
+    "Bachata Trap",
+    "DOP & USD",
+    "Aprobado SGACEDOM"
+  ],
+  "popularGenres": [
+    "Bachata Trap Fusión",
+    "Dembow Dominicano",
+    "Trap Barrial"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "bani-drill-dominicano-beats",
+  "name": "Baní Drill Dominicano Beats",
+  "category": "scene",
+  "badge": "Baní Drill Dominicano",
+  "headline": "Baní (Provincia Peravia) Drill Dominicano Beats: Pistas WAV & Dembow Dominicano",
+  "description": "Hi-hats rápidos, cajas sincopadas y 808s deslizantes estilo Bronx para vocalistas de Baní.",
+  "targetArtists": [
+    "Artistas de Baní",
+    "Cena Urbana Dominicana",
+    "Dembow RD"
+  ],
+  "recommendedBpm": "138-144 BPM",
+  "recommendedKey": "C-Minor / C-Sharp Minor",
+  "vibeAttributes": [
+    "Baní",
+    "Drill Dominicano",
+    "DOP & USD",
+    "Aprobado SGACEDOM"
+  ],
+  "popularGenres": [
+    "Drill Dominicano Beats",
+    "Dembow Dominicano",
+    "Trap Barrial"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
 ];
