@@ -29481,4 +29481,508 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
     }
   ]
 },
+  "jm": {
+  "name": "Jamaica – Dancehall Riddims, Trap-Dancehall & Roots Reggae",
+  "flag": "🇯🇲",
+  "currency": "USD ($) / JMD (J$)",
+  "currencyCode": "USD",
+  "gateways": "Lynk (Jamaica Digital Wallet), NCB, Scotiabank Jamaica, Debit/Credit Cards, Apple Pay, PayPal, Stripe",
+  "pro": "JAMMS, JACAP & JIPO",
+  "proFullName": "Jamaica Music Society (JAMMS) & JACAP under JIPO Copyright Framework",
+  "proGuide": "100% original productions by Onzieb with zero unauthorized samples. Official signed commercial PDF license agreement included. Keep 100% of your master streaming royalties across Spotify, Apple Music, YouTube, and Audiomack.",
+  "headline": "Buy Dancehall Riddims & Trap-Dancehall Beats: Studio WAV 24-bit, Stems & Instant Download",
+  "description": "Premium commercial dancehall riddims, minimalist trap-dancehall 808s, and roots reggae instrumentals for recording artists worldwide. Untagged studio WAVs with signed legal agreement.",
+  "popularGenres": [
+    "Dancehall Riddims",
+    "Trap-Dancehall",
+    "Roots Reggae",
+    "Dancehall R&B"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Montego Bay Mobay Hub",
+      "slug": "jm/montego-bay-mobay",
+      "description": "The world capital of modern Trap-Dancehall and 808 glides."
+    },
+    {
+      "name": "Kingston Uptown Hub",
+      "slug": "jm/kingston-uptown",
+      "description": "High-budget studio crossovers and melodic dancehall pop."
+    },
+    {
+      "name": "Portmore Gaza Hub",
+      "slug": "jm/portmore-gaza",
+      "description": "The cradle of Worl' Boss hardcore dancehall riddims."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I distribute songs recorded with these beats on Spotify, Apple Music, and YouTube in Jamaica – Dancehall Riddims, Trap-Dancehall & Roots Reggae?",
+      "answer": "Yes, 100%! All WAV and MP3 commercial licenses from Different Type of Vibe include unlimited commercial rights for digital streaming (Spotify, Apple Music, YouTube Music, Audiomack, TIDAL, TikTok) and radio airplay. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "Are these dancehall riddims and reggae beats copyright-safe and registered with JAMMS and JACAP?",
+      "answer": "Absolutely! Every instrumental is a 100% original composition produced by Onzieb without unauthorized third-party samples. You can register your song with the Jamaica Intellectual Property Office (JIPO), JAMMS, and JACAP without any risk of Content ID strikes or copyright claims."
+    },
+    {
+      "question": "What payment methods are available in Jamaica and the Caribbean?",
+      "answer": "We accept payments in USD ($) and Jamaican Dollars (JMD J$) via Lynk (Jamaica's national digital wallet), direct bank transfer (NCB, Scotiabank Jamaica), local and international debit/credit cards, Apple Pay, and PayPal."
+    },
+    {
+      "question": "When and how do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout completion, your uncompressed 24-bit studio WAV file without voice tags, the 320kbps MP3 file, and your signed official PDF license agreement are delivered directly to your email for instant download."
+    }
+  ]
+},
+  "jm/kingston-uptown": {
+  "name": "Jamaica – Kingston Uptown (New Kingston, St. Andrew & Luxury Studios)",
+  "flag": "🇯🇲",
+  "currency": "USD ($) / JMD (J$)",
+  "currencyCode": "USD",
+  "gateways": "Lynk, NCB, Scotiabank, Cards, Apple Pay, PayPal, Stripe",
+  "pro": "JAMMS & JACAP",
+  "proFullName": "JAMMS & JACAP Jamaica",
+  "proGuide": "100% cleared for worldwide commercial distribution and DSP streaming.",
+  "headline": "Kingston Uptown Beats: Polished Crossover Dancehall, Pop-Reggae & Lush Synths",
+  "description": "The refined, international sound of Kingston's premier recording spaces: bright synth leads, infectious bouncy basslines, and crisp percussion tailored for global radio hits.",
+  "popularGenres": [
+    "Crossover Dancehall",
+    "Pop-Reggae",
+    "Island R&B"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Shenseea Vibe",
+      "slug": "../../vibe/shenseea-crossover-pop-dancehall",
+      "description": "Radio-ready dancehall-pop with bouncy dembows and melodic hooks."
+    },
+    {
+      "name": "Sean Paul Vibe",
+      "slug": "../../vibe/sean-paul-dutty-rock-crossover-classic",
+      "description": "Global Dutty Rock party riddims with punchy horns."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I distribute songs recorded with these beats on Spotify, Apple Music, and YouTube in Jamaica – Kingston Uptown (New Kingston, St. Andrew & Luxury Studios)?",
+      "answer": "Yes, 100%! All WAV and MP3 commercial licenses from Different Type of Vibe include unlimited commercial rights for digital streaming (Spotify, Apple Music, YouTube Music, Audiomack, TIDAL, TikTok) and radio airplay. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "Are these dancehall riddims and reggae beats copyright-safe and registered with JAMMS and JACAP?",
+      "answer": "Absolutely! Every instrumental is a 100% original composition produced by Onzieb without unauthorized third-party samples. You can register your song with the Jamaica Intellectual Property Office (JIPO), JAMMS, and JACAP without any risk of Content ID strikes or copyright claims."
+    },
+    {
+      "question": "What payment methods are available in Jamaica and the Caribbean?",
+      "answer": "We accept payments in USD ($) and Jamaican Dollars (JMD J$) via Lynk (Jamaica's national digital wallet), direct bank transfer (NCB, Scotiabank Jamaica), local and international debit/credit cards, Apple Pay, and PayPal."
+    },
+    {
+      "question": "When and how do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout completion, your uncompressed 24-bit studio WAV file without voice tags, the 320kbps MP3 file, and your signed official PDF license agreement are delivered directly to your email for instant download."
+    }
+  ]
+},
+  "jm/kingston-downtown": {
+  "name": "Jamaica – Kingston Downtown (Trenchtown, Orange St & Sound Systems)",
+  "flag": "🇯🇲",
+  "currency": "USD ($) / JMD (J$)",
+  "currencyCode": "USD",
+  "gateways": "Lynk, NCB, Scotiabank, Cards, Apple Pay, PayPal, Stripe",
+  "pro": "JAMMS & JACAP",
+  "proFullName": "JAMMS & JACAP Jamaica",
+  "proGuide": "100% royalty-free keep with no backend producer splits.",
+  "headline": "Kingston Downtown Beats: Raw Sound System Culture, Heavy Dub & Steppers",
+  "description": "The historic birthplace of Jamaican music: thundering analog sub-bass, one-drop drum grooves, tape-echo spring reverbs, and conscious militant roots.",
+  "popularGenres": [
+    "Roots Reggae",
+    "Sound System Dub",
+    "One-Drop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Chronixx Vibe",
+      "slug": "../../vibe/chronixx-dread-and-terrible-reggae",
+      "description": "Conscious roots reggae revival with warm Hammond organ."
+    },
+    {
+      "name": "Heavy Dub Stepper",
+      "slug": "../../vibe/dub-roots-stepper-heavyweight-bass",
+      "description": "Sound system heavyweight dub with spring reverb and earth-shaking sub."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I distribute songs recorded with these beats on Spotify, Apple Music, and YouTube in Jamaica – Kingston Downtown (Trenchtown, Orange St & Sound Systems)?",
+      "answer": "Yes, 100%! All WAV and MP3 commercial licenses from Different Type of Vibe include unlimited commercial rights for digital streaming (Spotify, Apple Music, YouTube Music, Audiomack, TIDAL, TikTok) and radio airplay. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "Are these dancehall riddims and reggae beats copyright-safe and registered with JAMMS and JACAP?",
+      "answer": "Absolutely! Every instrumental is a 100% original composition produced by Onzieb without unauthorized third-party samples. You can register your song with the Jamaica Intellectual Property Office (JIPO), JAMMS, and JACAP without any risk of Content ID strikes or copyright claims."
+    },
+    {
+      "question": "What payment methods are available in Jamaica and the Caribbean?",
+      "answer": "We accept payments in USD ($) and Jamaican Dollars (JMD J$) via Lynk (Jamaica's national digital wallet), direct bank transfer (NCB, Scotiabank Jamaica), local and international debit/credit cards, Apple Pay, and PayPal."
+    },
+    {
+      "question": "When and how do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout completion, your uncompressed 24-bit studio WAV file without voice tags, the 320kbps MP3 file, and your signed official PDF license agreement are delivered directly to your email for instant download."
+    }
+  ]
+},
+  "jm/montego-bay-mobay": {
+  "name": "Jamaica – Montego Bay (Mobay – World Capital of Trap-Dancehall)",
+  "flag": "🇯🇲",
+  "currency": "USD ($) / JMD (J$)",
+  "currencyCode": "USD",
+  "gateways": "Lynk, NCB, Scotiabank, Cards, Apple Pay, PayPal, Stripe",
+  "pro": "JAMMS & JACAP",
+  "proFullName": "JAMMS & JACAP Jamaica",
+  "proGuide": "Full commercial ownership with multitrack stems included.",
+  "headline": "Montego Bay Beats: Modern Trap-Dancehall, Sliding 808s & Staccato Flows",
+  "description": "The epicenter of the global Trap-Dancehall movement (Flanker, Glendevon, St. James): bone-crushing 808 glides, eerie minimalist bell melodies, and hard-hitting snares.",
+  "popularGenres": [
+    "Trap-Dancehall",
+    "Mobay Sound",
+    "6ixx Wave"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Skillibeng Vibe",
+      "slug": "../../vibe/skillibeng-whap-whap-trap-dancehall",
+      "description": "Minimalist 808 sub-bass, eerie staccato keys, and menacing cadence."
+    },
+    {
+      "name": "Teejay Drift Vibe",
+      "slug": "../../vibe/teejay-drift-uptop-fast-dancehall",
+      "description": "High-energy 110 BPM viral dancehall with snappy kicks."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I distribute songs recorded with these beats on Spotify, Apple Music, and YouTube in Jamaica – Montego Bay (Mobay – World Capital of Trap-Dancehall)?",
+      "answer": "Yes, 100%! All WAV and MP3 commercial licenses from Different Type of Vibe include unlimited commercial rights for digital streaming (Spotify, Apple Music, YouTube Music, Audiomack, TIDAL, TikTok) and radio airplay. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "Are these dancehall riddims and reggae beats copyright-safe and registered with JAMMS and JACAP?",
+      "answer": "Absolutely! Every instrumental is a 100% original composition produced by Onzieb without unauthorized third-party samples. You can register your song with the Jamaica Intellectual Property Office (JIPO), JAMMS, and JACAP without any risk of Content ID strikes or copyright claims."
+    },
+    {
+      "question": "What payment methods are available in Jamaica and the Caribbean?",
+      "answer": "We accept payments in USD ($) and Jamaican Dollars (JMD J$) via Lynk (Jamaica's national digital wallet), direct bank transfer (NCB, Scotiabank Jamaica), local and international debit/credit cards, Apple Pay, and PayPal."
+    },
+    {
+      "question": "When and how do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout completion, your uncompressed 24-bit studio WAV file without voice tags, the 320kbps MP3 file, and your signed official PDF license agreement are delivered directly to your email for instant download."
+    }
+  ]
+},
+  "jm/portmore-gaza": {
+  "name": "Jamaica – Portmore & St. Catherine (The Gaza Empire & Hardcore Dancehall)",
+  "flag": "🇯🇲",
+  "currency": "USD ($) / JMD (J$)",
+  "currencyCode": "USD",
+  "gateways": "Lynk, NCB, Scotiabank, Cards, Apple Pay, PayPal, Stripe",
+  "pro": "JAMMS & JACAP",
+  "proFullName": "JAMMS & JACAP Jamaica",
+  "proGuide": "100% legal under JAMMS and international copyright standards.",
+  "headline": "Portmore Beats: Hardcore Gaza Riddims, Street Synths & Cutting Snares",
+  "description": "The cradle of dancehall royalty: infectious syncopated bass grooves, aggressive digital snare claps, and iconic synth progressions built for raw street anthems.",
+  "popularGenres": [
+    "Gaza Riddims",
+    "Hardcore Dancehall",
+    "Street Banger"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Vybz Kartel Vibe",
+      "slug": "../../vibe/vybz-kartel-worl-boss-gaza-blueprint",
+      "description": "The timeless Worl' Boss dancehall formula with sharp cadences."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I distribute songs recorded with these beats on Spotify, Apple Music, and YouTube in Jamaica – Portmore & St. Catherine (The Gaza Empire & Hardcore Dancehall)?",
+      "answer": "Yes, 100%! All WAV and MP3 commercial licenses from Different Type of Vibe include unlimited commercial rights for digital streaming (Spotify, Apple Music, YouTube Music, Audiomack, TIDAL, TikTok) and radio airplay. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "Are these dancehall riddims and reggae beats copyright-safe and registered with JAMMS and JACAP?",
+      "answer": "Absolutely! Every instrumental is a 100% original composition produced by Onzieb without unauthorized third-party samples. You can register your song with the Jamaica Intellectual Property Office (JIPO), JAMMS, and JACAP without any risk of Content ID strikes or copyright claims."
+    },
+    {
+      "question": "What payment methods are available in Jamaica and the Caribbean?",
+      "answer": "We accept payments in USD ($) and Jamaican Dollars (JMD J$) via Lynk (Jamaica's national digital wallet), direct bank transfer (NCB, Scotiabank Jamaica), local and international debit/credit cards, Apple Pay, and PayPal."
+    },
+    {
+      "question": "When and how do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout completion, your uncompressed 24-bit studio WAV file without voice tags, the 320kbps MP3 file, and your signed official PDF license agreement are delivered directly to your email for instant download."
+    }
+  ]
+},
+  "jm/spanish-town-st-catherine": {
+  "name": "Jamaica – Spanish Town (Raw Underground Street Dancehall)",
+  "flag": "🇯🇲",
+  "currency": "USD ($) / JMD (J$)",
+  "currencyCode": "USD",
+  "gateways": "Lynk, NCB, Scotiabank, Cards, Apple Pay, PayPal, Stripe",
+  "pro": "JAMMS & JACAP",
+  "proFullName": "JAMMS & JACAP Jamaica",
+  "proGuide": "Commercial rights cleared for streaming, radio, and video.",
+  "headline": "Spanish Town Beats: Dark Atmospheric Trap-Dancehall & Relentless Kicks",
+  "description": "Gritty street realities from the historic capital: menacing minor chord pads, distorted low-end 808s, and uncompromising percussion for hardcore lyricists.",
+  "popularGenres": [
+    "Street Dancehall",
+    "Dark Trap-Dancehall",
+    "Clans Sound"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Masicka 438 Vibe",
+      "slug": "../../vibe/masicka-438-hardcore-lyrical-dancehall",
+      "description": "Hardcore lyrical aggression with dark strings and heavy drums."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I distribute songs recorded with these beats on Spotify, Apple Music, and YouTube in Jamaica – Spanish Town (Raw Underground Street Dancehall)?",
+      "answer": "Yes, 100%! All WAV and MP3 commercial licenses from Different Type of Vibe include unlimited commercial rights for digital streaming (Spotify, Apple Music, YouTube Music, Audiomack, TIDAL, TikTok) and radio airplay. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "Are these dancehall riddims and reggae beats copyright-safe and registered with JAMMS and JACAP?",
+      "answer": "Absolutely! Every instrumental is a 100% original composition produced by Onzieb without unauthorized third-party samples. You can register your song with the Jamaica Intellectual Property Office (JIPO), JAMMS, and JACAP without any risk of Content ID strikes or copyright claims."
+    },
+    {
+      "question": "What payment methods are available in Jamaica and the Caribbean?",
+      "answer": "We accept payments in USD ($) and Jamaican Dollars (JMD J$) via Lynk (Jamaica's national digital wallet), direct bank transfer (NCB, Scotiabank Jamaica), local and international debit/credit cards, Apple Pay, and PayPal."
+    },
+    {
+      "question": "When and how do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout completion, your uncompressed 24-bit studio WAV file without voice tags, the 320kbps MP3 file, and your signed official PDF license agreement are delivered directly to your email for instant download."
+    }
+  ]
+},
+  "jm/ocho-rios-st-ann": {
+  "name": "Jamaica – Ocho Rios & St. Ann (Garden Parish & Beach Club Riddims)",
+  "flag": "🇯🇲",
+  "currency": "USD ($) / JMD (J$)",
+  "currencyCode": "USD",
+  "gateways": "Lynk, NCB, Scotiabank, Cards, Apple Pay, PayPal, Stripe",
+  "pro": "JAMMS & JACAP",
+  "proFullName": "JAMMS & JACAP Jamaica",
+  "proGuide": "100% royalty-free commercial licensing.",
+  "headline": "Ocho Rios Beats: Garden Parish Reggae, Coastal Dancehall & Sunshine Vibes",
+  "description": "The musical heritage of St. Ann: warm brass stabs, clean skank guitars, and infectious modern dancehall grooves made for open-air festivals and beachside clubs.",
+  "popularGenres": [
+    "Coastal Dancehall",
+    "Island Pop",
+    "Garden Parish Reggae"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Popcaan Unruly Vibe",
+      "slug": "../../vibe/popcaan-unruly-melodic-dancehall",
+      "description": "Uplifting island piano leads with sunny Caribbean swing."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I distribute songs recorded with these beats on Spotify, Apple Music, and YouTube in Jamaica – Ocho Rios & St. Ann (Garden Parish & Beach Club Riddims)?",
+      "answer": "Yes, 100%! All WAV and MP3 commercial licenses from Different Type of Vibe include unlimited commercial rights for digital streaming (Spotify, Apple Music, YouTube Music, Audiomack, TIDAL, TikTok) and radio airplay. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "Are these dancehall riddims and reggae beats copyright-safe and registered with JAMMS and JACAP?",
+      "answer": "Absolutely! Every instrumental is a 100% original composition produced by Onzieb without unauthorized third-party samples. You can register your song with the Jamaica Intellectual Property Office (JIPO), JAMMS, and JACAP without any risk of Content ID strikes or copyright claims."
+    },
+    {
+      "question": "What payment methods are available in Jamaica and the Caribbean?",
+      "answer": "We accept payments in USD ($) and Jamaican Dollars (JMD J$) via Lynk (Jamaica's national digital wallet), direct bank transfer (NCB, Scotiabank Jamaica), local and international debit/credit cards, Apple Pay, and PayPal."
+    },
+    {
+      "question": "When and how do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout completion, your uncompressed 24-bit studio WAV file without voice tags, the 320kbps MP3 file, and your signed official PDF license agreement are delivered directly to your email for instant download."
+    }
+  ]
+},
+  "jm/negril-westmoreland": {
+  "name": "Jamaica – Negril & Westmoreland (Seven Mile Beach & Sunset Reggae)",
+  "flag": "🇯🇲",
+  "currency": "USD ($) / JMD (J$)",
+  "currencyCode": "USD",
+  "gateways": "Lynk, NCB, Scotiabank, Cards, Apple Pay, PayPal, Stripe",
+  "pro": "JAMMS & JACAP",
+  "proFullName": "JAMMS & JACAP Jamaica",
+  "proGuide": "100% original instrumentation free of copyright strikes.",
+  "headline": "Negril Beats: Seven Mile Sunset Reggae, Dub Reverb & Beachfront Grooves",
+  "description": "Chill, soulful vibrations from Jamaica's western tip: mellow electric guitar licks, deep rhythmic basslines, and breezy percussion for sunset chillout sessions.",
+  "popularGenres": [
+    "Sunset Reggae",
+    "Beach Dub",
+    "Acoustic Island"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I distribute songs recorded with these beats on Spotify, Apple Music, and YouTube in Jamaica – Negril & Westmoreland (Seven Mile Beach & Sunset Reggae)?",
+      "answer": "Yes, 100%! All WAV and MP3 commercial licenses from Different Type of Vibe include unlimited commercial rights for digital streaming (Spotify, Apple Music, YouTube Music, Audiomack, TIDAL, TikTok) and radio airplay. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "Are these dancehall riddims and reggae beats copyright-safe and registered with JAMMS and JACAP?",
+      "answer": "Absolutely! Every instrumental is a 100% original composition produced by Onzieb without unauthorized third-party samples. You can register your song with the Jamaica Intellectual Property Office (JIPO), JAMMS, and JACAP without any risk of Content ID strikes or copyright claims."
+    },
+    {
+      "question": "What payment methods are available in Jamaica and the Caribbean?",
+      "answer": "We accept payments in USD ($) and Jamaican Dollars (JMD J$) via Lynk (Jamaica's national digital wallet), direct bank transfer (NCB, Scotiabank Jamaica), local and international debit/credit cards, Apple Pay, and PayPal."
+    },
+    {
+      "question": "When and how do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout completion, your uncompressed 24-bit studio WAV file without voice tags, the 320kbps MP3 file, and your signed official PDF license agreement are delivered directly to your email for instant download."
+    }
+  ]
+},
+  "jm/mandeville-manchester": {
+  "name": "Jamaica – Mandeville & Manchester (Cool Hills & Conscious Music)",
+  "flag": "🇯🇲",
+  "currency": "USD ($) / JMD (J$)",
+  "currencyCode": "USD",
+  "gateways": "Lynk, NCB, Scotiabank, Cards, Apple Pay, PayPal, Stripe",
+  "pro": "JAMMS & JACAP",
+  "proFullName": "JAMMS & JACAP Jamaica",
+  "proGuide": "Official signed PDF license contract included with every purchase.",
+  "headline": "Mandeville Beats: Conscious Modern Reggae, Live Guitars & Soulful Organs",
+  "description": "The cool, elevated atmosphere of central Jamaica: rich Hammond organs, organic bass grooves, and reflective arrangements for spiritually uplifted songs.",
+  "popularGenres": [
+    "Conscious Reggae",
+    "Modern Roots",
+    "Cool Hills Sound"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Koffee Toast Vibe",
+      "slug": "../../vibe/koffee-toast-modern-roots-reggae",
+      "description": "Grammy-winning modern roots reggae with upbeat skank guitars."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I distribute songs recorded with these beats on Spotify, Apple Music, and YouTube in Jamaica – Mandeville & Manchester (Cool Hills & Conscious Music)?",
+      "answer": "Yes, 100%! All WAV and MP3 commercial licenses from Different Type of Vibe include unlimited commercial rights for digital streaming (Spotify, Apple Music, YouTube Music, Audiomack, TIDAL, TikTok) and radio airplay. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "Are these dancehall riddims and reggae beats copyright-safe and registered with JAMMS and JACAP?",
+      "answer": "Absolutely! Every instrumental is a 100% original composition produced by Onzieb without unauthorized third-party samples. You can register your song with the Jamaica Intellectual Property Office (JIPO), JAMMS, and JACAP without any risk of Content ID strikes or copyright claims."
+    },
+    {
+      "question": "What payment methods are available in Jamaica and the Caribbean?",
+      "answer": "We accept payments in USD ($) and Jamaican Dollars (JMD J$) via Lynk (Jamaica's national digital wallet), direct bank transfer (NCB, Scotiabank Jamaica), local and international debit/credit cards, Apple Pay, and PayPal."
+    },
+    {
+      "question": "When and how do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout completion, your uncompressed 24-bit studio WAV file without voice tags, the 320kbps MP3 file, and your signed official PDF license agreement are delivered directly to your email for instant download."
+    }
+  ]
+},
+  "jm/may-pen-clarendon": {
+  "name": "Jamaica – May Pen & Clarendon (High-Speed Dancehall & Heavy Subs)",
+  "flag": "🇯🇲",
+  "currency": "USD ($) / JMD (J$)",
+  "currencyCode": "USD",
+  "gateways": "Lynk, NCB, Scotiabank, Cards, Apple Pay, PayPal, Stripe",
+  "pro": "JAMMS & JACAP",
+  "proFullName": "JAMMS & JACAP Jamaica",
+  "proGuide": "100% legal for digital streaming and music video monetization.",
+  "headline": "May Pen Beats: Fast-Paced Street Riddims, Dance Craze Grooves & 808s",
+  "description": "Raw central Jamaican street energy: driving percussion cadences, explosive bass drops, and sharp synth accents crafted for viral choreography.",
+  "popularGenres": [
+    "Fast Dancehall",
+    "Clarendon Banger",
+    "Street Riddims"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I distribute songs recorded with these beats on Spotify, Apple Music, and YouTube in Jamaica – May Pen & Clarendon (High-Speed Dancehall & Heavy Subs)?",
+      "answer": "Yes, 100%! All WAV and MP3 commercial licenses from Different Type of Vibe include unlimited commercial rights for digital streaming (Spotify, Apple Music, YouTube Music, Audiomack, TIDAL, TikTok) and radio airplay. You keep 100% of your artist streaming royalties."
+    },
+    {
+      "question": "Are these dancehall riddims and reggae beats copyright-safe and registered with JAMMS and JACAP?",
+      "answer": "Absolutely! Every instrumental is a 100% original composition produced by Onzieb without unauthorized third-party samples. You can register your song with the Jamaica Intellectual Property Office (JIPO), JAMMS, and JACAP without any risk of Content ID strikes or copyright claims."
+    },
+    {
+      "question": "What payment methods are available in Jamaica and the Caribbean?",
+      "answer": "We accept payments in USD ($) and Jamaican Dollars (JMD J$) via Lynk (Jamaica's national digital wallet), direct bank transfer (NCB, Scotiabank Jamaica), local and international debit/credit cards, Apple Pay, and PayPal."
+    },
+    {
+      "question": "When and how do I receive my untagged audio files?",
+      "answer": "Immediately upon checkout completion, your uncompressed 24-bit studio WAV file without voice tags, the 320kbps MP3 file, and your signed official PDF license agreement are delivered directly to your email for instant download."
+    }
+  ]
+},
 };
