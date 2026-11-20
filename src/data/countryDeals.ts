@@ -36856,4 +36856,216 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "tt": {
+  "slug": "tt",
+  "name": "Trinidad & Tobago – National Hub (Trinibad Dancehall, Soca, Steelpan & WiPay)",
+  "flag": "🇹🇹",
+  "currency": "TTD (TT$) / USD ($)",
+  "currencyCode": "TTD",
+  "gateways": "WiPay (Voucher / Bank / Card), Republic Bank, First Citizens, Scotia Caribbean, Cards, Apple Pay, PayPal",
+  "pro": "COTT (Copyright Music Organisation of Trinidad and Tobago)",
+  "proFullName": "COTT (Copyright Music Organisation of Trinidad and Tobago)",
+  "proGuide": "100% compliant with COTT copyright guidelines with downloadable PDF license agreements.",
+  "headline": "Beats in Trinidad & Tobago: Trinibad Dancehall, Power Soca & Instant WiPay Checkout",
+  "description": "The premier instrumental marketplace for artists and producers across Trinidad & Tobago. Commercial beat licenses in TTD (TT$) and USD ($) with instant delivery of 24-bit studio WAV files and multitrack stems.",
+  "popularGenres": [
+    "Trinibad Dancehall",
+    "Groovy Soca",
+    "Power Soca",
+    "Steelpan Trap"
+  ],
+  "subClusters": [
+    {
+      "name": "Prince Swanny Trinibad Vibe",
+      "slug": "../../vibe/prince-swanny-trinibad-dancehall-drill",
+      "description": "Dark Port of Spain street drill dancehall with sliding 808s and acoustic pianos."
+    },
+    {
+      "name": "Machel Montano Soca Vibe",
+      "slug": "../../vibe/machel-montano-power-soca-carnival",
+      "description": "High-octane power soca festival bangers with live brass and road march energy."
+    },
+    {
+      "name": "Steelpan Trap Fusion",
+      "slug": "../../vibe/steelpan-trinidad-tenor-trap-fusion",
+      "description": "Authentic Trinidadian tenor pan cascading melodies over heavy 808 trap drops."
+    },
+    {
+      "name": "WiPay TTD Checkout",
+      "slug": "../../genre/buy-beats-in-trinidad-wipay-ttd-dollars",
+      "description": "Frictionless domestic payment in TTD via WiPay, Republic Bank, and FCB."
+    }
+  ]
+},
+  "tt/port-of-spain-capital": {
+  "slug": "tt/port-of-spain-capital",
+  "name": "Trinidad & Tobago – Port of Spain (The Urban Music Capital & Zesser Movement)",
+  "flag": "🇹🇹",
+  "currency": "TTD (TT$) / USD ($)",
+  "currencyCode": "TTD",
+  "gateways": "WiPay, Republic Bank, First Citizens, Cards, Apple Pay, PayPal",
+  "pro": "COTT",
+  "proFullName": "COTT",
+  "proGuide": "100% compatible for worldwide distribution on Spotify and Apple Music.",
+  "headline": "Beats in Port of Spain: The Birthplace of Trinibad, Zesser Flow & Heavy 808s",
+  "description": "The creative epicenter of Caribbean urban music: dark street drill basslines, melancholy piano runs, and fast-paced dancehall riddims from Sea Lots, Woodbrook, and Westmoorings studios.",
+  "popularGenres": [
+    "Port of Spain Trinibad",
+    "Zesser Drill",
+    "Capital Groovy Soca"
+  ],
+  "subClusters": []
+},
+  "tt/san-fernando-south": {
+  "slug": "tt/san-fernando-south",
+  "name": "Trinidad & Tobago – San Fernando (Industrial South & Raw Street Riddims)",
+  "flag": "🇹🇹",
+  "currency": "TTD (TT$) / USD ($)",
+  "currencyCode": "TTD",
+  "gateways": "WiPay, Republic Bank, First Citizens, Cards, Apple Pay, PayPal",
+  "pro": "COTT",
+  "proFullName": "COTT",
+  "proGuide": "100% original productions with multitrack stem delivery.",
+  "headline": "Beats in San Fernando: Southern Energy, Deep Sub-Bass & Trinibad Anthems",
+  "description": "The industrial heartbeat of South Trinidad: punchy dancehall snares, dark synths, and earth-shaking 808 portamento drops crafted for southern recording artists.",
+  "popularGenres": [
+    "San Fernando Street Drill",
+    "South Trinibad",
+    "Industrial Bass TT"
+  ],
+  "subClusters": []
+},
+  "tt/chaguanas-central": {
+  "slug": "tt/chaguanas-central",
+  "name": "Trinidad & Tobago – Chaguanas (Central Commercial Hub & Chutney-Soca)",
+  "flag": "🇹🇹",
+  "currency": "TTD (TT$) / USD ($)",
+  "currencyCode": "TTD",
+  "gateways": "WiPay, Republic Bank, First Citizens, Cards, Apple Pay, PayPal",
+  "pro": "COTT",
+  "proFullName": "COTT",
+  "proGuide": "100% royalty-free clearance on all master samples.",
+  "headline": "Beats in Chaguanas: Commercial Energy, Chutney-Soca & Modern Dembow",
+  "description": "The bustling commercial crossroad of Trinidad: vibrant Dholak percussions, energetic brass fanfares, and bouncy dancehall rhythms tailored for carnival and radio singles.",
+  "popularGenres": [
+    "Chaguanas Chutney Soca",
+    "Central Urban Dembow",
+    "Carnival Radio Hit"
+  ],
+  "subClusters": []
+},
+  "tt/arima-borough": {
+  "slug": "tt/arima-borough",
+  "name": "Trinidad & Tobago – Arima (The Royal Borough, Parang & Street Flow)",
+  "flag": "🇹🇹",
+  "currency": "TTD (TT$) / USD ($)",
+  "currencyCode": "TTD",
+  "gateways": "WiPay, Republic Bank, First Citizens, Cards, Apple Pay, PayPal",
+  "pro": "COTT",
+  "proFullName": "COTT",
+  "proGuide": "Full commercial sync and streaming monetization rights included.",
+  "headline": "Beats in Arima: Historic Amerindian Heritage, Parang Soca & Trap",
+  "description": "The proud eastern borough: acoustic cuatro strums, festive maracas, and tight 808 kicks fusing ancestral Trinidadian culture with contemporary urban trap.",
+  "popularGenres": [
+    "Arima Parang Soca",
+    "Royal Borough Trap",
+    "Eastern Island Flow"
+  ],
+  "subClusters": []
+},
+  "tt/scarborough-tobago": {
+  "slug": "tt/scarborough-tobago",
+  "name": "Trinidad & Tobago – Scarborough & Crown Point (Tobago Island & Sunset Dub)",
+  "flag": "🇹🇹",
+  "currency": "TTD (TT$) / USD ($)",
+  "currencyCode": "TTD",
+  "gateways": "WiPay, Republic Bank, First Citizens, Cards, Apple Pay, PayPal",
+  "pro": "COTT",
+  "proFullName": "COTT",
+  "proGuide": "100% legal under COTT licensing with downloadable PDF agreement.",
+  "headline": "Beats in Tobago: Pigeon Point Waves, Island Reggae-Dub & Sunset Chill",
+  "description": "The tranquil island paradise: warm acoustic guitar skanks, lush Rhodes keyboards, and relaxed dancehall rhythms designed for summer beach bangers and travel content.",
+  "popularGenres": [
+    "Tobago Island Reggae",
+    "Pigeon Point Chillhop",
+    "Crown Point Dub"
+  ],
+  "subClusters": []
+},
+  "tt/laventille-morvant": {
+  "slug": "tt/laventille-morvant",
+  "name": "Trinidad & Tobago – Laventille & Morvant (Cradle of Steelpan & Raw Drill)",
+  "flag": "🇹🇹",
+  "currency": "TTD (TT$) / USD ($)",
+  "currencyCode": "TTD",
+  "gateways": "WiPay, Republic Bank, First Citizens, Cards, Apple Pay, PayPal",
+  "pro": "COTT",
+  "proFullName": "COTT",
+  "proGuide": "100% compatible with digital aggregators (DistroKid, TuneCore).",
+  "headline": "Beats in Laventille: Steelpan Origin, Raw Trinibad Drill & Hard 808s",
+  "description": "The hill where the steelpan was born and where the modern Trinibad street sound took over the world: icy church bells, cutting snares, and aggressive 808s for reality rap.",
+  "popularGenres": [
+    "Laventille Raw Drill",
+    "Steelpan Heritage Trap",
+    "Morvant Street Sound"
+  ],
+  "subClusters": []
+},
+  "tt/point-fortin-south-west": {
+  "slug": "tt/point-fortin-south-west",
+  "name": "Trinidad & Tobago – Point Fortin (Borough Day Capital & High-Speed Soca)",
+  "flag": "🇹🇹",
+  "currency": "TTD (TT$) / USD ($)",
+  "currencyCode": "TTD",
+  "gateways": "WiPay, Republic Bank, First Citizens, Cards, Apple Pay, PayPal",
+  "pro": "COTT",
+  "proFullName": "COTT",
+  "proGuide": "100% original productions ready for radio and carnival road marches.",
+  "headline": "Beats in Point Fortin: Borough Day Energy, Power Soca & Carnival Brass",
+  "description": "The high-octane energy of the south-west: live horn sections, frantic soca percussion at 130-135 BPM, and driving basslines that shake sound trucks on the road.",
+  "popularGenres": [
+    "Point Fortin Power Soca",
+    "Borough Day Carnival Beat",
+    "High-Speed Soca"
+  ],
+  "subClusters": []
+},
+  "tt/diego-martin-west": {
+  "slug": "tt/diego-martin-west",
+  "name": "Trinidad & Tobago – Diego Martin & Carenage (Western Marina & Smooth R&B)",
+  "flag": "🇹🇹",
+  "currency": "TTD (TT$) / USD ($)",
+  "currencyCode": "TTD",
+  "gateways": "WiPay, Republic Bank, First Citizens, Cards, Apple Pay, PayPal",
+  "pro": "COTT",
+  "proFullName": "COTT",
+  "proGuide": "Full commercial sync and streaming monetization rights included.",
+  "headline": "Beats in Diego Martin: Coastal Marina, Smooth Caribbean R&B & Trap",
+  "description": "The coastal residential belt: lush pads with wide stereo imaging, clean guitar arpeggios, and smooth 808s tailored for melodic vocalists and summer island anthems.",
+  "popularGenres": [
+    "Diego Martin R&B",
+    "West Coast Marina Trap",
+    "Melodic Island Pop"
+  ],
+  "subClusters": []
+},
+  "tt/sangre-grande-east": {
+  "slug": "tt/sangre-grande-east",
+  "name": "Trinidad & Tobago – Sangre Grande (Eastern Gateway & Acoustic Reggae)",
+  "flag": "🇹🇹",
+  "currency": "TTD (TT$) / USD ($)",
+  "currencyCode": "TTD",
+  "gateways": "WiPay, Republic Bank, First Citizens, Cards, Apple Pay, PayPal",
+  "pro": "COTT",
+  "proFullName": "COTT",
+  "proGuide": "100% original and cleared for monetization on YouTube and Spotify.",
+  "headline": "Beats in Sangre Grande: Eastern Rivers, Roots Reggae & Conscious Flow",
+  "description": "The lush eastern crossroads: organic drum grooves, acoustic nylon guitars, and deep basslines for conscious lyricists, storytelling, and roots reggae compositions.",
+  "popularGenres": [
+    "Sangre Grande Roots",
+    "Eastern Acoustic Reggae",
+    "Island Conscious Flow"
+  ],
+  "subClusters": []
+},
 };
