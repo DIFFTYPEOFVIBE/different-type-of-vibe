@@ -24240,4 +24240,440 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
     }
   ]
 },
+  "pr/guaynabo": {
+  "name": "Puerto Rico – Guaynabo & Metro Luxury (Estudios de Élite)",
+  "flag": "🇵🇷",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "ATH Móvil, Apple Pay, Google Pay, Cards",
+  "pro": "ASCAP & BMI",
+  "proFullName": "ASCAP & BMI Puerto Rico",
+  "proGuide": "100% legal ante ASCAP y BMI con contrato en PDF descargable.",
+  "headline": "Beats en Guaynabo: Producción de Élite, Pop Urbano & Trap Pulido",
+  "description": "El estándar de los estudios profesionales de Guaynabo: sintetizadores analógicos puros, compresión de clase mundial y mezclas impecables para artistas de calibre internacional.",
+  "popularGenres": [
+    "Pop Urbano de Lujo",
+    "Trap de Estudio",
+    "Commercial Reggaetón"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I distribute songs recorded with these beats to Spotify, Apple Music, and YouTube in Puerto Rico – Guaynabo & Metro Luxury (Estudios de Élite)?",
+      "answer": "Yes, 100%! All WAV and MP3 licenses from Different Type of Vibe include unlimited commercial streaming rights for Spotify, Apple Music, YouTube, Deezer, TikTok, and radio stations across Puerto Rico, the US, and worldwide. You retain 100% of your artist and performance royalties."
+    },
+    {
+      "question": "Are these beats 100% cleared and safe for ASCAP, BMI, and US Copyright registration?",
+      "answer": "Yes! Every single instrumental is an original composition produced by Onzieb without uncleared samples. You can safely register your release with ASCAP, BMI, and SESAC without any copyright claims or takedown risks."
+    },
+    {
+      "question": "What payment methods are supported in Puerto Rico?",
+      "answer": "In US Dollars (USD $), you can pay instantly via ATH Móvil, Apple Pay, Google Pay, all major US credit/debit cards (Visa, Mastercard, American Express, Discover), and PayPal."
+    },
+    {
+      "question": "When and how do I receive my untagged files and legal contract?",
+      "answer": "Immediately upon checkout, your untagged 24-bit studio WAV file, 320kbps MP3, and official countersigned PDF license agreement are delivered directly to your email address."
+    }
+  ]
+},
+  "pr/trujillo-alto": {
+  "name": "Puerto Rico – Trujillo Alto & Los Pueblos (Calle & Perreo)",
+  "flag": "🇵🇷",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "ATH Móvil, Apple Pay, Google Pay, Cards",
+  "pro": "ASCAP & BMI",
+  "proFullName": "ASCAP & BMI",
+  "proGuide": "Composiciones originales libres de reclamos de copyright.",
+  "headline": "Beats en Trujillo Alto: Perreo Callejero, Dembow Pesado & Trap 808",
+  "description": "La energía de los caseríos y urbanizaciones: cajas de dembow con golpe seco, bajos profundos y patrones dinámicos para rimas de calle y fiesta de marquesina.",
+  "popularGenres": [
+    "Perreo Callejero",
+    "Dembow Pesado",
+    "Trujillo Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I distribute songs recorded with these beats to Spotify, Apple Music, and YouTube in Puerto Rico – Trujillo Alto & Los Pueblos (Calle & Perreo)?",
+      "answer": "Yes, 100%! All WAV and MP3 licenses from Different Type of Vibe include unlimited commercial streaming rights for Spotify, Apple Music, YouTube, Deezer, TikTok, and radio stations across Puerto Rico, the US, and worldwide. You retain 100% of your artist and performance royalties."
+    },
+    {
+      "question": "Are these beats 100% cleared and safe for ASCAP, BMI, and US Copyright registration?",
+      "answer": "Yes! Every single instrumental is an original composition produced by Onzieb without uncleared samples. You can safely register your release with ASCAP, BMI, and SESAC without any copyright claims or takedown risks."
+    },
+    {
+      "question": "What payment methods are supported in Puerto Rico?",
+      "answer": "In US Dollars (USD $), you can pay instantly via ATH Móvil, Apple Pay, Google Pay, all major US credit/debit cards (Visa, Mastercard, American Express, Discover), and PayPal."
+    },
+    {
+      "question": "When and how do I receive my untagged files and legal contract?",
+      "answer": "Immediately upon checkout, your untagged 24-bit studio WAV file, 320kbps MP3, and official countersigned PDF license agreement are delivered directly to your email address."
+    }
+  ]
+},
+  "pr/aguadilla-porta-del-sol": {
+  "name": "Puerto Rico – Aguadilla & Crash Boat (Porta del Sol & Surf Urbano)",
+  "flag": "🇵🇷",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "ATH Móvil, Apple Pay, Google Pay, Cards",
+  "pro": "ASCAP & BMI",
+  "proFullName": "ASCAP & BMI",
+  "proGuide": "100% original con entrega de stems multitrack.",
+  "headline": "Beats en Aguadilla: Perreo Playero, Atardeceres Crash Boat & Chillhop",
+  "description": "La vibra inconfundible del oeste boricua: guitarras playeras con chorus, dembows relajados y bajos cálidos para música de playa y verano eterno.",
+  "popularGenres": [
+    "Beach Perreo",
+    "Surf Urbano",
+    "Porta del Sol Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I distribute songs recorded with these beats to Spotify, Apple Music, and YouTube in Puerto Rico – Aguadilla & Crash Boat (Porta del Sol & Surf Urbano)?",
+      "answer": "Yes, 100%! All WAV and MP3 licenses from Different Type of Vibe include unlimited commercial streaming rights for Spotify, Apple Music, YouTube, Deezer, TikTok, and radio stations across Puerto Rico, the US, and worldwide. You retain 100% of your artist and performance royalties."
+    },
+    {
+      "question": "Are these beats 100% cleared and safe for ASCAP, BMI, and US Copyright registration?",
+      "answer": "Yes! Every single instrumental is an original composition produced by Onzieb without uncleared samples. You can safely register your release with ASCAP, BMI, and SESAC without any copyright claims or takedown risks."
+    },
+    {
+      "question": "What payment methods are supported in Puerto Rico?",
+      "answer": "In US Dollars (USD $), you can pay instantly via ATH Móvil, Apple Pay, Google Pay, all major US credit/debit cards (Visa, Mastercard, American Express, Discover), and PayPal."
+    },
+    {
+      "question": "When and how do I receive my untagged files and legal contract?",
+      "answer": "Immediately upon checkout, your untagged 24-bit studio WAV file, 320kbps MP3, and official countersigned PDF license agreement are delivered directly to your email address."
+    }
+  ]
+},
+  "pr/humacao-costa-este": {
+  "name": "Puerto Rico – Humacao & Palmas del Mar (Costa Este Urbana)",
+  "flag": "🇵🇷",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "ATH Móvil, Apple Pay, Google Pay, Cards",
+  "pro": "ASCAP & BMI",
+  "proFullName": "ASCAP & BMI",
+  "proGuide": "100% listo para distribución comercial en plataformas digitales.",
+  "headline": "Beats en Humacao: Trap Costero, Palmas del Mar Vibe & Dembow Fino",
+  "description": "El sonido fresco de la costa este: sintetizadores espaciales, cajas cortantes y ritmos de reggaetón moderno para artistas del litoral oriental.",
+  "popularGenres": [
+    "Trap Costero",
+    "Palmas del Mar Sound",
+    "Reggaetón Moderno"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I distribute songs recorded with these beats to Spotify, Apple Music, and YouTube in Puerto Rico – Humacao & Palmas del Mar (Costa Este Urbana)?",
+      "answer": "Yes, 100%! All WAV and MP3 licenses from Different Type of Vibe include unlimited commercial streaming rights for Spotify, Apple Music, YouTube, Deezer, TikTok, and radio stations across Puerto Rico, the US, and worldwide. You retain 100% of your artist and performance royalties."
+    },
+    {
+      "question": "Are these beats 100% cleared and safe for ASCAP, BMI, and US Copyright registration?",
+      "answer": "Yes! Every single instrumental is an original composition produced by Onzieb without uncleared samples. You can safely register your release with ASCAP, BMI, and SESAC without any copyright claims or takedown risks."
+    },
+    {
+      "question": "What payment methods are supported in Puerto Rico?",
+      "answer": "In US Dollars (USD $), you can pay instantly via ATH Móvil, Apple Pay, Google Pay, all major US credit/debit cards (Visa, Mastercard, American Express, Discover), and PayPal."
+    },
+    {
+      "question": "When and how do I receive my untagged files and legal contract?",
+      "answer": "Immediately upon checkout, your untagged 24-bit studio WAV file, 320kbps MP3, and official countersigned PDF license agreement are delivered directly to your email address."
+    }
+  ]
+},
+  "pr/fajardo-islas": {
+  "name": "Puerto Rico – Fajardo & Las Cabezas (Caribe Náutico & Perreo)",
+  "flag": "🇵🇷",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "ATH Móvil, Apple Pay, Google Pay, Cards",
+  "pro": "ASCAP & BMI",
+  "proFullName": "ASCAP & BMI",
+  "proGuide": "Garantía de autoría 100% original por Onzieb.",
+  "headline": "Beats en Fajardo: Dembow Náutico, Fiesta en Bote & Trap Tropical",
+  "description": "La banda sonora de los botes en Icacos y Palomino: percusiones caribeñas enérgicas, melodías contagiosas y bajos que sacuden el agua.",
+  "popularGenres": [
+    "Dembow Náutico",
+    "Fiesta en Bote",
+    "Tropical Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I distribute songs recorded with these beats to Spotify, Apple Music, and YouTube in Puerto Rico – Fajardo & Las Cabezas (Caribe Náutico & Perreo)?",
+      "answer": "Yes, 100%! All WAV and MP3 licenses from Different Type of Vibe include unlimited commercial streaming rights for Spotify, Apple Music, YouTube, Deezer, TikTok, and radio stations across Puerto Rico, the US, and worldwide. You retain 100% of your artist and performance royalties."
+    },
+    {
+      "question": "Are these beats 100% cleared and safe for ASCAP, BMI, and US Copyright registration?",
+      "answer": "Yes! Every single instrumental is an original composition produced by Onzieb without uncleared samples. You can safely register your release with ASCAP, BMI, and SESAC without any copyright claims or takedown risks."
+    },
+    {
+      "question": "What payment methods are supported in Puerto Rico?",
+      "answer": "In US Dollars (USD $), you can pay instantly via ATH Móvil, Apple Pay, Google Pay, all major US credit/debit cards (Visa, Mastercard, American Express, Discover), and PayPal."
+    },
+    {
+      "question": "When and how do I receive my untagged files and legal contract?",
+      "answer": "Immediately upon checkout, your untagged 24-bit studio WAV file, 320kbps MP3, and official countersigned PDF license agreement are delivered directly to your email address."
+    }
+  ]
+},
+  "pr/cayey-montana": {
+  "name": "Puerto Rico – Cayey & La Sierra (Cuna de Wisin & Yandel)",
+  "flag": "🇵🇷",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "ATH Móvil, Apple Pay, Google Pay, Cards",
+  "pro": "ASCAP & BMI",
+  "proFullName": "ASCAP & BMI",
+  "proGuide": "100% compatible con ASCAP y BMI.",
+  "headline": "Beats en Cayey: Los Extraterrestres Vibe, Perreo de Montaña & Dembow Retro",
+  "description": "La cuna del dúo de la historia: dembows acelerados de la vieja escuela, sintetizadores de combate y energía implacable de reggaetón clásico.",
+  "popularGenres": [
+    "Extraterrestres Vibe",
+    "Perreo de Montaña",
+    "Dembow Retro"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Wisin & Yandel Vibe",
+      "slug": "../../vibe/wisin-yandel-los-extraterrestres-retro",
+      "description": "Dembow cybernético retro y energía de reggaetón clásico."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I distribute songs recorded with these beats to Spotify, Apple Music, and YouTube in Puerto Rico – Cayey & La Sierra (Cuna de Wisin & Yandel)?",
+      "answer": "Yes, 100%! All WAV and MP3 licenses from Different Type of Vibe include unlimited commercial streaming rights for Spotify, Apple Music, YouTube, Deezer, TikTok, and radio stations across Puerto Rico, the US, and worldwide. You retain 100% of your artist and performance royalties."
+    },
+    {
+      "question": "Are these beats 100% cleared and safe for ASCAP, BMI, and US Copyright registration?",
+      "answer": "Yes! Every single instrumental is an original composition produced by Onzieb without uncleared samples. You can safely register your release with ASCAP, BMI, and SESAC without any copyright claims or takedown risks."
+    },
+    {
+      "question": "What payment methods are supported in Puerto Rico?",
+      "answer": "In US Dollars (USD $), you can pay instantly via ATH Móvil, Apple Pay, Google Pay, all major US credit/debit cards (Visa, Mastercard, American Express, Discover), and PayPal."
+    },
+    {
+      "question": "When and how do I receive my untagged files and legal contract?",
+      "answer": "Immediately upon checkout, your untagged 24-bit studio WAV file, 320kbps MP3, and official countersigned PDF license agreement are delivered directly to your email address."
+    }
+  ]
+},
+  "pr/manati-costa-norte": {
+  "name": "Puerto Rico – Manatí & Atenas de Puerto Rico",
+  "flag": "🇵🇷",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "ATH Móvil, Apple Pay, Google Pay, Cards",
+  "pro": "ASCAP & BMI",
+  "proFullName": "ASCAP & BMI",
+  "proGuide": "Derechos comerciales completos para lanzamientos mundiales.",
+  "headline": "Beats en Manatí: Trap Norteño Boricua, Bajos 808 & Cajas Secas",
+  "description": "La tradición artística de la costa norte: melodías nostálgicas de piano, bajos que empujan y ritmos dinámicos para letras de superación.",
+  "popularGenres": [
+    "Manatí Trap",
+    "Boricua 808",
+    "Costa Norte Sound"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I distribute songs recorded with these beats to Spotify, Apple Music, and YouTube in Puerto Rico – Manatí & Atenas de Puerto Rico?",
+      "answer": "Yes, 100%! All WAV and MP3 licenses from Different Type of Vibe include unlimited commercial streaming rights for Spotify, Apple Music, YouTube, Deezer, TikTok, and radio stations across Puerto Rico, the US, and worldwide. You retain 100% of your artist and performance royalties."
+    },
+    {
+      "question": "Are these beats 100% cleared and safe for ASCAP, BMI, and US Copyright registration?",
+      "answer": "Yes! Every single instrumental is an original composition produced by Onzieb without uncleared samples. You can safely register your release with ASCAP, BMI, and SESAC without any copyright claims or takedown risks."
+    },
+    {
+      "question": "What payment methods are supported in Puerto Rico?",
+      "answer": "In US Dollars (USD $), you can pay instantly via ATH Móvil, Apple Pay, Google Pay, all major US credit/debit cards (Visa, Mastercard, American Express, Discover), and PayPal."
+    },
+    {
+      "question": "When and how do I receive my untagged files and legal contract?",
+      "answer": "Immediately upon checkout, your untagged 24-bit studio WAV file, 320kbps MP3, and official countersigned PDF license agreement are delivered directly to your email address."
+    }
+  ]
+},
+  "pr/dorado-costa-dorada": {
+  "name": "Puerto Rico – Dorado & Costa Dorada (Trap de Playa & Lujo)",
+  "flag": "🇵🇷",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "ATH Móvil, Apple Pay, Google Pay, Cards",
+  "pro": "ASCAP & BMI",
+  "proFullName": "ASCAP & BMI",
+  "proGuide": "100% original con entrega de stems.",
+  "headline": "Beats en Dorado: Trap de Playa Exclusivo, Pianos Cálidos & R&B Fino",
+  "description": "El sonido exclusivo de la Costa Dorada: acordes de piano Rhodes elegantes, sintetizadores suaves y baterías de trap ligeras para producciones de alta gama.",
+  "popularGenres": [
+    "Dorado Trap",
+    "R&B de Playa",
+    "Lujo Urbano"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I distribute songs recorded with these beats to Spotify, Apple Music, and YouTube in Puerto Rico – Dorado & Costa Dorada (Trap de Playa & Lujo)?",
+      "answer": "Yes, 100%! All WAV and MP3 licenses from Different Type of Vibe include unlimited commercial streaming rights for Spotify, Apple Music, YouTube, Deezer, TikTok, and radio stations across Puerto Rico, the US, and worldwide. You retain 100% of your artist and performance royalties."
+    },
+    {
+      "question": "Are these beats 100% cleared and safe for ASCAP, BMI, and US Copyright registration?",
+      "answer": "Yes! Every single instrumental is an original composition produced by Onzieb without uncleared samples. You can safely register your release with ASCAP, BMI, and SESAC without any copyright claims or takedown risks."
+    },
+    {
+      "question": "What payment methods are supported in Puerto Rico?",
+      "answer": "In US Dollars (USD $), you can pay instantly via ATH Móvil, Apple Pay, Google Pay, all major US credit/debit cards (Visa, Mastercard, American Express, Discover), and PayPal."
+    },
+    {
+      "question": "When and how do I receive my untagged files and legal contract?",
+      "answer": "Immediately upon checkout, your untagged 24-bit studio WAV file, 320kbps MP3, and official countersigned PDF license agreement are delivered directly to your email address."
+    }
+  ]
+},
+  "pr/isabela-costa-noroeste": {
+  "name": "Puerto Rico – Isabela & Costa Noroeste (Jardín del Noroeste)",
+  "flag": "🇵🇷",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "ATH Móvil, Apple Pay, Google Pay, Cards",
+  "pro": "ASCAP & BMI",
+  "proFullName": "ASCAP & BMI",
+  "proGuide": "100% legal ante ASCAP con entrega inmediata.",
+  "headline": "Beats en Isabela: Guitarras Acústicas de Surf, Perreo Relajado & Trap",
+  "description": "Donde las olas marcan el compás: rasgueos de guitarra acústica cristalina, percusión caribeña y dembow suave para temas de carretera y playa.",
+  "popularGenres": [
+    "Isabela Sound",
+    "Surf Trap",
+    "Perreo Relajado"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I distribute songs recorded with these beats to Spotify, Apple Music, and YouTube in Puerto Rico – Isabela & Costa Noroeste (Jardín del Noroeste)?",
+      "answer": "Yes, 100%! All WAV and MP3 licenses from Different Type of Vibe include unlimited commercial streaming rights for Spotify, Apple Music, YouTube, Deezer, TikTok, and radio stations across Puerto Rico, the US, and worldwide. You retain 100% of your artist and performance royalties."
+    },
+    {
+      "question": "Are these beats 100% cleared and safe for ASCAP, BMI, and US Copyright registration?",
+      "answer": "Yes! Every single instrumental is an original composition produced by Onzieb without uncleared samples. You can safely register your release with ASCAP, BMI, and SESAC without any copyright claims or takedown risks."
+    },
+    {
+      "question": "What payment methods are supported in Puerto Rico?",
+      "answer": "In US Dollars (USD $), you can pay instantly via ATH Móvil, Apple Pay, Google Pay, all major US credit/debit cards (Visa, Mastercard, American Express, Discover), and PayPal."
+    },
+    {
+      "question": "When and how do I receive my untagged files and legal contract?",
+      "answer": "Immediately upon checkout, your untagged 24-bit studio WAV file, 320kbps MP3, and official countersigned PDF license agreement are delivered directly to your email address."
+    }
+  ]
+},
+  "pr/san-german-oeste": {
+  "name": "Puerto Rico – San Germán & Las Lomas (Ciudad Fundadora)",
+  "flag": "🇵🇷",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "ATH Móvil, Apple Pay, Google Pay, Cards",
+  "pro": "ASCAP & BMI",
+  "proFullName": "ASCAP & BMI",
+  "proGuide": "100% libre de samples protegidos para monetizar en Spotify.",
+  "headline": "Beats en San Germán: Boom Bap Clásico del Oeste, Soul Loops & Hip-Hop",
+  "description": "La tradición histórica del oeste boricua: bucles de soul polvorientos, bombos con pegada analógica y cajas nítidas para MCs con mensaje y métrica.",
+  "popularGenres": [
+    "San Germán Hip Hop",
+    "Oeste Boom Bap",
+    "Soul Loops"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Can I distribute songs recorded with these beats to Spotify, Apple Music, and YouTube in Puerto Rico – San Germán & Las Lomas (Ciudad Fundadora)?",
+      "answer": "Yes, 100%! All WAV and MP3 licenses from Different Type of Vibe include unlimited commercial streaming rights for Spotify, Apple Music, YouTube, Deezer, TikTok, and radio stations across Puerto Rico, the US, and worldwide. You retain 100% of your artist and performance royalties."
+    },
+    {
+      "question": "Are these beats 100% cleared and safe for ASCAP, BMI, and US Copyright registration?",
+      "answer": "Yes! Every single instrumental is an original composition produced by Onzieb without uncleared samples. You can safely register your release with ASCAP, BMI, and SESAC without any copyright claims or takedown risks."
+    },
+    {
+      "question": "What payment methods are supported in Puerto Rico?",
+      "answer": "In US Dollars (USD $), you can pay instantly via ATH Móvil, Apple Pay, Google Pay, all major US credit/debit cards (Visa, Mastercard, American Express, Discover), and PayPal."
+    },
+    {
+      "question": "When and how do I receive my untagged files and legal contract?",
+      "answer": "Immediately upon checkout, your untagged 24-bit studio WAV file, 320kbps MP3, and official countersigned PDF license agreement are delivered directly to your email address."
+    }
+  ]
+},
 };
