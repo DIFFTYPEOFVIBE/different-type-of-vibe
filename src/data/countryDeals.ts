@@ -32257,4 +32257,486 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
     }
   ]
 },
+  "pa": {
+  "name": "Panamá – Cuna de la Plena, Reggae en Español & Trap 507",
+  "flag": "🇵🇦",
+  "currency": "USD ($) / PAB (B/.)",
+  "currencyCode": "USD",
+  "gateways": "Yappy (Banco General), Banco Nacional de Panamá, BAC Credomatic, Tarjetas de Débito/Crédito, Apple Pay, PayPal, Stripe",
+  "pro": "SPAC & DGDA (MICI)",
+  "proFullName": "Sociedad Panameña de Autores y Compositores (SPAC) & DGDA (MICI)",
+  "proGuide": "100% legal ante SPAC y la Dirección General de Derecho de Autor (MICI). Moneda oficial en Dólares (USD $) sin tasas de cambio ni pérdidas bancarias. Conservas el 100% de tus regalías en Spotify, Apple Music y YouTube.",
+  "headline": "Comprar Beats en Panamá: Dólares USD Nativos, Pago con Yappy, WAV 24-bit & Stems",
+  "description": "Instrumentales profesionales para artistas en Panamá: plena bailable, reggaetón melódico estilo Sech, dancehall pesado de Colón y trap 507. Descarga inmediata con contrato de licencia formal en PDF.",
+  "popularGenres": [
+    "Plena Panameña",
+    "Trap 507",
+    "Dancehall Colonense",
+    "Reggaetón Romántico"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Ciudad de Panamá Centro Hub",
+      "slug": "pa/ciudad-de-panama-centro",
+      "description": "El epicentro de estudios de élite y sonido Sech."
+    },
+    {
+      "name": "Colón Puerto Caribeño Hub",
+      "slug": "pa/colon-puerto-caribeno",
+      "description": "La cuna del dancehall y plena pesada de calle."
+    },
+    {
+      "name": "San Miguelito Hub",
+      "slug": "pa/san-miguelito-barrio",
+      "description": "Capital del trap 507 callejero y freestyle."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Panamá – Cuna de la Plena, Reggae en Español & Trap 507?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SPAC y la DGDA (MICI)?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Dirección General de Derecho de Autor del Ministerio de Comercio e Industrias (MICI) y afiliar tu tema a SPAC sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Panamá?",
+      "answer": "Al utilizar el Dólar Estadounidense (USD $) como moneda de curso legal, no sufres pérdidas por tipo de cambio. Puedes pagar instantáneamente a través de Yappy (mediante número celular o código QR desde la app de Banco General), transferencias bancarias locales (Banco General, Banco Nacional de Panamá, BAC Credomatic), tarjetas de débito/crédito, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "pa/ciudad-de-panama-centro": {
+  "name": "Panamá – Ciudad de Panamá (El Cangrejo, Bella Vista & San Francisco)",
+  "flag": "🇵🇦",
+  "currency": "USD ($) / PAB (B/.)",
+  "currencyCode": "USD",
+  "gateways": "Yappy, Banco General, BAC Credomatic, Tarjetas, Apple Pay, PayPal",
+  "pro": "SPAC & DGDA",
+  "proFullName": "SPAC & DGDA Panamá",
+  "proGuide": "100% compatible con SPAC con contrato formal en PDF.",
+  "headline": "Beats en Ciudad de Panamá: Reggaetón Melódico, Sonido Sech & R&B Urbano",
+  "description": "La producción musical más sofisticada de la capital: acordes emotivos de piano Rhodes, percusiones de dembow suaves y arreglos comerciales diseñados para sonar en radios globales.",
+  "popularGenres": [
+    "Reggaetón Melódico",
+    "Urban Pop 507",
+    "R&B Latino"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Sech Vibe",
+      "slug": "../../vibe/sech-el-bloke-melodic-rnb-reggaeton",
+      "description": "Pianos emotivos profundos y dembow romántico a 95 BPM."
+    },
+    {
+      "name": "Boza Vibe",
+      "slug": "../../vibe/boza-hechizo-melodic-caribbean-pop",
+      "description": "Pop urbano bailable caribeño con sintetizadores brillantes."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Panamá – Ciudad de Panamá (El Cangrejo, Bella Vista & San Francisco)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SPAC y la DGDA (MICI)?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Dirección General de Derecho de Autor del Ministerio de Comercio e Industrias (MICI) y afiliar tu tema a SPAC sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Panamá?",
+      "answer": "Al utilizar el Dólar Estadounidense (USD $) como moneda de curso legal, no sufres pérdidas por tipo de cambio. Puedes pagar instantáneamente a través de Yappy (mediante número celular o código QR desde la app de Banco General), transferencias bancarias locales (Banco General, Banco Nacional de Panamá, BAC Credomatic), tarjetas de débito/crédito, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "pa/colon-puerto-caribeno": {
+  "name": "Panamá – Colón (Costa Atlántica & Cuna del Dancehall Panameño)",
+  "flag": "🇵🇦",
+  "currency": "USD ($) / PAB (B/.)",
+  "currencyCode": "USD",
+  "gateways": "Yappy, Banco General, Banco Nacional, Tarjetas, Apple Pay, PayPal",
+  "pro": "SPAC & DGDA",
+  "proFullName": "SPAC & DGDA Panamá",
+  "proGuide": "100% libre de samples protegidos para distribución en plataformas.",
+  "headline": "Beats en Colón: Dancehall Pesado de Puerto, Plena Brava & Metales",
+  "description": "La raíz caribeña indiscutible de la música urbana panameña: cajas cortantes, metales estridentes de sintetizador y bajos profundos para rimas rudas de esquina y calle.",
+  "popularGenres": [
+    "Dancehall Colonense",
+    "Plena Brava",
+    "Street Reggae"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Kafu Banton Vibe",
+      "slug": "../../vibe/kafu-banton-reggae-roots-dancehall-colon",
+      "description": "Dancehall roots consciente con vientos y bajos rotundos."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Panamá – Colón (Costa Atlántica & Cuna del Dancehall Panameño)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SPAC y la DGDA (MICI)?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Dirección General de Derecho de Autor del Ministerio de Comercio e Industrias (MICI) y afiliar tu tema a SPAC sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Panamá?",
+      "answer": "Al utilizar el Dólar Estadounidense (USD $) como moneda de curso legal, no sufres pérdidas por tipo de cambio. Puedes pagar instantáneamente a través de Yappy (mediante número celular o código QR desde la app de Banco General), transferencias bancarias locales (Banco General, Banco Nacional de Panamá, BAC Credomatic), tarjetas de débito/crédito, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "pa/san-miguelito-barrio": {
+  "name": "Panamá – San Miguelito (Samaria & Capital del Trap 507)",
+  "flag": "🇵🇦",
+  "currency": "USD ($) / PAB (B/.)",
+  "currencyCode": "USD",
+  "gateways": "Yappy, Banco General, BAC Credomatic, Tarjetas, Apple Pay, PayPal",
+  "pro": "SPAC & DGDA",
+  "proFullName": "SPAC & DGDA Panamá",
+  "proGuide": "100% legal ante SPAC con entrega inmediata.",
+  "headline": "Beats en San Miguelito: Trap 507 Callejero, Bajos 808 & Freestyle",
+  "description": "El distrito más denso y combativo: baterías pesadas de trap moderno, deslizamientos de 808 continuos y campanas gélidas para barras de vivencia real de barrio.",
+  "popularGenres": [
+    "Trap 507",
+    "Freestyle Samaria",
+    "Street Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Yemil Vibe",
+      "slug": "../../vibe/yemil-el-maleante-caro-hardcore-trap",
+      "description": "Trap 507 callejero oscuro con bajos 808 arrolladores."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Panamá – San Miguelito (Samaria & Capital del Trap 507)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SPAC y la DGDA (MICI)?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Dirección General de Derecho de Autor del Ministerio de Comercio e Industrias (MICI) y afiliar tu tema a SPAC sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Panamá?",
+      "answer": "Al utilizar el Dólar Estadounidense (USD $) como moneda de curso legal, no sufres pérdidas por tipo de cambio. Puedes pagar instantáneamente a través de Yappy (mediante número celular o código QR desde la app de Banco General), transferencias bancarias locales (Banco General, Banco Nacional de Panamá, BAC Credomatic), tarjetas de débito/crédito, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "pa/el-chorrillo-calidonia": {
+  "name": "Panamá – El Chorrillo & Calidonia (Barrios Históricos de la Plena)",
+  "flag": "🇵🇦",
+  "currency": "USD ($) / PAB (B/.)",
+  "currencyCode": "USD",
+  "gateways": "Yappy, Banco General, Banco Nacional, Tarjetas, Apple Pay, PayPal",
+  "pro": "SPAC & DGDA",
+  "proFullName": "SPAC & DGDA Panamá",
+  "proGuide": "100% original con entrega de stems multitrack.",
+  "headline": "Beats en El Chorrillo: Plena Callejera Histórica, Cajas Secas & Viento",
+  "description": "La cuna de leyendas y resistencia popular: patrones de plena tradicional, trompetas caribeñas alegres y bombos contundentes que resuenan en los caseríos históricos.",
+  "popularGenres": [
+    "Plena Chorrillera",
+    "Reggae de Caserío",
+    "Classic 507"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "El General Vibe",
+      "slug": "../../vibe/el-general-reggae-espanol-pioneer",
+      "description": "El pionero del reggae en español con ritmo de fiesta bailable."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Panamá – El Chorrillo & Calidonia (Barrios Históricos de la Plena)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SPAC y la DGDA (MICI)?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Dirección General de Derecho de Autor del Ministerio de Comercio e Industrias (MICI) y afiliar tu tema a SPAC sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Panamá?",
+      "answer": "Al utilizar el Dólar Estadounidense (USD $) como moneda de curso legal, no sufres pérdidas por tipo de cambio. Puedes pagar instantáneamente a través de Yappy (mediante número celular o código QR desde la app de Banco General), transferencias bancarias locales (Banco General, Banco Nacional de Panamá, BAC Credomatic), tarjetas de débito/crédito, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "pa/david-chiriqui": {
+  "name": "Panamá – David & Chiriquí (Capital del Valle de la Luna & Frontera)",
+  "flag": "🇵🇦",
+  "currency": "USD ($) / PAB (B/.)",
+  "currencyCode": "USD",
+  "gateways": "Yappy, Banco General, BAC Credomatic, Tarjetas, Apple Pay, PayPal",
+  "pro": "SPAC & DGDA",
+  "proFullName": "SPAC & DGDA Panamá",
+  "proGuide": "100% garantizado para streaming y eventos.",
+  "headline": "Beats en David: Flow Chiricano, Pop-Trap Melódico & Frontera Oeste",
+  "description": "La potencia agrícola y juvenil del occidente panameño: guitarras acústicas frescas, ritmos sincopados de trap y bajos envolventes para una escena musical en constante ascenso.",
+  "popularGenres": [
+    "Chiriquí Trap",
+    "Pop Urbano Occidental",
+    "Melodic Beat"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Panamá – David & Chiriquí (Capital del Valle de la Luna & Frontera)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SPAC y la DGDA (MICI)?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Dirección General de Derecho de Autor del Ministerio de Comercio e Industrias (MICI) y afiliar tu tema a SPAC sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Panamá?",
+      "answer": "Al utilizar el Dólar Estadounidense (USD $) como moneda de curso legal, no sufres pérdidas por tipo de cambio. Puedes pagar instantáneamente a través de Yappy (mediante número celular o código QR desde la app de Banco General), transferencias bancarias locales (Banco General, Banco Nacional de Panamá, BAC Credomatic), tarjetas de débito/crédito, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "pa/la-chorrera-panama-oeste": {
+  "name": "Panamá – La Chorrera & Arraiján (Panamá Oeste & Car Audio)",
+  "flag": "🇵🇦",
+  "currency": "USD ($) / PAB (B/.)",
+  "currencyCode": "USD",
+  "gateways": "Yappy, Banco General, Banco Nacional, Tarjetas, Apple Pay, PayPal",
+  "pro": "SPAC & DGDA",
+  "proFullName": "SPAC & DGDA Panamá",
+  "proGuide": "Composiciones originales libres de reclamos.",
+  "headline": "Beats en La Chorrera: Plena Pesada de Car Audio, Bajos que Retumban & Fiesta",
+  "description": "El sonido pensado para sonar en los 'chivas parrandera' y autos modificados de Panamá Oeste: sub-bajos explosivos y baterías de plena que sacuden la autopista.",
+  "popularGenres": [
+    "Car Audio Plena",
+    "Chorrera Dancehall",
+    "Oeste Bass"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Panamá – La Chorrera & Arraiján (Panamá Oeste & Car Audio)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SPAC y la DGDA (MICI)?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Dirección General de Derecho de Autor del Ministerio de Comercio e Industrias (MICI) y afiliar tu tema a SPAC sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Panamá?",
+      "answer": "Al utilizar el Dólar Estadounidense (USD $) como moneda de curso legal, no sufres pérdidas por tipo de cambio. Puedes pagar instantáneamente a través de Yappy (mediante número celular o código QR desde la app de Banco General), transferencias bancarias locales (Banco General, Banco Nacional de Panamá, BAC Credomatic), tarjetas de débito/crédito, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "pa/bocas-del-toro-caribe": {
+  "name": "Panamá – Bocas del Toro (Archipiélago Caribeño & Raíz Afroantillana)",
+  "flag": "🇵🇦",
+  "currency": "USD ($) / PAB (B/.)",
+  "currencyCode": "USD",
+  "gateways": "Yappy, Banco General, Banco Nacional, Tarjetas, Apple Pay, PayPal",
+  "pro": "SPAC & DGDA",
+  "proFullName": "SPAC & DGDA Panamá",
+  "proGuide": "100% legal ante SPAC con entrega inmediata.",
+  "headline": "Beats en Bocas del Toro: Reggae Calypso Isleño, Brisa Caribeña & Dub",
+  "description": "La vibra turística e histórica de las islas: guitarras con compás caribeño, percusiones de calypso afroantillano y líneas de bajo redondas para canciones playeras y relajadas.",
+  "popularGenres": [
+    "Bocas Reggae",
+    "Calypso-Trap",
+    "Island Vibe"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Panamá – Bocas del Toro (Archipiélago Caribeño & Raíz Afroantillana)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SPAC y la DGDA (MICI)?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Dirección General de Derecho de Autor del Ministerio de Comercio e Industrias (MICI) y afiliar tu tema a SPAC sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Panamá?",
+      "answer": "Al utilizar el Dólar Estadounidense (USD $) como moneda de curso legal, no sufres pérdidas por tipo de cambio. Puedes pagar instantáneamente a través de Yappy (mediante número celular o código QR desde la app de Banco General), transferencias bancarias locales (Banco General, Banco Nacional de Panamá, BAC Credomatic), tarjetas de débito/crédito, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "pa/chitre-herrera": {
+  "name": "Panamá – Chitré & Herrera (Corazón de Azuero & Fusión Mejorana)",
+  "flag": "🇵🇦",
+  "currency": "USD ($) / PAB (B/.)",
+  "currencyCode": "USD",
+  "gateways": "Yappy, Banco General, Banco Nacional, Tarjetas, Apple Pay, PayPal",
+  "pro": "SPAC & DGDA",
+  "proFullName": "SPAC & DGDA Panamá",
+  "proGuide": "Instrumentos típicos panameños libres de derechos.",
+  "headline": "Beats en Chitré: Mejorana Típica Panameña, Acordeón & Trap Moderno",
+  "description": "El folclore del interior llevado al género urbano: rasgueos de mejorana de cinco cuerdas, acordes de música típica y caídas de bajo 808 para un sonido auténticamente panameño.",
+  "popularGenres": [
+    "Mejorana Trap",
+    "Azuero Urban",
+    "Folclore 507"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Mejorana Trap Vibe",
+      "slug": "../../vibe/mejorana-folclore-panameno-trap",
+      "description": "Mejorana tradicional panameña con acordeón y 808."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Panamá – Chitré & Herrera (Corazón de Azuero & Fusión Mejorana)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SPAC y la DGDA (MICI)?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Dirección General de Derecho de Autor del Ministerio de Comercio e Industrias (MICI) y afiliar tu tema a SPAC sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Panamá?",
+      "answer": "Al utilizar el Dólar Estadounidense (USD $) como moneda de curso legal, no sufres pérdidas por tipo de cambio. Puedes pagar instantáneamente a través de Yappy (mediante número celular o código QR desde la app de Banco General), transferencias bancarias locales (Banco General, Banco Nacional de Panamá, BAC Credomatic), tarjetas de débito/crédito, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "pa/santiago-veraguas": {
+  "name": "Panamá – Santiago de Veraguas (Cruce de Provincias & Juventud Urbana)",
+  "flag": "🇵🇦",
+  "currency": "USD ($) / PAB (B/.)",
+  "currencyCode": "USD",
+  "gateways": "Yappy, Banco General, BAC Credomatic, Tarjetas, Apple Pay, PayPal",
+  "pro": "SPAC & DGDA",
+  "proFullName": "SPAC & DGDA Panamá",
+  "proGuide": "100% original y listo para monetizar en Spotify.",
+  "headline": "Beats en Santiago: Cruce Central de Provincias, Plena de Fiesta & Trap",
+  "description": "El punto de encuentro universitario del centro del país: percusiones bailables de plena festiva, sintetizadores modernos y caídas de bajo enérgicas para encender tarimas.",
+  "popularGenres": [
+    "Santiago Plena",
+    "Veraguas Trap",
+    "Central Beat"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Panamá – Santiago de Veraguas (Cruce de Provincias & Juventud Urbana)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SPAC y la DGDA (MICI)?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Dirección General de Derecho de Autor del Ministerio de Comercio e Industrias (MICI) y afiliar tu tema a SPAC sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en Panamá?",
+      "answer": "Al utilizar el Dólar Estadounidense (USD $) como moneda de curso legal, no sufres pérdidas por tipo de cambio. Puedes pagar instantáneamente a través de Yappy (mediante número celular o código QR desde la app de Banco General), transferencias bancarias locales (Banco General, Banco Nacional de Panamá, BAC Credomatic), tarjetas de débito/crédito, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
 };
