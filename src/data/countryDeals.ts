@@ -35058,4 +35058,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "hn/puerto-cortes-caribe-norte": {
+  "slug": "hn/puerto-cortes-caribe-norte",
+  "name": "Honduras – Puerto Cortés (El Gran Puerto Caribeño & Dancehall)",
+  "flag": "🇭🇳",
+  "currency": "HNL (L) / USD ($)",
+  "currencyCode": "HNL",
+  "gateways": "Tigo Money, Tengo, Banco Atlántida, Ficohsa, Tarjetas, Apple Pay, PayPal",
+  "pro": "AACIMH & DIGEPIH",
+  "proFullName": "AACIMH",
+  "proGuide": "100% legal ante AACIMH con contrato en PDF descargable.",
+  "headline": "Beats en Puerto Cortés: Dancehall de Muelle, Brisa Caribeña & Bass 504",
+  "description": "La energía portuaria y caribeña del principal puerto de Centroamérica: baterías de dancehall aceleradas, metales cortantes y bajos sub profundos para canciones playeras y callejeras.",
+  "popularGenres": [
+    "Puerto Cortés Dancehall",
+    "Naval Street Beat",
+    "Caribbean Bounce 504"
+  ],
+  "subClusters": []
+},
+  "hn/siguatepeque-altiplano": {
+  "slug": "hn/siguatepeque-altiplano",
+  "name": "Honduras – Siguatepeque (Ciudad de los Pinares & Lofi de Montaña)",
+  "flag": "🇭🇳",
+  "currency": "HNL (L) / USD ($)",
+  "currencyCode": "HNL",
+  "gateways": "Tigo Money, Tengo, Banco Atlántida, Ficohsa, Tarjetas, Apple Pay, PayPal",
+  "pro": "AACIMH",
+  "proFullName": "AACIMH",
+  "proGuide": "100% original con entrega de stems multitrack.",
+  "headline": "Beats en Siguatepeque: Ciudad de los Pinares, Pianos Cálidos & Chillhop",
+  "description": "El clima fresco del altiplano central hondureño: acordes de piano bajo la lluvia, arpegios acústicos suaves y baterías lofi relajantes para escribir y reflexionar.",
+  "popularGenres": [
+    "Siguatepeque Lofi",
+    "Pinares Chillhop",
+    "Central Mountain Beat"
+  ],
+  "subClusters": []
+},
+  "hn/catacamas-olancho": {
+  "slug": "hn/catacamas-olancho",
+  "name": "Honduras – Catacamas & Olancho (Pampa Oriental & Corrido-Trap 504)",
+  "flag": "🇭🇳",
+  "currency": "HNL (L) / USD ($)",
+  "currencyCode": "HNL",
+  "gateways": "Tigo Money, Tengo, Banco Atlántida, Tarjetas, Apple Pay, PayPal",
+  "pro": "AACIMH",
+  "proFullName": "AACIMH",
+  "proGuide": "100% libre de reclamos de derechos de autor.",
+  "headline": "Beats en Catacamas: La Fuerza de Olancho, Requintos Bélicos & Trap",
+  "description": "La bravura y el orgullo de las llanuras olanchanas: requintos virtuosos de guitarra de doce cuerdas, bajos de tuba sintetizada y caídas de 808 para historias reales de rancho y calle.",
+  "popularGenres": [
+    "Olancho Corrido Trap",
+    "Catacamas Street Beat",
+    "Requinto 504"
+  ],
+  "subClusters": []
+},
+  "hn/juticalpa-pampa-olancho": {
+  "slug": "hn/juticalpa-pampa-olancho",
+  "name": "Honduras – Juticalpa (Capital Olanchana & Trap Pesado de Cuenca)",
+  "flag": "🇭🇳",
+  "currency": "HNL (L) / USD ($)",
+  "currencyCode": "HNL",
+  "gateways": "Tigo Money, Tengo, Banco Atlántida, Tarjetas, Apple Pay, PayPal",
+  "pro": "AACIMH",
+  "proFullName": "AACIMH",
+  "proGuide": "100% compatible con agregadoras digitales.",
+  "headline": "Beats en Juticalpa: Orgullo Olanchano, Campanas Oscuras & Sub-Bajo 808",
+  "description": "El nervio del departamento más grande de Honduras: baterías de trap pesado con ataque frontal, melodías nocturnas y líneas de bajo imponentes para el rap catracho con carácter.",
+  "popularGenres": [
+    "Juticalpa Heavy Trap",
+    "Pampa Olanchana Rap",
+    "Frontier 504"
+  ],
+  "subClusters": []
+},
+  "hn/tocoa-valle-del-aguan": {
+  "slug": "hn/tocoa-valle-del-aguan",
+  "name": "Honduras – Tocoa & Colón (Valle del Aguán & Dembow Caliente)",
+  "flag": "🇭🇳",
+  "currency": "HNL (L) / USD ($)",
+  "currencyCode": "HNL",
+  "gateways": "Tigo Money, Tengo, Banco Atlántida, Tarjetas, Apple Pay, PayPal",
+  "pro": "AACIMH",
+  "proFullName": "AACIMH",
+  "proGuide": "Garantía comercial de uso ilimitado en streaming.",
+  "headline": "Beats en Tocoa: Fervor del Aguán, Dembow Enérgico & Ritmo Tropical",
+  "description": "La vitalidad del productivo valle de Colón: cajas secas que golpean fuerte, teclados tropicales brillantes y percusiones sincopadas para prender eventos en todo el litoral.",
+  "popularGenres": [
+    "Tocoa Dembow",
+    "Valle del Aguán Urban",
+    "Colón Party Beat"
+  ],
+  "subClusters": []
+},
+  "hn/tela-bahia-caribena": {
+  "slug": "hn/tela-bahia-caribena",
+  "name": "Honduras – Tela (Playas de Triunfo & Punta-Reggae Playero)",
+  "flag": "🇭🇳",
+  "currency": "HNL (L) / USD ($)",
+  "currencyCode": "HNL",
+  "gateways": "Tigo Money, Tengo, Banco Atlántida, Tarjetas, Apple Pay, PayPal",
+  "pro": "AACIMH",
+  "proFullName": "AACIMH",
+  "proGuide": "100% original con entrega de stems.",
+  "headline": "Beats en Tela: Playas de Tela, Tambores de Triunfo & Reggae Veraniego",
+  "description": "La serenidad y la belleza de la bahía caribeña: tambores tradicionales de Triunfo de la Cruz y Tornabé, guitarras caribeñas y ritmos relajados para música de verano y viaje.",
+  "popularGenres": [
+    "Tela Beach Reggae",
+    "Triunfo de la Cruz Beat",
+    "Caribbean Punta Suave"
+  ],
+  "subClusters": []
+},
+  "hn/santa-rosa-de-copan": {
+  "slug": "hn/santa-rosa-de-copan",
+  "name": "Honduras – Santa Rosa de Copán (Sultana de Occidente & Rap Cafetalero)",
+  "flag": "🇭🇳",
+  "currency": "HNL (L) / USD ($)",
+  "currencyCode": "HNL",
+  "gateways": "Tigo Money, Tengo, Banco Atlántida, Ficohsa, Tarjetas, Apple Pay, PayPal",
+  "pro": "AACIMH",
+  "proFullName": "AACIMH",
+  "proGuide": "Licencias comerciales legales con PDF descargable.",
+  "headline": "Beats en Santa Rosa de Copán: Aroma de Café, Calles Empedradas & Boom Bap",
+  "description": "La capital colonial y cafetalera del occidente hondureño: melodías de marimba de cedro, pianos melancólicos y baterías con swing holgado para barras poéticas de reflexión.",
+  "popularGenres": [
+    "Santa Rosa Boom Bap",
+    "Occidente Lyrical",
+    "Coffee Mountain Beat"
+  ],
+  "subClusters": []
+},
+  "hn/santa-barbara-occidente": {
+  "slug": "hn/santa-barbara-occidente",
+  "name": "Honduras – Santa Bárbara (Tierra de los Junco-Patepluma & Trap Melódico)",
+  "flag": "🇭🇳",
+  "currency": "HNL (L) / USD ($)",
+  "currencyCode": "HNL",
+  "gateways": "Tigo Money, Tengo, Banco Atlántida, Tarjetas, Apple Pay, PayPal",
+  "pro": "AACIMH",
+  "proFullName": "AACIMH",
+  "proGuide": "100% libre de reclamos de Content ID.",
+  "headline": "Beats en Santa Bárbara: Tradición Patepluma, Guitarras Nobles & Trap Suave",
+  "description": "La cuna del tejido tradicional y de las colinas occidentales: arpegios dulces de guitarra, sintetizadores suaves y ritmos urbanos contemporáneos para vocalistas melódicos.",
+  "popularGenres": [
+    "Santa Bárbara Melodic Trap",
+    "Patepluma Beat",
+    "Western Folk Flow"
+  ],
+  "subClusters": []
+},
+  "hn/choloma-maquila-metro": {
+  "slug": "hn/choloma-maquila-metro",
+  "name": "Honduras – Choloma (Fuerza Obrera del Valle de Sula & Street Trap)",
+  "flag": "🇭🇳",
+  "currency": "HNL (L) / USD ($)",
+  "currencyCode": "HNL",
+  "gateways": "Tigo Money, Tengo, Banco Atlántida, Ficohsa, Tarjetas, Apple Pay, PayPal",
+  "pro": "AACIMH",
+  "proFullName": "AACIMH",
+  "proGuide": "100% original con entrega de stems multitrack.",
+  "headline": "Beats en Choloma: Densidad Obrera, Sirenas Industriales & 808s de Barrio",
+  "description": "La realidad urbana y el pulso obrero de Choloma: caídas de bajo 808 ensordecedoras, baterías apretadas de trap moderno y attitud de superación para el rap de barrio.",
+  "popularGenres": [
+    "Choloma Street Trap",
+    "Maquila Drill",
+    "Valle de Sula Raw"
+  ],
+  "subClusters": []
+},
+  "hn/san-lorenzo-golfo-fonseca": {
+  "slug": "hn/san-lorenzo-golfo-fonseca",
+  "name": "Honduras – San Lorenzo (Puerto del Pacífico & Dembow de Manglar)",
+  "flag": "🇭🇳",
+  "currency": "HNL (L) / USD ($)",
+  "currencyCode": "HNL",
+  "gateways": "Tigo Money, Tengo, Banco Atlántida, Tarjetas, Apple Pay, PayPal",
+  "pro": "AACIMH",
+  "proFullName": "AACIMH",
+  "proGuide": "Licencias con derechos mundiales de monetización.",
+  "headline": "Beats en San Lorenzo: El Golfo de Fonseca, Mariscos & Dembow Suave",
+  "description": "El puerto sureño y la tranquilidad de los manglares del Golfo de Fonseca: baterías sincopadas de reggaetón suave, sintetizadores cálidos y bajos redondos para música de atardecer.",
+  "popularGenres": [
+    "San Lorenzo Dembow",
+    "Golfo de Fonseca Beat",
+    "South Coast Urban"
+  ],
+  "subClusters": []
+},
 };
