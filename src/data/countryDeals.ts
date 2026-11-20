@@ -38778,4 +38778,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "hu/budapest-fovaros": {
+  "slug": "hu/budapest-fovaros",
+  "name": "Magyarország – Budapest (Főváros: Pest, Buda, VII-VIII. Kerület & Trap Központ)",
+  "flag": "🇭🇺",
+  "currency": "HUF (Ft) / EUR (€)",
+  "currencyCode": "HUF",
+  "gateways": "SimplePay (OTP), Revolut Pay, K&H, Erste, Bankkártyák, Apple Pay, PayPal, Stripe",
+  "pro": "Artisjus",
+  "proFullName": "Artisjus (Magyar Szerzői Jogvédő Iroda)",
+  "proGuide": "100% megfelel az Artisjus előírásainak, letölthető felhasználási szerződéssel.",
+  "headline": "Beatek Budapesten: Magyar Trap, Józsefvárosi Drill és Tömör 808 Basszusok",
+  "description": "A hazai hip-hop vitathatatlan fővárosa: csúszó 808 sub-basszusok, sötét szintetizátorok és pengeéles dobok a pesti és budai előadók számára.",
+  "popularGenres": [
+    "Magyar Trap",
+    "Budapest Drill",
+    "Underground Boom Bap"
+  ],
+  "subClusters": []
+},
+  "hu/debrecen-hajdu-bihar": {
+  "slug": "hu/debrecen-hajdu-bihar",
+  "name": "Magyarország – Debrecen (Cívisváros: Alföldi Központ & Melodikus Trap)",
+  "flag": "🇭🇺",
+  "currency": "HUF (Ft) / EUR (€)",
+  "currencyCode": "HUF",
+  "gateways": "SimplePay (OTP), Revolut Pay, K&H, Erste, Bankkártyák, Apple Pay, PayPal, Stripe",
+  "pro": "Artisjus",
+  "proFullName": "Artisjus (Magyar Szerzői Jogvédő Iroda)",
+  "proGuide": "Stúdióminőségű WAV 24-bit sávonkénti letöltés komerciális licenccel.",
+  "headline": "Beatek Debrecenben: Cívisvárosi Vibe, R&B-Trap és Modern Hangzás",
+  "description": "A Tiszántúl pezsgő egyetemi és kulturális központja: ragyogó zongoraakkordok, fülbemászó gitárdallamok és dinamikus dobok az új generációs debreceni MC-knek.",
+  "popularGenres": [
+    "Debrecen Melodic Trap",
+    "Alföld R&B Beat",
+    "Cívis New Wave"
+  ],
+  "subClusters": []
+},
+  "hu/szeged-csongrad-tisza": {
+  "slug": "hu/szeged-csongrad-tisza",
+  "name": "Magyarország – Szeged (Napfény Városa: Tisza-parti Vibe & Akusztikus Trap)",
+  "flag": "🇭🇺",
+  "currency": "HUF (Ft) / EUR (€)",
+  "currencyCode": "HUF",
+  "gateways": "SimplePay (OTP), Revolut Pay, K&H, Erste, Bankkártyák, Apple Pay, PayPal, Stripe",
+  "pro": "Artisjus",
+  "proFullName": "Artisjus (Magyar Szerzői Jogvédő Iroda)",
+  "proGuide": "100% jogtiszta zenék sávonkénti stemekkel stúdióutómunkához.",
+  "headline": "Beatek Szegeden: Tisza-parti Napfény, Akusztikus Gitárok és Görbe Utcák",
+  "description": "A napfény és a dél-alföldi fiatalság hangulata: meleg gitárdallamok, laza Dembow és trap ritmusok a szegedi kreatív zenei közösségnek.",
+  "popularGenres": [
+    "Szeged Acoustic Trap",
+    "Tisza Chill Beat",
+    "Napfény R&B"
+  ],
+  "subClusters": []
+},
+  "hu/miskolc-borsod-acel": {
+  "slug": "hu/miskolc-borsod-acel",
+  "name": "Magyarország – Miskolc & Borsod (Acélváros: Nyers Ipari Valóság & Sötét Drill)",
+  "flag": "🇭🇺",
+  "currency": "HUF (Ft) / EUR (€)",
+  "currencyCode": "HUF",
+  "gateways": "SimplePay (OTP), Revolut Pay, K&H, Erste, Bankkártyák, Apple Pay, PayPal, Stripe",
+  "pro": "Artisjus",
+  "proFullName": "Artisjus (Magyar Szerzői Jogvédő Iroda)",
+  "proGuide": "Teljes körű nemzetközi monetizációs jogok Spotify-ra és YouTube-ra.",
+  "headline": "Beatek Miskolcon: Acélvárosi Erő, Borsodi Nyers Valóság és Zúzó 808",
+  "description": "Borsod nehézipari és szókimondó energiája: sötét templomi harangok, torzított 808 lecsengések és kíméletlen dobok az észak-magyarországi utcák rapjéhez.",
+  "popularGenres": [
+    "Miskolc Industrial Drill",
+    "Borsod Real Rap",
+    "Heavy 808 Trap"
+  ],
+  "subClusters": []
+},
+  "hu/pecs-baranya-mecsek": {
+  "slug": "hu/pecs-baranya-mecsek",
+  "name": "Magyarország – Pécs (Mecsek Alja: Zsolnay Kultúra & Tudatos Boom Bap)",
+  "flag": "🇭🇺",
+  "currency": "HUF (Ft) / EUR (€)",
+  "currencyCode": "HUF",
+  "gateways": "SimplePay (OTP), Revolut Pay, K&H, Erste, Bankkártyák, Apple Pay, PayPal, Stripe",
+  "pro": "Artisjus",
+  "proFullName": "Artisjus (Magyar Szerzői Jogvédő Iroda)",
+  "proGuide": "Azonnali SimplePay és Revolut Pay fizetés forintban azonnali letöltéssel.",
+  "headline": "Beatek Pécsett: Mecseki Hangulat, Jazzes Rhodes és Érett Lirika",
+  "description": "A baranyai mediterrán művészváros intellektuális atmoszférája: analóg bakelitserkegés, meleg Rhodes zongora és laza boom bap groove a gondolatébresztő szövegekhez.",
+  "popularGenres": [
+    "Pécs Conscious Boom Bap",
+    "Mecsek Lofi Beat",
+    "Baranya Jazz Rap"
+  ],
+  "subClusters": []
+},
+  "hu/gyor-kisalfold-ipar": {
+  "slug": "hu/gyor-kisalfold-ipar",
+  "name": "Magyarország – Győr (Kisalföld Központ: Ipari Fejlődés & Elektronikus Trap)",
+  "flag": "🇭🇺",
+  "currency": "HUF (Ft) / EUR (€)",
+  "currencyCode": "HUF",
+  "gateways": "SimplePay (OTP), Revolut Pay, K&H, Erste, Bankkártyák, Apple Pay, PayPal, Stripe",
+  "pro": "Artisjus",
+  "proFullName": "Artisjus (Magyar Szerzői Jogvédő Iroda)",
+  "proGuide": "100% jogdíjmentes zenei alapok rejtett költségek nélkül.",
+  "headline": "Beatek Győrben: Kisalföldi Erő, Feszes Tempó és Modern Szintik",
+  "description": "Az északnyugati ipari metropolisz lendülete: agresszív szintetizátorok, feszes lábdobok és energikus trap ritmusok a győri klubokba és klipekbe.",
+  "popularGenres": [
+    "Győr Synth Trap",
+    "Kisalföld Club Banger",
+    "Modern Electro Trap"
+  ],
+  "subClusters": []
+},
+  "hu/szekesfehervar-fejer": {
+  "slug": "hu/szekesfehervar-fejer",
+  "name": "Magyarország – Székesfehérvár (Királyi Múlt: Fejér Megye & Diák Cypherek)",
+  "flag": "🇭🇺",
+  "currency": "HUF (Ft) / EUR (€)",
+  "currencyCode": "HUF",
+  "gateways": "SimplePay (OTP), Revolut Pay, K&H, Erste, Bankkártyák, Apple Pay, PayPal, Stripe",
+  "pro": "Artisjus",
+  "proFullName": "Artisjus (Magyar Szerzői Jogvédő Iroda)",
+  "proGuide": "Közvetlen letöltés WAV és MP3 formátumban hivatalos számlával.",
+  "headline": "Beatek Székesfehérváron: Királyi Történelem, Feszes Pergők és Trap",
+  "description": "A történelmi koronázóváros és a modern ifjúsági szcéna találkozása: pattogós ritmusok, telt basszusok és tiszta dallamok a helyi hip-hop közösségnek.",
+  "popularGenres": [
+    "Fehérvár Street Rap",
+    "Királyi Trap Beat",
+    "Diák Cypher"
+  ],
+  "subClusters": []
+},
+  "hu/kecskemet-alfold-puszta": {
+  "slug": "hu/kecskemet-alfold-puszta",
+  "name": "Magyarország – Kecskemét (Hírös Város: Kodály Örökség & Dallamos Trap)",
+  "flag": "🇭🇺",
+  "currency": "HUF (Ft) / EUR (€)",
+  "currencyCode": "HUF",
+  "gateways": "SimplePay (OTP), Revolut Pay, K&H, Erste, Bankkártyák, Apple Pay, PayPal, Stripe",
+  "pro": "Artisjus",
+  "proFullName": "Artisjus (Magyar Szerzői Jogvédő Iroda)",
+  "proGuide": "Artisjus regisztrációs űrlap letölthető zenei bejelentéshez.",
+  "headline": "Beatek Kecskeméten: Hírös Város, Kodály Zenei Hagyomány és Új Trap",
+  "description": "A zenei nevelés és a pusztai hagyományok bölcsője: finom zongorafutamok, népzenei áthallások és modern 808-as mélyek az alföldi dalokhoz.",
+  "popularGenres": [
+    "Kecskemét Melodic Beat",
+    "Hírös Trap Flow",
+    "Puszta Hip-Hop"
+  ],
+  "subClusters": []
+},
+  "hu/nyiregyhaza-szabolcs": {
+  "slug": "hu/nyiregyhaza-szabolcs",
+  "name": "Magyarország – Nyíregyháza (Szabolcs Szíve: Keleti Határvidék & Trap)",
+  "flag": "🇭🇺",
+  "currency": "HUF (Ft) / EUR (€)",
+  "currencyCode": "HUF",
+  "gateways": "SimplePay (OTP), Revolut Pay, K&H, Erste, Bankkártyák, Apple Pay, PayPal, Stripe",
+  "pro": "Artisjus",
+  "proFullName": "Artisjus (Magyar Szerzői Jogvédő Iroda)",
+  "proGuide": "Dedikált támogatás keleti stúdióknak és előadóknak.",
+  "headline": "Beatek Nyíregyházán: Keleti Lendület, Kemény Ritmika és Utcai Flow",
+  "description": "A szabolcsi vidék közvetlen és nyers ereje: feszes lábdobok, éles pergők és sötét melódiák az őszinte utcai raphez és traphez.",
+  "popularGenres": [
+    "Nyíregyháza Street Trap",
+    "Szabolcsi Rap Beat",
+    "Keleti 808"
+  ],
+  "subClusters": []
+},
+  "hu/veszprem-balaton-eszak": {
+  "slug": "hu/veszprem-balaton-eszak",
+  "name": "Magyarország – Veszprém & Balaton (Királynék Városa & Északi Part Chill)",
+  "flag": "🇭🇺",
+  "currency": "HUF (Ft) / EUR (€)",
+  "currencyCode": "HUF",
+  "gateways": "SimplePay (OTP), Revolut Pay, K&H, Erste, Bankkártyák, Apple Pay, PayPal, Stripe",
+  "pro": "Artisjus",
+  "proFullName": "Artisjus (Magyar Szerzői Jogvédő Iroda)",
+  "proGuide": "Letölthető átruházási szerződés teljes jogbiztonsággal.",
+  "headline": "Beatek Veszprémben: Balatoni Nyár, Várhegyi Vibe és Naplemente Lofi",
+  "description": "A Balaton-felvidék és Veszprém művészeti kisugárzása: lágy akusztikus gitárok, nyugtató lofi ütemek és nyári trap alapok a vízparti klipekhez.",
+  "popularGenres": [
+    "Balaton Sunset Chillhop",
+    "Veszprém Indie Rap",
+    "Északi Part Lofi"
+  ],
+  "subClusters": []
+},
 };
