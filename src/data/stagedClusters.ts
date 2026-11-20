@@ -62372,4 +62372,1446 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "2"
   ]
 },
+  {
+  "slug": "waldokinc-el-troglodita-trap-guayaco",
+  "name": "Waldokinc El Troglodita Trap Guayaco",
+  "category": "vibe",
+  "badge": "El Troglodita Trap Guayaco",
+  "headline": "Beats Estilo Waldokinc: Trap Callejero de Guayaquil, 808s Demoledores & Actitud",
+  "description": "El pionero del trap callejero del puerto principal: bajos 808 profundos con distorsión controlada, campanas oscuras y cajas secas para barras crudas de vivencia de barrio.",
+  "targetArtists": [
+    "Waldokinc El Troglodita",
+    "Trap Guayaco",
+    "Guayaquil Under",
+    "Calle 7"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Trap Guayaco",
+    "808 Demoledor",
+    "Campanas Oscuras",
+    "Actitud Callejera"
+  ],
+  "popularGenres": [
+    "Trap Ecuatoriano",
+    "Street Trap",
+    "Drill Latino"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "tres-dedos-pop-urbano-guayaquil",
+  "name": "Tres Dedos Pop Urbano Guayaquil",
+  "category": "vibe",
+  "badge": "Tres Dedos Pop Urbano",
+  "headline": "Beats Estilo Tres Dedos: Pop-Reggaetón Romántico, Guitarras Límpidas & Coros",
+  "description": "La fórmula del pop urbano radial ecuatoriano: rasgueos de guitarra acústica brillante, percusiones de dembow suaves y arreglos melódicos diseñados para conquistar plataformas.",
+  "targetArtists": [
+    "Tres Dedos",
+    "Por Tu Culpa",
+    "Huerfanito",
+    "Viña del Mar Ecuador"
+  ],
+  "recommendedBpm": "95-105 BPM",
+  "recommendedKey": "G-Major / C-Major",
+  "vibeAttributes": [
+    "Guitarras Límpidas",
+    "Pop-Reggaetón",
+    "Coros Radiales",
+    "Romántico"
+  ],
+  "popularGenres": [
+    "Pop Urbano",
+    "Reggaetón Ecuatoriano",
+    "Latin Pop"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "guanaco-mc-pionero-hiphop-andino",
+  "name": "Guanaco MC Pionero Hiphop Andino",
+  "category": "vibe",
+  "badge": "Guanaco MC Leyenda",
+  "headline": "Beats Estilo Guanaco MC: Boom Bap Andino de Peso, Samples de Soul & Mensaje",
+  "description": "La leyenda fundacional del rap nacional: bombos pesados analógicos de MPC, bucles de soul y vientos de la cordillera para líricas con contenido social y orgullo patrio.",
+  "targetArtists": [
+    "Guanaco MC",
+    "Pesados Vivos",
+    "Blasfemia",
+    "Hip Hop Ecuador"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Boom Bap Andino",
+    "MPC Groove",
+    "Lírica Social",
+    "Orgullo Patrio"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico",
+    "Rap Ecuatoriano",
+    "Conscious Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "marimba-esmeraldena-afro-trap-fusion",
+  "name": "Marimba Esmeraldeña Afro Trap Fusion",
+  "category": "vibe",
+  "badge": "Marimba Afroecuatoriana",
+  "headline": "Beats de Marimba Esmeraldeña: Maderas de Chonta, Cununos, Bombo & Bajo 808",
+  "description": "El patrimonio cultural inmaterial de la humanidad en el género urbano: notas percusivas de marimba tradicional esmeraldeña, tambor cununo y el golpe moderno del trap.",
+  "targetArtists": [
+    "Música de Esmeraldas",
+    "Papá Roncón Legacy",
+    "Afroecuatoriano Urban"
+  ],
+  "recommendedBpm": "120-130 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Marimba de Chonta",
+    "Tambor Cununo",
+    "Afroecuatoriano",
+    "Sub-Bajo 808"
+  ],
+  "popularGenres": [
+    "Afro-Trap",
+    "Folk Fusion",
+    "Música Ecuatoriana"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "jhonny-lexx-trap-callejero-ecuador",
+  "name": "Jhonny Lexx Trap Callejero Ecuador",
+  "category": "vibe",
+  "badge": "Jhonny Lexx Street Trap",
+  "headline": "Beats Estilo Jhonny Lexx: Trap Oscuro con Bajos Deslizantes & Flow Agresivo",
+  "description": "El nuevo estándar del trap ecuatoriano: sintetizadores fríos con chorus, patrones rápidos de hi-hat y bajos 808 con glide continuo para rimas de fronteo y superación.",
+  "targetArtists": [
+    "Jhonny Lexx",
+    "Trap Ecuatoriano",
+    "Street Sound",
+    "Guayaquil"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Sintes Fríos",
+    "808 con Glide",
+    "Fronteo Callejero",
+    "Trap Moderno"
+  ],
+  "popularGenres": [
+    "Trap Ecuatoriano",
+    "Street Trap",
+    "Drill Latino"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "micho-rap-callejero-quiteño",
+  "name": "Micho Rap Callejero Quiteño",
+  "category": "vibe",
+  "badge": "Rap Callejero Quiteño",
+  "headline": "Beats Estilo Quiteño Under: Pianos Menores de Altura, Cajas Secas & Verdad",
+  "description": "La realidad de las laderas y calles de Quito: acordes solemnes de piano, baterías analógicas con golpe seco y espacio acústico amplio para rimas reflexivas de calle.",
+  "targetArtists": [
+    "Rap Quiteño",
+    "Underground Quito",
+    "La Cancha",
+    "Hip Hop Andino"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "Piano de Altura",
+    "Caja Seca",
+    "Rap Quiteño",
+    "Realidad de Calle"
+  ],
+  "popularGenres": [
+    "Rap Ecuatoriano",
+    "Boom Bap Callejero",
+    "Underground"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "maykel-bachata-pop-urban-ecuador",
+  "name": "Maykel Bachata Pop Urban Ecuador",
+  "category": "vibe",
+  "badge": "Maykel Bachata Urbana",
+  "headline": "Beats Estilo Maykel: Bachata Urbana Romántica, Requinto Fino & Dembow Suave",
+  "description": "La dulzura de la bachata pop ecuatoriana: punteos de requinto melódicos con chorus, percusiones de bongo caribeño y caídas modernas de trap y reggaetón.",
+  "targetArtists": [
+    "Maykel",
+    "A Prueba de Todo",
+    "Guapa",
+    "Bachata Urbana Ecuador"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Requinto Fino",
+    "Bachata Urbana",
+    "Dembow Suave",
+    "Romántico"
+  ],
+  "popularGenres": [
+    "Bachata Urbana",
+    "Pop Latino",
+    "Tropical Urban"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "requinto-pasillo-ecuatoriano-trap",
+  "name": "Requinto Pasillo Ecuatoriano Trap",
+  "category": "vibe",
+  "badge": "Pasillo-Trap Requinto",
+  "headline": "Beats de Pasillo Ecuatoriano Fusión: Punteo Virtuoso de Requinto & Bajo 808",
+  "description": "El homenaje al género nacional ecuatoriano: arpegios virtuosos de requinto con sentimiento desgarrador, guitarras de pasillo y caídas modernas de trap 808.",
+  "targetArtists": [
+    "Julio Jaramillo Legacy",
+    "Pasillo Urbano",
+    "Música Ecuatoriana"
+  ],
+  "recommendedBpm": "120-130 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Punteo de Requinto",
+    "Pasillo Nacional",
+    "Sentimiento Andino",
+    "Sub-Bajo 808"
+  ],
+  "popularGenres": [
+    "Andean Trap",
+    "Folk Fusion",
+    "Música Nacional"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "neoma-indie-dream-pop-trap-cuenca",
+  "name": "Neoma Indie Dream Pop Trap Cuenca",
+  "category": "vibe",
+  "badge": "Neoma Dream Pop-Trap",
+  "headline": "Beats Estilo Neoma: Sintetizadores Etéreos Flotantes, Voces de Ensueño & Trap",
+  "description": "La atmósfera indie de Cuenca que brilla en el exterior: pads reverberados flotantes, texturas electrónicas suaves y baterías ligeras para vocalistas de pop alternativo.",
+  "targetArtists": [
+    "Neoma",
+    "Real",
+    "Indie Cuencano",
+    "Dream Pop"
+  ],
+  "recommendedBpm": "110-120 BPM",
+  "recommendedKey": "F-Major / D-Minor",
+  "vibeAttributes": [
+    "Sintes Etéreos",
+    "Dream Pop-Trap",
+    "Voz de Ensueño",
+    "Texturas Suaves"
+  ],
+  "popularGenres": [
+    "Dream Pop",
+    "Indie Trap",
+    "Alternative Urban"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "chullita-quiteno-classic-boombap",
+  "name": "Chullita Quiteño Classic Boombap",
+  "category": "vibe",
+  "badge": "Chullita Quiteño Boombap",
+  "headline": "Beats Estilo Chullita Quiteño: Metales de Banda de Pueblo, MPC & Identidad",
+  "description": "El orgullo y la picardía tradicional quiteña: muestras de trompetas y clarinetes de bandas de pueblo andinas fusionadas con el golpe clásico de boom bap de los 90.",
+  "targetArtists": [
+    "Fiestas de Quito",
+    "Rap Tradicional",
+    "Identidad Quiteña",
+    "Música Andina"
+  ],
+  "recommendedBpm": "90-96 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Banda de Pueblo",
+    "Orgullo Quiteño",
+    "Boom Bap Clásico",
+    "Trompetas Andinas"
+  ],
+  "popularGenres": [
+    "Folk Boom Bap",
+    "Rap Quiteño",
+    "Música Andina"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "alex-ponce-melodic-pop-trap-cuenca",
+  "name": "Alex Ponce Melodic Pop Trap Cuenca",
+  "category": "vibe",
+  "badge": "Alex Ponce Melodic Pop",
+  "headline": "Beats Estilo Alex Ponce: Guitarras Acústicas de Desamor, Trap Pop & Ganchos",
+  "description": "El fenómeno ecuatoriano viral en Spotify: acordes melancólicos de guitarra acústica, percusiones de pop-trap modernas y espacios para estribillos coreables.",
+  "targetArtists": [
+    "Alex Ponce",
+    "Plan",
+    "Descomplicados",
+    "Pop Ecuatoriano",
+    "Warner"
+  ],
+  "recommendedBpm": "115-125 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Guitarras de Desamor",
+    "Pop-Trap Melódico",
+    "Estribillos Virales",
+    "Sentimiento"
+  ],
+  "popularGenres": [
+    "Pop-Trap",
+    "Melodic Urban",
+    "Acoustic Pop"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "ecuador-drill-140-bpm-calle-guayaca",
+  "name": "Ecuador Drill 140 BPM Calle Guayaca",
+  "category": "vibe",
+  "badge": "Ecuador Drill 140 BPM",
+  "headline": "Beats de Drill Ecuatoriano: 140 BPM, Bajos 808 Deslizantes & Calle Pura",
+  "description": "La furia urbana de las calles porteñas: patrones sincopados de caja a 140 BPM, deslizamientos agresivos de sub-bajo continuo y campanas oscuras para rimas de impacto.",
+  "targetArtists": [
+    "Drillers Ecuatorianos",
+    "Guayaquil Drill",
+    "Street Sound"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "C-Minor / C-Sharp Minor",
+  "vibeAttributes": [
+    "140 BPM Drill",
+    "808 Slide Agresivo",
+    "Calle Guayaca",
+    "Sincopado"
+  ],
+  "popularGenres": [
+    "Ecuador Drill",
+    "UK Drill Latino",
+    "Street Rap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "comprar-beats-en-ecuador-dolares-deuna",
+  "name": "Comprar Beats en Ecuador en Dólares USD con Deuna! y Banco Pichincha",
+  "category": "genre",
+  "badge": "Paga con Deuna! & USD",
+  "headline": "Comprar Beats en Ecuador: Paga Directo con Deuna! o Transferencia en Dólares ($)",
+  "description": "Sin comisiones internacionales ni pérdidas por tipo de cambio. Paga fácilmente en Dólares Estadounidenses (USD $) desde tu app de Banco Pichincha con Deuna! y descarga tus archivos WAV 24-bit de inmediato.",
+  "targetArtists": [
+    "Raperos de Ecuador",
+    "Traperos de Guayaquil",
+    "Artistas Independientes"
+  ],
+  "recommendedBpm": "Todos los Tempos",
+  "recommendedKey": "Todas las Tonalidades",
+  "vibeAttributes": [
+    "Precio en Dólares USD",
+    "Deuna! Inmediato",
+    "Sin Conversión",
+    "Descarga WAV"
+  ],
+  "popularGenres": [
+    "Trap Ecuatoriano",
+    "Rap Quiteño",
+    "Pop Urbano"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "bases-de-trap-guayaco-con-bajos-808-wav",
+  "name": "Bases de Trap Guayaco con Bajos 808 Pesados y Stems Multitrack",
+  "category": "genre",
+  "badge": "Trap Guayaco 808",
+  "headline": "Bases de Trap Guayaco: Bajos 808 Deslizantes y Pistas Separadas en WAV",
+  "description": "El sonido exacto de las calles de Guayaquil: frecuencias graves contundentes que retumban en los parlantes y canales multitrack separados para mezclar la voz con precisión en estudio.",
+  "targetArtists": [
+    "Traperos de Guayaquil",
+    "Home Studios",
+    "Productores Urbanos"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Bajos 808 Pesados",
+    "Stems Multitrack",
+    "WAV de Estudio",
+    "Mix Limpio"
+  ],
+  "popularGenres": [
+    "Trap Ecuatoriano",
+    "Street Trap",
+    "Drill Latino"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "pistas-de-reggaeton-ecuatoriano-sin-voz-tag",
+  "name": "Pistas de Reggaetón Ecuatoriano Sin Voz de Fondo en Calidad WAV 24-Bit",
+  "category": "genre",
+  "badge": "Reggaetón Untagged",
+  "headline": "Pistas de Reggaetón Ecuatoriano Sin Voz: Descarga Limpia Lista para Grabar",
+  "description": "Instrumentales comerciales de reggaetón y pop urbano sin molestas etiquetas vocales promocionales. Archivos en alta definición para grabar voces cristalinas en estudio.",
+  "targetArtists": [
+    "Cantantes Urbanos",
+    "Dúos de Reggaetón",
+    "Estudios de Grabación"
+  ],
+  "recommendedBpm": "95-105 BPM",
+  "recommendedKey": "Todas las Tonalidades",
+  "vibeAttributes": [
+    "Sin Voz de Fondo",
+    "Calidad WAV 24-bit",
+    "Dembow Bailable",
+    "Descarga Inmediata"
+  ],
+  "popularGenres": [
+    "Reggaetón Ecuatoriano",
+    "Pop Urbano",
+    "Latin Urban"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "beats-de-rap-quiteno-underground-boombap",
+  "name": "Beats de Rap Quiteño Underground con Baterías Pesadas de MPC",
+  "category": "genre",
+  "badge": "Rap Quiteño Underground",
+  "headline": "Beats de Rap Quiteño: Pianos Menores Clásicos y Cajas Secas Analógicas",
+  "description": "El homenaje a la escuela subterránea de la capital: loops de piano con sentimiento andino, bombos analógicos pesados y cajas con golpe seco para rimas con contenido.",
+  "targetArtists": [
+    "Raperos de Quito",
+    "MCs Conscientes",
+    "Puristas del Hip Hop"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "Batería Pesada MPC",
+    "Pianos Menores",
+    "Rap Consciente",
+    "Quiteño Under"
+  ],
+  "popularGenres": [
+    "Boom Bap Andino",
+    "Rap Ecuatoriano",
+    "Conscious Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "combo-de-beats-2x1-ecuador-dolares-usd",
+  "name": "Combo de Beats 2x1 Promoción Ecuador en Dólares USD (Deuna! / Tarjetas)",
+  "category": "genre",
+  "badge": "Promoción 2x1 Ecuador",
+  "headline": "Promoción de Beats en Ecuador: Compra 2 Beats y Llévate 1 Gratis en USD ($)",
+  "description": "Produce tu EP o mixtape completa ahorrando. Descuento aplicado automáticamente en el carrito al añadir tus pistas y pagar con Deuna!, transferencia bancaria o tarjeta.",
+  "targetArtists": [
+    "Artistas de Mixtape",
+    "Nuevos Talentos",
+    "Lanzamientos de EP"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Compra 2 Lleva 3",
+    "Descuento en Dólares",
+    "WAV de Estudio",
+    "Ahorro Directo"
+  ],
+  "popularGenres": [
+    "Trap Ecuatoriano",
+    "Rap Quiteño",
+    "Reggaetón"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6"
+  ]
+},
+  {
+  "slug": "instrumentales-de-pasillo-y-guitarra-trap",
+  "name": "Instrumentales de Pasillo Ecuatoriano y Requinto Acústico con Trap",
+  "category": "genre",
+  "badge": "Pasillo-Trap Requinto",
+  "headline": "Beats de Pasillo Trap: Requintos Acústicos Sentidos y Caídas Modernas de 808",
+  "description": "La unión entre el folclore nacional y la música urbana contemporánea. Arpegios virtuosos de requinto con chorus y líneas de bajo envolventes para letras de despecho.",
+  "targetArtists": [
+    "Músicos de Fusión",
+    "Artistas de Pasillo",
+    "Raperos Andinos"
+  ],
+  "recommendedBpm": "120-130 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Requinto Virtuoso",
+    "Pasillo Nacional",
+    "Bajo 808",
+    "WAV de Estudio"
+  ],
+  "popularGenres": [
+    "Andean Trap",
+    "Folk Fusion",
+    "Música Ecuatoriana"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "beats-de-drill-ecuatoriano-140-bpm-untagged",
+  "name": "Beats de Drill Ecuatoriano a 140 BPM Sin Etiquetas de Voz (WAV)",
+  "category": "genre",
+  "badge": "140 BPM Drill Ecuatoriano",
+  "headline": "Beats de Drill Ecuatoriano a 140 BPM: Cajas Sincopadas y Bajos que Deslizan",
+  "description": "La corriente más agresiva y enérgica del hip-hop latino. Patrones de batería sincopados y líneas de bajo 808 deslizantes sin ninguna etiqueta vocal molesta.",
+  "targetArtists": [
+    "Drillers de Ecuador",
+    "Rappers de Calle",
+    "Freestylers"
+  ],
+  "recommendedBpm": "138-144 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "140 BPM Drill",
+    "808 Slide",
+    "Batería Sincopada",
+    "Untagged WAV"
+  ],
+  "popularGenres": [
+    "Ecuador Drill",
+    "UK Drill Latino",
+    "Street Rap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "licencia-comercial-de-beats-sayce-spotify",
+  "name": "Licencia Comercial de Beats para Registrar en SAYCE y Publicar en Spotify",
+  "category": "genre",
+  "badge": "SAYCE & Spotify Ready",
+  "headline": "Licencias de Beats Comerciales en Ecuador: 100% Seguras para Registro en SAYCE",
+  "description": "Lanza tu música en plataformas de streaming a través de DistroKid, TuneCore u ONErpm con contrato formal en PDF y total tranquilidad legal ante SENADI y SAYCE.",
+  "targetArtists": [
+    "Artistas Profesionales",
+    "Sellos Independientes",
+    "Managers"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Contrato en PDF",
+    "SAYCE Safe",
+    "WAV 24-bit",
+    "Monetización Completa"
+  ],
+  "popularGenres": [
+    "Trap Ecuatoriano",
+    "Rap Quiteño",
+    "Pop Urbano"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "produccion-de-beats-exclusivos-guayaquil-quito",
+  "name": "Producción de Beats Exclusivos en Ecuador Directa con Productor Onzieb",
+  "category": "genre",
+  "badge": "Producción Exclusiva Ecuador",
+  "headline": "Producción de Beats Exclusivos en Ecuador: Trabaja Mano a Mano con Onzieb",
+  "description": "Construye una instrumental única pensada exactamente para tu tono y registro vocal. Comunicación directa, asesoría técnica profesional y transferencia total de derechos de máster.",
+  "targetArtists": [
+    "Artistas Exclusivos",
+    "Proyectos de Álbum",
+    "Compositores"
+  ],
+  "recommendedBpm": "BPM a Medida",
+  "recommendedKey": "Tono a Medida",
+  "vibeAttributes": [
+    "Exclusividad Total",
+    "Retiro de Tienda",
+    "Contacto Directo",
+    "Sonido Propio"
+  ],
+  "popularGenres": [
+    "Trap Ecuatoriano",
+    "Rap Quiteño",
+    "Pop Urbano"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "descargar-3-beats-gratis-ecuador-test-voz",
+  "name": "Descargar Paquete de 3 Bases Gratis de Trap y Rap para Probar Voz",
+  "category": "genre",
+  "badge": "Paquete Gratis Ecuador",
+  "headline": "Descarga Gratis 3 Pistas de Rap y Trap en Ecuador: Prueba tu Flow en Casa",
+  "description": "Descarga instantánea de 3 instrumentales en MP3 de 320kbps para escribir letras, probar tu voz en el micrófono y familiarizarte con el sonido antes de comprar tu licencia definitiva.",
+  "targetArtists": [
+    "Raperos Nuevos",
+    "Home Studios",
+    "Compositores"
+  ],
+  "recommendedBpm": "90, 125, 132 BPM",
+  "recommendedKey": "C-Minor, D-Minor",
+  "vibeAttributes": [
+    "Descarga Gratis",
+    "3 Pistas Incluidas",
+    "Prueba de Voz",
+    "Envío al Correo"
+  ],
+  "popularGenres": [
+    "Trap Ecuatoriano",
+    "Rap Quiteño",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "5"
+  ]
+},
+  {
+  "slug": "guayaquil-trap-costeno-beats",
+  "name": "Guayaquil Trap Costeño Beats",
+  "category": "scene",
+  "badge": "Guayaquil Trap Costeño",
+  "headline": "Guayaquil (Puerto Principal & Costa) Trap Costeño Beats: Pistas WAV & Pago Deuna! USD",
+  "description": "Bajos 808 demoledores, hi-hats rápidos y calidad WAV 24-bit de estudio con Deuna! en Dólares ($) para artistas de Guayaquil.",
+  "targetArtists": [
+    "Artistas de Guayaquil",
+    "Hip-Hop Ecuador Scene",
+    "Música Urbana Ecuador"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Guayaquil",
+    "Trap Costeño",
+    "Deuna! & USD",
+    "Aprobado SAYCE"
+  ],
+  "popularGenres": [
+    "Trap Costeño Beats",
+    "Trap Costeño",
+    "Rap Quiteño"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "guayaquil-boombap-andino-classic",
+  "name": "Guayaquil Boom Bap Andino Classic",
+  "category": "scene",
+  "badge": "Guayaquil Boom Bap Andino",
+  "headline": "Guayaquil (Puerto Principal & Costa) Boom Bap Andino Classic: Pistas WAV & Pago Deuna! USD",
+  "description": "Baterías analógicas pesadas de los 90, samples de soul y filosofía de calle inspirada en Guayaquil.",
+  "targetArtists": [
+    "Artistas de Guayaquil",
+    "Hip-Hop Ecuador Scene",
+    "Música Urbana Ecuador"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Guayaquil",
+    "Boom Bap Andino",
+    "Deuna! & USD",
+    "Aprobado SAYCE"
+  ],
+  "popularGenres": [
+    "Boom Bap Andino Classic",
+    "Trap Costeño",
+    "Rap Quiteño"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "guayaquil-marimba-afro-trap-fusion",
+  "name": "Guayaquil Marimba Afro-Trap Fusión",
+  "category": "scene",
+  "badge": "Guayaquil Marimba Afro-Trap",
+  "headline": "Guayaquil (Puerto Principal & Costa) Marimba Afro-Trap Fusión: Pistas WAV & Pago Deuna! USD",
+  "description": "Maderas de marimba esmeraldeña, tambor cununo y bajos 808 para creadores de Guayaquil.",
+  "targetArtists": [
+    "Artistas de Guayaquil",
+    "Hip-Hop Ecuador Scene",
+    "Música Urbana Ecuador"
+  ],
+  "recommendedBpm": "120-130 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Guayaquil",
+    "Marimba Afro-Trap",
+    "Deuna! & USD",
+    "Aprobado SAYCE"
+  ],
+  "popularGenres": [
+    "Marimba Afro-Trap Fusión",
+    "Trap Costeño",
+    "Rap Quiteño"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "guayaquil-melodic-rnb-trap",
+  "name": "Guayaquil Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Guayaquil Melodic R&B",
+  "headline": "Guayaquil (Puerto Principal & Costa) Melodic R&B Trap: Pistas WAV & Pago Deuna! USD",
+  "description": "Pianos suaves, guitarras acústicas y baterías de trap cálidas para vocalistas de Guayaquil.",
+  "targetArtists": [
+    "Artistas de Guayaquil",
+    "Hip-Hop Ecuador Scene",
+    "Música Urbana Ecuador"
+  ],
+  "recommendedBpm": "95-108 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Guayaquil",
+    "Melodic R&B",
+    "Deuna! & USD",
+    "Aprobado SAYCE"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "Trap Costeño",
+    "Rap Quiteño"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "quito-trap-costeno-beats",
+  "name": "Quito Trap Costeño Beats",
+  "category": "scene",
+  "badge": "Quito Trap Costeño",
+  "headline": "Quito (Capital Andina & Mitad del Mundo) Trap Costeño Beats: Pistas WAV & Pago Deuna! USD",
+  "description": "Bajos 808 demoledores, hi-hats rápidos y calidad WAV 24-bit de estudio con Deuna! en Dólares ($) para artistas de Quito.",
+  "targetArtists": [
+    "Artistas de Quito",
+    "Hip-Hop Ecuador Scene",
+    "Música Urbana Ecuador"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Quito",
+    "Trap Costeño",
+    "Deuna! & USD",
+    "Aprobado SAYCE"
+  ],
+  "popularGenres": [
+    "Trap Costeño Beats",
+    "Trap Costeño",
+    "Rap Quiteño"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "quito-boombap-andino-classic",
+  "name": "Quito Boom Bap Andino Classic",
+  "category": "scene",
+  "badge": "Quito Boom Bap Andino",
+  "headline": "Quito (Capital Andina & Mitad del Mundo) Boom Bap Andino Classic: Pistas WAV & Pago Deuna! USD",
+  "description": "Baterías analógicas pesadas de los 90, samples de soul y filosofía de calle inspirada en Quito.",
+  "targetArtists": [
+    "Artistas de Quito",
+    "Hip-Hop Ecuador Scene",
+    "Música Urbana Ecuador"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Quito",
+    "Boom Bap Andino",
+    "Deuna! & USD",
+    "Aprobado SAYCE"
+  ],
+  "popularGenres": [
+    "Boom Bap Andino Classic",
+    "Trap Costeño",
+    "Rap Quiteño"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "quito-marimba-afro-trap-fusion",
+  "name": "Quito Marimba Afro-Trap Fusión",
+  "category": "scene",
+  "badge": "Quito Marimba Afro-Trap",
+  "headline": "Quito (Capital Andina & Mitad del Mundo) Marimba Afro-Trap Fusión: Pistas WAV & Pago Deuna! USD",
+  "description": "Maderas de marimba esmeraldeña, tambor cununo y bajos 808 para creadores de Quito.",
+  "targetArtists": [
+    "Artistas de Quito",
+    "Hip-Hop Ecuador Scene",
+    "Música Urbana Ecuador"
+  ],
+  "recommendedBpm": "120-130 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Quito",
+    "Marimba Afro-Trap",
+    "Deuna! & USD",
+    "Aprobado SAYCE"
+  ],
+  "popularGenres": [
+    "Marimba Afro-Trap Fusión",
+    "Trap Costeño",
+    "Rap Quiteño"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "quito-melodic-rnb-trap",
+  "name": "Quito Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Quito Melodic R&B",
+  "headline": "Quito (Capital Andina & Mitad del Mundo) Melodic R&B Trap: Pistas WAV & Pago Deuna! USD",
+  "description": "Pianos suaves, guitarras acústicas y baterías de trap cálidas para vocalistas de Quito.",
+  "targetArtists": [
+    "Artistas de Quito",
+    "Hip-Hop Ecuador Scene",
+    "Música Urbana Ecuador"
+  ],
+  "recommendedBpm": "95-108 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Quito",
+    "Melodic R&B",
+    "Deuna! & USD",
+    "Aprobado SAYCE"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "Trap Costeño",
+    "Rap Quiteño"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "cuenca-trap-costeno-beats",
+  "name": "Cuenca Trap Costeño Beats",
+  "category": "scene",
+  "badge": "Cuenca Trap Costeño",
+  "headline": "Cuenca (Atenas del Ecuador & Azuay) Trap Costeño Beats: Pistas WAV & Pago Deuna! USD",
+  "description": "Bajos 808 demoledores, hi-hats rápidos y calidad WAV 24-bit de estudio con Deuna! en Dólares ($) para artistas de Cuenca.",
+  "targetArtists": [
+    "Artistas de Cuenca",
+    "Hip-Hop Ecuador Scene",
+    "Música Urbana Ecuador"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Cuenca",
+    "Trap Costeño",
+    "Deuna! & USD",
+    "Aprobado SAYCE"
+  ],
+  "popularGenres": [
+    "Trap Costeño Beats",
+    "Trap Costeño",
+    "Rap Quiteño"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "cuenca-boombap-andino-classic",
+  "name": "Cuenca Boom Bap Andino Classic",
+  "category": "scene",
+  "badge": "Cuenca Boom Bap Andino",
+  "headline": "Cuenca (Atenas del Ecuador & Azuay) Boom Bap Andino Classic: Pistas WAV & Pago Deuna! USD",
+  "description": "Baterías analógicas pesadas de los 90, samples de soul y filosofía de calle inspirada en Cuenca.",
+  "targetArtists": [
+    "Artistas de Cuenca",
+    "Hip-Hop Ecuador Scene",
+    "Música Urbana Ecuador"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Cuenca",
+    "Boom Bap Andino",
+    "Deuna! & USD",
+    "Aprobado SAYCE"
+  ],
+  "popularGenres": [
+    "Boom Bap Andino Classic",
+    "Trap Costeño",
+    "Rap Quiteño"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "cuenca-marimba-afro-trap-fusion",
+  "name": "Cuenca Marimba Afro-Trap Fusión",
+  "category": "scene",
+  "badge": "Cuenca Marimba Afro-Trap",
+  "headline": "Cuenca (Atenas del Ecuador & Azuay) Marimba Afro-Trap Fusión: Pistas WAV & Pago Deuna! USD",
+  "description": "Maderas de marimba esmeraldeña, tambor cununo y bajos 808 para creadores de Cuenca.",
+  "targetArtists": [
+    "Artistas de Cuenca",
+    "Hip-Hop Ecuador Scene",
+    "Música Urbana Ecuador"
+  ],
+  "recommendedBpm": "120-130 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Cuenca",
+    "Marimba Afro-Trap",
+    "Deuna! & USD",
+    "Aprobado SAYCE"
+  ],
+  "popularGenres": [
+    "Marimba Afro-Trap Fusión",
+    "Trap Costeño",
+    "Rap Quiteño"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "cuenca-melodic-rnb-trap",
+  "name": "Cuenca Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Cuenca Melodic R&B",
+  "headline": "Cuenca (Atenas del Ecuador & Azuay) Melodic R&B Trap: Pistas WAV & Pago Deuna! USD",
+  "description": "Pianos suaves, guitarras acústicas y baterías de trap cálidas para vocalistas de Cuenca.",
+  "targetArtists": [
+    "Artistas de Cuenca",
+    "Hip-Hop Ecuador Scene",
+    "Música Urbana Ecuador"
+  ],
+  "recommendedBpm": "95-108 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Cuenca",
+    "Melodic R&B",
+    "Deuna! & USD",
+    "Aprobado SAYCE"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "Trap Costeño",
+    "Rap Quiteño"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "manta-trap-costeno-beats",
+  "name": "Manta Trap Costeño Beats",
+  "category": "scene",
+  "badge": "Manta Trap Costeño",
+  "headline": "Manta (Manabí & Costa Pacífica) Trap Costeño Beats: Pistas WAV & Pago Deuna! USD",
+  "description": "Bajos 808 demoledores, hi-hats rápidos y calidad WAV 24-bit de estudio con Deuna! en Dólares ($) para artistas de Manta.",
+  "targetArtists": [
+    "Artistas de Manta",
+    "Hip-Hop Ecuador Scene",
+    "Música Urbana Ecuador"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Manta",
+    "Trap Costeño",
+    "Deuna! & USD",
+    "Aprobado SAYCE"
+  ],
+  "popularGenres": [
+    "Trap Costeño Beats",
+    "Trap Costeño",
+    "Rap Quiteño"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "manta-boombap-andino-classic",
+  "name": "Manta Boom Bap Andino Classic",
+  "category": "scene",
+  "badge": "Manta Boom Bap Andino",
+  "headline": "Manta (Manabí & Costa Pacífica) Boom Bap Andino Classic: Pistas WAV & Pago Deuna! USD",
+  "description": "Baterías analógicas pesadas de los 90, samples de soul y filosofía de calle inspirada en Manta.",
+  "targetArtists": [
+    "Artistas de Manta",
+    "Hip-Hop Ecuador Scene",
+    "Música Urbana Ecuador"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Manta",
+    "Boom Bap Andino",
+    "Deuna! & USD",
+    "Aprobado SAYCE"
+  ],
+  "popularGenres": [
+    "Boom Bap Andino Classic",
+    "Trap Costeño",
+    "Rap Quiteño"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "manta-marimba-afro-trap-fusion",
+  "name": "Manta Marimba Afro-Trap Fusión",
+  "category": "scene",
+  "badge": "Manta Marimba Afro-Trap",
+  "headline": "Manta (Manabí & Costa Pacífica) Marimba Afro-Trap Fusión: Pistas WAV & Pago Deuna! USD",
+  "description": "Maderas de marimba esmeraldeña, tambor cununo y bajos 808 para creadores de Manta.",
+  "targetArtists": [
+    "Artistas de Manta",
+    "Hip-Hop Ecuador Scene",
+    "Música Urbana Ecuador"
+  ],
+  "recommendedBpm": "120-130 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Manta",
+    "Marimba Afro-Trap",
+    "Deuna! & USD",
+    "Aprobado SAYCE"
+  ],
+  "popularGenres": [
+    "Marimba Afro-Trap Fusión",
+    "Trap Costeño",
+    "Rap Quiteño"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "manta-melodic-rnb-trap",
+  "name": "Manta Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Manta Melodic R&B",
+  "headline": "Manta (Manabí & Costa Pacífica) Melodic R&B Trap: Pistas WAV & Pago Deuna! USD",
+  "description": "Pianos suaves, guitarras acústicas y baterías de trap cálidas para vocalistas de Manta.",
+  "targetArtists": [
+    "Artistas de Manta",
+    "Hip-Hop Ecuador Scene",
+    "Música Urbana Ecuador"
+  ],
+  "recommendedBpm": "95-108 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Manta",
+    "Melodic R&B",
+    "Deuna! & USD",
+    "Aprobado SAYCE"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "Trap Costeño",
+    "Rap Quiteño"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "machala-trap-costeno-beats",
+  "name": "Machala Trap Costeño Beats",
+  "category": "scene",
+  "badge": "Machala Trap Costeño",
+  "headline": "Machala (El Oro & Frontera Sur) Trap Costeño Beats: Pistas WAV & Pago Deuna! USD",
+  "description": "Bajos 808 demoledores, hi-hats rápidos y calidad WAV 24-bit de estudio con Deuna! en Dólares ($) para artistas de Machala.",
+  "targetArtists": [
+    "Artistas de Machala",
+    "Hip-Hop Ecuador Scene",
+    "Música Urbana Ecuador"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Machala",
+    "Trap Costeño",
+    "Deuna! & USD",
+    "Aprobado SAYCE"
+  ],
+  "popularGenres": [
+    "Trap Costeño Beats",
+    "Trap Costeño",
+    "Rap Quiteño"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "machala-boombap-andino-classic",
+  "name": "Machala Boom Bap Andino Classic",
+  "category": "scene",
+  "badge": "Machala Boom Bap Andino",
+  "headline": "Machala (El Oro & Frontera Sur) Boom Bap Andino Classic: Pistas WAV & Pago Deuna! USD",
+  "description": "Baterías analógicas pesadas de los 90, samples de soul y filosofía de calle inspirada en Machala.",
+  "targetArtists": [
+    "Artistas de Machala",
+    "Hip-Hop Ecuador Scene",
+    "Música Urbana Ecuador"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Machala",
+    "Boom Bap Andino",
+    "Deuna! & USD",
+    "Aprobado SAYCE"
+  ],
+  "popularGenres": [
+    "Boom Bap Andino Classic",
+    "Trap Costeño",
+    "Rap Quiteño"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "machala-marimba-afro-trap-fusion",
+  "name": "Machala Marimba Afro-Trap Fusión",
+  "category": "scene",
+  "badge": "Machala Marimba Afro-Trap",
+  "headline": "Machala (El Oro & Frontera Sur) Marimba Afro-Trap Fusión: Pistas WAV & Pago Deuna! USD",
+  "description": "Maderas de marimba esmeraldeña, tambor cununo y bajos 808 para creadores de Machala.",
+  "targetArtists": [
+    "Artistas de Machala",
+    "Hip-Hop Ecuador Scene",
+    "Música Urbana Ecuador"
+  ],
+  "recommendedBpm": "120-130 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Machala",
+    "Marimba Afro-Trap",
+    "Deuna! & USD",
+    "Aprobado SAYCE"
+  ],
+  "popularGenres": [
+    "Marimba Afro-Trap Fusión",
+    "Trap Costeño",
+    "Rap Quiteño"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "machala-melodic-rnb-trap",
+  "name": "Machala Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Machala Melodic R&B",
+  "headline": "Machala (El Oro & Frontera Sur) Melodic R&B Trap: Pistas WAV & Pago Deuna! USD",
+  "description": "Pianos suaves, guitarras acústicas y baterías de trap cálidas para vocalistas de Machala.",
+  "targetArtists": [
+    "Artistas de Machala",
+    "Hip-Hop Ecuador Scene",
+    "Música Urbana Ecuador"
+  ],
+  "recommendedBpm": "95-108 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Machala",
+    "Melodic R&B",
+    "Deuna! & USD",
+    "Aprobado SAYCE"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "Trap Costeño",
+    "Rap Quiteño"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "esmeraldas-trap-costeno-beats",
+  "name": "Esmeraldas Trap Costeño Beats",
+  "category": "scene",
+  "badge": "Esmeraldas Trap Costeño",
+  "headline": "Esmeraldas (Cuna Afroecuatoriana) Trap Costeño Beats: Pistas WAV & Pago Deuna! USD",
+  "description": "Bajos 808 demoledores, hi-hats rápidos y calidad WAV 24-bit de estudio con Deuna! en Dólares ($) para artistas de Esmeraldas.",
+  "targetArtists": [
+    "Artistas de Esmeraldas",
+    "Hip-Hop Ecuador Scene",
+    "Música Urbana Ecuador"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Esmeraldas",
+    "Trap Costeño",
+    "Deuna! & USD",
+    "Aprobado SAYCE"
+  ],
+  "popularGenres": [
+    "Trap Costeño Beats",
+    "Trap Costeño",
+    "Rap Quiteño"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "esmeraldas-boombap-andino-classic",
+  "name": "Esmeraldas Boom Bap Andino Classic",
+  "category": "scene",
+  "badge": "Esmeraldas Boom Bap Andino",
+  "headline": "Esmeraldas (Cuna Afroecuatoriana) Boom Bap Andino Classic: Pistas WAV & Pago Deuna! USD",
+  "description": "Baterías analógicas pesadas de los 90, samples de soul y filosofía de calle inspirada en Esmeraldas.",
+  "targetArtists": [
+    "Artistas de Esmeraldas",
+    "Hip-Hop Ecuador Scene",
+    "Música Urbana Ecuador"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Esmeraldas",
+    "Boom Bap Andino",
+    "Deuna! & USD",
+    "Aprobado SAYCE"
+  ],
+  "popularGenres": [
+    "Boom Bap Andino Classic",
+    "Trap Costeño",
+    "Rap Quiteño"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "esmeraldas-marimba-afro-trap-fusion",
+  "name": "Esmeraldas Marimba Afro-Trap Fusión",
+  "category": "scene",
+  "badge": "Esmeraldas Marimba Afro-Trap",
+  "headline": "Esmeraldas (Cuna Afroecuatoriana) Marimba Afro-Trap Fusión: Pistas WAV & Pago Deuna! USD",
+  "description": "Maderas de marimba esmeraldeña, tambor cununo y bajos 808 para creadores de Esmeraldas.",
+  "targetArtists": [
+    "Artistas de Esmeraldas",
+    "Hip-Hop Ecuador Scene",
+    "Música Urbana Ecuador"
+  ],
+  "recommendedBpm": "120-130 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Esmeraldas",
+    "Marimba Afro-Trap",
+    "Deuna! & USD",
+    "Aprobado SAYCE"
+  ],
+  "popularGenres": [
+    "Marimba Afro-Trap Fusión",
+    "Trap Costeño",
+    "Rap Quiteño"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "esmeraldas-melodic-rnb-trap",
+  "name": "Esmeraldas Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Esmeraldas Melodic R&B",
+  "headline": "Esmeraldas (Cuna Afroecuatoriana) Melodic R&B Trap: Pistas WAV & Pago Deuna! USD",
+  "description": "Pianos suaves, guitarras acústicas y baterías de trap cálidas para vocalistas de Esmeraldas.",
+  "targetArtists": [
+    "Artistas de Esmeraldas",
+    "Hip-Hop Ecuador Scene",
+    "Música Urbana Ecuador"
+  ],
+  "recommendedBpm": "95-108 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Esmeraldas",
+    "Melodic R&B",
+    "Deuna! & USD",
+    "Aprobado SAYCE"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "Trap Costeño",
+    "Rap Quiteño"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
 ];
