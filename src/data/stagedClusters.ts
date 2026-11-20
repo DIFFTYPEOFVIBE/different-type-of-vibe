@@ -57340,4 +57340,1454 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "2"
   ]
 },
+  {
+  "slug": "governor-govana-storytelling-dancehall",
+  "name": "Governor Govana Storytelling Dancehall",
+  "category": "vibe",
+  "badge": "Govana Storytelling King",
+  "headline": "Govana Style Beats: Cinematic Pianos, Narrative Cadences & Spanish Town Drums",
+  "description": "The pinnacle of dancehall narrative songwriting: emotional piano loops, tense string crescendos, and crisp snare drops crafted to support engaging, humorous, and gritty story tracks.",
+  "targetArtists": [
+    "Govana",
+    "Bake Bean",
+    "Guzu",
+    "HAMANTS",
+    "Storytelling Dancehall"
+  ],
+  "recommendedBpm": "95-104 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Cinematic Pianos",
+    "Narrative Cadence",
+    "Sharp Snares",
+    "Storytelling"
+  ],
+  "popularGenres": [
+    "Storytelling Dancehall",
+    "Street Hip-Hop",
+    "Lyrical Dancehall"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "alkaline-vendetta-champion-boy-trap",
+  "name": "Alkaline Vendetta Champion Boy Trap",
+  "category": "vibe",
+  "badge": "Alkaline Vendetta Sound",
+  "headline": "Alkaline Style Beats: Dark High-Fashion Trap, Sliding 808s & Champion Swagger",
+  "description": "The swagger of the Vendetta clan: icy synthesizer bells, aggressive rolling 808 sub-bass, and rapid hi-hat rolls built for confident, melodic deejay deliveries.",
+  "targetArtists": [
+    "Alkaline",
+    "Champion Boy",
+    "Formula",
+    "Vendetta",
+    "New Level Unlocked"
+  ],
+  "recommendedBpm": "100-112 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Icy Bells",
+    "Vendetta Swagger",
+    "808 Sub-Bass",
+    "Melodic Deejay"
+  ],
+  "popularGenres": [
+    "Trap-Dancehall",
+    "Dark Trap",
+    "Club Banger"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "capleton-fireman-prophet-nyabinghi",
+  "name": "Capleton Fireman Prophet Nyabinghi",
+  "category": "vibe",
+  "badge": "Capleton Fireman Prophet",
+  "headline": "Capleton Style Beats: Live Nyabinghi Drums, Fiery Brass & Explosive Energy",
+  "description": "The blazing fire of the prophet: sacred Nyabinghi thunder drum patterns, triumphant horn sections, and driving tempo built for explosive spiritual stage shows.",
+  "targetArtists": [
+    "Capleton",
+    "The Fireman",
+    "King Shango",
+    "More Fire",
+    "Nyabinghi Roots"
+  ],
+  "recommendedBpm": "100-110 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Nyabinghi Drums",
+    "Fiery Brass",
+    "Prophet Energy",
+    "Explosive Stage"
+  ],
+  "popularGenres": [
+    "Roots Dancehall",
+    "Nyabinghi Fusion",
+    "Conscious Reggae"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "sizzla-kalonji-black-woman-and-child",
+  "name": "Sizzla Kalonji Black Woman And Child",
+  "category": "vibe",
+  "badge": "Sizzla Bobo Ashanti Roots",
+  "headline": "Sizzla Style Beats: Righteous Reggae Brass, Acoustic Guitars & Soulful Passion",
+  "description": "The passionate Bobo Ashanti revival: soulful acoustic guitar picking, soaring brass horn lines, and one-drop drum rhythms made for intense spiritual vocal delivery.",
+  "targetArtists": [
+    "Sizzla Kalonji",
+    "Black Woman & Child",
+    "Praise Ye Jah",
+    "Bobo Ashanti"
+  ],
+  "recommendedBpm": "78-88 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Soulful Passion",
+    "Righteous Brass",
+    "Acoustic Guitars",
+    "One-Drop"
+  ],
+  "popularGenres": [
+    "Roots Reggae",
+    "Conscious Reggae",
+    "Lover's Roots"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "buju-banton-til-shiloh-gargamel",
+  "name": "Buju Banton Til Shiloh Gargamel",
+  "category": "vibe",
+  "badge": "Buju Banton Gargamel Vibe",
+  "headline": "Buju Banton Style Beats: Gravelly Baritone Power, Til Shiloh Acoustic & MPC Kicks",
+  "description": "The timeless sound of the Gargamel: warm nylon acoustic guitar chords, driving vintage basslines, and heavy drum kicks designed for commanding baritone vocals.",
+  "targetArtists": [
+    "Buju Banton",
+    "Til Shiloh",
+    "Destiny",
+    "Driver A",
+    "Gargamel Music"
+  ],
+  "recommendedBpm": "88-96 BPM",
+  "recommendedKey": "A-Minor / D-Minor",
+  "vibeAttributes": [
+    "Acoustic Til Shiloh",
+    "Gargamel Power",
+    "Baritone Space",
+    "Heavy Kicks"
+  ],
+  "popularGenres": [
+    "Roots Reggae",
+    "Classic Dancehall",
+    "Conscious Urban"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "byron-messia-talibans-dancehall-drill",
+  "name": "Byron Messia Talibans Dancehall Drill",
+  "category": "vibe",
+  "badge": "Talibans Caribbean Drill",
+  "headline": "Byron Messia Style Beats: Viral Talibans Piano, Sliding 808s & Caribbean Melodic Drill",
+  "description": "The breakout sound connecting the West Indies with global drill: haunting minor piano chord progressions, rapid hi-hat rolls, and smooth sliding 808 basslines.",
+  "targetArtists": [
+    "Byron Messia",
+    "Talibans",
+    "No Love",
+    "Burna Boy Collab",
+    "Caribbean Drill"
+  ],
+  "recommendedBpm": "140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Talibans Piano",
+    "Sliding 808s",
+    "Caribbean Drill",
+    "Viral Melodies"
+  ],
+  "popularGenres": [
+    "Caribbean Drill",
+    "Trap-Dancehall",
+    "Melodic Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "kraff-1gad-dark-drill-dancehall",
+  "name": "Kraff 1Gad Dark Drill Dancehall",
+  "category": "vibe",
+  "badge": "Kraff 1Gad Dark Wave",
+  "headline": "Kraff Style Beats: Menacing Futuristic Chops, Dark Drill 808s & 1Gad Energy",
+  "description": "The vanguard of new-wave Jamaican music: pitch-shifted eerie vocal textures, rumbling sub-bass glides, and unpredictable syncopation for dark, hypnotic flows.",
+  "targetArtists": [
+    "Kraff",
+    "1Gad",
+    "Calm C",
+    "Dinero",
+    "New Generation Dancehall"
+  ],
+  "recommendedBpm": "100-112 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Eerie Chops",
+    "Dark Drill 808s",
+    "1Gad Wave",
+    "Futuristic Sound"
+  ],
+  "popularGenres": [
+    "Dark Dancehall",
+    "Trap-Dancehall",
+    "Drill-Dancehall"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "beenie-man-king-of-the-dancehall",
+  "name": "Beenie Man King Of The Dancehall",
+  "category": "vibe",
+  "badge": "Beenie Man King of Dancehall",
+  "headline": "Beats Estilo Beenie Man: Bouncy 90s Dancehall Swing, Punchy Snares & Party Anthems",
+  "description": "The quintessential sound of Jamaican party supremacy: infectious bouncy basslines, syncopated rimshots, and carnival-ready horn riffs built for showmanship.",
+  "targetArtists": [
+    "Beenie Man",
+    "King of the Dancehall",
+    "Who Am I",
+    "Girls Dem Sugar"
+  ],
+  "recommendedBpm": "100-108 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Party Anthems",
+    "Bouncy 90s Swing",
+    "King of Dancehall",
+    "Punchy Snares"
+  ],
+  "popularGenres": [
+    "Classic Dancehall",
+    "90s Dancehall",
+    "Party Riddims"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "bounty-killer-poor-peoples-governor",
+  "name": "Bounty Killer Poor Peoples Governor",
+  "category": "vibe",
+  "badge": "Bounty Killer Warlord",
+  "headline": "Bounty Killer Style Beats: Thunderous Analog Kicks, Menacing Synths & General Flow",
+  "description": "The raw power of the Poor People's Governor: bone-snapping snare hits, menacing minor synth lines, and earth-shattering bass designed for commanding, aggressive bars.",
+  "targetArtists": [
+    "Bounty Killer",
+    "Warlord",
+    "Cross Angry Miserable",
+    "General Sound"
+  ],
+  "recommendedBpm": "98-106 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Warlord Energy",
+    "Thunderous Kicks",
+    "Menacing Synths",
+    "Raw Dancehall"
+  ],
+  "popularGenres": [
+    "Hardcore Dancehall",
+    "Sound Clash",
+    "Street Dancehall"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "nyabinghi-thunder-drum-roots-reggae",
+  "name": "Nyabinghi Thunder Drum Roots Reggae",
+  "category": "vibe",
+  "badge": "Sacred Nyabinghi Drums",
+  "headline": "Nyabinghi Roots Beats: Thunder Drums, Funde & Repeater Over Deep 808 Bass",
+  "description": "The heartbeat of Rastafari: traditional acoustic Nyabinghi drumming recorded in studio fidelity, warm electric pianos, and sub-bass frequencies that ground the spirit.",
+  "targetArtists": [
+    "Nyabinghi Chants",
+    "Count Ossie",
+    "Mystic Revelation",
+    "Spiritual Reggae"
+  ],
+  "recommendedBpm": "72-84 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Thunder Drums",
+    "Funde & Repeater",
+    "Sacred Heartbeat",
+    "Deep 808 Bass"
+  ],
+  "popularGenres": [
+    "Nyabinghi Roots",
+    "Meditative Reggae",
+    "Cultural Dub"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "lovers-rock-gregory-isaacs-cool-ruler",
+  "name": "Lovers Rock Gregory Isaacs Cool Ruler",
+  "category": "vibe",
+  "badge": "Cool Ruler Lovers Rock",
+  "headline": "Lovers Rock Beats: Gregory Isaacs Smooth Horns, Skank Guitars & Sweet Romance",
+  "description": "The smoothest sound in Jamaican music history: lush brass horn lines, sweet electric guitar skanks, and gentle one-drop grooves crafted for timeless romance.",
+  "targetArtists": [
+    "Gregory Isaacs",
+    "Cool Ruler",
+    "Night Nurse",
+    "Dennis Brown",
+    "Lovers Rock"
+  ],
+  "recommendedBpm": "80-90 BPM",
+  "recommendedKey": "C-Major / F-Major",
+  "vibeAttributes": [
+    "Cool Ruler",
+    "Smooth Horns",
+    "Skank Guitars",
+    "Sweet Romance"
+  ],
+  "popularGenres": [
+    "Lovers Rock",
+    "Romantic Reggae",
+    "Vintage Roots"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "dancehall-riddim-115-bpm-fast-jugglin",
+  "name": "Dancehall Riddim 115 BPM Fast Jugglin",
+  "category": "vibe",
+  "badge": "115 BPM Fast Jugglin'",
+  "headline": "Fast Jugglin' Dancehall Riddim: 115 BPM Bouncy Timbales, Shakers & Viral Bounce",
+  "description": "The tempo of championship sound clashes: rapid-fire timbale fills, lively shaker grooves, and infectious low-end bounce designed for multiple artists to jump on.",
+  "targetArtists": [
+    "Jugglin' Riddims",
+    "Sound Clash",
+    "DJ Frass Style",
+    "Notnice Production"
+  ],
+  "recommendedBpm": "114-118 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "115 BPM Fast Jugglin'",
+    "Bouncy Timbales",
+    "Sound Clash Energy",
+    "Viral Bounce"
+  ],
+  "popularGenres": [
+    "Jugglin' Dancehall",
+    "Fast Dancehall",
+    "Party Riddim"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "buy-cheap-dancehall-beats-with-lynk-jmd",
+  "name": "Buy Cheap Dancehall Beats with Lynk in Jamaican Dollars (JMD & USD)",
+  "category": "genre",
+  "badge": "Pay with Lynk JMD",
+  "headline": "Affordable Dancehall Beats: Pay with Lynk or Jamaican Debit Cards in JMD / USD",
+  "description": "High-quality recording beats without excessive conversion markups. Pay instantly using Jamaica's national Lynk digital wallet or local bank transfer and download your 24-bit studio WAV immediately.",
+  "targetArtists": [
+    "Local Jamaican Artists",
+    "Home Recording Studios",
+    "Songwriters"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Lynk Wallet",
+    "JMD & USD",
+    "Affordable Price",
+    "Instant WAV Download"
+  ],
+  "popularGenres": [
+    "Dancehall",
+    "Trap-Dancehall",
+    "Roots Reggae"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6"
+  ]
+},
+  {
+  "slug": "trap-dancehall-instrumentals-for-drillers",
+  "name": "Trap-Dancehall Instrumentals for Drillers with Dark 808 Slides and Piano",
+  "category": "genre",
+  "badge": "Drill-Dancehall 808s",
+  "headline": "Dark Trap-Dancehall for Drillers: Menacing Minor Keys & Subterranean 808s",
+  "description": "The lethal fusion of UK/NY drill and Jamaican street dancehall. Heavy sliding 808 sub-bass, eerie piano melodies, and sharp syncopated snares for hardcore bars.",
+  "targetArtists": [
+    "Caribbean Drillers",
+    "Byron Messia Fans",
+    "Kraff Fans"
+  ],
+  "recommendedBpm": "100-112 BPM / 140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Dark 808 Slides",
+    "Minor Pianos",
+    "Drill-Dancehall",
+    "Untagged WAV"
+  ],
+  "popularGenres": [
+    "Trap-Dancehall",
+    "Caribbean Drill",
+    "Dark Urban"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "nyabinghi-and-roots-reggae-instrumentals",
+  "name": "Authentic Nyabinghi Drumming and Roots Reggae Instrumentals in Studio WAV",
+  "category": "genre",
+  "badge": "Acoustic Nyabinghi WAV",
+  "headline": "Nyabinghi & Roots Reggae Beats: Studio-Recorded Acoustic Drums & Heavy Bass",
+  "description": "Sacred Jamaican cultural percussion: live funde, repeater, and thunder bass drums blended with smooth electric organs and dub delays for spiritual roots music.",
+  "targetArtists": [
+    "Rastafari Artists",
+    "Cultural Performers",
+    "Reggae Songwriters"
+  ],
+  "recommendedBpm": "72-84 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Nyabinghi Drums",
+    "Thunder Bass",
+    "Roots Reggae",
+    "Spiritual Roots"
+  ],
+  "popularGenres": [
+    "Nyabinghi Roots",
+    "Meditative Dub",
+    "Conscious Reggae"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "buy-exclusive-dancehall-riddims-with-contract",
+  "name": "Buy Exclusive Dancehall Riddims with Master Rights Transfer and PDF Contract",
+  "category": "genre",
+  "badge": "Exclusive Master Rights",
+  "headline": "Exclusive Dancehall Riddims: 100% Full Master Ownership & Store Retirement",
+  "description": "Secure the exclusive rights to your next hit. The instrumental is permanently retired from the catalog and legally transferred to you with an official signed assignment agreement.",
+  "targetArtists": [
+    "Signed Artists",
+    "Major Label Projects",
+    "Executive Producers"
+  ],
+  "recommendedBpm": "Custom BPM",
+  "recommendedKey": "Custom Key",
+  "vibeAttributes": [
+    "Exclusive Ownership",
+    "Permanent Retirement",
+    "Signed PDF Agreement",
+    "Full Master Transfer"
+  ],
+  "popularGenres": [
+    "Dancehall",
+    "Trap-Dancehall",
+    "Reggae"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "fast-jugglin-dancehall-riddim-wav-stems",
+  "name": "Fast Jugglin' Dancehall Riddim with Multitrack WAV Stems for Deejays",
+  "category": "genre",
+  "badge": "115 BPM Jugglin' Stems",
+  "headline": "Fast Jugglin' Dancehall Riddims: Multitrack Stems for Artists and Sound Clashes",
+  "description": "High-octane Caribbean jugglin' riddims: isolated drum, bass, synth, and percussion stems for seamless studio mixing, dubplate voicing, and live sound system clashing.",
+  "targetArtists": [
+    "Sound System Selectors",
+    "Deejays",
+    "Recording Artists"
+  ],
+  "recommendedBpm": "114-118 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "115 BPM Jugglin'",
+    "Multitrack Stems",
+    "Sound Clash Ready",
+    "High-Energy Banger"
+  ],
+  "popularGenres": [
+    "Jugglin' Dancehall",
+    "Party Riddim",
+    "Sound Clash"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "lovers-rock-reggae-instrumentals-for-singers",
+  "name": "Sweet Lovers Rock Reggae Instrumentals for Singers and Romantic Duets",
+  "category": "genre",
+  "badge": "Lovers Rock for Singers",
+  "headline": "Lovers Rock Reggae Beats: Smooth Horns, Warm Bass & Romantic Guitar Skanks",
+  "description": "Timeless lovers rock instrumentation designed specifically for vocalists. Smooth brass arrangements, soulful electric keys, and gentle one-drop grooves for love songs.",
+  "targetArtists": [
+    "Lovers Rock Singers",
+    "Romantic Vocalists",
+    "Duet Artists"
+  ],
+  "recommendedBpm": "80-90 BPM",
+  "recommendedKey": "C-Major / F-Major",
+  "vibeAttributes": [
+    "Smooth Horns",
+    "Lovers Rock",
+    "Skank Guitars",
+    "Romantic Duets"
+  ],
+  "popularGenres": [
+    "Lovers Rock",
+    "Romantic Reggae",
+    "Island Soul"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "hardcore-gaza-and-vendetta-style-dancehall-beats",
+  "name": "Hardcore Gaza and Vendetta Style Street Dancehall Beats with Heavy Kicks",
+  "category": "genre",
+  "badge": "Hardcore Street Dancehall",
+  "headline": "Hardcore Street Dancehall Beats: Heavyweight Kicks, Gritty Synths & Street Bars",
+  "description": "Inspired by the golden rivalries of Jamaican dancehall: thunderous kicks, piercing snares, and menacing synth leads built for gritty street lyrics and clash anthems.",
+  "targetArtists": [
+    "Hardcore Deejays",
+    "Street Lyricists",
+    "Sound Clash Artists"
+  ],
+  "recommendedBpm": "98-106 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Hardcore Kicks",
+    "Gaza & Vendetta",
+    "Gritty Synths",
+    "Sound Clash"
+  ],
+  "popularGenres": [
+    "Hardcore Dancehall",
+    "Street Dancehall",
+    "Sound Clash"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "dancehall-riddim-pack-for-mixtape-release",
+  "name": "Dancehall Riddim Pack for Releasing Complete Mixtapes or EPs on Spotify",
+  "category": "genre",
+  "badge": "Mixtape Riddim Pack",
+  "headline": "Dancehall Riddim Bundle: Cohesive Caribbean Beats & Full Commercial License",
+  "description": "Produce your entire project with sonic consistency. Discounted multi-track bundle packages with full commercial streaming clearance for Spotify and Apple Music.",
+  "targetArtists": [
+    "Mixtape Creators",
+    "Dancehall Crews",
+    "Independent Labels"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Volume Savings",
+    "Consistent Sound",
+    "WAV Trackouts",
+    "Commercial Release"
+  ],
+  "popularGenres": [
+    "Dancehall",
+    "Trap-Dancehall",
+    "Roots Reggae"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "custom-trap-dancehall-beat-production-mobay",
+  "name": "Custom Trap-Dancehall Beat Production Directly with Producer Onzieb",
+  "category": "genre",
+  "badge": "Custom Trap-Dancehall",
+  "headline": "Custom Dancehall Production: Craft Your Signature Island Sound with Onzieb",
+  "description": "Work one-on-one with producer Onzieb to build a tailored trap-dancehall instrumental fitted to your vocal cadence, tone, and artistic vision.",
+  "targetArtists": [
+    "Professional Artists",
+    "Singers",
+    "Producers"
+  ],
+  "recommendedBpm": "Custom BPM",
+  "recommendedKey": "Custom Key",
+  "vibeAttributes": [
+    "Tailored Production",
+    "Direct Collaboration",
+    "Signature Sound",
+    "Master Assignment"
+  ],
+  "popularGenres": [
+    "Trap-Dancehall",
+    "Dancehall Riddims",
+    "Roots Reggae"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "free-dancehall-beats-download-no-tags-mp3",
+  "name": "Free Dancehall Beats Download Pack Without Voice Tags for Studio Demos",
+  "category": "genre",
+  "badge": "Free 3-Beat Demo Pack",
+  "headline": "Download 3 Free Dancehall Beats: Test Your Lyrics & Voicing at Home",
+  "description": "Download 3 high-quality dancehall and trap-dancehall instrumentals in 320kbps MP3 format to practice lyrics and record vocal tests before buying a full license.",
+  "targetArtists": [
+    "New Deejays",
+    "Home Studio Voicing",
+    "Songwriters"
+  ],
+  "recommendedBpm": "95, 105, 112 BPM",
+  "recommendedKey": "C-Minor, D-Minor",
+  "vibeAttributes": [
+    "Free Download",
+    "3 Beats Included",
+    "Vocal Demo",
+    "Instant Email Delivery"
+  ],
+  "popularGenres": [
+    "Dancehall",
+    "Trap-Dancehall",
+    "Roots Reggae"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "6"
+  ]
+},
+  {
+  "slug": "port-antonio-trap-dancehall-beats",
+  "name": "Port Antonio Trap-Dancehall Beats",
+  "category": "scene",
+  "badge": "Port Antonio Trap-Dancehall",
+  "headline": "Port Antonio (Portland & Geejam Studios) Trap-Dancehall Beats: Studio WAV & Commercial License",
+  "description": "Heavy 808 sub-bass glides, minimalist keys, and studio 24-bit WAV quality for recording artists in Port Antonio.",
+  "targetArtists": [
+    "Port Antonio Artists",
+    "Jamaican Dancehall Scene",
+    "Caribbean Reggae Artists"
+  ],
+  "recommendedBpm": "100-112 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Port Antonio",
+    "Trap-Dancehall",
+    "Lynk & USD",
+    "JAMMS & JACAP Cleared"
+  ],
+  "popularGenres": [
+    "Trap-Dancehall Beats",
+    "Dancehall",
+    "Trap-Dancehall"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "port-antonio-classic-dancehall-riddims",
+  "name": "Port Antonio Classic Dancehall Riddims",
+  "category": "scene",
+  "badge": "Port Antonio Classic Dancehall",
+  "headline": "Port Antonio (Portland & Geejam Studios) Classic Dancehall Riddims: Studio WAV & Commercial License",
+  "description": "Driving syncopated percussion, infectious Caribbean basslines, and anthemic club energy inspired by Port Antonio.",
+  "targetArtists": [
+    "Port Antonio Artists",
+    "Jamaican Dancehall Scene",
+    "Caribbean Reggae Artists"
+  ],
+  "recommendedBpm": "102-110 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Port Antonio",
+    "Classic Dancehall",
+    "Lynk & USD",
+    "JAMMS & JACAP Cleared"
+  ],
+  "popularGenres": [
+    "Classic Dancehall Riddims",
+    "Dancehall",
+    "Trap-Dancehall"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "port-antonio-roots-reggae-fusion",
+  "name": "Port Antonio Roots Reggae Fusion",
+  "category": "scene",
+  "badge": "Port Antonio Roots Reggae",
+  "headline": "Port Antonio (Portland & Geejam Studios) Roots Reggae Fusion: Studio WAV & Commercial License",
+  "description": "Warm Hammond organs, live one-drop drums, and conscious spiritual roots instrumentation for creators in Port Antonio.",
+  "targetArtists": [
+    "Port Antonio Artists",
+    "Jamaican Dancehall Scene",
+    "Caribbean Reggae Artists"
+  ],
+  "recommendedBpm": "75-88 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Port Antonio",
+    "Roots Reggae",
+    "Lynk & USD",
+    "JAMMS & JACAP Cleared"
+  ],
+  "popularGenres": [
+    "Roots Reggae Fusion",
+    "Dancehall",
+    "Trap-Dancehall"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "port-antonio-melodic-dancehall-rnb",
+  "name": "Port Antonio Melodic Dancehall R&B",
+  "category": "scene",
+  "badge": "Port Antonio Dancehall R&B",
+  "headline": "Port Antonio (Portland & Geejam Studios) Melodic Dancehall R&B: Studio WAV & Commercial License",
+  "description": "Sensual electric pianos, smooth trailing pads, and intimate slow dembows for vocalists in Port Antonio.",
+  "targetArtists": [
+    "Port Antonio Artists",
+    "Jamaican Dancehall Scene",
+    "Caribbean Reggae Artists"
+  ],
+  "recommendedBpm": "92-100 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Port Antonio",
+    "Dancehall R&B",
+    "Lynk & USD",
+    "JAMMS & JACAP Cleared"
+  ],
+  "popularGenres": [
+    "Melodic Dancehall R&B",
+    "Dancehall",
+    "Trap-Dancehall"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "black-river-trap-dancehall-beats",
+  "name": "Black River Trap-Dancehall Beats",
+  "category": "scene",
+  "badge": "Black River Trap-Dancehall",
+  "headline": "Black River (St. Elizabeth & Roots Heartland) Trap-Dancehall Beats: Studio WAV & Commercial License",
+  "description": "Heavy 808 sub-bass glides, minimalist keys, and studio 24-bit WAV quality for recording artists in Black River.",
+  "targetArtists": [
+    "Black River Artists",
+    "Jamaican Dancehall Scene",
+    "Caribbean Reggae Artists"
+  ],
+  "recommendedBpm": "100-112 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Black River",
+    "Trap-Dancehall",
+    "Lynk & USD",
+    "JAMMS & JACAP Cleared"
+  ],
+  "popularGenres": [
+    "Trap-Dancehall Beats",
+    "Dancehall",
+    "Trap-Dancehall"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "black-river-classic-dancehall-riddims",
+  "name": "Black River Classic Dancehall Riddims",
+  "category": "scene",
+  "badge": "Black River Classic Dancehall",
+  "headline": "Black River (St. Elizabeth & Roots Heartland) Classic Dancehall Riddims: Studio WAV & Commercial License",
+  "description": "Driving syncopated percussion, infectious Caribbean basslines, and anthemic club energy inspired by Black River.",
+  "targetArtists": [
+    "Black River Artists",
+    "Jamaican Dancehall Scene",
+    "Caribbean Reggae Artists"
+  ],
+  "recommendedBpm": "102-110 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Black River",
+    "Classic Dancehall",
+    "Lynk & USD",
+    "JAMMS & JACAP Cleared"
+  ],
+  "popularGenres": [
+    "Classic Dancehall Riddims",
+    "Dancehall",
+    "Trap-Dancehall"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "black-river-roots-reggae-fusion",
+  "name": "Black River Roots Reggae Fusion",
+  "category": "scene",
+  "badge": "Black River Roots Reggae",
+  "headline": "Black River (St. Elizabeth & Roots Heartland) Roots Reggae Fusion: Studio WAV & Commercial License",
+  "description": "Warm Hammond organs, live one-drop drums, and conscious spiritual roots instrumentation for creators in Black River.",
+  "targetArtists": [
+    "Black River Artists",
+    "Jamaican Dancehall Scene",
+    "Caribbean Reggae Artists"
+  ],
+  "recommendedBpm": "75-88 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Black River",
+    "Roots Reggae",
+    "Lynk & USD",
+    "JAMMS & JACAP Cleared"
+  ],
+  "popularGenres": [
+    "Roots Reggae Fusion",
+    "Dancehall",
+    "Trap-Dancehall"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "black-river-melodic-dancehall-rnb",
+  "name": "Black River Melodic Dancehall R&B",
+  "category": "scene",
+  "badge": "Black River Dancehall R&B",
+  "headline": "Black River (St. Elizabeth & Roots Heartland) Melodic Dancehall R&B: Studio WAV & Commercial License",
+  "description": "Sensual electric pianos, smooth trailing pads, and intimate slow dembows for vocalists in Black River.",
+  "targetArtists": [
+    "Black River Artists",
+    "Jamaican Dancehall Scene",
+    "Caribbean Reggae Artists"
+  ],
+  "recommendedBpm": "92-100 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Black River",
+    "Dancehall R&B",
+    "Lynk & USD",
+    "JAMMS & JACAP Cleared"
+  ],
+  "popularGenres": [
+    "Melodic Dancehall R&B",
+    "Dancehall",
+    "Trap-Dancehall"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "falmouth-trap-dancehall-beats",
+  "name": "Falmouth Trap-Dancehall Beats",
+  "category": "scene",
+  "badge": "Falmouth Trap-Dancehall",
+  "headline": "Falmouth (Trelawny & Sprint Capital) Trap-Dancehall Beats: Studio WAV & Commercial License",
+  "description": "Heavy 808 sub-bass glides, minimalist keys, and studio 24-bit WAV quality for recording artists in Falmouth.",
+  "targetArtists": [
+    "Falmouth Artists",
+    "Jamaican Dancehall Scene",
+    "Caribbean Reggae Artists"
+  ],
+  "recommendedBpm": "100-112 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Falmouth",
+    "Trap-Dancehall",
+    "Lynk & USD",
+    "JAMMS & JACAP Cleared"
+  ],
+  "popularGenres": [
+    "Trap-Dancehall Beats",
+    "Dancehall",
+    "Trap-Dancehall"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "falmouth-classic-dancehall-riddims",
+  "name": "Falmouth Classic Dancehall Riddims",
+  "category": "scene",
+  "badge": "Falmouth Classic Dancehall",
+  "headline": "Falmouth (Trelawny & Sprint Capital) Classic Dancehall Riddims: Studio WAV & Commercial License",
+  "description": "Driving syncopated percussion, infectious Caribbean basslines, and anthemic club energy inspired by Falmouth.",
+  "targetArtists": [
+    "Falmouth Artists",
+    "Jamaican Dancehall Scene",
+    "Caribbean Reggae Artists"
+  ],
+  "recommendedBpm": "102-110 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Falmouth",
+    "Classic Dancehall",
+    "Lynk & USD",
+    "JAMMS & JACAP Cleared"
+  ],
+  "popularGenres": [
+    "Classic Dancehall Riddims",
+    "Dancehall",
+    "Trap-Dancehall"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "falmouth-roots-reggae-fusion",
+  "name": "Falmouth Roots Reggae Fusion",
+  "category": "scene",
+  "badge": "Falmouth Roots Reggae",
+  "headline": "Falmouth (Trelawny & Sprint Capital) Roots Reggae Fusion: Studio WAV & Commercial License",
+  "description": "Warm Hammond organs, live one-drop drums, and conscious spiritual roots instrumentation for creators in Falmouth.",
+  "targetArtists": [
+    "Falmouth Artists",
+    "Jamaican Dancehall Scene",
+    "Caribbean Reggae Artists"
+  ],
+  "recommendedBpm": "75-88 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Falmouth",
+    "Roots Reggae",
+    "Lynk & USD",
+    "JAMMS & JACAP Cleared"
+  ],
+  "popularGenres": [
+    "Roots Reggae Fusion",
+    "Dancehall",
+    "Trap-Dancehall"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "falmouth-melodic-dancehall-rnb",
+  "name": "Falmouth Melodic Dancehall R&B",
+  "category": "scene",
+  "badge": "Falmouth Dancehall R&B",
+  "headline": "Falmouth (Trelawny & Sprint Capital) Melodic Dancehall R&B: Studio WAV & Commercial License",
+  "description": "Sensual electric pianos, smooth trailing pads, and intimate slow dembows for vocalists in Falmouth.",
+  "targetArtists": [
+    "Falmouth Artists",
+    "Jamaican Dancehall Scene",
+    "Caribbean Reggae Artists"
+  ],
+  "recommendedBpm": "92-100 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Falmouth",
+    "Dancehall R&B",
+    "Lynk & USD",
+    "JAMMS & JACAP Cleared"
+  ],
+  "popularGenres": [
+    "Melodic Dancehall R&B",
+    "Dancehall",
+    "Trap-Dancehall"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "lucea-trap-dancehall-beats",
+  "name": "Lucea Trap-Dancehall Beats",
+  "category": "scene",
+  "badge": "Lucea Trap-Dancehall",
+  "headline": "Lucea (Hanover & Coastal Trap) Trap-Dancehall Beats: Studio WAV & Commercial License",
+  "description": "Heavy 808 sub-bass glides, minimalist keys, and studio 24-bit WAV quality for recording artists in Lucea.",
+  "targetArtists": [
+    "Lucea Artists",
+    "Jamaican Dancehall Scene",
+    "Caribbean Reggae Artists"
+  ],
+  "recommendedBpm": "100-112 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Lucea",
+    "Trap-Dancehall",
+    "Lynk & USD",
+    "JAMMS & JACAP Cleared"
+  ],
+  "popularGenres": [
+    "Trap-Dancehall Beats",
+    "Dancehall",
+    "Trap-Dancehall"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "lucea-classic-dancehall-riddims",
+  "name": "Lucea Classic Dancehall Riddims",
+  "category": "scene",
+  "badge": "Lucea Classic Dancehall",
+  "headline": "Lucea (Hanover & Coastal Trap) Classic Dancehall Riddims: Studio WAV & Commercial License",
+  "description": "Driving syncopated percussion, infectious Caribbean basslines, and anthemic club energy inspired by Lucea.",
+  "targetArtists": [
+    "Lucea Artists",
+    "Jamaican Dancehall Scene",
+    "Caribbean Reggae Artists"
+  ],
+  "recommendedBpm": "102-110 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Lucea",
+    "Classic Dancehall",
+    "Lynk & USD",
+    "JAMMS & JACAP Cleared"
+  ],
+  "popularGenres": [
+    "Classic Dancehall Riddims",
+    "Dancehall",
+    "Trap-Dancehall"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "lucea-roots-reggae-fusion",
+  "name": "Lucea Roots Reggae Fusion",
+  "category": "scene",
+  "badge": "Lucea Roots Reggae",
+  "headline": "Lucea (Hanover & Coastal Trap) Roots Reggae Fusion: Studio WAV & Commercial License",
+  "description": "Warm Hammond organs, live one-drop drums, and conscious spiritual roots instrumentation for creators in Lucea.",
+  "targetArtists": [
+    "Lucea Artists",
+    "Jamaican Dancehall Scene",
+    "Caribbean Reggae Artists"
+  ],
+  "recommendedBpm": "75-88 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Lucea",
+    "Roots Reggae",
+    "Lynk & USD",
+    "JAMMS & JACAP Cleared"
+  ],
+  "popularGenres": [
+    "Roots Reggae Fusion",
+    "Dancehall",
+    "Trap-Dancehall"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "lucea-melodic-dancehall-rnb",
+  "name": "Lucea Melodic Dancehall R&B",
+  "category": "scene",
+  "badge": "Lucea Dancehall R&B",
+  "headline": "Lucea (Hanover & Coastal Trap) Melodic Dancehall R&B: Studio WAV & Commercial License",
+  "description": "Sensual electric pianos, smooth trailing pads, and intimate slow dembows for vocalists in Lucea.",
+  "targetArtists": [
+    "Lucea Artists",
+    "Jamaican Dancehall Scene",
+    "Caribbean Reggae Artists"
+  ],
+  "recommendedBpm": "92-100 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Lucea",
+    "Dancehall R&B",
+    "Lynk & USD",
+    "JAMMS & JACAP Cleared"
+  ],
+  "popularGenres": [
+    "Melodic Dancehall R&B",
+    "Dancehall",
+    "Trap-Dancehall"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "half-way-tree-trap-dancehall-beats",
+  "name": "Half Way Tree Trap-Dancehall Beats",
+  "category": "scene",
+  "badge": "Half Way Tree Trap-Dancehall",
+  "headline": "Half Way Tree (Kingston Commercial Hub) Trap-Dancehall Beats: Studio WAV & Commercial License",
+  "description": "Heavy 808 sub-bass glides, minimalist keys, and studio 24-bit WAV quality for recording artists in Half Way Tree.",
+  "targetArtists": [
+    "Half Way Tree Artists",
+    "Jamaican Dancehall Scene",
+    "Caribbean Reggae Artists"
+  ],
+  "recommendedBpm": "100-112 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Half Way Tree",
+    "Trap-Dancehall",
+    "Lynk & USD",
+    "JAMMS & JACAP Cleared"
+  ],
+  "popularGenres": [
+    "Trap-Dancehall Beats",
+    "Dancehall",
+    "Trap-Dancehall"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "half-way-tree-classic-dancehall-riddims",
+  "name": "Half Way Tree Classic Dancehall Riddims",
+  "category": "scene",
+  "badge": "Half Way Tree Classic Dancehall",
+  "headline": "Half Way Tree (Kingston Commercial Hub) Classic Dancehall Riddims: Studio WAV & Commercial License",
+  "description": "Driving syncopated percussion, infectious Caribbean basslines, and anthemic club energy inspired by Half Way Tree.",
+  "targetArtists": [
+    "Half Way Tree Artists",
+    "Jamaican Dancehall Scene",
+    "Caribbean Reggae Artists"
+  ],
+  "recommendedBpm": "102-110 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Half Way Tree",
+    "Classic Dancehall",
+    "Lynk & USD",
+    "JAMMS & JACAP Cleared"
+  ],
+  "popularGenres": [
+    "Classic Dancehall Riddims",
+    "Dancehall",
+    "Trap-Dancehall"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "half-way-tree-roots-reggae-fusion",
+  "name": "Half Way Tree Roots Reggae Fusion",
+  "category": "scene",
+  "badge": "Half Way Tree Roots Reggae",
+  "headline": "Half Way Tree (Kingston Commercial Hub) Roots Reggae Fusion: Studio WAV & Commercial License",
+  "description": "Warm Hammond organs, live one-drop drums, and conscious spiritual roots instrumentation for creators in Half Way Tree.",
+  "targetArtists": [
+    "Half Way Tree Artists",
+    "Jamaican Dancehall Scene",
+    "Caribbean Reggae Artists"
+  ],
+  "recommendedBpm": "75-88 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Half Way Tree",
+    "Roots Reggae",
+    "Lynk & USD",
+    "JAMMS & JACAP Cleared"
+  ],
+  "popularGenres": [
+    "Roots Reggae Fusion",
+    "Dancehall",
+    "Trap-Dancehall"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "half-way-tree-melodic-dancehall-rnb",
+  "name": "Half Way Tree Melodic Dancehall R&B",
+  "category": "scene",
+  "badge": "Half Way Tree Dancehall R&B",
+  "headline": "Half Way Tree (Kingston Commercial Hub) Melodic Dancehall R&B: Studio WAV & Commercial License",
+  "description": "Sensual electric pianos, smooth trailing pads, and intimate slow dembows for vocalists in Half Way Tree.",
+  "targetArtists": [
+    "Half Way Tree Artists",
+    "Jamaican Dancehall Scene",
+    "Caribbean Reggae Artists"
+  ],
+  "recommendedBpm": "92-100 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Half Way Tree",
+    "Dancehall R&B",
+    "Lynk & USD",
+    "JAMMS & JACAP Cleared"
+  ],
+  "popularGenres": [
+    "Melodic Dancehall R&B",
+    "Dancehall",
+    "Trap-Dancehall"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "st-anns-bay-trap-dancehall-beats",
+  "name": "St. Ann's Bay Trap-Dancehall Beats",
+  "category": "scene",
+  "badge": "St. Ann's Bay Trap-Dancehall",
+  "headline": "St. Ann's Bay (Marcus Garvey & Priory) Trap-Dancehall Beats: Studio WAV & Commercial License",
+  "description": "Heavy 808 sub-bass glides, minimalist keys, and studio 24-bit WAV quality for recording artists in St. Ann's Bay.",
+  "targetArtists": [
+    "St. Ann's Bay Artists",
+    "Jamaican Dancehall Scene",
+    "Caribbean Reggae Artists"
+  ],
+  "recommendedBpm": "100-112 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "St. Ann's Bay",
+    "Trap-Dancehall",
+    "Lynk & USD",
+    "JAMMS & JACAP Cleared"
+  ],
+  "popularGenres": [
+    "Trap-Dancehall Beats",
+    "Dancehall",
+    "Trap-Dancehall"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "st-anns-bay-classic-dancehall-riddims",
+  "name": "St. Ann's Bay Classic Dancehall Riddims",
+  "category": "scene",
+  "badge": "St. Ann's Bay Classic Dancehall",
+  "headline": "St. Ann's Bay (Marcus Garvey & Priory) Classic Dancehall Riddims: Studio WAV & Commercial License",
+  "description": "Driving syncopated percussion, infectious Caribbean basslines, and anthemic club energy inspired by St. Ann's Bay.",
+  "targetArtists": [
+    "St. Ann's Bay Artists",
+    "Jamaican Dancehall Scene",
+    "Caribbean Reggae Artists"
+  ],
+  "recommendedBpm": "102-110 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "St. Ann's Bay",
+    "Classic Dancehall",
+    "Lynk & USD",
+    "JAMMS & JACAP Cleared"
+  ],
+  "popularGenres": [
+    "Classic Dancehall Riddims",
+    "Dancehall",
+    "Trap-Dancehall"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "st-anns-bay-roots-reggae-fusion",
+  "name": "St. Ann's Bay Roots Reggae Fusion",
+  "category": "scene",
+  "badge": "St. Ann's Bay Roots Reggae",
+  "headline": "St. Ann's Bay (Marcus Garvey & Priory) Roots Reggae Fusion: Studio WAV & Commercial License",
+  "description": "Warm Hammond organs, live one-drop drums, and conscious spiritual roots instrumentation for creators in St. Ann's Bay.",
+  "targetArtists": [
+    "St. Ann's Bay Artists",
+    "Jamaican Dancehall Scene",
+    "Caribbean Reggae Artists"
+  ],
+  "recommendedBpm": "75-88 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "St. Ann's Bay",
+    "Roots Reggae",
+    "Lynk & USD",
+    "JAMMS & JACAP Cleared"
+  ],
+  "popularGenres": [
+    "Roots Reggae Fusion",
+    "Dancehall",
+    "Trap-Dancehall"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "st-anns-bay-melodic-dancehall-rnb",
+  "name": "St. Ann's Bay Melodic Dancehall R&B",
+  "category": "scene",
+  "badge": "St. Ann's Bay Dancehall R&B",
+  "headline": "St. Ann's Bay (Marcus Garvey & Priory) Melodic Dancehall R&B: Studio WAV & Commercial License",
+  "description": "Sensual electric pianos, smooth trailing pads, and intimate slow dembows for vocalists in St. Ann's Bay.",
+  "targetArtists": [
+    "St. Ann's Bay Artists",
+    "Jamaican Dancehall Scene",
+    "Caribbean Reggae Artists"
+  ],
+  "recommendedBpm": "92-100 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "St. Ann's Bay",
+    "Dancehall R&B",
+    "Lynk & USD",
+    "JAMMS & JACAP Cleared"
+  ],
+  "popularGenres": [
+    "Melodic Dancehall R&B",
+    "Dancehall",
+    "Trap-Dancehall"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
 ];
