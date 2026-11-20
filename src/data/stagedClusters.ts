@@ -60924,4 +60924,1452 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "2"
   ]
 },
+  {
+  "slug": "mk-k-clique-swag-baritone-flow",
+  "name": "MK K-Clique Swag Baritone Flow",
+  "category": "vibe",
+  "badge": "MK K-Clique Baritone Swag",
+  "headline": "Beat Gaya MK K-Clique: Suara Baritone Bersahaja, Trap Santai & Bass 808 Padu",
+  "description": "Pesona bintang rap paling berpengaruh: rentak trap santai dengan alunan bass 808 yang berat, kord synth gelap dan ruang sempurna untuk flow baritone bersahaja yang memikat.",
+  "targetArtists": [
+    "MK K-Clique",
+    "K-Clique",
+    "Haa",
+    "Mimpi",
+    "Sabah Swag"
+  ],
+  "recommendedBpm": "120-130 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Suara Baritone",
+    "Trap Santai",
+    "Bass 808 Berat",
+    "Karisma Bintang"
+  ],
+  "popularGenres": [
+    "M-Trap",
+    "Street Hip-Hop",
+    "Borneo Rap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "zamaera-female-emcee-lyrical-power",
+  "name": "Zamaera Female Emcee Lyrical Power",
+  "category": "vibe",
+  "badge": "Zamaera Ratu Lirik",
+  "headline": "Beat Gaya Zamaera: Boom Bap Berkuasa, Snare Tajam & Lirik Bahasa Inggeris Padu",
+  "description": "Ketegasan emcee wanita bertaraf antarabangsa: paluan snare rap yang padat, sampel soul klasik dan bassline tebal untuk lirik berbahasa Inggeris yang berani dan penuh teknikal.",
+  "targetArtists": [
+    "Zamaera",
+    "Helly Kelly",
+    "Wanita Berkuasa",
+    "English Rap Malaysia"
+  ],
+  "recommendedBpm": "88-96 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Boom Bap Berkuasa",
+    "Snare Tajam",
+    "Lirik Padu",
+    "Emcee Wanita"
+  ],
+  "popularGenres": [
+    "Classic Boom Bap",
+    "Lyrical Hip-Hop",
+    "Female Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "fariz-jabba-singapore-malaysia-crossover",
+  "name": "Fariz Jabba Singapore Malaysia Crossover",
+  "category": "vibe",
+  "badge": "Fariz Jabba Crossover Vibe",
+  "headline": "Beat Gaya Fariz Jabba: T-Hop Dwibahasa Lincah, Bounce Ceria & Pop-Rap Menari",
+  "description": "Gelombang merentas Selat Tebrau: gabungan pop-rap dwibahasa Inggeris-Melayu, alunan melodi ceria dan rentak dram bertenaga yang membuat semua orang ingin menari.",
+  "targetArtists": [
+    "Fariz Jabba",
+    "Ape Sia",
+    "Masa",
+    "Def Jam SEA",
+    "Bilingual Flow"
+  ],
+  "recommendedBpm": "100-110 BPM",
+  "recommendedKey": "G-Major / C-Major",
+  "vibeAttributes": [
+    "T-Hop Dwibahasa",
+    "Bounce Ceria",
+    "Pop-Rap Menari",
+    "Melodi Segar"
+  ],
+  "popularGenres": [
+    "Commercial T-Hop",
+    "Pop-Rap",
+    "Urban Dance"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "aman-ra-bangun-budak-flat-anthem",
+  "name": "Aman RA Bangun Budak Flat Anthem",
+  "category": "vibe",
+  "badge": "Aman RA Budak Flat",
+  "headline": "Beat Gaya Aman RA: Lagu Semangat Budak Flat, Dram MPC Jujur & Realiti Marhaen",
+  "description": "Suara perjuangan anak marhaen: paluan dram MPC tanpa selindung, kord horn megah dan ruang luas untuk rima-rima pembangkit semangat yang menyatukan masyarakat.",
+  "targetArtists": [
+    "Aman RA",
+    "Bangun",
+    "Budak Flat",
+    "Kerja Sakit",
+    "Hip-Hop Marhaen"
+  ],
+  "recommendedBpm": "90-98 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "Semangat Budak Flat",
+    "Dram MPC Jujur",
+    "Realiti Marhaen",
+    "Horn Megah"
+  ],
+  "popularGenres": [
+    "Conscious Rap",
+    "Boom Bap Malaysia",
+    "Street Anthem"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "dikir-barat-kelantan-trap-fusion",
+  "name": "Dikir Barat Kelantan Trap Fusion",
+  "category": "vibe",
+  "badge": "Dikir Barat Trap Fusi",
+  "headline": "Beat Dikir Barat Trap: Paluan Rebana Tradisional, Serunai & Drop 808 Gempak",
+  "description": "Kehebatan seni persembahan rakyat Pantai Timur: paluan berirama rebana dikir barat, tiupan serunai yang menusuk kalbu digabungkan bersama henjutan trap 808 bertaraf festival.",
+  "targetArtists": [
+    "Dikir Barat Fusi",
+    "Rap Pantai Timur",
+    "Kelantan Hip-Hop",
+    "Rebana Beat"
+  ],
+  "recommendedBpm": "120-130 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Paluan Rebana",
+    "Tiupan Serunai",
+    "Dikir Barat Trap",
+    "Hentakan Gempak"
+  ],
+  "popularGenres": [
+    "Folk Trap",
+    "Nusantara Fusion",
+    "Cultural Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "caklempong-negeri-sembilan-gamelan-trap",
+  "name": "Caklempong Negeri Sembilan Gamelan Trap",
+  "category": "vibe",
+  "badge": "Caklempong Minang Trap",
+  "headline": "Beat Caklempong Trap: Dentangan Gong Tembaga Lincah & Bass 808 Berkuasa",
+  "description": "Kehalusan seni muzik Minangkabau Negeri Sembilan: dentangan gong tembaga caklempong berirama pantas digabungkan bersama rentak dram trap terkini yang bertenaga.",
+  "targetArtists": [
+    "Muzik Caklempong",
+    "Rap Negeri Sembilan",
+    "Etnik Moden",
+    "Gamelan Beat"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Dentangan Caklempong",
+    "Gong Tembaga",
+    "Trap Bertenaga",
+    "Warisan Minang"
+  ],
+  "popularGenres": [
+    "Caklempong Trap",
+    "Ethnic Fusion",
+    "Nusantara Sound"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "masdo-retro-pop-60s-hiphop-fusion",
+  "name": "Masdo Retro Pop 60s Hiphop Fusion",
+  "category": "vibe",
+  "badge": "Masdo Retro Pop Yeh Yeh",
+  "headline": "Beat Fusi Masdo 60-an: Gitar Pop Yeh Yeh Retro, Bassline Hidup & Hip-Hop Ceria",
+  "description": "Nostalgia irama Pop Yeh Yeh tahun 60-an yang diberi nafas baharu: petikan gitar vintaj yang rancak, bassline hidup yang menari dan rentak hip-hop bersahaja yang menceriakan hari.",
+  "targetArtists": [
+    "Masdo Vibe",
+    "Pop Yeh Yeh",
+    "Bunga Maaf",
+    "Retro Hip-Hop",
+    "Muzik Santai"
+  ],
+  "recommendedBpm": "100-112 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Pop Yeh Yeh 60s",
+    "Gitar Vintaj",
+    "Bassline Hidup",
+    "Ceria & Menari"
+  ],
+  "popularGenres": [
+    "Retro Pop-Rap",
+    "Vintage Hip-Hop",
+    "Indie Pop"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "meerfly-haunted-melodic-drill-kl",
+  "name": "Meerfly Haunted Melodic Drill KL",
+  "category": "vibe",
+  "badge": "MeerFly Haunted Drill",
+  "headline": "Beat Gaya MeerFly: Melodic Drill Hantu, Kord Piano Mistik & 808 Lembah Klang",
+  "description": "Gelombang baharu drill ibu kota: kord piano bernada seram dan memukau, luncuran bass 808 berkembar dan melodi autotune yang menangkap realiti kehidupan malam kota raya.",
+  "targetArtists": [
+    "MeerFly",
+    "Haa Tu Dia",
+    "KL Drill",
+    "Haunted Sound",
+    "Def Jam"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Drill Hantu",
+    "Piano Mistik",
+    "808 Lembah Klang",
+    "Melodic Drill"
+  ],
+  "popularGenres": [
+    "Melodic Drill",
+    "KL Drill",
+    "Dark Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "chrono-x-jb-fast-drill-banger",
+  "name": "Chrono X JB Fast Drill Banger",
+  "category": "vibe",
+  "badge": "Chrono X JB Fast Drill",
+  "headline": "Beat Gaya Chrono X: Drill Selatan 142 BPM, Snare Tajam & Bass Bantai",
+  "description": "Kelajuan dan ketepatan rentak drill Johor: paluan hi-hat tigaan berkelajuan tinggi, tembakan snare bertalu-talu dan bass 808 padu yang menguasai jalanan.",
+  "targetArtists": [
+    "Chrono X",
+    "JB Drillers",
+    "Southside Fast Rap",
+    "Bantai Beat"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "142 BPM Laju",
+    "Hi-Hat Tigaan",
+    "Snare Tajam",
+    "Bass Bantai"
+  ],
+  "popularGenres": [
+    "Fast Drill",
+    "JB Drill",
+    "Hardcore Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "malique-too-phat-general-lyricist",
+  "name": "Malique Too Phat General Lyricist",
+  "category": "vibe",
+  "badge": "Malique Sang General Lirik",
+  "headline": "Beat Gaya Malique: Kord Sayu Bernyawa, Susunan Dram Mendalam & Sastera Agung",
+  "description": "Penghormatan kepada arkitek lirik terunggul tanah air: susunan muzik orkestra bernuansa syahdu, paluan dram klasik berwibawa dan ruang sempurna untuk rima bertaraf karya agung.",
+  "targetArtists": [
+    "Malique",
+    "Too Phat",
+    "Pejamkan Mata",
+    "Bawaku Pergi",
+    "General Lirik"
+  ],
+  "recommendedBpm": "85-92 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "Kord Sayu Bernyawa",
+    "Sastera Agung",
+    "General Lirik",
+    "Dram Klasik"
+  ],
+  "popularGenres": [
+    "Poetic Boom Bap",
+    "Conscious Hip-Hop",
+    "Classic M-Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "6"
+  ]
+},
+  {
+  "slug": "somba-sabah-kadazan-tribal-trap",
+  "name": "Somba Sabah Kadazan Tribal Trap",
+  "category": "vibe",
+  "badge": "Sompoton Sabah Etnik Trap",
+  "headline": "Beat Etnik Sabah: Alunan Sompoton Tradisional, Gong Kadazan & Bass 808 Megah",
+  "description": "Roh pergunungan Kinabalu: tiupan alat muzik mulut sompoton yang unik, paluan gong tembaga Kadazan-Dusun berpadu dengan ketukan trap moden yang megah.",
+  "targetArtists": [
+    "Muzik Etnik Sabah",
+    "Budaya Kadazan-Dusun",
+    "Borneo Wave",
+    "Folk Trap"
+  ],
+  "recommendedBpm": "120-130 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Tiupan Sompoton",
+    "Gong Kadazan",
+    "Roh Kinabalu",
+    "Bass 808 Megah"
+  ],
+  "popularGenres": [
+    "Borneo Folk Trap",
+    "Tribal Fusion",
+    "Sabah World Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "m-rap-all-star-cypher-beat",
+  "name": "M Rap All Star Cypher Beat",
+  "category": "vibe",
+  "badge": "M-Rap All-Star Cypher",
+  "headline": "Beat Cypher M-Rap: Pertukaran Rentak Berani, Brass Pertandingan & Hype Pentas",
+  "description": "Standard beat untuk acara cypher berbilang emcee: bahagian dram yang padu, perubahan dinamik yang memberi ruang kepada setiap rapper menunjukkan kehebatan tersendiri.",
+  "targetArtists": [
+    "All-Star Cypher",
+    "Battle Emcees",
+    "Pertandingan Rap",
+    "Pentasan Hype"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "D-Minor / F-Minor",
+  "vibeAttributes": [
+    "Pertukaran Rentak",
+    "Brass Pertandingan",
+    "Cypher Berbilang MC",
+    "Hype Pentas"
+  ],
+  "popularGenres": [
+    "Cypher Beat",
+    "M-Trap",
+    "Battle Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "beat-rap-malaysia-bawah-rm100-duitnow",
+  "name": "Beat Rap Malaysia Mampu Milik Bawah RM100 Bayar DuitNow QR",
+  "category": "genre",
+  "badge": "Beat Rap Mampu Milik RM100",
+  "headline": "Beat Rap Malaysia Bawah RM100: Bayar Pantas DuitNow & Muat Turun WAV Studio",
+  "description": "Peluang merakam karya profesional untuk pelajar dan penggiat muzik bebas dengan bajet berpatutan. Bayar dalam Ringgit Malaysia (RM) tanpa caj tersembunyi dan terima fail audio serta-merta.",
+  "targetArtists": [
+    "Pelajar & Belia",
+    "Rapper Baru",
+    "Projek Bajet Jimat"
+  ],
+  "recommendedBpm": "Semua Kelajuan BPM",
+  "recommendedKey": "Semua Kunci Lagu",
+  "vibeAttributes": [
+    "Bawah RM100",
+    "DuitNow QR",
+    "Harga Mampu Milik",
+    "WAV Berkualiti"
+  ],
+  "popularGenres": [
+    "M-Trap",
+    "Boom Bap",
+    "Lofi Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6"
+  ]
+},
+  {
+  "slug": "beat-rap-diss-battle-malaysia-bpm-90",
+  "name": "Beat Rap Diss dan Battle Malaysia BPM 90 Dram Padu Tanpa Tag",
+  "category": "genre",
+  "badge": "Battle Diss BPM 90",
+  "headline": "Beat Rap Diss Berbisa: Snare Tembakan Padat, Dram Berat & Tanpa Voice Tag",
+  "description": "Rentak khas untuk pertarungan lirik dan lagu diss penuh impak. Paluan dram yang pejal dan agresif memberi fokus sepenuhnya kepada ketajaman kata-kata dan kelancaran flow.",
+  "targetArtists": [
+    "Battle Emcees",
+    "Rapper Bawah Tanah",
+    "Pertarungan Rima"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Impak Berbisa",
+    "Snare Padat",
+    "Dram Berat",
+    "Tanpa Voice Tag"
+  ],
+  "popularGenres": [
+    "Battle Boom Bap",
+    "Hardcore Hip-Hop",
+    "Underground Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "beat-trap-melayu-moden-bass-808-padu",
+  "name": "Beat Trap Melayu Moden dengan Bass 808 Padu untuk Spotify Release",
+  "category": "genre",
+  "badge": "Trap Melayu Moden 808",
+  "headline": "Beat Trap Melayu Terkini: Bass 808 Bergetar Padu & Bersedia untuk Spotify",
+  "description": "Penerbitan trap bertaraf antarabangsa yang disesuaikan dengan cita rasa pendengar tempatan. Bass 808 yang mantap dan vokal bersuara jelas untuk pelancaran lagu komersial.",
+  "targetArtists": [
+    "Trappers Malaysia",
+    "Komposer Lagu Hip-Hop",
+    "Studio Rakaman"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Bass 808 Mantap",
+    "Trap Melayu Moden",
+    "Spotify Ready",
+    "Kualiti Master"
+  ],
+  "popularGenres": [
+    "M-Trap",
+    "Modern Hip-Hop",
+    "Club Beat"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "beat-rap-akustik-gitar-melodi-cinta-kl",
+  "name": "Beat Rap Akustik Gitar Melodi Cinta Santai untuk Penyanyi R&B",
+  "category": "genre",
+  "badge": "Akustik Rap Romantis",
+  "headline": "Beat Rap Gitar Nilon Santai: Alunan Kord Manis untuk Lagu Cinta & R&B",
+  "description": "Sentuhan melodi akustik yang menyentuh perasaan. Petikan gitar lembut bersulam rentak dram santai, amat sesuai untuk lagu bertemakan cinta, rindu dan pengharapan.",
+  "targetArtists": [
+    "Penyanyi R&B",
+    "Penulis Lagu Cinta",
+    "Rapper Jiwa Lembut"
+  ],
+  "recommendedBpm": "85-95 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Gitar Nilon Lembut",
+    "Melodi Cinta",
+    "Santai & Romantis",
+    "WAV Studio"
+  ],
+  "popularGenres": [
+    "Acoustic Rap",
+    "Melodic Hip-Hop",
+    "R&B Pop"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "beat-drill-nusantara-140-bpm-jb-style",
+  "name": "Beat Drill Nusantara 140 BPM Gaya JB dengan Luncuran Bass 808",
+  "category": "genre",
+  "badge": "140 BPM Drill Nusantara",
+  "headline": "Beat Drill Nusantara 140 BPM: Snare Berpusing, 808 Meluncur Ganas & Tanpa Tag",
+  "description": "Gelombang bunyi paling hangat dalam kalangan belia masa kini. Rentak dram drill 140 BPM yang bertenaga dengan luncuran sub-bass panjang untuk persembahan rap bertenaga.",
+  "targetArtists": [
+    "Drillers Nusantara",
+    "Penyanyi Drill Tempatan",
+    "Penggiat Muzik Jalanan"
+  ],
+  "recommendedBpm": "138-144 BPM",
+  "recommendedKey": "C-Minor / C-Sharp Minor",
+  "vibeAttributes": [
+    "140 BPM Drill",
+    "808 Meluncur Ganas",
+    "Snare Berpusing",
+    "Untagged WAV"
+  ],
+  "popularGenres": [
+    "Malaysian Drill",
+    "Nusantara Drill",
+    "Fast Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "pakej-beat-rap-lengkap-ep-album-malaysia",
+  "name": "Pakej Beat Rap Lengkap untuk Terbit EP atau Album di Malaysia (Diskaun)",
+  "category": "genre",
+  "badge": "Pakej Album Lengkap",
+  "headline": "Pakej Beat Album Padu: Kesinambungan Bunyi Studio & Sijil Hak Cipta MACP",
+  "description": "Siapkan projek EP atau album penuh anda dengan identiti bunyi yang selaras. Diskaun pakej khas dengan kelulusan komersial penuh untuk penstriman digital.",
+  "targetArtists": [
+    "Artis Pembikinan Album",
+    "Kumpulan Muzik Bebas",
+    "Penerbit Eksekutif"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Kesinambungan Bunyi",
+    "Diskaun Kombo",
+    "Lesen MACP Sah",
+    "Fail WAV Penuh"
+  ],
+  "popularGenres": [
+    "M-Trap",
+    "Boom Bap",
+    "R&B"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "beat-rap-etnik-gamelan-dikir-barat-fusion",
+  "name": "Beat Rap Etnik Gamelan dan Dikir Barat Fusi Tradisional Moden",
+  "category": "genre",
+  "badge": "Fusi Tradisional Moden",
+  "headline": "Beat Warisan Etnik Nusantara: Gamelan, Rebana Dikir & Hentakan Trap 808",
+  "description": "Memperkasakan seni tradisi ke persada dunia: adunan instrumen gamelan, rebana ubi dan tiupan serunai berpadu dengan ketukan trap moden yang mempesonakan.",
+  "targetArtists": [
+    "Rapper Tradisi",
+    "Lagu Patriotik Moden",
+    "Projek Kesenian"
+  ],
+  "recommendedBpm": "120-130 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Gamelan Warisan",
+    "Rebana Dikir",
+    "Tradisional Moden",
+    "Hentakan 808"
+  ],
+  "popularGenres": [
+    "Nusantara Trap",
+    "Folk Fusion",
+    "Cultural Beat"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "beat-rap-mudah-untuk-pemula-tulis-lirik",
+  "name": "Beat Rap Mudah untuk Pemula Mula Tulis Lirik dan Belajar Flow",
+  "category": "genre",
+  "badge": "Beat Pemula Mesra Flow",
+  "headline": "Beat Rap Mudah untuk Pemula: Ketukan Dram Jelas, Bar Teratur & Senang Masuk",
+  "description": "Struktur lagu yang jelas dengan 16 bar rangkap dan 8 bar korus. Ketukan kick dan snare yang nyata memudahkan pemula mengira rentak dan menyusun rima dengan yakin.",
+  "targetArtists": [
+    "Rapper Pemula",
+    "Latihan Menulis Lirik",
+    "Rakaman Pertama"
+  ],
+  "recommendedBpm": "90 BPM / 125 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Ketukan Dram Jelas",
+    "Bar Teratur",
+    "Senang Masuk Flow",
+    "Mesra Pemula"
+  ],
+  "popularGenres": [
+    "Boom Bap Asas",
+    "M-Trap Mudah",
+    "Easy Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "6"
+  ]
+},
+  {
+  "slug": "tempahan-beat-rap-custom-onzieb-kuala-lumpur",
+  "name": "Tempahan Beat Rap Custom Khas Terus dengan Producer Onzieb",
+  "category": "genre",
+  "badge": "Tempahan Khas Custom",
+  "headline": "Penerbitan Beat Khas Eksklusif: Rekaan Bunyi Unik Bersama Producer Onzieb",
+  "description": "Hasilkan instrumental eksklusif yang direka tepat mengikut kesesuaian vokal dan tema lagu anda. Trek dikeluarkan sepenuhnya daripada kedai dengan pemilikan hak cipta kekal.",
+  "targetArtists": [
+    "Artis Profesional",
+    "Projek Khas Single",
+    "Syarikat Rakaman"
+  ],
+  "recommendedBpm": "BPM Tempahan",
+  "recommendedKey": "Kunci Tempahan",
+  "vibeAttributes": [
+    "Eksklusif Sepenuhnya",
+    "Keluar dari Kedai",
+    "Kerjasama Langsung",
+    "Bunyi Khusus"
+  ],
+  "popularGenres": [
+    "M-Trap",
+    "Boom Bap",
+    "Malaysian Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "beat-rap-santai-lofi-kualiti-studio-wav",
+  "name": "Beat Rap Santai Lo-Fi Berkualiti Studio WAV 24-Bit untuk Rehat & Belajar",
+  "category": "genre",
+  "badge": "Lo-Fi Santai Studio WAV",
+  "headline": "Beat Rap Lo-Fi Bersahaja: Kord Piano Tenang, Bunyi Piring Hitam & Melodi Damai",
+  "description": "Koleksi muzik latar santai yang menenangkan fikiran. Bunyi gemersik piring hitam vintaj, kord piano elektrik yang mendamaikan untuk lagu santai dan sesi ulangkaji.",
+  "targetArtists": [
+    "Penggiat Lo-Fi",
+    "Lagu Santai",
+    "Pencipta Muzik Tenang"
+  ],
+  "recommendedBpm": "80-88 BPM",
+  "recommendedKey": "C-Major / F-Major",
+  "vibeAttributes": [
+    "Piano Tenang",
+    "Piring Hitam Vintaj",
+    "Damai & Rehat",
+    "WAV Studio 24-bit"
+  ],
+  "popularGenres": [
+    "Lo-Fi Hip-Hop",
+    "Chillhop",
+    "Mellow Rap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "subang-jaya-trap-malaysia-beats",
+  "name": "Subang Jaya Trap Malaysia Beats",
+  "category": "scene",
+  "badge": "Subang Jaya M-Trap Moden",
+  "headline": "Subang Jaya (USJ & Budaya Jalanan) Trap Malaysia Beats: Beat WAV & Bayar DuitNow QR",
+  "description": "Bass 808 padu bergetar, hi-hat laju dan kualiti studio WAV 24-bit bayar guna DuitNow QR untuk artis di Subang Jaya.",
+  "targetArtists": [
+    "Rapper Subang Jaya",
+    "Hip-Hop Malaysia Scene",
+    "M-Trap Malaysia"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Subang Jaya",
+    "M-Trap Moden",
+    "DuitNow QR & TNG",
+    "Sah MACP"
+  ],
+  "popularGenres": [
+    "Trap Malaysia Beats",
+    "M-Trap",
+    "Boom Bap Malaysia"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "subang-jaya-boombap-malaysia-classic",
+  "name": "Subang Jaya Boom Bap Malaysia Classic",
+  "category": "scene",
+  "badge": "Subang Jaya Boom Bap Klasik",
+  "headline": "Subang Jaya (USJ & Budaya Jalanan) Boom Bap Malaysia Classic: Beat WAV & Bayar DuitNow QR",
+  "description": "Dram analog padu era 90-an, sampel hangat dan rentak jalanan asli berjiwa santai diilhamkan dari Subang Jaya.",
+  "targetArtists": [
+    "Rapper Subang Jaya",
+    "Hip-Hop Malaysia Scene",
+    "M-Trap Malaysia"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Subang Jaya",
+    "Boom Bap Klasik",
+    "DuitNow QR & TNG",
+    "Sah MACP"
+  ],
+  "popularGenres": [
+    "Boom Bap Malaysia Classic",
+    "M-Trap",
+    "Boom Bap Malaysia"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "subang-jaya-borneo-sape-trap-fusion",
+  "name": "Subang Jaya Borneo Sape Trap Fusión",
+  "category": "scene",
+  "badge": "Subang Jaya Sape Trap Fusi",
+  "headline": "Subang Jaya (USJ & Budaya Jalanan) Borneo Sape Trap Fusión: Beat WAV & Bayar DuitNow QR",
+  "description": "Petikan merdu sape Dayak tradisional berpadu dengan henjutan trap 808 untuk rapper pejuang budaya di Subang Jaya.",
+  "targetArtists": [
+    "Rapper Subang Jaya",
+    "Hip-Hop Malaysia Scene",
+    "M-Trap Malaysia"
+  ],
+  "recommendedBpm": "120-130 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Subang Jaya",
+    "Sape Trap Fusi",
+    "DuitNow QR & TNG",
+    "Sah MACP"
+  ],
+  "popularGenres": [
+    "Borneo Sape Trap Fusión",
+    "M-Trap",
+    "Boom Bap Malaysia"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "subang-jaya-melodic-rnb-trap",
+  "name": "Subang Jaya Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Subang Jaya Melodic R&B",
+  "headline": "Subang Jaya (USJ & Budaya Jalanan) Melodic R&B Trap: Beat WAV & Bayar DuitNow QR",
+  "description": "Kord piano lembut, alunan pensintesis syahdu dan dram trap santai untuk lagu-lagu cinta di Subang Jaya.",
+  "targetArtists": [
+    "Rapper Subang Jaya",
+    "Hip-Hop Malaysia Scene",
+    "M-Trap Malaysia"
+  ],
+  "recommendedBpm": "95-108 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Subang Jaya",
+    "Melodic R&B",
+    "DuitNow QR & TNG",
+    "Sah MACP"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "M-Trap",
+    "Boom Bap Malaysia"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "alor-setar-trap-malaysia-beats",
+  "name": "Alor Setar Trap Malaysia Beats",
+  "category": "scene",
+  "badge": "Alor Setar M-Trap Moden",
+  "headline": "Alor Setar (Kedah & Jelapang Padi) Trap Malaysia Beats: Beat WAV & Bayar DuitNow QR",
+  "description": "Bass 808 padu bergetar, hi-hat laju dan kualiti studio WAV 24-bit bayar guna DuitNow QR untuk artis di Alor Setar.",
+  "targetArtists": [
+    "Rapper Alor Setar",
+    "Hip-Hop Malaysia Scene",
+    "M-Trap Malaysia"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Alor Setar",
+    "M-Trap Moden",
+    "DuitNow QR & TNG",
+    "Sah MACP"
+  ],
+  "popularGenres": [
+    "Trap Malaysia Beats",
+    "M-Trap",
+    "Boom Bap Malaysia"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "alor-setar-boombap-malaysia-classic",
+  "name": "Alor Setar Boom Bap Malaysia Classic",
+  "category": "scene",
+  "badge": "Alor Setar Boom Bap Klasik",
+  "headline": "Alor Setar (Kedah & Jelapang Padi) Boom Bap Malaysia Classic: Beat WAV & Bayar DuitNow QR",
+  "description": "Dram analog padu era 90-an, sampel hangat dan rentak jalanan asli berjiwa santai diilhamkan dari Alor Setar.",
+  "targetArtists": [
+    "Rapper Alor Setar",
+    "Hip-Hop Malaysia Scene",
+    "M-Trap Malaysia"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Alor Setar",
+    "Boom Bap Klasik",
+    "DuitNow QR & TNG",
+    "Sah MACP"
+  ],
+  "popularGenres": [
+    "Boom Bap Malaysia Classic",
+    "M-Trap",
+    "Boom Bap Malaysia"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "alor-setar-borneo-sape-trap-fusion",
+  "name": "Alor Setar Borneo Sape Trap Fusión",
+  "category": "scene",
+  "badge": "Alor Setar Sape Trap Fusi",
+  "headline": "Alor Setar (Kedah & Jelapang Padi) Borneo Sape Trap Fusión: Beat WAV & Bayar DuitNow QR",
+  "description": "Petikan merdu sape Dayak tradisional berpadu dengan henjutan trap 808 untuk rapper pejuang budaya di Alor Setar.",
+  "targetArtists": [
+    "Rapper Alor Setar",
+    "Hip-Hop Malaysia Scene",
+    "M-Trap Malaysia"
+  ],
+  "recommendedBpm": "120-130 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Alor Setar",
+    "Sape Trap Fusi",
+    "DuitNow QR & TNG",
+    "Sah MACP"
+  ],
+  "popularGenres": [
+    "Borneo Sape Trap Fusión",
+    "M-Trap",
+    "Boom Bap Malaysia"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "alor-setar-melodic-rnb-trap",
+  "name": "Alor Setar Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Alor Setar Melodic R&B",
+  "headline": "Alor Setar (Kedah & Jelapang Padi) Melodic R&B Trap: Beat WAV & Bayar DuitNow QR",
+  "description": "Kord piano lembut, alunan pensintesis syahdu dan dram trap santai untuk lagu-lagu cinta di Alor Setar.",
+  "targetArtists": [
+    "Rapper Alor Setar",
+    "Hip-Hop Malaysia Scene",
+    "M-Trap Malaysia"
+  ],
+  "recommendedBpm": "95-108 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Alor Setar",
+    "Melodic R&B",
+    "DuitNow QR & TNG",
+    "Sah MACP"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "M-Trap",
+    "Boom Bap Malaysia"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "kuantan-trap-malaysia-beats",
+  "name": "Kuantan Trap Malaysia Beats",
+  "category": "scene",
+  "badge": "Kuantan M-Trap Moden",
+  "headline": "Kuantan (Pantai Timur & Teluk Cempedak) Trap Malaysia Beats: Beat WAV & Bayar DuitNow QR",
+  "description": "Bass 808 padu bergetar, hi-hat laju dan kualiti studio WAV 24-bit bayar guna DuitNow QR untuk artis di Kuantan.",
+  "targetArtists": [
+    "Rapper Kuantan",
+    "Hip-Hop Malaysia Scene",
+    "M-Trap Malaysia"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Kuantan",
+    "M-Trap Moden",
+    "DuitNow QR & TNG",
+    "Sah MACP"
+  ],
+  "popularGenres": [
+    "Trap Malaysia Beats",
+    "M-Trap",
+    "Boom Bap Malaysia"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "kuantan-boombap-malaysia-classic",
+  "name": "Kuantan Boom Bap Malaysia Classic",
+  "category": "scene",
+  "badge": "Kuantan Boom Bap Klasik",
+  "headline": "Kuantan (Pantai Timur & Teluk Cempedak) Boom Bap Malaysia Classic: Beat WAV & Bayar DuitNow QR",
+  "description": "Dram analog padu era 90-an, sampel hangat dan rentak jalanan asli berjiwa santai diilhamkan dari Kuantan.",
+  "targetArtists": [
+    "Rapper Kuantan",
+    "Hip-Hop Malaysia Scene",
+    "M-Trap Malaysia"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Kuantan",
+    "Boom Bap Klasik",
+    "DuitNow QR & TNG",
+    "Sah MACP"
+  ],
+  "popularGenres": [
+    "Boom Bap Malaysia Classic",
+    "M-Trap",
+    "Boom Bap Malaysia"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "kuantan-borneo-sape-trap-fusion",
+  "name": "Kuantan Borneo Sape Trap Fusión",
+  "category": "scene",
+  "badge": "Kuantan Sape Trap Fusi",
+  "headline": "Kuantan (Pantai Timur & Teluk Cempedak) Borneo Sape Trap Fusión: Beat WAV & Bayar DuitNow QR",
+  "description": "Petikan merdu sape Dayak tradisional berpadu dengan henjutan trap 808 untuk rapper pejuang budaya di Kuantan.",
+  "targetArtists": [
+    "Rapper Kuantan",
+    "Hip-Hop Malaysia Scene",
+    "M-Trap Malaysia"
+  ],
+  "recommendedBpm": "120-130 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Kuantan",
+    "Sape Trap Fusi",
+    "DuitNow QR & TNG",
+    "Sah MACP"
+  ],
+  "popularGenres": [
+    "Borneo Sape Trap Fusión",
+    "M-Trap",
+    "Boom Bap Malaysia"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "kuantan-melodic-rnb-trap",
+  "name": "Kuantan Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Kuantan Melodic R&B",
+  "headline": "Kuantan (Pantai Timur & Teluk Cempedak) Melodic R&B Trap: Beat WAV & Bayar DuitNow QR",
+  "description": "Kord piano lembut, alunan pensintesis syahdu dan dram trap santai untuk lagu-lagu cinta di Kuantan.",
+  "targetArtists": [
+    "Rapper Kuantan",
+    "Hip-Hop Malaysia Scene",
+    "M-Trap Malaysia"
+  ],
+  "recommendedBpm": "95-108 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Kuantan",
+    "Melodic R&B",
+    "DuitNow QR & TNG",
+    "Sah MACP"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "M-Trap",
+    "Boom Bap Malaysia"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "kota-bharu-trap-malaysia-beats",
+  "name": "Kota Bharu Trap Malaysia Beats",
+  "category": "scene",
+  "badge": "Kota Bharu M-Trap Moden",
+  "headline": "Kota Bharu (Kelantan & Dikir Barat) Trap Malaysia Beats: Beat WAV & Bayar DuitNow QR",
+  "description": "Bass 808 padu bergetar, hi-hat laju dan kualiti studio WAV 24-bit bayar guna DuitNow QR untuk artis di Kota Bharu.",
+  "targetArtists": [
+    "Rapper Kota Bharu",
+    "Hip-Hop Malaysia Scene",
+    "M-Trap Malaysia"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Kota Bharu",
+    "M-Trap Moden",
+    "DuitNow QR & TNG",
+    "Sah MACP"
+  ],
+  "popularGenres": [
+    "Trap Malaysia Beats",
+    "M-Trap",
+    "Boom Bap Malaysia"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "kota-bharu-boombap-malaysia-classic",
+  "name": "Kota Bharu Boom Bap Malaysia Classic",
+  "category": "scene",
+  "badge": "Kota Bharu Boom Bap Klasik",
+  "headline": "Kota Bharu (Kelantan & Dikir Barat) Boom Bap Malaysia Classic: Beat WAV & Bayar DuitNow QR",
+  "description": "Dram analog padu era 90-an, sampel hangat dan rentak jalanan asli berjiwa santai diilhamkan dari Kota Bharu.",
+  "targetArtists": [
+    "Rapper Kota Bharu",
+    "Hip-Hop Malaysia Scene",
+    "M-Trap Malaysia"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Kota Bharu",
+    "Boom Bap Klasik",
+    "DuitNow QR & TNG",
+    "Sah MACP"
+  ],
+  "popularGenres": [
+    "Boom Bap Malaysia Classic",
+    "M-Trap",
+    "Boom Bap Malaysia"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "kota-bharu-borneo-sape-trap-fusion",
+  "name": "Kota Bharu Borneo Sape Trap Fusión",
+  "category": "scene",
+  "badge": "Kota Bharu Sape Trap Fusi",
+  "headline": "Kota Bharu (Kelantan & Dikir Barat) Borneo Sape Trap Fusión: Beat WAV & Bayar DuitNow QR",
+  "description": "Petikan merdu sape Dayak tradisional berpadu dengan henjutan trap 808 untuk rapper pejuang budaya di Kota Bharu.",
+  "targetArtists": [
+    "Rapper Kota Bharu",
+    "Hip-Hop Malaysia Scene",
+    "M-Trap Malaysia"
+  ],
+  "recommendedBpm": "120-130 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Kota Bharu",
+    "Sape Trap Fusi",
+    "DuitNow QR & TNG",
+    "Sah MACP"
+  ],
+  "popularGenres": [
+    "Borneo Sape Trap Fusión",
+    "M-Trap",
+    "Boom Bap Malaysia"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "kota-bharu-melodic-rnb-trap",
+  "name": "Kota Bharu Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Kota Bharu Melodic R&B",
+  "headline": "Kota Bharu (Kelantan & Dikir Barat) Melodic R&B Trap: Beat WAV & Bayar DuitNow QR",
+  "description": "Kord piano lembut, alunan pensintesis syahdu dan dram trap santai untuk lagu-lagu cinta di Kota Bharu.",
+  "targetArtists": [
+    "Rapper Kota Bharu",
+    "Hip-Hop Malaysia Scene",
+    "M-Trap Malaysia"
+  ],
+  "recommendedBpm": "95-108 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Kota Bharu",
+    "Melodic R&B",
+    "DuitNow QR & TNG",
+    "Sah MACP"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "M-Trap",
+    "Boom Bap Malaysia"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "seremban-trap-malaysia-beats",
+  "name": "Seremban Trap Malaysia Beats",
+  "category": "scene",
+  "badge": "Seremban M-Trap Moden",
+  "headline": "Seremban (Negeri Sembilan & Minang) Trap Malaysia Beats: Beat WAV & Bayar DuitNow QR",
+  "description": "Bass 808 padu bergetar, hi-hat laju dan kualiti studio WAV 24-bit bayar guna DuitNow QR untuk artis di Seremban.",
+  "targetArtists": [
+    "Rapper Seremban",
+    "Hip-Hop Malaysia Scene",
+    "M-Trap Malaysia"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Seremban",
+    "M-Trap Moden",
+    "DuitNow QR & TNG",
+    "Sah MACP"
+  ],
+  "popularGenres": [
+    "Trap Malaysia Beats",
+    "M-Trap",
+    "Boom Bap Malaysia"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "seremban-boombap-malaysia-classic",
+  "name": "Seremban Boom Bap Malaysia Classic",
+  "category": "scene",
+  "badge": "Seremban Boom Bap Klasik",
+  "headline": "Seremban (Negeri Sembilan & Minang) Boom Bap Malaysia Classic: Beat WAV & Bayar DuitNow QR",
+  "description": "Dram analog padu era 90-an, sampel hangat dan rentak jalanan asli berjiwa santai diilhamkan dari Seremban.",
+  "targetArtists": [
+    "Rapper Seremban",
+    "Hip-Hop Malaysia Scene",
+    "M-Trap Malaysia"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Seremban",
+    "Boom Bap Klasik",
+    "DuitNow QR & TNG",
+    "Sah MACP"
+  ],
+  "popularGenres": [
+    "Boom Bap Malaysia Classic",
+    "M-Trap",
+    "Boom Bap Malaysia"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "seremban-borneo-sape-trap-fusion",
+  "name": "Seremban Borneo Sape Trap Fusión",
+  "category": "scene",
+  "badge": "Seremban Sape Trap Fusi",
+  "headline": "Seremban (Negeri Sembilan & Minang) Borneo Sape Trap Fusión: Beat WAV & Bayar DuitNow QR",
+  "description": "Petikan merdu sape Dayak tradisional berpadu dengan henjutan trap 808 untuk rapper pejuang budaya di Seremban.",
+  "targetArtists": [
+    "Rapper Seremban",
+    "Hip-Hop Malaysia Scene",
+    "M-Trap Malaysia"
+  ],
+  "recommendedBpm": "120-130 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Seremban",
+    "Sape Trap Fusi",
+    "DuitNow QR & TNG",
+    "Sah MACP"
+  ],
+  "popularGenres": [
+    "Borneo Sape Trap Fusión",
+    "M-Trap",
+    "Boom Bap Malaysia"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "seremban-melodic-rnb-trap",
+  "name": "Seremban Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Seremban Melodic R&B",
+  "headline": "Seremban (Negeri Sembilan & Minang) Melodic R&B Trap: Beat WAV & Bayar DuitNow QR",
+  "description": "Kord piano lembut, alunan pensintesis syahdu dan dram trap santai untuk lagu-lagu cinta di Seremban.",
+  "targetArtists": [
+    "Rapper Seremban",
+    "Hip-Hop Malaysia Scene",
+    "M-Trap Malaysia"
+  ],
+  "recommendedBpm": "95-108 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Seremban",
+    "Melodic R&B",
+    "DuitNow QR & TNG",
+    "Sah MACP"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "M-Trap",
+    "Boom Bap Malaysia"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "cyberjaya-trap-malaysia-beats",
+  "name": "Cyberjaya Trap Malaysia Beats",
+  "category": "scene",
+  "badge": "Cyberjaya M-Trap Moden",
+  "headline": "Cyberjaya (Lembah Silikon Malaysia) Trap Malaysia Beats: Beat WAV & Bayar DuitNow QR",
+  "description": "Bass 808 padu bergetar, hi-hat laju dan kualiti studio WAV 24-bit bayar guna DuitNow QR untuk artis di Cyberjaya.",
+  "targetArtists": [
+    "Rapper Cyberjaya",
+    "Hip-Hop Malaysia Scene",
+    "M-Trap Malaysia"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Cyberjaya",
+    "M-Trap Moden",
+    "DuitNow QR & TNG",
+    "Sah MACP"
+  ],
+  "popularGenres": [
+    "Trap Malaysia Beats",
+    "M-Trap",
+    "Boom Bap Malaysia"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "cyberjaya-boombap-malaysia-classic",
+  "name": "Cyberjaya Boom Bap Malaysia Classic",
+  "category": "scene",
+  "badge": "Cyberjaya Boom Bap Klasik",
+  "headline": "Cyberjaya (Lembah Silikon Malaysia) Boom Bap Malaysia Classic: Beat WAV & Bayar DuitNow QR",
+  "description": "Dram analog padu era 90-an, sampel hangat dan rentak jalanan asli berjiwa santai diilhamkan dari Cyberjaya.",
+  "targetArtists": [
+    "Rapper Cyberjaya",
+    "Hip-Hop Malaysia Scene",
+    "M-Trap Malaysia"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Cyberjaya",
+    "Boom Bap Klasik",
+    "DuitNow QR & TNG",
+    "Sah MACP"
+  ],
+  "popularGenres": [
+    "Boom Bap Malaysia Classic",
+    "M-Trap",
+    "Boom Bap Malaysia"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "cyberjaya-borneo-sape-trap-fusion",
+  "name": "Cyberjaya Borneo Sape Trap Fusión",
+  "category": "scene",
+  "badge": "Cyberjaya Sape Trap Fusi",
+  "headline": "Cyberjaya (Lembah Silikon Malaysia) Borneo Sape Trap Fusión: Beat WAV & Bayar DuitNow QR",
+  "description": "Petikan merdu sape Dayak tradisional berpadu dengan henjutan trap 808 untuk rapper pejuang budaya di Cyberjaya.",
+  "targetArtists": [
+    "Rapper Cyberjaya",
+    "Hip-Hop Malaysia Scene",
+    "M-Trap Malaysia"
+  ],
+  "recommendedBpm": "120-130 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Cyberjaya",
+    "Sape Trap Fusi",
+    "DuitNow QR & TNG",
+    "Sah MACP"
+  ],
+  "popularGenres": [
+    "Borneo Sape Trap Fusión",
+    "M-Trap",
+    "Boom Bap Malaysia"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "cyberjaya-melodic-rnb-trap",
+  "name": "Cyberjaya Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Cyberjaya Melodic R&B",
+  "headline": "Cyberjaya (Lembah Silikon Malaysia) Melodic R&B Trap: Beat WAV & Bayar DuitNow QR",
+  "description": "Kord piano lembut, alunan pensintesis syahdu dan dram trap santai untuk lagu-lagu cinta di Cyberjaya.",
+  "targetArtists": [
+    "Rapper Cyberjaya",
+    "Hip-Hop Malaysia Scene",
+    "M-Trap Malaysia"
+  ],
+  "recommendedBpm": "95-108 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Cyberjaya",
+    "Melodic R&B",
+    "DuitNow QR & TNG",
+    "Sah MACP"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "M-Trap",
+    "Boom Bap Malaysia"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
 ];

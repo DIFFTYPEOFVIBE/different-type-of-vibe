@@ -30903,4 +30903,446 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
     }
   ]
 },
+  "my/subang-jaya-usj": {
+  "name": "Malaysia – Subang Jaya & USJ (Cradle Streetwear & Hip-Hop Belia)",
+  "flag": "🇲🇾",
+  "currency": "MYR (RM) / USD ($)",
+  "currencyCode": "MYR",
+  "gateways": "DuitNow QR, Touch 'n Go, GrabPay, FPX, Cards, Apple Pay, PayPal",
+  "pro": "MACP & MyIPO",
+  "proFullName": "MACP & MyIPO Malaysia",
+  "proGuide": "100% sah untuk edaran komersial global dan penstriman digital.",
+  "headline": "Beat Rap Subang Jaya: Street Culture USJ, Trap Moden & R&B Berjiwa Muda",
+  "description": "Kubu budaya jalanan dan streetwear belia Subang: rentak trap lincah, petikan kord elektrik piano yang memikat dan bass 808 kemas untuk muzik gaya hidup.",
+  "popularGenres": [
+    "Subang Street Trap",
+    "Youth R&B",
+    "Commercial Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Bolehkah saya edarkan lagu yang dirakam menggunakan beat ini di Spotify, Apple Music dan YouTube di Malaysia – Subang Jaya & USJ (Cradle Streetwear & Hip-Hop Belia)?",
+      "answer": "Ya, 100% PASTI BOLEH! Semua lesen komersial WAV dan MP3 daripada Different Type of Vibe merangkumi hak edaran komersial tanpa had di Spotify, Apple Music, YouTube, TikTok dan Joox. Anda mengekalkan 100% daripada royalti penstriman anda sebagai artis."
+    },
+    {
+      "question": "Adakah beat ini selamat daripada sekatan hak cipta YouTube Content ID dan MACP?",
+      "answer": "Pasti SELAMAT! Setiap trek adalah ciptaan 100% asli yang diterbitkan oleh Onzieb tanpa menggunakan sampel haram. Anda boleh mendaftarkan karya anda dengan Perbadanan Harta Intelek Malaysia (MyIPO) dan MACP tanpa sebarang risiko tuntutan atau sekatan hak cipta."
+    },
+    {
+      "question": "Apakah kaedah pembayaran yang disokong di Malaysia?",
+      "answer": "Anda boleh membuat pembayaran dalam Ringgit Malaysia (MYR RM) dengan mudah melalui DuitNow QR (imbas kod QR menggunakan mana-mana aplikasi bank di Malaysia seperti Maybank2u, CIMB Clicks, Public Bank, RHB, Hong Leong), Touch 'n Go eWallet, GrabPay, FPX Online Banking, kad debit/kredit tempatan, Apple Pay dan PayPal."
+    },
+    {
+      "question": "Bagaimanakah dan bilakah saya akan menerima fail audio tanpa voice tag (untagged)?",
+      "answer": "Sejurus selepas transaksi pembayaran berjaya (dalam beberapa saat melalui imbasan DuitNow QR), pautan muat turun rasmi untuk fail WAV 24-bit kualiti studio tanpa suara tag, fail MP3 320kbps dan dokumen perjanjian lesen rasmi PDF akan dihantar secara automatik ke e-mel anda."
+    }
+  ]
+},
+  "my/alor-setar-kedah": {
+  "name": "Malaysia – Alor Setar & Kedah (Jelapang Padi & Dialek Rap Utara)",
+  "flag": "🇲🇾",
+  "currency": "MYR (RM) / USD ($)",
+  "currencyCode": "MYR",
+  "gateways": "DuitNow QR, Touch 'n Go, GrabPay, FPX, Cards, Apple Pay, PayPal",
+  "pro": "MACP & MyIPO",
+  "proFullName": "MACP & MyIPO Malaysia",
+  "proGuide": "100% karya asli bebas saman hak cipta.",
+  "headline": "Beat Rap Alor Setar: Boom Bap Jelapang Padi, Dram Padu & Flow Pekat Kedah",
+  "description": "Keaslian desa dan ketegasan negeri jelapang padi: paluan dram analog yang kukuh, sampel jiwa yang hangat dan ruang luas untuk rima berdialek pekat.",
+  "popularGenres": [
+    "Kedah Boom Bap",
+    "Utara Street Rap",
+    "Conscious Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Bolehkah saya edarkan lagu yang dirakam menggunakan beat ini di Spotify, Apple Music dan YouTube di Malaysia – Alor Setar & Kedah (Jelapang Padi & Dialek Rap Utara)?",
+      "answer": "Ya, 100% PASTI BOLEH! Semua lesen komersial WAV dan MP3 daripada Different Type of Vibe merangkumi hak edaran komersial tanpa had di Spotify, Apple Music, YouTube, TikTok dan Joox. Anda mengekalkan 100% daripada royalti penstriman anda sebagai artis."
+    },
+    {
+      "question": "Adakah beat ini selamat daripada sekatan hak cipta YouTube Content ID dan MACP?",
+      "answer": "Pasti SELAMAT! Setiap trek adalah ciptaan 100% asli yang diterbitkan oleh Onzieb tanpa menggunakan sampel haram. Anda boleh mendaftarkan karya anda dengan Perbadanan Harta Intelek Malaysia (MyIPO) dan MACP tanpa sebarang risiko tuntutan atau sekatan hak cipta."
+    },
+    {
+      "question": "Apakah kaedah pembayaran yang disokong di Malaysia?",
+      "answer": "Anda boleh membuat pembayaran dalam Ringgit Malaysia (MYR RM) dengan mudah melalui DuitNow QR (imbas kod QR menggunakan mana-mana aplikasi bank di Malaysia seperti Maybank2u, CIMB Clicks, Public Bank, RHB, Hong Leong), Touch 'n Go eWallet, GrabPay, FPX Online Banking, kad debit/kredit tempatan, Apple Pay dan PayPal."
+    },
+    {
+      "question": "Bagaimanakah dan bilakah saya akan menerima fail audio tanpa voice tag (untagged)?",
+      "answer": "Sejurus selepas transaksi pembayaran berjaya (dalam beberapa saat melalui imbasan DuitNow QR), pautan muat turun rasmi untuk fail WAV 24-bit kualiti studio tanpa suara tag, fail MP3 320kbps dan dokumen perjanjian lesen rasmi PDF akan dihantar secara automatik ke e-mel anda."
+    }
+  ]
+},
+  "my/kuantan-pahang": {
+  "name": "Malaysia – Kuantan & Pahang (Pintu Pantai Timur & Lofi Teluk Cempedak)",
+  "flag": "🇲🇾",
+  "currency": "MYR (RM) / USD ($)",
+  "currencyCode": "MYR",
+  "gateways": "DuitNow QR, Touch 'n Go, GrabPay, FPX, Cards, Apple Pay, PayPal",
+  "pro": "MACP & MyIPO",
+  "proFullName": "MACP & MyIPO Malaysia",
+  "proGuide": "Fail WAV 24-bit tanpa mampatan.",
+  "headline": "Beat Rap Kuantan: Angin Laut Pantai Timur, Lofi Santai & Gitar Akustik",
+  "description": "Ketenangan bayu Laut China Selatan: petikan gitar akustik menenangkan, dengungan lofi hangat dan dram hip-hop bersahaja untuk lirik penceritaan santai.",
+  "popularGenres": [
+    "Kuantan Lofi",
+    "East Coast Acoustic",
+    "Chillhop Malaysia"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Bolehkah saya edarkan lagu yang dirakam menggunakan beat ini di Spotify, Apple Music dan YouTube di Malaysia – Kuantan & Pahang (Pintu Pantai Timur & Lofi Teluk Cempedak)?",
+      "answer": "Ya, 100% PASTI BOLEH! Semua lesen komersial WAV dan MP3 daripada Different Type of Vibe merangkumi hak edaran komersial tanpa had di Spotify, Apple Music, YouTube, TikTok dan Joox. Anda mengekalkan 100% daripada royalti penstriman anda sebagai artis."
+    },
+    {
+      "question": "Adakah beat ini selamat daripada sekatan hak cipta YouTube Content ID dan MACP?",
+      "answer": "Pasti SELAMAT! Setiap trek adalah ciptaan 100% asli yang diterbitkan oleh Onzieb tanpa menggunakan sampel haram. Anda boleh mendaftarkan karya anda dengan Perbadanan Harta Intelek Malaysia (MyIPO) dan MACP tanpa sebarang risiko tuntutan atau sekatan hak cipta."
+    },
+    {
+      "question": "Apakah kaedah pembayaran yang disokong di Malaysia?",
+      "answer": "Anda boleh membuat pembayaran dalam Ringgit Malaysia (MYR RM) dengan mudah melalui DuitNow QR (imbas kod QR menggunakan mana-mana aplikasi bank di Malaysia seperti Maybank2u, CIMB Clicks, Public Bank, RHB, Hong Leong), Touch 'n Go eWallet, GrabPay, FPX Online Banking, kad debit/kredit tempatan, Apple Pay dan PayPal."
+    },
+    {
+      "question": "Bagaimanakah dan bilakah saya akan menerima fail audio tanpa voice tag (untagged)?",
+      "answer": "Sejurus selepas transaksi pembayaran berjaya (dalam beberapa saat melalui imbasan DuitNow QR), pautan muat turun rasmi untuk fail WAV 24-bit kualiti studio tanpa suara tag, fail MP3 320kbps dan dokumen perjanjian lesen rasmi PDF akan dihantar secara automatik ke e-mel anda."
+    }
+  ]
+},
+  "my/kota-bharu-kelantan": {
+  "name": "Malaysia – Kota Bharu & Kelantan (Pusat Budaya & Fusi Dikir Barat Trap)",
+  "flag": "🇲🇾",
+  "currency": "MYR (RM) / USD ($)",
+  "currencyCode": "MYR",
+  "gateways": "DuitNow QR, Touch 'n Go, GrabPay, FPX, Cards, Apple Pay, PayPal",
+  "pro": "MACP & MyIPO",
+  "proFullName": "MACP & MyIPO Malaysia",
+  "proGuide": "Rakaman alat muzik tradisional asli tanpa isu hak cipta.",
+  "headline": "Beat Rap Kelantan: Paluan Rebana Dikir Barat, Serunai & Bass 808 Padu",
+  "description": "Pusat seni warisan Nusantara: paluan rebana ubi yang menggetarkan dada, tiupan serunai memukau digabungkan dengan drop trap moden untuk karya beridentiti kental.",
+  "popularGenres": [
+    "Dikir Barat Trap",
+    "Kelantan Hip-Hop",
+    "Etnik Fusi"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Dikir Barat Vibe",
+      "slug": "../../vibe/dikir-barat-kelantan-trap-fusion",
+      "description": "Paluan rebana dan serunai Dikir Barat berpadu bass 808."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Bolehkah saya edarkan lagu yang dirakam menggunakan beat ini di Spotify, Apple Music dan YouTube di Malaysia – Kota Bharu & Kelantan (Pusat Budaya & Fusi Dikir Barat Trap)?",
+      "answer": "Ya, 100% PASTI BOLEH! Semua lesen komersial WAV dan MP3 daripada Different Type of Vibe merangkumi hak edaran komersial tanpa had di Spotify, Apple Music, YouTube, TikTok dan Joox. Anda mengekalkan 100% daripada royalti penstriman anda sebagai artis."
+    },
+    {
+      "question": "Adakah beat ini selamat daripada sekatan hak cipta YouTube Content ID dan MACP?",
+      "answer": "Pasti SELAMAT! Setiap trek adalah ciptaan 100% asli yang diterbitkan oleh Onzieb tanpa menggunakan sampel haram. Anda boleh mendaftarkan karya anda dengan Perbadanan Harta Intelek Malaysia (MyIPO) dan MACP tanpa sebarang risiko tuntutan atau sekatan hak cipta."
+    },
+    {
+      "question": "Apakah kaedah pembayaran yang disokong di Malaysia?",
+      "answer": "Anda boleh membuat pembayaran dalam Ringgit Malaysia (MYR RM) dengan mudah melalui DuitNow QR (imbas kod QR menggunakan mana-mana aplikasi bank di Malaysia seperti Maybank2u, CIMB Clicks, Public Bank, RHB, Hong Leong), Touch 'n Go eWallet, GrabPay, FPX Online Banking, kad debit/kredit tempatan, Apple Pay dan PayPal."
+    },
+    {
+      "question": "Bagaimanakah dan bilakah saya akan menerima fail audio tanpa voice tag (untagged)?",
+      "answer": "Sejurus selepas transaksi pembayaran berjaya (dalam beberapa saat melalui imbasan DuitNow QR), pautan muat turun rasmi untuk fail WAV 24-bit kualiti studio tanpa suara tag, fail MP3 320kbps dan dokumen perjanjian lesen rasmi PDF akan dihantar secara automatik ke e-mel anda."
+    }
+  ]
+},
+  "my/kuala-terengganu-east-coast": {
+  "name": "Malaysia – Kuala Terengganu (Pesisir Pantai Timur & Irama Gamelan)",
+  "flag": "🇲🇾",
+  "currency": "MYR (RM) / USD ($)",
+  "currencyCode": "MYR",
+  "gateways": "DuitNow QR, Touch 'n Go, GrabPay, FPX, Cards, Apple Pay, PayPal",
+  "pro": "MACP & MyIPO",
+  "proFullName": "MACP & MyIPO Malaysia",
+  "proGuide": "100% hak cipta komersial penuh.",
+  "headline": "Beat Rap Terengganu: Gamelan Melayu Pesisir, Ombak Pantai & Melodic Rap",
+  "description": "Keanggunan warisan pesisir pantai: alunan bonang gamelan Melayu yang tenang, melodi pensintesis tropika dan rentak dram trap kemas untuk lagu berseni tinggi.",
+  "popularGenres": [
+    "Terengganu Melodic",
+    "Gamelan Trap",
+    "Coastal Beat"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Bolehkah saya edarkan lagu yang dirakam menggunakan beat ini di Spotify, Apple Music dan YouTube di Malaysia – Kuala Terengganu (Pesisir Pantai Timur & Irama Gamelan)?",
+      "answer": "Ya, 100% PASTI BOLEH! Semua lesen komersial WAV dan MP3 daripada Different Type of Vibe merangkumi hak edaran komersial tanpa had di Spotify, Apple Music, YouTube, TikTok dan Joox. Anda mengekalkan 100% daripada royalti penstriman anda sebagai artis."
+    },
+    {
+      "question": "Adakah beat ini selamat daripada sekatan hak cipta YouTube Content ID dan MACP?",
+      "answer": "Pasti SELAMAT! Setiap trek adalah ciptaan 100% asli yang diterbitkan oleh Onzieb tanpa menggunakan sampel haram. Anda boleh mendaftarkan karya anda dengan Perbadanan Harta Intelek Malaysia (MyIPO) dan MACP tanpa sebarang risiko tuntutan atau sekatan hak cipta."
+    },
+    {
+      "question": "Apakah kaedah pembayaran yang disokong di Malaysia?",
+      "answer": "Anda boleh membuat pembayaran dalam Ringgit Malaysia (MYR RM) dengan mudah melalui DuitNow QR (imbas kod QR menggunakan mana-mana aplikasi bank di Malaysia seperti Maybank2u, CIMB Clicks, Public Bank, RHB, Hong Leong), Touch 'n Go eWallet, GrabPay, FPX Online Banking, kad debit/kredit tempatan, Apple Pay dan PayPal."
+    },
+    {
+      "question": "Bagaimanakah dan bilakah saya akan menerima fail audio tanpa voice tag (untagged)?",
+      "answer": "Sejurus selepas transaksi pembayaran berjaya (dalam beberapa saat melalui imbasan DuitNow QR), pautan muat turun rasmi untuk fail WAV 24-bit kualiti studio tanpa suara tag, fail MP3 320kbps dan dokumen perjanjian lesen rasmi PDF akan dihantar secara automatik ke e-mel anda."
+    }
+  ]
+},
+  "my/seremban-negeri-sembilan": {
+  "name": "Malaysia – Seremban & Negeri Sembilan (Adat Perpatih & Caklempong Trap)",
+  "flag": "🇲🇾",
+  "currency": "MYR (RM) / USD ($)",
+  "currencyCode": "MYR",
+  "gateways": "DuitNow QR, Touch 'n Go, GrabPay, FPX, Cards, Apple Pay, PayPal",
+  "pro": "MACP & MyIPO",
+  "proFullName": "MACP & MyIPO Malaysia",
+  "proGuide": "100% bebas royalti terbit di Spotify dan YouTube.",
+  "headline": "Beat Rap Seremban: Dentangan Caklempong Minangkabau & Trap Berisi",
+  "description": "Keunikan adat dan warisan Negeri Sembilan: dentangan gong kecil caklempong berirama lincah bersatu dengan ritma trap moden untuk karya berjiwa pahlawan.",
+  "popularGenres": [
+    "Caklempong Trap",
+    "Negeri Sembilan Rap",
+    "Folk Fusion"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Caklempong Vibe",
+      "slug": "../../vibe/caklempong-negeri-sembilan-gamelan-trap",
+      "description": "Dentangan caklempong Minangkabau dengan trap moden."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Bolehkah saya edarkan lagu yang dirakam menggunakan beat ini di Spotify, Apple Music dan YouTube di Malaysia – Seremban & Negeri Sembilan (Adat Perpatih & Caklempong Trap)?",
+      "answer": "Ya, 100% PASTI BOLEH! Semua lesen komersial WAV dan MP3 daripada Different Type of Vibe merangkumi hak edaran komersial tanpa had di Spotify, Apple Music, YouTube, TikTok dan Joox. Anda mengekalkan 100% daripada royalti penstriman anda sebagai artis."
+    },
+    {
+      "question": "Adakah beat ini selamat daripada sekatan hak cipta YouTube Content ID dan MACP?",
+      "answer": "Pasti SELAMAT! Setiap trek adalah ciptaan 100% asli yang diterbitkan oleh Onzieb tanpa menggunakan sampel haram. Anda boleh mendaftarkan karya anda dengan Perbadanan Harta Intelek Malaysia (MyIPO) dan MACP tanpa sebarang risiko tuntutan atau sekatan hak cipta."
+    },
+    {
+      "question": "Apakah kaedah pembayaran yang disokong di Malaysia?",
+      "answer": "Anda boleh membuat pembayaran dalam Ringgit Malaysia (MYR RM) dengan mudah melalui DuitNow QR (imbas kod QR menggunakan mana-mana aplikasi bank di Malaysia seperti Maybank2u, CIMB Clicks, Public Bank, RHB, Hong Leong), Touch 'n Go eWallet, GrabPay, FPX Online Banking, kad debit/kredit tempatan, Apple Pay dan PayPal."
+    },
+    {
+      "question": "Bagaimanakah dan bilakah saya akan menerima fail audio tanpa voice tag (untagged)?",
+      "answer": "Sejurus selepas transaksi pembayaran berjaya (dalam beberapa saat melalui imbasan DuitNow QR), pautan muat turun rasmi untuk fail WAV 24-bit kualiti studio tanpa suara tag, fail MP3 320kbps dan dokumen perjanjian lesen rasmi PDF akan dihantar secara automatik ke e-mel anda."
+    }
+  ]
+},
+  "my/taiping-perak-heritage": {
+  "name": "Malaysia – Taiping & Larut (Bandar Hujan Warisan & Boom Bap Nostalgia)",
+  "flag": "🇲🇾",
+  "currency": "MYR (RM) / USD ($)",
+  "currencyCode": "MYR",
+  "gateways": "DuitNow QR, Touch 'n Go, GrabPay, FPX, Cards, Apple Pay, PayPal",
+  "pro": "MACP & MyIPO",
+  "proFullName": "MACP & MyIPO Malaysia",
+  "proGuide": "Surat perjanjian lesen komersial bertandatangan.",
+  "headline": "Beat Rap Taiping: Rintik Hujan Taman Tasik, Kord Jazz Sayu & Lofi Mellow",
+  "description": "Nostalgia bandar tertua berlatarkan kehijauan bukit: bunyi rintik hujan lembut, alunan kord piano elektrik bernuansa syahdu dan ketukan dram santai.",
+  "popularGenres": [
+    "Taiping Lofi",
+    "Rain City Boom Bap",
+    "Mellow Jazzhop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Bolehkah saya edarkan lagu yang dirakam menggunakan beat ini di Spotify, Apple Music dan YouTube di Malaysia – Taiping & Larut (Bandar Hujan Warisan & Boom Bap Nostalgia)?",
+      "answer": "Ya, 100% PASTI BOLEH! Semua lesen komersial WAV dan MP3 daripada Different Type of Vibe merangkumi hak edaran komersial tanpa had di Spotify, Apple Music, YouTube, TikTok dan Joox. Anda mengekalkan 100% daripada royalti penstriman anda sebagai artis."
+    },
+    {
+      "question": "Adakah beat ini selamat daripada sekatan hak cipta YouTube Content ID dan MACP?",
+      "answer": "Pasti SELAMAT! Setiap trek adalah ciptaan 100% asli yang diterbitkan oleh Onzieb tanpa menggunakan sampel haram. Anda boleh mendaftarkan karya anda dengan Perbadanan Harta Intelek Malaysia (MyIPO) dan MACP tanpa sebarang risiko tuntutan atau sekatan hak cipta."
+    },
+    {
+      "question": "Apakah kaedah pembayaran yang disokong di Malaysia?",
+      "answer": "Anda boleh membuat pembayaran dalam Ringgit Malaysia (MYR RM) dengan mudah melalui DuitNow QR (imbas kod QR menggunakan mana-mana aplikasi bank di Malaysia seperti Maybank2u, CIMB Clicks, Public Bank, RHB, Hong Leong), Touch 'n Go eWallet, GrabPay, FPX Online Banking, kad debit/kredit tempatan, Apple Pay dan PayPal."
+    },
+    {
+      "question": "Bagaimanakah dan bilakah saya akan menerima fail audio tanpa voice tag (untagged)?",
+      "answer": "Sejurus selepas transaksi pembayaran berjaya (dalam beberapa saat melalui imbasan DuitNow QR), pautan muat turun rasmi untuk fail WAV 24-bit kualiti studio tanpa suara tag, fail MP3 320kbps dan dokumen perjanjian lesen rasmi PDF akan dihantar secara automatik ke e-mel anda."
+    }
+  ]
+},
+  "my/miri-sarawak-oil-city": {
+  "name": "Malaysia – Miri & Utara Sarawak (Bandar Minyak & Street Drill Borneo)",
+  "flag": "🇲🇾",
+  "currency": "MYR (RM) / USD ($)",
+  "currencyCode": "MYR",
+  "gateways": "DuitNow QR, Touch 'n Go, GrabPay, FPX, Cards, Apple Pay, PayPal",
+  "pro": "MACP & MyIPO",
+  "proFullName": "MACP & MyIPO Malaysia",
+  "proGuide": "100% original instrumentation free of copyright strikes.",
+  "headline": "Beat Rap Miri: Street Drill Borneo, Luncuran 808 Berani & Kelab Pantai",
+  "description": "Tenaga segar bandar pesisir utara Sarawak: rentak drill bertenaga, hi-hat laju dan bass menggegar untuk lagu-lagu bersemangat anak muda Borneo.",
+  "popularGenres": [
+    "Miri Drill",
+    "North Sarawak Beat",
+    "Borneo Banger"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Bolehkah saya edarkan lagu yang dirakam menggunakan beat ini di Spotify, Apple Music dan YouTube di Malaysia – Miri & Utara Sarawak (Bandar Minyak & Street Drill Borneo)?",
+      "answer": "Ya, 100% PASTI BOLEH! Semua lesen komersial WAV dan MP3 daripada Different Type of Vibe merangkumi hak edaran komersial tanpa had di Spotify, Apple Music, YouTube, TikTok dan Joox. Anda mengekalkan 100% daripada royalti penstriman anda sebagai artis."
+    },
+    {
+      "question": "Adakah beat ini selamat daripada sekatan hak cipta YouTube Content ID dan MACP?",
+      "answer": "Pasti SELAMAT! Setiap trek adalah ciptaan 100% asli yang diterbitkan oleh Onzieb tanpa menggunakan sampel haram. Anda boleh mendaftarkan karya anda dengan Perbadanan Harta Intelek Malaysia (MyIPO) dan MACP tanpa sebarang risiko tuntutan atau sekatan hak cipta."
+    },
+    {
+      "question": "Apakah kaedah pembayaran yang disokong di Malaysia?",
+      "answer": "Anda boleh membuat pembayaran dalam Ringgit Malaysia (MYR RM) dengan mudah melalui DuitNow QR (imbas kod QR menggunakan mana-mana aplikasi bank di Malaysia seperti Maybank2u, CIMB Clicks, Public Bank, RHB, Hong Leong), Touch 'n Go eWallet, GrabPay, FPX Online Banking, kad debit/kredit tempatan, Apple Pay dan PayPal."
+    },
+    {
+      "question": "Bagaimanakah dan bilakah saya akan menerima fail audio tanpa voice tag (untagged)?",
+      "answer": "Sejurus selepas transaksi pembayaran berjaya (dalam beberapa saat melalui imbasan DuitNow QR), pautan muat turun rasmi untuk fail WAV 24-bit kualiti studio tanpa suara tag, fail MP3 320kbps dan dokumen perjanjian lesen rasmi PDF akan dihantar secara automatik ke e-mel anda."
+    }
+  ]
+},
+  "my/sandakan-sabah-nature": {
+  "name": "Malaysia – Sandakan & Pantai Timur Sabah (Gerbang Alam & Hip-Hop Pantai)",
+  "flag": "🇲🇾",
+  "currency": "MYR (RM) / USD ($)",
+  "currencyCode": "MYR",
+  "gateways": "DuitNow QR, Touch 'n Go, GrabPay, FPX, Cards, Apple Pay, PayPal",
+  "pro": "MACP & MyIPO",
+  "proFullName": "MACP & MyIPO Malaysia",
+  "proGuide": "Official signed PDF license contract included with every purchase.",
+  "headline": "Beat Rap Sandakan: Bayu Laut Sulu, Irama Etnik Sabah & Dancehall Bouncer",
+  "description": "Keindahan alam semula jadi pantai timur Sabah: paluan perkusi pulau, melodi trap rancak dan vokal ruang luas untuk lagu-lagu hip-hop bersemangat.",
+  "popularGenres": [
+    "Sandakan Beat",
+    "East Coast Sabah Rap",
+    "Island Dancehall"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Bolehkah saya edarkan lagu yang dirakam menggunakan beat ini di Spotify, Apple Music dan YouTube di Malaysia – Sandakan & Pantai Timur Sabah (Gerbang Alam & Hip-Hop Pantai)?",
+      "answer": "Ya, 100% PASTI BOLEH! Semua lesen komersial WAV dan MP3 daripada Different Type of Vibe merangkumi hak edaran komersial tanpa had di Spotify, Apple Music, YouTube, TikTok dan Joox. Anda mengekalkan 100% daripada royalti penstriman anda sebagai artis."
+    },
+    {
+      "question": "Adakah beat ini selamat daripada sekatan hak cipta YouTube Content ID dan MACP?",
+      "answer": "Pasti SELAMAT! Setiap trek adalah ciptaan 100% asli yang diterbitkan oleh Onzieb tanpa menggunakan sampel haram. Anda boleh mendaftarkan karya anda dengan Perbadanan Harta Intelek Malaysia (MyIPO) dan MACP tanpa sebarang risiko tuntutan atau sekatan hak cipta."
+    },
+    {
+      "question": "Apakah kaedah pembayaran yang disokong di Malaysia?",
+      "answer": "Anda boleh membuat pembayaran dalam Ringgit Malaysia (MYR RM) dengan mudah melalui DuitNow QR (imbas kod QR menggunakan mana-mana aplikasi bank di Malaysia seperti Maybank2u, CIMB Clicks, Public Bank, RHB, Hong Leong), Touch 'n Go eWallet, GrabPay, FPX Online Banking, kad debit/kredit tempatan, Apple Pay dan PayPal."
+    },
+    {
+      "question": "Bagaimanakah dan bilakah saya akan menerima fail audio tanpa voice tag (untagged)?",
+      "answer": "Sejurus selepas transaksi pembayaran berjaya (dalam beberapa saat melalui imbasan DuitNow QR), pautan muat turun rasmi untuk fail WAV 24-bit kualiti studio tanpa suara tag, fail MP3 320kbps dan dokumen perjanjian lesen rasmi PDF akan dihantar secara automatik ke e-mel anda."
+    }
+  ]
+},
+  "my/cyberjaya-putrajaya": {
+  "name": "Malaysia – Cyberjaya & Putrajaya (Hab Teknologi Pintar & Cyber Trap)",
+  "flag": "🇲🇾",
+  "currency": "MYR (RM) / USD ($)",
+  "currencyCode": "MYR",
+  "gateways": "DuitNow QR, Touch 'n Go, GrabPay, FPX, Cards, Apple Pay, PayPal",
+  "pro": "MACP & MyIPO",
+  "proFullName": "MACP & MyIPO Malaysia",
+  "proGuide": "100% legal for digital streaming and music video monetization.",
+  "headline": "Beat Rap Cyberjaya: Cyberpunk Trap Futuristik, Synth Elektronik & 808 Padu",
+  "description": "Irama berteknologi tinggi dari lembah silikon Malaysia: pensintesis digital canggih, alunan bass 808 berkuasa tinggi dan rentak moden untuk generasi masa depan.",
+  "popularGenres": [
+    "Cyberpunk Trap",
+    "High-Tech Hip-Hop",
+    "Futuristic Beat"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Bolehkah saya edarkan lagu yang dirakam menggunakan beat ini di Spotify, Apple Music dan YouTube di Malaysia – Cyberjaya & Putrajaya (Hab Teknologi Pintar & Cyber Trap)?",
+      "answer": "Ya, 100% PASTI BOLEH! Semua lesen komersial WAV dan MP3 daripada Different Type of Vibe merangkumi hak edaran komersial tanpa had di Spotify, Apple Music, YouTube, TikTok dan Joox. Anda mengekalkan 100% daripada royalti penstriman anda sebagai artis."
+    },
+    {
+      "question": "Adakah beat ini selamat daripada sekatan hak cipta YouTube Content ID dan MACP?",
+      "answer": "Pasti SELAMAT! Setiap trek adalah ciptaan 100% asli yang diterbitkan oleh Onzieb tanpa menggunakan sampel haram. Anda boleh mendaftarkan karya anda dengan Perbadanan Harta Intelek Malaysia (MyIPO) dan MACP tanpa sebarang risiko tuntutan atau sekatan hak cipta."
+    },
+    {
+      "question": "Apakah kaedah pembayaran yang disokong di Malaysia?",
+      "answer": "Anda boleh membuat pembayaran dalam Ringgit Malaysia (MYR RM) dengan mudah melalui DuitNow QR (imbas kod QR menggunakan mana-mana aplikasi bank di Malaysia seperti Maybank2u, CIMB Clicks, Public Bank, RHB, Hong Leong), Touch 'n Go eWallet, GrabPay, FPX Online Banking, kad debit/kredit tempatan, Apple Pay dan PayPal."
+    },
+    {
+      "question": "Bagaimanakah dan bilakah saya akan menerima fail audio tanpa voice tag (untagged)?",
+      "answer": "Sejurus selepas transaksi pembayaran berjaya (dalam beberapa saat melalui imbasan DuitNow QR), pautan muat turun rasmi untuk fail WAV 24-bit kualiti studio tanpa suara tag, fail MP3 320kbps dan dokumen perjanjian lesen rasmi PDF akan dihantar secara automatik ke e-mel anda."
+    }
+  ]
+},
 };
