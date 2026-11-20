@@ -105790,4 +105790,1297 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "1"
   ]
 },
+  {
+  "slug": "valmar-party-pop-rap-banger",
+  "title": "VALMAR Úristen Pop-Rap Party Banger & Fülbemászó Szinti Beat",
+  "description": "Elképesztően energikus, táncolható és stadionokat megmozgató pop-rap party zenei alap a VALMAR (Marics Peti & Valkusz Milán / Úristen, Éget a nap, Visz a vérem) stílusában: húzós szinti basszus, pezsgő ritmus és fülbemászó refrén.",
+  "targetKeywords": [
+    "valmar type beat",
+    "uristen valmar instrumental",
+    "party pop rap magyarorszag",
+    "valmar eget a nap beat",
+    "marics peti type beat"
+  ],
+  "heroCta": "VALMAR Stílusú Beat Vásárlás (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Fesztivál Himnusz, Házibuli Sláger és Rádiós Pop Dal",
+  "similarArtists": [
+    "VALMAR",
+    "Manuel",
+    "T. Danny",
+    "Bruno x Spacc"
+  ],
+  "recommendedBpm": "124-130 BPM",
+  "productionTips": "Feszes elektronikus dobok, fényes szintetizátorok és táncolható szinti-basszusmenet.",
+  "idealVocalStyle": "Dallamos ének, vidám és laza party szövegelés, azonnal énekelhető refrének.",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "Garantáltan a rádiók (Rádió 1, Petőfi) és a felkapott YouTube listák élére repít."
+},
+  {
+  "slug": "kkevin-luxury-trap-high-roller",
+  "title": "KKevin Luxus Trap & Csúszó 808 Basszusok Banger Beat",
+  "description": "Magabiztos, luxus életérzést sugárzó trap zenei alap KKevin stílusában (Csavargó, Ciao, Bentley, Nincsen Kérdés), éles pergőkkel, fényes harangokkal és súlyos csúszó 808-cal.",
+  "targetKeywords": [
+    "kkevin type beat",
+    "csavargo kkevin instrumental",
+    "luxus trap magyarorszag beat",
+    "kkevin ciao beat",
+    "budapest luxury trap 808"
+  ],
+  "heroCta": "KKevin Stílusú Beat Vásárlás (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Klubzene, Autós Videoklip és Magabiztos Trap Szövegelés",
+  "similarArtists": [
+    "KKevin",
+    "T. Danny",
+    "L.L. Junior",
+    "AK26"
+  ],
+  "recommendedBpm": "134-140 BPM",
+  "productionTips": "Pengeéles claps, kristálytiszta lebegő szintetizátorok és agresszíven csúszó mély 808-asok.",
+  "idealVocalStyle": "Magabiztos, lezser flow, luxus életstílus témák és fülbemászó refrének.",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "Tökéletes a klubokba, éjszakai autózásokhoz és az élen járó rap lejátszási listákhoz."
+},
+  {
+  "slug": "young-fly-latin-trap-reggaeton",
+  "title": "Young Fly Latin-Trap Fúzió & Spanyolgitár Reggaeton Beat",
+  "description": "Forró, táncolható és energikus latin-trap zenei alap Young Fly stílusában (Gáz, Várj még, Kavar a szél), tüzes akusztikus spanyolgitárral, Dembow ritmikával és fülbemászó dallamokkal.",
+  "targetKeywords": [
+    "young fly type beat",
+    "latin trap magyarorszag",
+    "reggaeton trap beat budapest",
+    "young fly gaz instrumental",
+    "spanyolgitáros trap alap"
+  ],
+  "heroCta": "Latin-Trap Beat Vásárlás (Kereskedelmi Licenc)",
+  "energyLevel": "High",
+  "primaryUse": "Nyári Klubsláger, Táncolható Rap és Rádióbarát Kislemez",
+  "similarArtists": [
+    "Young Fly",
+    "DESH",
+    "Azahriah",
+    "Manuel"
+  ],
+  "recommendedBpm": "105-112 BPM",
+  "productionTips": "Virtuóz spanyolgitár kíséret enyhe analóg melegséggel és feszes Dembow ritmikával.",
+  "idealVocalStyle": "Ritmikus, dallamos szövegelés latin hajlításokkal és fülbemászó refrénnel.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Kiemelkedő virális terjedés a TikTokon és nyári balatoni partikon."
+},
+  {
+  "slug": "co-lee-jazz-rap-english-hungarian",
+  "title": "Co Lee Kétnyelvű Jazz-Rap & Meleg Rhodes Zongora Beat",
+  "description": "Kifinomult, elegáns és nemzetközi színvonalú jazz-rap zenei alap Co Lee stílusában (Cirque de L'homme, Ice Coffee, Beatrice), lágy Rhodes elektromos zongorával, élő basszusjátékkal és laza groove-val.",
+  "targetKeywords": [
+    "co lee type beat",
+    "jazz rap budapest beat",
+    "cirque de lhomme instrumental",
+    "lofi jazz hip hop magyarorszag",
+    "co lee beat"
+  ],
+  "heroCta": "Jazz-Rap Beat Vásárlás (WAV 24-bit)",
+  "energyLevel": "Medium",
+  "primaryUse": "Intellektuális Rap, Kétnyelvű Dalszövegek és Vizuálisan Igényes Klipek",
+  "similarArtists": [
+    "Co Lee",
+    "Beton.Hofi",
+    "Hundred Sins",
+    "Tom Misch"
+  ],
+  "recommendedBpm": "86-92 BPM",
+  "productionTips": "Valódi jazzes harmóniamenetek meleg analóg kompresszióval és élő hatású dobokkal.",
+  "idealVocalStyle": "Laza, könnyed kétnyelvű (magyar/angol) flow, intelligens rímek és közvetlen hangvétel.",
+  "suggestedKey": "Ab Major",
+  "streamingSuitability": "Kiváló elismertség a zenei kritikusoknál, nemzetközi lejátszási listákon és klubesteken."
+},
+  {
+  "slug": "bruno-x-spacc-club-trap-bounce",
+  "title": "Bruno x Spacc Fiatalos Klub Trap & Pattogós Ritmika Beat",
+  "description": "Fülbemászó, laza és modern ifjúsági klub trap zenei alap a Bruno x Spacc duó stílusában (Vakmeleg, Aham, Paranoja), pattogós lábdobokkal, fülbemászó dallamokkal és házibuli hangulattal.",
+  "targetKeywords": [
+    "bruno x spacc type beat",
+    "vakmeleg instrumental",
+    "fiatalos trap beat budapest",
+    "bruno x spacc aham beat",
+    "party trap magyar"
+  ],
+  "heroCta": "Klub Trap Beat Vásárlás (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Klubzene, Házibuli Sláger és Fiatalos Videoklip",
+  "similarArtists": [
+    "Bruno x Spacc",
+    "Valmar",
+    "Manuel",
+    "KKevin"
+  ],
+  "recommendedBpm": "128-134 BPM",
+  "productionTips": "Feszes ritmika, fényes szintetizátor motívumok és tiszta, táncolható 808-as mélyek.",
+  "idealVocalStyle": "Fiatalos, pimasz szövegelés, váltott rap versszakok és könnyen megjegyezhető refrén.",
+  "suggestedKey": "G Minor",
+  "streamingSuitability": "Elsöprő népszerűség a tinédzser és egyetemista korosztályban, valamint a TikTokon."
+},
+  {
+  "slug": "dopeman-nyolcker-old-school-gangsta",
+  "title": "Dopeman Nyolcker G-Funk & Nyugati Parti Régi Sulis Beat",
+  "description": "Kemény, autentikus 90-es évekbeli West Coast gangsta rap zenei alap Dopeman stílusában (Magyarország rémálma, Oskola, Enyém a világ): magas G-Funk szintik, gördülő mélyek és súlyos dobok.",
+  "targetKeywords": [
+    "dopeman type beat",
+    "nyolcker rap beat",
+    "g funk magyar rap beat",
+    "dopeman oskola instrumental",
+    "gangsta rap budapest 90s"
+  ],
+  "heroCta": "G-Funk Beat Vásárlás (WAV Mastered)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Klasszikus Gangsta Rap, Utcai Himnusz és Régi Sulis Történetmesélés",
+  "similarArtists": [
+    "Dopeman",
+    "Ganxsta Zolee",
+    "L.L. Junior",
+    "B.U.G. Mafia"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "productionTips": "Klasszikus Moog szinti lead a felső oktávokban, vastag basszusvonal és tiszta akusztikus pergők.",
+  "idealVocalStyle": "Öblös, magabiztos hang, kemény szembesítő szövegek és tiszteletet parancsoló jelenlét.",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "Igazi nosztalgikus gyöngyszem a klasszikus gengszterrap és az utcai szövegek rajongóinak."
+},
+  {
+  "slug": "akkezdet-phiai-intellectual-poetry",
+  "title": "Akkezdet Phiai (AKPH) Szofisztikált Lirika & Jazz-Hop Beat",
+  "description": "Intellektuális, többrétegű és költői hip-hop alap az Akkezdet Phiai (AKPH / Saiid & Újonc / Kottazűr) öröksége nyomán: jazzes trombiták, füstös zongora és komplex ritmika a legigényesebb szövegekhez.",
+  "targetKeywords": [
+    "akkezdet phiai type beat",
+    "akph instrumental kottazur",
+    "jazz hop budapest beat",
+    "saiid ujonc style beat",
+    "intellektualis rap beat"
+  ],
+  "heroCta": "Jazz-Hop Beat Vásárlás (WAV 24-bit)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Költői Rap, Slam Poetry, Irodalmi Hiphop és Album Kiemelt Dal",
+  "similarArtists": [
+    "Akkezdet Phiai",
+    "Saiid",
+    "Újonc",
+    "Slow Village"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "productionTips": "Füstös jazzklub hangulat, laza analóg swing és meleg nagybőgő futamok.",
+  "idealVocalStyle": "Többszótagos rímek, szójátékok, intellektuális mélység és precíz ritmikai képletek.",
+  "suggestedKey": "F Minor",
+  "streamingSuitability": "Időtálló érték a magyar irodalmi hip-hop rajongói és az igényes zenehallgatók körében."
+},
+  {
+  "slug": "erdely-szekely-folk-trap-crossover",
+  "title": "Erdélyi Székely Népzenei Fúzió & Furulya Trap 808 Beat",
+  "description": "Mágikus és büszke kárpát-medencei fúzió: az erdélyi és székely népzene ősi pásztorfurulya dallamai és hegedűfutamai találkoznak a modern 808-as trap robbanékony erejével.",
+  "targetKeywords": [
+    "erdelyi nepzene trap beat",
+    "szekely nepzene rap beat",
+    "furulya trap beat magyar",
+    "karpat medence trap fuzio",
+    "erdelyi rap beat 808"
+  ],
+  "heroCta": "Erdélyi Trap Vásárlás (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Nemzeti Összetartozás Dala, Történelmi Rap és Fesztivál Sláger",
+  "similarArtists": [
+    "Subcarpați",
+    "Kormorán",
+    "Ismerős Arcok",
+    "Bagossy Brothers Company"
+  ],
+  "recommendedBpm": "126-134 BPM",
+  "productionTips": "Autentikus fafurulya és hegedű dallamok tágas térrel, alátámasztva egy erőteljes mélybasszussal.",
+  "idealVocalStyle": "Hazaí, büszke szövegek, népdal motívumok vagy modern pergő rap előadásmód.",
+  "suggestedKey": "D Minor / Pentaton",
+  "streamingSuitability": "Kiemelkedő érzelmi hatás az anyaországban és a határon túli magyarság körében egyaránt."
+},
+  {
+  "slug": "kalotaszeg-legenyebur-trap-fusion",
+  "title": "Kalotaszegi Legényes Népzene & Gyors Trap Ritmika Beat",
+  "description": "Rendkívül dinamikus és virtuóz népzenei találkozás: a kalotaszegi legényes táncritmusa és brácsakísérete átültetve a modern elektronikus trap feszes és energikus világába.",
+  "targetKeywords": [
+    "kalotaszegi legenyas trap beat",
+    "bracsa nepzene rap beat",
+    "magyar legenyas trap fuzio",
+    "folklor elektronika trap beat",
+    "kalotaszegi beat 808"
+  ],
+  "heroCta": "Legényes Trap Vásárlás (WAV Mastered)",
+  "energyLevel": "Very High",
+  "primaryUse": "Virtuóz Zenei Fúzió, Táncos Videoklip és Színpadi Show Elem",
+  "similarArtists": [
+    "Lajkó Félix",
+    "Csík Zenekar",
+    "Subcarpați",
+    "Besh o droM"
+  ],
+  "recommendedBpm": "132-138 BPM",
+  "productionTips": "Hagyományos brácsás és hegedűs akkordozás kombinálva agresszív lábdobokkal és trap cinekkel.",
+  "idealVocalStyle": "Gyors ritmusú rap, népi kurjantások vagy modern táncos ének.",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "Rendkívüli figyelemfelkeltő erő a nemzetközi világzenei és elektronikus fesztiválokon."
+},
+  {
+  "slug": "csardas-fast-tempo-folk-trap",
+  "title": "Gyors Csárdás Hegedű & Fesztivál Trap 138 BPM Beat",
+  "description": "Féktelen és elsöprő erejű magyar csárdás fúzió: a lassú kezdésből bámulatos tempógyorsulással robbanó hegedűjáték találkozik a 138 BPM-es fesztivál trap tombolásával.",
+  "targetKeywords": [
+    "csardas trap beat",
+    "gyors csardas rap beat",
+    "magyar csardas remix 808",
+    "hegedus fesztival trap magyarorszag",
+    "csardas trap banger 138 bpm"
+  ],
+  "heroCta": "Csárdás Trap Vásárlás (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Fesztivál Nagyszínpad, Élő Koncertcsúcspont és Táncos Klipek",
+  "similarArtists": [
+    "Subcarpați",
+    "Besh o droM",
+    "Kura",
+    "Yellow Claw"
+  ],
+  "recommendedBpm": "136-140 BPM",
+  "productionTips": "Élő hegedű felvétel természetes tremolóval kombinálva pusztító erejű 808-as mélyekkel.",
+  "idealVocalStyle": "Tömegmozgató bekiabálások, feszes ritmikai rímek és energikus ének.",
+  "suggestedKey": "G Minor",
+  "streamingSuitability": "Arénák, sportesemények és nagyszínpados fellépések tökéletes hangulata."
+},
+  {
+  "slug": "petofi-sandor-patriotic-conscious-rap",
+  "title": "Petőfi Sándor Lánglelkű Hazafias Rap & Epikus Vonósok Beat",
+  "description": "Magasztos és lánglelkű hazafias rap zenei alap Petőfi Sándor forradalmi költészetének szellemében: drámai szimfonikus vonósok, zongorás akkordok és ünnepélyes, büszke dobok.",
+  "targetKeywords": [
+    "petofi sandor rap beat",
+    "hazafias rap zenei alap",
+    "forradalmi magyar hip hop beat",
+    "epikus szimfonikus rap zene",
+    "magyarorszag buszke beat"
+  ],
+  "heroCta": "Hazafias Rap Beat Vásárlás (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Nemzeti Ünnepek, Történelmi Videoklipek és Elhivatott Rap",
+  "similarArtists": [
+    "Ismerős Arcok",
+    "Kormorán",
+    "Kárpátia",
+    "Beton.Hofi"
+  ],
+  "recommendedBpm": "86-92 BPM",
+  "productionTips": "Teljes szimfonikus zenekari hatás élő jellegű akusztikus lábdobbal és pergetett pergőkkel.",
+  "idealVocalStyle": "Emelkedett, szenvedélyes előadásmód, történelmi mélységű költői rímekkel.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Kiemelkedő kulturális és hazafias érték, nemzeti évfordulókon hatalmas eléréssel."
+},
+  {
+  "slug": "sziget-festival-mainstage-trap-anthem",
+  "title": "Sziget Festival Nagyszínpad Trap Himnusz & Fesztivál Szintik Beat",
+  "description": "Az Óbudai-sziget és a Sziget Fesztivál szabadságérzése egyetlen grandiózus elektronikus trap himnuszban: eufórikus szintetizátorok, felpörgő dropok és tomboló 808-as basszusok.",
+  "targetKeywords": [
+    "sziget festival trap beat",
+    "fesztival trap nagyszinpad beat",
+    "budapest festival trap banger",
+    "sziget himnusz elektronikus rap",
+    "mainstage trap 140 bpm"
+  ],
+  "heroCta": "Fesztivál Himnusz Vásárlás (WAV Mastered)",
+  "energyLevel": "Very High",
+  "primaryUse": "Fesztivál Nagyszínpad, Nemzetközi Nyári Himnusz és Partivideó",
+  "similarArtists": [
+    "Martin Garrix",
+    "Skrillex",
+    "Azahriah",
+    "Steve Aoki"
+  ],
+  "recommendedBpm": "138-144 BPM",
+  "productionTips": "Szuperszéles sztereó tér, ragyogó szintetizátor akkordok és tiszta, átütő lábdob.",
+  "idealVocalStyle": "Angol vagy magyar nyelvű fesztivál refrén, tömeget megmozgató ének.",
+  "suggestedKey": "F Minor",
+  "streamingSuitability": "Nemzetközi szintű hangzás a nyári fesztiválszezon csúcsára tervezve."
+},
+  {
+  "slug": "olcso-trap-beatek-simplepay-magyarorszag",
+  "title": "Olcsó Trap Beatek 5000 Ft-tól SimplePay Fizetéssel (Fiataloknak)",
+  "description": "Kiváló minőségű és megfizethető trap és drill zenei alapok kezdő és feltörekvő előadóknak már 5000 Ft-tól, kényelmes és biztonságos SimplePay bankkártyás fizetéssel.",
+  "targetKeywords": [
+    "olcso trap beatek simplepay magyarorszag",
+    "trap beat 5000 ft",
+    "olcso zenei alapok fiataloknak",
+    "magyar rap beat olcson bankkartyaval"
+  ],
+  "heroCta": "Olcsó Beatek Megtekintése (5000 Ft-tól SimplePay-jel)",
+  "energyLevel": "High",
+  "primaryUse": "Kezdő Stúdiófelvétel, Demókészítés és Első Dalok Megjelentetése",
+  "similarArtists": [
+    "A Hazai Trap Új Hulláma"
+  ],
+  "recommendedBpm": "130-142 BPM",
+  "productionTips": "Egyértelmű verzé-refrén felépítés a gyors és hatékony szövegpróbákhoz.",
+  "idealVocalStyle": "Tökéletes a saját hangjukat és stílusukat kereső fiatal MC-knek.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Tartalmazza a hivatalos kereskedelmi licencet 25 000 streamig."
+},
+  {
+  "slug": "komerciális-rnb-pop-trap-alapok-wav",
+  "title": "Kereskedelmi R&B és Pop-Trap Alapok Gitárral és Zongorával (WAV)",
+  "description": "Rádiós tisztaságú R&B-trap és pop-trap zenei alapok lágy akusztikus gitárral és zongorával, stúdióminőségű 24-bit WAV formátumban hazai énekesek és melodikus előadók számára.",
+  "targetKeywords": [
+    "komercialis rnb pop trap alapok wav",
+    "melodikus pop trap alapok magyarorszag",
+    "manuel valmar stilusú beatek eladok",
+    "radiobarat rap zenei alapok budapest"
+  ],
+  "heroCta": "Pop-Trap Alap Vásárlás (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Rádiós Kislemez, Romantikus Sláger és Kiemelt Videoklip",
+  "similarArtists": [
+    "Manuel",
+    "VALMAR",
+    "T. Danny",
+    "Calin"
+  ],
+  "recommendedBpm": "105-115 BPM",
+  "productionTips": "Levegős frekvenciatér az énekhangnak, tiszta lábdob és lágyan gördülő 808-as basszus.",
+  "idealVocalStyle": "Dallamos ének, finom autotune és fülbemászó énekelhető refrének.",
+  "suggestedKey": "F# Minor",
+  "streamingSuitability": "Kiválóan alkalmas kereskedelmi rádiók zenei kínálatába és streaming toplistákra."
+},
+  {
+  "slug": "kemeny-magyar-drill-beatek-budapest-stems",
+  "title": "Kemény Magyar Drill Beatek Csúszó 808-cal és Sávonkénti Stemekkel",
+  "description": "Kíméletlen budapesti és borsodi drill zenei alapok agresszív csúszó 808 mélyekkel és sávonkénti stemekkel a tökéletes stúdiókeverésért a hazai stúdiókban.",
+  "targetKeywords": [
+    "kemeny magyar drill beatek budapest stems",
+    "magyar drill alap savonkent wav",
+    "csuszo 808 drill alapok budapest",
+    "agressziv drill zenei alap savokkal"
+  ],
+  "heroCta": "Drill Letöltése Sávokkal (WAV Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hivatalos Drill Kislemez, Lakótelepi Videoklip és Stúdiófelvétel",
+  "similarArtists": [
+    "AK26",
+    "Tiah",
+    "Central Cee",
+    "Headie One"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Különálló sávok -6dB tartalékkal a rapvokálok tökéletes beillesztéséhez.",
+  "idealVocalStyle": "Gyors és agresszív ritmika, határozott kemény szövegelés.",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "Maximális szabadság a hangmérnököknek a leütőképesebb megszólalás eléréséhez."
+},
+  {
+  "slug": "nyari-party-trap-beatek-balaton-radio",
+  "title": "Nyári Party Trap & Latin-Trap Beatek 108 BPM-en Magyar Rádiókba",
+  "description": "Fülbemászó, táncolható nyári party trap és Dembow ritmusok 108 BPM-en, kifejezetten a magyar kereskedelmi rádiók és a balatoni strandklubok világára hangszerelve.",
+  "targetKeywords": [
+    "nyari party trap beatek balaton radio",
+    "latin trap alap 108 bpm budapest",
+    "balatoni nyari slager zenei alap",
+    "valmar desh stilusú party beatek"
+  ],
+  "heroCta": "Nyári Party Beat Vásárlás (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Rádiós Nyári Sláger, Strandbuli Zene és Pörgős Videoklip",
+  "similarArtists": [
+    "VALMAR",
+    "DESH",
+    "T. Danny",
+    "Young Fly"
+  ],
+  "recommendedBpm": "106-110 BPM",
+  "productionTips": "Világos hangzáskép, meleg akusztikus gitárok és könnyed, táncolható 808-as lábdob.",
+  "idealVocalStyle": "Pozitív, nyári hangulatú ének és dinamikus, könnyedén megjegyezhető verzék.",
+  "suggestedKey": "A Major",
+  "streamingSuitability": "Ideális választás a nyári időszak slágerlistáira és fesztivál fellépésekhez."
+},
+  {
+  "slug": "artisjus-kizarolagos-jogatruhazasi-szerzodes",
+  "title": "Artisjus Kizárólagos Jogátruházási Szerződésminták PDF Formátumban",
+  "description": "Hivatalos és visszavonhatatlan szerzői vagyoni jogátruházási szerződés zenei alapokhoz a magyar szerzői jogi törvény szerint, készen az Artisjus bejelentéshez.",
+  "targetKeywords": [
+    "artisjus kizarolagos jogatruhazasi szerzodes pdf",
+    "szerzoi vagyoni jog atruhazas zenei alap",
+    "hivatalos artisjus szerzodes beat vasarlas",
+    "zenei szerzodes minta magyarorszag"
+  ],
+  "heroCta": "Kizárólagos Szerződésminta Letöltése (PDF)",
+  "energyLevel": "N/A",
+  "primaryUse": "Kizárólagos Vásárlás Jogi Biztonsága, Műbejelentés és Kiadói Szerződések",
+  "similarArtists": [
+    "Onzieb",
+    "Zenei Szakjogászok és Szerzők Magyarországon"
+  ],
+  "recommendedBpm": "Minden Tempó",
+  "productionTips": "Kimerítő jogi klauzulák a digitális streamelésről, rádiós játszásokról és videószinkronról.",
+  "idealVocalStyle": "Érvényes minden műfajra és előadóra korlátozás nélkül.",
+  "suggestedKey": "Minden",
+  "streamingSuitability": "Teljes jogbiztonság a professzionálisan finanszírozott zenei projektekhez."
+},
+  {
+  "slug": "otp-bank-simplepay-alapok-vasarlasa",
+  "title": "Beat Vásárlás OTP Bankkártyával, K&H és Erste Bankkal Forintban",
+  "description": "Fizess a zenei alapokért közvetlenül bármely magyar bankkártyával (OTP, K&H, Erste, MBH, Raiffeisen) kezelési költségek nélkül, azonnali fájlletöltéssel forintban (HUF).",
+  "targetKeywords": [
+    "otp bank simplepay alapok vasarlasa",
+    "beat vasarlas magyar bankkartyaval huf",
+    "online beat store otp simplepay",
+    "zenei alap fizetes magyar forintban"
+  ],
+  "heroCta": "Fizetés Magyar Bankkártyával (HUF)",
+  "energyLevel": "Universal",
+  "primaryUse": "Gyors, Megbízható és Helyi Banki Fizetés Készpénzmentesen",
+  "similarArtists": [
+    "Hazai Zenei Előadók és Producerek"
+  ],
+  "recommendedBpm": "Bármilyen BPM",
+  "productionTips": "Biztonságos banki titkosítás automatikus letöltési linkkel közvetlenül a fizetés után.",
+  "idealVocalStyle": "Elérhető minden független magyarországi és határon túli magyar alkotónak.",
+  "suggestedKey": "Minden Hangnem",
+  "streamingSuitability": "Azonnali jogtiszta felhasználás várakozási idő nélkül."
+},
+  {
+  "slug": "akcios-5-beat-csomag-boom-bap-huf",
+  "title": "Akciós 5 Darabos Boom Bap Beat Csomag 40% Kedvezménnyel (Ft)",
+  "description": "Különleges csomagajánlat: 5 prémium minőségű klasszikus boom bap hip-hop zenei alap analóg bakelitserkegéssel és vastag basszusokkal, 40%-os kedvezménnyel forintban.",
+  "targetKeywords": [
+    "akcios 5 beat csomag boom bap huf",
+    "5 darabos rap alap csomag olcson",
+    "boom bap beat csomag akcio budapest",
+    "klasszikus hip hop csomag forintert"
+  ],
+  "heroCta": "5-ös Boom Bap Csomag Megvásárlása (-40%)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Klasszikus Hip-Hop EP vagy Mixtape Teljes Felvétele",
+  "similarArtists": [
+    "Krúbi",
+    "Beton.Hofi",
+    "Akkezdet Phiai",
+    "Bankos"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "productionTips": "Egységes analóg karakter a dalok között a lemez összefüggő hangzásáért.",
+  "idealVocalStyle": "Mély és tartalmas rímek, a hip-hop kultúra tisztelete és érett flow.",
+  "suggestedKey": "Különböző Hangnemek",
+  "streamingSuitability": "Tartalmazza a multi-track licencet a teljes lemezkiadáshoz."
+},
+  {
+  "slug": "online-vokal-mix-master-onzieb-whatsapp",
+  "title": "Teljes Zenei Produkció, Ének Mix & Mastering Onziebtől (WhatsApp)",
+  "description": "Prémium szolgáltatás: egyedi beatkészítés, sebészi pontosságú ének/rap keverés és nemzetközi iparági mastering magyar előadók számára közvetlen WhatsApp konzultációval.",
+  "targetKeywords": [
+    "online vokal mix master onzieb whatsapp",
+    "enek keveres mastering hip hop budapest",
+    "professzionalis mastering trap rap forint",
+    "onzieb zenei producer egyuttmukodes"
+  ],
+  "heroCta": "Konzultáció Mix & Masteringről WhatsAppon",
+  "energyLevel": "Custom",
+  "primaryUse": "Csúcsminőségű Megjelenés, Kiadói Meghallgatás és Kiemelt Dalok",
+  "similarArtists": [
+    "Onzieb",
+    "Professzionális Magyar Előadók"
+  ],
+  "recommendedBpm": "Az előadó elképzelése szerint",
+  "productionTips": "Finom dinamikus EQ, precíz autotune és analóg csöves melegítés az éneken.",
+  "idealVocalStyle": "Stúdióban vagy otthon minőségi mikrofonnal rögzített rap- vagy éneksávok.",
+  "suggestedKey": "Egyedi",
+  "streamingSuitability": "Dalszállítás a nemzetközi előírásoknak megfelelően (-14 LUFS Spotify-ra)."
+},
+  {
+  "slug": "szomoru-emo-trap-alapok-akusztikus-gitar",
+  "title": "Szomorú Emo-Trap Alapok Akusztikus Gitárral és Síró Zongorával",
+  "description": "Lassabb, mélyen érzelmes trap instrumentálok akusztikus gitárdallamokkal és szívbe markoló zongoraakkordokkal, tökéletes teret nyújtva a vallomásos dalszövegekhez.",
+  "targetKeywords": [
+    "szomoru emo trap alapok akusztikus gitar",
+    "emo trap zenei alap budapest",
+    "szomoru zongoras rap beat magyar",
+    "stein27 stilusú gitáros trap alap"
+  ],
+  "heroCta": "Emo-Trap Alap Vásárlás (WAV 24-bit)",
+  "energyLevel": "Medium",
+  "primaryUse": "Érzelmes Vallomás, Szakítós Dal és Hangulatos Kislemez",
+  "similarArtists": [
+    "Stein27",
+    "Calin",
+    "Viktor Sheen",
+    "Juice WRLD"
+  ],
+  "recommendedBpm": "120-130 BPM (Half-time 60-65)",
+  "productionTips": "Akusztikus gitár enyhe lebegéssel és lágy pergők rövid, meleg lecsengéssel.",
+  "idealVocalStyle": "Őszinte, érzelmekkel teli ének, autotune hajlítások és mély mondanivaló.",
+  "suggestedKey": "B Minor / E Minor",
+  "streamingSuitability": "Hatalmas elérés a fiatalabb közönség körében a Spotify-on és a TikTokon."
+},
+  {
+  "slug": "ingyenes-magyar-trap-drill-drum-kit",
+  "title": "Ingyenesen Letölthető Magyar Trap & Drill Dobcsomag (24-bit WAV)",
+  "description": "Töltsd le ingyen a hivatalos magyar trap és drill dobcsomagot, amely 25 prémium hangmintát tartalmaz (hangolt 808-asok, éles pergők, claps és cinek) 24-bites WAV-ban.",
+  "targetKeywords": [
+    "ingyenes magyar trap drill drum kit",
+    "ingyen letoltheto dobcsomag rap wav",
+    "808 mintak magyar trap free download",
+    "producer hangmintak ingyen budapest"
+  ],
+  "heroCta": "Dobcsomag Letöltése Ingyen (WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Zenei Alap Készítés, Beatmaking és Saját Produkciók Magyarországon",
+  "similarArtists": [
+    "Magyar és Nemzetközi Beatmakerek"
+  ],
+  "recommendedBpm": "Bármilyen tempóval kompatibilis",
+  "productionTips": "Előre masterelt, azonnal DAW-ba húzható tiszta és erőteljes hangminták.",
+  "idealVocalStyle": "Olyan producereknek tervezve, akik énekeseknek és rappereknek készítenek zenét.",
+  "suggestedKey": "C-re hangolt 808 basszusok",
+  "streamingSuitability": "100% jogdíjmentes hangminták saját kereskedelmi zenékben történő felhasználásra."
+},
+  {
+  "slug": "siofok-magyar-trap-808",
+  "name": "Siófok Magyar Trap 808 Beatek",
+  "category": "scene",
+  "badge": "Siófok Magyar Trap",
+  "headline": "Siófok (Balaton Déli Part & Party Sztráda) Magyar Trap 808 Beatek: Stúdió WAV 24-Bit & SimplePay",
+  "description": "Masszív csúszó 808 basszusok, sötét szintetizátorok és pengeéles dobok a(z) Siófok környéki MC-knek.",
+  "targetArtists": [
+    "Előadók innen: Siófok",
+    "Magyar Hip-Hop és Trap Közösség",
+    "Közép-Európai Zenei Szcéna"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Siófok",
+    "Magyar Trap",
+    "SimplePay & Revolut (HUF)",
+    "Artisjus Kompatibilis"
+  ],
+  "popularGenres": [
+    "Magyar Trap 808 Beatek",
+    "Magyar Trap",
+    "Hazai Rap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "siofok-magyar-drill-utca",
+  "name": "Siófok Magyar Utcai Drill Beatek",
+  "category": "scene",
+  "badge": "Siófok Magyar Drill",
+  "headline": "Siófok (Balaton Déli Part & Party Sztráda) Magyar Utcai Drill Beatek: Stúdió WAV 24-Bit & SimplePay",
+  "description": "Fagyos templomi harangok, gyors szinkópált pergők és kíméletlen basszusok a(z) Siófok utcáira.",
+  "targetArtists": [
+    "Előadók innen: Siófok",
+    "Magyar Hip-Hop és Trap Közösség",
+    "Közép-Európai Zenei Szcéna"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Siófok",
+    "Magyar Drill",
+    "SimplePay & Revolut (HUF)",
+    "Artisjus Kompatibilis"
+  ],
+  "popularGenres": [
+    "Magyar Utcai Drill Beatek",
+    "Magyar Trap",
+    "Hazai Rap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "siofok-akusztikus-pop-trap",
+  "name": "Siófok Akusztikus Gitáros Pop-Trap",
+  "category": "scene",
+  "badge": "Siófok Pop-Trap",
+  "headline": "Siófok (Balaton Déli Part & Party Sztráda) Akusztikus Gitáros Pop-Trap: Stúdió WAV 24-Bit & SimplePay",
+  "description": "Ragyogó akusztikus gitárok, légies szintik és modern rádiós ritmika Siófok énekeseinek.",
+  "targetArtists": [
+    "Előadók innen: Siófok",
+    "Magyar Hip-Hop és Trap Közösség",
+    "Közép-Európai Zenei Szcéna"
+  ],
+  "recommendedBpm": "108-115 BPM",
+  "recommendedKey": "D-Major / A-Minor",
+  "vibeAttributes": [
+    "Siófok",
+    "Pop-Trap",
+    "SimplePay & Revolut (HUF)",
+    "Artisjus Kompatibilis"
+  ],
+  "popularGenres": [
+    "Akusztikus Gitáros Pop-Trap",
+    "Magyar Trap",
+    "Hazai Rap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "siofok-boom-bap-klasszikus",
+  "name": "Siófok Klasszikus Boom Bap MPC Beatek",
+  "category": "scene",
+  "badge": "Siófok Boom Bap Klasszikus",
+  "headline": "Siófok (Balaton Déli Part & Party Sztráda) Klasszikus Boom Bap MPC Beatek: Stúdió WAV 24-Bit & SimplePay",
+  "description": "Hamisítatlan bakelitserkegés, száraz ütős dobok és meleg Rhodes zongora a(z) Siófok MC-knek.",
+  "targetArtists": [
+    "Előadók innen: Siófok",
+    "Magyar Hip-Hop és Trap Közösség",
+    "Közép-Európai Zenei Szcéna"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Siófok",
+    "Boom Bap Klasszikus",
+    "SimplePay & Revolut (HUF)",
+    "Artisjus Kompatibilis"
+  ],
+  "popularGenres": [
+    "Klasszikus Boom Bap MPC Beatek",
+    "Magyar Trap",
+    "Hazai Rap"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "szombathely-magyar-trap-808",
+  "name": "Szombathely Magyar Trap 808 Beatek",
+  "category": "scene",
+  "badge": "Szombathely Magyar Trap",
+  "headline": "Szombathely (Vas Megye & Savaria Kapu) Magyar Trap 808 Beatek: Stúdió WAV 24-Bit & SimplePay",
+  "description": "Masszív csúszó 808 basszusok, sötét szintetizátorok és pengeéles dobok a(z) Szombathely környéki MC-knek.",
+  "targetArtists": [
+    "Előadók innen: Szombathely",
+    "Magyar Hip-Hop és Trap Közösség",
+    "Közép-Európai Zenei Szcéna"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Szombathely",
+    "Magyar Trap",
+    "SimplePay & Revolut (HUF)",
+    "Artisjus Kompatibilis"
+  ],
+  "popularGenres": [
+    "Magyar Trap 808 Beatek",
+    "Magyar Trap",
+    "Hazai Rap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "szombathely-magyar-drill-utca",
+  "name": "Szombathely Magyar Utcai Drill Beatek",
+  "category": "scene",
+  "badge": "Szombathely Magyar Drill",
+  "headline": "Szombathely (Vas Megye & Savaria Kapu) Magyar Utcai Drill Beatek: Stúdió WAV 24-Bit & SimplePay",
+  "description": "Fagyos templomi harangok, gyors szinkópált pergők és kíméletlen basszusok a(z) Szombathely utcáira.",
+  "targetArtists": [
+    "Előadók innen: Szombathely",
+    "Magyar Hip-Hop és Trap Közösség",
+    "Közép-Európai Zenei Szcéna"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Szombathely",
+    "Magyar Drill",
+    "SimplePay & Revolut (HUF)",
+    "Artisjus Kompatibilis"
+  ],
+  "popularGenres": [
+    "Magyar Utcai Drill Beatek",
+    "Magyar Trap",
+    "Hazai Rap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "szombathely-akusztikus-pop-trap",
+  "name": "Szombathely Akusztikus Gitáros Pop-Trap",
+  "category": "scene",
+  "badge": "Szombathely Pop-Trap",
+  "headline": "Szombathely (Vas Megye & Savaria Kapu) Akusztikus Gitáros Pop-Trap: Stúdió WAV 24-Bit & SimplePay",
+  "description": "Ragyogó akusztikus gitárok, légies szintik és modern rádiós ritmika Szombathely énekeseinek.",
+  "targetArtists": [
+    "Előadók innen: Szombathely",
+    "Magyar Hip-Hop és Trap Közösség",
+    "Közép-Európai Zenei Szcéna"
+  ],
+  "recommendedBpm": "108-115 BPM",
+  "recommendedKey": "D-Major / A-Minor",
+  "vibeAttributes": [
+    "Szombathely",
+    "Pop-Trap",
+    "SimplePay & Revolut (HUF)",
+    "Artisjus Kompatibilis"
+  ],
+  "popularGenres": [
+    "Akusztikus Gitáros Pop-Trap",
+    "Magyar Trap",
+    "Hazai Rap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "szombathely-boom-bap-klasszikus",
+  "name": "Szombathely Klasszikus Boom Bap MPC Beatek",
+  "category": "scene",
+  "badge": "Szombathely Boom Bap Klasszikus",
+  "headline": "Szombathely (Vas Megye & Savaria Kapu) Klasszikus Boom Bap MPC Beatek: Stúdió WAV 24-Bit & SimplePay",
+  "description": "Hamisítatlan bakelitserkegés, száraz ütős dobok és meleg Rhodes zongora a(z) Szombathely MC-knek.",
+  "targetArtists": [
+    "Előadók innen: Szombathely",
+    "Magyar Hip-Hop és Trap Közösség",
+    "Közép-Európai Zenei Szcéna"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Szombathely",
+    "Boom Bap Klasszikus",
+    "SimplePay & Revolut (HUF)",
+    "Artisjus Kompatibilis"
+  ],
+  "popularGenres": [
+    "Klasszikus Boom Bap MPC Beatek",
+    "Magyar Trap",
+    "Hazai Rap"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "eger-magyar-trap-808",
+  "name": "Eger Magyar Trap 808 Beatek",
+  "category": "scene",
+  "badge": "Eger Magyar Trap",
+  "headline": "Eger (Heves Megye & Egri Vár) Magyar Trap 808 Beatek: Stúdió WAV 24-Bit & SimplePay",
+  "description": "Masszív csúszó 808 basszusok, sötét szintetizátorok és pengeéles dobok a(z) Eger környéki MC-knek.",
+  "targetArtists": [
+    "Előadók innen: Eger",
+    "Magyar Hip-Hop és Trap Közösség",
+    "Közép-Európai Zenei Szcéna"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Eger",
+    "Magyar Trap",
+    "SimplePay & Revolut (HUF)",
+    "Artisjus Kompatibilis"
+  ],
+  "popularGenres": [
+    "Magyar Trap 808 Beatek",
+    "Magyar Trap",
+    "Hazai Rap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "eger-magyar-drill-utca",
+  "name": "Eger Magyar Utcai Drill Beatek",
+  "category": "scene",
+  "badge": "Eger Magyar Drill",
+  "headline": "Eger (Heves Megye & Egri Vár) Magyar Utcai Drill Beatek: Stúdió WAV 24-Bit & SimplePay",
+  "description": "Fagyos templomi harangok, gyors szinkópált pergők és kíméletlen basszusok a(z) Eger utcáira.",
+  "targetArtists": [
+    "Előadók innen: Eger",
+    "Magyar Hip-Hop és Trap Közösség",
+    "Közép-Európai Zenei Szcéna"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Eger",
+    "Magyar Drill",
+    "SimplePay & Revolut (HUF)",
+    "Artisjus Kompatibilis"
+  ],
+  "popularGenres": [
+    "Magyar Utcai Drill Beatek",
+    "Magyar Trap",
+    "Hazai Rap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "eger-akusztikus-pop-trap",
+  "name": "Eger Akusztikus Gitáros Pop-Trap",
+  "category": "scene",
+  "badge": "Eger Pop-Trap",
+  "headline": "Eger (Heves Megye & Egri Vár) Akusztikus Gitáros Pop-Trap: Stúdió WAV 24-Bit & SimplePay",
+  "description": "Ragyogó akusztikus gitárok, légies szintik és modern rádiós ritmika Eger énekeseinek.",
+  "targetArtists": [
+    "Előadók innen: Eger",
+    "Magyar Hip-Hop és Trap Közösség",
+    "Közép-Európai Zenei Szcéna"
+  ],
+  "recommendedBpm": "108-115 BPM",
+  "recommendedKey": "D-Major / A-Minor",
+  "vibeAttributes": [
+    "Eger",
+    "Pop-Trap",
+    "SimplePay & Revolut (HUF)",
+    "Artisjus Kompatibilis"
+  ],
+  "popularGenres": [
+    "Akusztikus Gitáros Pop-Trap",
+    "Magyar Trap",
+    "Hazai Rap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "eger-boom-bap-klasszikus",
+  "name": "Eger Klasszikus Boom Bap MPC Beatek",
+  "category": "scene",
+  "badge": "Eger Boom Bap Klasszikus",
+  "headline": "Eger (Heves Megye & Egri Vár) Klasszikus Boom Bap MPC Beatek: Stúdió WAV 24-Bit & SimplePay",
+  "description": "Hamisítatlan bakelitserkegés, száraz ütős dobok és meleg Rhodes zongora a(z) Eger MC-knek.",
+  "targetArtists": [
+    "Előadók innen: Eger",
+    "Magyar Hip-Hop és Trap Közösség",
+    "Közép-Európai Zenei Szcéna"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Eger",
+    "Boom Bap Klasszikus",
+    "SimplePay & Revolut (HUF)",
+    "Artisjus Kompatibilis"
+  ],
+  "popularGenres": [
+    "Klasszikus Boom Bap MPC Beatek",
+    "Magyar Trap",
+    "Hazai Rap"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "sopron-magyar-trap-808",
+  "name": "Sopron Magyar Trap 808 Beatek",
+  "category": "scene",
+  "badge": "Sopron Magyar Trap",
+  "headline": "Sopron (Pannónia & Hűség Városa) Magyar Trap 808 Beatek: Stúdió WAV 24-Bit & SimplePay",
+  "description": "Masszív csúszó 808 basszusok, sötét szintetizátorok és pengeéles dobok a(z) Sopron környéki MC-knek.",
+  "targetArtists": [
+    "Előadók innen: Sopron",
+    "Magyar Hip-Hop és Trap Közösség",
+    "Közép-Európai Zenei Szcéna"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Sopron",
+    "Magyar Trap",
+    "SimplePay & Revolut (HUF)",
+    "Artisjus Kompatibilis"
+  ],
+  "popularGenres": [
+    "Magyar Trap 808 Beatek",
+    "Magyar Trap",
+    "Hazai Rap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "sopron-magyar-drill-utca",
+  "name": "Sopron Magyar Utcai Drill Beatek",
+  "category": "scene",
+  "badge": "Sopron Magyar Drill",
+  "headline": "Sopron (Pannónia & Hűség Városa) Magyar Utcai Drill Beatek: Stúdió WAV 24-Bit & SimplePay",
+  "description": "Fagyos templomi harangok, gyors szinkópált pergők és kíméletlen basszusok a(z) Sopron utcáira.",
+  "targetArtists": [
+    "Előadók innen: Sopron",
+    "Magyar Hip-Hop és Trap Közösség",
+    "Közép-Európai Zenei Szcéna"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Sopron",
+    "Magyar Drill",
+    "SimplePay & Revolut (HUF)",
+    "Artisjus Kompatibilis"
+  ],
+  "popularGenres": [
+    "Magyar Utcai Drill Beatek",
+    "Magyar Trap",
+    "Hazai Rap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "sopron-akusztikus-pop-trap",
+  "name": "Sopron Akusztikus Gitáros Pop-Trap",
+  "category": "scene",
+  "badge": "Sopron Pop-Trap",
+  "headline": "Sopron (Pannónia & Hűség Városa) Akusztikus Gitáros Pop-Trap: Stúdió WAV 24-Bit & SimplePay",
+  "description": "Ragyogó akusztikus gitárok, légies szintik és modern rádiós ritmika Sopron énekeseinek.",
+  "targetArtists": [
+    "Előadók innen: Sopron",
+    "Magyar Hip-Hop és Trap Közösség",
+    "Közép-Európai Zenei Szcéna"
+  ],
+  "recommendedBpm": "108-115 BPM",
+  "recommendedKey": "D-Major / A-Minor",
+  "vibeAttributes": [
+    "Sopron",
+    "Pop-Trap",
+    "SimplePay & Revolut (HUF)",
+    "Artisjus Kompatibilis"
+  ],
+  "popularGenres": [
+    "Akusztikus Gitáros Pop-Trap",
+    "Magyar Trap",
+    "Hazai Rap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "sopron-boom-bap-klasszikus",
+  "name": "Sopron Klasszikus Boom Bap MPC Beatek",
+  "category": "scene",
+  "badge": "Sopron Boom Bap Klasszikus",
+  "headline": "Sopron (Pannónia & Hűség Városa) Klasszikus Boom Bap MPC Beatek: Stúdió WAV 24-Bit & SimplePay",
+  "description": "Hamisítatlan bakelitserkegés, száraz ütős dobok és meleg Rhodes zongora a(z) Sopron MC-knek.",
+  "targetArtists": [
+    "Előadók innen: Sopron",
+    "Magyar Hip-Hop és Trap Közösség",
+    "Közép-Európai Zenei Szcéna"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Sopron",
+    "Boom Bap Klasszikus",
+    "SimplePay & Revolut (HUF)",
+    "Artisjus Kompatibilis"
+  ],
+  "popularGenres": [
+    "Klasszikus Boom Bap MPC Beatek",
+    "Magyar Trap",
+    "Hazai Rap"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "szolnok-magyar-trap-808",
+  "name": "Szolnok Magyar Trap 808 Beatek",
+  "category": "scene",
+  "badge": "Szolnok Magyar Trap",
+  "headline": "Szolnok (Közép-Tisza & Vasúti Csomópont) Magyar Trap 808 Beatek: Stúdió WAV 24-Bit & SimplePay",
+  "description": "Masszív csúszó 808 basszusok, sötét szintetizátorok és pengeéles dobok a(z) Szolnok környéki MC-knek.",
+  "targetArtists": [
+    "Előadók innen: Szolnok",
+    "Magyar Hip-Hop és Trap Közösség",
+    "Közép-Európai Zenei Szcéna"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Szolnok",
+    "Magyar Trap",
+    "SimplePay & Revolut (HUF)",
+    "Artisjus Kompatibilis"
+  ],
+  "popularGenres": [
+    "Magyar Trap 808 Beatek",
+    "Magyar Trap",
+    "Hazai Rap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "szolnok-magyar-drill-utca",
+  "name": "Szolnok Magyar Utcai Drill Beatek",
+  "category": "scene",
+  "badge": "Szolnok Magyar Drill",
+  "headline": "Szolnok (Közép-Tisza & Vasúti Csomópont) Magyar Utcai Drill Beatek: Stúdió WAV 24-Bit & SimplePay",
+  "description": "Fagyos templomi harangok, gyors szinkópált pergők és kíméletlen basszusok a(z) Szolnok utcáira.",
+  "targetArtists": [
+    "Előadók innen: Szolnok",
+    "Magyar Hip-Hop és Trap Közösség",
+    "Közép-Európai Zenei Szcéna"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Szolnok",
+    "Magyar Drill",
+    "SimplePay & Revolut (HUF)",
+    "Artisjus Kompatibilis"
+  ],
+  "popularGenres": [
+    "Magyar Utcai Drill Beatek",
+    "Magyar Trap",
+    "Hazai Rap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "szolnok-akusztikus-pop-trap",
+  "name": "Szolnok Akusztikus Gitáros Pop-Trap",
+  "category": "scene",
+  "badge": "Szolnok Pop-Trap",
+  "headline": "Szolnok (Közép-Tisza & Vasúti Csomópont) Akusztikus Gitáros Pop-Trap: Stúdió WAV 24-Bit & SimplePay",
+  "description": "Ragyogó akusztikus gitárok, légies szintik és modern rádiós ritmika Szolnok énekeseinek.",
+  "targetArtists": [
+    "Előadók innen: Szolnok",
+    "Magyar Hip-Hop és Trap Közösség",
+    "Közép-Európai Zenei Szcéna"
+  ],
+  "recommendedBpm": "108-115 BPM",
+  "recommendedKey": "D-Major / A-Minor",
+  "vibeAttributes": [
+    "Szolnok",
+    "Pop-Trap",
+    "SimplePay & Revolut (HUF)",
+    "Artisjus Kompatibilis"
+  ],
+  "popularGenres": [
+    "Akusztikus Gitáros Pop-Trap",
+    "Magyar Trap",
+    "Hazai Rap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "szolnok-boom-bap-klasszikus",
+  "name": "Szolnok Klasszikus Boom Bap MPC Beatek",
+  "category": "scene",
+  "badge": "Szolnok Boom Bap Klasszikus",
+  "headline": "Szolnok (Közép-Tisza & Vasúti Csomópont) Klasszikus Boom Bap MPC Beatek: Stúdió WAV 24-Bit & SimplePay",
+  "description": "Hamisítatlan bakelitserkegés, száraz ütős dobok és meleg Rhodes zongora a(z) Szolnok MC-knek.",
+  "targetArtists": [
+    "Előadók innen: Szolnok",
+    "Magyar Hip-Hop és Trap Közösség",
+    "Közép-Európai Zenei Szcéna"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Szolnok",
+    "Boom Bap Klasszikus",
+    "SimplePay & Revolut (HUF)",
+    "Artisjus Kompatibilis"
+  ],
+  "popularGenres": [
+    "Klasszikus Boom Bap MPC Beatek",
+    "Magyar Trap",
+    "Hazai Rap"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "tatabanya-magyar-trap-808",
+  "name": "Tatabánya Magyar Trap 808 Beatek",
+  "category": "scene",
+  "badge": "Tatabánya Magyar Trap",
+  "headline": "Tatabánya (Komárom-Esztergom & Turul Völgy) Magyar Trap 808 Beatek: Stúdió WAV 24-Bit & SimplePay",
+  "description": "Masszív csúszó 808 basszusok, sötét szintetizátorok és pengeéles dobok a(z) Tatabánya környéki MC-knek.",
+  "targetArtists": [
+    "Előadók innen: Tatabánya",
+    "Magyar Hip-Hop és Trap Közösség",
+    "Közép-Európai Zenei Szcéna"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Tatabánya",
+    "Magyar Trap",
+    "SimplePay & Revolut (HUF)",
+    "Artisjus Kompatibilis"
+  ],
+  "popularGenres": [
+    "Magyar Trap 808 Beatek",
+    "Magyar Trap",
+    "Hazai Rap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "tatabanya-magyar-drill-utca",
+  "name": "Tatabánya Magyar Utcai Drill Beatek",
+  "category": "scene",
+  "badge": "Tatabánya Magyar Drill",
+  "headline": "Tatabánya (Komárom-Esztergom & Turul Völgy) Magyar Utcai Drill Beatek: Stúdió WAV 24-Bit & SimplePay",
+  "description": "Fagyos templomi harangok, gyors szinkópált pergők és kíméletlen basszusok a(z) Tatabánya utcáira.",
+  "targetArtists": [
+    "Előadók innen: Tatabánya",
+    "Magyar Hip-Hop és Trap Közösség",
+    "Közép-Európai Zenei Szcéna"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Tatabánya",
+    "Magyar Drill",
+    "SimplePay & Revolut (HUF)",
+    "Artisjus Kompatibilis"
+  ],
+  "popularGenres": [
+    "Magyar Utcai Drill Beatek",
+    "Magyar Trap",
+    "Hazai Rap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "tatabanya-akusztikus-pop-trap",
+  "name": "Tatabánya Akusztikus Gitáros Pop-Trap",
+  "category": "scene",
+  "badge": "Tatabánya Pop-Trap",
+  "headline": "Tatabánya (Komárom-Esztergom & Turul Völgy) Akusztikus Gitáros Pop-Trap: Stúdió WAV 24-Bit & SimplePay",
+  "description": "Ragyogó akusztikus gitárok, légies szintik és modern rádiós ritmika Tatabánya énekeseinek.",
+  "targetArtists": [
+    "Előadók innen: Tatabánya",
+    "Magyar Hip-Hop és Trap Közösség",
+    "Közép-Európai Zenei Szcéna"
+  ],
+  "recommendedBpm": "108-115 BPM",
+  "recommendedKey": "D-Major / A-Minor",
+  "vibeAttributes": [
+    "Tatabánya",
+    "Pop-Trap",
+    "SimplePay & Revolut (HUF)",
+    "Artisjus Kompatibilis"
+  ],
+  "popularGenres": [
+    "Akusztikus Gitáros Pop-Trap",
+    "Magyar Trap",
+    "Hazai Rap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "tatabanya-boom-bap-klasszikus",
+  "name": "Tatabánya Klasszikus Boom Bap MPC Beatek",
+  "category": "scene",
+  "badge": "Tatabánya Boom Bap Klasszikus",
+  "headline": "Tatabánya (Komárom-Esztergom & Turul Völgy) Klasszikus Boom Bap MPC Beatek: Stúdió WAV 24-Bit & SimplePay",
+  "description": "Hamisítatlan bakelitserkegés, száraz ütős dobok és meleg Rhodes zongora a(z) Tatabánya MC-knek.",
+  "targetArtists": [
+    "Előadók innen: Tatabánya",
+    "Magyar Hip-Hop és Trap Közösség",
+    "Közép-Európai Zenei Szcéna"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Tatabánya",
+    "Boom Bap Klasszikus",
+    "SimplePay & Revolut (HUF)",
+    "Artisjus Kompatibilis"
+  ],
+  "popularGenres": [
+    "Klasszikus Boom Bap MPC Beatek",
+    "Magyar Trap",
+    "Hazai Rap"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
 ];
