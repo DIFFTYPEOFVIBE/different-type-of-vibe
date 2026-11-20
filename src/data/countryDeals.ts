@@ -33656,4 +33656,200 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
     }
   ]
 },
+  "cr/cahuita-puerto-viejo-talamanca": {
+  "slug": "cr/cahuita-puerto-viejo-talamanca",
+  "name": "Costa Rica – Cahuita & Puerto Viejo (Caribe Sur & Talamanca Roots)",
+  "flag": "🇨🇷",
+  "currency": "CRC (₡) / USD ($)",
+  "currencyCode": "CRC",
+  "gateways": "SINPE Móvil (BAC, BNCR, BCR, Banco Popular), Tarjetas, Apple Pay, PayPal",
+  "pro": "ACAM & Registro Nacional",
+  "proFullName": "ACAM Costa Rica",
+  "proGuide": "100% legal ante ACAM con contrato en PDF descargable.",
+  "headline": "Beats en Cahuita & Puerto Viejo: Calypso Roots, Reggae Acústico & Brisa",
+  "description": "La vibra mágica del Caribe Sur costarricense: guitarras acústicas calipsonianas, tambores caribeños y líneas de bajo dub profundas para canciones frescas frente al mar.",
+  "popularGenres": [
+    "Cahuita Calypso",
+    "Caribe Sur Reggae",
+    "Island Dub"
+  ],
+  "subClusters": []
+},
+  "cr/liberia-guanacaste-pampa": {
+  "slug": "cr/liberia-guanacaste-pampa",
+  "name": "Costa Rica – Liberia (Ciudad Blanca & Pampa Guanacasteca)",
+  "flag": "🇨🇷",
+  "currency": "CRC (₡) / USD ($)",
+  "currencyCode": "CRC",
+  "gateways": "SINPE Móvil, BAC Credomatic, BNCR, Tarjetas, Apple Pay, PayPal",
+  "pro": "ACAM & Registro Nacional",
+  "proFullName": "ACAM Costa Rica",
+  "proGuide": "100% original con entrega de stems multitrack.",
+  "headline": "Beats en Liberia: Marimba de la Pampa, Folclore Tico & Trap Moderno",
+  "description": "La fuerza y el orgullo de la bajura guanacasteca: maderas de marimba tradicional, secciones de viento alegres y caídas de trap latino diseñadas para prender eventos.",
+  "popularGenres": [
+    "Guanacaste Trap",
+    "Marimba Fusión",
+    "Pampa Beat"
+  ],
+  "subClusters": [
+    {
+      "name": "Bomba Guanacasteca Vibe",
+      "slug": "../../vibe/bomba-tika-folclore-guanacaste-trap",
+      "description": "Metales de fiesta guanacasteca con bombos de trap 808."
+    }
+  ]
+},
+  "cr/jaco-garabito-surf": {
+  "slug": "cr/jaco-garabito-surf",
+  "name": "Costa Rica – Jacó & Garabito (Capital del Surf & Clubes del Pacífico)",
+  "flag": "🇨🇷",
+  "currency": "CRC (₡) / USD ($)",
+  "currencyCode": "CRC",
+  "gateways": "SINPE Móvil, BAC Credomatic, BNCR, Tarjetas, Apple Pay, PayPal",
+  "pro": "ACAM & Registro Nacional",
+  "proFullName": "ACAM Costa Rica",
+  "proGuide": "100% libre de samples protegidos para distribución en plataformas.",
+  "headline": "Beats en Jacó: Surf Urbano, Reggaetón de Club & EDM-Trap Playero",
+  "description": "La adrenalina de la costa pacífica: percusiones enérgicas de reggaetón playero, sintetizadores de fiesta electrónica y bajos contundentes para amaneceres en la playa.",
+  "popularGenres": [
+    "Jacó Club Beat",
+    "Surf Reggaetón",
+    "Pacific EDM-Trap"
+  ],
+  "subClusters": []
+},
+  "cr/desamparados-san-jose-sur": {
+  "slug": "cr/desamparados-san-jose-sur",
+  "name": "Costa Rica – Desamparados & San José Sur (Cuna del Trap Callejero 506)",
+  "flag": "🇨🇷",
+  "currency": "CRC (₡) / USD ($)",
+  "currencyCode": "CRC",
+  "gateways": "SINPE Móvil, BAC Credomatic, BNCR, Tarjetas, Apple Pay, PayPal",
+  "pro": "ACAM & Registro Nacional",
+  "proFullName": "ACAM Costa Rica",
+  "proGuide": "100% legal ante ACAM con entrega inmediata.",
+  "headline": "Beats en Desamparados: Trap Callejero Pesado, Bajos 808 & Vivencia Real",
+  "description": "El corazón de la juventud urbana del sur de la capital: campanas gélidas, hi-hats rápidos con tresillos y bajos 808 deslizantes para barras crudas de superación de barrio.",
+  "popularGenres": [
+    "Desamparados Trap",
+    "Street 506",
+    "Underground Chepe"
+  ],
+  "subClusters": []
+},
+  "cr/curridabat-este": {
+  "slug": "cr/curridabat-este",
+  "name": "Costa Rica – Curridabat & Pinares (Estudios de Élite & Pop Urbano)",
+  "flag": "🇨🇷",
+  "currency": "CRC (₡) / USD ($)",
+  "currencyCode": "CRC",
+  "gateways": "SINPE Móvil, BAC Credomatic, BNCR, Tarjetas, Apple Pay, PayPal",
+  "pro": "ACAM & Registro Nacional",
+  "proFullName": "ACAM Costa Rica",
+  "proGuide": "100% compatible con agregadoras digitales.",
+  "headline": "Beats en Curridabat: Producción de Élite, Pianos Rhodes & R&B Melódico",
+  "description": "La vanguardia y el refinamiento sonoro del este de San José: pianos eléctricos elegantes, armonías de pop urbano sofisticadas y baterías con mezcla limpia para éxitos radiales.",
+  "popularGenres": [
+    "Curridabat R&B",
+    "Pop Urbano de Élite",
+    "Melodic Beat"
+  ],
+  "subClusters": []
+},
+  "cr/san-ramon-poeta": {
+  "slug": "cr/san-ramon-poeta",
+  "name": "Costa Rica – San Ramón (Ciudad de los Poetas & Hip-Hop Consciente)",
+  "flag": "🇨🇷",
+  "currency": "CRC (₡) / USD ($)",
+  "currencyCode": "CRC",
+  "gateways": "SINPE Móvil, BAC Credomatic, BNCR, Tarjetas, Apple Pay, PayPal",
+  "pro": "ACAM & Registro Nacional",
+  "proFullName": "ACAM Costa Rica",
+  "proGuide": "100% original con entrega de stems.",
+  "headline": "Beats en San Ramón: Ciudad de los Poetas, Guitarras Nilon & Boom Bap",
+  "description": "La cuna del liricismo y la literatura costarricense: acordes melancólicos de guitarra acústica, baterías con golpe seco de MPC y espacio amplio para barras poéticas de reflexión.",
+  "popularGenres": [
+    "San Ramón Lyrical",
+    "Poetic Boom Bap",
+    "Acoustic Rap"
+  ],
+  "subClusters": []
+},
+  "cr/quepos-manuel-antonio": {
+  "slug": "cr/quepos-manuel-antonio",
+  "name": "Costa Rica – Quepos & Manuel Antonio (Costa Pacífica & Tropical Trap)",
+  "flag": "🇨🇷",
+  "currency": "CRC (₡) / USD ($)",
+  "currencyCode": "CRC",
+  "gateways": "SINPE Móvil, BAC Credomatic, BNCR, Tarjetas, Apple Pay, PayPal",
+  "pro": "ACAM & Registro Nacional",
+  "proFullName": "ACAM Costa Rica",
+  "proGuide": "100% garantizado con derechos comerciales de streaming.",
+  "headline": "Beats en Quepos: Atardeceres de Manuel Antonio, Dembow Suave & R&B",
+  "description": "La belleza natural de la costa pacífica central: sintetizadores luminosos, ritmos sincopados de reggaetón suave y bajos redondos para música de verano y viaje.",
+  "popularGenres": [
+    "Quepos Tropical Trap",
+    "Sunset R&B",
+    "Beachside Urban"
+  ],
+  "subClusters": []
+},
+  "cr/turrialba-cartago-este": {
+  "slug": "cr/turrialba-cartago-este",
+  "name": "Costa Rica – Turrialba (Valle Volcánico, Ríos & Reggae de Montaña)",
+  "flag": "🇨🇷",
+  "currency": "CRC (₡) / USD ($)",
+  "currencyCode": "CRC",
+  "gateways": "SINPE Móvil, Banco Nacional, BCR, Tarjetas, Apple Pay, PayPal",
+  "pro": "ACAM & Registro Nacional",
+  "proFullName": "ACAM Costa Rica",
+  "proGuide": "Instrumentos grabados en estudio libres de reclamos.",
+  "headline": "Beats en Turrialba: Fuerza del Volcán, Reggae de Montaña & Skank",
+  "description": "La calidez del valle montañoso: guitarras con compás en skank, secciones de viento cálidas y bajos caminantes para música consciente con espíritu de naturaleza.",
+  "popularGenres": [
+    "Turrialba Reggae",
+    "Mountain Roots",
+    "Acoustic Folk"
+  ],
+  "subClusters": []
+},
+  "cr/golfito-zona-sur": {
+  "slug": "cr/golfito-zona-sur",
+  "name": "Costa Rica – Golfito & Corcovado (Pacífico Sur & Frontera Tropical)",
+  "flag": "🇨🇷",
+  "currency": "CRC (₡) / USD ($)",
+  "currencyCode": "CRC",
+  "gateways": "SINPE Móvil, Banco Nacional, BCR, Tarjetas, Apple Pay, PayPal",
+  "pro": "ACAM & Registro Nacional",
+  "proFullName": "ACAM Costa Rica",
+  "proGuide": "Licencias comerciales ilimitadas.",
+  "headline": "Beats en Golfito: Humedad del Golfo Dulce, Trap Pesado & Calle Sureña",
+  "description": "La frontera húmeda del sur costarricense: baterías apretadas de trap moderno, melodías oscuras y líneas de bajo contundentes para el nuevo sonido callejero de la zona sur.",
+  "popularGenres": [
+    "Golfito Trap",
+    "Pacífico Sur Beat",
+    "Street Sound"
+  ],
+  "subClusters": []
+},
+  "cr/guapiles-pococi-limon": {
+  "slug": "cr/guapiles-pococi-limon",
+  "name": "Costa Rica – Guápiles & Pococí (Paso al Caribe & Dancehall de Cruce)",
+  "flag": "🇨🇷",
+  "currency": "CRC (₡) / USD ($)",
+  "currencyCode": "CRC",
+  "gateways": "SINPE Móvil, BAC Credomatic, BNCR, Tarjetas, Apple Pay, PayPal",
+  "pro": "ACAM & Registro Nacional",
+  "proFullName": "ACAM Costa Rica",
+  "proGuide": "100% original y listo para monetizar en Spotify.",
+  "headline": "Beats en Guápiles: Enlace al Caribe, Dancehall Caliente & Sub-Bass",
+  "description": "El punto de encuentro neurálgico hacia la costa caribeña: ritmos acelerados de dancehall, sintetizadores agresivos y caídas de bajo que revientan bocinas en las carreteras.",
+  "popularGenres": [
+    "Guápiles Dancehall",
+    "Pococí Bass",
+    "Crossover 506"
+  ],
+  "subClusters": []
+},
 };

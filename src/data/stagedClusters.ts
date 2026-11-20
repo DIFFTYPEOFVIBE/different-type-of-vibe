@@ -69590,4 +69590,1306 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "2"
   ]
 },
+  {
+  "slug": "fari-el-titan-dancehall-pesado-limon",
+  "title": "Fari El Titán Dancehall Pesado Caribeño Limón Type Beat",
+  "description": "Instrumental de dancehall pesado estilo Fari El Titán con redobles cortantes de tarola, bajos sub profundos y cadencia de calle pura inspirada en el sonido de Puerto Limón.",
+  "targetKeywords": [
+    "fari el titan type beat",
+    "dancehall limon pesado",
+    "beats de dancehall caribe costarricense",
+    "fari beat sinpe movil",
+    "bases de dancehall tico fari"
+  ],
+  "heroCta": "Comprar Beat Fari El Titán (SINPE Móvil)",
+  "energyLevel": "High",
+  "primaryUse": "Dancehall Callejero, Banger de Barrio y Video Musical",
+  "similarArtists": [
+    "Toledo",
+    "Gimario",
+    "Frymba",
+    "Banton"
+  ],
+  "recommendedBpm": "100-106 BPM",
+  "productionTips": "Usa una melodía mínima de sintetizador punzante en notas menores y deja que la agresividad del deejay y el bajo reboten en los parlantes.",
+  "idealVocalStyle": "Voz raspada, deejay enérgico y rimas rápidas en slang limonense o tico.",
+  "suggestedKey": "G Minor",
+  "streamingSuitability": "Ideal para reventar discotecas y playlists de Dancehall Centroamericano en Spotify."
+},
+  {
+  "slug": "charly-valens-dancehall-roots-tico",
+  "title": "Charly Valens Dancehall Roots & Plena Tica Type Beat",
+  "description": "Beat nostálgico y con alma de dancehall de los 2000s estilo Charly Valens, combinando metales cálidos, cajas con reverb y mensaje consciente para conectar con el pueblo tico.",
+  "targetKeywords": [
+    "charly valens type beat",
+    "dancehall roots tico",
+    "bases de plena costarricense clasica",
+    "beats de reggae tico charly valens",
+    "instrumental reggae costarrica"
+  ],
+  "heroCta": "Comprar Beat Charly Valens (WAV + Stems)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Dancehall Consciente, Plena Clásica y Mensaje Positivo",
+  "similarArtists": [
+    "Tapón",
+    "Banton",
+    "Toledo",
+    "Ghetto"
+  ],
+  "recommendedBpm": "98-102 BPM",
+  "productionTips": "Incorpora stabs de órgano hammond en contratiempo con una línea de bajo redonda que sostenga los versos.",
+  "idealVocalStyle": "Voz melódica con mensaje reflexivo de barrio y coros pegajosos para cantar a todo pulmón.",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "Excelente para sonar en radio nacional y listas de clásicos urbanos ticos."
+},
+  {
+  "slug": "tropa-506-hardcore-rap-callejero",
+  "title": "Tropa 506 Hardcore Rap & Boom Bap Chepe Centro Type Beat",
+  "description": "Pista de hip-hop hardcore underground inspirada en la mística de Tropa 506 y los barrios del sur de San José, con samples oscuros de vinilo y golpes secos de bombo y caja.",
+  "targetKeywords": [
+    "tropa 506 type beat",
+    "rap costarricense hardcore",
+    "boom bap san jose 506",
+    "bases de rap tico underground",
+    "beats de hip hop chepe"
+  ],
+  "heroCta": "Comprar Beat Tropa 506 (Descarga Directa)",
+  "energyLevel": "Medium",
+  "primaryUse": "Rap Underground, Hip-Hop Callejero y Barras Crudas",
+  "similarArtists": [
+    "Crypy",
+    "Zaki",
+    "Esnar",
+    "Dilemma"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "productionTips": "Filtra las frecuencias altas en los acordes de piano y mantén una textura analógica de cinta para lograr esa crudeza de calle.",
+  "idealVocalStyle": "Entrega vocal directa, rimas pesadas sobre vivencias de barrio y crítica social contundente.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Perfecto para la comunidad fiel de hip-hop underground en Costa Rica y Centroamérica."
+},
+  {
+  "slug": "zaki-conscious-rap-centroamericano",
+  "title": "Zaki Rap Consciente & Liricismo Centroamericano Type Beat",
+  "description": "Instrumental refinada de hip-hop consciente inspirada en Zaki, con trompetas de jazz melancólicas, bajos acústicos y baterías con swing holgado para barras profundas de alto intelecto.",
+  "targetKeywords": [
+    "zaki type beat",
+    "rap consciente centroamerica",
+    "jazz rap costarricense",
+    "bases de hip hop lirico zaki",
+    "beats con trompeta jazz rap"
+  ],
+  "heroCta": "Comprar Beat Zaki Lyrical (Licencia Comercial)",
+  "energyLevel": "Medium",
+  "primaryUse": "Rap Poético, Storytelling y Hip-Hop Filosófico",
+  "similarArtists": [
+    "San Ramón Poets",
+    "Guanaco MC",
+    "Canserbero",
+    "Esnar"
+  ],
+  "recommendedBpm": "86-90 BPM",
+  "productionTips": "Permite que la trompeta y el piano eléctrico dialoguen en las transiciones, dejando el centro del estéreo libre para la voz.",
+  "idealVocalStyle": "Liricismo complejo, juegos métricos intrincados y voz calmada pero con gran peso reflexivo.",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "Ideal para playlists de Hip-Hop Filosófico, Lofi Rap y Liricistas de Latinoamérica."
+},
+  {
+  "slug": "dani-vega-pop-reggaeton-romantico",
+  "title": "Dani Vega Pop Reggaetón Romántico & Acústico Type Beat",
+  "description": "Base fresca de reggaetón romántico y pop latino estilo Dani Vega, con arpegios brillantes de guitarra acústica, percusión dembow suave y acordes emotivos para canciones de amor.",
+  "targetKeywords": [
+    "dani vega type beat",
+    "reggaeton romantico tico",
+    "bases de pop urbano costa rica",
+    "beats estilo dani vega acustico",
+    "pistas de reggaeton guitarra radio"
+  ],
+  "heroCta": "Comprar Beat Dani Vega (SINPE Móvil ₡)",
+  "energyLevel": "Medium",
+  "primaryUse": "Reggaetón Romántico, Pop Urbano y Canción de Radio",
+  "similarArtists": [
+    "Kavvo",
+    "Kevstar",
+    "Sebastián Yatra",
+    "Feid"
+  ],
+  "recommendedBpm": "92-96 BPM",
+  "productionTips": "Coloca una guitarra electroacústica grabada en estéreo como columna vertebral y usa shakers suaves en los versos.",
+  "idealVocalStyle": "Voz limpia, armonías vocales suaves y melodías emotivas listas para cantar en duetos.",
+  "suggestedKey": "E Major",
+  "streamingSuitability": "Ideal para posicionar en 'Éxitos Costa Rica' y playlists de Pop Latino Romántico."
+},
+  {
+  "slug": "gonin-dancehall-humor-calle-tico",
+  "title": "Gonín Dancehall Callejero Costarricense & Vacilón Type Beat",
+  "description": "Pista alegre de dancehall con sazón criolla tica estilo Gonín, combinando ritmos bailables acelerados, bajos gordos y arreglos festivos para temas de fiesta popular y vacilón sano.",
+  "targetKeywords": [
+    "gonin type beat",
+    "dancehall tico vacilon",
+    "bases de dancehall comico fiesta tica",
+    "beats de plena gonin",
+    "instrumentales alegres costarricenses"
+  ],
+  "heroCta": "Comprar Beat Gonín (Licencia Comercial)",
+  "energyLevel": "High",
+  "primaryUse": "Fiesta Popular, Vacilón Tico y Baile Callejero",
+  "similarArtists": [
+    "Toledo",
+    "Tapón",
+    "Banton",
+    "DJ Pablito"
+  ],
+  "recommendedBpm": "104-108 BPM",
+  "productionTips": "Acentúa el golpe del bajo con un sintetizador punzante en la primera y tercera semicorchea para incitar al baile de salón.",
+  "idealVocalStyle": "Voz jocosa, carismática con modismos típicos ticos y frases repetitivas contagiosas.",
+  "suggestedKey": "F Major",
+  "streamingSuitability": "Altamente viral para bailes en TikTok e Instagram Reels en Centroamérica."
+},
+  {
+  "slug": "kavvo-curramba-party-dancehall",
+  "title": "Kavvo Curramba Fiesta & Melodic Dembow 506 Type Beat",
+  "description": "Instrumental explosiva de reggaetón y fiesta dancehall inspirada en la faceta más fiestera de Kavvo (Curramba), con bajos sub hinchados, melodías de sintetizador pegajosas y atmósfera de club.",
+  "targetKeywords": [
+    "kavvo curramba type beat",
+    "kavvo fiesta dancehall beat",
+    "pistas de reggaeton tico banger",
+    "beats de dembow melodico kavvo",
+    "kavvo beat sinpe movil"
+  ],
+  "heroCta": "Comprar Beat Kavvo Curramba (Descarga WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "Club Banger, Fiesta Nocturna y Concierto Masivo",
+  "similarArtists": [
+    "Kavvo",
+    "Ryan Castro",
+    "Blessd",
+    "Gimario"
+  ],
+  "recommendedBpm": "98-100 BPM",
+  "productionTips": "Crea una introducción con pads espaciales que rompa bruscamente en un dembow implacable con bajo 808 distorsionado.",
+  "idealVocalStyle": "Autotune marcado, energía arrolladora y ganchos de estadio que hagan brincar a la multitud.",
+  "suggestedKey": "B Minor",
+  "streamingSuitability": "El formato ideal para sonar en las principales discotecas de San José, Tamarindo y Jacó."
+},
+  {
+  "slug": "bomba-tika-folclore-guanacaste-trap",
+  "title": "Bomba Tika Folclore Guanacasteco & Trap 808 Fusión Type Beat",
+  "description": "Fusión única y auténtica entre el folclore guanacasteco (sones de marimba, trompetas campesinas) y el trap moderno con sub-graves demoledores y cortes rítmicos memorables.",
+  "targetKeywords": [
+    "bomba tika type beat",
+    "trap folclorico costarricense",
+    "marimba guanacasteca trap beat",
+    "beats tipicos ticos fusion",
+    "hip hop folclorico 506"
+  ],
+  "heroCta": "Comprar Beat Folclore Tico (Stems Multitrack)",
+  "energyLevel": "High",
+  "primaryUse": "Trap Conceptual, Identidad Costarricense y Fusión Folclórica",
+  "similarArtists": [
+    "Los Caites",
+    "Malpaís Trap Remix",
+    "Crypy",
+    "Toledo"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "productionTips": "Muestrea frases auténticas de marimba de cedro y agrégales sidechain para que el sub-grave no opaque el brillo de la madera.",
+  "idealVocalStyle": "Desde versos callejeros agresivos hasta rimas con métricas tradicionales de bomba guanacasteca.",
+  "suggestedKey": "D Major",
+  "streamingSuitability": "Insuperable para sync en comerciales de turismo, eventos patrios y documentales de arte."
+},
+  {
+  "slug": "marimba-y-quijada-afro-caribena-tika",
+  "title": "Marimba & Quijada Percusión Afro-Caribeña Tica Fusión Beat",
+  "description": "Ritmos ancestrales de la costa costarricense con quijada de caballo, marimba y tambores caribeños montados sobre un groove de trap latino envolvente y místico.",
+  "targetKeywords": [
+    "marimba y quijada beat",
+    "perfusion afrocaribena tica instrumental",
+    "bases etnicas costarricenses",
+    "beats de marimba afrodescendiente costa rica"
+  ],
+  "heroCta": "Comprar Beat Ancestral Tico (Licencia Comercial)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Música Afrocaribeña, Trap Fusión y Afro-Latin Hip-Hop",
+  "similarArtists": [
+    "Kawe Calypso",
+    "Walter Ferguson",
+    "Frymba",
+    "Gimario"
+  ],
+  "recommendedBpm": "112-118 BPM",
+  "productionTips": "Deja la quijada y los bongoes en primer plano rítmico para darle una tridimensionalidad orgánica irrepetible.",
+  "idealVocalStyle": "Canto con raíz afrocaribeña o rimas en patois limonense con flow rítmico.",
+  "suggestedKey": "G Minor",
+  "streamingSuitability": "Ideal para festivales internacionales de World Music y listas de Afro-Latin Beats."
+},
+  {
+  "slug": "pura-vida-sunset-chillhop-lofi",
+  "title": "Pura Vida Sunset Chillhop & Lofi Tropical Beats",
+  "description": "Guitarras acústicas de palo santo, sonido ambiental de olas de Santa Teresa y texturas de vinilo lofi con ritmos chillhop relajantes para el estilo de vida Pura Vida.",
+  "targetKeywords": [
+    "pura vida chillhop",
+    "lofi tropical costa rica",
+    "beats de relajacion sunset tico",
+    "instrumental pura vida guitarra",
+    "chillhop costarricense"
+  ],
+  "heroCta": "Comprar Beat Pura Vida Lofi (Uso Ilimitado)",
+  "energyLevel": "Low",
+  "primaryUse": "Vlogs de Viaje, Lofi Hip-Hop, Relaxing y Rap Melódico",
+  "similarArtists": [
+    "Monte",
+    "Sonámbulo Tropical Chill",
+    "Nujabes",
+    "Tomppabeats"
+  ],
+  "recommendedBpm": "78-84 BPM",
+  "productionTips": "Añade samples ambientales de brisa marina y pájaros de la selva tropical bajo acordes de jazz en guitarra española.",
+  "idealVocalStyle": "Spoken word tranquilo, rap poético suave o simplemente para escuchar en modo instrumental.",
+  "suggestedKey": "C Major",
+  "streamingSuitability": "Perfecto para listas de reproducción de estudio, relax, cafeterías y videos de surf de Costa Rica."
+},
+  {
+  "slug": "san-jose-car-audio-bass-506",
+  "title": "San José Car Audio 506 Heavy Sub-Bass & Street Trap Beat",
+  "description": "Beat ultra pesado diseñado para competir en sistemas de Car Audio de San José y Alajuela, con frecuencias de sub-bajo que bajan hasta los 32 Hz y percusión que corta el aire.",
+  "targetKeywords": [
+    "car audio costa rica beat",
+    "sub bass 506 trap",
+    "bases para car audio san jose",
+    "beats de bajo pesado tico",
+    "musica para bocinas costa rica"
+  ],
+  "heroCta": "Comprar Beat Car Audio 506 (WAV Masterizado)",
+  "energyLevel": "Very High",
+  "primaryUse": "Competiciones de Car Audio, Banger Urbano y Pique Callejero",
+  "similarArtists": [
+    "Crypy",
+    "Toledo",
+    "DJ Pablito",
+    "Danger Man"
+  ],
+  "recommendedBpm": "138-142 BPM",
+  "productionTips": "Ecualización precisa en torno a 35-50 Hz con saturación armónica en 120 Hz para que el bajo retumbe en cualquier bocina.",
+  "idealVocalStyle": "Rapeo agresivo, estribillos repetitivos y actitud retadora de competencia.",
+  "suggestedKey": "F Minor",
+  "streamingSuitability": "El sonido favorito para caravanas nocturnas, autos modificados y eventos urbanos de motor."
+},
+  {
+  "slug": "fms-costa-rica-batalla-cypher",
+  "title": "FMS Costa Rica Batalla de Gallos & Freestyle Cypher Beat",
+  "description": "Pista de alta tensión para batallas de freestyle y cyphers estilo FMS Costa Rica y Plaza de la Democracia, con cajas cortantes, pausas en el cuarto compás y energía pura de competencia.",
+  "targetKeywords": [
+    "fms costa rica beat",
+    "bases para batallas de rap ticas",
+    "freestyle costarricense instrumental",
+    "pistas de freestyle chepe plaza",
+    "beats de batalla costa rica"
+  ],
+  "heroCta": "Comprar Beat Freestyle Cypher (Sin Tags)",
+  "energyLevel": "High",
+  "primaryUse": "Batallas de Freestyle, Cyphers de Parque y Entrenamientos",
+  "similarArtists": [
+    "SNK",
+    "Kamaq",
+    "P8",
+    "Zaki"
+  ],
+  "recommendedBpm": "94-98 BPM",
+  "productionTips": "Deja un silencio milimétrico en el compás 4 antes del redoble para que el gallo tire el remate sin interferencias.",
+  "idealVocalStyle": "Punchlines afilados, juegos de palabras rápidos y respuesta inmediata al estímulo rítmico.",
+  "suggestedKey": "E Minor",
+  "streamingSuitability": "Indispensable para ligas de plaza, torneos de freestyle en Centroamérica y contenido de YouTube."
+},
+  {
+  "slug": "pistas-de-dancehall-baratas-costa-rica-sinpe",
+  "title": "Pistas de Dancehall Baratas en Costa Rica (Pago por SINPE Móvil)",
+  "description": "Catálogo accesible de pistas de dancehall profesionales para artistas emergentes en Costa Rica. Compra inmediata con SINPE Móvil en colones y descarga al instante.",
+  "targetKeywords": [
+    "pistas de dancehall baratas costa rica",
+    "beats de dancehall sinpe movil",
+    "comprar bases de dancehall economicas tiquicia",
+    "instrumentales dancehall baratas 506"
+  ],
+  "heroCta": "Ver Pistas de Dancehall (Desde ₡12,000 / $25)",
+  "energyLevel": "High",
+  "primaryUse": "Lanzamientos de Sencillos, Demos de Estudio y Mixtapes",
+  "similarArtists": [
+    "Toledo",
+    "Gimario",
+    "Frymba",
+    "Kavvo"
+  ],
+  "recommendedBpm": "98-106 BPM",
+  "productionTips": "Estructuras clásicas de estrofa-estribillo con marcación clara para grabación rápida en estudio.",
+  "idealVocalStyle": "Deejay enérgico, melodías en autotune o lírica caribeña consciente.",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "Licencia comercial con derecho a 50,000 reproducciones en Spotify."
+},
+  {
+  "slug": "bases-de-reggaeton-tico-romantico-estilo-kavvo",
+  "title": "Bases de Reggaetón Tico Romántico & Melódico Estilo Kavvo",
+  "description": "Instrumentales comerciales de reggaetón romántico inspiradas en el éxito viral de Kavvo y Dani Vega, con guitarras emotivas y baterías dembow listas para radio.",
+  "targetKeywords": [
+    "bases reggaeton romantico costa rica",
+    "beats estilo kavvo romantico",
+    "pistas de reggaeton tico amor",
+    "descargar bases de reggaeton costa rica sinpe"
+  ],
+  "heroCta": "Comprar Base Romántica (Licencia Ilimitada)",
+  "energyLevel": "Medium",
+  "primaryUse": "Temas de Amor, Pop Urbano y Campañas de Radio",
+  "similarArtists": [
+    "Kavvo",
+    "Dani Vega",
+    "Kevstar",
+    "Feid"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "productionTips": "Arpegios limpios de guitarra acústica y bajos sintéticos profundos pero contenidos.",
+  "idealVocalStyle": "Canto melódico con sentimiento sincero y estribillos pegajosos.",
+  "suggestedKey": "F# Minor",
+  "streamingSuitability": "Monetización garantizada en todas las plataformas de streaming."
+},
+  {
+  "slug": "instrumentales-de-dancehall-pesado-estilo-toledo",
+  "title": "Instrumentales de Dancehall Pesado & Shattah Estilo Toledo",
+  "description": "Bases agresivas y bailables de dancehall callejero al estilo clásico del rey del dancehall costarricense Toledo, con percusiones secas y bajos ensordecedores.",
+  "targetKeywords": [
+    "instrumentales dancehall toledo",
+    "beats de dancehall pesado costa rica",
+    "bases de shattah dancehall 506",
+    "dancehall puerto limon toledo beat"
+  ],
+  "heroCta": "Comprar Beat Shattah (Descarga en WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Dancehall Callejero, Batallas de Baile y Conciertos",
+  "similarArtists": [
+    "Toledo",
+    "Banton",
+    "Charly Valens",
+    "Vybz Kartel"
+  ],
+  "recommendedBpm": "100-105 BPM",
+  "productionTips": "Cajas procesadas con saturación agresiva y silencios rítmicos marcados.",
+  "idealVocalStyle": "Voz grave y raspada, entrega acelerada y rimas llenas de carácter.",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "Excelente para eventos en vivo, sound systems y fiestas patronales."
+},
+  {
+  "slug": "beats-de-trap-506-pesado-con-bajos-slidings",
+  "title": "Beats de Trap 506 Pesado con Bajos 808 Slidings & Dark Synths",
+  "description": "Colección de pistas de trap costarricense oscuro y callejero con deslizamientos de bajo 808 extremos, hi-hats frenéticos y pads melancólicos para barras de barrio.",
+  "targetKeywords": [
+    "beats de trap 506 con bajos slidings",
+    "trap costarricense oscuro",
+    "bases de trap san jose 808",
+    "descargar beats de trap pesado tiquicia"
+  ],
+  "heroCta": "Comprar Beat Trap 506 (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Trap Callejero, Freestyle Urbano y Videos Musicales",
+  "similarArtists": [
+    "Crypy",
+    "Tropa 506",
+    "Esnar",
+    "Duki"
+  ],
+  "recommendedBpm": "134-140 BPM",
+  "productionTips": "Usa portamento marcado en el sub-808 en notas altas para provocar vibraciones dinámicas.",
+  "idealVocalStyle": "Barras crudas, flow agresivo o melodías melancólicas con reverb profundo.",
+  "suggestedKey": "D# Minor",
+  "streamingSuitability": "Diseñado para posicionar en playlists de Trap Latino y Trap Centroamericano."
+},
+  {
+  "slug": "combo-de-beats-para-mixtape-costa-rica-sinpe",
+  "title": "Combo 2x1 y 3x1 de Beats para Álbum o Mixtape en Costa Rica",
+  "description": "Oferta especial para artistas costarricenses: adquiere paquetes completos de 2 o 3 instrumentales al precio de una sola licencia con pago directo en colones vía SINPE Móvil.",
+  "targetKeywords": [
+    "combo de beats costa rica",
+    "oferta beats 2x1 tiquicia",
+    "paquete de beats para mixtape sinpe",
+    "descuento beats costa rica sinpe movil"
+  ],
+  "heroCta": "Aprovechar Oferta 2x1 (SINPE Móvil ₡)",
+  "energyLevel": "Variable",
+  "primaryUse": "Producción de Álbumes, EPs y Mixtapes Completos",
+  "similarArtists": [
+    "Kavvo",
+    "Toledo",
+    "Crypy",
+    "Dani Vega"
+  ],
+  "recommendedBpm": "90-140 BPM",
+  "productionTips": "Mezcla homogénea y calibrada para que todo el disco mantenga coherencia sonora.",
+  "idealVocalStyle": "Adaptable a cualquier concepto artístico y variedad vocal.",
+  "suggestedKey": "Various Keys",
+  "streamingSuitability": "Licencia comercial extendida válida para múltiples sencillos y lanzamientos."
+},
+  {
+  "slug": "bases-de-drill-tico-140-bpm-para-grabar-wav",
+  "title": "Bases de Drill Tico a 140 BPM Listas para Grabar en Estudio",
+  "description": "Instrumentales de drill al estilo costarricense con patrones de hi-hats sincopados británicos combinados con atmósfera nocturna de Chepe Centro a 140 BPM.",
+  "targetKeywords": [
+    "bases de drill tico 140 bpm",
+    "uk drill costa rica instrumental",
+    "beats de drill san jose wav",
+    "bases de drill centroamericano para grabar"
+  ],
+  "heroCta": "Descargar Drill Beat 140 BPM (WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Drill Urbano, Barras Rápidas y Duelos de Rima",
+  "similarArtists": [
+    "Crypy",
+    "Morad",
+    "Central Cee",
+    "Tropa 506"
+  ],
+  "recommendedBpm": "140 BPM",
+  "productionTips": "Deslices de 808 hacia notas octavadas altas y golpes de caja con ataque punzante.",
+  "idealVocalStyle": "Voz grave y amenazante, juegos rítmicos en tresillos y pausas dramáticas.",
+  "suggestedKey": "C# Minor",
+  "streamingSuitability": "Ideal para playlists de Drill Latino y Street Rap Internacional."
+},
+  {
+  "slug": "pistas-de-calypso-y-reggae-de-limon-acustico",
+  "title": "Pistas de Calypso Limonense & Reggae Acústico Roots",
+  "description": "Bases orgánicas grabadas con percusiones de bambú, tambores caribeños y guitarras con compás en contratiempo inspiradas en el legado musical del Caribe costarricense.",
+  "targetKeywords": [
+    "pistas de calypso limonense",
+    "reggae acustico costa rica instrumental",
+    "bases de calypso cahuita",
+    "beats de reggae de limon costa rica"
+  ],
+  "heroCta": "Comprar Pista Calypso Roots (Stems)",
+  "energyLevel": "Medium",
+  "primaryUse": "Música Tropical Consciente, Canción de Autor y Calypso Moderno",
+  "similarArtists": [
+    "Walter Ferguson",
+    "Kawe Calypso",
+    "Tapón",
+    "Gimario"
+  ],
+  "recommendedBpm": "96-104 BPM",
+  "productionTips": "Mantén la dinámica de la batería viva sin compresión excesiva para respetar el swing humano.",
+  "idealVocalStyle": "Canto armónico, narración costumbrista caribeña y versos en spanglish o patois.",
+  "suggestedKey": "G Major",
+  "streamingSuitability": "Perfecto para bandas sonoras, festivales y proyectos de preservación cultural."
+},
+  {
+  "slug": "contrato-de-licencia-comercial-acam-pdf",
+  "title": "Contrato de Licencia Comercial de Beats Válido para ACAM Costa Rica",
+  "description": "Adquiere beats con contrato formal en PDF avalado para el registro ante la Asociación de Compositores y Autores Musicales de Costa Rica (ACAM) y Registro de Derechos de Autor.",
+  "targetKeywords": [
+    "contrato licencia beats acam pdf",
+    "registro beats acam costa rica",
+    "derechos de autor beats costa rica",
+    "comprar licencia comercial tiquicia"
+  ],
+  "heroCta": "Ver Modelos de Licencia ACAM (PDF Incluido)",
+  "energyLevel": "N/A",
+  "primaryUse": "Registro Legal de Canciones, Distribución Digital y ACAM",
+  "similarArtists": [
+    "Onzieb",
+    "ACAM Artistas",
+    "Productores 506"
+  ],
+  "recommendedBpm": "Cualquier Tempo",
+  "productionTips": "Cada instrumental incluye hoja de metadatos (cue sheet) con ISRC listo para ingresar al sistema de regalías.",
+  "idealVocalStyle": "Todo tipo de composiciones originales protegidas legalmente.",
+  "suggestedKey": "All Keys",
+  "streamingSuitability": "100% de regalías de autor para el artista en Spotify, Apple Music y YouTube."
+},
+  {
+  "slug": "produccion-de-beats-exclusivos-costa-rica-onzieb",
+  "title": "Producción de Beats Exclusivos en Costa Rica (Servicio a la Medida)",
+  "description": "Trabaja mano a mano con el productor Onzieb para crear pistas exclusivas personalizadas para tu estilo, con sesión remota de mezcla y entrega de pistas separadas.",
+  "targetKeywords": [
+    "produccion beats exclusivos costa rica",
+    "productor musical san jose 506",
+    "comprar beats exclusivos costa rica sinpe",
+    "onzieb productor tico"
+  ],
+  "heroCta": "Solicitar Producción Exclusiva (Vía WhatsApp)",
+  "energyLevel": "Custom",
+  "primaryUse": "Lanzamiento Principal de Carrera, Álbum Debut y Exclusividad Total",
+  "similarArtists": [
+    "Onzieb",
+    "Kavvo",
+    "Toledo",
+    "Gimario"
+  ],
+  "recommendedBpm": "Ajustado a tu voz",
+  "productionTips": "Diseño de sonido desde cero adaptado a tu rango vocal específico.",
+  "idealVocalStyle": "Desarrollo artístico integral con arreglos de voz y segundas voces.",
+  "suggestedKey": "Personalizada",
+  "streamingSuitability": "Retiro inmediato del beat de la tienda para que seas el único dueño."
+},
+  {
+  "slug": "descargar-paquete-3-beats-gratis-costa-rica-mp3",
+  "title": "Descargar Paquete de 3 Beats Gratis en Costa Rica (MP3 320 kbps)",
+  "description": "Descarga gratuita de prueba de 3 pistas completas en alta calidad (dancehall tico, trap 506 y reggaetón acústico) para grabar maquetas en tu home studio antes de comprar.",
+  "targetKeywords": [
+    "descargar beats gratis costa rica",
+    "bases de rap gratis costa rica mp3",
+    "pistas de dancehall gratis tiquicia",
+    "beats gratis sinpe descargar"
+  ],
+  "heroCta": "Descargar 3 Beats Gratis Ahora (Acceso Inmediato)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Maquetas de Estudio, Escritura en Casa y Pruebas de Grabación",
+  "similarArtists": [
+    "Comunidad Urbana Tica",
+    "Nuevos Talentos 506"
+  ],
+  "recommendedBpm": "96, 104, 138 BPM",
+  "productionTips": "Incluye tag de productor sutil al inicio; al adquirir la licencia se retiran todos los tags.",
+  "idealVocalStyle": "Libre para practicar entonación, métrica y probar flows.",
+  "suggestedKey": "Various",
+  "streamingSuitability": "Uso libre no monetizado en YouTube y SoundCloud para dar a conocer tu talento."
+},
+  {
+  "slug": "cahuita-puerto-viejo-dancehall-tico-beats",
+  "name": "Cahuita & Puerto Viejo Dancehall Tico Beats",
+  "category": "scene",
+  "badge": "Cahuita & Puerto Viejo Dancehall Tico",
+  "headline": "Cahuita & Puerto Viejo (Talamanca Caribe) Dancehall Tico Beats: Pistas WAV & Pago SINPE Móvil",
+  "description": "Baterías bailables de dancehall caribeño, metales vivos y calidad WAV 24-bit de estudio con SINPE Móvil para artistas de Cahuita & Puerto Viejo.",
+  "targetArtists": [
+    "Artistas de Cahuita & Puerto Viejo",
+    "Hip-Hop Costa Rica Scene",
+    "Música Urbana 506"
+  ],
+  "recommendedBpm": "98-108 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Cahuita & Puerto Viejo",
+    "Dancehall Tico",
+    "SINPE Móvil CRC",
+    "Aprobado ACAM"
+  ],
+  "popularGenres": [
+    "Dancehall Tico Beats",
+    "Dancehall Tico",
+    "Trap 506"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "cahuita-puerto-viejo-trap-tico-callejero",
+  "name": "Cahuita & Puerto Viejo Trap Tico Callejero",
+  "category": "scene",
+  "badge": "Cahuita & Puerto Viejo Trap 506",
+  "headline": "Cahuita & Puerto Viejo (Talamanca Caribe) Trap Tico Callejero: Pistas WAV & Pago SINPE Móvil",
+  "description": "Bajos 808 profundos, campanas oscuras y baterías de trap pesado inspiradas en las calles de Cahuita & Puerto Viejo.",
+  "targetArtists": [
+    "Artistas de Cahuita & Puerto Viejo",
+    "Hip-Hop Costa Rica Scene",
+    "Música Urbana 506"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Cahuita & Puerto Viejo",
+    "Trap 506",
+    "SINPE Móvil CRC",
+    "Aprobado ACAM"
+  ],
+  "popularGenres": [
+    "Trap Tico Callejero",
+    "Dancehall Tico",
+    "Trap 506"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "cahuita-puerto-viejo-reggaeton-costarricense",
+  "name": "Cahuita & Puerto Viejo Reggaetón Costarricense",
+  "category": "scene",
+  "badge": "Cahuita & Puerto Viejo Reggaetón 506",
+  "headline": "Cahuita & Puerto Viejo (Talamanca Caribe) Reggaetón Costarricense: Pistas WAV & Pago SINPE Móvil",
+  "description": "Dembow bailable fresco, sintetizadores pulidos y bajos envolventes para sonar en todas las radios de Cahuita & Puerto Viejo.",
+  "targetArtists": [
+    "Artistas de Cahuita & Puerto Viejo",
+    "Hip-Hop Costa Rica Scene",
+    "Música Urbana 506"
+  ],
+  "recommendedBpm": "95-102 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Cahuita & Puerto Viejo",
+    "Reggaetón 506",
+    "SINPE Móvil CRC",
+    "Aprobado ACAM"
+  ],
+  "popularGenres": [
+    "Reggaetón Costarricense",
+    "Dancehall Tico",
+    "Trap 506"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "cahuita-puerto-viejo-melodic-rnb-trap",
+  "name": "Cahuita & Puerto Viejo Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Cahuita & Puerto Viejo Melodic R&B Tico",
+  "headline": "Cahuita & Puerto Viejo (Talamanca Caribe) Melodic R&B Trap: Pistas WAV & Pago SINPE Móvil",
+  "description": "Guitarras acústicas de desamor estilo Kavvo, pianos emotivos y baterías suaves para vocalistas de Cahuita & Puerto Viejo.",
+  "targetArtists": [
+    "Artistas de Cahuita & Puerto Viejo",
+    "Hip-Hop Costa Rica Scene",
+    "Música Urbana 506"
+  ],
+  "recommendedBpm": "94-100 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Cahuita & Puerto Viejo",
+    "Melodic R&B Tico",
+    "SINPE Móvil CRC",
+    "Aprobado ACAM"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "Dancehall Tico",
+    "Trap 506"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "liberia-dancehall-tico-beats",
+  "name": "Liberia Dancehall Tico Beats",
+  "category": "scene",
+  "badge": "Liberia Dancehall Tico",
+  "headline": "Liberia (Guanacaste Pampa) Dancehall Tico Beats: Pistas WAV & Pago SINPE Móvil",
+  "description": "Baterías bailables de dancehall caribeño, metales vivos y calidad WAV 24-bit de estudio con SINPE Móvil para artistas de Liberia.",
+  "targetArtists": [
+    "Artistas de Liberia",
+    "Hip-Hop Costa Rica Scene",
+    "Música Urbana 506"
+  ],
+  "recommendedBpm": "98-108 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Liberia",
+    "Dancehall Tico",
+    "SINPE Móvil CRC",
+    "Aprobado ACAM"
+  ],
+  "popularGenres": [
+    "Dancehall Tico Beats",
+    "Dancehall Tico",
+    "Trap 506"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "liberia-trap-tico-callejero",
+  "name": "Liberia Trap Tico Callejero",
+  "category": "scene",
+  "badge": "Liberia Trap 506",
+  "headline": "Liberia (Guanacaste Pampa) Trap Tico Callejero: Pistas WAV & Pago SINPE Móvil",
+  "description": "Bajos 808 profundos, campanas oscuras y baterías de trap pesado inspiradas en las calles de Liberia.",
+  "targetArtists": [
+    "Artistas de Liberia",
+    "Hip-Hop Costa Rica Scene",
+    "Música Urbana 506"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Liberia",
+    "Trap 506",
+    "SINPE Móvil CRC",
+    "Aprobado ACAM"
+  ],
+  "popularGenres": [
+    "Trap Tico Callejero",
+    "Dancehall Tico",
+    "Trap 506"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "liberia-reggaeton-costarricense",
+  "name": "Liberia Reggaetón Costarricense",
+  "category": "scene",
+  "badge": "Liberia Reggaetón 506",
+  "headline": "Liberia (Guanacaste Pampa) Reggaetón Costarricense: Pistas WAV & Pago SINPE Móvil",
+  "description": "Dembow bailable fresco, sintetizadores pulidos y bajos envolventes para sonar en todas las radios de Liberia.",
+  "targetArtists": [
+    "Artistas de Liberia",
+    "Hip-Hop Costa Rica Scene",
+    "Música Urbana 506"
+  ],
+  "recommendedBpm": "95-102 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Liberia",
+    "Reggaetón 506",
+    "SINPE Móvil CRC",
+    "Aprobado ACAM"
+  ],
+  "popularGenres": [
+    "Reggaetón Costarricense",
+    "Dancehall Tico",
+    "Trap 506"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "liberia-melodic-rnb-trap",
+  "name": "Liberia Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Liberia Melodic R&B Tico",
+  "headline": "Liberia (Guanacaste Pampa) Melodic R&B Trap: Pistas WAV & Pago SINPE Móvil",
+  "description": "Guitarras acústicas de desamor estilo Kavvo, pianos emotivos y baterías suaves para vocalistas de Liberia.",
+  "targetArtists": [
+    "Artistas de Liberia",
+    "Hip-Hop Costa Rica Scene",
+    "Música Urbana 506"
+  ],
+  "recommendedBpm": "94-100 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Liberia",
+    "Melodic R&B Tico",
+    "SINPE Móvil CRC",
+    "Aprobado ACAM"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "Dancehall Tico",
+    "Trap 506"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "jaco-dancehall-tico-beats",
+  "name": "Jacó Dancehall Tico Beats",
+  "category": "scene",
+  "badge": "Jacó Dancehall Tico",
+  "headline": "Jacó (Garabito Pacífico) Dancehall Tico Beats: Pistas WAV & Pago SINPE Móvil",
+  "description": "Baterías bailables de dancehall caribeño, metales vivos y calidad WAV 24-bit de estudio con SINPE Móvil para artistas de Jacó.",
+  "targetArtists": [
+    "Artistas de Jacó",
+    "Hip-Hop Costa Rica Scene",
+    "Música Urbana 506"
+  ],
+  "recommendedBpm": "98-108 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Jacó",
+    "Dancehall Tico",
+    "SINPE Móvil CRC",
+    "Aprobado ACAM"
+  ],
+  "popularGenres": [
+    "Dancehall Tico Beats",
+    "Dancehall Tico",
+    "Trap 506"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "jaco-trap-tico-callejero",
+  "name": "Jacó Trap Tico Callejero",
+  "category": "scene",
+  "badge": "Jacó Trap 506",
+  "headline": "Jacó (Garabito Pacífico) Trap Tico Callejero: Pistas WAV & Pago SINPE Móvil",
+  "description": "Bajos 808 profundos, campanas oscuras y baterías de trap pesado inspiradas en las calles de Jacó.",
+  "targetArtists": [
+    "Artistas de Jacó",
+    "Hip-Hop Costa Rica Scene",
+    "Música Urbana 506"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Jacó",
+    "Trap 506",
+    "SINPE Móvil CRC",
+    "Aprobado ACAM"
+  ],
+  "popularGenres": [
+    "Trap Tico Callejero",
+    "Dancehall Tico",
+    "Trap 506"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "jaco-reggaeton-costarricense",
+  "name": "Jacó Reggaetón Costarricense",
+  "category": "scene",
+  "badge": "Jacó Reggaetón 506",
+  "headline": "Jacó (Garabito Pacífico) Reggaetón Costarricense: Pistas WAV & Pago SINPE Móvil",
+  "description": "Dembow bailable fresco, sintetizadores pulidos y bajos envolventes para sonar en todas las radios de Jacó.",
+  "targetArtists": [
+    "Artistas de Jacó",
+    "Hip-Hop Costa Rica Scene",
+    "Música Urbana 506"
+  ],
+  "recommendedBpm": "95-102 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Jacó",
+    "Reggaetón 506",
+    "SINPE Móvil CRC",
+    "Aprobado ACAM"
+  ],
+  "popularGenres": [
+    "Reggaetón Costarricense",
+    "Dancehall Tico",
+    "Trap 506"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "jaco-melodic-rnb-trap",
+  "name": "Jacó Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Jacó Melodic R&B Tico",
+  "headline": "Jacó (Garabito Pacífico) Melodic R&B Trap: Pistas WAV & Pago SINPE Móvil",
+  "description": "Guitarras acústicas de desamor estilo Kavvo, pianos emotivos y baterías suaves para vocalistas de Jacó.",
+  "targetArtists": [
+    "Artistas de Jacó",
+    "Hip-Hop Costa Rica Scene",
+    "Música Urbana 506"
+  ],
+  "recommendedBpm": "94-100 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Jacó",
+    "Melodic R&B Tico",
+    "SINPE Móvil CRC",
+    "Aprobado ACAM"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "Dancehall Tico",
+    "Trap 506"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "desamparados-dancehall-tico-beats",
+  "name": "Desamparados Dancehall Tico Beats",
+  "category": "scene",
+  "badge": "Desamparados Dancehall Tico",
+  "headline": "Desamparados (San José Sur) Dancehall Tico Beats: Pistas WAV & Pago SINPE Móvil",
+  "description": "Baterías bailables de dancehall caribeño, metales vivos y calidad WAV 24-bit de estudio con SINPE Móvil para artistas de Desamparados.",
+  "targetArtists": [
+    "Artistas de Desamparados",
+    "Hip-Hop Costa Rica Scene",
+    "Música Urbana 506"
+  ],
+  "recommendedBpm": "98-108 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Desamparados",
+    "Dancehall Tico",
+    "SINPE Móvil CRC",
+    "Aprobado ACAM"
+  ],
+  "popularGenres": [
+    "Dancehall Tico Beats",
+    "Dancehall Tico",
+    "Trap 506"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "desamparados-trap-tico-callejero",
+  "name": "Desamparados Trap Tico Callejero",
+  "category": "scene",
+  "badge": "Desamparados Trap 506",
+  "headline": "Desamparados (San José Sur) Trap Tico Callejero: Pistas WAV & Pago SINPE Móvil",
+  "description": "Bajos 808 profundos, campanas oscuras y baterías de trap pesado inspiradas en las calles de Desamparados.",
+  "targetArtists": [
+    "Artistas de Desamparados",
+    "Hip-Hop Costa Rica Scene",
+    "Música Urbana 506"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Desamparados",
+    "Trap 506",
+    "SINPE Móvil CRC",
+    "Aprobado ACAM"
+  ],
+  "popularGenres": [
+    "Trap Tico Callejero",
+    "Dancehall Tico",
+    "Trap 506"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "desamparados-reggaeton-costarricense",
+  "name": "Desamparados Reggaetón Costarricense",
+  "category": "scene",
+  "badge": "Desamparados Reggaetón 506",
+  "headline": "Desamparados (San José Sur) Reggaetón Costarricense: Pistas WAV & Pago SINPE Móvil",
+  "description": "Dembow bailable fresco, sintetizadores pulidos y bajos envolventes para sonar en todas las radios de Desamparados.",
+  "targetArtists": [
+    "Artistas de Desamparados",
+    "Hip-Hop Costa Rica Scene",
+    "Música Urbana 506"
+  ],
+  "recommendedBpm": "95-102 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Desamparados",
+    "Reggaetón 506",
+    "SINPE Móvil CRC",
+    "Aprobado ACAM"
+  ],
+  "popularGenres": [
+    "Reggaetón Costarricense",
+    "Dancehall Tico",
+    "Trap 506"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "desamparados-melodic-rnb-trap",
+  "name": "Desamparados Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Desamparados Melodic R&B Tico",
+  "headline": "Desamparados (San José Sur) Melodic R&B Trap: Pistas WAV & Pago SINPE Móvil",
+  "description": "Guitarras acústicas de desamor estilo Kavvo, pianos emotivos y baterías suaves para vocalistas de Desamparados.",
+  "targetArtists": [
+    "Artistas de Desamparados",
+    "Hip-Hop Costa Rica Scene",
+    "Música Urbana 506"
+  ],
+  "recommendedBpm": "94-100 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Desamparados",
+    "Melodic R&B Tico",
+    "SINPE Móvil CRC",
+    "Aprobado ACAM"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "Dancehall Tico",
+    "Trap 506"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "curridabat-dancehall-tico-beats",
+  "name": "Curridabat Dancehall Tico Beats",
+  "category": "scene",
+  "badge": "Curridabat Dancehall Tico",
+  "headline": "Curridabat (San José Este) Dancehall Tico Beats: Pistas WAV & Pago SINPE Móvil",
+  "description": "Baterías bailables de dancehall caribeño, metales vivos y calidad WAV 24-bit de estudio con SINPE Móvil para artistas de Curridabat.",
+  "targetArtists": [
+    "Artistas de Curridabat",
+    "Hip-Hop Costa Rica Scene",
+    "Música Urbana 506"
+  ],
+  "recommendedBpm": "98-108 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Curridabat",
+    "Dancehall Tico",
+    "SINPE Móvil CRC",
+    "Aprobado ACAM"
+  ],
+  "popularGenres": [
+    "Dancehall Tico Beats",
+    "Dancehall Tico",
+    "Trap 506"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "curridabat-trap-tico-callejero",
+  "name": "Curridabat Trap Tico Callejero",
+  "category": "scene",
+  "badge": "Curridabat Trap 506",
+  "headline": "Curridabat (San José Este) Trap Tico Callejero: Pistas WAV & Pago SINPE Móvil",
+  "description": "Bajos 808 profundos, campanas oscuras y baterías de trap pesado inspiradas en las calles de Curridabat.",
+  "targetArtists": [
+    "Artistas de Curridabat",
+    "Hip-Hop Costa Rica Scene",
+    "Música Urbana 506"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Curridabat",
+    "Trap 506",
+    "SINPE Móvil CRC",
+    "Aprobado ACAM"
+  ],
+  "popularGenres": [
+    "Trap Tico Callejero",
+    "Dancehall Tico",
+    "Trap 506"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "curridabat-reggaeton-costarricense",
+  "name": "Curridabat Reggaetón Costarricense",
+  "category": "scene",
+  "badge": "Curridabat Reggaetón 506",
+  "headline": "Curridabat (San José Este) Reggaetón Costarricense: Pistas WAV & Pago SINPE Móvil",
+  "description": "Dembow bailable fresco, sintetizadores pulidos y bajos envolventes para sonar en todas las radios de Curridabat.",
+  "targetArtists": [
+    "Artistas de Curridabat",
+    "Hip-Hop Costa Rica Scene",
+    "Música Urbana 506"
+  ],
+  "recommendedBpm": "95-102 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Curridabat",
+    "Reggaetón 506",
+    "SINPE Móvil CRC",
+    "Aprobado ACAM"
+  ],
+  "popularGenres": [
+    "Reggaetón Costarricense",
+    "Dancehall Tico",
+    "Trap 506"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "curridabat-melodic-rnb-trap",
+  "name": "Curridabat Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Curridabat Melodic R&B Tico",
+  "headline": "Curridabat (San José Este) Melodic R&B Trap: Pistas WAV & Pago SINPE Móvil",
+  "description": "Guitarras acústicas de desamor estilo Kavvo, pianos emotivos y baterías suaves para vocalistas de Curridabat.",
+  "targetArtists": [
+    "Artistas de Curridabat",
+    "Hip-Hop Costa Rica Scene",
+    "Música Urbana 506"
+  ],
+  "recommendedBpm": "94-100 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Curridabat",
+    "Melodic R&B Tico",
+    "SINPE Móvil CRC",
+    "Aprobado ACAM"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "Dancehall Tico",
+    "Trap 506"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "san-ramon-dancehall-tico-beats",
+  "name": "San Ramón Dancehall Tico Beats",
+  "category": "scene",
+  "badge": "San Ramón Dancehall Tico",
+  "headline": "San Ramón (Alajuela Occidente) Dancehall Tico Beats: Pistas WAV & Pago SINPE Móvil",
+  "description": "Baterías bailables de dancehall caribeño, metales vivos y calidad WAV 24-bit de estudio con SINPE Móvil para artistas de San Ramón.",
+  "targetArtists": [
+    "Artistas de San Ramón",
+    "Hip-Hop Costa Rica Scene",
+    "Música Urbana 506"
+  ],
+  "recommendedBpm": "98-108 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "San Ramón",
+    "Dancehall Tico",
+    "SINPE Móvil CRC",
+    "Aprobado ACAM"
+  ],
+  "popularGenres": [
+    "Dancehall Tico Beats",
+    "Dancehall Tico",
+    "Trap 506"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "san-ramon-trap-tico-callejero",
+  "name": "San Ramón Trap Tico Callejero",
+  "category": "scene",
+  "badge": "San Ramón Trap 506",
+  "headline": "San Ramón (Alajuela Occidente) Trap Tico Callejero: Pistas WAV & Pago SINPE Móvil",
+  "description": "Bajos 808 profundos, campanas oscuras y baterías de trap pesado inspiradas en las calles de San Ramón.",
+  "targetArtists": [
+    "Artistas de San Ramón",
+    "Hip-Hop Costa Rica Scene",
+    "Música Urbana 506"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "San Ramón",
+    "Trap 506",
+    "SINPE Móvil CRC",
+    "Aprobado ACAM"
+  ],
+  "popularGenres": [
+    "Trap Tico Callejero",
+    "Dancehall Tico",
+    "Trap 506"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "san-ramon-reggaeton-costarricense",
+  "name": "San Ramón Reggaetón Costarricense",
+  "category": "scene",
+  "badge": "San Ramón Reggaetón 506",
+  "headline": "San Ramón (Alajuela Occidente) Reggaetón Costarricense: Pistas WAV & Pago SINPE Móvil",
+  "description": "Dembow bailable fresco, sintetizadores pulidos y bajos envolventes para sonar en todas las radios de San Ramón.",
+  "targetArtists": [
+    "Artistas de San Ramón",
+    "Hip-Hop Costa Rica Scene",
+    "Música Urbana 506"
+  ],
+  "recommendedBpm": "95-102 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "San Ramón",
+    "Reggaetón 506",
+    "SINPE Móvil CRC",
+    "Aprobado ACAM"
+  ],
+  "popularGenres": [
+    "Reggaetón Costarricense",
+    "Dancehall Tico",
+    "Trap 506"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "san-ramon-melodic-rnb-trap",
+  "name": "San Ramón Melodic R&B Trap",
+  "category": "scene",
+  "badge": "San Ramón Melodic R&B Tico",
+  "headline": "San Ramón (Alajuela Occidente) Melodic R&B Trap: Pistas WAV & Pago SINPE Móvil",
+  "description": "Guitarras acústicas de desamor estilo Kavvo, pianos emotivos y baterías suaves para vocalistas de San Ramón.",
+  "targetArtists": [
+    "Artistas de San Ramón",
+    "Hip-Hop Costa Rica Scene",
+    "Música Urbana 506"
+  ],
+  "recommendedBpm": "94-100 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "San Ramón",
+    "Melodic R&B Tico",
+    "SINPE Móvil CRC",
+    "Aprobado ACAM"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "Dancehall Tico",
+    "Trap 506"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
 ];
