@@ -31827,4 +31827,434 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
     }
   ]
 },
+  "ec/duran-guayas": {
+  "name": "Ecuador – Durán & Guayas (Ciudad Ferroviaria & Street Drill)",
+  "flag": "🇪🇨",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Deuna! (Banco Pichincha), Banco Guayaquil, Produbanco, Tarjetas, Apple Pay, PayPal",
+  "pro": "SAYCE & SENADI",
+  "proFullName": "SAYCE & SENADI Ecuador",
+  "proGuide": "100% legal ante SAYCE con contrato en PDF descargable.",
+  "headline": "Beats en Durán: Street Drill Pesado, Baterías Duras & Calle Ferroviaria",
+  "description": "La realidad combativa de la ciudad ferroviaria: bajos 808 continuos con deslizamientos agresivos, cajas sincopadas y campanas oscuras para rimas de vivencia pura.",
+  "popularGenres": [
+    "Durán Drill",
+    "Street Trap",
+    "Guayas Underground"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Ecuador – Durán & Guayas (Ciudad Ferroviaria & Street Drill)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SAYCE y SENADI?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante el Servicio Nacional de Derechos Intelectuales (SENADI) y afiliar tu canción a SAYCE sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en el Ecuador?",
+      "answer": "Al utilizar el Dólar Estadounidense (USD $) como moneda oficial, no sufres pérdidas por tipo de cambio. Puedes pagar instantáneamente a través de Deuna! (código QR desde la app de Banco Pichincha), transferencias de Banco Guayaquil o Produbanco, tarjetas de débito/crédito nacionales e internacionales, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "ec/ibarra-imbabura": {
+  "name": "Ecuador – Ibarra & Imbabura (Ciudad Blanca & Rap de la Sierra Norte)",
+  "flag": "🇪🇨",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Deuna!, Banco Pichincha, Banco Guayaquil, Tarjetas, Apple Pay, PayPal",
+  "pro": "SAYCE & SENADI",
+  "proFullName": "SAYCE & SENADI Ecuador",
+  "proGuide": "100% original con entrega de stems multitrack.",
+  "headline": "Beats en Ibarra: Rap de la Sierra Norte, Guitarras Andinas & Boom Bap",
+  "description": "La belleza y altura de la Ciudad Blanca: acordes límpidos de guitarra acústica, vientos andinos tradicionales y baterías con pegada para canciones con historia y poesía.",
+  "popularGenres": [
+    "Ibarra Hip Hop",
+    "Sierra Norte Rap",
+    "Folk Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Ecuador – Ibarra & Imbabura (Ciudad Blanca & Rap de la Sierra Norte)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SAYCE y SENADI?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante el Servicio Nacional de Derechos Intelectuales (SENADI) y afiliar tu canción a SAYCE sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en el Ecuador?",
+      "answer": "Al utilizar el Dólar Estadounidense (USD $) como moneda oficial, no sufres pérdidas por tipo de cambio. Puedes pagar instantáneamente a través de Deuna! (código QR desde la app de Banco Pichincha), transferencias de Banco Guayaquil o Produbanco, tarjetas de débito/crédito nacionales e internacionales, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "ec/portoviejo-manabi": {
+  "name": "Ecuador – Portoviejo & Manabí (Ciudad de los Reales Tamarindos)",
+  "flag": "🇪🇨",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Deuna!, Banco Pichincha, Banco Guayaquil, Tarjetas, Apple Pay, PayPal",
+  "pro": "SAYCE & SENADI",
+  "proFullName": "SAYCE & SENADI Ecuador",
+  "proGuide": "100% libre de samples protegidos para distribución en plataformas.",
+  "headline": "Beats en Portoviejo: Hip-Hop Manabita, Guitarras Costeñas & Trap",
+  "description": "La capital histórica de Manabí: rasgueos de guitarra montuvia fusionados con el golpe moderno del trap y baterías analógicas para un sonido caribeño-pacífico único.",
+  "popularGenres": [
+    "Manabí Trap",
+    "Portoviejo Urban",
+    "Montuvio Fusion"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Ecuador – Portoviejo & Manabí (Ciudad de los Reales Tamarindos)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SAYCE y SENADI?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante el Servicio Nacional de Derechos Intelectuales (SENADI) y afiliar tu canción a SAYCE sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en el Ecuador?",
+      "answer": "Al utilizar el Dólar Estadounidense (USD $) como moneda oficial, no sufres pérdidas por tipo de cambio. Puedes pagar instantáneamente a través de Deuna! (código QR desde la app de Banco Pichincha), transferencias de Banco Guayaquil o Produbanco, tarjetas de débito/crédito nacionales e internacionales, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "ec/quevedo-los-rios": {
+  "name": "Ecuador – Quevedo & Los Ríos (Capital Agropecuaria & Trap Caliente)",
+  "flag": "🇪🇨",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Deuna!, Banco Pichincha, Banco Guayaquil, Tarjetas, Apple Pay, PayPal",
+  "pro": "SAYCE & SENADI",
+  "proFullName": "SAYCE & SENADI Ecuador",
+  "proGuide": "100% legal ante SAYCE con entrega inmediata.",
+  "headline": "Beats en Quevedo: Trap Caliente de Los Ríos, Sub-Bajos & Car Audio",
+  "description": "El cruce comercial más vibrante de la costa: ritmos de trap acelerados, melodías de sintetizador brillantes y bajos diseñados para reventar equipos de sonido callejeros.",
+  "popularGenres": [
+    "Quevedo Trap",
+    "Car Audio Bass",
+    "Los Ríos Urban"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Ecuador – Quevedo & Los Ríos (Capital Agropecuaria & Trap Caliente)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SAYCE y SENADI?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante el Servicio Nacional de Derechos Intelectuales (SENADI) y afiliar tu canción a SAYCE sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en el Ecuador?",
+      "answer": "Al utilizar el Dólar Estadounidense (USD $) como moneda oficial, no sufres pérdidas por tipo de cambio. Puedes pagar instantáneamente a través de Deuna! (código QR desde la app de Banco Pichincha), transferencias de Banco Guayaquil o Produbanco, tarjetas de débito/crédito nacionales e internacionales, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "ec/riobamba-chimborazo": {
+  "name": "Ecuador – Riobamba & Chimborazo (Sulfana de los Andes & Furia Andina)",
+  "flag": "🇪🇨",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Deuna!, Banco Pichincha, Banco Guayaquil, Tarjetas, Apple Pay, PayPal",
+  "pro": "SAYCE & SENADI",
+  "proFullName": "SAYCE & SENADI Ecuador",
+  "proGuide": "100% compatible con agregadoras digitales.",
+  "headline": "Beats en Riobamba: Al Pie del Chimborazo, Vientos de Montaña & 808s",
+  "description": "La fuerza y el frío del volcán más cercano al sol: zampoñas, quenas andinas y pianos solemnes sobre caídas pesadas de 808 para rap combativo de altura.",
+  "popularGenres": [
+    "Chimborazo Rap",
+    "Andean Boom Bap",
+    "Furia de Altura"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Ecuador – Riobamba & Chimborazo (Sulfana de los Andes & Furia Andina)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SAYCE y SENADI?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante el Servicio Nacional de Derechos Intelectuales (SENADI) y afiliar tu canción a SAYCE sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en el Ecuador?",
+      "answer": "Al utilizar el Dólar Estadounidense (USD $) como moneda oficial, no sufres pérdidas por tipo de cambio. Puedes pagar instantáneamente a través de Deuna! (código QR desde la app de Banco Pichincha), transferencias de Banco Guayaquil o Produbanco, tarjetas de débito/crédito nacionales e internacionales, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "ec/milagro-guayas": {
+  "name": "Ecuador – Milagro & Guayas (Ciudad de las Piñas & Reggaetón Dulce)",
+  "flag": "🇪🇨",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Deuna!, Banco Pichincha, Banco Guayaquil, Tarjetas, Apple Pay, PayPal",
+  "pro": "SAYCE & SENADI",
+  "proFullName": "SAYCE & SENADI Ecuador",
+  "proGuide": "100% original con entrega de stems.",
+  "headline": "Beats en Milagro: Reggaetón Costeño Suave, Dembow Melódico & Fiesta",
+  "description": "La dulzura y el calor de la costa guayasense: campanas alegres de sintetizador, dembows bailables y bajos 808 redondos para canciones de fiesta y conquista.",
+  "popularGenres": [
+    "Milagro Reggaetón",
+    "Pop Urbano",
+    "Coastal Dembow"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Ecuador – Milagro & Guayas (Ciudad de las Piñas & Reggaetón Dulce)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SAYCE y SENADI?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante el Servicio Nacional de Derechos Intelectuales (SENADI) y afiliar tu canción a SAYCE sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en el Ecuador?",
+      "answer": "Al utilizar el Dólar Estadounidense (USD $) como moneda oficial, no sufres pérdidas por tipo de cambio. Puedes pagar instantáneamente a través de Deuna! (código QR desde la app de Banco Pichincha), transferencias de Banco Guayaquil o Produbanco, tarjetas de débito/crédito nacionales e internacionales, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "ec/salinas-santa-elena": {
+  "name": "Ecuador – Salinas & Santa Elena (Península de Fiesta & EDM-Trap)",
+  "flag": "🇪🇨",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Deuna!, Banco Pichincha, Banco Guayaquil, Tarjetas, Apple Pay, PayPal",
+  "pro": "SAYCE & SENADI",
+  "proFullName": "SAYCE & SENADI Ecuador",
+  "proGuide": "100% garantizado con derechos comerciales de streaming.",
+  "headline": "Beats en Salinas: Festival de Playa, Club Banger Peninsular & Drop 808",
+  "description": "El principal balneario del país: fusión de electrónica moderna con reggaetón y trap, redobles de festival y caídas masivas para sonar en discotecas junto al mar.",
+  "popularGenres": [
+    "Salinas Beach Club",
+    "EDM-Trap",
+    "Península Beat"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Ecuador – Salinas & Santa Elena (Península de Fiesta & EDM-Trap)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SAYCE y SENADI?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante el Servicio Nacional de Derechos Intelectuales (SENADI) y afiliar tu canción a SAYCE sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en el Ecuador?",
+      "answer": "Al utilizar el Dólar Estadounidense (USD $) como moneda oficial, no sufres pérdidas por tipo de cambio. Puedes pagar instantáneamente a través de Deuna! (código QR desde la app de Banco Pichincha), transferencias de Banco Guayaquil o Produbanco, tarjetas de débito/crédito nacionales e internacionales, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "ec/babahoyo-los-rios": {
+  "name": "Ecuador – Babahoyo & Costa Fluvial (Capital Fluvial & Trap Melancólico)",
+  "flag": "🇪🇨",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Deuna!, Banco Pichincha, Banco Guayaquil, Tarjetas, Apple Pay, PayPal",
+  "pro": "SAYCE & SENADI",
+  "proFullName": "SAYCE & SENADI Ecuador",
+  "proGuide": "100% registrado y seguro ante SAYCE.",
+  "headline": "Beats en Babahoyo: Riberas del Río, Pianos Cálidos & Trap de Río",
+  "description": "La calma imponente de la capital fluvial: pianos con eco suave, baterías de trap relajadas y líneas de bajo envolventes para historias de despecho y nostalgia.",
+  "popularGenres": [
+    "Babahoyo Trap",
+    "Riberas Sound",
+    "Melancholic Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Ecuador – Babahoyo & Costa Fluvial (Capital Fluvial & Trap Melancólico)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SAYCE y SENADI?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante el Servicio Nacional de Derechos Intelectuales (SENADI) y afiliar tu canción a SAYCE sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en el Ecuador?",
+      "answer": "Al utilizar el Dólar Estadounidense (USD $) como moneda oficial, no sufres pérdidas por tipo de cambio. Puedes pagar instantáneamente a través de Deuna! (código QR desde la app de Banco Pichincha), transferencias de Banco Guayaquil o Produbanco, tarjetas de débito/crédito nacionales e internacionales, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "ec/tulcan-carchi": {
+  "name": "Ecuador – Tulcán & Carchi (Puerta Andina del Norte & Frontera Fuerte)",
+  "flag": "🇪🇨",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Deuna!, Banco Pichincha, Banco Guayaquil, Tarjetas, Apple Pay, PayPal",
+  "pro": "SAYCE & SENADI",
+  "proFullName": "SAYCE & SENADI Ecuador",
+  "proGuide": "Licencias comerciales ilimitadas.",
+  "headline": "Beats en Tulcán: Frío de Frontera Andina, Bombos Pesados & Flow Carchiense",
+  "description": "La puerta de entrada del norte andino: sonidos crudos y directos, bombos secos sin filtros y espacio amplio para barras con carácter y templanza norteña.",
+  "popularGenres": [
+    "Tulcán Rap",
+    "Frontera Norte Beat",
+    "Cold Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Ecuador – Tulcán & Carchi (Puerta Andina del Norte & Frontera Fuerte)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SAYCE y SENADI?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante el Servicio Nacional de Derechos Intelectuales (SENADI) y afiliar tu canción a SAYCE sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en el Ecuador?",
+      "answer": "Al utilizar el Dólar Estadounidense (USD $) como moneda oficial, no sufres pérdidas por tipo de cambio. Puedes pagar instantáneamente a través de Deuna! (código QR desde la app de Banco Pichincha), transferencias de Banco Guayaquil o Produbanco, tarjetas de débito/crédito nacionales e internacionales, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "ec/nueva-loja-lago-agrio": {
+  "name": "Ecuador – Nueva Loja & Lago Agrio (Capital Petrolera Amazónica)",
+  "flag": "🇪🇨",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "Deuna!, Banco Pichincha, Banco Guayaquil, Tarjetas, Apple Pay, PayPal",
+  "pro": "SAYCE & SENADI",
+  "proFullName": "SAYCE & SENADI Ecuador",
+  "proGuide": "100% original y listo para monetizar en Spotify.",
+  "headline": "Beats en Lago Agrio: Selva Amazónica, Percusión Tribal & Trap Pesado",
+  "description": "El corazón de la Amazonía ecuatoriana: texturas de lluvia y selva virgen, percusiones de madera autóctonas y sub-bajos que estremecen la tierra húmeda del oriente.",
+  "popularGenres": [
+    "Amazonian Trap",
+    "Oriente Ecuatoriano",
+    "Tribal Urban"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en Ecuador – Nueva Loja & Lago Agrio (Capital Petrolera Amazónica)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SAYCE y SENADI?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante el Servicio Nacional de Derechos Intelectuales (SENADI) y afiliar tu canción a SAYCE sin ningún riesgo de reclamo o penalización."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en el Ecuador?",
+      "answer": "Al utilizar el Dólar Estadounidense (USD $) como moneda oficial, no sufres pérdidas por tipo de cambio. Puedes pagar instantáneamente a través de Deuna! (código QR desde la app de Banco Pichincha), transferencias de Banco Guayaquil o Produbanco, tarjetas de débito/crédito nacionales e internacionales, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
 };
