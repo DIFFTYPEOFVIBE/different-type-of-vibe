@@ -52988,4 +52988,1453 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "2"
   ]
 },
+  {
+  "slug": "1mill-trap-driller-bangkok-bounce",
+  "name": "1MILL Trap Driller Bangkok Bounce",
+  "category": "vibe",
+  "badge": "1MILL Trap Star Vibe",
+  "headline": "บีทสไตล์ 1MILL: แทร็ปแอตแลนตาหนักหน่วง, เบส 808 สไลด์ดุดัน & บาวซ์",
+  "description": "ซาวด์แทร็ปตัวจริงระดับแถวหน้าของเมืองไทย: เสียงเบส 808 สไลด์ลากยาวกระแทกใจ ไฮแฮทวิ่งรัวเป็นคลื่น และแอมเบียนต์มืดหม่นสำหรับไรห์มแนวสตรีทที่มั่นใจ.",
+  "targetArtists": [
+    "1MILL",
+    "Pain Killer",
+    "Trap Star",
+    "Bangkok Drill"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "เบส 808 สไลด์",
+    "แทร็ปแอตแลนตา",
+    "ไฮแฮทรัว",
+    "สตรีทบาวซ์"
+  ],
+  "popularGenres": [
+    "Thai Trap",
+    "T-Hop",
+    "Drill ไทย"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "youngohm-bangkok-legacy-melodic-thop",
+  "name": "YOUNGOHM Bangkok Legacy Melodic THop",
+  "category": "vibe",
+  "badge": "YOUNGOHM บางกอกเลกาซี",
+  "headline": "บีทสไตล์ YOUNGOHM: เมโลดิก T-Hop ติดหู, คอร์ดซินธ์ลื่นไหล & จังหวะชวนโยก",
+  "description": "ลายเซ็นเสียงเพลงฮิตระดับร้อยล้านวิว: เมโลดี้ซินธิไซเซอร์สุดไพเราะ จังหวะกลองนุ่มฟังสบาย และช่องว่างสำหรับการร้องออโต้จูนเมโลดี้ที่คนร้องตามได้ทั้งประเทศ.",
+  "targetArtists": [
+    "YOUNGOHM",
+    "ธาตุทองซาวด์",
+    "บางกอกเลกาซี",
+    "เฉยเมย",
+    "ธารารัตน์"
+  ],
+  "recommendedBpm": "100-112 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "เมโลดิก T-Hop",
+    "ซินธ์ลื่นไหล",
+    "ออโต้จูนเพราะ",
+    "เพลงฮิตติดหู"
+  ],
+  "popularGenres": [
+    "T-Hop",
+    "Melodic Rap",
+    "Thai Pop-Rap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "saran-lyrical-battle-rap-thailand",
+  "name": "SARAN Lyrical Battle Rap Thailand",
+  "category": "vibe",
+  "badge": "SARAN คมคายดุดัน",
+  "headline": "บีทสไตล์ SARAN: กลองกระแทกใจ, เปียโนดรามาติก & ไรห์มคมกริบ",
+  "description": "จังหวะบีทสำหรับนักสู้แห่งเวที The Rapper: เสียงเปียโนคอร์ดไมเนอร์เข้มข้น กลองสแนร์กระแทกเฉียบขาดเพื่อการแร็ปเล่าเรื่องอารมณ์ดิ่งลึกและพั้นช์ไลน์บาดอารมณ์.",
+  "targetArtists": [
+    "SARAN",
+    "The Rapper แชมป์",
+    "ลืมแทบไม่ไหว",
+    "แร็ปเล่าเรื่อง"
+  ],
+  "recommendedBpm": "90-98 BPM",
+  "recommendedKey": "A-Minor / D-Minor",
+  "vibeAttributes": [
+    "เปียโนดรามาติก",
+    "กลองกระแทกใจ",
+    "พั้นช์ไลน์",
+    "สตอรี่เทลลิ่ง"
+  ],
+  "popularGenres": [
+    "Storytelling Rap",
+    "Boom Bap ไทย",
+    "Battle Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "sprite-catchy-thai-pop-trap",
+  "name": "Sprite Catchy Thai Pop Trap",
+  "category": "vibe",
+  "badge": "SPRITE ฮิตไวรัล Vibe",
+  "headline": "บีทสไตล์ SPRITE: ป็อปแทร็ปสดใสจังหวะสนุก, ซินธ์เด้งดึ๋ง & ไวรัล TikTok",
+  "description": "เพลงฮิตไวรัลที่ติดชาร์ตระดับโลก: จังหวะบีทสดใส ซาวด์เบสเด้งสนุกสนาน และฮุคติดหูที่เหมาะสำหรับทั้งการเต้นบน TikTok และการเปิดในงานปาร์ตี้.",
+  "targetArtists": [
+    "SPRITE",
+    "ทน",
+    "บังอร",
+    "Hype Train",
+    "TikTok Viral"
+  ],
+  "recommendedBpm": "105-115 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "ป็อปแทร็ปสดใส",
+    "เบสเด้งดึ๋ง",
+    "ไวรัล TikTok",
+    "ท่อนฮุคจำง่าย"
+  ],
+  "popularGenres": [
+    "Pop-Trap",
+    "Thai Pop-Rap",
+    "Commercial Dance"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "f-hero-king-of-thai-hip-hop",
+  "name": "F Hero King Of Thai Hip Hop",
+  "category": "vibe",
+  "badge": "F.HERO ราชาฮิปฮอปไทย",
+  "headline": "บีทสไตล์ F.HERO: บราสออเคสตราอลังการ, บูมแบ็ปหนักแน่น & ความยิ่งใหญ่",
+  "description": "ความยิ่งใหญ่ของพี่ใหญ่แห่งวงการฮิปฮอปไทย: เครื่องเป่าทองเหลืองอลังการ เสียงกลองกระหึ่มดั่งฟ้าร้อง และท่วงทำนองสง่างามสำหรับบทเพลงที่มีคุณค่าและความหมาย.",
+  "targetArtists": [
+    "F.HERO",
+    "High Cloud",
+    "คอแห้ง",
+    "ราชาฮิปฮอป",
+    "มิตรภาพ"
+  ],
+  "recommendedBpm": "88-96 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "บราสอลังการ",
+    "บูมแบ็ปหนักแน่น",
+    "ความสง่างาม",
+    "ราชาฮิปฮอป"
+  ],
+  "popularGenres": [
+    "Cinematic Rap",
+    "Boom Bap บารมี",
+    "Orchestral Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "diamond-mqt-young-rich-drill",
+  "name": "Diamond MQT Young Rich Drill",
+  "category": "vibe",
+  "badge": "DIAMOND MQT Young Rich",
+  "headline": "บีทสไตล์ DIAMOND MQT: ดริลเมโลดิกความเร็วสูง, เบสสไลด์พริ้ว & ซาวด์หรู",
+  "description": "ความคล่องแคล่วของคลื่นลูกใหม่แห่งวงการแร็ป: จังหวะดริล 140 BPM เมโลดิก้าล่องลอย และเสียงเบสสไลด์ที่เชื่อมต่อความหรูหราเข้ากับความดุดันได้อย่างลงตัว.",
+  "targetArtists": [
+    "DIAMOND MQT",
+    "Young Rich",
+    "กูไม่รู้",
+    "Drill เมโลดิก"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "ดริลเมโลดิก",
+    "140 BPM",
+    "เบสสไลด์พริ้ว",
+    "ซาวด์คนรุ่นใหม่"
+  ],
+  "popularGenres": [
+    "Melodic Drill",
+    "T-Drill",
+    "Thai Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "og-bobby-banger-hardcore-trap",
+  "name": "OG Bobby Banger Hardcore Trap",
+  "category": "vibe",
+  "badge": "OG BOBBY คลับแบงเกอร์",
+  "headline": "บีทสไตล์ OG BOBBY: ฮาร์ดคอร์แทร็ปพลังเดือด, เบสสะเทือนผับ & ไฮป์",
+  "description": "พลังเสียงระเบิดฟลอร์เต้นรำ: เบส 808 บิดแตกสะใจ แตรสังเคราะห์เร้าอารมณ์ และจังหวะแทร็ปสองภาษาที่ทำให้ทุกคนในคลับกระโดดไม่หยุด.",
+  "targetArtists": [
+    "OG BOBBY",
+    "BONG",
+    "Underground",
+    "Hype Train",
+    "Club Banger"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "F-Minor / C-Sharp Minor",
+  "vibeAttributes": [
+    "ฮาร์ดคอร์แทร็ป",
+    "เบสสะเทือนผับ",
+    "แตรสังเคราะห์",
+    "ไฮป์สุดพลัง"
+  ],
+  "popularGenres": [
+    "Hardcore Trap",
+    "Club Banger",
+    "Bilingual Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "milli-snow-flower-thai-female-rap",
+  "name": "MILLI Snow Flower Thai Female Rap",
+  "category": "vibe",
+  "badge": "MILLI พลังหญิงตัวแม่",
+  "headline": "บีทสไตล์ MILLI: โฟลว์เร็วแพรวพราว, ป็อปแทร็ปขี้เล่น & พลังหญิงยุคใหม่",
+  "description": "ความจัดจ้านของแร็ปเปอร์สาวระดับอินเตอร์: จังหวะกระโดดกระเด้ง ซาวด์เพอร์คัชชันหลากสีสัน และท่อนดรอปจัดจ้านที่เปิดโอกาสให้โชว์โฟลว์รัวเร็วและลูกเล่นเสียง.",
+  "targetArtists": [
+    "MILLI",
+    "พักก่อน",
+    "สุดปัง",
+    "YUPP!",
+    "Coachella Star"
+  ],
+  "recommendedBpm": "115-125 BPM",
+  "recommendedKey": "E-Minor / A-Minor",
+  "vibeAttributes": [
+    "โฟลว์เร็วแพรวพราว",
+    "ป็อปแทร็ปขี้เล่น",
+    "พลังหญิงตัวแม่",
+    "สีสันจัดจ้าน"
+  ],
+  "popularGenres": [
+    "Female Hip-Hop",
+    "Pop-Trap",
+    "Experimental Rap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "molam-phin-khaen-isan-trap-fusion",
+  "name": "Molam Phin Khaen Isan Trap Fusion",
+  "category": "vibe",
+  "badge": "หมอลำฟิวชั่นแทร็ปอีสาน",
+  "headline": "บีทหมอลำฟิวชั่นแทร็ป: ลายพิณซิ่งสะเดิด, เสียงแคนหวาน & เบส 808 ร่วมสมัย",
+  "description": "สุดยอดการผสมผสานมรดกทางวัฒนธรรมอีสานเข้ากับดนตรียุคใหม่: เสียงพิณโซโล่สะกดวิญญาณ เสียงแคนเป่าพริ้วไหวบนจังหวะดรอป 808 ชวนเซิ้งแบบสากล.",
+  "targetArtists": [
+    "หมอลำแทร็ป",
+    "ดนตรีอีสานร่วมสมัย",
+    "เซิ้งไฮเทค",
+    "พิณซิ่ง"
+  ],
+  "recommendedBpm": "120-130 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "ลายพิณซิ่ง",
+    "เสียงแคนหวาน",
+    "หมอลำฟิวชั่น",
+    "เบส 808 ร่วมสมัย"
+  ],
+  "popularGenres": [
+    "Molam Trap",
+    "Isan Fusion",
+    "Thai Cultural Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "twopee-southside-classic-boombap",
+  "name": "Twopee Southside Classic Boombap",
+  "category": "vibe",
+  "badge": "Twopee เซาท์ไซด์คลาสสิก",
+  "headline": "บีทสไตล์ Twopee Southside: บูมแบ็ปแดนใต้คลาสสิก, แซมเปิลแจ๊ส & โฟลว์เท่",
+  "description": "ความคลาสสิกของตำนานเซาท์ไซด์ภูเก็ต: กรูฟกลอง MPC แน่นหนึบ แซมเปิลเปียโนแจ๊สพริ้วไหว และบาสไลน์ที่นุ่มนวลสำหรับโฟลว์แร็ปมาดเท่.",
+  "targetArtists": [
+    "Twopee Southside",
+    "ไหวอ่ะเปล่า",
+    "Southside",
+    "The Rapper โค้ช"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "บูมแบ็ปแดนใต้",
+    "แซมเปิลแจ๊ส",
+    "กลอง MPC แน่น",
+    "โฟลว์มาดเท่"
+  ],
+  "popularGenres": [
+    "Classic Boom Bap",
+    "Southside Rap",
+    "Jazz Hop ไทย"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "6"
+  ]
+},
+  {
+  "slug": "illslick-legendary-rnb-slow-jams",
+  "name": "Illslick Legendary Rnb Slow Jams",
+  "category": "vibe",
+  "badge": "Illslick ตำนาน R&B ไทย",
+  "headline": "บีทสไตล์ Illslick: R&B สโลว์แจมระดับตำนาน, กีตาร์หวานซึ้ง & เบสอบอุ่น",
+  "description": "เพลงรักระดับตำนานของวงการเพลงไทย: คอร์ดกีตาร์อะคูสติกหวานลึกซึ้ง เสียงสแนร์นุ่มละมุน และเบสทุ้มอุ่นที่กล่อมให้หัวใจละลายไปกับคำร้อง.",
+  "targetArtists": [
+    "Illslick",
+    "จูบ",
+    "ถ้าหากโลกนี้ไม่มีดวงจันทร์",
+    "ตำนาน R&B"
+  ],
+  "recommendedBpm": "85-92 BPM",
+  "recommendedKey": "C-Major / F-Major",
+  "vibeAttributes": [
+    "R&B สโลว์แจม",
+    "กีตาร์หวานซึ้ง",
+    "เบสอบอุ่น",
+    "เพลงรักอมตะ"
+  ],
+  "popularGenres": [
+    "R&B Slow Jams",
+    "Melodic Rap",
+    "Acoustic Urban"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "urboytj-funky-pop-rap-groove",
+  "name": "UrboyTJ Funky Pop Rap Groove",
+  "category": "vibe",
+  "badge": "UrboyTJ ฟังก์ป็อปแร็ป",
+  "headline": "บีทสไตล์ UrboyTJ: กรูฟฟังกี้สดใส, เบสไลน์ชวนเต้น & เครื่องเป่าอารมณ์ดี",
+  "description": "ซาวด์ป็อปแร็ปอันดับหนึ่งของเมืองไทย: เบสไลน์หนึบสไตล์ฟังก์ยุค 80s เสียงกีตาร์คอร์ดดิสโก้สนุกสนาน และท่อนฮุคอารมณ์ดีที่เปิดที่ไหนก็มีแต่รอยยิ้ม.",
+  "targetArtists": [
+    "UrboyTJ",
+    "วายร้าย",
+    "เค้าก่อน",
+    "ถามคำ",
+    "ฟังกี้ป็อปแร็ป"
+  ],
+  "recommendedBpm": "100-110 BPM",
+  "recommendedKey": "G-Major / D-Major",
+  "vibeAttributes": [
+    "กรูฟฟังกี้สดใส",
+    "เบสไลน์ชวนเต้น",
+    "เครื่องเป่าอารมณ์ดี",
+    "ป็อปแร็ป"
+  ],
+  "popularGenres": [
+    "Funk Pop-Rap",
+    "Commercial T-Hop",
+    "Dance Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "sue-beat-rap-thai-promptpay-truemoney",
+  "name": "ซื้อบีทแร็พไทยราคาถูก จ่ายผ่าน PromptPay & TrueMoney (เงินบาท THB)",
+  "category": "genre",
+  "badge": "สแกน PromptPay & TrueMoney",
+  "headline": "ซื้อบีทแร็พไทยราคาถูก: สแกน PromptPay คิวอาร์โค้ด โหลดไฟล์ WAV ทันที",
+  "description": "วิธีที่ง่ายและสะดวกที่สุดในการเป็นเจ้าของบีทแร็พถูกลิขสิทธิ์ในไทย ไม่ต้องใช้บัตรเครดิต จ่ายเป็นเงินบาทผ่านพร้อมเพย์หรือทรูมันนี่ โหลดไฟล์ WAV 24-bit คุณภาพสตูดิโอได้ทันที.",
+  "targetArtists": [
+    "แร็ปเปอร์ไทยรุ่นใหม่",
+    "นักเรียนนักศึกษา",
+    "โฮมสตูดิโอ"
+  ],
+  "recommendedBpm": "ทุกความเร็ว BPM",
+  "recommendedKey": "ทุกคีย์เพลง",
+  "vibeAttributes": [
+    "จ่ายเงินบาท",
+    "พร้อมเพย์รวดเร็ว",
+    "ทรูมันนี่",
+    "โหลด WAV ทันที"
+  ],
+  "popularGenres": [
+    "Thai Trap",
+    "T-Hop",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "beat-trap-thai-bass-808-nak-wav-stems",
+  "name": "บีทแทร็ปไทยเบส 808 หนักๆ โหลดไฟล์ WAV 24-bit พร้อม Stems แยกแทร็ก",
+  "category": "genre",
+  "badge": "แทร็ป 808 หนักสะใจ",
+  "headline": "บีทแทร็ปไทยแลนด์: เบส 808 ลึกสะเทือนสตูดิโอ & แทร็กแยกชิ้น Stems",
+  "description": "ซาวด์โมเดิร์นมาตรฐานเวทีการแข่งขัน ย่านความถี่ต่ำถูกมิกซ์มาอย่างแม่นยำ ย่านกลางสะอาดเคลียร์เพื่อให้เสียงร้องและออโต้จูนของคุณโดดเด่นอย่างมืออาชีพ.",
+  "targetArtists": [
+    "แทร็ปเปอร์",
+    "โปรดิวเซอร์ห้องอัด",
+    "ศิลปินฮิปฮอป"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "เบส 808 หนัก",
+    "แยกแทร็ก Stems",
+    "WAV สตูดิโอ",
+    "มิกซ์สะอาด"
+  ],
+  "popularGenres": [
+    "Thai Trap",
+    "T-Hop",
+    "Club Banger"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "beat-rap-mai-tid-likhasit-youtube-monetize",
+  "name": "บีทแร็พไม่ติดลิขสิทธิ์ สร้างรายได้ YouTube, Spotify และ TikTok 100%",
+  "category": "genre",
+  "badge": "ไม่โดนแบน ไม่ติดลิขสิทธิ์",
+  "headline": "บีทแร็พถูกลิขสิทธิ์ 100%: เปิดสร้างรายได้ YouTube & Spotify สบายใจ",
+  "description": "ปล่อยเพลงและคลิปวิดีโอได้อย่างมั่นใจโดยไม่ต้องกังวลว่าจะโดนอ้างสิทธิ์ Content ID หรือโดนลบคลิป มาพร้อมสัญญาอนุญาตเชิงพาณิชย์และหนังสือรับรองสากล.",
+  "targetArtists": [
+    "ยูทูบเบอร์",
+    "ติ๊กต็อกเกอร์",
+    "ศิลปินอินดี้"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "ไม่ติดลิขสิทธิ์",
+    "เปิดสร้างรายได้",
+    "ปลอดภัย 100%",
+    "มีสัญญาครบ"
+  ],
+  "popularGenres": [
+    "Thai Trap",
+    "Lofi",
+    "Chillhop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2",
+    "5"
+  ]
+},
+  {
+  "slug": "beat-rap-lofi-guitar-style-youngohm",
+  "name": "บีทแร็พโลไฟและกีตาร์ฟังสบายสไตล์ YOUNGOHM",
+  "category": "genre",
+  "badge": "โลไฟกีตาร์ฟังสบาย",
+  "headline": "บีทแร็พโลไฟฟังสบาย: เสียงกีตาร์โปร่งอบอุ่น สำหรับเพลงรักและเพลงชิลล์",
+  "description": "บรรยากาศอบอุ่นและเป็นกันเอง: เสียงเกากีตาร์โปร่งนุ่มนวล เสียงซ่าแผ่นเสียงโลไฟจางๆ และจังหวะกลองนุ่มละมุนที่ช่วยส่งให้อารมณ์ของบทเพลงลึกซึ้งยิ่งขึ้น.",
+  "targetArtists": [
+    "แฟนคลับ YOUNGOHM",
+    "แร็ปเปอร์สายชิลล์",
+    "เพลงรักฟังสบาย"
+  ],
+  "recommendedBpm": "85-95 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "กีตาร์โปร่ง",
+    "โลไฟฟังสบาย",
+    "อบอุ่น",
+    "เพลงรัก"
+  ],
+  "popularGenres": [
+    "Lofi Hip-Hop",
+    "Chillhop",
+    "Acoustic Rap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "combo-beat-rap-2-thaem-1-promptpay",
+  "name": "โปรโมชั่นคอมโบบีทแร็พ 2 แถม 1 ชำระผ่าน PromptPay (THB ฿)",
+  "category": "genre",
+  "badge": "โปรโมชั่น 2 แถม 1",
+  "headline": "โปรสุดคุ้มบีทแร็พไทย: ซื้อ 2 บีท แถมฟรีอีก 1 บีททันที จ่ายพร้อมเพย์",
+  "description": "ทำ EP หรือมิกซ์เทปครบชุดในราคาประหยัดสุดขีด ระบบลดราคาให้อัตโนมัติในตะกร้าสินค้าเมื่อเลือกครบ 3 บีท และสแกนจ่ายผ่านพร้อมเพย์ QR สะดวกรวดเร็ว.",
+  "targetArtists": [
+    "ศิลปินทำ EP",
+    "กลุ่มเพื่อนทำเพลง",
+    "มิกซ์เทป"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "ซื้อ 2 แถม 1",
+    "ประหยัดเงินบาท",
+    "ไฟล์ WAV แท้",
+    "พร้อมเพย์"
+  ],
+  "popularGenres": [
+    "Thai Trap",
+    "T-Hop",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6"
+  ]
+},
+  {
+  "slug": "beat-drill-thai-140-bpm-untagged",
+  "name": "บีทแร็พดริลไทย 140 BPM ไม่มีเสียงแท็กพูดทับ โหลดไฟล์ WAV",
+  "category": "genre",
+  "badge": "140 BPM ดริลไทย",
+  "headline": "บีทแร็พดริลไทย 140 BPM: สแนร์รัวซัด, 808 สไลด์ดุดัน & ไร้เสียงแท็ก",
+  "description": "แนวดนตรีพลังงานสูงที่กำลังมาแรงในหมู่วัยรุ่นไทย จังหวะกลองดริล 140 BPM สับรัว เบสสไลด์ทรงพลังพร้อมให้อัดเสียงโชว์ทักษะการแร็ประดับท็อป.",
+  "targetArtists": [
+    "แร็ปเปอร์สายดริล",
+    "ผู้เข้าแข่งขันแร็ป",
+    "ดริลไทยแลนด์"
+  ],
+  "recommendedBpm": "138-144 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "140 BPM ดริล",
+    "808 สไลด์ดุดัน",
+    "สแนร์รัวซัด",
+    "ไร้แท็กเสียง"
+  ],
+  "popularGenres": [
+    "Thai Drill",
+    "UK Drill",
+    "T-Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "beat-rap-rak-melodic-rnb-autotune",
+  "name": "บีทแร็พรักหวานๆ เมโลดิก R&B ออโต้จูนสไตล์ Illslick และ MCK",
+  "category": "genre",
+  "badge": "แร็พรักเมโลดิก R&B",
+  "headline": "บีทแร็พรักโรแมนติก: คอร์ด R&B ซึ้งๆ, เปียโนนุ่มละมุน & ออโต้จูนเพราะ",
+  "description": "จังหวะบีทสำหรับเพลงรักหวานซึ้งและเพลงบอกรัก คอร์ดเปียโนและซินธ์เต็มเปี่ยมไปด้วยอารมณ์ ย่านเบสนุ่มละมุนช่วยหนุนให้เสียงร้องฟังดูอบอุ่นจับใจ.",
+  "targetArtists": [
+    "นักร้อง R&B",
+    "แร็ปเปอร์สายหวาน",
+    "เพลงรักอกหัก"
+  ],
+  "recommendedBpm": "100-112 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "คอร์ด R&B ซึ้ง",
+    "ออโต้จูนเพราะ",
+    "เปียโนนุ่ม",
+    "WAV สตูดิโอ"
+  ],
+  "popularGenres": [
+    "Melodic Rap",
+    "R&B Pop",
+    "Thai Slow Jams"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "beat-rap-samrab-khaeng-the-rapper",
+  "name": "บีทแร็พสำหรับการแข่งขัน ออดิชั่น The Rapper และ Show Me The Money",
+  "category": "genre",
+  "badge": "บีทมาตรฐานเวทีแข่งขัน",
+  "headline": "บีทแร็พมาตรฐานเวทีแข่งขัน: ท่อนดรอปทรงพลัง, สเปซโฟลว์กว้าง & ไฮป์",
+  "description": "ออกแบบมาเป็นพิเศษเพื่อโชว์ทักษะและสะกดใจกรรมการ โครงสร้างเพลงมีจุดพีคตื่นเต้น ช่วงดรอปเฉียบขาด และพื้นที่สำหรับปล่อยไรห์มมัดใจคนดู.",
+  "targetArtists": [
+    "ผู้เข้าแข่งขัน The Rapper",
+    "แร็ปเปอร์สายแบทเทิล",
+    "เวทีประกวด"
+  ],
+  "recommendedBpm": "90-95 BPM / 130-135 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "มาตรฐานเวทีแข่งขัน",
+    "จุดพีคตื่นเต้น",
+    "พื้นที่ปล่อยโฟลว์",
+    "พลังงานสูง"
+  ],
+  "popularGenres": [
+    "Battle Boom Bap",
+    "T-Hop",
+    "Epic Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "sang-tham-beat-rap-phiset-exclusive-thailand",
+  "name": "สั่งทำบีทแร็พเอ็กซ์คลูซีฟ ลิขสิทธิ์ขาด 100% กับโปรดิวเซอร์ Onzieb",
+  "category": "genre",
+  "badge": "สั่งทำบีทเอ็กซ์คลูซีฟ",
+  "headline": "สั่งทำบีทแร็พเฉพาะคุณ: ทำงานร่วมกับ Onzieb ลิขสิทธิ์ขาดเป็นของคุณคนเดียว",
+  "description": "สร้างสรรค์บีทที่ออกแบบมาให้เข้ากับโทนเสียงและเอกลักษณ์ของคุณโดยเฉพาะ บีทจะถูกถอดออกจากระบบถาวรและโอนกรรมสิทธิ์ลิขสิทธิ์มาสเตอร์ให้คุณทั้งหมด 100%.",
+  "targetArtists": [
+    "ศิลปินอาชีพ",
+    "โปรเจกต์อัลบั้ม",
+    "ค่ายเพลงอินดี้"
+  ],
+  "recommendedBpm": "BPM ตามสั่ง",
+  "recommendedKey": "คีย์เพลงตามสั่ง",
+  "vibeAttributes": [
+    "ลิขสิทธิ์ขาด 100%",
+    "ถอดออกจากร้าน",
+    "ซาวด์เอกลักษณ์",
+    "ปรึกษาโดยตรง"
+  ],
+  "popularGenres": [
+    "Thai Trap",
+    "T-Hop",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "download-free-3-beat-rap-mp3-test-siang",
+  "name": "ดาวน์โหลดฟรี 3 บีทแร็พ MP3 คุณภาพสูงสำหรับเทสต์เสียงร้องที่บ้าน",
+  "category": "genre",
+  "badge": "ดาวน์โหลดฟรี 3 บีท",
+  "headline": "ดาวน์โหลดฟรี 3 บีทแร็พ & แทร็ป: ทดลองโฟลว์และอัดเสียงร้องก่อนซื้อจริง",
+  "description": "รับแพ็กเกจ 3 บีทแร็พ MP3 320kbps ฟรีทันทีเพื่อซ้อมเขียนเนื้อเพลง ทดลองอัดเดโมที่บ้าน และสัมผัสคุณภาพมิกซ์เสียงก่อนตัดสินใจซื้อสัญญาลิขสิทธิ์ WAV.",
+  "targetArtists": [
+    "แร็ปเปอร์มือใหม่",
+    "อัดเพลงที่บ้าน",
+    "ซ้อมเขียนเนื้อ"
+  ],
+  "recommendedBpm": "90, 125, 132 BPM",
+  "recommendedKey": "C-Minor, D-Minor",
+  "vibeAttributes": [
+    "ดาวน์โหลดฟรี",
+    "3 บีททดลอง",
+    "เทสต์เสียงร้อง",
+    "ส่งตรงทางอีเมล"
+  ],
+  "popularGenres": [
+    "Thai Trap",
+    "Boom Bap",
+    "T-Hop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "5"
+  ]
+},
+  {
+  "slug": "bangkok-siam-trap-thai-beats",
+  "name": "กรุงเทพฯ Thai Trap Beats",
+  "category": "scene",
+  "badge": "กรุงเทพฯ แทร็ปไทยแลนด์",
+  "headline": "กรุงเทพฯ (สยาม & ทองหล่อ) Thai Trap Beats: บีท WAV & ชำระผ่าน PromptPay",
+  "description": "เบส 808 หนักแน่นกระหึ่ม, ไฮแฮทคมกริบ และคุณภาพเสียง WAV 24-bit สตูดิโอ พร้อมเพย์สำหรับศิลปินใน กรุงเทพฯ.",
+  "targetArtists": [
+    "แร็ปเปอร์ กรุงเทพฯ",
+    "วงการแร็ปไทย",
+    "ฮิปฮอปไทยแลนด์"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "กรุงเทพฯ",
+    "แทร็ปไทยแลนด์",
+    "PromptPay & TrueMoney",
+    "ถูกลิขสิทธิ์ MCT"
+  ],
+  "popularGenres": [
+    "Thai Trap Beats",
+    "T-Hop",
+    "Thai Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "bangkok-siam-boombap-thai-classic",
+  "name": "กรุงเทพฯ Boom Bap Thai Classic",
+  "category": "scene",
+  "badge": "กรุงเทพฯ บูมแบ็ปคลาสสิก",
+  "headline": "กรุงเทพฯ (สยาม & ทองหล่อ) Boom Bap Thai Classic: บีท WAV & ชำระผ่าน PromptPay",
+  "description": "กลองแอนะล็อกแน่นหนึบสไตล์ยุค 90 แซมเปิลอบอุ่นและกรูฟคลาสสิกที่ได้แรงบันดาลใจจาก กรุงเทพฯ.",
+  "targetArtists": [
+    "แร็ปเปอร์ กรุงเทพฯ",
+    "วงการแร็ปไทย",
+    "ฮิปฮอปไทยแลนด์"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "กรุงเทพฯ",
+    "บูมแบ็ปคลาสสิก",
+    "PromptPay & TrueMoney",
+    "ถูกลิขสิทธิ์ MCT"
+  ],
+  "popularGenres": [
+    "Boom Bap Thai Classic",
+    "T-Hop",
+    "Thai Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "bangkok-siam-molam-trap-fusion",
+  "name": "กรุงเทพฯ หมอลำแทร็ปฟิวชั่น",
+  "category": "scene",
+  "badge": "กรุงเทพฯ หมอลำฟิวชั่น",
+  "headline": "กรุงเทพฯ (สยาม & ทองหล่อ) หมอลำแทร็ปฟิวชั่น: บีท WAV & ชำระผ่าน PromptPay",
+  "description": "ลายพิณซิ่งสะเดิดและเสียงแคนหวานหยดย้อย ผสานจังหวะแทร็ป 808 สำหรับแร็ปเปอร์ผู้รักรากเหง้าใน กรุงเทพฯ.",
+  "targetArtists": [
+    "แร็ปเปอร์ กรุงเทพฯ",
+    "วงการแร็ปไทย",
+    "ฮิปฮอปไทยแลนด์"
+  ],
+  "recommendedBpm": "120-130 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "กรุงเทพฯ",
+    "หมอลำฟิวชั่น",
+    "PromptPay & TrueMoney",
+    "ถูกลิขสิทธิ์ MCT"
+  ],
+  "popularGenres": [
+    "หมอลำแทร็ปฟิวชั่น",
+    "T-Hop",
+    "Thai Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "bangkok-siam-melodic-rnb-trap",
+  "name": "กรุงเทพฯ Melodic R&B Trap",
+  "category": "scene",
+  "badge": "กรุงเทพฯ เมโลดิก R&B",
+  "headline": "กรุงเทพฯ (สยาม & ทองหล่อ) Melodic R&B Trap: บีท WAV & ชำระผ่าน PromptPay",
+  "description": "เปียโนนุ่มละมุน, ซินธิไซเซอร์หวานซึ้ง และจังหวะแทร็ปฟังสบายสำหรับบทเพลงรักโรแมนติกใน กรุงเทพฯ.",
+  "targetArtists": [
+    "แร็ปเปอร์ กรุงเทพฯ",
+    "วงการแร็ปไทย",
+    "ฮิปฮอปไทยแลนด์"
+  ],
+  "recommendedBpm": "95-108 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "กรุงเทพฯ",
+    "เมโลดิก R&B",
+    "PromptPay & TrueMoney",
+    "ถูกลิขสิทธิ์ MCT"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "T-Hop",
+    "Thai Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "chiang-mai-lanna-trap-thai-beats",
+  "name": "เชียงใหม่ Thai Trap Beats",
+  "category": "scene",
+  "badge": "เชียงใหม่ แทร็ปไทยแลนด์",
+  "headline": "เชียงใหม่ (แดนล้านนาสายชิลล์) Thai Trap Beats: บีท WAV & ชำระผ่าน PromptPay",
+  "description": "เบส 808 หนักแน่นกระหึ่ม, ไฮแฮทคมกริบ และคุณภาพเสียง WAV 24-bit สตูดิโอ พร้อมเพย์สำหรับศิลปินใน เชียงใหม่.",
+  "targetArtists": [
+    "แร็ปเปอร์ เชียงใหม่",
+    "วงการแร็ปไทย",
+    "ฮิปฮอปไทยแลนด์"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "เชียงใหม่",
+    "แทร็ปไทยแลนด์",
+    "PromptPay & TrueMoney",
+    "ถูกลิขสิทธิ์ MCT"
+  ],
+  "popularGenres": [
+    "Thai Trap Beats",
+    "T-Hop",
+    "Thai Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "chiang-mai-lanna-boombap-thai-classic",
+  "name": "เชียงใหม่ Boom Bap Thai Classic",
+  "category": "scene",
+  "badge": "เชียงใหม่ บูมแบ็ปคลาสสิก",
+  "headline": "เชียงใหม่ (แดนล้านนาสายชิลล์) Boom Bap Thai Classic: บีท WAV & ชำระผ่าน PromptPay",
+  "description": "กลองแอนะล็อกแน่นหนึบสไตล์ยุค 90 แซมเปิลอบอุ่นและกรูฟคลาสสิกที่ได้แรงบันดาลใจจาก เชียงใหม่.",
+  "targetArtists": [
+    "แร็ปเปอร์ เชียงใหม่",
+    "วงการแร็ปไทย",
+    "ฮิปฮอปไทยแลนด์"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "เชียงใหม่",
+    "บูมแบ็ปคลาสสิก",
+    "PromptPay & TrueMoney",
+    "ถูกลิขสิทธิ์ MCT"
+  ],
+  "popularGenres": [
+    "Boom Bap Thai Classic",
+    "T-Hop",
+    "Thai Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "chiang-mai-lanna-molam-trap-fusion",
+  "name": "เชียงใหม่ หมอลำแทร็ปฟิวชั่น",
+  "category": "scene",
+  "badge": "เชียงใหม่ หมอลำฟิวชั่น",
+  "headline": "เชียงใหม่ (แดนล้านนาสายชิลล์) หมอลำแทร็ปฟิวชั่น: บีท WAV & ชำระผ่าน PromptPay",
+  "description": "ลายพิณซิ่งสะเดิดและเสียงแคนหวานหยดย้อย ผสานจังหวะแทร็ป 808 สำหรับแร็ปเปอร์ผู้รักรากเหง้าใน เชียงใหม่.",
+  "targetArtists": [
+    "แร็ปเปอร์ เชียงใหม่",
+    "วงการแร็ปไทย",
+    "ฮิปฮอปไทยแลนด์"
+  ],
+  "recommendedBpm": "120-130 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "เชียงใหม่",
+    "หมอลำฟิวชั่น",
+    "PromptPay & TrueMoney",
+    "ถูกลิขสิทธิ์ MCT"
+  ],
+  "popularGenres": [
+    "หมอลำแทร็ปฟิวชั่น",
+    "T-Hop",
+    "Thai Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "chiang-mai-lanna-melodic-rnb-trap",
+  "name": "เชียงใหม่ Melodic R&B Trap",
+  "category": "scene",
+  "badge": "เชียงใหม่ เมโลดิก R&B",
+  "headline": "เชียงใหม่ (แดนล้านนาสายชิลล์) Melodic R&B Trap: บีท WAV & ชำระผ่าน PromptPay",
+  "description": "เปียโนนุ่มละมุน, ซินธิไซเซอร์หวานซึ้ง และจังหวะแทร็ปฟังสบายสำหรับบทเพลงรักโรแมนติกใน เชียงใหม่.",
+  "targetArtists": [
+    "แร็ปเปอร์ เชียงใหม่",
+    "วงการแร็ปไทย",
+    "ฮิปฮอปไทยแลนด์"
+  ],
+  "recommendedBpm": "95-108 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "เชียงใหม่",
+    "เมโลดิก R&B",
+    "PromptPay & TrueMoney",
+    "ถูกลิขสิทธิ์ MCT"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "T-Hop",
+    "Thai Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "pattaya-chonburi-trap-thai-beats",
+  "name": "พัทยา Thai Trap Beats",
+  "category": "scene",
+  "badge": "พัทยา แทร็ปไทยแลนด์",
+  "headline": "พัทยา (ปาร์ตี้ชายหาดชลบุรี) Thai Trap Beats: บีท WAV & ชำระผ่าน PromptPay",
+  "description": "เบส 808 หนักแน่นกระหึ่ม, ไฮแฮทคมกริบ และคุณภาพเสียง WAV 24-bit สตูดิโอ พร้อมเพย์สำหรับศิลปินใน พัทยา.",
+  "targetArtists": [
+    "แร็ปเปอร์ พัทยา",
+    "วงการแร็ปไทย",
+    "ฮิปฮอปไทยแลนด์"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "พัทยา",
+    "แทร็ปไทยแลนด์",
+    "PromptPay & TrueMoney",
+    "ถูกลิขสิทธิ์ MCT"
+  ],
+  "popularGenres": [
+    "Thai Trap Beats",
+    "T-Hop",
+    "Thai Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "pattaya-chonburi-boombap-thai-classic",
+  "name": "พัทยา Boom Bap Thai Classic",
+  "category": "scene",
+  "badge": "พัทยา บูมแบ็ปคลาสสิก",
+  "headline": "พัทยา (ปาร์ตี้ชายหาดชลบุรี) Boom Bap Thai Classic: บีท WAV & ชำระผ่าน PromptPay",
+  "description": "กลองแอนะล็อกแน่นหนึบสไตล์ยุค 90 แซมเปิลอบอุ่นและกรูฟคลาสสิกที่ได้แรงบันดาลใจจาก พัทยา.",
+  "targetArtists": [
+    "แร็ปเปอร์ พัทยา",
+    "วงการแร็ปไทย",
+    "ฮิปฮอปไทยแลนด์"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "พัทยา",
+    "บูมแบ็ปคลาสสิก",
+    "PromptPay & TrueMoney",
+    "ถูกลิขสิทธิ์ MCT"
+  ],
+  "popularGenres": [
+    "Boom Bap Thai Classic",
+    "T-Hop",
+    "Thai Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "pattaya-chonburi-molam-trap-fusion",
+  "name": "พัทยา หมอลำแทร็ปฟิวชั่น",
+  "category": "scene",
+  "badge": "พัทยา หมอลำฟิวชั่น",
+  "headline": "พัทยา (ปาร์ตี้ชายหาดชลบุรี) หมอลำแทร็ปฟิวชั่น: บีท WAV & ชำระผ่าน PromptPay",
+  "description": "ลายพิณซิ่งสะเดิดและเสียงแคนหวานหยดย้อย ผสานจังหวะแทร็ป 808 สำหรับแร็ปเปอร์ผู้รักรากเหง้าใน พัทยา.",
+  "targetArtists": [
+    "แร็ปเปอร์ พัทยา",
+    "วงการแร็ปไทย",
+    "ฮิปฮอปไทยแลนด์"
+  ],
+  "recommendedBpm": "120-130 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "พัทยา",
+    "หมอลำฟิวชั่น",
+    "PromptPay & TrueMoney",
+    "ถูกลิขสิทธิ์ MCT"
+  ],
+  "popularGenres": [
+    "หมอลำแทร็ปฟิวชั่น",
+    "T-Hop",
+    "Thai Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "pattaya-chonburi-melodic-rnb-trap",
+  "name": "พัทยา Melodic R&B Trap",
+  "category": "scene",
+  "badge": "พัทยา เมโลดิก R&B",
+  "headline": "พัทยา (ปาร์ตี้ชายหาดชลบุรี) Melodic R&B Trap: บีท WAV & ชำระผ่าน PromptPay",
+  "description": "เปียโนนุ่มละมุน, ซินธิไซเซอร์หวานซึ้ง และจังหวะแทร็ปฟังสบายสำหรับบทเพลงรักโรแมนติกใน พัทยา.",
+  "targetArtists": [
+    "แร็ปเปอร์ พัทยา",
+    "วงการแร็ปไทย",
+    "ฮิปฮอปไทยแลนด์"
+  ],
+  "recommendedBpm": "95-108 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "พัทยา",
+    "เมโลดิก R&B",
+    "PromptPay & TrueMoney",
+    "ถูกลิขสิทธิ์ MCT"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "T-Hop",
+    "Thai Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "phuket-south-trap-thai-beats",
+  "name": "ภูเก็ต Thai Trap Beats",
+  "category": "scene",
+  "badge": "ภูเก็ต แทร็ปไทยแลนด์",
+  "headline": "ภูเก็ต (เกาะสวรรค์แดนใต้) Thai Trap Beats: บีท WAV & ชำระผ่าน PromptPay",
+  "description": "เบส 808 หนักแน่นกระหึ่ม, ไฮแฮทคมกริบ และคุณภาพเสียง WAV 24-bit สตูดิโอ พร้อมเพย์สำหรับศิลปินใน ภูเก็ต.",
+  "targetArtists": [
+    "แร็ปเปอร์ ภูเก็ต",
+    "วงการแร็ปไทย",
+    "ฮิปฮอปไทยแลนด์"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "ภูเก็ต",
+    "แทร็ปไทยแลนด์",
+    "PromptPay & TrueMoney",
+    "ถูกลิขสิทธิ์ MCT"
+  ],
+  "popularGenres": [
+    "Thai Trap Beats",
+    "T-Hop",
+    "Thai Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "phuket-south-boombap-thai-classic",
+  "name": "ภูเก็ต Boom Bap Thai Classic",
+  "category": "scene",
+  "badge": "ภูเก็ต บูมแบ็ปคลาสสิก",
+  "headline": "ภูเก็ต (เกาะสวรรค์แดนใต้) Boom Bap Thai Classic: บีท WAV & ชำระผ่าน PromptPay",
+  "description": "กลองแอนะล็อกแน่นหนึบสไตล์ยุค 90 แซมเปิลอบอุ่นและกรูฟคลาสสิกที่ได้แรงบันดาลใจจาก ภูเก็ต.",
+  "targetArtists": [
+    "แร็ปเปอร์ ภูเก็ต",
+    "วงการแร็ปไทย",
+    "ฮิปฮอปไทยแลนด์"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "ภูเก็ต",
+    "บูมแบ็ปคลาสสิก",
+    "PromptPay & TrueMoney",
+    "ถูกลิขสิทธิ์ MCT"
+  ],
+  "popularGenres": [
+    "Boom Bap Thai Classic",
+    "T-Hop",
+    "Thai Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "phuket-south-molam-trap-fusion",
+  "name": "ภูเก็ต หมอลำแทร็ปฟิวชั่น",
+  "category": "scene",
+  "badge": "ภูเก็ต หมอลำฟิวชั่น",
+  "headline": "ภูเก็ต (เกาะสวรรค์แดนใต้) หมอลำแทร็ปฟิวชั่น: บีท WAV & ชำระผ่าน PromptPay",
+  "description": "ลายพิณซิ่งสะเดิดและเสียงแคนหวานหยดย้อย ผสานจังหวะแทร็ป 808 สำหรับแร็ปเปอร์ผู้รักรากเหง้าใน ภูเก็ต.",
+  "targetArtists": [
+    "แร็ปเปอร์ ภูเก็ต",
+    "วงการแร็ปไทย",
+    "ฮิปฮอปไทยแลนด์"
+  ],
+  "recommendedBpm": "120-130 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "ภูเก็ต",
+    "หมอลำฟิวชั่น",
+    "PromptPay & TrueMoney",
+    "ถูกลิขสิทธิ์ MCT"
+  ],
+  "popularGenres": [
+    "หมอลำแทร็ปฟิวชั่น",
+    "T-Hop",
+    "Thai Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "phuket-south-melodic-rnb-trap",
+  "name": "ภูเก็ต Melodic R&B Trap",
+  "category": "scene",
+  "badge": "ภูเก็ต เมโลดิก R&B",
+  "headline": "ภูเก็ต (เกาะสวรรค์แดนใต้) Melodic R&B Trap: บีท WAV & ชำระผ่าน PromptPay",
+  "description": "เปียโนนุ่มละมุน, ซินธิไซเซอร์หวานซึ้ง และจังหวะแทร็ปฟังสบายสำหรับบทเพลงรักโรแมนติกใน ภูเก็ต.",
+  "targetArtists": [
+    "แร็ปเปอร์ ภูเก็ต",
+    "วงการแร็ปไทย",
+    "ฮิปฮอปไทยแลนด์"
+  ],
+  "recommendedBpm": "95-108 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "ภูเก็ต",
+    "เมโลดิก R&B",
+    "PromptPay & TrueMoney",
+    "ถูกลิขสิทธิ์ MCT"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "T-Hop",
+    "Thai Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "khon-kaen-isan-trap-thai-beats",
+  "name": "ขอนแก่น Thai Trap Beats",
+  "category": "scene",
+  "badge": "ขอนแก่น แทร็ปไทยแลนด์",
+  "headline": "ขอนแก่น (เมืองหลวงหมอลำอีสาน) Thai Trap Beats: บีท WAV & ชำระผ่าน PromptPay",
+  "description": "เบส 808 หนักแน่นกระหึ่ม, ไฮแฮทคมกริบ และคุณภาพเสียง WAV 24-bit สตูดิโอ พร้อมเพย์สำหรับศิลปินใน ขอนแก่น.",
+  "targetArtists": [
+    "แร็ปเปอร์ ขอนแก่น",
+    "วงการแร็ปไทย",
+    "ฮิปฮอปไทยแลนด์"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "ขอนแก่น",
+    "แทร็ปไทยแลนด์",
+    "PromptPay & TrueMoney",
+    "ถูกลิขสิทธิ์ MCT"
+  ],
+  "popularGenres": [
+    "Thai Trap Beats",
+    "T-Hop",
+    "Thai Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "khon-kaen-isan-boombap-thai-classic",
+  "name": "ขอนแก่น Boom Bap Thai Classic",
+  "category": "scene",
+  "badge": "ขอนแก่น บูมแบ็ปคลาสสิก",
+  "headline": "ขอนแก่น (เมืองหลวงหมอลำอีสาน) Boom Bap Thai Classic: บีท WAV & ชำระผ่าน PromptPay",
+  "description": "กลองแอนะล็อกแน่นหนึบสไตล์ยุค 90 แซมเปิลอบอุ่นและกรูฟคลาสสิกที่ได้แรงบันดาลใจจาก ขอนแก่น.",
+  "targetArtists": [
+    "แร็ปเปอร์ ขอนแก่น",
+    "วงการแร็ปไทย",
+    "ฮิปฮอปไทยแลนด์"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "ขอนแก่น",
+    "บูมแบ็ปคลาสสิก",
+    "PromptPay & TrueMoney",
+    "ถูกลิขสิทธิ์ MCT"
+  ],
+  "popularGenres": [
+    "Boom Bap Thai Classic",
+    "T-Hop",
+    "Thai Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "khon-kaen-isan-molam-trap-fusion",
+  "name": "ขอนแก่น หมอลำแทร็ปฟิวชั่น",
+  "category": "scene",
+  "badge": "ขอนแก่น หมอลำฟิวชั่น",
+  "headline": "ขอนแก่น (เมืองหลวงหมอลำอีสาน) หมอลำแทร็ปฟิวชั่น: บีท WAV & ชำระผ่าน PromptPay",
+  "description": "ลายพิณซิ่งสะเดิดและเสียงแคนหวานหยดย้อย ผสานจังหวะแทร็ป 808 สำหรับแร็ปเปอร์ผู้รักรากเหง้าใน ขอนแก่น.",
+  "targetArtists": [
+    "แร็ปเปอร์ ขอนแก่น",
+    "วงการแร็ปไทย",
+    "ฮิปฮอปไทยแลนด์"
+  ],
+  "recommendedBpm": "120-130 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "ขอนแก่น",
+    "หมอลำฟิวชั่น",
+    "PromptPay & TrueMoney",
+    "ถูกลิขสิทธิ์ MCT"
+  ],
+  "popularGenres": [
+    "หมอลำแทร็ปฟิวชั่น",
+    "T-Hop",
+    "Thai Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "khon-kaen-isan-melodic-rnb-trap",
+  "name": "ขอนแก่น Melodic R&B Trap",
+  "category": "scene",
+  "badge": "ขอนแก่น เมโลดิก R&B",
+  "headline": "ขอนแก่น (เมืองหลวงหมอลำอีสาน) Melodic R&B Trap: บีท WAV & ชำระผ่าน PromptPay",
+  "description": "เปียโนนุ่มละมุน, ซินธิไซเซอร์หวานซึ้ง และจังหวะแทร็ปฟังสบายสำหรับบทเพลงรักโรแมนติกใน ขอนแก่น.",
+  "targetArtists": [
+    "แร็ปเปอร์ ขอนแก่น",
+    "วงการแร็ปไทย",
+    "ฮิปฮอปไทยแลนด์"
+  ],
+  "recommendedBpm": "95-108 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "ขอนแก่น",
+    "เมโลดิก R&B",
+    "PromptPay & TrueMoney",
+    "ถูกลิขสิทธิ์ MCT"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "T-Hop",
+    "Thai Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "korat-nakhon-ratchasima-trap-thai-beats",
+  "name": "โคราช Thai Trap Beats",
+  "category": "scene",
+  "badge": "โคราช แทร็ปไทยแลนด์",
+  "headline": "โคราช (เมืองย่าโมประตูสู่อีสาน) Thai Trap Beats: บีท WAV & ชำระผ่าน PromptPay",
+  "description": "เบส 808 หนักแน่นกระหึ่ม, ไฮแฮทคมกริบ และคุณภาพเสียง WAV 24-bit สตูดิโอ พร้อมเพย์สำหรับศิลปินใน โคราช.",
+  "targetArtists": [
+    "แร็ปเปอร์ โคราช",
+    "วงการแร็ปไทย",
+    "ฮิปฮอปไทยแลนด์"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "โคราช",
+    "แทร็ปไทยแลนด์",
+    "PromptPay & TrueMoney",
+    "ถูกลิขสิทธิ์ MCT"
+  ],
+  "popularGenres": [
+    "Thai Trap Beats",
+    "T-Hop",
+    "Thai Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "korat-nakhon-ratchasima-boombap-thai-classic",
+  "name": "โคราช Boom Bap Thai Classic",
+  "category": "scene",
+  "badge": "โคราช บูมแบ็ปคลาสสิก",
+  "headline": "โคราช (เมืองย่าโมประตูสู่อีสาน) Boom Bap Thai Classic: บีท WAV & ชำระผ่าน PromptPay",
+  "description": "กลองแอนะล็อกแน่นหนึบสไตล์ยุค 90 แซมเปิลอบอุ่นและกรูฟคลาสสิกที่ได้แรงบันดาลใจจาก โคราช.",
+  "targetArtists": [
+    "แร็ปเปอร์ โคราช",
+    "วงการแร็ปไทย",
+    "ฮิปฮอปไทยแลนด์"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "โคราช",
+    "บูมแบ็ปคลาสสิก",
+    "PromptPay & TrueMoney",
+    "ถูกลิขสิทธิ์ MCT"
+  ],
+  "popularGenres": [
+    "Boom Bap Thai Classic",
+    "T-Hop",
+    "Thai Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "korat-nakhon-ratchasima-molam-trap-fusion",
+  "name": "โคราช หมอลำแทร็ปฟิวชั่น",
+  "category": "scene",
+  "badge": "โคราช หมอลำฟิวชั่น",
+  "headline": "โคราช (เมืองย่าโมประตูสู่อีสาน) หมอลำแทร็ปฟิวชั่น: บีท WAV & ชำระผ่าน PromptPay",
+  "description": "ลายพิณซิ่งสะเดิดและเสียงแคนหวานหยดย้อย ผสานจังหวะแทร็ป 808 สำหรับแร็ปเปอร์ผู้รักรากเหง้าใน โคราช.",
+  "targetArtists": [
+    "แร็ปเปอร์ โคราช",
+    "วงการแร็ปไทย",
+    "ฮิปฮอปไทยแลนด์"
+  ],
+  "recommendedBpm": "120-130 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "โคราช",
+    "หมอลำฟิวชั่น",
+    "PromptPay & TrueMoney",
+    "ถูกลิขสิทธิ์ MCT"
+  ],
+  "popularGenres": [
+    "หมอลำแทร็ปฟิวชั่น",
+    "T-Hop",
+    "Thai Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "korat-nakhon-ratchasima-melodic-rnb-trap",
+  "name": "โคราช Melodic R&B Trap",
+  "category": "scene",
+  "badge": "โคราช เมโลดิก R&B",
+  "headline": "โคราช (เมืองย่าโมประตูสู่อีสาน) Melodic R&B Trap: บีท WAV & ชำระผ่าน PromptPay",
+  "description": "เปียโนนุ่มละมุน, ซินธิไซเซอร์หวานซึ้ง และจังหวะแทร็ปฟังสบายสำหรับบทเพลงรักโรแมนติกใน โคราช.",
+  "targetArtists": [
+    "แร็ปเปอร์ โคราช",
+    "วงการแร็ปไทย",
+    "ฮิปฮอปไทยแลนด์"
+  ],
+  "recommendedBpm": "95-108 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "โคราช",
+    "เมโลดิก R&B",
+    "PromptPay & TrueMoney",
+    "ถูกลิขสิทธิ์ MCT"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "T-Hop",
+    "Thai Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
 ];
