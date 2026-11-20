@@ -45574,4 +45574,354 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "2"
   ]
 },
+  {
+  "slug": "wiu-manual-de-como-amar-afrotrap",
+  "name": "Wiu Manual De Como Amar Afrotrap",
+  "category": "vibe",
+  "badge": "Afro-Trap WIU",
+  "headline": "Beats Estilo WIU: Percussões Dançantes de Afro-Trap, Cordas Quentes & Vibe",
+  "description": "O hitmaker da nova geração: grooves sincopados com tempero latino e africano, linhas de baixo envolventes e espaço para refrões radiofônicos.",
+  "targetArtists": [
+    "WIU",
+    "Coração de Gelo",
+    "Manual de Como Amar",
+    "Afro-Trap"
+  ],
+  "recommendedBpm": "100-110 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Percussão Dançante",
+    "Afro-Trap",
+    "Cordas Quentes",
+    "Refrão Chiclete"
+  ],
+  "popularGenres": [
+    "Afro-Trap",
+    "Trap Pop",
+    "Música Urbana"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "l7nnon-freio-da-blazer-trapfunk",
+  "name": "L7nnon Freio Da Blazer Trapfunk",
+  "category": "vibe",
+  "badge": "Freio da Blazer Club Trap",
+  "headline": "Beats Estilo L7NNON: TrapFunk Enérgico de Pista, Palmas Secas & Baixo Bouncy",
+  "description": "O som que domina as pistas e o TikTok: palmas marcadas com pressão, graves rápidos e saltitantes de funk carioca e viradas que fazem todo mundo pular.",
+  "targetArtists": [
+    "L7NNON",
+    "Ai Preto",
+    "Gratidão",
+    "TrapFunk Brasil"
+  ],
+  "recommendedBpm": "120-128 BPM",
+  "recommendedKey": "E-Minor / A-Minor",
+  "vibeAttributes": [
+    "TrapFunk Enérgico",
+    "Baixo Bouncy",
+    "Palmas Marcadas",
+    "Pista & Balada"
+  ],
+  "popularGenres": [
+    "TrapFunk",
+    "Club Trap",
+    "Funk Brasileiro"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "comprar-beats-de-trap-brasileiro-pix",
+  "name": "Comprar Beats de Trap Brasileiro com PIX (Reais R$)",
+  "category": "genre",
+  "badge": "Pagamento Instantâneo PIX",
+  "headline": "Comprar Beats de Trap Brasileiro: Pague com PIX e Baixe na Hora em WAV 24-Bit",
+  "description": "A maneira mais rápida e segura de comprar instrumentais no Brasil. Sem taxas de cartão de crédito internacional: pague direto no PIX pelo celular e receba os arquivos de estúdio com contrato legal de licença em PDF.",
+  "targetArtists": [
+    "Trappers Brasileiros",
+    "Rappers de Todo Brasil",
+    "MCs de Batalha"
+  ],
+  "recommendedBpm": "Todos os Tempos",
+  "recommendedKey": "Todas as Tonalidades",
+  "vibeAttributes": [
+    "Preço em Reais",
+    "PIX Imediato",
+    "Sem Dólar",
+    "Download WAV"
+  ],
+  "popularGenres": [
+    "Trap Brasileiro",
+    "Trap Paulista",
+    "TrapFunk"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "instrumentais-de-trapfunk-e-mandelao-wav",
+  "name": "Instrumentais de TrapFunk e Mandelão em WAV com Stems",
+  "category": "genre",
+  "badge": "TrapFunk & Mandelão WAV",
+  "headline": "Instrumentais de TrapFunk & Mandelão: Batidas de Pista em Alta Definição com Stems",
+  "description": "O som mais quente do Brasil com produção profissional. Baterias enérgicas de funk, baixos 808s que tremem o som automotivo e canais separados (stems) para mixar sua voz com perfeição.",
+  "targetArtists": [
+    "MCs de Funk",
+    "Artistas de TrapFunk",
+    "DJs e Produtores"
+  ],
+  "recommendedBpm": "120-130 BPM",
+  "recommendedKey": "E-Minor / A-Minor",
+  "vibeAttributes": [
+    "Bateria de Funk",
+    "Baixo Automotivo",
+    "Stems Separados",
+    "WAV 24-bit"
+  ],
+  "popularGenres": [
+    "TrapFunk",
+    "Funk Mandelão",
+    "Funk Paulista"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "bases-de-trap-brasileiro-com-graves-808",
+  "name": "Bases de Trap Brasileiro com Graves 808 Pesados e Autotune",
+  "category": "genre",
+  "badge": "Trap com Graves 808",
+  "headline": "Bases de Trap Brasileiro: Graves 808 Deslizantes e Espaço Perfeito para Autotune",
+  "description": "Produções com frequências graves equalizadas com precisão para que sua voz e seus efeitos de autotune brilhem na frente do arranjo sem embolar com o sub-grave.",
+  "targetArtists": [
+    "Trappers",
+    "Cantores de Melodic Trap",
+    "Home Studio"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Graves 808 Limpos",
+    "Espaço de Autotune",
+    "WAV de Estúdio",
+    "Mix Profissional"
+  ],
+  "popularGenres": [
+    "Trap Brasileiro",
+    "Melodic Trap",
+    "Street Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "beats-para-batalha-de-rima-aldeia",
+  "name": "Beats para Batalha de Rima e Freestyle (Estilo Batalha da Aldeia)",
+  "category": "genre",
+  "badge": "Batalha da Aldeia Vibe",
+  "headline": "Beats para Batalha de Rima: Caixas Secas, Scratches e Pressão para Freestyle",
+  "description": "O ritmo das maiores rodas de rima do país (Aldeia, Coliseu, Museu, Batalha do Tanque). Baterias marcadas com pegada seca para clavar punchlines e ataques sem perder o compasso.",
+  "targetArtists": [
+    "MCs de Batalha",
+    "Freestylers",
+    "Rappers de Roda de Rima"
+  ],
+  "recommendedBpm": "90-96 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Caixa Seca",
+    "Pressão para Freestyle",
+    "Scratches",
+    "Batalha da Aldeia"
+  ],
+  "popularGenres": [
+    "Battle Boom Bap",
+    "Freestyle Rap",
+    "Rap Nacional"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "combo-de-beats-2x1-brasil-pix",
+  "name": "Combo de Beats 2x1 Promoção Brasil (Pague com PIX)",
+  "category": "genre",
+  "badge": "Promoção 2x1 Brasil",
+  "headline": "Promoção de Beats no Brasil: Compre 2 Beats e Ganhe 1 Grátis no PIX",
+  "description": "Grave seu EP ou mixtape completa economizando. Desconto automático aplicado no carrinho pagando em Reais (BRL R$) via PIX sem burocracia ou taxas adicionais.",
+  "targetArtists": [
+    "Artistas de Mixtape",
+    "Grupos de Trap",
+    "Lançamentos de EP"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Compre 2 Leve 3",
+    "Desconto no PIX",
+    "WAV de Estúdio",
+    "Economia Real"
+  ],
+  "popularGenres": [
+    "Trap Brasileiro",
+    "TrapFunk",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6"
+  ]
+},
+  {
+  "slug": "instrumentais-de-trap-acustico-com-violao",
+  "name": "Instrumentais de Trap Acústico com Violão Estilo Veigh e Teto",
+  "category": "genre",
+  "badge": "Violão de Trap BR",
+  "headline": "Beats de Trap com Violão Acústico: Dedilhados Emotivos e Graves 808",
+  "description": "A sonoridade acústica mais amada do trap nacional: acordes suaves de violão náilon e aço sobre baterias pontuais de trap com graves macios para letras com sentimento.",
+  "targetArtists": [
+    "Fãs de Veigh",
+    "Cantores de R&B",
+    "Trappers Românticos"
+  ],
+  "recommendedBpm": "120-132 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Violão Real",
+    "Trap Acústico",
+    "Letras com Sentimento",
+    "Suave & Quente"
+  ],
+  "popularGenres": [
+    "Acoustic Trap",
+    "Trap Melódico",
+    "Trap Romântico"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "pistas-de-trap-para-lancamento-spotify-ecad",
+  "name": "Pistas de Trap para Lançamento no Spotify e Registro no ECAD",
+  "category": "genre",
+  "badge": "Pronto para Spotify & ECAD",
+  "headline": "Pistas de Trap Prontas para o Spotify: 100% Seguras para Registro na UBC e ECAD",
+  "description": "Lançamento descomplicado pela ONErpm, DistroKid ou TuneCore. Garanta seus direitos patrimoniais de autor sem medo de strikes ou retenção de royalties no streaming.",
+  "targetArtists": [
+    "Artistas Independentes",
+    "Selos Musicais",
+    "Produtores Executivos"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Contrato Formal",
+    "Compatível ECAD",
+    "WAV 24-bit",
+    "Royalties 100% do Artista"
+  ],
+  "popularGenres": [
+    "Trap Brasileiro",
+    "TrapFunk",
+    "Rap Nacional"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "producao-de-beats-exclusivos-brasil",
+  "name": "Produção de Beats Exclusivos no Brasil (Trabalhe com Produtor)",
+  "category": "genre",
+  "badge": "Produção Exclusiva BR",
+  "headline": "Produção de Beats Exclusivos: Crie sua Identidade Sonora com Onzieb",
+  "description": "Tenha uma instrumental personalizada feita sob medida para a sua voz e temática. A faixa sai permanentemente do catálogo e passa a ser propriedade sua.",
+  "targetArtists": [
+    "Artistas Profissionais",
+    "Projetos de Álbum",
+    "Gravadoras Independentes"
+  ],
+  "recommendedBpm": "BPM sob Medida",
+  "recommendedKey": "Tom sob Medida",
+  "vibeAttributes": [
+    "Exclusividade Total",
+    "Retirada do Ar",
+    "Identidade Única",
+    "Suporte VIP"
+  ],
+  "popularGenres": [
+    "Trap Brasileiro",
+    "TrapFunk",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "musica-sem-copyright-para-youtubers-brasil",
+  "name": "Música Sem Copyright para Youtubers e Streamers no Brasil",
+  "category": "genre",
+  "badge": "Zero Strikes Brasil",
+  "headline": "Música Sem Copyright para YouTube, Twitch e TikTok: Monetização 100% Liberada",
+  "description": "Trilhas sonoras urbanas modernas para seus vídeos, vlogs e gameplay sem notificações de Content ID. Licença comercial válida inclusa em cada download.",
+  "targetArtists": [
+    "YouTubers Brasileiros",
+    "Streamers da Twitch",
+    "Criadores de Conteúdo"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Monetização Completa",
+    "Cero Strikes",
+    "YouTube Ready",
+    "Twitch Safe"
+  ],
+  "popularGenres": [
+    "Trap Brasileiro",
+    "Chillhop",
+    "Lofi"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2",
+    "5"
+  ]
+},
 ];
