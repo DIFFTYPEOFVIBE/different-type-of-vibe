@@ -35650,4 +35650,216 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "ve": {
+  "slug": "ve",
+  "name": "Venezuela – Hub Nacional (Trap Criollo 58, Boom Bap, Binance Pay & SACVEN)",
+  "flag": "🇻🇪",
+  "currency": "USD ($) / USDT",
+  "currencyCode": "USD",
+  "gateways": "Binance Pay (USDT), Zelle, Pago Móvil (Banesco, Mercantil, BDV), Tarjetas, PayPal",
+  "pro": "SACVEN (Sociedad de Autores y Compositores de Venezuela)",
+  "proFullName": "SACVEN & SAPI (Servicio Autónomo de la Propiedad Intelectual)",
+  "proGuide": "100% legal ante SACVEN y SAPI con contrato en PDF descargable.",
+  "headline": "Beats en Venezuela: Trap Criollo 58, Boom Bap & Pago Seguro con Binance Pay",
+  "description": "El catálogo líder de instrumentales urbanas para artistas de toda Venezuela y la diáspora. Precios directos en Dólares ($) y USDT con entrega instantánea de WAV 24-bit y pistas separadas multitrack.",
+  "popularGenres": [
+    "Trap Criollo 58",
+    "Boom Bap Venezolano",
+    "R&B Latino",
+    "Dembow Venezolano"
+  ],
+  "subClusters": [
+    {
+      "name": "Neutro Shorty Trap Vibe",
+      "slug": "../../vibe/neutro-shorty-king-of-venezuelan-trap",
+      "description": "Trap callejero oscuro con campanas de iglesia y bajos 808 demoledores."
+    },
+    {
+      "name": "Akapellah Boom Bap Vibe",
+      "slug": "../../vibe/akapellah-heavyweight-boom-bap-maracay",
+      "description": "Boom bap pesado con alma de MPC, cajas secas y liricismo de Maracay."
+    },
+    {
+      "name": "Micro TDH R&B Vibe",
+      "slug": "../../vibe/micro-tdh-melodic-rnb-acustico",
+      "description": "R&B melódico sofisticado con guitarras acústicas y armonías vocales suaves."
+    },
+    {
+      "name": "Pago con Binance Pay y Pago Móvil",
+      "slug": "../../genre/comprar-beats-en-venezuela-binance-pay-pago-movil",
+      "description": "Compra sin fricción usando Binance Pay (USDT), Zelle o Pago Móvil."
+    }
+  ]
+},
+  "ve/caracas-capital-distrito": {
+  "slug": "ve/caracas-capital-distrito",
+  "name": "Venezuela – Caracas (Chacao, Las Mercedes, Petare & Estudios 58)",
+  "flag": "🇻🇪",
+  "currency": "USD ($) / USDT",
+  "currencyCode": "USD",
+  "gateways": "Binance Pay, Zelle, Pago Móvil, Tarjetas, PayPal",
+  "pro": "SACVEN & SAPI",
+  "proFullName": "SACVEN",
+  "proGuide": "100% compatible con distribución en Spotify y YouTube.",
+  "headline": "Beats en Caracas: La Cuna del Trap Venezolano, Petare Street & R&B de Chacao",
+  "description": "El epicentro de la industria urbana venezolana: desde los barrios de San Agustín y Petare hasta los estudios de élite en Las Mercedes, Chacao y El Hatillo.",
+  "popularGenres": [
+    "Caracas Street Trap",
+    "Chacao R&B",
+    "Petare Drill 58"
+  ],
+  "subClusters": []
+},
+  "ve/maracaibo-zulia": {
+  "slug": "ve/maracaibo-zulia",
+  "name": "Venezuela – Maracaibo (La Tierra del Sol Amada, Gaita & Trap Zuliano)",
+  "flag": "🇻🇪",
+  "currency": "USD ($) / USDT",
+  "currencyCode": "USD",
+  "gateways": "Binance Pay, Zelle, Pago Móvil, Tarjetas, PayPal",
+  "pro": "SACVEN",
+  "proFullName": "SACVEN",
+  "proGuide": "100% original con entrega de stems multitrack.",
+  "headline": "Beats en Maracaibo: Calor Zuliano, Metales Enérgicos & Trap 808",
+  "description": "La fuerza y el orgullo de la capital petrolera: percusiones de charrasca y furro estilizadas, sintetizadores de alta energía y caídas de bajo que revientan en el Lago.",
+  "popularGenres": [
+    "Maracaibo Trap Banger",
+    "Gaita Fusión",
+    "Zulia Dembow"
+  ],
+  "subClusters": []
+},
+  "ve/valencia-carabobo": {
+  "slug": "ve/valencia-carabobo",
+  "name": "Venezuela – Valencia & Carabobo (La Capital Industrial & Trap Pesado)",
+  "flag": "🇻🇪",
+  "currency": "USD ($) / USDT",
+  "currencyCode": "USD",
+  "gateways": "Binance Pay, Zelle, Pago Móvil, Tarjetas, PayPal",
+  "pro": "SACVEN",
+  "proFullName": "SACVEN",
+  "proGuide": "100% libre de reclamos de derechos de autor.",
+  "headline": "Beats en Valencia: Motor Industrial, Hi-Hats Rápidos & 808s de Calle",
+  "description": "La potencia de la juventud urbana carabobeña: baterías apretadas de trap moderno, sintetizadores punzantes y líneas de sub-bajo arrolladoras para artistas de calle.",
+  "popularGenres": [
+    "Valencia Street Trap",
+    "Carabobo Drill",
+    "Industrial Beat 58"
+  ],
+  "subClusters": []
+},
+  "ve/barquisimeto-lara": {
+  "slug": "ve/barquisimeto-lara",
+  "name": "Venezuela – Barquisimeto (Capital Musical & Cuatro Trap Llanero)",
+  "flag": "🇻🇪",
+  "currency": "USD ($) / USDT",
+  "currencyCode": "USD",
+  "gateways": "Binance Pay, Zelle, Pago Móvil, Tarjetas, PayPal",
+  "pro": "SACVEN",
+  "proFullName": "SACVEN",
+  "proGuide": "100% garantizado con derechos comerciales de streaming.",
+  "headline": "Beats en Barquisimeto: Ciudad Musical, Acordes de Cuatro & Trap Fusión",
+  "description": "El corazón instrumental de Venezuela: arpegios virtuosos de cuatro venezolano, arpa llanera procesada con efectos modernos y ritmos urbanos contemporáneos.",
+  "popularGenres": [
+    "Barquisimeto Cuatro Trap",
+    "Lara Folk Hip-Hop",
+    "Musical City Beat"
+  ],
+  "subClusters": []
+},
+  "ve/maracay-aragua": {
+  "slug": "ve/maracay-aragua",
+  "name": "Venezuela – Maracay (Ciudad Jardín & Cuna del Hip-Hop Nacional)",
+  "flag": "🇻🇪",
+  "currency": "USD ($) / USDT",
+  "currencyCode": "USD",
+  "gateways": "Binance Pay, Zelle, Pago Móvil, Tarjetas, PayPal",
+  "pro": "SACVEN",
+  "proFullName": "SACVEN",
+  "proGuide": "100% legal ante SACVEN con contrato en PDF.",
+  "headline": "Beats en Maracay: La Cuna de Akapellah, Cajas Secas & Boom Bap Pesado",
+  "description": "El templo del liricismo y del hip-hop clásico venezolano: cajas cortantes de MPC, muestras analógicas de soul y ritmos con el peso rítmico que caracteriza a los mejores raperos del país.",
+  "popularGenres": [
+    "Maracay Boom Bap",
+    "Ciudad Jardín Rap",
+    "Akapellah Style"
+  ],
+  "subClusters": []
+},
+  "ve/puerto-la-cruz-lecheria": {
+  "slug": "ve/puerto-la-cruz-lecheria",
+  "name": "Venezuela – Puerto La Cruz & Lechería (Oriente Costero & R&B Elegante)",
+  "flag": "🇻🇪",
+  "currency": "USD ($) / USDT",
+  "currencyCode": "USD",
+  "gateways": "Binance Pay, Zelle, Pago Móvil, Tarjetas, PayPal",
+  "pro": "SACVEN",
+  "proFullName": "SACVEN",
+  "proGuide": "100% compatible con agregadoras digitales.",
+  "headline": "Beats en Lechería: Costa Oriental, Pianos Rhodes & Pop Urbano",
+  "description": "El polo cosmopolita del oriente venezolano: teclados Rhodes vintage, armonías de pop urbano sofisticadas y baterías con mezcla limpia para éxitos radiales y playeros.",
+  "popularGenres": [
+    "Lechería R&B",
+    "Puerto La Cruz Beach Trap",
+    "Oriente Pop Urbano"
+  ],
+  "subClusters": []
+},
+  "ve/isla-de-margarita-nueva-esparta": {
+  "slug": "ve/isla-de-margarita-nueva-esparta",
+  "name": "Venezuela – Isla de Margarita (Perla del Caribe & Sunset Chillhop)",
+  "flag": "🇻🇪",
+  "currency": "USD ($) / USDT",
+  "currencyCode": "USD",
+  "gateways": "Binance Pay, Zelle, Pago Móvil, Tarjetas, PayPal",
+  "pro": "SACVEN",
+  "proFullName": "SACVEN",
+  "proGuide": "100% original con entrega de stems.",
+  "headline": "Beats en Margarita: Playa El Yaque, Olas del Caribe & Dancehall Suave",
+  "description": "La magia turística y caribeña insular: guitarras con delay tropical, sintetizadores cálidos y ritmos relajados de dancehall y reggae para amaneceres y fiestas en la arena.",
+  "popularGenres": [
+    "Margarita Beach Chill",
+    "El Yaque Dancehall",
+    "Caribbean Island Beat"
+  ],
+  "subClusters": []
+},
+  "ve/san-cristobal-tachira": {
+  "slug": "ve/san-cristobal-tachira",
+  "name": "Venezuela – San Cristóbal & Los Andes (Frontera Andina & Rap de Altura)",
+  "flag": "🇻🇪",
+  "currency": "USD ($) / USDT",
+  "currencyCode": "USD",
+  "gateways": "Binance Pay, Zelle, Pago Móvil, Tarjetas, PayPal",
+  "pro": "SACVEN",
+  "proFullName": "SACVEN",
+  "proGuide": "Licencias comerciales ilimitadas.",
+  "headline": "Beats en San Cristóbal: Frío de los Andes, Guitarras & Rap Consciente",
+  "description": "La frontera andina y el paso hacia Colombia: arpegios acústicos reflexivos, baterías con swing pausado y bajos redondos para el liricismo que cruza fronteras.",
+  "popularGenres": [
+    "Táchira Conscious Rap",
+    "Andean Mountain Beat",
+    "Border Hip-Hop 58"
+  ],
+  "subClusters": []
+},
+  "ve/ciudad-guayana-bolivar": {
+  "slug": "ve/ciudad-guayana-bolivar",
+  "name": "Venezuela – Ciudad Guayana (Puerto Ordaz & Furia del Orinoco)",
+  "flag": "🇻🇪",
+  "currency": "USD ($) / USDT",
+  "currencyCode": "USD",
+  "gateways": "Binance Pay, Zelle, Pago Móvil, Tarjetas, PayPal",
+  "pro": "SACVEN",
+  "proFullName": "SACVEN",
+  "proGuide": "100% original y listo para monetizar en Spotify.",
+  "headline": "Beats en Ciudad Guayana: Río Orinoco, Fuerza Industrial & Trap Pesado",
+  "description": "El gigante industrial del sur venezolano: baterías apretadas de trap moderno, melodías oscuras y líneas de bajo contundentes para el nuevo sonido callejero de Bolívar.",
+  "popularGenres": [
+    "Puerto Ordaz Street Trap",
+    "Guayana Heavy Beat",
+    "Orinoco Flow"
+  ],
+  "subClusters": []
+},
 };
