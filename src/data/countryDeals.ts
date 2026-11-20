@@ -35460,4 +35460,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "uy/maldonado-san-fernando": {
+  "slug": "uy/maldonado-san-fernando",
+  "name": "Uruguay – Maldonado & San Fernando (El Núcleo Urbano del Este)",
+  "flag": "🇺🇾",
+  "currency": "UYU ($) / USD ($)",
+  "currencyCode": "UYU",
+  "gateways": "Prex, Redpagos, Abitab, BROU, Santander, Tarjetas, Apple Pay, PayPal",
+  "pro": "AGADU & DNDA",
+  "proFullName": "AGADU",
+  "proGuide": "100% legal ante AGADU con contrato en PDF descargable.",
+  "headline": "Beats en Maldonado: Fuerza Urbana del Este, Trap Pesado & RKT",
+  "description": "La realidad urbana y el pulso de todo el año en la capital de Maldonado: bajos 808 profundos, percusiones de RKT apretadas y melodías oscuras para artistas de barrio fernandinos.",
+  "popularGenres": [
+    "Maldonado Street Trap",
+    "San Fernando RKT",
+    "East Coast 598"
+  ],
+  "subClusters": []
+},
+  "uy/las-piedras-canelones": {
+  "slug": "uy/las-piedras-canelones",
+  "name": "Uruguay – Las Piedras (Capital Histórica & Cuna del Hip-Hop Canario)",
+  "flag": "🇺🇾",
+  "currency": "UYU ($) / USD ($)",
+  "currencyCode": "UYU",
+  "gateways": "Prex, Redpagos, Abitab, BROU, Tarjetas, Apple Pay, PayPal",
+  "pro": "AGADU",
+  "proFullName": "AGADU",
+  "proGuide": "100% original con entrega de stems multitrack.",
+  "headline": "Beats en Las Piedras: Hip-Hop Canario, Cajas Secas & Batallas de Plaza",
+  "description": "La cuna del movimiento urbano e industrial de Canelones: baterías de boom bap con pegada analógica, melodías de piano melancólicas y bajos sólidos para barras crudas de superación.",
+  "popularGenres": [
+    "Las Piedras Boom Bap",
+    "Canario Street Rap",
+    "Batalla Pedrense"
+  ],
+  "subClusters": []
+},
+  "uy/mercedes-soriano-jazz": {
+  "slug": "uy/mercedes-soriano-jazz",
+  "name": "Uruguay – Mercedes (Capital de Soriano & Cuna de Jazz a la Calle)",
+  "flag": "🇺🇾",
+  "currency": "UYU ($) / USD ($)",
+  "currencyCode": "UYU",
+  "gateways": "Prex, Redpagos, Abitab, BROU, Tarjetas, Apple Pay, PayPal",
+  "pro": "AGADU",
+  "proFullName": "AGADU",
+  "proGuide": "100% libre de reclamos de derechos de autor.",
+  "headline": "Beats en Mercedes: Jazz a la Calle, Trompetas Cálidas & Jazz-Hop",
+  "description": "El corazón de la improvisación y el jazz rioplatense a orillas del Río Negro: acordes ricos de piano Rhodes, saxofones con sordina y baterías de hip-hop con swing holgado.",
+  "popularGenres": [
+    "Mercedes Jazz Hop",
+    "Soriano Lyrical Beat",
+    "Río Negro Flow"
+  ],
+  "subClusters": []
+},
+  "uy/san-jose-de-mayo": {
+  "slug": "uy/san-jose-de-mayo",
+  "name": "Uruguay – San José de Mayo (Tierra Maragata & Trap Acústico)",
+  "flag": "🇺🇾",
+  "currency": "UYU ($) / USD ($)",
+  "currencyCode": "UYU",
+  "gateways": "Prex, Redpagos, Abitab, BROU, Tarjetas, Apple Pay, PayPal",
+  "pro": "AGADU",
+  "proFullName": "AGADU",
+  "proGuide": "100% compatible con agregadoras digitales.",
+  "headline": "Beats en San José: Tradición Maragata, Guitarras Criollas & Trap Suave",
+  "description": "La elegancia teatral y cultural maragata: arpegios clásicos de guitarra acústica, armonías de pop urbano sofisticadas y ritmos de trap moderno para canciones emotivas.",
+  "popularGenres": [
+    "San José Melodic Trap",
+    "Maragato Beat",
+    "Acoustic Urban 598"
+  ],
+  "subClusters": []
+},
+  "uy/rocha-costa-palmares": {
+  "slug": "uy/rocha-costa-palmares",
+  "name": "Uruguay – Rocha & La Paloma (Costa Virgen, Palmares & Surf Dub)",
+  "flag": "🇺🇾",
+  "currency": "UYU ($) / USD ($)",
+  "currencyCode": "UYU",
+  "gateways": "Prex, Redpagos, Abitab, BROU, Tarjetas, Apple Pay, PayPal",
+  "pro": "AGADU",
+  "proFullName": "AGADU",
+  "proGuide": "Garantía comercial de uso ilimitado en streaming.",
+  "headline": "Beats en Rocha: Playas Oceánicas, Cabo Polonio & Chillhop de Palmar",
+  "description": "La naturaleza agreste y bohemia del este oceánico: olas del atlántico, guitarras de fogón bajo las estrellas y ritmos de dub-trap relajantes para música de viaje y libertad.",
+  "popularGenres": [
+    "Rocha Ocean Chill",
+    "Cabo Polonio Lofi",
+    "Palmares Dub Trap"
+  ],
+  "subClusters": []
+},
+  "uy/artigas-norte-fronterizo": {
+  "slug": "uy/artigas-norte-fronterizo",
+  "name": "Uruguay – Artigas (Norte Extremo & Portuñol Trap-Samba)",
+  "flag": "🇺🇾",
+  "currency": "UYU ($) / USD ($)",
+  "currencyCode": "UYU",
+  "gateways": "Prex, Redpagos, Abitab, BROU, Tarjetas, Apple Pay, PayPal",
+  "pro": "AGADU",
+  "proFullName": "AGADU",
+  "proGuide": "100% original con entrega de stems.",
+  "headline": "Beats en Artigas: Piedras Preciosas, Portuñol & Samba-Trap Banger",
+  "description": "La frontera más septentrional con Quaraí: repiques de samba-enredo, cajas de funk y caídas de trap pesado para un flow fronterizo bilingüe sin fronteras.",
+  "popularGenres": [
+    "Artigas Portuñol Beat",
+    "Samba Trap 598",
+    "Northern Frontier Flow"
+  ],
+  "subClusters": []
+},
+  "uy/minas-lavalleja-sierras": {
+  "slug": "uy/minas-lavalleja-sierras",
+  "name": "Uruguay – Minas & Lavalleja (Sierras del Este & Milonga de Altura)",
+  "flag": "🇺🇾",
+  "currency": "UYU ($) / USD ($)",
+  "currencyCode": "UYU",
+  "gateways": "Prex, Redpagos, Abitab, BROU, Tarjetas, Apple Pay, PayPal",
+  "pro": "AGADU",
+  "proFullName": "AGADU",
+  "proGuide": "Licencias comerciales legales con PDF descargable.",
+  "headline": "Beats en Minas: Aire de las Sierras, Guitarras Camperas & Milonga-Trap",
+  "description": "El misticismo de las sierras de Lavalleja: acordes mayores y menores de guitarra criolla, baterías boom bap pausadas y bajos profundos para líricas con peso y memoria.",
+  "popularGenres": [
+    "Minas Milonga Trap",
+    "Sierras Lyrical Beat",
+    "Lavalleja Mountain Flow"
+  ],
+  "subClusters": []
+},
+  "uy/durazno-centro-y-rock": {
+  "slug": "uy/durazno-centro-y-rock",
+  "name": "Uruguay – Durazno (Corazón del País, Río Yí & Rock-Trap Charrúa)",
+  "flag": "🇺🇾",
+  "currency": "UYU ($) / USD ($)",
+  "currencyCode": "UYU",
+  "gateways": "Prex, Redpagos, Abitab, BROU, Tarjetas, Apple Pay, PayPal",
+  "pro": "AGADU",
+  "proFullName": "AGADU",
+  "proGuide": "100% libre de reclamos de Content ID.",
+  "headline": "Beats en Durazno: Pilsen Rock Heritage, Guitarras Eléctricas & 808s",
+  "description": "El centro geográfico y la cuna de los mayores festivales de rock del país: guitarras eléctricas distorsionadas, caídas de 808 demoledoras y energía pura para el rap-rock uruguayo.",
+  "popularGenres": [
+    "Durazno Rock-Trap",
+    "Pilsen Rock Beat",
+    "Central Uruguay Banger"
+  ],
+  "subClusters": []
+},
+  "uy/florida-piedra-alta": {
+  "slug": "uy/florida-piedra-alta",
+  "name": "Uruguay – Florida (Piedra Alta, Tradición Charrúa & Rap Histórico)",
+  "flag": "🇺🇾",
+  "currency": "UYU ($) / USD ($)",
+  "currencyCode": "UYU",
+  "gateways": "Prex, Redpagos, Abitab, BROU, Tarjetas, Apple Pay, PayPal",
+  "pro": "AGADU",
+  "proFullName": "AGADU",
+  "proGuide": "100% original con entrega de stems multitrack.",
+  "headline": "Beats en Florida: Cuna de la Independencia, Pianos Nobles & Boom Bap",
+  "description": "La serenidad y el peso histórico de la Piedra Alta: pianos clásicos sobrios, baterías con sonido analógico de cinta y espacio amplio para barras conscientes de autor.",
+  "popularGenres": [
+    "Florida Conscious Rap",
+    "Piedra Alta Boom Bap",
+    "Historical Charrúa Flow"
+  ],
+  "subClusters": []
+},
+  "uy/treinta-y-tres-olimar": {
+  "slug": "uy/treinta-y-tres-olimar",
+  "name": "Uruguay – Treinta y Tres (Río Olimar & Poesía Urbana Folclórica)",
+  "flag": "🇺🇾",
+  "currency": "UYU ($) / USD ($)",
+  "currencyCode": "UYU",
+  "gateways": "Prex, Redpagos, Abitab, BROU, Tarjetas, Apple Pay, PayPal",
+  "pro": "AGADU",
+  "proFullName": "AGADU",
+  "proGuide": "Licencias con derechos mundiales de monetización.",
+  "headline": "Beats en Treinta y Tres: El Río Olimar, Canto Popular & Trap Suave",
+  "description": "La poesía y el canto del este charrúa: arpegios criollos inspirados en Los Olimareños, texturas de río y baterías modernas de tempo medio para el liricismo rural y urbano.",
+  "popularGenres": [
+    "Olimar Poetic Trap",
+    "Treinta y Tres Folk Rap",
+    "Eastern River Beat"
+  ],
+  "subClusters": []
+},
 };
