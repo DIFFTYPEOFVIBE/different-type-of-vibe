@@ -36052,4 +36052,216 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "py": {
+  "slug": "py",
+  "name": "Paraguay – Hub Nacional (Trap en Guaraní, Arpa Charrúa, Tigo Money & APA)",
+  "flag": "🇵🇾",
+  "currency": "PYG (₲) / USD ($)",
+  "currencyCode": "PYG",
+  "gateways": "Tigo Money, Billetera Zimple, Bancard (Pago Móvil / VPOS), Itaú Paraguay, Tarjetas, Apple Pay, PayPal",
+  "pro": "APA (Autores Paraguayos Asociados)",
+  "proFullName": "APA & DINAPI (Dirección Nacional de Propiedad Intelectual)",
+  "proGuide": "100% legal ante APA y DINAPI con contrato en PDF descargable.",
+  "headline": "Beats en Paraguay: Trap en Guaraní, Arpa Fusión & Pago Fácil con Tigo Money",
+  "description": "El catálogo oficial de instrumentales urbanas para artistas de todo el Paraguay. Licencias comerciales en Guaraníes (₲) y Dólares con entrega instantánea de WAV 24-bit y pistas separadas multitrack.",
+  "popularGenres": [
+    "Trap en Guaraní",
+    "Arpa Paraguaya Trap",
+    "RKT Paraguayo",
+    "Boom Bap Asunceno"
+  ],
+  "subClusters": [
+    {
+      "name": "Trap en Guaraní Vibe",
+      "slug": "../../vibe/trap-en-guarani-identidad-py",
+      "description": "Líricas bilingües de orgullo con arpa paraguaya y bajos 808 demoledores."
+    },
+    {
+      "name": "Arpa Paraguaya Fusión",
+      "slug": "../../vibe/arpa-paraguaya-trap-fusion-808",
+      "description": "Cascadas melódicas de arpa de 36 cuerdas sobre caídas de trap moderno."
+    },
+    {
+      "name": "RKT Paraguayo 100 BPM",
+      "slug": "../../vibe/rkt-paraguayo-turreo-100-bpm",
+      "description": "RKT y cumbia fiestera a 100 BPM para boliches y bafles."
+    },
+    {
+      "name": "Pago con Tigo Money y Zimple",
+      "slug": "../../genre/comprar-beats-en-paraguay-tigo-money-zimple",
+      "description": "Compra sin fricción en Guaraníes usando Tigo Money, Zimple y Bancard."
+    }
+  ]
+},
+  "py/asuncion-capital-distrito": {
+  "slug": "py/asuncion-capital-distrito",
+  "name": "Paraguay – Asunción (Costanera, Palma & Estudios Capitalinos)",
+  "flag": "🇵🇾",
+  "currency": "PYG (₲) / USD ($)",
+  "currencyCode": "PYG",
+  "gateways": "Tigo Money, Zimple, Bancard, Itaú, Tarjetas, Apple Pay, PayPal",
+  "pro": "APA & DINAPI",
+  "proFullName": "APA",
+  "proGuide": "100% compatible con distribución en Spotify y YouTube.",
+  "headline": "Beats en Asunción: La Costanera, Calle Palma & Trap Pesado de la Capital",
+  "description": "El epicentro creativo y urbano de Paraguay: desde los cyphers de Plaza de la Democracia y la Costanera hasta los estudios de élite en Villa Morra y Carmelitas.",
+  "popularGenres": [
+    "Asunción Street Trap",
+    "Costanera RKT",
+    "Capital Boom Bap"
+  ],
+  "subClusters": []
+},
+  "py/ciudad-del-este-triple-frontera": {
+  "slug": "py/ciudad-del-este-triple-frontera",
+  "name": "Paraguay – Ciudad del Este (Alto Paraná & Triple Frontera Trap-Funk)",
+  "flag": "🇵🇾",
+  "currency": "PYG (₲) / USD ($)",
+  "currencyCode": "PYG",
+  "gateways": "Tigo Money, Zimple, Bancard, Continental, Tarjetas, Apple Pay, PayPal",
+  "pro": "APA",
+  "proFullName": "APA",
+  "proGuide": "100% original con entrega de stems multitrack.",
+  "headline": "Beats en Ciudad del Este: La Triple Frontera, Portuñol & Trap Internacional",
+  "description": "La energía cosmopolita del polo comercial más dinámico de Sudamérica: fusión de cajas de funk brasileño, trap latino pesado y ritmos internacionales frente a Foz de Iguazú.",
+  "popularGenres": [
+    "Triple Frontera Beat",
+    "CDE Trap-Funk",
+    "Portuñol Flow"
+  ],
+  "subClusters": []
+},
+  "py/encarnacion-itapua": {
+  "slug": "py/encarnacion-itapua",
+  "name": "Paraguay – Encarnación (La Perla del Sur & Carnaval Banger)",
+  "flag": "🇵🇾",
+  "currency": "PYG (₲) / USD ($)",
+  "currencyCode": "PYG",
+  "gateways": "Tigo Money, Zimple, Bancard, Tarjetas, Apple Pay, PayPal",
+  "pro": "APA",
+  "proFullName": "APA",
+  "proGuide": "100% libre de reclamos de derechos de autor.",
+  "headline": "Beats en Encarnación: Playa San José, Río Paraná & Dembow de Carnaval",
+  "description": "La capital del verano y del carnaval paraguayo: percusiones festivas de comparsa, sintetizadores solares de dembow y ritmos bailables para fiestas sobre la costanera de Itapúa.",
+  "popularGenres": [
+    "Encarnación Carnaval Beat",
+    "Playa San José Dembow",
+    "Itapúa Party Sound"
+  ],
+  "subClusters": []
+},
+  "py/san-lorenzo-universitaria": {
+  "slug": "py/san-lorenzo-universitaria",
+  "name": "Paraguay – San Lorenzo (Ciudad Universitaria & Trap Joven)",
+  "flag": "🇵🇾",
+  "currency": "PYG (₲) / USD ($)",
+  "currencyCode": "PYG",
+  "gateways": "Tigo Money, Zimple, Bancard, Tarjetas, Apple Pay, PayPal",
+  "pro": "APA",
+  "proFullName": "APA",
+  "proGuide": "100% garantizado con derechos comerciales de streaming.",
+  "headline": "Beats en San Lorenzo: Juventud Universitaria, Cajas Secas & 808s",
+  "description": "El hervidero juvenil y estudiantil del área metropolitana: baterías contundentes de trap moderno, sintetizadores vibrantes y bajos que retumban en eventos y boliches sanlorenzanos.",
+  "popularGenres": [
+    "San Lorenzo Street Trap",
+    "University Drill",
+    "Central Flow PY"
+  ],
+  "subClusters": []
+},
+  "py/luque-central": {
+  "slug": "py/luque-central",
+  "name": "Paraguay – Luque (Ciudad de la Música, Guitarras & Arpas de Oro)",
+  "flag": "🇵🇾",
+  "currency": "PYG (₲) / USD ($)",
+  "currencyCode": "PYG",
+  "gateways": "Tigo Money, Zimple, Bancard, Tarjetas, Apple Pay, PayPal",
+  "pro": "APA",
+  "proFullName": "APA",
+  "proGuide": "100% legal ante APA con contrato en PDF.",
+  "headline": "Beats en Luque: Cuna de Luthiers, Guitarras de Cedro & Trap Acústico",
+  "description": "La capital artesanal de la música paraguaya: arpegios nobles de guitarra de luthier, arpas tradicionales afinadas con calidez y caídas de 808 para canciones con identidad.",
+  "popularGenres": [
+    "Luque Acoustic Trap",
+    "Luthier Guitars Beat",
+    "Central Music Flow"
+  ],
+  "subClusters": []
+},
+  "py/pedro-juan-caballero-amambay": {
+  "slug": "py/pedro-juan-caballero-amambay",
+  "name": "Paraguay – Pedro Juan Caballero (Frontera Amambay & Trap Callejero)",
+  "flag": "🇵🇾",
+  "currency": "PYG (₲) / USD ($)",
+  "currencyCode": "PYG",
+  "gateways": "Tigo Money, Zimple, Bancard, Tarjetas, Apple Pay, PayPal",
+  "pro": "APA",
+  "proFullName": "APA",
+  "proGuide": "100% compatible con agregadoras digitales.",
+  "headline": "Beats en Pedro Juan: Límite con Ponta Porã, Portuñol & Trap de Frontera",
+  "description": "La vibrante y tensa frontera seca del norte: baterías pesadas de trap callejero, cajas de funk y melodías oscuras que reflejan el carácter indomable de Amambay.",
+  "popularGenres": [
+    "PJC Street Trap",
+    "Border Portuñol Beat",
+    "Amambay Heavy Flow"
+  ],
+  "subClusters": []
+},
+  "py/coronel-oviedo-caaguazu": {
+  "slug": "py/coronel-oviedo-caaguazu",
+  "name": "Paraguay – Coronel Oviedo (Cruce Central & Hip-Hop Caaguazú)",
+  "flag": "🇵🇾",
+  "currency": "PYG (₲) / USD ($)",
+  "currencyCode": "PYG",
+  "gateways": "Tigo Money, Zimple, Bancard, Tarjetas, Apple Pay, PayPal",
+  "pro": "APA",
+  "proFullName": "APA",
+  "proGuide": "100% original con entrega de stems.",
+  "headline": "Beats en Coronel Oviedo: Encrucijada Nacional, Boom Bap & RKT Joven",
+  "description": "El cruce de rutas de todo el país: baterías apretadas de boom bap clásico, sintetizadores de RKT bailable y líneas de bajo contundentes para la nueva ola de Caaguazú.",
+  "popularGenres": [
+    "Coronel Oviedo Boom Bap",
+    "Caaguazú RKT",
+    "Crossroads Beat PY"
+  ],
+  "subClusters": []
+},
+  "py/concepcion-norte": {
+  "slug": "py/concepcion-norte",
+  "name": "Paraguay – Concepción (La Perla del Norte & Guarania Ancestral)",
+  "flag": "🇵🇾",
+  "currency": "PYG (₲) / USD ($)",
+  "currencyCode": "PYG",
+  "gateways": "Tigo Money, Zimple, Bancard, Tarjetas, Apple Pay, PayPal",
+  "pro": "APA",
+  "proFullName": "APA",
+  "proGuide": "Licencias comerciales ilimitadas.",
+  "headline": "Beats en Concepción: Río Paraguay, Puerto del Norte & Trap Criollo",
+  "description": "La puerta hacia el Chaco y el norte ribereño: acordes melancólicos de guitarra criolla, vientos de río y baterías pausadas para el rap con raíz histórica y lenguaje guaraní.",
+  "popularGenres": [
+    "Concepción River Trap",
+    "Perla del Norte Beat",
+    "Chaco Frontier Rap"
+  ],
+  "subClusters": []
+},
+  "py/villarrica-del-espiritu-santo": {
+  "slug": "py/villarrica-del-espiritu-santo",
+  "name": "Paraguay – Villarrica (Ciudad Andariega, Poesía Guaireña & Lofi)",
+  "flag": "🇵🇾",
+  "currency": "PYG (₲) / USD ($)",
+  "currencyCode": "PYG",
+  "gateways": "Tigo Money, Zimple, Bancard, Tarjetas, Apple Pay, PayPal",
+  "pro": "APA",
+  "proFullName": "APA",
+  "proGuide": "100% original y listo para monetizar en Spotify.",
+  "headline": "Beats en Villarrica: Cuna de Poetas, Guarania Tradicional & Chillhop",
+  "description": "El corazón lírico y literario del Guairá: pianos clásicos sobrios, arpegios acústicos de guarania y baterías lofi suaves para poesía urbana, reflexión y canciones de autor.",
+  "popularGenres": [
+    "Villarrica Guarania Lofi",
+    "Guairá Poetic Rap",
+    "Spirit City Beat"
+  ],
+  "subClusters": []
+},
 };
