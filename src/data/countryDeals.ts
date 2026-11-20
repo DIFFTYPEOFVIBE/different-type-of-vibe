@@ -25155,4 +25155,434 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
     }
   ]
 },
+  "id/bekasi-jawa-barat": {
+  "name": "Indonesia – Bekasi & Jabodetabek Timur (Skena Street Trap)",
+  "flag": "🇮🇩",
+  "currency": "IDR (Rp)",
+  "currencyCode": "IDR",
+  "gateways": "QRIS, GoPay, OVO, DANA, BCA VA, Kartu Debit/Kredit",
+  "pro": "WAMI & LMKN",
+  "proFullName": "WAMI Indonesia",
+  "proGuide": "100% legal untuk pendaftaran WAMI dengan kontrak PDF instan.",
+  "headline": "Beat Rap di Bekasi: Skena Street Trap Industri, Snare Renyah & 808",
+  "description": "Energi kota satelit industri: ketukan drum trap tegas, dentuman bass 808 berbobot, dan melodi sintetizer gelap untuk rima penuh determinasi.",
+  "popularGenres": [
+    "Bekasi Street Trap",
+    "Jabodetabek Rap",
+    "Hardcore Flow"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Bisakah lagu yang saya rekam dengan beat ini dirilis ke Spotify, Apple Music, dan YouTube di Indonesia – Bekasi & Jabodetabek Timur (Skena Street Trap)?",
+      "answer": "Ya, 100% bisa! Semua lisensi WAV dan MP3 dari Different Type of Vibe mencakup hak komersial penuh tanpa batas untuk Spotify, Apple Music, YouTube Music, TikTok, dan siaran radio di Indonesia. Anda memegang 100% hak royalti artis dan royalti rekaman master Anda."
+    },
+    {
+      "question": "Apakah beat ini aman dan legal untuk didaftarkan ke WAMI, LMKN, atau DJKI?",
+      "answer": "Sangat aman! Setiap beat adalah komposisi musik 100% orisinal yang diproduksi oleh Onzieb tanpa sample berhak cipta ilegal. Anda dapat mendaftarkan karya lirik dan vokal Anda ke WAMI dan LMKN tanpa risiko terkena klaim hak cipta."
+    },
+    {
+      "question": "Metode pembayaran apa saja yang didukung di Indonesia?",
+      "answer": "Dalam mata uang Rupiah (IDR Rp), Anda bisa membayar instan menggunakan QRIS (kompatibel dengan GoPay, OVO, DANA, ShopeePay, LinkAja, BCA, Mandiri, BRI, BNI), Virtual Account bank nasional, kartu debit/kredit, Apple Pay, dan PayPal."
+    },
+    {
+      "question": "Kapan dan bagaimana saya menerima file audio tanpa tag suara (untagged)?",
+      "answer": "Segera setelah pembayaran Anda terverifikasi, file audio studio WAV 24-bit tanpa tag suara produser, file MP3 320kbps, dan surat kontrak lisensi resmi bertanda tangan digital dalam format PDF akan langsung dikirimkan ke alamat email Anda."
+    }
+  ]
+},
+  "id/depok-jawa-barat": {
+  "name": "Indonesia – Depok & Kawasan Kampus (Indie Hip-Hop & Soul Rap)",
+  "flag": "🇮🇩",
+  "currency": "IDR (Rp)",
+  "currencyCode": "IDR",
+  "gateways": "QRIS, GoPay, OVO, DANA, BCA VA, Kartu Debit/Kredit",
+  "pro": "WAMI & LMKN",
+  "proFullName": "WAMI Indonesia",
+  "proGuide": "Bebas klaim hak cipta dan siap rilis komersial.",
+  "headline": "Beat di Depok: Indie Hip-Hop Kampus, Akor Rhodes Hangat & Boom Bap",
+  "description": "Karakter musikal kawasan pelajar: progresi keyboard elektrik bernuansa jazz cerdas, petikan gitar akustik, dan ayunan drum santai untuk lirik reflektif.",
+  "popularGenres": [
+    "Depok Indie Rap",
+    "College Hip-Hop",
+    "Soulful Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Bisakah lagu yang saya rekam dengan beat ini dirilis ke Spotify, Apple Music, dan YouTube di Indonesia – Depok & Kawasan Kampus (Indie Hip-Hop & Soul Rap)?",
+      "answer": "Ya, 100% bisa! Semua lisensi WAV dan MP3 dari Different Type of Vibe mencakup hak komersial penuh tanpa batas untuk Spotify, Apple Music, YouTube Music, TikTok, dan siaran radio di Indonesia. Anda memegang 100% hak royalti artis dan royalti rekaman master Anda."
+    },
+    {
+      "question": "Apakah beat ini aman dan legal untuk didaftarkan ke WAMI, LMKN, atau DJKI?",
+      "answer": "Sangat aman! Setiap beat adalah komposisi musik 100% orisinal yang diproduksi oleh Onzieb tanpa sample berhak cipta ilegal. Anda dapat mendaftarkan karya lirik dan vokal Anda ke WAMI dan LMKN tanpa risiko terkena klaim hak cipta."
+    },
+    {
+      "question": "Metode pembayaran apa saja yang didukung di Indonesia?",
+      "answer": "Dalam mata uang Rupiah (IDR Rp), Anda bisa membayar instan menggunakan QRIS (kompatibel dengan GoPay, OVO, DANA, ShopeePay, LinkAja, BCA, Mandiri, BRI, BNI), Virtual Account bank nasional, kartu debit/kredit, Apple Pay, dan PayPal."
+    },
+    {
+      "question": "Kapan dan bagaimana saya menerima file audio tanpa tag suara (untagged)?",
+      "answer": "Segera setelah pembayaran Anda terverifikasi, file audio studio WAV 24-bit tanpa tag suara produser, file MP3 320kbps, dan surat kontrak lisensi resmi bertanda tangan digital dalam format PDF akan langsung dikirimkan ke alamat email Anda."
+    }
+  ]
+},
+  "id/malang-jawa-timur": {
+  "name": "Indonesia – Malang & Arema (Kota Pelajar & Chillhop Santai)",
+  "flag": "🇮🇩",
+  "currency": "IDR (Rp)",
+  "currencyCode": "IDR",
+  "gateways": "QRIS, GoPay, OVO, DANA, BCA VA, Kartu Debit/Kredit",
+  "pro": "WAMI & LMKN",
+  "proFullName": "WAMI Indonesia",
+  "proGuide": "100% orisinal dengan stems multitrack lengkap.",
+  "headline": "Beat Rap di Malang: Kesejukan Arema, Chillhop Dingin & Melodic Trap",
+  "description": "Kesejukan kota apel: tekstur instrumen beraroma vinil, progresi melodi piano sendu, dan ketukan drum santai untuk musik urban penuh rasa.",
+  "popularGenres": [
+    "Malang Chillhop",
+    "Arema Rap",
+    "Melodic Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Bisakah lagu yang saya rekam dengan beat ini dirilis ke Spotify, Apple Music, dan YouTube di Indonesia – Malang & Arema (Kota Pelajar & Chillhop Santai)?",
+      "answer": "Ya, 100% bisa! Semua lisensi WAV dan MP3 dari Different Type of Vibe mencakup hak komersial penuh tanpa batas untuk Spotify, Apple Music, YouTube Music, TikTok, dan siaran radio di Indonesia. Anda memegang 100% hak royalti artis dan royalti rekaman master Anda."
+    },
+    {
+      "question": "Apakah beat ini aman dan legal untuk didaftarkan ke WAMI, LMKN, atau DJKI?",
+      "answer": "Sangat aman! Setiap beat adalah komposisi musik 100% orisinal yang diproduksi oleh Onzieb tanpa sample berhak cipta ilegal. Anda dapat mendaftarkan karya lirik dan vokal Anda ke WAMI dan LMKN tanpa risiko terkena klaim hak cipta."
+    },
+    {
+      "question": "Metode pembayaran apa saja yang didukung di Indonesia?",
+      "answer": "Dalam mata uang Rupiah (IDR Rp), Anda bisa membayar instan menggunakan QRIS (kompatibel dengan GoPay, OVO, DANA, ShopeePay, LinkAja, BCA, Mandiri, BRI, BNI), Virtual Account bank nasional, kartu debit/kredit, Apple Pay, dan PayPal."
+    },
+    {
+      "question": "Kapan dan bagaimana saya menerima file audio tanpa tag suara (untagged)?",
+      "answer": "Segera setelah pembayaran Anda terverifikasi, file audio studio WAV 24-bit tanpa tag suara produser, file MP3 320kbps, dan surat kontrak lisensi resmi bertanda tangan digital dalam format PDF akan langsung dikirimkan ke alamat email Anda."
+    }
+  ]
+},
+  "id/palembang-sumatera-selatan": {
+  "name": "Indonesia – Palembang & Bumi Sriwijaya (Pusat Rap Sumatera)",
+  "flag": "🇮🇩",
+  "currency": "IDR (Rp)",
+  "currencyCode": "IDR",
+  "gateways": "QRIS, GoPay, OVO, DANA, BCA VA, Kartu Debit/Kredit",
+  "pro": "WAMI & LMKN",
+  "proFullName": "WAMI Indonesia",
+  "proGuide": "100% siap untuk distribusi komersial di platform streaming.",
+  "headline": "Beat di Palembang: Gelora Sriwijaya, Snare Bertenaga & Bass Menggelegar",
+  "description": "Karakter vokal lugas dan tegas dari Sumatera Selatan: orkestrasi tiup megah dipadu dengan drum trap cepat dan tendangan 808 padat.",
+  "popularGenres": [
+    "Palembang Trap",
+    "Sriwijaya Rap",
+    "Southern Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Bisakah lagu yang saya rekam dengan beat ini dirilis ke Spotify, Apple Music, dan YouTube di Indonesia – Palembang & Bumi Sriwijaya (Pusat Rap Sumatera)?",
+      "answer": "Ya, 100% bisa! Semua lisensi WAV dan MP3 dari Different Type of Vibe mencakup hak komersial penuh tanpa batas untuk Spotify, Apple Music, YouTube Music, TikTok, dan siaran radio di Indonesia. Anda memegang 100% hak royalti artis dan royalti rekaman master Anda."
+    },
+    {
+      "question": "Apakah beat ini aman dan legal untuk didaftarkan ke WAMI, LMKN, atau DJKI?",
+      "answer": "Sangat aman! Setiap beat adalah komposisi musik 100% orisinal yang diproduksi oleh Onzieb tanpa sample berhak cipta ilegal. Anda dapat mendaftarkan karya lirik dan vokal Anda ke WAMI dan LMKN tanpa risiko terkena klaim hak cipta."
+    },
+    {
+      "question": "Metode pembayaran apa saja yang didukung di Indonesia?",
+      "answer": "Dalam mata uang Rupiah (IDR Rp), Anda bisa membayar instan menggunakan QRIS (kompatibel dengan GoPay, OVO, DANA, ShopeePay, LinkAja, BCA, Mandiri, BRI, BNI), Virtual Account bank nasional, kartu debit/kredit, Apple Pay, dan PayPal."
+    },
+    {
+      "question": "Kapan dan bagaimana saya menerima file audio tanpa tag suara (untagged)?",
+      "answer": "Segera setelah pembayaran Anda terverifikasi, file audio studio WAV 24-bit tanpa tag suara produser, file MP3 320kbps, dan surat kontrak lisensi resmi bertanda tangan digital dalam format PDF akan langsung dikirimkan ke alamat email Anda."
+    }
+  ]
+},
+  "id/batam-kepulauan-riau": {
+  "name": "Indonesia – Batam & Kepri (Hub Lintas Batas & International Flow)",
+  "flag": "🇮🇩",
+  "currency": "IDR (Rp)",
+  "currencyCode": "IDR",
+  "gateways": "QRIS, GoPay, OVO, DANA, BCA VA, Kartu Debit/Kredit",
+  "pro": "WAMI & LMKN",
+  "proFullName": "WAMI Indonesia",
+  "proGuide": "Garansi legalitas orisinal 100% tanpa risiko klaim.",
+  "headline": "Beat di Batam: Suasana Lintas Batas, Drill Internasional & Melodi Klub",
+  "description": "Koneksi maritim internasional: ketukan drill modern bertempo 140 BPM, lonceng es dingin, dan melodi urban bernuansa global.",
+  "popularGenres": [
+    "Batam Drill",
+    "Kepri Urban",
+    "Cross-Border Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Bisakah lagu yang saya rekam dengan beat ini dirilis ke Spotify, Apple Music, dan YouTube di Indonesia – Batam & Kepri (Hub Lintas Batas & International Flow)?",
+      "answer": "Ya, 100% bisa! Semua lisensi WAV dan MP3 dari Different Type of Vibe mencakup hak komersial penuh tanpa batas untuk Spotify, Apple Music, YouTube Music, TikTok, dan siaran radio di Indonesia. Anda memegang 100% hak royalti artis dan royalti rekaman master Anda."
+    },
+    {
+      "question": "Apakah beat ini aman dan legal untuk didaftarkan ke WAMI, LMKN, atau DJKI?",
+      "answer": "Sangat aman! Setiap beat adalah komposisi musik 100% orisinal yang diproduksi oleh Onzieb tanpa sample berhak cipta ilegal. Anda dapat mendaftarkan karya lirik dan vokal Anda ke WAMI dan LMKN tanpa risiko terkena klaim hak cipta."
+    },
+    {
+      "question": "Metode pembayaran apa saja yang didukung di Indonesia?",
+      "answer": "Dalam mata uang Rupiah (IDR Rp), Anda bisa membayar instan menggunakan QRIS (kompatibel dengan GoPay, OVO, DANA, ShopeePay, LinkAja, BCA, Mandiri, BRI, BNI), Virtual Account bank nasional, kartu debit/kredit, Apple Pay, dan PayPal."
+    },
+    {
+      "question": "Kapan dan bagaimana saya menerima file audio tanpa tag suara (untagged)?",
+      "answer": "Segera setelah pembayaran Anda terverifikasi, file audio studio WAV 24-bit tanpa tag suara produser, file MP3 320kbps, dan surat kontrak lisensi resmi bertanda tangan digital dalam format PDF akan langsung dikirimkan ke alamat email Anda."
+    }
+  ]
+},
+  "id/balikpapan-kalimantan-timur": {
+  "name": "Indonesia – Balikpapan & Gerbang IKN (Kota Minyak & Trap Kaltim)",
+  "flag": "🇮🇩",
+  "currency": "IDR (Rp)",
+  "currencyCode": "IDR",
+  "gateways": "QRIS, GoPay, OVO, DANA, BCA VA, Kartu Debit/Kredit",
+  "pro": "WAMI & LMKN",
+  "proFullName": "WAMI Indonesia",
+  "proGuide": "100% legal ante WAMI dengan pengiriman instan.",
+  "headline": "Beat di Balikpapan: Energi Kota Minyak, Gerbang IKN & Trap Bertenaga",
+  "description": "Dinamisme Kalimantan Timur menuju masa depan: melodi sintetizer megah, bass 808 menggelegar, dan ketukan drum modern untuk musisi urban IKN.",
+  "popularGenres": [
+    "Kaltim Trap",
+    "IKN Sound",
+    "Balikpapan Rap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Bisakah lagu yang saya rekam dengan beat ini dirilis ke Spotify, Apple Music, dan YouTube di Indonesia – Balikpapan & Gerbang IKN (Kota Minyak & Trap Kaltim)?",
+      "answer": "Ya, 100% bisa! Semua lisensi WAV dan MP3 dari Different Type of Vibe mencakup hak komersial penuh tanpa batas untuk Spotify, Apple Music, YouTube Music, TikTok, dan siaran radio di Indonesia. Anda memegang 100% hak royalti artis dan royalti rekaman master Anda."
+    },
+    {
+      "question": "Apakah beat ini aman dan legal untuk didaftarkan ke WAMI, LMKN, atau DJKI?",
+      "answer": "Sangat aman! Setiap beat adalah komposisi musik 100% orisinal yang diproduksi oleh Onzieb tanpa sample berhak cipta ilegal. Anda dapat mendaftarkan karya lirik dan vokal Anda ke WAMI dan LMKN tanpa risiko terkena klaim hak cipta."
+    },
+    {
+      "question": "Metode pembayaran apa saja yang didukung di Indonesia?",
+      "answer": "Dalam mata uang Rupiah (IDR Rp), Anda bisa membayar instan menggunakan QRIS (kompatibel dengan GoPay, OVO, DANA, ShopeePay, LinkAja, BCA, Mandiri, BRI, BNI), Virtual Account bank nasional, kartu debit/kredit, Apple Pay, dan PayPal."
+    },
+    {
+      "question": "Kapan dan bagaimana saya menerima file audio tanpa tag suara (untagged)?",
+      "answer": "Segera setelah pembayaran Anda terverifikasi, file audio studio WAV 24-bit tanpa tag suara produser, file MP3 320kbps, dan surat kontrak lisensi resmi bertanda tangan digital dalam format PDF akan langsung dikirimkan ke alamat email Anda."
+    }
+  ]
+},
+  "id/pekanbaru-riau": {
+  "name": "Indonesia – Pekanbaru & Riau (Bumi Lancang Kuning Urban)",
+  "flag": "🇮🇩",
+  "currency": "IDR (Rp)",
+  "currencyCode": "IDR",
+  "gateways": "QRIS, GoPay, OVO, DANA, BCA VA, Kartu Debit/Kredit",
+  "pro": "WAMI & LMKN",
+  "proFullName": "WAMI Indonesia",
+  "proGuide": "100% kompatibel dengan WAMI.",
+  "headline": "Beat di Pekanbaru: Melodi Melayu Urban, Trap Modern & Bass Bulat",
+  "description": "Karakter khas Riau: sentuhan melodi gambus dan akordeon Melayu yang berpadu dengan ketukan trap kontemporer dan bass empuk.",
+  "popularGenres": [
+    "Melayu Trap",
+    "Riau Urban",
+    "Pekanbaru Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Bisakah lagu yang saya rekam dengan beat ini dirilis ke Spotify, Apple Music, dan YouTube di Indonesia – Pekanbaru & Riau (Bumi Lancang Kuning Urban)?",
+      "answer": "Ya, 100% bisa! Semua lisensi WAV dan MP3 dari Different Type of Vibe mencakup hak komersial penuh tanpa batas untuk Spotify, Apple Music, YouTube Music, TikTok, dan siaran radio di Indonesia. Anda memegang 100% hak royalti artis dan royalti rekaman master Anda."
+    },
+    {
+      "question": "Apakah beat ini aman dan legal untuk didaftarkan ke WAMI, LMKN, atau DJKI?",
+      "answer": "Sangat aman! Setiap beat adalah komposisi musik 100% orisinal yang diproduksi oleh Onzieb tanpa sample berhak cipta ilegal. Anda dapat mendaftarkan karya lirik dan vokal Anda ke WAMI dan LMKN tanpa risiko terkena klaim hak cipta."
+    },
+    {
+      "question": "Metode pembayaran apa saja yang didukung di Indonesia?",
+      "answer": "Dalam mata uang Rupiah (IDR Rp), Anda bisa membayar instan menggunakan QRIS (kompatibel dengan GoPay, OVO, DANA, ShopeePay, LinkAja, BCA, Mandiri, BRI, BNI), Virtual Account bank nasional, kartu debit/kredit, Apple Pay, dan PayPal."
+    },
+    {
+      "question": "Kapan dan bagaimana saya menerima file audio tanpa tag suara (untagged)?",
+      "answer": "Segera setelah pembayaran Anda terverifikasi, file audio studio WAV 24-bit tanpa tag suara produser, file MP3 320kbps, dan surat kontrak lisensi resmi bertanda tangan digital dalam format PDF akan langsung dikirimkan ke alamat email Anda."
+    }
+  ]
+},
+  "id/manado-sulawesi-utara": {
+  "name": "Indonesia – Manado & Minahasa (Kota Musikal & R&B Melodik)",
+  "flag": "🇮🇩",
+  "currency": "IDR (Rp)",
+  "currencyCode": "IDR",
+  "gateways": "QRIS, GoPay, OVO, DANA, BCA VA, Kartu Debit/Kredit",
+  "pro": "WAMI & LMKN",
+  "proFullName": "WAMI Indonesia",
+  "proGuide": "Hak komersial penuh untuk rilis internasional.",
+  "headline": "Beat di Manado: Vokal Merdu Minahasa, R&B Tropis & Pop-Trap Ceria",
+  "description": "Karakter vokal emas Sulawesi Utara: progresi keyboard manis bernuansa pop-R&B, ketukan drum pesta ceria, dan ruang vokal merdu yang mewah.",
+  "popularGenres": [
+    "Manado R&B",
+    "Minahasa Pop-Trap",
+    "Tropis Urban"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Bisakah lagu yang saya rekam dengan beat ini dirilis ke Spotify, Apple Music, dan YouTube di Indonesia – Manado & Minahasa (Kota Musikal & R&B Melodik)?",
+      "answer": "Ya, 100% bisa! Semua lisensi WAV dan MP3 dari Different Type of Vibe mencakup hak komersial penuh tanpa batas untuk Spotify, Apple Music, YouTube Music, TikTok, dan siaran radio di Indonesia. Anda memegang 100% hak royalti artis dan royalti rekaman master Anda."
+    },
+    {
+      "question": "Apakah beat ini aman dan legal untuk didaftarkan ke WAMI, LMKN, atau DJKI?",
+      "answer": "Sangat aman! Setiap beat adalah komposisi musik 100% orisinal yang diproduksi oleh Onzieb tanpa sample berhak cipta ilegal. Anda dapat mendaftarkan karya lirik dan vokal Anda ke WAMI dan LMKN tanpa risiko terkena klaim hak cipta."
+    },
+    {
+      "question": "Metode pembayaran apa saja yang didukung di Indonesia?",
+      "answer": "Dalam mata uang Rupiah (IDR Rp), Anda bisa membayar instan menggunakan QRIS (kompatibel dengan GoPay, OVO, DANA, ShopeePay, LinkAja, BCA, Mandiri, BRI, BNI), Virtual Account bank nasional, kartu debit/kredit, Apple Pay, dan PayPal."
+    },
+    {
+      "question": "Kapan dan bagaimana saya menerima file audio tanpa tag suara (untagged)?",
+      "answer": "Segera setelah pembayaran Anda terverifikasi, file audio studio WAV 24-bit tanpa tag suara produser, file MP3 320kbps, dan surat kontrak lisensi resmi bertanda tangan digital dalam format PDF akan langsung dikirimkan ke alamat email Anda."
+    }
+  ]
+},
+  "id/solo-surakarta": {
+  "name": "Indonesia – Solo & Surakarta (Kota Budaya & Keroncong Hip-Hop)",
+  "flag": "🇮🇩",
+  "currency": "IDR (Rp)",
+  "currencyCode": "IDR",
+  "gateways": "QRIS, GoPay, OVO, DANA, BCA VA, Kartu Debit/Kredit",
+  "pro": "WAMI & LMKN",
+  "proFullName": "WAMI Indonesia",
+  "proGuide": "Instrumen keroncong dan gamelan tradisional bebas hak cipta.",
+  "headline": "Beat di Solo: Petikan Cuk Cak Keroncong, Fusi Gamelan & Boom Bap Santai",
+  "description": "Keanggunan budaya Solo: petikan ukulele cuk dan cak keroncong berpadu dengan ketukan boom bap santai dan bass empuk untuk puisi Jawa dan Indonesia.",
+  "popularGenres": [
+    "Keroncong Hip-Hop",
+    "Solo Boombap",
+    "Fusi Budaya Jawa"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Bisakah lagu yang saya rekam dengan beat ini dirilis ke Spotify, Apple Music, dan YouTube di Indonesia – Solo & Surakarta (Kota Budaya & Keroncong Hip-Hop)?",
+      "answer": "Ya, 100% bisa! Semua lisensi WAV dan MP3 dari Different Type of Vibe mencakup hak komersial penuh tanpa batas untuk Spotify, Apple Music, YouTube Music, TikTok, dan siaran radio di Indonesia. Anda memegang 100% hak royalti artis dan royalti rekaman master Anda."
+    },
+    {
+      "question": "Apakah beat ini aman dan legal untuk didaftarkan ke WAMI, LMKN, atau DJKI?",
+      "answer": "Sangat aman! Setiap beat adalah komposisi musik 100% orisinal yang diproduksi oleh Onzieb tanpa sample berhak cipta ilegal. Anda dapat mendaftarkan karya lirik dan vokal Anda ke WAMI dan LMKN tanpa risiko terkena klaim hak cipta."
+    },
+    {
+      "question": "Metode pembayaran apa saja yang didukung di Indonesia?",
+      "answer": "Dalam mata uang Rupiah (IDR Rp), Anda bisa membayar instan menggunakan QRIS (kompatibel dengan GoPay, OVO, DANA, ShopeePay, LinkAja, BCA, Mandiri, BRI, BNI), Virtual Account bank nasional, kartu debit/kredit, Apple Pay, dan PayPal."
+    },
+    {
+      "question": "Kapan dan bagaimana saya menerima file audio tanpa tag suara (untagged)?",
+      "answer": "Segera setelah pembayaran Anda terverifikasi, file audio studio WAV 24-bit tanpa tag suara produser, file MP3 320kbps, dan surat kontrak lisensi resmi bertanda tangan digital dalam format PDF akan langsung dikirimkan ke alamat email Anda."
+    }
+  ]
+},
+  "id/bogor-jawa-barat": {
+  "name": "Indonesia – Bogor & Kota Hujan (Chillhop Teduh & Indie Rap)",
+  "flag": "🇮🇩",
+  "currency": "IDR (Rp)",
+  "currencyCode": "IDR",
+  "gateways": "QRIS, GoPay, OVO, DANA, BCA VA, Kartu Debit/Kredit",
+  "pro": "WAMI & LMKN",
+  "proFullName": "WAMI Indonesia",
+  "proGuide": "100% orisinal dengan stems multitrack.",
+  "headline": "Beat di Bogor: Suasana Kota Hujan, Piano Teduh & Chillhop Akustik",
+  "description": "Kesejukan kota hujan: progresi piano akustik yang teduh, suara rintik hujan lo-fi, dan ketukan drum santai untuk lirik puitis penuh refleksi.",
+  "popularGenres": [
+    "Kota Hujan Chillhop",
+    "Bogor Indie Rap",
+    "Acoustic Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "Bisakah lagu yang saya rekam dengan beat ini dirilis ke Spotify, Apple Music, dan YouTube di Indonesia – Bogor & Kota Hujan (Chillhop Teduh & Indie Rap)?",
+      "answer": "Ya, 100% bisa! Semua lisensi WAV dan MP3 dari Different Type of Vibe mencakup hak komersial penuh tanpa batas untuk Spotify, Apple Music, YouTube Music, TikTok, dan siaran radio di Indonesia. Anda memegang 100% hak royalti artis dan royalti rekaman master Anda."
+    },
+    {
+      "question": "Apakah beat ini aman dan legal untuk didaftarkan ke WAMI, LMKN, atau DJKI?",
+      "answer": "Sangat aman! Setiap beat adalah komposisi musik 100% orisinal yang diproduksi oleh Onzieb tanpa sample berhak cipta ilegal. Anda dapat mendaftarkan karya lirik dan vokal Anda ke WAMI dan LMKN tanpa risiko terkena klaim hak cipta."
+    },
+    {
+      "question": "Metode pembayaran apa saja yang didukung di Indonesia?",
+      "answer": "Dalam mata uang Rupiah (IDR Rp), Anda bisa membayar instan menggunakan QRIS (kompatibel dengan GoPay, OVO, DANA, ShopeePay, LinkAja, BCA, Mandiri, BRI, BNI), Virtual Account bank nasional, kartu debit/kredit, Apple Pay, dan PayPal."
+    },
+    {
+      "question": "Kapan dan bagaimana saya menerima file audio tanpa tag suara (untagged)?",
+      "answer": "Segera setelah pembayaran Anda terverifikasi, file audio studio WAV 24-bit tanpa tag suara produser, file MP3 320kbps, dan surat kontrak lisensi resmi bertanda tangan digital dalam format PDF akan langsung dikirimkan ke alamat email Anda."
+    }
+  ]
+},
 };
