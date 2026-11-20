@@ -26780,4 +26780,469 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
     }
   ]
 },
+  "do": {
+  "name": "República Dominicana – Dembow Dominicano & Trap Barrial",
+  "flag": "🇩🇴",
+  "currency": "DOP (RD$) / USD ($)",
+  "currencyCode": "DOP",
+  "gateways": "Banreservas, Banco BHD, Banco Popular, Qik Banco Digital, Tarjetas, Apple Pay, PayPal, Stripe",
+  "pro": "SGACEDOM & ONDA",
+  "proFullName": "Sociedad General de Autores, Compositores y Editores Dominicanos de Música (SGACEDOM) & ONDA",
+  "proGuide": "100% legal ante SGACEDOM y la Oficina Nacional de Derecho de Autor (ONDA). Composiciones 100% originales sin samples no autorizados.",
+  "headline": "Comprar Beats en República Dominicana: Dembow Rápido, Trap Callejero & Bachata-Trap",
+  "description": "Instrumentales en calidad WAV 24-bit de estudio y stems multitrack para artistas dominicanos. Dembows explosivos a 120-125 BPM, trap de barrio y melodías comerciales.",
+  "popularGenres": [
+    "Dembow Dominicano",
+    "Trap Callejero",
+    "Bachata-Trap",
+    "Drill Barrial"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Santo Domingo Capotillo Hub",
+      "slug": "do/santo-domingo-capotillo",
+      "description": "La cuna mundial del Dembow y sonido wawawa."
+    },
+    {
+      "name": "Santiago de los Caballeros Hub",
+      "slug": "do/santiago-caballeros",
+      "description": "La capital del Cibao, trap melódico y R&B urbano."
+    },
+    {
+      "name": "San Cristóbal Hub",
+      "slug": "do/san-cristobal",
+      "description": "El templo del dembow acelerado de festivales."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en República Dominicana – Dembow Dominicano & Trap Barrial?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SGACEDOM y la ONDA?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Oficina Nacional de Derecho de Autor (ONDA) y afiliar tu tema a SGACEDOM con total seguridad jurídica."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en la República Dominicana?",
+      "answer": "Aceptamos pagos en Pesos Dominicanos (DOP RD$) y Dólares Estadounidenses (USD $) a través de transferencias bancarias locales (Banreservas, Banco BHD, Banco Popular Dominicano, Qik Banco Digital), tarjetas de débito/crédito nacionales e internacionales, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "do/santo-domingo-capotillo": {
+  "name": "República Dominicana – Santo Domingo (Capotillo, La 42 & El Wawawa)",
+  "flag": "🇩🇴",
+  "currency": "DOP (RD$) / USD ($)",
+  "currencyCode": "DOP",
+  "gateways": "Banreservas, Banco BHD, Banco Popular, Qik, Tarjetas, Apple Pay, PayPal",
+  "pro": "SGACEDOM & ONDA",
+  "proFullName": "SGACEDOM & ONDA República Dominicana",
+  "proGuide": "100% compatible con SGACEDOM con entrega de contrato formal en PDF.",
+  "headline": "Beats en Santo Domingo: Dembow de La 42, Wawawa Trap & Sonido Barrial",
+  "description": "El epicentro del movimiento urbano caribeño: baterías rápidas sincopadas de dembow, bajos rebotantes que estremecen los sound systems callejeros y cajas cortantes.",
+  "popularGenres": [
+    "Dembow Callejero",
+    "Wawawa Trap",
+    "La 42 Vibe"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Rochy RD Vibe",
+      "slug": "../../vibe/rochy-rd-el-alcalde-wawawa-trap",
+      "description": "Trap oscuro de barrio y dembow callejero pesado."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en República Dominicana – Santo Domingo (Capotillo, La 42 & El Wawawa)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SGACEDOM y la ONDA?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Oficina Nacional de Derecho de Autor (ONDA) y afiliar tu tema a SGACEDOM con total seguridad jurídica."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en la República Dominicana?",
+      "answer": "Aceptamos pagos en Pesos Dominicanos (DOP RD$) y Dólares Estadounidenses (USD $) a través de transferencias bancarias locales (Banreservas, Banco BHD, Banco Popular Dominicano, Qik Banco Digital), tarjetas de débito/crédito nacionales e internacionales, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "do/santiago-caballeros": {
+  "name": "República Dominicana – Santiago de los Caballeros (Cibao Urbano)",
+  "flag": "🇩🇴",
+  "currency": "DOP (RD$) / USD ($)",
+  "currencyCode": "DOP",
+  "gateways": "Banreservas, Banco BHD, Banco Popular, Qik, Tarjetas, Apple Pay, PayPal",
+  "pro": "SGACEDOM & ONDA",
+  "proFullName": "SGACEDOM & ONDA República Dominicana",
+  "proGuide": "100% libre de samples protegidos para distribución en plataformas.",
+  "headline": "Beats en Santiago de los Caballeros: Trap Melódico del Cibao, R&B & 808s",
+  "description": "La segunda capital de la música dominicana: pianos melódicos limpios, arreglos de guitarra acústica y baterías de trap elegantes para cantantes y vocalistas.",
+  "popularGenres": [
+    "Cibao Trap",
+    "R&B Dominicano",
+    "Trap Melódico"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "Amenazzy Vibe",
+      "slug": "../../vibe/amenazzy-el-nene-melodic-rnb-trap",
+      "description": "R&B trap suave con melodías románticas del Cibao."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en República Dominicana – Santiago de los Caballeros (Cibao Urbano)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SGACEDOM y la ONDA?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Oficina Nacional de Derecho de Autor (ONDA) y afiliar tu tema a SGACEDOM con total seguridad jurídica."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en la República Dominicana?",
+      "answer": "Aceptamos pagos en Pesos Dominicanos (DOP RD$) y Dólares Estadounidenses (USD $) a través de transferencias bancarias locales (Banreservas, Banco BHD, Banco Popular Dominicano, Qik Banco Digital), tarjetas de débito/crédito nacionales e internacionales, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "do/santo-domingo-este": {
+  "name": "República Dominicana – Santo Domingo Este (SDE & Sound Systems)",
+  "flag": "🇩🇴",
+  "currency": "DOP (RD$) / USD ($)",
+  "currencyCode": "DOP",
+  "gateways": "Banreservas, Banco BHD, Banco Popular, Qik, Tarjetas, Apple Pay, PayPal",
+  "pro": "SGACEDOM & ONDA",
+  "proFullName": "SGACEDOM & ONDA República Dominicana",
+  "proGuide": "100% garantizado con derechos comerciales de streaming.",
+  "headline": "Beats en Santo Domingo Este: Graves Pesados para Car Audio & Dembow",
+  "description": "El sonido pensado para sonar en los 'musicólogos' de Santo Domingo Este (Alma Rosa, Invivienda, Charles de Gaulle): sub-bajos que revientan bocinas.",
+  "popularGenres": [
+    "Car Audio Dembow",
+    "SDE Trap",
+    "Musicólogo Bass"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en República Dominicana – Santo Domingo Este (SDE & Sound Systems)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SGACEDOM y la ONDA?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Oficina Nacional de Derecho de Autor (ONDA) y afiliar tu tema a SGACEDOM con total seguridad jurídica."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en la República Dominicana?",
+      "answer": "Aceptamos pagos en Pesos Dominicanos (DOP RD$) y Dólares Estadounidenses (USD $) a través de transferencias bancarias locales (Banreservas, Banco BHD, Banco Popular Dominicano, Qik Banco Digital), tarjetas de débito/crédito nacionales e internacionales, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "do/san-cristobal": {
+  "name": "República Dominicana – San Cristóbal (Templo del Dembow Acelerado)",
+  "flag": "🇩🇴",
+  "currency": "DOP (RD$) / USD ($)",
+  "currencyCode": "DOP",
+  "gateways": "Banreservas, Banco BHD, Banco Popular, Qik, Tarjetas, Apple Pay, PayPal",
+  "pro": "SGACEDOM & ONDA",
+  "proFullName": "SGACEDOM & ONDA República Dominicana",
+  "proGuide": "Composiciones originales libres de reclamos.",
+  "headline": "Beats en San Cristóbal: Dembow a 122 BPM, Metales de Carnaval & Energía",
+  "description": "La cuna del dembow bailable masivo: metales estridentes de sintetizador, redobles rápidos de timbal electrónico y caídas demoledoras para encender discotecas.",
+  "popularGenres": [
+    "Dembow Acelerado",
+    "San Cristóbal Flow",
+    "Club Banger"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [
+    {
+      "name": "El Alfa Vibe",
+      "slug": "../../vibe/el-alfa-el-jefe-dembow-pesado",
+      "description": "Dembow frenético a 120-125 BPM con metales potentes."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en República Dominicana – San Cristóbal (Templo del Dembow Acelerado)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SGACEDOM y la ONDA?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Oficina Nacional de Derecho de Autor (ONDA) y afiliar tu tema a SGACEDOM con total seguridad jurídica."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en la República Dominicana?",
+      "answer": "Aceptamos pagos en Pesos Dominicanos (DOP RD$) y Dólares Estadounidenses (USD $) a través de transferencias bancarias locales (Banreservas, Banco BHD, Banco Popular Dominicano, Qik Banco Digital), tarjetas de débito/crédito nacionales e internacionales, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "do/la-romana-este": {
+  "name": "República Dominicana – La Romana & Casa de Campo (Urban Luxury)",
+  "flag": "🇩🇴",
+  "currency": "DOP (RD$) / USD ($)",
+  "currencyCode": "DOP",
+  "gateways": "Banreservas, Banco BHD, Banco Popular, Qik, Tarjetas, Apple Pay, PayPal",
+  "pro": "SGACEDOM & ONDA",
+  "proFullName": "SGACEDOM & ONDA República Dominicana",
+  "proGuide": "100% original con entrega de stems multitrack.",
+  "headline": "Beats en La Romana: Trap de Lujo, Reggaetón Internacional & 808s",
+  "description": "El sonido refinado de la costa este dominicana: arreglos pulidos de reggaetón moderno, sintetizadores atmosféricos y baterías diseñadas para sonar en yates y clubes de lujo.",
+  "popularGenres": [
+    "Trap de Lujo",
+    "Reggaetón Crossover",
+    "Latin Pop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en República Dominicana – La Romana & Casa de Campo (Urban Luxury)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SGACEDOM y la ONDA?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Oficina Nacional de Derecho de Autor (ONDA) y afiliar tu tema a SGACEDOM con total seguridad jurídica."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en la República Dominicana?",
+      "answer": "Aceptamos pagos en Pesos Dominicanos (DOP RD$) y Dólares Estadounidenses (USD $) a través de transferencias bancarias locales (Banreservas, Banco BHD, Banco Popular Dominicano, Qik Banco Digital), tarjetas de débito/crédito nacionales e internacionales, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "do/punta-cana-bavaro": {
+  "name": "República Dominicana – Punta Cana & Bávaro (Club Bangers & EDM-Dembow)",
+  "flag": "🇩🇴",
+  "currency": "DOP (RD$) / USD ($)",
+  "currencyCode": "DOP",
+  "gateways": "Banreservas, Banco BHD, Banco Popular, Qik, Tarjetas, Apple Pay, PayPal",
+  "pro": "SGACEDOM & ONDA",
+  "proFullName": "SGACEDOM & ONDA República Dominicana",
+  "proGuide": "Licencias comerciales ilimitadas para eventos y streaming.",
+  "headline": "Beats en Punta Cana: EDM-Dembow, Festival Banger & Energía Caribeña",
+  "description": "El punto de encuentro del turismo mundial: fusión de música electrónica con dembow caribeño, redobles de tensión y caídas masivas para encender la noche.",
+  "popularGenres": [
+    "EDM-Dembow",
+    "Club Banger",
+    "Festival Beat"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en República Dominicana – Punta Cana & Bávaro (Club Bangers & EDM-Dembow)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SGACEDOM y la ONDA?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Oficina Nacional de Derecho de Autor (ONDA) y afiliar tu tema a SGACEDOM con total seguridad jurídica."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en la República Dominicana?",
+      "answer": "Aceptamos pagos en Pesos Dominicanos (DOP RD$) y Dólares Estadounidenses (USD $) a través de transferencias bancarias locales (Banreservas, Banco BHD, Banco Popular Dominicano, Qik Banco Digital), tarjetas de débito/crédito nacionales e internacionales, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "do/puerto-plata-costa": {
+  "name": "República Dominicana – Puerto Plata & Costa Norte (Tropical Dembow)",
+  "flag": "🇩🇴",
+  "currency": "DOP (RD$) / USD ($)",
+  "currencyCode": "DOP",
+  "gateways": "Banreservas, Banco BHD, Banco Popular, Qik, Tarjetas, Apple Pay, PayPal",
+  "pro": "SGACEDOM & ONDA",
+  "proFullName": "SGACEDOM & ONDA República Dominicana",
+  "proGuide": "100% legal ante SGACEDOM con entrega inmediata.",
+  "headline": "Beats en Puerto Plata: Mambo Callejero, Brisa Tropical & Dembow Costero",
+  "description": "La vibra fresca del Atlántico norte: saxofones acelerados de mambo urbano, baterías bailables de dembow y sintetizadores luminosos para fiestas playeras.",
+  "popularGenres": [
+    "Tropical Dembow",
+    "Mambo Callejero",
+    "Costa Norte Flow"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en República Dominicana – Puerto Plata & Costa Norte (Tropical Dembow)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SGACEDOM y la ONDA?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Oficina Nacional de Derecho de Autor (ONDA) y afiliar tu tema a SGACEDOM con total seguridad jurídica."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en la República Dominicana?",
+      "answer": "Aceptamos pagos en Pesos Dominicanos (DOP RD$) y Dólares Estadounidenses (USD $) a través de transferencias bancarias locales (Banreservas, Banco BHD, Banco Popular Dominicano, Qik Banco Digital), tarjetas de débito/crédito nacionales e internacionales, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "do/san-francisco-macoris": {
+  "name": "República Dominicana – San Francisco de Macorís (SFM Capital del Cibao Oriental)",
+  "flag": "🇩🇴",
+  "currency": "DOP (RD$) / USD ($)",
+  "currencyCode": "DOP",
+  "gateways": "Banreservas, Banco BHD, Banco Popular, Qik, Tarjetas, Apple Pay, PayPal",
+  "pro": "SGACEDOM & ONDA",
+  "proFullName": "SGACEDOM & ONDA República Dominicana",
+  "proGuide": "100% compatible con agregadoras digitales globales.",
+  "headline": "Beats en San Francisco de Macorís: Trap Pesado, Sub-Bajos & Sonido Cibao",
+  "description": "La potencia económica y musical del campo a la ciudad: bajos que hacen retumbar vehículos modificados, baterías agresivas y letras de superación y fronteo.",
+  "popularGenres": [
+    "SFM Trap",
+    "Cibao Oriental Bass",
+    "Fronteo Barrial"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en República Dominicana – San Francisco de Macorís (SFM Capital del Cibao Oriental)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SGACEDOM y la ONDA?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Oficina Nacional de Derecho de Autor (ONDA) y afiliar tu tema a SGACEDOM con total seguridad jurídica."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en la República Dominicana?",
+      "answer": "Aceptamos pagos en Pesos Dominicanos (DOP RD$) y Dólares Estadounidenses (USD $) a través de transferencias bancarias locales (Banreservas, Banco BHD, Banco Popular Dominicano, Qik Banco Digital), tarjetas de débito/crédito nacionales e internacionales, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
+  "do/villa-mella-norte": {
+  "name": "República Dominicana – Villa Mella & Santo Domingo Norte (Raíz Afro-Dominicana)",
+  "flag": "🇩🇴",
+  "currency": "DOP (RD$) / USD ($)",
+  "currencyCode": "DOP",
+  "gateways": "Banreservas, Banco BHD, Banco Popular, Qik, Tarjetas, Apple Pay, PayPal",
+  "pro": "SGACEDOM & ONDA",
+  "proFullName": "SGACEDOM & ONDA República Dominicana",
+  "proGuide": "Percusiones y tambores reales libres de derechos.",
+  "headline": "Beats en Villa Mella: Congos Ancestrales, Palos & Dembow Raíz",
+  "description": "El corazón de la percusión negra dominicana: golpes ancestrales de palo y congo grabados en estudio fusionados con el golpe digital del dembow moderno.",
+  "popularGenres": [
+    "Dembow Raíz",
+    "Afro-Dominicano",
+    "Palo Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ],
+  "subClusters": [],
+  "faqs": [
+    {
+      "question": "¿Puedo distribuir canciones grabadas con estos beats en Spotify, Apple Music y YouTube en República Dominicana – Villa Mella & Santo Domingo Norte (Raíz Afro-Dominicana)?",
+      "answer": "¡Sí, al 100%! Todas las licencias WAV y MP3 de Different Type of Vibe incluyen derechos comerciales ilimitados para plataformas digitales (Spotify, Apple Music, YouTube, Deezer, TikTok) y radio. Conservas el 100% de tus regalías como autor e intérprete sin comisiones retenidas."
+    },
+    {
+      "question": "¿Los beats están libres de copyright y son seguros para registrar ante SGACEDOM y la ONDA?",
+      "answer": "¡Totalmente! Cada pista es una composición 100% original producida por Onzieb sin samples no autorizados. Puedes registrar tu obra ante la Oficina Nacional de Derecho de Autor (ONDA) y afiliar tu tema a SGACEDOM con total seguridad jurídica."
+    },
+    {
+      "question": "¿Cuáles son los métodos de pago disponibles en la República Dominicana?",
+      "answer": "Aceptamos pagos en Pesos Dominicanos (DOP RD$) y Dólares Estadounidenses (USD $) a través de transferencias bancarias locales (Banreservas, Banco BHD, Banco Popular Dominicano, Qik Banco Digital), tarjetas de débito/crédito nacionales e internacionales, Apple Pay y PayPal."
+    },
+    {
+      "question": "¿Cuándo y cómo recibo mis archivos sin etiquetas de voz (untagged)?",
+      "answer": "Inmediatamente después de confirmarse tu pago, los archivos de audio en calidad WAV 24-bit de estudio sin voz de fondo, el archivo MP3 a máxima calidad y tu contrato oficial de licencia en PDF se envían automáticamente a tu correo electrónico."
+    }
+  ]
+},
 };
