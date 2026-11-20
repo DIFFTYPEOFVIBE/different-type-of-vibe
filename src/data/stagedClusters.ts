@@ -42443,4 +42443,1696 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "5"
   ]
 },
+  {
+  "slug": "aco-jazzhop-poetic-rap-peru",
+  "name": "ACO Jazzhop Poetic Rap Peru",
+  "category": "vibe",
+  "badge": "Jazz-Hop Poético Vibe",
+  "headline": "Beats Estilo A.C.O: Guitarras Acústicas Sentidas, Pianos Rhodes & Rap Poético",
+  "description": "La máxima sofisticación del hip hop peruano: rasgueos de guitarra acústica cristalina, acordes de jazz suaves en piano Rhodes y un ritmo pausado para letras profundas de introspección.",
+  "targetArtists": [
+    "A.C.O",
+    "Dime Si Eres Tú",
+    "Algo Nuevo",
+    "Lima Jazz-Hop"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Guitarra Acústica",
+    "Piano Rhodes",
+    "Rap Poético",
+    "Jazz-Hop Peruano"
+  ],
+  "popularGenres": [
+    "Jazz Rap",
+    "Acoustic Hip-Hop",
+    "Rap Peruano"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "norick-rapper-school-classic-boombap",
+  "name": "Norick Rapper School Classic Boombap",
+  "category": "vibe",
+  "badge": "Leyenda Rapper School",
+  "headline": "Beats Estilo Norick: Bombos Analógicos Pesados, Cajas Secas & Filosofía de Calle",
+  "description": "La escuela fundamental del hip hop peruano: baterías con golpe seco inspiradas en los años 90, samples oscuros de soul y vinilos crujientes para rimas con contenido y verdad callejera.",
+  "targetArtists": [
+    "Norick",
+    "Rapper School",
+    "Warrior",
+    "Street Legends"
+  ],
+  "recommendedBpm": "86-94 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Bombo Analógico Pesado",
+    "Caja Seca",
+    "Filosofía Callejera",
+    "Vinilo 90s"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico",
+    "Rap Peruano",
+    "Hardcore Hip Hop"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "vijay-kesh-trap-callejero-limeno",
+  "name": "Vijay Kesh Trap Callejero Limeño",
+  "category": "vibe",
+  "badge": "Trap Limeño Callejero",
+  "headline": "Beats Estilo Vijay Kesh: Bajos 808 Deslizantes, Hi-Hats Rápidos & Flow Juvenil",
+  "description": "El sonido fresco de las calles de Lima: caídas de bajo 808 que estremecen los parlantes, sintetizadores agresivos y baterías de trap dinámicas para barras jóvenes y enérgicas.",
+  "targetArtists": [
+    "Vijay Kesh",
+    "Trap Limeño",
+    "Nueva Ola Peruana"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Bajo 808 Deslizante",
+    "Hi-Hats Rápidos",
+    "Trap Callejero",
+    "Flow Juvenil"
+  ],
+  "popularGenres": [
+    "Trap Peruano",
+    "Street Trap",
+    "Drill Latino"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "jota-carrizales-red-bull-battle-boombap",
+  "name": "Jota Carrizales Red Bull Battle Boombap",
+  "category": "vibe",
+  "badge": "Campeón Red Bull Vibe",
+  "headline": "Beats de Batalla Estilo Jota: Baterías Contundentes de Freestyle & Pegada Pura",
+  "description": "El ritmo de los campeones de Red Bull Batalla y FMS: bombos secos sin adornos, cajas con pegada firme y espacio amplio para clavar métricas y punchlines de competencia.",
+  "targetArtists": [
+    "Jota",
+    "Nekroos",
+    "Red Bull Perú",
+    "FMS Batallas"
+  ],
+  "recommendedBpm": "90-96 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Batería de Batalla",
+    "Pegada Firme",
+    "Freestyle de Plaza",
+    "Métrica Pura"
+  ],
+  "popularGenres": [
+    "Battle Boom Bap",
+    "Freestyle Rap",
+    "Rap de Competencia"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "faraon-love-shady-eccentric-viral-trap",
+  "name": "Faraon Love Shady Eccentric Viral Trap",
+  "category": "vibe",
+  "badge": "Viral Excéntrico Vibe",
+  "headline": "Beats Estilo Faraón Love Shady: Dembow Bailable Viral, Sintes Coloridos & 808",
+  "description": "El fenómeno de millones de vistas globales: melodías de sintetizador contagiosas, patrones de dembow saltarines y bajos potentes para himnos virales e irreverentes de internet.",
+  "targetArtists": [
+    "Faraón Love Shady",
+    "Duro 2 Horas",
+    "Viral Trap",
+    "Soy Guapo"
+  ],
+  "recommendedBpm": "100-112 BPM / 128 BPM",
+  "recommendedKey": "C-Minor / G-Minor",
+  "vibeAttributes": [
+    "Sintes Coloridos",
+    "Dembow Bailable",
+    "Viral Global",
+    "Bajo Potente"
+  ],
+  "popularGenres": [
+    "Viral Trap",
+    "Party Dembow",
+    "Pop Urbano"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "gonzalo-genek-smooth-rnb-trap-lima",
+  "name": "Gonzalo Genek Smooth RnB Trap Lima",
+  "category": "vibe",
+  "badge": "Smooth R&B Limeño",
+  "headline": "Beats Estilo Gonzalo Genek: Pianos Rhodes Cálidos, R&B Urbano & Melodías Suaves",
+  "description": "La elegancia del R&B en la costa peruana: progresiines aterciopeladas de teclado eléctrico, bajos envolventes y baterías con swing relajado para coros románticos y voces melódicas.",
+  "targetArtists": [
+    "Gonzalo Genek",
+    "Licor, Amor y Jazz",
+    "R&B Peruano"
+  ],
+  "recommendedBpm": "90-98 BPM",
+  "recommendedKey": "E-Minor / B-Minor",
+  "vibeAttributes": [
+    "Piano Rhodes",
+    "R&B Urbano",
+    "Akor Cálido",
+    "Coros Románticos"
+  ],
+  "popularGenres": [
+    "R&B Trap",
+    "Smooth Hip-Hop",
+    "Soul Limeño"
+  ],
+  "featuredBeatIds": [
+    "2",
+    "6",
+    "1"
+  ]
+},
+  {
+  "slug": "jaze-toy-cantando-melodic-hiphop",
+  "name": "Jaze Toy Cantando Melodic Hip-Hop",
+  "category": "vibe",
+  "badge": "Toy Cantando Vibe",
+  "headline": "Beats Estilo Jaze: Instrumentos Acústicos, Cadencia Libre & Hip-Hop Cantado",
+  "description": "La creatividad y versatilidad de un campeón internacional: guitarras acústicas juguetonas, pianos luminosos y baterías con groove orgánico para rap cantado y melodías libres.",
+  "targetArtists": [
+    "Jaze",
+    "Toy Cantando",
+    "Personalidad 7",
+    "FMS Internacional"
+  ],
+  "recommendedBpm": "88-96 BPM",
+  "recommendedKey": "C-Major / F-Major",
+  "vibeAttributes": [
+    "Guitarras Juguetonas",
+    "Hip-Hop Cantado",
+    "Groove Orgánico",
+    "Cadencia Libre"
+  ],
+  "popularGenres": [
+    "Melodic Hip Hop",
+    "Indie Rap",
+    "Acoustic Urban"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "terco-92-sjl-hardcore-street-rap",
+  "name": "Terco 92 SJL Hardcore Street Rap",
+  "category": "vibe",
+  "badge": "SJL Hardcore Rap",
+  "headline": "Beats Estilo Terco 92: Baterías Duras de San Juan de Lurigancho & Cajas Secas",
+  "description": "El sonido combativo del barrio más grande del país: bombos demoledores, cajas cortantes y bucles menores con tensión para barras de calle y realidad pura.",
+  "targetArtists": [
+    "Terco 92",
+    "San Juan de Lurigancho",
+    "Mendoza",
+    "Rap de Barrio"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Baterías Duras",
+    "SJL Sound",
+    "Cajas Secas",
+    "Rap Combativo"
+  ],
+  "popularGenres": [
+    "Hardcore Rap",
+    "Boom Bap de Barrio",
+    "Rap Peruano"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "chicha-trap-psicodelica-peruana",
+  "name": "Chicha Trap Psicodélica Peruana",
+  "category": "vibe",
+  "badge": "Chicha Trap Psicodélica",
+  "headline": "Beats de Chicha Trap: Guitarras Psicodélicas con Delay, Cumbia & Bajos 808",
+  "description": "La mayor riqueza musical del Perú en el trap: guitarras eléctricas con phaser y delay al estilo Los Mirlos y Chacalón fusionadas con bajos 808 demoledores.",
+  "targetArtists": [
+    "Chicha Trap",
+    "Los Mirlos Fusión",
+    "Cumbia Psicodélica",
+    "Trap Peruano"
+  ],
+  "recommendedBpm": "125-135 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Guitarra Chicha",
+    "Delay y Phaser",
+    "Cumbia Psicodélica",
+    "Bajo 808"
+  ],
+  "popularGenres": [
+    "Chicha Trap",
+    "Cumbia Fusión",
+    "Nusantara Peruana"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "andino-zampona-charango-trap-fusion",
+  "name": "Andino Zampoña Charango Trap Fusion",
+  "category": "vibe",
+  "badge": "Fusión Andina Ancestral",
+  "headline": "Beats Andinos Ancestrales: Zampoñas Reales, Charango, Quenas & Bajos 808",
+  "description": "El misticismo del Imperio Inca en el género urbano: melodías virtuosas de zampoña, rasgueos de charango y quenas sobre caídas pesadas de bajo 808.",
+  "targetArtists": [
+    "Música Andina Fusión",
+    "Trap del Cusco",
+    "Inca Sound"
+  ],
+  "recommendedBpm": "120-130 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Zampoñas Reales",
+    "Charango",
+    "Quenas Andinas",
+    "Bajo 808"
+  ],
+  "popularGenres": [
+    "Andean Trap",
+    "Folk Trap",
+    "Hip Hop Andino"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "kid-flex-bedroom-pop-trap-melodico",
+  "name": "Kid Flex Bedroom Pop Trap Melódico",
+  "category": "vibe",
+  "badge": "Bedroom Pop-Trap",
+  "headline": "Beats Estilo Kid Flex: Guitarras Acústicas Nostálgicas, Trap Sad & Melodías",
+  "description": "El sonido viral del bedroom pop y trap sentimental: arpegios suaves de guitarra acústica, bajos 808 redondos y baterías ligeras para canciones de nostalgia juvenil.",
+  "targetArtists": [
+    "Kid Flex",
+    "Seguro Te Pierdo",
+    "Sad Trap",
+    "Indie Melódico"
+  ],
+  "recommendedBpm": "115-125 BPM",
+  "recommendedKey": "G-Major / E-Minor",
+  "vibeAttributes": [
+    "Guitarras Nostálgicas",
+    "Bedroom Pop",
+    "Sad Trap",
+    "Melodías Juveniles"
+  ],
+  "popularGenres": [
+    "Bedroom Pop-Trap",
+    "Sad Rap",
+    "Indie Peruano"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "inkas-mob-trap-limeno-nocturno",
+  "name": "Inkas Mob Trap Limeño Nocturno",
+  "category": "vibe",
+  "badge": "Inkas Mob Trap",
+  "headline": "Beats Estilo Inkas Mob: Campanas Frías de Trap, Bajos 808 & Noches Limeñas",
+  "description": "Los pioneros del trap callejero en Lima: melodías gélidas de sintetizador, patrones rápidos de hi-hat y bajos 808 que retumban en la neblina limeña.",
+  "targetArtists": [
+    "Inkas Mob",
+    "Django",
+    "Trap Limeño",
+    "Lima de Noche"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Campanas Frías",
+    "Trap Limeño",
+    "Neblina de Lima",
+    "Bajo 808 Pesado"
+  ],
+  "popularGenres": [
+    "Trap Peruano",
+    "Street Trap",
+    "Underground Lima"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "comprar-beats-de-rap-peru-yape-soles",
+  "name": "Comprar Beats de Rap en Perú (Paga con Yape o Plin en Soles S/)",
+  "category": "genre",
+  "badge": "Paga con Yape & Plin",
+  "headline": "Comprar Beats de Rap en Perú: Paga al Instante con Yape o Plin en Soles (S/)",
+  "description": "La forma más fácil y rápida de comprar instrumentales en el Perú. Paga escaneando tu código QR de Yape o Plin desde tu celular sin tarjetas internacionales y descarga tus archivos WAV de 24 bits con contrato legal.",
+  "targetArtists": [
+    "Raperos Peruanos",
+    "Traperos de Lima",
+    "Freestylers"
+  ],
+  "recommendedBpm": "Todos los Tempos",
+  "recommendedKey": "Todas las Tonalidades",
+  "vibeAttributes": [
+    "Pago con Yape",
+    "Plin Inmediato",
+    "Precio en Soles",
+    "Descarga WAV"
+  ],
+  "popularGenres": [
+    "Rap Peruano",
+    "Trap Limeño",
+    "Boom Bap",
+    "Chicha Trap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6",
+    "2"
+  ]
+},
+  {
+  "slug": "pistas-de-trap-peruano-wav-stems",
+  "name": "Pistas de Trap Peruano WAV con Stems Separados",
+  "category": "genre",
+  "badge": "Trap Peruano WAV Stems",
+  "headline": "Pistas de Trap Peruano: Calidad WAV 24-bit y Canales Separados (Multitrack)",
+  "description": "Bajos 808 profundos y baterías nítidas de trap (130-136 BPM) al estilo Vijay Kesh e Inkas Mob. Incluye stems por pista para una mezcla profesional en tu estudio.",
+  "targetArtists": [
+    "Vijay Kesh Fans",
+    "Traperos de Calle",
+    "Productores de Estudio"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Stems Separados",
+    "Bajo 808 Pesado",
+    "WAV 24-bit",
+    "Trap Limeño"
+  ],
+  "popularGenres": [
+    "Trap Peruano",
+    "Street Trap",
+    "Drill Latino"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "bases-de-rap-peruano-boombap-norick-style",
+  "name": "Bases de Rap Peruano Boom Bap Clásico Estilo Norick",
+  "category": "genre",
+  "badge": "Boom Bap Peruano",
+  "headline": "Bases de Boom Bap Clásico Peruano: Baterías Analógicas de los 90 y Cajas Secas",
+  "description": "El sonido que convirtió al rap peruano en referente de lírica y contenido en toda Latinoamérica. Bombos pesados y samples polvorientos para clavar rimas reales.",
+  "targetArtists": [
+    "Norick Fans",
+    "Rapper School Fans",
+    "MCs Clásicos"
+  ],
+  "recommendedBpm": "86-94 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Batería Analógica",
+    "Samples de Soul",
+    "Filosofía Callejera",
+    "Vinilo 90s"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico",
+    "Rap Peruano",
+    "Underground"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "apdayc-derechos-de-autor-pistas-peru",
+  "name": "Pistas Seguras para Registrar ante APDAYC e INDECOPI",
+  "category": "genre",
+  "badge": "Aprobado APDAYC",
+  "headline": "Pistas 100% Seguras para Registro en APDAYC e INDECOPI: Libres de Reclamos",
+  "description": "Inscribe tus obras sin miedo ante la Dirección de Derecho de Autor de INDECOPI y la APDAYC. Producciones originales sin samples no autorizados que garantizan tus regalías.",
+  "targetArtists": [
+    "Socios APDAYC",
+    "Compositores Peruanos",
+    "Sellos Independientes"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "100% Original",
+    "APDAYC Safe",
+    "INDECOPI Registro",
+    "Contrato Legal PDF"
+  ],
+  "popularGenres": [
+    "Rap Peruano",
+    "Trap Limeño",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "2",
+    "6",
+    "5"
+  ]
+},
+  {
+  "slug": "bases-de-rap-sin-etiqueta-untagged-peru",
+  "name": "Bases de Rap Peruano Sin Etiqueta de Voz (Untagged)",
+  "category": "genre",
+  "badge": "WAV Sin Etiquetas",
+  "headline": "Bases de Rap Peruano Sin Voz de Fondo: Grabación Limpia con -6dB Headroom",
+  "description": "Pistas de audio en calidad máster de 24 bits totalmente limpias de sellos de voz. Ideales para ingresar a cabina o grabar maquetas con fidelidad profesional.",
+  "targetArtists": [
+    "Raperos de Estudio",
+    "Ingenieros de Grabación",
+    "Vocalistas"
+  ],
+  "recommendedBpm": "86-144 BPM",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Sin Etiqueta",
+    "Audio Limpio",
+    "Headroom -6dB",
+    "Máster Estudio"
+  ],
+  "popularGenres": [
+    "Rap Peruano",
+    "Trap",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1",
+    "6"
+  ]
+},
+  {
+  "slug": "licencia-comercial-spotify-peru",
+  "name": "Licencia Comercial para Spotify Perú y YouTube",
+  "category": "genre",
+  "badge": "Spotify Perú Ready",
+  "headline": "Licencia Comercial para Streaming: Lanza en Spotify Perú y Quédate con el 100%",
+  "description": "Distribuye tus sencillos en Spotify, Apple Music y YouTube a través de DistroKid, Altafonte o cualquier agregadora conservando el 100% de tus ingresos por reproducciones.",
+  "targetArtists": [
+    "Artistas Independientes",
+    "Sellos Peruanos",
+    "Distribuidoras"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "100% Regalías",
+    "Spotify Perú",
+    "Monetización YouTube",
+    "Ilimitado"
+  ],
+  "popularGenres": [
+    "Rap Peruano",
+    "Trap Limeño",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "beats-de-chicha-trap-y-cumbia-peruana",
+  "name": "Beats de Chicha Trap y Cumbia Peruana con Guitarra Psicodélica",
+  "category": "genre",
+  "badge": "Chicha Trap Psicodélica",
+  "headline": "Beats de Chicha Trap: Guitarras Psicodélicas con Phaser, Cumbia y 808s",
+  "description": "La mayor riqueza musical del Perú en el trap: guitarras eléctricas con phaser y delay al estilo Los Mirlos y Chacalón fusionadas con bajos 808 demoledores.",
+  "targetArtists": [
+    "Chicha Trap Fans",
+    "Cumbia Fusión",
+    "Kreatores Urbanos"
+  ],
+  "recommendedBpm": "125-135 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Guitarra Chicha",
+    "Delay y Phaser",
+    "Cumbia Psicodélica",
+    "Bajo 808"
+  ],
+  "popularGenres": [
+    "Chicha Trap",
+    "Cumbia Fusión",
+    "Nusantara Peruana"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "pistas-de-trap-para-grabar-con-yape-y-plin",
+  "name": "Pistas de Trap para Grabar Voz Pagando con Yape y Plin",
+  "category": "genre",
+  "badge": "Yape & Plin Trap",
+  "headline": "Pistas de Trap con Espacio Vocal: Paga al Instante con Yape o Plin desde tu Celular",
+  "description": "Bases de trap producidas con frecuencias medias ecualizadas para que tu voz se siente al frente de la canción con claridad sin competir con los sintetizadores.",
+  "targetArtists": [
+    "Traperos de Lima",
+    "Vocalistas",
+    "Compositores"
+  ],
+  "recommendedBpm": "120-138 BPM",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Espacio Vocal",
+    "Yape y Plin",
+    "Mezcla Balanceada",
+    "WAV Estudio"
+  ],
+  "popularGenres": [
+    "Trap Peruano",
+    "Street Trap",
+    "Pop Urbano"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7",
+    "6"
+  ]
+},
+  {
+  "slug": "pistas-exclusivas-para-artistas-en-peru",
+  "name": "Pistas Exclusivas para Artistas en Perú (Derechos Totales)",
+  "category": "genre",
+  "badge": "Derechos Exclusivos",
+  "headline": "Beats con Derechos Exclusivos en Perú: Propiedad Total y Retiro de Catálogo",
+  "description": "Adquiere la propiedad exclusiva del máster. La pista se retira definitivamente del catálogo de la tienda y se transfiere legalmente a tu nombre en Soles PEN con contrato.",
+  "targetArtists": [
+    "Artistas Firmados",
+    "Proyectos de Álbum",
+    "Managers"
+  ],
+  "recommendedBpm": "All BPMs",
+  "recommendedKey": "All Keys",
+  "vibeAttributes": [
+    "Derechos Exclusivos",
+    "Retiro de Tienda",
+    "Propiedad Total",
+    "Contrato Legal"
+  ],
+  "popularGenres": [
+    "Trap Peruano",
+    "Rap Peruano",
+    "R&B"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "descargar-paquete-3-beats-gratis-peru",
+  "name": "Descargar Paquete de 3 Beats Gratis para Probar Voz",
+  "category": "genre",
+  "badge": "Paquete Gratis MP3",
+  "headline": "Descarga Gratis 3 Pistas de Rap y Trap: Prueba tu Flow en Casa",
+  "description": "Descarga instantánea de 3 instrumentales en MP3 de alta fidelidad para practicar tus rimas y probar cómo suena tu voz antes de comprar tu licencia definitiva.",
+  "targetArtists": [
+    "Raperos Nuevos",
+    "Home Studio",
+    "Freestylers"
+  ],
+  "recommendedBpm": "90, 130, 135 BPM",
+  "recommendedKey": "C-Minor, F-Minor",
+  "vibeAttributes": [
+    "Descarga Gratis",
+    "3 Pistas",
+    "Prueba de Voz",
+    "Envío al Correo"
+  ],
+  "popularGenres": [
+    "Rap Peruano",
+    "Trap Limeño",
+    "Boom Bap"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "6"
+  ]
+},
+  {
+  "slug": "90-bpm-aco-jazzhop-tempo",
+  "name": "90 BPM ACO Jazzhop Tempo",
+  "category": "bpm",
+  "badge": "90 BPM Jazz-Hop Peruano",
+  "headline": "90 BPM Jazz-Hop Peruano: Guitarras Acústicas y Letras Poéticas",
+  "description": "El tempo relajado por excelencia del rap limeño sofisticado: acordes cálidos de guitarra y swing pausado.",
+  "recommendedBpm": "90 BPM",
+  "recommendedKey": "C-Major",
+  "vibeAttributes": [
+    "90 BPM",
+    "A.C.O Style",
+    "Jazz-Hop",
+    "Poético"
+  ],
+  "popularGenres": [
+    "Jazz Rap",
+    "Acoustic Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "88-bpm-norick-boombap-tempo",
+  "name": "88 BPM Norick Boombap Tempo",
+  "category": "bpm",
+  "badge": "88 BPM Boom Bap Clásico",
+  "headline": "88 BPM Boom Bap Clásico: El Golpear Analógico de Rapper School",
+  "description": "La cadencia pesada de los años 90 con bombos gruesos y cajas secas para filosofía callejera.",
+  "recommendedBpm": "88 BPM",
+  "recommendedKey": "G-Minor",
+  "vibeAttributes": [
+    "88 BPM",
+    "Rapper School",
+    "Boom Bap 90s",
+    "Filosofía"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico",
+    "Rap Peruano"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "130-bpm-trap-limeno-beats",
+  "name": "130 BPM Trap Limeño Beats",
+  "category": "bpm",
+  "badge": "130 BPM Trap Limeño",
+  "headline": "130 BPM Trap Limeño: Rebote de Hi-Hats y Bajos 808 Deslizantes",
+  "description": "El tempo clásico del trap de la capital con rebote dinámico en los hi-hats y bajos profundos.",
+  "recommendedBpm": "130 BPM",
+  "recommendedKey": "C-Minor",
+  "vibeAttributes": [
+    "130 BPM",
+    "Trap Limeño",
+    "Bajo 808",
+    "Hi-Hats"
+  ],
+  "popularGenres": [
+    "Trap Peruano",
+    "Street Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "135-bpm-vijay-kesh-trap-tempo",
+  "name": "135 BPM Vijay Kesh Trap Tempo",
+  "category": "bpm",
+  "badge": "135 BPM Trap Callejero",
+  "headline": "135 BPM Trap Callejero Rápido: Energía Imparable para Rimas Jóvenes",
+  "description": "Tempo acelerado para barras agresivas sobre la realidad de las calles de Lima y Callao.",
+  "recommendedBpm": "135 BPM",
+  "recommendedKey": "F-Minor",
+  "vibeAttributes": [
+    "135 BPM",
+    "Vijay Kesh",
+    "Trap Rápido",
+    "Callejero"
+  ],
+  "popularGenres": [
+    "Trap Peruano",
+    "Drill Latino"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "140-bpm-peru-drill-beats",
+  "name": "140 BPM Peru Drill Beats",
+  "category": "bpm",
+  "badge": "140 BPM Drill Peruano",
+  "headline": "140 BPM Drill Peruano: Cajas Sincopadas y Bajos 808 que Barrieron",
+  "description": "El tempo de oro del drill con patrones sincopados de caja y deslizamientos de sub-bajo continuo.",
+  "recommendedBpm": "140 BPM",
+  "recommendedKey": "D-Minor",
+  "vibeAttributes": [
+    "140 BPM",
+    "Drill Peruano",
+    "Bajo Meluncur",
+    "Snare Gesit"
+  ],
+  "popularGenres": [
+    "Drill Latino",
+    "Street Sound"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "1"
+  ]
+},
+  {
+  "slug": "c-minor-trap-peruano-beats",
+  "name": "C-Minor Trap Peruano Beats",
+  "category": "key",
+  "badge": "C-Minor Trap",
+  "headline": "Beats de Trap en C-Minor: Máxima Resonancia y Bajos 808 Pesados",
+  "description": "La tonalidad por excelencia del trap limeño. Graves contundentes y atmósfera oscura.",
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "C-Minor",
+  "vibeAttributes": [
+    "C-Minor",
+    "Bajo 808",
+    "Oscuridad",
+    "Clásico Trap"
+  ],
+  "popularGenres": [
+    "Trap Peruano",
+    "Trap Limeño"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "f-minor-lima-nocturna-trap",
+  "name": "F-Minor Lima Nocturna Trap",
+  "category": "key",
+  "badge": "F-Minor Lima Nocturna",
+  "headline": "Beats en F-Minor: Neblina de Lima, Cuerdas Menores & Noches Frías",
+  "description": "Tensión dramática y atmósfera de neblina limeña para canciones de vivencia nocturna.",
+  "recommendedBpm": "125-135 BPM",
+  "recommendedKey": "F-Minor",
+  "vibeAttributes": [
+    "F-Minor",
+    "Neblina de Lima",
+    "Cuerdas Menores",
+    "Nocturno"
+  ],
+  "popularGenres": [
+    "Trap Peruano",
+    "Street Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "a-minor-aco-acoustic-rap",
+  "name": "A-Minor ACO Acoustic Rap",
+  "category": "key",
+  "badge": "A-Minor Acústico Poético",
+  "headline": "Beats en A-Minor: Guitarras Acústicas y Poesía de Barrio",
+  "description": "Tono abierto y natural para arpegios de guitarra acústica y rimas profundas cargadas de sentimiento.",
+  "recommendedBpm": "88-96 BPM",
+  "recommendedKey": "A-Minor",
+  "vibeAttributes": [
+    "A-Minor",
+    "Guitarras Acústicas",
+    "Poesía",
+    "Sentimiento"
+  ],
+  "popularGenres": [
+    "Jazz Rap",
+    "Acoustic Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "d-minor-chicha-trap-peruana",
+  "name": "D-Minor Chicha Trap Peruana",
+  "category": "key",
+  "badge": "D-Minor Chicha Trap",
+  "headline": "Beats en D-Minor: Guitarras Chicha con Delay & Bajos de Cumbia",
+  "description": "La tonalidad predilecta de la cumbia psicodélica y el sonido tradicional del cerro limeño.",
+  "recommendedBpm": "125-135 BPM",
+  "recommendedKey": "D-Minor",
+  "vibeAttributes": [
+    "D-Minor",
+    "Chicha Trap",
+    "Guitarras con Delay",
+    "Cumbia"
+  ],
+  "popularGenres": [
+    "Chicha Trap",
+    "Cumbia Fusión"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "g-minor-rapper-school-boombap",
+  "name": "G-Minor Rapper School Boombap",
+  "category": "key",
+  "badge": "G-Minor Boom Bap Clásico",
+  "headline": "Beats en G-Minor Estilo Rapper School: Samples de Soul y Bombos Analógicos",
+  "description": "Tonalidad que brinda gran definición en los bombos analógicos y cortes de vinilo de los 90.",
+  "recommendedBpm": "86-94 BPM",
+  "recommendedKey": "G-Minor",
+  "vibeAttributes": [
+    "G-Minor",
+    "Rapper School",
+    "Bombo Analógico",
+    "Soul Loops"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico",
+    "Rap Peruano"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "lima-metropolitana-trap-limeno-beats",
+  "name": "Lima & Callao Trap Limeño Beats",
+  "category": "scene",
+  "badge": "Lima & Callao Trap Limeño",
+  "headline": "Lima & Callao (Costa Central) Trap Limeño Beats: Pistas WAV & Yape / Plin",
+  "description": "Bajos 808 profundos, hi-hats rápidos y calidad WAV 24-bit de estudio para artistas de Lima & Callao.",
+  "targetArtists": [
+    "Artistas de Lima & Callao",
+    "Rap Peruano Scene",
+    "Música Urbana Perú"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Lima & Callao",
+    "Trap Limeño",
+    "Yape & Plin",
+    "Aprobado APDAYC"
+  ],
+  "popularGenres": [
+    "Trap Limeño Beats",
+    "Rap Peruano",
+    "Trap Limeño"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "lima-metropolitana-boombap-peruano-clasico",
+  "name": "Lima & Callao Boom Bap Peruano Clásico",
+  "category": "scene",
+  "badge": "Lima & Callao Boom Bap Clásico",
+  "headline": "Lima & Callao (Costa Central) Boom Bap Peruano Clásico: Pistas WAV & Yape / Plin",
+  "description": "Baterías pesadas de los 90, samples de soul y filosofía de calle inspirada en Lima & Callao.",
+  "targetArtists": [
+    "Artistas de Lima & Callao",
+    "Rap Peruano Scene",
+    "Música Urbana Perú"
+  ],
+  "recommendedBpm": "86-94 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Lima & Callao",
+    "Boom Bap Clásico",
+    "Yape & Plin",
+    "Aprobado APDAYC"
+  ],
+  "popularGenres": [
+    "Boom Bap Peruano Clásico",
+    "Rap Peruano",
+    "Trap Limeño"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "lima-metropolitana-chicha-trap-fusion",
+  "name": "Lima & Callao Chicha Trap Fusión",
+  "category": "scene",
+  "badge": "Lima & Callao Chicha Trap",
+  "headline": "Lima & Callao (Costa Central) Chicha Trap Fusión: Pistas WAV & Yape / Plin",
+  "description": "Guitarras psicodélicas con phaser, timbales de cumbia y bajos 808 para creadores de Lima & Callao.",
+  "targetArtists": [
+    "Artistas de Lima & Callao",
+    "Rap Peruano Scene",
+    "Música Urbana Perú"
+  ],
+  "recommendedBpm": "125-135 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Lima & Callao",
+    "Chicha Trap",
+    "Yape & Plin",
+    "Aprobado APDAYC"
+  ],
+  "popularGenres": [
+    "Chicha Trap Fusión",
+    "Rap Peruano",
+    "Trap Limeño"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "lima-metropolitana-melodic-rnb-trap",
+  "name": "Lima & Callao Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Lima & Callao R&B Peruano",
+  "headline": "Lima & Callao (Costa Central) Melodic R&B Trap: Pistas WAV & Yape / Plin",
+  "description": "Pianos Rhodes cálidos, guitarras acústicas y baterías suaves para vocalistas de Lima & Callao.",
+  "targetArtists": [
+    "Artistas de Lima & Callao",
+    "Rap Peruano Scene",
+    "Música Urbana Perú"
+  ],
+  "recommendedBpm": "90-98 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Lima & Callao",
+    "R&B Peruano",
+    "Yape & Plin",
+    "Aprobado APDAYC"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "Rap Peruano",
+    "Trap Limeño"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "san-juan-de-lurigancho-trap-limeno-beats",
+  "name": "San Juan de Lurigancho Trap Limeño Beats",
+  "category": "scene",
+  "badge": "San Juan de Lurigancho Trap Limeño",
+  "headline": "San Juan de Lurigancho (SJL) Trap Limeño Beats: Pistas WAV & Yape / Plin",
+  "description": "Bajos 808 profundos, hi-hats rápidos y calidad WAV 24-bit de estudio para artistas de San Juan de Lurigancho.",
+  "targetArtists": [
+    "Artistas de San Juan de Lurigancho",
+    "Rap Peruano Scene",
+    "Música Urbana Perú"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "San Juan de Lurigancho",
+    "Trap Limeño",
+    "Yape & Plin",
+    "Aprobado APDAYC"
+  ],
+  "popularGenres": [
+    "Trap Limeño Beats",
+    "Rap Peruano",
+    "Trap Limeño"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "san-juan-de-lurigancho-boombap-peruano-clasico",
+  "name": "San Juan de Lurigancho Boom Bap Peruano Clásico",
+  "category": "scene",
+  "badge": "San Juan de Lurigancho Boom Bap Clásico",
+  "headline": "San Juan de Lurigancho (SJL) Boom Bap Peruano Clásico: Pistas WAV & Yape / Plin",
+  "description": "Baterías pesadas de los 90, samples de soul y filosofía de calle inspirada en San Juan de Lurigancho.",
+  "targetArtists": [
+    "Artistas de San Juan de Lurigancho",
+    "Rap Peruano Scene",
+    "Música Urbana Perú"
+  ],
+  "recommendedBpm": "86-94 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "San Juan de Lurigancho",
+    "Boom Bap Clásico",
+    "Yape & Plin",
+    "Aprobado APDAYC"
+  ],
+  "popularGenres": [
+    "Boom Bap Peruano Clásico",
+    "Rap Peruano",
+    "Trap Limeño"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "san-juan-de-lurigancho-chicha-trap-fusion",
+  "name": "San Juan de Lurigancho Chicha Trap Fusión",
+  "category": "scene",
+  "badge": "San Juan de Lurigancho Chicha Trap",
+  "headline": "San Juan de Lurigancho (SJL) Chicha Trap Fusión: Pistas WAV & Yape / Plin",
+  "description": "Guitarras psicodélicas con phaser, timbales de cumbia y bajos 808 para creadores de San Juan de Lurigancho.",
+  "targetArtists": [
+    "Artistas de San Juan de Lurigancho",
+    "Rap Peruano Scene",
+    "Música Urbana Perú"
+  ],
+  "recommendedBpm": "125-135 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "San Juan de Lurigancho",
+    "Chicha Trap",
+    "Yape & Plin",
+    "Aprobado APDAYC"
+  ],
+  "popularGenres": [
+    "Chicha Trap Fusión",
+    "Rap Peruano",
+    "Trap Limeño"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "san-juan-de-lurigancho-melodic-rnb-trap",
+  "name": "San Juan de Lurigancho Melodic R&B Trap",
+  "category": "scene",
+  "badge": "San Juan de Lurigancho R&B Peruano",
+  "headline": "San Juan de Lurigancho (SJL) Melodic R&B Trap: Pistas WAV & Yape / Plin",
+  "description": "Pianos Rhodes cálidos, guitarras acústicas y baterías suaves para vocalistas de San Juan de Lurigancho.",
+  "targetArtists": [
+    "Artistas de San Juan de Lurigancho",
+    "Rap Peruano Scene",
+    "Música Urbana Perú"
+  ],
+  "recommendedBpm": "90-98 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "San Juan de Lurigancho",
+    "R&B Peruano",
+    "Yape & Plin",
+    "Aprobado APDAYC"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "Rap Peruano",
+    "Trap Limeño"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "arequipa-trap-limeno-beats",
+  "name": "Arequipa Trap Limeño Beats",
+  "category": "scene",
+  "badge": "Arequipa Trap Limeño",
+  "headline": "Arequipa (Ciudad Blanca) Trap Limeño Beats: Pistas WAV & Yape / Plin",
+  "description": "Bajos 808 profundos, hi-hats rápidos y calidad WAV 24-bit de estudio para artistas de Arequipa.",
+  "targetArtists": [
+    "Artistas de Arequipa",
+    "Rap Peruano Scene",
+    "Música Urbana Perú"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Arequipa",
+    "Trap Limeño",
+    "Yape & Plin",
+    "Aprobado APDAYC"
+  ],
+  "popularGenres": [
+    "Trap Limeño Beats",
+    "Rap Peruano",
+    "Trap Limeño"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "arequipa-boombap-peruano-clasico",
+  "name": "Arequipa Boom Bap Peruano Clásico",
+  "category": "scene",
+  "badge": "Arequipa Boom Bap Clásico",
+  "headline": "Arequipa (Ciudad Blanca) Boom Bap Peruano Clásico: Pistas WAV & Yape / Plin",
+  "description": "Baterías pesadas de los 90, samples de soul y filosofía de calle inspirada en Arequipa.",
+  "targetArtists": [
+    "Artistas de Arequipa",
+    "Rap Peruano Scene",
+    "Música Urbana Perú"
+  ],
+  "recommendedBpm": "86-94 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Arequipa",
+    "Boom Bap Clásico",
+    "Yape & Plin",
+    "Aprobado APDAYC"
+  ],
+  "popularGenres": [
+    "Boom Bap Peruano Clásico",
+    "Rap Peruano",
+    "Trap Limeño"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "arequipa-chicha-trap-fusion",
+  "name": "Arequipa Chicha Trap Fusión",
+  "category": "scene",
+  "badge": "Arequipa Chicha Trap",
+  "headline": "Arequipa (Ciudad Blanca) Chicha Trap Fusión: Pistas WAV & Yape / Plin",
+  "description": "Guitarras psicodélicas con phaser, timbales de cumbia y bajos 808 para creadores de Arequipa.",
+  "targetArtists": [
+    "Artistas de Arequipa",
+    "Rap Peruano Scene",
+    "Música Urbana Perú"
+  ],
+  "recommendedBpm": "125-135 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Arequipa",
+    "Chicha Trap",
+    "Yape & Plin",
+    "Aprobado APDAYC"
+  ],
+  "popularGenres": [
+    "Chicha Trap Fusión",
+    "Rap Peruano",
+    "Trap Limeño"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "arequipa-melodic-rnb-trap",
+  "name": "Arequipa Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Arequipa R&B Peruano",
+  "headline": "Arequipa (Ciudad Blanca) Melodic R&B Trap: Pistas WAV & Yape / Plin",
+  "description": "Pianos Rhodes cálidos, guitarras acústicas y baterías suaves para vocalistas de Arequipa.",
+  "targetArtists": [
+    "Artistas de Arequipa",
+    "Rap Peruano Scene",
+    "Música Urbana Perú"
+  ],
+  "recommendedBpm": "90-98 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Arequipa",
+    "R&B Peruano",
+    "Yape & Plin",
+    "Aprobado APDAYC"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "Rap Peruano",
+    "Trap Limeño"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "trujillo-la-libertad-trap-limeno-beats",
+  "name": "Trujillo Trap Limeño Beats",
+  "category": "scene",
+  "badge": "Trujillo Trap Limeño",
+  "headline": "Trujillo (Costa Norte) Trap Limeño Beats: Pistas WAV & Yape / Plin",
+  "description": "Bajos 808 profundos, hi-hats rápidos y calidad WAV 24-bit de estudio para artistas de Trujillo.",
+  "targetArtists": [
+    "Artistas de Trujillo",
+    "Rap Peruano Scene",
+    "Música Urbana Perú"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Trujillo",
+    "Trap Limeño",
+    "Yape & Plin",
+    "Aprobado APDAYC"
+  ],
+  "popularGenres": [
+    "Trap Limeño Beats",
+    "Rap Peruano",
+    "Trap Limeño"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "trujillo-la-libertad-boombap-peruano-clasico",
+  "name": "Trujillo Boom Bap Peruano Clásico",
+  "category": "scene",
+  "badge": "Trujillo Boom Bap Clásico",
+  "headline": "Trujillo (Costa Norte) Boom Bap Peruano Clásico: Pistas WAV & Yape / Plin",
+  "description": "Baterías pesadas de los 90, samples de soul y filosofía de calle inspirada en Trujillo.",
+  "targetArtists": [
+    "Artistas de Trujillo",
+    "Rap Peruano Scene",
+    "Música Urbana Perú"
+  ],
+  "recommendedBpm": "86-94 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Trujillo",
+    "Boom Bap Clásico",
+    "Yape & Plin",
+    "Aprobado APDAYC"
+  ],
+  "popularGenres": [
+    "Boom Bap Peruano Clásico",
+    "Rap Peruano",
+    "Trap Limeño"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "trujillo-la-libertad-chicha-trap-fusion",
+  "name": "Trujillo Chicha Trap Fusión",
+  "category": "scene",
+  "badge": "Trujillo Chicha Trap",
+  "headline": "Trujillo (Costa Norte) Chicha Trap Fusión: Pistas WAV & Yape / Plin",
+  "description": "Guitarras psicodélicas con phaser, timbales de cumbia y bajos 808 para creadores de Trujillo.",
+  "targetArtists": [
+    "Artistas de Trujillo",
+    "Rap Peruano Scene",
+    "Música Urbana Perú"
+  ],
+  "recommendedBpm": "125-135 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Trujillo",
+    "Chicha Trap",
+    "Yape & Plin",
+    "Aprobado APDAYC"
+  ],
+  "popularGenres": [
+    "Chicha Trap Fusión",
+    "Rap Peruano",
+    "Trap Limeño"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "trujillo-la-libertad-melodic-rnb-trap",
+  "name": "Trujillo Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Trujillo R&B Peruano",
+  "headline": "Trujillo (Costa Norte) Melodic R&B Trap: Pistas WAV & Yape / Plin",
+  "description": "Pianos Rhodes cálidos, guitarras acústicas y baterías suaves para vocalistas de Trujillo.",
+  "targetArtists": [
+    "Artistas de Trujillo",
+    "Rap Peruano Scene",
+    "Música Urbana Perú"
+  ],
+  "recommendedBpm": "90-98 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Trujillo",
+    "R&B Peruano",
+    "Yape & Plin",
+    "Aprobado APDAYC"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "Rap Peruano",
+    "Trap Limeño"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "cusco-ombligo-del-mundo-trap-limeno-beats",
+  "name": "Cusco Trap Limeño Beats",
+  "category": "scene",
+  "badge": "Cusco Trap Limeño",
+  "headline": "Cusco (Valle Sagrado) Trap Limeño Beats: Pistas WAV & Yape / Plin",
+  "description": "Bajos 808 profundos, hi-hats rápidos y calidad WAV 24-bit de estudio para artistas de Cusco.",
+  "targetArtists": [
+    "Artistas de Cusco",
+    "Rap Peruano Scene",
+    "Música Urbana Perú"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Cusco",
+    "Trap Limeño",
+    "Yape & Plin",
+    "Aprobado APDAYC"
+  ],
+  "popularGenres": [
+    "Trap Limeño Beats",
+    "Rap Peruano",
+    "Trap Limeño"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "cusco-ombligo-del-mundo-boombap-peruano-clasico",
+  "name": "Cusco Boom Bap Peruano Clásico",
+  "category": "scene",
+  "badge": "Cusco Boom Bap Clásico",
+  "headline": "Cusco (Valle Sagrado) Boom Bap Peruano Clásico: Pistas WAV & Yape / Plin",
+  "description": "Baterías pesadas de los 90, samples de soul y filosofía de calle inspirada en Cusco.",
+  "targetArtists": [
+    "Artistas de Cusco",
+    "Rap Peruano Scene",
+    "Música Urbana Perú"
+  ],
+  "recommendedBpm": "86-94 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Cusco",
+    "Boom Bap Clásico",
+    "Yape & Plin",
+    "Aprobado APDAYC"
+  ],
+  "popularGenres": [
+    "Boom Bap Peruano Clásico",
+    "Rap Peruano",
+    "Trap Limeño"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "cusco-ombligo-del-mundo-chicha-trap-fusion",
+  "name": "Cusco Chicha Trap Fusión",
+  "category": "scene",
+  "badge": "Cusco Chicha Trap",
+  "headline": "Cusco (Valle Sagrado) Chicha Trap Fusión: Pistas WAV & Yape / Plin",
+  "description": "Guitarras psicodélicas con phaser, timbales de cumbia y bajos 808 para creadores de Cusco.",
+  "targetArtists": [
+    "Artistas de Cusco",
+    "Rap Peruano Scene",
+    "Música Urbana Perú"
+  ],
+  "recommendedBpm": "125-135 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Cusco",
+    "Chicha Trap",
+    "Yape & Plin",
+    "Aprobado APDAYC"
+  ],
+  "popularGenres": [
+    "Chicha Trap Fusión",
+    "Rap Peruano",
+    "Trap Limeño"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "cusco-ombligo-del-mundo-melodic-rnb-trap",
+  "name": "Cusco Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Cusco R&B Peruano",
+  "headline": "Cusco (Valle Sagrado) Melodic R&B Trap: Pistas WAV & Yape / Plin",
+  "description": "Pianos Rhodes cálidos, guitarras acústicas y baterías suaves para vocalistas de Cusco.",
+  "targetArtists": [
+    "Artistas de Cusco",
+    "Rap Peruano Scene",
+    "Música Urbana Perú"
+  ],
+  "recommendedBpm": "90-98 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Cusco",
+    "R&B Peruano",
+    "Yape & Plin",
+    "Aprobado APDAYC"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "Rap Peruano",
+    "Trap Limeño"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "piura-costa-norte-trap-limeno-beats",
+  "name": "Piura Trap Limeño Beats",
+  "category": "scene",
+  "badge": "Piura Trap Limeño",
+  "headline": "Piura (Norte Caliente) Trap Limeño Beats: Pistas WAV & Yape / Plin",
+  "description": "Bajos 808 profundos, hi-hats rápidos y calidad WAV 24-bit de estudio para artistas de Piura.",
+  "targetArtists": [
+    "Artistas de Piura",
+    "Rap Peruano Scene",
+    "Música Urbana Perú"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C-Minor / F-Minor",
+  "vibeAttributes": [
+    "Piura",
+    "Trap Limeño",
+    "Yape & Plin",
+    "Aprobado APDAYC"
+  ],
+  "popularGenres": [
+    "Trap Limeño Beats",
+    "Rap Peruano",
+    "Trap Limeño"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "piura-costa-norte-boombap-peruano-clasico",
+  "name": "Piura Boom Bap Peruano Clásico",
+  "category": "scene",
+  "badge": "Piura Boom Bap Clásico",
+  "headline": "Piura (Norte Caliente) Boom Bap Peruano Clásico: Pistas WAV & Yape / Plin",
+  "description": "Baterías pesadas de los 90, samples de soul y filosofía de calle inspirada en Piura.",
+  "targetArtists": [
+    "Artistas de Piura",
+    "Rap Peruano Scene",
+    "Música Urbana Perú"
+  ],
+  "recommendedBpm": "86-94 BPM",
+  "recommendedKey": "G-Minor / C-Minor",
+  "vibeAttributes": [
+    "Piura",
+    "Boom Bap Clásico",
+    "Yape & Plin",
+    "Aprobado APDAYC"
+  ],
+  "popularGenres": [
+    "Boom Bap Peruano Clásico",
+    "Rap Peruano",
+    "Trap Limeño"
+  ],
+  "featuredBeatIds": [
+    "1",
+    "5",
+    "7"
+  ]
+},
+  {
+  "slug": "piura-costa-norte-chicha-trap-fusion",
+  "name": "Piura Chicha Trap Fusión",
+  "category": "scene",
+  "badge": "Piura Chicha Trap",
+  "headline": "Piura (Norte Caliente) Chicha Trap Fusión: Pistas WAV & Yape / Plin",
+  "description": "Guitarras psicodélicas con phaser, timbales de cumbia y bajos 808 para creadores de Piura.",
+  "targetArtists": [
+    "Artistas de Piura",
+    "Rap Peruano Scene",
+    "Música Urbana Perú"
+  ],
+  "recommendedBpm": "125-135 BPM",
+  "recommendedKey": "D-Minor / A-Minor",
+  "vibeAttributes": [
+    "Piura",
+    "Chicha Trap",
+    "Yape & Plin",
+    "Aprobado APDAYC"
+  ],
+  "popularGenres": [
+    "Chicha Trap Fusión",
+    "Rap Peruano",
+    "Trap Limeño"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "1",
+    "5"
+  ]
+},
+  {
+  "slug": "piura-costa-norte-melodic-rnb-trap",
+  "name": "Piura Melodic R&B Trap",
+  "category": "scene",
+  "badge": "Piura R&B Peruano",
+  "headline": "Piura (Norte Caliente) Melodic R&B Trap: Pistas WAV & Yape / Plin",
+  "description": "Pianos Rhodes cálidos, guitarras acústicas y baterías suaves para vocalistas de Piura.",
+  "targetArtists": [
+    "Artistas de Piura",
+    "Rap Peruano Scene",
+    "Música Urbana Perú"
+  ],
+  "recommendedBpm": "90-98 BPM",
+  "recommendedKey": "C-Major / G-Major",
+  "vibeAttributes": [
+    "Piura",
+    "R&B Peruano",
+    "Yape & Plin",
+    "Aprobado APDAYC"
+  ],
+  "popularGenres": [
+    "Melodic R&B Trap",
+    "Rap Peruano",
+    "Trap Limeño"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
 ];
