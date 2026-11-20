@@ -33852,4 +33852,216 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "gt": {
+  "slug": "gt",
+  "name": "Guatemala – Hub Nacional (Trap 502, R&B Chapín & Marimba Fusión)",
+  "flag": "🇬🇹",
+  "currency": "GTQ (Q) / USD ($)",
+  "currencyCode": "GTQ",
+  "gateways": "Transfer Móvil BI (Banco Industrial), Fri, Bam, Banrural, Tarjetas, Apple Pay, PayPal",
+  "pro": "AEI Guatemala (Asociación de Autores y Compositores)",
+  "proFullName": "AEI Guatemala & Registro de la Propiedad Intelectual",
+  "proGuide": "100% legal ante AEI con contrato en PDF descargable.",
+  "headline": "Beats en Guatemala: Trap 502, R&B Chapín & Pago con BI Transfer Móvil",
+  "description": "El catálogo líder de instrumentales urbanas para artistas de toda Guatemala. Licencias comerciales en Quetzales (Q) y Dólares con entrega instantánea de WAV 24-bit y pistas separadas multitrack.",
+  "popularGenres": [
+    "Trap 502",
+    "R&B Chapín",
+    "Marimba Fusión",
+    "Boom Bap 502"
+  ],
+  "subClusters": [
+    {
+      "name": "Jesse Baez Melodic Vibe",
+      "slug": "../../vibe/jesse-baez-melodic-rnb-trap-502",
+      "description": "R&B melódico sofisticado con 808s cálidos y guitarras nostálgicas."
+    },
+    {
+      "name": "Marimba Maya Trap",
+      "slug": "../../vibe/marimba-maya-chapina-trap-fusion",
+      "description": "Maderas tradicionales de marimba maya combinadas con bajos 808 demoledores."
+    },
+    {
+      "name": "Trap Chapín 502",
+      "slug": "../../genre/bases-de-trap-chapin-502-con-bajos-808",
+      "description": "Bases de trap callejero con campanas oscuras y 808s listos para barras."
+    },
+    {
+      "name": "Pago con BI Transfer Móvil",
+      "slug": "../../genre/comprar-beats-en-guatemala-bi-transfer-movil",
+      "description": "Compra segura en Quetzales usando Banco Industrial y Fri."
+    }
+  ]
+},
+  "gt/ciudad-de-guatemala-capital": {
+  "slug": "gt/ciudad-de-guatemala-capital",
+  "name": "Guatemala – Ciudad de Guatemala (Zona 1, Zona 4 & Estudios Capitalinos)",
+  "flag": "🇬🇹",
+  "currency": "GTQ (Q) / USD ($)",
+  "currencyCode": "GTQ",
+  "gateways": "BI Transfer Móvil, Fri, Bam, Tarjetas, Apple Pay, PayPal",
+  "pro": "AEI Guatemala & RPI",
+  "proFullName": "AEI Guatemala",
+  "proGuide": "100% compatible con distribución en Spotify y YouTube.",
+  "headline": "Beats en Ciudad de Guatemala: R&B de Cuatro Grados Norte, Trap & Boom Bap",
+  "description": "El epicentro creativo de Centroamérica: desde los sonidos indie y R&B de Zona 4 hasta el rap callejero de Zona 1 y los estudios de élite en Zona 10 y 14.",
+  "popularGenres": [
+    "Capital R&B",
+    "Zona 4 Indie Trap",
+    "Urban 502"
+  ],
+  "subClusters": []
+},
+  "gt/mixco-san-cristobal": {
+  "slug": "gt/mixco-san-cristobal",
+  "name": "Guatemala – Mixco & San Cristóbal (Cuna del Trap Callejero 502)",
+  "flag": "🇬🇹",
+  "currency": "GTQ (Q) / USD ($)",
+  "currencyCode": "GTQ",
+  "gateways": "BI Transfer Móvil, Fri, Banrural, Tarjetas, Apple Pay, PayPal",
+  "pro": "AEI Guatemala",
+  "proFullName": "AEI Guatemala",
+  "proGuide": "100% original con entrega de stems multitrack.",
+  "headline": "Beats en Mixco: Trap Pesado, Vivencia Callejera & Hi-Hats Rápidos",
+  "description": "La fuerza de la juventud urbana de Mixco y Ciudad San Cristóbal: bajos profundos, melodías oscuras y baterías apretadas para narrar la realidad del asfalto.",
+  "popularGenres": [
+    "Mixco Street Trap",
+    "San Cristóbal Drill",
+    "Barrio 502"
+  ],
+  "subClusters": []
+},
+  "gt/villa-nueva-sur": {
+  "slug": "gt/villa-nueva-sur",
+  "name": "Guatemala – Villa Nueva & San Miguel Petapa (Fuerza Urbana del Sur)",
+  "flag": "🇬🇹",
+  "currency": "GTQ (Q) / USD ($)",
+  "currencyCode": "GTQ",
+  "gateways": "BI Transfer Móvil, Fri, Banrural, Tarjetas, Apple Pay, PayPal",
+  "pro": "AEI Guatemala",
+  "proFullName": "AEI Guatemala",
+  "proGuide": "100% libre de reclamos de copyright.",
+  "headline": "Beats en Villa Nueva: Hip-Hop Hardcore, Bombos Pesados & Barras Crudas",
+  "description": "El motor industrial y metropolitano del sur: instrumentales con cajas secas, muestras oscuras y líneas de bajo contundentes para el rap con garra y superación.",
+  "popularGenres": [
+    "Villa Nueva Underground",
+    "South Metro Rap",
+    "Hardcore 502"
+  ],
+  "subClusters": []
+},
+  "gt/quetzaltenango-xela": {
+  "slug": "gt/quetzaltenango-xela",
+  "name": "Guatemala – Quetzaltenango / Xela (Capital Cultural de Los Altos)",
+  "flag": "🇬🇹",
+  "currency": "GTQ (Q) / USD ($)",
+  "currencyCode": "GTQ",
+  "gateways": "BI Transfer Móvil, Fri, Bam, Banrural, Tarjetas, Apple Pay, PayPal",
+  "pro": "AEI Guatemala",
+  "proFullName": "AEI Guatemala",
+  "proGuide": "100% garantizado con derechos comerciales de streaming.",
+  "headline": "Beats en Xela: Luna de Xelajú, Hip-Hop Consciente & Marimba Trap",
+  "description": "La atmósfera bohemia y fría de los altos de Quetzaltenango: melodías nostálgicas de marimba y piano, baterías lofi y hip-hop lírico con mensaje poético.",
+  "popularGenres": [
+    "Xela Conscious Rap",
+    "Marimba Trap Los Altos",
+    "Cold Mountain Lofi"
+  ],
+  "subClusters": []
+},
+  "gt/antigua-guatemala-sacatepequez": {
+  "slug": "gt/antigua-guatemala-sacatepequez",
+  "name": "Guatemala – Antigua Guatemala (Ciudad Colonial & Guitarra Española)",
+  "flag": "🇬🇹",
+  "currency": "GTQ (Q) / USD ($)",
+  "currencyCode": "GTQ",
+  "gateways": "BI Transfer Móvil, Fri, Bam, Tarjetas, Apple Pay, PayPal",
+  "pro": "AEI Guatemala",
+  "proFullName": "AEI Guatemala",
+  "proGuide": "100% legal ante AEI con contrato en PDF.",
+  "headline": "Beats en Antigua Guatemala: Guitarras Españolas, Calle Empedrada & R&B",
+  "description": "La magia colonial y cosmopolita de Sacatepéquez: arpegios clásicos de guitarra flamenca y acústica, percusión elegante de dembow y texturas orgánicas para canciones atemporales.",
+  "popularGenres": [
+    "Antigua Acoustic Trap",
+    "Colonial R&B",
+    "Spanish Guitar Beat"
+  ],
+  "subClusters": []
+},
+  "gt/puerto-barrios-izabal": {
+  "slug": "gt/puerto-barrios-izabal",
+  "name": "Guatemala – Puerto Barrios & Livingston (Caribe Chapín & Ritmo Garífuna)",
+  "flag": "🇬🇹",
+  "currency": "GTQ (Q) / USD ($)",
+  "currencyCode": "GTQ",
+  "gateways": "BI Transfer Móvil, Fri, Banrural, Tarjetas, Apple Pay, PayPal",
+  "pro": "AEI Guatemala",
+  "proFullName": "AEI Guatemala",
+  "proGuide": "100% original con entrega de stems multitrack.",
+  "headline": "Beats en Puerto Barrios: Tambores Garífunas, Punta-Trap & Dancehall",
+  "description": "El calor del Caribe guatemalteco: tambores garífunas auténticos (primera y segunda), bajos profundos de dancehall y ritmos punta fusionados con trap moderno.",
+  "popularGenres": [
+    "Garífuna Trap",
+    "Caribe Chapín Dancehall",
+    "Livingston Punta Beat"
+  ],
+  "subClusters": []
+},
+  "gt/escuintla-costa-sur": {
+  "slug": "gt/escuintla-costa-sur",
+  "name": "Guatemala – Escuintla (La Ciudad de las Palmeras & Dembow Playero)",
+  "flag": "🇬🇹",
+  "currency": "GTQ (Q) / USD ($)",
+  "currencyCode": "GTQ",
+  "gateways": "BI Transfer Móvil, Fri, Banrural, Tarjetas, Apple Pay, PayPal",
+  "pro": "AEI Guatemala",
+  "proFullName": "AEI Guatemala",
+  "proGuide": "100% compatible con agregadoras digitales.",
+  "headline": "Beats en Escuintla: Calor de la Costa Sur, Reggaetón Bailable & Fiesta",
+  "description": "La vibra costera y caliente del pacífico guatemalteco: baterías aceleradas de reggaetón, sintetizadores brillantes y caídas de dembow diseñadas para sonar en autos y clubes.",
+  "popularGenres": [
+    "Escuintla Reggaetón",
+    "Costa Sur Dembow",
+    "Pacific Party Beat"
+  ],
+  "subClusters": []
+},
+  "gt/coban-alta-verapaz": {
+  "slug": "gt/coban-alta-verapaz",
+  "name": "Guatemala – Cobán & Las Verapaces (Bosque Nuboso & Mística Maya)",
+  "flag": "🇬🇹",
+  "currency": "GTQ (Q) / USD ($)",
+  "currencyCode": "GTQ",
+  "gateways": "BI Transfer Móvil, Fri, Banrural, Tarjetas, Apple Pay, PayPal",
+  "pro": "AEI Guatemala",
+  "proFullName": "AEI Guatemala",
+  "proGuide": "100% original con entrega de stems.",
+  "headline": "Beats en Cobán: Niebla de las Verapaces, Lofi Místico & Marimba de Tecla",
+  "description": "El sonido etéreo de la alta montaña y el bosque nuboso: grabaciones ambientales de lluvia, ecos de flauta maya y melodías de marimba sobre baterías chillhop de ensueño.",
+  "popularGenres": [
+    "Cobán Lofi Místico",
+    "Verapaz Ambient Rap",
+    "Maya Folk Beat"
+  ],
+  "subClusters": []
+},
+  "gt/peten-flores-tikal": {
+  "slug": "gt/peten-flores-tikal",
+  "name": "Guatemala – Petén & Flores (Reino Maya de Tikal & Selva Tropical)",
+  "flag": "🇬🇹",
+  "currency": "GTQ (Q) / USD ($)",
+  "currencyCode": "GTQ",
+  "gateways": "BI Transfer Móvil, Fri, Banrural, Tarjetas, Apple Pay, PayPal",
+  "pro": "AEI Guatemala",
+  "proFullName": "AEI Guatemala",
+  "proGuide": "Licencias comerciales ilimitadas.",
+  "headline": "Beats en Petén: La Cuna de Tikal, Percusiones Tribales & Trap Selvático",
+  "description": "La inmensidad de la selva petenera y la historia maya: maderas percusivas, cantos ancestrales y caídas de trap cinemático de alto impacto para proyectos legendarios.",
+  "popularGenres": [
+    "Petén Jungle Trap",
+    "Tikal Tribal Beat",
+    "Ancestral Maya Hip-Hop"
+  ],
+  "subClusters": []
+},
 };

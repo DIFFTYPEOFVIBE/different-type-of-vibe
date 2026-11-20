@@ -70892,4 +70892,1300 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "2"
   ]
 },
+  {
+  "slug": "jesse-baez-melodic-rnb-trap-502",
+  "title": "Jesse Baez Melodic R&B & Smooth Trap 502 Type Beat",
+  "description": "Instrumental sofisticada de Latin R&B y trap melódico estilo Jesse Baez (Decile, Swoosh), con pianos eléctricos Rhodes vintage, bajos 808 cálidos y baterías de tempo medio para vocales seductores.",
+  "targetKeywords": [
+    "jesse baez type beat",
+    "rnb guatemalteco beat",
+    "pistas estilo jesse baez",
+    "latin rnb type beat 502",
+    "bases de trap melodico guatemala"
+  ],
+  "heroCta": "Comprar Beat Jesse Baez (Transfer Móvil BI)",
+  "energyLevel": "Medium",
+  "primaryUse": "Latin R&B, Melodic Trap y Temas de Desamor",
+  "similarArtists": [
+    "Jesse Baez",
+    "Álvaro Díaz",
+    "FNTXY",
+    "C. Tangana"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "productionTips": "Filtra sutilmente el teclado Rhodes con chorus analógico y deja que el bombo y el sub-808 respiren en las frecuencias fundamentales.",
+  "idealVocalStyle": "Voz aterciopelada, melodías de falsete suaves y fraseo con cadencia R&B contemporánea.",
+  "suggestedKey": "D# Minor",
+  "streamingSuitability": "Insuperable para playlists como 'R&B en Español' y 'Vibras de Noche' en Spotify."
+},
+  {
+  "slug": "kontra-marin-conscious-rap-liricismo",
+  "title": "Kontra Marín Conscious Rap & Liricismo Chapín Boom Bap Beat",
+  "description": "Pista clásica de hip-hop con alma de jazz y mensaje reflexivo inspirada en Kontra Marín (Polo a Tierra), con acordes de piano acústico, trompetas melancólicas y batería MPC seca.",
+  "targetKeywords": [
+    "kontra marin type beat",
+    "rap consciente guatemalteco",
+    "boom bap chapin 502",
+    "bases de hip hop lirico guatemala",
+    "beats estilo kontra"
+  ],
+  "heroCta": "Comprar Beat Kontra Lyrical (WAV + Stems)",
+  "energyLevel": "Medium",
+  "primaryUse": "Rap Consciente, Storytelling y Hip-Hop Poético",
+  "similarArtists": [
+    "Kontra Marín",
+    "Zaki",
+    "Esnar",
+    "Dilemma"
+  ],
+  "recommendedBpm": "86-90 BPM",
+  "productionTips": "Sampleo cálido de vinilo con degradación armónica analógica y caja sin reverb para impacto seco.",
+  "idealVocalStyle": "Voz madura, métricas avanzadas y contenido con profundidad filosófica y social.",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "Ideal para posicionar en 'Rap en Español' y comunidades de hip-hop underground."
+},
+  {
+  "slug": "rebeca-lane-rap-feminista-boom-bap",
+  "title": "Rebeca Lane Rap Combativo & Boom Bap Contestatario Type Beat",
+  "description": "Instrumental contundente de rap contestatario y combativo inspirada en Rebeca Lane, con cuerdas dramáticas en bucle, percusiones sólidas y bajo analógico que empuja el verso.",
+  "targetKeywords": [
+    "rebeca lane type beat",
+    "rap feminista latinoamerica instrumental",
+    "boom bap combativo guatemala",
+    "bases de rap contestatario 502"
+  ],
+  "heroCta": "Comprar Beat Combativo (Licencia Comercial)",
+  "energyLevel": "High",
+  "primaryUse": "Rap Contestatario, Discursos de Empoderamiento y Festivales",
+  "similarArtists": [
+    "Rebeca Lane",
+    "Ana Tijoux",
+    "Audry Funk",
+    "Mare Advertencia"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "productionTips": "Corta las cuerdas dramáticamente antes de cada estribillo para maximizar la tensión lírica.",
+  "idealVocalStyle": "Entrega vocal implacable, dicción impecable y mensaje de fuerza y resistencia.",
+  "suggestedKey": "F Minor",
+  "streamingSuitability": "Perfecto para festivales de cultura, documentales sociales y playlists activistas."
+},
+  {
+  "slug": "marimba-maya-chapina-trap-fusion",
+  "title": "Marimba Maya Chapina de Concierto & Trap 808 Fusión Beat",
+  "description": "Fusión legendaria y auténtica del instrumento patrio guatemalteco: arpegios cristalinos de marimba maya de madera de hormigo combinados con bajos sub-808 demoledores y hi-hats de trap moderno.",
+  "targetKeywords": [
+    "marimba maya trap beat",
+    "marimba chapina instrumental trap",
+    "fusion folclore guatemalteco beat",
+    "marimba de concierto 808",
+    "musica tipica guatemala trap"
+  ],
+  "heroCta": "Comprar Beat Marimba Maya (Stems Multitrack)",
+  "energyLevel": "High",
+  "primaryUse": "Trap Folclórico, Identidad Guatemalteca y Fusión Étnica",
+  "similarArtists": [
+    "Marimba Orquesta Chapina Trap",
+    "Jesse Baez",
+    "Bohemia Suburbana",
+    "Kontra"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "productionTips": "Pasa los mazos de la marimba por un delay estéreo sutil para conservar el brillo de la madera natural.",
+  "idealVocalStyle": "Desde versos de trap callejero con slang chapín hasta rimas poéticas de orgullo patrio.",
+  "suggestedKey": "G Major",
+  "streamingSuitability": "Inmejorable para comerciales turísticos de Guatemala, eventos patrios y virales en TikTok."
+},
+  {
+  "slug": "poesia-callejera-underground-502",
+  "title": "Poesía Callejera Hardcore Rap & Barrio 502 Type Beat",
+  "description": "Beat oscuro de rap de barrio inspirado en los pioneros de Poesía Callejera, con campanas de iglesia, acordes de piano dramáticos y cajas contundentes que resuenan en las zonas de la capital.",
+  "targetKeywords": [
+    "poesia callejera type beat",
+    "rap de barrio guatemala 502",
+    "bases de rap hardcore guatemalteco",
+    "hip hop zona 18 beat"
+  ],
+  "heroCta": "Comprar Beat Poesía Callejera (WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Rap de Calle, Crónica Urbana y Videos de Barrio",
+  "similarArtists": [
+    "MC Suy",
+    "Poesía Callejera",
+    "Aliados 502",
+    "Tropa 506"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "productionTips": "Añade textura de sirenas lejanas y vinilo crujiente para recrear la atmósfera nocturna de la metrópoli.",
+  "idealVocalStyle": "Flow crudo, vivencias de calle reales y coros de advertencia sin rodeos.",
+  "suggestedKey": "B Minor",
+  "streamingSuitability": "Excelente para el nicho más devoto de hip-hop underground de Guatemala y Centroamérica."
+},
+  {
+  "slug": "livingston-garifuna-punta-trap",
+  "title": "Livingston Garífuna Punta-Trap & Afro-Caribe Chapín Beat",
+  "description": "Pista rítmica electrizante que une los tambores ancestrales garífunas de Livingston e Izabal (Garawoun) con la cadencia y el poder del trap y dancehall contemporáneo.",
+  "targetKeywords": [
+    "livingston garifuna trap",
+    "punta rock chapin instrumental",
+    "tambores garifunas beat",
+    "caribe guatemalteco beat",
+    "dancehall puerto barrios"
+  ],
+  "heroCta": "Comprar Beat Garífuna (Licencia Comercial)",
+  "energyLevel": "Very High",
+  "primaryUse": "Punta-Trap, Fiesta Caribeña y Afro-Latin Club Banger",
+  "similarArtists": [
+    "Aurelio Martínez",
+    "Punta Cartel",
+    "Toledo",
+    "Gimario"
+  ],
+  "recommendedBpm": "116-124 BPM",
+  "productionTips": "Coloca los redobles de los tambores primera y segunda en estéreo amplio para sentir la danza viva.",
+  "idealVocalStyle": "Canto bailable enérgico, deejay caribeño o rapeo sincopado con sabor a fiesta.",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "Ideal para festivales de verano, carnavales caribeños y pistas de baile de alta energía."
+},
+  {
+  "slug": "ale-mendoza-pop-urbano-guatemala",
+  "title": "Ale Mendoza Pop Urbano & Reggaetón Latino 502 Type Beat",
+  "description": "Base contagiosa y comercial de pop urbano y reggaetón romántico inspirada en Ale Mendoza, con sintetizadores tropicales, dembow bailable impecable y arreglos listos para sonar en emisoras nacionales.",
+  "targetKeywords": [
+    "ale mendoza type beat",
+    "pop urbano guatemalteco",
+    "reggaeton chapin banger",
+    "bases de pop latino guatemala",
+    "beats comerciales 502"
+  ],
+  "heroCta": "Comprar Beat Pop Urbano (Licencia Comercial)",
+  "energyLevel": "High",
+  "primaryUse": "Pop Urbano Comercial, Radio Hit y Reggaetón Bailable",
+  "similarArtists": [
+    "Ale Mendoza",
+    "Dany El Pana",
+    "Kavvo",
+    "Joey Montana"
+  ],
+  "recommendedBpm": "94-98 BPM",
+  "productionTips": "Mantén la percusión dembow nítida y al frente con un toque de sidechain sobre los acordes del sintetizador.",
+  "idealVocalStyle": "Voz limpia, coros de pop contagiosos y melodías listas para la pista de baile.",
+  "suggestedKey": "E Major",
+  "streamingSuitability": "El sonido por excelencia para radio fórmulas y listas de Pop Urbano Latinoamericano."
+},
+  {
+  "slug": "xela-altiplano-chillhop-lofi",
+  "title": "Xela Altiplano Chillhop & Luna de Xelajú Lofi Beats",
+  "description": "Nostalgia poética inspirada en el frío de Quetzaltenango y la inmortal Luna de Xelajú: notas de piano solitario, acordes melancólicos de guitarra acústica y textura de lluvia para beats de reflexión.",
+  "targetKeywords": [
+    "luna de xelaju lofi beat",
+    "chillhop guatemalteco",
+    "beats de xela lofi hip hop",
+    "instrumental nostalgico chapin",
+    "lofi altiplano 502"
+  ],
+  "heroCta": "Comprar Beat Xela Lofi (Uso Ilimitado)",
+  "energyLevel": "Low",
+  "primaryUse": "Lofi Hip-Hop, Rap Melancólico, Estudio y Vlogs de Viaje",
+  "similarArtists": [
+    "Nujabes",
+    "Tomppabeats",
+    "Kontra Marín",
+    "Bohemia Suburbana"
+  ],
+  "recommendedBpm": "78-84 BPM",
+  "productionTips": "Incorpora una sutil textura de lluvia y fuego de chimenea bajo un piano vertical procesado con cinta analógica.",
+  "idealVocalStyle": "Spoken word, rimas íntimas de noche o escucha puramente instrumental.",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "Perfecto para playlists de 'Lofi Beats', 'Estudio & Café' y videos de paisajes guatemaltecos."
+},
+  {
+  "slug": "antigua-guitarra-espanola-latin-trap",
+  "title": "Antigua Guatemala Guitarra Española & Latin Trap 808 Beat",
+  "description": "Fusión acústica colonial y moderna inspirada en las calles empedradas de Antigua Guatemala: arpegios virtuosos de guitarra española con cuerdas de nailon sobre baterías de trap 808 agresivo.",
+  "targetKeywords": [
+    "antigua guatemala guitar beat",
+    "trap con guitarra espanola",
+    "spanish guitar trap beat 502",
+    "instrumental guitarra clasica trap",
+    "bases con guitarra flamenca 808"
+  ],
+  "heroCta": "Comprar Beat Guitarra Española (WAV 24-bit)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Latin Trap Acústico, Tema Principal de Disco y Videoclips de Élite",
+  "similarArtists": [
+    "C. Tangana",
+    "Jesse Baez",
+    "Dellafuente",
+    "Morad"
+  ],
+  "recommendedBpm": "128-134 BPM",
+  "productionTips": "Graba o sintetiza la guitarra con ataque de uñas marcado para que corte claramente a través del sub-bajo 808.",
+  "idealVocalStyle": "Autotune emotivo o rapeo sincopado con melodías flamencas o latinas.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Ideal para sincronización en series, videos de alta estética y listas de Trap Elegante."
+},
+  {
+  "slug": "cumbia-chapina-dembow-viral-502",
+  "title": "Cumbia Chapina Dembow & Baile Viral 502 Type Beat",
+  "description": "Fusión popular y fiestera que mezcla el güiro y los teclados de cumbia tradicional de feria guatemalteca con el dembow callejero y 808s que revientan en buses y fiestas patronales.",
+  "targetKeywords": [
+    "cumbia chapina beat",
+    "dembow cumbia guatemala",
+    "ritmo viral feria chapina beat",
+    "cumbia trap 502 instrumental",
+    "bases de cumbia fiesta guatemalteca"
+  ],
+  "heroCta": "Comprar Beat Cumbia Fiesta (Descarga Inmediata)",
+  "energyLevel": "Very High",
+  "primaryUse": "Fiestas Patronales, Baile Viral de TikTok y Vacilón Chapín",
+  "similarArtists": [
+    "Farruko Pop Style",
+    "Miseria Cumbia Band",
+    "Toledo",
+    "Gonin"
+  ],
+  "recommendedBpm": "100-108 BPM",
+  "productionTips": "Acentúa el raspado del güiro en las semicorcheas y acompaña con un teclado alegre en terceras.",
+  "idealVocalStyle": "Voz de animación fiestera, frases jocosas del lenguaje popular chapín y estribillos pegajosos.",
+  "suggestedKey": "C Major",
+  "streamingSuitability": "Viral por naturaleza para videos de humor, coreografías y celebraciones guatemaltecas."
+},
+  {
+  "slug": "cypher-502-plaza-batalla-freestyle",
+  "title": "Cypher 502 Plaza de la Constitución Batalla Freestyle Beat",
+  "description": "Pista de alta tensión y ataque percusivo diseñada para las batallas de freestyle de la Plaza de la Constitución y ligas de parque guatemaltecas, con pausas milimétricas y redobles de caja hirientes.",
+  "targetKeywords": [
+    "cypher 502 freestyle beat",
+    "bases para batallas de rap guatemala",
+    "freestyle plaza de la constitucion beat",
+    "pistas de rap batalla chapin"
+  ],
+  "heroCta": "Comprar Beat Batalla 502 (Sin Tags)",
+  "energyLevel": "High",
+  "primaryUse": "Batallas de Freestyle, Cyphers Callejeros y Torneos de Rap",
+  "similarArtists": [
+    "Gallo 502",
+    "Ritmo y Furia",
+    "Red Bull Batalla Guatemala",
+    "SNK"
+  ],
+  "recommendedBpm": "92-96 BPM",
+  "productionTips": "Deja un silencio seco en el tiempo 4 antes de la caja final de cada 4 compases para rematar los punchlines.",
+  "idealVocalStyle": "Rimas directas, remates ingeniosos, respuesta al momento y actitud desafiante.",
+  "suggestedKey": "G Minor",
+  "streamingSuitability": "Indispensable para ligas de plaza, torneos centroamericanos de rap y batallas en YouTube."
+},
+  {
+  "slug": "rock-guatemalteco-bohemia-trap-remix",
+  "title": "Rock Guatemalteco Bohemia & Alux Nahual Trap Fusión Beat",
+  "description": "Poderosa fusión que toma los acordes épicos y guitarras distorsionadas del rock legendario guatemalteco (Bohemia Suburbana, Alux Nahual, Viernes Verde) sobre una base de trap 808 demoledor.",
+  "targetKeywords": [
+    "rock guatemalteco trap remix",
+    "bohemia suburbana type beat",
+    "alux nahual trap instrumental",
+    "rock chapin fusion 502",
+    "guitarra distorsionada trap beat"
+  ],
+  "heroCta": "Comprar Beat Rock-Trap Chapín (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Trap Rock, Himno Generacional y Presentaciones en Vivo",
+  "similarArtists": [
+    "Bohemia Suburbana",
+    "Alux Nahual",
+    "Viernes Verde",
+    "Post Malone"
+  ],
+  "recommendedBpm": "136-144 BPM",
+  "productionTips": "Capa guitarras eléctricas dobladas a la izquierda y derecha con un sub-bajo 808 mono en el centro bien saturado.",
+  "idealVocalStyle": "Vocal rasgado y emotivo con coros épicos que inviten a cantar en masa.",
+  "suggestedKey": "E Minor",
+  "streamingSuitability": "Ideal para sincronización en deportes extremos, festivales masivos y playlists de Rock Urbano."
+},
+  {
+  "slug": "comprar-beats-en-guatemala-bi-transfer-movil",
+  "title": "Comprar Beats en Guatemala con BI Transfer Móvil (Banco Industrial & Fri)",
+  "description": "Adquiere instrumentales urbanas profesionales en Guatemala con pago directo en Quetzales (Q) vía Transfer Móvil de Banco Industrial o Fri. Descarga instantánea de archivos WAV y contrato de licencia.",
+  "targetKeywords": [
+    "comprar beats en guatemala bi transfer movil",
+    "bases de rap pago banco industrial",
+    "comprar pistas en quetzales guatemala",
+    "beats fri guatemala compra segura"
+  ],
+  "heroCta": "Comprar Beats con Banco Industrial (Desde Q150)",
+  "energyLevel": "Variable",
+  "primaryUse": "Compra Segura Nacional, Pago Fácil en Quetzales y Licencia Comercial",
+  "similarArtists": [
+    "Comunidad Urbana 502",
+    "Artistas Independientes Chapines"
+  ],
+  "recommendedBpm": "Cualquier Tempo",
+  "productionTips": "Confirmación y entrega inmediata en pantalla y por correo electrónico con enlace de descarga permanente.",
+  "idealVocalStyle": "Todo tipo de géneros urbanos y alternativos en Guatemala.",
+  "suggestedKey": "All Keys",
+  "streamingSuitability": "Licencia comercial formal con 100% de regalías para el artista."
+},
+  {
+  "slug": "bases-de-trap-chapin-502-con-bajos-808",
+  "title": "Bases de Trap Chapín 502 con Bajos 808 Pesados & Dark Melody",
+  "description": "Colección de pistas de trap guatemalteco de alto calibre con deslizamientos de bajo 808, campanas gélidas y percusión contundente para romper la escena 502.",
+  "targetKeywords": [
+    "bases de trap chapin 502",
+    "trap guatemalteco con 808",
+    "beats de trap san jose pinula mixco",
+    "instrumentales trap 502 para grabar"
+  ],
+  "heroCta": "Comprar Trap Beat 502 (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Trap Callejero, Banger de Barrio y Sencillos de Alto Impacto",
+  "similarArtists": [
+    "Jesse Baez",
+    "Crypy",
+    "Tropa 506",
+    "Duki"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "productionTips": "Sub-bajos 808 afinados al tono exacto de la tónica con saturación de armónicos pares.",
+  "idealVocalStyle": "Flow agresivo, rimas rápidas o melodías melancólicas con autotune.",
+  "suggestedKey": "D# Minor",
+  "streamingSuitability": "Diseñado para reventar discotecas y playlists de Trap Centroamericano."
+},
+  {
+  "slug": "pistas-de-rnb-melodico-estilo-jesse-baez",
+  "title": "Pistas de R&B Melódico en Español Estilo Jesse Baez & FNTXY",
+  "description": "Instrumentales refinadas y sensuales de R&B latino con guitarras emotivas, teclados vintage Rhodes y grooves envolventes para canciones románticas y nocturnas.",
+  "targetKeywords": [
+    "pistas de rnb estilo jesse baez",
+    "latin rnb beats guatemala",
+    "bases de rnb en espanol con guitarras",
+    "beats melodicos jesse baez tipo"
+  ],
+  "heroCta": "Comprar Pista R&B (Licencia Comercial Ilimitada)",
+  "energyLevel": "Medium",
+  "primaryUse": "R&B Romántico, Soul Contemporáneo y Pop Urbano",
+  "similarArtists": [
+    "Jesse Baez",
+    "Álvaro Díaz",
+    "C. Tangana",
+    "Kavvo"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "productionTips": "Arreglos limpios con amplio rango dinámico para que la voz brille en el centro de la mezcla.",
+  "idealVocalStyle": "Voz aterciopelada, falsetes controlados y coros polifónicos en capas.",
+  "suggestedKey": "F# Major",
+  "streamingSuitability": "Perfecto para oyentes de Apple Music y Spotify en busca de música sofisticada."
+},
+  {
+  "slug": "bases-de-boom-bap-guatemala-para-grabar-wav",
+  "title": "Bases de Boom Bap Guate Clásico a 90 BPM para Grabar en WAV",
+  "description": "Instrumentales de hip-hop auténtico inspiradas en la escuela dorada de Guatemala, grabadas con baterías analógicas crujientes y samples de jazz para barras con contenido.",
+  "targetKeywords": [
+    "bases de boom bap guatemala para grabar",
+    "beats de rap 90 bpm chapines",
+    "instrumentales boom bap 502 wav",
+    "descargar bases de hip hop guatemala"
+  ],
+  "heroCta": "Descargar Base Boom Bap (WAV 24-bit)",
+  "energyLevel": "Medium",
+  "primaryUse": "Rap Consciente, Liricismo Puro y Álbumes Conceptuales",
+  "similarArtists": [
+    "Kontra Marín",
+    "Rebeca Lane",
+    "Poesía Callejera",
+    "Zaki"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "productionTips": "Cajas procesadas con emulación de cinta analógica para lograr pegada seca e inmediata.",
+  "idealVocalStyle": "Rapeo métrico, juego de palabras y mensaje reflexivo sobre la realidad social.",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "Ideal para la comunidad devota de hip-hop latinoamericano en streaming."
+},
+  {
+  "slug": "combo-de-beats-2x1-guatemala-quetzales",
+  "title": "Combo 2x1 y 3x1 de Beats en Guatemala (Oferta en Quetzales)",
+  "description": "Aprovecha el combo promocional de instrumentales para la producción de tu EP o mixtape en Guatemala. Paga 1 y lleva 2 licencias comerciales completas con pago en Quetzales.",
+  "targetKeywords": [
+    "combo de beats 2x1 guatemala",
+    "oferta beats quetzales 502",
+    "paquete de bases para mixtape chapin",
+    "descuento beats banco industrial"
+  ],
+  "heroCta": "Aprovechar Combo 2x1 (Pago BI / Fri)",
+  "energyLevel": "Variable",
+  "primaryUse": "Lanzamiento de Proyectos Completos, EPs y Discos",
+  "similarArtists": [
+    "Jesse Baez",
+    "Kontra",
+    "Ale Mendoza",
+    "Artistas 502"
+  ],
+  "recommendedBpm": "90-140 BPM",
+  "productionTips": "Mezclas calibradas uniformemente para dar continuidad sonora al proyecto.",
+  "idealVocalStyle": "Versatilidad de estilos dentro de la propuesta musical del artista.",
+  "suggestedKey": "Various Keys",
+  "streamingSuitability": "Licencias comerciales extendidas con derechos de distribución mundial."
+},
+  {
+  "slug": "instrumentales-de-reggaeton-guatemalteco-stems",
+  "title": "Instrumentales de Reggaetón Guatemalteco con Stems Multitrack",
+  "description": "Pistas bailables de reggaetón moderno y comercial con entrega de pistas por separado (stems en WAV) para mezcla y masterización profesional en estudios de Guatemala.",
+  "targetKeywords": [
+    "instrumentales reggaeton guatemalteco stems",
+    "pistas de reggaeton chapin pistas separadas",
+    "beats de dembow guatemala comercial",
+    "descargar stems reggaeton 502"
+  ],
+  "heroCta": "Comprar Reggaetón Beat (Con Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Lanzamientos de Emisora Radial, Club Banger y Videoclip Oficial",
+  "similarArtists": [
+    "Ale Mendoza",
+    "Dany El Pana",
+    "Kavvo",
+    "Feid"
+  ],
+  "recommendedBpm": "95-100 BPM",
+  "productionTips": "Stems organizados y etiquetados por carpetas (Drums, Bass, Synths, FX) a 24-bit/44.1kHz.",
+  "idealVocalStyle": "Canto melódico bailable con coros pegajosos y versos dinámicos.",
+  "suggestedKey": "G Minor",
+  "streamingSuitability": "Máxima flexibilidad para ingenieros de mezcla y productores ejecutivos."
+},
+  {
+  "slug": "beats-de-marimba-maya-fusion-trap-untagged",
+  "title": "Beats de Marimba Maya Fusión Trap Untagged (Sin Tags Vocales)",
+  "description": "Instrumentales exclusivas que combinan la riqueza armónica de la marimba de madera de hormigo con baterías de trap moderno, entregadas totalmente libres de marcas vocales para grabación limpia.",
+  "targetKeywords": [
+    "beats marimba maya trap untagged",
+    "marimba trap sin marcas de voz",
+    "bases de marimba chapina trap wav",
+    "pistas de marimba fusion guatemala"
+  ],
+  "heroCta": "Comprar Marimba Trap (Sin Tags Vocales)",
+  "energyLevel": "High",
+  "primaryUse": "Producción Discográfica, Videos Culturales y Sencillos Épicos",
+  "similarArtists": [
+    "Sonidos Tradicionales 502",
+    "Jesse Baez",
+    "Bohemia Suburbana"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "productionTips": "Cada mazazo de marimba mantiene el brillo de alta fidelidad sin competir con los medios vocales.",
+  "idealVocalStyle": "Rapeo potente o canto melódico con identidad centroamericana.",
+  "suggestedKey": "D Major",
+  "streamingSuitability": "100% libre de reclamos de Content ID en YouTube y redes sociales."
+},
+  {
+  "slug": "licencia-comercial-de-beats-aei-guatemala",
+  "title": "Licencia Comercial de Beats Válida para Registro AEI Guatemala",
+  "description": "Contrato legal en formato PDF con validez oficial ante la Asociación de Autores, Compositores e Intérpretes de Guatemala (AEI) y el Registro de la Propiedad Intelectual para distribución en Spotify.",
+  "targetKeywords": [
+    "licencia comercial beats aei guatemala",
+    "registro de canciones aei guatemala contrato",
+    "derechos de autor beats chapines",
+    "comprar licencia legal de beats 502"
+  ],
+  "heroCta": "Ver Modelos de Licencia AEI (PDF Incluido)",
+  "energyLevel": "N/A",
+  "primaryUse": "Registro Legal de Canciones, Cobro de Regalías y Agregadoras",
+  "similarArtists": [
+    "Onzieb",
+    "Artistas Registrados en AEI Guatemala"
+  ],
+  "recommendedBpm": "Cualquier Tempo",
+  "productionTips": "Incluye contrato formal en español e inglés firmado con términos claros de monetización.",
+  "idealVocalStyle": "Todo tipo de composiciones originales registrables.",
+  "suggestedKey": "All Keys",
+  "streamingSuitability": "100% de regalías editoriales para el compositor de la letra y melodía vocal."
+},
+  {
+  "slug": "produccion-de-beats-exclusivos-guatemala-onzieb",
+  "title": "Producción de Beats Exclusivos en Guatemala con Productor Onzieb",
+  "description": "Servicio de producción musical personalizada 1 a 1 directamente con Onzieb. Composición a la medida para tu registro vocal, sesión de mezcla remota y entrega de stems exclusivos.",
+  "targetKeywords": [
+    "produccion de beats exclusivos guatemala",
+    "productor musical guatemala onzieb",
+    "comprar exclusivas rap trap 502",
+    "bases a la medida ciudad de guatemala"
+  ],
+  "heroCta": "Solicitar Beat Exclusivo (Contacto Directo)",
+  "energyLevel": "Custom",
+  "primaryUse": "Álbum Debut, Firma con Disquera y Exclusividad Comercial Absoluta",
+  "similarArtists": [
+    "Onzieb",
+    "Jesse Baez",
+    "Kontra Marín",
+    "Ale Mendoza"
+  ],
+  "recommendedBpm": "Diseñado a tu medida",
+  "productionTips": "Desarrollo completo desde la concepción del acorde hasta el máster final de la pista.",
+  "idealVocalStyle": "Ajustado milimétricamente al timbre y rango vocal del artista.",
+  "suggestedKey": "Personalizada",
+  "streamingSuitability": "Retiro perpetuo de la tienda; ningún otro artista podrá usar esta composición jamás."
+},
+  {
+  "slug": "descargar-paquete-3-beats-gratis-guatemala-mp3",
+  "title": "Descargar Paquete de 3 Beats Gratis en Guatemala (MP3 320 kbps)",
+  "description": "Descarga de cortesía sin costo de 3 instrumentales completas (trap chapín, boom bap 502 y R&B melódico) en alta calidad MP3 para maquetar tus canciones antes de adquirir la licencia WAV.",
+  "targetKeywords": [
+    "descargar beats gratis guatemala",
+    "bases de rap gratis chapin mp3",
+    "pistas de trap gratis 502",
+    "beats gratis guatemala para maquetas"
+  ],
+  "heroCta": "Descargar 3 Beats Gratis (Acceso Instantáneo)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Grabación de Maquetas en Casa, Práctica de Rimas y Escritura",
+  "similarArtists": [
+    "Escena Urbana 502",
+    "Nuevos Talentos de Guatemala"
+  ],
+  "recommendedBpm": "90, 94, 134 BPM",
+  "productionTips": "Incluye tag vocal breve de cortesía; se remueve automáticamente al adquirir la licencia comercial.",
+  "idealVocalStyle": "Ideal para probar tonos, métricas y estructuras líricas.",
+  "suggestedKey": "Various",
+  "streamingSuitability": "Uso no comercial permitido en demos de YouTube y SoundCloud para darte a conocer."
+},
+  {
+  "slug": "ciudad-de-guatemala-trap-chapin-502",
+  "name": "Ciudad de Guatemala Trap Chapín 502 Beats",
+  "category": "scene",
+  "badge": "Ciudad de Guatemala Trap 502",
+  "headline": "Ciudad de Guatemala (Capital 502) Trap Chapín 502 Beats: Pistas WAV & Pago BI Transfer Móvil",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de Ciudad de Guatemala.",
+  "targetArtists": [
+    "Artistas de Ciudad de Guatemala",
+    "Comunidad Urbana 502",
+    "Movimiento Hip-Hop Guatemala"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Ciudad de Guatemala",
+    "Trap 502",
+    "BI Transfer Móvil Q",
+    "Avalado AEI"
+  ],
+  "popularGenres": [
+    "Trap Chapín 502 Beats",
+    "Trap 502",
+    "Boom Bap Chapín"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "ciudad-de-guatemala-boom-bap-guatemalteco",
+  "name": "Ciudad de Guatemala Boom Bap Clásico Guatemalteco",
+  "category": "scene",
+  "badge": "Ciudad de Guatemala Boom Bap Chapín",
+  "headline": "Ciudad de Guatemala (Capital 502) Boom Bap Clásico Guatemalteco: Pistas WAV & Pago BI Transfer Móvil",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de Ciudad de Guatemala.",
+  "targetArtists": [
+    "Artistas de Ciudad de Guatemala",
+    "Comunidad Urbana 502",
+    "Movimiento Hip-Hop Guatemala"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Ciudad de Guatemala",
+    "Boom Bap Chapín",
+    "BI Transfer Móvil Q",
+    "Avalado AEI"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Guatemalteco",
+    "Trap 502",
+    "Boom Bap Chapín"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "ciudad-de-guatemala-reggaeton-guatemala",
+  "name": "Ciudad de Guatemala Reggaetón Chapín Comercial",
+  "category": "scene",
+  "badge": "Ciudad de Guatemala Reggaetón 502",
+  "headline": "Ciudad de Guatemala (Capital 502) Reggaetón Chapín Comercial: Pistas WAV & Pago BI Transfer Móvil",
+  "description": "Dembow bailable, sintetizadores luminosos y bajos envolventes para sonar en todas las fiestas y emisoras de Ciudad de Guatemala.",
+  "targetArtists": [
+    "Artistas de Ciudad de Guatemala",
+    "Comunidad Urbana 502",
+    "Movimiento Hip-Hop Guatemala"
+  ],
+  "recommendedBpm": "94-100 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Ciudad de Guatemala",
+    "Reggaetón 502",
+    "BI Transfer Móvil Q",
+    "Avalado AEI"
+  ],
+  "popularGenres": [
+    "Reggaetón Chapín Comercial",
+    "Trap 502",
+    "Boom Bap Chapín"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "ciudad-de-guatemala-melodic-rnb-502",
+  "name": "Ciudad de Guatemala Melodic R&B 502",
+  "category": "scene",
+  "badge": "Ciudad de Guatemala R&B Chapín",
+  "headline": "Ciudad de Guatemala (Capital 502) Melodic R&B 502: Pistas WAV & Pago BI Transfer Móvil",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de Ciudad de Guatemala.",
+  "targetArtists": [
+    "Artistas de Ciudad de Guatemala",
+    "Comunidad Urbana 502",
+    "Movimiento Hip-Hop Guatemala"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "Ciudad de Guatemala",
+    "R&B Chapín",
+    "BI Transfer Móvil Q",
+    "Avalado AEI"
+  ],
+  "popularGenres": [
+    "Melodic R&B 502",
+    "Trap 502",
+    "Boom Bap Chapín"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "mixco-trap-chapin-502",
+  "name": "Mixco Trap Chapín 502 Beats",
+  "category": "scene",
+  "badge": "Mixco Trap 502",
+  "headline": "Mixco (San Cristóbal Metro) Trap Chapín 502 Beats: Pistas WAV & Pago BI Transfer Móvil",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de Mixco.",
+  "targetArtists": [
+    "Artistas de Mixco",
+    "Comunidad Urbana 502",
+    "Movimiento Hip-Hop Guatemala"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Mixco",
+    "Trap 502",
+    "BI Transfer Móvil Q",
+    "Avalado AEI"
+  ],
+  "popularGenres": [
+    "Trap Chapín 502 Beats",
+    "Trap 502",
+    "Boom Bap Chapín"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "mixco-boom-bap-guatemalteco",
+  "name": "Mixco Boom Bap Clásico Guatemalteco",
+  "category": "scene",
+  "badge": "Mixco Boom Bap Chapín",
+  "headline": "Mixco (San Cristóbal Metro) Boom Bap Clásico Guatemalteco: Pistas WAV & Pago BI Transfer Móvil",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de Mixco.",
+  "targetArtists": [
+    "Artistas de Mixco",
+    "Comunidad Urbana 502",
+    "Movimiento Hip-Hop Guatemala"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Mixco",
+    "Boom Bap Chapín",
+    "BI Transfer Móvil Q",
+    "Avalado AEI"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Guatemalteco",
+    "Trap 502",
+    "Boom Bap Chapín"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "mixco-reggaeton-guatemala",
+  "name": "Mixco Reggaetón Chapín Comercial",
+  "category": "scene",
+  "badge": "Mixco Reggaetón 502",
+  "headline": "Mixco (San Cristóbal Metro) Reggaetón Chapín Comercial: Pistas WAV & Pago BI Transfer Móvil",
+  "description": "Dembow bailable, sintetizadores luminosos y bajos envolventes para sonar en todas las fiestas y emisoras de Mixco.",
+  "targetArtists": [
+    "Artistas de Mixco",
+    "Comunidad Urbana 502",
+    "Movimiento Hip-Hop Guatemala"
+  ],
+  "recommendedBpm": "94-100 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Mixco",
+    "Reggaetón 502",
+    "BI Transfer Móvil Q",
+    "Avalado AEI"
+  ],
+  "popularGenres": [
+    "Reggaetón Chapín Comercial",
+    "Trap 502",
+    "Boom Bap Chapín"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "mixco-melodic-rnb-502",
+  "name": "Mixco Melodic R&B 502",
+  "category": "scene",
+  "badge": "Mixco R&B Chapín",
+  "headline": "Mixco (San Cristóbal Metro) Melodic R&B 502: Pistas WAV & Pago BI Transfer Móvil",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de Mixco.",
+  "targetArtists": [
+    "Artistas de Mixco",
+    "Comunidad Urbana 502",
+    "Movimiento Hip-Hop Guatemala"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "Mixco",
+    "R&B Chapín",
+    "BI Transfer Móvil Q",
+    "Avalado AEI"
+  ],
+  "popularGenres": [
+    "Melodic R&B 502",
+    "Trap 502",
+    "Boom Bap Chapín"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "villa-nueva-trap-chapin-502",
+  "name": "Villa Nueva Trap Chapín 502 Beats",
+  "category": "scene",
+  "badge": "Villa Nueva Trap 502",
+  "headline": "Villa Nueva (Sur Metropolitano) Trap Chapín 502 Beats: Pistas WAV & Pago BI Transfer Móvil",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de Villa Nueva.",
+  "targetArtists": [
+    "Artistas de Villa Nueva",
+    "Comunidad Urbana 502",
+    "Movimiento Hip-Hop Guatemala"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Villa Nueva",
+    "Trap 502",
+    "BI Transfer Móvil Q",
+    "Avalado AEI"
+  ],
+  "popularGenres": [
+    "Trap Chapín 502 Beats",
+    "Trap 502",
+    "Boom Bap Chapín"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "villa-nueva-boom-bap-guatemalteco",
+  "name": "Villa Nueva Boom Bap Clásico Guatemalteco",
+  "category": "scene",
+  "badge": "Villa Nueva Boom Bap Chapín",
+  "headline": "Villa Nueva (Sur Metropolitano) Boom Bap Clásico Guatemalteco: Pistas WAV & Pago BI Transfer Móvil",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de Villa Nueva.",
+  "targetArtists": [
+    "Artistas de Villa Nueva",
+    "Comunidad Urbana 502",
+    "Movimiento Hip-Hop Guatemala"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Villa Nueva",
+    "Boom Bap Chapín",
+    "BI Transfer Móvil Q",
+    "Avalado AEI"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Guatemalteco",
+    "Trap 502",
+    "Boom Bap Chapín"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "villa-nueva-reggaeton-guatemala",
+  "name": "Villa Nueva Reggaetón Chapín Comercial",
+  "category": "scene",
+  "badge": "Villa Nueva Reggaetón 502",
+  "headline": "Villa Nueva (Sur Metropolitano) Reggaetón Chapín Comercial: Pistas WAV & Pago BI Transfer Móvil",
+  "description": "Dembow bailable, sintetizadores luminosos y bajos envolventes para sonar en todas las fiestas y emisoras de Villa Nueva.",
+  "targetArtists": [
+    "Artistas de Villa Nueva",
+    "Comunidad Urbana 502",
+    "Movimiento Hip-Hop Guatemala"
+  ],
+  "recommendedBpm": "94-100 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Villa Nueva",
+    "Reggaetón 502",
+    "BI Transfer Móvil Q",
+    "Avalado AEI"
+  ],
+  "popularGenres": [
+    "Reggaetón Chapín Comercial",
+    "Trap 502",
+    "Boom Bap Chapín"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "villa-nueva-melodic-rnb-502",
+  "name": "Villa Nueva Melodic R&B 502",
+  "category": "scene",
+  "badge": "Villa Nueva R&B Chapín",
+  "headline": "Villa Nueva (Sur Metropolitano) Melodic R&B 502: Pistas WAV & Pago BI Transfer Móvil",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de Villa Nueva.",
+  "targetArtists": [
+    "Artistas de Villa Nueva",
+    "Comunidad Urbana 502",
+    "Movimiento Hip-Hop Guatemala"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "Villa Nueva",
+    "R&B Chapín",
+    "BI Transfer Móvil Q",
+    "Avalado AEI"
+  ],
+  "popularGenres": [
+    "Melodic R&B 502",
+    "Trap 502",
+    "Boom Bap Chapín"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "quetzaltenango-xela-trap-chapin-502",
+  "name": "Quetzaltenango (Xela) Trap Chapín 502 Beats",
+  "category": "scene",
+  "badge": "Quetzaltenango (Xela) Trap 502",
+  "headline": "Quetzaltenango (Xela) (Los Altos Altiplano) Trap Chapín 502 Beats: Pistas WAV & Pago BI Transfer Móvil",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de Quetzaltenango (Xela).",
+  "targetArtists": [
+    "Artistas de Quetzaltenango (Xela)",
+    "Comunidad Urbana 502",
+    "Movimiento Hip-Hop Guatemala"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Quetzaltenango (Xela)",
+    "Trap 502",
+    "BI Transfer Móvil Q",
+    "Avalado AEI"
+  ],
+  "popularGenres": [
+    "Trap Chapín 502 Beats",
+    "Trap 502",
+    "Boom Bap Chapín"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "quetzaltenango-xela-boom-bap-guatemalteco",
+  "name": "Quetzaltenango (Xela) Boom Bap Clásico Guatemalteco",
+  "category": "scene",
+  "badge": "Quetzaltenango (Xela) Boom Bap Chapín",
+  "headline": "Quetzaltenango (Xela) (Los Altos Altiplano) Boom Bap Clásico Guatemalteco: Pistas WAV & Pago BI Transfer Móvil",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de Quetzaltenango (Xela).",
+  "targetArtists": [
+    "Artistas de Quetzaltenango (Xela)",
+    "Comunidad Urbana 502",
+    "Movimiento Hip-Hop Guatemala"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Quetzaltenango (Xela)",
+    "Boom Bap Chapín",
+    "BI Transfer Móvil Q",
+    "Avalado AEI"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Guatemalteco",
+    "Trap 502",
+    "Boom Bap Chapín"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "quetzaltenango-xela-reggaeton-guatemala",
+  "name": "Quetzaltenango (Xela) Reggaetón Chapín Comercial",
+  "category": "scene",
+  "badge": "Quetzaltenango (Xela) Reggaetón 502",
+  "headline": "Quetzaltenango (Xela) (Los Altos Altiplano) Reggaetón Chapín Comercial: Pistas WAV & Pago BI Transfer Móvil",
+  "description": "Dembow bailable, sintetizadores luminosos y bajos envolventes para sonar en todas las fiestas y emisoras de Quetzaltenango (Xela).",
+  "targetArtists": [
+    "Artistas de Quetzaltenango (Xela)",
+    "Comunidad Urbana 502",
+    "Movimiento Hip-Hop Guatemala"
+  ],
+  "recommendedBpm": "94-100 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Quetzaltenango (Xela)",
+    "Reggaetón 502",
+    "BI Transfer Móvil Q",
+    "Avalado AEI"
+  ],
+  "popularGenres": [
+    "Reggaetón Chapín Comercial",
+    "Trap 502",
+    "Boom Bap Chapín"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "quetzaltenango-xela-melodic-rnb-502",
+  "name": "Quetzaltenango (Xela) Melodic R&B 502",
+  "category": "scene",
+  "badge": "Quetzaltenango (Xela) R&B Chapín",
+  "headline": "Quetzaltenango (Xela) (Los Altos Altiplano) Melodic R&B 502: Pistas WAV & Pago BI Transfer Móvil",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de Quetzaltenango (Xela).",
+  "targetArtists": [
+    "Artistas de Quetzaltenango (Xela)",
+    "Comunidad Urbana 502",
+    "Movimiento Hip-Hop Guatemala"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "Quetzaltenango (Xela)",
+    "R&B Chapín",
+    "BI Transfer Móvil Q",
+    "Avalado AEI"
+  ],
+  "popularGenres": [
+    "Melodic R&B 502",
+    "Trap 502",
+    "Boom Bap Chapín"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "antigua-guatemala-trap-chapin-502",
+  "name": "Antigua Guatemala Trap Chapín 502 Beats",
+  "category": "scene",
+  "badge": "Antigua Guatemala Trap 502",
+  "headline": "Antigua Guatemala (Sacatepéquez Colonial) Trap Chapín 502 Beats: Pistas WAV & Pago BI Transfer Móvil",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de Antigua Guatemala.",
+  "targetArtists": [
+    "Artistas de Antigua Guatemala",
+    "Comunidad Urbana 502",
+    "Movimiento Hip-Hop Guatemala"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Antigua Guatemala",
+    "Trap 502",
+    "BI Transfer Móvil Q",
+    "Avalado AEI"
+  ],
+  "popularGenres": [
+    "Trap Chapín 502 Beats",
+    "Trap 502",
+    "Boom Bap Chapín"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "antigua-guatemala-boom-bap-guatemalteco",
+  "name": "Antigua Guatemala Boom Bap Clásico Guatemalteco",
+  "category": "scene",
+  "badge": "Antigua Guatemala Boom Bap Chapín",
+  "headline": "Antigua Guatemala (Sacatepéquez Colonial) Boom Bap Clásico Guatemalteco: Pistas WAV & Pago BI Transfer Móvil",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de Antigua Guatemala.",
+  "targetArtists": [
+    "Artistas de Antigua Guatemala",
+    "Comunidad Urbana 502",
+    "Movimiento Hip-Hop Guatemala"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Antigua Guatemala",
+    "Boom Bap Chapín",
+    "BI Transfer Móvil Q",
+    "Avalado AEI"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Guatemalteco",
+    "Trap 502",
+    "Boom Bap Chapín"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "antigua-guatemala-reggaeton-guatemala",
+  "name": "Antigua Guatemala Reggaetón Chapín Comercial",
+  "category": "scene",
+  "badge": "Antigua Guatemala Reggaetón 502",
+  "headline": "Antigua Guatemala (Sacatepéquez Colonial) Reggaetón Chapín Comercial: Pistas WAV & Pago BI Transfer Móvil",
+  "description": "Dembow bailable, sintetizadores luminosos y bajos envolventes para sonar en todas las fiestas y emisoras de Antigua Guatemala.",
+  "targetArtists": [
+    "Artistas de Antigua Guatemala",
+    "Comunidad Urbana 502",
+    "Movimiento Hip-Hop Guatemala"
+  ],
+  "recommendedBpm": "94-100 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Antigua Guatemala",
+    "Reggaetón 502",
+    "BI Transfer Móvil Q",
+    "Avalado AEI"
+  ],
+  "popularGenres": [
+    "Reggaetón Chapín Comercial",
+    "Trap 502",
+    "Boom Bap Chapín"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "antigua-guatemala-melodic-rnb-502",
+  "name": "Antigua Guatemala Melodic R&B 502",
+  "category": "scene",
+  "badge": "Antigua Guatemala R&B Chapín",
+  "headline": "Antigua Guatemala (Sacatepéquez Colonial) Melodic R&B 502: Pistas WAV & Pago BI Transfer Móvil",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de Antigua Guatemala.",
+  "targetArtists": [
+    "Artistas de Antigua Guatemala",
+    "Comunidad Urbana 502",
+    "Movimiento Hip-Hop Guatemala"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "Antigua Guatemala",
+    "R&B Chapín",
+    "BI Transfer Móvil Q",
+    "Avalado AEI"
+  ],
+  "popularGenres": [
+    "Melodic R&B 502",
+    "Trap 502",
+    "Boom Bap Chapín"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "puerto-barrios-trap-chapin-502",
+  "name": "Puerto Barrios Trap Chapín 502 Beats",
+  "category": "scene",
+  "badge": "Puerto Barrios Trap 502",
+  "headline": "Puerto Barrios (Izabal Caribe) Trap Chapín 502 Beats: Pistas WAV & Pago BI Transfer Móvil",
+  "description": "Bajos 808 demoledores, melodías oscuras y baterías de trap pesado diseñadas para artistas urbanos de Puerto Barrios.",
+  "targetArtists": [
+    "Artistas de Puerto Barrios",
+    "Comunidad Urbana 502",
+    "Movimiento Hip-Hop Guatemala"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Puerto Barrios",
+    "Trap 502",
+    "BI Transfer Móvil Q",
+    "Avalado AEI"
+  ],
+  "popularGenres": [
+    "Trap Chapín 502 Beats",
+    "Trap 502",
+    "Boom Bap Chapín"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "puerto-barrios-boom-bap-guatemalteco",
+  "name": "Puerto Barrios Boom Bap Clásico Guatemalteco",
+  "category": "scene",
+  "badge": "Puerto Barrios Boom Bap Chapín",
+  "headline": "Puerto Barrios (Izabal Caribe) Boom Bap Clásico Guatemalteco: Pistas WAV & Pago BI Transfer Móvil",
+  "description": "Baterías analógicas con golpe seco de MPC, armonías de jazz y calidez de vinilo para liricistas de Puerto Barrios.",
+  "targetArtists": [
+    "Artistas de Puerto Barrios",
+    "Comunidad Urbana 502",
+    "Movimiento Hip-Hop Guatemala"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "A-Minor / E-Minor",
+  "vibeAttributes": [
+    "Puerto Barrios",
+    "Boom Bap Chapín",
+    "BI Transfer Móvil Q",
+    "Avalado AEI"
+  ],
+  "popularGenres": [
+    "Boom Bap Clásico Guatemalteco",
+    "Trap 502",
+    "Boom Bap Chapín"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "puerto-barrios-reggaeton-guatemala",
+  "name": "Puerto Barrios Reggaetón Chapín Comercial",
+  "category": "scene",
+  "badge": "Puerto Barrios Reggaetón 502",
+  "headline": "Puerto Barrios (Izabal Caribe) Reggaetón Chapín Comercial: Pistas WAV & Pago BI Transfer Móvil",
+  "description": "Dembow bailable, sintetizadores luminosos y bajos envolventes para sonar en todas las fiestas y emisoras de Puerto Barrios.",
+  "targetArtists": [
+    "Artistas de Puerto Barrios",
+    "Comunidad Urbana 502",
+    "Movimiento Hip-Hop Guatemala"
+  ],
+  "recommendedBpm": "94-100 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Puerto Barrios",
+    "Reggaetón 502",
+    "BI Transfer Móvil Q",
+    "Avalado AEI"
+  ],
+  "popularGenres": [
+    "Reggaetón Chapín Comercial",
+    "Trap 502",
+    "Boom Bap Chapín"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "puerto-barrios-melodic-rnb-502",
+  "name": "Puerto Barrios Melodic R&B 502",
+  "category": "scene",
+  "badge": "Puerto Barrios R&B Chapín",
+  "headline": "Puerto Barrios (Izabal Caribe) Melodic R&B 502: Pistas WAV & Pago BI Transfer Móvil",
+  "description": "Guitarras acústicas de desamor, pianos eléctricos Rhodes vintage y baterías suaves para vocalistas de Puerto Barrios.",
+  "targetArtists": [
+    "Artistas de Puerto Barrios",
+    "Comunidad Urbana 502",
+    "Movimiento Hip-Hop Guatemala"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D#-Minor / F-Major",
+  "vibeAttributes": [
+    "Puerto Barrios",
+    "R&B Chapín",
+    "BI Transfer Móvil Q",
+    "Avalado AEI"
+  ],
+  "popularGenres": [
+    "Melodic R&B 502",
+    "Trap 502",
+    "Boom Bap Chapín"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
 ];
