@@ -125148,4 +125148,1299 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "1"
   ]
 },
+  {
+  "slug": "luciano-sedan-minivan-uk-german-drill",
+  "title": "Luciano Majestic Heavyweight UK-German Drill & Baritone 808 Beat",
+  "description": "Chart-topping, international German drill instrumental inspired by Luciano (Majestic, Aqua, Bamba, West Connect, Beautiful Girl), featuring aggressive sliding 808s, cold brass stabs, and trademark room for baritone ad-libs.",
+  "targetKeywords": [
+    "luciano type beat",
+    "german drill beat 2024",
+    "luciano majestic instrumental",
+    "bamba type beat",
+    "heavy sliding 808 drill deutschland"
+  ],
+  "heroCta": "Luciano Style Beat Kaufen (WAV 24-Bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hardcore Drill Single, Gym Motivation and Heavy Bass Club Banger",
+  "similarArtists": [
+    "Luciano",
+    "Gazo",
+    "Central Cee",
+    "Headie One"
+  ],
+  "recommendedBpm": "142-145 BPM",
+  "productionTips": "Heavy two-octave 808 portamento bends layered with clipped rimshots and signature brass stabs.",
+  "idealVocalStyle": "Deep, authoritative baritone delivery, aggressive punchlines, signature ad-libs ('Yeah', 'Loco'), and fast cadences.",
+  "suggestedKey": "C# Minor / E Minor",
+  "streamingSuitability": "Guaranteed top placement on Modus Mio, Deutschrap Brandneu, and international workout playlists."
+},
+  {
+  "slug": "pashanim-sommergewitter-berlin-bounce",
+  "title": "Pashanim Sommergewitter Kreuzberg Melancholic Acoustic Bounce Beat",
+  "description": "Atmospheric, nostalgic and infectious Berlin summer street rap instrumental inspired by Pashanim (Sommergewitter, Hauseingang, Airwaves, Ms. Jackson), blending warm acoustic guitar picking and bouncy minimalist 808s.",
+  "targetKeywords": [
+    "pashanim type beat",
+    "sommergewitter type beat",
+    "pashanim hauseingang instrumental",
+    "berlin summer rap beat",
+    "kreuzberg acoustic bounce 808"
+  ],
+  "heroCta": "Pashanim Style Beat Kaufen (Instant WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Summer Street Anthem, Nostalgic Road Trip Track and Viral TikTok Sound",
+  "similarArtists": [
+    "Pashanim",
+    "Symba",
+    "BHZ",
+    "01099"
+  ],
+  "recommendedBpm": "126-132 BPM",
+  "productionTips": "Clean acoustic guitar loops processed with subtle analog chorus over bouncy, syncopated 808 drum patterns.",
+  "idealVocalStyle": "Laid-back, melodic delivery, authentic Berlin slang, relatable youth observations, and catchy singalong hooks.",
+  "suggestedKey": "A Minor / C Major",
+  "streamingSuitability": "Extreme viral potential across TikTok, Spotify Top 50 Deutschland, and summer playlists."
+},
+  {
+  "slug": "apache-207-roller-roller-synthwave",
+  "title": "Apache 207 Roller 1980s Retro Synthwave & German Stadium Trap Beat",
+  "description": "Monumental, multi-platinum German rap anthem fusing 1980s retro synthwave with modern trap drums inspired by Apache 207 (Roller, Bläulich, Fame, Komet), featuring soaring stadium brass and infectious basslines.",
+  "targetKeywords": [
+    "apache 207 type beat",
+    "roller apache instrumental",
+    "80s synthwave trap beat deutschland",
+    "apache 207 komet beat",
+    "stadium pop rap beat germany"
+  ],
+  "heroCta": "Apache 207 Style Beat Kaufen (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Radio Smash Hit, Stadium Concert Opener and Mainstream Crossover",
+  "similarArtists": [
+    "Apache 207",
+    "Bausa",
+    "RIN",
+    "Udo Lindenberg"
+  ],
+  "recommendedBpm": "124-130 BPM",
+  "productionTips": "Layer bright analog Oberheim and Juno synthesizer chords with driving four-on-the-floor trap kicks.",
+  "idealVocalStyle": "Powerful, operatic baritone vocals, anthemic singalong choruses, and confident swagger.",
+  "suggestedKey": "D Minor / G Minor",
+  "streamingSuitability": "Unstoppable German radio rotation, mainstream commercial sync, and record-breaking streaming numbers."
+},
+  {
+  "slug": "bonez-raf-camora-palmen-aus-plastik",
+  "title": "Bonez MC & RAF Camora Palmen aus Plastik Dancehall-Afrotrap Beat",
+  "description": "Historic, diamond-certified German dancehall and Afrotrap crossover instrumental inspired by Bonez MC and RAF Camora (Palmen aus Plastik, Ohne mein Team, 500 PS), featuring Caribbean steel-string plucks and dembow bounce.",
+  "targetKeywords": [
+    "bonez mc type beat",
+    "raf camora type beat",
+    "palmen aus plastik instrumental",
+    "deutschrap dancehall beat",
+    "afrotrap beat deutschland"
+  ],
+  "heroCta": "Dancehall-Trap Beat Kaufen (WAV 24-Bit)",
+  "energyLevel": "Maximum",
+  "primaryUse": "Summer Festival Banger, Club Dance Anthem and Massive Car Audio Hit",
+  "similarArtists": [
+    "Bonez MC",
+    "RAF Camora",
+    "Gzuz",
+    "Maxwell"
+  ],
+  "recommendedBpm": "106-112 BPM",
+  "productionTips": "Syncopated Caribbean dembow/reggaeton kick patterns layered with warm acoustic guitars and sub-bass.",
+  "idealVocalStyle": "Melodic autotuned delivery, energetic dancehall shouts, fast syncopated verses, and massive choruses.",
+  "suggestedKey": "G Minor / B Minor",
+  "streamingSuitability": "Dominates summer party playlists, beach club DJ sets, and gym motivation mixes."
+},
+  {
+  "slug": "ufo361-stay-high-atlanta-trap",
+  "title": "Ufo361 Stay High Futuristic Atlanta-Berlin Trap & Alien Synth Beat",
+  "description": "Futuristic, mind-bending trap instrumental inspired by Ufo361 (Stay High, Tiffany, Wave, Rich Rich, Daniel Lee), with spacey modulated synthesizers, distorted 808s, and ambient autotune reverb tails.",
+  "targetKeywords": [
+    "ufo361 type beat",
+    "stay high type beat",
+    "ufo361 wave instrumental",
+    "futuristic trap beat berlin",
+    "alien synth trap beat"
+  ],
+  "heroCta": "Ufo361 Style Beat Kaufen (Instant WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "Avant-Garde Trap Single, High-Fashion Visuals and Late-Night Driving Sound",
+  "similarArtists": [
+    "Ufo361",
+    "Travis Scott",
+    "Playboi Carti",
+    "Future"
+  ],
+  "recommendedBpm": "136-144 BPM",
+  "productionTips": "Pitch-shifted synthesizer arpeggios processed through analog flanger with heavy distorted 808 saturation.",
+  "idealVocalStyle": "High-pitched autotuned vocal inflections, ad-lib layered hooks ('Ja!'), and melodic flow switches.",
+  "suggestedKey": "F Minor / C# Minor",
+  "streamingSuitability": "Insuperable for late night aesthetics, fashion week visualizers, and cutting-edge trap playlists."
+},
+  {
+  "slug": "og-keemo-mannheim-geist-gritty-boombap",
+  "title": "OG Keemo & Funkvater Frank Gritty Mannheim Boom Bap Masterpiece Beat",
+  "description": "Raw, cinematic and menacing German hip-hop instrumental inspired by OG Keemo and Funkvater Frank (Geist, Mann beisst Hund, Vorwort, Tasche), featuring dark vinyl sample flips and neck-snapping drums.",
+  "targetKeywords": [
+    "og keemo type beat",
+    "funkvater frank type beat",
+    "mannheim boombap instrumental",
+    "dark cinematic hip hop beat",
+    "mann beisst hund type beat"
+  ],
+  "heroCta": "OG Keemo Style Beat Kaufen (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Hardcore Lyrical Single, Cinematic Concept Album and Gritty Cypher",
+  "similarArtists": [
+    "OG Keemo",
+    "Tretti",
+    "Kwam.E",
+    "Tom Hengst"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "productionTips": "MPC-style chopped dark orchestral and soul samples layered with crunchy analog acoustic snares and fat sub.",
+  "idealVocalStyle": "Deep, aggressive, storytelling delivery, complex internal rhyme schemes, and commanding microphone authority.",
+  "suggestedKey": "D Minor / G Minor",
+  "streamingSuitability": "Critically revered across purist German hip-hop media, vinyl collectors, and conscious rap channels."
+},
+  {
+  "slug": "shindy-in-meiner-bluete-luxury-class",
+  "title": "Shindy In Meiner Blüte Luxury Class Smooth Soul-Sampled Trap Beat",
+  "description": "Lavish, opulent German luxury rap instrumental inspired by Shindy (In Meiner Blüte, Drama, Affalterbach, EFH, Nautilus), featuring silky Rhodes chords, warm soul sample chops, and pristine sub-bass.",
+  "targetKeywords": [
+    "shindy type beat",
+    "shindy in meiner bluete beat",
+    "luxury trap beat deutschland",
+    "affalterbach shindy instrumental",
+    "soul sampled trap beat"
+  ],
+  "heroCta": "Shindy Style Beat Kaufen (WAV 24-Bit)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Luxury Rap Single, High-End Fashion Video and Sophisticated Album Centerpiece",
+  "similarArtists": [
+    "Shindy",
+    "RIN",
+    "Peter Fox",
+    "Bausa"
+  ],
+  "recommendedBpm": "120-128 BPM",
+  "productionTips": "Filtered vintage electric piano progressions layered with velvet vocal textures and uncompressed acoustic drums.",
+  "idealVocalStyle": "Laid-back, arrogant, sophisticated cadence, luxury brand references, and silky melodic hooks.",
+  "suggestedKey": "Eb Minor / Bb Minor",
+  "streamingSuitability": "Consistent evergreen streams across luxury lifestyle playlists, car cruising mixes, and urban radio."
+},
+  {
+  "slug": "t-low-litbarski-emo-guitar-trap",
+  "title": "t-low Litbarski Emotional Emo Guitar Trap & Melodic Autotune Beat",
+  "description": "Heartbreaking, introspective German emo-trap instrumental inspired by t-low (Sehnsucht, Ordentlich, Crashen, We Made It), pairing emotional acoustic and electric guitars with hard-hitting 808 drops.",
+  "targetKeywords": [
+    "t-low type beat",
+    "sehnsucht t-low instrumental",
+    "emo guitar trap beat deutschland",
+    "t-low ordentlich beat",
+    "melodic emo rap beat"
+  ],
+  "heroCta": "t-low Style Beat Kaufen (Instant WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Emotional Heartbreak Single, Vulnerable Youth Anthem and Melodic Rap Video",
+  "similarArtists": [
+    "t-low",
+    "Lil Peep",
+    "Juice WRLD",
+    "Makko"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "productionTips": "Real processed electric guitar with stereo chorus and analog tape saturation over punchy 808 kicks.",
+  "idealVocalStyle": "Vulnerable, honest lyrics, autotuned emotional singing, and raw relatable adolescent themes.",
+  "suggestedKey": "C# Minor / A Minor",
+  "streamingSuitability": "Tremendous viral numbers on TikTok, Spotify Top 50, and emotional youth playlists."
+},
+  {
+  "slug": "ski-aggu-wilmersdorfer-techno-rap",
+  "title": "Ski Aggu Berlin 150 BPM Techno-Rap & High-Voltage Party Banger Beat",
+  "description": "Explosive, hyperactive Berlin techno-rap crossover instrumental inspired by Ski Aggu (Friesenjung, Mietfrei, Party Sahne, Theater), with driving 150 BPM kick drums, acid synth basslines, and party energy.",
+  "targetKeywords": [
+    "ski aggu type beat",
+    "techno rap beat 150 bpm",
+    "berlin techno trap instrumental",
+    "friesenjung type beat",
+    "ski aggu party sahne beat"
+  ],
+  "heroCta": "Techno-Rap Beat Kaufen (WAV + Stems)",
+  "energyLevel": "Maximum",
+  "primaryUse": "High-Voltage Club Banger, Viral Festival Anthem and High-Speed Video",
+  "similarArtists": [
+    "Ski Aggu",
+    "Joost Klein",
+    "01099",
+    "Domiziana"
+  ],
+  "recommendedBpm": "148-154 BPM",
+  "productionTips": "Driving four-to-the-floor Berlin rave kick pattern layered with rolling 16th-note sub basslines and playful synths.",
+  "idealVocalStyle": "Fast-paced, humorous, self-deprecating rhymes, energetic party shouts, and infectious chant choruses.",
+  "suggestedKey": "A Minor / E Minor",
+  "streamingSuitability": "Guaranteed explosive viral spikes on TikTok, festival stages, and German club DJ playlists."
+},
+  {
+  "slug": "rin-megatron-cloud-rap-nostalgia",
+  "title": "RIN Megatron Aesthetic Cloud Rap & Nostalgic Vintage Guitar Beat",
+  "description": "Euphoric, hazy aesthetic German cloud rap instrumental inspired by RIN (Megatron, Monica Bellucci, Dior 2001, Vintage, Bros), pairing nostalgic filtered guitars with wide, atmospheric sub-bass.",
+  "targetKeywords": [
+    "rin type beat",
+    "dior 2001 type beat",
+    "german cloud rap instrumental",
+    "rin vintage beat",
+    "aesthetic trap beat deutschland"
+  ],
+  "heroCta": "RIN Style Beat Kaufen (Instant WAV)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Euphoric Summer Single, Nostalgic Night Drive and Aesthetic Visuals",
+  "similarArtists": [
+    "RIN",
+    "Bausa",
+    "Yung Hurn",
+    "Ufo361"
+  ],
+  "recommendedBpm": "120-128 BPM",
+  "productionTips": "Warm tape-saturated clean electric guitar arpeggios layered with lush, dream-like ambient stereo pads.",
+  "idealVocalStyle": "Melodic, carefree singing, nostalgic youthful themes, infectious ad-libs, and stylish auto-tune.",
+  "suggestedKey": "G Major / E Minor",
+  "streamingSuitability": "Massive cult longevity on chill rap playlists, summer festival rotations, and aesthetic lifestyle videos."
+},
+  {
+  "slug": "berlin-u-bahn-night-tunnel-drill",
+  "title": "Berlin U-Bahn Subterranean Night Tunnel Cold Drill 808 Beat",
+  "description": "Cinematic, dark nighttime German drill instrumental capturing the subterranean pulse of Berlin's U8 and U1 lines: screeching steel textures, icy synth bells, and menacing pitch-sliding sub glides.",
+  "targetKeywords": [
+    "berlin u-bahn drill beat",
+    "german night drill instrumental",
+    "berlin dark drill beat",
+    "subterranean 808 drill deutschland",
+    "cold piano drill berlin"
+  ],
+  "heroCta": "Berlin Night Drill Kaufen (WAV 24-Bit)",
+  "energyLevel": "High",
+  "primaryUse": "Dark Street Single, Late Night Subway Visuals and Hard Gym Workout Track",
+  "similarArtists": [
+    "Luciano",
+    "Pashanim",
+    "AK Ausserkontrolle",
+    "Central Cee"
+  ],
+  "recommendedBpm": "141-144 BPM",
+  "productionTips": "Grand piano with tape degradation layered over deep portamento sub-bass drops and clipped drill rimshots.",
+  "idealVocalStyle": "Cold, gravelly street reality delivery, menacing punchlines, and raw atmospheric ad-libs.",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "Essential for drill playlists, automotive content creators, and urban street visuals."
+},
+  {
+  "slug": "hamburg-reeperbahn-st-pauli-rock-trap",
+  "title": "Hamburg Reeperbahn St. Pauli Gritty Heavy Rock-Trap 808 Beat",
+  "description": "Explosive, rebellious street anthem capturing the raw nighttime grit of Hamburg's St. Pauli and Reeperbahn: distorted electric guitar riffs, punchy industrial kicks, and thunderous 808 sub drops.",
+  "targetKeywords": [
+    "hamburg rock trap beat",
+    "reeperbahn street rap instrumental",
+    "st pauli trap beat 808",
+    "distorted guitar rap beat germany",
+    "hamburg 187 style beat"
+  ],
+  "heroCta": "St. Pauli Beat Kaufen (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hard Rock-Trap Single, Rebel Music Video and High-Energy Concert Banger",
+  "similarArtists": [
+    "Bonez MC",
+    "Gzuz",
+    "Kwam.E",
+    "Kontra K"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "productionTips": "Heavy overdriven rock guitar power chords balanced with a clean low-end 808 pocket and punchy snare.",
+  "idealVocalStyle": "Aggressive, raspy street vocals, rebellious shouting hooks, and unapologetic attitude.",
+  "suggestedKey": "E Minor / D Minor",
+  "streamingSuitability": "Insuperable for rock-trap crossover playlists, gym motivation, and high-adrenaline visualizers."
+},
+  {
+  "slug": "deutschrap-beats-kaufen-sofort-klarna",
+  "title": "Deutschrap Beats Kaufen ab 29€ (Sofortüberweisung, Klarna & PayPal)",
+  "description": "Professionelle, studiofertige Deutschrap und Trap Instrumentals ab 29€ mit reibungslosem Checkout über Sofortüberweisung, Klarna Rechnung, Giropay und PayPal in Euro (€).",
+  "targetKeywords": [
+    "deutschrap beats kaufen sofort klarna",
+    "beats kaufen deutschland paypal",
+    "trap beats kaufen 29 euro",
+    "deutschrap instrumental download klarna"
+  ],
+  "heroCta": "Günstige Beats ab 29€ Entdecken",
+  "energyLevel": "Variable",
+  "primaryUse": "Mixtapes, Debüt-Singles und Home Studio Aufnahmen mit Voller Lizenz",
+  "similarArtists": [
+    "Unabhängige Deutsche Rapper",
+    "SoundCloud & TikTok Artists"
+  ],
+  "recommendedBpm": "120-144 BPM",
+  "productionTips": "Perfekt vorgemischt und gemastert mit ausreichend Headroom für Gesangsaufnahmen.",
+  "idealVocalStyle": "Anpassbar für melodischen Autotune-Gesang, harte Straßenspuren und schnelle Flows.",
+  "suggestedKey": "Alle Dur- und Moll-Tonarten",
+  "streamingSuitability": "Kommerzielle Lizenz deckt bis zu 100.000 Streams auf Spotify, Apple Music und Deezer ab."
+},
+  {
+  "slug": "german-drill-beats-luciano-style-wav",
+  "title": "German Drill Beats mit Multitrack Stems (Luciano Style 24-Bit WAV)",
+  "description": "Wuchtige, düstere German Drill Beats mit gleitenden 808-Bässen, geliefert mit allen getrennten Audiospuren (Stems WAV) für präzise Studio-Vocal-Mixe im Profi-Tonstudio.",
+  "targetKeywords": [
+    "german drill beats luciano style wav",
+    "drill beats mit stems kaufen",
+    "deutschland drill trackout wav",
+    "heavy 808 drill beat deutschrap"
+  ],
+  "heroCta": "Drill Beats + Stems Herunterladen",
+  "energyLevel": "Very High",
+  "primaryUse": "Professionelle Studioaufnahmen, High-End Mixing und Dolby Atmos",
+  "similarArtists": [
+    "Luciano",
+    "Central Cee",
+    "Gazo",
+    "Pashanim"
+  ],
+  "recommendedBpm": "140-145 BPM",
+  "productionTips": "Jedes Instrument trocken exportiert mit separaten Effektspuren für absolute Mischkontrolle.",
+  "idealVocalStyle": "Harte Punchlines, tiefe Bariton-Stimmen und aggressive Drill-Kadenzen.",
+  "suggestedKey": "Cis-Moll / E-Moll",
+  "streamingSuitability": "Unbegrenzte Streams und weltweite Musikvideo-Monetarisierung inklusive."
+},
+  {
+  "slug": "melodische-deutschrap-piano-beats-wav",
+  "title": "Melodische Deutschrap Piano Beats (Verlustfreie 24-Bit Studio WAV)",
+  "description": "Gefühlvolle deutsche Rap-Beats mit Flügel-Harmonien, feinfühligen Streichern und warmen 808s, fertig vorbereitet für den Upload auf Spotify und Apple Music in 24-Bit WAV.",
+  "targetKeywords": [
+    "melodische deutschrap piano beats wav",
+    "piano rap beat deutschland",
+    "melancholische trap beats kaufen",
+    "klavier rap instrumental 24 bit"
+  ],
+  "heroCta": "Melodische Piano Beats Anhören",
+  "energyLevel": "High",
+  "primaryUse": "Emotionale Lead-Singles, Storytelling-Tracks und Musikvideos",
+  "similarArtists": [
+    "Pashanim",
+    "Apache 207",
+    "Kontra K",
+    "Samra"
+  ],
+  "recommendedBpm": "126-136 BPM",
+  "productionTips": "Auf analogen Tonbändern gesättigtes Klavier mit präzisen Hi-Hats und warmem Tiefbass.",
+  "idealVocalStyle": "Ehrliche, verletzliche Texte, melodische Refrains und persönliche Straßenreflexionen.",
+  "suggestedKey": "A-Moll / F-Moll",
+  "streamingSuitability": "Kommerziell freigegeben mit 100% Verbleib aller Master-Einnahmen beim Künstler."
+},
+  {
+  "slug": "gema-freie-beats-lizenzvertrag-pdf",
+  "title": "GEMA-Freie Beats & Lizenzvertrag für Rapper (Sofortiger PDF-Download)",
+  "description": "Rechtssicherer deutscher Musikproduzenten-Vertrag mit garantierter GEMA-Freiheit: laden Sie Ihren personalisierten Lizenzvertrag und Split Sheet sofort nach dem Kauf herunter.",
+  "targetKeywords": [
+    "gema freie beats lizenzvertrag pdf",
+    "beat lizenzvertrag deutschland pdf",
+    "gema freie rap beats kaufen",
+    "produzentenvertrag beat split sheet"
+  ],
+  "heroCta": "GEMA-Freien Lizenzvertrag Einsehen (PDF)",
+  "energyLevel": "N/A",
+  "primaryUse": "Rechtssicherheit, Veröffentlichungs-Splits und Kommerzieller Schutz",
+  "similarArtists": [
+    "Onzieb",
+    "Unabhängige Songwriter und Beatmaker in Deutschland"
+  ],
+  "recommendedBpm": "Alle Tempos",
+  "productionTips": "Formuliert nach deutschem Urheberrecht zum Schutz von Künstlern und Komponisten.",
+  "idealVocalStyle": "Gültig für alle Genres, Gesangs- und Rap-Aufnahmen.",
+  "suggestedKey": "Alle Tonarten",
+  "streamingSuitability": "Vollständiger Schutz für weltweiten kommerziellen Vertrieb und Synchronisation."
+},
+  {
+  "slug": "deutschrap-afrotrap-sommer-beats",
+  "title": "Deutschrap Afrotrap & Sommer Bounces (108-124 BPM Club & Radio Ready)",
+  "description": "Treibende Sommer-Beats und Afrotrap-Rhythmen für Deutschrap: tanzbare Kicks, frische Gitarren-Melodien und pumpende Bässe für Clubs, Open Airs und Radio-Rotation.",
+  "targetKeywords": [
+    "deutschrap afrotrap sommer beats",
+    "sommer rap beat deutschland",
+    "dancehall trap beat deutschrap",
+    "afrotrap instrumental 112 bpm"
+  ],
+  "heroCta": "Sommer Afrotrap Beats Anhören",
+  "energyLevel": "High",
+  "primaryUse": "Sommer-Hit, Club-Banger und Fröhliche Party-Tracks",
+  "similarArtists": [
+    "Bonez MC",
+    "RAF Camora",
+    "Bausa",
+    "Summer Cem"
+  ],
+  "recommendedBpm": "108-120 BPM",
+  "productionTips": "Synkopierte Dembow- und Afro-Kick-Muster mit hellen, fröhlichen Melodien.",
+  "idealVocalStyle": "Tanzbare Hooks, Mitsing-Melodien und energetische Gute-Laune-Flows.",
+  "suggestedKey": "G-Moll / H-Moll",
+  "streamingSuitability": "Perfekt für Sommer-Playlists, Festival-Sets und virale Social Media Sounds."
+},
+  {
+  "slug": "album-ep-beat-pakete-deutschland-rabatt",
+  "title": "5-Beat Album & EP Pakete in Deutschland (40% Rabatt in Euro €)",
+  "description": "Das Komplettpaket für deutsche Rapper, die an einer EP oder einem Album arbeiten: wählen Sie 5 oder 10 Beats aus dem gesamten Katalog mit bis zu 40% Mengenrabatt.",
+  "targetKeywords": [
+    "album ep beat pakete deutschland rabatt",
+    "5 beats bundle rabatt deutschrap",
+    "beats im paket kaufen euro",
+    "ep produktion beat bundle gema frei"
+  ],
+  "heroCta": "5-Beat Album-Paket Sichern (40% Rabatt)",
+  "energyLevel": "Variable",
+  "primaryUse": "Vollständige Album-Produktion, Roter Faden und Kontinuierliche Drops",
+  "similarArtists": [
+    "Unabhängige Rapper und Kollektive in Deutschland"
+  ],
+  "recommendedBpm": "85-145 BPM",
+  "productionTips": "Klanglich harmonisch abgestimmte Beats für einen stimmigen Gesamteindruck Ihres Projekts.",
+  "idealVocalStyle": "Umfassender Raum für die gesamte stimmliche und thematische Bandbreite.",
+  "suggestedKey": "Abgestimmte Tonarten",
+  "streamingSuitability": "Einheitliche kommerzielle Lizenz für alle Tracks Ihres Projekts gleichzeitig."
+},
+  {
+  "slug": "musikproduzent-deutschland-whatsapp-onzieb",
+  "title": "Exklusiver Musikproduzent für Deutsche Künstler (WhatsApp Collab Onzieb)",
+  "description": "Arbeiten Sie direkt mit Musikproduzent Onzieb über WhatsApp zusammen für maßgeschneiderte Exklusiv-Beats, Tonart-Anpassungen, Stem-Arrangements und persönliche Beratung.",
+  "targetKeywords": [
+    "musikproduzent deutschland whatsapp",
+    "onzieb beatmaker kontakt",
+    "exklusiv beat anfertigen lassen",
+    "deutscher rap produzent auftrag"
+  ],
+  "heroCta": "Mit Onzieb auf WhatsApp Schreiben",
+  "energyLevel": "Individuell",
+  "primaryUse": "Maßgeschneiderte Signatur-Tracks, Label-Pitches und Eigene Sound-Identität",
+  "similarArtists": [
+    "Onzieb",
+    "Führende Deutsche Urban-Produzenten"
+  ],
+  "recommendedBpm": "Exakt auf Ihre Stimme und Ihr Atemmuster angepasst",
+  "productionTips": "Schrittweise Absprachen über Sprachnachrichten und direkten Dateiaustausch via WhatsApp.",
+  "idealVocalStyle": "Perfekt auf Frequenzgang und Klangfarbe Ihrer Stimme zugeschnitten.",
+  "suggestedKey": "Individuelle Tonart",
+  "streamingSuitability": "Direkter Exklusivvertrag mit 100% Master-Eigentum und weltweiter Verwertung."
+},
+  {
+  "slug": "emo-guitar-deutschrap-beats-t-low",
+  "title": "Emo Guitar Deutschrap Beats (Gefühlvolle Gitarren & 808s)",
+  "description": "Herzergreifende, melancholische Trap-Beats mit emotionalen E-Gitarren-Pickings, zarten Pianos und wuchtigen 808s, perfekt für ehrlichen Gesang und Autotune-Storytelling.",
+  "targetKeywords": [
+    "emo guitar deutschrap beats",
+    "gitarren trap beat traurig deutsch",
+    "t-low style guitar beat",
+    "emo rap instrumental deutschland"
+  ],
+  "heroCta": "Emo Guitar Beats Anhören (WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Herzensschmerz-Single, Emotionales Musikvideo und Autotune-Track",
+  "similarArtists": [
+    "t-low",
+    "Makko",
+    "Lil Peep",
+    "Juice WRLD"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "productionTips": "Verstimmte analoge E-Gitarren mit warmem Hall und druckvollem Subbass-Fundament.",
+  "idealVocalStyle": "Verletzlicher Gesang, berührende Melodien und ehrliche, ungefilterte Gefühle.",
+  "suggestedKey": "Cis-Moll / A-Moll / E-Moll",
+  "streamingSuitability": "Extrem hohe Wiederholungsraten auf TikTok, Spotify Sad Boy Playlists und YouTube."
+},
+  {
+  "slug": "luxury-deutschrap-rnb-trap-shindy",
+  "title": "Luxury Deutschrap & R&B-Trap Beats (Edle Rhodes & Seidiger Bass)",
+  "description": "Glanzvolle, hochkarätige R&B-Trap und Deutschrap Instrumentals mit warmen Rhodes-Pianos, seidigen Synthesizern und elegantem Swing für anspruchsvolle deutsche Rapper.",
+  "targetKeywords": [
+    "luxury deutschrap rnb trap shindy",
+    "edler trap beat deutschland",
+    "shindy affalterbach style beat",
+    "rnb rap beat deutsch 24 bit"
+  ],
+  "heroCta": "Luxury R&B-Trap Beats Entdecken",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Exklusiver Club-Track, Modisches Musikvideo und Hochwertiges Album-Highlight",
+  "similarArtists": [
+    "Shindy",
+    "RIN",
+    "Bausa",
+    "Peter Fox"
+  ],
+  "recommendedBpm": "118-128 BPM",
+  "productionTips": "Feine analoge Keyboard-Texturen kombiniert mit unkomprimierten organischen Drums.",
+  "idealVocalStyle": "Lässige Delivery, arrogante Punchlines, samtige Refrains und stylische Harmonien.",
+  "suggestedKey": "Es-Moll / B-Moll",
+  "streamingSuitability": "Erstklassig für Lifestyle-Playlists, elegantes Radio-Format und stylische Videos."
+},
+  {
+  "slug": "free-deutschrap-drill-drum-kit-wav",
+  "title": "Kostenloses Deutschrap & Drill Drum Kit (24-Bit WAV 808s & Snares)",
+  "description": "Laden Sie unser kostenloses Beatmaker-Soundpack herunter: 25 gestimmte 808-Bässe, knackige Kicks, scharfe Drill-Rimshots und Hi-Hat-Loops in verlustfreier 24-Bit Studio-WAV-Qualität.",
+  "targetKeywords": [
+    "kostenloses deutschrap drill drum kit wav",
+    "free trap drum kit deutschland",
+    "808 samples kostenlos downloaden",
+    "drill drum kit fl studio gratis"
+  ],
+  "heroCta": "Kostenloses Drum Kit Herunterladen (ZIP)",
+  "energyLevel": "High",
+  "primaryUse": "Musikproduktion im Home Studio, Beatmaking in FL Studio, Ableton und Logic",
+  "similarArtists": [
+    "Deutsche Bedroom Producer",
+    "Aufstrebende Beatmaker"
+  ],
+  "recommendedBpm": "Kompatibel mit allen Tempos",
+  "productionTips": "100% lizenzfreie One-Shots, vorgemastert für maximalen Druck und sofortigen Einsatz.",
+  "idealVocalStyle": "Solides rhythmisches Fundament für Produzenten und Beatmaker.",
+  "suggestedKey": "Auf C gestimmt für mühelose Transposition im DAW",
+  "streamingSuitability": "Lizenzfrei für kommerzielle Beat-Verkäufe und Musik-Releases nutzbar."
+},
+  {
+  "slug": "berlin-kreuzberg-german-trap-808",
+  "name": "Berlin-Kreuzberg German Trap 808 Beats",
+  "category": "scene",
+  "badge": "Berlin-Kreuzberg German Trap",
+  "headline": "Berlin-Kreuzberg (X-Berg 36 & Neukölln Underground) German Trap 808 Beats: 24-Bit WAV Beats & Klarna / Sofortüberweisung",
+  "description": "Druckvolle gleitende 808-Subbässe, düstere Moll-Synths und scharfe Trap-Snares für Künstler in Berlin-Kreuzberg.",
+  "targetArtists": [
+    "Künstler aus Berlin-Kreuzberg",
+    "Deutschrap Community",
+    "Deutsche Hip-Hop Szene"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "F-Moll / C-Moll",
+  "vibeAttributes": [
+    "Berlin-Kreuzberg",
+    "German Trap",
+    "Klarna & Sofort (EUR €)",
+    "100% GEMA-Frei"
+  ],
+  "popularGenres": [
+    "German Trap 808 Beats",
+    "German Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "berlin-kreuzberg-berlin-street-drill",
+  "name": "Berlin-Kreuzberg Berlin Street Drill Beats",
+  "category": "scene",
+  "badge": "Berlin-Kreuzberg Berlin Drill",
+  "headline": "Berlin-Kreuzberg (X-Berg 36 & Neukölln Underground) Berlin Street Drill Beats: 24-Bit WAV Beats & Klarna / Sofortüberweisung",
+  "description": "Düstere Klaviere, blitzschnelle Hi-Hats und abgrundtiefe 808-Slides für Rapper in Berlin-Kreuzberg.",
+  "targetArtists": [
+    "Künstler aus Berlin-Kreuzberg",
+    "Deutschrap Community",
+    "Deutsche Hip-Hop Szene"
+  ],
+  "recommendedBpm": "140-145 BPM",
+  "recommendedKey": "E-Moll / Cis-Moll",
+  "vibeAttributes": [
+    "Berlin-Kreuzberg",
+    "Berlin Drill",
+    "Klarna & Sofort (EUR €)",
+    "100% GEMA-Frei"
+  ],
+  "popularGenres": [
+    "Berlin Street Drill Beats",
+    "German Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "berlin-kreuzberg-deutschrap-afro-bounce",
+  "name": "Berlin-Kreuzberg Deutschrap Afro Bounce Beats",
+  "category": "scene",
+  "badge": "Berlin-Kreuzberg Afro Bounce",
+  "headline": "Berlin-Kreuzberg (X-Berg 36 & Neukölln Underground) Deutschrap Afro Bounce Beats: 24-Bit WAV Beats & Klarna / Sofortüberweisung",
+  "description": "Tanzbare Dembow- und Afro-Grooves, sommerliche Gitarren und pumpende Bässe für MCs in Berlin-Kreuzberg.",
+  "targetArtists": [
+    "Künstler aus Berlin-Kreuzberg",
+    "Deutschrap Community",
+    "Deutsche Hip-Hop Szene"
+  ],
+  "recommendedBpm": "108-114 / 128 BPM",
+  "recommendedKey": "G-Moll / H-Moll",
+  "vibeAttributes": [
+    "Berlin-Kreuzberg",
+    "Afro Bounce",
+    "Klarna & Sofort (EUR €)",
+    "100% GEMA-Frei"
+  ],
+  "popularGenres": [
+    "Deutschrap Afro Bounce Beats",
+    "German Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "berlin-kreuzberg-ruhrpott-boom-bap",
+  "name": "Berlin-Kreuzberg Ruhrpott Classic Boom Bap",
+  "category": "scene",
+  "badge": "Berlin-Kreuzberg Pott Boom Bap",
+  "headline": "Berlin-Kreuzberg (X-Berg 36 & Neukölln Underground) Ruhrpott Classic Boom Bap: 24-Bit WAV Beats & Klarna / Sofortüberweisung",
+  "description": "Knisternde Vinyl-Chops, scheppernde Snares und warme analoge Basslines für echte Rap-Köpfe in Berlin-Kreuzberg.",
+  "targetArtists": [
+    "Künstler aus Berlin-Kreuzberg",
+    "Deutschrap Community",
+    "Deutsche Hip-Hop Szene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D-Moll / H-Moll",
+  "vibeAttributes": [
+    "Berlin-Kreuzberg",
+    "Pott Boom Bap",
+    "Klarna & Sofort (EUR €)",
+    "100% GEMA-Frei"
+  ],
+  "popularGenres": [
+    "Ruhrpott Classic Boom Bap",
+    "German Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "dortmund-german-trap-808",
+  "name": "Dortmund German Trap 808 Beats",
+  "category": "scene",
+  "badge": "Dortmund German Trap",
+  "headline": "Dortmund (Nordstadt & Ruhrpott Maloche) German Trap 808 Beats: 24-Bit WAV Beats & Klarna / Sofortüberweisung",
+  "description": "Druckvolle gleitende 808-Subbässe, düstere Moll-Synths und scharfe Trap-Snares für Künstler in Dortmund.",
+  "targetArtists": [
+    "Künstler aus Dortmund",
+    "Deutschrap Community",
+    "Deutsche Hip-Hop Szene"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "F-Moll / C-Moll",
+  "vibeAttributes": [
+    "Dortmund",
+    "German Trap",
+    "Klarna & Sofort (EUR €)",
+    "100% GEMA-Frei"
+  ],
+  "popularGenres": [
+    "German Trap 808 Beats",
+    "German Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "dortmund-berlin-street-drill",
+  "name": "Dortmund Berlin Street Drill Beats",
+  "category": "scene",
+  "badge": "Dortmund Berlin Drill",
+  "headline": "Dortmund (Nordstadt & Ruhrpott Maloche) Berlin Street Drill Beats: 24-Bit WAV Beats & Klarna / Sofortüberweisung",
+  "description": "Düstere Klaviere, blitzschnelle Hi-Hats und abgrundtiefe 808-Slides für Rapper in Dortmund.",
+  "targetArtists": [
+    "Künstler aus Dortmund",
+    "Deutschrap Community",
+    "Deutsche Hip-Hop Szene"
+  ],
+  "recommendedBpm": "140-145 BPM",
+  "recommendedKey": "E-Moll / Cis-Moll",
+  "vibeAttributes": [
+    "Dortmund",
+    "Berlin Drill",
+    "Klarna & Sofort (EUR €)",
+    "100% GEMA-Frei"
+  ],
+  "popularGenres": [
+    "Berlin Street Drill Beats",
+    "German Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "dortmund-deutschrap-afro-bounce",
+  "name": "Dortmund Deutschrap Afro Bounce Beats",
+  "category": "scene",
+  "badge": "Dortmund Afro Bounce",
+  "headline": "Dortmund (Nordstadt & Ruhrpott Maloche) Deutschrap Afro Bounce Beats: 24-Bit WAV Beats & Klarna / Sofortüberweisung",
+  "description": "Tanzbare Dembow- und Afro-Grooves, sommerliche Gitarren und pumpende Bässe für MCs in Dortmund.",
+  "targetArtists": [
+    "Künstler aus Dortmund",
+    "Deutschrap Community",
+    "Deutsche Hip-Hop Szene"
+  ],
+  "recommendedBpm": "108-114 / 128 BPM",
+  "recommendedKey": "G-Moll / H-Moll",
+  "vibeAttributes": [
+    "Dortmund",
+    "Afro Bounce",
+    "Klarna & Sofort (EUR €)",
+    "100% GEMA-Frei"
+  ],
+  "popularGenres": [
+    "Deutschrap Afro Bounce Beats",
+    "German Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "dortmund-ruhrpott-boom-bap",
+  "name": "Dortmund Ruhrpott Classic Boom Bap",
+  "category": "scene",
+  "badge": "Dortmund Pott Boom Bap",
+  "headline": "Dortmund (Nordstadt & Ruhrpott Maloche) Ruhrpott Classic Boom Bap: 24-Bit WAV Beats & Klarna / Sofortüberweisung",
+  "description": "Knisternde Vinyl-Chops, scheppernde Snares und warme analoge Basslines für echte Rap-Köpfe in Dortmund.",
+  "targetArtists": [
+    "Künstler aus Dortmund",
+    "Deutschrap Community",
+    "Deutsche Hip-Hop Szene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D-Moll / H-Moll",
+  "vibeAttributes": [
+    "Dortmund",
+    "Pott Boom Bap",
+    "Klarna & Sofort (EUR €)",
+    "100% GEMA-Frei"
+  ],
+  "popularGenres": [
+    "Ruhrpott Classic Boom Bap",
+    "German Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "mannheim-german-trap-808",
+  "name": "Mannheim German Trap 808 Beats",
+  "category": "scene",
+  "badge": "Mannheim German Trap",
+  "headline": "Mannheim (Kurpfalz Soul & Popakademie) German Trap 808 Beats: 24-Bit WAV Beats & Klarna / Sofortüberweisung",
+  "description": "Druckvolle gleitende 808-Subbässe, düstere Moll-Synths und scharfe Trap-Snares für Künstler in Mannheim.",
+  "targetArtists": [
+    "Künstler aus Mannheim",
+    "Deutschrap Community",
+    "Deutsche Hip-Hop Szene"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "F-Moll / C-Moll",
+  "vibeAttributes": [
+    "Mannheim",
+    "German Trap",
+    "Klarna & Sofort (EUR €)",
+    "100% GEMA-Frei"
+  ],
+  "popularGenres": [
+    "German Trap 808 Beats",
+    "German Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "mannheim-berlin-street-drill",
+  "name": "Mannheim Berlin Street Drill Beats",
+  "category": "scene",
+  "badge": "Mannheim Berlin Drill",
+  "headline": "Mannheim (Kurpfalz Soul & Popakademie) Berlin Street Drill Beats: 24-Bit WAV Beats & Klarna / Sofortüberweisung",
+  "description": "Düstere Klaviere, blitzschnelle Hi-Hats und abgrundtiefe 808-Slides für Rapper in Mannheim.",
+  "targetArtists": [
+    "Künstler aus Mannheim",
+    "Deutschrap Community",
+    "Deutsche Hip-Hop Szene"
+  ],
+  "recommendedBpm": "140-145 BPM",
+  "recommendedKey": "E-Moll / Cis-Moll",
+  "vibeAttributes": [
+    "Mannheim",
+    "Berlin Drill",
+    "Klarna & Sofort (EUR €)",
+    "100% GEMA-Frei"
+  ],
+  "popularGenres": [
+    "Berlin Street Drill Beats",
+    "German Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "mannheim-deutschrap-afro-bounce",
+  "name": "Mannheim Deutschrap Afro Bounce Beats",
+  "category": "scene",
+  "badge": "Mannheim Afro Bounce",
+  "headline": "Mannheim (Kurpfalz Soul & Popakademie) Deutschrap Afro Bounce Beats: 24-Bit WAV Beats & Klarna / Sofortüberweisung",
+  "description": "Tanzbare Dembow- und Afro-Grooves, sommerliche Gitarren und pumpende Bässe für MCs in Mannheim.",
+  "targetArtists": [
+    "Künstler aus Mannheim",
+    "Deutschrap Community",
+    "Deutsche Hip-Hop Szene"
+  ],
+  "recommendedBpm": "108-114 / 128 BPM",
+  "recommendedKey": "G-Moll / H-Moll",
+  "vibeAttributes": [
+    "Mannheim",
+    "Afro Bounce",
+    "Klarna & Sofort (EUR €)",
+    "100% GEMA-Frei"
+  ],
+  "popularGenres": [
+    "Deutschrap Afro Bounce Beats",
+    "German Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "mannheim-ruhrpott-boom-bap",
+  "name": "Mannheim Ruhrpott Classic Boom Bap",
+  "category": "scene",
+  "badge": "Mannheim Pott Boom Bap",
+  "headline": "Mannheim (Kurpfalz Soul & Popakademie) Ruhrpott Classic Boom Bap: 24-Bit WAV Beats & Klarna / Sofortüberweisung",
+  "description": "Knisternde Vinyl-Chops, scheppernde Snares und warme analoge Basslines für echte Rap-Köpfe in Mannheim.",
+  "targetArtists": [
+    "Künstler aus Mannheim",
+    "Deutschrap Community",
+    "Deutsche Hip-Hop Szene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D-Moll / H-Moll",
+  "vibeAttributes": [
+    "Mannheim",
+    "Pott Boom Bap",
+    "Klarna & Sofort (EUR €)",
+    "100% GEMA-Frei"
+  ],
+  "popularGenres": [
+    "Ruhrpott Classic Boom Bap",
+    "German Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "bonn-german-trap-808",
+  "name": "Bonn German Trap 808 Beats",
+  "category": "scene",
+  "badge": "Bonn German Trap",
+  "headline": "Bonn (Rhein-Sieg & Alles Oder Nix Mobster Trap) German Trap 808 Beats: 24-Bit WAV Beats & Klarna / Sofortüberweisung",
+  "description": "Druckvolle gleitende 808-Subbässe, düstere Moll-Synths und scharfe Trap-Snares für Künstler in Bonn.",
+  "targetArtists": [
+    "Künstler aus Bonn",
+    "Deutschrap Community",
+    "Deutsche Hip-Hop Szene"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "F-Moll / C-Moll",
+  "vibeAttributes": [
+    "Bonn",
+    "German Trap",
+    "Klarna & Sofort (EUR €)",
+    "100% GEMA-Frei"
+  ],
+  "popularGenres": [
+    "German Trap 808 Beats",
+    "German Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "bonn-berlin-street-drill",
+  "name": "Bonn Berlin Street Drill Beats",
+  "category": "scene",
+  "badge": "Bonn Berlin Drill",
+  "headline": "Bonn (Rhein-Sieg & Alles Oder Nix Mobster Trap) Berlin Street Drill Beats: 24-Bit WAV Beats & Klarna / Sofortüberweisung",
+  "description": "Düstere Klaviere, blitzschnelle Hi-Hats und abgrundtiefe 808-Slides für Rapper in Bonn.",
+  "targetArtists": [
+    "Künstler aus Bonn",
+    "Deutschrap Community",
+    "Deutsche Hip-Hop Szene"
+  ],
+  "recommendedBpm": "140-145 BPM",
+  "recommendedKey": "E-Moll / Cis-Moll",
+  "vibeAttributes": [
+    "Bonn",
+    "Berlin Drill",
+    "Klarna & Sofort (EUR €)",
+    "100% GEMA-Frei"
+  ],
+  "popularGenres": [
+    "Berlin Street Drill Beats",
+    "German Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "bonn-deutschrap-afro-bounce",
+  "name": "Bonn Deutschrap Afro Bounce Beats",
+  "category": "scene",
+  "badge": "Bonn Afro Bounce",
+  "headline": "Bonn (Rhein-Sieg & Alles Oder Nix Mobster Trap) Deutschrap Afro Bounce Beats: 24-Bit WAV Beats & Klarna / Sofortüberweisung",
+  "description": "Tanzbare Dembow- und Afro-Grooves, sommerliche Gitarren und pumpende Bässe für MCs in Bonn.",
+  "targetArtists": [
+    "Künstler aus Bonn",
+    "Deutschrap Community",
+    "Deutsche Hip-Hop Szene"
+  ],
+  "recommendedBpm": "108-114 / 128 BPM",
+  "recommendedKey": "G-Moll / H-Moll",
+  "vibeAttributes": [
+    "Bonn",
+    "Afro Bounce",
+    "Klarna & Sofort (EUR €)",
+    "100% GEMA-Frei"
+  ],
+  "popularGenres": [
+    "Deutschrap Afro Bounce Beats",
+    "German Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "bonn-ruhrpott-boom-bap",
+  "name": "Bonn Ruhrpott Classic Boom Bap",
+  "category": "scene",
+  "badge": "Bonn Pott Boom Bap",
+  "headline": "Bonn (Rhein-Sieg & Alles Oder Nix Mobster Trap) Ruhrpott Classic Boom Bap: 24-Bit WAV Beats & Klarna / Sofortüberweisung",
+  "description": "Knisternde Vinyl-Chops, scheppernde Snares und warme analoge Basslines für echte Rap-Köpfe in Bonn.",
+  "targetArtists": [
+    "Künstler aus Bonn",
+    "Deutschrap Community",
+    "Deutsche Hip-Hop Szene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D-Moll / H-Moll",
+  "vibeAttributes": [
+    "Bonn",
+    "Pott Boom Bap",
+    "Klarna & Sofort (EUR €)",
+    "100% GEMA-Frei"
+  ],
+  "popularGenres": [
+    "Ruhrpott Classic Boom Bap",
+    "German Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "wiesbaden-german-trap-808",
+  "name": "Wiesbaden German Trap 808 Beats",
+  "category": "scene",
+  "badge": "Wiesbaden German Trap",
+  "headline": "Wiesbaden (Rhein-Main West Coast & Melodic Street) German Trap 808 Beats: 24-Bit WAV Beats & Klarna / Sofortüberweisung",
+  "description": "Druckvolle gleitende 808-Subbässe, düstere Moll-Synths und scharfe Trap-Snares für Künstler in Wiesbaden.",
+  "targetArtists": [
+    "Künstler aus Wiesbaden",
+    "Deutschrap Community",
+    "Deutsche Hip-Hop Szene"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "F-Moll / C-Moll",
+  "vibeAttributes": [
+    "Wiesbaden",
+    "German Trap",
+    "Klarna & Sofort (EUR €)",
+    "100% GEMA-Frei"
+  ],
+  "popularGenres": [
+    "German Trap 808 Beats",
+    "German Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "wiesbaden-berlin-street-drill",
+  "name": "Wiesbaden Berlin Street Drill Beats",
+  "category": "scene",
+  "badge": "Wiesbaden Berlin Drill",
+  "headline": "Wiesbaden (Rhein-Main West Coast & Melodic Street) Berlin Street Drill Beats: 24-Bit WAV Beats & Klarna / Sofortüberweisung",
+  "description": "Düstere Klaviere, blitzschnelle Hi-Hats und abgrundtiefe 808-Slides für Rapper in Wiesbaden.",
+  "targetArtists": [
+    "Künstler aus Wiesbaden",
+    "Deutschrap Community",
+    "Deutsche Hip-Hop Szene"
+  ],
+  "recommendedBpm": "140-145 BPM",
+  "recommendedKey": "E-Moll / Cis-Moll",
+  "vibeAttributes": [
+    "Wiesbaden",
+    "Berlin Drill",
+    "Klarna & Sofort (EUR €)",
+    "100% GEMA-Frei"
+  ],
+  "popularGenres": [
+    "Berlin Street Drill Beats",
+    "German Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "wiesbaden-deutschrap-afro-bounce",
+  "name": "Wiesbaden Deutschrap Afro Bounce Beats",
+  "category": "scene",
+  "badge": "Wiesbaden Afro Bounce",
+  "headline": "Wiesbaden (Rhein-Main West Coast & Melodic Street) Deutschrap Afro Bounce Beats: 24-Bit WAV Beats & Klarna / Sofortüberweisung",
+  "description": "Tanzbare Dembow- und Afro-Grooves, sommerliche Gitarren und pumpende Bässe für MCs in Wiesbaden.",
+  "targetArtists": [
+    "Künstler aus Wiesbaden",
+    "Deutschrap Community",
+    "Deutsche Hip-Hop Szene"
+  ],
+  "recommendedBpm": "108-114 / 128 BPM",
+  "recommendedKey": "G-Moll / H-Moll",
+  "vibeAttributes": [
+    "Wiesbaden",
+    "Afro Bounce",
+    "Klarna & Sofort (EUR €)",
+    "100% GEMA-Frei"
+  ],
+  "popularGenres": [
+    "Deutschrap Afro Bounce Beats",
+    "German Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "wiesbaden-ruhrpott-boom-bap",
+  "name": "Wiesbaden Ruhrpott Classic Boom Bap",
+  "category": "scene",
+  "badge": "Wiesbaden Pott Boom Bap",
+  "headline": "Wiesbaden (Rhein-Main West Coast & Melodic Street) Ruhrpott Classic Boom Bap: 24-Bit WAV Beats & Klarna / Sofortüberweisung",
+  "description": "Knisternde Vinyl-Chops, scheppernde Snares und warme analoge Basslines für echte Rap-Köpfe in Wiesbaden.",
+  "targetArtists": [
+    "Künstler aus Wiesbaden",
+    "Deutschrap Community",
+    "Deutsche Hip-Hop Szene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D-Moll / H-Moll",
+  "vibeAttributes": [
+    "Wiesbaden",
+    "Pott Boom Bap",
+    "Klarna & Sofort (EUR €)",
+    "100% GEMA-Frei"
+  ],
+  "popularGenres": [
+    "Ruhrpott Classic Boom Bap",
+    "German Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "karlsruhe-german-trap-808",
+  "name": "Karlsruhe German Trap 808 Beats",
+  "category": "scene",
+  "badge": "Karlsruhe German Trap",
+  "headline": "Karlsruhe (Baden Innovation & Electronic Trap Pulse) German Trap 808 Beats: 24-Bit WAV Beats & Klarna / Sofortüberweisung",
+  "description": "Druckvolle gleitende 808-Subbässe, düstere Moll-Synths und scharfe Trap-Snares für Künstler in Karlsruhe.",
+  "targetArtists": [
+    "Künstler aus Karlsruhe",
+    "Deutschrap Community",
+    "Deutsche Hip-Hop Szene"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "F-Moll / C-Moll",
+  "vibeAttributes": [
+    "Karlsruhe",
+    "German Trap",
+    "Klarna & Sofort (EUR €)",
+    "100% GEMA-Frei"
+  ],
+  "popularGenres": [
+    "German Trap 808 Beats",
+    "German Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "karlsruhe-berlin-street-drill",
+  "name": "Karlsruhe Berlin Street Drill Beats",
+  "category": "scene",
+  "badge": "Karlsruhe Berlin Drill",
+  "headline": "Karlsruhe (Baden Innovation & Electronic Trap Pulse) Berlin Street Drill Beats: 24-Bit WAV Beats & Klarna / Sofortüberweisung",
+  "description": "Düstere Klaviere, blitzschnelle Hi-Hats und abgrundtiefe 808-Slides für Rapper in Karlsruhe.",
+  "targetArtists": [
+    "Künstler aus Karlsruhe",
+    "Deutschrap Community",
+    "Deutsche Hip-Hop Szene"
+  ],
+  "recommendedBpm": "140-145 BPM",
+  "recommendedKey": "E-Moll / Cis-Moll",
+  "vibeAttributes": [
+    "Karlsruhe",
+    "Berlin Drill",
+    "Klarna & Sofort (EUR €)",
+    "100% GEMA-Frei"
+  ],
+  "popularGenres": [
+    "Berlin Street Drill Beats",
+    "German Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "karlsruhe-deutschrap-afro-bounce",
+  "name": "Karlsruhe Deutschrap Afro Bounce Beats",
+  "category": "scene",
+  "badge": "Karlsruhe Afro Bounce",
+  "headline": "Karlsruhe (Baden Innovation & Electronic Trap Pulse) Deutschrap Afro Bounce Beats: 24-Bit WAV Beats & Klarna / Sofortüberweisung",
+  "description": "Tanzbare Dembow- und Afro-Grooves, sommerliche Gitarren und pumpende Bässe für MCs in Karlsruhe.",
+  "targetArtists": [
+    "Künstler aus Karlsruhe",
+    "Deutschrap Community",
+    "Deutsche Hip-Hop Szene"
+  ],
+  "recommendedBpm": "108-114 / 128 BPM",
+  "recommendedKey": "G-Moll / H-Moll",
+  "vibeAttributes": [
+    "Karlsruhe",
+    "Afro Bounce",
+    "Klarna & Sofort (EUR €)",
+    "100% GEMA-Frei"
+  ],
+  "popularGenres": [
+    "Deutschrap Afro Bounce Beats",
+    "German Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "karlsruhe-ruhrpott-boom-bap",
+  "name": "Karlsruhe Ruhrpott Classic Boom Bap",
+  "category": "scene",
+  "badge": "Karlsruhe Pott Boom Bap",
+  "headline": "Karlsruhe (Baden Innovation & Electronic Trap Pulse) Ruhrpott Classic Boom Bap: 24-Bit WAV Beats & Klarna / Sofortüberweisung",
+  "description": "Knisternde Vinyl-Chops, scheppernde Snares und warme analoge Basslines für echte Rap-Köpfe in Karlsruhe.",
+  "targetArtists": [
+    "Künstler aus Karlsruhe",
+    "Deutschrap Community",
+    "Deutsche Hip-Hop Szene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "D-Moll / H-Moll",
+  "vibeAttributes": [
+    "Karlsruhe",
+    "Pott Boom Bap",
+    "Klarna & Sofort (EUR €)",
+    "100% GEMA-Frei"
+  ],
+  "popularGenres": [
+    "Ruhrpott Classic Boom Bap",
+    "German Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
 ];

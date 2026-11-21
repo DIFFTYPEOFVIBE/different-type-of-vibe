@@ -41818,4 +41818,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "de/berlin-kreuzberg-neukoelln-xberg": {
+  "slug": "de/berlin-kreuzberg-neukoelln-xberg",
+  "name": "Deutschland – Berlin: Kreuzberg (36), Neukölln & Wedding (Underground Deutschrap Cradle)",
+  "flag": "🇩🇪",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Klarna, Sofortüberweisung, Giropay, PayPal, Apple Pay, Google Pay, Cards, Stripe",
+  "pro": "GEMA",
+  "proFullName": "GEMA (Gesellschaft für musikalische Aufführungs- und mechanische Vervielfältigungsrechte)",
+  "proGuide": "100% GEMA-freie Beats und originale Kompositionen mit sofortigem PDF-Lizenzvertrag.",
+  "headline": "Beats in Berlin-Kreuzberg: X-Berg 36, Neukölln Hustle & Düstere Trap 808s",
+  "description": "Die Wiege des modernen Berliner Straßenraps: drückende 808-Subbässe, atmosphärische Synth-Flächen und melancholische Straßenmelodien für Rapper aus Kreuzberg, Neukölln und Wedding.",
+  "popularGenres": [
+    "Berlin Underground Trap",
+    "Kreuzberg Drill",
+    "Strassenrap 808"
+  ],
+  "subClusters": []
+},
+  "de/dortmund-nordstadt-ruhr": {
+  "slug": "de/dortmund-nordstadt-ruhr",
+  "name": "Deutschland – Dortmund & Nordstadt (Ruhrpott Heavyweight Reality Rap & Pott Drill)",
+  "flag": "🇩🇪",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Klarna, Sofortüberweisung, Giropay, PayPal, Apple Pay, Google Pay, Cards, Stripe",
+  "pro": "GEMA",
+  "proFullName": "GEMA (Gesellschaft für musikalische Aufführungs- und mechanische Vervielfältigungsrechte)",
+  "proGuide": "Verlustfreie 24-Bit Studio-WAV-Lieferung mit getrennten Multitrack-Stems.",
+  "headline": "Beats in Dortmund: Nordstadt Authentizität, Ruhrpott Maloche & Harte Kicks",
+  "description": "Das ehrliche, raue Herz des Ruhrgebiets: schwere analoge Kicks, aggressive Drill-Snares und unerbittlicher Tiefbass, maßgeschneidert für Straßenpoeten aus Dortmund und dem Revier.",
+  "popularGenres": [
+    "Ruhrpott Street Rap",
+    "Dortmund Drill",
+    "Nordstadt Trap"
+  ],
+  "subClusters": []
+},
+  "de/mannheim-ludwigshafen-kurpfalz": {
+  "slug": "de/mannheim-ludwigshafen-kurpfalz",
+  "name": "Deutschland – Mannheim & Ludwigshafen (Kurpfalz Soul Capital & Melodic R&B-Trap)",
+  "flag": "🇩🇪",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Klarna, Sofortüberweisung, Giropay, PayPal, Apple Pay, Google Pay, Cards, Stripe",
+  "pro": "GEMA",
+  "proFullName": "GEMA (Gesellschaft für musikalische Aufführungs- und mechanische Vervielfältigungsrechte)",
+  "proGuide": "Kommerzielle Freigabe für Spotify, Apple Music, YouTube und Radio-Airplay.",
+  "headline": "Beats in Mannheim: Quadratestadt Soul, Popakademie Vibe & Melodischer Trap",
+  "description": "Die Musikhauptstadt der Kurpfalz: warme E-Piano-Akkorde, gefühlvolle Gitarrenläufe und dynamische 808-Bounces für Rapper und R&B-Sänger aus Mannheim und Ludwigshafen.",
+  "popularGenres": [
+    "Mannheim Melodic Trap",
+    "Kurpfalz Soul Rap",
+    "Urban R&B Beat"
+  ],
+  "subClusters": []
+},
+  "de/bonn-rhein-sieg-bbr": {
+  "slug": "de/bonn-rhein-sieg-bbr",
+  "name": "Deutschland – Bonn & Rhein-Sieg (Altes Regierungsviertel & Alles Oder Nix Mobster Trap)",
+  "flag": "🇩🇪",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Klarna, Sofortüberweisung, Giropay, PayPal, Apple Pay, Google Pay, Cards, Stripe",
+  "pro": "GEMA",
+  "proFullName": "GEMA (Gesellschaft für musikalische Aufführungs- und mechanische Vervielfältigungsrechte)",
+  "proGuide": "100% originale Kompositionen ohne ungeklärte Samples mit voller Rechtsgarantie.",
+  "headline": "Beats in Bonn: Ehemalige Bundeshauptstadt, Rhein-Sieg Eleganz & AON Mobster Trap",
+  "description": "Die historische Geburtsstätte des legendären Alles oder Nix Sounds: epische Orchesterthemen, wuchtige Bläsersätze und goldene Straßen-808s für Bonn und die Rhein-Sieg-Region.",
+  "popularGenres": [
+    "Bonn Mobster Trap",
+    "Rhein-Sieg Street Rap",
+    "Cinematic 808 Beat"
+  ],
+  "subClusters": []
+},
+  "de/wiesbaden-mainz-rhein-main": {
+  "slug": "de/wiesbaden-mainz-rhein-main",
+  "name": "Deutschland – Wiesbaden & Mainz (Rhein-Main West Coast & Melodic Street Trap)",
+  "flag": "🇩🇪",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Klarna, Sofortüberweisung, Giropay, PayPal, Apple Pay, Google Pay, Cards, Stripe",
+  "pro": "GEMA",
+  "proFullName": "GEMA (Gesellschaft für musikalische Aufführungs- und mechanische Vervielfältigungsrechte)",
+  "proGuide": "Direkter Checkout mit Klarna, Sofort und Giropay in Euro (€) mit sofortigem Download.",
+  "headline": "Beats in Wiesbaden & Mainz: Rhein-Ufer Eleganz, Landeshauptstadt & Melodischer Sound",
+  "description": "Zwischen Kurhaus und Rheingau: sommerliche Gitarren-Licks, entspannte Deutschrap-Bounces und rollende 808-Bässe für Künstler aus Wiesbaden, Mainz und dem Rhein-Main-Gebiet.",
+  "popularGenres": [
+    "Rhein-Main Melodic Trap",
+    "Wiesbaden Street Beat",
+    "Mainz Urban Sound"
+  ],
+  "subClusters": []
+},
+  "de/karlsruhe-baden-techno-trap": {
+  "slug": "de/karlsruhe-baden-techno-trap",
+  "name": "Deutschland – Karlsruhe & Baden (Technologie-Zentrum & Schneller Electronic Trap)",
+  "flag": "🇩🇪",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Klarna, Sofortüberweisung, Giropay, PayPal, Apple Pay, Google Pay, Cards, Stripe",
+  "pro": "GEMA",
+  "proFullName": "GEMA (Gesellschaft für musikalische Aufführungs- und mechanische Vervielfältigungsrechte)",
+  "proGuide": "Multitrack-Stems und WAV-Mastering für maximale Flexibilität im Tonstudio.",
+  "headline": "Beats in Karlsruhe: Fächerstadt Innovation, Schnelle Hi-Hats & Elektronischer Bass",
+  "description": "Wo Innovation auf moderne Clubkultur trifft: treibende Arpeggios, blitzschnelle Hi-Hat-Rolls und tiefe Subbass-Slides für dynamische Künstler aus Karlsruhe und Baden.",
+  "popularGenres": [
+    "Karlsruhe Electronic Trap",
+    "Baden Club Beat",
+    "Fast Tempo Rap"
+  ],
+  "subClusters": []
+},
+  "de/kiel-luebeck-ostsee": {
+  "slug": "de/kiel-luebeck-ostsee",
+  "name": "Deutschland – Kiel & Lübeck (Schleswig-Holstein Ostseeküste & Maritime Cold Drill)",
+  "flag": "🇩🇪",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Klarna, Sofortüberweisung, Giropay, PayPal, Apple Pay, Google Pay, Cards, Stripe",
+  "pro": "GEMA",
+  "proFullName": "GEMA (Gesellschaft für musikalische Aufführungs- und mechanische Vervielfältigungsrechte)",
+  "proGuide": "Uneingeschränkte kommerzielle Rechte mit digitaler Rechnung und Lizenzzertifikat.",
+  "headline": "Beats in Kiel & Lübeck: Ostsee-Brise, Hansestadt-Tradition & Eiskalter Drill",
+  "description": "Der raue Norden an der Ostsee: eisige Moll-Pianos, sturmerprobte Drill-Rhythmen und grollender Subbass für die Hip-Hop-Szene in Kiel, Lübeck und Schleswig-Holstein.",
+  "popularGenres": [
+    "Ostsee Cold Drill",
+    "Kiel Maritime Rap",
+    "Norddeutschland 808"
+  ],
+  "subClusters": []
+},
+  "de/dresden-elbtal-sachsen": {
+  "slug": "de/dresden-elbtal-sachsen",
+  "name": "Deutschland – Dresden & Elbtal (Sachsen Barockmetropole & Conscious Ost-Rap)",
+  "flag": "🇩🇪",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Klarna, Sofortüberweisung, Giropay, PayPal, Apple Pay, Google Pay, Cards, Stripe",
+  "pro": "GEMA",
+  "proFullName": "GEMA (Gesellschaft für musikalische Aufführungs- und mechanische Vervielfältigungsrechte)",
+  "proGuide": "100% rechtssicherer Erwerb aller Master- und Nutzungsrechte.",
+  "headline": "Beats in Dresden: Elbflorenz Eleganz, Neustadt Underground & Tiefsinnige Kicks",
+  "description": "Die Kunstmetropole Sachsens: dramatische Streichersätze, staubige Akustik-Chops und wuchtige Boombap- und Trap-Drums für Dresdner Dichter und Conscious-Rapper.",
+  "popularGenres": [
+    "Dresden Conscious Rap",
+    "Elbtal Cinematic Beat",
+    "Sachsen Boom Bap"
+  ],
+  "subClusters": []
+},
+  "de/augsburg-schwaben-bayern": {
+  "slug": "de/augsburg-schwaben-bayern",
+  "name": "Deutschland – Augsburg & Bayerisch-Schwaben (Fuggerstadt Tradition & Heavy 808 Trap)",
+  "flag": "🇩🇪",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Klarna, Sofortüberweisung, Giropay, PayPal, Apple Pay, Google Pay, Cards, Stripe",
+  "pro": "GEMA",
+  "proFullName": "GEMA (Gesellschaft für musikalische Aufführungs- und mechanische Vervielfältigungsrechte)",
+  "proGuide": "Direkter Download nach Transaktion mit allen Rechten für kommerzielle DSPs.",
+  "headline": "Beats in Augsburg: Römische Geschichte, Schwäbischer Fleiß & Bombastischer Bass",
+  "description": "Die historische Fuggerstadt: druckvolle Kicks, moderne Gesangsmelodien und gewaltige 808-Drops für die facettenreiche Hip-Hop-Szene in Augsburg und Bayerisch-Schwaben.",
+  "popularGenres": [
+    "Augsburg Heavy Trap",
+    "Schwaben Rap Beat",
+    "Bavaria 808 Banger"
+  ],
+  "subClusters": []
+},
+  "de/bielefeld-ostwestfalen-owl": {
+  "slug": "de/bielefeld-ostwestfalen-owl",
+  "name": "Deutschland – Bielefeld & Ostwestfalen-Lippe (OWL Jugendkultur & Moderner Drill)",
+  "flag": "🇩🇪",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Klarna, Sofortüberweisung, Giropay, PayPal, Apple Pay, Google Pay, Cards, Stripe",
+  "pro": "GEMA",
+  "proFullName": "GEMA (Gesellschaft für musikalische Aufführungs- und mechanische Vervielfältigungsrechte)",
+  "proGuide": "Garantierte GEMA-Freiheit und weltweite Monetarisierung für alle Releases.",
+  "headline": "Beats in Bielefeld: Teutoburger Wald Kulisse, OWL Jugendkultur & Moderner Sound",
+  "description": "Das lebendige urbane Zentrum Ostwestfalens: melodische Piano-Loops, tighte Trap-Drums und gleitende Subbässe für aufstrebende MCs und Produzenten in Bielefeld und OWL.",
+  "popularGenres": [
+    "Bielefeld Modern Trap",
+    "OWL Road Drill",
+    "Ostwestfalen Rap"
+  ],
+  "subClusters": []
+},
 };
