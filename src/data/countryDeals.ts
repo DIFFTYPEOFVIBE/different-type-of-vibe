@@ -42198,4 +42198,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "in/delhi-ncr-south-delhi": {
+  "slug": "in/delhi-ncr-south-delhi",
+  "name": "India – Delhi NCR: South Delhi, Hauz Khas & Jamia (Underground DHH Bastion & Hard Drill)",
+  "flag": "🇮🇳",
+  "currency": "INR (₹) / USD ($)",
+  "currencyCode": "INR",
+  "gateways": "UPI (PhonePe, Google Pay, Paytm, BHIM), Net Banking, Cards (RuPay/Visa/Mastercard), Apple Pay, PayPal",
+  "pro": "IPRS",
+  "proFullName": "IPRS (The Indian Performing Right Society Limited)",
+  "proGuide": "100% compliant with Indian Copyright Act 1957 and IPRS registration with instant signed PDF license agreement.",
+  "headline": "Beats in Delhi NCR: Hauz Khas Underground, Jamia Cyphers & Hard DHH Drill 808s",
+  "description": "The fierce lyrical battleground of Desi Hip-Hop: cold minor piano arpeggios, aggressive sliding drill 808s, and fast syncopation crafted for MCs across South Delhi, Jamia, and Delhi NCR.",
+  "popularGenres": [
+    "Delhi DHH Drill",
+    "Hindi Street Trap",
+    "Underground Road Rap"
+  ],
+  "subClusters": []
+},
+  "in/mumbai-dharavi-bandra": {
+  "slug": "in/mumbai-dharavi-bandra",
+  "name": "India – Mumbai: Dharavi & Bandra (The Sacred Cradle of Gully Rap & 022 Street Energy)",
+  "flag": "🇮🇳",
+  "currency": "INR (₹) / USD ($)",
+  "currencyCode": "INR",
+  "gateways": "UPI (PhonePe, Google Pay, Paytm, BHIM), Net Banking, Cards (RuPay/Visa/Mastercard), Apple Pay, PayPal",
+  "pro": "IPRS",
+  "proFullName": "IPRS (The Indian Performing Right Society Limited)",
+  "proGuide": "Pristine uncompressed 24-bit studio WAV delivery with separated multitrack stem files.",
+  "headline": "Beats in Mumbai: Dharavi Alleys, Bandra Coastline & Authentic Gully Rap Drums",
+  "description": "Where Indian hip-hop found its true voice: organic street percussion, raw analog kicks, and heavy sub-bass drops engineered for authentic Gully Rap lyricists across Mumbai and 022.",
+  "popularGenres": [
+    "Gully Rap Boom Bap",
+    "Mumbai Street Trap",
+    "Dharavi Cypher Beat"
+  ],
+  "subClusters": []
+},
+  "in/punjab-jalandhar-doaba": {
+  "slug": "in/punjab-jalandhar-doaba",
+  "name": "India – Jalandhar & Doaba (Heart of NRI Culture & Worldwide Punjabi Trap Fusion)",
+  "flag": "🇮🇳",
+  "currency": "INR (₹) / USD ($)",
+  "currencyCode": "INR",
+  "gateways": "UPI (PhonePe, Google Pay, Paytm, BHIM), Net Banking, Cards (RuPay/Visa/Mastercard), Apple Pay, PayPal",
+  "pro": "IPRS",
+  "proFullName": "IPRS (The Indian Performing Right Society Limited)",
+  "proGuide": "Worldwide digital monetization rights for Spotify, Apple Music, YouTube, and Punjabi satellite TV.",
+  "headline": "Beats in Jalandhar: Doaba NRI Heartland, Folk Tumbi Riffs & Heavy Punjabi 808s",
+  "description": "The global export engine of Punjabi pop and hip-hop: live acoustic Tumbi plucks, thunderous Dhol rolls, and international sliding 808s tailored for Jalandhar and Doaba vocalists.",
+  "popularGenres": [
+    "Punjabi Trap Beat",
+    "Doaba Tumbi Drill",
+    "Folk Dhol Fusion"
+  ],
+  "subClusters": []
+},
+  "in/northeast-shillong-guwahati": {
+  "slug": "in/northeast-shillong-guwahati",
+  "name": "India – Shillong & Guwahati (The Rock & Hip-Hop Soul of the North-East Hills)",
+  "flag": "🇮🇳",
+  "currency": "INR (₹) / USD ($)",
+  "currencyCode": "INR",
+  "gateways": "UPI (PhonePe, Google Pay, Paytm, BHIM), Net Banking, Cards (RuPay/Visa/Mastercard), Apple Pay, PayPal",
+  "pro": "IPRS",
+  "proFullName": "IPRS (The Indian Performing Right Society Limited)",
+  "proGuide": "100% royalty-free clearance on master recordings with commercial licensing.",
+  "headline": "Beats in Shillong & Guwahati: Pine Covered Hills, Organic Guitars & Deep 808s",
+  "description": "The musical capital of India's North-East: intricate acoustic guitar fingerpicking, natural organic textures, and punchy modern hip-hop drums tailored for Shillong, Guwahati, and hill lyricists.",
+  "popularGenres": [
+    "North-East Indie Rap",
+    "Shillong Mountain Lofi",
+    "Organic Acoustic Trap"
+  ],
+  "subClusters": []
+},
+  "in/lucknow-uttar-pradesh-awadh": {
+  "slug": "in/lucknow-uttar-pradesh-awadh",
+  "name": "India – Lucknow & Awadh (Uttar Pradesh Classical Heritage & Poetic Urdu Hip-Hop)",
+  "flag": "🇮🇳",
+  "currency": "INR (₹) / USD ($)",
+  "currencyCode": "INR",
+  "gateways": "UPI (PhonePe, Google Pay, Paytm, BHIM), Net Banking, Cards (RuPay/Visa/Mastercard), Apple Pay, PayPal",
+  "pro": "IPRS",
+  "proFullName": "IPRS (The Indian Performing Right Society Limited)",
+  "proGuide": "Instant UPI checkout via PhonePe, Google Pay, and Paytm with immediate automated file download.",
+  "headline": "Beats in Lucknow: Awadh Royal Heritage, Poetic Ghazal Chops & Deep Urdu Rap Bass",
+  "description": "Where centuries of Awadhi poetic elegance meet modern street rhythm: microtonal harmonium riffs, delicate Sarangi phrasing, and heavy 808 sub drops for Lucknow and UP lyricists.",
+  "popularGenres": [
+    "Awadh Poetic Hip-Hop",
+    "Urdu Rap Trap Beat",
+    "Classical Ghazal Fusion"
+  ],
+  "subClusters": []
+},
+  "in/goa-panaji-coastal-trap": {
+  "slug": "in/goa-panaji-coastal-trap",
+  "name": "India – Goa: Panaji, Anjuna & Coastal Belt (Psychedelic Trance-Trap & Beachfront Beats)",
+  "flag": "🇮🇳",
+  "currency": "INR (₹) / USD ($)",
+  "currencyCode": "INR",
+  "gateways": "UPI (PhonePe, Google Pay, Paytm, BHIM), Net Banking, Cards (RuPay/Visa/Mastercard), Apple Pay, PayPal",
+  "pro": "IPRS",
+  "proFullName": "IPRS (The Indian Performing Right Society Limited)",
+  "proGuide": "Direct commercial licensing for club DJs, YouTube sync, and streaming.",
+  "headline": "Beats in Goa: Arabian Sea Sunset, Psychedelic Synth Arps & Beachfront Bass Bounces",
+  "description": "The electronic and coastal party capital of India: psychedelic analog synthesizer leads, breezy coastal marimbas, and rolling 808 basslines crafted for Goa, Panaji, and Anjuna creators.",
+  "popularGenres": [
+    "Goa Trance Trap",
+    "Coastal Sunset Beat",
+    "Psychedelic Rap Bounce"
+  ],
+  "subClusters": []
+},
+  "in/indore-bhopal-central-india": {
+  "slug": "in/indore-bhopal-central-india",
+  "name": "India – Indore & Bhopal (Madhya Pradesh Central Hub & High-Velocity Lyrical Trap)",
+  "flag": "🇮🇳",
+  "currency": "INR (₹) / USD ($)",
+  "currencyCode": "INR",
+  "gateways": "UPI (PhonePe, Google Pay, Paytm, BHIM), Net Banking, Cards (RuPay/Visa/Mastercard), Apple Pay, PayPal",
+  "pro": "IPRS",
+  "proFullName": "IPRS (The Indian Performing Right Society Limited)",
+  "proGuide": "Pristine multitrack stems and 24-bit WAV files included for pro studio mixing.",
+  "headline": "Beats in Indore & Bhopal: Central Indian Youth Boom, Fast Hi-Hats & Punchy Kicks",
+  "description": "The rapidly rising urban heartland of Central India: sharp syncopated trap claps, hard-hitting kicks, and versatile flow pocket arrangements designed for Indore and MP creators.",
+  "popularGenres": [
+    "Central India Trap",
+    "Indore Street Rap",
+    "Fast Cadence Beat"
+  ],
+  "subClusters": []
+},
+  "in/patna-bihar-bhojpuri-trap": {
+  "slug": "in/patna-bihar-bhojpuri-trap",
+  "name": "India – Patna & Bihar (Bhojpuri Folk Energy & High-Velocity Modern Trap Fusion)",
+  "flag": "🇮🇳",
+  "currency": "INR (₹) / USD ($)",
+  "currencyCode": "INR",
+  "gateways": "UPI (PhonePe, Google Pay, Paytm, BHIM), Net Banking, Cards (RuPay/Visa/Mastercard), Apple Pay, PayPal",
+  "pro": "IPRS",
+  "proFullName": "IPRS (The Indian Performing Right Society Limited)",
+  "proGuide": "Commercial rights with instant invoice and downloadable IPRS split sheet.",
+  "headline": "Beats in Patna: Ganga Riverfront, High-Octane Bhojpuri Percussion & Modern 808s",
+  "description": "Where viral regional folk rhythm meets modern hip-hop power: energetic Dholak syncopations, festive brass, and earthquake 808 sub-bass drops crafted for Patna and Bihar artists.",
+  "popularGenres": [
+    "Bhojpuri Folk Trap",
+    "Patna Street Rap",
+    "High-Energy Desi Beat"
+  ],
+  "subClusters": []
+},
+  "in/dehradun-uttarakhand-pahadi": {
+  "slug": "in/dehradun-uttarakhand-pahadi",
+  "name": "India – Dehradun & Uttarakhand (Pahadi Mountain Trap & Himalayan Valley Melodies)",
+  "flag": "🇮🇳",
+  "currency": "INR (₹) / USD ($)",
+  "currencyCode": "INR",
+  "gateways": "UPI (PhonePe, Google Pay, Paytm, BHIM), Net Banking, Cards (RuPay/Visa/Mastercard), Apple Pay, PayPal",
+  "pro": "IPRS",
+  "proFullName": "IPRS (The Indian Performing Right Society Limited)",
+  "proGuide": "100% master ownership with zero recurring royalty fees.",
+  "headline": "Beats in Dehradun: Foothills of the Himalayas, Mountain Flutes & Ambient Drill",
+  "description": "The scenic valley at the foot of the Garhwal Himalayas: haunting acoustic Bansuri flute riffs, crisp mountain air ambiances, and sliding drill 808s for Dehradun and Uttarakhand MCs.",
+  "popularGenres": [
+    "Pahadi Mountain Trap",
+    "Himalayan Ambient Drill",
+    "Dehradun Lofi Beat"
+  ],
+  "subClusters": []
+},
+  "in/nagpur-vidarbha-orange-city": {
+  "slug": "in/nagpur-vidarbha-orange-city",
+  "name": "India – Nagpur & Vidarbha (Zero Mile Central Junction & Gritty Underground Rap)",
+  "flag": "🇮🇳",
+  "currency": "INR (₹) / USD ($)",
+  "currencyCode": "INR",
+  "gateways": "UPI (PhonePe, Google Pay, Paytm, BHIM), Net Banking, Cards (RuPay/Visa/Mastercard), Apple Pay, PayPal",
+  "pro": "IPRS",
+  "proFullName": "IPRS (The Indian Performing Right Society Limited)",
+  "proGuide": "Complete commercial rights for DSP streaming, radio, and video synchronization.",
+  "headline": "Beats in Nagpur: Zero Mile Stone, Vidarbha Heat & Uncompromising Street Rap",
+  "description": "The geographical center of India: heavy industrial kicks, raw aggressive snares, and relentless low-end portamento crafted for Marathi and Hindi street lyricists in Nagpur.",
+  "popularGenres": [
+    "Nagpur Street Rap",
+    "Vidarbha Hardcore 808",
+    "Central Cypher Beat"
+  ],
+  "subClusters": []
+},
 };

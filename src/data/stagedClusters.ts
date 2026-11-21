@@ -127735,4 +127735,1273 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "1"
   ]
 },
+  {
+  "slug": "seedhe-maut-n-nayaab-delhi-trap",
+  "title": "Seedhe Maut Nayaab High-Velocity Delhi DHH & Aggressive 808 Beat",
+  "description": "Fierce, revolutionary Delhi DHH instrumental inspired by Seedhe Maut and Sez on the Beat (Nayaab, Lunch Break, Namastute, 101, Chitta), with lightning-fast syncopation, abrasive synths, and heavy 808s.",
+  "targetKeywords": [
+    "seedhe maut type beat",
+    "nayaab type beat",
+    "delhi dhh instrumental",
+    "sez on the beat style trap",
+    "seedhe maut namastute beat"
+  ],
+  "heroCta": "Buy Seedhe Maut Style Beat (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hardcore DHH Cypher, High-Speed Dual Flow Track and Mosh Pit Banger",
+  "similarArtists": [
+    "Seedhe Maut",
+    "Prabh Deep",
+    "KR$NA",
+    "Raftaar"
+  ],
+  "recommendedBpm": "136-144 BPM",
+  "productionTips": "Layer complex hi-hat triplet patterns with aggressive analog distorted 808s and eerie minor key synths.",
+  "idealVocalStyle": "Rapid-fire Hindi and English flows, back-and-forth duo rhyme schemes, and relentless breath control.",
+  "suggestedKey": "D Minor / C Minor",
+  "streamingSuitability": "Guaranteed top streaming numbers on DHH Spotify playlists, YouTube trending, and live festival stages."
+},
+  {
+  "slug": "krsna-dollar-sign-technical-diss-rap",
+  "title": "KR$NA Dollar Sign Precision Technical Diss Rap & Cold Boombap Beat",
+  "description": "Calculated, ice-cold hip-hop instrumental inspired by KR$NA (Still Here, Far From Over, Prarthana, Say My Name, No Cap), featuring surgical minor piano chords, crisp rimshots, and deep sub-bass.",
+  "targetKeywords": [
+    "krsna type beat",
+    "dollar sign krsna instrumental",
+    "technical diss rap beat dhh",
+    "krsna still here type beat",
+    "krsna prarthana beat"
+  ],
+  "heroCta": "Buy KR$NA Style Beat (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Technical Diss Track, Multi-Syllabic Rap Cypher and Precision Lyrical Single",
+  "similarArtists": [
+    "KR$NA",
+    "Raftaar",
+    "Seedhe Maut",
+    "Eminem"
+  ],
+  "recommendedBpm": "90-96 / 138 BPM",
+  "productionTips": "Crisp acoustic snare transients and sub-bass portamento leaving absolute clarity for dense rhyme schemes.",
+  "idealVocalStyle": "Mathematical multi-syllabic rhyming, cold articulate English-Hindi delivery, and ruthless punchlines.",
+  "suggestedKey": "E Minor / G Minor",
+  "streamingSuitability": "Insuperable for hardcore hip-hop lyricism, battle rap breakdowns, and YouTube reaction channels."
+},
+  {
+  "slug": "sidhu-moose-wala-legendary-tumbi-trap",
+  "title": "Sidhu Moose Wala Legendary Folk Tumbi & 295 Heavy 808 Punjabi Beat",
+  "description": "Immortal, soul-stirring Punjabi folk-trap anthem inspired by the legend Sidhu Moose Wala (Moosetape, 295, The Last Ride, Old Skool, So High), pairing authentic acoustic Tumbi plucks with earth-shattering 808s.",
+  "targetKeywords": [
+    "sidhu moose wala type beat",
+    "295 sidhu moose wala instrumental",
+    "punjabi tumbi trap beat 808",
+    "legendary punjabi rap beat",
+    "the last ride type beat"
+  ],
+  "heroCta": "Buy Sidhu Style Beat (Instant WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "Legendary Punjabi Single, Car Sound System Bass Demonstration and Youth Anthem",
+  "similarArtists": [
+    "Sidhu Moose Wala",
+    "Karan Aujla",
+    "Amrit Maan",
+    "Byg Byrd"
+  ],
+  "recommendedBpm": "90-95 / 132 BPM",
+  "productionTips": "Authentic acoustic Tumbi and Sarangi riffs layered with massive saturated 808 sub-bass and live Dhol accents.",
+  "idealVocalStyle": "Soaring, raw Punjabi high-pitch vocals, fierce poetic pride, fearless delivery, and stadium choruses.",
+  "suggestedKey": "C Minor / D Minor",
+  "streamingSuitability": "Monumental international streaming numbers across Punjab, Canada, UK, and the global diaspora."
+},
+  {
+  "slug": "karan-aujla-four-you-making-memories",
+  "title": "Karan Aujla Making Memories Modern Punjabi-Latin Crossover Beat",
+  "description": "Chart-topping, glossy modern Punjabi-Latin crossover instrumental inspired by Karan Aujla and Ikky (Making Memories, 52 Bars, Admirin' You, Softly, Players), with warm acoustic guitars and bouncy bass.",
+  "targetKeywords": [
+    "karan aujla type beat",
+    "making memories type beat",
+    "softly karan aujla instrumental",
+    "modern punjabi crossover beat",
+    "52 bars type beat"
+  ],
+  "heroCta": "Buy Karan Aujla Style Beat (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Mainstream Radio Hit, Global Punjabi-Pop Crossover and Viral Wedding Single",
+  "similarArtists": [
+    "Karan Aujla",
+    "Ikky",
+    "Diljit Dosanjh",
+    "Badshah"
+  ],
+  "recommendedBpm": "100-108 BPM",
+  "productionTips": "Warm Latin/Spanish acoustic nylon guitars blended with syncopated Afrobeats/Dembow kicks and rounded 808s.",
+  "idealVocalStyle": "Effortless Punjabi melodies, smooth modern cadences, swaggering lyricism, and catchy singalong hooks.",
+  "suggestedKey": "G Minor / B Minor",
+  "streamingSuitability": "Dominates Billboard Canadian Hot 100, Spotify India Top 50, and global trending charts."
+},
+  {
+  "slug": "mc-stan-p-town-mumble-trap-808",
+  "title": "MC Stan P-Town Raw Mumble Trap & Distorted Sub-Bass Beat",
+  "description": "Revolutionary, hypnotic Pune street mumble trap instrumental inspired by MC Stan (Insaan, Tadipaar, Basti Ka Hasti, Ek Din Pyaar, Snake), featuring distorted 808s, quirky synth bells, and bouncy cadence space.",
+  "targetKeywords": [
+    "mc stan type beat",
+    "p town trap beat",
+    "basti ka hasti instrumental",
+    "mc stan tadipaar type beat",
+    "raw distorted trap beat india"
+  ],
+  "heroCta": "Buy MC Stan Style Beat (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Raw Underground Trap Single, Viral Street Video and High-Energy Concert Track",
+  "similarArtists": [
+    "MC Stan",
+    "Lil Wayne",
+    "Young Thug",
+    "DIVINE"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "productionTips": "Heavily clipped 808 transients layered with offbeat synth bells and distinct rhythmic pause spaces.",
+  "idealVocalStyle": "Slang-heavy Marathi-Hindi street rhymes, quirky autotune inflections, and unpredictable flow switches.",
+  "suggestedKey": "F Minor / C Minor",
+  "streamingSuitability": "Massive youth cult engagement, viral Instagram reel audio, and explosive YouTube views."
+},
+  {
+  "slug": "prabh-deep-tabia-jazz-conscious-dhh",
+  "title": "Prabh Deep Tabia Soulful Jazz-Infused Conscious DHH Beat",
+  "description": "Soulful, atmospheric and critically acclaimed conscious hip-hop instrumental inspired by Prabh Deep (Tabia, Class-Sikh, King, Chitta), with live brass textures, Rhodes keyboards, and warm upright bass.",
+  "targetKeywords": [
+    "prabh deep type beat",
+    "tabia prabh deep instrumental",
+    "conscious dhh beat",
+    "jazz hip hop india",
+    "class-sikh type beat"
+  ],
+  "heroCta": "Buy Prabh Deep Style Beat (Instant WAV)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Conscious Album Centerpiece, Deep Personal Reflection and Artistic Music Video",
+  "similarArtists": [
+    "Prabh Deep",
+    "Seedhe Maut",
+    "Ahmer",
+    "Loyle Carner"
+  ],
+  "recommendedBpm": "85-92 / 126 BPM",
+  "productionTips": "Warm Rhodes electric piano chords recorded with subtle wow-and-flutter tape modulation over live-sounding drums.",
+  "idealVocalStyle": "Thoughtful, philosophical Punjabi-Hindi lyrics, introspective vocal delivery, and soulful melodies.",
+  "suggestedKey": "Eb Major / C Minor",
+  "streamingSuitability": "High critical acclaim across editorial playlists, indie music festivals, and conscious rap circles."
+},
+  {
+  "slug": "hanumankind-global-hardcore-southern-trap",
+  "title": "Hanumankind Global Viral Hardcore Southern Phonk & Fast Rap Beat",
+  "description": "Global viral sensation Southern phonk-trap instrumental inspired by Hanumankind and Kalmi (Big Dawgs, Genghis, DAMNSON), with continuous breathless delivery space, cowbell riffs, and heavy analog kicks.",
+  "targetKeywords": [
+    "hanumankind type beat",
+    "big dawgs type beat",
+    "southern phonk trap beat india",
+    "hanumankind kalmi instrumental",
+    "fast flow hardcore rap beat"
+  ],
+  "heroCta": "Buy Hanumankind Style Beat (WAV 24-bit)",
+  "energyLevel": "Maximum",
+  "primaryUse": "Viral Stunt Video, Global Breakout Single and Heavyweight Workout Motivation",
+  "similarArtists": [
+    "Hanumankind",
+    "Denzel Curry",
+    "Project Pat",
+    "JID"
+  ],
+  "recommendedBpm": "140-146 BPM",
+  "productionTips": "Aggressive, distorted Memphian 808 cowbells and snappy analog snares with continuous forward momentum.",
+  "idealVocalStyle": "Relentless breath control, Southern-accented rapid English flow, and raw commanding authority.",
+  "suggestedKey": "E Minor",
+  "streamingSuitability": "Explosive global viral spikes on TikTok, Instagram reels, and international streaming charts."
+},
+  {
+  "slug": "shubh-still-rollin-smooth-melodic-trap",
+  "title": "Shubh Still Rollin Infectious Punjabi Melodic Trap & Synth Beat",
+  "description": "Effortlessly smooth, minimalist Punjabi melodic trap instrumental inspired by Shubh (Still Rollin, Baller, No Love, Cheques, Her), with catchy synthesizer keys and bouncing syncopated 808 groove.",
+  "targetKeywords": [
+    "shubh type beat",
+    "still rollin shubh instrumental",
+    "shubh cheques type beat",
+    "minimalist punjabi trap beat",
+    "shubh no love beat"
+  ],
+  "heroCta": "Buy Shubh Style Beat (Instant WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Car Audio Cruise, Melodic Street Single and High-Replay TikTok Sound",
+  "similarArtists": [
+    "Shubh",
+    "Karan Aujla",
+    "AP Dhillon",
+    "Gurinder Gill"
+  ],
+  "recommendedBpm": "124-130 BPM",
+  "productionTips": "Sparse, punchy 808 kicks combined with subtle minor synth arpeggios that leave maximum space for singing.",
+  "idealVocalStyle": "Buttery smooth autotuned delivery, repetitive catchy hooks, and effortless Punjabi swagger.",
+  "suggestedKey": "F Minor / Bb Minor",
+  "streamingSuitability": "Continuous multi-million stream velocity across Spotify, Apple Music, and YouTube worldwide."
+},
+  {
+  "slug": "bhojpuri-folk-trap-dholak-energy",
+  "title": "Eastern Indian Bhojpuri Folk-Trap High-Energy Dholak 808 Beat",
+  "description": "High-octane cultural crossover blending authentic Eastern Indian Bhojpuri folk percussion (Dholak, Chimta, Manjira) with aggressive modern 140 BPM trap 808s and festive brass fanfares.",
+  "targetKeywords": [
+    "bhojpuri trap beat",
+    "bhojpuri folk hip hop beat",
+    "dholak trap beat india",
+    "bihar folk trap 808",
+    "high energy desi trap beat"
+  ],
+  "heroCta": "Buy Bhojpuri Folk Trap (WAV + Stems)",
+  "energyLevel": "Maximum",
+  "primaryUse": "Festive Street Anthem, High-Energy Cultural Single and Viral Dance Video",
+  "similarArtists": [
+    "Pawan Singh",
+    "Khesari Lal",
+    "MC Stan",
+    "Badshah"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "productionTips": "Frantic, polyrhythmic live Dholak grooves layered tightly over sub-bass drops and festival synth horns.",
+  "idealVocalStyle": "High-energy Bhojpuri or Hindi street chanting, rapid celebratory punchlines, and infectious hooks.",
+  "suggestedKey": "D Minor / G Major",
+  "streamingSuitability": "Massive viral sharing across regional social media, wedding festivities, and energetic dance reels."
+},
+  {
+  "slug": "pahadi-flute-himalayan-ambient-drill",
+  "title": "Himalayan Pahadi Bansuri Flute Serene Ambient UK-Desi Drill Beat",
+  "description": "Atmospheric, chill-inducing UK-Desi drill instrumental featuring haunting acoustic Himalayan Bansuri bamboo flute melodies, mountain breeze ambiances, and deep sliding 808 sub-bass.",
+  "targetKeywords": [
+    "pahadi drill beat",
+    "bansuri flute drill beat",
+    "himalayan ambient trap beat",
+    "indian flute drill instrumental",
+    "uttarakhand pahadi rap beat"
+  ],
+  "heroCta": "Buy Pahadi Drill Beat (Instant WAV)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Scenic Mountain Visualizer, Ambient Drill Single and Deep Introspective Track",
+  "similarArtists": [
+    "Seedhe Maut",
+    "Prabh Deep",
+    "Ahmer",
+    "Central Cee"
+  ],
+  "recommendedBpm": "140-143 BPM",
+  "productionTips": "Authentic bamboo flute ornamentation with subtle tape delay layered over sliding 808 portamento.",
+  "idealVocalStyle": "Reflective, cold street delivery, poetic lyrics exploring roots and isolation, and melodic choruses.",
+  "suggestedKey": "D Minor / A Minor",
+  "streamingSuitability": "Incredible streaming engagement across atmospheric drill playlists, aesthetic reels, and travel edits."
+},
+  {
+  "slug": "classical-carnatic-veena-mridangam-trap",
+  "title": "South Indian Carnatic Classical Veena & Mridangam Konnakol Trap Beat",
+  "description": "Prestigious, culturally rich fusion blending South Indian Carnatic classical music with modern 808 trap: virtuoso Veena gamaka runs, rhythmic Mridangam konnakol claps, and thunderous sub drops.",
+  "targetKeywords": [
+    "carnatic trap beat",
+    "veena hip hop beat",
+    "mridangam trap beat south india",
+    "south indian classical rap beat",
+    "tamil carnatic 808 beat"
+  ],
+  "heroCta": "Buy Carnatic Trap Beat (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Cultural Heritage Anthem, Global Crossover Showcase and High-Concept Rap Video",
+  "similarArtists": [
+    "Brodha V",
+    "Yung Raja",
+    "Hanumankind",
+    "A.R. Rahman"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "productionTips": "Live microtonal acoustic Veena captured with ribbon microphones layered over hard sub frequencies.",
+  "idealVocalStyle": "Articulate multilingual delivery (Tamil, Telugu, English), rapid rhythmic konnakol flows, and proud chants.",
+  "suggestedKey": "C# Minor / G# Minor",
+  "streamingSuitability": "High cultural pride, global diaspora viral sharing, and international world music praise."
+},
+  {
+  "slug": "dharavi-slum-tin-can-percussion-gully",
+  "title": "Dharavi Authentic Tin-Can Street Percussion & Gully Rap Boom Bap Beat",
+  "description": "Raw, unfiltered street energy honoring the birthplace of Gully Rap: acoustic tin-can percussion, live hand claps, whistle drops, and heavy 90 BPM boom bap drums from the heart of Dharavi.",
+  "targetKeywords": [
+    "dharavi gully rap beat",
+    "tin can percussion rap beat",
+    "authentic mumbai street beat",
+    "gully gang boom bap instrumental",
+    "dharavi cypher beat 90 bpm"
+  ],
+  "heroCta": "Buy Dharavi Gully Beat (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Underground Street Cypher, Raw Rap Documentary and Community Anthem",
+  "similarArtists": [
+    "DIVINE",
+    "Naezy",
+    "MC Altaf",
+    "D'Evil"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "productionTips": "Layer organic raw street percussion with deep analog kick punches and snapping acoustic snares.",
+  "idealVocalStyle": "Commanding Mumbai street slang (Bantai, Bacchi, Scene), hard-hitting reality rhymes, and defiant delivery.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Cherished by hip-hop purists, street cypher organizers, and authentic DHH audiences."
+},
+  {
+  "slug": "affordable-dhh-beats-upi-payment-inr",
+  "title": "Affordable DHH Rap Beats from ₹499 (Instant UPI PhonePe & Google Pay)",
+  "description": "Studio-mastered, untagged Desi Hip-Hop, Punjabi, and trap instrumentals starting from ₹499 with seamless instant checkout via UPI (PhonePe, Google Pay, Paytm, BHIM) in Indian Rupees (INR ₹).",
+  "targetKeywords": [
+    "affordable dhh beats upi payment inr",
+    "cheap rap beats india upi",
+    "buy beats phonepe google pay",
+    "desi hip hop beats under 1000 inr"
+  ],
+  "heroCta": "Browse Affordable Beats (from ₹499)",
+  "energyLevel": "Variable",
+  "primaryUse": "Independent Mixtapes, Debut Singles and Home Studio Recording with Full License",
+  "similarArtists": [
+    "Independent Indian Rappers",
+    "SoundCloud & YouTube Creators"
+  ],
+  "recommendedBpm": "120-144 BPM",
+  "productionTips": "Pre-mixed and mastered with clean dynamic headroom for recording verses in bedroom studios.",
+  "idealVocalStyle": "Adaptable across rapid Hindi flows, Punjabi melodies, and energetic street hooks.",
+  "suggestedKey": "All Major and Minor Keys",
+  "streamingSuitability": "Commercial license covers up to 100,000 streams on Spotify, Apple Music, and JioSaavn."
+},
+  {
+  "slug": "punjabi-drill-beats-sidhu-aujla-stems",
+  "title": "Punjabi Folk-Drill Beats with Multitrack Stems (Sidhu & Aujla Style WAV)",
+  "description": "Heavyweight Punjabi drill and folk-trap instrumentals featuring live Tumbi loops, Dhol rolls, and sliding 808s, supplied with separated WAV stem files for pro studio mixing.",
+  "targetKeywords": [
+    "punjabi drill beats sidhu aujla stems",
+    "punjabi trap instrumental with stems",
+    "buy punjabi drill stems wav",
+    "tumbi drill trackout india"
+  ],
+  "heroCta": "Download Punjabi Drill + Stems",
+  "energyLevel": "Very High",
+  "primaryUse": "Major Studio Recording, Multitrack Stem Mixing and Dolby Atmos Spatial Audio",
+  "similarArtists": [
+    "Sidhu Moose Wala",
+    "Karan Aujla",
+    "Byg Byrd",
+    "Ikky"
+  ],
+  "recommendedBpm": "138-144 BPM",
+  "productionTips": "Authentic folk instruments bounced dry with separate FX returns and heavy sub-bass portamento.",
+  "idealVocalStyle": "Powerful Punjabi vocals, high-pitch folk singing, and aggressive modern rap cadences.",
+  "suggestedKey": "C Minor / D Minor",
+  "streamingSuitability": "Unlimited streaming and broadcast rights on YouTube, Spotify, and Punjabi satellite channels."
+},
+  {
+  "slug": "melodic-hindi-rap-piano-beats-wav",
+  "title": "Melodic Hindi Rap & Urdu Piano Beats (24-Bit WAV & Full Commercial Rights)",
+  "description": "Poignant, emotionally resonant Hindi and Urdu melodic rap beats featuring classical grand pianos, warm acoustic textures, and deep 808s in uncompressed 24-bit 44.1kHz studio WAV format.",
+  "targetKeywords": [
+    "melodic hindi rap piano beats wav",
+    "sad hindi rap beat 24 bit",
+    "emotional urdu rap instrumental",
+    "piano rap beat dhh download"
+  ],
+  "heroCta": "Listen to Melodic Piano Beats (WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Lead Commercial Single, Heartfelt Narrative Video and Soulful Street Ballad",
+  "similarArtists": [
+    "Seedhe Maut",
+    "KR$NA",
+    "Prabh Deep",
+    "Anjum"
+  ],
+  "recommendedBpm": "126-136 BPM",
+  "productionTips": "Lush classical piano chords recorded with warm analog tape saturation over deep, calibrated sub frequencies.",
+  "idealVocalStyle": "Vulnerable lyrics, emotive melodic chorus singing, and personal reflective Hindi/Urdu poetry.",
+  "suggestedKey": "F Minor / A Minor / D Minor",
+  "streamingSuitability": "Cleared for unlimited streaming distribution with 100% of master royalties kept by the artist."
+},
+  {
+  "slug": "buy-beats-phonepe-googlepay-paytm",
+  "title": "Buy Beats in India with PhonePe, Google Pay & Paytm (UPI Instant In Rupee ₹)",
+  "description": "Purchase untagged premium instrumentals seamlessly using India's Unified Payments Interface: instant checkout via PhonePe, Google Pay, Paytm, BHIM, and cards in Indian Rupees (INR ₹).",
+  "targetKeywords": [
+    "buy beats phonepe googlepay paytm",
+    "buy beats upi india inr",
+    "pay for beats in rupees phonepe",
+    "dhh beat store upi qr code"
+  ],
+  "heroCta": "Checkout with UPI (PhonePe / GPay)",
+  "energyLevel": "All Levels",
+  "primaryUse": "Frictionless Instant Checkout for Indian Recording Artists and Home Studios",
+  "similarArtists": [
+    "Independent Indian Recording Artists"
+  ],
+  "recommendedBpm": "80-160 BPM",
+  "productionTips": "Instant automated file download link delivery upon UPI QR scan or VPA confirmation.",
+  "idealVocalStyle": "Universal compatibility across rap, R&B, drill, and pop vocalists.",
+  "suggestedKey": "All Keys",
+  "streamingSuitability": "Instant commercial clearance valid across all global DSPs."
+},
+  {
+  "slug": "album-ep-beat-packages-india-discount",
+  "title": "5-Beat Album & EP Bundles in India (Save 40% in Indian Rupees ₹)",
+  "description": "Comprehensive project package for Indian recording artists producing a full mixtape, EP, or studio album: select any 5 or 10 instrumentals and save up to 40% with unified licensing in INR (₹).",
+  "targetKeywords": [
+    "album ep beat packages india discount",
+    "5 beat bundle discount india inr",
+    "buy bulk rap beats delhi mumbai",
+    "album instrumental package rupees india"
+  ],
+  "heroCta": "Claim 5-Beat Album Bundle (40% Off)",
+  "energyLevel": "Variable",
+  "primaryUse": "Full Project Production, Cohesive Thematic Direction and Continuous Releases",
+  "similarArtists": [
+    "Independent Indian Rappers and Music Collectives"
+  ],
+  "recommendedBpm": "85-145 BPM",
+  "productionTips": "Harmonically and dynamically cohesive curation ensuring an immersive album journey.",
+  "idealVocalStyle": "Comprehensive canvas for showcasing an artist's full range of flows and songwriting dynamics.",
+  "suggestedKey": "Complementary Keys",
+  "streamingSuitability": "Single unified commercial license covering all tracks on your EP simultaneously."
+},
+  {
+  "slug": "dhh-music-producer-india-whatsapp-onzieb",
+  "title": "Direct Producer Collaboration for Indian Artists (WhatsApp Onzieb)",
+  "description": "Work one-on-one with producer Onzieb via direct WhatsApp collaboration for bespoke custom beat making, key transposition, stem arrangement, and tailor-made Desi Hip-Hop sound design.",
+  "targetKeywords": [
+    "dhh music producer india whatsapp",
+    "onzieb producer india delhi mumbai",
+    "hire custom trap producer india",
+    "bespoke beatmaker dhh whatsapp"
+  ],
+  "heroCta": "Chat with Onzieb on WhatsApp",
+  "energyLevel": "Custom",
+  "primaryUse": "Bespoke Lead Singles, Label Pitching and Custom Signature Sound Identity",
+  "similarArtists": [
+    "Onzieb",
+    "Leading Indian Urban Producers"
+  ],
+  "recommendedBpm": "Tailored to artist breathing and vocal tempo",
+  "productionTips": "Collaborative stem-by-stem arrangement adjustments via WhatsApp voice notes and secure files.",
+  "idealVocalStyle": "Custom tuned to match the exact timbre, power, and pocket of your vocal delivery.",
+  "suggestedKey": "Custom Matched",
+  "streamingSuitability": "Direct exclusive contracts with 100% master ownership and global monetization."
+},
+  {
+  "slug": "acoustic-guitar-sad-hindi-trap-beats",
+  "title": "Sad Acoustic Guitar Hindi Trap Beats (Emotional Melodic Storytelling)",
+  "description": "Heartbreaking, introspective trap beats featuring expressive finger-picked acoustic guitars, somber harmonium progressions, and deep 808s crafted for emotional Hindi lyrical storytelling.",
+  "targetKeywords": [
+    "acoustic guitar sad hindi trap beats",
+    "melodic sad rap beat india",
+    "hindi emotional guitar trap beat",
+    "sad trap beat 808 dhh"
+  ],
+  "heroCta": "Listen to Sad Guitar Beats (WAV)",
+  "energyLevel": "Medium",
+  "primaryUse": "Heartbreak Anthem, Vulnerable Street Story and Acoustic Hip-Hop Single",
+  "similarArtists": [
+    "Seedhe Maut",
+    "KR$NA",
+    "Lil Peep",
+    "Juice WRLD"
+  ],
+  "recommendedBpm": "120-132 BPM",
+  "productionTips": "Real nylon acoustic guitar captured in stereo with analog tape warmth and dynamic sidechain compression.",
+  "idealVocalStyle": "Vulnerable, honest lyrics, melodic auto-tune hooks, and personal emotional reflections.",
+  "suggestedKey": "D Minor / A Minor / E Minor",
+  "streamingSuitability": "Tremendous viral replay on TikTok, emotional Spotify playlists, and heartbreak compilations."
+},
+  {
+  "slug": "commercial-bollywood-pop-rap-beats",
+  "title": "Commercial Bollywood Pop-Rap & Dance-Trap Beats (Viral Reel Ready)",
+  "description": "Glossy, high-energy commercial Indian pop-rap and dance-trap instrumentals featuring catchy brass fanfares, bouncy synth leads, and infectious rhythms tailored for streaming and viral social reels.",
+  "targetKeywords": [
+    "commercial bollywood pop rap beats",
+    "viral reel rap beat india",
+    "bollywood dance trap beat",
+    "catchy hindi pop rap instrumental"
+  ],
+  "heroCta": "Explore Commercial Pop-Rap Beats",
+  "energyLevel": "Very High",
+  "primaryUse": "Viral Dance Single, Commercial Crossover Hit and High-Budget Music Video",
+  "similarArtists": [
+    "Badshah",
+    "Raftaar",
+    "Diljit Dosanjh",
+    "Honey Singh"
+  ],
+  "recommendedBpm": "108-116 / 128 BPM",
+  "productionTips": "Polished commercial synth horns layered with punchy dance kicks and syncopated dholak percussion.",
+  "idealVocalStyle": "Ultra-catchy singalong chorus hooks, playful commercial rhymes, and festive party swagger.",
+  "suggestedKey": "G Minor / D Minor",
+  "streamingSuitability": "Guaranteed high streaming velocity on mainstream Bollywood/urban playlists, clubs, and viral reels."
+},
+  {
+  "slug": "free-dhh-punjabi-trap-drum-kit-wav",
+  "title": "Free DHH & Punjabi Trap Drum Kit (24-Bit WAV Samples & Dholak One-Shots)",
+  "description": "Download our complimentary Indian producer sound pack featuring 25 tuned 808 bass hits, authentic Dholak one-shots, Chimta clicks, and crisp snares in 24-bit studio WAV format.",
+  "targetKeywords": [
+    "free dhh punjabi trap drum kit wav",
+    "indian hip hop drum kit free download",
+    "punjabi 808 sample pack free",
+    "dholak trap samples fl studio"
+  ],
+  "heroCta": "Download Free DHH Drum Kit (ZIP)",
+  "energyLevel": "High",
+  "primaryUse": "DAW Beatmaking in FL Studio, Ableton Live, and Logic Pro",
+  "similarArtists": [
+    "Indian Bedroom Beatmakers",
+    "Emerging DHH Producers"
+  ],
+  "recommendedBpm": "Compatible with all tempos",
+  "productionTips": "100% royalty-free authentic Indian-infused one-shots pre-mastered with peak analog punch.",
+  "idealVocalStyle": "Essential foundation for vocalists and beatmakers constructing custom instrumentals.",
+  "suggestedKey": "Tuned to C for instant pitch mapping",
+  "streamingSuitability": "Royalty-free for commercial music releases, beat sales, and digital streaming."
+},
+  {
+  "slug": "delhi-south-desi-trap-808",
+  "name": "South Delhi Desi Trap 808 Beats",
+  "category": "scene",
+  "badge": "South Delhi Desi Trap",
+  "headline": "South Delhi (Hauz Khas & Jamia DHH Heartland) Desi Trap 808 Beats: 24-Bit WAV Beats & UPI / PhonePe Checkout",
+  "description": "Heavy sliding 808 sub-bass, minor synths, and crisp modern trap snares engineered for MCs in South Delhi.",
+  "targetArtists": [
+    "Artists from South Delhi",
+    "Desi Hip-Hop Community",
+    "Indian Rap Movement"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "South Delhi",
+    "Desi Trap",
+    "Instant UPI (INR ₹)",
+    "IPRS Compliant"
+  ],
+  "popularGenres": [
+    "Desi Trap 808 Beats",
+    "Desi Trap",
+    "Punjabi Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "delhi-south-punjabi-street-drill",
+  "name": "South Delhi Punjabi Street Drill Beats",
+  "category": "scene",
+  "badge": "South Delhi Punjabi Drill",
+  "headline": "South Delhi (Hauz Khas & Jamia DHH Heartland) Punjabi Street Drill Beats: 24-Bit WAV Beats & UPI / PhonePe Checkout",
+  "description": "Acoustic Tumbi riffs, rapid syncopated drill hats, and sliding sub-bass drops crafted for MCs in South Delhi.",
+  "targetArtists": [
+    "Artists from South Delhi",
+    "Desi Hip-Hop Community",
+    "Indian Rap Movement"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / C#-Minor",
+  "vibeAttributes": [
+    "South Delhi",
+    "Punjabi Drill",
+    "Instant UPI (INR ₹)",
+    "IPRS Compliant"
+  ],
+  "popularGenres": [
+    "Punjabi Street Drill Beats",
+    "Desi Trap",
+    "Punjabi Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "delhi-south-gully-rap-boom-bap",
+  "name": "South Delhi Gully Rap Classic Boom Bap",
+  "category": "scene",
+  "badge": "South Delhi Gully Boom Bap",
+  "headline": "South Delhi (Hauz Khas & Jamia DHH Heartland) Gully Rap Classic Boom Bap: 24-Bit WAV Beats & UPI / PhonePe Checkout",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and raw street percussion for lyricists in South Delhi.",
+  "targetArtists": [
+    "Artists from South Delhi",
+    "Desi Hip-Hop Community",
+    "Indian Rap Movement"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "South Delhi",
+    "Gully Boom Bap",
+    "Instant UPI (INR ₹)",
+    "IPRS Compliant"
+  ],
+  "popularGenres": [
+    "Gully Rap Classic Boom Bap",
+    "Desi Trap",
+    "Punjabi Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "delhi-south-dhh-acoustic-melodic",
+  "name": "South Delhi DHH Acoustic Melodic Beats",
+  "category": "scene",
+  "badge": "South Delhi Acoustic DHH",
+  "headline": "South Delhi (Hauz Khas & Jamia DHH Heartland) DHH Acoustic Melodic Beats: 24-Bit WAV Beats & UPI / PhonePe Checkout",
+  "description": "Finger-picked nylon guitars, soulful harmonium progressions, and warm basslines for vocalists in South Delhi.",
+  "targetArtists": [
+    "Artists from South Delhi",
+    "Desi Hip-Hop Community",
+    "Indian Rap Movement"
+  ],
+  "recommendedBpm": "115-125 BPM",
+  "recommendedKey": "F-Minor / G-Major",
+  "vibeAttributes": [
+    "South Delhi",
+    "Acoustic DHH",
+    "Instant UPI (INR ₹)",
+    "IPRS Compliant"
+  ],
+  "popularGenres": [
+    "DHH Acoustic Melodic Beats",
+    "Desi Trap",
+    "Punjabi Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "mumbai-dharavi-desi-trap-808",
+  "name": "Dharavi Desi Trap 808 Beats",
+  "category": "scene",
+  "badge": "Dharavi Desi Trap",
+  "headline": "Dharavi (Bandra & Gully Rap Sacred Cradle) Desi Trap 808 Beats: 24-Bit WAV Beats & UPI / PhonePe Checkout",
+  "description": "Heavy sliding 808 sub-bass, minor synths, and crisp modern trap snares engineered for MCs in Dharavi.",
+  "targetArtists": [
+    "Artists from Dharavi",
+    "Desi Hip-Hop Community",
+    "Indian Rap Movement"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Dharavi",
+    "Desi Trap",
+    "Instant UPI (INR ₹)",
+    "IPRS Compliant"
+  ],
+  "popularGenres": [
+    "Desi Trap 808 Beats",
+    "Desi Trap",
+    "Punjabi Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "mumbai-dharavi-punjabi-street-drill",
+  "name": "Dharavi Punjabi Street Drill Beats",
+  "category": "scene",
+  "badge": "Dharavi Punjabi Drill",
+  "headline": "Dharavi (Bandra & Gully Rap Sacred Cradle) Punjabi Street Drill Beats: 24-Bit WAV Beats & UPI / PhonePe Checkout",
+  "description": "Acoustic Tumbi riffs, rapid syncopated drill hats, and sliding sub-bass drops crafted for MCs in Dharavi.",
+  "targetArtists": [
+    "Artists from Dharavi",
+    "Desi Hip-Hop Community",
+    "Indian Rap Movement"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / C#-Minor",
+  "vibeAttributes": [
+    "Dharavi",
+    "Punjabi Drill",
+    "Instant UPI (INR ₹)",
+    "IPRS Compliant"
+  ],
+  "popularGenres": [
+    "Punjabi Street Drill Beats",
+    "Desi Trap",
+    "Punjabi Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "mumbai-dharavi-gully-rap-boom-bap",
+  "name": "Dharavi Gully Rap Classic Boom Bap",
+  "category": "scene",
+  "badge": "Dharavi Gully Boom Bap",
+  "headline": "Dharavi (Bandra & Gully Rap Sacred Cradle) Gully Rap Classic Boom Bap: 24-Bit WAV Beats & UPI / PhonePe Checkout",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and raw street percussion for lyricists in Dharavi.",
+  "targetArtists": [
+    "Artists from Dharavi",
+    "Desi Hip-Hop Community",
+    "Indian Rap Movement"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Dharavi",
+    "Gully Boom Bap",
+    "Instant UPI (INR ₹)",
+    "IPRS Compliant"
+  ],
+  "popularGenres": [
+    "Gully Rap Classic Boom Bap",
+    "Desi Trap",
+    "Punjabi Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "mumbai-dharavi-dhh-acoustic-melodic",
+  "name": "Dharavi DHH Acoustic Melodic Beats",
+  "category": "scene",
+  "badge": "Dharavi Acoustic DHH",
+  "headline": "Dharavi (Bandra & Gully Rap Sacred Cradle) DHH Acoustic Melodic Beats: 24-Bit WAV Beats & UPI / PhonePe Checkout",
+  "description": "Finger-picked nylon guitars, soulful harmonium progressions, and warm basslines for vocalists in Dharavi.",
+  "targetArtists": [
+    "Artists from Dharavi",
+    "Desi Hip-Hop Community",
+    "Indian Rap Movement"
+  ],
+  "recommendedBpm": "115-125 BPM",
+  "recommendedKey": "F-Minor / G-Major",
+  "vibeAttributes": [
+    "Dharavi",
+    "Acoustic DHH",
+    "Instant UPI (INR ₹)",
+    "IPRS Compliant"
+  ],
+  "popularGenres": [
+    "DHH Acoustic Melodic Beats",
+    "Desi Trap",
+    "Punjabi Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "jalandhar-doaba-desi-trap-808",
+  "name": "Jalandhar Desi Trap 808 Beats",
+  "category": "scene",
+  "badge": "Jalandhar Desi Trap",
+  "headline": "Jalandhar (Doaba & Punjabi Trap Global Engine) Desi Trap 808 Beats: 24-Bit WAV Beats & UPI / PhonePe Checkout",
+  "description": "Heavy sliding 808 sub-bass, minor synths, and crisp modern trap snares engineered for MCs in Jalandhar.",
+  "targetArtists": [
+    "Artists from Jalandhar",
+    "Desi Hip-Hop Community",
+    "Indian Rap Movement"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Jalandhar",
+    "Desi Trap",
+    "Instant UPI (INR ₹)",
+    "IPRS Compliant"
+  ],
+  "popularGenres": [
+    "Desi Trap 808 Beats",
+    "Desi Trap",
+    "Punjabi Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "jalandhar-doaba-punjabi-street-drill",
+  "name": "Jalandhar Punjabi Street Drill Beats",
+  "category": "scene",
+  "badge": "Jalandhar Punjabi Drill",
+  "headline": "Jalandhar (Doaba & Punjabi Trap Global Engine) Punjabi Street Drill Beats: 24-Bit WAV Beats & UPI / PhonePe Checkout",
+  "description": "Acoustic Tumbi riffs, rapid syncopated drill hats, and sliding sub-bass drops crafted for MCs in Jalandhar.",
+  "targetArtists": [
+    "Artists from Jalandhar",
+    "Desi Hip-Hop Community",
+    "Indian Rap Movement"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / C#-Minor",
+  "vibeAttributes": [
+    "Jalandhar",
+    "Punjabi Drill",
+    "Instant UPI (INR ₹)",
+    "IPRS Compliant"
+  ],
+  "popularGenres": [
+    "Punjabi Street Drill Beats",
+    "Desi Trap",
+    "Punjabi Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "jalandhar-doaba-gully-rap-boom-bap",
+  "name": "Jalandhar Gully Rap Classic Boom Bap",
+  "category": "scene",
+  "badge": "Jalandhar Gully Boom Bap",
+  "headline": "Jalandhar (Doaba & Punjabi Trap Global Engine) Gully Rap Classic Boom Bap: 24-Bit WAV Beats & UPI / PhonePe Checkout",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and raw street percussion for lyricists in Jalandhar.",
+  "targetArtists": [
+    "Artists from Jalandhar",
+    "Desi Hip-Hop Community",
+    "Indian Rap Movement"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Jalandhar",
+    "Gully Boom Bap",
+    "Instant UPI (INR ₹)",
+    "IPRS Compliant"
+  ],
+  "popularGenres": [
+    "Gully Rap Classic Boom Bap",
+    "Desi Trap",
+    "Punjabi Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "jalandhar-doaba-dhh-acoustic-melodic",
+  "name": "Jalandhar DHH Acoustic Melodic Beats",
+  "category": "scene",
+  "badge": "Jalandhar Acoustic DHH",
+  "headline": "Jalandhar (Doaba & Punjabi Trap Global Engine) DHH Acoustic Melodic Beats: 24-Bit WAV Beats & UPI / PhonePe Checkout",
+  "description": "Finger-picked nylon guitars, soulful harmonium progressions, and warm basslines for vocalists in Jalandhar.",
+  "targetArtists": [
+    "Artists from Jalandhar",
+    "Desi Hip-Hop Community",
+    "Indian Rap Movement"
+  ],
+  "recommendedBpm": "115-125 BPM",
+  "recommendedKey": "F-Minor / G-Major",
+  "vibeAttributes": [
+    "Jalandhar",
+    "Acoustic DHH",
+    "Instant UPI (INR ₹)",
+    "IPRS Compliant"
+  ],
+  "popularGenres": [
+    "DHH Acoustic Melodic Beats",
+    "Desi Trap",
+    "Punjabi Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "shillong-hills-desi-trap-808",
+  "name": "Shillong Desi Trap 808 Beats",
+  "category": "scene",
+  "badge": "Shillong Desi Trap",
+  "headline": "Shillong (North-East Hills & Indie Rock Soul) Desi Trap 808 Beats: 24-Bit WAV Beats & UPI / PhonePe Checkout",
+  "description": "Heavy sliding 808 sub-bass, minor synths, and crisp modern trap snares engineered for MCs in Shillong.",
+  "targetArtists": [
+    "Artists from Shillong",
+    "Desi Hip-Hop Community",
+    "Indian Rap Movement"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Shillong",
+    "Desi Trap",
+    "Instant UPI (INR ₹)",
+    "IPRS Compliant"
+  ],
+  "popularGenres": [
+    "Desi Trap 808 Beats",
+    "Desi Trap",
+    "Punjabi Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "shillong-hills-punjabi-street-drill",
+  "name": "Shillong Punjabi Street Drill Beats",
+  "category": "scene",
+  "badge": "Shillong Punjabi Drill",
+  "headline": "Shillong (North-East Hills & Indie Rock Soul) Punjabi Street Drill Beats: 24-Bit WAV Beats & UPI / PhonePe Checkout",
+  "description": "Acoustic Tumbi riffs, rapid syncopated drill hats, and sliding sub-bass drops crafted for MCs in Shillong.",
+  "targetArtists": [
+    "Artists from Shillong",
+    "Desi Hip-Hop Community",
+    "Indian Rap Movement"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / C#-Minor",
+  "vibeAttributes": [
+    "Shillong",
+    "Punjabi Drill",
+    "Instant UPI (INR ₹)",
+    "IPRS Compliant"
+  ],
+  "popularGenres": [
+    "Punjabi Street Drill Beats",
+    "Desi Trap",
+    "Punjabi Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "shillong-hills-gully-rap-boom-bap",
+  "name": "Shillong Gully Rap Classic Boom Bap",
+  "category": "scene",
+  "badge": "Shillong Gully Boom Bap",
+  "headline": "Shillong (North-East Hills & Indie Rock Soul) Gully Rap Classic Boom Bap: 24-Bit WAV Beats & UPI / PhonePe Checkout",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and raw street percussion for lyricists in Shillong.",
+  "targetArtists": [
+    "Artists from Shillong",
+    "Desi Hip-Hop Community",
+    "Indian Rap Movement"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Shillong",
+    "Gully Boom Bap",
+    "Instant UPI (INR ₹)",
+    "IPRS Compliant"
+  ],
+  "popularGenres": [
+    "Gully Rap Classic Boom Bap",
+    "Desi Trap",
+    "Punjabi Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "shillong-hills-dhh-acoustic-melodic",
+  "name": "Shillong DHH Acoustic Melodic Beats",
+  "category": "scene",
+  "badge": "Shillong Acoustic DHH",
+  "headline": "Shillong (North-East Hills & Indie Rock Soul) DHH Acoustic Melodic Beats: 24-Bit WAV Beats & UPI / PhonePe Checkout",
+  "description": "Finger-picked nylon guitars, soulful harmonium progressions, and warm basslines for vocalists in Shillong.",
+  "targetArtists": [
+    "Artists from Shillong",
+    "Desi Hip-Hop Community",
+    "Indian Rap Movement"
+  ],
+  "recommendedBpm": "115-125 BPM",
+  "recommendedKey": "F-Minor / G-Major",
+  "vibeAttributes": [
+    "Shillong",
+    "Acoustic DHH",
+    "Instant UPI (INR ₹)",
+    "IPRS Compliant"
+  ],
+  "popularGenres": [
+    "DHH Acoustic Melodic Beats",
+    "Desi Trap",
+    "Punjabi Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "lucknow-awadh-desi-trap-808",
+  "name": "Lucknow Desi Trap 808 Beats",
+  "category": "scene",
+  "badge": "Lucknow Desi Trap",
+  "headline": "Lucknow (Awadh Heritage & Poetic Urdu Rap) Desi Trap 808 Beats: 24-Bit WAV Beats & UPI / PhonePe Checkout",
+  "description": "Heavy sliding 808 sub-bass, minor synths, and crisp modern trap snares engineered for MCs in Lucknow.",
+  "targetArtists": [
+    "Artists from Lucknow",
+    "Desi Hip-Hop Community",
+    "Indian Rap Movement"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Lucknow",
+    "Desi Trap",
+    "Instant UPI (INR ₹)",
+    "IPRS Compliant"
+  ],
+  "popularGenres": [
+    "Desi Trap 808 Beats",
+    "Desi Trap",
+    "Punjabi Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "lucknow-awadh-punjabi-street-drill",
+  "name": "Lucknow Punjabi Street Drill Beats",
+  "category": "scene",
+  "badge": "Lucknow Punjabi Drill",
+  "headline": "Lucknow (Awadh Heritage & Poetic Urdu Rap) Punjabi Street Drill Beats: 24-Bit WAV Beats & UPI / PhonePe Checkout",
+  "description": "Acoustic Tumbi riffs, rapid syncopated drill hats, and sliding sub-bass drops crafted for MCs in Lucknow.",
+  "targetArtists": [
+    "Artists from Lucknow",
+    "Desi Hip-Hop Community",
+    "Indian Rap Movement"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / C#-Minor",
+  "vibeAttributes": [
+    "Lucknow",
+    "Punjabi Drill",
+    "Instant UPI (INR ₹)",
+    "IPRS Compliant"
+  ],
+  "popularGenres": [
+    "Punjabi Street Drill Beats",
+    "Desi Trap",
+    "Punjabi Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "lucknow-awadh-gully-rap-boom-bap",
+  "name": "Lucknow Gully Rap Classic Boom Bap",
+  "category": "scene",
+  "badge": "Lucknow Gully Boom Bap",
+  "headline": "Lucknow (Awadh Heritage & Poetic Urdu Rap) Gully Rap Classic Boom Bap: 24-Bit WAV Beats & UPI / PhonePe Checkout",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and raw street percussion for lyricists in Lucknow.",
+  "targetArtists": [
+    "Artists from Lucknow",
+    "Desi Hip-Hop Community",
+    "Indian Rap Movement"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Lucknow",
+    "Gully Boom Bap",
+    "Instant UPI (INR ₹)",
+    "IPRS Compliant"
+  ],
+  "popularGenres": [
+    "Gully Rap Classic Boom Bap",
+    "Desi Trap",
+    "Punjabi Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "lucknow-awadh-dhh-acoustic-melodic",
+  "name": "Lucknow DHH Acoustic Melodic Beats",
+  "category": "scene",
+  "badge": "Lucknow Acoustic DHH",
+  "headline": "Lucknow (Awadh Heritage & Poetic Urdu Rap) DHH Acoustic Melodic Beats: 24-Bit WAV Beats & UPI / PhonePe Checkout",
+  "description": "Finger-picked nylon guitars, soulful harmonium progressions, and warm basslines for vocalists in Lucknow.",
+  "targetArtists": [
+    "Artists from Lucknow",
+    "Desi Hip-Hop Community",
+    "Indian Rap Movement"
+  ],
+  "recommendedBpm": "115-125 BPM",
+  "recommendedKey": "F-Minor / G-Major",
+  "vibeAttributes": [
+    "Lucknow",
+    "Acoustic DHH",
+    "Instant UPI (INR ₹)",
+    "IPRS Compliant"
+  ],
+  "popularGenres": [
+    "DHH Acoustic Melodic Beats",
+    "Desi Trap",
+    "Punjabi Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "goa-coast-desi-trap-808",
+  "name": "Goa Desi Trap 808 Beats",
+  "category": "scene",
+  "badge": "Goa Desi Trap",
+  "headline": "Goa (Panaji Coastal Belt & Trance Trap Pulse) Desi Trap 808 Beats: 24-Bit WAV Beats & UPI / PhonePe Checkout",
+  "description": "Heavy sliding 808 sub-bass, minor synths, and crisp modern trap snares engineered for MCs in Goa.",
+  "targetArtists": [
+    "Artists from Goa",
+    "Desi Hip-Hop Community",
+    "Indian Rap Movement"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Goa",
+    "Desi Trap",
+    "Instant UPI (INR ₹)",
+    "IPRS Compliant"
+  ],
+  "popularGenres": [
+    "Desi Trap 808 Beats",
+    "Desi Trap",
+    "Punjabi Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "goa-coast-punjabi-street-drill",
+  "name": "Goa Punjabi Street Drill Beats",
+  "category": "scene",
+  "badge": "Goa Punjabi Drill",
+  "headline": "Goa (Panaji Coastal Belt & Trance Trap Pulse) Punjabi Street Drill Beats: 24-Bit WAV Beats & UPI / PhonePe Checkout",
+  "description": "Acoustic Tumbi riffs, rapid syncopated drill hats, and sliding sub-bass drops crafted for MCs in Goa.",
+  "targetArtists": [
+    "Artists from Goa",
+    "Desi Hip-Hop Community",
+    "Indian Rap Movement"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / C#-Minor",
+  "vibeAttributes": [
+    "Goa",
+    "Punjabi Drill",
+    "Instant UPI (INR ₹)",
+    "IPRS Compliant"
+  ],
+  "popularGenres": [
+    "Punjabi Street Drill Beats",
+    "Desi Trap",
+    "Punjabi Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "goa-coast-gully-rap-boom-bap",
+  "name": "Goa Gully Rap Classic Boom Bap",
+  "category": "scene",
+  "badge": "Goa Gully Boom Bap",
+  "headline": "Goa (Panaji Coastal Belt & Trance Trap Pulse) Gully Rap Classic Boom Bap: 24-Bit WAV Beats & UPI / PhonePe Checkout",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and raw street percussion for lyricists in Goa.",
+  "targetArtists": [
+    "Artists from Goa",
+    "Desi Hip-Hop Community",
+    "Indian Rap Movement"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Goa",
+    "Gully Boom Bap",
+    "Instant UPI (INR ₹)",
+    "IPRS Compliant"
+  ],
+  "popularGenres": [
+    "Gully Rap Classic Boom Bap",
+    "Desi Trap",
+    "Punjabi Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "goa-coast-dhh-acoustic-melodic",
+  "name": "Goa DHH Acoustic Melodic Beats",
+  "category": "scene",
+  "badge": "Goa Acoustic DHH",
+  "headline": "Goa (Panaji Coastal Belt & Trance Trap Pulse) DHH Acoustic Melodic Beats: 24-Bit WAV Beats & UPI / PhonePe Checkout",
+  "description": "Finger-picked nylon guitars, soulful harmonium progressions, and warm basslines for vocalists in Goa.",
+  "targetArtists": [
+    "Artists from Goa",
+    "Desi Hip-Hop Community",
+    "Indian Rap Movement"
+  ],
+  "recommendedBpm": "115-125 BPM",
+  "recommendedKey": "F-Minor / G-Major",
+  "vibeAttributes": [
+    "Goa",
+    "Acoustic DHH",
+    "Instant UPI (INR ₹)",
+    "IPRS Compliant"
+  ],
+  "popularGenres": [
+    "DHH Acoustic Melodic Beats",
+    "Desi Trap",
+    "Punjabi Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
 ];
