@@ -39918,4 +39918,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "ae/dubai-downtown-marina": {
+  "slug": "ae/dubai-downtown-marina",
+  "name": "UAE – Dubai: Downtown, Burj Khalifa & Marina (Supercar Luxury Trap & Global Beats)",
+  "flag": "🇦🇪",
+  "currency": "AED (د.إ) / USD ($)",
+  "currencyCode": "AED",
+  "gateways": "Apple Pay, Google Pay, Cards (Visa/Mastercard), Careem Pay, Tabby, PayPal, Stripe",
+  "pro": "UAE Ministry of Economy / SACEM",
+  "proFullName": "UAE Ministry of Economy (Federal Decree Law No. 38/2021) / SACEM",
+  "proGuide": "100% compliant with UAE Copyright Law 2021 and international SACEM guidelines with instant PDF license.",
+  "headline": "Beats in Dubai: Burj Khalifa Skyline, Supercar Luxury Trap & Sleek 808s",
+  "description": "The futuristic global capital of luxury and innovation: gleaming synthesizer pads, sliding 808 sub-bass, and high-roller bounce engineered for artists in Downtown Dubai, DIFC, and Dubai Marina.",
+  "popularGenres": [
+    "Dubai Luxury Trap",
+    "Arabic Drill",
+    "Cosmopolitan R&B"
+  ],
+  "subClusters": []
+},
+  "ae/abu-dhabi-corniche-yas": {
+  "slug": "ae/abu-dhabi-corniche-yas",
+  "name": "UAE – Abu Dhabi: Yas Island, Corniche & Saadiyat (Capital Pride & Grand Prix Trap)",
+  "flag": "🇦🇪",
+  "currency": "AED (د.إ) / USD ($)",
+  "currencyCode": "AED",
+  "gateways": "Apple Pay, Google Pay, Cards (Visa/Mastercard), Careem Pay, Tabby, PayPal, Stripe",
+  "pro": "UAE Ministry of Economy / SACEM",
+  "proFullName": "UAE Ministry of Economy (Federal Decree Law No. 38/2021) / SACEM",
+  "proGuide": "Pristine 24-bit studio WAV delivery with separated multitrack stem files.",
+  "headline": "Beats in Abu Dhabi: Yas Marina Grand Prix Speed, Capital Prestige & Melodic Bass",
+  "description": "The prestigious federal capital and cultural heart: roaring 140 BPM synth leads, Formula 1 adrenaline, and refined orchestral textures designed for Abu Dhabi, Yas Island, and Saadiyat artists.",
+  "popularGenres": [
+    "Abu Dhabi Grand Prix Trap",
+    "Capital Melodic Rap",
+    "Saadiyat Orchestral"
+  ],
+  "subClusters": []
+},
+  "ae/sharjah-arts-heritage": {
+  "slug": "ae/sharjah-arts-heritage",
+  "name": "UAE – Sharjah: Arts District, Al Majaz & Heritage Area (Cultural Heart & Oud Boom Bap)",
+  "flag": "🇦🇪",
+  "currency": "AED (د.إ) / USD ($)",
+  "currencyCode": "AED",
+  "gateways": "Apple Pay, Google Pay, Cards (Visa/Mastercard), Careem Pay, Tabby, PayPal, Stripe",
+  "pro": "UAE Ministry of Economy / SACEM",
+  "proFullName": "UAE Ministry of Economy (Federal Decree Law No. 38/2021) / SACEM",
+  "proGuide": "100% royalty-free clearance on master recordings with commercial licensing.",
+  "headline": "Beats in Sharjah: Heritage Souks, Islamic Arts, Arabic Poetry & Dusty Boom Bap",
+  "description": "The cultural and literary capital of the Emirates: warm Rhodes keyboards, traditional Middle Eastern Oud melodies, and dusty vinyl hip-hop drums tailored for lyrical and conscious Arabic MCs.",
+  "popularGenres": [
+    "Sharjah Conscious Rap",
+    "Oud Boom Bap",
+    "Arabic Poetry Beat"
+  ],
+  "subClusters": []
+},
+  "ae/dubai-design-district-d3": {
+  "slug": "ae/dubai-design-district-d3",
+  "name": "UAE – Dubai Design District (d3) & Al Quoz (Creative Arts Hub & Aesthetic Chillhop)",
+  "flag": "🇦🇪",
+  "currency": "AED (د.إ) / USD ($)",
+  "currencyCode": "AED",
+  "gateways": "Apple Pay, Google Pay, Cards (Visa/Mastercard), Careem Pay, Tabby, PayPal, Stripe",
+  "pro": "UAE Ministry of Economy / SACEM",
+  "proFullName": "UAE Ministry of Economy (Federal Decree Law No. 38/2021) / SACEM",
+  "proGuide": "Worldwide digital monetization rights for Spotify, Apple Music, Anghami, and YouTube.",
+  "headline": "Beats in d3 & Al Quoz: Fashion Week Aesthetics, Warehouse Cyphers & Modern Chill",
+  "description": "The creative epicenter of Middle Eastern design and fashion: ambient tape-saturated electric pianos, minimal percussive textures, and polished R&B-trap bounce for d3 and Alserkal Avenue creators.",
+  "popularGenres": [
+    "d3 Aesthetic Trap",
+    "Al Quoz Warehouse Hip-Hop",
+    "Modern Khaleeji R&B"
+  ],
+  "subClusters": []
+},
+  "ae/dubai-deira-creek-old": {
+  "slug": "ae/dubai-deira-creek-old",
+  "name": "UAE – Dubai: Deira, Al Fahidi & Creek (Historic Trading Dhows & Raw Street Reality)",
+  "flag": "🇦🇪",
+  "currency": "AED (د.إ) / USD ($)",
+  "currencyCode": "AED",
+  "gateways": "Apple Pay, Google Pay, Cards (Visa/Mastercard), Careem Pay, Tabby, PayPal, Stripe",
+  "pro": "UAE Ministry of Economy / SACEM",
+  "proFullName": "UAE Ministry of Economy (Federal Decree Law No. 38/2021) / SACEM",
+  "proGuide": "Instant Apple Pay and card checkout in AED (د.إ) with immediate file download.",
+  "headline": "Beats in Deira & Dubai Creek: Gold Souk Hustle, Wooden Dhows & Hardcore Drill",
+  "description": "The historic trading soul and bustling spice souks of Old Dubai: dark minor pianos, icy sliding 808s, and raw street energy capturing the authentic multicultural hustle of Deira and Bur Dubai.",
+  "popularGenres": [
+    "Deira Street Drill",
+    "Creek Dhow Lofi",
+    "Old Dubai Real Rap"
+  ],
+  "subClusters": []
+},
+  "ae/ajman-al-nuaimiya-coast": {
+  "slug": "ae/ajman-al-nuaimiya-coast",
+  "name": "UAE – Ajman: Al Nuaimiya & Corniche (Coastal Heartland & Emerging Bedroom Trap)",
+  "flag": "🇦🇪",
+  "currency": "AED (د.إ) / USD ($)",
+  "currencyCode": "AED",
+  "gateways": "Apple Pay, Google Pay, Cards (Visa/Mastercard), Careem Pay, Tabby, PayPal, Stripe",
+  "pro": "UAE Ministry of Economy / SACEM",
+  "proFullName": "UAE Ministry of Economy (Federal Decree Law No. 38/2021) / SACEM",
+  "proGuide": "100% original master production cleared for DSP distribution.",
+  "headline": "Beats in Ajman: Coastal Corniche Breeze, Bedroom Producer Culture & Street Drill",
+  "description": "The fast-growing creative youth hub of the northern Emirates: snappy snares, punchy 808 glides, and accessible trap arrangements crafted for emerging MCs in Ajman and Al Nuaimiya.",
+  "popularGenres": [
+    "Ajman Street Drill",
+    "Corniche Trap Beat",
+    "Northern Emirates Rap"
+  ],
+  "subClusters": []
+},
+  "ae/ras-al-khaimah-jebel-jais": {
+  "slug": "ae/ras-al-khaimah-jebel-jais",
+  "name": "UAE – Ras Al Khaimah: Jebel Jais & Al Marjan (Mountain Peaks & Epic Cinematic Trap)",
+  "flag": "🇦🇪",
+  "currency": "AED (د.إ) / USD ($)",
+  "currencyCode": "AED",
+  "gateways": "Apple Pay, Google Pay, Cards (Visa/Mastercard), Careem Pay, Tabby, PayPal, Stripe",
+  "pro": "UAE Ministry of Economy / SACEM",
+  "proFullName": "UAE Ministry of Economy (Federal Decree Law No. 38/2021) / SACEM",
+  "proGuide": "Direct commercial licensing for club DJs, YouTube sync, and streaming.",
+  "headline": "Beats in Ras Al Khaimah: Jebel Jais Mountain Summit, Desert Canyons & Epic 808s",
+  "description": "The dramatic mountain heights of the UAE's highest peak: thunderous cinematic brass, sweeping desert reverbs, and earthquake sub-bass drops for monumental rap anthems in RAK.",
+  "popularGenres": [
+    "RAK Mountain Trap",
+    "Jebel Jais Epic Beat",
+    "Desert Canyon 808"
+  ],
+  "subClusters": []
+},
+  "ae/fujairah-east-coast-gulf": {
+  "slug": "ae/fujairah-east-coast-gulf",
+  "name": "UAE – Fujairah: Gulf of Oman & Indian Ocean (Eastern Coastline & Ocean Chillhop)",
+  "flag": "🇦🇪",
+  "currency": "AED (د.إ) / USD ($)",
+  "currencyCode": "AED",
+  "gateways": "Apple Pay, Google Pay, Cards (Visa/Mastercard), Careem Pay, Tabby, PayPal, Stripe",
+  "pro": "UAE Ministry of Economy / SACEM",
+  "proFullName": "UAE Ministry of Economy (Federal Decree Law No. 38/2021) / SACEM",
+  "proGuide": "Direct stems multitrack download for precision audio mixing.",
+  "headline": "Beats in Fujairah: Indian Ocean Sunrise, Rocky Mountain Coast & Acoustic Lofi",
+  "description": "The tranquil eastern maritime haven facing the Gulf of Oman: gentle ocean wave soundscapes, acoustic nylon guitar fingerpicking, and mellow hip-hop drums for relaxed coastal songwriting.",
+  "popularGenres": [
+    "Fujairah Coastal Lofi",
+    "Gulf of Oman Chillhop",
+    "Eastern Maritime Beat"
+  ],
+  "subClusters": []
+},
+  "ae/al-ain-oasis-garden": {
+  "slug": "ae/al-ain-oasis-garden",
+  "name": "UAE – Al Ain: The Garden City & Jebel Hafeet (Ancestral Heritage & Rababa Trap)",
+  "flag": "🇦🇪",
+  "currency": "AED (د.إ) / USD ($)",
+  "currencyCode": "AED",
+  "gateways": "Apple Pay, Google Pay, Cards (Visa/Mastercard), Careem Pay, Tabby, PayPal, Stripe",
+  "pro": "UAE Ministry of Economy / SACEM",
+  "proFullName": "UAE Ministry of Economy (Federal Decree Law No. 38/2021) / SACEM",
+  "proGuide": "100% legal protection with downloadable split sheet agreement.",
+  "headline": "Beats in Al Ain: Oasis Palm Groves, Ancient Jebel Hafeet & Bedouin Rababa Trap",
+  "description": "The ancestral garden city and cradle of Emirati tradition: authentic single-string Rababa and Oud melodies layered over deep 808 sub drops for proud Khaleeji and Emirati hip-hop.",
+  "popularGenres": [
+    "Al Ain Oasis Beat",
+    "Rababa Bedouin Trap",
+    "Jebel Hafeet Heritage 808"
+  ],
+  "subClusters": []
+},
+  "ae/umm-al-quwain-mangroves": {
+  "slug": "ae/umm-al-quwain-mangroves",
+  "name": "UAE – Umm Al Quwain & Mangrove Coast (Serene Coastal Lagoons & Ambient Rap)",
+  "flag": "🇦🇪",
+  "currency": "AED (د.إ) / USD ($)",
+  "currencyCode": "AED",
+  "gateways": "Apple Pay, Google Pay, Cards (Visa/Mastercard), Careem Pay, Tabby, PayPal, Stripe",
+  "pro": "UAE Ministry of Economy / SACEM",
+  "proFullName": "UAE Ministry of Economy (Federal Decree Law No. 38/2021) / SACEM",
+  "proGuide": "Complete commercial rights with invoice and digital certificate.",
+  "headline": "Beats in Umm Al Quwain: Mangrove Lagoons, Quiet Waters & Ambient Lofi",
+  "description": "The untouched tranquility of coastal lagoons and bird sanctuaries: spacious analog synthesizer pads, gentle water field recordings, and relaxed beats for reflective and poetic lyrics.",
+  "popularGenres": [
+    "UAQ Lagoon Lofi",
+    "Mangrove Ambient Beat",
+    "Quiet Coast Hip-Hop"
+  ],
+  "subClusters": []
+},
 };
