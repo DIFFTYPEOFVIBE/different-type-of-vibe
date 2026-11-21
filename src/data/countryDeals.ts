@@ -39728,4 +39728,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "tw/taipei-shilin-tianmu": {
+  "slug": "tw/taipei-shilin-tianmu",
+  "name": "台灣 – 台北 (士林區、天母特區: 異國莊園風情、夜市人潮 & 流行Trap)",
+  "flag": "🇹🇼",
+  "currency": "TWD (NT$) / USD ($)",
+  "currencyCode": "TWD",
+  "gateways": "LINE Pay, 街口支付 (JKOPay), 台灣Pay, ATM虛擬帳號, 信用卡, Apple Pay, PayPal, Stripe",
+  "pro": "MUST",
+  "proFullName": "MUST (中華音樂著作權協會)",
+  "proGuide": "100% 符合 MUST 著作權規範，附正式電子授權合約 (PDF)。",
+  "headline": "台北士林天母音樂伴奏: 陽明山麓、國際異國情調與精緻流行Trap",
+  "description": "陽明山下的慢活氛圍與士林夜市的熱鬧街景：通透原聲吉他、輕快鼓點與高質感合成器，適合士林與天母獨立創作人的流行單曲。",
+  "popularGenres": [
+    "士林流行Trap",
+    "天母異國風R&B",
+    "都會抒情Beat"
+  ],
+  "subClusters": []
+},
+  "tw/new-taipei-tamsui-coast": {
+  "slug": "tw/new-taipei-tamsui-coast",
+  "name": "台灣 – 淡水 & 八里 (漁人碼頭夕陽、出海口海風 & 抒情木吉他Lofi)",
+  "flag": "🇹🇼",
+  "currency": "TWD (NT$) / USD ($)",
+  "currencyCode": "TWD",
+  "gateways": "LINE Pay, 街口支付 (JKOPay), 台灣Pay, ATM虛擬帳號, 信用卡, Apple Pay, PayPal, Stripe",
+  "pro": "MUST",
+  "proFullName": "MUST (中華音樂著作權協會)",
+  "proGuide": "24-bit 錄音室無損 WAV 交付，包含完整分軌 (Stems) 檔案。",
+  "headline": "淡水老街伴奏: 漁人碼頭金色落日、海浪拍岸與放鬆Lofi Chillhop",
+  "description": "淡水河口的金色落日餘暉：原木尼龍吉他指彈、平緩水流取樣與溫暖黑膠鼓點，獻給漫步淡水河畔與八里左岸的靈魂詩人。",
+  "popularGenres": [
+    "淡水落日Lofi",
+    "八里海風Chillhop",
+    "出海口原聲吉他"
+  ],
+  "subClusters": []
+},
+  "tw/taichung-fengchia-nightlife": {
+  "slug": "tw/taichung-fengchia-nightlife",
+  "name": "台灣 – 台中 (逢甲特區、逢甲夜市: 萬人學區、不夜城 & 高能量Trap)",
+  "flag": "🇹🇼",
+  "currency": "TWD (NT$) / USD ($)",
+  "currencyCode": "TWD",
+  "gateways": "LINE Pay, 街口支付 (JKOPay), 台灣Pay, ATM虛擬帳號, 信用卡, Apple Pay, PayPal, Stripe",
+  "pro": "MUST",
+  "proFullName": "MUST (中華音樂著作權協會)",
+  "proGuide": "100% 原創母帶權利清白，可全球商業發行於串流平台。",
+  "headline": "台中逢甲派對伴奏: 逢甲夜市熱浪、青年學區活力與炸裂808",
+  "description": "全台最大夜市商圈的沸騰能量：快速有力的打擊樂、彈跳感十足的808重低音與搶耳旋律，專為逢甲大學城與台中派對熱血打造。",
+  "popularGenres": [
+    "逢甲派對Trap",
+    "學區夜市Banger",
+    "台中熱血808"
+  ],
+  "subClusters": []
+},
+  "tw/kaohsiung-fengshan-heritage": {
+  "slug": "tw/kaohsiung-fengshan-heritage",
+  "name": "台灣 – 高雄 (鳳山區、衛武營: 眷村歷史底蘊、大東藝文 & 硬派街頭)",
+  "flag": "🇹🇼",
+  "currency": "TWD (NT$) / USD ($)",
+  "currencyCode": "TWD",
+  "gateways": "LINE Pay, 街口支付 (JKOPay), 台灣Pay, ATM虛擬帳號, 信用卡, Apple Pay, PayPal, Stripe",
+  "pro": "MUST",
+  "proFullName": "MUST (中華音樂著作權協會)",
+  "proGuide": "全球數位版權保障，完全支援 Spotify、Apple Music 與 YouTube 營利。",
+  "headline": "高雄鳳山伴奏: 衛武營藝術殿堂、眷村磚牆與南台灣真實街頭說唱",
+  "description": "高雄人口第一大區的厚實底蘊：厚實的生鼓切片、深沉電貝斯與直截了當的旋律，專門演繹鳳山衛武營的文化驕傲與草根奮鬥故事。",
+  "popularGenres": [
+    "鳳山街頭饒舌",
+    "衛武營藝文嘻哈",
+    "南台灣眷村Boom Bap"
+  ],
+  "subClusters": []
+},
+  "tw/changhua-baguashan-central": {
+  "slug": "tw/changhua-baguashan-central",
+  "name": "台灣 – 彰化 & 鹿港 (八卦山大佛、鹿港古鎮老街 & 台式民俗Trap)",
+  "flag": "🇹🇼",
+  "currency": "TWD (NT$) / USD ($)",
+  "currencyCode": "TWD",
+  "gateways": "LINE Pay, 街口支付 (JKOPay), 台灣Pay, ATM虛擬帳號, 信用卡, Apple Pay, PayPal, Stripe",
+  "pro": "MUST",
+  "proFullName": "MUST (中華音樂著作權協會)",
+  "proGuide": "支援 LINE Pay 與 街口支付 即時台幣扣款，付款完成立即下載。",
+  "headline": "彰化鹿港伴奏: 八卦山大佛威儀、鹿港九曲巷與傳統民俗新嘻哈",
+  "description": "中台灣古老港市的歷史印記：傳統敲擊樂器、東方五聲音階旋律與現代重低音的碰撞，專屬彰化與鹿港在地原創音樂。",
+  "popularGenres": [
+    "彰化八卦山Trap",
+    "鹿港小鎮嘻哈",
+    "傳統五聲律動"
+  ],
+  "subClusters": []
+},
+  "tw/chiayi-alishan-forest": {
+  "slug": "tw/chiayi-alishan-forest",
+  "name": "台灣 – 嘉義 (阿里山神木、森林小火車 & 雲霧茶鄉抒情Lofi)",
+  "flag": "🇹🇼",
+  "currency": "TWD (NT$) / USD ($)",
+  "currencyCode": "TWD",
+  "gateways": "LINE Pay, 街口支付 (JKOPay), 台灣Pay, ATM虛擬帳號, 信用卡, Apple Pay, PayPal, Stripe",
+  "pro": "MUST",
+  "proFullName": "MUST (中華音樂著作權協會)",
+  "proGuide": "100% 免除隱藏抽成版稅，隨附正式版權證明書。",
+  "headline": "嘉義阿里山伴奏: 檜木巨木群、小火車汽笛與雲海深處鋼琴Lofi",
+  "description": "阿里山日出雲海的浩瀚寧靜：清澈如露水的鋼琴音符、輕撫樹梢的風聲氛圍與平穩心跳般的嘻哈節拍，為嘉義創作者帶來深層平靜。",
+  "popularGenres": [
+    "阿里山雲海Lofi",
+    "嘉義茶鄉Chillhop",
+    "森林小火車Beat"
+  ],
+  "subClusters": []
+},
+  "tw/miaoli-hakka-hills": {
+  "slug": "tw/miaoli-hakka-hills",
+  "name": "台灣 – 苗栗 (山城丘陵、客家土樓茶園 & 山歌笛韻跨界Trap)",
+  "flag": "🇹🇼",
+  "currency": "TWD (NT$) / USD ($)",
+  "currencyCode": "TWD",
+  "gateways": "LINE Pay, 街口支付 (JKOPay), 台灣Pay, ATM虛擬帳號, 信用卡, Apple Pay, PayPal, Stripe",
+  "pro": "MUST",
+  "proFullName": "MUST (中華音樂著作權協會)",
+  "proGuide": "高解析度 WAV 與 MP3 雙格式即時下載，隨附電子發票憑證。",
+  "headline": "苗栗山城伴奏: 客家茶園梯田、木雕古道與悠揚山歌笛音Trap",
+  "description": "翠綠山巒間的客家文化印記：傳統吹管笛音、溫暖採茶調旋律與富有下潛力的808底音，適合客語饒舌與跨族群文化創作。",
+  "popularGenres": [
+    "苗栗客家Trap",
+    "山城梯田嘻哈",
+    "茶園吹管律動"
+  ],
+  "subClusters": []
+},
+  "tw/hualien-taroko-pacific": {
+  "slug": "tw/hualien-taroko-pacific",
+  "name": "台灣 – 花蓮 (太魯閣大理石峽谷、七星潭浪濤 & 原住民戰舞Trap)",
+  "flag": "🇹🇼",
+  "currency": "TWD (NT$) / USD ($)",
+  "currencyCode": "TWD",
+  "gateways": "LINE Pay, 街口支付 (JKOPay), 台灣Pay, ATM虛擬帳號, 信用卡, Apple Pay, PayPal, Stripe",
+  "pro": "MUST",
+  "proFullName": "MUST (中華音樂著作權協會)",
+  "proGuide": "可直接作為 MUST 作品註冊之權利證明附件。",
+  "headline": "花蓮太魯閣伴奏: 鬼斧神工大理石峽谷、太平洋怒濤與原民戰鼓Trap",
+  "description": "東台灣磅礴震撼的大自然力量：高亢原住民族呼喊和聲、厚重戰鼓節奏與震撼山壁的超低頻808，釋放花蓮無窮的野性生命力。",
+  "popularGenres": [
+    "花蓮原民戰鼓Trap",
+    "太魯閣大理石Beat",
+    "東海岸狂瀾808"
+  ],
+  "subClusters": []
+},
+  "tw/taitung-chishang-rice": {
+  "slug": "tw/taitung-chishang-rice",
+  "name": "台灣 – 台東 (池上伯朗大道、金黃稻浪 & 花東縱谷純淨Chillhop)",
+  "flag": "🇹🇼",
+  "currency": "TWD (NT$) / USD ($)",
+  "currencyCode": "TWD",
+  "gateways": "LINE Pay, 街口支付 (JKOPay), 台灣Pay, ATM虛擬帳號, 信用卡, Apple Pay, PayPal, Stripe",
+  "pro": "MUST",
+  "proFullName": "MUST (中華音樂著作權協會)",
+  "proGuide": "支援獨立創作者與家庭錄音室，隨買隨用。",
+  "headline": "台東池上伴奏: 伯朗大道金黃稻田、縱谷微風與純淨木吉他Lofi",
+  "description": "台灣最純淨無瑕的療癒鄉土：稻浪隨風起伏的沙沙聲、指尖跳動的木吉他尼龍弦與舒緩放鬆的鼓點，獻給熱愛花東縱谷的旅人與音樂詩人。",
+  "popularGenres": [
+    "池上稻浪Chillhop",
+    "台東縱谷純淨Lofi",
+    "太平洋晨光吉他"
+  ],
+  "subClusters": []
+},
+  "tw/penghu-islands-summer": {
+  "slug": "tw/penghu-islands-summer",
+  "name": "台灣 – 澎湖 (菊島群島、雙心石滬 & 夏日海上花火節夏日Trap)",
+  "flag": "🇹🇼",
+  "currency": "TWD (NT$) / USD ($)",
+  "currencyCode": "TWD",
+  "gateways": "LINE Pay, 街口支付 (JKOPay), 台灣Pay, ATM虛擬帳號, 信用卡, Apple Pay, PayPal, Stripe",
+  "pro": "MUST",
+  "proFullName": "MUST (中華音樂著作權協會)",
+  "proGuide": "包含完整非排他商業授權，支援全平台營利。",
+  "headline": "澎湖菊島伴奏: 雙心石滬蔚藍海岸、夜空璀璨花火與海島派對Trap",
+  "description": "外島蔚藍海域的夏日祭典熱浪：明亮的熱帶馬林巴木琴、海風合成器彈跳與陽光沙灘節奏，為夏日慶典與海島度假影片提供完美配樂。",
+  "popularGenres": [
+    "澎湖夏日花火Trap",
+    "菊島海島派對Beat",
+    "蔚藍沙灘Afro-Trap"
+  ],
+  "subClusters": []
+},
 };

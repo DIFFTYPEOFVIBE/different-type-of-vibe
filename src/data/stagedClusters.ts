@@ -110958,4 +110958,1298 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "1"
   ]
 },
+  {
+  "slug": "mj116-muta-kenzy-eso-banger",
+  "title": "頑童 MJ116 幹大事 木柵純正街頭重砲 Trap 808 Banger Beat",
+  "description": "狂暴、熱血且氣場無敵的街頭兄弟齊唱神曲伴奏，致敬台灣嘻哈天團頑童 MJ116（幹大事, 少年董, Fresh Gang, 辣台妹），以厚重銅管號角、硬核打擊樂與摧毀音響的808重砲為核心。",
+  "targetKeywords": [
+    "頑童 type beat",
+    "幹大事 頑童 instrumental",
+    "mj116 type beat",
+    "台灣街頭 trap banger",
+    "頑童 少年董 beat"
+  ],
+  "heroCta": "購買頑童風格伴奏 (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "大型體育館演唱會、兄弟情義街頭單曲、派對炸場大合唱",
+  "similarArtists": [
+    "頑童 MJ116",
+    "瘦子 E.SO",
+    "大淵 MUTA",
+    "小春 Kenzy"
+  ],
+  "recommendedBpm": "136-144 BPM",
+  "productionTips": "金屬感強烈的高音號角切片，搭配強效 Sidechain 壓縮與重型加壓的 38Hz 超低頻808。",
+  "idealVocalStyle": "力量感十足的粗獷聲線、俐落街頭押韻與萬人齊唱的口號式副歌。",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "台灣大型音樂祭、小巨蛋與各大夜店的終極必放神曲。"
+},
+  {
+  "slug": "eggplantegg-taiwanese-rock-rap",
+  "title": "茄子蛋 浪子回頭 滄桑台語藍調搖滾 & 電吉他哭腔 Beat",
+  "description": "滿載煙酒滄桑與男兒深情的台式藍調搖滾嘻哈伴奏，致敬茄子蛋（浪子回頭, 浪流連, 日常, 愛情你比我想的閣較偉大），結合撕心裂肺的電吉他Solo與感人至深的慢搖節奏。",
+  "targetKeywords": [
+    "茄子蛋 type beat",
+    "浪子回頭 instrumental",
+    "台語搖滾 饒舌伴奏",
+    "茄子蛋 浪流連 beat",
+    "台式藍調吉他伴奏"
+  ],
+  "heroCta": "購買茄子蛋風格伴奏 (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "台語抒情搖滾饒舌、男兒兄弟情義微電影配樂、傳唱抒情大作",
+  "similarArtists": [
+    "茄子蛋",
+    "美秀集團",
+    "拍謝少年",
+    "珂拉琪 Collage"
+  ],
+  "recommendedBpm": "82-88 / 130 BPM",
+  "productionTips": "真空管音箱推動的雙線圈電吉他推弦哭腔，搭配厚實溫暖的復古原聲爵士鼓組。",
+  "idealVocalStyle": "煙燻滄桑的菸酒嗓音、道地深刻的台語咬字與真情流露的撕裂高音。",
+  "suggestedKey": "E Minor",
+  "streamingSuitability": "KTV 點播霸榜常客，在全年齡層華語族群具備無以倫比的共鳴力。"
+},
+  {
+  "slug": "wannasleep-poetic-art-rap",
+  "title": "wannasleep 裸雀 現代詩意藝術饒舌 & 鋼琴弦樂漸進 Beat",
+  "description": "戲劇張力極強且充滿文學美感的藝術饒舌伴奏，致敬 wannasleep 李奕賢（裸雀, 借, 槍火, 情書），以空靈鋼琴琶音起手，逐步推進至交響弦樂與澎湃鼓點的情緒頂峰。",
+  "targetKeywords": [
+    "wannasleep type beat",
+    "裸雀 instrumental",
+    "文藝藝術饒舌伴奏",
+    "大嘻哈時代 詩意 beat",
+    "wannasleep 伴奏"
+  ],
+  "heroCta": "購買 wannasleep 風格伴奏 (WAV Mastered)",
+  "energyLevel": "High",
+  "primaryUse": "概念性藝術單曲、文學詩篇朗誦、高張力戲劇舞台演出",
+  "similarArtists": [
+    "wannasleep",
+    "Gummy B",
+    "夜間限定",
+    "神經元"
+  ],
+  "recommendedBpm": "125-135 BPM",
+  "productionTips": "動態對比極大的漸進式編曲，由純淨鋼琴過渡到全編制交響樂與強勁現代節拍。",
+  "idealVocalStyle": "富有戲劇張力的口白朗誦、氣息轉換自如的快慢節奏與詩意充沛的文字。",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "大嘻哈時代比賽經典風格，文青樂迷與獨立音樂圈極高評價。"
+},
+  {
+  "slug": "mac-della-drill-whisper-flow",
+  "title": "Macdella 低沉氣音耳語 街頭沉潛暗黑 Drip Drill Beat",
+  "description": "極度冷酷且富有致命吸引力的暗黑鑽頭伴奏，靈感源自 Multiverse 首腦 Macdella（White Horse, 424, 鼻地大師），以極低頻808滑音、極簡微光琴音與細膩空間呼吸感營造頂級街頭氣場。",
+  "targetKeywords": [
+    "macdella type beat",
+    "氣音饒舌伴奏 台灣",
+    "multiverse macdella beat",
+    "低頻暗黑 drill 808",
+    "台灣drip drill伴奏"
+  ],
+  "heroCta": "購買 Macdella 風格伴奏 (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "氣音饒舌演繹、暗黑潮流視覺MV、深夜巡航單曲",
+  "similarArtists": [
+    "Macdella",
+    "Multiverse",
+    "EyeballRay",
+    "SheATH"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "細膩的高頻踩鈸自動化，為氣音主唱保留 2kHz-5kHz 的純淨空氣感頻段。",
+  "idealVocalStyle": "冷靜貼近麥克風的近距耳語低音、重音精準的切分頓挫與自信冷酷腔調。",
+  "suggestedKey": "G Minor",
+  "streamingSuitability": "極受新生代潮流嘻哈聽眾喜愛，兼具高辨識度與頂級聲音設計。"
+},
+  {
+  "slug": "red-r&b-soul-smooth-vibe",
+  "title": "芮德 RED 絲滑當代都會 女聲 R&B Soul & 柔軟低音 Beat",
+  "description": "絲滑、性感且散發都會女性自主魅力的當代 R&B 靈魂伴奏，致敬芮德 RED（Stay, No Limit, 猜猜看），以浪漫爵士電鋼琴、柔和打擊樂與如絲綢般包覆的低音為特色。",
+  "targetKeywords": [
+    "芮德 red type beat",
+    "台灣女聲 rnb 伴奏",
+    "都會當代靈魂樂 beat",
+    "芮德 stay instrumental",
+    "絲滑rnb伴奏 台北"
+  ],
+  "heroCta": "購買芮德 R&B 伴奏 (WAV 24-bit)",
+  "energyLevel": "Medium",
+  "primaryUse": "都會女性心聲單曲、浪漫抒情夜曲、深夜香氛生活Vlog",
+  "similarArtists": [
+    "芮德 RED",
+    "Julia 吳卓源",
+    "9m88",
+    "Chintung"
+  ],
+  "recommendedBpm": "98-106 BPM",
+  "productionTips": "7和弦與9和弦組成的爵士鍵盤鋪陳，搭配溫柔但紮實支撐的微暖低音。",
+  "idealVocalStyle": "柔順細膩的氣聲唱腔、優雅多層次的靈魂和聲疊軌與自然轉音。",
+  "suggestedKey": "Ab Major",
+  "streamingSuitability": "都會輕熟女、深夜放鬆歌單與各類生活風格媒體的絕對最愛。"
+},
+  {
+  "slug": "shou-lou-junshuo-pop-trap-hit",
+  "title": "婁峻碩 SHOU 爆發力派對流行 Pop-Trap & 洗腦副歌 Beat",
+  "description": "充滿活力、青春色彩且節奏鮮明無比的流行陷阱神曲伴奏，致敬婁峻碩 SHOU（COLORFUL, 苦海, BOOM, 80），以跳躍彈性的合成器管樂、爽脆小鼓與極速推動的派對熱度著稱。",
+  "targetKeywords": [
+    "婁峻碩 type beat",
+    "colorful 婁峻碩 instrumental",
+    "台灣派對 pop trap beat",
+    "shou 伴奏 下載",
+    "洗腦流行饒舌伴奏"
+  ],
+  "heroCta": "購買婁峻碩風格伴奏 (WAV Mastered)",
+  "energyLevel": "Very High",
+  "primaryUse": "校園演唱會壓軸、夏日青春熱血單曲、短影音洗腦舞蹈配樂",
+  "similarArtists": [
+    "婁峻碩 SHOU",
+    "高爾宣",
+    "五堅情",
+    "派偉俊"
+  ],
+  "recommendedBpm": "128-134 BPM",
+  "productionTips": "明亮開闊的立體聲打擊樂聲場，搭配高能量主音合成器與俐落的808重擊。",
+  "idealVocalStyle": "陽光熱血的高能量咬字、高速爆發的快嘴節奏與傳唱度破表的流行副歌。",
+  "suggestedKey": "A Major",
+  "streamingSuitability": "校園巡演、運動品牌代言以及各大社群短影音挑戰的必選熱門曲目。"
+},
+  {
+  "slug": "alishan-cloud-sea-cypress-lofi",
+  "title": "阿里山雲海日出 檜木林茶香 & 山嵐森林鋼琴 Lofi Beat",
+  "description": "漫步在阿里山神木群與雲海翻騰的日出時刻：純淨山嵐般的鋼琴琶音、森林晨鳥啼鳴與輕柔溫暖的原木節奏，撫平所有都會喧囂與浮躁。",
+  "targetKeywords": [
+    "阿里山日出 lofi beat",
+    "台灣森林系 chillhop",
+    "茶香舒緩伴奏 嘉義",
+    "自然放鬆鋼琴 hip hop",
+    "alishan nature lofi beat"
+  ],
+  "heroCta": "購買阿里山雲海 Lofi (商業使用版)",
+  "energyLevel": "Low",
+  "primaryUse": "高山茶藝展示、生活心靈沉澱、深度睡眠放鬆與自然縮時攝影",
+  "similarArtists": [
+    "蛋堡",
+    "雷光夏",
+    "Nujabes",
+    "Tomppabeats"
+  ],
+  "recommendedBpm": "76-82 BPM",
+  "productionTips": "細緻的台灣高山環境收音，結合古典鋼琴踏板踩放的原生機械聲與無壓縮軟鼓。",
+  "idealVocalStyle": "富有禪意的散文詩朗誦、平靜輕柔的耳語對白或作為純器樂心靈享受。",
+  "suggestedKey": "E Major",
+  "streamingSuitability": "高品質茶道生活、自然景觀行銷與 YouTube 專注學習頻道之長青樹。"
+},
+  {
+  "slug": "taroko-marble-gorge-tribal-trap",
+  "title": "花蓮太魯閣 大理石斷崖怒濤 & 阿美族勇士戰鼓 Trap 808 Beat",
+  "description": "震懾人心的東海岸鬼斧神工：太平洋萬頃波濤撞擊太魯閣大理石峭壁，融入台灣原住民傳統竹木樂器與震撼群山的超級 Trap 808 戰鼓。",
+  "targetKeywords": [
+    "太魯閣 trap beat",
+    "原住民勇士戰鼓嘻哈",
+    "花蓮大自然重低音 beat",
+    "阿美族戰歌 trap 808",
+    "東台灣史詩饒舌伴奏"
+  ],
+  "heroCta": "購買太魯閣史詩伴奏 (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "史詩級大作、部落文化重磅回歸、國際格鬥與極限運動主題",
+  "similarArtists": [
+    "阿爆 ABAO",
+    "血肉果汁機",
+    "大支",
+    "BOXING"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "productionTips": "巨型原木戰鼓取樣加上立體聲天然岩壁迴音，輔以40Hz重型低音砲轟鳴。",
+  "idealVocalStyle": "嘹亮奔放的高亢原民合聲呼喊、豪邁狂放的硬派饒舌與氣吞山河的氣勢。",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "極具台灣在地原鄉精神與國際震撼力的東方重磅之作。"
+},
+  {
+  "slug": "shilin-night-market-neon-bounce",
+  "title": "士林夜市 鐵板滋滋聲 人潮霓虹 & 彈跳派對 Trap 130 BPM Beat",
+  "description": "台北不夜城最熱氣騰騰的市井生機：小吃攤鐵板的翻炒熱浪、霓虹招牌下的喧囂人潮，轉化為跳動感極強的 130 BPM 都會派對陷阱節奏。",
+  "targetKeywords": [
+    "士林夜市 trap beat",
+    "台北夜市熱鬧嘻哈伴奏",
+    "彈跳派對 trap 130 bpm",
+    "夜市人潮 banger beat",
+    "台北生活街頭伴奏"
+  ],
+  "heroCta": "購買士林夜市伴奏 (WAV Mastered)",
+  "energyLevel": "Very High",
+  "primaryUse": "美食旅遊宣傳、街頭美食Vlog、高動態派對打跳歌曲",
+  "similarArtists": [
+    "玖壹壹",
+    "美秀集團",
+    "潮州土狗",
+    "草屯囝仔"
+  ],
+  "recommendedBpm": "128-134 BPM",
+  "productionTips": "富有彈跳力的短促合成器 Bass，配合鐵鍋撞擊般清脆的 Percussion 點綴。",
+  "idealVocalStyle": "接地氣的生活化幽默唱詞、速度感強勁的押韻與帶動全場氣氛的洗腦副歌。",
+  "suggestedKey": "C Major",
+  "streamingSuitability": "國內外觀光推廣短影音、美食博主配樂與各類街頭活動的最佳首選。"
+},
+  {
+  "slug": "tamsui-sunset-estuary-chillhop",
+  "title": "淡水暮色 漁人碼頭黃金夕陽 & 潮水尼龍吉他 Lofi Beat",
+  "description": "台灣八景之一的淡水夕照：落日映照在觀音山與出海口的波光粼粼，溫柔的尼龍弦吉他分解、輕柔潮水聲與復古慢板節拍交織出詩意暮色。",
+  "targetKeywords": [
+    "淡水夕陽 lofi beat",
+    "漁人碼頭 chillhop 伴奏",
+    "觀音山暮色 hip hop",
+    "台灣沿海放鬆吉他 beat",
+    "tamsui sunset lofi"
+  ],
+  "heroCta": "購買淡水暮色 Lofi (WAV 24-bit)",
+  "energyLevel": "Low",
+  "primaryUse": "海景日落影片、抒情療癒獨白、咖啡館深夜陪伴音樂",
+  "similarArtists": [
+    "蛋堡",
+    "李英宏",
+    "落日飛車 Sunset Rollercoaster",
+    "Deca Joins"
+  ],
+  "recommendedBpm": "78-84 BPM",
+  "productionTips": "真實採集之淡水河口潮浪聲，融合帶有指甲觸弦溫度的原木古典吉他收音。",
+  "idealVocalStyle": "情感真摯細膩的呢喃唱腔、帶有一絲鄉愁的隨性歌詞與柔美和聲。",
+  "suggestedKey": "G Major",
+  "streamingSuitability": "極適合放鬆療癒歌單、觀光短影音與城市旅人的深夜陪伴耳機音樂。"
+},
+  {
+  "slug": "taiwan-indigenous-magpie-trap",
+  "title": "台灣原住民 獵人竹笛祈福 & 祖靈重砲 808 狂野 Trap Beat",
+  "description": "連結中央山脈祖靈的古老回響：傳統獵人竹笛的空靈穿透音、部落長老複音吟唱片段，與現代狂野重砲 808 低音完美共振，展現不可侵犯的山林威嚴。",
+  "targetKeywords": [
+    "原住民獵人 trap beat",
+    "祖靈祈福 嘻哈伴奏",
+    "台灣山林竹笛 trap 808",
+    "原民傳統音樂 饒舌跨界",
+    "taiwanese indigenous trap"
+  ],
+  "heroCta": "購買獵人祖靈 Trap (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "重大文化盛典、原住民饒舌大作、具備國際視野之世界音樂跨界",
+  "similarArtists": [
+    "阿爆 ABAO",
+    "桑布伊",
+    "葛西瓦 Kasiwa",
+    "舞思愛"
+  ],
+  "recommendedBpm": "126-134 BPM",
+  "productionTips": "傳統泛音竹笛採樣搭配天然山谷長迴音，融合嚴格微調之 38Hz 地動低頻。",
+  "idealVocalStyle": "氣勢恢宏的原住民母語吟唱、穿透力極強的高八度共鳴與熱血饒舌。",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "具備強大金曲獎入圍實力與登上國際世界音樂舞台的非凡原創性。"
+},
+  {
+  "slug": "taipei-underground-freestyle-cypher",
+  "title": "台北地下 Freestyle Cypher 硬派老學校 & 凶狠刮盤 Boom Bap Beat",
+  "description": "台北地下饒舌對抗擂台的終極戰鬥伴奏：乾淨俐落的真實 MPC 鼓點切片、狠辣的黑膠刮盤摩擦聲與咆哮的電貝斯，專門供純種 MC 現場即興押韻決鬥。",
+  "targetKeywords": [
+    "台北 freestyle cypher beat",
+    "地下饒舌 battle 伴奏 台灣",
+    "凶狠刮盤 boom bap beat",
+    "純種街頭押韻伴奏",
+    "taipei underground cypher"
+  ],
+  "heroCta": "購買台北 Cypher 伴奏 (無限商業授權)",
+  "energyLevel": "High",
+  "primaryUse": "現場即興 Battle 對抗、街頭地下 Cypher、純種硬核饒舌單曲",
+  "similarArtists": [
+    "BR",
+    "熊仔",
+    "韓森",
+    "RPG"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "productionTips": "未添加人工渲染的硬派老式生鼓採樣，動態強大且為即興文字保留寬廣頻率帶。",
+  "idealVocalStyle": "機關槍般犀利的即興文字攻擊、字字致命的押韻技巧與強大的臨場壓迫感。",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "街頭地下賽事、校園饒舌社團 Cypher 與硬核樂迷的最愛。"
+},
+  {
+  "slug": "affordable-taiwan-trap-beats-linepay",
+  "title": "平價 Trap 伴奏 LINE Pay 結帳 500元起 (台灣新世代獨立饒舌)",
+  "description": "專為台灣新世代創作者打造的高性價比專業伴奏，每首最低僅需新台幣 500 元起（約 15 美元），支援 LINE Pay 與街口即刻無痛扣款，免受跨國手續費盤剝。",
+  "targetKeywords": [
+    "平價 trap 伴奏 line pay 台灣",
+    "買 beat 500元 饒舌伴奏",
+    "便宜 台灣 饒舌伴奏 購買",
+    "小資學生 買伴奏 linepay nt$"
+  ],
+  "heroCta": "瀏覽平價伴奏 (500元起 LINE Pay 即刻下單)",
+  "energyLevel": "High",
+  "primaryUse": "個人出道發片、校園創作比賽、街頭個人 Demo 錄製",
+  "similarArtists": [
+    "台灣各大高中大專嘻哈社社員",
+    "獨立新生代歌手"
+  ],
+  "recommendedBpm": "130-142 BPM",
+  "productionTips": "清晰標準的流行結構編排，方便初學者與快手創作者快速試詞進棚開錄。",
+  "idealVocalStyle": "相容於所有渴望尋找獨特發聲風格的新世代創作者。",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "包含正式商業使用授權，支援全串流平台最高 25,000 次合法營利點聽。"
+},
+  {
+  "slug": "commercial-rnb-pop-trap-taiwan-wav",
+  "title": "商業 R&B 流行 Trap 伴奏 高音質 24-bit WAV (台灣電台主打規格)",
+  "description": "具備國際商業電台發行水準的流行 R&B-Trap 伴奏，以深情原聲木吉他與立體聲 Rhodes 鍵盤交織，採用最高規格 24-bit WAV 無損音質交付。",
+  "targetKeywords": [
+    "商業 rnb 流行 trap 伴奏 wav",
+    "電台規格 流行饒舌伴奏 台灣",
+    "高爾宣 婁峻碩 風格 商業 beat",
+    "rnb trap 伴奏 無損 下載 台北"
+  ],
+  "heroCta": "購買商業 R&B-Trap 伴奏 (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "主流電台打歌單曲、大型商業廣告代言曲、浪漫情歌微電影",
+  "similarArtists": [
+    "高爾宣",
+    "婁峻碩",
+    "派偉俊",
+    "Marz23"
+  ],
+  "recommendedBpm": "105-115 BPM",
+  "productionTips": "預留純淨通透的高頻人聲空間，低頻渾厚柔和且完全杜絕相位衝突。",
+  "idealVocalStyle": "絲滑細膩的抒情歌喉、現代自然微調 Autotune 與極富記憶點的流行副歌。",
+  "suggestedKey": "F# Minor",
+  "streamingSuitability": "極受電台、品牌廣告與各大數位音樂排行榜喜愛與廣泛播放。"
+},
+  {
+  "slug": "heavy-drill-beats-taipei-stems",
+  "title": "重磅 台北 街頭 Drill 伴奏 808滑音 附分軌 (錄音室混音母帶)",
+  "description": "專為專業錄音棚打造的凶狠台北街頭鑽頭（Drill）伴奏，具備跨越兩個八度的劇烈808滑音，並隨附完整多軌音軌（Stems），供混音工程師細緻雕琢聲場。",
+  "targetKeywords": [
+    "台北街頭 drill 伴奏 附分軌",
+    "808 滑音 drill beat stems 台灣",
+    "硬核 鑽頭 伴奏 分軌 台北",
+    "專業錄音室 drill 伴奏 stems 下載"
+  ],
+  "heroCta": "下載 Drill 伴奏 (附完整分軌 WAV Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "重磅正式單曲發行、錄音室商業混音、街頭硬核概念大作",
+  "similarArtists": [
+    "Gummy B",
+    "PTK",
+    "Central Cee",
+    "Headie One"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "大鼓、808、小鼓、踏鈸與主旋律全部分離導出，保留 -6dB 動態餘量。",
+  "idealVocalStyle": "凶悍銳利的街頭實況文字、高密度快速切分 flow 與自信咬字。",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "賦予混音工程師最高彈性，打造衝擊力十足的錄音室級震撼聲響。"
+},
+  {
+  "slug": "summer-party-trap-beats-taiwan-radio",
+  "title": "夏日派對 Trap 伴奏 108 BPM (適合 KKBOX 串流主打 台灣)",
+  "description": "充滿陽光、熱浪與海島風情的夏日派對 Trap 伴奏，以 108 BPM 黃金律動結合熱帶吉他與彈跳低音，專為 KKBOX、Spotify 台灣夏季主打歌與墾丁海灘季打造。",
+  "targetKeywords": [
+    "夏日派對 trap 伴奏 108 bpm",
+    "kkbox 串流熱門 伴奏 台灣",
+    "墾丁海灘派對 饒舌伴奏",
+    "熱帶 流行 trap 伴奏 台灣"
+  ],
+  "heroCta": "購買夏日派對伴奏 (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "夏日海灘大合唱、戶外派對熱歌、潮流休閒服飾形象片",
+  "similarArtists": [
+    "玖壹壹",
+    "婁峻碩",
+    "派偉俊",
+    "高爾宣"
+  ],
+  "recommendedBpm": "106-110 BPM",
+  "productionTips": "清晰明快的打擊聲場，熱帶馬林巴木琴穿插其間，低頻彈跳且不拖泥帶水。",
+  "idealVocalStyle": "充滿感染力的陽光演唱、容易跟唱的洗腦副歌與隨性寫意的說唱。",
+  "suggestedKey": "A Major",
+  "streamingSuitability": "夏日各大串流熱播歌單、戶外音樂祭與觀光短影音的最佳選擇。"
+},
+  {
+  "slug": "must-exclusive-transfer-agreement-pdf",
+  "title": "MUST 中華音樂著作權協會 專屬獨家轉讓契約書範本 (PDF 下載)",
+  "description": "下載完全符合台灣《著作權法》之不可撤銷專屬權利轉讓契約書範本，明列音樂著作財產權之完整讓與條款，可直接作為 MUST 登記之法定權利轉讓依據。",
+  "targetKeywords": [
+    "must 專屬獨家轉讓契約書 pdf",
+    "著作權財產權轉讓合約 台灣",
+    "音樂伴奏全買斷合約範本 下載",
+    "must 音樂權利轉讓證明"
+  ],
+  "heroCta": "下載 MUST 專屬轉讓契約 (正式 PDF)",
+  "energyLevel": "N/A",
+  "primaryUse": "買斷專屬所有權保障、MUST 著作財產權登記、主流唱片公司簽約審查",
+  "similarArtists": [
+    "Onzieb",
+    "台灣智慧財產專門律師與音樂版權專家"
+  ],
+  "recommendedBpm": "全速度通用",
+  "productionTips": "涵蓋公開播送、公開上映、公開傳輸、重製與改作之全部財產權利轉讓條文。",
+  "idealVocalStyle": "通用於所有音樂作品與歌手演繹。",
+  "suggestedKey": "所有調性",
+  "streamingSuitability": "為大型投資等級之音樂發行案提供 100% 最高規格法律保障。"
+},
+  {
+  "slug": "taiwan-pay-jkopay-instant-beat-store",
+  "title": "台灣Pay / 街口支付 買伴奏 新台幣即時入帳 免手續費 (直接下載)",
+  "description": "台灣本土電子錢包直接結帳：支援 台灣Pay、街口支付（JKOPay）、全盈+PAY 及各大台灣金融卡即時轉帳，新台幣計價零匯損，付款完成後秒發載點。",
+  "targetKeywords": [
+    "台灣pay 買伴奏 新台幣",
+    "街口支付 購買 beat 台灣",
+    "免手續費 買饒舌伴奏 台灣pay",
+    "台灣在地電子錢包 beat store"
+  ],
+  "heroCta": "使用 台灣Pay / 街口支付 結帳 (NT$)",
+  "energyLevel": "Universal",
+  "primaryUse": "極速、安全、免跨國手續費之本土化伴奏採購管道",
+  "similarArtists": [
+    "台灣音樂創作者與製作人社群"
+  ],
+  "recommendedBpm": "全速度通用",
+  "productionTips": "具備高強度傳輸加密機制，系統確認付款後即時產生正式下載連結與授權憑證。",
+  "idealVocalStyle": "全面造福台灣本地所有獨立創作者與音樂社團成員。",
+  "suggestedKey": "全調性通用",
+  "streamingSuitability": "付款即生效，免去跨國信審等待時間，隨買即錄。"
+},
+  {
+  "slug": "album-5-beats-package-discount-twd",
+  "title": "5首 專輯伴奏 批發優惠套裝 省40% (新台幣 NT$ 結帳)",
+  "description": "專為籌備首張迷你專輯（EP）或完整錄音室專輯的台灣歌手精選：一次打包 5 首高品質伴奏，享有高達 40% 折扣優惠，並支援新台幣直接結帳。",
+  "targetKeywords": [
+    "5首 專輯伴奏 優惠套裝 台灣",
+    "買五首 beat 省40% 新台幣",
+    "ep 伴奏批發 台北 折扣",
+    "饒舌專輯 伴奏包 優惠 twd"
+  ],
+  "heroCta": "購買 5首專輯伴奏套裝 (立省 40%)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "整張 EP 專輯錄製、連貫概念專輯打造與完整作品集發表",
+  "similarArtists": [
+    "蛋堡",
+    "國蛋",
+    "Gummy B",
+    "wannasleep"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "productionTips": "維持整張作品在聲音光譜與類比染色上的高度統一，呈現專業大碟質感。",
+  "idealVocalStyle": "文字功底紮實、重視整張專輯敘事完整性與文化深度之歌手。",
+  "suggestedKey": "多種調性",
+  "streamingSuitability": "包含多軌道商業發行許可，完全滿足實體黑膠/CD壓片與串流上架需求。"
+},
+  {
+  "slug": "vocal-mixing-mastering-taiwan-onzieb",
+  "title": "專業人聲混音 後期母帶 台灣饒舌製作人 Onzieb 線上諮詢",
+  "description": "由職業級海外金牌製作人 Onzieb 提供全套聲音服務：包含專屬編曲、精準外科手術級人聲頻率修飾、動態壓縮與符合串流規格之母帶後期處理。",
+  "targetKeywords": [
+    "專業人聲混音 後期母帶 台灣 onzieb",
+    "饒舌人聲混音 台北 whatsapp",
+    "音樂製作人 混音母帶 台灣",
+    "onzieb 製作人 線上合作 台灣"
+  ],
+  "heroCta": "在 WhatsApp 諮詢混音母帶方案",
+  "energyLevel": "Custom",
+  "primaryUse": "重大出道單曲、大嘻哈時代比賽曲目衝刺、高規格發行母帶",
+  "similarArtists": [
+    "Onzieb",
+    "台灣頂尖獨立嘻哈歌手"
+  ],
+  "recommendedBpm": "依歌手需求客製",
+  "productionTips": "使用真空管等化器與高階動態處理，確保人聲在嘈雜的手機與大音響上均能完美立體突出。",
+  "idealVocalStyle": "家庭錄音棚或專業錄音室錄製之乾淨人聲乾音。",
+  "suggestedKey": "客製專屬",
+  "streamingSuitability": "嚴格符合國際數位串流規格（-14 LUFS / -1dB True Peak），保證最大動態與響度。"
+},
+  {
+  "slug": "sad-guitar-emo-trap-beats-taiwan",
+  "title": "傷感木吉他 Emo Trap 伴奏 鋼琴 感情失戀 抒情說唱 (WAV)",
+  "description": "深情且令人心碎的傷感情歌伴奏：緩慢深沉的陷阱節拍融合哭腔般的原聲吉他分解與憂傷鋼琴，為失戀痛苦、遺憾回憶與深情告白提供最動容的配樂。",
+  "targetKeywords": [
+    "傷感木吉他 emo trap 伴奏 台灣",
+    "失戀 抒情說唱 beat 下載",
+    "emo rap 伴奏 鋼琴 吉他 台北",
+    "高爾宣 風格 傷感伴奏 wav"
+  ],
+  "heroCta": "購買傷感木吉他伴奏 (WAV 24-bit)",
+  "energyLevel": "Medium",
+  "primaryUse": "失戀情歌單曲、深夜emo告白、深情影音短片主打歌",
+  "similarArtists": [
+    "高爾宣",
+    "Marz23",
+    "派偉俊",
+    "Juice WRLD"
+  ],
+  "recommendedBpm": "120-130 BPM (Half-time 60-65)",
+  "productionTips": "帶有細緻指甲擦弦摩擦感的高解析吉他收音，搭配輕柔但富有下潛彈性的808。",
+  "idealVocalStyle": "情感真摯、略帶脆弱哭腔的旋律演唱，極具穿透力與情緒共鳴。",
+  "suggestedKey": "B Minor / E Minor",
+  "streamingSuitability": "在各大深夜熱播清單、抖音失戀情歌標籤與 YouTube 具備驚人的循環播放率。"
+},
+  {
+  "slug": "free-taiwan-drill-drum-kit-wav-samples",
+  "title": "免費下載 台灣 Trap Drill 鼓組音色包 808 Samply 24-bit WAV",
+  "description": "免費下載官方台灣 Trap 與 Drill 專用鼓組素材包：包含 25 個精準調諧的 808 低音、清脆小鼓、俐落拍手聲與快速滾奏踩鈸，完全相容於所有編曲軟體。",
+  "targetKeywords": [
+    "免費下載 台灣 trap drill 鼓組包",
+    "免費 808 音色庫 下載 台灣 wav",
+    "beatmaker 免費鼓組 台灣嘻哈",
+    "台灣 饒舌 鼓組 sample pack 免費"
+  ],
+  "heroCta": "免費下載鼓組音色包 (24-bit WAV)",
+  "energyLevel": "High",
+  "primaryUse": "音樂編曲、節奏製作、台灣在地 Beatmaker 創作武器庫",
+  "similarArtists": [
+    "台灣各大音樂製作人與 Beatmaker"
+  ],
+  "recommendedBpm": "全速度相容通用",
+  "productionTips": "全部打擊音色皆經過專業後製染色與動態修飾，拖入 DAW 即可直接使用。",
+  "idealVocalStyle": "專供音樂製作人為各類饒舌與演唱歌手編制音樂。",
+  "suggestedKey": "808 全部精準校正於 C 鍵",
+  "streamingSuitability": "100% 免版稅（Royalty-Free），可合法運用於您個人的所有商業原創作品中。"
+},
+  {
+  "slug": "shilin-taiwan-trap-808",
+  "name": "士林 台灣 Trap 808 伴奏",
+  "category": "scene",
+  "badge": "士林 台式 Trap 808",
+  "headline": "士林 (台北士林 & 天母異國商圈) 台灣 Trap 808 伴奏: 24-Bit WAV 伴奏 & LINE Pay 即時結帳",
+  "description": "沈潛滑動的808重低音、立體空間環境合成器與銳利小鼓，專為 士林 的創作音樂人打造。",
+  "targetArtists": [
+    "士林在地歌手",
+    "台灣嘻哈饒舌圈創作者",
+    "華語潮流音樂社群"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "士林",
+    "台式 Trap 808",
+    "LINE Pay / 街口支付 NT$",
+    "符合 MUST 著作權規範"
+  ],
+  "popularGenres": [
+    "台灣 Trap 808 伴奏",
+    "台灣嘻哈",
+    "華語饒舌"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "shilin-taiwan-drill-streets",
+  "name": "士林 台灣街頭硬核 Drill 伴奏",
+  "category": "scene",
+  "badge": "士林 台灣街頭 Drill",
+  "headline": "士林 (台北士林 & 天母異國商圈) 台灣街頭硬核 Drill 伴奏: 24-Bit WAV 伴奏 & LINE Pay 即時結帳",
+  "description": "冷冽孤寂小調琴聲、疾速切分碎拍與兩八度滑音重低音，專為 士林 街頭真實饒舌設計。",
+  "targetArtists": [
+    "士林在地歌手",
+    "台灣嘻哈饒舌圈創作者",
+    "華語潮流音樂社群"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "士林",
+    "台灣街頭 Drill",
+    "LINE Pay / 街口支付 NT$",
+    "符合 MUST 著作權規範"
+  ],
+  "popularGenres": [
+    "台灣街頭硬核 Drill 伴奏",
+    "台灣嘻哈",
+    "華語饒舌"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "shilin-melodic-rap-guitar",
+  "name": "士林 原聲木吉他 旋律饒舌伴奏",
+  "category": "scene",
+  "badge": "士林 抒情旋律吉他",
+  "headline": "士林 (台北士林 & 天母異國商圈) 原聲木吉他 旋律饒舌伴奏: 24-Bit WAV 伴奏 & LINE Pay 即時結帳",
+  "description": "溫暖深情的木吉他分解和弦、通透電鋼琴與現代輕柔陷阱節奏，專為 士林 演唱歌手打造。",
+  "targetArtists": [
+    "士林在地歌手",
+    "台灣嘻哈饒舌圈創作者",
+    "華語潮流音樂社群"
+  ],
+  "recommendedBpm": "108-115 BPM",
+  "recommendedKey": "D-Major / B-Minor",
+  "vibeAttributes": [
+    "士林",
+    "抒情旋律吉他",
+    "LINE Pay / 街口支付 NT$",
+    "符合 MUST 著作權規範"
+  ],
+  "popularGenres": [
+    "原聲木吉他 旋律饒舌伴奏",
+    "台灣嘻哈",
+    "華語饒舌"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "shilin-boom-bap-classic",
+  "name": "士林 經典老學校 Boom Bap 伴奏",
+  "category": "scene",
+  "badge": "士林 經典 Boom Bap",
+  "headline": "士林 (台北士林 & 天母異國商圈) 經典老學校 Boom Bap 伴奏: 24-Bit WAV 伴奏 & LINE Pay 即時結帳",
+  "description": "純正黑膠唱片溫暖底噪、厚重類比取樣與未過度量化的有機生鼓，專為 士林 歌詞雕琢者打造。",
+  "targetArtists": [
+    "士林在地歌手",
+    "台灣嘻哈饒舌圈創作者",
+    "華語潮流音樂社群"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "士林",
+    "經典 Boom Bap",
+    "LINE Pay / 街口支付 NT$",
+    "符合 MUST 著作權規範"
+  ],
+  "popularGenres": [
+    "經典老學校 Boom Bap 伴奏",
+    "台灣嘻哈",
+    "華語饒舌"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "tamsui-taiwan-trap-808",
+  "name": "淡水 台灣 Trap 808 伴奏",
+  "category": "scene",
+  "badge": "淡水 台式 Trap 808",
+  "headline": "淡水 (新北淡水 & 漁人碼頭海風) 台灣 Trap 808 伴奏: 24-Bit WAV 伴奏 & LINE Pay 即時結帳",
+  "description": "沈潛滑動的808重低音、立體空間環境合成器與銳利小鼓，專為 淡水 的創作音樂人打造。",
+  "targetArtists": [
+    "淡水在地歌手",
+    "台灣嘻哈饒舌圈創作者",
+    "華語潮流音樂社群"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "淡水",
+    "台式 Trap 808",
+    "LINE Pay / 街口支付 NT$",
+    "符合 MUST 著作權規範"
+  ],
+  "popularGenres": [
+    "台灣 Trap 808 伴奏",
+    "台灣嘻哈",
+    "華語饒舌"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "tamsui-taiwan-drill-streets",
+  "name": "淡水 台灣街頭硬核 Drill 伴奏",
+  "category": "scene",
+  "badge": "淡水 台灣街頭 Drill",
+  "headline": "淡水 (新北淡水 & 漁人碼頭海風) 台灣街頭硬核 Drill 伴奏: 24-Bit WAV 伴奏 & LINE Pay 即時結帳",
+  "description": "冷冽孤寂小調琴聲、疾速切分碎拍與兩八度滑音重低音，專為 淡水 街頭真實饒舌設計。",
+  "targetArtists": [
+    "淡水在地歌手",
+    "台灣嘻哈饒舌圈創作者",
+    "華語潮流音樂社群"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "淡水",
+    "台灣街頭 Drill",
+    "LINE Pay / 街口支付 NT$",
+    "符合 MUST 著作權規範"
+  ],
+  "popularGenres": [
+    "台灣街頭硬核 Drill 伴奏",
+    "台灣嘻哈",
+    "華語饒舌"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "tamsui-melodic-rap-guitar",
+  "name": "淡水 原聲木吉他 旋律饒舌伴奏",
+  "category": "scene",
+  "badge": "淡水 抒情旋律吉他",
+  "headline": "淡水 (新北淡水 & 漁人碼頭海風) 原聲木吉他 旋律饒舌伴奏: 24-Bit WAV 伴奏 & LINE Pay 即時結帳",
+  "description": "溫暖深情的木吉他分解和弦、通透電鋼琴與現代輕柔陷阱節奏，專為 淡水 演唱歌手打造。",
+  "targetArtists": [
+    "淡水在地歌手",
+    "台灣嘻哈饒舌圈創作者",
+    "華語潮流音樂社群"
+  ],
+  "recommendedBpm": "108-115 BPM",
+  "recommendedKey": "D-Major / B-Minor",
+  "vibeAttributes": [
+    "淡水",
+    "抒情旋律吉他",
+    "LINE Pay / 街口支付 NT$",
+    "符合 MUST 著作權規範"
+  ],
+  "popularGenres": [
+    "原聲木吉他 旋律饒舌伴奏",
+    "台灣嘻哈",
+    "華語饒舌"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "tamsui-boom-bap-classic",
+  "name": "淡水 經典老學校 Boom Bap 伴奏",
+  "category": "scene",
+  "badge": "淡水 經典 Boom Bap",
+  "headline": "淡水 (新北淡水 & 漁人碼頭海風) 經典老學校 Boom Bap 伴奏: 24-Bit WAV 伴奏 & LINE Pay 即時結帳",
+  "description": "純正黑膠唱片溫暖底噪、厚重類比取樣與未過度量化的有機生鼓，專為 淡水 歌詞雕琢者打造。",
+  "targetArtists": [
+    "淡水在地歌手",
+    "台灣嘻哈饒舌圈創作者",
+    "華語潮流音樂社群"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "淡水",
+    "經典 Boom Bap",
+    "LINE Pay / 街口支付 NT$",
+    "符合 MUST 著作權規範"
+  ],
+  "popularGenres": [
+    "經典老學校 Boom Bap 伴奏",
+    "台灣嘻哈",
+    "華語饒舌"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "fengchia-taiwan-trap-808",
+  "name": "逢甲 台灣 Trap 808 伴奏",
+  "category": "scene",
+  "badge": "逢甲 台式 Trap 808",
+  "headline": "逢甲 (台中西屯 & 逢甲不夜城) 台灣 Trap 808 伴奏: 24-Bit WAV 伴奏 & LINE Pay 即時結帳",
+  "description": "沈潛滑動的808重低音、立體空間環境合成器與銳利小鼓，專為 逢甲 的創作音樂人打造。",
+  "targetArtists": [
+    "逢甲在地歌手",
+    "台灣嘻哈饒舌圈創作者",
+    "華語潮流音樂社群"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "逢甲",
+    "台式 Trap 808",
+    "LINE Pay / 街口支付 NT$",
+    "符合 MUST 著作權規範"
+  ],
+  "popularGenres": [
+    "台灣 Trap 808 伴奏",
+    "台灣嘻哈",
+    "華語饒舌"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "fengchia-taiwan-drill-streets",
+  "name": "逢甲 台灣街頭硬核 Drill 伴奏",
+  "category": "scene",
+  "badge": "逢甲 台灣街頭 Drill",
+  "headline": "逢甲 (台中西屯 & 逢甲不夜城) 台灣街頭硬核 Drill 伴奏: 24-Bit WAV 伴奏 & LINE Pay 即時結帳",
+  "description": "冷冽孤寂小調琴聲、疾速切分碎拍與兩八度滑音重低音，專為 逢甲 街頭真實饒舌設計。",
+  "targetArtists": [
+    "逢甲在地歌手",
+    "台灣嘻哈饒舌圈創作者",
+    "華語潮流音樂社群"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "逢甲",
+    "台灣街頭 Drill",
+    "LINE Pay / 街口支付 NT$",
+    "符合 MUST 著作權規範"
+  ],
+  "popularGenres": [
+    "台灣街頭硬核 Drill 伴奏",
+    "台灣嘻哈",
+    "華語饒舌"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "fengchia-melodic-rap-guitar",
+  "name": "逢甲 原聲木吉他 旋律饒舌伴奏",
+  "category": "scene",
+  "badge": "逢甲 抒情旋律吉他",
+  "headline": "逢甲 (台中西屯 & 逢甲不夜城) 原聲木吉他 旋律饒舌伴奏: 24-Bit WAV 伴奏 & LINE Pay 即時結帳",
+  "description": "溫暖深情的木吉他分解和弦、通透電鋼琴與現代輕柔陷阱節奏，專為 逢甲 演唱歌手打造。",
+  "targetArtists": [
+    "逢甲在地歌手",
+    "台灣嘻哈饒舌圈創作者",
+    "華語潮流音樂社群"
+  ],
+  "recommendedBpm": "108-115 BPM",
+  "recommendedKey": "D-Major / B-Minor",
+  "vibeAttributes": [
+    "逢甲",
+    "抒情旋律吉他",
+    "LINE Pay / 街口支付 NT$",
+    "符合 MUST 著作權規範"
+  ],
+  "popularGenres": [
+    "原聲木吉他 旋律饒舌伴奏",
+    "台灣嘻哈",
+    "華語饒舌"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "fengchia-boom-bap-classic",
+  "name": "逢甲 經典老學校 Boom Bap 伴奏",
+  "category": "scene",
+  "badge": "逢甲 經典 Boom Bap",
+  "headline": "逢甲 (台中西屯 & 逢甲不夜城) 經典老學校 Boom Bap 伴奏: 24-Bit WAV 伴奏 & LINE Pay 即時結帳",
+  "description": "純正黑膠唱片溫暖底噪、厚重類比取樣與未過度量化的有機生鼓，專為 逢甲 歌詞雕琢者打造。",
+  "targetArtists": [
+    "逢甲在地歌手",
+    "台灣嘻哈饒舌圈創作者",
+    "華語潮流音樂社群"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "逢甲",
+    "經典 Boom Bap",
+    "LINE Pay / 街口支付 NT$",
+    "符合 MUST 著作權規範"
+  ],
+  "popularGenres": [
+    "經典老學校 Boom Bap 伴奏",
+    "台灣嘻哈",
+    "華語饒舌"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "fengshan-taiwan-trap-808",
+  "name": "鳳山 台灣 Trap 808 伴奏",
+  "category": "scene",
+  "badge": "鳳山 台式 Trap 808",
+  "headline": "鳳山 (高雄鳳山 & 衛武營文化底蘊) 台灣 Trap 808 伴奏: 24-Bit WAV 伴奏 & LINE Pay 即時結帳",
+  "description": "沈潛滑動的808重低音、立體空間環境合成器與銳利小鼓，專為 鳳山 的創作音樂人打造。",
+  "targetArtists": [
+    "鳳山在地歌手",
+    "台灣嘻哈饒舌圈創作者",
+    "華語潮流音樂社群"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "鳳山",
+    "台式 Trap 808",
+    "LINE Pay / 街口支付 NT$",
+    "符合 MUST 著作權規範"
+  ],
+  "popularGenres": [
+    "台灣 Trap 808 伴奏",
+    "台灣嘻哈",
+    "華語饒舌"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "fengshan-taiwan-drill-streets",
+  "name": "鳳山 台灣街頭硬核 Drill 伴奏",
+  "category": "scene",
+  "badge": "鳳山 台灣街頭 Drill",
+  "headline": "鳳山 (高雄鳳山 & 衛武營文化底蘊) 台灣街頭硬核 Drill 伴奏: 24-Bit WAV 伴奏 & LINE Pay 即時結帳",
+  "description": "冷冽孤寂小調琴聲、疾速切分碎拍與兩八度滑音重低音，專為 鳳山 街頭真實饒舌設計。",
+  "targetArtists": [
+    "鳳山在地歌手",
+    "台灣嘻哈饒舌圈創作者",
+    "華語潮流音樂社群"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "鳳山",
+    "台灣街頭 Drill",
+    "LINE Pay / 街口支付 NT$",
+    "符合 MUST 著作權規範"
+  ],
+  "popularGenres": [
+    "台灣街頭硬核 Drill 伴奏",
+    "台灣嘻哈",
+    "華語饒舌"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "fengshan-melodic-rap-guitar",
+  "name": "鳳山 原聲木吉他 旋律饒舌伴奏",
+  "category": "scene",
+  "badge": "鳳山 抒情旋律吉他",
+  "headline": "鳳山 (高雄鳳山 & 衛武營文化底蘊) 原聲木吉他 旋律饒舌伴奏: 24-Bit WAV 伴奏 & LINE Pay 即時結帳",
+  "description": "溫暖深情的木吉他分解和弦、通透電鋼琴與現代輕柔陷阱節奏，專為 鳳山 演唱歌手打造。",
+  "targetArtists": [
+    "鳳山在地歌手",
+    "台灣嘻哈饒舌圈創作者",
+    "華語潮流音樂社群"
+  ],
+  "recommendedBpm": "108-115 BPM",
+  "recommendedKey": "D-Major / B-Minor",
+  "vibeAttributes": [
+    "鳳山",
+    "抒情旋律吉他",
+    "LINE Pay / 街口支付 NT$",
+    "符合 MUST 著作權規範"
+  ],
+  "popularGenres": [
+    "原聲木吉他 旋律饒舌伴奏",
+    "台灣嘻哈",
+    "華語饒舌"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "fengshan-boom-bap-classic",
+  "name": "鳳山 經典老學校 Boom Bap 伴奏",
+  "category": "scene",
+  "badge": "鳳山 經典 Boom Bap",
+  "headline": "鳳山 (高雄鳳山 & 衛武營文化底蘊) 經典老學校 Boom Bap 伴奏: 24-Bit WAV 伴奏 & LINE Pay 即時結帳",
+  "description": "純正黑膠唱片溫暖底噪、厚重類比取樣與未過度量化的有機生鼓，專為 鳳山 歌詞雕琢者打造。",
+  "targetArtists": [
+    "鳳山在地歌手",
+    "台灣嘻哈饒舌圈創作者",
+    "華語潮流音樂社群"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "鳳山",
+    "經典 Boom Bap",
+    "LINE Pay / 街口支付 NT$",
+    "符合 MUST 著作權規範"
+  ],
+  "popularGenres": [
+    "經典老學校 Boom Bap 伴奏",
+    "台灣嘻哈",
+    "華語饒舌"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "changhua-taiwan-trap-808",
+  "name": "彰化 台灣 Trap 808 伴奏",
+  "category": "scene",
+  "badge": "彰化 台式 Trap 808",
+  "headline": "彰化 (八卦山 & 鹿港傳統陣頭) 台灣 Trap 808 伴奏: 24-Bit WAV 伴奏 & LINE Pay 即時結帳",
+  "description": "沈潛滑動的808重低音、立體空間環境合成器與銳利小鼓，專為 彰化 的創作音樂人打造。",
+  "targetArtists": [
+    "彰化在地歌手",
+    "台灣嘻哈饒舌圈創作者",
+    "華語潮流音樂社群"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "彰化",
+    "台式 Trap 808",
+    "LINE Pay / 街口支付 NT$",
+    "符合 MUST 著作權規範"
+  ],
+  "popularGenres": [
+    "台灣 Trap 808 伴奏",
+    "台灣嘻哈",
+    "華語饒舌"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "changhua-taiwan-drill-streets",
+  "name": "彰化 台灣街頭硬核 Drill 伴奏",
+  "category": "scene",
+  "badge": "彰化 台灣街頭 Drill",
+  "headline": "彰化 (八卦山 & 鹿港傳統陣頭) 台灣街頭硬核 Drill 伴奏: 24-Bit WAV 伴奏 & LINE Pay 即時結帳",
+  "description": "冷冽孤寂小調琴聲、疾速切分碎拍與兩八度滑音重低音，專為 彰化 街頭真實饒舌設計。",
+  "targetArtists": [
+    "彰化在地歌手",
+    "台灣嘻哈饒舌圈創作者",
+    "華語潮流音樂社群"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "彰化",
+    "台灣街頭 Drill",
+    "LINE Pay / 街口支付 NT$",
+    "符合 MUST 著作權規範"
+  ],
+  "popularGenres": [
+    "台灣街頭硬核 Drill 伴奏",
+    "台灣嘻哈",
+    "華語饒舌"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "changhua-melodic-rap-guitar",
+  "name": "彰化 原聲木吉他 旋律饒舌伴奏",
+  "category": "scene",
+  "badge": "彰化 抒情旋律吉他",
+  "headline": "彰化 (八卦山 & 鹿港傳統陣頭) 原聲木吉他 旋律饒舌伴奏: 24-Bit WAV 伴奏 & LINE Pay 即時結帳",
+  "description": "溫暖深情的木吉他分解和弦、通透電鋼琴與現代輕柔陷阱節奏，專為 彰化 演唱歌手打造。",
+  "targetArtists": [
+    "彰化在地歌手",
+    "台灣嘻哈饒舌圈創作者",
+    "華語潮流音樂社群"
+  ],
+  "recommendedBpm": "108-115 BPM",
+  "recommendedKey": "D-Major / B-Minor",
+  "vibeAttributes": [
+    "彰化",
+    "抒情旋律吉他",
+    "LINE Pay / 街口支付 NT$",
+    "符合 MUST 著作權規範"
+  ],
+  "popularGenres": [
+    "原聲木吉他 旋律饒舌伴奏",
+    "台灣嘻哈",
+    "華語饒舌"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "changhua-boom-bap-classic",
+  "name": "彰化 經典老學校 Boom Bap 伴奏",
+  "category": "scene",
+  "badge": "彰化 經典 Boom Bap",
+  "headline": "彰化 (八卦山 & 鹿港傳統陣頭) 經典老學校 Boom Bap 伴奏: 24-Bit WAV 伴奏 & LINE Pay 即時結帳",
+  "description": "純正黑膠唱片溫暖底噪、厚重類比取樣與未過度量化的有機生鼓，專為 彰化 歌詞雕琢者打造。",
+  "targetArtists": [
+    "彰化在地歌手",
+    "台灣嘻哈饒舌圈創作者",
+    "華語潮流音樂社群"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "彰化",
+    "經典 Boom Bap",
+    "LINE Pay / 街口支付 NT$",
+    "符合 MUST 著作權規範"
+  ],
+  "popularGenres": [
+    "經典老學校 Boom Bap 伴奏",
+    "台灣嘻哈",
+    "華語饒舌"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "chiayi-taiwan-trap-808",
+  "name": "嘉義 台灣 Trap 808 伴奏",
+  "category": "scene",
+  "badge": "嘉義 台式 Trap 808",
+  "headline": "嘉義 (阿里山 & 檜木茶鄉森林) 台灣 Trap 808 伴奏: 24-Bit WAV 伴奏 & LINE Pay 即時結帳",
+  "description": "沈潛滑動的808重低音、立體空間環境合成器與銳利小鼓，專為 嘉義 的創作音樂人打造。",
+  "targetArtists": [
+    "嘉義在地歌手",
+    "台灣嘻哈饒舌圈創作者",
+    "華語潮流音樂社群"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "嘉義",
+    "台式 Trap 808",
+    "LINE Pay / 街口支付 NT$",
+    "符合 MUST 著作權規範"
+  ],
+  "popularGenres": [
+    "台灣 Trap 808 伴奏",
+    "台灣嘻哈",
+    "華語饒舌"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "chiayi-taiwan-drill-streets",
+  "name": "嘉義 台灣街頭硬核 Drill 伴奏",
+  "category": "scene",
+  "badge": "嘉義 台灣街頭 Drill",
+  "headline": "嘉義 (阿里山 & 檜木茶鄉森林) 台灣街頭硬核 Drill 伴奏: 24-Bit WAV 伴奏 & LINE Pay 即時結帳",
+  "description": "冷冽孤寂小調琴聲、疾速切分碎拍與兩八度滑音重低音，專為 嘉義 街頭真實饒舌設計。",
+  "targetArtists": [
+    "嘉義在地歌手",
+    "台灣嘻哈饒舌圈創作者",
+    "華語潮流音樂社群"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "嘉義",
+    "台灣街頭 Drill",
+    "LINE Pay / 街口支付 NT$",
+    "符合 MUST 著作權規範"
+  ],
+  "popularGenres": [
+    "台灣街頭硬核 Drill 伴奏",
+    "台灣嘻哈",
+    "華語饒舌"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "chiayi-melodic-rap-guitar",
+  "name": "嘉義 原聲木吉他 旋律饒舌伴奏",
+  "category": "scene",
+  "badge": "嘉義 抒情旋律吉他",
+  "headline": "嘉義 (阿里山 & 檜木茶鄉森林) 原聲木吉他 旋律饒舌伴奏: 24-Bit WAV 伴奏 & LINE Pay 即時結帳",
+  "description": "溫暖深情的木吉他分解和弦、通透電鋼琴與現代輕柔陷阱節奏，專為 嘉義 演唱歌手打造。",
+  "targetArtists": [
+    "嘉義在地歌手",
+    "台灣嘻哈饒舌圈創作者",
+    "華語潮流音樂社群"
+  ],
+  "recommendedBpm": "108-115 BPM",
+  "recommendedKey": "D-Major / B-Minor",
+  "vibeAttributes": [
+    "嘉義",
+    "抒情旋律吉他",
+    "LINE Pay / 街口支付 NT$",
+    "符合 MUST 著作權規範"
+  ],
+  "popularGenres": [
+    "原聲木吉他 旋律饒舌伴奏",
+    "台灣嘻哈",
+    "華語饒舌"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "chiayi-boom-bap-classic",
+  "name": "嘉義 經典老學校 Boom Bap 伴奏",
+  "category": "scene",
+  "badge": "嘉義 經典 Boom Bap",
+  "headline": "嘉義 (阿里山 & 檜木茶鄉森林) 經典老學校 Boom Bap 伴奏: 24-Bit WAV 伴奏 & LINE Pay 即時結帳",
+  "description": "純正黑膠唱片溫暖底噪、厚重類比取樣與未過度量化的有機生鼓，專為 嘉義 歌詞雕琢者打造。",
+  "targetArtists": [
+    "嘉義在地歌手",
+    "台灣嘻哈饒舌圈創作者",
+    "華語潮流音樂社群"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "嘉義",
+    "經典 Boom Bap",
+    "LINE Pay / 街口支付 NT$",
+    "符合 MUST 著作權規範"
+  ],
+  "popularGenres": [
+    "經典老學校 Boom Bap 伴奏",
+    "台灣嘻哈",
+    "華語饒舌"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
 ];
