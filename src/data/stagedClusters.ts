@@ -126443,4 +126443,1296 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "1"
   ]
 },
+  {
+  "slug": "drake-her-loss-21-savage-collab",
+  "title": "Drake & 21 Savage Her Loss Hard Beat-Switching Commercial Trap Beat",
+  "description": "Chart-topping, hard-hitting commercial trap anthem inspired by Drake and 21 Savage (Her Loss, Rich Flex, Major Distribution, On BS, Jimmy Cooks), featuring dramatic beat switches, orchestral brass, and heavy sliding 808s.",
+  "targetKeywords": [
+    "drake type beat 2024",
+    "rich flex type beat",
+    "her loss drake instrumental",
+    "hard beat switch trap beat",
+    "drake 21 savage type beat"
+  ],
+  "heroCta": "Buy Drake Style Trap Beat (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Lead Commercial Single, Stadium Banger and High-Impact Video",
+  "similarArtists": [
+    "Drake",
+    "21 Savage",
+    "Travis Scott",
+    "Future"
+  ],
+  "recommendedBpm": "130-144 BPM (With Beat Switch)",
+  "productionTips": "Start with a lavish vintage soul sample chop before an abrupt transition into an aggressive 808 trap banger.",
+  "idealVocalStyle": "Swaggering punchlines, arrogant flows, sudden cadence shifts, and effortless hook delivery.",
+  "suggestedKey": "F Minor / C# Minor",
+  "streamingSuitability": "Guaranteed heavy club rotation, sporting event synchronization, and global streaming chart success."
+},
+  {
+  "slug": "the-weeknd-after-hours-80s-synth",
+  "title": "The Weeknd After Hours 1980s Retro Synth-Wave & Dark Pop-Trap Beat",
+  "description": "Monumental, cinematic dark synth-pop meets modern R&B-trap inspired by The Weeknd (After Hours, Blinding Lights, Save Your Tears, In Your Eyes), with lush analog synthesizer arpeggios and driving bass.",
+  "targetKeywords": [
+    "the weeknd type beat",
+    "after hours type beat",
+    "80s synth pop trap beat",
+    "blinding lights the weeknd instrumental",
+    "dark retro synthwave beat"
+  ],
+  "heroCta": "Buy Weeknd Style Beat (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Mainstream Crossover Hit, Cinematic Soundtrack and Late-Night Driving Anthem",
+  "similarArtists": [
+    "The Weeknd",
+    "Daft Punk",
+    "Tory Lanez",
+    "Kavinsky"
+  ],
+  "recommendedBpm": "120-134 BPM",
+  "productionTips": "Analog Juno-106 chorus pads layered with a punchy Linndrum snare and driving synthesized bassline.",
+  "idealVocalStyle": "Soaring, emotional falsetto vocals, dark romantic storytelling, and grand dramatic choruses.",
+  "suggestedKey": "D Minor / G Minor",
+  "streamingSuitability": "Universal top 40 radio formatting, mainstream editorial playlists, and massive sync licensing appeal."
+},
+  {
+  "slug": "partynextdoor-pnd4-nocturnal-rnb",
+  "title": "PARTYNEXTDOOR PND4 Slow-Burning Underwater Nocturnal Toronto R&B Beat",
+  "description": "Sensual, atmospheric Toronto R&B instrumental inspired by PARTYNEXTDOOR (PND4, Break from Toronto, Recognize, Come and See Me, Lose My Mind), with low-pass filtered electric piano and deep sub-bass.",
+  "targetKeywords": [
+    "partynextdoor type beat",
+    "pnd4 instrumental",
+    "toronto dark rnb beat",
+    "underwater ambient rnb beat",
+    "partynextdoor come and see me beat"
+  ],
+  "heroCta": "Buy PND Style R&B Beat (Instant WAV)",
+  "energyLevel": "Medium",
+  "primaryUse": "Late-Night Intimate Single, Sensual Visualizer and Slow-Burning R&B Track",
+  "similarArtists": [
+    "PARTYNEXTDOOR",
+    "Drake",
+    "Brent Faiyaz",
+    "Bryson Tiller"
+  ],
+  "recommendedBpm": "95-105 / 125 BPM",
+  "productionTips": "Heavy low-pass filter on lush Rhodes chords with subtle tape pitch warble and deep, rounded 808 subs.",
+  "idealVocalStyle": "Intimate vocal delivery, pitched-down background vocal harmonies, sensual ad-libs, and smooth cadences.",
+  "suggestedKey": "Ab Minor / Eb Minor",
+  "streamingSuitability": "Dominates late night streaming playlists, sensual bedroom mixes, and aesthetic mood visuals."
+},
+  {
+  "slug": "tory-lanez-chixtape-vintage-sample",
+  "title": "Tory Lanez Chixtape Glossy 2000s R&B Sample Flip & Melodic Pop-Trap Beat",
+  "description": "Nostalgic, glossy 2000s R&B sample flip fused with modern trap drums inspired by Tory Lanez (Chixtape 5, The Color Violet, Say It, Luv, Jerry Sprunger), featuring pitched-up vocal loops and warm bass bounce.",
+  "targetKeywords": [
+    "tory lanez type beat",
+    "chixtape type beat",
+    "tory lanez the color violet instrumental",
+    "2000s rnb sample trap beat",
+    "melodic sample flip trap beat"
+  ],
+  "heroCta": "Buy Tory Lanez Style Beat (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Radio Pop-Rap Single, Nostalgic Summer Anthem and Viral TikTok Sound",
+  "similarArtists": [
+    "Tory Lanez",
+    "Chris Brown",
+    "Ty Dolla $ign",
+    "Drake"
+  ],
+  "recommendedBpm": "105-115 / 130 BPM",
+  "productionTips": "Warm SP-style 2000s R&B vocal loop pitched up a minor third, combined with crisp trap hats and punchy 808s.",
+  "idealVocalStyle": "Seamless alternation between rapid rap verses, high-energy autotuned melodies, and catchy chorus hooks.",
+  "suggestedKey": "Bb Minor / F# Minor",
+  "streamingSuitability": "Extremely high commercial replay on mainstream pop-rap radio, summer playlists, and social reels."
+},
+  {
+  "slug": "nav-brown-boy-melodic-wheezy-trap",
+  "title": "NAV Brown Boy Melodic Acoustic Guitar & Wheezy Trap Beat",
+  "description": "Smooth, breezy Toronto trap instrumental inspired by NAV (Brown Boy, Myself, Tap, Wanted You, Turks), featuring effortless acoustic guitar picking, cheerful flute melodies, and bouncy 808 percussion.",
+  "targetKeywords": [
+    "nav type beat",
+    "brown boy type beat",
+    "nav myself instrumental",
+    "acoustic guitar trap beat nav",
+    "wheezy style toronto trap beat"
+  ],
+  "heroCta": "Buy NAV Style Beat (WAV + Stems)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Melodic Trap Single, Casual Flexing Track and High-Replay Playlist Hit",
+  "similarArtists": [
+    "NAV",
+    "Gunna",
+    "Lil Baby",
+    "Don Toliver"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "productionTips": "Finger-picked acoustic guitar paired with bright woodwind flute counter-melodies and bouncing rolling open hats.",
+  "idealVocalStyle": "Laid-back, robotic autotune singing, casual flex lyrics, and effortless rhythmic pocket rhymes.",
+  "suggestedKey": "E Minor / A Minor",
+  "streamingSuitability": "High streaming engagement across Spotify RapCaviar, Apple Music The Plug, and casual listening."
+},
+  {
+  "slug": "kaytranada-99-9-montreal-bounce",
+  "title": "Kaytranada Montreal Funky Electronic House-Bounce & Moog Bass Beat",
+  "description": "Infectious, soulful Montreal electronic bounce and house-trap fusion inspired by Kaytranada (99.9%, BUBBA, 10%, Drive Me Crazy, Intimidated), featuring off-kilter swing drums, lush synth chords, and fat Moog bass.",
+  "targetKeywords": [
+    "kaytranada type beat",
+    "montreal bounce beat",
+    "funky electronic trap instrumental",
+    "kaytranada 99.9 type beat",
+    "house bounce rap beat"
+  ],
+  "heroCta": "Buy Kaytranada Style Bounce (Instant WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Summer Festival Banger, Funky Dance-Rap Single and International Club Anthem",
+  "similarArtists": [
+    "Kaytranada",
+    "Sango",
+    "GoldLink",
+    "Aminé"
+  ],
+  "recommendedBpm": "108-116 BPM",
+  "productionTips": "Heavy unquantized swing on organic shakers and rimshots layered with warm analog Moog low-end.",
+  "idealVocalStyle": "Rhythmic, agile flow, soulful singing toplines, playful ad-libs, and smooth hip-house delivery.",
+  "suggestedKey": "D Minor / G Minor",
+  "streamingSuitability": "Unrivaled festival appeal, worldwide dance crossover, and editorial placement on electronic/indie charts."
+},
+  {
+  "slug": "pressa-toronto-drift-drill-falsetto",
+  "title": "Pressa Toronto Drift Drill Bouncy 808s & High-Pitch Street Cadence Beat",
+  "description": "Distinctive, high-energy Toronto street drill instrumental inspired by Pressa (Attachments, Novacane, Canada Goose, Dead Man), combining slippery sliding 808s, cold bells, and space for melodic flow.",
+  "targetKeywords": [
+    "pressa type beat",
+    "toronto drift drill beat",
+    "pressa attachments instrumental",
+    "canadian drill beat 808",
+    "bouncy toronto street beat"
+  ],
+  "heroCta": "Buy Pressa Style Beat (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hard-Hitting Street Single, Car Audio Bass Demonstration and Fast Road Visual",
+  "similarArtists": [
+    "Pressa",
+    "Why G",
+    "Smiley",
+    "Central Cee"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Drifting 808 sub-bass glides with subtle distortion on the low-mids, complemented by skippy hi-hat triplets.",
+  "idealVocalStyle": "High-pitched autotuned falsetto delivery, witty Toronto road slang, and offbeat melodic punchlines.",
+  "suggestedKey": "C# Minor / E Minor",
+  "streamingSuitability": "Insuperable for gym workout playlists, Canadian urban channels, and high-velocity street reels."
+},
+  {
+  "slug": "killy-killamonjaro-dark-emo-cloud",
+  "title": "KILLY Killamonjaro Explosive Toronto Dark Emo-Cloud Trap Beat",
+  "description": "Dark, explosive and atmospheric Toronto cloud-emo trap instrumental inspired by KILLY (Killamonjaro, No Romance, Distance, Swanton Bomb), with crying minor synth leads and distorted 808 drops.",
+  "targetKeywords": [
+    "killy type beat 2024",
+    "killamonjaro instrumental",
+    "dark toronto cloud trap beat",
+    "killy no romance beat",
+    "emo trap beat canada"
+  ],
+  "heroCta": "Buy KILLY Style Beat (Instant WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "Explosive Alternative Trap Single, High-Energy Concert Track and Visual Masterpiece",
+  "similarArtists": [
+    "KILLY",
+    "Travis Scott",
+    "Lil Uzi Vert",
+    "Juice WRLD"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "productionTips": "Heavily distorted 808 bass transients layered with emotional, sweeping minor synthesizer pads.",
+  "idealVocalStyle": "Emotional, high-energy autotune shouts, soaring melodic chorus hooks, and breathless verses.",
+  "suggestedKey": "F Minor",
+  "streamingSuitability": "Dominates alternative trap playlists, high-energy gaming montages, and concert mosh pits."
+},
+  {
+  "slug": "bbno-dollar-edamame-quirky-phonk",
+  "title": "bbno$ Vancouver Quirky Pop-Rap Bounce & Playful Flute Beat",
+  "description": "Catchy, infectious and humorous Vancouver pop-rap instrumental inspired by bbno$ (Edamame, Lalala, help herself, top gun), featuring playful woodwind flute riffs, bouncy sub-bass, and crisp claps.",
+  "targetKeywords": [
+    "bbno$ type beat",
+    "edamame type beat",
+    "quirky pop rap beat vancouver",
+    "bbno lalala instrumental",
+    "bouncy viral flute rap beat"
+  ],
+  "heroCta": "Buy bbno$ Style Beat (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Viral TikTok Challenge Sound, Playful Pop-Rap Single and High-Energy Video",
+  "similarArtists": [
+    "bbno$",
+    "Yung Gravy",
+    "Rich Brian",
+    "Oliver Tree"
+  ],
+  "recommendedBpm": "115-122 BPM",
+  "productionTips": "Playful, hook-driven flute and marimba riffs riding a bouncy, syncopated kick and sub-bass pocket.",
+  "idealVocalStyle": "Playful, self-deprecating humor, laid-back conversational cadence, and ultra-catchy chant hooks.",
+  "suggestedKey": "A Minor / D Minor",
+  "streamingSuitability": "Extreme viral potential across TikTok sounds, YouTube Shorts, and global pop-rap playlists."
+},
+  {
+  "slug": "toronto-4am-highway-rain-ambient-lofi",
+  "title": "Toronto 4 AM Gardiner Expressway Rainy Ambient Night Drive Lofi Beat",
+  "description": "Atmospheric, late-night Toronto soundtrack capturing a 4 AM drive along the Gardiner Expressway in heavy rain: ambient windshield wiper textures, melancholic filtered Rhodes, and warm sub-bass.",
+  "targetKeywords": [
+    "toronto 4am lofi beat",
+    "rainy night drive rap beat toronto",
+    "gardiner expressway ambient trap",
+    "dark toronto moody beat",
+    "late night driving lofi canada"
+  ],
+  "heroCta": "Buy Toronto 4 AM Beat (Instant WAV)",
+  "energyLevel": "Low-Medium",
+  "primaryUse": "Nocturnal Reflection, Late Night Car Cruising Video and Relaxing Lofi Stream",
+  "similarArtists": [
+    "Drake",
+    "PARTYNEXTDOOR",
+    "40",
+    "Noah Shebib"
+  ],
+  "recommendedBpm": "82-88 BPM",
+  "productionTips": "Heavy low-pass filter on vintage electric piano chords with vinyl dust and real rain Foley recordings.",
+  "idealVocalStyle": "Introspective spoken word, melodic half-whispered singing, and moody late-night confessions.",
+  "suggestedKey": "C Minor / Eb Major",
+  "streamingSuitability": "Continuous evergreen traffic across chillhop, study lofi, and late night drive playlists."
+},
+  {
+  "slug": "montreal-saint-laurent-summer-club",
+  "title": "Montréal Boulevard Saint-Laurent Vibrant Summer Terrace Afro-Bounce Beat",
+  "description": "Vibrant, sun-drenched summer dance-rap instrumental inspired by Montréal's Boulevard Saint-Laurent: bright tropical synth plucks, bouncy Afro-house swing drums, and Francophone festival crossover energy.",
+  "targetKeywords": [
+    "montreal summer afro bounce beat",
+    "boulevard saint laurent rap instrumental",
+    "montreal festival summer beat",
+    "francophone club trap beat",
+    "ete montreal afro rap beat"
+  ],
+  "heroCta": "Buy Montréal Summer Beat (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Summer Radio Anthem, Outdoor Festival Single and Beach/Terrace Vibe",
+  "similarArtists": [
+    "Kaytranada",
+    "FouKi",
+    "Souldia",
+    "Loud"
+  ],
+  "recommendedBpm": "112-118 BPM",
+  "productionTips": "Warm tropical marimbas layered over an infectious Afro-house 4/4 syncopation and bouncy sub-bass.",
+  "idealVocalStyle": "Lively bilingual French/English singing, festive summer chants, and energetic party verses.",
+  "suggestedKey": "F Major / D Minor",
+  "streamingSuitability": "Heavy summer radio rotation on CKOI, NRJ, festival main stages, and viral reels."
+},
+  {
+  "slug": "prairie-chinook-winds-acoustic-sad-trap",
+  "title": "Canadian Prairies Chinook Winter Thaw Acoustic Melodic Sad Trap Beat",
+  "description": "Expansive, poignant Canadian prairie hip-hop instrumental inspired by the warm winter Chinook winds across Alberta and Saskatchewan: intimate acoustic guitar picking, snowy winds, and heavy 808 drops.",
+  "targetKeywords": [
+    "prairie sad trap beat",
+    "chinook acoustic guitar rap beat",
+    "canadian winter melancholic trap",
+    "calgary sad guitar beat 808",
+    "prairie acoustic hip hop beat"
+  ],
+  "heroCta": "Buy Prairie Sad Trap (WAV 24-bit)",
+  "energyLevel": "Medium",
+  "primaryUse": "Heartbreak Single, Vulnerable Personal Story and Acoustic Rap Video",
+  "similarArtists": [
+    "t-low",
+    "Lil Peep",
+    "Juice WRLD",
+    "Drake"
+  ],
+  "recommendedBpm": "122-130 BPM",
+  "productionTips": "Finger-picked acoustic nylon guitar captured in wide stereo with deep Hall reverb and warm 808s.",
+  "idealVocalStyle": "Raw emotional singing, honest lyrical storytelling, and heartfelt autotune choruses.",
+  "suggestedKey": "E Minor / G Major",
+  "streamingSuitability": "Extreme emotional listener loyalty across acoustic rap, heartbreak, and sad trap playlists."
+},
+  {
+  "slug": "affordable-toronto-rap-beats-cad",
+  "title": "Affordable Toronto Rap Beats from $35 CAD (Interac e-Transfer & Apple Pay)",
+  "description": "Studio-mastered, untagged Canadian trap and drill instrumentals starting from $35 CAD with frictionless checkout via Interac e-Transfer, Apple Pay, and credit cards across Canada.",
+  "targetKeywords": [
+    "affordable toronto rap beats cad",
+    "cheap rap beats canada",
+    "buy beats interac etransfer cad",
+    "toronto trap beats under 40 cad"
+  ],
+  "heroCta": "Browse Affordable Beats (from $35 CAD)",
+  "energyLevel": "Variable",
+  "primaryUse": "Independent Mixtapes, Debut Singles and Home Studio Demos with Full License",
+  "similarArtists": [
+    "Independent Canadian Rappers",
+    "SoundCloud & TikTok Artists"
+  ],
+  "recommendedBpm": "120-144 BPM",
+  "productionTips": "Pre-mixed and mastered with clean dynamic headroom for vocal tracking in home studios.",
+  "idealVocalStyle": "Adaptable across melodic autotuned singing, Toronto road rap, and fast cadences.",
+  "suggestedKey": "All Major and Minor Keys",
+  "streamingSuitability": "Commercial license covers up to 100,000 streams on Spotify, Apple Music, and YouTube."
+},
+  {
+  "slug": "commercial-ovo-style-rnb-beats-wav",
+  "title": "Commercial Toronto OVO-Style Dark R&B Beats (24-Bit Studio WAV Stems)",
+  "description": "Radio-ready Toronto dark R&B and melodic trap instrumentals featuring underwater filtered keys and lush 808s, delivered in pristine uncompressed 24-bit 44.1kHz studio WAV format.",
+  "targetKeywords": [
+    "commercial ovo style rnb beats wav",
+    "toronto dark rnb instrumental trackout",
+    "buy ovo beats canada wav 24 bit",
+    "drake style dark rnb beat"
+  ],
+  "heroCta": "Get OVO-Style R&B Beats (24-Bit WAV)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Lead Commercial Single, Radio Promotion and High-End Cinematic Music Video",
+  "similarArtists": [
+    "Drake",
+    "PARTYNEXTDOOR",
+    "The Weeknd",
+    "Tory Lanez"
+  ],
+  "recommendedBpm": "118-132 BPM",
+  "productionTips": "Analog tape saturation on electric pianos with smooth mono sub-bass translation for club playback.",
+  "idealVocalStyle": "Sensual vocal delivery, harmonized vocal stacks, and emotionally captivating hooks.",
+  "suggestedKey": "C Minor / Ab Major / F Minor",
+  "streamingSuitability": "Full commercial broadcast and unlimited DSP streaming clearance with 100% master ownership."
+},
+  {
+  "slug": "canadian-drill-beats-toronto-stems",
+  "title": "Canadian Street Drill Beats with Separated WAV Stems (Toronto & Montréal Sound)",
+  "description": "Aggressive, heavyweight Toronto and Montréal street drill instrumentals with sliding 808s, supplied with all individual multitrack stem files for complete mixing control in major recording studios.",
+  "targetKeywords": [
+    "canadian drill beats toronto stems",
+    "montreal street drill wav trackout",
+    "sliding 808 drill beats canada",
+    "buy drill stems toronto montreal"
+  ],
+  "heroCta": "Download Drill Beats + Stems",
+  "energyLevel": "Very High",
+  "primaryUse": "Major Studio Recording, Multitrack Stem Mixing and Dolby Atmos Spatial Audio",
+  "similarArtists": [
+    "Pressa",
+    "Enima",
+    "Central Cee",
+    "Headie One"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Drums, 808s, synths, and effects exported dry with companion effect return tracks.",
+  "idealVocalStyle": "Hard-hitting punchlines, rapid drill flows, and authentic Canadian street storytelling.",
+  "suggestedKey": "E Minor / C# Minor",
+  "streamingSuitability": "Unlimited streaming and broadcast rights included with stem trackout license."
+},
+  {
+  "slug": "socan-beat-licensing-agreement-pdf",
+  "title": "SOCAN & CMRRA Canadian Beat Licensing Agreement (Instant Signed PDF)",
+  "description": "Legally binding Canadian music producer agreement compliant with the Copyright Act of Canada, SOCAN, and CMRRA standards: download your personalized license and split sheet immediately upon purchase.",
+  "targetKeywords": [
+    "socan beat licensing agreement pdf",
+    "canadian music producer contract pdf",
+    "cmrra split sheet beat purchase canada",
+    "music copyright license canada socan"
+  ],
+  "heroCta": "View SOCAN License Agreement (Instant PDF)",
+  "energyLevel": "N/A",
+  "primaryUse": "SOCAN Registration, Publishing Royalty Splits and Full Legal Commercial Protection",
+  "similarArtists": [
+    "Onzieb",
+    "SOCAN Registered Songwriters and Canadian Music Creators"
+  ],
+  "recommendedBpm": "All Tempos",
+  "productionTips": "Formulated under Canadian copyright law protecting authors, lyricists, and producers.",
+  "idealVocalStyle": "Valid for all musical genres, vocal recordings, and commercial releases.",
+  "suggestedKey": "All Keys",
+  "streamingSuitability": "Guaranteed legal protection for global commercial distribution and sync placements."
+},
+  {
+  "slug": "interac-etransfer-beat-store-canada",
+  "title": "Buy Beats in Canada with Interac e-Transfer (RBC, TD, Scotiabank, BMO, CIBC)",
+  "description": "Purchase untagged premium instrumentals seamlessly using Canadian banking infrastructure: Interac e-Transfer across all chartered banks, Desjardins, Apple Pay, and cards in Canadian Dollars (CAD $).",
+  "targetKeywords": [
+    "buy beats interac etransfer canada",
+    "interac beat store canada cad",
+    "pay for beats in canadian dollars",
+    "buy rap beats rbc td scotiabank bmo"
+  ],
+  "heroCta": "Checkout with Interac e-Transfer (CAD $)",
+  "energyLevel": "All Levels",
+  "primaryUse": "Frictionless Instant Checkout for Canadian Recording Artists and Studios",
+  "similarArtists": [
+    "Independent Canadian Recording Artists"
+  ],
+  "recommendedBpm": "80-160 BPM",
+  "productionTips": "Instant automated file download link delivery upon Interac e-Transfer confirmation.",
+  "idealVocalStyle": "Universal compatibility across rap, R&B, drill, and pop vocalists.",
+  "suggestedKey": "All Keys",
+  "streamingSuitability": "Instant commercial clearance valid across all global DSPs."
+},
+  {
+  "slug": "album-ep-beat-packages-canada-discount",
+  "title": "5-Beat Album & EP Bundles in Canada (Save 40% in Canadian Dollars $)",
+  "description": "Comprehensive project package for Canadian recording artists producing a full mixtape, EP, or studio album: select any 5 or 10 instrumentals and save up to 40% with unified licensing in CAD ($).",
+  "targetKeywords": [
+    "album ep beat packages canada discount",
+    "5 beat bundle discount canada cad",
+    "buy bulk rap beats toronto montreal",
+    "album instrumental package canada dollars"
+  ],
+  "heroCta": "Claim 5-Beat Album Bundle (40% Off)",
+  "energyLevel": "Variable",
+  "primaryUse": "Full Project Production, Cohesive Thematic Direction and Continuous Releases",
+  "similarArtists": [
+    "Independent Canadian Rappers and Music Collectives"
+  ],
+  "recommendedBpm": "85-145 BPM",
+  "productionTips": "Harmonically and dynamically cohesive curation ensuring an immersive album journey.",
+  "idealVocalStyle": "Comprehensive canvas for showcasing an artist's full range of flows and songwriting dynamics.",
+  "suggestedKey": "Complementary Keys",
+  "streamingSuitability": "Single unified commercial license covering all tracks on your EP simultaneously."
+},
+  {
+  "slug": "toronto-music-producer-whatsapp-onzieb",
+  "title": "Direct Producer Collaboration for Canadian Artists (WhatsApp Onzieb)",
+  "description": "Work one-on-one with producer Onzieb via direct WhatsApp collaboration for bespoke custom beat making, key transposition, stem arrangement, and tailor-made Canadian urban sound design.",
+  "targetKeywords": [
+    "toronto music producer whatsapp",
+    "onzieb producer canada toronto",
+    "hire custom trap producer canada",
+    "bespoke beatmaker toronto whatsapp"
+  ],
+  "heroCta": "Chat with Onzieb on WhatsApp",
+  "energyLevel": "Custom",
+  "primaryUse": "Bespoke Lead Singles, Label Pitching and Custom Signature Sound Identity",
+  "similarArtists": [
+    "Onzieb",
+    "Leading Canadian Urban Producers"
+  ],
+  "recommendedBpm": "Tailored to artist breathing and vocal tempo",
+  "productionTips": "Collaborative stem-by-stem arrangement adjustments via WhatsApp voice notes and secure files.",
+  "idealVocalStyle": "Custom tuned to match the exact timbre, power, and pocket of your vocal delivery.",
+  "suggestedKey": "Custom Matched",
+  "streamingSuitability": "Direct exclusive contracts with 100% master ownership and global monetization."
+},
+  {
+  "slug": "montreal-francophone-rap-drill-beats",
+  "title": "Montréal Francophone Rap & Drill Beats (Quebec Street Sound WAV)",
+  "description": "Authentic French-Canadian rap, trap, and drill productions featuring dark piano riffs, sliding 808s, and hard kicks tailored for Québec lyricists and Montréal urban storytellers.",
+  "targetKeywords": [
+    "montreal francophone rap drill beats",
+    "beat rap quebecois laval montreal",
+    "instru drill francaise canada",
+    "quebec street trap beat wav"
+  ],
+  "heroCta": "Listen to Québec Drill Beats (WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "Francophone Street Single, Québec Rap Video and Hardcore Cypher",
+  "similarArtists": [
+    "Enima",
+    "Lost",
+    "Connaisseur Ticaso",
+    "Souldia"
+  ],
+  "recommendedBpm": "138-144 BPM",
+  "productionTips": "Dark tubular bell melodies layered over multi-octave 808 slides and clipped rimshots.",
+  "idealVocalStyle": "Sharp, aggressive delivery, authentic Québec franglais street slang, and rapid cadences.",
+  "suggestedKey": "E Minor / C# Minor",
+  "streamingSuitability": "High virality across Québec hip-hop channels, Spotify Rap Québ, and local urban media."
+},
+  {
+  "slug": "acoustic-guitar-sad-canadian-trap",
+  "title": "Sad Acoustic Guitar Canadian Trap Beats (Emotional Melodic Storytelling)",
+  "description": "Heartbreaking, introspective trap beats featuring expressive finger-picked acoustic guitars, somber piano progressions, and deep 808s crafted for emotional Canadian storytelling.",
+  "targetKeywords": [
+    "acoustic guitar sad canadian trap",
+    "melodic sad rap beat canada",
+    "toronto emotional guitar trap beat",
+    "sad trap beat 808 canada"
+  ],
+  "heroCta": "Listen to Sad Guitar Beats (WAV)",
+  "energyLevel": "Medium",
+  "primaryUse": "Heartbreak Anthem, Vulnerable Street Story and Acoustic Hip-Hop Single",
+  "similarArtists": [
+    "t-low",
+    "Lil Peep",
+    "Juice WRLD",
+    "Drake"
+  ],
+  "recommendedBpm": "120-132 BPM",
+  "productionTips": "Real nylon acoustic guitar captured in stereo with analog tape warmth and dynamic sidechain compression.",
+  "idealVocalStyle": "Vulnerable, honest lyrics, melodic auto-tune hooks, and personal emotional reflections.",
+  "suggestedKey": "D Minor / A Minor / E Minor",
+  "streamingSuitability": "Tremendous viral replay on TikTok, emotional Spotify playlists, and heartbreak compilations."
+},
+  {
+  "slug": "free-toronto-ovo-drum-kit-wav-samples",
+  "title": "Free Toronto OVO-Style Drum Kit (24-Bit WAV Samples & 808s)",
+  "description": "Download our complimentary Canadian producer sound pack featuring 25 tuned 808 bass hits, underwater filtered snares, crisp rimshots, and ambient textures in 24-bit studio WAV format.",
+  "targetKeywords": [
+    "free toronto ovo drum kit wav samples",
+    "toronto drum kit free download",
+    "ovo sound samples free wav",
+    "canadian 808 drum kit fl studio"
+  ],
+  "heroCta": "Download Free Toronto Drum Kit (ZIP)",
+  "energyLevel": "High",
+  "primaryUse": "DAW Beatmaking in FL Studio, Ableton Live, and Logic Pro",
+  "similarArtists": [
+    "Canadian Bedroom Beatmakers",
+    "Emerging Urban Producers"
+  ],
+  "recommendedBpm": "Compatible with all tempos",
+  "productionTips": "100% royalty-free authentic Toronto-inspired one-shots pre-mastered with peak analog character.",
+  "idealVocalStyle": "Essential foundation for vocalists and beatmakers constructing custom instrumentals.",
+  "suggestedKey": "Tuned to C for instant pitch mapping",
+  "streamingSuitability": "Royalty-free for commercial music releases, beat sales, and digital streaming."
+},
+  {
+  "slug": "toronto-rexdale-toronto-dark-trap-808",
+  "name": "Rexdale Toronto Dark Trap 808 Beats",
+  "category": "scene",
+  "badge": "Rexdale Toronto Trap",
+  "headline": "Rexdale (North-West 6ix Road Rap & Drift Drill) Toronto Dark Trap 808 Beats: 24-Bit WAV Beats & Interac e-Transfer Checkout",
+  "description": "Heavy sliding 808 sub-bass, underwater filtered minor synths, and crisp modern trap snares engineered for MCs in Rexdale.",
+  "targetArtists": [
+    "Artists from Rexdale",
+    "Canadian Hip-Hop Community",
+    "Toronto & Montreal Scene"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Rexdale",
+    "Toronto Trap",
+    "Interac e-Transfer (CAD $)",
+    "SOCAN & CMRRA Compliant"
+  ],
+  "popularGenres": [
+    "Toronto Dark Trap 808 Beats",
+    "Toronto Dark Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "toronto-rexdale-canadian-street-drill",
+  "name": "Rexdale Canadian Street Drill Beats",
+  "category": "scene",
+  "badge": "Rexdale Canada Drill",
+  "headline": "Rexdale (North-West 6ix Road Rap & Drift Drill) Canadian Street Drill Beats: 24-Bit WAV Beats & Interac e-Transfer Checkout",
+  "description": "Cold minor pianos, rapid syncopated drill hats, and sliding sub-bass drops crafted for MCs in Rexdale.",
+  "targetArtists": [
+    "Artists from Rexdale",
+    "Canadian Hip-Hop Community",
+    "Toronto & Montreal Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / C#-Minor",
+  "vibeAttributes": [
+    "Rexdale",
+    "Canada Drill",
+    "Interac e-Transfer (CAD $)",
+    "SOCAN & CMRRA Compliant"
+  ],
+  "popularGenres": [
+    "Canadian Street Drill Beats",
+    "Toronto Dark Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "toronto-rexdale-montreal-afro-bounce",
+  "name": "Rexdale Montréal Afro Bounce Beats",
+  "category": "scene",
+  "badge": "Rexdale Afro Bounce",
+  "headline": "Rexdale (North-West 6ix Road Rap & Drift Drill) Montréal Afro Bounce Beats: 24-Bit WAV Beats & Interac e-Transfer Checkout",
+  "description": "Infectious Afro-house 4/4 syncopations, sunny Rhodes keys, and bouncy sub-bass for vocalists in Rexdale.",
+  "targetArtists": [
+    "Artists from Rexdale",
+    "Canadian Hip-Hop Community",
+    "Toronto & Montreal Scene"
+  ],
+  "recommendedBpm": "112-118 BPM",
+  "recommendedKey": "F-Major / D-Minor",
+  "vibeAttributes": [
+    "Rexdale",
+    "Afro Bounce",
+    "Interac e-Transfer (CAD $)",
+    "SOCAN & CMRRA Compliant"
+  ],
+  "popularGenres": [
+    "Montréal Afro Bounce Beats",
+    "Toronto Dark Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "toronto-rexdale-canadian-classic-boom-bap",
+  "name": "Rexdale Canadian Classic Boom Bap",
+  "category": "scene",
+  "badge": "Rexdale Canadian Boom Bap",
+  "headline": "Rexdale (North-West 6ix Road Rap & Drift Drill) Canadian Classic Boom Bap: 24-Bit WAV Beats & Interac e-Transfer Checkout",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and warm analog bass for lyricists in Rexdale.",
+  "targetArtists": [
+    "Artists from Rexdale",
+    "Canadian Hip-Hop Community",
+    "Toronto & Montreal Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Rexdale",
+    "Canadian Boom Bap",
+    "Interac e-Transfer (CAD $)",
+    "SOCAN & CMRRA Compliant"
+  ],
+  "popularGenres": [
+    "Canadian Classic Boom Bap",
+    "Toronto Dark Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "montreal-laval-toronto-dark-trap-808",
+  "name": "Laval Toronto Dark Trap 808 Beats",
+  "category": "scene",
+  "badge": "Laval Toronto Trap",
+  "headline": "Laval (Rive-Nord & Québec Francophone Drill) Toronto Dark Trap 808 Beats: 24-Bit WAV Beats & Interac e-Transfer Checkout",
+  "description": "Heavy sliding 808 sub-bass, underwater filtered minor synths, and crisp modern trap snares engineered for MCs in Laval.",
+  "targetArtists": [
+    "Artists from Laval",
+    "Canadian Hip-Hop Community",
+    "Toronto & Montreal Scene"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Laval",
+    "Toronto Trap",
+    "Interac e-Transfer (CAD $)",
+    "SOCAN & CMRRA Compliant"
+  ],
+  "popularGenres": [
+    "Toronto Dark Trap 808 Beats",
+    "Toronto Dark Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "montreal-laval-canadian-street-drill",
+  "name": "Laval Canadian Street Drill Beats",
+  "category": "scene",
+  "badge": "Laval Canada Drill",
+  "headline": "Laval (Rive-Nord & Québec Francophone Drill) Canadian Street Drill Beats: 24-Bit WAV Beats & Interac e-Transfer Checkout",
+  "description": "Cold minor pianos, rapid syncopated drill hats, and sliding sub-bass drops crafted for MCs in Laval.",
+  "targetArtists": [
+    "Artists from Laval",
+    "Canadian Hip-Hop Community",
+    "Toronto & Montreal Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / C#-Minor",
+  "vibeAttributes": [
+    "Laval",
+    "Canada Drill",
+    "Interac e-Transfer (CAD $)",
+    "SOCAN & CMRRA Compliant"
+  ],
+  "popularGenres": [
+    "Canadian Street Drill Beats",
+    "Toronto Dark Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "montreal-laval-montreal-afro-bounce",
+  "name": "Laval Montréal Afro Bounce Beats",
+  "category": "scene",
+  "badge": "Laval Afro Bounce",
+  "headline": "Laval (Rive-Nord & Québec Francophone Drill) Montréal Afro Bounce Beats: 24-Bit WAV Beats & Interac e-Transfer Checkout",
+  "description": "Infectious Afro-house 4/4 syncopations, sunny Rhodes keys, and bouncy sub-bass for vocalists in Laval.",
+  "targetArtists": [
+    "Artists from Laval",
+    "Canadian Hip-Hop Community",
+    "Toronto & Montreal Scene"
+  ],
+  "recommendedBpm": "112-118 BPM",
+  "recommendedKey": "F-Major / D-Minor",
+  "vibeAttributes": [
+    "Laval",
+    "Afro Bounce",
+    "Interac e-Transfer (CAD $)",
+    "SOCAN & CMRRA Compliant"
+  ],
+  "popularGenres": [
+    "Montréal Afro Bounce Beats",
+    "Toronto Dark Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "montreal-laval-canadian-classic-boom-bap",
+  "name": "Laval Canadian Classic Boom Bap",
+  "category": "scene",
+  "badge": "Laval Canadian Boom Bap",
+  "headline": "Laval (Rive-Nord & Québec Francophone Drill) Canadian Classic Boom Bap: 24-Bit WAV Beats & Interac e-Transfer Checkout",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and warm analog bass for lyricists in Laval.",
+  "targetArtists": [
+    "Artists from Laval",
+    "Canadian Hip-Hop Community",
+    "Toronto & Montreal Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Laval",
+    "Canadian Boom Bap",
+    "Interac e-Transfer (CAD $)",
+    "SOCAN & CMRRA Compliant"
+  ],
+  "popularGenres": [
+    "Canadian Classic Boom Bap",
+    "Toronto Dark Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "vancouver-burnaby-toronto-dark-trap-808",
+  "name": "Burnaby Toronto Dark Trap 808 Beats",
+  "category": "scene",
+  "badge": "Burnaby Toronto Trap",
+  "headline": "Burnaby (Pacific Northwest & Asian-Canadian Cloud Trap) Toronto Dark Trap 808 Beats: 24-Bit WAV Beats & Interac e-Transfer Checkout",
+  "description": "Heavy sliding 808 sub-bass, underwater filtered minor synths, and crisp modern trap snares engineered for MCs in Burnaby.",
+  "targetArtists": [
+    "Artists from Burnaby",
+    "Canadian Hip-Hop Community",
+    "Toronto & Montreal Scene"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Burnaby",
+    "Toronto Trap",
+    "Interac e-Transfer (CAD $)",
+    "SOCAN & CMRRA Compliant"
+  ],
+  "popularGenres": [
+    "Toronto Dark Trap 808 Beats",
+    "Toronto Dark Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "vancouver-burnaby-canadian-street-drill",
+  "name": "Burnaby Canadian Street Drill Beats",
+  "category": "scene",
+  "badge": "Burnaby Canada Drill",
+  "headline": "Burnaby (Pacific Northwest & Asian-Canadian Cloud Trap) Canadian Street Drill Beats: 24-Bit WAV Beats & Interac e-Transfer Checkout",
+  "description": "Cold minor pianos, rapid syncopated drill hats, and sliding sub-bass drops crafted for MCs in Burnaby.",
+  "targetArtists": [
+    "Artists from Burnaby",
+    "Canadian Hip-Hop Community",
+    "Toronto & Montreal Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / C#-Minor",
+  "vibeAttributes": [
+    "Burnaby",
+    "Canada Drill",
+    "Interac e-Transfer (CAD $)",
+    "SOCAN & CMRRA Compliant"
+  ],
+  "popularGenres": [
+    "Canadian Street Drill Beats",
+    "Toronto Dark Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "vancouver-burnaby-montreal-afro-bounce",
+  "name": "Burnaby Montréal Afro Bounce Beats",
+  "category": "scene",
+  "badge": "Burnaby Afro Bounce",
+  "headline": "Burnaby (Pacific Northwest & Asian-Canadian Cloud Trap) Montréal Afro Bounce Beats: 24-Bit WAV Beats & Interac e-Transfer Checkout",
+  "description": "Infectious Afro-house 4/4 syncopations, sunny Rhodes keys, and bouncy sub-bass for vocalists in Burnaby.",
+  "targetArtists": [
+    "Artists from Burnaby",
+    "Canadian Hip-Hop Community",
+    "Toronto & Montreal Scene"
+  ],
+  "recommendedBpm": "112-118 BPM",
+  "recommendedKey": "F-Major / D-Minor",
+  "vibeAttributes": [
+    "Burnaby",
+    "Afro Bounce",
+    "Interac e-Transfer (CAD $)",
+    "SOCAN & CMRRA Compliant"
+  ],
+  "popularGenres": [
+    "Montréal Afro Bounce Beats",
+    "Toronto Dark Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "vancouver-burnaby-canadian-classic-boom-bap",
+  "name": "Burnaby Canadian Classic Boom Bap",
+  "category": "scene",
+  "badge": "Burnaby Canadian Boom Bap",
+  "headline": "Burnaby (Pacific Northwest & Asian-Canadian Cloud Trap) Canadian Classic Boom Bap: 24-Bit WAV Beats & Interac e-Transfer Checkout",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and warm analog bass for lyricists in Burnaby.",
+  "targetArtists": [
+    "Artists from Burnaby",
+    "Canadian Hip-Hop Community",
+    "Toronto & Montreal Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Burnaby",
+    "Canadian Boom Bap",
+    "Interac e-Transfer (CAD $)",
+    "SOCAN & CMRRA Compliant"
+  ],
+  "popularGenres": [
+    "Canadian Classic Boom Bap",
+    "Toronto Dark Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "calgary-beltline-toronto-dark-trap-808",
+  "name": "Calgary Toronto Dark Trap 808 Beats",
+  "category": "scene",
+  "badge": "Calgary Toronto Trap",
+  "headline": "Calgary (Beltline Energy & Prairie Boom Trap) Toronto Dark Trap 808 Beats: 24-Bit WAV Beats & Interac e-Transfer Checkout",
+  "description": "Heavy sliding 808 sub-bass, underwater filtered minor synths, and crisp modern trap snares engineered for MCs in Calgary.",
+  "targetArtists": [
+    "Artists from Calgary",
+    "Canadian Hip-Hop Community",
+    "Toronto & Montreal Scene"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Calgary",
+    "Toronto Trap",
+    "Interac e-Transfer (CAD $)",
+    "SOCAN & CMRRA Compliant"
+  ],
+  "popularGenres": [
+    "Toronto Dark Trap 808 Beats",
+    "Toronto Dark Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "calgary-beltline-canadian-street-drill",
+  "name": "Calgary Canadian Street Drill Beats",
+  "category": "scene",
+  "badge": "Calgary Canada Drill",
+  "headline": "Calgary (Beltline Energy & Prairie Boom Trap) Canadian Street Drill Beats: 24-Bit WAV Beats & Interac e-Transfer Checkout",
+  "description": "Cold minor pianos, rapid syncopated drill hats, and sliding sub-bass drops crafted for MCs in Calgary.",
+  "targetArtists": [
+    "Artists from Calgary",
+    "Canadian Hip-Hop Community",
+    "Toronto & Montreal Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / C#-Minor",
+  "vibeAttributes": [
+    "Calgary",
+    "Canada Drill",
+    "Interac e-Transfer (CAD $)",
+    "SOCAN & CMRRA Compliant"
+  ],
+  "popularGenres": [
+    "Canadian Street Drill Beats",
+    "Toronto Dark Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "calgary-beltline-montreal-afro-bounce",
+  "name": "Calgary Montréal Afro Bounce Beats",
+  "category": "scene",
+  "badge": "Calgary Afro Bounce",
+  "headline": "Calgary (Beltline Energy & Prairie Boom Trap) Montréal Afro Bounce Beats: 24-Bit WAV Beats & Interac e-Transfer Checkout",
+  "description": "Infectious Afro-house 4/4 syncopations, sunny Rhodes keys, and bouncy sub-bass for vocalists in Calgary.",
+  "targetArtists": [
+    "Artists from Calgary",
+    "Canadian Hip-Hop Community",
+    "Toronto & Montreal Scene"
+  ],
+  "recommendedBpm": "112-118 BPM",
+  "recommendedKey": "F-Major / D-Minor",
+  "vibeAttributes": [
+    "Calgary",
+    "Afro Bounce",
+    "Interac e-Transfer (CAD $)",
+    "SOCAN & CMRRA Compliant"
+  ],
+  "popularGenres": [
+    "Montréal Afro Bounce Beats",
+    "Toronto Dark Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "calgary-beltline-canadian-classic-boom-bap",
+  "name": "Calgary Canadian Classic Boom Bap",
+  "category": "scene",
+  "badge": "Calgary Canadian Boom Bap",
+  "headline": "Calgary (Beltline Energy & Prairie Boom Trap) Canadian Classic Boom Bap: 24-Bit WAV Beats & Interac e-Transfer Checkout",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and warm analog bass for lyricists in Calgary.",
+  "targetArtists": [
+    "Artists from Calgary",
+    "Canadian Hip-Hop Community",
+    "Toronto & Montreal Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Calgary",
+    "Canadian Boom Bap",
+    "Interac e-Transfer (CAD $)",
+    "SOCAN & CMRRA Compliant"
+  ],
+  "popularGenres": [
+    "Canadian Classic Boom Bap",
+    "Toronto Dark Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "edmonton-whyte-toronto-dark-trap-808",
+  "name": "Edmonton Toronto Dark Trap 808 Beats",
+  "category": "scene",
+  "badge": "Edmonton Toronto Trap",
+  "headline": "Edmonton (Whyte Avenue & River Valley Boom Bap) Toronto Dark Trap 808 Beats: 24-Bit WAV Beats & Interac e-Transfer Checkout",
+  "description": "Heavy sliding 808 sub-bass, underwater filtered minor synths, and crisp modern trap snares engineered for MCs in Edmonton.",
+  "targetArtists": [
+    "Artists from Edmonton",
+    "Canadian Hip-Hop Community",
+    "Toronto & Montreal Scene"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Edmonton",
+    "Toronto Trap",
+    "Interac e-Transfer (CAD $)",
+    "SOCAN & CMRRA Compliant"
+  ],
+  "popularGenres": [
+    "Toronto Dark Trap 808 Beats",
+    "Toronto Dark Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "edmonton-whyte-canadian-street-drill",
+  "name": "Edmonton Canadian Street Drill Beats",
+  "category": "scene",
+  "badge": "Edmonton Canada Drill",
+  "headline": "Edmonton (Whyte Avenue & River Valley Boom Bap) Canadian Street Drill Beats: 24-Bit WAV Beats & Interac e-Transfer Checkout",
+  "description": "Cold minor pianos, rapid syncopated drill hats, and sliding sub-bass drops crafted for MCs in Edmonton.",
+  "targetArtists": [
+    "Artists from Edmonton",
+    "Canadian Hip-Hop Community",
+    "Toronto & Montreal Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / C#-Minor",
+  "vibeAttributes": [
+    "Edmonton",
+    "Canada Drill",
+    "Interac e-Transfer (CAD $)",
+    "SOCAN & CMRRA Compliant"
+  ],
+  "popularGenres": [
+    "Canadian Street Drill Beats",
+    "Toronto Dark Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "edmonton-whyte-montreal-afro-bounce",
+  "name": "Edmonton Montréal Afro Bounce Beats",
+  "category": "scene",
+  "badge": "Edmonton Afro Bounce",
+  "headline": "Edmonton (Whyte Avenue & River Valley Boom Bap) Montréal Afro Bounce Beats: 24-Bit WAV Beats & Interac e-Transfer Checkout",
+  "description": "Infectious Afro-house 4/4 syncopations, sunny Rhodes keys, and bouncy sub-bass for vocalists in Edmonton.",
+  "targetArtists": [
+    "Artists from Edmonton",
+    "Canadian Hip-Hop Community",
+    "Toronto & Montreal Scene"
+  ],
+  "recommendedBpm": "112-118 BPM",
+  "recommendedKey": "F-Major / D-Minor",
+  "vibeAttributes": [
+    "Edmonton",
+    "Afro Bounce",
+    "Interac e-Transfer (CAD $)",
+    "SOCAN & CMRRA Compliant"
+  ],
+  "popularGenres": [
+    "Montréal Afro Bounce Beats",
+    "Toronto Dark Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "edmonton-whyte-canadian-classic-boom-bap",
+  "name": "Edmonton Canadian Classic Boom Bap",
+  "category": "scene",
+  "badge": "Edmonton Canadian Boom Bap",
+  "headline": "Edmonton (Whyte Avenue & River Valley Boom Bap) Canadian Classic Boom Bap: 24-Bit WAV Beats & Interac e-Transfer Checkout",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and warm analog bass for lyricists in Edmonton.",
+  "targetArtists": [
+    "Artists from Edmonton",
+    "Canadian Hip-Hop Community",
+    "Toronto & Montreal Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Edmonton",
+    "Canadian Boom Bap",
+    "Interac e-Transfer (CAD $)",
+    "SOCAN & CMRRA Compliant"
+  ],
+  "popularGenres": [
+    "Canadian Classic Boom Bap",
+    "Toronto Dark Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "windsor-border-toronto-dark-trap-808",
+  "name": "Windsor Toronto Dark Trap 808 Beats",
+  "category": "scene",
+  "badge": "Windsor Toronto Trap",
+  "headline": "Windsor (Detroit River Border & High-Speed Scam Rap) Toronto Dark Trap 808 Beats: 24-Bit WAV Beats & Interac e-Transfer Checkout",
+  "description": "Heavy sliding 808 sub-bass, underwater filtered minor synths, and crisp modern trap snares engineered for MCs in Windsor.",
+  "targetArtists": [
+    "Artists from Windsor",
+    "Canadian Hip-Hop Community",
+    "Toronto & Montreal Scene"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "F-Minor / C-Minor",
+  "vibeAttributes": [
+    "Windsor",
+    "Toronto Trap",
+    "Interac e-Transfer (CAD $)",
+    "SOCAN & CMRRA Compliant"
+  ],
+  "popularGenres": [
+    "Toronto Dark Trap 808 Beats",
+    "Toronto Dark Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "windsor-border-canadian-street-drill",
+  "name": "Windsor Canadian Street Drill Beats",
+  "category": "scene",
+  "badge": "Windsor Canada Drill",
+  "headline": "Windsor (Detroit River Border & High-Speed Scam Rap) Canadian Street Drill Beats: 24-Bit WAV Beats & Interac e-Transfer Checkout",
+  "description": "Cold minor pianos, rapid syncopated drill hats, and sliding sub-bass drops crafted for MCs in Windsor.",
+  "targetArtists": [
+    "Artists from Windsor",
+    "Canadian Hip-Hop Community",
+    "Toronto & Montreal Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / C#-Minor",
+  "vibeAttributes": [
+    "Windsor",
+    "Canada Drill",
+    "Interac e-Transfer (CAD $)",
+    "SOCAN & CMRRA Compliant"
+  ],
+  "popularGenres": [
+    "Canadian Street Drill Beats",
+    "Toronto Dark Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "windsor-border-montreal-afro-bounce",
+  "name": "Windsor Montréal Afro Bounce Beats",
+  "category": "scene",
+  "badge": "Windsor Afro Bounce",
+  "headline": "Windsor (Detroit River Border & High-Speed Scam Rap) Montréal Afro Bounce Beats: 24-Bit WAV Beats & Interac e-Transfer Checkout",
+  "description": "Infectious Afro-house 4/4 syncopations, sunny Rhodes keys, and bouncy sub-bass for vocalists in Windsor.",
+  "targetArtists": [
+    "Artists from Windsor",
+    "Canadian Hip-Hop Community",
+    "Toronto & Montreal Scene"
+  ],
+  "recommendedBpm": "112-118 BPM",
+  "recommendedKey": "F-Major / D-Minor",
+  "vibeAttributes": [
+    "Windsor",
+    "Afro Bounce",
+    "Interac e-Transfer (CAD $)",
+    "SOCAN & CMRRA Compliant"
+  ],
+  "popularGenres": [
+    "Montréal Afro Bounce Beats",
+    "Toronto Dark Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "windsor-border-canadian-classic-boom-bap",
+  "name": "Windsor Canadian Classic Boom Bap",
+  "category": "scene",
+  "badge": "Windsor Canadian Boom Bap",
+  "headline": "Windsor (Detroit River Border & High-Speed Scam Rap) Canadian Classic Boom Bap: 24-Bit WAV Beats & Interac e-Transfer Checkout",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and warm analog bass for lyricists in Windsor.",
+  "targetArtists": [
+    "Artists from Windsor",
+    "Canadian Hip-Hop Community",
+    "Toronto & Montreal Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Windsor",
+    "Canadian Boom Bap",
+    "Interac e-Transfer (CAD $)",
+    "SOCAN & CMRRA Compliant"
+  ],
+  "popularGenres": [
+    "Canadian Classic Boom Bap",
+    "Toronto Dark Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
 ];

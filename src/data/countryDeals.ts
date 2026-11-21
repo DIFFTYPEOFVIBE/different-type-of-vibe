@@ -42008,4 +42008,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "ca/toronto-etobicoke-rexdale": {
+  "slug": "ca/toronto-etobicoke-rexdale",
+  "name": "Canada – Toronto: Etobicoke & Rexdale (North-West 6ix Real Road Rap & Drift Drill)",
+  "flag": "🇨🇦",
+  "currency": "CAD ($) / USD ($)",
+  "currencyCode": "CAD",
+  "gateways": "Interac e-Transfer, Apple Pay, Google Pay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SOCAN / CMRRA",
+  "proFullName": "SOCAN (Society of Composers, Authors and Music Publishers of Canada)",
+  "proGuide": "100% compliant with Canadian Copyright Act and SOCAN registration with instant signed PDF license agreement.",
+  "headline": "Beats in Rexdale & Etobicoke: North-West 6ix Hustle, Cold Melodies & Heavy 808s",
+  "description": "The authentic street cradle of Toronto road rap and NAV's stomping grounds: dark minor piano progressions, low-pass underwater filters, and sliding sub-bass drops for Rexdale and Etobicoke lyricists.",
+  "popularGenres": [
+    "Toronto Road Rap",
+    "Rexdale Drift Drill",
+    "OVO Dark Trap"
+  ],
+  "subClusters": []
+},
+  "ca/montreal-laval-rive-nord": {
+  "slug": "ca/montreal-laval-rive-nord",
+  "name": "Canada – Montréal: Laval & Rive-Nord (Quebec Francophone Trap & Drill Epicenter)",
+  "flag": "🇨🇦",
+  "currency": "CAD ($) / USD ($)",
+  "currencyCode": "CAD",
+  "gateways": "Interac e-Transfer, Apple Pay, Google Pay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SOCAN / SODRAC",
+  "proFullName": "SOCAN (Société canadienne des auteurs, compositeurs et éditeurs de musique)",
+  "proGuide": "Fichiers studio WAV 24-bit avec pistes séparées (stems multitrack) et contrat conforme SOCAN.",
+  "headline": "Beats à Laval & Rive-Nord : Scène Urbaine Québécoise, Drill Sombre & 808s",
+  "description": "L'épicentre du rap francophone québécois : cloches menaçantes, basses glissantes en portamento et kicks percutants taillés pour le franglais et les flows acérés de Laval et de la Rive-Nord.",
+  "popularGenres": [
+    "Québec Drill",
+    "Montréal Street Trap",
+    "Rive-Nord Rap"
+  ],
+  "subClusters": []
+},
+  "ca/vancouver-burnaby-richmond": {
+  "slug": "ca/vancouver-burnaby-richmond",
+  "name": "Canada – Vancouver: Burnaby & Richmond (Pacific Northwest Cloud Trap & Asian-Canadian Hip-Hop)",
+  "flag": "🇨🇦",
+  "currency": "CAD ($) / USD ($)",
+  "currencyCode": "CAD",
+  "gateways": "Interac e-Transfer, Apple Pay, Google Pay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SOCAN / CMRRA",
+  "proFullName": "SOCAN (Society of Composers, Authors and Music Publishers of Canada)",
+  "proGuide": "Worldwide digital monetization rights for Spotify, Apple Music, YouTube, and Canadian radio.",
+  "headline": "Beats in Burnaby & Richmond: Pacific Rim Skyline, Luxury Chillhop & Sleek 808s",
+  "description": "Where coastal Pacific mountain air meets the multicultural pulse of Greater Vancouver: sleek neon synthesizers, luxury nocturnal R&B-trap keys, and bouncy drums for Burnaby and Richmond creators.",
+  "popularGenres": [
+    "Pacific Northwest Cloud Trap",
+    "Vancouver R&B Beat",
+    "Burnaby Modern Trap"
+  ],
+  "subClusters": []
+},
+  "ca/calgary-beltline-forest-lawn": {
+  "slug": "ca/calgary-beltline-forest-lawn",
+  "name": "Canada – Calgary: Beltline & Forest Lawn (Stampede City Oil Boom Trap & Energetic 808s)",
+  "flag": "🇨🇦",
+  "currency": "CAD ($) / USD ($)",
+  "currencyCode": "CAD",
+  "gateways": "Interac e-Transfer, Apple Pay, Google Pay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SOCAN / CMRRA",
+  "proFullName": "SOCAN (Society of Composers, Authors and Music Publishers of Canada)",
+  "proGuide": "100% royalty-free clearance on master recordings with commercial licensing.",
+  "headline": "Beats in Calgary: Rocky Mountain Foothills, Beltline Energy & Heavy Trap Bouncers",
+  "description": "Where western prairie grit meets dynamic metropolitan growth: driving brass stabs, punchy acoustic kicks, and rolling 808s crafted for Calgary, Forest Lawn, and Alberta recording artists.",
+  "popularGenres": [
+    "Calgary Boom Trap",
+    "Prairie Street Rap",
+    "Alberta Heavy 808"
+  ],
+  "subClusters": []
+},
+  "ca/edmonton-strathcona-whyte": {
+  "slug": "ca/edmonton-strathcona-whyte",
+  "name": "Canada – Edmonton: Strathcona & Whyte Ave (Festival City Underground Boom Bap & Indie Trap)",
+  "flag": "🇨🇦",
+  "currency": "CAD ($) / USD ($)",
+  "currencyCode": "CAD",
+  "gateways": "Interac e-Transfer, Apple Pay, Google Pay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SOCAN / CMRRA",
+  "proFullName": "SOCAN (Society of Composers, Authors and Music Publishers of Canada)",
+  "proGuide": "Instant Interac e-Transfer checkout in CAD ($) with immediate automated download.",
+  "headline": "Beats in Edmonton: Whyte Avenue Indie Spirit, River Valley & Conscious Hip-Hop",
+  "description": "The northern cultural capital of the Canadian prairies: dusty vinyl sample chops, expressive acoustic guitars, and punchy, unquantized hip-hop drums tailored for Edmonton lyricists.",
+  "popularGenres": [
+    "Edmonton Indie Hip-Hop",
+    "Whyte Ave Boom Bap",
+    "Prairie Conscious Rap"
+  ],
+  "subClusters": []
+},
+  "ca/kitchener-waterloo-tech": {
+  "slug": "ca/kitchener-waterloo-tech",
+  "name": "Canada – Kitchener-Waterloo & Cambridge (Canada's Silicon Valley & Electronic Trap)",
+  "flag": "🇨🇦",
+  "currency": "CAD ($) / USD ($)",
+  "currencyCode": "CAD",
+  "gateways": "Interac e-Transfer, Apple Pay, Google Pay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SOCAN / CMRRA",
+  "proFullName": "SOCAN (Society of Composers, Authors and Music Publishers of Canada)",
+  "proGuide": "Pristine multitrack stems and 24-bit WAV files included for studio vocal mixing.",
+  "headline": "Beats in Kitchener-Waterloo: Tech Triangle Innovation, Glitch Percussion & Futuristic 808s",
+  "description": "The technology innovation hub of Ontario: futuristic synthesizer arpeggios, crisp hyper-clean percussion, and subterranean 808 glides engineered for Waterloo and Kitchener creators.",
+  "popularGenres": [
+    "Waterloo Electronic Trap",
+    "Tech Triangle Beat",
+    "Ontario Cyberpunk Rap"
+  ],
+  "subClusters": []
+},
+  "ca/windsor-detroit-border": {
+  "slug": "ca/windsor-detroit-border",
+  "name": "Canada – Windsor & Detroit Border (8 Mile Cross-Border Offbeat Scam Rap & Fast Claps)",
+  "flag": "🇨🇦",
+  "currency": "CAD ($) / USD ($)",
+  "currencyCode": "CAD",
+  "gateways": "Interac e-Transfer, Apple Pay, Google Pay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SOCAN / CMRRA",
+  "proFullName": "SOCAN (Society of Composers, Authors and Music Publishers of Canada)",
+  "proGuide": "Commercial rights with instant invoice and downloadable SOCAN split sheet.",
+  "headline": "Beats in Windsor: Detroit River Skyline, 8 Mile Influence & Punchy Offbeat Rap",
+  "description": "Where southern Ontario overlooks the Detroit skyline: rapid 200 BPM syncopated claps, aggressive staccato pianos, and distorted low-end designed for Windsor's high-energy cross-border flow.",
+  "popularGenres": [
+    "Windsor Detroit-Style Trap",
+    "Border City Scam Rap",
+    "Fast Tempo 808"
+  ],
+  "subClusters": []
+},
+  "ca/victoria-vancouver-island": {
+  "slug": "ca/victoria-vancouver-island",
+  "name": "Canada – Victoria & Vancouver Island (Salish Sea Rainy Coast & Lofi Chillhop)",
+  "flag": "🇨🇦",
+  "currency": "CAD ($) / USD ($)",
+  "currencyCode": "CAD",
+  "gateways": "Interac e-Transfer, Apple Pay, Google Pay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SOCAN / CMRRA",
+  "proFullName": "SOCAN (Society of Composers, Authors and Music Publishers of Canada)",
+  "proGuide": "100% master ownership with zero royalties owed to the producer.",
+  "headline": "Beats in Victoria: Pacific Rainforest Breeze, Salish Sea & Rainy Day Lofi Hip-Hop",
+  "description": "British Columbia's historic island capital: gentle tape-hiss Rhodes keys, rainy coastal ambient textures, and warm, unquantized kick-snare pockets for Victoria and Island lyricists.",
+  "popularGenres": [
+    "Victoria Rainy Lofi",
+    "Vancouver Island Chillhop",
+    "Salish Sea Trap"
+  ],
+  "subClusters": []
+},
+  "ca/saskatoon-regina-prairies": {
+  "slug": "ca/saskatoon-regina-prairies",
+  "name": "Canada – Saskatoon & Regina (Prairie Big Sky Melancholic Trap & Emo Rap)",
+  "flag": "🇨🇦",
+  "currency": "CAD ($) / USD ($)",
+  "currencyCode": "CAD",
+  "gateways": "Interac e-Transfer, Apple Pay, Google Pay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SOCAN / CMRRA",
+  "proFullName": "SOCAN (Society of Composers, Authors and Music Publishers of Canada)",
+  "proGuide": "Instant digital delivery across all Canadian territories with full commercial clearance.",
+  "headline": "Beats in Saskatoon & Regina: Big Sky Country, Winter Melancholia & Emo Trap 808s",
+  "description": "The expansive heart of the Saskatchewan prairies: expressive acoustic guitar strumming, wide reverb-washed pads, and heavy 808 drops reflecting the isolation and emotion of prairie youth.",
+  "popularGenres": [
+    "Prairie Emo Trap",
+    "Saskatoon Melodic Beat",
+    "Big Sky Rap"
+  ],
+  "subClusters": []
+},
+  "ca/st-johns-newfoundland-atlantic": {
+  "slug": "ca/st-johns-newfoundland-atlantic",
+  "name": "Canada – St. John's & Newfoundland (Atlantic Edge Folk-Trap & Maritime Energy)",
+  "flag": "🇨🇦",
+  "currency": "CAD ($) / USD ($)",
+  "currencyCode": "CAD",
+  "gateways": "Interac e-Transfer, Apple Pay, Google Pay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SOCAN / CMRRA",
+  "proFullName": "SOCAN (Society of Composers, Authors and Music Publishers of Canada)",
+  "proGuide": "Complete commercial rights for DSP streaming, radio, and sync licensing.",
+  "headline": "Beats in St. John's: Atlantic Ocean Ramparts, Celtic Fiddle Chops & Modern 808s",
+  "description": "North America's oldest Atlantic seaport: acoustic fiddle and folk guitar loops sliced dynamically over modern trap 808s and punchy kicks for unique Newfoundland storytelling.",
+  "popularGenres": [
+    "Atlantic Folk-Trap",
+    "St. John's Maritime Beat",
+    "Newfoundland Rap"
+  ],
+  "subClusters": []
+},
 };
