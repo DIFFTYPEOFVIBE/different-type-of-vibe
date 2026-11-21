@@ -40868,4 +40868,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "eg/cairo-nasr-city-heliopolis": {
+  "slug": "eg/cairo-nasr-city-heliopolis",
+  "name": "Egypt – Cairo: Nasr City, Heliopolis & New Cairo (Urban Youth Commercial Core & Modern Drill)",
+  "flag": "🇪🇬",
+  "currency": "EGP (ج.م) / USD ($)",
+  "currencyCode": "EGP",
+  "gateways": "InstaPay (IPN), Vodafone Cash (فودافون كاش), Orange Money, Etisalat Cash, Fawry, Meeza, Cards, Apple Pay, PayPal",
+  "pro": "SACERAU / SASP",
+  "proFullName": "SACERAU (جمعية المؤلفين والملحنين والناشرين المصرية) / SACEM",
+  "proGuide": "100% compliant with Egyptian Copyright Law No. 82/2002 and international licensing with instant PDF contract.",
+  "headline": "Beats in Nasr City & New Cairo: Tagamoa Commercial Energy, Modern Trap & Drill",
+  "description": "The fast-paced commercial and residential heartland of modern Cairo: sleek minor synth pads, rapid hi-hat rolls, and punchy 808s crafted for Heliopolis and Tagamoa recording artists.",
+  "popularGenres": [
+    "New Cairo Commercial Trap",
+    "Nasr City Street Drill",
+    "Heliopolis Modern Flow"
+  ],
+  "subClusters": []
+},
+  "eg/alexandria-agami-north-coast": {
+  "slug": "eg/alexandria-agami-north-coast",
+  "name": "Egypt – Alexandria: Agami & North Coast / Sahel (Elite Summer Coastline & Afro-Shaabi)",
+  "flag": "🇪🇬",
+  "currency": "EGP (ج.م) / USD ($)",
+  "currencyCode": "EGP",
+  "gateways": "InstaPay (IPN), Vodafone Cash (فودافون كاش), Orange Money, Etisalat Cash, Fawry, Meeza, Cards, Apple Pay, PayPal",
+  "pro": "SACERAU / SASP",
+  "proFullName": "SACERAU (جمعية المؤلفين والملحنين والناشرين المصرية) / SACEM",
+  "proGuide": "Pristine 24-bit studio WAV delivery with separated multitrack stem files.",
+  "headline": "Beats in Sahel & Agami: Mediterranean Beach Clubs, Summer Afro-Trap & Bouncy 808s",
+  "description": "The prestigious summer playground of Egypt: tropical marimba plucks, bouncy syncopated Afro-Shaabi percussion, and warm sub-bass drops for North Coast beach club anthems.",
+  "popularGenres": [
+    "Sahel Beach Club Trap",
+    "Agami Afro-Shaabi Beat",
+    "North Coast Summer Banger"
+  ],
+  "subClusters": []
+},
+  "eg/cairo-imbaba-giza-street": {
+  "slug": "eg/cairo-imbaba-giza-street",
+  "name": "Egypt – Giza: Imbaba & Kit Kat (Historic Street Heartland & Raw Mahraganat Heritage)",
+  "flag": "🇪🇬",
+  "currency": "EGP (ج.م) / USD ($)",
+  "currencyCode": "EGP",
+  "gateways": "InstaPay (IPN), Vodafone Cash (فودافون كاش), Orange Money, Etisalat Cash, Fawry, Meeza, Cards, Apple Pay, PayPal",
+  "pro": "SACERAU / SASP",
+  "proFullName": "SACERAU (جمعية المؤلفين والملحنين والناشرين المصرية) / SACEM",
+  "proGuide": "100% royalty-free clearance on master recordings with commercial licensing.",
+  "headline": "Beats in Imbaba: Kingdom of Imbaba, Raw Street Reality & Distorted Mahraganat",
+  "description": "The cradle of authentic Egyptian street sound: piercing microtonal synth riffs, frantic syncopated claps, and heavy distorted 808s designed for Imbaba and Kit Kat MCs.",
+  "popularGenres": [
+    "Imbaba Street Mahraganat",
+    "Kit Kat Raw Drill",
+    "Giza Alley Trap 808"
+  ],
+  "subClusters": []
+},
+  "eg/ismailia-suez-canal-lakes": {
+  "slug": "eg/ismailia-suez-canal-lakes",
+  "name": "Egypt – Ismailia & Bitter Lakes (Canal Garden City & Relaxed Acoustic Coastal Rap)",
+  "flag": "🇪🇬",
+  "currency": "EGP (ج.م) / USD ($)",
+  "currencyCode": "EGP",
+  "gateways": "InstaPay (IPN), Vodafone Cash (فودافون كاش), Orange Money, Etisalat Cash, Fawry, Meeza, Cards, Apple Pay, PayPal",
+  "pro": "SACERAU / SASP",
+  "proFullName": "SACERAU (جمعية المؤلفين والملحنين والناشرين المصرية) / SACEM",
+  "proGuide": "Worldwide digital monetization rights for Spotify, Apple Music, Anghami, and YouTube.",
+  "headline": "Beats in Ismailia: Lake Timsah Breeze, Mango Groves & Acoustic Canal Chillhop",
+  "description": "The green garden city along the Suez Canal: warm acoustic nylon guitar strums, gentle lake wave soundscapes, and relaxed hip-hop drums tailored for Ismailia songwriters.",
+  "popularGenres": [
+    "Ismailia Canal Chillhop",
+    "Bitter Lakes Acoustic Rap",
+    "Canal Zone Lofi"
+  ],
+  "subClusters": []
+},
+  "eg/suez-red-sea-gulf": {
+  "slug": "eg/suez-red-sea-gulf",
+  "name": "Egypt – Suez & Ain Sokhna (Red Sea Industrial Gateway & Hard Reality Drill)",
+  "flag": "🇪🇬",
+  "currency": "EGP (ج.م) / USD ($)",
+  "currencyCode": "EGP",
+  "gateways": "InstaPay (IPN), Vodafone Cash (فودافون كاش), Orange Money, Etisalat Cash, Fawry, Meeza, Cards, Apple Pay, PayPal",
+  "pro": "SACERAU / SASP",
+  "proFullName": "SACERAU (جمعية المؤلفين والملحنين والناشرين المصرية) / SACEM",
+  "proGuide": "Instant InstaPay and Vodafone Cash checkout in EGP (ج.م) with immediate file download.",
+  "headline": "Beats in Suez & Sokhna: Red Sea Heavy Industry, Maritime Resistance & 808s",
+  "description": "The proud industrial and historic resistance port of the Red Sea: metallic percussion clangs, aggressive sliding 808s, and cold reality bars for Suez and Ain Sokhna artists.",
+  "popularGenres": [
+    "Suez Industrial Drill",
+    "Ain Sokhna Coastal Trap",
+    "Red Sea Heavy 808"
+  ],
+  "subClusters": []
+},
+  "eg/zagazig-sharqia-heritage": {
+  "slug": "eg/zagazig-sharqia-heritage",
+  "name": "Egypt – Zagazig & Sharqia (Eastern Delta Capital: Arabian Horse Heritage & Folk Trap)",
+  "flag": "🇪🇬",
+  "currency": "EGP (ج.م) / USD ($)",
+  "currencyCode": "EGP",
+  "gateways": "InstaPay (IPN), Vodafone Cash (فودافون كاش), Orange Money, Etisalat Cash, Fawry, Meeza, Cards, Apple Pay, PayPal",
+  "pro": "SACERAU / SASP",
+  "proFullName": "SACERAU (جمعية المؤلفين والملحنين والناشرين المصرية) / SACEM",
+  "proGuide": "100% original master production cleared for DSP distribution.",
+  "headline": "Beats in Zagazig: Ancient Bubastis, Purebred Arabian Horses & Delta Trap",
+  "description": "The proud heritage of the Eastern Nile Delta: galloping drum rolls, traditional Mizmar melodies, and modern 808 trap drops for creators across Zagazig and Sharqia.",
+  "popularGenres": [
+    "Zagazig Delta Trap",
+    "Sharqia Equestrian Beat",
+    "Eastern Nile Rap"
+  ],
+  "subClusters": []
+},
+  "eg/asyut-upper-egypt-capital": {
+  "slug": "eg/asyut-upper-egypt-capital",
+  "name": "Egypt – Asyut: Upper Egypt Heartland (Sa'idi Heritage, Tahtib Sticks & Heavy 808s)",
+  "flag": "🇪🇬",
+  "currency": "EGP (ج.م) / USD ($)",
+  "currencyCode": "EGP",
+  "gateways": "InstaPay (IPN), Vodafone Cash (فودافون كاش), Orange Money, Etisalat Cash, Fawry, Meeza, Cards, Apple Pay, PayPal",
+  "pro": "SACERAU / SASP",
+  "proFullName": "SACERAU (جمعية المؤلفين والملحنين والناشرين المصرية) / SACEM",
+  "proGuide": "Direct commercial licensing for film sync, YouTube, and digital streaming.",
+  "headline": "Beats in Asyut: Capital of Upper Egypt, Sa'idi Stick Dance & Thunderous Bass",
+  "description": "The proud, unyielding heart of Upper Egypt: authentic Tabla Baladi war drums, Tahtib wooden stick rhythms, and thunderous 808 drops for Asyut recording artists.",
+  "popularGenres": [
+    "Asyut Sa'idi Trap",
+    "Upper Egypt War Drums",
+    "Tahtib Stick Beat 808"
+  ],
+  "subClusters": []
+},
+  "eg/qena-dendera-temple": {
+  "slug": "eg/qena-dendera-temple",
+  "name": "Egypt – Qena & Dendera (Hathor Temple Mysteries & Traditional Clay Pottery Beats)",
+  "flag": "🇪🇬",
+  "currency": "EGP (ج.م) / USD ($)",
+  "currencyCode": "EGP",
+  "gateways": "InstaPay (IPN), Vodafone Cash (فودافون كاش), Orange Money, Etisalat Cash, Fawry, Meeza, Cards, Apple Pay, PayPal",
+  "pro": "SACERAU / SASP",
+  "proFullName": "SACERAU (جمعية المؤلفين والملحنين والناشرين المصرية) / SACEM",
+  "proGuide": "Direct stems multitrack download for precision audio mixing.",
+  "headline": "Beats in Qena: Ancient Hathor Temple, Nile River Bend & Flute-Trap Fusion",
+  "description": "Where the Nile curves sharply through Upper Egypt: breathy Kawala flutes, ceramic clay pot percussion, and deep sub-bass glides for mystical and conscious storytelling.",
+  "popularGenres": [
+    "Qena Nile Bend Trap",
+    "Dendera Mystical Beat",
+    "Clay Pottery Hip-Hop"
+  ],
+  "subClusters": []
+},
+  "eg/el-gouna-red-sea-resort": {
+  "slug": "eg/el-gouna-red-sea-resort",
+  "name": "Egypt – El Gouna & Hurghada (Red Sea Lagoon Resort & Melodic R&B-Trap Luxury)",
+  "flag": "🇪🇬",
+  "currency": "EGP (ج.م) / USD ($)",
+  "currencyCode": "EGP",
+  "gateways": "InstaPay (IPN), Vodafone Cash (فودافون كاش), Orange Money, Etisalat Cash, Fawry, Meeza, Cards, Apple Pay, PayPal",
+  "pro": "SACERAU / SASP",
+  "proFullName": "SACERAU (جمعية المؤلفين والملحنين والناشرين المصرية) / SACEM",
+  "proGuide": "100% legal protection with downloadable split sheet agreement.",
+  "headline": "Beats in El Gouna: Turquoise Lagoons, Film Festival Glamour & R&B-Trap",
+  "description": "The world-famous Red Sea lagoon luxury resort: sparkling acoustic guitars, warm electric pianos, and sleek modern 808s crafted for El Gouna and Hurghada artists.",
+  "popularGenres": [
+    "El Gouna Lagoon Trap",
+    "Red Sea R&B Beat",
+    "Hurghada Sunset Flow"
+  ],
+  "subClusters": []
+},
+  "eg/fayoum-wadi-el-rayan-oasis": {
+  "slug": "eg/fayoum-wadi-el-rayan-oasis",
+  "name": "Egypt – Fayoum: Tunis Pottery Village & Wadi El Rayan (Desert Waterfalls & Lofi)",
+  "flag": "🇪🇬",
+  "currency": "EGP (ج.م) / USD ($)",
+  "currencyCode": "EGP",
+  "gateways": "InstaPay (IPN), Vodafone Cash (فودافون كاش), Orange Money, Etisalat Cash, Fawry, Meeza, Cards, Apple Pay, PayPal",
+  "pro": "SACERAU / SASP",
+  "proFullName": "SACERAU (جمعية المؤلفين والملحنين والناشرين المصرية) / SACEM",
+  "proGuide": "Complete commercial rights with invoice and digital certificate.",
+  "headline": "Beats in Fayoum: Tunis Village Pottery, Desert Waterfalls & Oasis Chillhop",
+  "description": "The ancient desert oasis of Lake Qarun: gentle waterfall soundscapes, ceramic pottery percussion, and peaceful acoustic lofi hip-hop for poetic reflection and songwriting.",
+  "popularGenres": [
+    "Fayoum Oasis Lofi",
+    "Tunis Village Chillhop",
+    "Wadi El Rayan Beat"
+  ],
+  "subClusters": []
+},
 };

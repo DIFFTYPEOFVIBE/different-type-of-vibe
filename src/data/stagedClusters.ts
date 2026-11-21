@@ -118711,4 +118711,1294 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "1"
   ]
 },
+  {
+  "slug": "afroto-hyper-energetic-rap",
+  "title": "Afroto Hyper-Energetic Alexandria Trap & Rapid-Fire Flow Beat",
+  "description": "Explosive, hyperactive street trap instrumental inspired by Afroto (Far2 Khibra, Brazil, Segara, Telet), featuring lightning-fast drum syncopation, playful synth leads, and a viral party bounce.",
+  "targetKeywords": [
+    "afroto type beat",
+    "far2 khibra instrumental",
+    "brazil afroto beat",
+    "hyper energetic arabic trap",
+    "afroto alexandria rap beat"
+  ],
+  "heroCta": "Buy Afroto Style Beat (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Viral Dance Anthem, High-Energy Live Performance and Club Banger",
+  "similarArtists": [
+    "Afroto",
+    "Marwan Moussa",
+    "Wegz",
+    "Dafencii"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "productionTips": "Rapid syncopated hi-hat rolls with energetic brass horn stabs and punchy, tight 808 kicks.",
+  "idealVocalStyle": "Lightning-fast syllable delivery, playful street ad-libs, and unforgettable hype choruses.",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "Engineered for maximum TikTok virality, festival moshpits, and YouTube Trending Egypt."
+},
+  {
+  "slug": "abo-el-anwar-comedy-punchline-drill",
+  "title": "Abo El Anwar Witty Punchline Drill & Sarcastic Bouncy Beat",
+  "description": "Bouncy, satirical and witty street drill instrumental inspired by Abo El Anwar (Blanco, Snopp Dog, El 3attar, Kolaha 3amla Asad), featuring clever punchline rhythm drops and bouncy 808s.",
+  "targetKeywords": [
+    "abo el anwar type beat",
+    "blanco abo el anwar instrumental",
+    "witty arabic drill beat",
+    "cairo punchline rap beat",
+    "bouncy drill 808 egypt"
+  ],
+  "heroCta": "Buy Abo El Anwar Beat (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Punchline Street Drill, Comedic Rap Visuals and Viral Social Singles",
+  "similarArtists": [
+    "Abo El Anwar",
+    "Abyusif",
+    "Lil Baba",
+    "Afroto"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Playful melodic plucks paired with syncopated drill counter-snares and bouncing low-end slides.",
+  "idealVocalStyle": "Sarcastic street delivery, clever Egyptian pop-culture punchlines, and infectious hooks.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Insuperable for viral TikTok comedy rap edits, Instagram reels, and youth party playlists."
+},
+  {
+  "slug": "le-ge-cy-emotional-sad-trap",
+  "title": "Lege-Cy Melancholic Introspective Sad Trap & Weeping Guitar Beat",
+  "description": "Deeply moving, emotional cloud trap instrumental inspired by Lege-Cy (Bettir, Msh Bel 7ozoz, Khaleena, 3araf), featuring crying electric guitar melodies, melancholic pianos, and autotuned vulnerability.",
+  "targetKeywords": [
+    "lege-cy type beat",
+    "bettir lege cy instrumental",
+    "sad arabic trap beat",
+    "egyptian emotional cloud trap",
+    "lege cy msh bel 7ozoz beat"
+  ],
+  "heroCta": "Buy Lege-Cy Style Beat (WAV Mastered)",
+  "energyLevel": "Medium",
+  "primaryUse": "Emotional Pain Rap, Confessional Singles and Deep Midnight Visualizers",
+  "similarArtists": [
+    "Lege-Cy",
+    "BLVXB",
+    "Juice WRLD",
+    "The Kid LAROI"
+  ],
+  "recommendedBpm": "122-130 BPM",
+  "productionTips": "Stereo electric guitar with analog chorus and tape flutter over a round, non-intrusive 808.",
+  "idealVocalStyle": "Vulnerable autotuned singing, sincere emotional confessions, and poetic Egyptian lyrics.",
+  "suggestedKey": "F# Minor",
+  "streamingSuitability": "Top-tier streaming longevity among young Egyptian listeners, heartbreak playlists, and night drives."
+},
+  {
+  "slug": "dareen-female-egyptian-drill-pioneer",
+  "title": "Dareen Fierce Female Egyptian Drill & Razor-Sharp 808 Glides Beat",
+  "description": "Fierce, empowering and sharp street drill instrumental inspired by female Egyptian rap trailblazer Dareen (Habaybi, Basha, Ma3lesh), featuring cold church bells and aggressive sliding 808s.",
+  "targetKeywords": [
+    "dareen type beat",
+    "female arabic drill beat",
+    "habaybi dareen instrumental",
+    "egyptian female rap beat",
+    "dareen basha type beat"
+  ],
+  "heroCta": "Buy Dareen Style Beat (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Female Street Drill, Empowering Anthems and Confrontational Visuals",
+  "similarArtists": [
+    "Dareen",
+    "Felukah",
+    "Freek",
+    "Central Cee"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Aggressive low-end portamento sliding 808s balanced with clean midrange and piercing hi-hats.",
+  "idealVocalStyle": "Sharp, unapologetic delivery, quick wit, and fierce female street authority.",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "Insuperable for gym workout playlists, female empowerment reels, and drill channels."
+},
+  {
+  "slug": "sa-idi-tahtib-stick-dance-trap",
+  "title": "Upper Egyptian Sa'idi Tahtib (التحطيب) Stick Dance & War Drum Trap Beat",
+  "description": "Authentic Upper Egyptian cultural collision fusing the heavy ceremonial war drums (Tabla Baladi) and sticks of traditional Sa'idi Tahtib (التحطيب) with thunderous modern 808 trap drops.",
+  "targetKeywords": [
+    "saidi tahtib trap beat",
+    "upper egypt war drums beat",
+    "tahtib stick dance rap beat",
+    "tabla baladi trap 808",
+    "saidi trap fusion egypt"
+  ],
+  "heroCta": "Buy Sa'idi Tahtib Beat (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Cultural Heritage Anthem, Film Soundtracks and Epic Regional Rap",
+  "similarArtists": [
+    "Mohamed Mounir",
+    "Wegz",
+    "Subcarpați",
+    "Molotof"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "productionTips": "Heavy acoustic Tabla Baladi mallet hits layered with authentic wooden stick clacks over sub-808s.",
+  "idealVocalStyle": "Commanding, proud Sa'idi dialect, poetic regional proverbs, and aggressive delivery.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Essential for cultural festivals, National Day celebrations, and high-impact cinematic reels."
+},
+  {
+  "slug": "argool-ancient-double-clarinet-trap",
+  "title": "Ancient Egyptian Argool (أرغول) Double Clarinet & Trap 808 Beat",
+  "description": "Hypnotic, mystical ancient Egyptian acoustic trap featuring the deep buzzing drone and melody of the traditional double-pipe reed Argool (أرغول) over modern sub-bass drops.",
+  "targetKeywords": [
+    "argool trap beat",
+    "ancient egyptian clarinet rap beat",
+    "argool instrument 808 trap",
+    "traditional pharaonic reed beat",
+    "argool hip hop fusion"
+  ],
+  "heroCta": "Buy Argool Trap Beat (WAV Mastered)",
+  "energyLevel": "High",
+  "primaryUse": "Cinematic Egyptian Rap, Mystical Pharaonic Singles and Soundtracks",
+  "similarArtists": [
+    "Wegz",
+    "Marwan Pablo",
+    "Saint Levant",
+    "Hans Zimmer"
+  ],
+  "recommendedBpm": "124-132 BPM",
+  "productionTips": "Acoustic Argool double-reed buzz and circular breathing drone layered over a clean 40Hz sub-bass.",
+  "idealVocalStyle": "Passionate Arabic poetry, mystical storytelling, and deep philosophical delivery.",
+  "suggestedKey": "D Rast / D Minor",
+  "streamingSuitability": "Insuperable cultural resonance across Egyptian heritage festivals, documentaries, and global trap."
+},
+  {
+  "slug": "sahel-north-coast-summer-afro-trap",
+  "title": "North Coast Sahel Luxury Beach Club Sunset Afro-Trap Beat",
+  "description": "Sun-drenched, breezy summer afro-trap inspired by luxury beach clubs in Hacienda, Marassi, and Almaza Bay: bright tropical marimbas, syncopated afrobeat percussion, and warm 808 bounce.",
+  "targetKeywords": [
+    "sahel summer trap beat",
+    "north coast egypt beach club beat",
+    "hacienda marassi afro trap",
+    "summer party rap beat egypt",
+    "sahel sunset banger"
+  ],
+  "heroCta": "Buy Sahel Summer Beat (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Beach Club Party Anthem, Poolside Visuals and Commercial Summer Single",
+  "similarArtists": [
+    "Wegz",
+    "Afroto",
+    "Burna Boy",
+    "Rema"
+  ],
+  "recommendedBpm": "106-112 BPM",
+  "productionTips": "Bright marimba melodies with stereophonic widening over a driving afrobeat-trap rhythm section.",
+  "idealVocalStyle": "Uplifting, danceable singing, sunny melodic hooks, and carefree party verses.",
+  "suggestedKey": "G Major",
+  "streamingSuitability": "Perfect for beach bar DJ sets, summer playlists, and vacation vlog soundtracks."
+},
+  {
+  "slug": "cairo-metro-underground-tunnel-drill",
+  "title": "Cairo Subterranean Metro Line 1 & 2 Underground Reality Street Drill Beat",
+  "description": "Raw, claustrophobic street drill inspired by the underground tunnels of the Cairo Metro: screeching steel rail transients, dark minor pianos, and heavy subterranean 808 sub-bass.",
+  "targetKeywords": [
+    "cairo metro drill beat",
+    "egyptian subway rap beat",
+    "underground cairo drill 808",
+    "metro tunnel street beat egypt",
+    "raw reality cairo drill"
+  ],
+  "heroCta": "Buy Cairo Metro Drill (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Raw Reality Rap, Metro Station Cyphers and Gritty Street Visuals",
+  "similarArtists": [
+    "Abyusif",
+    "Marwan Pablo",
+    "Abo El Anwar",
+    "Central Cee"
+  ],
+  "recommendedBpm": "141-145 BPM",
+  "productionTips": "Filtered metal squeal sound effects layered under rapid syncopated hi-hats and two-octave 808 slides.",
+  "idealVocalStyle": "Cold reality delivery, fast-paced street slang, and uncompromising urban punchlines.",
+  "suggestedKey": "E Minor",
+  "streamingSuitability": "Insuperable for gym workout playlists, drill channels, and gritty street music videos."
+},
+  {
+  "slug": "khan-el-khalili-brass-lantern-lofi",
+  "title": "Khan El Khalili Copper Bazaar Hammering & Acoustic Oud Lofi Beat",
+  "description": "Atmospheric, nostalgic Cairo chillhop inspired by the historic Khan El Khalili market: gentle rhythmic copper artisan hammerings, warm acoustic Oud picking, and mellow boom bap drums.",
+  "targetKeywords": [
+    "khan el khalili lofi beat",
+    "cairo bazaar chillhop instrumental",
+    "copper artisan acoustic lofi",
+    "relaxing islamic cairo study beat",
+    "khan el khalili oud hip hop"
+  ],
+  "heroCta": "Buy Khan El Khalili Lofi (Commercial License)",
+  "energyLevel": "Low",
+  "primaryUse": "Study Focus Playlists, Heritage Vlogs, Tourism Soundtracks and Relaxing Singles",
+  "similarArtists": [
+    "Saint Levant",
+    "Tomppabeats",
+    "Nujabes",
+    "Kudasaibeats"
+  ],
+  "recommendedBpm": "78-84 BPM",
+  "productionTips": "Field recordings of Khan El Khalili brass workshops beneath tape-warmed Oud chords and soft kicks.",
+  "idealVocalStyle": "Gentle poetic singing, spoken-word storytelling, or peaceful background listening.",
+  "suggestedKey": "F Major",
+  "streamingSuitability": "Insuperable for study chillhop playlists, travel aesthetics, and lifestyle content creators."
+},
+  {
+  "slug": "siwa-oasis-salt-lake-ambient-trap",
+  "title": "Siwa Oasis Crystal Salt Lakes & Berber Amazigh Flute Ambient Trap Beat",
+  "description": "Dreamy, crystalline ambient trap inspired by the turquoise salt pools of Siwa Oasis: breathy Amazigh flute melodies, echoing desert reverbs, and deep floating sub-bass drops.",
+  "targetKeywords": [
+    "siwa oasis trap beat",
+    "egyptian salt lake chillhop",
+    "amazigh flute trap instrumental",
+    "siwa ambient rap beat",
+    "western desert lofi trap"
+  ],
+  "heroCta": "Buy Siwa Oasis Beat (WAV 24-bit)",
+  "energyLevel": "Medium",
+  "primaryUse": "Ambient Cloud Trap, Desert Travel Documentaries and Meditative Visuals",
+  "similarArtists": [
+    "Wegz",
+    "Lege-Cy",
+    "Travis Scott",
+    "Călinacho"
+  ],
+  "recommendedBpm": "118-125 BPM",
+  "productionTips": "Breathy acoustic Berber reed flutes layered over wide ambient synth pads and a smooth 808.",
+  "idealVocalStyle": "Reverberant autotuned singing, contemplative spoken poetry, and melodic flows.",
+  "suggestedKey": "Ab Minor",
+  "streamingSuitability": "Perfect for travel documentaries, meditation playlists, and aesthetic chillhop channels."
+},
+  {
+  "slug": "cairo-traffic-horns-street-sample-trap",
+  "title": "Cairo Rush Hour Horns Chaos & Fast Shaabi Street Trap 808 Beat",
+  "description": "Vibrant, chaotic street energy capturing rush hour on the 6th of October Bridge: rhythmic Cairo taxi horns, buzzing engine purrs, and microtonal synth riffs over bouncy trap drums.",
+  "targetKeywords": [
+    "cairo traffic horns trap beat",
+    "october bridge street rap beat",
+    "egyptian taxi horns sample trap",
+    "cairo street chaos 808 beat",
+    "shaabi traffic trap"
+  ],
+  "heroCta": "Buy Cairo Traffic Trap (WAV Mastered)",
+  "energyLevel": "Very High",
+  "primaryUse": "Street Party Anthem, High-Energy Visuals and Fast Reality Rap",
+  "similarArtists": [
+    "Afroto",
+    "Wegz",
+    "Marwan Moussa",
+    "Molotof"
+  ],
+  "recommendedBpm": "132-138 BPM",
+  "productionTips": "Rhythmic horn samples tuned to scale and layered with syncopated Darbuka claps and punchy 808s.",
+  "idealVocalStyle": "High-octane, humorous Egyptian street delivery, rapid punchlines, and call-and-response hooks.",
+  "suggestedKey": "C Major / C Minor",
+  "streamingSuitability": "Guaranteed viral sharing on TikTok, street racing clips, and youth party playlists."
+},
+  {
+  "slug": "abdel-wahab-classical-tarab-fusion",
+  "title": "Mohamed Abdel Wahab Golden Age Tarab Strings & Classic Trap Beat",
+  "description": "Timeless cultural tribute chopping the legendary classical orchestral arrangements of Mohamed Abdel Wahab (Al Gondol, Enta Omri composer) over modern 808 trap drums.",
+  "targetKeywords": [
+    "abdel wahab sample trap beat",
+    "egyptian classical tarab rap beat",
+    "mohamed abdel wahab instrumental 808",
+    "vintage arabic strings trap",
+    "tarab hip hop fusion egypt"
+  ],
+  "heroCta": "Buy Abdel Wahab Tarab Beat (Unlimited Use)",
+  "energyLevel": "High",
+  "primaryUse": "Cultural Crossover Anthem, Classic Sampled Hip-Hop and Milestone Singles",
+  "similarArtists": [
+    "Wegz",
+    "Marwan Pablo",
+    "Abyusif",
+    "Timbaland"
+  ],
+  "recommendedBpm": "126-132 BPM",
+  "productionTips": "Warm vintage sampler treatment on classical Egyptian strings layered over an uncompressed trap groove.",
+  "idealVocalStyle": "Passionate Arabic delivery, witty double entendres, and unforgettable singalong choruses.",
+  "suggestedKey": "D Minor / Kurd",
+  "streamingSuitability": "Unrivaled cultural pride and emotional loyalty across all generations of Arabic music lovers."
+},
+  {
+  "slug": "affordable-cairo-trap-beats-instapay",
+  "title": "Affordable Cairo Trap Beats from 300 EGP with InstaPay (For Emerging MCs)",
+  "description": "High-quality, budget-friendly trap and drill instrumentals for emerging Egyptian artists starting from only 300 EGP (~$6 USD) with instant InstaPay bank transfer and Vodafone Cash checkout.",
+  "targetKeywords": [
+    "affordable cairo trap beats instapay",
+    "buy cheap rap beats egypt 300 egp",
+    "beats from 300 pounds instapay",
+    "budget egyptian drill beats vodafone cash"
+  ],
+  "heroCta": "Browse Affordable Beats (From 300 EGP via InstaPay)",
+  "energyLevel": "High",
+  "primaryUse": "Emerging Artist Releases, Home Studio Demos and Breakthrough Singles",
+  "similarArtists": [
+    "Egyptian Independent Rap Community"
+  ],
+  "recommendedBpm": "130-142 BPM",
+  "productionTips": "Direct verse-chorus song structures formatted for rapid recording and vocal sketching.",
+  "idealVocalStyle": "Adaptable across all emerging Egyptian street rap and melodic vocal styles.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Includes commercial license valid up to 25,000 streams on Spotify and Anghami."
+},
+  {
+  "slug": "commercial-rnb-pop-trap-beats-egypt-wav",
+  "title": "Commercial R&B & Pop-Trap Beats with Acoustic Guitars (WAV 24-bit)",
+  "description": "Radio-ready, smooth R&B-trap productions featuring silky acoustic guitars and Rhodes electric keyboards delivered in pristine 24-bit studio WAV format for singers and melodic MCs in Egypt.",
+  "targetKeywords": [
+    "commercial rnb pop trap beats egypt wav",
+    "wegz style pop trap beats wav",
+    "egyptian radio pop trap instrumentals",
+    "melodic rnb trap cairo egp"
+  ],
+  "heroCta": "Buy R&B-Trap Beat (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Commercial Radio Single, Island Summer Hit and Romantic Visual",
+  "similarArtists": [
+    "Wegz",
+    "Marwan Moussa",
+    "Lege-Cy",
+    "Afroto"
+  ],
+  "recommendedBpm": "105-115 BPM",
+  "productionTips": "Stereo acoustic guitar loops treated with warm preamps and smooth melodic sub-bass.",
+  "idealVocalStyle": "Smooth autotuned singing, seductive vocal runs, and memorable radio hooks.",
+  "suggestedKey": "F# Minor",
+  "streamingSuitability": "Engineered for mainstream Egyptian radio rotation (Nogoum FM, Mega FM) and streaming."
+},
+  {
+  "slug": "heavy-street-drill-beats-alexandria-stems",
+  "title": "Heavy Alexandria Street Drill Beats with Sliding 808s & Multitrack Stems",
+  "description": "Hard-hitting, menacing Mediterranean street drill instrumentals featuring aggressive sliding 808s and separated multitrack audio stems for mixing in recording studios across Alexandria and Cairo.",
+  "targetKeywords": [
+    "heavy street drill beats alexandria stems",
+    "cairo street drill multitrack wav",
+    "arabic drill beats stems 808",
+    "hard drill instrumentals tracks egp"
+  ],
+  "heroCta": "Download Drill Beat (With Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hard Drill Singles, Studio Recording and High-Impact Music Videos",
+  "similarArtists": [
+    "Marwan Pablo",
+    "Wegz",
+    "Central Cee",
+    "Headie One"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Separated stems for kick, sub-808, snare, hats, and melodics exported at -6dB headroom.",
+  "idealVocalStyle": "Cold reality punchlines, fast drill cadence, and direct street delivery.",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "Maximum flexibility for audio mixing engineers preparing club-ready master tracks."
+},
+  {
+  "slug": "summer-party-trap-beats-sahel-radio",
+  "title": "Summer Party Trap Beats 108 BPM for Nogoum FM & Sahel Beach Clubs",
+  "description": "Catchy, sun-drenched summer party trap and Afro-Shaabi fusion instrumentals at 105-110 BPM engineered for beach clubs in Marassi, Hacienda, and heavy rotation on Egyptian radio.",
+  "targetKeywords": [
+    "summer party trap beats sahel radio",
+    "nogoum fm egypt trap 108 bpm",
+    "shaabi party trap beat egypt",
+    "sahel beach club instrumental wav"
+  ],
+  "heroCta": "Buy Summer Party Beat (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Summer Radio Anthem, Beach Club Banger and Commercial Single",
+  "similarArtists": [
+    "Afroto",
+    "Wegz",
+    "Marwan Moussa",
+    "Burna Boy"
+  ],
+  "recommendedBpm": "106-110 BPM",
+  "productionTips": "Bright synth plucks and syncopated tropical percussion with wide stereo image.",
+  "idealVocalStyle": "High-energy singalong hooks, playful verses, and crowd-control party chants.",
+  "suggestedKey": "A Major",
+  "streamingSuitability": "Insuperable for summer playlists, TikTok trends, and beach resort DJ sets."
+},
+  {
+  "slug": "sacerau-exclusive-rights-assignment-pdf",
+  "title": "SACERAU Copyright Exclusive Rights Assignment Contract Agreement (PDF)",
+  "description": "Download an official legal licensing contract in PDF format ready for registration with SACERAU and SACEM ensuring 100% copyright protection and master ownership under Egyptian law.",
+  "targetKeywords": [
+    "sacerau exclusive rights assignment contract pdf",
+    "egyptian intellectual property music agreement",
+    "producer split sheet contract cairo",
+    "legal beat contract egypt pdf"
+  ],
+  "heroCta": "Download SACERAU Assignment Agreement (Instant PDF)",
+  "energyLevel": "N/A",
+  "primaryUse": "Copyright Registration with SACERAU, Exclusive Transfers and Label Submissions",
+  "similarArtists": [
+    "Onzieb",
+    "SACERAU Registered Songwriters and Composers"
+  ],
+  "recommendedBpm": "All Tempos",
+  "productionTips": "Formulated under Egyptian Law No. 82/2002 protecting moral and economic rights.",
+  "idealVocalStyle": "Valid for all musical genres and vocal compositions.",
+  "suggestedKey": "All Keys",
+  "streamingSuitability": "Guaranteed legal protection and worry-free global commercial distribution."
+},
+  {
+  "slug": "vodafone-cash-instant-beat-store-egypt",
+  "title": "Buy Beats with Vodafone Cash, Orange Money & Etisalat Cash (Instant EGP)",
+  "description": "Secure instant checkout via Vodafone Cash, Orange Money, Etisalat Cash, InstaPay, and Egyptian bank cards with zero conversion fees and immediate 24-bit WAV file delivery in EGP (ج.م).",
+  "targetKeywords": [
+    "vodafone cash beat store egypt",
+    "buy beats orange money egypt",
+    "buy beats etisalat cash egp",
+    "egyptian pounds beats store instant download"
+  ],
+  "heroCta": "Checkout with Vodafone Cash (EGP)",
+  "energyLevel": "Universal",
+  "primaryUse": "Fast and Secure Beat Purchasing for Egyptian Creators",
+  "similarArtists": [
+    "Egyptian Recording Artists and Producers"
+  ],
+  "recommendedBpm": "All BPMs",
+  "productionTips": "Encrypted direct processing with instant license and audio download link generation.",
+  "idealVocalStyle": "Accessible to all creators across Egypt and the Arab world.",
+  "suggestedKey": "All Keys",
+  "streamingSuitability": "Commercial licensing with immediate monetization freedom on DSPs."
+},
+  {
+  "slug": "album-discount-deals-egypt-5-beats",
+  "title": "Egypt Rap Album & Mixtape Deals: 5 Beats Bundle (Save 40% in EGP ج.م)",
+  "description": "Multi-beat bundle package for Egyptian artists recording a 5-track EP or 10-track album: save up to 40% in Egyptian Pounds (EGP ج.م) with direct mixing support and consistent production quality.",
+  "targetKeywords": [
+    "album discount deals egypt rap",
+    "5 beats bundle cairo egp",
+    "mixtape beat package egypt pounds",
+    "bulk beats discount alexandria egp"
+  ],
+  "heroCta": "View 5-Beat Album Bundle (Save 40%)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Full EP Recording, Continuous Album Projects and Consistent Sound",
+  "similarArtists": [
+    "Independent Egyptian Hip-Hop Artists"
+  ],
+  "recommendedBpm": "88-144 BPM",
+  "productionTips": "Curated sonic continuity ensuring your EP flows smoothly from track to track.",
+  "idealVocalStyle": "Adaptable across the artist's full stylistic range.",
+  "suggestedKey": "Various Keys",
+  "streamingSuitability": "Multi-release commercial license valid across all streaming platforms."
+},
+  {
+  "slug": "vocal-mixing-mastering-egypt-onzieb",
+  "title": "Full Music Production, Vocal Mixing & Stem Mastering (Producer Onzieb)",
+  "description": "Complete audio production service including custom beat composition, surgical vocal mixing, and stem mastering for Egyptian artists via WhatsApp consultation with Onzieb.",
+  "targetKeywords": [
+    "vocal mixing mastering egypt onzieb",
+    "music production service cairo whatsapp",
+    "custom beats and mixing alexandria",
+    "mastering trap rap egypt onzieb"
+  ],
+  "heroCta": "Chat with Onzieb about Mixing on WhatsApp",
+  "energyLevel": "Custom",
+  "primaryUse": "Major Single Releases, Label Presentations and Broadcast Airplay",
+  "similarArtists": [
+    "Onzieb",
+    "Egyptian Professional Artists"
+  ],
+  "recommendedBpm": "Tailored to your project",
+  "productionTips": "Broadcast standard mastering (-14 LUFS) with precise multiband compression on vocal tracks.",
+  "idealVocalStyle": "Home studio or commercial studio vocal recordings.",
+  "suggestedKey": "Personalized",
+  "streamingSuitability": "Guaranteed compliance with Spotify, Apple Music, and Nogoum FM radio loudness standards."
+},
+  {
+  "slug": "acoustic-guitar-sad-trap-beats-egypt",
+  "title": "Emotional Sad Trap Beats with Live Acoustic Guitars & Weeping Pianos",
+  "description": "Deeply emotional, introspective Egyptian trap instrumentals featuring real acoustic nylon guitars, melancholic piano progressions, and hard sliding 808s for pain storytelling.",
+  "targetKeywords": [
+    "acoustic guitar sad trap beats egypt",
+    "lege cy style guitar beats",
+    "egyptian emotional trap instrumentals wav",
+    "sad trap beats cairo egp"
+  ],
+  "heroCta": "Buy Acoustic Sad Trap Beat (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Emotional Pain Rap, Confessional Singles and Deep Visualizers",
+  "similarArtists": [
+    "Lege-Cy",
+    "Wegz",
+    "Juice WRLD",
+    "The Kid LAROI"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "productionTips": "Intimate acoustic guitar picking layered with tape-saturated pianos and clean sub-bass.",
+  "idealVocalStyle": "Honest, emotionally charged delivery, pain lyrics, and heartfelt vocal cadence.",
+  "suggestedKey": "E Minor / G Minor",
+  "streamingSuitability": "High organic streaming longevity and strong audience emotional loyalty."
+},
+  {
+  "slug": "free-cairo-drill-drum-kit-wav-samples",
+  "title": "Free Cairo Drill Drum Kit & 808 Percussion Sample Pack (24-bit WAV)",
+  "description": "Download a free producer drum kit featuring 25 punchy sounds (tuned Egyptian drill 808s, snappy rimshots, counter-snares, and hi-hat rolls) in studio 24-bit WAV quality.",
+  "targetKeywords": [
+    "free cairo drill drum kit",
+    "free samples trap cairo egypt",
+    "egyptian drill drum pack free download",
+    "808 samples egypt trap download"
+  ],
+  "heroCta": "Download Free Drum Kit (Instant WAV Access)",
+  "energyLevel": "High",
+  "primaryUse": "Music Production, Beatmaking and Home Studio Experimentation",
+  "similarArtists": [
+    "Egyptian Beatmakers and Producers"
+  ],
+  "recommendedBpm": "Compatible with all BPMs",
+  "productionTips": "Tuned in C, pre-mastered with clean transient attacks ready to drag and drop into any DAW.",
+  "idealVocalStyle": "For beatmakers creating tracks for recording artists.",
+  "suggestedKey": "808s tuned to C",
+  "streamingSuitability": "100% royalty-free for commercial use in your own original musical productions."
+},
+  {
+  "slug": "cairo-nasr-city-egyptian-trap-808",
+  "name": "Nasr City Egyptian Trap 808 Beats",
+  "category": "scene",
+  "badge": "Nasr City Egyptian Trap",
+  "headline": "Nasr City (Heliopolis & New Cairo) Egyptian Trap 808 Beats: 24-Bit WAV Beats & InstaPay Checkout",
+  "description": "Heavy sliding 808 sub-bass, minor synths, and crisp modern trap snares engineered for MCs in Nasr City.",
+  "targetArtists": [
+    "Artists from Nasr City",
+    "Egyptian Urban Music Community",
+    "Arab Hip-Hop Scene"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Nasr City",
+    "Egyptian Trap",
+    "InstaPay & Vodafone Cash (EGP)",
+    "SACERAU Compliant"
+  ],
+  "popularGenres": [
+    "Egyptian Trap 808 Beats",
+    "Egyptian Trap",
+    "Mahraganat Fusion"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "cairo-nasr-city-cairo-street-drill",
+  "name": "Nasr City Cairo Street Drill Beats",
+  "category": "scene",
+  "badge": "Nasr City Cairo Drill",
+  "headline": "Nasr City (Heliopolis & New Cairo) Cairo Street Drill Beats: 24-Bit WAV Beats & InstaPay Checkout",
+  "description": "Cold minor pianos, rapid syncopated drill hats, and sliding sub-bass drops crafted for MCs in Nasr City.",
+  "targetArtists": [
+    "Artists from Nasr City",
+    "Egyptian Urban Music Community",
+    "Arab Hip-Hop Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Nasr City",
+    "Cairo Drill",
+    "InstaPay & Vodafone Cash (EGP)",
+    "SACERAU Compliant"
+  ],
+  "popularGenres": [
+    "Cairo Street Drill Beats",
+    "Egyptian Trap",
+    "Mahraganat Fusion"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "cairo-nasr-city-mahraganat-fusion-trap",
+  "name": "Nasr City Mahraganat Fusion Trap Beats",
+  "category": "scene",
+  "badge": "Nasr City Mahraganat Trap",
+  "headline": "Nasr City (Heliopolis & New Cairo) Mahraganat Fusion Trap Beats: 24-Bit WAV Beats & InstaPay Checkout",
+  "description": "Authentic syncopated claps, microtonal synth riffs, and thunderous 808 drops for artists in Nasr City.",
+  "targetArtists": [
+    "Artists from Nasr City",
+    "Egyptian Urban Music Community",
+    "Arab Hip-Hop Scene"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "D-Minor / D-Rast",
+  "vibeAttributes": [
+    "Nasr City",
+    "Mahraganat Trap",
+    "InstaPay & Vodafone Cash (EGP)",
+    "SACERAU Compliant"
+  ],
+  "popularGenres": [
+    "Mahraganat Fusion Trap Beats",
+    "Egyptian Trap",
+    "Mahraganat Fusion"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "cairo-nasr-city-nile-boom-bap",
+  "name": "Nasr City Nile River Classic Boom Bap",
+  "category": "scene",
+  "badge": "Nasr City Nile Boom Bap",
+  "headline": "Nasr City (Heliopolis & New Cairo) Nile River Classic Boom Bap: 24-Bit WAV Beats & InstaPay Checkout",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and warm analog bass for MCs in Nasr City.",
+  "targetArtists": [
+    "Artists from Nasr City",
+    "Egyptian Urban Music Community",
+    "Arab Hip-Hop Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Nasr City",
+    "Nile Boom Bap",
+    "InstaPay & Vodafone Cash (EGP)",
+    "SACERAU Compliant"
+  ],
+  "popularGenres": [
+    "Nile River Classic Boom Bap",
+    "Egyptian Trap",
+    "Mahraganat Fusion"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "alexandria-sahel-egyptian-trap-808",
+  "name": "North Coast Sahel Egyptian Trap 808 Beats",
+  "category": "scene",
+  "badge": "North Coast Sahel Egyptian Trap",
+  "headline": "North Coast Sahel (Agami & Mediterranean Luxury) Egyptian Trap 808 Beats: 24-Bit WAV Beats & InstaPay Checkout",
+  "description": "Heavy sliding 808 sub-bass, minor synths, and crisp modern trap snares engineered for MCs in North Coast Sahel.",
+  "targetArtists": [
+    "Artists from North Coast Sahel",
+    "Egyptian Urban Music Community",
+    "Arab Hip-Hop Scene"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "North Coast Sahel",
+    "Egyptian Trap",
+    "InstaPay & Vodafone Cash (EGP)",
+    "SACERAU Compliant"
+  ],
+  "popularGenres": [
+    "Egyptian Trap 808 Beats",
+    "Egyptian Trap",
+    "Mahraganat Fusion"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "alexandria-sahel-cairo-street-drill",
+  "name": "North Coast Sahel Cairo Street Drill Beats",
+  "category": "scene",
+  "badge": "North Coast Sahel Cairo Drill",
+  "headline": "North Coast Sahel (Agami & Mediterranean Luxury) Cairo Street Drill Beats: 24-Bit WAV Beats & InstaPay Checkout",
+  "description": "Cold minor pianos, rapid syncopated drill hats, and sliding sub-bass drops crafted for MCs in North Coast Sahel.",
+  "targetArtists": [
+    "Artists from North Coast Sahel",
+    "Egyptian Urban Music Community",
+    "Arab Hip-Hop Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "North Coast Sahel",
+    "Cairo Drill",
+    "InstaPay & Vodafone Cash (EGP)",
+    "SACERAU Compliant"
+  ],
+  "popularGenres": [
+    "Cairo Street Drill Beats",
+    "Egyptian Trap",
+    "Mahraganat Fusion"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "alexandria-sahel-mahraganat-fusion-trap",
+  "name": "North Coast Sahel Mahraganat Fusion Trap Beats",
+  "category": "scene",
+  "badge": "North Coast Sahel Mahraganat Trap",
+  "headline": "North Coast Sahel (Agami & Mediterranean Luxury) Mahraganat Fusion Trap Beats: 24-Bit WAV Beats & InstaPay Checkout",
+  "description": "Authentic syncopated claps, microtonal synth riffs, and thunderous 808 drops for artists in North Coast Sahel.",
+  "targetArtists": [
+    "Artists from North Coast Sahel",
+    "Egyptian Urban Music Community",
+    "Arab Hip-Hop Scene"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "D-Minor / D-Rast",
+  "vibeAttributes": [
+    "North Coast Sahel",
+    "Mahraganat Trap",
+    "InstaPay & Vodafone Cash (EGP)",
+    "SACERAU Compliant"
+  ],
+  "popularGenres": [
+    "Mahraganat Fusion Trap Beats",
+    "Egyptian Trap",
+    "Mahraganat Fusion"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "alexandria-sahel-nile-boom-bap",
+  "name": "North Coast Sahel Nile River Classic Boom Bap",
+  "category": "scene",
+  "badge": "North Coast Sahel Nile Boom Bap",
+  "headline": "North Coast Sahel (Agami & Mediterranean Luxury) Nile River Classic Boom Bap: 24-Bit WAV Beats & InstaPay Checkout",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and warm analog bass for MCs in North Coast Sahel.",
+  "targetArtists": [
+    "Artists from North Coast Sahel",
+    "Egyptian Urban Music Community",
+    "Arab Hip-Hop Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "North Coast Sahel",
+    "Nile Boom Bap",
+    "InstaPay & Vodafone Cash (EGP)",
+    "SACERAU Compliant"
+  ],
+  "popularGenres": [
+    "Nile River Classic Boom Bap",
+    "Egyptian Trap",
+    "Mahraganat Fusion"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "giza-imbaba-egyptian-trap-808",
+  "name": "Imbaba Egyptian Trap 808 Beats",
+  "category": "scene",
+  "badge": "Imbaba Egyptian Trap",
+  "headline": "Imbaba (Giza Street & Mahraganat Cradle) Egyptian Trap 808 Beats: 24-Bit WAV Beats & InstaPay Checkout",
+  "description": "Heavy sliding 808 sub-bass, minor synths, and crisp modern trap snares engineered for MCs in Imbaba.",
+  "targetArtists": [
+    "Artists from Imbaba",
+    "Egyptian Urban Music Community",
+    "Arab Hip-Hop Scene"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Imbaba",
+    "Egyptian Trap",
+    "InstaPay & Vodafone Cash (EGP)",
+    "SACERAU Compliant"
+  ],
+  "popularGenres": [
+    "Egyptian Trap 808 Beats",
+    "Egyptian Trap",
+    "Mahraganat Fusion"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "giza-imbaba-cairo-street-drill",
+  "name": "Imbaba Cairo Street Drill Beats",
+  "category": "scene",
+  "badge": "Imbaba Cairo Drill",
+  "headline": "Imbaba (Giza Street & Mahraganat Cradle) Cairo Street Drill Beats: 24-Bit WAV Beats & InstaPay Checkout",
+  "description": "Cold minor pianos, rapid syncopated drill hats, and sliding sub-bass drops crafted for MCs in Imbaba.",
+  "targetArtists": [
+    "Artists from Imbaba",
+    "Egyptian Urban Music Community",
+    "Arab Hip-Hop Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Imbaba",
+    "Cairo Drill",
+    "InstaPay & Vodafone Cash (EGP)",
+    "SACERAU Compliant"
+  ],
+  "popularGenres": [
+    "Cairo Street Drill Beats",
+    "Egyptian Trap",
+    "Mahraganat Fusion"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "giza-imbaba-mahraganat-fusion-trap",
+  "name": "Imbaba Mahraganat Fusion Trap Beats",
+  "category": "scene",
+  "badge": "Imbaba Mahraganat Trap",
+  "headline": "Imbaba (Giza Street & Mahraganat Cradle) Mahraganat Fusion Trap Beats: 24-Bit WAV Beats & InstaPay Checkout",
+  "description": "Authentic syncopated claps, microtonal synth riffs, and thunderous 808 drops for artists in Imbaba.",
+  "targetArtists": [
+    "Artists from Imbaba",
+    "Egyptian Urban Music Community",
+    "Arab Hip-Hop Scene"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "D-Minor / D-Rast",
+  "vibeAttributes": [
+    "Imbaba",
+    "Mahraganat Trap",
+    "InstaPay & Vodafone Cash (EGP)",
+    "SACERAU Compliant"
+  ],
+  "popularGenres": [
+    "Mahraganat Fusion Trap Beats",
+    "Egyptian Trap",
+    "Mahraganat Fusion"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "giza-imbaba-nile-boom-bap",
+  "name": "Imbaba Nile River Classic Boom Bap",
+  "category": "scene",
+  "badge": "Imbaba Nile Boom Bap",
+  "headline": "Imbaba (Giza Street & Mahraganat Cradle) Nile River Classic Boom Bap: 24-Bit WAV Beats & InstaPay Checkout",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and warm analog bass for MCs in Imbaba.",
+  "targetArtists": [
+    "Artists from Imbaba",
+    "Egyptian Urban Music Community",
+    "Arab Hip-Hop Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Imbaba",
+    "Nile Boom Bap",
+    "InstaPay & Vodafone Cash (EGP)",
+    "SACERAU Compliant"
+  ],
+  "popularGenres": [
+    "Nile River Classic Boom Bap",
+    "Egyptian Trap",
+    "Mahraganat Fusion"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "ismailia-egyptian-trap-808",
+  "name": "Ismailia Egyptian Trap 808 Beats",
+  "category": "scene",
+  "badge": "Ismailia Egyptian Trap",
+  "headline": "Ismailia (Suez Canal & Great Bitter Lakes) Egyptian Trap 808 Beats: 24-Bit WAV Beats & InstaPay Checkout",
+  "description": "Heavy sliding 808 sub-bass, minor synths, and crisp modern trap snares engineered for MCs in Ismailia.",
+  "targetArtists": [
+    "Artists from Ismailia",
+    "Egyptian Urban Music Community",
+    "Arab Hip-Hop Scene"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Ismailia",
+    "Egyptian Trap",
+    "InstaPay & Vodafone Cash (EGP)",
+    "SACERAU Compliant"
+  ],
+  "popularGenres": [
+    "Egyptian Trap 808 Beats",
+    "Egyptian Trap",
+    "Mahraganat Fusion"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "ismailia-cairo-street-drill",
+  "name": "Ismailia Cairo Street Drill Beats",
+  "category": "scene",
+  "badge": "Ismailia Cairo Drill",
+  "headline": "Ismailia (Suez Canal & Great Bitter Lakes) Cairo Street Drill Beats: 24-Bit WAV Beats & InstaPay Checkout",
+  "description": "Cold minor pianos, rapid syncopated drill hats, and sliding sub-bass drops crafted for MCs in Ismailia.",
+  "targetArtists": [
+    "Artists from Ismailia",
+    "Egyptian Urban Music Community",
+    "Arab Hip-Hop Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Ismailia",
+    "Cairo Drill",
+    "InstaPay & Vodafone Cash (EGP)",
+    "SACERAU Compliant"
+  ],
+  "popularGenres": [
+    "Cairo Street Drill Beats",
+    "Egyptian Trap",
+    "Mahraganat Fusion"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "ismailia-mahraganat-fusion-trap",
+  "name": "Ismailia Mahraganat Fusion Trap Beats",
+  "category": "scene",
+  "badge": "Ismailia Mahraganat Trap",
+  "headline": "Ismailia (Suez Canal & Great Bitter Lakes) Mahraganat Fusion Trap Beats: 24-Bit WAV Beats & InstaPay Checkout",
+  "description": "Authentic syncopated claps, microtonal synth riffs, and thunderous 808 drops for artists in Ismailia.",
+  "targetArtists": [
+    "Artists from Ismailia",
+    "Egyptian Urban Music Community",
+    "Arab Hip-Hop Scene"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "D-Minor / D-Rast",
+  "vibeAttributes": [
+    "Ismailia",
+    "Mahraganat Trap",
+    "InstaPay & Vodafone Cash (EGP)",
+    "SACERAU Compliant"
+  ],
+  "popularGenres": [
+    "Mahraganat Fusion Trap Beats",
+    "Egyptian Trap",
+    "Mahraganat Fusion"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "ismailia-nile-boom-bap",
+  "name": "Ismailia Nile River Classic Boom Bap",
+  "category": "scene",
+  "badge": "Ismailia Nile Boom Bap",
+  "headline": "Ismailia (Suez Canal & Great Bitter Lakes) Nile River Classic Boom Bap: 24-Bit WAV Beats & InstaPay Checkout",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and warm analog bass for MCs in Ismailia.",
+  "targetArtists": [
+    "Artists from Ismailia",
+    "Egyptian Urban Music Community",
+    "Arab Hip-Hop Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Ismailia",
+    "Nile Boom Bap",
+    "InstaPay & Vodafone Cash (EGP)",
+    "SACERAU Compliant"
+  ],
+  "popularGenres": [
+    "Nile River Classic Boom Bap",
+    "Egyptian Trap",
+    "Mahraganat Fusion"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "asyut-egyptian-trap-808",
+  "name": "Asyut Egyptian Trap 808 Beats",
+  "category": "scene",
+  "badge": "Asyut Egyptian Trap",
+  "headline": "Asyut (Upper Egypt & Sa'idi Heartland) Egyptian Trap 808 Beats: 24-Bit WAV Beats & InstaPay Checkout",
+  "description": "Heavy sliding 808 sub-bass, minor synths, and crisp modern trap snares engineered for MCs in Asyut.",
+  "targetArtists": [
+    "Artists from Asyut",
+    "Egyptian Urban Music Community",
+    "Arab Hip-Hop Scene"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Asyut",
+    "Egyptian Trap",
+    "InstaPay & Vodafone Cash (EGP)",
+    "SACERAU Compliant"
+  ],
+  "popularGenres": [
+    "Egyptian Trap 808 Beats",
+    "Egyptian Trap",
+    "Mahraganat Fusion"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "asyut-cairo-street-drill",
+  "name": "Asyut Cairo Street Drill Beats",
+  "category": "scene",
+  "badge": "Asyut Cairo Drill",
+  "headline": "Asyut (Upper Egypt & Sa'idi Heartland) Cairo Street Drill Beats: 24-Bit WAV Beats & InstaPay Checkout",
+  "description": "Cold minor pianos, rapid syncopated drill hats, and sliding sub-bass drops crafted for MCs in Asyut.",
+  "targetArtists": [
+    "Artists from Asyut",
+    "Egyptian Urban Music Community",
+    "Arab Hip-Hop Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Asyut",
+    "Cairo Drill",
+    "InstaPay & Vodafone Cash (EGP)",
+    "SACERAU Compliant"
+  ],
+  "popularGenres": [
+    "Cairo Street Drill Beats",
+    "Egyptian Trap",
+    "Mahraganat Fusion"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "asyut-mahraganat-fusion-trap",
+  "name": "Asyut Mahraganat Fusion Trap Beats",
+  "category": "scene",
+  "badge": "Asyut Mahraganat Trap",
+  "headline": "Asyut (Upper Egypt & Sa'idi Heartland) Mahraganat Fusion Trap Beats: 24-Bit WAV Beats & InstaPay Checkout",
+  "description": "Authentic syncopated claps, microtonal synth riffs, and thunderous 808 drops for artists in Asyut.",
+  "targetArtists": [
+    "Artists from Asyut",
+    "Egyptian Urban Music Community",
+    "Arab Hip-Hop Scene"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "D-Minor / D-Rast",
+  "vibeAttributes": [
+    "Asyut",
+    "Mahraganat Trap",
+    "InstaPay & Vodafone Cash (EGP)",
+    "SACERAU Compliant"
+  ],
+  "popularGenres": [
+    "Mahraganat Fusion Trap Beats",
+    "Egyptian Trap",
+    "Mahraganat Fusion"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "asyut-nile-boom-bap",
+  "name": "Asyut Nile River Classic Boom Bap",
+  "category": "scene",
+  "badge": "Asyut Nile Boom Bap",
+  "headline": "Asyut (Upper Egypt & Sa'idi Heartland) Nile River Classic Boom Bap: 24-Bit WAV Beats & InstaPay Checkout",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and warm analog bass for MCs in Asyut.",
+  "targetArtists": [
+    "Artists from Asyut",
+    "Egyptian Urban Music Community",
+    "Arab Hip-Hop Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Asyut",
+    "Nile Boom Bap",
+    "InstaPay & Vodafone Cash (EGP)",
+    "SACERAU Compliant"
+  ],
+  "popularGenres": [
+    "Nile River Classic Boom Bap",
+    "Egyptian Trap",
+    "Mahraganat Fusion"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "el-gouna-egyptian-trap-808",
+  "name": "El Gouna Egyptian Trap 808 Beats",
+  "category": "scene",
+  "badge": "El Gouna Egyptian Trap",
+  "headline": "El Gouna (Red Sea Resort & Hurghada) Egyptian Trap 808 Beats: 24-Bit WAV Beats & InstaPay Checkout",
+  "description": "Heavy sliding 808 sub-bass, minor synths, and crisp modern trap snares engineered for MCs in El Gouna.",
+  "targetArtists": [
+    "Artists from El Gouna",
+    "Egyptian Urban Music Community",
+    "Arab Hip-Hop Scene"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "El Gouna",
+    "Egyptian Trap",
+    "InstaPay & Vodafone Cash (EGP)",
+    "SACERAU Compliant"
+  ],
+  "popularGenres": [
+    "Egyptian Trap 808 Beats",
+    "Egyptian Trap",
+    "Mahraganat Fusion"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "el-gouna-cairo-street-drill",
+  "name": "El Gouna Cairo Street Drill Beats",
+  "category": "scene",
+  "badge": "El Gouna Cairo Drill",
+  "headline": "El Gouna (Red Sea Resort & Hurghada) Cairo Street Drill Beats: 24-Bit WAV Beats & InstaPay Checkout",
+  "description": "Cold minor pianos, rapid syncopated drill hats, and sliding sub-bass drops crafted for MCs in El Gouna.",
+  "targetArtists": [
+    "Artists from El Gouna",
+    "Egyptian Urban Music Community",
+    "Arab Hip-Hop Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "El Gouna",
+    "Cairo Drill",
+    "InstaPay & Vodafone Cash (EGP)",
+    "SACERAU Compliant"
+  ],
+  "popularGenres": [
+    "Cairo Street Drill Beats",
+    "Egyptian Trap",
+    "Mahraganat Fusion"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "el-gouna-mahraganat-fusion-trap",
+  "name": "El Gouna Mahraganat Fusion Trap Beats",
+  "category": "scene",
+  "badge": "El Gouna Mahraganat Trap",
+  "headline": "El Gouna (Red Sea Resort & Hurghada) Mahraganat Fusion Trap Beats: 24-Bit WAV Beats & InstaPay Checkout",
+  "description": "Authentic syncopated claps, microtonal synth riffs, and thunderous 808 drops for artists in El Gouna.",
+  "targetArtists": [
+    "Artists from El Gouna",
+    "Egyptian Urban Music Community",
+    "Arab Hip-Hop Scene"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "D-Minor / D-Rast",
+  "vibeAttributes": [
+    "El Gouna",
+    "Mahraganat Trap",
+    "InstaPay & Vodafone Cash (EGP)",
+    "SACERAU Compliant"
+  ],
+  "popularGenres": [
+    "Mahraganat Fusion Trap Beats",
+    "Egyptian Trap",
+    "Mahraganat Fusion"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "el-gouna-nile-boom-bap",
+  "name": "El Gouna Nile River Classic Boom Bap",
+  "category": "scene",
+  "badge": "El Gouna Nile Boom Bap",
+  "headline": "El Gouna (Red Sea Resort & Hurghada) Nile River Classic Boom Bap: 24-Bit WAV Beats & InstaPay Checkout",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and warm analog bass for MCs in El Gouna.",
+  "targetArtists": [
+    "Artists from El Gouna",
+    "Egyptian Urban Music Community",
+    "Arab Hip-Hop Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "El Gouna",
+    "Nile Boom Bap",
+    "InstaPay & Vodafone Cash (EGP)",
+    "SACERAU Compliant"
+  ],
+  "popularGenres": [
+    "Nile River Classic Boom Bap",
+    "Egyptian Trap",
+    "Mahraganat Fusion"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
 ];
