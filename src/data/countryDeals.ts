@@ -40488,4 +40488,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "sa/riyadh-diriyah-bujairi": {
+  "slug": "sa/riyadh-diriyah-bujairi",
+  "name": "Saudi Arabia – Riyadh: Diriyah & Bujairi Terrace (UNESCO Birthplace & Heritage Trap)",
+  "flag": "🇸🇦",
+  "currency": "SAR (ر.س) / USD ($)",
+  "currencyCode": "SAR",
+  "gateways": "Mada (مدى), Apple Pay, stc pay, Urpay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SAIP / Music Commission",
+  "proFullName": "Saudi Authority for Intellectual Property (SAIP) / Music Commission",
+  "proGuide": "100% compliant with SAIP copyright standards and international licensing with instant PDF contract.",
+  "headline": "Beats in Diriyah: UNESCO Mud-Brick Palaces, Bujairi Terrace & Acoustic Oud Trap",
+  "description": "The historic birthplace of the Saudi nation: warm acoustic Oud melodies, ceremonial percussion, and modern 808 trap drops tailored for Diriyah and Riyadh cultural creators.",
+  "popularGenres": [
+    "Diriyah Heritage Trap",
+    "Bujairi Acoustic Beat",
+    "UNESCO Mud-Brick 808"
+  ],
+  "subClusters": []
+},
+  "sa/jeddah-obhur-yacht": {
+  "slug": "sa/jeddah-obhur-yacht",
+  "name": "Saudi Arabia – Jeddah: North Obhur & Yacht Club (Red Sea Marine Luxury & Coastal Trap)",
+  "flag": "🇸🇦",
+  "currency": "SAR (ر.س) / USD ($)",
+  "currencyCode": "SAR",
+  "gateways": "Mada (مدى), Apple Pay, stc pay, Urpay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SAIP / Music Commission",
+  "proFullName": "Saudi Authority for Intellectual Property (SAIP) / Music Commission",
+  "proGuide": "Pristine 24-bit studio WAV delivery with separated multitrack stem files.",
+  "headline": "Beats in Obhur: Red Sea Superyachts, Coastal Mansions & High-Roller 808s",
+  "description": "The premier marine luxury destination of Jeddah: sleek tropical plucks, sliding 808 sub-bass, and private yacht party bounce for North Obhur recording artists.",
+  "popularGenres": [
+    "Obhur Superyacht Trap",
+    "Red Sea Luxury Beat",
+    "Jeddah Marina R&B"
+  ],
+  "subClusters": []
+},
+  "sa/khobar-corniche-waterfront": {
+  "slug": "sa/khobar-corniche-waterfront",
+  "name": "Saudi Arabia – Khobar: Waterfront Corniche & Al Raka (Cosmopolitan Gulf Lifestyle)",
+  "flag": "🇸🇦",
+  "currency": "SAR (ر.س) / USD ($)",
+  "currencyCode": "SAR",
+  "gateways": "Mada (مدى), Apple Pay, stc pay, Urpay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SAIP / Music Commission",
+  "proFullName": "Saudi Authority for Intellectual Property (SAIP) / Music Commission",
+  "proGuide": "100% royalty-free clearance on master recordings with commercial licensing.",
+  "headline": "Beats in Khobar: Waterfront Promenade, Cafe Culture & Smooth Melodic Trap",
+  "description": "The sophisticated coastal lifestyle of the Eastern Province: warm Rhodes electric pianos, silky autotuned chords, and modern Khaleeji swing for Khobar and Al Raka creators.",
+  "popularGenres": [
+    "Khobar Waterfront Trap",
+    "Eastern Province R&B",
+    "Corniche Chill Beat"
+  ],
+  "subClusters": []
+},
+  "sa/jubail-industrial-city": {
+  "slug": "sa/jubail-industrial-city",
+  "name": "Saudi Arabia – Jubail Industrial City (Global Industrial Powerhouse & Heavy 808s)",
+  "flag": "🇸🇦",
+  "currency": "SAR (ر.س) / USD ($)",
+  "currencyCode": "SAR",
+  "gateways": "Mada (مدى), Apple Pay, stc pay, Urpay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SAIP / Music Commission",
+  "proFullName": "Saudi Authority for Intellectual Property (SAIP) / Music Commission",
+  "proGuide": "Worldwide digital monetization rights for Spotify, Apple Music, Anghami, and YouTube.",
+  "headline": "Beats in Jubail: Industrial Innovation, Petrochemical Giant & Hard Reality Rap",
+  "description": "The largest industrial city on Earth: metallic percussion clangs, dark minor synth leads, and earth-shaking sub-bass drops crafted for raw reality rap in Jubail and the East.",
+  "popularGenres": [
+    "Jubail Industrial Rap",
+    "Heavy Street Drill",
+    "Petrochemical 808"
+  ],
+  "subClusters": []
+},
+  "sa/yanbu-red-sea-royal": {
+  "slug": "sa/yanbu-red-sea-royal",
+  "name": "Saudi Arabia – Yanbu: Royal Commission & Coral Coast (Historic Port & Relaxed Lofi)",
+  "flag": "🇸🇦",
+  "currency": "SAR (ر.س) / USD ($)",
+  "currencyCode": "SAR",
+  "gateways": "Mada (مدى), Apple Pay, stc pay, Urpay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SAIP / Music Commission",
+  "proFullName": "Saudi Authority for Intellectual Property (SAIP) / Music Commission",
+  "proGuide": "Instant Mada and Apple Pay checkout in SAR (ر.س) with immediate file download.",
+  "headline": "Beats in Yanbu: Historic Coral Harbour, Royal Commission & Coastal Chillhop",
+  "description": "Where tranquil coral beaches meet modern industrial parks: acoustic nylon guitar strums, gentle Red Sea water ripples, and relaxed hip-hop beats for coastal songwriters.",
+  "popularGenres": [
+    "Yanbu Coastal Lofi",
+    "Royal Commission Chillhop",
+    "Red Sea Coral Beat"
+  ],
+  "subClusters": []
+},
+  "sa/najran-southern-border": {
+  "slug": "sa/najran-southern-border",
+  "name": "Saudi Arabia – Najran & Southern Border (Ancestral Mud Castles & Ancient Folk Trap)",
+  "flag": "🇸🇦",
+  "currency": "SAR (ر.س) / USD ($)",
+  "currencyCode": "SAR",
+  "gateways": "Mada (مدى), Apple Pay, stc pay, Urpay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SAIP / Music Commission",
+  "proFullName": "Saudi Authority for Intellectual Property (SAIP) / Music Commission",
+  "proGuide": "100% original master production cleared for DSP distribution.",
+  "headline": "Beats in Najran: Al Aan Mud Palace, Ancient Trade Routes & Heavy 808s",
+  "description": "The proud southern border oasis of historic mud castles: traditional southern drum polyrhythms, ancient folk flute melodies, and hard modern 808s for Najran recording artists.",
+  "popularGenres": [
+    "Najran Southern Trap",
+    "Al Aan Heritage Beat",
+    "Border Folk 808"
+  ],
+  "subClusters": []
+},
+  "sa/qassim-buraidah-dates": {
+  "slug": "sa/qassim-buraidah-dates",
+  "name": "Saudi Arabia – Al-Qassim: Buraidah & Unaizah (Heartland of Najd & Conscious Boom Bap)",
+  "flag": "🇸🇦",
+  "currency": "SAR (ر.س) / USD ($)",
+  "currencyCode": "SAR",
+  "gateways": "Mada (مدى), Apple Pay, stc pay, Urpay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SAIP / Music Commission",
+  "proFullName": "Saudi Authority for Intellectual Property (SAIP) / Music Commission",
+  "proGuide": "Direct commercial licensing for film sync, YouTube, and digital streaming.",
+  "headline": "Beats in Qassim: Buraidah Date Festivals, Najdi Heritage & Poetic Boom Bap",
+  "description": "The agricultural heartland of central Najd: uncompressed acoustic MPC drums, warm piano chords, and traditional poetic resonance tailored for conscious Arabic MCs.",
+  "popularGenres": [
+    "Qassim Conscious Rap",
+    "Buraidah Boom Bap",
+    "Najdi Poetry Beat"
+  ],
+  "subClusters": []
+},
+  "sa/jazan-red-sea-farasan": {
+  "slug": "sa/jazan-red-sea-farasan",
+  "name": "Saudi Arabia – Jazan & Farasan Islands (Tropical Mangrove Coast & Island Afro-Trap)",
+  "flag": "🇸🇦",
+  "currency": "SAR (ر.س) / USD ($)",
+  "currencyCode": "SAR",
+  "gateways": "Mada (مدى), Apple Pay, stc pay, Urpay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SAIP / Music Commission",
+  "proFullName": "Saudi Authority for Intellectual Property (SAIP) / Music Commission",
+  "proGuide": "Direct stems multitrack download for precision audio mixing.",
+  "headline": "Beats in Jazan: Farasan Island Coral Reefs, Tropical Coastline & Afro-Trap",
+  "description": "The lush tropical southern edge of the Red Sea: bright marimba plucks, syncopated afrobeat-Khaleeji percussion, and warm 808s for summer anthems in Jazan and Farasan.",
+  "popularGenres": [
+    "Jazan Afro-Trap",
+    "Farasan Island Beat",
+    "Red Sea Tropical Rap"
+  ],
+  "subClusters": []
+},
+  "sa/al-jawf-sakaka-olive": {
+  "slug": "sa/al-jawf-sakaka-olive",
+  "name": "Saudi Arabia – Al-Jawf: Sakaka & Domat Al-Jandal (Ancient Northern Olive Crossroad)",
+  "flag": "🇸🇦",
+  "currency": "SAR (ر.س) / USD ($)",
+  "currencyCode": "SAR",
+  "gateways": "Mada (مدى), Apple Pay, stc pay, Urpay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SAIP / Music Commission",
+  "proFullName": "Saudi Authority for Intellectual Property (SAIP) / Music Commission",
+  "proGuide": "100% legal protection with downloadable split sheet agreement.",
+  "headline": "Beats in Al-Jawf: Millions of Olive Trees, Marid Castle & Melodic Heritage Trap",
+  "description": "The ancient northern kingdom of stone fortresses and vast olive groves: acoustic strings, traditional northern folk scales, and punchy 808 trap drums for Sakaka creators.",
+  "popularGenres": [
+    "Al-Jawf Heritage Trap",
+    "Sakaka Northern Rap",
+    "Olive Grove Beat"
+  ],
+  "subClusters": []
+},
+  "sa/khamis-mushait-highland": {
+  "slug": "sa/khamis-mushait-highland",
+  "name": "Saudi Arabia – Khamis Mushait & Aseer Hub (Southern Commercial Crossroads & Hard Drill)",
+  "flag": "🇸🇦",
+  "currency": "SAR (ر.س) / USD ($)",
+  "currencyCode": "SAR",
+  "gateways": "Mada (مدى), Apple Pay, stc pay, Urpay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SAIP / Music Commission",
+  "proFullName": "Saudi Authority for Intellectual Property (SAIP) / Music Commission",
+  "proGuide": "Complete commercial rights with invoice and digital certificate.",
+  "headline": "Beats in Khamis Mushait: Southern Trading Hub, Fast Snares & Heavy Street Drill",
+  "description": "The bustling commercial and military hub of the southern mountains: cold church bells, rapid syncopated drill hats, and relentless sliding 808s for high-impact reality rap.",
+  "popularGenres": [
+    "Khamis Street Drill",
+    "Aseer Commercial Trap",
+    "Southern Heavy 808"
+  ],
+  "subClusters": []
+},
 };
