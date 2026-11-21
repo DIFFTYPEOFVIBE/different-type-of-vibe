@@ -39538,4 +39538,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "tw/taipei-xinyi-metro": {
+  "slug": "tw/taipei-xinyi-metro",
+  "name": "台灣 – 台北 (信義區、大安區: 首都天際線、奢華Trap & 都會R&B)",
+  "flag": "🇹🇼",
+  "currency": "TWD (NT$) / USD ($)",
+  "currencyCode": "TWD",
+  "gateways": "LINE Pay, 街口支付 (JKOPay), 台灣Pay, ATM虛擬帳號, 信用卡, Apple Pay, PayPal, Stripe",
+  "pro": "MUST",
+  "proFullName": "MUST (中華音樂著作權協會)",
+  "proGuide": "100% 符合 MUST 著作權規範，附正式電子授權合約 (PDF)。",
+  "headline": "台北信義區音樂伴奏: 101天際線、頂級Trap與都會R&B流行",
+  "description": "台灣都會潮流的最高殿堂：滑順深沉的808重低音、立體環境合成器與洗腦都會律動，專為台北信義、大安與中山區創作歌手與饒舌歌手量身打造。",
+  "popularGenres": [
+    "台北都會Trap",
+    "信義奢華R&B",
+    "潮流流行饒舌"
+  ],
+  "subClusters": []
+},
+  "tw/taipei-ximending-wanhua": {
+  "slug": "tw/taipei-ximending-wanhua",
+  "name": "台灣 – 西門町 & 萬華 (街頭潮流聖地: 滑板文化 & 純種Boom Bap)",
+  "flag": "🇹🇼",
+  "currency": "TWD (NT$) / USD ($)",
+  "currencyCode": "TWD",
+  "gateways": "LINE Pay, 街口支付 (JKOPay), 台灣Pay, ATM虛擬帳號, 信用卡, Apple Pay, PayPal, Stripe",
+  "pro": "MUST",
+  "proFullName": "MUST (中華音樂著作權協會)",
+  "proGuide": "24-bit 錄音室無損 WAV 交付，包含完整分軌 (Stems) 檔案。",
+  "headline": "西門町街頭伴奏: 塗鴉巷弄、黑膠質感與正宗90年代Boom Bap",
+  "description": "台灣街頭文化與青年次文化的發源地：溫暖的黑膠採樣、厚實的生鼓點與復古鋼琴和弦，獻給萬華與西門町堅持純正饒舌精神的文字創作者。",
+  "popularGenres": [
+    "西門町Boom Bap",
+    "萬華街頭饒舌",
+    "老學校黑膠律動"
+  ],
+  "subClusters": []
+},
+  "tw/new-taipei-banqiao": {
+  "slug": "tw/new-taipei-banqiao",
+  "name": "台灣 – 新北 (板橋、三重、新莊: 百萬生活圈 & 街頭硬核Drill)",
+  "flag": "🇹🇼",
+  "currency": "TWD (NT$) / USD ($)",
+  "currencyCode": "TWD",
+  "gateways": "LINE Pay, 街口支付 (JKOPay), 台灣Pay, ATM虛擬帳號, 信用卡, Apple Pay, PayPal, Stripe",
+  "pro": "MUST",
+  "proFullName": "MUST (中華音樂著作權協會)",
+  "proGuide": "100% 原創母帶權利清白，可全球商業發行於串流平台。",
+  "headline": "新北板橋三重伴奏: 都會通勤心跳、冰冷小調琴鍵與硬核808",
+  "description": "新北市龐大且充滿韌性的生活圈：冷冽的小調琴聲、俐落切分碎拍與劇烈滑動的808重低音，專為描繪真實生活與街頭故事的音樂人設計。",
+  "popularGenres": [
+    "新北街頭Drill",
+    "三重板橋Real Rap",
+    "硬核808重低音"
+  ],
+  "subClusters": []
+},
+  "tw/taichung-central-west": {
+  "slug": "tw/taichung-central-west",
+  "name": "台灣 – 台中 (西屯區、一中街: 中台灣嘻哈大本營 & 台中重砲Trap)",
+  "flag": "🇹🇼",
+  "currency": "TWD (NT$) / USD ($)",
+  "currencyCode": "TWD",
+  "gateways": "LINE Pay, 街口支付 (JKOPay), 台灣Pay, ATM虛擬帳號, 信用卡, Apple Pay, PayPal, Stripe",
+  "pro": "MUST",
+  "proFullName": "MUST (中華音樂著作權協會)",
+  "proGuide": "全球數位版權保障，完全支援 Spotify、Apple Music 與 YouTube 營利。",
+  "headline": "台中饒舌伴奏: 西屯黑金重低音、派對彈跳與台式硬派態度",
+  "description": "中台灣傲人的嘻哈重鎮：凶猛的銅管樂句、扎實緊湊的鼓點與震動街區的低頻推進，延續台中強悍且無所畏懼的音樂生命力。",
+  "popularGenres": [
+    "台中硬派Trap",
+    "西屯派對Banger",
+    "中台灣重低音"
+  ],
+  "subClusters": []
+},
+  "tw/kaohsiung-port-south": {
+  "slug": "tw/kaohsiung-port-south",
+  "name": "台灣 – 高雄 (苓雅區、駁二特區: 南方海港、大港開唱 & 港都Trap)",
+  "flag": "🇹🇼",
+  "currency": "TWD (NT$) / USD ($)",
+  "currencyCode": "TWD",
+  "gateways": "LINE Pay, 街口支付 (JKOPay), 台灣Pay, ATM虛擬帳號, 信用卡, Apple Pay, PayPal, Stripe",
+  "pro": "MUST",
+  "proFullName": "MUST (中華音樂著作權協會)",
+  "proGuide": "支援 LINE Pay 與 街口支付 即時台幣扣款，付款完成立即下載。",
+  "headline": "高雄港都伴奏: 駁二藝文碼頭、熱情海風與南台灣自信律動",
+  "description": "南部大港的海派熱情與工業城市靈魂：放鬆的沿海吉他氛圍、現代切分節奏與重磅808，獻給高雄、大港與南台灣的創作者。",
+  "popularGenres": [
+    "港都海風Trap",
+    "高雄駁二嘻哈",
+    "南台灣派對律動"
+  ],
+  "subClusters": []
+},
+  "tw/tainan-anping-ancient": {
+  "slug": "tw/tainan-anping-ancient",
+  "name": "台灣 – 台南 (安平區、中西區: 古都底蘊、廟會家將 & 宮廟Trap)",
+  "flag": "🇹🇼",
+  "currency": "TWD (NT$) / USD ($)",
+  "currencyCode": "TWD",
+  "gateways": "LINE Pay, 街口支付 (JKOPay), 台灣Pay, ATM虛擬帳號, 信用卡, Apple Pay, PayPal, Stripe",
+  "pro": "MUST",
+  "proFullName": "MUST (中華音樂著作權協會)",
+  "proGuide": "100% 免除隱藏抽成版稅，隨附正式版權證明書。",
+  "headline": "台南古都伴奏: 廟會嗩吶響徹、八家將神威與現代台式Trap",
+  "description": "台灣文化首都的深邃底蘊：傳統宮廟嗩吶音色、敲擊銅鑼與現代重砲808的完美跨界，展現無與倫比的台南草根文化自信。",
+  "popularGenres": [
+    "台南宮廟Trap",
+    "八家將東方嘻哈",
+    "古都草根律動"
+  ],
+  "subClusters": []
+},
+  "tw/taoyuan-zhongli-aerotropolis": {
+  "slug": "tw/taoyuan-zhongli-aerotropolis",
+  "name": "台灣 – 桃園 & 中壢 (航空城、多元族群 & 國際跨界Drill)",
+  "flag": "🇹🇼",
+  "currency": "TWD (NT$) / USD ($)",
+  "currencyCode": "TWD",
+  "gateways": "LINE Pay, 街口支付 (JKOPay), 台灣Pay, ATM虛擬帳號, 信用卡, Apple Pay, PayPal, Stripe",
+  "pro": "MUST",
+  "proFullName": "MUST (中華音樂著作權協會)",
+  "proGuide": "高解析度 WAV 與 MP3 雙格式即時下載，隨附電子發票憑證。",
+  "headline": "桃園中壢伴奏: 國門航空城、多元文化融合與疾速街頭節奏",
+  "description": "連接世界的第一道國門：快速滾動的碎拍、俐落的打擊樂與跨國界多元旋律，專為中壢、桃園活力充沛的青年創作團隊設計。",
+  "popularGenres": [
+    "桃園國際Drill",
+    "中壢多元跨界Beat",
+    "國門疾速節奏"
+  ],
+  "subClusters": []
+},
+  "tw/hsinchu-science-park": {
+  "slug": "tw/hsinchu-science-park",
+  "name": "台灣 – 新竹 (科技之都、矽盾竹科 & 未來感合成器Trap)",
+  "flag": "🇹🇼",
+  "currency": "TWD (NT$) / USD ($)",
+  "currencyCode": "TWD",
+  "gateways": "LINE Pay, 街口支付 (JKOPay), 台灣Pay, ATM虛擬帳號, 信用卡, Apple Pay, PayPal, Stripe",
+  "pro": "MUST",
+  "proFullName": "MUST (中華音樂著作權協會)",
+  "proGuide": "可直接作為 MUST 作品註冊之權利證明附件。",
+  "headline": "新竹竹科伴奏: 九降風之城、晶圓科技感與數位前衛Trap",
+  "description": "全球半導體心臟的數位前衛感：立體空間微調合成器、銳利金屬瞬態打擊與高精確度低頻，為具備未來視野的音樂人注入尖端能量。",
+  "popularGenres": [
+    "新竹未來Trap",
+    "數位科幻嘻哈",
+    "竹科銳利808"
+  ],
+  "subClusters": []
+},
+  "tw/keelung-rain-harbor": {
+  "slug": "tw/keelung-rain-harbor",
+  "name": "台灣 – 基隆 (雨港印象、廟口夜市 & 憂鬱雨夜Lofi Boom Bap)",
+  "flag": "🇹🇼",
+  "currency": "TWD (NT$) / USD ($)",
+  "currencyCode": "TWD",
+  "gateways": "LINE Pay, 街口支付 (JKOPay), 台灣Pay, ATM虛擬帳號, 信用卡, Apple Pay, PayPal, Stripe",
+  "pro": "MUST",
+  "proFullName": "MUST (中華音樂著作權協會)",
+  "proGuide": "支援獨立創作者與家庭錄音室，隨買隨用。",
+  "headline": "基隆雨港伴奏: 雨水落入海港、路燈倒影與詩意藍調Lofi",
+  "description": "雨夜海港獨有的浪漫與惆悵：窗外雨滴氛圍音、輕柔電鋼琴與復古黑膠底噪，適合深沉內省的文字吟詠與深夜靈魂對話。",
+  "popularGenres": [
+    "基隆雨港Lofi",
+    "廟口夜市氛圍Rap",
+    "藍調詩意Boom Bap"
+  ],
+  "subClusters": []
+},
+  "tw/yilan-luodong-east": {
+  "slug": "tw/yilan-luodong-east",
+  "name": "台灣 – 宜蘭 & 羅東 (蘭陽平原、太平洋海風 & 悠閒放鬆Chillhop)",
+  "flag": "🇹🇼",
+  "currency": "TWD (NT$) / USD ($)",
+  "currencyCode": "TWD",
+  "gateways": "LINE Pay, 街口支付 (JKOPay), 台灣Pay, ATM虛擬帳號, 信用卡, Apple Pay, PayPal, Stripe",
+  "pro": "MUST",
+  "proFullName": "MUST (中華音樂著作權協會)",
+  "proGuide": "包含完整非排他商業授權，支援全平台營利。",
+  "headline": "宜蘭羅東伴奏: 蘭陽綠野、龜山島晨光與海浪木吉他Lofi",
+  "description": "穿過雪隧後的遼闊與放鬆：溫暖木吉他指彈、平緩呼吸般的海浪聲效與純樸節奏，為城市逃逸者與民謠饒舌歌手帶來療癒氛圍。",
+  "popularGenres": [
+    "宜蘭海風Chillhop",
+    "蘭陽自然Lofi",
+    "東海岸木吉他Rap"
+  ],
+  "subClusters": []
+},
 };
