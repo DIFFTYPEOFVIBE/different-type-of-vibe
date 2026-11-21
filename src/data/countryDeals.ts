@@ -41628,4 +41628,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "gb/london-brixton-peckham-south": {
+  "slug": "gb/london-brixton-peckham-south",
+  "name": "UK – London: Brixton, Peckham & Lewisham (South London Drill Heartland)",
+  "flag": "🇬🇧",
+  "currency": "GBP (£) / USD ($)",
+  "currencyCode": "GBP",
+  "gateways": "Faster Payments (UK Bank Transfer), Monzo, Revolut, Starling, Apple Pay, Google Pay, Cards, PayPal",
+  "pro": "PRS for Music / PPL",
+  "proFullName": "PRS for Music (Performing Right Society) / PPL",
+  "proGuide": "100% compliant with UK Copyright Law and PRS for Music registration with instant signed PDF license agreement.",
+  "headline": "Beats in South London: Brixton Heritage, Peckham Streets & Cavernous Drill 808s",
+  "description": "The historic birthplace of UK drill: heavy sliding sub-bass glides, minor piano chords, and rapid syncopated drill hats engineered for MCs across Brixton, Peckham, Lewisham, and Kennington.",
+  "popularGenres": [
+    "South London Drill",
+    "UK Road Rap",
+    "Melodic Drill"
+  ],
+  "subClusters": []
+},
+  "gb/london-stratford-hackney-east": {
+  "slug": "gb/london-stratford-hackney-east",
+  "name": "UK – London: Stratford, Newham & Hackney (East London Grime & Afroswing Epicenter)",
+  "flag": "🇬🇧",
+  "currency": "GBP (£) / USD ($)",
+  "currencyCode": "GBP",
+  "gateways": "Faster Payments (UK Bank Transfer), Monzo, Revolut, Starling, Apple Pay, Google Pay, Cards, PayPal",
+  "pro": "PRS for Music / PPL",
+  "proFullName": "PRS for Music (Performing Right Society) / PPL",
+  "proGuide": "Pristine uncompressed 24-bit studio WAV delivery with separated multitrack stem files.",
+  "headline": "Beats in East London: Stratford High Street, Hackney Warehouses & Afroswing Bounce",
+  "description": "The innovative sonic laboratory of Bow, Stratford, and Newham: bright guitar riffs, bouncy Afroswing basslines, and high-octane 140 BPM Grime energy for East London recording artists.",
+  "popularGenres": [
+    "East London Afroswing",
+    "Classic Grime 140",
+    "Raw Street Trap"
+  ],
+  "subClusters": []
+},
+  "gb/london-tottenham-edmonton-north": {
+  "slug": "gb/london-tottenham-edmonton-north",
+  "name": "UK – London: Tottenham & Edmonton (North London OFB, Skepta & Road Rap Legacy)",
+  "flag": "🇬🇧",
+  "currency": "GBP (£) / USD ($)",
+  "currencyCode": "GBP",
+  "gateways": "Faster Payments (UK Bank Transfer), Monzo, Revolut, Starling, Apple Pay, Google Pay, Cards, PayPal",
+  "pro": "PRS for Music / PPL",
+  "proFullName": "PRS for Music (Performing Right Society) / PPL",
+  "proGuide": "Worldwide digital monetization rights for Spotify, Apple Music, YouTube, and BBC Radio 1Xtra.",
+  "headline": "Beats in North London: Broadwater Farm, Tottenham Streets & Menacing Sub-Bass",
+  "description": "Home to legendary UK rap royalty and the defining sound of OFB: cold brass stabs, dark ambient textures, and earthquake sub-bass drops crafted for lyricists in Tottenham, Edmonton, and Wood Green.",
+  "popularGenres": [
+    "North London Drill",
+    "Road Rap 808",
+    "UK Rap Cypher"
+  ],
+  "subClusters": []
+},
+  "gb/london-ladbroke-grove-west": {
+  "slug": "gb/london-ladbroke-grove-west",
+  "name": "UK – London: Ladbroke Grove & Shepherd's Bush (West London Drill & Commercial Trap)",
+  "flag": "🇬🇧",
+  "currency": "GBP (£) / USD ($)",
+  "currencyCode": "GBP",
+  "gateways": "Faster Payments (UK Bank Transfer), Monzo, Revolut, Starling, Apple Pay, Google Pay, Cards, PayPal",
+  "pro": "PRS for Music / PPL",
+  "proFullName": "PRS for Music (Performing Right Society) / PPL",
+  "proGuide": "100% royalty-free clearance on master recordings with commercial licensing.",
+  "headline": "Beats in West London: Portobello Carnival Spirit, Ladbroke Grove & Modern Drill",
+  "description": "Where Notting Hill Carnival Caribbean soundsystem basslines meet chart-topping UK drill: melodic acoustic guitars, warm rolling 808s, and crossover appeal crafted for Central Cee and Digga D territory.",
+  "popularGenres": [
+    "West London Drill",
+    "Commercial Melodic Trap",
+    "Carnival Bassline"
+  ],
+  "subClusters": []
+},
+  "gb/bradford-west-yorkshire": {
+  "slug": "gb/bradford-west-yorkshire",
+  "name": "UK – Bradford & West Yorkshire (Northern Bassline, Grime & Sub-Low Street Trap)",
+  "flag": "🇬🇧",
+  "currency": "GBP (£) / USD ($)",
+  "currencyCode": "GBP",
+  "gateways": "Faster Payments (UK Bank Transfer), Monzo, Revolut, Starling, Apple Pay, Google Pay, Cards, PayPal",
+  "pro": "PRS for Music / PPL",
+  "proFullName": "PRS for Music (Performing Right Society) / PPL",
+  "proGuide": "Instant Faster Payments, Monzo, and Revolut checkout in GBP (£) with immediate file download.",
+  "headline": "Beats in Bradford: West Yorkshire Mills, High-Speed Bassline & Gritty 808s",
+  "description": "The proud, gritty cultural powerhouse of West Yorkshire: rapid syncopated 140 BPM basslines, aggressive street snares, and heavy sub-bass crafted for Bradford, Leeds, and Yorkshire lyricists.",
+  "popularGenres": [
+    "Bradford Bassline Drill",
+    "Yorkshire Street Rap",
+    "Northern Grime"
+  ],
+  "subClusters": []
+},
+  "gb/derby-northampton-midlands": {
+  "slug": "gb/derby-northampton-midlands",
+  "name": "UK – Derby & Northampton (East Midlands Road Rap & Rapid Drill Axis)",
+  "flag": "🇬🇧",
+  "currency": "GBP (£) / USD ($)",
+  "currencyCode": "GBP",
+  "gateways": "Faster Payments (UK Bank Transfer), Monzo, Revolut, Starling, Apple Pay, Google Pay, Cards, PayPal",
+  "pro": "PRS for Music / PPL",
+  "proFullName": "PRS for Music (Performing Right Society) / PPL",
+  "proGuide": "Complete commercial rights with invoice and PRS-compliant split sheet certificate.",
+  "headline": "Beats in Derby & Northampton: East Midlands Corridor, Industrial Pulse & Fast Drill",
+  "description": "The strategic hub connecting London and the North: driving synth progressions, rapid drill cadence space, and heavyweight low-end engineered for East Midlands recording artists.",
+  "popularGenres": [
+    "Midlands Road Rap",
+    "East Midlands Drill",
+    "Corridor Trap Beat"
+  ],
+  "subClusters": []
+},
+  "gb/aberdeen-scotland-granite": {
+  "slug": "gb/aberdeen-scotland-granite",
+  "name": "UK – Aberdeen & North East Scotland (Granite City Energy & Scottish Drill)",
+  "flag": "🇬🇧",
+  "currency": "GBP (£) / USD ($)",
+  "currencyCode": "GBP",
+  "gateways": "Faster Payments (UK Bank Transfer), Monzo, Revolut, Starling, Apple Pay, Google Pay, Cards, PayPal",
+  "pro": "PRS for Music / PPL",
+  "proFullName": "PRS for Music (Performing Right Society) / PPL",
+  "proGuide": "Direct stems multitrack download for precision audio mixing.",
+  "headline": "Beats in Aberdeen: North Sea Coastline, Granite Streets & Subterranean Drill",
+  "description": "Scotland's northern powerhouse: icy minor synth leads, cavernous 808 drops, and rapid drill percussion tailored for the distinct delivery and street reality of Scottish MCs.",
+  "popularGenres": [
+    "Scottish Drill",
+    "Granite City Rap",
+    "North Sea 808"
+  ],
+  "subClusters": []
+},
+  "gb/swansea-south-wales": {
+  "slug": "gb/swansea-south-wales",
+  "name": "UK – Swansea & South Wales (Welsh Urban Movement & Coastal Industrial Rap)",
+  "flag": "🇬🇧",
+  "currency": "GBP (£) / USD ($)",
+  "currencyCode": "GBP",
+  "gateways": "Faster Payments (UK Bank Transfer), Monzo, Revolut, Starling, Apple Pay, Google Pay, Cards, PayPal",
+  "pro": "PRS for Music / PPL",
+  "proFullName": "PRS for Music (Performing Right Society) / PPL",
+  "proGuide": "100% original master production cleared for Spotify, Apple Music, and UK radio.",
+  "headline": "Beats in Swansea: South Wales Coast, Industrial Valleys & Gritty Drill Beats",
+  "description": "The thriving urban scene of South Wales: dark piano arpeggios, gritty 808 sub glides, and crisp snare transients capturing the raw perspective of Welsh hip-hop artists.",
+  "popularGenres": [
+    "Welsh Drill",
+    "South Wales Rap",
+    "Industrial Coastal Trap"
+  ],
+  "subClusters": []
+},
+  "gb/milton-keynes-buckinghamshire": {
+  "slug": "gb/milton-keynes-buckinghamshire",
+  "name": "UK – Milton Keynes & Home Counties (Grid City Trap & Polished Road Rap)",
+  "flag": "🇬🇧",
+  "currency": "GBP (£) / USD ($)",
+  "currencyCode": "GBP",
+  "gateways": "Faster Payments (UK Bank Transfer), Monzo, Revolut, Starling, Apple Pay, Google Pay, Cards, PayPal",
+  "pro": "PRS for Music / PPL",
+  "proFullName": "PRS for Music (Performing Right Society) / PPL",
+  "proGuide": "Direct commercial licensing for club DJs, YouTube sync, and streaming.",
+  "headline": "Beats in Milton Keynes: Modern Grid Boulevard Energy & Sleek Melodic Trap",
+  "description": "The rapid-growth young cultural capital of Buckinghamshire: clean atmospheric synthesizer pads, punchy contemporary 808s, and smooth pocket grooves for Milton Keynes vocalists.",
+  "popularGenres": [
+    "MK Melodic Trap",
+    "Home Counties Drill",
+    "Sleek Road Rap"
+  ],
+  "subClusters": []
+},
+  "gb/portsmouth-southampton-solent": {
+  "slug": "gb/portsmouth-southampton-solent",
+  "name": "UK – Portsmouth & Solent Maritime (South Coast Naval Docks & Driving Drill)",
+  "flag": "🇬🇧",
+  "currency": "GBP (£) / USD ($)",
+  "currencyCode": "GBP",
+  "gateways": "Faster Payments (UK Bank Transfer), Monzo, Revolut, Starling, Apple Pay, Google Pay, Cards, PayPal",
+  "pro": "PRS for Music / PPL",
+  "proFullName": "PRS for Music (Performing Right Society) / PPL",
+  "proGuide": "Instant commercial clearance valid across all global DSPs.",
+  "headline": "Beats in Portsmouth & Solent: Historic Dockyards, Solent Breeze & Hard Coastal 808s",
+  "description": "Where Britain's naval fleet meets the English Channel: aggressive brass hits, rapid syncopated drill hats, and punchy kicks crafted for Portsmouth, Southampton, and Hampshire MCs.",
+  "popularGenres": [
+    "Solent Coastal Drill",
+    "South Coast Street Rap",
+    "Naval Dockyard 808"
+  ],
+  "subClusters": []
+},
 };

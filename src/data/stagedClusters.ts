@@ -123882,4 +123882,1270 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "1"
   ]
 },
+  {
+  "slug": "central-cee-west-london-drill-banger",
+  "title": "Central Cee West London Melodic Commercial Drill & Guitar Beat",
+  "description": "Chart-topping, globally streamed UK drill instrumental inspired by Central Cee (Doja, Sprinter, Let Go, Obsessed With You, Loading), blending catchy acoustic guitar riffs, vocal chops, and bouncy sliding 808s.",
+  "targetKeywords": [
+    "central cee type beat",
+    "central cee sprinter instrumental",
+    "west london drill beat",
+    "central cee doja beat",
+    "commercial uk drill beat"
+  ],
+  "heroCta": "Buy Central Cee Style Beat (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Lead Commercial Single, Viral TikTok Hit and Radio Airplay Banger",
+  "similarArtists": [
+    "Central Cee",
+    "Dave",
+    "Nemzzz",
+    "Aitch"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Bright Spanish acoustic guitar licks layered with fast syncopated UK drill hats and bouncy, melodic 808 slides.",
+  "idealVocalStyle": "Effortless conversational flow, witty British street slang, catchy melodic hooks, and memorable punchlines.",
+  "suggestedKey": "B Minor / D Minor",
+  "streamingSuitability": "Guaranteed heavy playlist rotation across UK Rap, Who We Be, Hot Hits UK, and global viral charts."
+},
+  {
+  "slug": "digga-d-cgm-pyrex-drill-flow",
+  "title": "Digga D & CGM West London Hard Sliding 808 Pyrex Drill Beat",
+  "description": "Inventive, razor-sharp UK drill instrumental inspired by Digga D and CGM (Woi, Pump 101, Energy, Toxic, Bringing It Back), featuring sinister brass stabs, unpredictable cadences, and deep 808 glides.",
+  "targetKeywords": [
+    "digga d type beat",
+    "cgm type beat",
+    "digga d pump 101 instrumental",
+    "pyrex drill beat london",
+    "hard sliding 808 uk drill"
+  ],
+  "heroCta": "Buy Digga D Style Beat (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hard-Hitting Street Single, Gritty Road Visual and Technical Cypher",
+  "similarArtists": [
+    "Digga D",
+    "Unknown T",
+    "K-Trap",
+    "Headie One"
+  ],
+  "recommendedBpm": "141-144 BPM",
+  "productionTips": "Layer menacing minor brass stabs with aggressive two-octave 808 slides and clipped rimshots.",
+  "idealVocalStyle": "Intricate rhyme schemes, rapid flow switches, satirical punchlines, and commanding West London delivery.",
+  "suggestedKey": "C# Minor / E Minor",
+  "streamingSuitability": "Essential for major drill channels, gym workout playlists, and raw street visualizers."
+},
+  {
+  "slug": "headie-one-edmonton-drill-king",
+  "title": "Headie One King of Drill Cavernous Sub-Bass & Flow Space Beat",
+  "description": "Authoritative, atmospheric drill instrumental inspired by the King of Drill, Headie One (Both, Only You Freestyle, Ain't It Different, Can't Be Us), with cavernous subterranean 808s and spacious hats.",
+  "targetKeywords": [
+    "headie one type beat",
+    "king of drill beat",
+    "headie one both instrumental",
+    "edmonton drill beat london",
+    "cavernous 808 uk drill"
+  ],
+  "heroCta": "Buy Headie One Style Beat (Instant WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Signature Street Anthem, Collaborative Feature Track and Album Milestone",
+  "similarArtists": [
+    "Headie One",
+    "Abra Cadabra",
+    "Bandokay",
+    "K-Trap"
+  ],
+  "recommendedBpm": "140-143 BPM",
+  "productionTips": "Spacious minor synth ambiance leaving ample pocket room for Headie's trademark conversational cadence.",
+  "idealVocalStyle": "Signature staccato ad-libs ('Skeet', 'Told Me Turn'), deliberate vocal pocketing, and street reality rhymes.",
+  "suggestedKey": "G Minor / D Minor",
+  "streamingSuitability": "Dominates UK drill playlists, BBC Radio 1Xtra rotation, and Spotify Rap UK."
+},
+  {
+  "slug": "dave-psychodrama-cinematic-piano-rap",
+  "title": "Dave Psychodrama Poignant Grand Piano & Conscious UK Rap Beat",
+  "description": "Heart-wrenching, cinematic UK hip-hop instrumental inspired by Dave (Psychodrama, We're All Alone In This Together, Black, Starlight, Both Sides of a Smile), with grand acoustic piano arpeggios and poignant strings.",
+  "targetKeywords": [
+    "dave type beat 2024",
+    "dave psychodrama piano beat",
+    "conscious uk rap instrumental",
+    "dave starlight type beat",
+    "cinematic piano rap uk"
+  ],
+  "heroCta": "Buy Dave Style Piano Beat (WAV 24-bit)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Conscious Masterpiece, Cinematic Concept Single and Deep Social Storytelling",
+  "similarArtists": [
+    "Dave",
+    "Ghetts",
+    "Potter Payper",
+    "Stormzy"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "productionTips": "Rich classical grand piano recorded with natural room ambiance, accented by delicate orchestral cellos and subtle 808s.",
+  "idealVocalStyle": "Intellectual, articulate, multi-syllabic rhyming packed with poignant social observations and emotional vulnerability.",
+  "suggestedKey": "F Minor / Ab Major",
+  "streamingSuitability": "Insuperable for album centerpiece tracks, award-winning visuals, and conscious hip-hop playlists."
+},
+  {
+  "slug": "unknown-t-homerton-vocal-bend-drill",
+  "title": "Unknown T Homerton B Deep Baritone & Bouncy East London Drill Beat",
+  "description": "High-octane, rhythmic East London drill instrumental inspired by Unknown T (Homerton B, Squeeze & Clench, Fresh Home, Wonderhorn), featuring deep brass stabs, bouncy swing drums, and low-end rumble.",
+  "targetKeywords": [
+    "unknown t type beat",
+    "homerton b instrumental",
+    "east london drill beat",
+    "bouncy baritone drill beat",
+    "unknown t 808 banger"
+  ],
+  "heroCta": "Buy Unknown T Style Beat (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Energetic Road Track, Club Drill Banger and Dynamic Festival Cypher",
+  "similarArtists": [
+    "Unknown T",
+    "Digga D",
+    "K-Trap",
+    "V9"
+  ],
+  "recommendedBpm": "141-144 BPM",
+  "productionTips": "Skippy hi-hat triplets paired with deep sub-bass glides that complement low vocal frequencies and pitch bends.",
+  "idealVocalStyle": "Deep gravelly baritone delivery, acrobatic rhythm manipulation, vocal pitch bending, and fast cadences.",
+  "suggestedKey": "E Minor",
+  "streamingSuitability": "Massive club and live festival response, heavy bass workout playlists, and viral TikTok rap clips."
+},
+  {
+  "slug": "j-hus-big-borrow-afroswing-roots",
+  "title": "J Hus Father of Afroswing West African Guitar & Dancehall Groove Beat",
+  "description": "Groundbreaking, infectious UK Afroswing instrumental inspired by J Hus (Did You See, Common Sense, Bouff Daddy, Disaster, Militerian), blending warm African highlife guitar licks with dancehall bounce.",
+  "targetKeywords": [
+    "j hus type beat",
+    "uk afroswing instrumental",
+    "j hus did you see type beat",
+    "african highlife guitar drill",
+    "j hus common sense beat"
+  ],
+  "heroCta": "Buy J Hus Afroswing Beat (Instant WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Summer Radio Smash, Afroswing Club Single and Feel-Good Commercial Anthem",
+  "similarArtists": [
+    "J Hus",
+    "Burna Boy",
+    "Kojo Funds",
+    "Young T & Bugsey"
+  ],
+  "recommendedBpm": "104-110 BPM",
+  "productionTips": "Clean syncopated electric guitar rhythms with sweet melodic top-lines over warm, punchy sub-bass.",
+  "idealVocalStyle": "Melodic West African patois delivery, smooth vocal harmonies, and irresistible feel-good swagger.",
+  "suggestedKey": "G Major / E Minor",
+  "streamingSuitability": "Universal cross-genre radio appeal, heavy summer festival rotation, and international playlist domination."
+},
+  {
+  "slug": "clbr-knucks-no-rules-jazz-drill",
+  "title": "Knucks Vintage Jazz Saxophone & Sophisticated UK Drill Fusion Beat",
+  "description": "Sophisticated, critically acclaimed fusion of vintage jazz and UK drill inspired by Knucks (Alpha House, Los Pollos Hermanos, Leon the Professional, Home), with warm sax chops, Rhodes keys, and 808 glides.",
+  "targetKeywords": [
+    "knucks type beat",
+    "jazz drill instrumental",
+    "knucks alpha house beat",
+    "sax sample uk drill beat",
+    "sophisticated drill beat"
+  ],
+  "heroCta": "Buy Knucks Style Jazz Drill (WAV 24-bit)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Artistic Visual Single, Lyrical Masterpiece and Sophisticated Urban Cypher",
+  "similarArtists": [
+    "Knucks",
+    "Loyle Carner",
+    "Dave",
+    "Kojey Radical"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "productionTips": "Warm vinyl-sampled jazz saxophone chops with upright bass undertones transitioning seamlessly into sliding drill 808s.",
+  "idealVocalStyle": "Cool, effortless baritone storytelling, witty cultural metaphors, and relaxed cinematic flow.",
+  "suggestedKey": "C Minor / Eb Major",
+  "streamingSuitability": "Cherished by hip-hop purists, editorial curators, and fans of progressive UK urban music."
+},
+  {
+  "slug": "nemzzz-manchester-relaxed-bounce-trap",
+  "title": "Nemzzz Manchester Relaxed Bouncy Minimalist Flow Beat",
+  "description": "Laid-back, catchy and bouncy Manchester street trap instrumental inspired by Nemzzz (Elevate, 2MS, Escape, FYP), pairing bouncy minimalist synth plucks with nonchalant 130 BPM swing drums.",
+  "targetKeywords": [
+    "nemzzz type beat",
+    "manchester bounce beat",
+    "nemzzz elevate instrumental",
+    "bouncy minimalist trap beat uk",
+    "nemzzz 2ms type beat"
+  ],
+  "heroCta": "Buy Nemzzz Style Beat (WAV + Stems)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Viral TikTok Rap Single, Daily Lifestyle Video and Bouncy Street Track",
+  "similarArtists": [
+    "Nemzzz",
+    "Aitch",
+    "Central Cee",
+    "Meekz"
+  ],
+  "recommendedBpm": "128-134 BPM",
+  "productionTips": "Minimalist staccato synth leads leaving maximum vocal headroom for relaxed, nonchalant delivery pocket.",
+  "idealVocalStyle": "Effortless, conversational cadence, relatable everyday observations, and infectious bouncing flow.",
+  "suggestedKey": "F Minor",
+  "streamingSuitability": "Extreme virality across TikTok, Instagram reels, and fast-growing Spotify UK youth playlists."
+},
+  {
+  "slug": "uk-garage-2step-speed-drill",
+  "title": "UK Garage 2-Step & Speed Garage High-Energy Drill Fusion Beat",
+  "description": "High-octane fusion combining classic British 2-Step UK Garage shuffle rhythms with aggressive modern drill 808s: bouncy syncopated kicks, iconic organ bass stabs, and crisp 138 BPM hi-hat rolls.",
+  "targetKeywords": [
+    "uk garage drill beat",
+    "2step drill instrumental",
+    "speed garage drill fusion",
+    "ukg rap beat london",
+    "uk garage 808 bounce"
+  ],
+  "heroCta": "Buy UKG Drill Beat (Instant WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "Festival Banger, High-Energy Club Anthem and Viral Dance Trend",
+  "similarArtists": [
+    "AJ Tracey",
+    "Conducta",
+    "Sammy Virji",
+    "Central Cee"
+  ],
+  "recommendedBpm": "136-140 BPM",
+  "productionTips": "Skippy syncopated 2-step shuffle percussion layered with punchy M1 organ bass and sliding 808 portamento.",
+  "idealVocalStyle": "Agile cadences, rapid-fire garage delivery, celebratory hooks, and infectious crowd-hyping ad-libs.",
+  "suggestedKey": "A Minor / E Minor",
+  "streamingSuitability": "Guaranteed dancefloor reaction, heavy UK bassline radio support, and electronic crossover success."
+},
+  {
+  "slug": "london-fog-night-bus-atmospheric-drill",
+  "title": "London Fog Rainy Night Bus Dark Atmospheric Cloud Drill Beat",
+  "description": "Cinematic, moody London rainy night bus instrumental: ambient street rain textures, low-pass filtered minor synths, haunting vocal reverbs, and deep sliding sub-bass drops through London fog.",
+  "targetKeywords": [
+    "atmospheric uk drill beat",
+    "london night bus drill beat",
+    "rainy london cloud drill",
+    "dark ambient drill instrumental",
+    "foggy london rap beat"
+  ],
+  "heroCta": "Buy Atmospheric Drill Beat (WAV 24-bit)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Atmospheric Visualizer, Late Night Drive Single and Cinematic Street Film",
+  "similarArtists": [
+    "Unknown T",
+    "Headie One",
+    "Skepta",
+    "Lancey Foux"
+  ],
+  "recommendedBpm": "140-143 BPM",
+  "productionTips": "Wet reverb tails on melancholic synth bells over subterranean 808s and subtle urban vinyl noise.",
+  "idealVocalStyle": "Cold, monotone, introspective verses, atmospheric echoes, and brooding nocturnal delivery.",
+  "suggestedKey": "C# Minor",
+  "streamingSuitability": "High replay value on dark aesthetic visualizers, moody drill compilations, and late-night streams."
+},
+  {
+  "slug": "grime-140-eskibeat-square-wave",
+  "title": "East London 140 BPM Eskibeat Grime & Square-Wave Classic Beat",
+  "description": "Raw, freezing cultural tribute to the founding sound of London Grime (Eskibeat): iconic metallic clicks, icy square-wave synth leads, and aggressive 140 BPM sub-bass honoring Wiley, Dizzee Rascal, and Skepta.",
+  "targetKeywords": [
+    "140 grime instrumental",
+    "eskibeat type beat",
+    "wiley eskibeat grime beat",
+    "classic london grime beat",
+    "140 bpm square wave grime"
+  ],
+  "heroCta": "Buy Eskibeat Grime (WAV + Stems)",
+  "energyLevel": "Maximum",
+  "primaryUse": "High-Voltage Grime Cypher, Classic UK Battle Rap and Radio Clash",
+  "similarArtists": [
+    "Wiley",
+    "Dizzee Rascal",
+    "Skepta",
+    "Jme"
+  ],
+  "recommendedBpm": "140 BPM",
+  "productionTips": "Classic Roland JV-1080 style cold square-wave lead with piercing rimshots and sub-low sine waves.",
+  "idealVocalStyle": "Relentless 140 BPM rapid-fire delivery, classic British grime flows, double-time bars, and energetic wheel-ups.",
+  "suggestedKey": "F Minor",
+  "streamingSuitability": "Revered by grime purists, underground radio clashing, and British urban music history channels."
+},
+  {
+  "slug": "affordable-uk-drill-beats-gbp",
+  "title": "Affordable UK Drill Beats from £25 (Instant Faster Payments & Apple Pay)",
+  "description": "Studio-mastered, untagged UK drill and road rap instrumentals starting from £25 with instantaneous checkout via UK Faster Payments bank transfer, Monzo, Revolut, and Apple Pay in GBP (£).",
+  "targetKeywords": [
+    "affordable uk drill beats gbp",
+    "cheap drill beats uk pounds",
+    "buy uk drill beats monzo revolut",
+    "drill beats under 30 pounds uk"
+  ],
+  "heroCta": "Browse Affordable Drill Beats (from £25)",
+  "energyLevel": "Variable",
+  "primaryUse": "Independent Mixtapes, Emerging British Rappers and Budget Studio Recording",
+  "similarArtists": [
+    "Independent UK Rappers",
+    "SoundCloud & TikTok Artists"
+  ],
+  "recommendedBpm": "138-144 BPM",
+  "productionTips": "Pre-mixed and mastered with clean headroom for home studio condenser mics and quick release.",
+  "idealVocalStyle": "Adaptable across road rap storytelling, rapid drill cadences, and aggressive punchlines.",
+  "suggestedKey": "All Major and Minor Keys",
+  "streamingSuitability": "Commercial license covers up to 100,000 streams on Spotify, Apple Music, and YouTube."
+},
+  {
+  "slug": "commercial-afroswing-beats-wav-stems",
+  "title": "Commercial UK Afroswing Beats with Multitrack Stems (24-Bit WAV Mastered)",
+  "description": "High-end, radio-ready UK Afroswing productions with live-feeling African guitar riffs, dancehall grooves, and full multitrack stem files for precision mixing in major London recording studios.",
+  "targetKeywords": [
+    "commercial afroswing beats wav stems",
+    "uk afroswing instrumental trackout",
+    "buy afroswing stems london",
+    "j hus style afroswing beat wav"
+  ],
+  "heroCta": "Get Afroswing Beats + Stems",
+  "energyLevel": "High",
+  "primaryUse": "Lead Commercial Single, Radio Campaign and High-Budget Music Video",
+  "similarArtists": [
+    "J Hus",
+    "Kojo Funds",
+    "Young T & Bugsey",
+    "Burna Boy"
+  ],
+  "recommendedBpm": "104-112 BPM",
+  "productionTips": "Pristine analog warmth on melodic guitars with punchy dance-oriented kick and bass relationships.",
+  "idealVocalStyle": "Melodic patois cadences, smooth harmonized chorus stacks, and bouncy verses.",
+  "suggestedKey": "G Major / E Minor",
+  "streamingSuitability": "Unlimited streaming and full broadcast clearance on BBC Radio 1, 1Xtra, and Capital XTRA."
+},
+  {
+  "slug": "heavy-sliding-808-drill-beats-london",
+  "title": "Heavy Sliding 808 London Drill Beats (Subterranean Portamento WAV)",
+  "description": "Aggressive, heavyweight London street drill instrumentals featuring multi-octave sliding 808 sub-bass glides, tuned kicks, and sinister minor melodies for serious recording artists.",
+  "targetKeywords": [
+    "heavy sliding 808 drill beats london",
+    "sliding 808 bass drill instrumental",
+    "aggressive london drill beats wav",
+    "deep sub bass drill beat uk"
+  ],
+  "heroCta": "Download Sliding 808 Beats (WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hardcore Drill Single, Street Cyphers and High-Energy Car Audio Demos",
+  "similarArtists": [
+    "Digga D",
+    "Headie One",
+    "K-Trap",
+    "Central Cee"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Precisely tuned 808 portamento bends with harmonic saturation for clear playback on all speaker sizes.",
+  "idealVocalStyle": "Commanding street delivery, confident delivery pocket, and relentless hard-hitting punchlines.",
+  "suggestedKey": "C Minor / E Minor",
+  "streamingSuitability": "Fully cleared for monetization on DSPs, YouTube Content ID, and official music videos."
+},
+  {
+  "slug": "prs-for-music-beat-licensing-agreement-pdf",
+  "title": "PRS for Music & PPL UK Beat Licensing Contract (Instant Signed PDF)",
+  "description": "Legally binding British music producer agreement compliant with UK Copyright, Designs and Patents Act 1988, PRS for Music, and PPL standards: download your signed license and split sheet immediately.",
+  "targetKeywords": [
+    "prs for music beat licensing agreement pdf",
+    "uk producer contract signed pdf",
+    "ppl split sheet beat purchase uk",
+    "music licensing contract uk gbp"
+  ],
+  "heroCta": "View PRS License Agreement (Instant PDF)",
+  "energyLevel": "N/A",
+  "primaryUse": "PRS Registration, Publishing Royalty Splits and Full Commercial Protection",
+  "similarArtists": [
+    "Onzieb",
+    "PRS for Music Registered Songwriters & UK Music Creators"
+  ],
+  "recommendedBpm": "All Tempos",
+  "productionTips": "Formulated under UK copyright law protecting both lyricists and music composers.",
+  "idealVocalStyle": "Valid for all musical genres, vocal recordings, and streaming releases.",
+  "suggestedKey": "All Keys",
+  "streamingSuitability": "Guaranteed legal protection for worldwide commercial DSP distribution, sync, and broadcast."
+},
+  {
+  "slug": "buy-beats-faster-payments-uk",
+  "title": "Buy Beats in the UK with Faster Payments, Monzo & Revolut (GBP £)",
+  "description": "Purchase untagged premium instrumentals seamlessly using UK banking infrastructure: Faster Payments instant bank transfer, Monzo, Revolut, Starling Bank, and Apple Pay in British Pounds (£).",
+  "targetKeywords": [
+    "buy beats faster payments uk",
+    "buy beats monzo revolut starling",
+    "uk beat store gbp bank transfer",
+    "pay for beats in pounds uk"
+  ],
+  "heroCta": "Checkout with Faster Payments / Monzo",
+  "energyLevel": "All Levels",
+  "primaryUse": "Frictionless Instant Checkout for UK Recording Artists and Home Studios",
+  "similarArtists": [
+    "Independent British Recording Artists"
+  ],
+  "recommendedBpm": "80-160 BPM",
+  "productionTips": "Automated immediate file download generation upon payment confirmation in British Pounds.",
+  "idealVocalStyle": "Universal compatibility across drill, road rap, Afroswing, and R&B.",
+  "suggestedKey": "All Keys",
+  "streamingSuitability": "Immediate commercial clearance valid for all global streaming platforms."
+},
+  {
+  "slug": "album-ep-beat-bundles-uk-discount",
+  "title": "5-Beat Album & EP Bundles in the UK (Save 40% in British Pounds £)",
+  "description": "Complete project package for British recording artists crafting a full mixtape, EP, or debut album: select any 5 or 10 instrumentals across the store and save up to 40% with unified licensing.",
+  "targetKeywords": [
+    "album ep beat bundles uk discount",
+    "5 beat bundle discount uk gbp",
+    "buy bulk rap beats london birmingham",
+    "album instrumental package pounds uk"
+  ],
+  "heroCta": "Claim 5-Beat Album Bundle (40% Off)",
+  "energyLevel": "Variable",
+  "primaryUse": "Full Project Production, Cohesive Direction and Regular Track Releases",
+  "similarArtists": [
+    "Independent UK Rappers and Music Collectives"
+  ],
+  "recommendedBpm": "85-145 BPM",
+  "productionTips": "Harmonically curated diversity ensuring smooth narrative progression throughout your mixtape.",
+  "idealVocalStyle": "Comprehensive canvas for showcasing an artist's complete vocal dynamic range.",
+  "suggestedKey": "Cohesive Keys",
+  "streamingSuitability": "Single unified commercial license covering all tracks on your EP simultaneously."
+},
+  {
+  "slug": "custom-drill-producer-uk-whatsapp",
+  "title": "Exclusive Custom Drill & Rap Production for UK Artists (Producer Onzieb)",
+  "description": "Collaborate directly with music producer Onzieb via WhatsApp for bespoke custom beat making, key transposition, stem arrangement, and tailor-made drill productions engineered for your voice.",
+  "targetKeywords": [
+    "custom drill producer uk whatsapp",
+    "onzieb producer london birmingham",
+    "hire custom drill producer uk",
+    "bespoke beatmaker uk whatsapp"
+  ],
+  "heroCta": "Chat with Onzieb on WhatsApp",
+  "energyLevel": "Custom",
+  "primaryUse": "Bespoke Lead Singles, Label Pitching and Custom Signature Sound Identity",
+  "similarArtists": [
+    "Onzieb",
+    "Leading UK Urban Producers"
+  ],
+  "recommendedBpm": "Tailored to artist breathing and cadence",
+  "productionTips": "Real-time arrangement adjustments and stem revisions through WhatsApp voice notes and secure files.",
+  "idealVocalStyle": "Custom tuned to match the exact timbre, power, and pocket of your vocal delivery.",
+  "suggestedKey": "Personalized Key",
+  "streamingSuitability": "Direct exclusive contracts with 100% master ownership and global monetization."
+},
+  {
+  "slug": "melodic-acoustic-guitar-drill-beats",
+  "title": "Melodic Acoustic Guitar UK Drill Beats (Catchy Crossover Single WAV)",
+  "description": "Chart-friendly, melodic UK drill instrumentals pairing warm Spanish acoustic nylon guitars with hard sliding 808s and syncopated drill hats inspired by Central Cee and Dave.",
+  "targetKeywords": [
+    "melodic acoustic guitar drill beats",
+    "guitar uk drill type beat",
+    "catchy guitar drill instrumental",
+    "central cee style guitar beat"
+  ],
+  "heroCta": "Listen to Melodic Guitar Drill (WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Viral Summer Single, Radio-Ready Commercial Drill and TikTok Reel Audio",
+  "similarArtists": [
+    "Central Cee",
+    "Dave",
+    "Aitch",
+    "ArrDee"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Acoustic guitar loops with warm low-mid saturation layered over punchy, bouncing drill 808s.",
+  "idealVocalStyle": "Catchy melodic hooks, relatable street observations, and smooth conversational cadences.",
+  "suggestedKey": "B Minor / D Minor / G Minor",
+  "streamingSuitability": "Massive viral replay potential across TikTok, Spotify Top Hits UK, and urban radio."
+},
+  {
+  "slug": "jazz-sampled-uk-drill-beats-wav",
+  "title": "Jazz-Sampled UK Drill Beats with Saxophone & Piano (Knucks Sound)",
+  "description": "Sophisticated, organic UK drill beats featuring warm vintage saxophone samples, smoky upright Rhodes chords, and smooth 808 glides crafted for thoughtful, conscious lyricists.",
+  "targetKeywords": [
+    "jazz sampled uk drill beats wav",
+    "sax sample drill beat london",
+    "knucks style jazz drill instrumental",
+    "sophisticated jazz drill beat"
+  ],
+  "heroCta": "Explore Jazz-Sampled Drill Beats",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Artistic Video Single, Narrative Masterpiece and Classic Urban Cypher",
+  "similarArtists": [
+    "Knucks",
+    "Loyle Carner",
+    "Dave",
+    "Kojey Radical"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "productionTips": "Vintage vinyl texture and micro-chopped brass chords underpinned by subtle, flowing 808 portamento.",
+  "idealVocalStyle": "Laid-back, sophisticated delivery, clever metaphors, and smooth cinematic flow.",
+  "suggestedKey": "C Minor / Eb Major",
+  "streamingSuitability": "High editorial appeal across conscious rap playlists, music blogs, and indie festivals."
+},
+  {
+  "slug": "free-uk-drill-drum-kit-wav-samples",
+  "title": "Free UK Drill Drum Kit (24-Bit WAV Samples, Sliding 808s & Rimshots)",
+  "description": "Download our complimentary UK producer sound pack featuring 25 tuned sliding 808 bass hits, punchy drill kicks, sharp metallic rimshots, and skippy hi-hat loops in 24-bit studio WAV format.",
+  "targetKeywords": [
+    "free uk drill drum kit wav samples",
+    "uk drill sample pack free download",
+    "sliding 808 samples free uk",
+    "drill sound pack fl studio free"
+  ],
+  "heroCta": "Download Free UK Drill Kit (ZIP)",
+  "energyLevel": "High",
+  "primaryUse": "DAW Beatmaking in FL Studio, Logic Pro, and Ableton Live",
+  "similarArtists": [
+    "UK Bedroom Beatmakers",
+    "Emerging Urban Producers"
+  ],
+  "recommendedBpm": "Compatible with all tempos",
+  "productionTips": "100% royalty-free authentic drill one-shots pre-mastered with peak transient punch.",
+  "idealVocalStyle": "Foundational drum elements for producing radio-quality UK urban tracks.",
+  "suggestedKey": "Tuned to C for instant pitch mapping",
+  "streamingSuitability": "Royalty-free for commercial music releases, beat leasing, and DSP streaming."
+},
+  {
+  "slug": "london-south-uk-drill-808",
+  "name": "South London UK Drill 808 Beats",
+  "category": "scene",
+  "badge": "South London UK Drill",
+  "headline": "South London (Brixton, Peckham & Lewisham Drill Cradle) UK Drill 808 Beats: 24-Bit WAV Beats & Faster Payments Checkout",
+  "description": "Heavy multi-octave sliding 808 sub-bass, minor synths, and rapid syncopated drill hats engineered for MCs in South London.",
+  "targetArtists": [
+    "Artists from South London",
+    "UK Rap Community",
+    "British Urban Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "South London",
+    "UK Drill",
+    "Faster Payments & Monzo (GBP £)",
+    "PRS for Music Compliant"
+  ],
+  "popularGenres": [
+    "UK Drill 808 Beats",
+    "UK Drill",
+    "Afroswing"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "london-south-london-street-rap",
+  "name": "South London London Street Road Rap Beats",
+  "category": "scene",
+  "badge": "South London Road Rap",
+  "headline": "South London (Brixton, Peckham & Lewisham Drill Cradle) London Street Road Rap Beats: 24-Bit WAV Beats & Faster Payments Checkout",
+  "description": "Soulful minor grand pianos, heavyweight analog kicks, and gritty street storytelling space for lyricists in South London.",
+  "targetArtists": [
+    "Artists from South London",
+    "UK Rap Community",
+    "British Urban Scene"
+  ],
+  "recommendedBpm": "88-94 / 130 BPM",
+  "recommendedKey": "F-Minor / A-Minor",
+  "vibeAttributes": [
+    "South London",
+    "Road Rap",
+    "Faster Payments & Monzo (GBP £)",
+    "PRS for Music Compliant"
+  ],
+  "popularGenres": [
+    "London Street Road Rap Beats",
+    "UK Drill",
+    "Afroswing"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "london-south-uk-afroswing-bounce",
+  "name": "South London UK Afroswing Bounce Beats",
+  "category": "scene",
+  "badge": "South London Afroswing",
+  "headline": "South London (Brixton, Peckham & Lewisham Drill Cradle) UK Afroswing Bounce Beats: 24-Bit WAV Beats & Faster Payments Checkout",
+  "description": "West African guitar riffs, dancehall pocket swing, and bouncy 808s crafted for melodic vocalists in South London.",
+  "targetArtists": [
+    "Artists from South London",
+    "UK Rap Community",
+    "British Urban Scene"
+  ],
+  "recommendedBpm": "104-112 BPM",
+  "recommendedKey": "G-Major / E-Minor",
+  "vibeAttributes": [
+    "South London",
+    "Afroswing",
+    "Faster Payments & Monzo (GBP £)",
+    "PRS for Music Compliant"
+  ],
+  "popularGenres": [
+    "UK Afroswing Bounce Beats",
+    "UK Drill",
+    "Afroswing"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "london-south-classic-grime-140",
+  "name": "South London Classic Grime 140 BPM Beats",
+  "category": "scene",
+  "badge": "South London Grime 140",
+  "headline": "South London (Brixton, Peckham & Lewisham Drill Cradle) Classic Grime 140 BPM Beats: 24-Bit WAV Beats & Faster Payments Checkout",
+  "description": "Freezing square-wave synth plucks, fast syncopated claps, and aggressive rave sub-bass for MCs in South London.",
+  "targetArtists": [
+    "Artists from South London",
+    "UK Rap Community",
+    "British Urban Scene"
+  ],
+  "recommendedBpm": "140 BPM",
+  "recommendedKey": "F-Minor / B-Minor",
+  "vibeAttributes": [
+    "South London",
+    "Grime 140",
+    "Faster Payments & Monzo (GBP £)",
+    "PRS for Music Compliant"
+  ],
+  "popularGenres": [
+    "Classic Grime 140 BPM Beats",
+    "UK Drill",
+    "Afroswing"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "london-east-uk-drill-808",
+  "name": "East London UK Drill 808 Beats",
+  "category": "scene",
+  "badge": "East London UK Drill",
+  "headline": "East London (Stratford, Newham & Afroswing Epicenter) UK Drill 808 Beats: 24-Bit WAV Beats & Faster Payments Checkout",
+  "description": "Heavy multi-octave sliding 808 sub-bass, minor synths, and rapid syncopated drill hats engineered for MCs in East London.",
+  "targetArtists": [
+    "Artists from East London",
+    "UK Rap Community",
+    "British Urban Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "East London",
+    "UK Drill",
+    "Faster Payments & Monzo (GBP £)",
+    "PRS for Music Compliant"
+  ],
+  "popularGenres": [
+    "UK Drill 808 Beats",
+    "UK Drill",
+    "Afroswing"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "london-east-london-street-rap",
+  "name": "East London London Street Road Rap Beats",
+  "category": "scene",
+  "badge": "East London Road Rap",
+  "headline": "East London (Stratford, Newham & Afroswing Epicenter) London Street Road Rap Beats: 24-Bit WAV Beats & Faster Payments Checkout",
+  "description": "Soulful minor grand pianos, heavyweight analog kicks, and gritty street storytelling space for lyricists in East London.",
+  "targetArtists": [
+    "Artists from East London",
+    "UK Rap Community",
+    "British Urban Scene"
+  ],
+  "recommendedBpm": "88-94 / 130 BPM",
+  "recommendedKey": "F-Minor / A-Minor",
+  "vibeAttributes": [
+    "East London",
+    "Road Rap",
+    "Faster Payments & Monzo (GBP £)",
+    "PRS for Music Compliant"
+  ],
+  "popularGenres": [
+    "London Street Road Rap Beats",
+    "UK Drill",
+    "Afroswing"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "london-east-uk-afroswing-bounce",
+  "name": "East London UK Afroswing Bounce Beats",
+  "category": "scene",
+  "badge": "East London Afroswing",
+  "headline": "East London (Stratford, Newham & Afroswing Epicenter) UK Afroswing Bounce Beats: 24-Bit WAV Beats & Faster Payments Checkout",
+  "description": "West African guitar riffs, dancehall pocket swing, and bouncy 808s crafted for melodic vocalists in East London.",
+  "targetArtists": [
+    "Artists from East London",
+    "UK Rap Community",
+    "British Urban Scene"
+  ],
+  "recommendedBpm": "104-112 BPM",
+  "recommendedKey": "G-Major / E-Minor",
+  "vibeAttributes": [
+    "East London",
+    "Afroswing",
+    "Faster Payments & Monzo (GBP £)",
+    "PRS for Music Compliant"
+  ],
+  "popularGenres": [
+    "UK Afroswing Bounce Beats",
+    "UK Drill",
+    "Afroswing"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "london-east-classic-grime-140",
+  "name": "East London Classic Grime 140 BPM Beats",
+  "category": "scene",
+  "badge": "East London Grime 140",
+  "headline": "East London (Stratford, Newham & Afroswing Epicenter) Classic Grime 140 BPM Beats: 24-Bit WAV Beats & Faster Payments Checkout",
+  "description": "Freezing square-wave synth plucks, fast syncopated claps, and aggressive rave sub-bass for MCs in East London.",
+  "targetArtists": [
+    "Artists from East London",
+    "UK Rap Community",
+    "British Urban Scene"
+  ],
+  "recommendedBpm": "140 BPM",
+  "recommendedKey": "F-Minor / B-Minor",
+  "vibeAttributes": [
+    "East London",
+    "Grime 140",
+    "Faster Payments & Monzo (GBP £)",
+    "PRS for Music Compliant"
+  ],
+  "popularGenres": [
+    "Classic Grime 140 BPM Beats",
+    "UK Drill",
+    "Afroswing"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "london-north-uk-drill-808",
+  "name": "North London UK Drill 808 Beats",
+  "category": "scene",
+  "badge": "North London UK Drill",
+  "headline": "North London (Tottenham & Edmonton OFB Legacy) UK Drill 808 Beats: 24-Bit WAV Beats & Faster Payments Checkout",
+  "description": "Heavy multi-octave sliding 808 sub-bass, minor synths, and rapid syncopated drill hats engineered for MCs in North London.",
+  "targetArtists": [
+    "Artists from North London",
+    "UK Rap Community",
+    "British Urban Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "North London",
+    "UK Drill",
+    "Faster Payments & Monzo (GBP £)",
+    "PRS for Music Compliant"
+  ],
+  "popularGenres": [
+    "UK Drill 808 Beats",
+    "UK Drill",
+    "Afroswing"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "london-north-london-street-rap",
+  "name": "North London London Street Road Rap Beats",
+  "category": "scene",
+  "badge": "North London Road Rap",
+  "headline": "North London (Tottenham & Edmonton OFB Legacy) London Street Road Rap Beats: 24-Bit WAV Beats & Faster Payments Checkout",
+  "description": "Soulful minor grand pianos, heavyweight analog kicks, and gritty street storytelling space for lyricists in North London.",
+  "targetArtists": [
+    "Artists from North London",
+    "UK Rap Community",
+    "British Urban Scene"
+  ],
+  "recommendedBpm": "88-94 / 130 BPM",
+  "recommendedKey": "F-Minor / A-Minor",
+  "vibeAttributes": [
+    "North London",
+    "Road Rap",
+    "Faster Payments & Monzo (GBP £)",
+    "PRS for Music Compliant"
+  ],
+  "popularGenres": [
+    "London Street Road Rap Beats",
+    "UK Drill",
+    "Afroswing"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "london-north-uk-afroswing-bounce",
+  "name": "North London UK Afroswing Bounce Beats",
+  "category": "scene",
+  "badge": "North London Afroswing",
+  "headline": "North London (Tottenham & Edmonton OFB Legacy) UK Afroswing Bounce Beats: 24-Bit WAV Beats & Faster Payments Checkout",
+  "description": "West African guitar riffs, dancehall pocket swing, and bouncy 808s crafted for melodic vocalists in North London.",
+  "targetArtists": [
+    "Artists from North London",
+    "UK Rap Community",
+    "British Urban Scene"
+  ],
+  "recommendedBpm": "104-112 BPM",
+  "recommendedKey": "G-Major / E-Minor",
+  "vibeAttributes": [
+    "North London",
+    "Afroswing",
+    "Faster Payments & Monzo (GBP £)",
+    "PRS for Music Compliant"
+  ],
+  "popularGenres": [
+    "UK Afroswing Bounce Beats",
+    "UK Drill",
+    "Afroswing"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "london-north-classic-grime-140",
+  "name": "North London Classic Grime 140 BPM Beats",
+  "category": "scene",
+  "badge": "North London Grime 140",
+  "headline": "North London (Tottenham & Edmonton OFB Legacy) Classic Grime 140 BPM Beats: 24-Bit WAV Beats & Faster Payments Checkout",
+  "description": "Freezing square-wave synth plucks, fast syncopated claps, and aggressive rave sub-bass for MCs in North London.",
+  "targetArtists": [
+    "Artists from North London",
+    "UK Rap Community",
+    "British Urban Scene"
+  ],
+  "recommendedBpm": "140 BPM",
+  "recommendedKey": "F-Minor / B-Minor",
+  "vibeAttributes": [
+    "North London",
+    "Grime 140",
+    "Faster Payments & Monzo (GBP £)",
+    "PRS for Music Compliant"
+  ],
+  "popularGenres": [
+    "Classic Grime 140 BPM Beats",
+    "UK Drill",
+    "Afroswing"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "london-west-uk-drill-808",
+  "name": "West London UK Drill 808 Beats",
+  "category": "scene",
+  "badge": "West London UK Drill",
+  "headline": "West London (Ladbroke Grove & Commercial Trap Hub) UK Drill 808 Beats: 24-Bit WAV Beats & Faster Payments Checkout",
+  "description": "Heavy multi-octave sliding 808 sub-bass, minor synths, and rapid syncopated drill hats engineered for MCs in West London.",
+  "targetArtists": [
+    "Artists from West London",
+    "UK Rap Community",
+    "British Urban Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "West London",
+    "UK Drill",
+    "Faster Payments & Monzo (GBP £)",
+    "PRS for Music Compliant"
+  ],
+  "popularGenres": [
+    "UK Drill 808 Beats",
+    "UK Drill",
+    "Afroswing"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "london-west-london-street-rap",
+  "name": "West London London Street Road Rap Beats",
+  "category": "scene",
+  "badge": "West London Road Rap",
+  "headline": "West London (Ladbroke Grove & Commercial Trap Hub) London Street Road Rap Beats: 24-Bit WAV Beats & Faster Payments Checkout",
+  "description": "Soulful minor grand pianos, heavyweight analog kicks, and gritty street storytelling space for lyricists in West London.",
+  "targetArtists": [
+    "Artists from West London",
+    "UK Rap Community",
+    "British Urban Scene"
+  ],
+  "recommendedBpm": "88-94 / 130 BPM",
+  "recommendedKey": "F-Minor / A-Minor",
+  "vibeAttributes": [
+    "West London",
+    "Road Rap",
+    "Faster Payments & Monzo (GBP £)",
+    "PRS for Music Compliant"
+  ],
+  "popularGenres": [
+    "London Street Road Rap Beats",
+    "UK Drill",
+    "Afroswing"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "london-west-uk-afroswing-bounce",
+  "name": "West London UK Afroswing Bounce Beats",
+  "category": "scene",
+  "badge": "West London Afroswing",
+  "headline": "West London (Ladbroke Grove & Commercial Trap Hub) UK Afroswing Bounce Beats: 24-Bit WAV Beats & Faster Payments Checkout",
+  "description": "West African guitar riffs, dancehall pocket swing, and bouncy 808s crafted for melodic vocalists in West London.",
+  "targetArtists": [
+    "Artists from West London",
+    "UK Rap Community",
+    "British Urban Scene"
+  ],
+  "recommendedBpm": "104-112 BPM",
+  "recommendedKey": "G-Major / E-Minor",
+  "vibeAttributes": [
+    "West London",
+    "Afroswing",
+    "Faster Payments & Monzo (GBP £)",
+    "PRS for Music Compliant"
+  ],
+  "popularGenres": [
+    "UK Afroswing Bounce Beats",
+    "UK Drill",
+    "Afroswing"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "london-west-classic-grime-140",
+  "name": "West London Classic Grime 140 BPM Beats",
+  "category": "scene",
+  "badge": "West London Grime 140",
+  "headline": "West London (Ladbroke Grove & Commercial Trap Hub) Classic Grime 140 BPM Beats: 24-Bit WAV Beats & Faster Payments Checkout",
+  "description": "Freezing square-wave synth plucks, fast syncopated claps, and aggressive rave sub-bass for MCs in West London.",
+  "targetArtists": [
+    "Artists from West London",
+    "UK Rap Community",
+    "British Urban Scene"
+  ],
+  "recommendedBpm": "140 BPM",
+  "recommendedKey": "F-Minor / B-Minor",
+  "vibeAttributes": [
+    "West London",
+    "Grime 140",
+    "Faster Payments & Monzo (GBP £)",
+    "PRS for Music Compliant"
+  ],
+  "popularGenres": [
+    "Classic Grime 140 BPM Beats",
+    "UK Drill",
+    "Afroswing"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "bradford-uk-drill-808",
+  "name": "Bradford UK Drill 808 Beats",
+  "category": "scene",
+  "badge": "Bradford UK Drill",
+  "headline": "Bradford (West Yorkshire & Bassline Energy) UK Drill 808 Beats: 24-Bit WAV Beats & Faster Payments Checkout",
+  "description": "Heavy multi-octave sliding 808 sub-bass, minor synths, and rapid syncopated drill hats engineered for MCs in Bradford.",
+  "targetArtists": [
+    "Artists from Bradford",
+    "UK Rap Community",
+    "British Urban Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Bradford",
+    "UK Drill",
+    "Faster Payments & Monzo (GBP £)",
+    "PRS for Music Compliant"
+  ],
+  "popularGenres": [
+    "UK Drill 808 Beats",
+    "UK Drill",
+    "Afroswing"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "bradford-london-street-rap",
+  "name": "Bradford London Street Road Rap Beats",
+  "category": "scene",
+  "badge": "Bradford Road Rap",
+  "headline": "Bradford (West Yorkshire & Bassline Energy) London Street Road Rap Beats: 24-Bit WAV Beats & Faster Payments Checkout",
+  "description": "Soulful minor grand pianos, heavyweight analog kicks, and gritty street storytelling space for lyricists in Bradford.",
+  "targetArtists": [
+    "Artists from Bradford",
+    "UK Rap Community",
+    "British Urban Scene"
+  ],
+  "recommendedBpm": "88-94 / 130 BPM",
+  "recommendedKey": "F-Minor / A-Minor",
+  "vibeAttributes": [
+    "Bradford",
+    "Road Rap",
+    "Faster Payments & Monzo (GBP £)",
+    "PRS for Music Compliant"
+  ],
+  "popularGenres": [
+    "London Street Road Rap Beats",
+    "UK Drill",
+    "Afroswing"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "bradford-uk-afroswing-bounce",
+  "name": "Bradford UK Afroswing Bounce Beats",
+  "category": "scene",
+  "badge": "Bradford Afroswing",
+  "headline": "Bradford (West Yorkshire & Bassline Energy) UK Afroswing Bounce Beats: 24-Bit WAV Beats & Faster Payments Checkout",
+  "description": "West African guitar riffs, dancehall pocket swing, and bouncy 808s crafted for melodic vocalists in Bradford.",
+  "targetArtists": [
+    "Artists from Bradford",
+    "UK Rap Community",
+    "British Urban Scene"
+  ],
+  "recommendedBpm": "104-112 BPM",
+  "recommendedKey": "G-Major / E-Minor",
+  "vibeAttributes": [
+    "Bradford",
+    "Afroswing",
+    "Faster Payments & Monzo (GBP £)",
+    "PRS for Music Compliant"
+  ],
+  "popularGenres": [
+    "UK Afroswing Bounce Beats",
+    "UK Drill",
+    "Afroswing"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "bradford-classic-grime-140",
+  "name": "Bradford Classic Grime 140 BPM Beats",
+  "category": "scene",
+  "badge": "Bradford Grime 140",
+  "headline": "Bradford (West Yorkshire & Bassline Energy) Classic Grime 140 BPM Beats: 24-Bit WAV Beats & Faster Payments Checkout",
+  "description": "Freezing square-wave synth plucks, fast syncopated claps, and aggressive rave sub-bass for MCs in Bradford.",
+  "targetArtists": [
+    "Artists from Bradford",
+    "UK Rap Community",
+    "British Urban Scene"
+  ],
+  "recommendedBpm": "140 BPM",
+  "recommendedKey": "F-Minor / B-Minor",
+  "vibeAttributes": [
+    "Bradford",
+    "Grime 140",
+    "Faster Payments & Monzo (GBP £)",
+    "PRS for Music Compliant"
+  ],
+  "popularGenres": [
+    "Classic Grime 140 BPM Beats",
+    "UK Drill",
+    "Afroswing"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "aberdeen-uk-drill-808",
+  "name": "Aberdeen UK Drill 808 Beats",
+  "category": "scene",
+  "badge": "Aberdeen UK Drill",
+  "headline": "Aberdeen (Granite City & North Sea Scottish Drill) UK Drill 808 Beats: 24-Bit WAV Beats & Faster Payments Checkout",
+  "description": "Heavy multi-octave sliding 808 sub-bass, minor synths, and rapid syncopated drill hats engineered for MCs in Aberdeen.",
+  "targetArtists": [
+    "Artists from Aberdeen",
+    "UK Rap Community",
+    "British Urban Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Aberdeen",
+    "UK Drill",
+    "Faster Payments & Monzo (GBP £)",
+    "PRS for Music Compliant"
+  ],
+  "popularGenres": [
+    "UK Drill 808 Beats",
+    "UK Drill",
+    "Afroswing"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "aberdeen-london-street-rap",
+  "name": "Aberdeen London Street Road Rap Beats",
+  "category": "scene",
+  "badge": "Aberdeen Road Rap",
+  "headline": "Aberdeen (Granite City & North Sea Scottish Drill) London Street Road Rap Beats: 24-Bit WAV Beats & Faster Payments Checkout",
+  "description": "Soulful minor grand pianos, heavyweight analog kicks, and gritty street storytelling space for lyricists in Aberdeen.",
+  "targetArtists": [
+    "Artists from Aberdeen",
+    "UK Rap Community",
+    "British Urban Scene"
+  ],
+  "recommendedBpm": "88-94 / 130 BPM",
+  "recommendedKey": "F-Minor / A-Minor",
+  "vibeAttributes": [
+    "Aberdeen",
+    "Road Rap",
+    "Faster Payments & Monzo (GBP £)",
+    "PRS for Music Compliant"
+  ],
+  "popularGenres": [
+    "London Street Road Rap Beats",
+    "UK Drill",
+    "Afroswing"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "aberdeen-uk-afroswing-bounce",
+  "name": "Aberdeen UK Afroswing Bounce Beats",
+  "category": "scene",
+  "badge": "Aberdeen Afroswing",
+  "headline": "Aberdeen (Granite City & North Sea Scottish Drill) UK Afroswing Bounce Beats: 24-Bit WAV Beats & Faster Payments Checkout",
+  "description": "West African guitar riffs, dancehall pocket swing, and bouncy 808s crafted for melodic vocalists in Aberdeen.",
+  "targetArtists": [
+    "Artists from Aberdeen",
+    "UK Rap Community",
+    "British Urban Scene"
+  ],
+  "recommendedBpm": "104-112 BPM",
+  "recommendedKey": "G-Major / E-Minor",
+  "vibeAttributes": [
+    "Aberdeen",
+    "Afroswing",
+    "Faster Payments & Monzo (GBP £)",
+    "PRS for Music Compliant"
+  ],
+  "popularGenres": [
+    "UK Afroswing Bounce Beats",
+    "UK Drill",
+    "Afroswing"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "aberdeen-classic-grime-140",
+  "name": "Aberdeen Classic Grime 140 BPM Beats",
+  "category": "scene",
+  "badge": "Aberdeen Grime 140",
+  "headline": "Aberdeen (Granite City & North Sea Scottish Drill) Classic Grime 140 BPM Beats: 24-Bit WAV Beats & Faster Payments Checkout",
+  "description": "Freezing square-wave synth plucks, fast syncopated claps, and aggressive rave sub-bass for MCs in Aberdeen.",
+  "targetArtists": [
+    "Artists from Aberdeen",
+    "UK Rap Community",
+    "British Urban Scene"
+  ],
+  "recommendedBpm": "140 BPM",
+  "recommendedKey": "F-Minor / B-Minor",
+  "vibeAttributes": [
+    "Aberdeen",
+    "Grime 140",
+    "Faster Payments & Monzo (GBP £)",
+    "PRS for Music Compliant"
+  ],
+  "popularGenres": [
+    "Classic Grime 140 BPM Beats",
+    "UK Drill",
+    "Afroswing"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
 ];
