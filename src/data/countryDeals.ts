@@ -41058,4 +41058,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "ma/casablanca-anfa-maarif": {
+  "slug": "ma/casablanca-anfa-maarif",
+  "name": "Morocco – Casablanca: Anfa, Maârif & Corniche (Economic Engine & Arab Rap Epicenter)",
+  "flag": "🇲🇦",
+  "currency": "MAD (د.م.) / USD ($)",
+  "currencyCode": "MAD",
+  "gateways": "CMI (Centre Monétique Interbancaire), Wafacash, Cash Plus, Inwi Money, Orange Money Maroc, MT Cash, Apple Pay, Cards, PayPal",
+  "pro": "BMDA / SACEM",
+  "proFullName": "BMDA (Bureau Marocain du Droit d'Auteur / المكتب المغربي لحقوق المؤلفين) / SACEM",
+  "proGuide": "100% compliant with Moroccan Copyright Law No. 2-00 and SACEM international licensing with instant PDF contract.",
+  "headline": "Beats in Casablanca: Anfa Modern Skyline, Maârif Streets & Moroccan Trap 808s",
+  "description": "The undisputed capital of Moroccan hip-hop and Arab urban culture: hard sliding 808s, dark nocturnal piano arpeggios, and infectious Darija bounce for artists across Casablanca, Anfa, and Maârif.",
+  "popularGenres": [
+    "Moroccan Trap",
+    "Casablanca Street Drill",
+    "Darija Melodic Rap"
+  ],
+  "subClusters": []
+},
+  "ma/casablanca-derb-sultan-hay-mohammadi": {
+  "slug": "ma/casablanca-derb-sultan-hay-mohammadi",
+  "name": "Morocco – Casablanca: Derb Sultan & Hay Mohammadi (Historic Street Roots & Nass El Ghiwane Heritage)",
+  "flag": "🇲🇦",
+  "currency": "MAD (د.م.) / USD ($)",
+  "currencyCode": "MAD",
+  "gateways": "CMI (Centre Monétique Interbancaire), Wafacash, Cash Plus, Inwi Money, Orange Money Maroc, MT Cash, Apple Pay, Cards, PayPal",
+  "pro": "BMDA / SACEM",
+  "proFullName": "BMDA (Bureau Marocain du Droit d'Auteur / المكتب المغربي لحقوق المؤلفين) / SACEM",
+  "proGuide": "Pristine 24-bit studio WAV delivery with separated multitrack stem files.",
+  "headline": "Beats in Derb Sultan: Hay Mohammadi Soul, Raw Working-Class Energy & Heavy 808s",
+  "description": "The cradle of Moroccan resistance poetry and street authenticity: punchy kicks, dusty vintage sample flips, and relentless sub-bass crafted for raw lyrical storytellers in Derb Sultan and Hay Mohammadi.",
+  "popularGenres": [
+    "Underground Boom Bap",
+    "Street Reality Trap",
+    "Conscious Rap"
+  ],
+  "subClusters": []
+},
+  "ma/rabat-agdal-hassan": {
+  "slug": "ma/rabat-agdal-hassan",
+  "name": "Morocco – Rabat: Agdal, Hassan & Souissi (Administrative Capital & Melodic R&B-Trap)",
+  "flag": "🇲🇦",
+  "currency": "MAD (د.م.) / USD ($)",
+  "currencyCode": "MAD",
+  "gateways": "CMI (Centre Monétique Interbancaire), Wafacash, Cash Plus, Inwi Money, Orange Money Maroc, MT Cash, Apple Pay, Cards, PayPal",
+  "pro": "BMDA / SACEM",
+  "proFullName": "BMDA (Bureau Marocain du Droit d'Auteur / المكتب المغربي لحقوق المؤلفين) / SACEM",
+  "proGuide": "100% royalty-free clearance on master recordings with commercial licensing.",
+  "headline": "Beats in Rabat: Bouregreg Valley Breeze, Hassan Tower Heritage & Polished Trap",
+  "description": "The sophisticated diplomatic and administrative heart of the Kingdom: lush Rhodes chords, warm acoustic guitars, and polished contemporary R&B-trap bounce for recording artists in Agdal and Rabat.",
+  "popularGenres": [
+    "Rabat Melodic Trap",
+    "Francophone R&B-Rap",
+    "Bouregreg Chillhop"
+  ],
+  "subClusters": []
+},
+  "ma/marrakech-gueliz-medina": {
+  "slug": "ma/marrakech-gueliz-medina",
+  "name": "Morocco – Marrakech: Gueliz, Hivernage & Medina (Red City Luxury & Desert Sunset Trap)",
+  "flag": "🇲🇦",
+  "currency": "MAD (د.م.) / USD ($)",
+  "currencyCode": "MAD",
+  "gateways": "CMI (Centre Monétique Interbancaire), Wafacash, Cash Plus, Inwi Money, Orange Money Maroc, MT Cash, Apple Pay, Cards, PayPal",
+  "pro": "BMDA / SACEM",
+  "proFullName": "BMDA (Bureau Marocain du Droit d'Auteur / المكتب المغربي لحقوق المؤلفين) / SACEM",
+  "proGuide": "Worldwide digital monetization rights for Spotify, Apple Music, Anghami, Deezer, and YouTube.",
+  "headline": "Beats in Marrakech: Red City Ochre Walls, Hivernage Nightlife & Hypnotic 808s",
+  "description": "Where ancient desert caravans meet international nightlife: hypnotic acoustic Oud melodies, Gnawa castanet grooves, and club-shaking 808s crafted for Marrakech, Gueliz, and Hivernage artists.",
+  "popularGenres": [
+    "Marrakech Desert Trap",
+    "Oriental Club Bounce",
+    "Gnawa Fusion Beat"
+  ],
+  "subClusters": []
+},
+  "ma/tangier-med-corniche": {
+  "slug": "ma/tangier-med-corniche",
+  "name": "Morocco – Tangier: Corniche & Malabata (Strait of Gibraltar & Mediterranean Drill)",
+  "flag": "🇲🇦",
+  "currency": "MAD (د.م.) / USD ($)",
+  "currencyCode": "MAD",
+  "gateways": "CMI (Centre Monétique Interbancaire), Wafacash, Cash Plus, Inwi Money, Orange Money Maroc, MT Cash, Apple Pay, Cards, PayPal",
+  "pro": "BMDA / SACEM",
+  "proFullName": "BMDA (Bureau Marocain du Droit d'Auteur / المكتب المغربي لحقوق المؤلفين) / SACEM",
+  "proGuide": "Instant CMI card, Wafacash, and Cash Plus checkout in MAD (د.م.) with immediate file download.",
+  "headline": "Beats in Tangier: Strait of Gibraltar Winds, European Gateway & Cold Coastal Drill",
+  "description": "The maritime gateway looking out across the Mediterranean to Spain: cold minor synth leads, fast drill hi-hats, and heavy sliding 808s representing Tangier, Malabata, and northern street culture.",
+  "popularGenres": [
+    "Tangier Mediterranean Drill",
+    "Spanish-Moroccan Trap",
+    "Strait Rap"
+  ],
+  "subClusters": []
+},
+  "ma/fes-medina-saiss": {
+  "slug": "ma/fes-medina-saiss",
+  "name": "Morocco – Fes: Old Medina & Saïss (Spiritual Capital, Andalusian Heritage & Conscious Hip-Hop)",
+  "flag": "🇲🇦",
+  "currency": "MAD (د.م.) / USD ($)",
+  "currencyCode": "MAD",
+  "gateways": "CMI (Centre Monétique Interbancaire), Wafacash, Cash Plus, Inwi Money, Orange Money Maroc, MT Cash, Apple Pay, Cards, PayPal",
+  "pro": "BMDA / SACEM",
+  "proFullName": "BMDA (Bureau Marocain du Droit d'Auteur / المكتب المغربي لحقوق المؤلفين) / SACEM",
+  "proGuide": "100% original master production cleared for DSP distribution.",
+  "headline": "Beats in Fes: 1,200 Years of Medina Heritage, Andalusian Chords & Deep 808s",
+  "description": "The spiritual heart of Morocco: rich Andalusian violin runs, sacred Malhoun phrasing, and crisp hip-hop drums tailored for lyrical poets and deep thinkers across Fes and the Saïss plain.",
+  "popularGenres": [
+    "Fes Andalusian Trap",
+    "Conscious Hip-Hop",
+    "Spiritual Sample Beat"
+  ],
+  "subClusters": []
+},
+  "ma/agadir-taghazout-sous": {
+  "slug": "ma/agadir-taghazout-sous",
+  "name": "Morocco – Agadir: Taghazout Bay & Souss (Atlantic Surf Coast & Amazigh/Berber Bounce)",
+  "flag": "🇲🇦",
+  "currency": "MAD (د.م.) / USD ($)",
+  "currencyCode": "MAD",
+  "gateways": "CMI (Centre Monétique Interbancaire), Wafacash, Cash Plus, Inwi Money, Orange Money Maroc, MT Cash, Apple Pay, Cards, PayPal",
+  "pro": "BMDA / SACEM",
+  "proFullName": "BMDA (Bureau Marocain du Droit d'Auteur / المكتب المغربي لحقوق المؤلفين) / SACEM",
+  "proGuide": "Direct commercial licensing for club DJs, YouTube sync, and streaming.",
+  "headline": "Beats in Agadir: Taghazout Surf Waves, Souss Palm Groves & Amazigh Afro-Trap",
+  "description": "The sunny Atlantic coastline and Souss valley: breezy tropical plucks, authentic Amazigh Ribab and Bendir syncopations, and relaxed Afro-trap bounce for Agadir and Taghazout music makers.",
+  "popularGenres": [
+    "Agadir Afro-Trap",
+    "Amazigh Folk Bounce",
+    "Taghazout Surf Chill"
+  ],
+  "subClusters": []
+},
+  "ma/meknes-imperial-zerhoun": {
+  "slug": "ma/meknes-imperial-zerhoun",
+  "name": "Morocco – Meknes & Zerhoun (Imperial Bab Mansour & Acoustic Classical Rap)",
+  "flag": "🇲🇦",
+  "currency": "MAD (د.م.) / USD ($)",
+  "currencyCode": "MAD",
+  "gateways": "CMI (Centre Monétique Interbancaire), Wafacash, Cash Plus, Inwi Money, Orange Money Maroc, MT Cash, Apple Pay, Cards, PayPal",
+  "pro": "BMDA / SACEM",
+  "proFullName": "BMDA (Bureau Marocain du Droit d'Auteur / المكتب المغربي لحقوق المؤلفين) / SACEM",
+  "proGuide": "Direct stems multitrack download for precision audio mixing.",
+  "headline": "Beats in Meknes: Imperial Bab Mansour Majesty, Olive Hills & Hard-Hitting Trap",
+  "description": "The historic imperial stronghold: dramatic orchestral brass stabs, warm acoustic classical guitars, and thunderous 808s capturing the resilient identity of Meknes and Zerhoun.",
+  "popularGenres": [
+    "Meknes Imperial Trap",
+    "Acoustic Classical Rap",
+    "Historic 808 Beat"
+  ],
+  "subClusters": []
+},
+  "ma/oujda-oriental-algerian-border": {
+  "slug": "ma/oujda-oriental-algerian-border",
+  "name": "Morocco – Oujda & Oriental Region (Eastern Frontier & Raï-Trap Fusion)",
+  "flag": "🇲🇦",
+  "currency": "MAD (د.م.) / USD ($)",
+  "currencyCode": "MAD",
+  "gateways": "CMI (Centre Monétique Interbancaire), Wafacash, Cash Plus, Inwi Money, Orange Money Maroc, MT Cash, Apple Pay, Cards, PayPal",
+  "pro": "BMDA / SACEM",
+  "proFullName": "BMDA (Bureau Marocain du Droit d'Auteur / المكتب المغربي لحقوق المؤلفين) / SACEM",
+  "proGuide": "100% legal protection with downloadable split sheet agreement.",
+  "headline": "Beats in Oujda: Eastern Frontier Soul, Raï Accordion Melodies & Hard 808s",
+  "description": "The eastern gateway and cradle of Maghreb Raï culture: emotive microtonal synth riffs, nostalgic accordion phrasing, and punchy trap rhythms engineered for Oujda and Oriental vocalists.",
+  "popularGenres": [
+    "Oujda Raï-Trap",
+    "Oriental Border Beat",
+    "Eastern Maghreb Hip-Hop"
+  ],
+  "subClusters": []
+},
+  "ma/tetouan-chefchaouen-rif": {
+  "slug": "ma/tetouan-chefchaouen-rif",
+  "name": "Morocco – Tetouan & Chefchaouen (The Blue Pearl & Rif Mountain Echoes)",
+  "flag": "🇲🇦",
+  "currency": "MAD (د.م.) / USD ($)",
+  "currencyCode": "MAD",
+  "gateways": "CMI (Centre Monétique Interbancaire), Wafacash, Cash Plus, Inwi Money, Orange Money Maroc, MT Cash, Apple Pay, Cards, PayPal",
+  "pro": "BMDA / SACEM",
+  "proFullName": "BMDA (Bureau Marocain du Droit d'Auteur / المكتب المغربي لحقوق المؤلفين) / SACEM",
+  "proGuide": "Complete commercial rights with invoice and digital certificate.",
+  "headline": "Beats in Tetouan & Chefchaouen: Blue Medina Alleys, Rif Mountains & Ambient Trap",
+  "description": "Where Andalusian architecture meets rugged Rif mountain ranges: serene acoustic guitars, crisp mountain ambient pads, and tight melodic trap drums for northern Moroccan dreamers.",
+  "popularGenres": [
+    "Chefchaouen Ambient Trap",
+    "Rif Mountain Lofi",
+    "Tetouan Melodic Beat"
+  ],
+  "subClusters": []
+},
 };

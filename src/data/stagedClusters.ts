@@ -120001,4 +120001,1297 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "1"
   ]
 },
+  {
+  "slug": "elgrandetoto-cameleon-darija-trap",
+  "title": "ElGrandeToto Arab Trap King & Nocturnal Darija 808 Beat",
+  "description": "Groundbreaking, chart-topping Moroccan trap instrumental inspired by ElGrandeToto (Caméléon, Salade Coco, Silhouette, Love Nwantiti, Gueule Tapée), blending atmospheric synths, hypnotic autotune spacing, and heavy sliding 808s.",
+  "targetKeywords": [
+    "elgrandetoto type beat",
+    "elgrandetoto cameleon instrumental",
+    "moroccan trap beat 808",
+    "darija rap beat",
+    "elgrandetoto salade coco type beat"
+  ],
+  "heroCta": "Buy ElGrandeToto Style Beat (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Nocturnal Trap Anthem, Viral Club Single and Streaming Hit",
+  "similarArtists": [
+    "ElGrandeToto",
+    "Dizzy Dros",
+    "Stormy",
+    "Morad"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "productionTips": "Layer atmospheric filtered synth pads with delayed reverb tails, leaving wide vocal space for autotuned Darija and French hooks.",
+  "idealVocalStyle": "Effortless cadence switches, alternating between smooth melodic auto-tune singing and rapid-fire Darija street bars.",
+  "suggestedKey": "C Minor / D Minor",
+  "streamingSuitability": "Tailored for heavy rotation on Spotify Maghreb, Apple Music Morocco, and global viral charts."
+},
+  {
+  "slug": "dizzy-dros-cazafonia-street-punchline",
+  "title": "Dizzy Dros Casablanca Street King & Gritty Punchline Trap Beat",
+  "description": "Hard-hitting, aggressive and witty rap instrumental inspired by Dizzy Dros (Cazafonia, M3a L3essla, Men Hna, Rijal), featuring punchy analog kicks, raw brass stabs, and menacing sub-bass drops.",
+  "targetKeywords": [
+    "dizzy dros type beat",
+    "cazafonia type beat",
+    "dizzy dros m3a l3essla instrumental",
+    "casablanca street rap beat",
+    "gritty moroccan rap beat"
+  ],
+  "heroCta": "Buy Dizzy Dros Beat (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hard-Hitting Diss Track, Street Reality Single and Lyrical Showdown",
+  "similarArtists": [
+    "Dizzy Dros",
+    "ElGrandeToto",
+    "Small X",
+    "Inkonnu"
+  ],
+  "recommendedBpm": "92-96 / 138 BPM",
+  "productionTips": "Heavy analog compression on drums with crisp rimshots and an aggressive, forward-moving 808 portamento glide.",
+  "idealVocalStyle": "Commanding, articulate, sarcastic delivery packed with complex wordplay and devastating punchlines.",
+  "suggestedKey": "E Minor",
+  "streamingSuitability": "Ideal for major YouTube video drops, battle rap cyphers, and hard street playlists."
+},
+  {
+  "slug": "inkonnu-arabesque-philosophical-trap",
+  "title": "Inkonnu Melancholic Arabesque & Poetic Cloud Trap Beat",
+  "description": "Deeply emotional, philosophical and introspective trap instrumental inspired by Inkonnu (Arabesque, 7ali, 2016, Morro, Zahri), with weeping acoustic piano arpeggios, atmospheric pads, and warm 808 sub-bass.",
+  "targetKeywords": [
+    "inkonnu type beat",
+    "arabesque inkonnu instrumental",
+    "inkonnu 7ali type beat",
+    "melancholic moroccan trap beat",
+    "sad cloud trap morocco"
+  ],
+  "heroCta": "Buy Inkonnu Style Beat (Instant WAV)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Introspective Street Ballad, Poetic Storytelling and Deep Emotional Single",
+  "similarArtists": [
+    "Inkonnu",
+    "Madd",
+    "Shobee",
+    "Snor"
+  ],
+  "recommendedBpm": "128-134 BPM",
+  "productionTips": "Minor acoustic piano progression washed in subtle vintage chorus, underpinned by smooth, warm sine 808s.",
+  "idealVocalStyle": "Deep, raspy, honest vocal delivery exploring existential struggles, personal demons, and street reflections.",
+  "suggestedKey": "A Minor / F Minor",
+  "streamingSuitability": "Dominates late-night listening sessions, reflective playlists, and cinematic music videos."
+},
+  {
+  "slug": "shobee-madd-shayfeen-melodic-fusion",
+  "title": "Shobee & Madd Safi Rap Pioneers Futuristic Melodic Cloud Beat",
+  "description": "Futuristic, atmospheric French-Moroccan melodic trap instrumental inspired by Shobee, Madd, and Shayfeen (Babor, Chkoun Hna, TJR, Games), featuring spacey synthesizer textures and hypnotic rhythm bounce.",
+  "targetKeywords": [
+    "shobee type beat",
+    "madd type beat",
+    "shayfeen type beat",
+    "safi trap beat",
+    "moroccan cloud trap instrumental"
+  ],
+  "heroCta": "Buy Shobee & Madd Beat (Commercial License)",
+  "energyLevel": "High",
+  "primaryUse": "Avant-Garde Urban Track, European Crossover Single and Atmospheric Visuals",
+  "similarArtists": [
+    "Shobee",
+    "Madd",
+    "Laylow",
+    "Freeze Corleone"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "productionTips": "Flanger and phase-shifted synthesizers over sharp trap hi-hat rolls and wide stereo panning.",
+  "idealVocalStyle": "Bilingual French and Darija deliveries, auto-tuned hooks with creative stereo delays, and moody cadences.",
+  "suggestedKey": "G Minor",
+  "streamingSuitability": "Guaranteed playlist pickup across France, Belgium, Morocco, and European Francophone channels."
+},
+  {
+  "slug": "morad-mdlr-spanish-moroccan-drill",
+  "title": "Morad MDLR Spanish-Moroccan Street Afro-Drill Beat",
+  "description": "Hypnotic, fast-paced street anthem combining European drill and Moroccan rhythms inspired by Morad (Marruecos, Motorlead, Motorola, Sigue, Pelele), with urgent melodic synth riffs and bouncy sliding bass.",
+  "targetKeywords": [
+    "morad type beat",
+    "mdlr type beat",
+    "morad marruecos instrumental",
+    "spanish moroccan drill beat",
+    "morad afro drill beat"
+  ],
+  "heroCta": "Buy Morad MDLR Beat (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Street Reality Anthem, Car Sound Systems and High-Speed Visuals",
+  "similarArtists": [
+    "Morad",
+    "Beny Jr",
+    "Baby Gang",
+    "Jul"
+  ],
+  "recommendedBpm": "140-145 BPM",
+  "productionTips": "Driving 4/4 or syncopated drill kick pattern with bright melodic synth arpeggio on top and gliding sub-bass.",
+  "idealVocalStyle": "Raw, rapid-fire continuous rhymes with emotional auto-tune chorus singing about loyalty and brotherhood.",
+  "suggestedKey": "B Minor / D Minor",
+  "streamingSuitability": "High virality on TikTok, Instagram reels, and cross-border Spanish-Maghrebi streaming playlists."
+},
+  {
+  "slug": "gnawa-guembri-trance-trap",
+  "title": "Authentic Moroccan Gnawa Guembri & Trance Polyrhythm Trap Beat",
+  "description": "Spiritual, hypnotic fusion blending authentic acoustic Moroccan Gnawa music with heavy modern trap 808s: acoustic Guembri (Sintir) basslines, iron Qraqeb castanet polyrhythms, and thunderous sub drops.",
+  "targetKeywords": [
+    "gnawa trap beat",
+    "guembri hip hop beat",
+    "moroccan gnawa trance instrumental",
+    "qraqeb castanet trap",
+    "gnawa fusion 808 beat"
+  ],
+  "heroCta": "Buy Gnawa Trap Beat (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Cultural Heritage Single, Festival Banger and Global Fusion Collaboration",
+  "similarArtists": [
+    "Maâlem Hamid El Kasri",
+    "Dollypran",
+    "ElGrandeToto",
+    "Snarky Puppy"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "productionTips": "Authentic Guembri bass slides recorded direct through tube preamp, blended with modern sub-bass frequencies.",
+  "idealVocalStyle": "Call-and-response chants, hypnotic rhythmic chanting, and fierce conscious rap verses.",
+  "suggestedKey": "D Minor / G Minor",
+  "streamingSuitability": "Massive cultural crossover appeal for international world music festivals and modern rap playlists."
+},
+  {
+  "slug": "chaabi-nayda-darbuka-wedding-trap",
+  "title": "Moroccan Chaabi Nayda Festive Darbuka & Microtonal Trap Beat",
+  "description": "High-octane celebratory Moroccan Chaabi (العيطة والشعبي المغربي) infused with modern trap: frantic Darbuka percussion, authentic Bendir clapping grooves, microtonal violin riffs, and 808 bass.",
+  "targetKeywords": [
+    "moroccan chaabi trap beat",
+    "chaabi nayda instrumental",
+    "darbuka trap beat morocco",
+    "moroccan wedding party trap",
+    "chaabi 808 banger"
+  ],
+  "heroCta": "Buy Chaabi Nayda Beat (WAV Mastered)",
+  "energyLevel": "Maximum",
+  "primaryUse": "Festive Summer Hit, Wedding Celebration and Viral TikTok Party Dance",
+  "similarArtists": [
+    "Daoudi",
+    "Stati",
+    "Dollypran",
+    "Khtek"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "productionTips": "High-velocity syncopated 6/8 and 4/4 Moroccan Chaabi percussion layered over tight modern trap drums.",
+  "idealVocalStyle": "Lively, celebratory vocal hooks, energetic street slogans, and crowd-moving party verses.",
+  "suggestedKey": "D Bayati / D Minor",
+  "streamingSuitability": "Insuperable for celebratory events, summer party playlists, and viral Moroccan dance trends."
+},
+  {
+  "slug": "dollypran-hyper-street-flow",
+  "title": "Dollypran Raw Casablanca Street Rap & High-Energy Trap Beat",
+  "description": "Unpredictable, hyperactive street rap instrumental inspired by Dollypran (Trap Roumi, Taht El Ard, Chwaker, Havvana), pairing abrasive electronic synths with raw Moroccan percussion and driving 808s.",
+  "targetKeywords": [
+    "dollypran type beat",
+    "trap roumi dollypran instrumental",
+    "dollypran high energy beat",
+    "raw casablanca trap beat",
+    "chwaker type beat"
+  ],
+  "heroCta": "Buy Dollypran Style Beat (Instant WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "High-Energy Street Single, Workout Motivation and Explosive Cyphers",
+  "similarArtists": [
+    "Dollypran",
+    "Dizzy Dros",
+    "Kopzz Avenue",
+    "Madd"
+  ],
+  "recommendedBpm": "134-140 BPM",
+  "productionTips": "Distorted analog kicks, abrupt beat stops, and unpredictable glitch fills to match explosive vocal switches.",
+  "idealVocalStyle": "Aggressive, theatrical, humorous and raw vocal flow with sudden screams and intense rhythm shifts.",
+  "suggestedKey": "F# Minor",
+  "streamingSuitability": "Unstoppable energy on YouTube trending, street rap radios, and fitness playlists."
+},
+  {
+  "slug": "casablanca-nocturnal-motorway-drill",
+  "title": "Casablanca Nocturnal Motorway Dark Drill 808 Beat",
+  "description": "Cinematic, dark nighttime drill instrumental capturing the high-speed pulse of Casablanca's Boulevard Zerktouni and coastal bypass: icy piano chords, pitch-sliding sub-bass, and syncopated drill hats.",
+  "targetKeywords": [
+    "casablanca dark drill beat",
+    "moroccan drill instrumental",
+    "nocturnal motorway drill beat",
+    "casablanca night trap 808",
+    "cold piano drill morocco"
+  ],
+  "heroCta": "Buy Casa Drill Beat (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Dark Drill Single, Late Night Driving Video and Gritty Visuals",
+  "similarArtists": [
+    "ElGrandeToto",
+    "Central Cee",
+    "Gazo",
+    "Morad"
+  ],
+  "recommendedBpm": "142-144 BPM",
+  "productionTips": "Reverberant dark grand piano arpeggios layered with sub-bass portamento glides spanning two octaves.",
+  "idealVocalStyle": "Gravelly, low-pitch verses, cold rhythmic delivery, and chilling autotuned chorus melodies.",
+  "suggestedKey": "C# Minor",
+  "streamingSuitability": "Essential for drill playlists, automotive content creators, and urban street visuals."
+},
+  {
+  "slug": "chefchaouen-blue-pearl-acoustic-lofi",
+  "title": "Chefchaouen Blue Pearl Acoustic Spanish Guitar & Chillhop Beat",
+  "description": "Soothing, tranquil lofi hip-hop instrumental inspired by the magical blue alleyways of Chefchaouen and the Rif mountains: intimate flamenco acoustic guitar picking, mountain breeze ambiences, and dusty drums.",
+  "targetKeywords": [
+    "chefchaouen lofi beat",
+    "acoustic guitar hip hop morocco",
+    "blue pearl chillhop beat",
+    "moroccan acoustic rap beat",
+    "rif mountain lofi trap"
+  ],
+  "heroCta": "Buy Blue Pearl Lofi Beat (Instant WAV)",
+  "energyLevel": "Low-Medium",
+  "primaryUse": "Chill Study Beats, Relaxing Reflection Track and Travel Vlogs",
+  "similarArtists": [
+    "Inkonnu",
+    "Snor",
+    "NxWorries",
+    "Tom Misch"
+  ],
+  "recommendedBpm": "82-88 BPM",
+  "productionTips": "Gentle vinyl record crackle, finger-picked acoustic nylon guitar, and soft, unquantized kick-snare pocket.",
+  "idealVocalStyle": "Smooth spoken word, mellow melodic singing, and relaxed poetic storytelling.",
+  "suggestedKey": "E Minor",
+  "streamingSuitability": "Guaranteed longevity across chillhop, study lofi, and ambient relaxation playlists."
+},
+  {
+  "slug": "rai-trap-oriental-accordion-fusion",
+  "title": "Eastern Moroccan Raï & Oriental Melodic Accordion Trap Beat",
+  "description": "Emotional, nostalgia-drenched fusion combining classic Maghreb Raï melodies with modern trap 808 drums: expressive accordion leads, microtonal synth flourishes, and heavy sliding 808 sub-bass.",
+  "targetKeywords": [
+    "rai trap beat",
+    "moroccan rai hip hop beat",
+    "accordion trap beat",
+    "oriental rai trap 808",
+    "oujda rai trap instrumental"
+  ],
+  "heroCta": "Buy Raï Trap Beat (WAV Mastered)",
+  "energyLevel": "High",
+  "primaryUse": "Emotional Street Single, Cross-Border North African Hit and Heartbreak Anthem",
+  "similarArtists": [
+    "Cheb Hasni",
+    "Djalil Palermo",
+    "ElGrandeToto",
+    "Stormy"
+  ],
+  "recommendedBpm": "118-124 / 130 BPM",
+  "productionTips": "Warm French/North African accordion samples with pitch bend vibrato riding a bouncy syncopated trap groove.",
+  "idealVocalStyle": "Passionate, melancholic vocals, expressive vibrato, and heartfelt lyrics on love, exile, and destiny.",
+  "suggestedKey": "G Minor / D Kurd",
+  "streamingSuitability": "Universal resonance across Morocco, Algeria, Tunisia, and the European diaspora."
+},
+  {
+  "slug": "andalusian-oud-heritage-boom-bap",
+  "title": "Fes & Tetouan Andalusian Classical Oud & 90s Boom Bap Beat",
+  "description": "Prestigious, culturally rich hip-hop instrumental honoring Morocco's centuries-old Andalusian musical heritage: virtuoso acoustic Moroccan Oud maqam runs chopped over classic dusty 90s boom bap drums.",
+  "targetKeywords": [
+    "andalusian boom bap beat",
+    "moroccan oud hip hop beat",
+    "fes classical oud rap beat",
+    "vintage arabian boom bap",
+    "andalusian maqam hip hop"
+  ],
+  "heroCta": "Buy Andalusian Boom Bap (WAV + Stems)",
+  "energyLevel": "Medium",
+  "primaryUse": "Conscious Golden Era Single, Historical Storytelling and Elite Cyphers",
+  "similarArtists": [
+    "Roc Marciano",
+    "Dizzy Dros",
+    "The Alchemist",
+    "Wu-Tang Clan"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "productionTips": "Warm SP-1200 style drum crunch paired with micro-chopped acoustic Oud phrases and upright bass.",
+  "idealVocalStyle": "Dense, literary rhyme schemes, historical references, and dignified hip-hop cadence.",
+  "suggestedKey": "D Bayati / D Minor",
+  "streamingSuitability": "Cherished by purist hip-hop heads, cultural institutions, and conscious rap audiences worldwide."
+},
+  {
+  "slug": "affordable-moroccan-trap-beats-mad",
+  "title": "Affordable Moroccan Trap Beats from 299 MAD (CMI & Wafacash Checkout)",
+  "description": "High-quality, studio-ready Moroccan trap and drill instrumentals priced for independent artists, starting from 299 MAD (~$29.99 USD) with seamless local payment via Moroccan bank cards and Wafacash.",
+  "targetKeywords": [
+    "affordable moroccan trap beats mad",
+    "cheap rap beats morocco",
+    "buy beats morocco dirham",
+    "trap instrumentals casablanca 299 mad"
+  ],
+  "heroCta": "Browse Affordable Beats (from 299 MAD)",
+  "energyLevel": "Variable",
+  "primaryUse": "Independent Singles, Emerging Artists and Budget-Friendly EP Projects",
+  "similarArtists": [
+    "Independent Moroccan Rappers",
+    "SoundCloud Creators"
+  ],
+  "recommendedBpm": "120-144 BPM",
+  "productionTips": "Fully mixed and mastered with headroom for home studio or commercial studio recording.",
+  "idealVocalStyle": "Adaptable across all vocal ranges, rap tempos, and melodic singing styles.",
+  "suggestedKey": "All Major and Minor Keys",
+  "streamingSuitability": "Full commercial license permits up to 100,000 streams on Spotify, Apple Music, and Anghami."
+},
+  {
+  "slug": "commercial-french-darija-rap-beats-wav",
+  "title": "Commercial French & Darija Melodic Rap Beats (24-Bit WAV Mastered)",
+  "description": "Radio-ready, polished French-Moroccan melodic rap and R&B-trap productions delivered in uncompressed 24-bit 44.1kHz studio WAV format, cleared for commercial radio and DSP streaming.",
+  "targetKeywords": [
+    "french darija rap beats wav",
+    "commercial melodic rap beats morocco",
+    "rap francais instru maroc",
+    "melodic trap beats 24 bit wav"
+  ],
+  "heroCta": "Get 24-Bit WAV Beats (Commercial Cleared)",
+  "energyLevel": "High",
+  "primaryUse": "Lead Commercial Single, Radio Promotion and High-Budget Music Video",
+  "similarArtists": [
+    "ElGrandeToto",
+    "Stormy",
+    "Tagne",
+    "Dinos"
+  ],
+  "recommendedBpm": "126-138 BPM",
+  "productionTips": "Analog-summed mix with sparkling high frequencies and solid mono sub-bass translation.",
+  "idealVocalStyle": "Bilingual melodic hooks, smooth harmonized auto-tune, and rhythmic French/Darija verses.",
+  "suggestedKey": "G Minor / B Minor",
+  "streamingSuitability": "Cleared for unlimited streaming distribution with 100% of master royalties kept by the artist."
+},
+  {
+  "slug": "moroccan-drill-beats-casablanca-stems",
+  "title": "Moroccan Street Drill Beats with Separated WAV Stems (Casablanca Sound)",
+  "description": "Hard-edged Casablanca and Tangier street drill instrumentals featuring sliding 808s and delivered with all multitrack stem files (drums, bass, melodies, effects) for complete mixing control.",
+  "targetKeywords": [
+    "moroccan drill beats with stems",
+    "casablanca street drill wav trackout",
+    "sliding 808 drill beats morocco",
+    "buy drill stems rabat casablanca"
+  ],
+  "heroCta": "Download Drill Beats + Stems",
+  "energyLevel": "Very High",
+  "primaryUse": "Major Studio Recording, Professional Stem Mixing and Dolby Atmos Spatial Audio",
+  "similarArtists": [
+    "Central Cee",
+    "Morad",
+    "Dizzy Dros",
+    "Gazo"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Each instrument track exported dry with dedicated effects returns for maximum flexibility.",
+  "idealVocalStyle": "Hard-hitting punchlines, aggressive drill cadences, and confident street delivery.",
+  "suggestedKey": "E Minor / C Minor",
+  "streamingSuitability": "Unlimited streaming and broadcast rights included with stem trackout license."
+},
+  {
+  "slug": "bmda-sacem-beat-licensing-contract-pdf",
+  "title": "BMDA & SACEM Moroccan Beat Licensing Agreement (Instant Signed PDF)",
+  "description": "Legally binding music producer contract compliant with Moroccan Copyright Law (BMDA) and SACEM international standards: download your personalized split sheet and licensing agreement immediately upon checkout.",
+  "targetKeywords": [
+    "bmda beat licensing contract pdf",
+    "sacem morocco music contract",
+    "beat purchase agreement morocco",
+    "producer split sheet morocco bmda"
+  ],
+  "heroCta": "View License Agreement (Instant PDF)",
+  "energyLevel": "N/A",
+  "primaryUse": "Copyright Registration, Publishing Splits and Full Legal Commercial Protection",
+  "similarArtists": [
+    "Onzieb",
+    "BMDA & SACEM Registered Songwriters and Moroccan Artists"
+  ],
+  "recommendedBpm": "All Tempos",
+  "productionTips": "Formulated under Moroccan copyright law protecting authors and producers.",
+  "idealVocalStyle": "Valid for all musical genres and vocal recordings.",
+  "suggestedKey": "All Keys",
+  "streamingSuitability": "Guaranteed legal protection for global commercial distribution and sync placements."
+},
+  {
+  "slug": "buy-beats-cmi-wafacash-morocco",
+  "title": "Buy Beats in Morocco with CMI, Wafacash & Cash Plus (Dirham MAD)",
+  "description": "Purchase premium untagged instrumentals instantly using Moroccan banking infrastructure: Centre Monétique Interbancaire (CMI) cards, Wafacash, Cash Plus, Inwi Money, and Apple Pay in MAD (د.م.).",
+  "targetKeywords": [
+    "buy beats cmi morocco",
+    "buy beats wafacash cash plus",
+    "achat prod musique maroc dirham",
+    "beat store maroc paiement cmi"
+  ],
+  "heroCta": "Buy Beats with CMI / Wafacash",
+  "energyLevel": "All Levels",
+  "primaryUse": "Instant Frictionless Checkout for Moroccan Recording Artists and Studios",
+  "similarArtists": [
+    "Moroccan Independent Music Producers and Rappers"
+  ],
+  "recommendedBpm": "80-160 BPM",
+  "productionTips": "Instant automated digital delivery via encrypted download link upon payment confirmation.",
+  "idealVocalStyle": "Universal compatibility across rap, R&B, drill, and pop vocalists.",
+  "suggestedKey": "All Keys",
+  "streamingSuitability": "Instant commercial clearance valid across all global DSPs."
+},
+  {
+  "slug": "gnawa-fusion-hip-hop-beats-guembri",
+  "title": "Gnawa Fusion Hip-Hop Beats featuring Real Guembri & Qraqeb",
+  "description": "Hypnotic, organic urban fusion instrumentals featuring live-recorded Moroccan Guembri basslines, iron Qraqeb castanet rhythms, and hard-knocking modern 808 trap drums for conscious artists.",
+  "targetKeywords": [
+    "gnawa fusion hip hop beats",
+    "guembri rap instrumental",
+    "moroccan gnawa trap beat",
+    "authentic guembri samples 808",
+    "qraqeb hip hop beat"
+  ],
+  "heroCta": "Buy Gnawa Fusion Beat (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Conscious Rap Singles, Cultural Crossover Projects and International Festivals",
+  "similarArtists": [
+    "Hamid El Kasri",
+    "Dollypran",
+    "Snarky Puppy",
+    "ElGrandeToto"
+  ],
+  "recommendedBpm": "124-132 BPM",
+  "productionTips": "Acoustic Guembri recorded with ribbon mics layered over deep, calibrated sub frequencies.",
+  "idealVocalStyle": "Poetic, conscious lyrics, rhythmic chants, and passionate cultural storytelling.",
+  "suggestedKey": "D Minor / G Minor",
+  "streamingSuitability": "Exceptional streaming engagement and editorial playlist placement on Spotify and Apple Music."
+},
+  {
+  "slug": "album-ep-beat-packages-morocco-discount",
+  "title": "Album & EP Beat Packages in Morocco (Save up to 40% in MAD د.م.)",
+  "description": "Multi-beat bundle deals for Moroccan recording artists producing a full mixtape, EP, or studio album: get 5 or 10 instrumentals with up to 40% volume savings in Moroccan Dirhams (MAD د.م.).",
+  "targetKeywords": [
+    "album beat packages morocco",
+    "ep beat bundle discount morocco mad",
+    "pack d'instrus maroc rabat casablanca",
+    "buy bulk beats morocco dirham"
+  ],
+  "heroCta": "View Album Packages (Save up to 40%)",
+  "energyLevel": "Variable",
+  "primaryUse": "Full Project Production, Conceptual Mixtapes and Consistent Single Drops",
+  "similarArtists": [
+    "Independent Moroccan Rappers and Music Collectives"
+  ],
+  "recommendedBpm": "85-145 BPM",
+  "productionTips": "Harmonically and dynamically cohesive beat curation for a seamless album listening journey.",
+  "idealVocalStyle": "Adaptable across the artist's full emotional range and sonic evolution.",
+  "suggestedKey": "Various Keys",
+  "streamingSuitability": "Multi-track commercial license valid for simultaneous streaming releases across all tracks."
+},
+  {
+  "slug": "onzieb-music-producer-morocco-whatsapp",
+  "title": "Direct Producer Collaboration for Moroccan Artists (WhatsApp Onzieb)",
+  "description": "Connect directly with music producer Onzieb via WhatsApp for bespoke custom beat commissions, executive album production, specialized vocal mixing, and arrangement consultations tailored for Moroccan talent.",
+  "targetKeywords": [
+    "music producer morocco whatsapp",
+    "onzieb beatmaker casablanca rabat",
+    "beatmaker maroc contact whatsapp",
+    "hire rap producer morocco"
+  ],
+  "heroCta": "Chat with Onzieb on WhatsApp",
+  "energyLevel": "Custom",
+  "primaryUse": "Custom Production, Key/Tempo Adjustments and Full Executive Project Guidance",
+  "similarArtists": [
+    "Onzieb",
+    "Global Urban Producers"
+  ],
+  "recommendedBpm": "Custom tailored to artist vocal range",
+  "productionTips": "Collaborative stem-by-stem arrangement adjustments via WhatsApp voice notes and file sharing.",
+  "idealVocalStyle": "Custom tailored to match the unique timbre and flow of each individual artist.",
+  "suggestedKey": "Personalized",
+  "streamingSuitability": "Direct custom contracts with full master rights and global royalty monetization."
+},
+  {
+  "slug": "acoustic-guitar-sad-darija-trap-beats",
+  "title": "Sad Acoustic Guitar Trap Beats for Emotional Darija Rap",
+  "description": "Heartbreaking, introspective trap beats featuring expressive finger-picked acoustic guitars, somber piano progressions, and deep 808s crafted for emotional storytelling in Moroccan Darija.",
+  "targetKeywords": [
+    "sad acoustic guitar trap beats",
+    "emotional darija rap beat",
+    "guitare acoustique instru rap maroc",
+    "sad trap beat morocco 808"
+  ],
+  "heroCta": "Listen to Sad Guitar Beats (WAV)",
+  "energyLevel": "Medium",
+  "primaryUse": "Heartbreak Anthem, Vulnerable Street Story and Acoustic Hip-Hop Single",
+  "similarArtists": [
+    "Inkonnu",
+    "Madd",
+    "Lil Peep",
+    "Juice WRLD"
+  ],
+  "recommendedBpm": "120-132 BPM",
+  "productionTips": "Real nylon acoustic guitar captured in stereo with analog tape warmth and dynamic sidechain compression.",
+  "idealVocalStyle": "Vulnerable, honest lyrics, melodic auto-tune hooks, and personal emotional reflections.",
+  "suggestedKey": "D Minor / A Minor / E Minor",
+  "streamingSuitability": "Tremendous viral replay on TikTok, emotional Spotify playlists, and heartbreak compilations."
+},
+  {
+  "slug": "free-moroccan-trap-drum-kit-wav-samples",
+  "title": "Free Moroccan Trap & Drill Drum Kit (24-Bit WAV Samples & 808s)",
+  "description": "Download our complimentary producer sound pack featuring 25 tuned 808 bass hits, authentic Gnawa percussion one-shots, crisp Moroccan drill rimshots, and tight snares in 24-bit studio WAV format.",
+  "targetKeywords": [
+    "free moroccan trap drum kit",
+    "moroccan drill samples wav free download",
+    "gnawa percussion sample pack",
+    "808 drum kit morocco free"
+  ],
+  "heroCta": "Download Free Drum Kit (Instant ZIP)",
+  "energyLevel": "High",
+  "primaryUse": "DAW Beatmaking, Home Studio Production and Sonic Experimentation",
+  "similarArtists": [
+    "Moroccan Bedroom Beatmakers",
+    "FL Studio & Ableton Producers"
+  ],
+  "recommendedBpm": "Compatible with all tempos",
+  "productionTips": "100% royalty-free one-shots pre-mastered with peak analog character and ready for immediate loading.",
+  "idealVocalStyle": "Essential foundation for vocalists and beatmakers constructing custom instrumentals.",
+  "suggestedKey": "Tuned to C for instant pitch transposition",
+  "streamingSuitability": "Royalty-free for commercial music releases, beat sales, and digital streaming."
+},
+  {
+  "slug": "casablanca-moroccan-trap-808",
+  "name": "Casablanca Moroccan Trap 808 Beats",
+  "category": "scene",
+  "badge": "Casablanca Moroccan Trap",
+  "headline": "Casablanca (Anfa, Maârif & Economic Rap Capital) Moroccan Trap 808 Beats: 24-Bit WAV Beats & CMI / Wafacash Checkout",
+  "description": "Heavy sliding 808 sub-bass, minor synths, and crisp modern trap snares engineered for MCs in Casablanca.",
+  "targetArtists": [
+    "Artists from Casablanca",
+    "Moroccan Urban Music Community",
+    "North African Hip-Hop Scene"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Casablanca",
+    "Moroccan Trap",
+    "CMI & Wafacash (MAD)",
+    "BMDA & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Moroccan Trap 808 Beats",
+    "Moroccan Trap",
+    "Gnawa Fusion"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "casablanca-casablanca-street-drill",
+  "name": "Casablanca Casablanca Street Drill Beats",
+  "category": "scene",
+  "badge": "Casablanca Casa Drill",
+  "headline": "Casablanca (Anfa, Maârif & Economic Rap Capital) Casablanca Street Drill Beats: 24-Bit WAV Beats & CMI / Wafacash Checkout",
+  "description": "Cold minor pianos, rapid syncopated drill hats, and sliding sub-bass drops crafted for MCs in Casablanca.",
+  "targetArtists": [
+    "Artists from Casablanca",
+    "Moroccan Urban Music Community",
+    "North African Hip-Hop Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Casablanca",
+    "Casa Drill",
+    "CMI & Wafacash (MAD)",
+    "BMDA & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Casablanca Street Drill Beats",
+    "Moroccan Trap",
+    "Gnawa Fusion"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "casablanca-gnawa-fusion-trap",
+  "name": "Casablanca Gnawa Fusion Trap Beats",
+  "category": "scene",
+  "badge": "Casablanca Gnawa Fusion",
+  "headline": "Casablanca (Anfa, Maârif & Economic Rap Capital) Gnawa Fusion Trap Beats: 24-Bit WAV Beats & CMI / Wafacash Checkout",
+  "description": "Authentic Guembri bass riffs, Qraqeb iron polyrhythms, and thunderous 808 drops for artists in Casablanca.",
+  "targetArtists": [
+    "Artists from Casablanca",
+    "Moroccan Urban Music Community",
+    "North African Hip-Hop Scene"
+  ],
+  "recommendedBpm": "126-132 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Casablanca",
+    "Gnawa Fusion",
+    "CMI & Wafacash (MAD)",
+    "BMDA & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Gnawa Fusion Trap Beats",
+    "Moroccan Trap",
+    "Gnawa Fusion"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "casablanca-maghreb-boom-bap",
+  "name": "Casablanca Maghreb Classic Boom Bap",
+  "category": "scene",
+  "badge": "Casablanca Maghreb Boom Bap",
+  "headline": "Casablanca (Anfa, Maârif & Economic Rap Capital) Maghreb Classic Boom Bap: 24-Bit WAV Beats & CMI / Wafacash Checkout",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and warm analog bass for lyricists in Casablanca.",
+  "targetArtists": [
+    "Artists from Casablanca",
+    "Moroccan Urban Music Community",
+    "North African Hip-Hop Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Casablanca",
+    "Maghreb Boom Bap",
+    "CMI & Wafacash (MAD)",
+    "BMDA & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Maghreb Classic Boom Bap",
+    "Moroccan Trap",
+    "Gnawa Fusion"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "rabat-moroccan-trap-808",
+  "name": "Rabat Moroccan Trap 808 Beats",
+  "category": "scene",
+  "badge": "Rabat Moroccan Trap",
+  "headline": "Rabat (Agdal & Bouregreg Cultural Flow) Moroccan Trap 808 Beats: 24-Bit WAV Beats & CMI / Wafacash Checkout",
+  "description": "Heavy sliding 808 sub-bass, minor synths, and crisp modern trap snares engineered for MCs in Rabat.",
+  "targetArtists": [
+    "Artists from Rabat",
+    "Moroccan Urban Music Community",
+    "North African Hip-Hop Scene"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Rabat",
+    "Moroccan Trap",
+    "CMI & Wafacash (MAD)",
+    "BMDA & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Moroccan Trap 808 Beats",
+    "Moroccan Trap",
+    "Gnawa Fusion"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "rabat-casablanca-street-drill",
+  "name": "Rabat Casablanca Street Drill Beats",
+  "category": "scene",
+  "badge": "Rabat Casa Drill",
+  "headline": "Rabat (Agdal & Bouregreg Cultural Flow) Casablanca Street Drill Beats: 24-Bit WAV Beats & CMI / Wafacash Checkout",
+  "description": "Cold minor pianos, rapid syncopated drill hats, and sliding sub-bass drops crafted for MCs in Rabat.",
+  "targetArtists": [
+    "Artists from Rabat",
+    "Moroccan Urban Music Community",
+    "North African Hip-Hop Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Rabat",
+    "Casa Drill",
+    "CMI & Wafacash (MAD)",
+    "BMDA & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Casablanca Street Drill Beats",
+    "Moroccan Trap",
+    "Gnawa Fusion"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "rabat-gnawa-fusion-trap",
+  "name": "Rabat Gnawa Fusion Trap Beats",
+  "category": "scene",
+  "badge": "Rabat Gnawa Fusion",
+  "headline": "Rabat (Agdal & Bouregreg Cultural Flow) Gnawa Fusion Trap Beats: 24-Bit WAV Beats & CMI / Wafacash Checkout",
+  "description": "Authentic Guembri bass riffs, Qraqeb iron polyrhythms, and thunderous 808 drops for artists in Rabat.",
+  "targetArtists": [
+    "Artists from Rabat",
+    "Moroccan Urban Music Community",
+    "North African Hip-Hop Scene"
+  ],
+  "recommendedBpm": "126-132 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Rabat",
+    "Gnawa Fusion",
+    "CMI & Wafacash (MAD)",
+    "BMDA & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Gnawa Fusion Trap Beats",
+    "Moroccan Trap",
+    "Gnawa Fusion"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "rabat-maghreb-boom-bap",
+  "name": "Rabat Maghreb Classic Boom Bap",
+  "category": "scene",
+  "badge": "Rabat Maghreb Boom Bap",
+  "headline": "Rabat (Agdal & Bouregreg Cultural Flow) Maghreb Classic Boom Bap: 24-Bit WAV Beats & CMI / Wafacash Checkout",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and warm analog bass for lyricists in Rabat.",
+  "targetArtists": [
+    "Artists from Rabat",
+    "Moroccan Urban Music Community",
+    "North African Hip-Hop Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Rabat",
+    "Maghreb Boom Bap",
+    "CMI & Wafacash (MAD)",
+    "BMDA & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Maghreb Classic Boom Bap",
+    "Moroccan Trap",
+    "Gnawa Fusion"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "marrakech-moroccan-trap-808",
+  "name": "Marrakech Moroccan Trap 808 Beats",
+  "category": "scene",
+  "badge": "Marrakech Moroccan Trap",
+  "headline": "Marrakech (Gueliz & Desert Sunset Bounce) Moroccan Trap 808 Beats: 24-Bit WAV Beats & CMI / Wafacash Checkout",
+  "description": "Heavy sliding 808 sub-bass, minor synths, and crisp modern trap snares engineered for MCs in Marrakech.",
+  "targetArtists": [
+    "Artists from Marrakech",
+    "Moroccan Urban Music Community",
+    "North African Hip-Hop Scene"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Marrakech",
+    "Moroccan Trap",
+    "CMI & Wafacash (MAD)",
+    "BMDA & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Moroccan Trap 808 Beats",
+    "Moroccan Trap",
+    "Gnawa Fusion"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "marrakech-casablanca-street-drill",
+  "name": "Marrakech Casablanca Street Drill Beats",
+  "category": "scene",
+  "badge": "Marrakech Casa Drill",
+  "headline": "Marrakech (Gueliz & Desert Sunset Bounce) Casablanca Street Drill Beats: 24-Bit WAV Beats & CMI / Wafacash Checkout",
+  "description": "Cold minor pianos, rapid syncopated drill hats, and sliding sub-bass drops crafted for MCs in Marrakech.",
+  "targetArtists": [
+    "Artists from Marrakech",
+    "Moroccan Urban Music Community",
+    "North African Hip-Hop Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Marrakech",
+    "Casa Drill",
+    "CMI & Wafacash (MAD)",
+    "BMDA & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Casablanca Street Drill Beats",
+    "Moroccan Trap",
+    "Gnawa Fusion"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "marrakech-gnawa-fusion-trap",
+  "name": "Marrakech Gnawa Fusion Trap Beats",
+  "category": "scene",
+  "badge": "Marrakech Gnawa Fusion",
+  "headline": "Marrakech (Gueliz & Desert Sunset Bounce) Gnawa Fusion Trap Beats: 24-Bit WAV Beats & CMI / Wafacash Checkout",
+  "description": "Authentic Guembri bass riffs, Qraqeb iron polyrhythms, and thunderous 808 drops for artists in Marrakech.",
+  "targetArtists": [
+    "Artists from Marrakech",
+    "Moroccan Urban Music Community",
+    "North African Hip-Hop Scene"
+  ],
+  "recommendedBpm": "126-132 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Marrakech",
+    "Gnawa Fusion",
+    "CMI & Wafacash (MAD)",
+    "BMDA & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Gnawa Fusion Trap Beats",
+    "Moroccan Trap",
+    "Gnawa Fusion"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "marrakech-maghreb-boom-bap",
+  "name": "Marrakech Maghreb Classic Boom Bap",
+  "category": "scene",
+  "badge": "Marrakech Maghreb Boom Bap",
+  "headline": "Marrakech (Gueliz & Desert Sunset Bounce) Maghreb Classic Boom Bap: 24-Bit WAV Beats & CMI / Wafacash Checkout",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and warm analog bass for lyricists in Marrakech.",
+  "targetArtists": [
+    "Artists from Marrakech",
+    "Moroccan Urban Music Community",
+    "North African Hip-Hop Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Marrakech",
+    "Maghreb Boom Bap",
+    "CMI & Wafacash (MAD)",
+    "BMDA & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Maghreb Classic Boom Bap",
+    "Moroccan Trap",
+    "Gnawa Fusion"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "tangier-moroccan-trap-808",
+  "name": "Tangier Moroccan Trap 808 Beats",
+  "category": "scene",
+  "badge": "Tangier Moroccan Trap",
+  "headline": "Tangier (Strait of Gibraltar & Mediterranean Drill) Moroccan Trap 808 Beats: 24-Bit WAV Beats & CMI / Wafacash Checkout",
+  "description": "Heavy sliding 808 sub-bass, minor synths, and crisp modern trap snares engineered for MCs in Tangier.",
+  "targetArtists": [
+    "Artists from Tangier",
+    "Moroccan Urban Music Community",
+    "North African Hip-Hop Scene"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Tangier",
+    "Moroccan Trap",
+    "CMI & Wafacash (MAD)",
+    "BMDA & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Moroccan Trap 808 Beats",
+    "Moroccan Trap",
+    "Gnawa Fusion"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "tangier-casablanca-street-drill",
+  "name": "Tangier Casablanca Street Drill Beats",
+  "category": "scene",
+  "badge": "Tangier Casa Drill",
+  "headline": "Tangier (Strait of Gibraltar & Mediterranean Drill) Casablanca Street Drill Beats: 24-Bit WAV Beats & CMI / Wafacash Checkout",
+  "description": "Cold minor pianos, rapid syncopated drill hats, and sliding sub-bass drops crafted for MCs in Tangier.",
+  "targetArtists": [
+    "Artists from Tangier",
+    "Moroccan Urban Music Community",
+    "North African Hip-Hop Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Tangier",
+    "Casa Drill",
+    "CMI & Wafacash (MAD)",
+    "BMDA & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Casablanca Street Drill Beats",
+    "Moroccan Trap",
+    "Gnawa Fusion"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "tangier-gnawa-fusion-trap",
+  "name": "Tangier Gnawa Fusion Trap Beats",
+  "category": "scene",
+  "badge": "Tangier Gnawa Fusion",
+  "headline": "Tangier (Strait of Gibraltar & Mediterranean Drill) Gnawa Fusion Trap Beats: 24-Bit WAV Beats & CMI / Wafacash Checkout",
+  "description": "Authentic Guembri bass riffs, Qraqeb iron polyrhythms, and thunderous 808 drops for artists in Tangier.",
+  "targetArtists": [
+    "Artists from Tangier",
+    "Moroccan Urban Music Community",
+    "North African Hip-Hop Scene"
+  ],
+  "recommendedBpm": "126-132 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Tangier",
+    "Gnawa Fusion",
+    "CMI & Wafacash (MAD)",
+    "BMDA & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Gnawa Fusion Trap Beats",
+    "Moroccan Trap",
+    "Gnawa Fusion"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "tangier-maghreb-boom-bap",
+  "name": "Tangier Maghreb Classic Boom Bap",
+  "category": "scene",
+  "badge": "Tangier Maghreb Boom Bap",
+  "headline": "Tangier (Strait of Gibraltar & Mediterranean Drill) Maghreb Classic Boom Bap: 24-Bit WAV Beats & CMI / Wafacash Checkout",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and warm analog bass for lyricists in Tangier.",
+  "targetArtists": [
+    "Artists from Tangier",
+    "Moroccan Urban Music Community",
+    "North African Hip-Hop Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Tangier",
+    "Maghreb Boom Bap",
+    "CMI & Wafacash (MAD)",
+    "BMDA & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Maghreb Classic Boom Bap",
+    "Moroccan Trap",
+    "Gnawa Fusion"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "fes-moroccan-trap-808",
+  "name": "Fes Moroccan Trap 808 Beats",
+  "category": "scene",
+  "badge": "Fes Moroccan Trap",
+  "headline": "Fes (Historic Medina & Andalusian Soul) Moroccan Trap 808 Beats: 24-Bit WAV Beats & CMI / Wafacash Checkout",
+  "description": "Heavy sliding 808 sub-bass, minor synths, and crisp modern trap snares engineered for MCs in Fes.",
+  "targetArtists": [
+    "Artists from Fes",
+    "Moroccan Urban Music Community",
+    "North African Hip-Hop Scene"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Fes",
+    "Moroccan Trap",
+    "CMI & Wafacash (MAD)",
+    "BMDA & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Moroccan Trap 808 Beats",
+    "Moroccan Trap",
+    "Gnawa Fusion"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "fes-casablanca-street-drill",
+  "name": "Fes Casablanca Street Drill Beats",
+  "category": "scene",
+  "badge": "Fes Casa Drill",
+  "headline": "Fes (Historic Medina & Andalusian Soul) Casablanca Street Drill Beats: 24-Bit WAV Beats & CMI / Wafacash Checkout",
+  "description": "Cold minor pianos, rapid syncopated drill hats, and sliding sub-bass drops crafted for MCs in Fes.",
+  "targetArtists": [
+    "Artists from Fes",
+    "Moroccan Urban Music Community",
+    "North African Hip-Hop Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Fes",
+    "Casa Drill",
+    "CMI & Wafacash (MAD)",
+    "BMDA & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Casablanca Street Drill Beats",
+    "Moroccan Trap",
+    "Gnawa Fusion"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "fes-gnawa-fusion-trap",
+  "name": "Fes Gnawa Fusion Trap Beats",
+  "category": "scene",
+  "badge": "Fes Gnawa Fusion",
+  "headline": "Fes (Historic Medina & Andalusian Soul) Gnawa Fusion Trap Beats: 24-Bit WAV Beats & CMI / Wafacash Checkout",
+  "description": "Authentic Guembri bass riffs, Qraqeb iron polyrhythms, and thunderous 808 drops for artists in Fes.",
+  "targetArtists": [
+    "Artists from Fes",
+    "Moroccan Urban Music Community",
+    "North African Hip-Hop Scene"
+  ],
+  "recommendedBpm": "126-132 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Fes",
+    "Gnawa Fusion",
+    "CMI & Wafacash (MAD)",
+    "BMDA & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Gnawa Fusion Trap Beats",
+    "Moroccan Trap",
+    "Gnawa Fusion"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "fes-maghreb-boom-bap",
+  "name": "Fes Maghreb Classic Boom Bap",
+  "category": "scene",
+  "badge": "Fes Maghreb Boom Bap",
+  "headline": "Fes (Historic Medina & Andalusian Soul) Maghreb Classic Boom Bap: 24-Bit WAV Beats & CMI / Wafacash Checkout",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and warm analog bass for lyricists in Fes.",
+  "targetArtists": [
+    "Artists from Fes",
+    "Moroccan Urban Music Community",
+    "North African Hip-Hop Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Fes",
+    "Maghreb Boom Bap",
+    "CMI & Wafacash (MAD)",
+    "BMDA & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Maghreb Classic Boom Bap",
+    "Moroccan Trap",
+    "Gnawa Fusion"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "agadir-moroccan-trap-808",
+  "name": "Agadir Moroccan Trap 808 Beats",
+  "category": "scene",
+  "badge": "Agadir Moroccan Trap",
+  "headline": "Agadir (Taghazout Bay & Atlantic Coastal Vibe) Moroccan Trap 808 Beats: 24-Bit WAV Beats & CMI / Wafacash Checkout",
+  "description": "Heavy sliding 808 sub-bass, minor synths, and crisp modern trap snares engineered for MCs in Agadir.",
+  "targetArtists": [
+    "Artists from Agadir",
+    "Moroccan Urban Music Community",
+    "North African Hip-Hop Scene"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Agadir",
+    "Moroccan Trap",
+    "CMI & Wafacash (MAD)",
+    "BMDA & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Moroccan Trap 808 Beats",
+    "Moroccan Trap",
+    "Gnawa Fusion"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "agadir-casablanca-street-drill",
+  "name": "Agadir Casablanca Street Drill Beats",
+  "category": "scene",
+  "badge": "Agadir Casa Drill",
+  "headline": "Agadir (Taghazout Bay & Atlantic Coastal Vibe) Casablanca Street Drill Beats: 24-Bit WAV Beats & CMI / Wafacash Checkout",
+  "description": "Cold minor pianos, rapid syncopated drill hats, and sliding sub-bass drops crafted for MCs in Agadir.",
+  "targetArtists": [
+    "Artists from Agadir",
+    "Moroccan Urban Music Community",
+    "North African Hip-Hop Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Agadir",
+    "Casa Drill",
+    "CMI & Wafacash (MAD)",
+    "BMDA & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Casablanca Street Drill Beats",
+    "Moroccan Trap",
+    "Gnawa Fusion"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "agadir-gnawa-fusion-trap",
+  "name": "Agadir Gnawa Fusion Trap Beats",
+  "category": "scene",
+  "badge": "Agadir Gnawa Fusion",
+  "headline": "Agadir (Taghazout Bay & Atlantic Coastal Vibe) Gnawa Fusion Trap Beats: 24-Bit WAV Beats & CMI / Wafacash Checkout",
+  "description": "Authentic Guembri bass riffs, Qraqeb iron polyrhythms, and thunderous 808 drops for artists in Agadir.",
+  "targetArtists": [
+    "Artists from Agadir",
+    "Moroccan Urban Music Community",
+    "North African Hip-Hop Scene"
+  ],
+  "recommendedBpm": "126-132 BPM",
+  "recommendedKey": "D-Minor / G-Minor",
+  "vibeAttributes": [
+    "Agadir",
+    "Gnawa Fusion",
+    "CMI & Wafacash (MAD)",
+    "BMDA & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Gnawa Fusion Trap Beats",
+    "Moroccan Trap",
+    "Gnawa Fusion"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "agadir-maghreb-boom-bap",
+  "name": "Agadir Maghreb Classic Boom Bap",
+  "category": "scene",
+  "badge": "Agadir Maghreb Boom Bap",
+  "headline": "Agadir (Taghazout Bay & Atlantic Coastal Vibe) Maghreb Classic Boom Bap: 24-Bit WAV Beats & CMI / Wafacash Checkout",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and warm analog bass for lyricists in Agadir.",
+  "targetArtists": [
+    "Artists from Agadir",
+    "Moroccan Urban Music Community",
+    "North African Hip-Hop Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Agadir",
+    "Maghreb Boom Bap",
+    "CMI & Wafacash (MAD)",
+    "BMDA & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Maghreb Classic Boom Bap",
+    "Moroccan Trap",
+    "Gnawa Fusion"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
 ];
