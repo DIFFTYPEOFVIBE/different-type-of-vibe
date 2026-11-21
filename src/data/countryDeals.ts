@@ -40108,4 +40108,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "ae/palm-jumeirah-atlantis": {
+  "slug": "ae/palm-jumeirah-atlantis",
+  "name": "UAE – Dubai: Palm Jumeirah & Atlantis (Superyacht Luxury & Penthouse Trap)",
+  "flag": "🇦🇪",
+  "currency": "AED (د.إ) / USD ($)",
+  "currencyCode": "AED",
+  "gateways": "Apple Pay, Google Pay, Cards (Visa/Mastercard), Careem Pay, Tabby, PayPal, Stripe",
+  "pro": "UAE Ministry of Economy / SACEM",
+  "proFullName": "UAE Ministry of Economy (Federal Decree Law No. 38/2021) / SACEM",
+  "proGuide": "100% compliant with UAE Copyright Law 2021 and international SACEM guidelines with instant PDF license.",
+  "headline": "Beats in Palm Jumeirah: Atlantis The Royal, Superyacht Sound & Penthouse 808s",
+  "description": "The world-famous artificial archipelago of global elites: lush atmospheric pads, sleek sliding 808 sub-bass, and private beach club party bounce for Palm Jumeirah creators.",
+  "popularGenres": [
+    "Palm Jumeirah Luxury Trap",
+    "Superyacht Party Beat",
+    "Penthouse R&B"
+  ],
+  "subClusters": []
+},
+  "ae/dubai-silicon-oasis-dso": {
+  "slug": "ae/dubai-silicon-oasis-dso",
+  "name": "UAE – Dubai: Silicon Oasis & International City (Tech Corridor & Multilingual Drill)",
+  "flag": "🇦🇪",
+  "currency": "AED (د.إ) / USD ($)",
+  "currencyCode": "AED",
+  "gateways": "Apple Pay, Google Pay, Cards (Visa/Mastercard), Careem Pay, Tabby, PayPal, Stripe",
+  "pro": "UAE Ministry of Economy / SACEM",
+  "proFullName": "UAE Ministry of Economy (Federal Decree Law No. 38/2021) / SACEM",
+  "proGuide": "Pristine 24-bit studio WAV delivery with separated multitrack stem files.",
+  "headline": "Beats in Silicon Oasis: Tech Innovation, Multilingual Bars & Fast Drill",
+  "description": "The bustling student and technological crossroad: rapid hi-hat rolls, dark minor synths, and heavy sub-bass crafted for multicultural Arabic, English, and French MCs.",
+  "popularGenres": [
+    "Silicon Oasis Drill",
+    "Multilingual Trap Beat",
+    "DSO Street Rap"
+  ],
+  "subClusters": []
+},
+  "ae/abu-dhabi-reem-island": {
+  "slug": "ae/abu-dhabi-reem-island",
+  "name": "UAE – Abu Dhabi: Al Reem & Maryah Island (Financial Core & Modern Waterfront R&B)",
+  "flag": "🇦🇪",
+  "currency": "AED (د.إ) / USD ($)",
+  "currencyCode": "AED",
+  "gateways": "Apple Pay, Google Pay, Cards (Visa/Mastercard), Careem Pay, Tabby, PayPal, Stripe",
+  "pro": "UAE Ministry of Economy / SACEM",
+  "proFullName": "UAE Ministry of Economy (Federal Decree Law No. 38/2021) / SACEM",
+  "proGuide": "100% royalty-free clearance on master recordings with commercial licensing.",
+  "headline": "Beats in Al Reem: Abu Dhabi Financial Towers, Canal Breeze & Melodic Trap",
+  "description": "The sleek waterfront skyscrapers of the federal capital: smooth Rhodes electric pianos, silky autotuned melodies, and polished trap rhythms for Al Reem and Maryah artists.",
+  "popularGenres": [
+    "Al Reem Melodic Trap",
+    "Maryah Island R&B",
+    "Abu Dhabi Waterfront Beat"
+  ],
+  "subClusters": []
+},
+  "ae/dubai-jlt-barsha": {
+  "slug": "ae/dubai-jlt-barsha",
+  "name": "UAE – Dubai: JLT & Al Barsha (Lakeside Urban Hub & Expat Crossover Trap)",
+  "flag": "🇦🇪",
+  "currency": "AED (د.إ) / USD ($)",
+  "currencyCode": "AED",
+  "gateways": "Apple Pay, Google Pay, Cards (Visa/Mastercard), Careem Pay, Tabby, PayPal, Stripe",
+  "pro": "UAE Ministry of Economy / SACEM",
+  "proFullName": "UAE Ministry of Economy (Federal Decree Law No. 38/2021) / SACEM",
+  "proGuide": "Worldwide digital monetization rights for Spotify, Apple Music, and YouTube.",
+  "headline": "Beats in JLT & Al Barsha: Lakeside Shophouses, Expat Energy & Punchy 808s",
+  "description": "The dynamic residential and dining heartland of new Dubai: punchy trap kicks, acoustic guitar licks, and cosmopolitan bounce designed for JLT and Barsha creators.",
+  "popularGenres": [
+    "JLT Urban Trap",
+    "Barsha Street Beat",
+    "Cosmopolitan Crossover"
+  ],
+  "subClusters": []
+},
+  "ae/sharjah-university-city": {
+  "slug": "ae/sharjah-university-city",
+  "name": "UAE – Sharjah: University City & Muwailih (Tertiary Education & Conscious Cyphers)",
+  "flag": "🇦🇪",
+  "currency": "AED (د.إ) / USD ($)",
+  "currencyCode": "AED",
+  "gateways": "Apple Pay, Google Pay, Cards (Visa/Mastercard), Careem Pay, Tabby, PayPal, Stripe",
+  "pro": "UAE Ministry of Economy / SACEM",
+  "proFullName": "UAE Ministry of Economy (Federal Decree Law No. 38/2021) / SACEM",
+  "proGuide": "Instant Apple Pay and card checkout in AED (د.إ) with immediate file download.",
+  "headline": "Beats in Sharjah University City: Student Cyphers, Lyrical Depth & Boom Bap",
+  "description": "The premier academic hub of the UAE (AUS, UOS): unquantized acoustic drum swing, warm Rhodes keys, and intelligent lyricism crafted for the student hip-hop community.",
+  "popularGenres": [
+    "Sharjah Student Boom Bap",
+    "University City Cypher",
+    "Lyrical Arabic Rap"
+  ],
+  "subClusters": []
+},
+  "ae/dubai-south-expo-city": {
+  "slug": "ae/dubai-south-expo-city",
+  "name": "UAE – Dubai South & Expo City (Global Logistics Hub & Futuristic Electronic Trap)",
+  "flag": "🇦🇪",
+  "currency": "AED (د.إ) / USD ($)",
+  "currencyCode": "AED",
+  "gateways": "Apple Pay, Google Pay, Cards (Visa/Mastercard), Careem Pay, Tabby, PayPal, Stripe",
+  "pro": "UAE Ministry of Economy / SACEM",
+  "proFullName": "UAE Ministry of Economy (Federal Decree Law No. 38/2021) / SACEM",
+  "proGuide": "100% original master production cleared for DSP distribution.",
+  "headline": "Beats in Dubai South: Expo City Architecture, Future Energy & Fast Synths",
+  "description": "Connecting the future through Al Maktoum Airport and Expo City: spatial arpeggiators, crisp electronic claps, and high-tempo 808s engineered for high-concept music videos.",
+  "popularGenres": [
+    "Expo City Futuristic Trap",
+    "Dubai South Electronic Beat",
+    "Aerotropolis 808"
+  ],
+  "subClusters": []
+},
+  "ae/khor-fakkan-east-enclave": {
+  "slug": "ae/khor-fakkan-east-enclave",
+  "name": "UAE – Sharjah: Khor Fakkan Enclave (Gulf of Oman Amphitheater & Mountain Lofi)",
+  "flag": "🇦🇪",
+  "currency": "AED (د.إ) / USD ($)",
+  "currencyCode": "AED",
+  "gateways": "Apple Pay, Google Pay, Cards (Visa/Mastercard), Careem Pay, Tabby, PayPal, Stripe",
+  "pro": "UAE Ministry of Economy / SACEM",
+  "proFullName": "UAE Ministry of Economy (Federal Decree Law No. 38/2021) / SACEM",
+  "proGuide": "Direct commercial licensing for club DJs, YouTube sync, and streaming.",
+  "headline": "Beats in Khor Fakkan: Roman Amphitheater, Rocky Ocean Cliffs & Coastal Lofi",
+  "description": "The dramatic eastern mountain enclave of Sharjah: gentle Gulf of Oman waves, acoustic nylon guitar arpeggios, and peaceful lofi hip-hop drums for introspective songwriting.",
+  "popularGenres": [
+    "Khor Fakkan Coastal Lofi",
+    "Eastern Enclave Chillhop",
+    "Amphitheater Beat"
+  ],
+  "subClusters": []
+},
+  "ae/abu-dhabi-khalifa-city": {
+  "slug": "ae/abu-dhabi-khalifa-city",
+  "name": "UAE – Abu Dhabi: Khalifa City & Musaffah (Residential Heartland & Raw Street Rap)",
+  "flag": "🇦🇪",
+  "currency": "AED (د.إ) / USD ($)",
+  "currencyCode": "AED",
+  "gateways": "Apple Pay, Google Pay, Cards (Visa/Mastercard), Careem Pay, Tabby, PayPal, Stripe",
+  "pro": "UAE Ministry of Economy / SACEM",
+  "proFullName": "UAE Ministry of Economy (Federal Decree Law No. 38/2021) / SACEM",
+  "proGuide": "Direct stems multitrack download for precision audio mixing.",
+  "headline": "Beats in Khalifa City: Capital Residential Pride, Street Reality & Heavy Drill",
+  "description": "The authentic everyday heartland of the capital: heavy low-end 808s, cold minor synth progressions, and hard punchy kicks crafted for local Abu Dhabi recording artists.",
+  "popularGenres": [
+    "Khalifa City Street Rap",
+    "Musaffah Heavy Drill",
+    "Abu Dhabi Heartland 808"
+  ],
+  "subClusters": []
+},
+  "ae/hatta-mountain-enclave": {
+  "slug": "ae/hatta-mountain-enclave",
+  "name": "UAE – Dubai: Hatta & Hajar Mountains (Mountain Dam Reservoir & Adventure Lofi)",
+  "flag": "🇦🇪",
+  "currency": "AED (د.إ) / USD ($)",
+  "currencyCode": "AED",
+  "gateways": "Apple Pay, Google Pay, Cards (Visa/Mastercard), Careem Pay, Tabby, PayPal, Stripe",
+  "pro": "UAE Ministry of Economy / SACEM",
+  "proFullName": "UAE Ministry of Economy (Federal Decree Law No. 38/2021) / SACEM",
+  "proGuide": "100% legal protection with downloadable split sheet agreement.",
+  "headline": "Beats in Hatta: Turquoise Dam Water, Hajar Mountain Slopes & Acoustic Rap",
+  "description": "The rugged outdoor mountain escape of Dubai: acoustic guitar picking, mountain breeze ambiences, and relaxed hip-hop beats for adventure vloggers and reflective storytellers.",
+  "popularGenres": [
+    "Hatta Mountain Lofi",
+    "Hajar Dam Chillhop",
+    "Desert Mountain Rap"
+  ],
+  "subClusters": []
+},
+  "ae/dibba-al-fujairah-north": {
+  "slug": "ae/dibba-al-fujairah-north",
+  "name": "UAE – Dibba Al Fujairah & Musandam Border (Northern Coastline & Maritime Lofi)",
+  "flag": "🇦🇪",
+  "currency": "AED (د.إ) / USD ($)",
+  "currencyCode": "AED",
+  "gateways": "Apple Pay, Google Pay, Cards (Visa/Mastercard), Careem Pay, Tabby, PayPal, Stripe",
+  "pro": "UAE Ministry of Economy / SACEM",
+  "proFullName": "UAE Ministry of Economy (Federal Decree Law No. 38/2021) / SACEM",
+  "proGuide": "Complete commercial rights with invoice and digital certificate.",
+  "headline": "Beats in Dibba: Musandam Fjords Border, Fishing Harbor & Serene Chillhop",
+  "description": "Where rocky fjords meet the northern Gulf of Oman: tranquil water ripples, fingerpicked classical guitar, and unhurried beats for contemplative Middle Eastern poets.",
+  "popularGenres": [
+    "Dibba Maritime Chillhop",
+    "Musandam Border Lofi",
+    "Northern Gulf Beat"
+  ],
+  "subClusters": []
+},
 };

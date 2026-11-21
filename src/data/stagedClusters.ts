@@ -113545,4 +113545,1294 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "1"
   ]
 },
+  {
+  "slug": "flipp-daffy-gulf-party-banger",
+  "title": "Flipperachi & Daffy Khaleeji Pop-Rap Party Banger & Bounce Beat",
+  "description": "High-octane, infectious Gulf party anthem inspired by Flipperachi & Daffy (Ee Laa, Shoofha, Shway Shway), featuring syncopated Khaleeji clapping, driving acoustic percussion, and a viral club bounce.",
+  "targetKeywords": [
+    "flipperachi type beat",
+    "daffy type beat",
+    "khaleeji party rap beat",
+    "shway shway instrumental",
+    "arabic club banger uae"
+  ],
+  "heroCta": "Buy Khaleeji Party Beat (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Viral Dance Challenge, Gulf Club Banger and Commercial Radio Single",
+  "similarArtists": [
+    "Flipperachi",
+    "Daffy",
+    "Freek",
+    "Mohamed Ramadan"
+  ],
+  "recommendedBpm": "108-115 BPM",
+  "productionTips": "Layered Khaleeji Mirwas drums and handclaps synchronized with a bouncy 808 sub-bassline.",
+  "idealVocalStyle": "Charismatic, high-energy bilingual Arabic/English cadence with catchy singalong choruses.",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "Guaranteed viral engagement across TikTok, Gulf club venues, and wedding after-parties."
+},
+  {
+  "slug": "narcy-iraqi-dubai-conscious-rap",
+  "title": "Narcy Middle Eastern Conscious Boom Bap & Political Hip-Hop Beat",
+  "description": "Sophisticated, thought-provoking conscious hip-hop inspired by Narcy (Hamdulillah, Sunbathers, Makina), combining dusty Middle Eastern vinyl samples, heavy SP1200 boom bap drums, and political depth.",
+  "targetKeywords": [
+    "narcy type beat",
+    "middle eastern conscious rap beat",
+    "iraqi hip hop beat dubai",
+    "narcy hamdulillah instrumental",
+    "political boom bap uae"
+  ],
+  "heroCta": "Buy Narcy Style Beat (WAV + Stems)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Conscious Hip-Hop, Thought-Provoking Visuals and Album Statement Tracks",
+  "similarArtists": [
+    "Narcy",
+    "Lowkey",
+    "Shadia Mansour",
+    "Immortal Technique"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "productionTips": "Warm SP1200 vinyl textures with natural drum swing and acoustic upright basslines.",
+  "idealVocalStyle": "Complex multisyllabic rhyme schemes, intellectual storytelling, and commanding delivery.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Cult status among conscious hip-hop purists, university audiences, and documentary films."
+},
+  {
+  "slug": "desert-safari-dune-bashing-trap",
+  "title": "Dubai Desert Safari Dune Bashing Adrenaline Trap 140 BPM Beat",
+  "description": "Extreme, adrenaline-pumping desert trap capturing 4x4 Land Cruiser dune bashing across the red sands of Lahbab: distorted 808 bass, racing trap snares, and epic desert wind soundscapes.",
+  "targetKeywords": [
+    "dubai desert safari trap beat",
+    "dune bashing instrumental",
+    "red dunes trap beat uae",
+    "adrenaline desert rap beat",
+    "140 bpm desert trap banger"
+  ],
+  "heroCta": "Buy Dune Bashing Beat (WAV Mastered)",
+  "energyLevel": "Very High",
+  "primaryUse": "Adventure Action Videos, Off-Road Lifestyle Clips and Workout Playlists",
+  "similarArtists": [
+    "Freek",
+    "Yellow Claw",
+    "KSHMR",
+    "Stormy"
+  ],
+  "recommendedBpm": "138-144 BPM",
+  "productionTips": "Distorted 808 bass with hard clipper processing layered under rapid triplet hi-hat rolls.",
+  "idealVocalStyle": "Aggressive, high-energy delivery, rapid-fire punchlines, and motivational bars.",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "Exceptional traction in adventure travel reels, automotive videos, and TikTok gym edits."
+},
+  {
+  "slug": "qanun-arabic-zither-trap-fusion",
+  "title": "Middle Eastern 78-String Qanun (قانون) & Trap 808 Fusion Beat",
+  "description": "Exquisite oriental acoustic fusion featuring the rapid tremolo picking and microtonal levers of the traditional 78-string Arabic Qanun (قانون) over thunderous modern 808 trap drops.",
+  "targetKeywords": [
+    "qanun trap beat",
+    "arabic zither hip hop beat",
+    "traditional qanun 808 instrumental",
+    "oriental trap beat uae",
+    "middle eastern qanun rap"
+  ],
+  "heroCta": "Buy Qanun Trap Beat (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Cultural Crossover Anthem, High-End Commercials and Cinematic Music Videos",
+  "similarArtists": [
+    "Wegz",
+    "Marwan Pablo",
+    "Saint Levant",
+    "Freek"
+  ],
+  "recommendedBpm": "126-134 BPM",
+  "productionTips": "Dual-mic acoustic Qanun recording in wide stereo over an ultra-clean 40Hz sub-bass.",
+  "idealVocalStyle": "Passionate Arabic, English, or French vocal delivery with emotional hook singing.",
+  "suggestedKey": "D Bayati / D Minor",
+  "streamingSuitability": "Insuperable cultural resonance across the Middle East, luxury brands, and global world-fusion charts."
+},
+  {
+  "slug": "meydan-world-cup-horse-racing-trap",
+  "title": "Meydan Dubai World Cup Horse Racing Royal Trap & Brass Anthem Beat",
+  "description": "Majestic, high-prestige trap celebrating the Dubai World Cup at Meydan: galloping percussion rolls, triumphant royal brass fanfares, and luxurious sub-bass drops.",
+  "targetKeywords": [
+    "meydan dubai world cup trap",
+    "royal brass trap beat uae",
+    "horse racing anthem instrumental",
+    "dubai equestrian hip hop beat",
+    "meydan luxury 808"
+  ],
+  "heroCta": "Buy Meydan Royal Beat (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Sports Championships, Royal Presentations and High-Prestige Commercials",
+  "similarArtists": [
+    "Hans Zimmer",
+    "THELIONCITYBOY",
+    "Ektor",
+    "Kura"
+  ],
+  "recommendedBpm": "132-138 BPM",
+  "productionTips": "Layered orchestral brass fanfares with heavy timpani strikes over a rolling 808 bassline.",
+  "idealVocalStyle": "Authoritative, commanding delivery with proud, victory-themed lyrics.",
+  "suggestedKey": "C Major / C Minor",
+  "streamingSuitability": "Essential for major sports ceremonies, equestrian events, and luxury brand campaigns."
+},
+  {
+  "slug": "dubai-frame-past-future-crossover",
+  "title": "Dubai Frame Architectural Bridge Vintage to Futuristic Trap Beat",
+  "description": "Architectural sonic bridge inspired by the Dubai Frame: nostalgic Old Deira vinyl samples evolving into cutting-edge Downtown Dubai futuristic 808s and spatial synths.",
+  "targetKeywords": [
+    "dubai frame trap beat",
+    "vintage to futuristic hip hop uae",
+    "dubai past and future instrumental",
+    "architectural trap beat dubai",
+    "old and new dubai 808"
+  ],
+  "heroCta": "Buy Dubai Frame Beat (WAV Mastered)",
+  "energyLevel": "High",
+  "primaryUse": "Conceptual Album Tracks, Architectural Documentaries and Visual Storytelling",
+  "similarArtists": [
+    "Freek",
+    "Narcy",
+    "Travis Scott",
+    "DPR LIVE"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "productionTips": "Dynamic bridge transitioning from filtered 12-bit vinyl samples into ultra-wide modern 808 trap.",
+  "idealVocalStyle": "Storytelling verses contrasting tradition with modernity and personal growth.",
+  "suggestedKey": "F Minor",
+  "streamingSuitability": "Perfect for tourism campaigns, visual documentaries, and conceptual album milestones."
+},
+  {
+  "slug": "mizmar-egyptian-dubai-shaabi-trap",
+  "title": "Mizmar Folk Horn & Shaabi Mahraganat Street Trap 808 Beat",
+  "description": "High-octane street celebration fusing the piercing, festive Middle Eastern Mizmar folk horn and Darbuka drums with thunderous modern 808 trap sub-drops.",
+  "targetKeywords": [
+    "mizmar trap beat",
+    "shaabi trap beat dubai",
+    "mahraganat 808 instrumental",
+    "egyptian mizmar rap beat",
+    "middle eastern street party beat"
+  ],
+  "heroCta": "Buy Mizmar Trap Beat (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Viral Dance Challenge, Street Party Anthem and High-Energy Visual",
+  "similarArtists": [
+    "Mohamed Ramadan",
+    "Wegz",
+    "Marwan Pablo",
+    "Hassan Shakosh"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "productionTips": "Piercing acoustic Mizmar lead melody with wide stereo delay over hard punchy kicks.",
+  "idealVocalStyle": "High-energy rhythmic chanting, street party call-and-response, and rapid bars.",
+  "suggestedKey": "D Minor / Rast",
+  "streamingSuitability": "Guaranteed viral sharing across TikTok, street dance trends, and Middle Eastern wedding sets."
+},
+  {
+  "slug": "sheesha-lounge-nocturnal-rnb-trap",
+  "title": "Late-Night Dubai Sheesha Lounge Rooftop Ambient R&B-Trap Beat",
+  "description": "Smooth, hypnotic nocturnal R&B-trap inspired by rooftop sheesha lounges overlooking the Burj Khalifa: ambient Rhodes keys, fragrant synth smoke textures, and relaxed 808 bass.",
+  "targetKeywords": [
+    "sheesha lounge lofi trap",
+    "dubai rooftop ambient rnb",
+    "late night dubai chillhop",
+    "sheesha rooftop rap beat",
+    "nocturnal rnb trap uae"
+  ],
+  "heroCta": "Buy Rooftop Lounge Beat (Commercial License)",
+  "energyLevel": "Medium",
+  "primaryUse": "Nocturnal R&B Single, Rooftop Vlogs, Romantic Singles and Study Chill",
+  "similarArtists": [
+    "Saint Levant",
+    "Elyanna",
+    "The Weeknd",
+    "PARTYNEXTDOOR"
+  ],
+  "recommendedBpm": "100-108 BPM",
+  "productionTips": "Warm tape-flutter Rhodes electric piano chords layered beneath a round, non-muddy 808.",
+  "idealVocalStyle": "Sultry, intimate vocal delivery with autotuned falsetto runs and bilingual lyrics.",
+  "suggestedKey": "Ab Minor",
+  "streamingSuitability": "Perfect for late-night streaming playlists, romantic soundtracks, and luxury cafe ambience."
+},
+  {
+  "slug": "dubai-opera-cinematic-arabic-trap",
+  "title": "Dubai Opera Grand Hall Dramatic Arabic Orchestral Trap Beat",
+  "description": "Prestigious, grand theatrical hip-hop inspired by the wooden dhow-shaped architecture of Dubai Opera: weeping cello solos, dramatic orchestral strings, and heavy modern sub-bass.",
+  "targetKeywords": [
+    "dubai opera trap beat",
+    "dramatic arabic orchestral hip hop",
+    "cinematic cello trap beat",
+    "dubai opera instrumental 808",
+    "grand theater rap beat uae"
+  ],
+  "heroCta": "Buy Dubai Opera Beat (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Cinematic Album Title Track, Grand Theatrical Performances and Brand Films",
+  "similarArtists": [
+    "Hans Zimmer",
+    "Wegz",
+    "Antonín Dvořák",
+    "Kendrick Lamar"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "productionTips": "Acoustic cello and violin sections recorded with concert hall reverberation over a clean 808.",
+  "idealVocalStyle": "Dramatic, emotionally charged vocal delivery with deep poetic metaphors.",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "Essential for cinematic music videos, luxury brand commercials, and high-concept albums."
+},
+  {
+  "slug": "arabian-gulf-pearl-diver-lofi",
+  "title": "Arabian Gulf Pearl Diving Heritage Sea Waves & Acoustic Lofi Beat",
+  "description": "Heartfelt tribute to the UAE's ancestral pearl diving heritage: gentle Arabian Gulf waves, traditional pearl diver work chants (Nahham), and warm nylon guitar chillhop drums.",
+  "targetKeywords": [
+    "pearl diver lofi beat",
+    "arabian gulf chillhop instrumental",
+    "uae heritage acoustic beat",
+    "nahham sea shanty lofi",
+    "relaxing emirati heritage beat"
+  ],
+  "heroCta": "Buy Pearl Diver Lofi (Commercial License)",
+  "energyLevel": "Low",
+  "primaryUse": "Heritage Documentaries, Study Focus Playlists and Meditative Listening",
+  "similarArtists": [
+    "Narcy",
+    "Kudasaibeats",
+    "Tomppabeats",
+    "Nujabes"
+  ],
+  "recommendedBpm": "76-82 BPM",
+  "productionTips": "Field recordings of gentle Gulf sea waves beneath warm fingerpicked nylon guitar chords.",
+  "idealVocalStyle": "Gentle, reflective spoken word, traditional sea poetry, or peaceful background listening.",
+  "suggestedKey": "E Major",
+  "streamingSuitability": "Insuperable for cultural content creators, heritage projects, and study focus streamers."
+},
+  {
+  "slug": "burj-al-arab-heliport-vip-banger",
+  "title": "Burj Al Arab Helipad VIP Luxury Trap & Champagne 808 Banger Beat",
+  "description": "The peak of luxury iconism inspired by the Burj Al Arab helipad: champagne synth plucks, soaring melodies, and immaculate 808 sub drops designed for VIP anthems.",
+  "targetKeywords": [
+    "burj al arab trap beat",
+    "helipad vip banger beat",
+    "dubai 7 star luxury instrumental",
+    "champagne trap beat uae",
+    "burj al arab 808 banger"
+  ],
+  "heroCta": "Buy Burj Al Arab VIP Beat (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "VIP Club Anthems, High-Roller Music Videos and Luxury Brand Campaigns",
+  "similarArtists": [
+    "Freek",
+    "Travis Scott",
+    "Drake",
+    "DJ Khaled"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "productionTips": "Layered staccato synth plucks with analog tape saturation over a resonant, unclipped sub-808.",
+  "idealVocalStyle": "Confident, swaggering melodic delivery with catchy luxury lifestyle choruses.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Guaranteed heavy rotation in luxury nightclub sets, sports car cruises, and lifestyle reels."
+},
+  {
+  "slug": "sharjah-calligraphy-poetic-boom-bap",
+  "title": "Sharjah Islamic Calligraphy & Classical Arabic Poetic Boom Bap Beat",
+  "description": "Cultured, articulate boom bap honoring classical Arabic calligraphy and poetic meter: dusty SP1200 drum chops, weeping acoustic strings, and profound philosophical depth.",
+  "targetKeywords": [
+    "arabic calligraphy boom bap beat",
+    "sharjah poetic rap beat",
+    "classical arabic hip hop beat",
+    "islamic calligraphy rap instrumental",
+    "sp1200 arabic boom bap"
+  ],
+  "heroCta": "Buy Calligraphy Boom Bap (Unlimited Use)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Classical Arabic Rap, Lyrical Poetry Recitations and Cultural Documentaries",
+  "similarArtists": [
+    "Shadia Mansour",
+    "Narcy",
+    "Akkezdet Phiai",
+    "Immortal Technique"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "productionTips": "Dusty vinyl sample chops with uncompressed natural acoustic drum swing and warm bass.",
+  "idealVocalStyle": "Flawless Classical Arabic (Fusha) or poetic dialect, intricate rhyme schemes, and grave delivery.",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "The definitive format for classical Arabic lyricists, literature festivals, and purist hip-hop heads."
+},
+  {
+  "slug": "affordable-dubai-trap-beats-apple-pay",
+  "title": "Affordable Trap Beats from 75 AED with Apple Pay (For Emerging UAE MCs)",
+  "description": "High-quality, budget-friendly trap and drill instrumentals for emerging UAE and Gulf artists starting from only 75 AED (~$20 USD) with instant Apple Pay and debit card checkout.",
+  "targetKeywords": [
+    "affordable dubai trap beats apple pay",
+    "cheap rap beats uae 75 aed",
+    "buy affordable drill beats dubai",
+    "budget arabic trap beats aed"
+  ],
+  "heroCta": "Browse Affordable Beats (From 75 AED via Apple Pay)",
+  "energyLevel": "High",
+  "primaryUse": "Emerging Artist Releases, Home Studio Demos and Breakthrough Singles",
+  "similarArtists": [
+    "UAE Emerging Hip-Hop Scene"
+  ],
+  "recommendedBpm": "130-142 BPM",
+  "productionTips": "Direct verse-chorus song structures formatted for rapid recording and vocal sketching.",
+  "idealVocalStyle": "Adaptable across all emerging Arabic and English vocal styles.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Includes commercial license valid up to 25,000 streams on Spotify and Anghami."
+},
+  {
+  "slug": "commercial-rnb-pop-trap-beats-dubai-wav",
+  "title": "Commercial R&B & Pop-Trap Beats with Acoustic Guitars (WAV 24-bit)",
+  "description": "Radio-ready, smooth R&B-trap productions featuring silky acoustic guitars and Rhodes electric keyboards delivered in pristine 24-bit studio WAV format for singers and melodic MCs in the UAE.",
+  "targetKeywords": [
+    "commercial rnb pop trap beats dubai wav",
+    "saint levant style beats wav",
+    "dubai radio pop trap instrumentals",
+    "melodic rnb trap uae aed"
+  ],
+  "heroCta": "Buy R&B-Trap Beat (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Commercial Radio Single, Island Summer Hit and Romantic Visual",
+  "similarArtists": [
+    "Saint Levant",
+    "Elyanna",
+    "The Weeknd",
+    "Freek"
+  ],
+  "recommendedBpm": "105-115 BPM",
+  "productionTips": "Stereo acoustic guitar loops treated with warm preamps and smooth melodic sub-bass.",
+  "idealVocalStyle": "Smooth autotuned singing, seductive vocal runs, and memorable radio hooks.",
+  "suggestedKey": "F# Minor",
+  "streamingSuitability": "Engineered for mainstream UAE radio rotation (Virgin Radio Dubai, Dubai 92) and streaming."
+},
+  {
+  "slug": "heavy-drill-beats-abu-dhabi-stems",
+  "title": "Heavy Abu Dhabi Drill Beats with Sliding 808s & Multitrack Stems",
+  "description": "Hard-hitting, menacing UAE street drill instrumentals featuring aggressive sliding 808s and separated multitrack audio stems for mixing in recording studios across Abu Dhabi and Dubai.",
+  "targetKeywords": [
+    "heavy drill beats abu dhabi stems",
+    "uae street drill multitrack wav",
+    "arabic drill beats stems 808",
+    "hard drill instrumentals tracks aed"
+  ],
+  "heroCta": "Download Drill Beat (With Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hard Drill Singles, Studio Recording and High-Impact Music Videos",
+  "similarArtists": [
+    "Freek",
+    "Stormy",
+    "Central Cee",
+    "Headie One"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Separated stems for kick, sub-808, snare, hats, and melodics exported at -6dB headroom.",
+  "idealVocalStyle": "Cold reality punchlines, fast drill cadence, and direct street delivery.",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "Maximum flexibility for audio mixing engineers preparing club-ready master tracks."
+},
+  {
+  "slug": "summer-party-trap-beats-dubai-radio",
+  "title": "Summer Party Trap Beats 108 BPM for Virgin Radio Dubai & Beach Clubs",
+  "description": "Catchy, sun-drenched summer party trap and Khaleeji fusion instrumentals at 105-110 BPM engineered for beach clubs, poolside events, and heavy rotation on UAE mainstream radio.",
+  "targetKeywords": [
+    "summer party trap beats dubai radio",
+    "virgin radio dubai trap 108 bpm",
+    "khaleeji party trap beat uae",
+    "dubai beach club instrumental wav"
+  ],
+  "heroCta": "Buy Summer Party Beat (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Summer Radio Anthem, Beach Club Banger and Commercial Single",
+  "similarArtists": [
+    "Flipperachi",
+    "Daffy",
+    "Freek",
+    "Burna Boy"
+  ],
+  "recommendedBpm": "106-110 BPM",
+  "productionTips": "Bright synth plucks and syncopated tropical percussion with wide stereo image.",
+  "idealVocalStyle": "High-energy singalong hooks, playful verses, and crowd-control party chants.",
+  "suggestedKey": "A Major",
+  "streamingSuitability": "Insuperable for summer playlists, TikTok trends, and beach resort DJ sets."
+},
+  {
+  "slug": "uae-music-royalty-assignment-contract-pdf",
+  "title": "UAE Copyright Law 38/2021 Irrevocable Royalty Assignment Contract (PDF)",
+  "description": "Download an official legal licensing contract in PDF format ready for submission to the UAE Ministry of Economy and SACEM ensuring 100% copyright protection and master ownership.",
+  "targetKeywords": [
+    "uae music royalty assignment contract pdf",
+    "ministry of economy copyright agreement uae",
+    "producer split sheet contract dubai",
+    "legal beat contract uae pdf"
+  ],
+  "heroCta": "Download UAE Assignment Agreement (Instant PDF)",
+  "energyLevel": "N/A",
+  "primaryUse": "Copyright Registration, Exclusive Transfers and Label Submissions",
+  "similarArtists": [
+    "Onzieb",
+    "UAE Ministry of Economy Registered Songwriters and Composers"
+  ],
+  "recommendedBpm": "All Tempos",
+  "productionTips": "Formulated under UAE Federal Decree Law No. 38 of 2021 on Copyrights.",
+  "idealVocalStyle": "Valid for all musical genres and vocal compositions.",
+  "suggestedKey": "All Keys",
+  "streamingSuitability": "Guaranteed legal protection and worry-free global commercial distribution."
+},
+  {
+  "slug": "careem-pay-tabby-beats-store-dubai",
+  "title": "Buy Beats with Careem Pay, Tabby & UAE Cards (Instant Download AED)",
+  "description": "Secure instant checkout via Careem Pay, Tabby, and all UAE bank cards (Emirates NBD, ADCB, FAB, DIB) with zero conversion fees and immediate 24-bit WAV file delivery in AED (د.إ).",
+  "targetKeywords": [
+    "careem pay beat store dubai",
+    "buy beats tabby uae aed",
+    "buy beats dubai bank cards",
+    "uae dirhams beats store instant download"
+  ],
+  "heroCta": "Checkout with UAE Cards / Careem Pay (AED)",
+  "energyLevel": "Universal",
+  "primaryUse": "Fast and Secure Beat Purchasing for UAE Creators",
+  "similarArtists": [
+    "UAE Recording Artists and Producers"
+  ],
+  "recommendedBpm": "All BPMs",
+  "productionTips": "Encrypted direct processing with instant license and audio download link generation.",
+  "idealVocalStyle": "Accessible to all creators across the UAE and the Gulf region.",
+  "suggestedKey": "All Keys",
+  "streamingSuitability": "Commercial licensing with immediate monetization freedom on DSPs."
+},
+  {
+  "slug": "album-discount-deals-uae-5-beats",
+  "title": "UAE Rap Album & Mixtape Deals: 5 Beats Bundle (Save 40% in AED د.إ)",
+  "description": "Multi-beat bundle package for UAE artists recording a 5-track EP or 10-track album: save up to 40% in UAE Dirhams (AED د.إ) with direct mixing support and consistent production quality.",
+  "targetKeywords": [
+    "album discount deals uae rap",
+    "5 beats bundle dubai aed",
+    "mixtape beat package uae dirhams",
+    "bulk beats discount dubai aed"
+  ],
+  "heroCta": "View 5-Beat Album Bundle (Save 40%)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Full EP Recording, Continuous Album Projects and Consistent Sound",
+  "similarArtists": [
+    "Independent Middle Eastern Hip-Hop Artists"
+  ],
+  "recommendedBpm": "88-144 BPM",
+  "productionTips": "Curated sonic continuity ensuring your EP flows smoothly from track to track.",
+  "idealVocalStyle": "Adaptable across the artist's full stylistic range.",
+  "suggestedKey": "Various Keys",
+  "streamingSuitability": "Multi-release commercial license valid across all streaming platforms."
+},
+  {
+  "slug": "vocal-mixing-mastering-dubai-onzieb",
+  "title": "Full Music Production, Vocal Mixing & Stem Mastering (Producer Onzieb)",
+  "description": "Complete audio production service including custom beat composition, surgical vocal mixing, and stem mastering for UAE artists via WhatsApp consultation with Onzieb.",
+  "targetKeywords": [
+    "vocal mixing mastering dubai onzieb",
+    "music production service uae whatsapp",
+    "custom beats and mixing dubai",
+    "mastering trap rap uae onzieb"
+  ],
+  "heroCta": "Chat with Onzieb about Mixing on WhatsApp",
+  "energyLevel": "Custom",
+  "primaryUse": "Major Single Releases, Label Presentations and Broadcast Airplay",
+  "similarArtists": [
+    "Onzieb",
+    "UAE Professional Artists"
+  ],
+  "recommendedBpm": "Tailored to your project",
+  "productionTips": "Broadcast standard mastering (-14 LUFS) with precise multiband compression on vocal tracks.",
+  "idealVocalStyle": "Home studio or commercial studio vocal recordings.",
+  "suggestedKey": "Personalized",
+  "streamingSuitability": "Guaranteed compliance with Spotify, Apple Music, and Virgin Radio Dubai loudness standards."
+},
+  {
+  "slug": "acoustic-guitar-sad-trap-beats-dubai",
+  "title": "Emotional Sad Trap Beats with Live Acoustic Guitars & Weeping Pianos",
+  "description": "Deeply emotional, introspective Middle Eastern trap instrumentals featuring real acoustic nylon guitars, melancholic piano progressions, and hard sliding 808s for pain storytelling.",
+  "targetKeywords": [
+    "acoustic guitar sad trap beats dubai",
+    "saint levant style guitar beats",
+    "uae emotional trap instrumentals wav",
+    "sad trap beats dubai aed"
+  ],
+  "heroCta": "Buy Acoustic Sad Trap Beat (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Emotional Pain Rap, Confessional Singles and Deep Visualizers",
+  "similarArtists": [
+    "Saint Levant",
+    "Freek",
+    "Juice WRLD",
+    "The Kid LAROI"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "productionTips": "Intimate acoustic guitar picking layered with tape-saturated pianos and clean sub-bass.",
+  "idealVocalStyle": "Honest, emotionally charged delivery, pain lyrics, and heartfelt vocal cadence.",
+  "suggestedKey": "E Minor / G Minor",
+  "streamingSuitability": "High organic streaming longevity and strong audience emotional loyalty."
+},
+  {
+  "slug": "free-dubai-drill-drum-kit-wav-samples",
+  "title": "Free Dubai Drill Drum Kit & 808 Percussion Sample Pack (24-bit WAV)",
+  "description": "Download a free producer drum kit featuring 25 punchy sounds (tuned Arabic drill 808s, snappy rimshots, counter-snares, and hi-hat rolls) in studio 24-bit WAV quality.",
+  "targetKeywords": [
+    "free dubai drill drum kit",
+    "free samples trap dubai uae",
+    "arabic drill drum pack free download",
+    "808 samples dubai trap download"
+  ],
+  "heroCta": "Download Free Drum Kit (Instant WAV Access)",
+  "energyLevel": "High",
+  "primaryUse": "Music Production, Beatmaking and Home Studio Experimentation",
+  "similarArtists": [
+    "UAE Beatmakers and Producers"
+  ],
+  "recommendedBpm": "Compatible with all BPMs",
+  "productionTips": "Tuned in C, pre-mastered with clean transient attacks ready to drag and drop into any DAW.",
+  "idealVocalStyle": "For beatmakers creating tracks for recording artists.",
+  "suggestedKey": "808s tuned to C",
+  "streamingSuitability": "100% royalty-free for commercial use in your own original musical productions."
+},
+  {
+  "slug": "palm-jumeirah-arabic-drill-808",
+  "name": "Palm Jumeirah Arabic Drill 808 Beats",
+  "category": "scene",
+  "badge": "Palm Jumeirah Arabic Drill",
+  "headline": "Palm Jumeirah (Atlantis & Superyacht Luxury) Arabic Drill 808 Beats: 24-Bit WAV Beats & Apple Pay",
+  "description": "Heavy sliding 808 sub-bass, icy minor pianos, and rapid syncopated drill hats engineered for MCs in Palm Jumeirah.",
+  "targetArtists": [
+    "Artists from Palm Jumeirah",
+    "UAE Urban Music Community",
+    "Middle Eastern Hip-Hop Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "C-Minor / E-Minor",
+  "vibeAttributes": [
+    "Palm Jumeirah",
+    "Arabic Drill",
+    "Apple Pay & Cards (AED)",
+    "UAE Law & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Arabic Drill 808 Beats",
+    "Arabic Drill",
+    "Dubai Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "palm-jumeirah-luxury-supercar-trap",
+  "name": "Palm Jumeirah Supercar Luxury Trap Beats",
+  "category": "scene",
+  "badge": "Palm Jumeirah Luxury Trap",
+  "headline": "Palm Jumeirah (Atlantis & Superyacht Luxury) Supercar Luxury Trap Beats: 24-Bit WAV Beats & Apple Pay",
+  "description": "Lush atmospheric synths, crisp modern trap claps, and clean 808 bounce crafted for artists in Palm Jumeirah.",
+  "targetArtists": [
+    "Artists from Palm Jumeirah",
+    "UAE Urban Music Community",
+    "Middle Eastern Hip-Hop Scene"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C#-Minor / G-Minor",
+  "vibeAttributes": [
+    "Palm Jumeirah",
+    "Luxury Trap",
+    "Apple Pay & Cards (AED)",
+    "UAE Law & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Supercar Luxury Trap Beats",
+    "Arabic Drill",
+    "Dubai Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "palm-jumeirah-oud-fusion-trap",
+  "name": "Palm Jumeirah Middle Eastern Oud Trap Beats",
+  "category": "scene",
+  "badge": "Palm Jumeirah Oud Trap",
+  "headline": "Palm Jumeirah (Atlantis & Superyacht Luxury) Middle Eastern Oud Trap Beats: 24-Bit WAV Beats & Apple Pay",
+  "description": "Authentic acoustic Oud taximi picking, microtonal ornamentation, and modern 808 drops for Palm Jumeirah.",
+  "targetArtists": [
+    "Artists from Palm Jumeirah",
+    "UAE Urban Music Community",
+    "Middle Eastern Hip-Hop Scene"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "D-Hijaz / D-Bayati",
+  "vibeAttributes": [
+    "Palm Jumeirah",
+    "Oud Trap",
+    "Apple Pay & Cards (AED)",
+    "UAE Law & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Middle Eastern Oud Trap Beats",
+    "Arabic Drill",
+    "Dubai Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "palm-jumeirah-khaleeji-boom-bap",
+  "name": "Palm Jumeirah Khaleeji Tarab Boom Bap",
+  "category": "scene",
+  "badge": "Palm Jumeirah Khaleeji Boom Bap",
+  "headline": "Palm Jumeirah (Atlantis & Superyacht Luxury) Khaleeji Tarab Boom Bap: 24-Bit WAV Beats & Apple Pay",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and traditional Gulf clapping for MCs in Palm Jumeirah.",
+  "targetArtists": [
+    "Artists from Palm Jumeirah",
+    "UAE Urban Music Community",
+    "Middle Eastern Hip-Hop Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Palm Jumeirah",
+    "Khaleeji Boom Bap",
+    "Apple Pay & Cards (AED)",
+    "UAE Law & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Khaleeji Tarab Boom Bap",
+    "Arabic Drill",
+    "Dubai Trap"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "abu-dhabi-reem-arabic-drill-808",
+  "name": "Al Reem Island Arabic Drill 808 Beats",
+  "category": "scene",
+  "badge": "Al Reem Island Arabic Drill",
+  "headline": "Al Reem Island (Abu Dhabi Financial Waterfront) Arabic Drill 808 Beats: 24-Bit WAV Beats & Apple Pay",
+  "description": "Heavy sliding 808 sub-bass, icy minor pianos, and rapid syncopated drill hats engineered for MCs in Al Reem Island.",
+  "targetArtists": [
+    "Artists from Al Reem Island",
+    "UAE Urban Music Community",
+    "Middle Eastern Hip-Hop Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "C-Minor / E-Minor",
+  "vibeAttributes": [
+    "Al Reem Island",
+    "Arabic Drill",
+    "Apple Pay & Cards (AED)",
+    "UAE Law & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Arabic Drill 808 Beats",
+    "Arabic Drill",
+    "Dubai Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "abu-dhabi-reem-luxury-supercar-trap",
+  "name": "Al Reem Island Supercar Luxury Trap Beats",
+  "category": "scene",
+  "badge": "Al Reem Island Luxury Trap",
+  "headline": "Al Reem Island (Abu Dhabi Financial Waterfront) Supercar Luxury Trap Beats: 24-Bit WAV Beats & Apple Pay",
+  "description": "Lush atmospheric synths, crisp modern trap claps, and clean 808 bounce crafted for artists in Al Reem Island.",
+  "targetArtists": [
+    "Artists from Al Reem Island",
+    "UAE Urban Music Community",
+    "Middle Eastern Hip-Hop Scene"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C#-Minor / G-Minor",
+  "vibeAttributes": [
+    "Al Reem Island",
+    "Luxury Trap",
+    "Apple Pay & Cards (AED)",
+    "UAE Law & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Supercar Luxury Trap Beats",
+    "Arabic Drill",
+    "Dubai Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "abu-dhabi-reem-oud-fusion-trap",
+  "name": "Al Reem Island Middle Eastern Oud Trap Beats",
+  "category": "scene",
+  "badge": "Al Reem Island Oud Trap",
+  "headline": "Al Reem Island (Abu Dhabi Financial Waterfront) Middle Eastern Oud Trap Beats: 24-Bit WAV Beats & Apple Pay",
+  "description": "Authentic acoustic Oud taximi picking, microtonal ornamentation, and modern 808 drops for Al Reem Island.",
+  "targetArtists": [
+    "Artists from Al Reem Island",
+    "UAE Urban Music Community",
+    "Middle Eastern Hip-Hop Scene"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "D-Hijaz / D-Bayati",
+  "vibeAttributes": [
+    "Al Reem Island",
+    "Oud Trap",
+    "Apple Pay & Cards (AED)",
+    "UAE Law & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Middle Eastern Oud Trap Beats",
+    "Arabic Drill",
+    "Dubai Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "abu-dhabi-reem-khaleeji-boom-bap",
+  "name": "Al Reem Island Khaleeji Tarab Boom Bap",
+  "category": "scene",
+  "badge": "Al Reem Island Khaleeji Boom Bap",
+  "headline": "Al Reem Island (Abu Dhabi Financial Waterfront) Khaleeji Tarab Boom Bap: 24-Bit WAV Beats & Apple Pay",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and traditional Gulf clapping for MCs in Al Reem Island.",
+  "targetArtists": [
+    "Artists from Al Reem Island",
+    "UAE Urban Music Community",
+    "Middle Eastern Hip-Hop Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Al Reem Island",
+    "Khaleeji Boom Bap",
+    "Apple Pay & Cards (AED)",
+    "UAE Law & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Khaleeji Tarab Boom Bap",
+    "Arabic Drill",
+    "Dubai Trap"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "dubai-jlt-arabic-drill-808",
+  "name": "Dubai JLT Arabic Drill 808 Beats",
+  "category": "scene",
+  "badge": "Dubai JLT Arabic Drill",
+  "headline": "Dubai JLT (Jumeirah Lakes & Al Barsha) Arabic Drill 808 Beats: 24-Bit WAV Beats & Apple Pay",
+  "description": "Heavy sliding 808 sub-bass, icy minor pianos, and rapid syncopated drill hats engineered for MCs in Dubai JLT.",
+  "targetArtists": [
+    "Artists from Dubai JLT",
+    "UAE Urban Music Community",
+    "Middle Eastern Hip-Hop Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "C-Minor / E-Minor",
+  "vibeAttributes": [
+    "Dubai JLT",
+    "Arabic Drill",
+    "Apple Pay & Cards (AED)",
+    "UAE Law & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Arabic Drill 808 Beats",
+    "Arabic Drill",
+    "Dubai Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "dubai-jlt-luxury-supercar-trap",
+  "name": "Dubai JLT Supercar Luxury Trap Beats",
+  "category": "scene",
+  "badge": "Dubai JLT Luxury Trap",
+  "headline": "Dubai JLT (Jumeirah Lakes & Al Barsha) Supercar Luxury Trap Beats: 24-Bit WAV Beats & Apple Pay",
+  "description": "Lush atmospheric synths, crisp modern trap claps, and clean 808 bounce crafted for artists in Dubai JLT.",
+  "targetArtists": [
+    "Artists from Dubai JLT",
+    "UAE Urban Music Community",
+    "Middle Eastern Hip-Hop Scene"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C#-Minor / G-Minor",
+  "vibeAttributes": [
+    "Dubai JLT",
+    "Luxury Trap",
+    "Apple Pay & Cards (AED)",
+    "UAE Law & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Supercar Luxury Trap Beats",
+    "Arabic Drill",
+    "Dubai Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "dubai-jlt-oud-fusion-trap",
+  "name": "Dubai JLT Middle Eastern Oud Trap Beats",
+  "category": "scene",
+  "badge": "Dubai JLT Oud Trap",
+  "headline": "Dubai JLT (Jumeirah Lakes & Al Barsha) Middle Eastern Oud Trap Beats: 24-Bit WAV Beats & Apple Pay",
+  "description": "Authentic acoustic Oud taximi picking, microtonal ornamentation, and modern 808 drops for Dubai JLT.",
+  "targetArtists": [
+    "Artists from Dubai JLT",
+    "UAE Urban Music Community",
+    "Middle Eastern Hip-Hop Scene"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "D-Hijaz / D-Bayati",
+  "vibeAttributes": [
+    "Dubai JLT",
+    "Oud Trap",
+    "Apple Pay & Cards (AED)",
+    "UAE Law & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Middle Eastern Oud Trap Beats",
+    "Arabic Drill",
+    "Dubai Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "dubai-jlt-khaleeji-boom-bap",
+  "name": "Dubai JLT Khaleeji Tarab Boom Bap",
+  "category": "scene",
+  "badge": "Dubai JLT Khaleeji Boom Bap",
+  "headline": "Dubai JLT (Jumeirah Lakes & Al Barsha) Khaleeji Tarab Boom Bap: 24-Bit WAV Beats & Apple Pay",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and traditional Gulf clapping for MCs in Dubai JLT.",
+  "targetArtists": [
+    "Artists from Dubai JLT",
+    "UAE Urban Music Community",
+    "Middle Eastern Hip-Hop Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Dubai JLT",
+    "Khaleeji Boom Bap",
+    "Apple Pay & Cards (AED)",
+    "UAE Law & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Khaleeji Tarab Boom Bap",
+    "Arabic Drill",
+    "Dubai Trap"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "sharjah-uni-arabic-drill-808",
+  "name": "Sharjah University Arabic Drill 808 Beats",
+  "category": "scene",
+  "badge": "Sharjah University Arabic Drill",
+  "headline": "Sharjah University (University City & Youth Cyphers) Arabic Drill 808 Beats: 24-Bit WAV Beats & Apple Pay",
+  "description": "Heavy sliding 808 sub-bass, icy minor pianos, and rapid syncopated drill hats engineered for MCs in Sharjah University.",
+  "targetArtists": [
+    "Artists from Sharjah University",
+    "UAE Urban Music Community",
+    "Middle Eastern Hip-Hop Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "C-Minor / E-Minor",
+  "vibeAttributes": [
+    "Sharjah University",
+    "Arabic Drill",
+    "Apple Pay & Cards (AED)",
+    "UAE Law & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Arabic Drill 808 Beats",
+    "Arabic Drill",
+    "Dubai Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "sharjah-uni-luxury-supercar-trap",
+  "name": "Sharjah University Supercar Luxury Trap Beats",
+  "category": "scene",
+  "badge": "Sharjah University Luxury Trap",
+  "headline": "Sharjah University (University City & Youth Cyphers) Supercar Luxury Trap Beats: 24-Bit WAV Beats & Apple Pay",
+  "description": "Lush atmospheric synths, crisp modern trap claps, and clean 808 bounce crafted for artists in Sharjah University.",
+  "targetArtists": [
+    "Artists from Sharjah University",
+    "UAE Urban Music Community",
+    "Middle Eastern Hip-Hop Scene"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C#-Minor / G-Minor",
+  "vibeAttributes": [
+    "Sharjah University",
+    "Luxury Trap",
+    "Apple Pay & Cards (AED)",
+    "UAE Law & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Supercar Luxury Trap Beats",
+    "Arabic Drill",
+    "Dubai Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "sharjah-uni-oud-fusion-trap",
+  "name": "Sharjah University Middle Eastern Oud Trap Beats",
+  "category": "scene",
+  "badge": "Sharjah University Oud Trap",
+  "headline": "Sharjah University (University City & Youth Cyphers) Middle Eastern Oud Trap Beats: 24-Bit WAV Beats & Apple Pay",
+  "description": "Authentic acoustic Oud taximi picking, microtonal ornamentation, and modern 808 drops for Sharjah University.",
+  "targetArtists": [
+    "Artists from Sharjah University",
+    "UAE Urban Music Community",
+    "Middle Eastern Hip-Hop Scene"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "D-Hijaz / D-Bayati",
+  "vibeAttributes": [
+    "Sharjah University",
+    "Oud Trap",
+    "Apple Pay & Cards (AED)",
+    "UAE Law & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Middle Eastern Oud Trap Beats",
+    "Arabic Drill",
+    "Dubai Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "sharjah-uni-khaleeji-boom-bap",
+  "name": "Sharjah University Khaleeji Tarab Boom Bap",
+  "category": "scene",
+  "badge": "Sharjah University Khaleeji Boom Bap",
+  "headline": "Sharjah University (University City & Youth Cyphers) Khaleeji Tarab Boom Bap: 24-Bit WAV Beats & Apple Pay",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and traditional Gulf clapping for MCs in Sharjah University.",
+  "targetArtists": [
+    "Artists from Sharjah University",
+    "UAE Urban Music Community",
+    "Middle Eastern Hip-Hop Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Sharjah University",
+    "Khaleeji Boom Bap",
+    "Apple Pay & Cards (AED)",
+    "UAE Law & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Khaleeji Tarab Boom Bap",
+    "Arabic Drill",
+    "Dubai Trap"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "khor-fakkan-arabic-drill-808",
+  "name": "Khor Fakkan Arabic Drill 808 Beats",
+  "category": "scene",
+  "badge": "Khor Fakkan Arabic Drill",
+  "headline": "Khor Fakkan (Gulf of Oman Amphitheater) Arabic Drill 808 Beats: 24-Bit WAV Beats & Apple Pay",
+  "description": "Heavy sliding 808 sub-bass, icy minor pianos, and rapid syncopated drill hats engineered for MCs in Khor Fakkan.",
+  "targetArtists": [
+    "Artists from Khor Fakkan",
+    "UAE Urban Music Community",
+    "Middle Eastern Hip-Hop Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "C-Minor / E-Minor",
+  "vibeAttributes": [
+    "Khor Fakkan",
+    "Arabic Drill",
+    "Apple Pay & Cards (AED)",
+    "UAE Law & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Arabic Drill 808 Beats",
+    "Arabic Drill",
+    "Dubai Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "khor-fakkan-luxury-supercar-trap",
+  "name": "Khor Fakkan Supercar Luxury Trap Beats",
+  "category": "scene",
+  "badge": "Khor Fakkan Luxury Trap",
+  "headline": "Khor Fakkan (Gulf of Oman Amphitheater) Supercar Luxury Trap Beats: 24-Bit WAV Beats & Apple Pay",
+  "description": "Lush atmospheric synths, crisp modern trap claps, and clean 808 bounce crafted for artists in Khor Fakkan.",
+  "targetArtists": [
+    "Artists from Khor Fakkan",
+    "UAE Urban Music Community",
+    "Middle Eastern Hip-Hop Scene"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C#-Minor / G-Minor",
+  "vibeAttributes": [
+    "Khor Fakkan",
+    "Luxury Trap",
+    "Apple Pay & Cards (AED)",
+    "UAE Law & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Supercar Luxury Trap Beats",
+    "Arabic Drill",
+    "Dubai Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "khor-fakkan-oud-fusion-trap",
+  "name": "Khor Fakkan Middle Eastern Oud Trap Beats",
+  "category": "scene",
+  "badge": "Khor Fakkan Oud Trap",
+  "headline": "Khor Fakkan (Gulf of Oman Amphitheater) Middle Eastern Oud Trap Beats: 24-Bit WAV Beats & Apple Pay",
+  "description": "Authentic acoustic Oud taximi picking, microtonal ornamentation, and modern 808 drops for Khor Fakkan.",
+  "targetArtists": [
+    "Artists from Khor Fakkan",
+    "UAE Urban Music Community",
+    "Middle Eastern Hip-Hop Scene"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "D-Hijaz / D-Bayati",
+  "vibeAttributes": [
+    "Khor Fakkan",
+    "Oud Trap",
+    "Apple Pay & Cards (AED)",
+    "UAE Law & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Middle Eastern Oud Trap Beats",
+    "Arabic Drill",
+    "Dubai Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "khor-fakkan-khaleeji-boom-bap",
+  "name": "Khor Fakkan Khaleeji Tarab Boom Bap",
+  "category": "scene",
+  "badge": "Khor Fakkan Khaleeji Boom Bap",
+  "headline": "Khor Fakkan (Gulf of Oman Amphitheater) Khaleeji Tarab Boom Bap: 24-Bit WAV Beats & Apple Pay",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and traditional Gulf clapping for MCs in Khor Fakkan.",
+  "targetArtists": [
+    "Artists from Khor Fakkan",
+    "UAE Urban Music Community",
+    "Middle Eastern Hip-Hop Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Khor Fakkan",
+    "Khaleeji Boom Bap",
+    "Apple Pay & Cards (AED)",
+    "UAE Law & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Khaleeji Tarab Boom Bap",
+    "Arabic Drill",
+    "Dubai Trap"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "hatta-arabic-drill-808",
+  "name": "Hatta Arabic Drill 808 Beats",
+  "category": "scene",
+  "badge": "Hatta Arabic Drill",
+  "headline": "Hatta (Hajar Mountains & Turquoise Dam) Arabic Drill 808 Beats: 24-Bit WAV Beats & Apple Pay",
+  "description": "Heavy sliding 808 sub-bass, icy minor pianos, and rapid syncopated drill hats engineered for MCs in Hatta.",
+  "targetArtists": [
+    "Artists from Hatta",
+    "UAE Urban Music Community",
+    "Middle Eastern Hip-Hop Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "C-Minor / E-Minor",
+  "vibeAttributes": [
+    "Hatta",
+    "Arabic Drill",
+    "Apple Pay & Cards (AED)",
+    "UAE Law & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Arabic Drill 808 Beats",
+    "Arabic Drill",
+    "Dubai Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "hatta-luxury-supercar-trap",
+  "name": "Hatta Supercar Luxury Trap Beats",
+  "category": "scene",
+  "badge": "Hatta Luxury Trap",
+  "headline": "Hatta (Hajar Mountains & Turquoise Dam) Supercar Luxury Trap Beats: 24-Bit WAV Beats & Apple Pay",
+  "description": "Lush atmospheric synths, crisp modern trap claps, and clean 808 bounce crafted for artists in Hatta.",
+  "targetArtists": [
+    "Artists from Hatta",
+    "UAE Urban Music Community",
+    "Middle Eastern Hip-Hop Scene"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C#-Minor / G-Minor",
+  "vibeAttributes": [
+    "Hatta",
+    "Luxury Trap",
+    "Apple Pay & Cards (AED)",
+    "UAE Law & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Supercar Luxury Trap Beats",
+    "Arabic Drill",
+    "Dubai Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "hatta-oud-fusion-trap",
+  "name": "Hatta Middle Eastern Oud Trap Beats",
+  "category": "scene",
+  "badge": "Hatta Oud Trap",
+  "headline": "Hatta (Hajar Mountains & Turquoise Dam) Middle Eastern Oud Trap Beats: 24-Bit WAV Beats & Apple Pay",
+  "description": "Authentic acoustic Oud taximi picking, microtonal ornamentation, and modern 808 drops for Hatta.",
+  "targetArtists": [
+    "Artists from Hatta",
+    "UAE Urban Music Community",
+    "Middle Eastern Hip-Hop Scene"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "D-Hijaz / D-Bayati",
+  "vibeAttributes": [
+    "Hatta",
+    "Oud Trap",
+    "Apple Pay & Cards (AED)",
+    "UAE Law & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Middle Eastern Oud Trap Beats",
+    "Arabic Drill",
+    "Dubai Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "hatta-khaleeji-boom-bap",
+  "name": "Hatta Khaleeji Tarab Boom Bap",
+  "category": "scene",
+  "badge": "Hatta Khaleeji Boom Bap",
+  "headline": "Hatta (Hajar Mountains & Turquoise Dam) Khaleeji Tarab Boom Bap: 24-Bit WAV Beats & Apple Pay",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and traditional Gulf clapping for MCs in Hatta.",
+  "targetArtists": [
+    "Artists from Hatta",
+    "UAE Urban Music Community",
+    "Middle Eastern Hip-Hop Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Hatta",
+    "Khaleeji Boom Bap",
+    "Apple Pay & Cards (AED)",
+    "UAE Law & SACEM Compliant"
+  ],
+  "popularGenres": [
+    "Khaleeji Tarab Boom Bap",
+    "Arabic Drill",
+    "Dubai Trap"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
 ];
