@@ -122587,4 +122587,1299 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "1"
   ]
 },
+  {
+  "slug": "ninho-chef-de-famille-piano-drill",
+  "title": "Ninho Chef de Famille Emotional Melodic Piano Trap & Drill Beat",
+  "description": "Chart-topping, diamond-certified French melodic trap and drill instrumental inspired by Ninho (M.I.L.S 3, Jefe, NI, Tout Va Bien, Lettre à une femme), blending weeping grand piano chords and sliding 808s.",
+  "targetKeywords": [
+    "ninho type beat",
+    "ninho piano trap beat",
+    "ninho jefe instrumental",
+    "mils 3 type beat",
+    "melodic french trap ninho 808"
+  ],
+  "heroCta": "Acheter Beat Style Ninho (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Lead Commercial Single, Melodic Storytelling and Radio Hit",
+  "similarArtists": [
+    "Ninho",
+    "Tiakola",
+    "SDM",
+    "Leto"
+  ],
+  "recommendedBpm": "134-140 BPM",
+  "productionTips": "Rich grand piano melodies with tape saturation, punctuated by precise hi-hat triplets and heavy 808 pitch glides.",
+  "idealVocalStyle": "Heartfelt autotuned hooks, rapid cadence variations, and deeply emotional street storytelling.",
+  "suggestedKey": "F Minor / C Minor",
+  "streamingSuitability": "Guaranteed heavy streaming rotation on Top 50 France, Rap Français playlists, and radio."
+},
+  {
+  "slug": "jul-d-or-et-de-platine-marseille-club",
+  "title": "Jul D'or et de Platine Marseille 130 BPM Club Afro-Bounce Beat",
+  "description": "Festive, high-energy Marseille urban club dance banger inspired by Jul (D'or et de Platine, Tchikita, Bande Organisée, J'oublie tout, La Faille), with bouncy syncopated claps and infectious auto-tune bounce.",
+  "targetKeywords": [
+    "jul type beat",
+    "instru jul d'or et de platine",
+    "marseille club dance rap beat 130 bpm",
+    "jul tchikita type beat",
+    "instru marseille bande organisee"
+  ],
+  "heroCta": "Acheter Beat Style Jul (WAV Master)",
+  "energyLevel": "Maximum",
+  "primaryUse": "Summer Hit Single, Club Banger and TikTok Viral Dance Challenge",
+  "similarArtists": [
+    "Jul",
+    "SCH",
+    "Naps",
+    "Soolking"
+  ],
+  "recommendedBpm": "128-134 BPM",
+  "productionTips": "Four-on-the-floor syncopated kicks paired with infectious bright synthesizer chords and auto-tune space.",
+  "idealVocalStyle": "Catchy, repetitive singalong hooks, joyful cadences, and vibrant Marseille party energy.",
+  "suggestedKey": "A Minor / D Minor",
+  "streamingSuitability": "Massive viral engagement on TikTok, festive club DJ sets, and summer chart domination."
+},
+  {
+  "slug": "tiakola-la-melo-afro-drill-vibes",
+  "title": "Tiakola La Mélo Smooth Congolese Afro-Drill & R&B Melodic Beat",
+  "description": "Sublime, harmonious Afro-drill and melodic R&B crossover instrumental inspired by Tiakola (Mélo, Si J'Savais, Gasolina, 4 R), featuring delicate guitar plucks, silky Congolese rumba elements, and bouncing 808s.",
+  "targetKeywords": [
+    "tiakola type beat",
+    "tiakola la melo instrumental",
+    "afro drill melodique tiakola",
+    "instru tiakola si j'savais",
+    "rnb afro beat france"
+  ],
+  "heroCta": "Acheter Beat Style Tiakola (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Melodic Crossover Single, Radio Anthem and Romantic Urban Ballad",
+  "similarArtists": [
+    "Tiakola",
+    "Gazo",
+    "Ninho",
+    "Rema"
+  ],
+  "recommendedBpm": "104-110 / 138 BPM",
+  "productionTips": "Layer sweet acoustic nylon guitars with bright mallet synths over syncopated Afro-drill bounce.",
+  "idealVocalStyle": "Silky harmonized vocal layers, effortless falsetto transitions, and rhythmic French-Lingala flair.",
+  "suggestedKey": "G Major / E Minor",
+  "streamingSuitability": "Dominates Spotify Afro-Pop playlists, Apple Music urban hits, and international crossover radios."
+},
+  {
+  "slug": "gazo-la-mala-drill-fr-banger",
+  "title": "Gazo La Mala Menacing Heavyweight French Drill 808 Beat",
+  "description": "Menacing, aggressive and authoritative French drill instrumental inspired by Gazo (Drill FR 4, DIE, K-POP, Rappel, Bresson), with pitch-sliding 808s, cold church bell ostinatos, and raw energy.",
+  "targetKeywords": [
+    "gazo type beat 2024",
+    "drill fr type beat",
+    "gazo die instrumental",
+    "heavy sliding 808 drill france",
+    "gazo la mala beat"
+  ],
+  "heroCta": "Acheter Beat Drill Gazo (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Heavyweight Drill Single, Gritty Street Cypher and Club Bass Test",
+  "similarArtists": [
+    "Gazo",
+    "Freeze Corleone",
+    "Central Cee",
+    "Tiakola"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Dark tubular bell riffs over multi-octave 808 portamento glides and aggressive transient-clipped rimshots.",
+  "idealVocalStyle": "Deep, gravelly baritone delivery, menacing punchlines, trademark ad-libs, and commanding cadence.",
+  "suggestedKey": "C# Minor / E Minor",
+  "streamingSuitability": "Insuperable for gym workout playlists, drill streaming charts, and cinematic street clips."
+},
+  {
+  "slug": "plk-polak-rap-dynamique-paris",
+  "title": "PLK Polak Dynamic Bouncy Parisian Trap & Technical Flow Beat",
+  "description": "High-velocity, bouncing French rap instrumental inspired by PLK (Polak, Enna, 2069*, Demain, Un peu de haine), combining bouncy melodic synth keys, crisp acoustic snares, and relentless bounce.",
+  "targetKeywords": [
+    "plk type beat",
+    "polak type beat",
+    "plk 2069 instrumental",
+    "bouncy french rap beat paris",
+    "plk un peu de haine beat"
+  ],
+  "heroCta": "Acheter Beat Style PLK (Instant WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "Energetic Rap Single, Fast-Paced Technical Cypher and Viral TikTok Anthem",
+  "similarArtists": [
+    "PLK",
+    "SDM",
+    "Ninho",
+    "Zkr"
+  ],
+  "recommendedBpm": "132-138 BPM",
+  "productionTips": "Staccato synthesizer stabs layered with driving 808 patterns that allow rapid multi-syllabic vocal flows.",
+  "idealVocalStyle": "Acrobatic rhyme schemes, fast-paced technical delivery, witty punchlines, and punchy hooks.",
+  "suggestedKey": "B Minor / D Minor",
+  "streamingSuitability": "High virality, playlist placement on Rap Français, and heavy radio rotation on Skyrock."
+},
+  {
+  "slug": "sch-jvlivs-cinematic-mafia-trap",
+  "title": "SCH JVLIVS Operatic Orchestral Mafia Trap & Dark Cinematic Beat",
+  "description": "Monumental, dramatic cinematic hip-hop instrumental inspired by SCH (JVLIVS I, II & III, Autobahn, Fusil, Gomorra, Champs-Élysées), with dark operatic brass, tragic strings, and subterranean 808 drops.",
+  "targetKeywords": [
+    "sch type beat",
+    "jvlivs sch type beat",
+    "cinematic mafia rap beat",
+    "sch autobahn instrumental",
+    "operatic trap beat france"
+  ],
+  "heroCta": "Acheter Beat Cinematic SCH (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Cinematic Album Opener, Theatrical Visual Single and Narrative Storytelling",
+  "similarArtists": [
+    "SCH",
+    "Lacrim",
+    "Booba",
+    "Kaaris"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "productionTips": "Heavy orchestral French horns, dramatic timpani rolls, and dark choir sustains over cinematic sub-bass.",
+  "idealVocalStyle": "Theatrical, gravelly baritone delivery, poetic underworld narratives, and grand dramatic choruses.",
+  "suggestedKey": "D Minor / G Minor",
+  "streamingSuitability": "Essential for high-concept music videos, cinematic short films, and dramatic concept albums."
+},
+  {
+  "slug": "hamza-saucegod-melodic-rnb-trap",
+  "title": "Hamza Saucegod Sensual Francophone R&B-Trap & Late-Night Melodic Beat",
+  "description": "Sensual, luxury Francophone R&B-trap instrumental inspired by Hamza (140 BPM, Fade Up, Paradise, Netflix, Sincèrement), featuring filtered Rhodes chords, seductive vocoder textures, and smooth sub-bass.",
+  "targetKeywords": [
+    "hamza type beat",
+    "saucegod type beat",
+    "hamza sincèrement instrumental",
+    "french rnb trap beat",
+    "hamza fade up type beat"
+  ],
+  "heroCta": "Acheter Beat Style Hamza (Instant WAV)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Late-Night Driving Single, Seductive R&B-Rap Track and Mood Visualizer",
+  "similarArtists": [
+    "Hamza",
+    "Damso",
+    "Laylow",
+    "PartyNextDoor"
+  ],
+  "recommendedBpm": "120-128 / 140 BPM",
+  "productionTips": "Low-pass filtered electric piano layered with subtle stereo choruses and clean, melodic 808 glides.",
+  "idealVocalStyle": "Velvety autotuned singing, seductive whispers, melodic ad-libs, and confident laid-back flows.",
+  "suggestedKey": "Ab Minor / Eb Minor",
+  "streamingSuitability": "Dominates late night streaming playlists, luxury automotive visuals, and sensual R&B-trap vibes."
+},
+  {
+  "slug": "josman-j-o-introspective-smoke-lofi",
+  "title": "Josman J.O.$ Introspective Smoke-Filled Chillhop & Melodic Trap Beat",
+  "description": "Hazy, introspective and deeply musical French hip-hop instrumental inspired by Josman (J.O.$, Split, M.A.N, Intro, Finito), with delicate jazzy piano inversions, warm vinyl saturation, and relaxed 808s.",
+  "targetKeywords": [
+    "josman type beat",
+    "josman split instrumental",
+    "chill introspective french rap beat",
+    "josman jo type beat",
+    "smoke trap beat france"
+  ],
+  "heroCta": "Acheter Beat Style Josman (WAV 24-bit)",
+  "energyLevel": "Medium",
+  "primaryUse": "Introspective Street Poetry, Smoke Session Track and Deep Reflective Single",
+  "similarArtists": [
+    "Josman",
+    "Dinos",
+    "Lomepal",
+    "Alpha Wann"
+  ],
+  "recommendedBpm": "85-92 / 126 BPM",
+  "productionTips": "Wurlitzer and Rhodes jazz chords captured with subtle wow & flutter tape modulation over unquantized kicks.",
+  "idealVocalStyle": "Laid-back, raspy, honest vocal delivery exploring personal philosophy, solitude, and melodic hooks.",
+  "suggestedKey": "D Minor / F Major",
+  "streamingSuitability": "High replay value across chill rap playlists, study lofi mixes, and artistic music videos."
+},
+  {
+  "slug": "freeze-corleone-lmf-dark-conspiracy-drill",
+  "title": "Freeze Corleone 667 LMF Minimalist Dark Conspiracy Drill Beat",
+  "description": "Chilling, minimalist and hypnotic French drill instrumental inspired by Freeze Corleone and the 667 collective (LMF, ADC, Freeze Raël, Desiigner, Shavkat), with cold ambient synthesizers and sinister sliding 808s.",
+  "targetKeywords": [
+    "freeze corleone type beat",
+    "667 type beat",
+    "lmf freeze rael instrumental",
+    "dark minimalist french drill beat",
+    "freeze corleone adc beat"
+  ],
+  "heroCta": "Acheter Beat Drill 667 (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Dark Underground Drill Track, Hardcore Cypher and Cold Street Visuals",
+  "similarArtists": [
+    "Freeze Corleone",
+    "Gazo",
+    "Ashe 22",
+    "Central Cee"
+  ],
+  "recommendedBpm": "141-143 BPM",
+  "productionTips": "Sparse, calculated melodic elements leaving maximum room for rapid-fire, complex rhyme schemes.",
+  "idealVocalStyle": "Cold, monotone, relentless technical cadence packed with geopolitical references, wordplay, and internal rhymes.",
+  "suggestedKey": "F# Minor",
+  "streamingSuitability": "Cult underground following with explosive organic replay and dedicated hip-hop community support."
+},
+  {
+  "slug": "dinos-hiver-a-paris-poetic-trap",
+  "title": "Dinos Hiver à Paris Melancholic Poetic Parisian Cloud Trap Beat",
+  "description": "Deeply emotional, melancholy Parisian rap instrumental inspired by Dinos (Hiver à Paris, Taciturne, Stamina, Moins un, 93 mesures), featuring rainy Rhodes progressions, crying cello sustains, and warm 808s.",
+  "targetKeywords": [
+    "dinos type beat",
+    "hiver a paris instrumental",
+    "melancolique rap francais beat",
+    "dinos stamina type beat",
+    "paris sad cloud trap 808"
+  ],
+  "heroCta": "Acheter Beat Style Dinos (Instant WAV)",
+  "energyLevel": "Medium",
+  "primaryUse": "Poetic Street Ballad, Autumn Heartbreak Single and High-Concept Visuals",
+  "similarArtists": [
+    "Dinos",
+    "Youssoupha",
+    "Disiz",
+    "Damso"
+  ],
+  "recommendedBpm": "118-126 BPM",
+  "productionTips": "Rainy acoustic Rhodes chords with subtle tape flutter and organic cello notes sitting on deep sub frequencies.",
+  "idealVocalStyle": "Literary, poetic lyrics, vulnerable half-whispered flows, and emotionally heavy choruses.",
+  "suggestedKey": "A Minor / E Minor",
+  "streamingSuitability": "Critically acclaimed streaming longevity across deep listening, reflective, and poetic rap playlists."
+},
+  {
+  "slug": "paris-peripherique-nocturne-synthwave-drill",
+  "title": "Paris Périphérique Nocturne Fast High-Speed French Drill Beat",
+  "description": "Cinematic nighttime French drill instrumental capturing the 2 AM high-speed energy of the Paris Périphérique ring road: icy synthesizer arpeggios, rapid drill hats, and menacing pitch-sliding sub glides.",
+  "targetKeywords": [
+    "paris peripherique drill beat",
+    "nocturne french drill instrumental",
+    "dark high speed drill paris",
+    "paris night drive rap beat",
+    "synthwave drill france"
+  ],
+  "heroCta": "Acheter Beat Paris Nocturne (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Late Night Street Visuals, Automotive Cinematic Video and High-Energy Single",
+  "similarArtists": [
+    "Gazo",
+    "Kerchak",
+    "Favé",
+    "Zola"
+  ],
+  "recommendedBpm": "142-145 BPM",
+  "productionTips": "Layered analog saw synths processed through tape delay with two-octave sliding 808 portamento.",
+  "idealVocalStyle": "Fast, cold cadence, atmospheric ad-libs, and driving nocturnal street reality rhymes.",
+  "suggestedKey": "C# Minor",
+  "streamingSuitability": "Ideal for automotive culture reels, drill workout playlists, and urban visualizers."
+},
+  {
+  "slug": "marseille-vieux-port-soleil-afro-bounce",
+  "title": "Marseille Vieux-Port Soleil Mediterranean Afro-Bounce Summer Beat",
+  "description": "Sun-drenched, feel-good Mediterranean summer urban instrumental inspired by Marseille: bright acoustic Spanish nylon guitars, infectious afro-pop swing, and bouncy 808 bass for summer hits.",
+  "targetKeywords": [
+    "marseille afro bounce beat",
+    "ete rap marseille instru",
+    "mediterranean afro trap beat",
+    "soleil marseille rap instrumental",
+    "instru ete soleil france"
+  ],
+  "heroCta": "Acheter Beat Marseille Soleil (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Summer Radio Anthem, Beach Vacation Visuals and Festive Singles",
+  "similarArtists": [
+    "Jul",
+    "Soolking",
+    "Naps",
+    "Heuss L'enfoiré"
+  ],
+  "recommendedBpm": "108-114 / 128 BPM",
+  "productionTips": "Breezy nylon guitar picking over syncopated dembow/afrobeat kick patterns and warm, punchy 808s.",
+  "idealVocalStyle": "Uplifting, melodic hooks, joyful summer storytelling, and catchy crowd-pleasing choruses.",
+  "suggestedKey": "D Major / B Minor",
+  "streamingSuitability": "Heavy summer radio rotation, beach club DJ playlists, and viral seasonal social media trends."
+},
+  {
+  "slug": "instru-rap-francais-pas-cher-cb",
+  "title": "Instrus Rap Français Pas Cher dès 29€ (Paiement Carte Bancaire & Apple Pay)",
+  "description": "Productions musicales professionnelles prêtes pour l'enregistrement studio à prix accessible, à partir de 29€ avec paiement instantané par Carte Bancaire (CB) française, Lydia et Apple Pay.",
+  "targetKeywords": [
+    "instru rap francais pas cher cb",
+    "achat instru rap francais carte bancaire",
+    "beat rap francais pas cher 29 euros",
+    "instru trap pas cher telechargement"
+  ],
+  "heroCta": "Découvrir les Beats dès 29€ (Paiement CB)",
+  "energyLevel": "Variable",
+  "primaryUse": "Singles Indépendants, Débutants Passionnés et Projets Mixtapes à Budget Maîtrisé",
+  "similarArtists": [
+    "Rappeurs Indépendants Français",
+    "Créateurs SoundCloud & TikTok"
+  ],
+  "recommendedBpm": "120-144 BPM",
+  "productionTips": "Mixage et mastering optimisés avec marge de dynamique pour l'enregistrement vocal en home studio.",
+  "idealVocalStyle": "Parfait pour tous types de flows, du rap de kickage aux refrains chantés sous auto-tune.",
+  "suggestedKey": "Toutes les gammes majeures et mineures",
+  "streamingSuitability": "Licence commerciale incluant jusqu'à 100 000 streams sur Spotify, Deezer et Apple Music."
+},
+  {
+  "slug": "instru-drill-fr-sombre-stems-wav",
+  "title": "Instrus Drill FR Sombres avec Pistes Séparées Stems (Qualité Studio WAV 24-Bit)",
+  "description": "Instrumentales drill françaises sombres et percutantes avec basses 808 glissantes, livrées avec toutes les pistes audio multipistes séparées (stems WAV) pour un mixage sur mesure en studio.",
+  "targetKeywords": [
+    "instru drill fr sombre stems wav",
+    "pistes separees beat drill france",
+    "achat instru drill fr wav 24 bit",
+    "drill sombre francaise trackout"
+  ],
+  "heroCta": "Télécharger Drill FR + Stems WAV",
+  "energyLevel": "Very High",
+  "primaryUse": "Enregistrement en Studio Professionnel, Mixage Multipiste et Mastering Dolby Atmos",
+  "similarArtists": [
+    "Gazo",
+    "Freeze Corleone",
+    "Central Cee",
+    "ASHE 22"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Chaque élément de batterie, basse, mélodie et effet exporté séparément sans compression destructive.",
+  "idealVocalStyle": "Idéal pour les voix rauques, les flows saccadés percutants et les rimes incisives.",
+  "suggestedKey": "Mi mineur / Do dièse mineur",
+  "streamingSuitability": "Streams illimités et diffusion radio commerciale inclus avec la licence pistes séparées."
+},
+  {
+  "slug": "instru-melodique-piano-rap-paris-wav",
+  "title": "Instrus Rap Piano Mélodique Paris (Fichiers WAV 24-Bit & Droits Commerciaux)",
+  "description": "Productions rap français mélancoliques sublimées par des pianos acoustiques poignants et des basses profondes, prêtes pour les plateformes de streaming en qualité studio 24-bit WAV.",
+  "targetKeywords": [
+    "instru melodique piano rap paris wav",
+    "instru rap piano triste ninho",
+    "beat rap melancolique piano 24 bit",
+    "achat prod piano rap francais"
+  ],
+  "heroCta": "Écouter les Instrus Piano Mélodiques",
+  "energyLevel": "High",
+  "primaryUse": "Single Commercial Phare, Clip Vidéo Émouvant et Storytelling de Rue",
+  "similarArtists": [
+    "Ninho",
+    "Dinos",
+    "Tiakola",
+    "Timal"
+  ],
+  "recommendedBpm": "128-138 BPM",
+  "productionTips": "Prises de piano feutrées traitées sur bande analogique avec une assise de basse chaleureuse.",
+  "idealVocalStyle": "Parfait pour les refrains émouvants, les confessions sincères et les toplines mélodieuses.",
+  "suggestedKey": "Fa mineur / La mineur",
+  "streamingSuitability": "Diffusion commerciale autorisée sur toutes les plateformes de streaming avec 100% des royalties master."
+},
+  {
+  "slug": "contrat-licence-beat-sacem-pdf",
+  "title": "Contrat de Licence Beat SACEM & Cession de Droits (PDF Signé Immédiat)",
+  "description": "Contrat de production musicale juridiquement contraignant conforme au droit d'auteur français (SACEM) et au Code de la Propriété Intellectuelle : téléchargez votre contrat et split sheet personnalisés à l'achat.",
+  "targetKeywords": [
+    "contrat licence beat sacem pdf",
+    "contrat cession de droits beatmaker sacem",
+    "split sheet sacem telechargement immediat",
+    "declaration sacem prod rap"
+  ],
+  "heroCta": "Voir le Contrat de Licence SACEM (PDF)",
+  "energyLevel": "N/A",
+  "primaryUse": "Déclaration SACEM, Répartition des Droits Éditoriaux et Protection Juridique Complète",
+  "similarArtists": [
+    "Onzieb",
+    "Auteurs et Compositeurs Enregistrés à la SACEM"
+  ],
+  "recommendedBpm": "Tous Tempos",
+  "productionTips": "Formulé pour garantir la sécurité légale totale de l'artiste et des ayants droit.",
+  "idealVocalStyle": "Valable pour tous les styles musicaux et toutes les interprétations vocales.",
+  "suggestedKey": "Toutes Tonalités",
+  "streamingSuitability": "Protection juridique absolue pour la distribution commerciale mondiale et la synchronisation audiovisuelle."
+},
+  {
+  "slug": "instru-afro-trap-marseille-ete",
+  "title": "Instrus Afro-Trap & Marseille Bounce Estival (Rythmes 110-128 BPM Ensoleillés)",
+  "description": "Instrumentales afro-trap rythmées et solaires inspirées par Marseille et le Sud : percussions syncopées, guitares tropicales et kicks dansants conçus pour faire bouger les clubs et radios tout l'été.",
+  "targetKeywords": [
+    "instru afro trap marseille ete",
+    "beat afro bounce marseille jul",
+    "instru rap club dansant ete",
+    "afro trap 120 bpm france"
+  ],
+  "heroCta": "Écouter les Instrus Afro-Trap Estivales",
+  "energyLevel": "High",
+  "primaryUse": "Tube de l'Été, Single pour Club et Animation de Soirée",
+  "similarArtists": [
+    "Jul",
+    "Soolking",
+    "Tiakola",
+    "Naza"
+  ],
+  "recommendedBpm": "108-124 BPM",
+  "productionTips": "Kicks percutants et claps syncopés soutenus par des mélodies de guitare entraînantes.",
+  "idealVocalStyle": "Toplines dansantes, refrains ensoleillés faciles à retenir et énergie communicative.",
+  "suggestedKey": "Sol majeur / Si mineur",
+  "streamingSuitability": "Diffusion optimale en clubs, rotation sur les radios jeunes et vidéos virales estivales."
+},
+  {
+  "slug": "pack-5-instrus-album-rap-francais",
+  "title": "Pack 5 Instrus pour Album & EP Rap Français (Économisez 40% en Euros €)",
+  "description": "Offre groupée pour les artistes et groupes français en préparation d'un projet complet (EP, mixtape ou album) : choisissez 5 ou 10 productions de votre choix avec jusqu'à 40% de réduction en euros (€).",
+  "targetKeywords": [
+    "pack 5 instrus album rap francais",
+    "pack beats ep rap reduction",
+    "acheter plusieurs instrus rap francais",
+    "bundle prod rap reduction euros"
+  ],
+  "heroCta": "Profiter de l'Offre Pack Album (40% de Réduction)",
+  "energyLevel": "Variable",
+  "primaryUse": "Production Complète d'un EP ou Album, Direction Artistique Cohérente et Sorties Régulières",
+  "similarArtists": [
+    "Rappeurs et Collectifs Indépendants Français"
+  ],
+  "recommendedBpm": "85-145 BPM",
+  "productionTips": "Sélection cohérente harmoniquement et rythmiquement pour une écoute fluide d'un bout à l'autre de votre projet.",
+  "idealVocalStyle": "Idéal pour exprimer toute la palette artistique et vocale d'un lyriciste.",
+  "suggestedKey": "Clés Variées et Complémentaires",
+  "streamingSuitability": "Licence commerciale unique et globale couvrant l'ensemble des titres de votre projet musical."
+},
+  {
+  "slug": "beatmaker-francais-sur-mesure-whatsapp",
+  "title": "Beatmaker Français sur Mesure (Collab Directe WhatsApp avec Onzieb)",
+  "description": "Échangez directement avec le producteur Onzieb via WhatsApp pour concevoir une instrumentale sur mesure : adaptation de la tonalité, arrangement de la structure et mixage de vos voix.",
+  "targetKeywords": [
+    "beatmaker francais sur mesure whatsapp",
+    "onzieb producteur rap contact",
+    "commander instru personnalisee rap",
+    "compositeur rap francais whatsapp"
+  ],
+  "heroCta": "Discuter avec Onzieb sur WhatsApp",
+  "energyLevel": "Sur mesure",
+  "primaryUse": "Production Exclusive Personnalisée, Identité Sonore Unique et Projets Majeurs",
+  "similarArtists": [
+    "Onzieb",
+    "Producteurs Urbains Internationaux"
+  ],
+  "recommendedBpm": "Ajusté au tempo naturel du flow de l'artiste",
+  "productionTips": "Ajustements précis piste par piste avec échanges audio directs par notes vocales WhatsApp.",
+  "idealVocalStyle": "Sculpté sur mesure pour magnifier le timbre de voix et le placement du rappeur.",
+  "suggestedKey": "Parfaitement Accordée à la Voix",
+  "streamingSuitability": "Contrat de cession sur mesure avec 100% des droits masters et diffusion illimitée."
+},
+  {
+  "slug": "instru-jersey-drill-fr-banger",
+  "title": "Instrus Jersey Drill FR Explosives (Rythmes Jersey Club & Basses 808)",
+  "description": "L'énergie survoltée de la Jersey Drill à la française : kicks syncopés à 5 temps, charlestons ultra-vives et basses 808 lourdes calibrées pour faire trembler les clubs et exploser sur les réseaux sociaux.",
+  "targetKeywords": [
+    "instru jersey drill fr banger",
+    "jersey drill francaise type beat",
+    "beat jersey club drill france",
+    "jersey drill 145 bpm rap"
+  ],
+  "heroCta": "Écouter les Beats Jersey Drill FR",
+  "energyLevel": "Maximum",
+  "primaryUse": "Single Énergique, Challenge Vidéo TikTok et Banger pour Soirée",
+  "similarArtists": [
+    "Kerchak",
+    "Favé",
+    "Zola",
+    "Gazo"
+  ],
+  "recommendedBpm": "140-146 BPM",
+  "productionTips": "Pattern de kick syncopé typique du style Jersey Club avec distorsion maîtrisée sur les transitoires de basse.",
+  "idealVocalStyle": "Flows rapides, phrases courtes et percutantes, gimmick répétitif et ad-libs puissants.",
+  "suggestedKey": "Do mineur / Fa mineur",
+  "streamingSuitability": "Fort potentiel de viralité sur les réseaux sociaux et playlists urbaines à haute intensité."
+},
+  {
+  "slug": "instru-rnb-francophone-smooth-wav",
+  "title": "Instrus R&B Francophone Smooth & Mélodique (Pianos Électriques & 808)",
+  "description": "Instrumentales R&B urbaines et sensuelles en français : accords de Rhodes chaleureux, nappes vaporeuses et batteries feutrées conçues pour les voix et toplines envoûtantes.",
+  "targetKeywords": [
+    "instru rnb francophone smooth wav",
+    "beat rnb francais romantique",
+    "instru rnb love paris",
+    "pop urbaine instru douce wav"
+  ],
+  "heroCta": "Découvrir les Beats R&B Francophones",
+  "energyLevel": "Medium",
+  "primaryUse": "Morceau d'Amour Urbain, Titre Sensuel Nocturne et Ballade Pop R&B",
+  "similarArtists": [
+    "Hamza",
+    "Tayc",
+    "Dadju",
+    "Tiakola"
+  ],
+  "recommendedBpm": "95-115 / 130 BPM",
+  "productionTips": "Filtres passe-bas et chorus subtils sur les claviers électriques avec un sub-bass enveloppant.",
+  "idealVocalStyle": "Chant mélodieux, harmonies riches, vibratos subtils et mélodies sentimentales sincères.",
+  "suggestedKey": "Mi bémol mineur / La bémol mineur",
+  "streamingSuitability": "Parfait pour les playlists R&B français, les soirées en tête-à-tête et les radios nocturnes."
+},
+  {
+  "slug": "kit-de-batterie-drill-fr-gratuit-wav",
+  "title": "Kit de Batterie Drill FR Gratuit (Samples WAV 24-Bit & Basses 808)",
+  "description": "Téléchargez gratuitement notre pack de sonorités pour beatmakers : 25 basses 808 accordées, kicks percutants, caisses claires tranchantes et rimshots conçus pour le son drill et trap français.",
+  "targetKeywords": [
+    "kit de batterie drill fr gratuit wav",
+    "drum kit drill francais gratuit",
+    "sample pack 808 gratuit rap",
+    "sons drill fr telechargement libre"
+  ],
+  "heroCta": "Télécharger le Drum Kit Gratuit (ZIP)",
+  "energyLevel": "High",
+  "primaryUse": "Production Musicale en Home Studio, Beatmaking sur FL Studio / Ableton / Logic",
+  "similarArtists": [
+    "Beatmakers Français Indépendants",
+    "Producteurs Amateurs et Pros"
+  ],
+  "recommendedBpm": "Compatible avec tous les tempos",
+  "productionTips": "Éléments one-shot 100% libres de droits pré-mastérisés avec grain analogique percutant.",
+  "idealVocalStyle": "Base rythmique solide pour la création d'instrumentales professionnelles percutantes.",
+  "suggestedKey": "Accordé en Do (C) pour une transposition facile dans votre DAW",
+  "streamingSuitability": "Libre de droits pour la sortie de titres musicaux commerciaux et la vente d'instrus."
+},
+  {
+  "slug": "nantes-french-trap-808",
+  "name": "Nantes French Trap 808 Beats",
+  "category": "scene",
+  "badge": "Nantes French Trap",
+  "headline": "Nantes (Loire-Atlantique & West Coast Créative) French Trap 808 Beats: Fichiers WAV 24-Bit & Paiement Carte Bancaire (CB)",
+  "description": "Basses 808 glissantes percutantes, synthétiseurs mineurs sombres et caisses claires tranchantes calibrées pour les artistes de Nantes.",
+  "targetArtists": [
+    "Artistes de Nantes",
+    "Communauté Rap Français",
+    "Scène Hip-Hop Francophone"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "Fa-Mineur / Do-Mineur",
+  "vibeAttributes": [
+    "Nantes",
+    "French Trap",
+    "Paiement CB & Lydia (EUR €)",
+    "100% Conforme SACEM"
+  ],
+  "popularGenres": [
+    "French Trap 808 Beats",
+    "French Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "nantes-paris-street-drill",
+  "name": "Nantes Paris Street Drill Beats",
+  "category": "scene",
+  "badge": "Nantes Paris Drill",
+  "headline": "Nantes (Loire-Atlantique & West Coast Créative) Paris Street Drill Beats: Fichiers WAV 24-Bit & Paiement Carte Bancaire (CB)",
+  "description": "Pianos sombres menaçants, charlestons ultra-syncopés et basses sismiques en glissando pour les rappeurs de Nantes.",
+  "targetArtists": [
+    "Artistes de Nantes",
+    "Communauté Rap Français",
+    "Scène Hip-Hop Francophone"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "Mi-Mineur / Do#-Mineur",
+  "vibeAttributes": [
+    "Nantes",
+    "Paris Drill",
+    "Paiement CB & Lydia (EUR €)",
+    "100% Conforme SACEM"
+  ],
+  "popularGenres": [
+    "Paris Street Drill Beats",
+    "French Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "nantes-marseille-afro-bounce",
+  "name": "Nantes Marseille Afro Bounce Beats",
+  "category": "scene",
+  "badge": "Nantes Afro Bounce",
+  "headline": "Nantes (Loire-Atlantique & West Coast Créative) Marseille Afro Bounce Beats: Fichiers WAV 24-Bit & Paiement Carte Bancaire (CB)",
+  "description": "Rythmes syncopés entraînants, guitares tropicales lumineuses et basses 808 chantantes pour ambiancer les foules à Nantes.",
+  "targetArtists": [
+    "Artistes de Nantes",
+    "Communauté Rap Français",
+    "Scène Hip-Hop Francophone"
+  ],
+  "recommendedBpm": "108-115 / 128 BPM",
+  "recommendedKey": "Sol-Majeur / Si-Mineur",
+  "vibeAttributes": [
+    "Nantes",
+    "Afro Bounce",
+    "Paiement CB & Lydia (EUR €)",
+    "100% Conforme SACEM"
+  ],
+  "popularGenres": [
+    "Marseille Afro Bounce Beats",
+    "French Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "nantes-french-touch-boom-bap",
+  "name": "Nantes French Touch Classic Boom Bap",
+  "category": "scene",
+  "badge": "Nantes Boom Bap FR",
+  "headline": "Nantes (Loire-Atlantique & West Coast Créative) French Touch Classic Boom Bap: Fichiers WAV 24-Bit & Paiement Carte Bancaire (CB)",
+  "description": "Samples de vinyles poussiéreux, caisses claires claquantes et basses analogiques rondes pour les puristes du kickage à Nantes.",
+  "targetArtists": [
+    "Artistes de Nantes",
+    "Communauté Rap Français",
+    "Scène Hip-Hop Francophone"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "Si-Mineur / Ré-Mineur",
+  "vibeAttributes": [
+    "Nantes",
+    "Boom Bap FR",
+    "Paiement CB & Lydia (EUR €)",
+    "100% Conforme SACEM"
+  ],
+  "popularGenres": [
+    "French Touch Classic Boom Bap",
+    "French Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "rennes-french-trap-808",
+  "name": "Rennes French Trap 808 Beats",
+  "category": "scene",
+  "badge": "Rennes French Trap",
+  "headline": "Rennes (Bretagne & Scène Underground Étudiante) French Trap 808 Beats: Fichiers WAV 24-Bit & Paiement Carte Bancaire (CB)",
+  "description": "Basses 808 glissantes percutantes, synthétiseurs mineurs sombres et caisses claires tranchantes calibrées pour les artistes de Rennes.",
+  "targetArtists": [
+    "Artistes de Rennes",
+    "Communauté Rap Français",
+    "Scène Hip-Hop Francophone"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "Fa-Mineur / Do-Mineur",
+  "vibeAttributes": [
+    "Rennes",
+    "French Trap",
+    "Paiement CB & Lydia (EUR €)",
+    "100% Conforme SACEM"
+  ],
+  "popularGenres": [
+    "French Trap 808 Beats",
+    "French Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "rennes-paris-street-drill",
+  "name": "Rennes Paris Street Drill Beats",
+  "category": "scene",
+  "badge": "Rennes Paris Drill",
+  "headline": "Rennes (Bretagne & Scène Underground Étudiante) Paris Street Drill Beats: Fichiers WAV 24-Bit & Paiement Carte Bancaire (CB)",
+  "description": "Pianos sombres menaçants, charlestons ultra-syncopés et basses sismiques en glissando pour les rappeurs de Rennes.",
+  "targetArtists": [
+    "Artistes de Rennes",
+    "Communauté Rap Français",
+    "Scène Hip-Hop Francophone"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "Mi-Mineur / Do#-Mineur",
+  "vibeAttributes": [
+    "Rennes",
+    "Paris Drill",
+    "Paiement CB & Lydia (EUR €)",
+    "100% Conforme SACEM"
+  ],
+  "popularGenres": [
+    "Paris Street Drill Beats",
+    "French Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "rennes-marseille-afro-bounce",
+  "name": "Rennes Marseille Afro Bounce Beats",
+  "category": "scene",
+  "badge": "Rennes Afro Bounce",
+  "headline": "Rennes (Bretagne & Scène Underground Étudiante) Marseille Afro Bounce Beats: Fichiers WAV 24-Bit & Paiement Carte Bancaire (CB)",
+  "description": "Rythmes syncopés entraînants, guitares tropicales lumineuses et basses 808 chantantes pour ambiancer les foules à Rennes.",
+  "targetArtists": [
+    "Artistes de Rennes",
+    "Communauté Rap Français",
+    "Scène Hip-Hop Francophone"
+  ],
+  "recommendedBpm": "108-115 / 128 BPM",
+  "recommendedKey": "Sol-Majeur / Si-Mineur",
+  "vibeAttributes": [
+    "Rennes",
+    "Afro Bounce",
+    "Paiement CB & Lydia (EUR €)",
+    "100% Conforme SACEM"
+  ],
+  "popularGenres": [
+    "Marseille Afro Bounce Beats",
+    "French Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "rennes-french-touch-boom-bap",
+  "name": "Rennes French Touch Classic Boom Bap",
+  "category": "scene",
+  "badge": "Rennes Boom Bap FR",
+  "headline": "Rennes (Bretagne & Scène Underground Étudiante) French Touch Classic Boom Bap: Fichiers WAV 24-Bit & Paiement Carte Bancaire (CB)",
+  "description": "Samples de vinyles poussiéreux, caisses claires claquantes et basses analogiques rondes pour les puristes du kickage à Rennes.",
+  "targetArtists": [
+    "Artistes de Rennes",
+    "Communauté Rap Français",
+    "Scène Hip-Hop Francophone"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "Si-Mineur / Ré-Mineur",
+  "vibeAttributes": [
+    "Rennes",
+    "Boom Bap FR",
+    "Paiement CB & Lydia (EUR €)",
+    "100% Conforme SACEM"
+  ],
+  "popularGenres": [
+    "French Touch Classic Boom Bap",
+    "French Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "rouen-french-trap-808",
+  "name": "Rouen French Trap 808 Beats",
+  "category": "scene",
+  "badge": "Rouen French Trap",
+  "headline": "Rouen (Normandie & Estuaire Maritime) French Trap 808 Beats: Fichiers WAV 24-Bit & Paiement Carte Bancaire (CB)",
+  "description": "Basses 808 glissantes percutantes, synthétiseurs mineurs sombres et caisses claires tranchantes calibrées pour les artistes de Rouen.",
+  "targetArtists": [
+    "Artistes de Rouen",
+    "Communauté Rap Français",
+    "Scène Hip-Hop Francophone"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "Fa-Mineur / Do-Mineur",
+  "vibeAttributes": [
+    "Rouen",
+    "French Trap",
+    "Paiement CB & Lydia (EUR €)",
+    "100% Conforme SACEM"
+  ],
+  "popularGenres": [
+    "French Trap 808 Beats",
+    "French Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "rouen-paris-street-drill",
+  "name": "Rouen Paris Street Drill Beats",
+  "category": "scene",
+  "badge": "Rouen Paris Drill",
+  "headline": "Rouen (Normandie & Estuaire Maritime) Paris Street Drill Beats: Fichiers WAV 24-Bit & Paiement Carte Bancaire (CB)",
+  "description": "Pianos sombres menaçants, charlestons ultra-syncopés et basses sismiques en glissando pour les rappeurs de Rouen.",
+  "targetArtists": [
+    "Artistes de Rouen",
+    "Communauté Rap Français",
+    "Scène Hip-Hop Francophone"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "Mi-Mineur / Do#-Mineur",
+  "vibeAttributes": [
+    "Rouen",
+    "Paris Drill",
+    "Paiement CB & Lydia (EUR €)",
+    "100% Conforme SACEM"
+  ],
+  "popularGenres": [
+    "Paris Street Drill Beats",
+    "French Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "rouen-marseille-afro-bounce",
+  "name": "Rouen Marseille Afro Bounce Beats",
+  "category": "scene",
+  "badge": "Rouen Afro Bounce",
+  "headline": "Rouen (Normandie & Estuaire Maritime) Marseille Afro Bounce Beats: Fichiers WAV 24-Bit & Paiement Carte Bancaire (CB)",
+  "description": "Rythmes syncopés entraînants, guitares tropicales lumineuses et basses 808 chantantes pour ambiancer les foules à Rouen.",
+  "targetArtists": [
+    "Artistes de Rouen",
+    "Communauté Rap Français",
+    "Scène Hip-Hop Francophone"
+  ],
+  "recommendedBpm": "108-115 / 128 BPM",
+  "recommendedKey": "Sol-Majeur / Si-Mineur",
+  "vibeAttributes": [
+    "Rouen",
+    "Afro Bounce",
+    "Paiement CB & Lydia (EUR €)",
+    "100% Conforme SACEM"
+  ],
+  "popularGenres": [
+    "Marseille Afro Bounce Beats",
+    "French Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "rouen-french-touch-boom-bap",
+  "name": "Rouen French Touch Classic Boom Bap",
+  "category": "scene",
+  "badge": "Rouen Boom Bap FR",
+  "headline": "Rouen (Normandie & Estuaire Maritime) French Touch Classic Boom Bap: Fichiers WAV 24-Bit & Paiement Carte Bancaire (CB)",
+  "description": "Samples de vinyles poussiéreux, caisses claires claquantes et basses analogiques rondes pour les puristes du kickage à Rouen.",
+  "targetArtists": [
+    "Artistes de Rouen",
+    "Communauté Rap Français",
+    "Scène Hip-Hop Francophone"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "Si-Mineur / Ré-Mineur",
+  "vibeAttributes": [
+    "Rouen",
+    "Boom Bap FR",
+    "Paiement CB & Lydia (EUR €)",
+    "100% Conforme SACEM"
+  ],
+  "popularGenres": [
+    "French Touch Classic Boom Bap",
+    "French Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "grenoble-french-trap-808",
+  "name": "Grenoble French Trap 808 Beats",
+  "category": "scene",
+  "badge": "Grenoble French Trap",
+  "headline": "Grenoble (Alpes & Bassin Industriel Alpin) French Trap 808 Beats: Fichiers WAV 24-Bit & Paiement Carte Bancaire (CB)",
+  "description": "Basses 808 glissantes percutantes, synthétiseurs mineurs sombres et caisses claires tranchantes calibrées pour les artistes de Grenoble.",
+  "targetArtists": [
+    "Artistes de Grenoble",
+    "Communauté Rap Français",
+    "Scène Hip-Hop Francophone"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "Fa-Mineur / Do-Mineur",
+  "vibeAttributes": [
+    "Grenoble",
+    "French Trap",
+    "Paiement CB & Lydia (EUR €)",
+    "100% Conforme SACEM"
+  ],
+  "popularGenres": [
+    "French Trap 808 Beats",
+    "French Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "grenoble-paris-street-drill",
+  "name": "Grenoble Paris Street Drill Beats",
+  "category": "scene",
+  "badge": "Grenoble Paris Drill",
+  "headline": "Grenoble (Alpes & Bassin Industriel Alpin) Paris Street Drill Beats: Fichiers WAV 24-Bit & Paiement Carte Bancaire (CB)",
+  "description": "Pianos sombres menaçants, charlestons ultra-syncopés et basses sismiques en glissando pour les rappeurs de Grenoble.",
+  "targetArtists": [
+    "Artistes de Grenoble",
+    "Communauté Rap Français",
+    "Scène Hip-Hop Francophone"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "Mi-Mineur / Do#-Mineur",
+  "vibeAttributes": [
+    "Grenoble",
+    "Paris Drill",
+    "Paiement CB & Lydia (EUR €)",
+    "100% Conforme SACEM"
+  ],
+  "popularGenres": [
+    "Paris Street Drill Beats",
+    "French Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "grenoble-marseille-afro-bounce",
+  "name": "Grenoble Marseille Afro Bounce Beats",
+  "category": "scene",
+  "badge": "Grenoble Afro Bounce",
+  "headline": "Grenoble (Alpes & Bassin Industriel Alpin) Marseille Afro Bounce Beats: Fichiers WAV 24-Bit & Paiement Carte Bancaire (CB)",
+  "description": "Rythmes syncopés entraînants, guitares tropicales lumineuses et basses 808 chantantes pour ambiancer les foules à Grenoble.",
+  "targetArtists": [
+    "Artistes de Grenoble",
+    "Communauté Rap Français",
+    "Scène Hip-Hop Francophone"
+  ],
+  "recommendedBpm": "108-115 / 128 BPM",
+  "recommendedKey": "Sol-Majeur / Si-Mineur",
+  "vibeAttributes": [
+    "Grenoble",
+    "Afro Bounce",
+    "Paiement CB & Lydia (EUR €)",
+    "100% Conforme SACEM"
+  ],
+  "popularGenres": [
+    "Marseille Afro Bounce Beats",
+    "French Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "grenoble-french-touch-boom-bap",
+  "name": "Grenoble French Touch Classic Boom Bap",
+  "category": "scene",
+  "badge": "Grenoble Boom Bap FR",
+  "headline": "Grenoble (Alpes & Bassin Industriel Alpin) French Touch Classic Boom Bap: Fichiers WAV 24-Bit & Paiement Carte Bancaire (CB)",
+  "description": "Samples de vinyles poussiéreux, caisses claires claquantes et basses analogiques rondes pour les puristes du kickage à Grenoble.",
+  "targetArtists": [
+    "Artistes de Grenoble",
+    "Communauté Rap Français",
+    "Scène Hip-Hop Francophone"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "Si-Mineur / Ré-Mineur",
+  "vibeAttributes": [
+    "Grenoble",
+    "Boom Bap FR",
+    "Paiement CB & Lydia (EUR €)",
+    "100% Conforme SACEM"
+  ],
+  "popularGenres": [
+    "French Touch Classic Boom Bap",
+    "French Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "reims-french-trap-808",
+  "name": "Reims French Trap 808 Beats",
+  "category": "scene",
+  "badge": "Reims French Trap",
+  "headline": "Reims (Champagne & Bastion Rap du Grand Est) French Trap 808 Beats: Fichiers WAV 24-Bit & Paiement Carte Bancaire (CB)",
+  "description": "Basses 808 glissantes percutantes, synthétiseurs mineurs sombres et caisses claires tranchantes calibrées pour les artistes de Reims.",
+  "targetArtists": [
+    "Artistes de Reims",
+    "Communauté Rap Français",
+    "Scène Hip-Hop Francophone"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "Fa-Mineur / Do-Mineur",
+  "vibeAttributes": [
+    "Reims",
+    "French Trap",
+    "Paiement CB & Lydia (EUR €)",
+    "100% Conforme SACEM"
+  ],
+  "popularGenres": [
+    "French Trap 808 Beats",
+    "French Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "reims-paris-street-drill",
+  "name": "Reims Paris Street Drill Beats",
+  "category": "scene",
+  "badge": "Reims Paris Drill",
+  "headline": "Reims (Champagne & Bastion Rap du Grand Est) Paris Street Drill Beats: Fichiers WAV 24-Bit & Paiement Carte Bancaire (CB)",
+  "description": "Pianos sombres menaçants, charlestons ultra-syncopés et basses sismiques en glissando pour les rappeurs de Reims.",
+  "targetArtists": [
+    "Artistes de Reims",
+    "Communauté Rap Français",
+    "Scène Hip-Hop Francophone"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "Mi-Mineur / Do#-Mineur",
+  "vibeAttributes": [
+    "Reims",
+    "Paris Drill",
+    "Paiement CB & Lydia (EUR €)",
+    "100% Conforme SACEM"
+  ],
+  "popularGenres": [
+    "Paris Street Drill Beats",
+    "French Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "reims-marseille-afro-bounce",
+  "name": "Reims Marseille Afro Bounce Beats",
+  "category": "scene",
+  "badge": "Reims Afro Bounce",
+  "headline": "Reims (Champagne & Bastion Rap du Grand Est) Marseille Afro Bounce Beats: Fichiers WAV 24-Bit & Paiement Carte Bancaire (CB)",
+  "description": "Rythmes syncopés entraînants, guitares tropicales lumineuses et basses 808 chantantes pour ambiancer les foules à Reims.",
+  "targetArtists": [
+    "Artistes de Reims",
+    "Communauté Rap Français",
+    "Scène Hip-Hop Francophone"
+  ],
+  "recommendedBpm": "108-115 / 128 BPM",
+  "recommendedKey": "Sol-Majeur / Si-Mineur",
+  "vibeAttributes": [
+    "Reims",
+    "Afro Bounce",
+    "Paiement CB & Lydia (EUR €)",
+    "100% Conforme SACEM"
+  ],
+  "popularGenres": [
+    "Marseille Afro Bounce Beats",
+    "French Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "reims-french-touch-boom-bap",
+  "name": "Reims French Touch Classic Boom Bap",
+  "category": "scene",
+  "badge": "Reims Boom Bap FR",
+  "headline": "Reims (Champagne & Bastion Rap du Grand Est) French Touch Classic Boom Bap: Fichiers WAV 24-Bit & Paiement Carte Bancaire (CB)",
+  "description": "Samples de vinyles poussiéreux, caisses claires claquantes et basses analogiques rondes pour les puristes du kickage à Reims.",
+  "targetArtists": [
+    "Artistes de Reims",
+    "Communauté Rap Français",
+    "Scène Hip-Hop Francophone"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "Si-Mineur / Ré-Mineur",
+  "vibeAttributes": [
+    "Reims",
+    "Boom Bap FR",
+    "Paiement CB & Lydia (EUR €)",
+    "100% Conforme SACEM"
+  ],
+  "popularGenres": [
+    "French Touch Classic Boom Bap",
+    "French Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "toulon-french-trap-808",
+  "name": "Toulon French Trap 808 Beats",
+  "category": "scene",
+  "badge": "Toulon French Trap",
+  "headline": "Toulon (Var & Rade Méditerranéenne Ensoleillée) French Trap 808 Beats: Fichiers WAV 24-Bit & Paiement Carte Bancaire (CB)",
+  "description": "Basses 808 glissantes percutantes, synthétiseurs mineurs sombres et caisses claires tranchantes calibrées pour les artistes de Toulon.",
+  "targetArtists": [
+    "Artistes de Toulon",
+    "Communauté Rap Français",
+    "Scène Hip-Hop Francophone"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "Fa-Mineur / Do-Mineur",
+  "vibeAttributes": [
+    "Toulon",
+    "French Trap",
+    "Paiement CB & Lydia (EUR €)",
+    "100% Conforme SACEM"
+  ],
+  "popularGenres": [
+    "French Trap 808 Beats",
+    "French Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "toulon-paris-street-drill",
+  "name": "Toulon Paris Street Drill Beats",
+  "category": "scene",
+  "badge": "Toulon Paris Drill",
+  "headline": "Toulon (Var & Rade Méditerranéenne Ensoleillée) Paris Street Drill Beats: Fichiers WAV 24-Bit & Paiement Carte Bancaire (CB)",
+  "description": "Pianos sombres menaçants, charlestons ultra-syncopés et basses sismiques en glissando pour les rappeurs de Toulon.",
+  "targetArtists": [
+    "Artistes de Toulon",
+    "Communauté Rap Français",
+    "Scène Hip-Hop Francophone"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "Mi-Mineur / Do#-Mineur",
+  "vibeAttributes": [
+    "Toulon",
+    "Paris Drill",
+    "Paiement CB & Lydia (EUR €)",
+    "100% Conforme SACEM"
+  ],
+  "popularGenres": [
+    "Paris Street Drill Beats",
+    "French Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "toulon-marseille-afro-bounce",
+  "name": "Toulon Marseille Afro Bounce Beats",
+  "category": "scene",
+  "badge": "Toulon Afro Bounce",
+  "headline": "Toulon (Var & Rade Méditerranéenne Ensoleillée) Marseille Afro Bounce Beats: Fichiers WAV 24-Bit & Paiement Carte Bancaire (CB)",
+  "description": "Rythmes syncopés entraînants, guitares tropicales lumineuses et basses 808 chantantes pour ambiancer les foules à Toulon.",
+  "targetArtists": [
+    "Artistes de Toulon",
+    "Communauté Rap Français",
+    "Scène Hip-Hop Francophone"
+  ],
+  "recommendedBpm": "108-115 / 128 BPM",
+  "recommendedKey": "Sol-Majeur / Si-Mineur",
+  "vibeAttributes": [
+    "Toulon",
+    "Afro Bounce",
+    "Paiement CB & Lydia (EUR €)",
+    "100% Conforme SACEM"
+  ],
+  "popularGenres": [
+    "Marseille Afro Bounce Beats",
+    "French Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "toulon-french-touch-boom-bap",
+  "name": "Toulon French Touch Classic Boom Bap",
+  "category": "scene",
+  "badge": "Toulon Boom Bap FR",
+  "headline": "Toulon (Var & Rade Méditerranéenne Ensoleillée) French Touch Classic Boom Bap: Fichiers WAV 24-Bit & Paiement Carte Bancaire (CB)",
+  "description": "Samples de vinyles poussiéreux, caisses claires claquantes et basses analogiques rondes pour les puristes du kickage à Toulon.",
+  "targetArtists": [
+    "Artistes de Toulon",
+    "Communauté Rap Français",
+    "Scène Hip-Hop Francophone"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "Si-Mineur / Ré-Mineur",
+  "vibeAttributes": [
+    "Toulon",
+    "Boom Bap FR",
+    "Paiement CB & Lydia (EUR €)",
+    "100% Conforme SACEM"
+  ],
+  "popularGenres": [
+    "French Touch Classic Boom Bap",
+    "French Trap",
+    "Afro Bounce"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
 ];

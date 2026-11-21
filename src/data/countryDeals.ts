@@ -41438,4 +41438,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "fr/nantes-loire-atlantique-44": {
+  "slug": "fr/nantes-loire-atlantique-44",
+  "name": "France – Nantes & Loire-Atlantique (44) West Coast Creative Capital & Modern Trap",
+  "flag": "🇫🇷",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Carte Bancaire (CB), Lydia, Paylib, Apple Pay, Google Pay, Cards (Visa/Mastercard), PayPal",
+  "pro": "SACEM",
+  "proFullName": "SACEM (Société des Auteurs, Compositeurs et Editeurs de Musique)",
+  "proGuide": "100% conforme au Code de la Propriété Intellectuelle français et aux règles SACEM avec contrat PDF immédiat.",
+  "headline": "Beats à Nantes : Bords de Loire, Scène Créative Nantaise & Trap 808 Percutante",
+  "description": "La capitale créative de l'Ouest : 808s glissantes, synthétiseurs futuristes et mélodies envoûtantes conçues pour les artistes et lyricistes de Nantes, Saint-Nazaire et Loire-Atlantique.",
+  "popularGenres": [
+    "Nantes Modern Trap",
+    "West Coast French Rap",
+    "Loire Melodic Drill"
+  ],
+  "subClusters": []
+},
+  "fr/rennes-bretagne-35": {
+  "slug": "fr/rennes-bretagne-35",
+  "name": "France – Rennes & Bretagne (35) Underground Student Bastion & Dark Melodic Trap",
+  "flag": "🇫🇷",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Carte Bancaire (CB), Lydia, Paylib, Apple Pay, Google Pay, Cards (Visa/Mastercard), PayPal",
+  "pro": "SACEM",
+  "proFullName": "SACEM (Société des Auteurs, Compositeurs et Editeurs de Musique)",
+  "proGuide": "Fichiers studio WAV 24-bit non compressés avec pistes séparées (stems multitrack).",
+  "headline": "Beats à Rennes : Énergie Étudiante Bretonne, Nuits Underground & Trap Sombre",
+  "description": "Le bastion alternatif et étudiant de l'Ille-et-Vilaine : pianos mélancoliques, charlestons rapides et sub-basses saturées pour les rappeurs de Rennes et de toute la Bretagne.",
+  "popularGenres": [
+    "Rennes Underground Rap",
+    "Bretagne Dark Trap",
+    "Student Cloud Beat"
+  ],
+  "subClusters": []
+},
+  "fr/rouen-normandie-76": {
+  "slug": "fr/rouen-normandie-76",
+  "name": "France – Rouen & Le Havre (76) Seine Maritime Gateway & Raw Coastal Drill",
+  "flag": "🇫🇷",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Carte Bancaire (CB), Lydia, Paylib, Apple Pay, Google Pay, Cards (Visa/Mastercard), PayPal",
+  "pro": "SACEM",
+  "proFullName": "SACEM (Société des Auteurs, Compositeurs et Editeurs de Musique)",
+  "proGuide": "Plein droit de monétisation commerciale sur Spotify, Deezer, Apple Music et YouTube.",
+  "headline": "Beats à Rouen & Le Havre : Estuaire de la Seine, Climat Portuaire & Drill Brute",
+  "description": "Où la Seine rencontre l'océan Atlantique : cloches d'église menaçantes, basses glissantes en portamento et kicks percutants pour les artistes de Rouen, Le Havre et Normandie.",
+  "popularGenres": [
+    "Normandie Street Drill",
+    "Le Havre Port Rap",
+    "Seine Maritime Trap"
+  ],
+  "subClusters": []
+},
+  "fr/grenoble-alpes-38": {
+  "slug": "fr/grenoble-alpes-38",
+  "name": "France – Grenoble & Alpes (38) Mountain Basin Trap & Heavy Distorted 808s",
+  "flag": "🇫🇷",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Carte Bancaire (CB), Lydia, Paylib, Apple Pay, Google Pay, Cards (Visa/Mastercard), PayPal",
+  "pro": "SACEM",
+  "proFullName": "SACEM (Société des Auteurs, Compositeurs et Editeurs de Musique)",
+  "proGuide": "100% libre de droits sur les enregistrements masters avec licence commerciale.",
+  "headline": "Beats à Grenoble : Cuvette Alpine, Sommets Enneigés & Trap Agressive",
+  "description": "Entre les massifs de Belledonne et du Vercors : cuivres synthétiques perçants, kicks saturés et 808s sismiques forgées pour les lyricistes de Grenoble et de la région Rhône-Alpes.",
+  "popularGenres": [
+    "Grenoble Alpine Trap",
+    "Mountain Drill Beat",
+    "Rhône-Alpes Rap"
+  ],
+  "subClusters": []
+},
+  "fr/reims-champagne-51": {
+  "slug": "fr/reims-champagne-51",
+  "name": "France – Reims & Champagne (51) Grand Est Rap Bastion & Melodic Piano Trap",
+  "flag": "🇫🇷",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Carte Bancaire (CB), Lydia, Paylib, Apple Pay, Google Pay, Cards (Visa/Mastercard), PayPal",
+  "pro": "SACEM",
+  "proFullName": "SACEM (Société des Auteurs, Compositeurs et Editeurs de Musique)",
+  "proGuide": "Paiement direct par Carte Bancaire (CB), Lydia ou Paylib en euros (€) avec téléchargement instantané.",
+  "headline": "Beats à Reims : Cité des Sacres, Vignes de Champagne & Pianos Trap Mélodiques",
+  "description": "Le cœur historique et urbain du Grand Est : progressions de piano mélancoliques, nappes de synthétiseur amples et basses 808 profondes taillées pour les artistes de Reims et de la Marne.",
+  "popularGenres": [
+    "Reims Melodic Trap",
+    "Champagne Piano Rap",
+    "Grand Est Drill"
+  ],
+  "subClusters": []
+},
+  "fr/toulon-var-83": {
+  "slug": "fr/toulon-var-83",
+  "name": "France – Toulon & Var (83) French Riviera Naval Port & Sun-Drenched Bounce",
+  "flag": "🇫🇷",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Carte Bancaire (CB), Lydia, Paylib, Apple Pay, Google Pay, Cards (Visa/Mastercard), PayPal",
+  "pro": "SACEM",
+  "proFullName": "SACEM (Société des Auteurs, Compositeurs et Editeurs de Musique)",
+  "proGuide": "Licence commerciale complète pour streaming Spotify, Deezer, clips YouTube et radio.",
+  "headline": "Beats à Toulon : Rade Navale, Soleil Méditerranéen & Bounce Ensoleillé",
+  "description": "Entre mer Méditerranée et mont Faron : rythmes afro-trap syncopés, guitares ensoleillées et basses rebondissantes pour la jeunesse urbaine de Toulon, Hyères et du Var.",
+  "popularGenres": [
+    "Toulon Afro Bounce",
+    "Var Mediterranean Trap",
+    "Riviera Drill"
+  ],
+  "subClusters": []
+},
+  "fr/saint-etienne-loire-42": {
+  "slug": "fr/saint-etienne-loire-42",
+  "name": "France – Saint-Étienne & Loire (42) Mining Heritage & Gritty Street Reality Rap",
+  "flag": "🇫🇷",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Carte Bancaire (CB), Lydia, Paylib, Apple Pay, Google Pay, Cards (Visa/Mastercard), PayPal",
+  "pro": "SACEM",
+  "proFullName": "SACEM (Société des Auteurs, Compositeurs et Editeurs de Musique)",
+  "proGuide": "Pistes stems séparées et fichiers WAV haute résolution inclus.",
+  "headline": "Beats à Saint-Étienne : Passé Industriel Minier, Chaudron Vert & Rap Réaliste",
+  "description": "L'authenticité et la résilience stéphanoise : samples vintage poussiéreux, caisses claires percutantes et sub-basses denses conçues pour le rap de rue de Saint-Étienne et de la Loire.",
+  "popularGenres": [
+    "Saint-Étienne Street Rap",
+    "Mining City Boom Bap",
+    "Loire 808 Trap"
+  ],
+  "subClusters": []
+},
+  "fr/dunkerque-calais-littoral": {
+  "slug": "fr/dunkerque-calais-littoral",
+  "name": "France – Dunkerque & Côte d'Opale (59/62) Northern Port & Frantic Cold Drill",
+  "flag": "🇫🇷",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Carte Bancaire (CB), Lydia, Paylib, Apple Pay, Google Pay, Cards (Visa/Mastercard), PayPal",
+  "pro": "SACEM",
+  "proFullName": "SACEM (Société des Auteurs, Compositeurs et Editeurs de Musique)",
+  "proGuide": "Contrat de cession de droits d'auteur immédiat au format PDF conforme SACEM.",
+  "headline": "Beats à Dunkerque & Calais : Climat du Nord, Digues Portuaires & Drill Glaciale",
+  "description": "À la frontière maritime du détroit du Pas-de-Calais : riffs de piano mineur glaciaux, charlestons ultra-syncopés et 808s abrasives pour les rappeurs de Dunkerque, Calais et Boulogne-sur-Mer.",
+  "popularGenres": [
+    "Côte d'Opale Cold Drill",
+    "Dunkerque Street Rap",
+    "Nord 808"
+  ],
+  "subClusters": []
+},
+  "fr/clermont-ferrand-auvergne-63": {
+  "slug": "fr/clermont-ferrand-auvergne-63",
+  "name": "France – Clermont-Ferrand & Auvergne (63) Volcanic Plateau & Introspective Lofi Trap",
+  "flag": "🇫🇷",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Carte Bancaire (CB), Lydia, Paylib, Apple Pay, Google Pay, Cards (Visa/Mastercard), PayPal",
+  "pro": "SACEM",
+  "proFullName": "SACEM (Société des Auteurs, Compositeurs et Editeurs de Musique)",
+  "proGuide": "Livraison digitale instantanée des fichiers audio WAV et stems après paiement sécurisé.",
+  "headline": "Beats à Clermont-Ferrand : Terre de Volcans d'Auvergne, Mélancolie & Lofi Trap",
+  "description": "L'énergie singulière du plateau auvergnat : guitares acoustiques intimistes, textures vaporeuses et basses feutrées taillées pour l'écriture introspective à Clermont-Ferrand et dans le Puy-de-Dôme.",
+  "popularGenres": [
+    "Clermont Lofi Trap",
+    "Auvergne Melodic Rap",
+    "Volcano Cloud Beat"
+  ],
+  "subClusters": []
+},
+  "fr/avignon-vaucluse-84": {
+  "slug": "fr/avignon-vaucluse-84",
+  "name": "France – Avignon & Vaucluse (84) City of Popes & Provencal Melodic Acoustic Rap",
+  "flag": "🇫🇷",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Carte Bancaire (CB), Lydia, Paylib, Apple Pay, Google Pay, Cards (Visa/Mastercard), PayPal",
+  "pro": "SACEM",
+  "proFullName": "SACEM (Société des Auteurs, Compositeurs et Editeurs de Musique)",
+  "proGuide": "100% de royalties master conservées par l'artiste sur toutes les plateformes de streaming.",
+  "headline": "Beats à Avignon : Palais des Papes, Remparts Historiques & Rap Acoustique du Sud",
+  "description": "La lumière provençale et le souffle du Mistral : guitares espagnoles chaleureuses, boîtes à rythmes vives et 808s chantantes pour les voix d'Avignon, Orange, Cavaillon et du Vaucluse.",
+  "popularGenres": [
+    "Avignon Acoustic Rap",
+    "Vaucluse Summer Trap",
+    "Mistral Melodic Beat"
+  ],
+  "subClusters": []
+},
 };
