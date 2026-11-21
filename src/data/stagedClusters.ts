@@ -114835,4 +114835,1297 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "1"
   ]
 },
+  {
+  "slug": "dyler-saudi-youth-trap-wave",
+  "title": "Dyler Saudi Gen Z Viral Trap & High-Energy Bouncy 808 Beat",
+  "description": "Viral, infectious and bouncy Gen Z trap instrumental inspired by Dyler (Ghabam, School is Out, Wyaak), featuring punchy staccato synths, playful sliding 808s, and youth festival party bounce.",
+  "targetKeywords": [
+    "dyler type beat",
+    "saudi viral trap beat",
+    "ghabam dyler instrumental",
+    "saudi arabia youth rap beat",
+    "bouncy khaleeji trap 808"
+  ],
+  "heroCta": "Buy Dyler Style Beat (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Viral Dance Challenge, Youth Party Anthem and Commercial YouTube Single",
+  "similarArtists": [
+    "Dyler",
+    "Slow Moe",
+    "Freek",
+    "Daffy"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "productionTips": "Bouncy staccato synth leads with bright room acoustics over a resonant, unclipped sub-808 bassline.",
+  "idealVocalStyle": "Fast, witty Arabic and English wordplay, playful youth catchphrases, and catchy singalong hooks.",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "Engineered for maximum TikTok virality, YouTube Trending Saudi, and youth playlist dominance."
+},
+  {
+  "slug": "slow-moe-jeddah-street-rap",
+  "title": "Slow Moe Jeddah Old School G-Funk & Red Sea Boom Bap Beat",
+  "description": "Foundational West Coast Hijazi boom bap instrumental inspired by Jeddah rap pioneer Slow Moe and early Saudi hip-hop: soulful G-funk synth whines, rolling basslines, and authentic street reality.",
+  "targetKeywords": [
+    "slow moe type beat",
+    "jeddah street rap beat",
+    "saudi old school hip hop beat",
+    "hejaz boom bap mpc",
+    "slow moe jeddah instrumental"
+  ],
+  "heroCta": "Buy Slow Moe Style Beat (WAV + Stems)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Underground Street Rap, Classic Storytelling and Red Sea Cyphers",
+  "similarArtists": [
+    "Slow Moe",
+    "Klash",
+    "Qusai",
+    "Narcy"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "productionTips": "Classic high-register Moog synth whistle layered with unquantized MPC drum swing and warm electric bass.",
+  "idealVocalStyle": "Authoritative baritone delivery, authentic Hijazi street slang, and sincere cultural storytelling.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Cult status among pioneer Gulf hip-hop fans, documentary soundtracks, and vinyl enthusiasts."
+},
+  {
+  "slug": "al-shamrani-mizmar-hijazi-trap",
+  "title": "Hijazi Mizmar (المزمار الحجازي) Folk Horn & Modern Trap 808 Beat",
+  "description": "High-octane cultural celebration fusing the piercing, festive traditional Hijazi Mizmar (المزمar) folk horn and Mirwas drums with thunderous modern 808 trap drops and urban bounce.",
+  "targetKeywords": [
+    "mizmar hijazi trap beat",
+    "al shamrani mizmar beat",
+    "saudi traditional trap beat 808",
+    "hejaz folklore rap instrumental",
+    "mizmar trap fusion jeddah"
+  ],
+  "heroCta": "Buy Mizmar Hijazi Beat (WAV Mastered)",
+  "energyLevel": "Very High",
+  "primaryUse": "Cultural Festival Banger, National Day Celebration and Viral Dance Anthem",
+  "similarArtists": [
+    "Mohamed Ramadan",
+    "Wegz",
+    "Flipperachi",
+    "Freek"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "productionTips": "Acoustic double-reed Mizmar lead horn with wide stereophonic slapback over aggressive punchy kicks.",
+  "idealVocalStyle": "High-energy rhythmic chanting, call-and-response street delivery, and fast Arabic bars.",
+  "suggestedKey": "D Minor / Rast",
+  "streamingSuitability": "Unstoppable virality across Saudi National Day events, wedding parties, and TikTok reels."
+},
+  {
+  "slug": "oud-hijazi-maqam-trap-fusion",
+  "title": "Acoustic Arabian Oud Maqam Hijaz (مقام حجاز) & Trap 808 Beat",
+  "description": "Breathtaking acoustic Middle Eastern fusion featuring real acoustic Oud played in the sacred and emotional Maqam Hijaz mode, layered over sliding 808 sub-bass drops and crisp urban percussion.",
+  "targetKeywords": [
+    "oud maqam hijaz trap beat",
+    "saudi acoustic oud beat 808",
+    "hejaz oud trap instrumental",
+    "traditional arabic oud rap beat",
+    "oud trap fusion riyadh"
+  ],
+  "heroCta": "Buy Hijazi Oud Beat (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Cultural Crossover Single, Cinematic Arabic Rap and International Hit",
+  "similarArtists": [
+    "Wegz",
+    "Marwan Pablo",
+    "Saint Levant",
+    "Freek"
+  ],
+  "recommendedBpm": "126-134 BPM",
+  "productionTips": "Warm double-course Oud picking in wide stereo with microtonal quarter-tone ornamentations over 40Hz sub-bass.",
+  "idealVocalStyle": "Passionate Arabic, English, or French vocal delivery, conscious lyricism, or melodic hook singing.",
+  "suggestedKey": "D Hijaz",
+  "streamingSuitability": "Massive global crossover reach across Saudi Arabia, the Gulf, North Africa, and global diaspora."
+},
+  {
+  "slug": "riyadh-season-soundstorm-anthem",
+  "title": "MDLBEAST Soundstorm Riyadh Season Festival Trap 140 BPM Beat",
+  "description": "Monumental festival mainstage banger inspired by MDLBEAST Soundstorm and Riyadh Season: explosive supersaw leads, thunderous stadium drops, and massive sub-bass that shakes desert festival grounds.",
+  "targetKeywords": [
+    "soundstorm riyadh trap beat",
+    "mdlbeast festival instrumental",
+    "riyadh season trap banger 140 bpm",
+    "saudi electronic festival beat",
+    "soundstorm anthem 808"
+  ],
+  "heroCta": "Buy Soundstorm Festival Beat (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Festival Mainstage, Live Stadium Concert and High-Adrenaline Music Video",
+  "similarArtists": [
+    "KSHMR",
+    "Hardwell",
+    "Yellow Claw",
+    "Kura"
+  ],
+  "recommendedBpm": "138-144 BPM",
+  "productionTips": "Wide supersaw leads with multiband distortion layered over a heavy, punchy festival kick and sub-808.",
+  "idealVocalStyle": "Hype crowd-control chants, rapid-fire rhythmic rhymes, and high-energy anthemic hooks.",
+  "suggestedKey": "F Minor",
+  "streamingSuitability": "Engineered for mega-festival crowds, sports arenas, and viral TikTok electronic music edits."
+},
+  {
+  "slug": "alula-ancient-canyon-orchestral",
+  "title": "AlUla Maraya Concert Hall & Ancient Desert Monolith Orchestral Beat",
+  "description": "Prestigious, awe-inspiring cinematic hip-hop inspired by the mirror facade of Maraya Concert Hall and the ancient tombs of Hegra: sweeping orchestral strings, cello solos, and stately sub-bass.",
+  "targetKeywords": [
+    "alula orchestral trap beat",
+    "maraya concert hall instrumental",
+    "hegra cinematic hip hop beat",
+    "saudi desert monolith rap beat",
+    "epic orchestral trap saudi"
+  ],
+  "heroCta": "Buy AlUla Orchestral Beat (WAV Mastered)",
+  "energyLevel": "High",
+  "primaryUse": "Cinematic Album Title Track, Tourism Campaigns and Grand Film Soundtracks",
+  "similarArtists": [
+    "Hans Zimmer",
+    "Wegz",
+    "Antonín Dvořák",
+    "Kendrick Lamar"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "productionTips": "Live orchestral string sections and French horns recorded with concert hall reverberation over a clean 808.",
+  "idealVocalStyle": "Stately, articulate vocal delivery, deep philosophical lyrics, and dramatic presence.",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "Insuperable for film trailers, high-end cultural campaigns, and critically acclaimed albums."
+},
+  {
+  "slug": "khaleeji-ardah-royal-drum-trap",
+  "title": "Saudi National Ardah (العرضة السعودية) Royal War Drums & Trap 808 Beat",
+  "description": "Triumphant and majestic national anthem trap fusing the ceremonial war drums and poetry of the Saudi Royal Ardah (العرضة) with thunderous modern 808 drops and crisp urban brass.",
+  "targetKeywords": [
+    "saudi ardah trap beat",
+    "al ardah al saudia rap beat",
+    "royal war drums hip hop 808",
+    "saudi national day trap anthem",
+    "ardah trap fusion beat"
+  ],
+  "heroCta": "Buy Saudi Ardah Beat (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "National Day Anthem, Royal Stadium Celebrations and Historic Videos",
+  "similarArtists": [
+    "Mohamed Abdu",
+    "Rabeh Saqer",
+    "THELIONCITYBOY",
+    "Ektor"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "productionTips": "Acoustic Tabl and Mirwas Ardah drum patterns layered with orchestral brass and heavy 808 drops.",
+  "idealVocalStyle": "Commanding, patriotic vocal delivery with proud, victory-themed verses and group chants.",
+  "suggestedKey": "D Major",
+  "streamingSuitability": "Essential for National Day ceremonies, major sports events, and high-impact patriotic campaigns."
+},
+  {
+  "slug": "red-sea-jeddah-sunset-chillhop",
+  "title": "Red Sea Jeddah Corniche Sunset Breeze & Acoustic Nylon Chillhop Beat",
+  "description": "Nostalgic, peaceful maritime chillhop inspired by the gentle waves of the Red Sea along the Jeddah Corniche: warm acoustic nylon guitar skanks, water ripples, and mellow hip-hop drums.",
+  "targetKeywords": [
+    "jeddah corniche lofi beat",
+    "red sea chillhop instrumental",
+    "saudi acoustic lofi beat",
+    "relaxing jeddah study beat",
+    "red sea sunset hip hop"
+  ],
+  "heroCta": "Buy Red Sea Lofi (Commercial License)",
+  "energyLevel": "Low",
+  "primaryUse": "Travel Vlogs, Study Focus Playlists, Seaside Visuals and Relaxing Singles",
+  "similarArtists": [
+    "Tomppabeats",
+    "Nujabes",
+    "Kudasaibeats",
+    "Saint Levant"
+  ],
+  "recommendedBpm": "78-84 BPM",
+  "productionTips": "Field recordings of Red Sea gentle surf beneath tape-saturated nylon guitar chords.",
+  "idealVocalStyle": "Gentle poetic singing, spoken-word storytelling, or peaceful background listening.",
+  "suggestedKey": "G Major",
+  "streamingSuitability": "Perfect for study chillhop playlists, travel vloggers, and nostalgic coastal aesthetics."
+},
+  {
+  "slug": "neom-the-line-cyber-synth-trap",
+  "title": "NEOM The Line Cyberpunk Mirror Megacity & Futuristic Synth Trap Beat",
+  "description": "Avant-garde, ultra-modern electronic trap inspired by NEOM and The Line architectural megacity in northwest Saudi Arabia: razor-sharp laser synths, spatial arpeggios, and subterranean 808 glides.",
+  "targetKeywords": [
+    "neom the line trap beat",
+    "futuristic cyberpunk trap saudi",
+    "neom megacity instrumental 808",
+    "tabuk future synth trap",
+    "avant garde electronic rap beat"
+  ],
+  "heroCta": "Buy NEOM Cyber Trap (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Futuristic Sci-Fi Visuals, High-Concept Fashion and Cyberpunk Music Videos",
+  "similarArtists": [
+    "Travis Scott",
+    "DPR LIVE",
+    "Smack One",
+    "Ghostemane"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "productionTips": "Stereo modular synth arpeggiators with fast high-pass automated filtering over an ultra-deep sub-bass.",
+  "idealVocalStyle": "Cold, robotic autotune delivery, rapid-fire futuristic bars, and high-concept English/Arabic verses.",
+  "suggestedKey": "C# Minor",
+  "streamingSuitability": "Insuperable for tech showcases, futuristic sci-fi visualizers, and cutting-edge urban playlists."
+},
+  {
+  "slug": "rababa-bedouin-desert-campfire-trap",
+  "title": "Bedouin Desert Campfire Rababa (ربابة) & Nafud Sands Trap 808 Beat",
+  "description": "Haunting, mystical desert trap featuring the ancient single-string Bedouin Rababa (ربابة) weeping around a desert campfire in Ha'il over deep 40Hz sub-bass and crisp modern percussion.",
+  "targetKeywords": [
+    "rababa desert trap beat",
+    "bedouin rababa rap beat saudi",
+    "saudi campfire rababa instrumental",
+    "nafud desert dark trap 808",
+    "traditional bedouin hip hop"
+  ],
+  "heroCta": "Buy Rababa Desert Beat (WAV Mastered)",
+  "energyLevel": "High",
+  "primaryUse": "Epic Cinematic Hip-Hop, Bedouin Heritage Storytelling and Film Soundtracks",
+  "similarArtists": [
+    "Wegz",
+    "Marwan Moussa",
+    "Freek",
+    "Subcarpați"
+  ],
+  "recommendedBpm": "120-128 BPM",
+  "productionTips": "Authentic bowed Rababa string glides drenched in desert night wind reverb over sustained sub-bass drops.",
+  "idealVocalStyle": "Deep, passionate Arabic or English vocal delivery with poetic, philosophical storytelling.",
+  "suggestedKey": "D Bayati / D Minor",
+  "streamingSuitability": "Insuperable cultural resonance across Saudi Arabia, documentary films, and global trap."
+},
+  {
+  "slug": "diriyah-at-turaif-heritage-boom-bap",
+  "title": "Diriyah At-Turaif UNESCO Mud-Brick Palace & Patriotic Boom Bap Beat",
+  "description": "Cultured, patriotic hip-hop honoring the birthplace of the Saudi state at UNESCO At-Turaif in Diriyah: dusty SP1200 drum chops, classical Arabic strings, and deep historical resonance.",
+  "targetKeywords": [
+    "diriyah boom bap beat",
+    "at turaif heritage rap beat",
+    "saudi patriotic hip hop instrumental",
+    "historic diriyah rap beat",
+    "classical arabic boom bap mpc"
+  ],
+  "heroCta": "Buy Diriyah Heritage Beat (Unlimited Use)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Patriotic Saudi Rap, Historical Documentaries and Classical Arabic Lyrics",
+  "similarArtists": [
+    "Narcy",
+    "Qusai",
+    "Shadia Mansour",
+    "Klash"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "productionTips": "Warm SP1200 vinyl textures with natural drum swing and acoustic upright basslines.",
+  "idealVocalStyle": "Flawless Arabic delivery, intricate rhyme schemes, and grave patriotic storytelling.",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "The definitive format for classical Arabic lyricists, literature festivals, and National Day features."
+},
+  {
+  "slug": "bilingual-khaleeji-trap-rnb",
+  "title": "Modern Smooth Khaleeji R&B-Trap & Late-Night Autotune Beat",
+  "description": "Sultry, late-night bilingual Arabic-English R&B-trap featuring lush Rhodes electric piano chords, smooth autotuned vocal runs, and a deep melodic 808 bounce for late-night cruising.",
+  "targetKeywords": [
+    "khaleeji rnb trap beat",
+    "saudi bilingual trap beat",
+    "smooth arabic rnb instrumental",
+    "riyadh late night cruising beat",
+    "khaleeji autotune rap beat"
+  ],
+  "heroCta": "Buy Khaleeji R&B Beat (WAV 24-bit)",
+  "energyLevel": "Medium",
+  "primaryUse": "R&B Vocal Single, Late-Night Cruising Track and Romantic Visuals",
+  "similarArtists": [
+    "Saint Levant",
+    "Elyanna",
+    "The Weeknd",
+    "Dyler"
+  ],
+  "recommendedBpm": "105-112 BPM",
+  "productionTips": "Warm tape-flutter Rhodes electric piano chords layered beneath a round, non-muddy 808.",
+  "idealVocalStyle": "Sultry, intimate vocal delivery with autotuned falsetto runs and bilingual lyrics.",
+  "suggestedKey": "F# Minor",
+  "streamingSuitability": "Perfect for late-night streaming playlists, romantic soundtracks, and luxury cruising reels."
+},
+  {
+  "slug": "buy-beats-mada-apple-pay-saudi-sar",
+  "title": "Buy Beats with Mada & Apple Pay in Saudi Arabia (Instant SAR ر.س Checkout)",
+  "description": "Purchase industry-standard instrumentals with instant Mada card, Apple Pay, stc pay, and Saudi bank cards (Al Rajhi, SNB, Riyad Bank) in Saudi Riyals (SAR ر.س) with immediate 24-bit WAV download.",
+  "targetKeywords": [
+    "buy beats mada apple pay saudi sar",
+    "beat store saudi arabia riyals",
+    "buy rap beats online saudi sar",
+    "arabic hip hop beat store mada"
+  ],
+  "heroCta": "Browse Beats (Instant Mada Checkout SAR)",
+  "energyLevel": "High",
+  "primaryUse": "Studio Master Recording, Commercial Releases and Spotify Singles",
+  "similarArtists": [
+    "Saudi & Gulf Hip-Hop Community",
+    "Riyadh & Jeddah Independent Artists"
+  ],
+  "recommendedBpm": "85-145 BPM",
+  "productionTips": "Frictionless local mobile checkout in SAR via Mada and Apple Pay without currency fees.",
+  "idealVocalStyle": "Adaptable across all Arabic, Khaleeji, and English rap and R&B styles.",
+  "suggestedKey": "Various Keys",
+  "streamingSuitability": "Includes commercial licensing valid for full monetization across all digital streaming platforms."
+},
+  {
+  "slug": "saudi-drill-beats-with-wav-stems",
+  "title": "Saudi Drill Beats with Separated Multitrack Stems (24-bit Studio WAV)",
+  "description": "Professional Saudi street drill instrumentals delivered with complete separated multitrack audio stems (kick, 808, snare, hats, strings, keys) for precision mixing in Riyadh and Jeddah studios.",
+  "targetKeywords": [
+    "saudi drill beats with stems wav",
+    "riyadh drill beats multitrack",
+    "jeddah street drill stems 808",
+    "buy arabic drill instrumentals tracks saudi"
+  ],
+  "heroCta": "Buy Drill Beat with Stems (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Professional Studio Mixing, Vocal Arrangements and Label Releases",
+  "similarArtists": [
+    "Dyler",
+    "Slow Moe",
+    "Freek",
+    "Stormy"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Individual stems exported with -6dB headroom, zero clipping, and clean low-end frequency separation.",
+  "idealVocalStyle": "Dynamic rap vocals with space for double-tracking and ad-libs.",
+  "suggestedKey": "C Minor / E Minor",
+  "streamingSuitability": "Provides audio engineers with total mixing flexibility for broadcast-ready releases."
+},
+  {
+  "slug": "saip-music-copyright-contract-pdf",
+  "title": "SAIP Saudi Intellectual Property Licensing Agreement & Split Sheet (PDF)",
+  "description": "Download an official legal licensing contract and split sheet agreement compliant with the Saudi Authority for Intellectual Property (SAIP) and international publishing standards in PDF format.",
+  "targetKeywords": [
+    "saip music copyright contract pdf",
+    "saudi music licensing agreement pdf",
+    "producer split sheet contract saudi arabia",
+    "saip intellectual property music contract"
+  ],
+  "heroCta": "Download SAIP Licensing Contract (Instant PDF)",
+  "energyLevel": "N/A",
+  "primaryUse": "Copyright Registration, Publishing Splits and Full Legal Commercial Protection",
+  "similarArtists": [
+    "Onzieb",
+    "SAIP Registered Songwriters and Music Commission Members"
+  ],
+  "recommendedBpm": "All Tempos",
+  "productionTips": "Formulated under Saudi Vision 2030 intellectual property regulations protecting authors and producers.",
+  "idealVocalStyle": "Valid for all musical genres and vocal recordings.",
+  "suggestedKey": "All Keys",
+  "streamingSuitability": "Guaranteed legal protection for global commercial distribution and sync placements."
+},
+  {
+  "slug": "untagged-saudi-trap-beats-wav",
+  "title": "Untagged Saudi Luxury Trap Beats with Heavy 808s (WAV Mastered)",
+  "description": "Opulent and aggressive Saudi street trap instrumentals delivered 100% voice-tag free in pristine 24-bit studio WAV format, ready for recording verses in studios across the Kingdom.",
+  "targetKeywords": [
+    "untagged saudi trap beats wav",
+    "saudi rap beats without voice tag",
+    "arabic trap beat no voice tag riyadh",
+    "buy untagged trap beats saudi arabia"
+  ],
+  "heroCta": "Buy Untagged Trap Beat (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hard Trap Singles, Street Cyphers and YouTube Rap Videos",
+  "similarArtists": [
+    "Dyler",
+    "Slow Moe",
+    "Freek",
+    "Central Cee"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "productionTips": "Aggressive low-end portamento sliding 808s balanced with clean midrange and piercing hi-hats.",
+  "idealVocalStyle": "Hard-hitting street delivery, rapid rhyme schemes, and direct punchlines.",
+  "suggestedKey": "C# Minor / D Minor",
+  "streamingSuitability": "Includes commercial clearance for full monetization on YouTube, Spotify, and Anghami."
+},
+  {
+  "slug": "album-beat-bundles-saudi-discount",
+  "title": "Album & EP Beat Packages in Saudi Arabia (Save up to 40% in SAR ر.س)",
+  "description": "Multi-beat bundle deals for Saudi and Gulf recording artists working on full albums or EPs: get 5 or 10 instrumentals with up to 40% volume discount in Saudi Riyals (SAR ر.س).",
+  "targetKeywords": [
+    "album beat packages saudi arabia",
+    "ep beat bundle discount saudi sar",
+    "buy bulk beats riyadh jeddah",
+    "album instrumental packages gulf sar"
+  ],
+  "heroCta": "View Album Packages (Save up to 40%)",
+  "energyLevel": "Variable",
+  "primaryUse": "Full EP/Album Production, Concept Projects and Continuous Releases",
+  "similarArtists": [
+    "Independent Saudi Artists and Bands"
+  ],
+  "recommendedBpm": "85-145 BPM",
+  "productionTips": "Curated sonic cohesion ensuring a smooth narrative flow throughout your entire project.",
+  "idealVocalStyle": "Adaptable across the artist's full emotional and vocal range.",
+  "suggestedKey": "Various Keys",
+  "streamingSuitability": "Multi-track commercial license valid for simultaneous streaming releases."
+},
+  {
+  "slug": "music-producer-saudi-whatsapp-onzieb",
+  "title": "Online Music Producer for Saudi Artists (WhatsApp Producer Onzieb)",
+  "description": "Connect directly with music producer Onzieb via WhatsApp for custom beat commissions, executive production, vocal mixing arrangements, and key adjustments tailored for Saudi creators.",
+  "targetKeywords": [
+    "music producer saudi arabia whatsapp",
+    "onzieb beatmaker riyadh jeddah",
+    "custom trap producer saudi",
+    "hire music producer saudi whatsapp"
+  ],
+  "heroCta": "Chat with Onzieb on WhatsApp",
+  "energyLevel": "Custom",
+  "primaryUse": "Exclusive Custom Productions, Executive Project Guidance and Mixing",
+  "similarArtists": [
+    "Onzieb",
+    "Saudi Hip-Hop Community"
+  ],
+  "recommendedBpm": "Tailored to your project",
+  "productionTips": "Interactive feedback with tempo, key, and arrangement tweaks matching your exact vocal frequency.",
+  "idealVocalStyle": "Custom tailored to elevate your individual artistic identity and range.",
+  "suggestedKey": "Personalized",
+  "streamingSuitability": "Mastered to strict broadcast standards (-14 LUFS) ready for DSP submission."
+},
+  {
+  "slug": "authentic-hijazi-mizmar-trap-beats",
+  "title": "Authentic Hijazi Mizmar Folk Horn Trap Beats in 24-bit Studio WAV",
+  "description": "Unique urban crossover beats pairing real Hijazi Mizmar folk horn melodies and Mirwas clapping with modern 808 trap rhythms delivered in pristine studio quality for Saudi recording artists.",
+  "targetKeywords": [
+    "authentic hijazi mizmar trap beats",
+    "mizmar rap beat jeddah",
+    "saudi folklore trap instrumental",
+    "traditional hijazi trap 808"
+  ],
+  "heroCta": "Buy Mizmar Trap Beat (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Cultural Crossover Single, Modern Hijazi Rap and Commercial Release",
+  "similarArtists": [
+    "Mohamed Ramadan",
+    "Wegz",
+    "Flipperachi",
+    "Slow Moe"
+  ],
+  "recommendedBpm": "125-135 BPM",
+  "productionTips": "Rich acoustic picking tone with wide stereophonic field and non-clashing 808 bass.",
+  "idealVocalStyle": "Passionate Arabic, English, or Khaleeji delivery, conscious lyricism, or melodic hook singing.",
+  "suggestedKey": "D Hijaz / D Rast",
+  "streamingSuitability": "High viral share potential across Saudi Arabia, the Gulf, Egypt, and global diaspora."
+},
+  {
+  "slug": "boom-bap-hip-hop-beats-saudi-mpc",
+  "title": "90s Golden-Era Boom Bap & Street Rap Beats in Saudi Arabia (MPC Master)",
+  "description": "Classic, gritty boom bap beats featuring dusty vinyl sample chops, snapping acoustic snares, and warm analog basslines inspired by the golden era of hip-hop for Riyadh and Jeddah lyricists.",
+  "targetKeywords": [
+    "boom bap beats saudi arabia",
+    "jeddah old school hip hop beat",
+    "riyadh boom bap rap beats",
+    "90s mpc boom bap saudi"
+  ],
+  "heroCta": "Buy Classic Boom Bap Beat (WAV Mastered)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Underground Rap, Lyrical Storytelling and MC Battles",
+  "similarArtists": [
+    "Slow Moe",
+    "Klash",
+    "Qusai",
+    "Narcy"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "productionTips": "Warm SP1200-style vinyl saturation with punchy, uncompressed acoustic drum hits.",
+  "idealVocalStyle": "Complex rhyme schemes, bilingual wordplay, and commanding poetic flow.",
+  "suggestedKey": "B Minor / D Minor",
+  "streamingSuitability": "The undisputed standard for purist hip-hop heads, cyphers, and vinyl lovers."
+},
+  {
+  "slug": "free-saudi-trap-demo-beats-mp3",
+  "title": "Download Free Saudi Trap & Drill Demo Beats in MP3 (320 kbps Quality)",
+  "description": "Download a free demonstration beat pack featuring 3 top-tier instrumentals (luxury Riyadh trap, street drill, and Mizmar crossover) in 320 kbps MP3 quality to sketch lyrics and practice vocal flows.",
+  "targetKeywords": [
+    "free saudi trap beats mp3",
+    "download free beats riyadh saudi",
+    "free demo beats saudi 320kbps",
+    "saudi drill beats free download"
+  ],
+  "heroCta": "Download Free Demo Beats (Instant Access)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Home Studio Demos, Lyric Writing and Vocal Flow Rehearsals",
+  "similarArtists": [
+    "Emerging Saudi Recording Artists",
+    "Home Studio Producers"
+  ],
+  "recommendedBpm": "90, 134, 142 BPM",
+  "productionTips": "Includes a subtle courtesy producer tag; removed completely with any commercial license purchase.",
+  "idealVocalStyle": "Open frequency space for experimenting with flows, choruses, and lyrical concepts.",
+  "suggestedKey": "Various Keys",
+  "streamingSuitability": "Permitted for non-commercial promotional demos and freestyle videos on social media."
+},
+  {
+  "slug": "exclusive-beat-rights-saudi-pricing",
+  "title": "Exclusive Beat Rights in Saudi Arabia (Pricing in SAR ر.س & Master Ownership)",
+  "description": "Own 100% exclusive master and publishing rights to your instrumental: the beat is permanently retired from the store, granting you unlimited streaming, radio airplay, and synchronization.",
+  "targetKeywords": [
+    "exclusive beat rights saudi pricing",
+    "buy exclusive beats riyadh sar",
+    "exclusive music license saudi arabia",
+    "exclusive licensing trap saudi"
+  ],
+  "heroCta": "View Exclusive Options (Instant Checkout SAR)",
+  "energyLevel": "Custom",
+  "primaryUse": "Lead Career Single, Major Label Submissions and Commercial Synchronization",
+  "similarArtists": [
+    "Signed Artists",
+    "Established Kingdom Stars"
+  ],
+  "recommendedBpm": "Tailored to your artistic vision",
+  "productionTips": "Complete DAW project stems and uncompressed WAV files provided with full documentation.",
+  "idealVocalStyle": "The foundation for building your definitive signature sound without limitations.",
+  "suggestedKey": "Customized",
+  "streamingSuitability": "100% royalty monetization with zero caps on digital streams, radio plays, or music videos."
+},
+  {
+  "slug": "riyadh-saudi-drill-808",
+  "name": "Riyadh Saudi Street Drill 808 Beats",
+  "category": "scene",
+  "badge": "Riyadh Saudi Drill",
+  "headline": "Riyadh (KAFD & Boulevard Capital) Saudi Street Drill 808 Beats: 24-Bit WAV Beats & Mada Checkout",
+  "description": "Heavy sliding 808 sub-bass, icy minor pianos, and rapid syncopated drill hats engineered for MCs in Riyadh.",
+  "targetArtists": [
+    "Artists from Riyadh",
+    "Saudi Urban Music Community",
+    "Gulf Hip-Hop Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "C-Minor / E-Minor",
+  "vibeAttributes": [
+    "Riyadh",
+    "Saudi Drill",
+    "Mada (مدى) & Apple Pay (SAR)",
+    "SAIP Compliant"
+  ],
+  "popularGenres": [
+    "Saudi Street Drill 808 Beats",
+    "Saudi Drill",
+    "Khaleeji Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "riyadh-luxury-khaleeji-trap",
+  "name": "Riyadh Luxury Khaleeji Trap Beats",
+  "category": "scene",
+  "badge": "Riyadh Khaleeji Trap",
+  "headline": "Riyadh (KAFD & Boulevard Capital) Luxury Khaleeji Trap Beats: 24-Bit WAV Beats & Mada Checkout",
+  "description": "Lush atmospheric synths, crisp modern trap claps, and clean 808 bounce crafted for artists in Riyadh.",
+  "targetArtists": [
+    "Artists from Riyadh",
+    "Saudi Urban Music Community",
+    "Gulf Hip-Hop Scene"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C#-Minor / G-Minor",
+  "vibeAttributes": [
+    "Riyadh",
+    "Khaleeji Trap",
+    "Mada (مدى) & Apple Pay (SAR)",
+    "SAIP Compliant"
+  ],
+  "popularGenres": [
+    "Luxury Khaleeji Trap Beats",
+    "Saudi Drill",
+    "Khaleeji Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "riyadh-hijazi-mizmar-trap",
+  "name": "Riyadh Hijazi Mizmar Trap Beats",
+  "category": "scene",
+  "badge": "Riyadh Mizmar Trap",
+  "headline": "Riyadh (KAFD & Boulevard Capital) Hijazi Mizmar Trap Beats: 24-Bit WAV Beats & Mada Checkout",
+  "description": "Authentic double-reed Mizmar horn melodies, traditional clapping, and modern 808 drops for Riyadh.",
+  "targetArtists": [
+    "Artists from Riyadh",
+    "Saudi Urban Music Community",
+    "Gulf Hip-Hop Scene"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "D-Hijaz / D-Rast",
+  "vibeAttributes": [
+    "Riyadh",
+    "Mizmar Trap",
+    "Mada (مدى) & Apple Pay (SAR)",
+    "SAIP Compliant"
+  ],
+  "popularGenres": [
+    "Hijazi Mizmar Trap Beats",
+    "Saudi Drill",
+    "Khaleeji Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "riyadh-ardah-boom-bap",
+  "name": "Riyadh Saudi Ardah Royal Boom Bap",
+  "category": "scene",
+  "badge": "Riyadh Royal Ardah",
+  "headline": "Riyadh (KAFD & Boulevard Capital) Saudi Ardah Royal Boom Bap: 24-Bit WAV Beats & Mada Checkout",
+  "description": "Ceremonial war drums, dusty vinyl sample chops, and royal brass fanfares for MCs in Riyadh.",
+  "targetArtists": [
+    "Artists from Riyadh",
+    "Saudi Urban Music Community",
+    "Gulf Hip-Hop Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Riyadh",
+    "Royal Ardah",
+    "Mada (مدى) & Apple Pay (SAR)",
+    "SAIP Compliant"
+  ],
+  "popularGenres": [
+    "Saudi Ardah Royal Boom Bap",
+    "Saudi Drill",
+    "Khaleeji Trap"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "jeddah-saudi-drill-808",
+  "name": "Jeddah Saudi Street Drill 808 Beats",
+  "category": "scene",
+  "badge": "Jeddah Saudi Drill",
+  "headline": "Jeddah (Al Balad & Red Sea Corniche) Saudi Street Drill 808 Beats: 24-Bit WAV Beats & Mada Checkout",
+  "description": "Heavy sliding 808 sub-bass, icy minor pianos, and rapid syncopated drill hats engineered for MCs in Jeddah.",
+  "targetArtists": [
+    "Artists from Jeddah",
+    "Saudi Urban Music Community",
+    "Gulf Hip-Hop Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "C-Minor / E-Minor",
+  "vibeAttributes": [
+    "Jeddah",
+    "Saudi Drill",
+    "Mada (مدى) & Apple Pay (SAR)",
+    "SAIP Compliant"
+  ],
+  "popularGenres": [
+    "Saudi Street Drill 808 Beats",
+    "Saudi Drill",
+    "Khaleeji Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "jeddah-luxury-khaleeji-trap",
+  "name": "Jeddah Luxury Khaleeji Trap Beats",
+  "category": "scene",
+  "badge": "Jeddah Khaleeji Trap",
+  "headline": "Jeddah (Al Balad & Red Sea Corniche) Luxury Khaleeji Trap Beats: 24-Bit WAV Beats & Mada Checkout",
+  "description": "Lush atmospheric synths, crisp modern trap claps, and clean 808 bounce crafted for artists in Jeddah.",
+  "targetArtists": [
+    "Artists from Jeddah",
+    "Saudi Urban Music Community",
+    "Gulf Hip-Hop Scene"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C#-Minor / G-Minor",
+  "vibeAttributes": [
+    "Jeddah",
+    "Khaleeji Trap",
+    "Mada (مدى) & Apple Pay (SAR)",
+    "SAIP Compliant"
+  ],
+  "popularGenres": [
+    "Luxury Khaleeji Trap Beats",
+    "Saudi Drill",
+    "Khaleeji Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "jeddah-hijazi-mizmar-trap",
+  "name": "Jeddah Hijazi Mizmar Trap Beats",
+  "category": "scene",
+  "badge": "Jeddah Mizmar Trap",
+  "headline": "Jeddah (Al Balad & Red Sea Corniche) Hijazi Mizmar Trap Beats: 24-Bit WAV Beats & Mada Checkout",
+  "description": "Authentic double-reed Mizmar horn melodies, traditional clapping, and modern 808 drops for Jeddah.",
+  "targetArtists": [
+    "Artists from Jeddah",
+    "Saudi Urban Music Community",
+    "Gulf Hip-Hop Scene"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "D-Hijaz / D-Rast",
+  "vibeAttributes": [
+    "Jeddah",
+    "Mizmar Trap",
+    "Mada (مدى) & Apple Pay (SAR)",
+    "SAIP Compliant"
+  ],
+  "popularGenres": [
+    "Hijazi Mizmar Trap Beats",
+    "Saudi Drill",
+    "Khaleeji Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "jeddah-ardah-boom-bap",
+  "name": "Jeddah Saudi Ardah Royal Boom Bap",
+  "category": "scene",
+  "badge": "Jeddah Royal Ardah",
+  "headline": "Jeddah (Al Balad & Red Sea Corniche) Saudi Ardah Royal Boom Bap: 24-Bit WAV Beats & Mada Checkout",
+  "description": "Ceremonial war drums, dusty vinyl sample chops, and royal brass fanfares for MCs in Jeddah.",
+  "targetArtists": [
+    "Artists from Jeddah",
+    "Saudi Urban Music Community",
+    "Gulf Hip-Hop Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Jeddah",
+    "Royal Ardah",
+    "Mada (مدى) & Apple Pay (SAR)",
+    "SAIP Compliant"
+  ],
+  "popularGenres": [
+    "Saudi Ardah Royal Boom Bap",
+    "Saudi Drill",
+    "Khaleeji Trap"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "dammam-saudi-drill-808",
+  "name": "Dammam Saudi Street Drill 808 Beats",
+  "category": "scene",
+  "badge": "Dammam Saudi Drill",
+  "headline": "Dammam (Khobar & Eastern Province) Saudi Street Drill 808 Beats: 24-Bit WAV Beats & Mada Checkout",
+  "description": "Heavy sliding 808 sub-bass, icy minor pianos, and rapid syncopated drill hats engineered for MCs in Dammam.",
+  "targetArtists": [
+    "Artists from Dammam",
+    "Saudi Urban Music Community",
+    "Gulf Hip-Hop Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "C-Minor / E-Minor",
+  "vibeAttributes": [
+    "Dammam",
+    "Saudi Drill",
+    "Mada (مدى) & Apple Pay (SAR)",
+    "SAIP Compliant"
+  ],
+  "popularGenres": [
+    "Saudi Street Drill 808 Beats",
+    "Saudi Drill",
+    "Khaleeji Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "dammam-luxury-khaleeji-trap",
+  "name": "Dammam Luxury Khaleeji Trap Beats",
+  "category": "scene",
+  "badge": "Dammam Khaleeji Trap",
+  "headline": "Dammam (Khobar & Eastern Province) Luxury Khaleeji Trap Beats: 24-Bit WAV Beats & Mada Checkout",
+  "description": "Lush atmospheric synths, crisp modern trap claps, and clean 808 bounce crafted for artists in Dammam.",
+  "targetArtists": [
+    "Artists from Dammam",
+    "Saudi Urban Music Community",
+    "Gulf Hip-Hop Scene"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C#-Minor / G-Minor",
+  "vibeAttributes": [
+    "Dammam",
+    "Khaleeji Trap",
+    "Mada (مدى) & Apple Pay (SAR)",
+    "SAIP Compliant"
+  ],
+  "popularGenres": [
+    "Luxury Khaleeji Trap Beats",
+    "Saudi Drill",
+    "Khaleeji Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "dammam-hijazi-mizmar-trap",
+  "name": "Dammam Hijazi Mizmar Trap Beats",
+  "category": "scene",
+  "badge": "Dammam Mizmar Trap",
+  "headline": "Dammam (Khobar & Eastern Province) Hijazi Mizmar Trap Beats: 24-Bit WAV Beats & Mada Checkout",
+  "description": "Authentic double-reed Mizmar horn melodies, traditional clapping, and modern 808 drops for Dammam.",
+  "targetArtists": [
+    "Artists from Dammam",
+    "Saudi Urban Music Community",
+    "Gulf Hip-Hop Scene"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "D-Hijaz / D-Rast",
+  "vibeAttributes": [
+    "Dammam",
+    "Mizmar Trap",
+    "Mada (مدى) & Apple Pay (SAR)",
+    "SAIP Compliant"
+  ],
+  "popularGenres": [
+    "Hijazi Mizmar Trap Beats",
+    "Saudi Drill",
+    "Khaleeji Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "dammam-ardah-boom-bap",
+  "name": "Dammam Saudi Ardah Royal Boom Bap",
+  "category": "scene",
+  "badge": "Dammam Royal Ardah",
+  "headline": "Dammam (Khobar & Eastern Province) Saudi Ardah Royal Boom Bap: 24-Bit WAV Beats & Mada Checkout",
+  "description": "Ceremonial war drums, dusty vinyl sample chops, and royal brass fanfares for MCs in Dammam.",
+  "targetArtists": [
+    "Artists from Dammam",
+    "Saudi Urban Music Community",
+    "Gulf Hip-Hop Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Dammam",
+    "Royal Ardah",
+    "Mada (مدى) & Apple Pay (SAR)",
+    "SAIP Compliant"
+  ],
+  "popularGenres": [
+    "Saudi Ardah Royal Boom Bap",
+    "Saudi Drill",
+    "Khaleeji Trap"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "taif-saudi-drill-808",
+  "name": "Taif Saudi Street Drill 808 Beats",
+  "category": "scene",
+  "badge": "Taif Saudi Drill",
+  "headline": "Taif (Sarawat Mountains & Rose Valley) Saudi Street Drill 808 Beats: 24-Bit WAV Beats & Mada Checkout",
+  "description": "Heavy sliding 808 sub-bass, icy minor pianos, and rapid syncopated drill hats engineered for MCs in Taif.",
+  "targetArtists": [
+    "Artists from Taif",
+    "Saudi Urban Music Community",
+    "Gulf Hip-Hop Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "C-Minor / E-Minor",
+  "vibeAttributes": [
+    "Taif",
+    "Saudi Drill",
+    "Mada (مدى) & Apple Pay (SAR)",
+    "SAIP Compliant"
+  ],
+  "popularGenres": [
+    "Saudi Street Drill 808 Beats",
+    "Saudi Drill",
+    "Khaleeji Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "taif-luxury-khaleeji-trap",
+  "name": "Taif Luxury Khaleeji Trap Beats",
+  "category": "scene",
+  "badge": "Taif Khaleeji Trap",
+  "headline": "Taif (Sarawat Mountains & Rose Valley) Luxury Khaleeji Trap Beats: 24-Bit WAV Beats & Mada Checkout",
+  "description": "Lush atmospheric synths, crisp modern trap claps, and clean 808 bounce crafted for artists in Taif.",
+  "targetArtists": [
+    "Artists from Taif",
+    "Saudi Urban Music Community",
+    "Gulf Hip-Hop Scene"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C#-Minor / G-Minor",
+  "vibeAttributes": [
+    "Taif",
+    "Khaleeji Trap",
+    "Mada (مدى) & Apple Pay (SAR)",
+    "SAIP Compliant"
+  ],
+  "popularGenres": [
+    "Luxury Khaleeji Trap Beats",
+    "Saudi Drill",
+    "Khaleeji Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "taif-hijazi-mizmar-trap",
+  "name": "Taif Hijazi Mizmar Trap Beats",
+  "category": "scene",
+  "badge": "Taif Mizmar Trap",
+  "headline": "Taif (Sarawat Mountains & Rose Valley) Hijazi Mizmar Trap Beats: 24-Bit WAV Beats & Mada Checkout",
+  "description": "Authentic double-reed Mizmar horn melodies, traditional clapping, and modern 808 drops for Taif.",
+  "targetArtists": [
+    "Artists from Taif",
+    "Saudi Urban Music Community",
+    "Gulf Hip-Hop Scene"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "D-Hijaz / D-Rast",
+  "vibeAttributes": [
+    "Taif",
+    "Mizmar Trap",
+    "Mada (مدى) & Apple Pay (SAR)",
+    "SAIP Compliant"
+  ],
+  "popularGenres": [
+    "Hijazi Mizmar Trap Beats",
+    "Saudi Drill",
+    "Khaleeji Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "taif-ardah-boom-bap",
+  "name": "Taif Saudi Ardah Royal Boom Bap",
+  "category": "scene",
+  "badge": "Taif Royal Ardah",
+  "headline": "Taif (Sarawat Mountains & Rose Valley) Saudi Ardah Royal Boom Bap: 24-Bit WAV Beats & Mada Checkout",
+  "description": "Ceremonial war drums, dusty vinyl sample chops, and royal brass fanfares for MCs in Taif.",
+  "targetArtists": [
+    "Artists from Taif",
+    "Saudi Urban Music Community",
+    "Gulf Hip-Hop Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Taif",
+    "Royal Ardah",
+    "Mada (مدى) & Apple Pay (SAR)",
+    "SAIP Compliant"
+  ],
+  "popularGenres": [
+    "Saudi Ardah Royal Boom Bap",
+    "Saudi Drill",
+    "Khaleeji Trap"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "al-ula-saudi-drill-808",
+  "name": "AlUla Saudi Street Drill 808 Beats",
+  "category": "scene",
+  "badge": "AlUla Saudi Drill",
+  "headline": "AlUla (Hegra Monoliths & Desert Wonders) Saudi Street Drill 808 Beats: 24-Bit WAV Beats & Mada Checkout",
+  "description": "Heavy sliding 808 sub-bass, icy minor pianos, and rapid syncopated drill hats engineered for MCs in AlUla.",
+  "targetArtists": [
+    "Artists from AlUla",
+    "Saudi Urban Music Community",
+    "Gulf Hip-Hop Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "C-Minor / E-Minor",
+  "vibeAttributes": [
+    "AlUla",
+    "Saudi Drill",
+    "Mada (مدى) & Apple Pay (SAR)",
+    "SAIP Compliant"
+  ],
+  "popularGenres": [
+    "Saudi Street Drill 808 Beats",
+    "Saudi Drill",
+    "Khaleeji Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "al-ula-luxury-khaleeji-trap",
+  "name": "AlUla Luxury Khaleeji Trap Beats",
+  "category": "scene",
+  "badge": "AlUla Khaleeji Trap",
+  "headline": "AlUla (Hegra Monoliths & Desert Wonders) Luxury Khaleeji Trap Beats: 24-Bit WAV Beats & Mada Checkout",
+  "description": "Lush atmospheric synths, crisp modern trap claps, and clean 808 bounce crafted for artists in AlUla.",
+  "targetArtists": [
+    "Artists from AlUla",
+    "Saudi Urban Music Community",
+    "Gulf Hip-Hop Scene"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C#-Minor / G-Minor",
+  "vibeAttributes": [
+    "AlUla",
+    "Khaleeji Trap",
+    "Mada (مدى) & Apple Pay (SAR)",
+    "SAIP Compliant"
+  ],
+  "popularGenres": [
+    "Luxury Khaleeji Trap Beats",
+    "Saudi Drill",
+    "Khaleeji Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "al-ula-hijazi-mizmar-trap",
+  "name": "AlUla Hijazi Mizmar Trap Beats",
+  "category": "scene",
+  "badge": "AlUla Mizmar Trap",
+  "headline": "AlUla (Hegra Monoliths & Desert Wonders) Hijazi Mizmar Trap Beats: 24-Bit WAV Beats & Mada Checkout",
+  "description": "Authentic double-reed Mizmar horn melodies, traditional clapping, and modern 808 drops for AlUla.",
+  "targetArtists": [
+    "Artists from AlUla",
+    "Saudi Urban Music Community",
+    "Gulf Hip-Hop Scene"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "D-Hijaz / D-Rast",
+  "vibeAttributes": [
+    "AlUla",
+    "Mizmar Trap",
+    "Mada (مدى) & Apple Pay (SAR)",
+    "SAIP Compliant"
+  ],
+  "popularGenres": [
+    "Hijazi Mizmar Trap Beats",
+    "Saudi Drill",
+    "Khaleeji Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "al-ula-ardah-boom-bap",
+  "name": "AlUla Saudi Ardah Royal Boom Bap",
+  "category": "scene",
+  "badge": "AlUla Royal Ardah",
+  "headline": "AlUla (Hegra Monoliths & Desert Wonders) Saudi Ardah Royal Boom Bap: 24-Bit WAV Beats & Mada Checkout",
+  "description": "Ceremonial war drums, dusty vinyl sample chops, and royal brass fanfares for MCs in AlUla.",
+  "targetArtists": [
+    "Artists from AlUla",
+    "Saudi Urban Music Community",
+    "Gulf Hip-Hop Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "AlUla",
+    "Royal Ardah",
+    "Mada (مدى) & Apple Pay (SAR)",
+    "SAIP Compliant"
+  ],
+  "popularGenres": [
+    "Saudi Ardah Royal Boom Bap",
+    "Saudi Drill",
+    "Khaleeji Trap"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "abha-saudi-drill-808",
+  "name": "Abha Saudi Street Drill 808 Beats",
+  "category": "scene",
+  "badge": "Abha Saudi Drill",
+  "headline": "Abha (Aseer Highlands & Mist Peaks) Saudi Street Drill 808 Beats: 24-Bit WAV Beats & Mada Checkout",
+  "description": "Heavy sliding 808 sub-bass, icy minor pianos, and rapid syncopated drill hats engineered for MCs in Abha.",
+  "targetArtists": [
+    "Artists from Abha",
+    "Saudi Urban Music Community",
+    "Gulf Hip-Hop Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "C-Minor / E-Minor",
+  "vibeAttributes": [
+    "Abha",
+    "Saudi Drill",
+    "Mada (مدى) & Apple Pay (SAR)",
+    "SAIP Compliant"
+  ],
+  "popularGenres": [
+    "Saudi Street Drill 808 Beats",
+    "Saudi Drill",
+    "Khaleeji Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "abha-luxury-khaleeji-trap",
+  "name": "Abha Luxury Khaleeji Trap Beats",
+  "category": "scene",
+  "badge": "Abha Khaleeji Trap",
+  "headline": "Abha (Aseer Highlands & Mist Peaks) Luxury Khaleeji Trap Beats: 24-Bit WAV Beats & Mada Checkout",
+  "description": "Lush atmospheric synths, crisp modern trap claps, and clean 808 bounce crafted for artists in Abha.",
+  "targetArtists": [
+    "Artists from Abha",
+    "Saudi Urban Music Community",
+    "Gulf Hip-Hop Scene"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "C#-Minor / G-Minor",
+  "vibeAttributes": [
+    "Abha",
+    "Khaleeji Trap",
+    "Mada (مدى) & Apple Pay (SAR)",
+    "SAIP Compliant"
+  ],
+  "popularGenres": [
+    "Luxury Khaleeji Trap Beats",
+    "Saudi Drill",
+    "Khaleeji Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "abha-hijazi-mizmar-trap",
+  "name": "Abha Hijazi Mizmar Trap Beats",
+  "category": "scene",
+  "badge": "Abha Mizmar Trap",
+  "headline": "Abha (Aseer Highlands & Mist Peaks) Hijazi Mizmar Trap Beats: 24-Bit WAV Beats & Mada Checkout",
+  "description": "Authentic double-reed Mizmar horn melodies, traditional clapping, and modern 808 drops for Abha.",
+  "targetArtists": [
+    "Artists from Abha",
+    "Saudi Urban Music Community",
+    "Gulf Hip-Hop Scene"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "D-Hijaz / D-Rast",
+  "vibeAttributes": [
+    "Abha",
+    "Mizmar Trap",
+    "Mada (مدى) & Apple Pay (SAR)",
+    "SAIP Compliant"
+  ],
+  "popularGenres": [
+    "Hijazi Mizmar Trap Beats",
+    "Saudi Drill",
+    "Khaleeji Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "abha-ardah-boom-bap",
+  "name": "Abha Saudi Ardah Royal Boom Bap",
+  "category": "scene",
+  "badge": "Abha Royal Ardah",
+  "headline": "Abha (Aseer Highlands & Mist Peaks) Saudi Ardah Royal Boom Bap: 24-Bit WAV Beats & Mada Checkout",
+  "description": "Ceremonial war drums, dusty vinyl sample chops, and royal brass fanfares for MCs in Abha.",
+  "targetArtists": [
+    "Artists from Abha",
+    "Saudi Urban Music Community",
+    "Gulf Hip-Hop Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Abha",
+    "Royal Ardah",
+    "Mada (مدى) & Apple Pay (SAR)",
+    "SAIP Compliant"
+  ],
+  "popularGenres": [
+    "Saudi Ardah Royal Boom Bap",
+    "Saudi Drill",
+    "Khaleeji Trap"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
 ];

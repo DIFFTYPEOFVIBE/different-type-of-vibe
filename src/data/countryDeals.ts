@@ -40298,4 +40298,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "sa/riyadh-olaya-kfd": {
+  "slug": "sa/riyadh-olaya-kfd",
+  "name": "Saudi Arabia – Riyadh: Olaya, KAFD & Boulevard (Capital Metropolis & Luxury Trap)",
+  "flag": "🇸🇦",
+  "currency": "SAR (ر.س) / USD ($)",
+  "currencyCode": "SAR",
+  "gateways": "Mada (مدى), Apple Pay, stc pay, Urpay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SAIP / Music Commission",
+  "proFullName": "Saudi Authority for Intellectual Property (SAIP) / Music Commission",
+  "proGuide": "100% compliant with SAIP copyright standards and international licensing with instant PDF contract.",
+  "headline": "Beats in Riyadh: KAFD Financial Skyline, Boulevard Energy & Luxury Khaleeji Trap",
+  "description": "The political and economic powerhouse of the Kingdom: sleek 808 sub-bass glides, futuristic synth brass, and high-roller lifestyle bounce crafted for Riyadh, Olaya, and KAFD recording artists.",
+  "popularGenres": [
+    "Riyadh Luxury Trap",
+    "Saudi Street Drill",
+    "Modern Khaleeji R&B"
+  ],
+  "subClusters": []
+},
+  "sa/jeddah-corniche-balad": {
+  "slug": "sa/jeddah-corniche-balad",
+  "name": "Saudi Arabia – Jeddah: Al Balad & Red Sea Corniche (Bride of the Red Sea & Hijazi Drill)",
+  "flag": "🇸🇦",
+  "currency": "SAR (ر.س) / USD ($)",
+  "currencyCode": "SAR",
+  "gateways": "Mada (مدى), Apple Pay, stc pay, Urpay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SAIP / Music Commission",
+  "proFullName": "Saudi Authority for Intellectual Property (SAIP) / Music Commission",
+  "proGuide": "Pristine 24-bit studio WAV delivery with separated multitrack stem files.",
+  "headline": "Beats in Jeddah: Historic Al Balad, Red Sea Corniche & Raw Hijazi Drill",
+  "description": "The historic maritime soul and hip-hop cradle of Saudi Arabia: traditional coral-architecture atmosphere, dark minor pianos, and heavy sliding 808s designed for Jeddah and Obhur lyricists.",
+  "popularGenres": [
+    "Jeddah Street Drill",
+    "Hijazi Rap Flow",
+    "Red Sea Chill Beat"
+  ],
+  "subClusters": []
+},
+  "sa/makkah-taif-sarawat": {
+  "slug": "sa/makkah-taif-sarawat",
+  "name": "Saudi Arabia – Taif & Sarawat Mountains (City of Roses & Highland Mountain Trap)",
+  "flag": "🇸🇦",
+  "currency": "SAR (ر.س) / USD ($)",
+  "currencyCode": "SAR",
+  "gateways": "Mada (مدى), Apple Pay, stc pay, Urpay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SAIP / Music Commission",
+  "proFullName": "Saudi Authority for Intellectual Property (SAIP) / Music Commission",
+  "proGuide": "100% royalty-free clearance on master recordings with commercial licensing.",
+  "headline": "Beats in Taif: Sarawat Mountain Breezes, Damask Rose Valleys & Acoustic Trap",
+  "description": "The cool mountainous summer haven of the Hejaz: acoustic nylon guitars, traditional mountain flute melodies, and crisp modern trap drums for Western Province creators.",
+  "popularGenres": [
+    "Taif Mountain Trap",
+    "Sarawat Acoustic Beat",
+    "Hejaz Highland Rap"
+  ],
+  "subClusters": []
+},
+  "sa/dammam-khobar-eastern": {
+  "slug": "sa/dammam-khobar-eastern",
+  "name": "Saudi Arabia – Dammam & Khobar: Eastern Province (Arabian Gulf Coastline & Heavy 808s)",
+  "flag": "🇸🇦",
+  "currency": "SAR (ر.س) / USD ($)",
+  "currencyCode": "SAR",
+  "gateways": "Mada (مدى), Apple Pay, stc pay, Urpay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SAIP / Music Commission",
+  "proFullName": "Saudi Authority for Intellectual Property (SAIP) / Music Commission",
+  "proGuide": "Worldwide digital monetization rights for Spotify, Apple Music, Anghami, and YouTube.",
+  "headline": "Beats in Khobar & Dammam: Eastern Province Coastal Energy, Causeway & Hard Trap",
+  "description": "The industrial and energy capital along the Arabian Gulf coast: heavy low-end 808s, snappy snares, and modern Khaleeji swing crafted for artists in Dammam, Khobar, and Dhahran.",
+  "popularGenres": [
+    "Eastern Province Trap",
+    "Khobar Coastal Beat",
+    "Gulf Industrial 808"
+  ],
+  "subClusters": []
+},
+  "sa/medina-hejaz-heritage": {
+  "slug": "sa/medina-hejaz-heritage",
+  "name": "Saudi Arabia – Medina & Hejaz Heartland (Sacred Cultural Oasis & Conscious Poetry)",
+  "flag": "🇸🇦",
+  "currency": "SAR (ر.س) / USD ($)",
+  "currencyCode": "SAR",
+  "gateways": "Mada (مدى), Apple Pay, stc pay, Urpay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SAIP / Music Commission",
+  "proFullName": "Saudi Authority for Intellectual Property (SAIP) / Music Commission",
+  "proGuide": "Instant Mada and Apple Pay checkout in SAR (ر.س) with immediate file download.",
+  "headline": "Beats in Medina: Historic Hejazi Heritage, Reflective Rhodes & Conscious Hip-Hop",
+  "description": "The timeless cultural and spiritual oasis of the Hejaz: warm electric pianos, traditional acoustic Oud motifs, and unhurried boom bap drums tailored for deep poetry and conscious storytelling.",
+  "popularGenres": [
+    "Medina Conscious Rap",
+    "Hejazi Heritage Beat",
+    "Acoustic Oud Boom Bap"
+  ],
+  "subClusters": []
+},
+  "sa/abha-aseer-highlands": {
+  "slug": "sa/abha-aseer-highlands",
+  "name": "Saudi Arabia – Abha & Aseer: Mist Mountains (Foggy Highland Peaks & Cold Trap)",
+  "flag": "🇸🇦",
+  "currency": "SAR (ر.س) / USD ($)",
+  "currencyCode": "SAR",
+  "gateways": "Mada (مدى), Apple Pay, stc pay, Urpay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SAIP / Music Commission",
+  "proFullName": "Saudi Authority for Intellectual Property (SAIP) / Music Commission",
+  "proGuide": "100% original master production cleared for DSP distribution.",
+  "headline": "Beats in Abha: Aseer Mountain Fog, Juniper Valleys & Cold Atmospheric 808s",
+  "description": "The dramatic green highlands of southern Saudi Arabia: weeping minor pianos, echoing mountain reverbs, and deep sub-bass glides for the contemplative youth scene of Abha and Khamis Mushait.",
+  "popularGenres": [
+    "Abha Mountain Trap",
+    "Aseer Mist Beat",
+    "Highland Cold 808"
+  ],
+  "subClusters": []
+},
+  "sa/al-ula-ancient-nabataean": {
+  "slug": "sa/al-ula-ancient-nabataean",
+  "name": "Saudi Arabia – AlUla: Hegra & Elephant Rock (Nabataean Monoliths & Cinematic Trap)",
+  "flag": "🇸🇦",
+  "currency": "SAR (ر.س) / USD ($)",
+  "currencyCode": "SAR",
+  "gateways": "Mada (مدى), Apple Pay, stc pay, Urpay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SAIP / Music Commission",
+  "proFullName": "Saudi Authority for Intellectual Property (SAIP) / Music Commission",
+  "proGuide": "Direct commercial licensing for film sync, YouTube, and digital streaming.",
+  "headline": "Beats in AlUla: Hegra Rock Tombs, Maraya Hall Reflections & Epic Orchestral Trap",
+  "description": "Where world-wonder Nabataean history meets cutting-edge culture: cinematic Arabic strings, ancient desert echoes, and thunderous 808 drops for monumental music videos and film scores.",
+  "popularGenres": [
+    "AlUla Cinematic Trap",
+    "Hegra Desert Monolith Beat",
+    "Maraya Hall Orchestral"
+  ],
+  "subClusters": []
+},
+  "sa/tabuk-neom-future": {
+  "slug": "sa/tabuk-neom-future",
+  "name": "Saudi Arabia – Tabuk & NEOM (The Line Futuristic Megacity & Cyberpunk Trap)",
+  "flag": "🇸🇦",
+  "currency": "SAR (ر.س) / USD ($)",
+  "currencyCode": "SAR",
+  "gateways": "Mada (مدى), Apple Pay, stc pay, Urpay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SAIP / Music Commission",
+  "proFullName": "Saudi Authority for Intellectual Property (SAIP) / Music Commission",
+  "proGuide": "Direct stems multitrack download for precision audio mixing.",
+  "headline": "Beats in NEOM & Tabuk: The Line Megacity, Red Sea Coast & Cyberpunk Synth Trap",
+  "description": "The visionary city of the future in northwest Saudi Arabia: futuristic analog synthesizer arpeggios, razor-sharp transients, and subterranean 808 sub drops for avant-garde urban creators.",
+  "popularGenres": [
+    "NEOM Cyberpunk Trap",
+    "The Line Futuristic Beat",
+    "Tabuk Northwest Flow"
+  ],
+  "subClusters": []
+},
+  "sa/hail-shammar-desert": {
+  "slug": "sa/hail-shammar-desert",
+  "name": "Saudi Arabia – Ha'il & Shammar Sands (Red Desert Dunes & Bedouin Rababa Folk Trap)",
+  "flag": "🇸🇦",
+  "currency": "SAR (ر.س) / USD ($)",
+  "currencyCode": "SAR",
+  "gateways": "Mada (مدى), Apple Pay, stc pay, Urpay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SAIP / Music Commission",
+  "proFullName": "Saudi Authority for Intellectual Property (SAIP) / Music Commission",
+  "proGuide": "100% legal protection with downloadable split sheet agreement.",
+  "headline": "Beats in Ha'il: Legendary Arab Generosity, Nafud Red Dunes & Rababa Trap",
+  "description": "The proud desert heartland of Hatim al-Tai: ancient single-string Rababa bowing and Bedouin campfire melodies fused with hard modern trap 808s for authentic heritage rap.",
+  "popularGenres": [
+    "Ha'il Bedouin Trap",
+    "Shammar Heritage Beat",
+    "Nafud Desert 808"
+  ],
+  "subClusters": []
+},
+  "sa/al-ahsa-oasis-date": {
+  "slug": "sa/al-ahsa-oasis-date",
+  "name": "Saudi Arabia – Al-Ahsa: The Grand Oasis (UNESCO Palm Groves & Natural Spring Lofi)",
+  "flag": "🇸🇦",
+  "currency": "SAR (ر.س) / USD ($)",
+  "currencyCode": "SAR",
+  "gateways": "Mada (مدى), Apple Pay, stc pay, Urpay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SAIP / Music Commission",
+  "proFullName": "Saudi Authority for Intellectual Property (SAIP) / Music Commission",
+  "proGuide": "Complete commercial rights with invoice and digital certificate.",
+  "headline": "Beats in Al-Ahsa: Three Million Date Palms, Natural Springs & Oasis Chillhop",
+  "description": "The largest self-contained palm oasis on Earth: gentle spring water soundscapes, warm acoustic nylon guitar strums, and relaxed lofi hip-hop drums for peaceful storytelling and reflection.",
+  "popularGenres": [
+    "Al-Ahsa Oasis Lofi",
+    "Date Palm Chillhop",
+    "Eastern Heritage Rap"
+  ],
+  "subClusters": []
+},
 };
