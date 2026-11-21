@@ -107083,4 +107083,1297 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "1"
   ]
 },
+  {
+  "slug": "yung-raja-tanglish-mumble-trap",
+  "title": "Yung Raja Tanglish Mumble Trap & High-Energy Tabla Bounce Beat",
+  "description": "Infectious, viral bilingual English-Tamil ('Tanglish') trap instrumental inspired by Yung Raja (Mustafa, Mad Blessings, The Dance Song), featuring bouncy syncopated 808s, rhythmic vocal chops, and festive South Asian bounce.",
+  "targetKeywords": [
+    "yung raja type beat",
+    "tanglish trap beat",
+    "mustafa yung raja instrumental",
+    "singapore indian trap beat",
+    "yung raja the dance song beat"
+  ],
+  "heroCta": "Buy Yung Raja Style Beat (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Viral Dance Challenge, Multicultural Party Banger and Commercial Single",
+  "similarArtists": [
+    "Yung Raja",
+    "Fariz Jabba",
+    "Hanumankind",
+    "Arivu"
+  ],
+  "recommendedBpm": "124-130 BPM",
+  "productionTips": "Layered South Indian percussion elements (tabla, dholak) over bouncy 808 sub-bass and crisp modern trap snares.",
+  "idealVocalStyle": "Fast bilingual English/Tamil delivery, witty wordplay, playful ad-libs, and memorable rhythmic hooks.",
+  "suggestedKey": "G Minor",
+  "streamingSuitability": "Insuperable crossover appeal across Singapore, Malaysia, India, and global Asian hip-hop playlists."
+},
+  {
+  "slug": "shigga-shay-lion-city-trap-anthem",
+  "title": "ShiGGa Shay Lion City Street Trap & Singlish Brass Anthem Beat",
+  "description": "Hard-hitting, anthemic bilingual (English/Hokkien/Singlish) street trap inspired by ShiGGa Shay (Lion City Kia, LimPeh, uMad), featuring aggressive brass horns, thunderous 808 drops, and unapologetic Lion City swagger.",
+  "targetKeywords": [
+    "shigga shay type beat",
+    "lion city kia instrumental",
+    "singapore street trap beat",
+    "shigga shay limpeh beat",
+    "singlish rap beat 808"
+  ],
+  "heroCta": "Buy ShiGGa Shay Beat (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Street Pride Anthem, High-Impact Music Video and Live Stage Performance",
+  "similarArtists": [
+    "ShiGGa Shay",
+    "THELIONCITYBOY",
+    "Tosh Rock",
+    "Wang Weiliang"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "productionTips": "Heavy brass stabs with stereo room ambience over punchy kicks and an overdriven 808 that shakes venue floors.",
+  "idealVocalStyle": "Commanding Singlish/English cadence, raw street slang, and memorable anthemic choruses.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "The definitive sound for high-impact Singaporean urban music videos and local radio features."
+},
+  {
+  "slug": "fariz-jabba-singlish-malay-bounce",
+  "title": "Fariz Jabba Malay-Singlish Pop-Trap & Bouncy Groove Beat",
+  "description": "Agile, charismatic pop-trap instrumental inspired by Fariz Jabba (Ape Sia, Masa, Nakal Ke Tak), blending smooth Malay-English rhythmic cadences, playful synth leads, and a danceable 808 groove.",
+  "targetKeywords": [
+    "fariz jabba type beat",
+    "ape sia instrumental",
+    "malay singlish pop trap beat",
+    "fariz jabba masa beat",
+    "bouncy singapore rap beat"
+  ],
+  "heroCta": "Buy Fariz Jabba Beat (Commercial License)",
+  "energyLevel": "High",
+  "primaryUse": "Commercial Radio Single, Dance Video and Streaming Hit",
+  "similarArtists": [
+    "Fariz Jabba",
+    "ALYP",
+    "SonaOne",
+    "Joe Flizzow"
+  ],
+  "recommendedBpm": "105-112 BPM",
+  "productionTips": "Bright synth plucks balanced with warm acoustic guitar accents and a bouncy syncopated sub-bass.",
+  "idealVocalStyle": "Effortless melodic flow alternating between Malay and Singlish, witty punchlines, and infectious hooks.",
+  "suggestedKey": "A Minor",
+  "streamingSuitability": "Dominates Spotify Top Hits Singapore, Malaysia charts, and regional Southeast Asian playlists."
+},
+  {
+  "slug": "alyp-lion-city-melodic-drill",
+  "title": "ALYP Melodic Lion City Drill & Emotional Minor Piano Beat",
+  "description": "Sophisticated, introspective street drill instrumental inspired by ALYP (Mahogany, Swipe, SleeQ legacy), with melancholic grand piano loops, sliding UK/SG 808s, and deep urban emotional depth.",
+  "targetKeywords": [
+    "alyp type beat",
+    "singapore melodic drill beat",
+    "mahogany instrumental alyp",
+    "alyp swipe type beat",
+    "lion city drill beat 808"
+  ],
+  "heroCta": "Buy ALYP Style Beat (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Melodic Drill Rap, Emotional Storytelling and Cinematic Visuals",
+  "similarArtists": [
+    "ALYP",
+    "SleeQ",
+    "K-Clique",
+    "Luqman Podolski"
+  ],
+  "recommendedBpm": "138-143 BPM",
+  "productionTips": "Upright acoustic piano with subtle tape warble over two-octave sliding 808s and syncopated drill rimshots.",
+  "idealVocalStyle": "Autotuned emotional singing, heartfelt confessions about city life, and smooth melodic delivery.",
+  "suggestedKey": "F Minor",
+  "streamingSuitability": "High organic streaming longevity and strong audience resonance across Southeast Asia."
+},
+  {
+  "slug": "the-lion-city-boy-street-anthem",
+  "title": "THELIONCITYBOY Singapore Pride Street Anthem & Brass Beat",
+  "description": "Gritty, triumphant hip-hop street anthem inspired by THELIONCITYBOY (YAYA, Halimah, Start Already), featuring bold brass fanfares, hard-knocking acoustic drums, and proud Lion City energy.",
+  "targetKeywords": [
+    "thelioncityboy type beat",
+    "yaya instrumental lion city boy",
+    "singapore pride rap beat",
+    "halimah thelioncityboy beat",
+    "lion city hip hop brass"
+  ],
+  "heroCta": "Buy Lion City Boy Beat (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "National Day Performance, Urban Pride Anthem and High-Energy Single",
+  "similarArtists": [
+    "THELIONCITYBOY",
+    "ShiGGa Shay",
+    "Akeem Jahat",
+    "Flightsch"
+  ],
+  "recommendedBpm": "95-102 / 138 BPM",
+  "productionTips": "Crisp live brass section layered with uncompressed acoustic drum transients and deep sub-bass.",
+  "idealVocalStyle": "Passionate, commanding vocal delivery with heavy Singaporean identity and crowd-chant choruses.",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "Essential for live festivals, sports events, and patriotic urban celebrations."
+},
+  {
+  "slug": "singlish-void-deck-cypher-boom-bap",
+  "title": "Singlish HDB Void Deck Cypher Boom Bap & Vinyl Scratches Beat",
+  "description": "Classic, gritty boom bap capturing the authentic culture of Singapore's HDB void decks: dusty SP1200 vinyl scratches, jazzy horn loops, and snapping snare drums for pure lyricists.",
+  "targetKeywords": [
+    "void deck cypher beat",
+    "singapore boom bap instrumental",
+    "singlish rap beat old school",
+    "hdb void deck hip hop beat",
+    "mpc boom bap singapore"
+  ],
+  "heroCta": "Buy Void Deck Cypher Beat (WAV Mastered)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Underground Cyphers, MC Battles and Vinyl Headset Singles",
+  "similarArtists": [
+    "Akeem Jahat",
+    "Triple Noize",
+    "Rudec",
+    "Pram"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "productionTips": "Warm tape-saturated drums with natural swing and filtered upright jazz basslines.",
+  "idealVocalStyle": "Complex multi-syllabic rhyme schemes, witty Singlish punchlines, and effortless flow.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "The undisputed standard for hip-hop purists and underground battle leagues in Singapore."
+},
+  {
+  "slug": "marina-bay-skyline-luxury-trap",
+  "title": "Marina Bay Skyline Luxury Night Trap & Ambient Synth 808 Beat",
+  "description": "Cosmopolitan and gleaming luxury trap inspired by the Marina Bay Sands skyline: ambient lush synthesizer pads, sleek sliding 808s, and high-roller lifestyle nighttime aesthetics.",
+  "targetKeywords": [
+    "marina bay trap beat",
+    "singapore luxury trap beat",
+    "mbs skyline nighttime instrumental",
+    "ambient synth trap singapore",
+    "high roller rap beat 808"
+  ],
+  "heroCta": "Buy Marina Bay Trap (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Luxury Music Video, Cosmopolitan Trap Single and Nighttime Driving",
+  "similarArtists": [
+    "ShiGGa Shay",
+    "Gentle Bones",
+    "Linying",
+    "DPR LIVE"
+  ],
+  "recommendedBpm": "132-138 BPM",
+  "productionTips": "Wide stereo synthesizer pads with sidechain compression and ultra-clean low-end 808 portamento.",
+  "idealVocalStyle": "Slick bilingual delivery, atmospheric autotune, and luxurious melodic choruses.",
+  "suggestedKey": "C# Minor",
+  "streamingSuitability": "Engineered for high-end fashion, luxury lifestyle content, and late-night streaming."
+},
+  {
+  "slug": "tabla-mridangam-indian-trap-fusion",
+  "title": "Singapore Tabla & Mridangam Indian Percussion Trap 808 Beat",
+  "description": "Cultural crossover masterpiece uniting authentic Indian classical percussion (Tabla, Mridangam) with heavy modern 808 sub-bass drops and crisp urban trap rhythms.",
+  "targetKeywords": [
+    "tabla trap beat",
+    "mridangam hip hop beat",
+    "singapore indian urban beat",
+    "tamil trap beat singapore",
+    "tabla 808 fusion beat"
+  ],
+  "heroCta": "Buy Tabla Trap Beat (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Cultural Crossover Single, High-Energy Dance Video and Festival Banger",
+  "similarArtists": [
+    "Yung Raja",
+    "Hanumankind",
+    "Sanjay",
+    "Arivu"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "productionTips": "Acoustic Tabla bayan bass slaps layered with deep 808s and fast Dayan treble rolls.",
+  "idealVocalStyle": "Rhythmic Tamil or English rap flow, fast-paced syllables, and infectious party hooks.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Exceptional crossover appeal across Singapore, Malaysia, India, and the global Asian diaspora."
+},
+  {
+  "slug": "gamelan-malay-gong-trap-fusion",
+  "title": "Southeast Asian Gamelan Gong & Melodic Trap 808 Beat",
+  "description": "Mesmerizing regional heritage trap fusing the bronze metallophones and gong chimes of Southeast Asian Gamelan with rolling 808 sub-bass and modern hip-hop drums.",
+  "targetKeywords": [
+    "gamelan trap beat",
+    "malay gong hip hop beat",
+    "southeast asian gamelan trap",
+    "nusantara trap beat singapore",
+    "gamelan 808 fusion"
+  ],
+  "heroCta": "Buy Gamelan Trap Beat (WAV Mastered)",
+  "energyLevel": "High",
+  "primaryUse": "Nusantara Heritage Rap, Cinematic Music Video and Film Soundtrack",
+  "similarArtists": [
+    "Fariz Jabba",
+    "ALYP",
+    "Altimet",
+    "Joe Flizzow"
+  ],
+  "recommendedBpm": "122-128 BPM",
+  "productionTips": "Real sampled bronze Gamelan keys with natural microtonal resonance over a clean modern trap kit.",
+  "idealVocalStyle": "Poetic Malay or English lyricism, cultural pride themes, and melodic phrasing.",
+  "suggestedKey": "Slendro / Pelog Tuning (E Minor approx.)",
+  "streamingSuitability": "Critically acclaimed sound that creates massive cultural impact across Southeast Asia."
+},
+  {
+  "slug": "haji-lane-indie-hip-hop-chillhop",
+  "title": "Haji Lane Shophouse Bohemian Indie Lofi & Rhodes Keys Beat",
+  "description": "Chill, relaxing street vibes inspired by the colorful shophouses and cafe terraces of Haji Lane: warm tape-saturated Rhodes keys, acoustic guitar skanks, and mellow lofi drums.",
+  "targetKeywords": [
+    "haji lane lofi beat",
+    "singapore indie chillhop beat",
+    "bohemian shophouse lofi beat",
+    "singapore cafe study beat",
+    "haji lane hip hop beat"
+  ],
+  "heroCta": "Buy Haji Lane Lofi (Commercial License)",
+  "energyLevel": "Low",
+  "primaryUse": "Cafe Backgrounds, Travel Vlogs, Study Relaxing and Indie Singles",
+  "similarArtists": [
+    "Linying",
+    "Charlie Lim",
+    "Nujabes",
+    "Tomppabeats"
+  ],
+  "recommendedBpm": "78-84 BPM",
+  "productionTips": "Warm Rhodes electric piano with gentle chorus beneath soft uncompressed acoustic drum brushes.",
+  "idealVocalStyle": "Gentle indie singing, spoken-word poetry, or peaceful background listening.",
+  "suggestedKey": "Eb Major",
+  "streamingSuitability": "Ideal for lifestyle content creators, travel commercials, and study chillhop playlists."
+},
+  {
+  "slug": "sentosa-tanjong-beach-club-afro-trap",
+  "title": "Sentosa Tanjong Beach Club Sunset Afro-Trap & Tropical Marimba Beat",
+  "description": "Sun-drenched, breezy summer afro-trap inspired by Tanjong Beach Club Sentosa: bright tropical marimba plucks, smooth syncopated afrobeat drums, and warm melodic 808 bounce.",
+  "targetKeywords": [
+    "sentosa beach club trap beat",
+    "tanjong beach club instrumental",
+    "singapore summer afro trap beat",
+    "tropical rap beat singapore",
+    "sentosa sunset banger"
+  ],
+  "heroCta": "Buy Sentosa Beach Beat (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Summer Beach Party Anthem, Poolside Video and Commercial Radio Release",
+  "similarArtists": [
+    "Fariz Jabba",
+    "Yung Raja",
+    "Burna Boy",
+    "Rema"
+  ],
+  "recommendedBpm": "106-112 BPM",
+  "productionTips": "Bright marimba melodies with stereophonic widening over a driving afrobeat-trap rhythm section.",
+  "idealVocalStyle": "Uplifting, danceable singing, sunny melodic hooks, and carefree party verses.",
+  "suggestedKey": "G Major",
+  "streamingSuitability": "Perfect for beach bar DJ sets, summer playlists, and vacation vlog soundtracks."
+},
+  {
+  "slug": "causeway-crossroads-sg-my-drill",
+  "title": "Causeway Crossroads SG to MY Aggressive Street Drill Beat",
+  "description": "High-velocity cross-border street drill capturing the non-stop nocturnal energy of the Singapore-Malaysia Causeway: icy church bells, rapid drill counter-snares, and sliding sub-bass drops.",
+  "targetKeywords": [
+    "causeway drill beat",
+    "singapore malaysia cross border drill",
+    "sg my street drill 808",
+    "woodlands to jb drill beat",
+    "causeway crossroads instrumental"
+  ],
+  "heroCta": "Buy Causeway Drill Beat (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Cross-Border Drill Single, Street Reality Cyphers and High-Octane Videos",
+  "similarArtists": [
+    "ShiGGa Shay",
+    "ALYP",
+    "K-Clique",
+    "Luqman Podolski"
+  ],
+  "recommendedBpm": "141-145 BPM",
+  "productionTips": "Rapid syncopated hi-hat patterns with automation panning over two-octave sliding 808 pitch glides.",
+  "idealVocalStyle": "Aggressive bilingual (English/Malay/Hokkien) flow, rapid-fire bars, and hard-hitting punchlines.",
+  "suggestedKey": "E Minor",
+  "streamingSuitability": "Insuperable for gym workout playlists, drill channels, and cross-border music videos."
+},
+  {
+  "slug": "buy-beats-paynow-singapore-sgd",
+  "title": "Buy Beats with PayNow in Singapore (Instant Checkout in SGD S$)",
+  "description": "Purchase industry-standard instrumentals with instant PayNow QR code payment via DBS, POSB, OCBC, UOB, and GrabPay in Singapore Dollars (S$) with immediate file download.",
+  "targetKeywords": [
+    "buy beats paynow singapore sgd",
+    "paynow beat store singapore",
+    "buy rap beats dbs posb paynow",
+    "singapore hip hop instrumental paynow"
+  ],
+  "heroCta": "Browse Beats (Instant PayNow Checkout S$)",
+  "energyLevel": "High",
+  "primaryUse": "Studio Master Recording, Commercial Releases and Spotify Singles",
+  "similarArtists": [
+    "Singapore Urban Music Scene",
+    "Lion City Independent Artists"
+  ],
+  "recommendedBpm": "85-145 BPM",
+  "productionTips": "Seamless local bank transfer checkout without international credit card currency fees.",
+  "idealVocalStyle": "Adaptable across all Singlish, English, Malay, and Tamil rap flows.",
+  "suggestedKey": "Various Keys",
+  "streamingSuitability": "Includes commercial licensing valid for full monetization across all digital streaming platforms."
+},
+  {
+  "slug": "singapore-trap-beats-with-wav-stems",
+  "title": "Singapore Trap Beats with Separated Multitrack Stems (24-bit Studio WAV)",
+  "description": "Professional Lion City trap instrumentals delivered with complete separated multitrack audio stems (kick, 808, snare, hats, synths) for precision mixing and vocal balancing in professional SG studios.",
+  "targetKeywords": [
+    "singapore trap beats with stems wav",
+    "trap beats tracks separate singapore",
+    "lion city trap stems multitrack",
+    "buy singapore trap instrumentals stems"
+  ],
+  "heroCta": "Buy Trap Beat with Stems (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Professional Studio Mixing, Vocal Arrangements and Label Releases",
+  "similarArtists": [
+    "ShiGGa Shay",
+    "Yung Raja",
+    "Fariz Jabba",
+    "ALYP"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "productionTips": "Individual stems exported with -6dB headroom, zero clipping, and clean low-end frequency separation.",
+  "idealVocalStyle": "Dynamic rap vocals with space for double-tracking and ad-libs.",
+  "suggestedKey": "C Minor / D Minor",
+  "streamingSuitability": "Provides audio engineers with total mixing flexibility for broadcast-ready releases."
+},
+  {
+  "slug": "compass-music-licensing-split-sheet-pdf",
+  "title": "COMPASS Music Licensing Agreement & Producer Split Sheet Contract (PDF)",
+  "description": "Download an official legal licensing contract and split sheet agreement compliant with COMPASS (Composers and Authors Society of Singapore) and Singapore copyright law.",
+  "targetKeywords": [
+    "compass music licensing contract pdf",
+    "singapore music split sheet pdf",
+    "producer agreement compass singapore",
+    "music copyright contract singapore compass"
+  ],
+  "heroCta": "Download COMPASS Agreement (Instant PDF)",
+  "energyLevel": "N/A",
+  "primaryUse": "Copyright Registration with COMPASS, Publishing Splits and Legal Protection",
+  "similarArtists": [
+    "Onzieb",
+    "COMPASS Registered Songwriters and Publishers"
+  ],
+  "recommendedBpm": "All Tempos",
+  "productionTips": "Formulated under Singapore Copyright Act 2021 protecting both author and producer shares.",
+  "idealVocalStyle": "Valid for all musical genres and vocal recordings.",
+  "suggestedKey": "All Keys",
+  "streamingSuitability": "Guaranteed legal protection for global commercial distribution and sync placements."
+},
+  {
+  "slug": "untagged-singapore-drill-beats-wav",
+  "title": "Untagged Singapore Drill Beats with Heavy 808s (WAV Mastered)",
+  "description": "Raw and aggressive Lion City street drill instrumentals delivered 100% voice-tag free in pristine 24-bit studio WAV format, ready for recording hardcore verses in studios across Singapore.",
+  "targetKeywords": [
+    "untagged singapore drill beats wav",
+    "singapore drill beats without voice tag",
+    "lion city drill beat no tag",
+    "buy drill beats singapore wav untagged"
+  ],
+  "heroCta": "Buy Untagged Drill Beat (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hard Drill Singles, Street Cyphers and YouTube Rap Videos",
+  "similarArtists": [
+    "ALYP",
+    "ShiGGa Shay",
+    "Central Cee",
+    "Headie One"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Aggressive low-end portamento sliding 808s balanced with clean midrange and piercing hi-hats.",
+  "idealVocalStyle": "Hard-hitting street delivery, rapid drill rhyme schemes, and direct punchlines.",
+  "suggestedKey": "E Minor / G Minor",
+  "streamingSuitability": "Includes commercial clearance for full monetization on YouTube, Spotify, and TikTok."
+},
+  {
+  "slug": "album-beat-bundles-singapore-discount",
+  "title": "Album & EP Beat Packages in Singapore (Save up to 40% in SGD S$)",
+  "description": "Multi-beat bundle deals for Singaporean recording artists working on full albums or EPs: get 5 or 10 instrumentals with up to 40% volume discount in Singapore Dollars (S$).",
+  "targetKeywords": [
+    "album beat packages singapore",
+    "ep beat bundle discount singapore sgd",
+    "buy bulk beats lion city",
+    "singapore album instrumental deals"
+  ],
+  "heroCta": "View Album Packages (Save up to 40%)",
+  "energyLevel": "Variable",
+  "primaryUse": "Full EP/Album Production, Concept Projects and Continuous Releases",
+  "similarArtists": [
+    "Independent Singaporean Artists and Bands"
+  ],
+  "recommendedBpm": "85-145 BPM",
+  "productionTips": "Curated sonic cohesion ensuring a smooth narrative flow throughout your entire project.",
+  "idealVocalStyle": "Adaptable across the artist's full emotional and vocal range.",
+  "suggestedKey": "Various Keys",
+  "streamingSuitability": "Multi-track commercial license valid for simultaneous streaming releases."
+},
+  {
+  "slug": "music-producer-singapore-whatsapp-onzieb",
+  "title": "Online Music Producer for Singaporean Artists (WhatsApp Producer Onzieb)",
+  "description": "Connect directly with music producer Onzieb via WhatsApp for custom beat commissions, executive production, vocal mixing arrangements, and key adjustments tailored for Singaporean creators.",
+  "targetKeywords": [
+    "music producer singapore whatsapp",
+    "onzieb beatmaker lion city",
+    "custom trap producer singapore",
+    "hire music producer singapore whatsapp"
+  ],
+  "heroCta": "Chat with Onzieb on WhatsApp",
+  "energyLevel": "Custom",
+  "primaryUse": "Exclusive Custom Productions, Executive Project Guidance and Mixing",
+  "similarArtists": [
+    "Onzieb",
+    "Singapore Hip-Hop Community"
+  ],
+  "recommendedBpm": "Tailored to your project",
+  "productionTips": "Interactive feedback with tempo, key, and arrangement tweaks matching your exact vocal frequency.",
+  "idealVocalStyle": "Custom tailored to elevate your individual artistic identity and range.",
+  "suggestedKey": "Personalized",
+  "streamingSuitability": "Mastered to strict broadcast standards (-14 LUFS) ready for DSP submission."
+},
+  {
+  "slug": "tanglish-indian-trap-beats-with-tabla",
+  "title": "Bilingual Tanglish & Indian Trap Beats with Tabla in 24-bit WAV",
+  "description": "Unique urban crossover beats pairing authentic Indian Tabla rhythms with modern 808 trap bounce delivered in pristine studio quality for bilingual Singaporean recording artists.",
+  "targetKeywords": [
+    "tanglish indian trap beats tabla",
+    "tamil trap beats singapore",
+    "yung raja style indian trap",
+    "bilingual trap beats with tabla wav"
+  ],
+  "heroCta": "Buy Tanglish Trap Beat (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Cultural Crossover Single, Modern Tanglish Rap and Commercial Release",
+  "similarArtists": [
+    "Yung Raja",
+    "Hanumankind",
+    "Arivu",
+    "Fariz Jabba"
+  ],
+  "recommendedBpm": "125-135 BPM",
+  "productionTips": "Rich acoustic tabla tone with wide stereophonic field and non-clashing 808 bass.",
+  "idealVocalStyle": "Passionate Tamil or English delivery, witty punchlines, or melodic hook singing.",
+  "suggestedKey": "G Minor / D Minor",
+  "streamingSuitability": "High viral share potential across Singapore, Malaysia, India, and the Asian diaspora."
+},
+  {
+  "slug": "boom-bap-hip-hop-beats-singapore-mpc",
+  "title": "90s Golden-Era Boom Bap & HDB Void Deck Rap Beats in Singapore",
+  "description": "Classic, gritty boom bap beats featuring dusty vinyl sample chops, snapping acoustic snares, and warm analog basslines inspired by the golden era of Singaporean hip-hop.",
+  "targetKeywords": [
+    "boom bap beats singapore",
+    "void deck hip hop beats",
+    "old school rap beats lion city",
+    "90s singapore boom bap mpc"
+  ],
+  "heroCta": "Buy Classic Boom Bap Beat (WAV Mastered)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Underground Rap, Lyrical Storytelling and MC Battles",
+  "similarArtists": [
+    "THELIONCITYBOY",
+    "Akeem Jahat",
+    "Triple Noize",
+    "Rudec"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "productionTips": "Warm SP1200-style vinyl saturation with punchy, uncompressed acoustic drum hits.",
+  "idealVocalStyle": "Complex rhyme schemes, Singlish wordplay, and commanding poetic flow.",
+  "suggestedKey": "B Minor / D Minor",
+  "streamingSuitability": "The undisputed standard for purist hip-hop heads, cyphers, and vinyl lovers."
+},
+  {
+  "slug": "free-singapore-trap-demo-beats-mp3",
+  "title": "Download Free Singapore Trap Demo Beats in MP3 (320 kbps Quality)",
+  "description": "Download a free demonstration beat pack featuring 3 top-tier Singaporean instrumentals (melodic trap, street drill, and Tanglish fusion) in 320 kbps MP3 quality to sketch lyrics and practice vocal flows.",
+  "targetKeywords": [
+    "free singapore trap beats mp3",
+    "download free beats lion city",
+    "free demo beats singapore 320kbps",
+    "singapore drill beats free download"
+  ],
+  "heroCta": "Download Free Demo Beats (Instant Access)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Home Studio Demos, Lyric Writing and Vocal Flow Rehearsals",
+  "similarArtists": [
+    "Emerging Singaporean Recording Artists",
+    "Home Studio Producers"
+  ],
+  "recommendedBpm": "90, 134, 142 BPM",
+  "productionTips": "Includes a subtle courtesy producer tag; removed completely with any commercial license purchase.",
+  "idealVocalStyle": "Open frequency space for experimenting with flows, choruses, and lyrical concepts.",
+  "suggestedKey": "Various Keys",
+  "streamingSuitability": "Permitted for non-commercial promotional demos and freestyle videos on social media."
+},
+  {
+  "slug": "exclusive-beat-rights-singapore-pricing",
+  "title": "Exclusive Beat Rights in Singapore (Pricing in SGD S$ & Master Ownership)",
+  "description": "Own 100% exclusive master and publishing rights to your instrumental: the beat is permanently retired from the store, granting you unlimited streaming, radio airplay, and synchronization.",
+  "targetKeywords": [
+    "exclusive beat rights singapore",
+    "buy exclusive beats sgd",
+    "exclusive music license lion city",
+    "exclusive licensing trap singapore"
+  ],
+  "heroCta": "View Exclusive Options (Instant Checkout S$)",
+  "energyLevel": "Custom",
+  "primaryUse": "Lead Career Single, Major Label Submissions and Commercial Synchronization",
+  "similarArtists": [
+    "Signed Artists",
+    "Established Lion City Stars"
+  ],
+  "recommendedBpm": "Tailored to your artistic vision",
+  "productionTips": "Complete DAW project stems and uncompressed WAV files provided with full documentation.",
+  "idealVocalStyle": "The foundation for building your definitive signature sound without limitations.",
+  "suggestedKey": "Customized",
+  "streamingSuitability": "100% royalty monetization with zero caps on digital streams, radio plays, or music videos."
+},
+  {
+  "slug": "orchard-lion-city-trap-808",
+  "name": "Orchard Lion City Trap 808 Beats",
+  "category": "scene",
+  "badge": "Orchard Lion City Trap",
+  "headline": "Orchard (Central Area & Marina Bay) Lion City Trap 808 Beats: 24-Bit WAV Beats & PayNow Checkout",
+  "description": "Heavy sliding 808 sub-bass, futuristic synths, and crisp modern trap snares engineered for artists in Orchard.",
+  "targetArtists": [
+    "Artists from Orchard",
+    "Singapore Urban Music Community",
+    "Southeast Asian Rap Scene"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Orchard",
+    "Lion City Trap",
+    "PayNow S$ & Cards",
+    "COMPASS Compliant"
+  ],
+  "popularGenres": [
+    "Lion City Trap 808 Beats",
+    "Singapore Trap",
+    "Lion City Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "orchard-singapore-drill-streets",
+  "name": "Orchard Singapore Street Drill Beats",
+  "category": "scene",
+  "badge": "Orchard Singapore Drill",
+  "headline": "Orchard (Central Area & Marina Bay) Singapore Street Drill Beats: 24-Bit WAV Beats & PayNow Checkout",
+  "description": "Cold minor pianos, rapid syncopated drill hi-hats, and sliding sub-bass drops crafted for MCs in Orchard.",
+  "targetArtists": [
+    "Artists from Orchard",
+    "Singapore Urban Music Community",
+    "Southeast Asian Rap Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Orchard",
+    "Singapore Drill",
+    "PayNow S$ & Cards",
+    "COMPASS Compliant"
+  ],
+  "popularGenres": [
+    "Singapore Street Drill Beats",
+    "Singapore Trap",
+    "Lion City Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "orchard-tanglish-fusion-trap",
+  "name": "Orchard Tanglish Fusion Trap Beats",
+  "category": "scene",
+  "badge": "Orchard Tanglish Trap",
+  "headline": "Orchard (Central Area & Marina Bay) Tanglish Fusion Trap Beats: 24-Bit WAV Beats & PayNow Checkout",
+  "description": "Authentic Indian Tabla rhythms, vibrant vocal chops, and bouncy modern trap drops for artists in Orchard.",
+  "targetArtists": [
+    "Artists from Orchard",
+    "Singapore Urban Music Community",
+    "Southeast Asian Rap Scene"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Orchard",
+    "Tanglish Trap",
+    "PayNow S$ & Cards",
+    "COMPASS Compliant"
+  ],
+  "popularGenres": [
+    "Tanglish Fusion Trap Beats",
+    "Singapore Trap",
+    "Lion City Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "orchard-void-deck-boom-bap",
+  "name": "Orchard Void Deck Classic Boom Bap",
+  "category": "scene",
+  "badge": "Orchard Void Deck Boom Bap",
+  "headline": "Orchard (Central Area & Marina Bay) Void Deck Classic Boom Bap: 24-Bit WAV Beats & PayNow Checkout",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and vintage MPC groove for MCs in Orchard.",
+  "targetArtists": [
+    "Artists from Orchard",
+    "Singapore Urban Music Community",
+    "Southeast Asian Rap Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Orchard",
+    "Void Deck Boom Bap",
+    "PayNow S$ & Cards",
+    "COMPASS Compliant"
+  ],
+  "popularGenres": [
+    "Void Deck Classic Boom Bap",
+    "Singapore Trap",
+    "Lion City Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "bugis-lion-city-trap-808",
+  "name": "Bugis Lion City Trap 808 Beats",
+  "category": "scene",
+  "badge": "Bugis Lion City Trap",
+  "headline": "Bugis (Kampong Glam & Haji Lane) Lion City Trap 808 Beats: 24-Bit WAV Beats & PayNow Checkout",
+  "description": "Heavy sliding 808 sub-bass, futuristic synths, and crisp modern trap snares engineered for artists in Bugis.",
+  "targetArtists": [
+    "Artists from Bugis",
+    "Singapore Urban Music Community",
+    "Southeast Asian Rap Scene"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Bugis",
+    "Lion City Trap",
+    "PayNow S$ & Cards",
+    "COMPASS Compliant"
+  ],
+  "popularGenres": [
+    "Lion City Trap 808 Beats",
+    "Singapore Trap",
+    "Lion City Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "bugis-singapore-drill-streets",
+  "name": "Bugis Singapore Street Drill Beats",
+  "category": "scene",
+  "badge": "Bugis Singapore Drill",
+  "headline": "Bugis (Kampong Glam & Haji Lane) Singapore Street Drill Beats: 24-Bit WAV Beats & PayNow Checkout",
+  "description": "Cold minor pianos, rapid syncopated drill hi-hats, and sliding sub-bass drops crafted for MCs in Bugis.",
+  "targetArtists": [
+    "Artists from Bugis",
+    "Singapore Urban Music Community",
+    "Southeast Asian Rap Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Bugis",
+    "Singapore Drill",
+    "PayNow S$ & Cards",
+    "COMPASS Compliant"
+  ],
+  "popularGenres": [
+    "Singapore Street Drill Beats",
+    "Singapore Trap",
+    "Lion City Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "bugis-tanglish-fusion-trap",
+  "name": "Bugis Tanglish Fusion Trap Beats",
+  "category": "scene",
+  "badge": "Bugis Tanglish Trap",
+  "headline": "Bugis (Kampong Glam & Haji Lane) Tanglish Fusion Trap Beats: 24-Bit WAV Beats & PayNow Checkout",
+  "description": "Authentic Indian Tabla rhythms, vibrant vocal chops, and bouncy modern trap drops for artists in Bugis.",
+  "targetArtists": [
+    "Artists from Bugis",
+    "Singapore Urban Music Community",
+    "Southeast Asian Rap Scene"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Bugis",
+    "Tanglish Trap",
+    "PayNow S$ & Cards",
+    "COMPASS Compliant"
+  ],
+  "popularGenres": [
+    "Tanglish Fusion Trap Beats",
+    "Singapore Trap",
+    "Lion City Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "bugis-void-deck-boom-bap",
+  "name": "Bugis Void Deck Classic Boom Bap",
+  "category": "scene",
+  "badge": "Bugis Void Deck Boom Bap",
+  "headline": "Bugis (Kampong Glam & Haji Lane) Void Deck Classic Boom Bap: 24-Bit WAV Beats & PayNow Checkout",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and vintage MPC groove for MCs in Bugis.",
+  "targetArtists": [
+    "Artists from Bugis",
+    "Singapore Urban Music Community",
+    "Southeast Asian Rap Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Bugis",
+    "Void Deck Boom Bap",
+    "PayNow S$ & Cards",
+    "COMPASS Compliant"
+  ],
+  "popularGenres": [
+    "Void Deck Classic Boom Bap",
+    "Singapore Trap",
+    "Lion City Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "tampines-lion-city-trap-808",
+  "name": "Tampines Lion City Trap 808 Beats",
+  "category": "scene",
+  "badge": "Tampines Lion City Trap",
+  "headline": "Tampines (East Coast & Heartland) Lion City Trap 808 Beats: 24-Bit WAV Beats & PayNow Checkout",
+  "description": "Heavy sliding 808 sub-bass, futuristic synths, and crisp modern trap snares engineered for artists in Tampines.",
+  "targetArtists": [
+    "Artists from Tampines",
+    "Singapore Urban Music Community",
+    "Southeast Asian Rap Scene"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Tampines",
+    "Lion City Trap",
+    "PayNow S$ & Cards",
+    "COMPASS Compliant"
+  ],
+  "popularGenres": [
+    "Lion City Trap 808 Beats",
+    "Singapore Trap",
+    "Lion City Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "tampines-singapore-drill-streets",
+  "name": "Tampines Singapore Street Drill Beats",
+  "category": "scene",
+  "badge": "Tampines Singapore Drill",
+  "headline": "Tampines (East Coast & Heartland) Singapore Street Drill Beats: 24-Bit WAV Beats & PayNow Checkout",
+  "description": "Cold minor pianos, rapid syncopated drill hi-hats, and sliding sub-bass drops crafted for MCs in Tampines.",
+  "targetArtists": [
+    "Artists from Tampines",
+    "Singapore Urban Music Community",
+    "Southeast Asian Rap Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Tampines",
+    "Singapore Drill",
+    "PayNow S$ & Cards",
+    "COMPASS Compliant"
+  ],
+  "popularGenres": [
+    "Singapore Street Drill Beats",
+    "Singapore Trap",
+    "Lion City Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "tampines-tanglish-fusion-trap",
+  "name": "Tampines Tanglish Fusion Trap Beats",
+  "category": "scene",
+  "badge": "Tampines Tanglish Trap",
+  "headline": "Tampines (East Coast & Heartland) Tanglish Fusion Trap Beats: 24-Bit WAV Beats & PayNow Checkout",
+  "description": "Authentic Indian Tabla rhythms, vibrant vocal chops, and bouncy modern trap drops for artists in Tampines.",
+  "targetArtists": [
+    "Artists from Tampines",
+    "Singapore Urban Music Community",
+    "Southeast Asian Rap Scene"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Tampines",
+    "Tanglish Trap",
+    "PayNow S$ & Cards",
+    "COMPASS Compliant"
+  ],
+  "popularGenres": [
+    "Tanglish Fusion Trap Beats",
+    "Singapore Trap",
+    "Lion City Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "tampines-void-deck-boom-bap",
+  "name": "Tampines Void Deck Classic Boom Bap",
+  "category": "scene",
+  "badge": "Tampines Void Deck Boom Bap",
+  "headline": "Tampines (East Coast & Heartland) Void Deck Classic Boom Bap: 24-Bit WAV Beats & PayNow Checkout",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and vintage MPC groove for MCs in Tampines.",
+  "targetArtists": [
+    "Artists from Tampines",
+    "Singapore Urban Music Community",
+    "Southeast Asian Rap Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Tampines",
+    "Void Deck Boom Bap",
+    "PayNow S$ & Cards",
+    "COMPASS Compliant"
+  ],
+  "popularGenres": [
+    "Void Deck Classic Boom Bap",
+    "Singapore Trap",
+    "Lion City Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "jurong-lion-city-trap-808",
+  "name": "Jurong Lion City Trap 808 Beats",
+  "category": "scene",
+  "badge": "Jurong Lion City Trap",
+  "headline": "Jurong (West Region & Industrial Core) Lion City Trap 808 Beats: 24-Bit WAV Beats & PayNow Checkout",
+  "description": "Heavy sliding 808 sub-bass, futuristic synths, and crisp modern trap snares engineered for artists in Jurong.",
+  "targetArtists": [
+    "Artists from Jurong",
+    "Singapore Urban Music Community",
+    "Southeast Asian Rap Scene"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Jurong",
+    "Lion City Trap",
+    "PayNow S$ & Cards",
+    "COMPASS Compliant"
+  ],
+  "popularGenres": [
+    "Lion City Trap 808 Beats",
+    "Singapore Trap",
+    "Lion City Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "jurong-singapore-drill-streets",
+  "name": "Jurong Singapore Street Drill Beats",
+  "category": "scene",
+  "badge": "Jurong Singapore Drill",
+  "headline": "Jurong (West Region & Industrial Core) Singapore Street Drill Beats: 24-Bit WAV Beats & PayNow Checkout",
+  "description": "Cold minor pianos, rapid syncopated drill hi-hats, and sliding sub-bass drops crafted for MCs in Jurong.",
+  "targetArtists": [
+    "Artists from Jurong",
+    "Singapore Urban Music Community",
+    "Southeast Asian Rap Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Jurong",
+    "Singapore Drill",
+    "PayNow S$ & Cards",
+    "COMPASS Compliant"
+  ],
+  "popularGenres": [
+    "Singapore Street Drill Beats",
+    "Singapore Trap",
+    "Lion City Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "jurong-tanglish-fusion-trap",
+  "name": "Jurong Tanglish Fusion Trap Beats",
+  "category": "scene",
+  "badge": "Jurong Tanglish Trap",
+  "headline": "Jurong (West Region & Industrial Core) Tanglish Fusion Trap Beats: 24-Bit WAV Beats & PayNow Checkout",
+  "description": "Authentic Indian Tabla rhythms, vibrant vocal chops, and bouncy modern trap drops for artists in Jurong.",
+  "targetArtists": [
+    "Artists from Jurong",
+    "Singapore Urban Music Community",
+    "Southeast Asian Rap Scene"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Jurong",
+    "Tanglish Trap",
+    "PayNow S$ & Cards",
+    "COMPASS Compliant"
+  ],
+  "popularGenres": [
+    "Tanglish Fusion Trap Beats",
+    "Singapore Trap",
+    "Lion City Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "jurong-void-deck-boom-bap",
+  "name": "Jurong Void Deck Classic Boom Bap",
+  "category": "scene",
+  "badge": "Jurong Void Deck Boom Bap",
+  "headline": "Jurong (West Region & Industrial Core) Void Deck Classic Boom Bap: 24-Bit WAV Beats & PayNow Checkout",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and vintage MPC groove for MCs in Jurong.",
+  "targetArtists": [
+    "Artists from Jurong",
+    "Singapore Urban Music Community",
+    "Southeast Asian Rap Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Jurong",
+    "Void Deck Boom Bap",
+    "PayNow S$ & Cards",
+    "COMPASS Compliant"
+  ],
+  "popularGenres": [
+    "Void Deck Classic Boom Bap",
+    "Singapore Trap",
+    "Lion City Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "woodlands-lion-city-trap-808",
+  "name": "Woodlands Lion City Trap 808 Beats",
+  "category": "scene",
+  "badge": "Woodlands Lion City Trap",
+  "headline": "Woodlands (North Corridor & Causeway) Lion City Trap 808 Beats: 24-Bit WAV Beats & PayNow Checkout",
+  "description": "Heavy sliding 808 sub-bass, futuristic synths, and crisp modern trap snares engineered for artists in Woodlands.",
+  "targetArtists": [
+    "Artists from Woodlands",
+    "Singapore Urban Music Community",
+    "Southeast Asian Rap Scene"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Woodlands",
+    "Lion City Trap",
+    "PayNow S$ & Cards",
+    "COMPASS Compliant"
+  ],
+  "popularGenres": [
+    "Lion City Trap 808 Beats",
+    "Singapore Trap",
+    "Lion City Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "woodlands-singapore-drill-streets",
+  "name": "Woodlands Singapore Street Drill Beats",
+  "category": "scene",
+  "badge": "Woodlands Singapore Drill",
+  "headline": "Woodlands (North Corridor & Causeway) Singapore Street Drill Beats: 24-Bit WAV Beats & PayNow Checkout",
+  "description": "Cold minor pianos, rapid syncopated drill hi-hats, and sliding sub-bass drops crafted for MCs in Woodlands.",
+  "targetArtists": [
+    "Artists from Woodlands",
+    "Singapore Urban Music Community",
+    "Southeast Asian Rap Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Woodlands",
+    "Singapore Drill",
+    "PayNow S$ & Cards",
+    "COMPASS Compliant"
+  ],
+  "popularGenres": [
+    "Singapore Street Drill Beats",
+    "Singapore Trap",
+    "Lion City Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "woodlands-tanglish-fusion-trap",
+  "name": "Woodlands Tanglish Fusion Trap Beats",
+  "category": "scene",
+  "badge": "Woodlands Tanglish Trap",
+  "headline": "Woodlands (North Corridor & Causeway) Tanglish Fusion Trap Beats: 24-Bit WAV Beats & PayNow Checkout",
+  "description": "Authentic Indian Tabla rhythms, vibrant vocal chops, and bouncy modern trap drops for artists in Woodlands.",
+  "targetArtists": [
+    "Artists from Woodlands",
+    "Singapore Urban Music Community",
+    "Southeast Asian Rap Scene"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Woodlands",
+    "Tanglish Trap",
+    "PayNow S$ & Cards",
+    "COMPASS Compliant"
+  ],
+  "popularGenres": [
+    "Tanglish Fusion Trap Beats",
+    "Singapore Trap",
+    "Lion City Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "woodlands-void-deck-boom-bap",
+  "name": "Woodlands Void Deck Classic Boom Bap",
+  "category": "scene",
+  "badge": "Woodlands Void Deck Boom Bap",
+  "headline": "Woodlands (North Corridor & Causeway) Void Deck Classic Boom Bap: 24-Bit WAV Beats & PayNow Checkout",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and vintage MPC groove for MCs in Woodlands.",
+  "targetArtists": [
+    "Artists from Woodlands",
+    "Singapore Urban Music Community",
+    "Southeast Asian Rap Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Woodlands",
+    "Void Deck Boom Bap",
+    "PayNow S$ & Cards",
+    "COMPASS Compliant"
+  ],
+  "popularGenres": [
+    "Void Deck Classic Boom Bap",
+    "Singapore Trap",
+    "Lion City Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "ang-mo-kio-lion-city-trap-808",
+  "name": "Ang Mo Kio Lion City Trap 808 Beats",
+  "category": "scene",
+  "badge": "Ang Mo Kio Lion City Trap",
+  "headline": "Ang Mo Kio (Central Heartland & Bishan) Lion City Trap 808 Beats: 24-Bit WAV Beats & PayNow Checkout",
+  "description": "Heavy sliding 808 sub-bass, futuristic synths, and crisp modern trap snares engineered for artists in Ang Mo Kio.",
+  "targetArtists": [
+    "Artists from Ang Mo Kio",
+    "Singapore Urban Music Community",
+    "Southeast Asian Rap Scene"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "recommendedKey": "C-Minor / D-Minor",
+  "vibeAttributes": [
+    "Ang Mo Kio",
+    "Lion City Trap",
+    "PayNow S$ & Cards",
+    "COMPASS Compliant"
+  ],
+  "popularGenres": [
+    "Lion City Trap 808 Beats",
+    "Singapore Trap",
+    "Lion City Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "ang-mo-kio-singapore-drill-streets",
+  "name": "Ang Mo Kio Singapore Street Drill Beats",
+  "category": "scene",
+  "badge": "Ang Mo Kio Singapore Drill",
+  "headline": "Ang Mo Kio (Central Heartland & Bishan) Singapore Street Drill Beats: 24-Bit WAV Beats & PayNow Checkout",
+  "description": "Cold minor pianos, rapid syncopated drill hi-hats, and sliding sub-bass drops crafted for MCs in Ang Mo Kio.",
+  "targetArtists": [
+    "Artists from Ang Mo Kio",
+    "Singapore Urban Music Community",
+    "Southeast Asian Rap Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / G-Minor",
+  "vibeAttributes": [
+    "Ang Mo Kio",
+    "Singapore Drill",
+    "PayNow S$ & Cards",
+    "COMPASS Compliant"
+  ],
+  "popularGenres": [
+    "Singapore Street Drill Beats",
+    "Singapore Trap",
+    "Lion City Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "ang-mo-kio-tanglish-fusion-trap",
+  "name": "Ang Mo Kio Tanglish Fusion Trap Beats",
+  "category": "scene",
+  "badge": "Ang Mo Kio Tanglish Trap",
+  "headline": "Ang Mo Kio (Central Heartland & Bishan) Tanglish Fusion Trap Beats: 24-Bit WAV Beats & PayNow Checkout",
+  "description": "Authentic Indian Tabla rhythms, vibrant vocal chops, and bouncy modern trap drops for artists in Ang Mo Kio.",
+  "targetArtists": [
+    "Artists from Ang Mo Kio",
+    "Singapore Urban Music Community",
+    "Southeast Asian Rap Scene"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Ang Mo Kio",
+    "Tanglish Trap",
+    "PayNow S$ & Cards",
+    "COMPASS Compliant"
+  ],
+  "popularGenres": [
+    "Tanglish Fusion Trap Beats",
+    "Singapore Trap",
+    "Lion City Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "ang-mo-kio-void-deck-boom-bap",
+  "name": "Ang Mo Kio Void Deck Classic Boom Bap",
+  "category": "scene",
+  "badge": "Ang Mo Kio Void Deck Boom Bap",
+  "headline": "Ang Mo Kio (Central Heartland & Bishan) Void Deck Classic Boom Bap: 24-Bit WAV Beats & PayNow Checkout",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and vintage MPC groove for MCs in Ang Mo Kio.",
+  "targetArtists": [
+    "Artists from Ang Mo Kio",
+    "Singapore Urban Music Community",
+    "Southeast Asian Rap Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Ang Mo Kio",
+    "Void Deck Boom Bap",
+    "PayNow S$ & Cards",
+    "COMPASS Compliant"
+  ],
+  "popularGenres": [
+    "Void Deck Classic Boom Bap",
+    "Singapore Trap",
+    "Lion City Hip-Hop"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
 ];

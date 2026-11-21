@@ -39158,4 +39158,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "sg/orchard-central-core": {
+  "slug": "sg/orchard-central-core",
+  "name": "Singapore – Central Area, Orchard & Marina Bay (Lion City Skyline & Luxury Trap)",
+  "flag": "🇸🇬",
+  "currency": "SGD (S$) / USD ($)",
+  "currencyCode": "SGD",
+  "gateways": "PayNow (DBS, POSB, OCBC, UOB), GrabPay, Cards, Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "COMPASS",
+  "proFullName": "COMPASS (Composers and Authors Society of Singapore)",
+  "proGuide": "100% compliant with COMPASS licensing guidelines with instant PDF agreement.",
+  "headline": "Beats in Central Singapore: Marina Bay Skyline, Luxury Trap & Global Sound",
+  "description": "The futuristic and cosmopolitan core of the Lion City: sleek modern 808s, ambient synth pads, and high-roller bounce crafted for artists across Orchard, Marina Bay, and Tanjong Pagar.",
+  "popularGenres": [
+    "Lion City Luxury Trap",
+    "Cosmopolitan R&B",
+    "Futuristic Synth Beat"
+  ],
+  "subClusters": []
+},
+  "sg/bugis-kampong-glam": {
+  "slug": "sg/bugis-kampong-glam",
+  "name": "Singapore – Bugis & Kampong Glam (Haji Lane Street Art & Indie Hip-Hop)",
+  "flag": "🇸🇬",
+  "currency": "SGD (S$) / USD ($)",
+  "currencyCode": "SGD",
+  "gateways": "PayNow (DBS, POSB, OCBC, UOB), GrabPay, Cards, Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "COMPASS",
+  "proFullName": "COMPASS (Composers and Authors Society of Singapore)",
+  "proGuide": "Pristine 24-bit studio WAV delivery with separated multitrack stem files.",
+  "headline": "Beats in Bugis & Kampong Glam: Haji Lane Heritage, Malay Hip-Hop & Soul",
+  "description": "The creative and cultural cradle of Singapore urban arts: warm Rhodes keyboards, vinyl crackle, and dynamic boom bap/trap grooves for indie vocalists and bilingual MCs.",
+  "popularGenres": [
+    "Kampong Glam Indie Rap",
+    "Haji Lane Chillhop",
+    "Bilingual Soul Beat"
+  ],
+  "subClusters": []
+},
+  "sg/tampines-east-hub": {
+  "slug": "sg/tampines-east-hub",
+  "name": "Singapore – Tampines & East Coast (Heartland Energy, Street Drill & Lofi)",
+  "flag": "🇸🇬",
+  "currency": "SGD (S$) / USD ($)",
+  "currencyCode": "SGD",
+  "gateways": "PayNow (DBS, POSB, OCBC, UOB), GrabPay, Cards, Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "COMPASS",
+  "proFullName": "COMPASS (Composers and Authors Society of Singapore)",
+  "proGuide": "100% royalty-free clearance on master recordings with commercial licensing.",
+  "headline": "Beats in Tampines: East Coast Heartland Energy, Fast Drill & Coastal Waves",
+  "description": "The bustling residential and youth powerhouse of eastern Singapore: snappy snares, sliding 808s, and melodic acoustic guitar loops designed for Tampines and Bedok creators.",
+  "popularGenres": [
+    "Tampines Heartland Drill",
+    "East Coast Chill Beat",
+    "Youth Cypher Trap"
+  ],
+  "subClusters": []
+},
+  "sg/jurong-west-gateway": {
+  "slug": "sg/jurong-west-gateway",
+  "name": "Singapore – Jurong & West Region (Industrial Tech Hub & Heavy Street 808s)",
+  "flag": "🇸🇬",
+  "currency": "SGD (S$) / USD ($)",
+  "currencyCode": "SGD",
+  "gateways": "PayNow (DBS, POSB, OCBC, UOB), GrabPay, Cards, Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "COMPASS",
+  "proFullName": "COMPASS (Composers and Authors Society of Singapore)",
+  "proGuide": "Worldwide digital monetization rights for Spotify, Apple Music, and YouTube.",
+  "headline": "Beats in Jurong: Industrial Innovation, Hard Street Reality & Thunderous Bass",
+  "description": "The industrial and technological gateway of western Singapore: dark minor synths, heavy low-end 808 glides, and punchy kicks crafted for raw reality rap across Jurong and Clementi.",
+  "popularGenres": [
+    "Jurong West Street Trap",
+    "Industrial 808",
+    "Hard Reality Drill"
+  ],
+  "subClusters": []
+},
+  "sg/woodlands-north-corridor": {
+  "slug": "sg/woodlands-north-corridor",
+  "name": "Singapore – Woodlands & North Corridor (Causeway Gateway & Cross-Border Trap)",
+  "flag": "🇸🇬",
+  "currency": "SGD (S$) / USD ($)",
+  "currencyCode": "SGD",
+  "gateways": "PayNow (DBS, POSB, OCBC, UOB), GrabPay, Cards, Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "COMPASS",
+  "proFullName": "COMPASS (Composers and Authors Society of Singapore)",
+  "proGuide": "Instant PayNow QR checkout in SGD (S$) with immediate file download.",
+  "headline": "Beats in Woodlands: Causeway Crossroads, SG-MY Drill & Border Energy",
+  "description": "Connecting the Lion City directly to Malaysia: aggressive UK-style counter-snares, rapid hi-hat rolls, and bilingual cross-border flows tailored for Woodlands and Yishun MCs.",
+  "popularGenres": [
+    "Woodlands Cross-Border Drill",
+    "Causeway Trap Beat",
+    "North Corridor Flow"
+  ],
+  "subClusters": []
+},
+  "sg/ang-mo-kio-central-heart": {
+  "slug": "sg/ang-mo-kio-central-heart",
+  "name": "Singapore – Ang Mo Kio & Bishan (Mature Central Heartland & Void Deck Cypher)",
+  "flag": "🇸🇬",
+  "currency": "SGD (S$) / USD ($)",
+  "currencyCode": "SGD",
+  "gateways": "PayNow (DBS, POSB, OCBC, UOB), GrabPay, Cards, Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "COMPASS",
+  "proFullName": "COMPASS (Composers and Authors Society of Singapore)",
+  "proGuide": "100% original master production cleared for DSP distribution.",
+  "headline": "Beats in Ang Mo Kio: Central Heartland Soul, Void Deck Acoustics & Classic Boom Bap",
+  "description": "The quintessential Singaporean HDB heartland: dusty vinyl chops, authentic acoustic drums, and warm basslines echoing through the void decks of Ang Mo Kio, Bishan, and Toa Payoh.",
+  "popularGenres": [
+    "Ang Mo Kio Void Deck Beat",
+    "Heartland Boom Bap",
+    "Bishan Classic Rap"
+  ],
+  "subClusters": []
+},
+  "sg/sentosa-harbourfront-south": {
+  "slug": "sg/sentosa-harbourfront-south",
+  "name": "Singapore – Sentosa & HarbourFront (Tropical Beach Club & Summer Afro-Trap)",
+  "flag": "🇸🇬",
+  "currency": "SGD (S$) / USD ($)",
+  "currencyCode": "SGD",
+  "gateways": "PayNow (DBS, POSB, OCBC, UOB), GrabPay, Cards, Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "COMPASS",
+  "proFullName": "COMPASS (Composers and Authors Society of Singapore)",
+  "proGuide": "Direct commercial licensing for club DJs, YouTube sync, and streaming.",
+  "headline": "Beats in Sentosa: Tanjong Beach Club Vibes, Ocean Breeze & Afro-Trap",
+  "description": "The southern tropical luxury escape: breezy marimba plucks, smooth syncopated afrobeat percussion, and clean melodic 808s crafted for summer anthems and beach club sets.",
+  "popularGenres": [
+    "Sentosa Beach Club Trap",
+    "HarbourFront Afrobeat",
+    "Island Summer Beat"
+  ],
+  "subClusters": []
+},
+  "sg/geylang-paya-lebar": {
+  "slug": "sg/geylang-paya-lebar",
+  "name": "Singapore – Geylang & Paya Lebar (Heritage Nightlife, Street Reality & Raw Drill)",
+  "flag": "🇸🇬",
+  "currency": "SGD (S$) / USD ($)",
+  "currencyCode": "SGD",
+  "gateways": "PayNow (DBS, POSB, OCBC, UOB), GrabPay, Cards, Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "COMPASS",
+  "proFullName": "COMPASS (Composers and Authors Society of Singapore)",
+  "proGuide": "Direct stems multitrack download for precision audio mixing.",
+  "headline": "Beats in Geylang: Neon Shophouses, Nocturnal Energy & Street Trap",
+  "description": "The sleepless nocturnal pulse of eastern Singapore: ominous minor-key synth progressions, aggressive sliding 808s, and cold reality storytelling for Geylang and Kallang artists.",
+  "popularGenres": [
+    "Geylang Nocturnal Trap",
+    "Paya Lebar Street Drill",
+    "Neon Shophouse Beat"
+  ],
+  "subClusters": []
+},
+  "sg/serangoon-little-india": {
+  "slug": "sg/serangoon-little-india",
+  "name": "Singapore – Serangoon & Little India (Multicultural Vibrancy & Tabla-Trap)",
+  "flag": "🇸🇬",
+  "currency": "SGD (S$) / USD ($)",
+  "currencyCode": "SGD",
+  "gateways": "PayNow (DBS, POSB, OCBC, UOB), GrabPay, Cards, Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "COMPASS",
+  "proFullName": "COMPASS (Composers and Authors Society of Singapore)",
+  "proGuide": "100% legal protection with downloadable split sheet agreement.",
+  "headline": "Beats in Little India & Serangoon: Tabla Rhythms, Tanglish Swagger & 808s",
+  "description": "The rich multicultural heartbeat of Singapore: authentic Indian percussion (Tabla, Mridangam) fused with heavy modern 808 trap drops for Tamil and bilingual crossover MCs.",
+  "popularGenres": [
+    "Tanglish Fusion Trap",
+    "Little India Tabla Beat",
+    "Serangoon Urban Indian"
+  ],
+  "subClusters": []
+},
+  "sg/changi-pasir-ris-coast": {
+  "slug": "sg/changi-pasir-ris-coast",
+  "name": "Singapore – Pasir Ris & Changi (East Coastline, Ocean Breeze & Coastal Chillhop)",
+  "flag": "🇸🇬",
+  "currency": "SGD (S$) / USD ($)",
+  "currencyCode": "SGD",
+  "gateways": "PayNow (DBS, POSB, OCBC, UOB), GrabPay, Cards, Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "COMPASS",
+  "proFullName": "COMPASS (Composers and Authors Society of Singapore)",
+  "proGuide": "Complete commercial rights with invoice and digital certificate.",
+  "headline": "Beats in Changi & Pasir Ris: Coastal Park Waves, Acoustic Nylon & Lofi Beats",
+  "description": "The peaceful maritime edge of eastern Singapore: acoustic guitar fingerpicking, gentle ocean surf soundscapes, and relaxed lofi hip-hop drums for chillout sessions and songwriting.",
+  "popularGenres": [
+    "Changi Coastal Lofi",
+    "Pasir Ris Chillhop",
+    "East Coast Acoustic Beat"
+  ],
+  "subClusters": []
+},
 };
