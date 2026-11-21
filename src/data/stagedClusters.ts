@@ -129004,4 +129004,1296 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "2"
   ]
 },
+  {
+  "slug": "jay-park-wonsoju-seoul-commercial-rap",
+  "title": "Jay Park Won Soju Godfather of K-Hip-Hop Bouncy Commercial Trap Beat",
+  "description": "Chart-topping, infectious K-Hip-Hop anthem inspired by Jay Park (All I Wanna Do, Mommae, GANADARA, Blue Check, Sunday), blending bilingual Korean-English swagger, bright synth brass, and bouncy 808s.",
+  "targetKeywords": [
+    "jay park type beat",
+    "korean commercial hip hop beat",
+    "jay park all i wanna do instrumental",
+    "bouncy k-pop rap beat",
+    "aomg style trap beat"
+  ],
+  "heroCta": "Buy Jay Park Style Beat (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Lead Commercial Single, Viral Dance Video and Club Party Anthem",
+  "similarArtists": [
+    "Jay Park",
+    "Loco",
+    "Gray",
+    "Simon Dominic"
+  ],
+  "recommendedBpm": "100-108 / 130 BPM",
+  "productionTips": "Layer bright analog brass stabs with syncopated trap claps and bouncy, melodic 808 basslines.",
+  "idealVocalStyle": "Effortless bilingual Korean and English flow, charismatic swagger, and catchy singalong hooks.",
+  "suggestedKey": "G Minor / Bb Major",
+  "streamingSuitability": "Guaranteed heavy rotation on Melon, Spotify K-Hip-Hop, and international dance playlists."
+},
+  {
+  "slug": "dpr-live-space-cowboy-atmospheric-trap",
+  "title": "DPR LIVE Space Cowboy Futuristic Audiovisual Space Trap Beat",
+  "description": "Dreamy, futuristic and cinematic audiovisual space trap instrumental inspired by DPR LIVE and DPR IAN (Martini Blue, Jasmine, Text Me, Hula Hoops, Legacy), with lush modulated synthesizer pads.",
+  "targetKeywords": [
+    "dpr live type beat",
+    "dpr ian instrumental",
+    "martini blue dpr live beat",
+    "futuristic space trap beat korea",
+    "dpr style atmospheric beat"
+  ],
+  "heroCta": "Buy DPR Style Beat (WAV + Stems)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "High-Concept Visual Single, Atmospheric Summer Track and Late-Night Drive",
+  "similarArtists": [
+    "DPR LIVE",
+    "DPR IAN",
+    "Crush",
+    "DEAN"
+  ],
+  "recommendedBpm": "112-120 BPM",
+  "productionTips": "Warm low-pass filtered synth chords with stereo chorus modulation over punchy, swinging trap drums.",
+  "idealVocalStyle": "Buttery smooth autotuned singing, laid-back cadence, charismatic ad-libs, and melodic toplines.",
+  "suggestedKey": "Eb Major / C Minor",
+  "streamingSuitability": "Insuperable for aesthetic music visualizers, late-night driving playlists, and global Krnb charts."
+},
+  {
+  "slug": "woo-won-jae-we-are-nocturnal-dark-trap",
+  "title": "Woo Won-jae We Are Melancholic Introspective Dark K-Hip-Hop Beat",
+  "description": "Haunting, deeply emotional and introspective dark hip-hop instrumental inspired by Woo Won-jae (We Are, R.I.P, Taste, Nostalgia, Used To), featuring crying minor piano keys and raw 808 sub-bass.",
+  "targetKeywords": [
+    "woo won jae type beat",
+    "we are woo won jae instrumental",
+    "dark korean hip hop beat",
+    "melancholic khop beat",
+    "introspective trap beat korea"
+  ],
+  "heroCta": "Buy Woo Won-jae Style Beat (Instant WAV)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Introspective Street Ballad, Deep Emotional Track and SMTM Style Audition",
+  "similarArtists": [
+    "Woo Won-jae",
+    "Loco",
+    "GRAY",
+    "Code Kunst"
+  ],
+  "recommendedBpm": "126-134 BPM",
+  "productionTips": "Rainy acoustic piano inversions with vinyl crackle layered over subterranean 808 sub-bass drops.",
+  "idealVocalStyle": "Honest, low-pitch, raspy delivery exploring inner demons, anxiety, and poetic personal truth.",
+  "suggestedKey": "A Minor / F Minor",
+  "streamingSuitability": "High emotional listener replay on late-night reflection playlists, Melon Top 100, and rap channels."
+},
+  {
+  "slug": "ash-island-paranoid-emo-guitar-rock-trap",
+  "title": "ASH ISLAND Paranoid Distorted Emo Guitar & Rock-Trap 808 Beat",
+  "description": "Explosive, heart-wrenching Korean emo-rock trap instrumental inspired by ASH ISLAND (Paranoid, One More Night, Melody, Error), pairing emotional distorted electric guitars with heavy 808 drops.",
+  "targetKeywords": [
+    "ash island type beat",
+    "paranoid ash island instrumental",
+    "korean emo guitar trap beat",
+    "rock trap beat korea",
+    "ash island melody beat"
+  ],
+  "heroCta": "Buy ASH ISLAND Style Beat (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Heartbreak Rock-Trap Single, High-Energy Concert Track and Emo Rap Video",
+  "similarArtists": [
+    "ASH ISLAND",
+    "CHANGMO",
+    "Lil Peep",
+    "Juice WRLD"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "productionTips": "Overdriven electric guitar power chords layered with a punchy analog kick and sub-bass portamento.",
+  "idealVocalStyle": "Vulnerable lyrics, emotional autotuned screams, soaring rock-style chorus melodies, and melodic flow.",
+  "suggestedKey": "C# Minor / A Minor",
+  "streamingSuitability": "Extremely high streaming numbers across young K-Rock and K-Hip-Hop fans, TikTok, and live stages."
+},
+  {
+  "slug": "show-me-the-money-smtm-cypher-banger",
+  "title": "Show Me The Money SMTM 142 BPM High-Voltage Audition Cypher Beat",
+  "description": "Menacing, high-stakes battle rap instrumental calibrated for Show Me The Money (SMTM) auditions: dramatic orchestral stabs, rapid 142 BPM drill hats, and earthquake 808 drops.",
+  "targetKeywords": [
+    "show me the money type beat",
+    "smtm cypher beat",
+    "smtm audition instrumental",
+    "korean battle rap beat 142 bpm",
+    "smtm 60 second rap beat"
+  ],
+  "heroCta": "Buy SMTM Audition Beat (WAV + Stems)",
+  "energyLevel": "Maximum",
+  "primaryUse": "SMTM Audition Tape, Battle Rap Cypher and High-Intensity Workout Banger",
+  "similarArtists": [
+    "BewhY",
+    "JUSTHIS",
+    "C JAMM",
+    "Gaeko"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Aggressive brass fanfares with heavy tension risers and clipped rimshots for breath-taking speed.",
+  "idealVocalStyle": "Breathless rapid-fire cadence, multi-syllabic Korean rhyme schemes, and commanding stage authority.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Insuperable for audition tapes, rap competitions, and aggressive workout playlists."
+},
+  {
+  "slug": "dean-trbl-future-rnb-lofi-sensual",
+  "title": "DEAN 130 Mood Sensual Future Krnb & Jazzy Rhodes Beat",
+  "description": "Sensual, visionary alternative Krnb instrumental inspired by DEAN (D (Half Moon), instagram, Bonnie & Clyde, die 4 you), featuring off-kilter swing drums, warm Rhodes chords, and intimate vocal textures.",
+  "targetKeywords": [
+    "dean type beat",
+    "krnb instrumental",
+    "dean instagram type beat",
+    "sensual korean rnb beat",
+    "dean d half moon beat"
+  ],
+  "heroCta": "Buy DEAN Style Krnb Beat (Instant WAV)",
+  "energyLevel": "Medium",
+  "primaryUse": "Sensual R&B Single, Moody Midnight Visualizer and Intimate Reflection Track",
+  "similarArtists": [
+    "DEAN",
+    "Crush",
+    "Zion.T",
+    "Colde"
+  ],
+  "recommendedBpm": "88-96 / 128 BPM",
+  "productionTips": "Warm Rhodes keyboard inversions washed in analog tape chorus with unquantized Neo-Soul drum pocket.",
+  "idealVocalStyle": "Silky falsetto riffs, sensual runs, effortless pitch bends, and emotionally captivating toplines.",
+  "suggestedKey": "Eb Major / C Minor",
+  "streamingSuitability": "Evergreen streaming appeal across Krnb playlists, coffee shop mixes, and late night listens."
+},
+  {
+  "slug": "epik-high-sleepless-melodic-literary",
+  "title": "Epik High Sleepless Poetic Literary Korean Hip-Hop & Grand Piano Beat",
+  "description": "Timeless, poetic Korean hip-hop instrumental inspired by Epik High and Tablo (Sleepless in ________, Born Hater, Happen, Rosario, Map the Soul), with grand acoustic piano and cinematic breakbeats.",
+  "targetKeywords": [
+    "epik high type beat",
+    "tablo type beat",
+    "poetic korean hip hop beat",
+    "epik high happen instrumental",
+    "literary conscious rap beat korea"
+  ],
+  "heroCta": "Buy Epik High Style Beat (WAV 24-bit)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Conscious Album Centerpiece, Deep Literary Rap Track and Cinematic Video",
+  "similarArtists": [
+    "Epik High",
+    "Tablo",
+    "Dynamic Duo",
+    "Leessang"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "productionTips": "Grand acoustic piano arpeggios layered with natural room reverb, subtle cellos, and crunchy vintage breaks.",
+  "idealVocalStyle": "Literary Korean metaphors, philosophical depth, rhythmic cadence, and grand anthemic choruses.",
+  "suggestedKey": "F Minor / Ab Major",
+  "streamingSuitability": "Immense cultural respect and long-term streaming catalog longevity across Korean and global listeners."
+},
+  {
+  "slug": "gugak-gayageum-traditional-korean-trap",
+  "title": "Joseon Gugak Traditional Gayageum & Daegum Modern 808 Trap Beat",
+  "description": "Prestigious cultural crossover fusing authentic Korean Joseon Gugak (국악) instruments (12-string Gayageum, Daegum bamboo flute, Buk drum) with thunderous modern trap 808s and crisp claps.",
+  "targetKeywords": [
+    "gugak trap beat",
+    "gayageum hip hop beat",
+    "traditional korean trap beat",
+    "daegum flute rap beat",
+    "joseon hip hop fusion 808"
+  ],
+  "heroCta": "Buy Gugak Trap Beat (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Cultural Masterpiece, International Showcase Performance and Viral Concept Video",
+  "similarArtists": [
+    "Agust D",
+    "BewhY",
+    "MINO",
+    "Stray Kids"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "productionTips": "Acoustic Gayageum bending plucks captured with dynamic stereo mics over heavy 808 sub frequencies.",
+  "idealVocalStyle": "Traditional Pansori-infused rap delivery, fiery historical metaphors, and commanding battle pride.",
+  "suggestedKey": "D Minor / G Minor",
+  "streamingSuitability": "Supreme cultural impact, viral worldwide sharing, and high-profile sync placement value."
+},
+  {
+  "slug": "smtm-round-two-60-second-audition-drill",
+  "title": "SMTM 60-Second Audition High-Pressure Fire Pit Korean Drill Beat",
+  "description": "High-pressure, relentless Korean drill instrumental engineered for the infamous 60-Second SMTM Fire Pit audition: ticking clock percussion, menacing sliding 808s, and explosive momentum.",
+  "targetKeywords": [
+    "smtm 60 second audition beat",
+    "korean drill audition beat",
+    "smtm round two beat",
+    "fire pit drill beat korea",
+    "aggressive korean drill instrumental"
+  ],
+  "heroCta": "Buy 60-Sec Audition Beat (Instant WAV)",
+  "energyLevel": "Maximum",
+  "primaryUse": "Audition Video Tape, Battle Rap Showdown and High-Velocity Freestyle",
+  "similarArtists": [
+    "JUSTHIS",
+    "C JAMM",
+    "Changmo",
+    "Superbee"
+  ],
+  "recommendedBpm": "141-144 BPM",
+  "productionTips": "Fast 32nd-note drill hi-hat rolls paired with two-octave 808 glides and tight acoustic rim transients.",
+  "idealVocalStyle": "Rapid-fire Korean syllable spitting, flawless breath management, and aggressive confidence.",
+  "suggestedKey": "E Minor",
+  "streamingSuitability": "Insuperable for YouTube rap audition submissions, TikTok battle challenges, and gym playlists."
+},
+  {
+  "slug": "seoul-city-lights-han-river-drive-lofi",
+  "title": "Seoul City Lights Han River Olympic Expressway Midnight Drive Lofi Beat",
+  "description": "Atmospheric, soothing nocturnal soundtrack capturing a late-night drive along the Olympic Expressway by the Han River: warm analog tape flutter, gentle electric piano chords, and tranquil sub-bass.",
+  "targetKeywords": [
+    "seoul city lights lofi beat",
+    "han river night drive beat",
+    "korean lofi chillhop instrumental",
+    "seoul midnight lofi trap",
+    "aesthetic seoul drive beat"
+  ],
+  "heroCta": "Buy Seoul Lofi Beat (Instant WAV)",
+  "energyLevel": "Low-Medium",
+  "primaryUse": "Midnight Driving Track, Relaxing Study Session and Aesthetic Travel Vlog",
+  "similarArtists": [
+    "Colde",
+    "Heize",
+    "Slom",
+    "Giriboy"
+  ],
+  "recommendedBpm": "82-88 BPM",
+  "productionTips": "Warm Wurlitzer and Rhodes keys captured through vintage tape wow-and-flutter with gentle vinyl dust.",
+  "idealVocalStyle": "Laid-back, comforting Korean spoken word, gentle acoustic singing, and intimate late-night thoughts.",
+  "suggestedKey": "G Major / E Minor",
+  "streamingSuitability": "Continuous evergreen stream counts across chillhop, study lofi, and ambient relaxation playlists."
+},
+  {
+  "slug": "hongdae-underground-cypher-boom-bap",
+  "title": "Hongdae Playground Street Cypher 90s Golden Era Korean Boom Bap Beat",
+  "description": "Raw, dusty pavement cypher tribute honoring Hongdae's historic street hip-hop culture: vintage turntable scratches, neck-snapping acoustic snares, and upright bass for Korean boom bap purists.",
+  "targetKeywords": [
+    "hongdae cypher beat",
+    "korean boom bap instrumental",
+    "hongdae playground rap beat",
+    "90s boom bap beat korea",
+    "dusty vinyl khop beat"
+  ],
+  "heroCta": "Buy Hongdae Boom Bap (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Street Cypher Showdown, Authentic Golden Era Single and Underground Visuals",
+  "similarArtists": [
+    "The Quiett",
+    "Deepflow",
+    "Nucksal",
+    "Huckleberry P"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "productionTips": "SP-1200 style 12-bit crunch on jazz piano chops layered with fat analog acoustic kicks.",
+  "idealVocalStyle": "Dense Korean internal rhyming, authentic street cadence, and commanding boom bap delivery.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Revered by purist Korean hip-hop heads, cypher organizers, and underground streaming communities."
+},
+  {
+  "slug": "kpop-title-track-hook-trap-crossover",
+  "title": "K-Pop Title Track Commercial Mainstream Trap-Pop & Dance Beat",
+  "description": "High-gloss, commercial K-Pop title track instrumental designed for high-energy idol groups and soloists: soaring synthesizer leads, explosive chorus beat drops, and multi-vocal line space.",
+  "targetKeywords": [
+    "k-pop title track beat",
+    "commercial kpop trap instrumental",
+    "kpop idol dance beat",
+    "mainstream korean pop rap beat",
+    "kpop chorus beat drop"
+  ],
+  "heroCta": "Buy K-Pop Title Track Beat (WAV 24-bit)",
+  "energyLevel": "Maximum",
+  "primaryUse": "Commercial Lead Single, Idol Audition Performance and High-Budget Video",
+  "similarArtists": [
+    "Stray Kids",
+    "NCT 127",
+    "BTS",
+    "BLACKPINK"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "productionTips": "Lush multi-layered supersaw synths with explosive sidechained kicks and wide stereo pop claps.",
+  "idealVocalStyle": "Dynamic vocal distribution space: aggressive rap verses transitioning into soaring pop choruses.",
+  "suggestedKey": "B Minor / F# Minor",
+  "streamingSuitability": "Universal top 40 radio appeal, dance challenge choreography, and massive global streaming velocity."
+},
+  {
+  "slug": "affordable-korean-hiphop-beats-kakaopay",
+  "title": "Affordable K-Hip-Hop Beats from ₩39,000 (KakaoPay, Toss & Naver Pay)",
+  "description": "Studio-ready, untagged Korean hip-hop and Krnb instrumentals starting from ₩39,000 (~$29 USD) with instantaneous local checkout via KakaoPay, Toss, and Naver Pay in Korean Won (KRW ₩).",
+  "targetKeywords": [
+    "affordable korean hiphop beats kakaopay",
+    "cheap k-hop beats toss naver pay",
+    "buy beats korea won krw",
+    "korean rap beats under 50000 won"
+  ],
+  "heroCta": "Browse Affordable Beats (from ₩39,000)",
+  "energyLevel": "Variable",
+  "primaryUse": "Independent Mixtapes, Debut Singles and Home Studio Recording with Full License",
+  "similarArtists": [
+    "Independent Korean Rappers",
+    "SoundCloud & YouTube Creators"
+  ],
+  "recommendedBpm": "120-144 BPM",
+  "productionTips": "Pre-mixed and mastered with clean dynamic headroom for vocal tracking in home studios.",
+  "idealVocalStyle": "Adaptable across melodic autotuned singing, technical Korean flows, and SMTM auditions.",
+  "suggestedKey": "All Major and Minor Keys",
+  "streamingSuitability": "Commercial license covers up to 100,000 streams on Melon, Genie, Spotify, and YouTube."
+},
+  {
+  "slug": "komca-cleared-commercial-beat-contract-pdf",
+  "title": "KOMCA-Cleared Music License Agreement & Split Sheet (Instant Signed PDF)",
+  "description": "Legally binding Korean music producer contract compliant with KOMCA (한국음악저작권협회) and the Korean Copyright Act: download your signed license and split sheet immediately upon checkout.",
+  "targetKeywords": [
+    "komca cleared commercial beat contract pdf",
+    "korean music copyright agreement pdf",
+    "komca split sheet beat purchase korea",
+    "music producer contract korea krw"
+  ],
+  "heroCta": "View KOMCA License Agreement (Instant PDF)",
+  "energyLevel": "N/A",
+  "primaryUse": "KOMCA Registration, Publishing Royalty Splits and Full Legal Commercial Protection",
+  "similarArtists": [
+    "Onzieb",
+    "KOMCA Registered Songwriters and Korean Music Creators"
+  ],
+  "recommendedBpm": "All Tempos",
+  "productionTips": "Formulated under Korean copyright law protecting authors, lyricists, and producers.",
+  "idealVocalStyle": "Valid for all musical genres, vocal recordings, and commercial releases.",
+  "suggestedKey": "All Keys",
+  "streamingSuitability": "Guaranteed legal protection for global commercial distribution, streaming, and sync."
+},
+  {
+  "slug": "show-me-the-money-audition-beats-wav",
+  "title": "Show Me The Money & High School Rapper Audition Beats (24-Bit Studio WAV)",
+  "description": "High-impact, competitive rap instrumentals specifically tailored for Show Me The Money, High School Rapper, and K-Pop entertainment agency auditions, delivered in 24-bit studio WAV format.",
+  "targetKeywords": [
+    "show me the money audition beats wav",
+    "smtm audition instrumental download",
+    "high school rapper beat wav",
+    "k-pop agency rap audition beat"
+  ],
+  "heroCta": "Download SMTM Audition Beats (WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "TV Rap Auditions, Agency Submissions and Competitive Battle Rap",
+  "similarArtists": [
+    "BewhY",
+    "JUSTHIS",
+    "Changmo",
+    "Zico"
+  ],
+  "recommendedBpm": "138-144 BPM",
+  "productionTips": "Aggressive, dynamic drum programming with striking transitions that highlight technical flow.",
+  "idealVocalStyle": "Fast-paced, multi-syllabic rhyming, flawless breath control, and commanding stage authority.",
+  "suggestedKey": "D Minor / E Minor",
+  "streamingSuitability": "Full commercial broadcast and YouTube video release rights included."
+},
+  {
+  "slug": "krnb-smooth-chords-instrumentals-stems",
+  "title": "Silky Krnb Smooth Chord Instrumentals with Stems (DEAN & Crush Sound WAV)",
+  "description": "Sensual, smooth Korean R&B productions featuring warm Rhodes keyboards, vintage electric guitars, and full multitrack stems (drums, bass, melodies, FX) for precision vocal mixing in Seoul studios.",
+  "targetKeywords": [
+    "krnb smooth chords instrumentals stems",
+    "korean rnb beat with stems",
+    "dean crush style rnb instrumental",
+    "krnb trackout wav download"
+  ],
+  "heroCta": "Get Krnb Beats + Stems",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Lead R&B Single, Radio Campaign and High-End Aesthetic Music Video",
+  "similarArtists": [
+    "DEAN",
+    "Crush",
+    "Colde",
+    "Heize"
+  ],
+  "recommendedBpm": "95-110 / 128 BPM",
+  "productionTips": "Analog tape warmth on electric pianos with clean, rounded low-end and spacious vocal pocket.",
+  "idealVocalStyle": "Silky vocal runs, rich falsetto harmonies, emotive Korean lyrics, and smooth toplines.",
+  "suggestedKey": "Eb Major / Ab Major / C Minor",
+  "streamingSuitability": "Unlimited streaming and full broadcast clearance on Melon, Apple Music, and YouTube."
+},
+  {
+  "slug": "kakaopay-toss-instant-beat-store-korea",
+  "title": "Buy Beats in Korea with KakaoPay, Toss & Naver Pay (Won KRW ₩)",
+  "description": "Purchase untagged premium instrumentals instantly using Korean domestic payment methods: KakaoPay, Toss, Naver Pay, and domestic credit cards with automated digital delivery in South Korean Won (KRW ₩).",
+  "targetKeywords": [
+    "kakaopay toss instant beat store korea",
+    "buy beats kakaopay naver pay",
+    "korean beat store won krw",
+    "toss payment rap beats korea"
+  ],
+  "heroCta": "Checkout with KakaoPay / Toss",
+  "energyLevel": "All Levels",
+  "primaryUse": "Frictionless Instant Checkout for Korean Recording Artists and Studios",
+  "similarArtists": [
+    "Independent Korean Recording Artists"
+  ],
+  "recommendedBpm": "80-160 BPM",
+  "productionTips": "Automated download generation immediately upon mobile pay or card authorization in KRW.",
+  "idealVocalStyle": "Universal compatibility across rap, R&B, drill, and pop vocalists.",
+  "suggestedKey": "All Keys",
+  "streamingSuitability": "Immediate commercial clearance valid across all global DSPs."
+},
+  {
+  "slug": "album-ep-beat-packages-korea-discount",
+  "title": "5-Beat Album & EP Bundles in South Korea (Save 40% in Korean Won ₩)",
+  "description": "Complete project package for Korean recording artists crafting a full EP, mixtape, or debut album: select any 5 or 10 instrumentals across the store and save up to 40% with unified licensing in KRW (₩).",
+  "targetKeywords": [
+    "album ep beat packages korea discount",
+    "5 beat bundle discount korea krw",
+    "buy bulk rap beats seoul busan",
+    "album instrumental package won korea"
+  ],
+  "heroCta": "Claim 5-Beat Album Bundle (40% Off)",
+  "energyLevel": "Variable",
+  "primaryUse": "Full Project Production, Cohesive Thematic Direction and Continuous Releases",
+  "similarArtists": [
+    "Independent Korean Rappers and Music Collectives"
+  ],
+  "recommendedBpm": "85-145 BPM",
+  "productionTips": "Harmonically and dynamically cohesive curation ensuring an immersive album journey.",
+  "idealVocalStyle": "Comprehensive canvas for showcasing an artist's full range of flows and songwriting dynamics.",
+  "suggestedKey": "Complementary Keys",
+  "streamingSuitability": "Single unified commercial license covering all tracks on your EP simultaneously."
+},
+  {
+  "slug": "onzieb-korean-music-producer-whatsapp",
+  "title": "Direct Producer Collaboration for Korean Artists (Producer Onzieb)",
+  "description": "Work one-on-one with producer Onzieb via direct consultation for bespoke custom beat making, key transposition, stem arrangement, and tailor-made K-Hip-Hop and Krnb sound design.",
+  "targetKeywords": [
+    "onzieb korean music producer whatsapp",
+    "custom beat producer korea seoul",
+    "hire custom k-hop producer",
+    "bespoke beatmaker seoul consultation"
+  ],
+  "heroCta": "Contact Onzieb for Custom Production",
+  "energyLevel": "Custom",
+  "primaryUse": "Bespoke Lead Singles, Agency Pitches and Custom Signature Sound Identity",
+  "similarArtists": [
+    "Onzieb",
+    "Leading Korean Urban Producers"
+  ],
+  "recommendedBpm": "Tailored to artist breathing and vocal tempo",
+  "productionTips": "Collaborative stem-by-stem arrangement adjustments via secure file sharing and voice consultation.",
+  "idealVocalStyle": "Custom tuned to match the exact timbre, power, and pocket of your vocal delivery.",
+  "suggestedKey": "Custom Matched",
+  "streamingSuitability": "Direct exclusive contracts with 100% master ownership and global monetization."
+},
+  {
+  "slug": "heavy-sliding-808-korean-drill-beats",
+  "title": "Heavy Sliding 808 Korean Street Drill Beats (Seoul & Busan Sound WAV)",
+  "description": "Aggressive, heavyweight Seoul and Busan street drill instrumentals featuring multi-octave sliding 808 sub-bass glides, tuned kicks, and sinister minor melodies for competitive Korean rappers.",
+  "targetKeywords": [
+    "heavy sliding 808 korean drill beats",
+    "korean drill instrumental wav",
+    "sliding 808 bass drill korea",
+    "aggressive seoul drill beat"
+  ],
+  "heroCta": "Download Korean Drill Beats (WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hardcore Street Single, Competitive Cyphers and High-Energy Car Audio Demos",
+  "similarArtists": [
+    "Changmo",
+    "JUSTHIS",
+    "Central Cee",
+    "Headie One"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Precisely tuned 808 portamento bends with harmonic saturation for clear playback on all speaker sizes.",
+  "idealVocalStyle": "Commanding street delivery, confident delivery pocket, and relentless hard-hitting punchlines.",
+  "suggestedKey": "C Minor / E Minor",
+  "streamingSuitability": "Fully cleared for monetization on DSPs, YouTube Content ID, and official music videos."
+},
+  {
+  "slug": "melodic-emo-guitar-korean-trap-beats",
+  "title": "Melodic Emo Guitar Korean Trap Beats (ASH ISLAND & Changmo Vibe)",
+  "description": "Heartfelt acoustic and distorted electric guitar trap instrumentals combining poignant minor chords with hard-knocking 808s crafted for emotional Korean autotuned singing and rap.",
+  "targetKeywords": [
+    "melodic emo guitar korean trap beats",
+    "ash island style guitar beat",
+    "korean sad guitar rap beat",
+    "emo trap beat 808 korea"
+  ],
+  "heroCta": "Listen to Emo Guitar Beats (WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Heartbreak Single, Vulnerable Personal Story and Acoustic Rap Video",
+  "similarArtists": [
+    "ASH ISLAND",
+    "Changmo",
+    "Lil Peep",
+    "Juice WRLD"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "productionTips": "Real nylon acoustic and electric guitars captured in stereo with analog tape warmth and dynamic sidechain compression.",
+  "idealVocalStyle": "Vulnerable, honest lyrics, melodic auto-tune hooks, and personal emotional reflections.",
+  "suggestedKey": "C# Minor / A Minor / E Minor",
+  "streamingSuitability": "Tremendous viral replay on TikTok, emotional Spotify playlists, and heartbreak compilations."
+},
+  {
+  "slug": "free-k-hiphop-producer-drum-kit-wav",
+  "title": "Free K-Hip-Hop & Krnb Producer Drum Kit (24-Bit Studio WAV Samples)",
+  "description": "Download our complimentary Korean producer sound pack featuring 25 tuned 808 bass hits, crisp snares, punchy kicks, and atmospheric percussion one-shots in 24-bit studio WAV format.",
+  "targetKeywords": [
+    "free k-hiphop producer drum kit wav",
+    "korean trap drum kit free download",
+    "k-hop 808 sample pack free",
+    "krnb drum samples fl studio"
+  ],
+  "heroCta": "Download Free K-Hip-Hop Kit (ZIP)",
+  "energyLevel": "High",
+  "primaryUse": "DAW Beatmaking in FL Studio, Ableton Live, and Logic Pro",
+  "similarArtists": [
+    "Korean Bedroom Beatmakers",
+    "Emerging Urban Producers"
+  ],
+  "recommendedBpm": "Compatible with all tempos",
+  "productionTips": "100% royalty-free authentic urban one-shots pre-mastered with peak analog punch.",
+  "idealVocalStyle": "Essential foundation for vocalists and beatmakers constructing custom instrumentals.",
+  "suggestedKey": "Tuned to C for instant pitch mapping",
+  "streamingSuitability": "Royalty-free for commercial music releases, beat sales, and digital streaming."
+},
+  {
+  "slug": "seoul-mapo-k-trap-808",
+  "name": "Mapo-gu K-Trap 808 Beats",
+  "category": "scene",
+  "badge": "Mapo-gu K-Trap",
+  "headline": "Mapo-gu (Hapjeong & K-Indie Label Cradle) K-Trap 808 Beats: 24-Bit WAV Beats & KakaoPay / Toss Checkout",
+  "description": "Heavy sliding 808 sub-bass, minor synths, and crisp modern trap snares engineered for MCs in Mapo-gu.",
+  "targetArtists": [
+    "Artists from Mapo-gu",
+    "Korean Hip-Hop Community",
+    "Seoul & Busan Scene"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Mapo-gu",
+    "K-Trap",
+    "KakaoPay & Toss (KRW ₩)",
+    "KOMCA Compliant"
+  ],
+  "popularGenres": [
+    "K-Trap 808 Beats",
+    "K-Trap",
+    "Krnb Bounce"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "seoul-mapo-seoul-street-drill",
+  "name": "Mapo-gu Seoul Street Drill Beats",
+  "category": "scene",
+  "badge": "Mapo-gu Seoul Drill",
+  "headline": "Mapo-gu (Hapjeong & K-Indie Label Cradle) Seoul Street Drill Beats: 24-Bit WAV Beats & KakaoPay / Toss Checkout",
+  "description": "Cold minor pianos, rapid syncopated drill hats, and sliding sub-bass drops crafted for MCs in Mapo-gu.",
+  "targetArtists": [
+    "Artists from Mapo-gu",
+    "Korean Hip-Hop Community",
+    "Seoul & Busan Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / C#-Minor",
+  "vibeAttributes": [
+    "Mapo-gu",
+    "Seoul Drill",
+    "KakaoPay & Toss (KRW ₩)",
+    "KOMCA Compliant"
+  ],
+  "popularGenres": [
+    "Seoul Street Drill Beats",
+    "K-Trap",
+    "Krnb Bounce"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "seoul-mapo-krnb-smooth-bounce",
+  "name": "Mapo-gu Krnb Smooth Bounce Beats",
+  "category": "scene",
+  "badge": "Mapo-gu Krnb Bounce",
+  "headline": "Mapo-gu (Hapjeong & K-Indie Label Cradle) Krnb Smooth Bounce Beats: 24-Bit WAV Beats & KakaoPay / Toss Checkout",
+  "description": "Lush Rhodes chords, sensual pocket groove, and warm sub-bass for vocalists in Mapo-gu.",
+  "targetArtists": [
+    "Artists from Mapo-gu",
+    "Korean Hip-Hop Community",
+    "Seoul & Busan Scene"
+  ],
+  "recommendedBpm": "95-108 / 128 BPM",
+  "recommendedKey": "Eb-Major / C-Minor",
+  "vibeAttributes": [
+    "Mapo-gu",
+    "Krnb Bounce",
+    "KakaoPay & Toss (KRW ₩)",
+    "KOMCA Compliant"
+  ],
+  "popularGenres": [
+    "Krnb Smooth Bounce Beats",
+    "K-Trap",
+    "Krnb Bounce"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "seoul-mapo-hongdae-boom-bap",
+  "name": "Mapo-gu Hongdae Classic Boom Bap",
+  "category": "scene",
+  "badge": "Mapo-gu Hongdae Boom Bap",
+  "headline": "Mapo-gu (Hapjeong & K-Indie Label Cradle) Hongdae Classic Boom Bap: 24-Bit WAV Beats & KakaoPay / Toss Checkout",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and raw street cypher drums for lyricists in Mapo-gu.",
+  "targetArtists": [
+    "Artists from Mapo-gu",
+    "Korean Hip-Hop Community",
+    "Seoul & Busan Scene"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Mapo-gu",
+    "Hongdae Boom Bap",
+    "KakaoPay & Toss (KRW ₩)",
+    "KOMCA Compliant"
+  ],
+  "popularGenres": [
+    "Hongdae Classic Boom Bap",
+    "K-Trap",
+    "Krnb Bounce"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "seoul-gangnam-k-trap-808",
+  "name": "Gangnam K-Trap 808 Beats",
+  "category": "scene",
+  "badge": "Gangnam K-Trap",
+  "headline": "Gangnam (Sinsa-dong & Luxury K-Pop Studio Core) K-Trap 808 Beats: 24-Bit WAV Beats & KakaoPay / Toss Checkout",
+  "description": "Heavy sliding 808 sub-bass, minor synths, and crisp modern trap snares engineered for MCs in Gangnam.",
+  "targetArtists": [
+    "Artists from Gangnam",
+    "Korean Hip-Hop Community",
+    "Seoul & Busan Scene"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Gangnam",
+    "K-Trap",
+    "KakaoPay & Toss (KRW ₩)",
+    "KOMCA Compliant"
+  ],
+  "popularGenres": [
+    "K-Trap 808 Beats",
+    "K-Trap",
+    "Krnb Bounce"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "seoul-gangnam-seoul-street-drill",
+  "name": "Gangnam Seoul Street Drill Beats",
+  "category": "scene",
+  "badge": "Gangnam Seoul Drill",
+  "headline": "Gangnam (Sinsa-dong & Luxury K-Pop Studio Core) Seoul Street Drill Beats: 24-Bit WAV Beats & KakaoPay / Toss Checkout",
+  "description": "Cold minor pianos, rapid syncopated drill hats, and sliding sub-bass drops crafted for MCs in Gangnam.",
+  "targetArtists": [
+    "Artists from Gangnam",
+    "Korean Hip-Hop Community",
+    "Seoul & Busan Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / C#-Minor",
+  "vibeAttributes": [
+    "Gangnam",
+    "Seoul Drill",
+    "KakaoPay & Toss (KRW ₩)",
+    "KOMCA Compliant"
+  ],
+  "popularGenres": [
+    "Seoul Street Drill Beats",
+    "K-Trap",
+    "Krnb Bounce"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "seoul-gangnam-krnb-smooth-bounce",
+  "name": "Gangnam Krnb Smooth Bounce Beats",
+  "category": "scene",
+  "badge": "Gangnam Krnb Bounce",
+  "headline": "Gangnam (Sinsa-dong & Luxury K-Pop Studio Core) Krnb Smooth Bounce Beats: 24-Bit WAV Beats & KakaoPay / Toss Checkout",
+  "description": "Lush Rhodes chords, sensual pocket groove, and warm sub-bass for vocalists in Gangnam.",
+  "targetArtists": [
+    "Artists from Gangnam",
+    "Korean Hip-Hop Community",
+    "Seoul & Busan Scene"
+  ],
+  "recommendedBpm": "95-108 / 128 BPM",
+  "recommendedKey": "Eb-Major / C-Minor",
+  "vibeAttributes": [
+    "Gangnam",
+    "Krnb Bounce",
+    "KakaoPay & Toss (KRW ₩)",
+    "KOMCA Compliant"
+  ],
+  "popularGenres": [
+    "Krnb Smooth Bounce Beats",
+    "K-Trap",
+    "Krnb Bounce"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "seoul-gangnam-hongdae-boom-bap",
+  "name": "Gangnam Hongdae Classic Boom Bap",
+  "category": "scene",
+  "badge": "Gangnam Hongdae Boom Bap",
+  "headline": "Gangnam (Sinsa-dong & Luxury K-Pop Studio Core) Hongdae Classic Boom Bap: 24-Bit WAV Beats & KakaoPay / Toss Checkout",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and raw street cypher drums for lyricists in Gangnam.",
+  "targetArtists": [
+    "Artists from Gangnam",
+    "Korean Hip-Hop Community",
+    "Seoul & Busan Scene"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Gangnam",
+    "Hongdae Boom Bap",
+    "KakaoPay & Toss (KRW ₩)",
+    "KOMCA Compliant"
+  ],
+  "popularGenres": [
+    "Hongdae Classic Boom Bap",
+    "K-Trap",
+    "Krnb Bounce"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "seoul-itaewon-k-trap-808",
+  "name": "Itaewon K-Trap 808 Beats",
+  "category": "scene",
+  "badge": "Itaewon K-Trap",
+  "headline": "Itaewon (Hannam-dong & Global Krnb Fusion) K-Trap 808 Beats: 24-Bit WAV Beats & KakaoPay / Toss Checkout",
+  "description": "Heavy sliding 808 sub-bass, minor synths, and crisp modern trap snares engineered for MCs in Itaewon.",
+  "targetArtists": [
+    "Artists from Itaewon",
+    "Korean Hip-Hop Community",
+    "Seoul & Busan Scene"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Itaewon",
+    "K-Trap",
+    "KakaoPay & Toss (KRW ₩)",
+    "KOMCA Compliant"
+  ],
+  "popularGenres": [
+    "K-Trap 808 Beats",
+    "K-Trap",
+    "Krnb Bounce"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "seoul-itaewon-seoul-street-drill",
+  "name": "Itaewon Seoul Street Drill Beats",
+  "category": "scene",
+  "badge": "Itaewon Seoul Drill",
+  "headline": "Itaewon (Hannam-dong & Global Krnb Fusion) Seoul Street Drill Beats: 24-Bit WAV Beats & KakaoPay / Toss Checkout",
+  "description": "Cold minor pianos, rapid syncopated drill hats, and sliding sub-bass drops crafted for MCs in Itaewon.",
+  "targetArtists": [
+    "Artists from Itaewon",
+    "Korean Hip-Hop Community",
+    "Seoul & Busan Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / C#-Minor",
+  "vibeAttributes": [
+    "Itaewon",
+    "Seoul Drill",
+    "KakaoPay & Toss (KRW ₩)",
+    "KOMCA Compliant"
+  ],
+  "popularGenres": [
+    "Seoul Street Drill Beats",
+    "K-Trap",
+    "Krnb Bounce"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "seoul-itaewon-krnb-smooth-bounce",
+  "name": "Itaewon Krnb Smooth Bounce Beats",
+  "category": "scene",
+  "badge": "Itaewon Krnb Bounce",
+  "headline": "Itaewon (Hannam-dong & Global Krnb Fusion) Krnb Smooth Bounce Beats: 24-Bit WAV Beats & KakaoPay / Toss Checkout",
+  "description": "Lush Rhodes chords, sensual pocket groove, and warm sub-bass for vocalists in Itaewon.",
+  "targetArtists": [
+    "Artists from Itaewon",
+    "Korean Hip-Hop Community",
+    "Seoul & Busan Scene"
+  ],
+  "recommendedBpm": "95-108 / 128 BPM",
+  "recommendedKey": "Eb-Major / C-Minor",
+  "vibeAttributes": [
+    "Itaewon",
+    "Krnb Bounce",
+    "KakaoPay & Toss (KRW ₩)",
+    "KOMCA Compliant"
+  ],
+  "popularGenres": [
+    "Krnb Smooth Bounce Beats",
+    "K-Trap",
+    "Krnb Bounce"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "seoul-itaewon-hongdae-boom-bap",
+  "name": "Itaewon Hongdae Classic Boom Bap",
+  "category": "scene",
+  "badge": "Itaewon Hongdae Boom Bap",
+  "headline": "Itaewon (Hannam-dong & Global Krnb Fusion) Hongdae Classic Boom Bap: 24-Bit WAV Beats & KakaoPay / Toss Checkout",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and raw street cypher drums for lyricists in Itaewon.",
+  "targetArtists": [
+    "Artists from Itaewon",
+    "Korean Hip-Hop Community",
+    "Seoul & Busan Scene"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Itaewon",
+    "Hongdae Boom Bap",
+    "KakaoPay & Toss (KRW ₩)",
+    "KOMCA Compliant"
+  ],
+  "popularGenres": [
+    "Hongdae Classic Boom Bap",
+    "K-Trap",
+    "Krnb Bounce"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "busan-haeundae-k-trap-808",
+  "name": "Haeundae K-Trap 808 Beats",
+  "category": "scene",
+  "badge": "Haeundae K-Trap",
+  "headline": "Haeundae (Busan Maritime & Bridge Lights Drill) K-Trap 808 Beats: 24-Bit WAV Beats & KakaoPay / Toss Checkout",
+  "description": "Heavy sliding 808 sub-bass, minor synths, and crisp modern trap snares engineered for MCs in Haeundae.",
+  "targetArtists": [
+    "Artists from Haeundae",
+    "Korean Hip-Hop Community",
+    "Seoul & Busan Scene"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Haeundae",
+    "K-Trap",
+    "KakaoPay & Toss (KRW ₩)",
+    "KOMCA Compliant"
+  ],
+  "popularGenres": [
+    "K-Trap 808 Beats",
+    "K-Trap",
+    "Krnb Bounce"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "busan-haeundae-seoul-street-drill",
+  "name": "Haeundae Seoul Street Drill Beats",
+  "category": "scene",
+  "badge": "Haeundae Seoul Drill",
+  "headline": "Haeundae (Busan Maritime & Bridge Lights Drill) Seoul Street Drill Beats: 24-Bit WAV Beats & KakaoPay / Toss Checkout",
+  "description": "Cold minor pianos, rapid syncopated drill hats, and sliding sub-bass drops crafted for MCs in Haeundae.",
+  "targetArtists": [
+    "Artists from Haeundae",
+    "Korean Hip-Hop Community",
+    "Seoul & Busan Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / C#-Minor",
+  "vibeAttributes": [
+    "Haeundae",
+    "Seoul Drill",
+    "KakaoPay & Toss (KRW ₩)",
+    "KOMCA Compliant"
+  ],
+  "popularGenres": [
+    "Seoul Street Drill Beats",
+    "K-Trap",
+    "Krnb Bounce"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "busan-haeundae-krnb-smooth-bounce",
+  "name": "Haeundae Krnb Smooth Bounce Beats",
+  "category": "scene",
+  "badge": "Haeundae Krnb Bounce",
+  "headline": "Haeundae (Busan Maritime & Bridge Lights Drill) Krnb Smooth Bounce Beats: 24-Bit WAV Beats & KakaoPay / Toss Checkout",
+  "description": "Lush Rhodes chords, sensual pocket groove, and warm sub-bass for vocalists in Haeundae.",
+  "targetArtists": [
+    "Artists from Haeundae",
+    "Korean Hip-Hop Community",
+    "Seoul & Busan Scene"
+  ],
+  "recommendedBpm": "95-108 / 128 BPM",
+  "recommendedKey": "Eb-Major / C-Minor",
+  "vibeAttributes": [
+    "Haeundae",
+    "Krnb Bounce",
+    "KakaoPay & Toss (KRW ₩)",
+    "KOMCA Compliant"
+  ],
+  "popularGenres": [
+    "Krnb Smooth Bounce Beats",
+    "K-Trap",
+    "Krnb Bounce"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "busan-haeundae-hongdae-boom-bap",
+  "name": "Haeundae Hongdae Classic Boom Bap",
+  "category": "scene",
+  "badge": "Haeundae Hongdae Boom Bap",
+  "headline": "Haeundae (Busan Maritime & Bridge Lights Drill) Hongdae Classic Boom Bap: 24-Bit WAV Beats & KakaoPay / Toss Checkout",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and raw street cypher drums for lyricists in Haeundae.",
+  "targetArtists": [
+    "Artists from Haeundae",
+    "Korean Hip-Hop Community",
+    "Seoul & Busan Scene"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Haeundae",
+    "Hongdae Boom Bap",
+    "KakaoPay & Toss (KRW ₩)",
+    "KOMCA Compliant"
+  ],
+  "popularGenres": [
+    "Hongdae Classic Boom Bap",
+    "K-Trap",
+    "Krnb Bounce"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "incheon-songdo-k-trap-808",
+  "name": "Songdo K-Trap 808 Beats",
+  "category": "scene",
+  "badge": "Songdo K-Trap",
+  "headline": "Songdo (Smart City Cyberpunk & High-Velocity Trap) K-Trap 808 Beats: 24-Bit WAV Beats & KakaoPay / Toss Checkout",
+  "description": "Heavy sliding 808 sub-bass, minor synths, and crisp modern trap snares engineered for MCs in Songdo.",
+  "targetArtists": [
+    "Artists from Songdo",
+    "Korean Hip-Hop Community",
+    "Seoul & Busan Scene"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Songdo",
+    "K-Trap",
+    "KakaoPay & Toss (KRW ₩)",
+    "KOMCA Compliant"
+  ],
+  "popularGenres": [
+    "K-Trap 808 Beats",
+    "K-Trap",
+    "Krnb Bounce"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "incheon-songdo-seoul-street-drill",
+  "name": "Songdo Seoul Street Drill Beats",
+  "category": "scene",
+  "badge": "Songdo Seoul Drill",
+  "headline": "Songdo (Smart City Cyberpunk & High-Velocity Trap) Seoul Street Drill Beats: 24-Bit WAV Beats & KakaoPay / Toss Checkout",
+  "description": "Cold minor pianos, rapid syncopated drill hats, and sliding sub-bass drops crafted for MCs in Songdo.",
+  "targetArtists": [
+    "Artists from Songdo",
+    "Korean Hip-Hop Community",
+    "Seoul & Busan Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / C#-Minor",
+  "vibeAttributes": [
+    "Songdo",
+    "Seoul Drill",
+    "KakaoPay & Toss (KRW ₩)",
+    "KOMCA Compliant"
+  ],
+  "popularGenres": [
+    "Seoul Street Drill Beats",
+    "K-Trap",
+    "Krnb Bounce"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "incheon-songdo-krnb-smooth-bounce",
+  "name": "Songdo Krnb Smooth Bounce Beats",
+  "category": "scene",
+  "badge": "Songdo Krnb Bounce",
+  "headline": "Songdo (Smart City Cyberpunk & High-Velocity Trap) Krnb Smooth Bounce Beats: 24-Bit WAV Beats & KakaoPay / Toss Checkout",
+  "description": "Lush Rhodes chords, sensual pocket groove, and warm sub-bass for vocalists in Songdo.",
+  "targetArtists": [
+    "Artists from Songdo",
+    "Korean Hip-Hop Community",
+    "Seoul & Busan Scene"
+  ],
+  "recommendedBpm": "95-108 / 128 BPM",
+  "recommendedKey": "Eb-Major / C-Minor",
+  "vibeAttributes": [
+    "Songdo",
+    "Krnb Bounce",
+    "KakaoPay & Toss (KRW ₩)",
+    "KOMCA Compliant"
+  ],
+  "popularGenres": [
+    "Krnb Smooth Bounce Beats",
+    "K-Trap",
+    "Krnb Bounce"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "incheon-songdo-hongdae-boom-bap",
+  "name": "Songdo Hongdae Classic Boom Bap",
+  "category": "scene",
+  "badge": "Songdo Hongdae Boom Bap",
+  "headline": "Songdo (Smart City Cyberpunk & High-Velocity Trap) Hongdae Classic Boom Bap: 24-Bit WAV Beats & KakaoPay / Toss Checkout",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and raw street cypher drums for lyricists in Songdo.",
+  "targetArtists": [
+    "Artists from Songdo",
+    "Korean Hip-Hop Community",
+    "Seoul & Busan Scene"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Songdo",
+    "Hongdae Boom Bap",
+    "KakaoPay & Toss (KRW ₩)",
+    "KOMCA Compliant"
+  ],
+  "popularGenres": [
+    "Hongdae Classic Boom Bap",
+    "K-Trap",
+    "Krnb Bounce"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "jeonju-hanok-k-trap-808",
+  "name": "Jeonju K-Trap 808 Beats",
+  "category": "scene",
+  "badge": "Jeonju K-Trap",
+  "headline": "Jeonju (Hanok Heritage & Traditional Gugak Fusion) K-Trap 808 Beats: 24-Bit WAV Beats & KakaoPay / Toss Checkout",
+  "description": "Heavy sliding 808 sub-bass, minor synths, and crisp modern trap snares engineered for MCs in Jeonju.",
+  "targetArtists": [
+    "Artists from Jeonju",
+    "Korean Hip-Hop Community",
+    "Seoul & Busan Scene"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Jeonju",
+    "K-Trap",
+    "KakaoPay & Toss (KRW ₩)",
+    "KOMCA Compliant"
+  ],
+  "popularGenres": [
+    "K-Trap 808 Beats",
+    "K-Trap",
+    "Krnb Bounce"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "jeonju-hanok-seoul-street-drill",
+  "name": "Jeonju Seoul Street Drill Beats",
+  "category": "scene",
+  "badge": "Jeonju Seoul Drill",
+  "headline": "Jeonju (Hanok Heritage & Traditional Gugak Fusion) Seoul Street Drill Beats: 24-Bit WAV Beats & KakaoPay / Toss Checkout",
+  "description": "Cold minor pianos, rapid syncopated drill hats, and sliding sub-bass drops crafted for MCs in Jeonju.",
+  "targetArtists": [
+    "Artists from Jeonju",
+    "Korean Hip-Hop Community",
+    "Seoul & Busan Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / C#-Minor",
+  "vibeAttributes": [
+    "Jeonju",
+    "Seoul Drill",
+    "KakaoPay & Toss (KRW ₩)",
+    "KOMCA Compliant"
+  ],
+  "popularGenres": [
+    "Seoul Street Drill Beats",
+    "K-Trap",
+    "Krnb Bounce"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "jeonju-hanok-krnb-smooth-bounce",
+  "name": "Jeonju Krnb Smooth Bounce Beats",
+  "category": "scene",
+  "badge": "Jeonju Krnb Bounce",
+  "headline": "Jeonju (Hanok Heritage & Traditional Gugak Fusion) Krnb Smooth Bounce Beats: 24-Bit WAV Beats & KakaoPay / Toss Checkout",
+  "description": "Lush Rhodes chords, sensual pocket groove, and warm sub-bass for vocalists in Jeonju.",
+  "targetArtists": [
+    "Artists from Jeonju",
+    "Korean Hip-Hop Community",
+    "Seoul & Busan Scene"
+  ],
+  "recommendedBpm": "95-108 / 128 BPM",
+  "recommendedKey": "Eb-Major / C-Minor",
+  "vibeAttributes": [
+    "Jeonju",
+    "Krnb Bounce",
+    "KakaoPay & Toss (KRW ₩)",
+    "KOMCA Compliant"
+  ],
+  "popularGenres": [
+    "Krnb Smooth Bounce Beats",
+    "K-Trap",
+    "Krnb Bounce"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "jeonju-hanok-hongdae-boom-bap",
+  "name": "Jeonju Hongdae Classic Boom Bap",
+  "category": "scene",
+  "badge": "Jeonju Hongdae Boom Bap",
+  "headline": "Jeonju (Hanok Heritage & Traditional Gugak Fusion) Hongdae Classic Boom Bap: 24-Bit WAV Beats & KakaoPay / Toss Checkout",
+  "description": "Dusty vinyl sample chops, snapping acoustic snares, and raw street cypher drums for lyricists in Jeonju.",
+  "targetArtists": [
+    "Artists from Jeonju",
+    "Korean Hip-Hop Community",
+    "Seoul & Busan Scene"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Jeonju",
+    "Hongdae Boom Bap",
+    "KakaoPay & Toss (KRW ₩)",
+    "KOMCA Compliant"
+  ],
+  "popularGenres": [
+    "Hongdae Classic Boom Bap",
+    "K-Trap",
+    "Krnb Bounce"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
 ];

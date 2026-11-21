@@ -42388,4 +42388,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "kr/seoul-mapo-hapjeong": {
+  "slug": "kr/seoul-mapo-hapjeong",
+  "name": "South Korea – Seoul: Mapo-gu & Hapjeong (K-Indie & Underground Hip-Hop Label Hub)",
+  "flag": "🇰🇷",
+  "currency": "KRW (₩) / USD ($)",
+  "currencyCode": "KRW",
+  "gateways": "KakaoPay (카카오페이), Toss (토스), Naver Pay (네이버페이), Korean Cards (국내 카드), Apple Pay, PayPal",
+  "pro": "KOMCA",
+  "proFullName": "KOMCA (한국음악저작권협회 - Korea Music Copyright Association)",
+  "proGuide": "100% 저작권 승인 완료 및 KOMCA 등록 지원. 즉시 다운로드 가능한 라이선스 계약서 PDF 포함.",
+  "headline": "Beats in Mapo-gu & Hapjeong: Hongdae Indie Pulse, Label Studios & Cutting-Edge K-Trap",
+  "description": "The creative epicenter of Korean independent hip-hop labels: sleek minor synth leads, crisp hi-hat rolls, and punchy 808s crafted for recording artists across Mapo, Hapjeong, and Mangwon.",
+  "popularGenres": [
+    "Mapo Indie Trap",
+    "Hapjeong K-Hip-Hop",
+    "Seoul Melodic Beat"
+  ],
+  "subClusters": []
+},
+  "kr/seoul-gangnam-sinsa": {
+  "slug": "kr/seoul-gangnam-sinsa",
+  "name": "South Korea – Seoul: Sinsa-dong & Garosu-gil (Luxury K-Pop Studio & Fashion Forward Trap)",
+  "flag": "🇰🇷",
+  "currency": "KRW (₩) / USD ($)",
+  "currencyCode": "KRW",
+  "gateways": "KakaoPay (카카오페이), Toss (토스), Naver Pay (네이버페이), Korean Cards (국내 카드), Apple Pay, PayPal",
+  "pro": "KOMCA",
+  "proFullName": "KOMCA (한국음악저작권협회 - Korea Music Copyright Association)",
+  "proGuide": "24비트 무손실 스튜디오 WAV 및 멀티트랙 스템(Stems) 즉시 다운로드 제공.",
+  "headline": "Beats in Sinsa & Garosu-gil: Gangnam Luxury Skyline, High-End Synths & Polished 808s",
+  "description": "Where high-fashion trends meet top-tier K-Pop and K-Hip-Hop production: glossy electronic arpeggios, tight danceable kicks, and opulent low-end designed for Sinsa, Apgujeong, and Gangnam studios.",
+  "popularGenres": [
+    "Gangnam Luxury Trap",
+    "Sinsa K-Pop Crossover",
+    "Garosu-gil R&B"
+  ],
+  "subClusters": []
+},
+  "kr/seoul-itaewon-hannam": {
+  "slug": "kr/seoul-itaewon-hannam",
+  "name": "South Korea – Seoul: Hannam-dong & Itaewon (International Fusion & Global K-R&B Hub)",
+  "flag": "🇰🇷",
+  "currency": "KRW (₩) / USD ($)",
+  "currencyCode": "KRW",
+  "gateways": "KakaoPay (카카오페이), Toss (토스), Naver Pay (네이버페이), Korean Cards (국내 카드), Apple Pay, PayPal",
+  "pro": "KOMCA",
+  "proFullName": "KOMCA (한국음악저작권협회 - Korea Music Copyright Association)",
+  "proGuide": "Spotify, Melon, Genie, Apple Music 전 세계 디지털 음원 수익 100% 보장.",
+  "headline": "Beats in Hannam & Itaewon: Namsan Views, Late-Night Vinyl Bars & Silky Krnb Chords",
+  "description": "The multicultural luxury enclave of Seoul: warm Rhodes electric piano progressions, sensual guitar plucks, and smooth pocket basslines crafted for Hannam-dong and Itaewon vocalists.",
+  "popularGenres": [
+    "Krnb Soul Trap",
+    "Itaewon Global Bounce",
+    "Hannam Late-Night R&B"
+  ],
+  "subClusters": []
+},
+  "kr/seoul-yeouido-han-river": {
+  "slug": "kr/seoul-yeouido-han-river",
+  "name": "South Korea – Seoul: Yeouido & Han River (Financial Skyline & Late-Night River Breeze Trap)",
+  "flag": "🇰🇷",
+  "currency": "KRW (₩) / USD ($)",
+  "currencyCode": "KRW",
+  "gateways": "KakaoPay (카카오페이), Toss (토스), Naver Pay (네이버페이), Korean Cards (국내 카드), Apple Pay, PayPal",
+  "pro": "KOMCA",
+  "proFullName": "KOMCA (한국음악저작권협회 - Korea Music Copyright Association)",
+  "proGuide": "100% 로열티 프리 마스터 클리어런스 및 상업용 음원 발매 권리 포함.",
+  "headline": "Beats in Yeouido: Han River Breeze, Olympic Expressway Neon & Nocturnal Trap 808s",
+  "description": "Reflecting the glittering skyscrapers along the Han River: grand emotional piano chords, melancholic atmospheric synth pads, and deep sub-bass for late-night Seoul storytelling.",
+  "popularGenres": [
+    "Han River Nocturnal Trap",
+    "Yeouido Skyline Beat",
+    "Seoul Melodic Rap"
+  ],
+  "subClusters": []
+},
+  "kr/busan-haeundae-gwangalli": {
+  "slug": "kr/busan-haeundae-gwangalli",
+  "name": "South Korea – Busan: Haeundae & Gwangalli (Maritime Neon Drill & Coastal Trap)",
+  "flag": "🇰🇷",
+  "currency": "KRW (₩) / USD ($)",
+  "currencyCode": "KRW",
+  "gateways": "KakaoPay (카카오페이), Toss (토스), Naver Pay (네이버페이), Korean Cards (국내 카드), Apple Pay, PayPal",
+  "pro": "KOMCA",
+  "proFullName": "KOMCA (한국음악저작권협회 - Korea Music Copyright Association)",
+  "proGuide": "카카오페이, 토스, 네이버페이로 원화(KRW ₩) 즉시 간편 결제 및 파일 다운로드.",
+  "headline": "Beats in Haeundae & Gwangalli: Busan Coastal Bridge Lights, Sea Breeze & Heavy Drill",
+  "description": "Korea's vibrant maritime metropolis: cold coastal minor keys, aggressive sliding drill 808s, and fast syncopated hats representing Busan, Haeundae, and Gwangalli street energy.",
+  "popularGenres": [
+    "Busan Coastal Drill",
+    "Haeundae Neon Trap",
+    "Gwangalli Port Beat"
+  ],
+  "subClusters": []
+},
+  "kr/incheon-songdo-smart-city": {
+  "slug": "kr/incheon-songdo-smart-city",
+  "name": "South Korea – Incheon: Songdo International City (Cyberpunk Tech & High-Velocity Trap)",
+  "flag": "🇰🇷",
+  "currency": "KRW (₩) / USD ($)",
+  "currencyCode": "KRW",
+  "gateways": "KakaoPay (카카오페이), Toss (토스), Naver Pay (네이버페이), Korean Cards (국내 카드), Apple Pay, PayPal",
+  "pro": "KOMCA",
+  "proFullName": "KOMCA (한국음악저작권협회 - Korea Music Copyright Association)",
+  "proGuide": "전문 스튜디오 믹싱 및 마스터링을 위한 멀티트랙 스템 파일 제공.",
+  "headline": "Beats in Songdo: Cyberpunk Architecture, Glitch Synths & Futuristic 808 Drops",
+  "description": "Where ultra-modern smart city infrastructure meets futuristic hip-hop: glitchy synthesizer arpeggios, razor-sharp hi-hats, and earthquake sub-bass drops for Incheon creators.",
+  "popularGenres": [
+    "Songdo Cyberpunk Trap",
+    "Incheon Futuristic Drill",
+    "Smart City Beat"
+  ],
+  "subClusters": []
+},
+  "kr/daegu-dongseongno-central": {
+  "slug": "kr/daegu-dongseongno-central",
+  "name": "South Korea – Daegu: Dongseong-ro (Historic Textile & Youth Fashion Street Rap)",
+  "flag": "🇰🇷",
+  "currency": "KRW (₩) / USD ($)",
+  "currencyCode": "KRW",
+  "gateways": "KakaoPay (카카오페이), Toss (토스), Naver Pay (네이버페이), Korean Cards (국내 카드), Apple Pay, PayPal",
+  "pro": "KOMCA",
+  "proFullName": "KOMCA (한국음악저작권협회 - Korea Music Copyright Association)",
+  "proGuide": "KOMCA 및 저작권법 준수 계약서와 디지털 영수증 즉시 발급.",
+  "headline": "Beats in Dongseong-ro: Daegu Youth Alleys, Basin Heat & Punchy Street Kicks",
+  "description": "The passionate urban basin of southeastern Korea: punchy acoustic kicks, dark brass stabs, and relentless trap energy crafted for hungry lyricists across Daegu and Dongseong-ro.",
+  "popularGenres": [
+    "Daegu Street Trap",
+    "Dongseong-ro Cypher Beat",
+    "Basin Heavy 808"
+  ],
+  "subClusters": []
+},
+  "kr/gwangju-geumnamno-art": {
+  "slug": "kr/gwangju-geumnamno-art",
+  "name": "South Korea – Gwangju: Geumnam-ro (Democratic Heart & Conscious Art Hip-Hop)",
+  "flag": "🇰🇷",
+  "currency": "KRW (₩) / USD ($)",
+  "currencyCode": "KRW",
+  "gateways": "KakaoPay (카카오페이), Toss (토스), Naver Pay (네이버페이), Korean Cards (국내 카드), Apple Pay, PayPal",
+  "pro": "KOMCA",
+  "proFullName": "KOMCA (한국음악저작권협회 - Korea Music Copyright Association)",
+  "proGuide": "100% 마스터 및 퍼블리싱 상업용 발매 권리 완벽 보장.",
+  "headline": "Beats in Geumnam-ro: Gwangju Cultural Biennial, Poetic Words & Soulful Trap",
+  "description": "The proud artistic heart of southwestern Korea: warm acoustic grand piano progressions, vintage dust, and conscious hip-hop drum breaks tailored for Gwangju storytellers.",
+  "popularGenres": [
+    "Gwangju Conscious Rap",
+    "Geumnam-ro Boom Bap",
+    "Artistic Soul Trap"
+  ],
+  "subClusters": []
+},
+  "kr/jeonju-hanok-traditional": {
+  "slug": "kr/jeonju-hanok-traditional",
+  "name": "South Korea – Jeonju: Hanok Heritage Village (Joseon Dynasty Gugak & Modern Trap Fusion)",
+  "flag": "🇰🇷",
+  "currency": "KRW (₩) / USD ($)",
+  "currencyCode": "KRW",
+  "gateways": "KakaoPay (카카오페이), Toss (토스), Naver Pay (네이버페이), Korean Cards (국내 카드), Apple Pay, PayPal",
+  "pro": "KOMCA",
+  "proFullName": "KOMCA (한국음악저작권협회 - Korea Music Copyright Association)",
+  "proGuide": "전 세계 음원 스트리밍 사이트 및 유튜브 수익 창출 무제한 허용.",
+  "headline": "Beats in Jeonju Hanok Village: Joseon Gugak Gayageum Riffs & Deep Modern 808s",
+  "description": "Where ancient traditional Korean architecture meets cutting-edge 808s: authentic Gayageum zither plucks, Daegum bamboo flute runs, and modern trap drums for Jeonju creators.",
+  "popularGenres": [
+    "Jeonju Gugak Trap",
+    "Traditional Gayageum Beat",
+    "Joseon Fusion Hip-Hop"
+  ],
+  "subClusters": []
+},
+  "kr/jeju-aewol-coastal-lofi": {
+  "slug": "kr/jeju-aewol-coastal-lofi",
+  "name": "South Korea – Jeju: Aewol & Hallasan (Volcanic Island Tangerine Groves & Ocean Lofi)",
+  "flag": "🇰🇷",
+  "currency": "KRW (₩) / USD ($)",
+  "currencyCode": "KRW",
+  "gateways": "KakaoPay (카카오페이), Toss (토스), Naver Pay (네이버페이), Korean Cards (국내 카드), Apple Pay, PayPal",
+  "pro": "KOMCA",
+  "proFullName": "KOMCA (한국음악저작권협회 - Korea Music Copyright Association)",
+  "proGuide": "다운로드 즉시 사용 가능한 로열티 프리 인스트루멘탈 음원.",
+  "headline": "Beats in Aewol: Jeju Emerald Coastline, Hallasan Mist & Soothing Island Chillhop",
+  "description": "The tranquil volcanic haven of Jeju Island: peaceful acoustic nylon guitars, ocean surf ambiances, and unquantized lofi hip-hop drums tailored for relaxing reflection.",
+  "popularGenres": [
+    "Jeju Island Lofi",
+    "Aewol Coastal Chillhop",
+    "Hallasan Ambient Trap"
+  ],
+  "subClusters": []
+},
 };
