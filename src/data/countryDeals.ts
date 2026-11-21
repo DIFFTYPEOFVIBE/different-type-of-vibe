@@ -39348,4 +39348,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "sg/bedok-east-coast-corridor": {
+  "slug": "sg/bedok-east-coast-corridor",
+  "name": "Singapore – Bedok & East Coast Park (Coastal Heartland & Skate Park Trap)",
+  "flag": "🇸🇬",
+  "currency": "SGD (S$) / USD ($)",
+  "currencyCode": "SGD",
+  "gateways": "PayNow (DBS, POSB, OCBC, UOB), GrabPay, Cards, Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "COMPASS",
+  "proFullName": "COMPASS (Composers and Authors Society of Singapore)",
+  "proGuide": "100% compliant with COMPASS licensing guidelines with instant PDF agreement.",
+  "headline": "Beats in Bedok: East Coast Reservoir Breeze, Skate Park Trap & Coastal Chill",
+  "description": "The quintessential eastern heartland of Singapore: punchy trap kicks, acoustic guitar loops, and relaxing sea breeze lofi crafted for creators across Bedok, Siglap, and Marine Parade.",
+  "popularGenres": [
+    "Bedok Coastal Trap",
+    "East Coast Chillhop",
+    "Skate Park 808"
+  ],
+  "subClusters": []
+},
+  "sg/yishun-khatib-north": {
+  "slug": "sg/yishun-khatib-north",
+  "name": "Singapore – Yishun & Khatib (Northern Heartland Energy & Raw Street Drill)",
+  "flag": "🇸🇬",
+  "currency": "SGD (S$) / USD ($)",
+  "currencyCode": "SGD",
+  "gateways": "PayNow (DBS, POSB, OCBC, UOB), GrabPay, Cards, Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "COMPASS",
+  "proFullName": "COMPASS (Composers and Authors Society of Singapore)",
+  "proGuide": "Pristine 24-bit studio WAV delivery with separated multitrack stem files.",
+  "headline": "Beats in Yishun: Northern Street Energy, Dark Church Bells & Raw 808s",
+  "description": "The famed northern heartland with vibrant youth cyphers: heavy sliding 808s, cold minor piano leads, and relentless drill snares engineered for authentic reality storytelling in Yishun and Khatib.",
+  "popularGenres": [
+    "Yishun Street Drill",
+    "North Heartland Trap",
+    "Raw Reality 808"
+  ],
+  "subClusters": []
+},
+  "sg/toa-payoh-heritage": {
+  "slug": "sg/toa-payoh-heritage",
+  "name": "Singapore – Toa Payoh (Pioneering Town, Dragon Playground & Void Deck Boom Bap)",
+  "flag": "🇸🇬",
+  "currency": "SGD (S$) / USD ($)",
+  "currencyCode": "SGD",
+  "gateways": "PayNow (DBS, POSB, OCBC, UOB), GrabPay, Cards, Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "COMPASS",
+  "proFullName": "COMPASS (Composers and Authors Society of Singapore)",
+  "proGuide": "100% royalty-free clearance on master recordings with commercial licensing.",
+  "headline": "Beats in Toa Payoh: Dragon Playground Heritage, Warm Rhodes & Classic Boom Bap",
+  "description": "The pioneer satellite town with deep historical roots: warm Rhodes electric pianos, dusty vinyl samples, and uncompressed acoustic drums for pure lyricists and conscious Singaporean MCs.",
+  "popularGenres": [
+    "Toa Payoh Boom Bap",
+    "Dragon Playground Lofi",
+    "Heartland Classic Rap"
+  ],
+  "subClusters": []
+},
+  "sg/clementi-west-coast": {
+  "slug": "sg/clementi-west-coast",
+  "name": "Singapore – Clementi & West Coast (University Hub, NUS Youth & Melodic R&B-Trap)",
+  "flag": "🇸🇬",
+  "currency": "SGD (S$) / USD ($)",
+  "currencyCode": "SGD",
+  "gateways": "PayNow (DBS, POSB, OCBC, UOB), GrabPay, Cards, Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "COMPASS",
+  "proFullName": "COMPASS (Composers and Authors Society of Singapore)",
+  "proGuide": "Worldwide digital monetization rights for Spotify, Apple Music, and YouTube.",
+  "headline": "Beats in Clementi: Tertiary Student Energy, Melodic Trap & Smooth R&B",
+  "description": "The student and creative hub of western Singapore (NUS, Ngee Ann, SP): clean nylon guitar arpeggios, polished autotuned chord progressions, and modern pop-trap bounce for campus recording artists.",
+  "popularGenres": [
+    "Clementi Melodic Trap",
+    "University R&B Beat",
+    "West Coast Indie Rap"
+  ],
+  "subClusters": []
+},
+  "sg/bukit-batok-jurong-east": {
+  "slug": "sg/bukit-batok-jurong-east",
+  "name": "Singapore – Bukit Batok & Jurong East (Nature Quarry Park & High-Octane Trap)",
+  "flag": "🇸🇬",
+  "currency": "SGD (S$) / USD ($)",
+  "currencyCode": "SGD",
+  "gateways": "PayNow (DBS, POSB, OCBC, UOB), GrabPay, Cards, Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "COMPASS",
+  "proFullName": "COMPASS (Composers and Authors Society of Singapore)",
+  "proGuide": "Instant PayNow QR checkout in SGD (S$) with immediate file download.",
+  "headline": "Beats in Bukit Batok: Little Guilin Quarry Acoustics, Sharp Snares & Heavy Bass",
+  "description": "Dramatic granite quarry vistas and modern commercial energy: aggressive synth brass, crisp hi-hat rolls, and booming 808 kicks designed for high-energy music videos and gym playlists.",
+  "popularGenres": [
+    "Bukit Batok High Trap",
+    "Jurong East Commercial Beat",
+    "Quarry 808"
+  ],
+  "subClusters": []
+},
+  "sg/punggol-waterway-city": {
+  "slug": "sg/punggol-waterway-city",
+  "name": "Singapore – Punggol & Waterway (Waterfront Digital District & Chill-Trap)",
+  "flag": "🇸🇬",
+  "currency": "SGD (S$) / USD ($)",
+  "currencyCode": "SGD",
+  "gateways": "PayNow (DBS, POSB, OCBC, UOB), GrabPay, Cards, Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "COMPASS",
+  "proFullName": "COMPASS (Composers and Authors Society of Singapore)",
+  "proGuide": "100% original master production cleared for DSP distribution.",
+  "headline": "Beats in Punggol: Waterfront Waterway Promenade, Melodic Plucks & Chill Trap",
+  "description": "The futuristic waterfront eco-town of northeast Singapore: clean marimba plucks, ambient reverb, and relaxed trap rhythms tailored for young millennial creators and indie vloggers.",
+  "popularGenres": [
+    "Punggol Waterfront Trap",
+    "Eco-District Chill Beat",
+    "Northeast Melodic Rap"
+  ],
+  "subClusters": []
+},
+  "sg/sengkang-anchorvale": {
+  "slug": "sg/sengkang-anchorvale",
+  "name": "Singapore – Sengkang & Anchorvale (Northeastern Community & Modern Street Drill)",
+  "flag": "🇸🇬",
+  "currency": "SGD (S$) / USD ($)",
+  "currencyCode": "SGD",
+  "gateways": "PayNow (DBS, POSB, OCBC, UOB), GrabPay, Cards, Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "COMPASS",
+  "proFullName": "COMPASS (Composers and Authors Society of Singapore)",
+  "proGuide": "Direct commercial licensing for club DJs, YouTube sync, and streaming.",
+  "headline": "Beats in Sengkang: Riverside Park Connectors, Fast Counter-Snares & Modern Trap",
+  "description": "The dynamic community of Sengkang and Buangkok: fast-paced hi-hats, hard-hitting kicks, and streetwise Caribbean and drill syncopation for the next generation of Lion City MCs.",
+  "popularGenres": [
+    "Sengkang Street Drill",
+    "Anchorvale Trap Beat",
+    "Northeast Fast Flow"
+  ],
+  "subClusters": []
+},
+  "sg/tiong-bahru-heritage-indie": {
+  "slug": "sg/tiong-bahru-heritage-indie",
+  "name": "Singapore – Tiong Bahru (Art Deco Heritage Estate, Cafe Vinyl & Lofi Chillhop)",
+  "flag": "🇸🇬",
+  "currency": "SGD (S$) / USD ($)",
+  "currencyCode": "SGD",
+  "gateways": "PayNow (DBS, POSB, OCBC, UOB), GrabPay, Cards, Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "COMPASS",
+  "proFullName": "COMPASS (Composers and Authors Society of Singapore)",
+  "proGuide": "Direct stems multitrack download for precision audio mixing.",
+  "headline": "Beats in Tiong Bahru: Art Deco Architecture, Indie Cafes & Smooth Rhodes Lofi",
+  "description": "Singapore's beloved bohemian heritage estate: tape-flutter Rhodes electric pianos, vinyl crackle, and soft brushed drums perfect for relaxed songwriting and cafe aesthetics.",
+  "popularGenres": [
+    "Tiong Bahru Vinyl Lofi",
+    "Art Deco Chillhop",
+    "Heritage Cafe Beat"
+  ],
+  "subClusters": []
+},
+  "sg/chinatown-kreta-ayer": {
+  "slug": "sg/chinatown-kreta-ayer",
+  "name": "Singapore – Chinatown & Kreta Ayer (Heritage Shophouses, Guzheng & Asian Trap)",
+  "flag": "🇸🇬",
+  "currency": "SGD (S$) / USD ($)",
+  "currencyCode": "SGD",
+  "gateways": "PayNow (DBS, POSB, OCBC, UOB), GrabPay, Cards, Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "COMPASS",
+  "proFullName": "COMPASS (Composers and Authors Society of Singapore)",
+  "proGuide": "100% legal protection with downloadable split sheet agreement.",
+  "headline": "Beats in Chinatown: Red Lanterns, Traditional Guzheng & Thunderous 808s",
+  "description": "Historic shophouses and night market bustle: authentic Guzheng (Chinese zither) and Erhu strings fused with modern 808 sub-bass drops for innovative bilingual and Mandopop-trap artists.",
+  "popularGenres": [
+    "Chinatown Guzheng Trap",
+    "Asian Fusion Hip-Hop",
+    "Kreta Ayer Street Beat"
+  ],
+  "subClusters": []
+},
+  "sg/marina-south-clarke-quay": {
+  "slug": "sg/marina-south-clarke-quay",
+  "name": "Singapore – Clarke Quay & Boat Quay (Singapore River Nightlife & Club Banger)",
+  "flag": "🇸🇬",
+  "currency": "SGD (S$) / USD ($)",
+  "currencyCode": "SGD",
+  "gateways": "PayNow (DBS, POSB, OCBC, UOB), GrabPay, Cards, Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "COMPASS",
+  "proFullName": "COMPASS (Composers and Authors Society of Singapore)",
+  "proGuide": "Complete commercial rights with invoice and digital certificate.",
+  "headline": "Beats in Clarke Quay: Singapore River Nightlife, Neon Lights & 130 BPM Drops",
+  "description": "The bustling party and nightlife strip along the Singapore River: driving synth leads, punchy claps, and energetic 808s engineered for high-energy weekend rotation in clubs and festivals.",
+  "popularGenres": [
+    "Clarke Quay Club Trap",
+    "Riverside Nightlife Banger",
+    "Lion City Party Beat"
+  ],
+  "subClusters": []
+},
 };
