@@ -41248,4 +41248,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "ma/sale-tabriquet-hay-karima": {
+  "slug": "ma/sale-tabriquet-hay-karima",
+  "name": "Morocco – Salé: Tabriquet, Bettana & Hay Karima (Twin City Street Reality & Raw Rap)",
+  "flag": "🇲🇦",
+  "currency": "MAD (د.م.) / USD ($)",
+  "currencyCode": "MAD",
+  "gateways": "CMI (Centre Monétique Interbancaire), Wafacash, Cash Plus, Inwi Money, Orange Money Maroc, MT Cash, Apple Pay, Cards, PayPal",
+  "pro": "BMDA / SACEM",
+  "proFullName": "BMDA (Bureau Marocain du Droit d'Auteur / المكتب المغربي لحقوق المؤلفين) / SACEM",
+  "proGuide": "100% compliant with Moroccan Copyright Law No. 2-00 and SACEM international licensing with instant PDF contract.",
+  "headline": "Beats in Salé: Tabriquet Street Hustle, Bettana Alleys & Relentless 808s",
+  "description": "The densely populated sister city of Rabat across the Bouregreg: raw underground rap flows, heavy distorted 808s, and authentic street storytelling for MCs in Salé and Hay Karima.",
+  "popularGenres": [
+    "Salé Street Rap",
+    "Hardcore 808 Trap",
+    "Bouregreg Drill"
+  ],
+  "subClusters": []
+},
+  "ma/kenitra-mehdia-gharbaoui": {
+  "slug": "ma/kenitra-mehdia-gharbaoui",
+  "name": "Morocco – Kénitra & Mehdia Beach (Gharb Industrial Growth & Atlantic Port Bounce)",
+  "flag": "🇲🇦",
+  "currency": "MAD (د.م.) / USD ($)",
+  "currencyCode": "MAD",
+  "gateways": "CMI (Centre Monétique Interbancaire), Wafacash, Cash Plus, Inwi Money, Orange Money Maroc, MT Cash, Apple Pay, Cards, PayPal",
+  "pro": "BMDA / SACEM",
+  "proFullName": "BMDA (Bureau Marocain du Droit d'Auteur / المكتب المغربي لحقوق المؤلفين) / SACEM",
+  "proGuide": "Pristine 24-bit studio WAV delivery with separated multitrack stem files.",
+  "headline": "Beats in Kénitra: Mehdia Atlantic Surf, Gharb Youth Energy & Modern Trap",
+  "description": "The rapidly expanding industrial and university hub of the Gharb basin: bouncy rhythmic hi-hats, warm electric pianos, and energetic trap drops tailored for Kénitra and Mehdia creators.",
+  "popularGenres": [
+    "Kénitra Modern Trap",
+    "Mehdia Surf Bounce",
+    "Gharb Hip-Hop"
+  ],
+  "subClusters": []
+},
+  "ma/safi-atlantic-sardine-pottery": {
+  "slug": "ma/safi-atlantic-sardine-pottery",
+  "name": "Morocco – Safi: Atlantic Coast (Cradle of Shayfeen & West Coast Moroccan Trap)",
+  "flag": "🇲🇦",
+  "currency": "MAD (د.م.) / USD ($)",
+  "currencyCode": "MAD",
+  "gateways": "CMI (Centre Monétique Interbancaire), Wafacash, Cash Plus, Inwi Money, Orange Money Maroc, MT Cash, Apple Pay, Cards, PayPal",
+  "pro": "BMDA / SACEM",
+  "proFullName": "BMDA (Bureau Marocain du Droit d'Auteur / المكتب المغربي لحقوق المؤلفين) / SACEM",
+  "proGuide": "100% royalty-free clearance on master recordings with commercial licensing.",
+  "headline": "Beats in Safi: Atlantic Ocean Clifftops, Pottery Capital & Pioneer Trap Roots",
+  "description": "The historic Atlantic coastal city that birthed Moroccan trap legends Shayfeen, Small X, and Shobee: dark atmospheric pads, sliding sub-bass, and world-class trap arrangements for Safi recording artists.",
+  "popularGenres": [
+    "Safi Pioneer Trap",
+    "West Coast Cloud Rap",
+    "Atlantic 808"
+  ],
+  "subClusters": []
+},
+  "ma/mohammedia-fedala-coastal": {
+  "slug": "ma/mohammedia-fedala-coastal",
+  "name": "Morocco – Mohammedia: Fedala (City of Roses & Coastal Student Melodic Trap)",
+  "flag": "🇲🇦",
+  "currency": "MAD (د.م.) / USD ($)",
+  "currencyCode": "MAD",
+  "gateways": "CMI (Centre Monétique Interbancaire), Wafacash, Cash Plus, Inwi Money, Orange Money Maroc, MT Cash, Apple Pay, Cards, PayPal",
+  "pro": "BMDA / SACEM",
+  "proFullName": "BMDA (Bureau Marocain du Droit d'Auteur / المكتب المغربي لحقوق المؤلفين) / SACEM",
+  "proGuide": "Worldwide digital monetization rights for Spotify, Apple Music, Anghami, Deezer, and YouTube.",
+  "headline": "Beats in Mohammedia: Fedala Coastal Breeze, University Energy & Smooth Melodies",
+  "description": "The picturesque coastal city between Casablanca and Rabat: smooth acoustic guitar loops, melancholic vocal chops, and bouncy modern trap rhythms crafted for Mohammedia's vibrant student scene.",
+  "popularGenres": [
+    "Mohammedia Melodic Trap",
+    "Fedala Chillhop",
+    "Coastal R&B Beat"
+  ],
+  "subClusters": []
+},
+  "ma/nador-rif-coast-melilla": {
+  "slug": "ma/nador-rif-coast-melilla",
+  "name": "Morocco – Nador & Eastern Rif (Marchica Lagoon, Melilla Frontier & Riffian Drill)",
+  "flag": "🇲🇦",
+  "currency": "MAD (د.م.) / USD ($)",
+  "currencyCode": "MAD",
+  "gateways": "CMI (Centre Monétique Interbancaire), Wafacash, Cash Plus, Inwi Money, Orange Money Maroc, MT Cash, Apple Pay, Cards, PayPal",
+  "pro": "BMDA / SACEM",
+  "proFullName": "BMDA (Bureau Marocain du Droit d'Auteur / المكتب المغربي لحقوق المؤلفين) / SACEM",
+  "proGuide": "Instant CMI card, Wafacash, and Cash Plus checkout in MAD (د.م.) with immediate file download.",
+  "headline": "Beats in Nador: Marchica Lagoon, Rif Mountain Heritage & Heavyweight Drill 808s",
+  "description": "The proud Mediterranean frontier city: cold minor brass, rapid syncopated drill hats, and subterranean sliding 808s engineered for trilingual Tarifit, Spanish, and Darija MCs in Nador.",
+  "popularGenres": [
+    "Nador Riffian Drill",
+    "Border Trap Beat",
+    "Eastern Rif Rap"
+  ],
+  "subClusters": []
+},
+  "ma/el-jadida-mazagan-doukkala": {
+  "slug": "ma/el-jadida-mazagan-doukkala",
+  "name": "Morocco – El Jadida & Mazagan (Portuguese Fortress & Doukkala Rhythm)",
+  "flag": "🇲🇦",
+  "currency": "MAD (د.م.) / USD ($)",
+  "currencyCode": "MAD",
+  "gateways": "CMI (Centre Monétique Interbancaire), Wafacash, Cash Plus, Inwi Money, Orange Money Maroc, MT Cash, Apple Pay, Cards, PayPal",
+  "pro": "BMDA / SACEM",
+  "proFullName": "BMDA (Bureau Marocain du Droit d'Auteur / المكتب المغربي لحقوق المؤلفين) / SACEM",
+  "proGuide": "100% original master production cleared for DSP distribution.",
+  "headline": "Beats in El Jadida: Historic Mazagan Ramparts, Atlantic Waves & Doukkala Bounce",
+  "description": "Where 16th-century Portuguese fortress walls meet Atlantic breakers: lively syncopated percussion, warm acoustic guitars, and punchy 808s for El Jadida and Doukkala artists.",
+  "popularGenres": [
+    "Mazagan Coastal Trap",
+    "Doukkala Folk Beat",
+    "Atlantic R&B"
+  ],
+  "subClusters": []
+},
+  "ma/beni-mellal-tadla-atlas": {
+  "slug": "ma/beni-mellal-tadla-atlas",
+  "name": "Morocco – Béni Mellal & Tadla Plain (Foot of the Middle Atlas & Mountain Rap)",
+  "flag": "🇲🇦",
+  "currency": "MAD (د.م.) / USD ($)",
+  "currencyCode": "MAD",
+  "gateways": "CMI (Centre Monétique Interbancaire), Wafacash, Cash Plus, Inwi Money, Orange Money Maroc, MT Cash, Apple Pay, Cards, PayPal",
+  "pro": "BMDA / SACEM",
+  "proFullName": "BMDA (Bureau Marocain du Droit d'Auteur / المكتب المغربي لحقوق المؤلفين) / SACEM",
+  "proGuide": "Direct commercial licensing for club DJs, YouTube sync, and streaming.",
+  "headline": "Beats in Béni Mellal: Ain Asserdoun Springs, Atlas Mountain Shadows & Heavy Bass",
+  "description": "The gateway city at the foot of the snow-capped Atlas mountains: acoustic flute runs, deep 808 sub-bass, and driving rhythm patterns reflecting the proud spirit of Béni Mellal and Tadla.",
+  "popularGenres": [
+    "Béni Mellal Mountain Trap",
+    "Atlas Folk Rap",
+    "Tadla 808 Beat"
+  ],
+  "subClusters": []
+},
+  "ma/essaouira-mogador-gnawa-capital": {
+  "slug": "ma/essaouira-mogador-gnawa-capital",
+  "name": "Morocco – Essaouira: Mogador (World Capital of Gnawa & Atlantic Trance Fusion)",
+  "flag": "🇲🇦",
+  "currency": "MAD (د.م.) / USD ($)",
+  "currencyCode": "MAD",
+  "gateways": "CMI (Centre Monétique Interbancaire), Wafacash, Cash Plus, Inwi Money, Orange Money Maroc, MT Cash, Apple Pay, Cards, PayPal",
+  "pro": "BMDA / SACEM",
+  "proFullName": "BMDA (Bureau Marocain du Droit d'Auteur / المكتب المغربي لحقوق المؤلفين) / SACEM",
+  "proGuide": "Direct stems multitrack download for precision audio mixing.",
+  "headline": "Beats in Essaouira: Mogador Sea Winds, World Gnawa Festival & Hypnotic Guembri",
+  "description": "The spiritual worldwide capital of Gnawa trance: deep camel-leather Guembri bass, clacking iron Qraqeb castanets, and modern sub-bass crafted for Essaouira's global music pioneers.",
+  "popularGenres": [
+    "Essaouira Gnawa Trap",
+    "Mogador Trance Beat",
+    "Atlantic World Fusion"
+  ],
+  "subClusters": []
+},
+  "ma/laayoune-sahara-hassani": {
+  "slug": "ma/laayoune-sahara-hassani",
+  "name": "Morocco – Laâyoune & Western Sahara (Hassani Desert Culture & Tidinit Lofi)",
+  "flag": "🇲🇦",
+  "currency": "MAD (د.م.) / USD ($)",
+  "currencyCode": "MAD",
+  "gateways": "CMI (Centre Monétique Interbancaire), Wafacash, Cash Plus, Inwi Money, Orange Money Maroc, MT Cash, Apple Pay, Cards, PayPal",
+  "pro": "BMDA / SACEM",
+  "proFullName": "BMDA (Bureau Marocain du Droit d'Auteur / المكتب المغربي لحقوق المؤلفين) / SACEM",
+  "proGuide": "100% legal protection with downloadable split sheet agreement.",
+  "headline": "Beats in Laâyoune: Sahara Desert Dunes, Hassani Tidinit Lute & Serene 808s",
+  "description": "The southern desert crossroads: acoustic Tidinit lute progressions, Saharan nomadic blues guitar phrasing, and warm modern hip-hop drums tailored for artists across Laâyoune and the Sahara.",
+  "popularGenres": [
+    "Hassani Desert Trap",
+    "Sahara Blues Beat",
+    "Laâyoune Chillhop"
+  ],
+  "subClusters": []
+},
+  "ma/taza-bab-el-mrouj-rif": {
+  "slug": "ma/taza-bab-el-mrouj-rif",
+  "name": "Morocco – Taza & Middle Atlas Pass (Historic Mountain Stronghold & Raw 808s)",
+  "flag": "🇲🇦",
+  "currency": "MAD (د.م.) / USD ($)",
+  "currencyCode": "MAD",
+  "gateways": "CMI (Centre Monétique Interbancaire), Wafacash, Cash Plus, Inwi Money, Orange Money Maroc, MT Cash, Apple Pay, Cards, PayPal",
+  "pro": "BMDA / SACEM",
+  "proFullName": "BMDA (Bureau Marocain du Droit d'Auteur / المكتب المغربي لحقوق المؤلفين) / SACEM",
+  "proGuide": "Complete commercial rights with invoice and digital certificate.",
+  "headline": "Beats in Taza: Bab El Mrouj Pass, Mountain Strongholds & Uncompromising Trap",
+  "description": "The strategic gateway connecting the Rif and Atlas ranges: dramatic mountain acoustic melodies, piercing flute riffs, and heavy bass drops capturing the resilient spirit of Taza.",
+  "popularGenres": [
+    "Taza Mountain Trap",
+    "Atlas Gateway Beat",
+    "Rif Corridor Rap"
+  ],
+  "subClusters": []
+},
 };
