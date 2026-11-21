@@ -42578,4 +42578,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "nz/auckland-south-central": {
+  "slug": "nz/auckland-south-central",
+  "name": "New Zealand – Auckland: South Auckland & Central (Polynesian Hip-Hop & Island Drill Epicenter)",
+  "flag": "🇳🇿",
+  "currency": "NZD ($) / USD ($)",
+  "currencyCode": "NZD",
+  "gateways": "POLi, Bank Transfer, Apple Pay, Google Pay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "APRA AMCOS",
+  "proFullName": "APRA AMCOS (Australasian Performing Right Association & Copyright Society)",
+  "proGuide": "100% compliant with New Zealand Copyright Act and APRA AMCOS registration with instant signed PDF license agreement.",
+  "headline": "Beats in South Auckland: Otara & Mangere Heritage, Pacific Island Soul & Heavy Drill 808s",
+  "description": "The undisputed capital of Polynesian and Pasifika hip-hop: warm brass stabs, soulful choir pads, and heavy sliding 808 sub-bass drops crafted for Auckland, Otara, and Mangere lyricists.",
+  "popularGenres": [
+    "Island Drill",
+    "Polynesian Hip-Hop",
+    "South Auckland Street Trap"
+  ],
+  "subClusters": []
+},
+  "nz/wellington-te-whanganui": {
+  "slug": "nz/wellington-te-whanganui",
+  "name": "New Zealand – Wellington: Te Whanganui-a-Tara (Capital City Underground Beats & Electronic Hip-Hop)",
+  "flag": "🇳🇿",
+  "currency": "NZD ($) / USD ($)",
+  "currencyCode": "NZD",
+  "gateways": "POLi, Bank Transfer, Apple Pay, Google Pay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "APRA AMCOS",
+  "proFullName": "APRA AMCOS (Australasian Performing Right Association & Copyright Society)",
+  "proGuide": "Pristine uncompressed 24-bit studio WAV delivery with separated multitrack stem files.",
+  "headline": "Beats in Wellington: Windy City Harbour, Dub-Infused Basslines & Conscious Hip-Hop",
+  "description": "The creative and cultural soul of Aotearoa: deep sub-dub frequencies, warm Rhodes keyboards, and unquantized organic swing drums for conscious Wellington and Te Whanganui-a-Tara MCs.",
+  "popularGenres": [
+    "Wellington Conscious Rap",
+    "Dub-Trap Fusion",
+    "Capital Indie Hip-Hop"
+  ],
+  "subClusters": []
+},
+  "nz/christchurch-otautahi": {
+  "slug": "nz/christchurch-otautahi",
+  "name": "New Zealand – Christchurch & Canterbury (South Island Electronic Trap & Drum & Bass Fusion)",
+  "flag": "🇳🇿",
+  "currency": "NZD ($) / USD ($)",
+  "currencyCode": "NZD",
+  "gateways": "POLi, Bank Transfer, Apple Pay, Google Pay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "APRA AMCOS",
+  "proFullName": "APRA AMCOS (Australasian Performing Right Association & Copyright Society)",
+  "proGuide": "Worldwide digital monetization rights for Spotify, Apple Music, YouTube, and NZ on Air radio.",
+  "headline": "Beats in Christchurch: Southern Alps Horizon, Rolling Basslines & High-Velocity Trap",
+  "description": "The electronic music capital of New Zealand's South Island: rolling sub-basslines, icy synth leads, and punchy kicks engineered for Christchurch, Otautahi, and Canterbury artists.",
+  "popularGenres": [
+    "South Island Electronic Trap",
+    "Christchurch Bass Beat",
+    "Canterbury Street Drill"
+  ],
+  "subClusters": []
+},
+  "nz/hamilton-waikato": {
+  "slug": "nz/hamilton-waikato",
+  "name": "New Zealand – Hamilton & Waikato (River City Street Rap & Heavyweight Drill)",
+  "flag": "🇳🇿",
+  "currency": "NZD ($) / USD ($)",
+  "currencyCode": "NZD",
+  "gateways": "POLi, Bank Transfer, Apple Pay, Google Pay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "APRA AMCOS",
+  "proFullName": "APRA AMCOS (Australasian Performing Right Association & Copyright Society)",
+  "proGuide": "100% royalty-free clearance on master recordings with commercial licensing.",
+  "headline": "Beats in Hamilton: Waikato River Banks, Industrial Grit & Heavyweight 808s",
+  "description": "The tough, passionate heart of the Waikato region: aggressive brass hits, rapid syncopated drill hats, and deep sub-bass designed for raw street storytelling in Hamilton and surrounding towns.",
+  "popularGenres": [
+    "Waikato Street Drill",
+    "Hamilton Raw Rap",
+    "River City Heavy 808"
+  ],
+  "subClusters": []
+},
+  "au/sydney-western-parramatta": {
+  "slug": "au/sydney-western-parramatta",
+  "name": "Australia – Western Sydney: Parramatta, Blacktown & Bankstown (2150 Multicultural Rap Engine)",
+  "flag": "🇦🇺",
+  "currency": "AUD ($) / USD ($)",
+  "currencyCode": "AUD",
+  "gateways": "PayID, Beem, Apple Pay, Google Pay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "APRA AMCOS",
+  "proFullName": "APRA AMCOS (Australasian Performing Right Association & Copyright Society)",
+  "proGuide": "Instant PayID, Beem, and card checkout in AUD ($) with immediate automated download.",
+  "headline": "Beats in Western Sydney: Parramatta Skyline, Blacktown Energy & 2150 Street Trap",
+  "description": "The multicultural commercial engine of Australian hip-hop: dark minor pianos, hard sliding 808s, and authentic street reality bounce for Western Sydney, Parramatta, Blacktown, and Bankstown MCs.",
+  "popularGenres": [
+    "Western Sydney Drill",
+    "2150 Street Rap",
+    "Area Trap 808"
+  ],
+  "subClusters": []
+},
+  "au/melbourne-st-albans-west": {
+  "slug": "au/melbourne-st-albans-west",
+  "name": "Australia – Melbourne: St Albans, Footscray & Sunshine (3021/3011 Westside Drill Axis)",
+  "flag": "🇦🇺",
+  "currency": "AUD ($) / USD ($)",
+  "currencyCode": "AUD",
+  "gateways": "PayID, Beem, Apple Pay, Google Pay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "APRA AMCOS",
+  "proFullName": "APRA AMCOS (Australasian Performing Right Association & Copyright Society)",
+  "proGuide": "Pristine multitrack stems and 24-bit WAV files included for studio vocal mixing.",
+  "headline": "Beats in Melbourne West: St Albans 3021, Footscray Alleys & Menacing Drill",
+  "description": "The gritty, high-octane western suburbs of Melbourne: cold synthesizer bells, two-octave 808 portamento slides, and tight rimshots tailored for St Albans, Footscray, and Sunshine drill artists.",
+  "popularGenres": [
+    "Melbourne West Drill",
+    "3021 Street Rap",
+    "Footscray 808 Trap"
+  ],
+  "subClusters": []
+},
+  "au/melbourne-dandenong-southeast": {
+  "slug": "au/melbourne-dandenong-southeast",
+  "name": "Australia – Melbourne: Dandenong & Noble Park (3175 South-East Street Heat & Afro-Drill)",
+  "flag": "🇦🇺",
+  "currency": "AUD ($) / USD ($)",
+  "currencyCode": "AUD",
+  "gateways": "PayID, Beem, Apple Pay, Google Pay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "APRA AMCOS",
+  "proFullName": "APRA AMCOS (Australasian Performing Right Association & Copyright Society)",
+  "proGuide": "Commercial rights with instant invoice and downloadable APRA AMCOS split sheet.",
+  "headline": "Beats in Dandenong: 3175 South-East Heartbeat, Afro-Drill Bounce & Deep Sub-Bass",
+  "description": "The multicultural powerhouse of Melbourne's south-east: syncopated Afro-drill percussion, warm brass stabs, and rumbling sub-bass for Dandenong, Noble Park, and Cranbourne creators.",
+  "popularGenres": [
+    "Dandenong Afro-Drill",
+    "3175 Street Heat",
+    "South-East Bounce"
+  ],
+  "subClusters": []
+},
+  "au/brisbane-logan-ipswich": {
+  "slug": "au/brisbane-logan-ipswich",
+  "name": "Australia – Logan City & Ipswich (South East Queensland Pasifika Drill & Street Rap)",
+  "flag": "🇦🇺",
+  "currency": "AUD ($) / USD ($)",
+  "currencyCode": "AUD",
+  "gateways": "PayID, Beem, Apple Pay, Google Pay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "APRA AMCOS",
+  "proFullName": "APRA AMCOS (Australasian Performing Right Association & Copyright Society)",
+  "proGuide": "100% master ownership with zero royalties owed to the producer.",
+  "headline": "Beats in Logan City & Ipswich: SEQ Sun, Island Pride & Cavernous Drill Basslines",
+  "description": "The thriving Pasifika and Maori urban stronghold of South East Queensland: soaring brass fanfares, choral vocal textures, and earthquake 808s crafted for Logan, Woodridge, and Ipswich MCs.",
+  "popularGenres": [
+    "Logan Island Drill",
+    "SEQ Street Rap",
+    "Ipswich Heavy 808"
+  ],
+  "subClusters": []
+},
+  "au/cairns-townsville-fnq": {
+  "slug": "au/cairns-townsville-fnq",
+  "name": "Australia – Cairns & Townsville (Far North Queensland Indigenous Hip-Hop & Tropical Trap)",
+  "flag": "🇦🇺",
+  "currency": "AUD ($) / USD ($)",
+  "currencyCode": "AUD",
+  "gateways": "PayID, Beem, Apple Pay, Google Pay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "APRA AMCOS",
+  "proFullName": "APRA AMCOS (Australasian Performing Right Association & Copyright Society)",
+  "proGuide": "Complete commercial rights for DSP streaming, radio, and sync licensing.",
+  "headline": "Beats in Cairns & FNQ: Great Barrier Reef Coast, Indigenous Didgeridoo & Tropical Trap",
+  "description": "Where tropical rainforest meets ancient Indigenous culture: authentic Yidaki overtone drones, clapstick polyrhythms, and crisp modern trap drums for Cairns, Townsville, and FNQ artists.",
+  "popularGenres": [
+    "FNQ Indigenous Trap",
+    "Tropical Coastal Beat",
+    "Cairns Street Rap"
+  ],
+  "subClusters": []
+},
+  "au/central-coast-gosford": {
+  "slug": "au/central-coast-gosford",
+  "name": "Australia – Central Coast: Gosford & Wyong (NSW Coastline Melodic Rap & Summer Trap)",
+  "flag": "🇦🇺",
+  "currency": "AUD ($) / USD ($)",
+  "currencyCode": "AUD",
+  "gateways": "PayID, Beem, Apple Pay, Google Pay, Cards (Visa/Mastercard), PayPal, Stripe",
+  "pro": "APRA AMCOS",
+  "proFullName": "APRA AMCOS (Australasian Performing Right Association & Copyright Society)",
+  "proGuide": "Direct commercial licensing for club DJs, YouTube sync, and streaming.",
+  "headline": "Beats on the Central Coast: Pacific Ocean Beaches, Gosford Energy & Melodic Guitars",
+  "description": "The sun-drenched coastline between Sydney and Newcastle: warm acoustic surf guitar strumming, catchy melodic synths, and bouncy 808 pockets for Gosford, Wyong, and Coast creators.",
+  "popularGenres": [
+    "Central Coast Melodic Rap",
+    "NSW Coastal Trap",
+    "Surf City 808"
+  ],
+  "subClusters": []
+},
 };

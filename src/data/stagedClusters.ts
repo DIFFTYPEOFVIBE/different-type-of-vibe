@@ -130296,4 +130296,1296 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "1"
   ]
 },
+  {
+  "slug": "onefour-welcome-to-prison-heavy-drill",
+  "title": "ONEFOUR Mount Druitt Pioneers Heavy Subterranean Aussie Drill Beat",
+  "description": "The definitive Australian drill instrumental inspired by ONEFOUR (The Message, Welcome to Prison, Better, Street Guide), featuring earthquake sliding 808 sub-bass, cold minor brass, and raw street momentum.",
+  "targetKeywords": [
+    "onefour type beat 2024",
+    "mount druitt drill beat",
+    "australian drill instrumental",
+    "onefour the message beat",
+    "heavy sliding 808 drill aus"
+  ],
+  "heroCta": "Buy ONEFOUR Style Beat (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hardcore Street Single, Car Audio Bass Demonstration and Gym Workout Track",
+  "similarArtists": [
+    "ONEFOUR",
+    "HP Boyz",
+    "Central Cee",
+    "Headie One"
+  ],
+  "recommendedBpm": "141-144 BPM",
+  "productionTips": "Heavy two-octave 808 portamento bends layered with dry, clipped acoustic rimshots and menacing brass.",
+  "idealVocalStyle": "Aggressive, gravelly Australian/Pacific accents, relentless street punchlines, and brotherhood anthems.",
+  "suggestedKey": "C Minor / E Minor",
+  "streamingSuitability": "Guaranteed top streaming numbers on A1 Hip-Hop, Spotify Australia Top 50, and drill playlists."
+},
+  {
+  "slug": "the-kid-laroi-thousand-miles-pop-rap",
+  "title": "The Kid LAROI Thousand Miles Emotional Acoustic Pop-Rap & Trap Beat",
+  "description": "Chart-topping, globally streamed melodic pop-rap instrumental inspired by The Kid LAROI (Thousand Miles, WITHOUT YOU, Stay, Bleed), with catchy acoustic guitar strumming, soaring strings, and high-energy 808s.",
+  "targetKeywords": [
+    "the kid laroi type beat",
+    "thousand miles laroi instrumental",
+    "australian acoustic pop rap beat",
+    "melodic guitar trap beat 2024",
+    "laroi without you beat"
+  ],
+  "heroCta": "Buy Kid LAROI Style Beat (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Global Mainstream Pop Single, Radio Airplay Banger and TikTok Viral Sound",
+  "similarArtists": [
+    "The Kid LAROI",
+    "Post Malone",
+    "Juice WRLD",
+    "Justin Bieber"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "productionTips": "Dynamic stereo acoustic guitar loops layered with high-impact pop-trap kicks and anthemic vocal chants.",
+  "idealVocalStyle": "Passionate, raspy emotional singing, soaring vocal runs, and stadium-sized singalong hooks.",
+  "suggestedKey": "F# Minor / A Major",
+  "streamingSuitability": "Universal top 40 radio formatting, multi-platinum streaming numbers, and massive viral sync potential."
+},
+  {
+  "slug": "hp-boyz-engineers-island-drill-bounce",
+  "title": "HP Boyz Engineers Polynesian Island Drill & Harmonic Choral Beat",
+  "description": "Infectious, soulful Polynesian/Pasifika drill bounce inspired by HP Boyz (Engineers, Bad Habits, Rumours, Move), blending sweet island choral pads, punchy sliding bass, and bouncy street rhythms.",
+  "targetKeywords": [
+    "hp boyz type beat",
+    "engineers hp boyz instrumental",
+    "polynesian island drill beat",
+    "pasifika drill bounce",
+    "hp boyz bad habits beat"
+  ],
+  "heroCta": "Buy HP Boyz Style Beat (Instant WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Island Drill Single, High-Replay TikTok Sound and Car Cruising Street Track",
+  "similarArtists": [
+    "HP Boyz",
+    "ONEFOUR",
+    "Lisi",
+    "Scribe"
+  ],
+  "recommendedBpm": "138-142 BPM",
+  "productionTips": "Warm harmonic vocal pads layered over syncopated drill percussion and round, melodic sub-bass glides.",
+  "idealVocalStyle": "Catchy melodic toplines, confident island cadence, rhythmic flow switches, and brotherhood lyrics.",
+  "suggestedKey": "D Minor / G Minor",
+  "streamingSuitability": "Dominates urban streaming across Australia, New Zealand, the Pacific Islands, and the UK."
+},
+  {
+  "slug": "hooligan-hefs-no-fun-hardstyle-bounce",
+  "title": "Hooligan Hefs Western Sydney Hardstyle-Rap & Party Bounce Beat",
+  "description": "High-octane Australian party rap and hardstyle crossover instrumental inspired by Hooligan Hefs (No Fun, Tell 'Em I'm Doing Eshay, Send It, Party More), with rave synth leads, punchy kicks, and bouncy bass.",
+  "targetKeywords": [
+    "hooligan hefs type beat",
+    "hardstyle rap beat australia",
+    "eshay bounce instrumental",
+    "hooligan hefs no fun beat",
+    "party rap beat 130 bpm"
+  ],
+  "heroCta": "Buy Hooligan Hefs Beat (WAV 24-bit)",
+  "energyLevel": "Maximum",
+  "primaryUse": "Festival Banger, High-Energy Party Track and Viral TikTok Challenge",
+  "similarArtists": [
+    "Hooligan Hefs",
+    "ONEFOUR",
+    "Timmy Trumpet",
+    "Restricted"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "productionTips": "Driving four-on-the-floor rave kicks combined with syncopated Melbourne bounce basslines and bright synth leads.",
+  "idealVocalStyle": "High-energy party shouts, humorous Aussie street slang, and crowd-moving chant choruses.",
+  "suggestedKey": "A Minor / E Minor",
+  "streamingSuitability": "Explosive festival response, club DJ sets, gym workout playlists, and viral social media trends."
+},
+  {
+  "slug": "chillinit-women-weed-wordplay-grime",
+  "title": "ChillinIT 420 High-Speed Lyrical Grime-Trap & Double-Time Beat",
+  "description": "Blazing fast, technical Australian hip-hop instrumental inspired by ChillinIT (Women Weed & Wordplay, Stand for, Henny & Reefer), featuring rapid 140 BPM grime percussion, brass hits, and sliding 808s.",
+  "targetKeywords": [
+    "chillinit type beat",
+    "australian fast flow grime beat",
+    "chillinit wordplay instrumental",
+    "140 bpm uk aussie grime beat",
+    "lyrical double time trap beat"
+  ],
+  "heroCta": "Buy ChillinIT Style Beat (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "High-Velocity Lyrical Cypher, Technical Rap Single and Breathless Flow Display",
+  "similarArtists": [
+    "ChillinIT",
+    "Wombat",
+    "Nerve",
+    "Kerser"
+  ],
+  "recommendedBpm": "138-142 BPM",
+  "productionTips": "Fast 140 BPM UK-style grime percussion layered with modern 808 glides and punchy acoustic rimshots.",
+  "idealVocalStyle": "Breathless double-time syllable delivery, intricate internal rhymes, witty pop-culture punchlines, and raw speed.",
+  "suggestedKey": "B Minor / D Minor",
+  "streamingSuitability": "Massive engagement on rap reaction channels, lyrical hip-hop playlists, and Australian festival stages."
+},
+  {
+  "slug": "kerser-king-of-campbelltown-road-rap",
+  "title": "Kerser Campbelltown King of Aussie Road Rap & Acoustic Piano Beat",
+  "description": "Raw, gritty and triumphant Australian road rap instrumental inspired by Kerser (King, The Nebula, No Rest for the Sickest, Bad Habits), with dramatic grand piano chords and heavy analog kicks.",
+  "targetKeywords": [
+    "kerser type beat",
+    "aussie road rap instrumental",
+    "campbelltown 2560 rap beat",
+    "kerser king type beat",
+    "gritty australian hip hop beat"
+  ],
+  "heroCta": "Buy Kerser Style Beat (Instant WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Gritty Road Rap Single, Street Documentary Soundtrack and Triumphant Anthem",
+  "similarArtists": [
+    "Kerser",
+    "Fortay",
+    "Rates",
+    "Complete"
+  ],
+  "recommendedBpm": "88-94 / 130 BPM",
+  "productionTips": "Grand acoustic piano stabs with subtle hall reverb layered over punchy boom-trap drums and round sub-bass.",
+  "idealVocalStyle": "Aggressive, nasal, unapologetic Australian working-class delivery, raw street chronicles, and defiant hooks.",
+  "suggestedKey": "D Minor / A Minor",
+  "streamingSuitability": "Long-standing cult loyalty across Australian street rap channels, YouTube, and regional tours."
+},
+  {
+  "slug": "stan-walker-soulful-maori-rnb-trap",
+  "title": "Stan Walker Soulful Maori Gospel Harmonies & Pacific R&B-Trap Beat",
+  "description": "Inspiring, soulful Maori and Pasifika R&B-trap instrumental inspired by Stan Walker (Bigger/Te Aroha, Thank You, Take It Easy, Give), featuring soaring gospel choir pads, Rhodes chords, and warm 808s.",
+  "targetKeywords": [
+    "stan walker type beat",
+    "maori soulful rnb beat",
+    "pacific gospel trap instrumental",
+    "new zealand soul beat",
+    "te aroha style trap"
+  ],
+  "heroCta": "Buy Soulful Maori Beat (WAV 24-bit)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Inspirational Single, Cultural Anthem and Emotional Radio Ballad",
+  "similarArtists": [
+    "Stan Walker",
+    "Teeks",
+    "Six60",
+    "L.A.B."
+  ],
+  "recommendedBpm": "95-105 / 125 BPM",
+  "productionTips": "Rich multi-layered choir harmonies with warm electric piano and round, warm analog sub-bass.",
+  "idealVocalStyle": "Soaring, emotional Maori/English singing, passionate gospel vocal runs, and heartfelt lyrics.",
+  "suggestedKey": "Ab Major / F Minor",
+  "streamingSuitability": "Massive cultural crossover appeal across New Zealand, Australia, and international gospel/soul charts."
+},
+  {
+  "slug": "didgeridoo-yidaki-indigenous-drone-trap",
+  "title": "Indigenous Australian Yidaki Didgeridoo & Ancient Drone 808 Trap Beat",
+  "description": "Awe-inspiring cultural fusion blending authentic Indigenous Australian Yidaki (Didgeridoo) circular-breathing drones and Bilma clapsticks with thunderous modern 808 trap sub-bass drops.",
+  "targetKeywords": [
+    "didgeridoo trap beat",
+    "yidaki hip hop beat",
+    "indigenous australian rap beat",
+    "aboriginal trap beat 808",
+    "didgeridoo bass drop trap"
+  ],
+  "heroCta": "Buy Didgeridoo Trap Beat (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Cultural Masterpiece, Festival Headline Showcase and Film/Docu Soundtrack",
+  "similarArtists": [
+    "Baker Boy",
+    "Barkaa",
+    "Briggs",
+    "King Stingray"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "productionTips": "Acoustic Yidaki harmonic resonances captured with low-end clarity layered over deep sub-bass frequencies.",
+  "idealVocalStyle": "Powerful Indigenous storytelling, passionate chants, bilingual English/Yolngu bars, and commanding presence.",
+  "suggestedKey": "D Minor / E Minor",
+  "streamingSuitability": "Supreme cultural impact, national radio support on Triple J, and international world music praise."
+},
+  {
+  "slug": "auckland-south-side-island-reggae-trap",
+  "title": "South Auckland Island Reggae-Trap & Pacific Guitar Skank Beat",
+  "description": "Breezy, infectious Pacific Island reggae-trap fusion inspired by South Auckland (Otara, Mangere): sweet acoustic island guitar skanks, warm brass stabs, and relaxed 808 bounce.",
+  "targetKeywords": [
+    "island reggae trap beat",
+    "south auckland rap beat",
+    "pacific island reggae trap",
+    "otara mangere beat 808",
+    "nz island reggae hip hop"
+  ],
+  "heroCta": "Buy Island Reggae Beat (Instant WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Summer Radio Single, Pacific Island Festival Track and Car Cruising Vibe",
+  "similarArtists": [
+    "Savage",
+    "Three Houses Down",
+    "Tomorrow People",
+    "Sons of Zion"
+  ],
+  "recommendedBpm": "100-108 BPM",
+  "productionTips": "Offbeat reggae guitar skanks combined with warm dembow/trap kicks and rich melodic sub-bass.",
+  "idealVocalStyle": "Melodic Pacific singing, infectious dancehall patois flows, and feel-good summer hooks.",
+  "suggestedKey": "G Major / E Minor",
+  "streamingSuitability": "Guaranteed heavy summer radio play on Mai FM, Flava, and Pacific diaspora streaming playlists."
+},
+  {
+  "slug": "melbourne-st-kilda-late-night-lofi-jazz",
+  "title": "Melbourne Laneway Rain & St Kilda Late-Night Jazz Lofi Chillhop Beat",
+  "description": "Atmospheric, rain-soaked Melbourne soundtrack: dusty Rhodes electric piano progressions, muted jazz trumpet, warm vinyl dust, and unquantized kick-snare pockets.",
+  "targetKeywords": [
+    "melbourne lofi beat",
+    "st kilda chillhop instrumental",
+    "melbourne laneway jazz beat",
+    "rainy night drive lofi australia",
+    "aussie lofi hip hop beat"
+  ],
+  "heroCta": "Buy Melbourne Lofi Beat (Instant WAV)",
+  "energyLevel": "Low-Medium",
+  "primaryUse": "Midnight Car Cruising, Study Lofi Stream and Late-Night Coffee Shop Vibe",
+  "similarArtists": [
+    "Hiatus Kaiyote",
+    "Jordan Rakei",
+    "Tom Misch",
+    "30/70"
+  ],
+  "recommendedBpm": "82-88 BPM",
+  "productionTips": "Warm tape wow-and-flutter modulation on electric piano with vintage vinyl hiss and muted horn textures.",
+  "idealVocalStyle": "Laid-back spoken word, smooth jazz-soul singing, and intimate introspective poetry.",
+  "suggestedKey": "D Minor / F Major",
+  "streamingSuitability": "Continuous evergreen stream counts on Spotify Jazz Rap, study lofi, and chill playlists."
+},
+  {
+  "slug": "bondi-coastal-sunset-indie-acoustic-trap",
+  "title": "Bondi Beach Coastal Sunset Indie Surf Guitar & Melodic Trap Beat",
+  "description": "Sun-drenched Sydney coastal indie trap instrumental: breezy finger-picked acoustic surf guitars, tropical marimba plucks, and modern bouncy 808 pockets.",
+  "targetKeywords": [
+    "bondi beach trap beat",
+    "coastal surf guitar hip hop beat",
+    "sydney acoustic melodic trap",
+    "aussie summer indie rap beat",
+    "sun drenched coastal 808"
+  ],
+  "heroCta": "Buy Bondi Sunset Beat (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Summer Beach Anthem, Lifestyle Travel Vlog and Radio-Ready Indie Pop-Rap",
+  "similarArtists": [
+    "The Kid LAROI",
+    "Ocean Alley",
+    "Sticky Fingers",
+    "Lime Cordiale"
+  ],
+  "recommendedBpm": "120-128 BPM",
+  "productionTips": "Bright nylon acoustic guitar captured in stereo with subtle slapback delay and punchy 808s.",
+  "idealVocalStyle": "Carefree, melodic singing, catchy singalong choruses, and sun-drenched coastal storytelling.",
+  "suggestedKey": "A Major / F# Minor",
+  "streamingSuitability": "Heavy summer radio rotation on Triple J, coastal lifestyle videos, and viral seasonal reels."
+},
+  {
+  "slug": "western-sydney-car-audio-bass-demonstration",
+  "title": "Western Sydney 30 Hz Sub-Bass Car Audio Test & Heavy 808 Beat",
+  "description": "Earthquake-level sub-bass demonstration beat engineered for Western Sydney custom car sound systems (Holden Commodores, Ford Falcons, Toyota Hiluxes): pure 30 Hz sub rumble and clipped kicks.",
+  "targetKeywords": [
+    "western sydney car audio beat",
+    "30 hz sub bass test beat",
+    "heavy 808 bass car test",
+    "australian drill car audio banger",
+    "subwoofer bass test rap beat"
+  ],
+  "heroCta": "Buy Sub-Bass Test Beat (WAV + Stems)",
+  "energyLevel": "Maximum",
+  "primaryUse": "Subwoofer Demonstration, Car Audio Meet Banger and Extreme Workout Music",
+  "similarArtists": [
+    "ONEFOUR",
+    "Hooligan Hefs",
+    "B-Flix",
+    "Spanian"
+  ],
+  "recommendedBpm": "138-142 BPM",
+  "productionTips": "Tuned 30-40 Hz pure sine sub-bass with aggressive harmonic overtones for loud car amplifiers.",
+  "idealVocalStyle": "Heavyweight, commanding baritone delivery, aggressive street rhymes, and hard punchlines.",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "Extreme engagement on car audio testing channels, TikTok bass tests, and gym playlists."
+},
+  {
+  "slug": "affordable-aussie-drill-beats-aud",
+  "title": "Affordable Australian & NZ Drill Beats from $35 AUD (PayID & Apple Pay)",
+  "description": "Studio-mastered, untagged Australian and New Zealand drill instrumentals starting from $35 AUD with instant checkout via PayID, Beem, Apple Pay, and credit cards in Australian Dollars (AUD $).",
+  "targetKeywords": [
+    "affordable aussie drill beats aud",
+    "cheap drill beats australia payid",
+    "buy beats payid beem aud",
+    "australian drill beats under 40 aud"
+  ],
+  "heroCta": "Browse Affordable Beats (from $35 AUD)",
+  "energyLevel": "Variable",
+  "primaryUse": "Independent Mixtapes, Debut Singles and Home Studio Demos with Full License",
+  "similarArtists": [
+    "Independent Australian & NZ Rappers",
+    "SoundCloud & YouTube Creators"
+  ],
+  "recommendedBpm": "120-144 BPM",
+  "productionTips": "Pre-mixed and mastered with clean dynamic headroom for vocal tracking in home studios.",
+  "idealVocalStyle": "Adaptable across Aussie street flows, Polynesian melodic drill, and fast cadences.",
+  "suggestedKey": "All Major and Minor Keys",
+  "streamingSuitability": "Commercial license covers up to 100,000 streams on Spotify, Apple Music, and YouTube."
+},
+  {
+  "slug": "commercial-polynesian-island-drill-beats-wav",
+  "title": "Commercial Polynesian Island Drill Beats with Stems (24-Bit Studio WAV)",
+  "description": "Radio-ready Polynesian and Pasifika melodic island drill beats featuring warm brass stabs, choral pads, and sliding 808s delivered in uncompressed 24-bit 44.1kHz studio WAV format.",
+  "targetKeywords": [
+    "commercial polynesian island drill beats wav",
+    "pasifika drill instrumental trackout",
+    "buy island drill stems auckland sydney",
+    "hp boyz style island drill beat"
+  ],
+  "heroCta": "Get Island Drill Beats (24-Bit WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Lead Commercial Single, Radio Campaign and High-Budget Music Video",
+  "similarArtists": [
+    "HP Boyz",
+    "ONEFOUR",
+    "Lisi",
+    "Savage"
+  ],
+  "recommendedBpm": "138-142 BPM",
+  "productionTips": "Analog tape saturation on brass and vocal pads with heavy mono-compatible sub-bass translation.",
+  "idealVocalStyle": "Soulful island melodies, rhythmic street flows, and memorable anthemic choruses.",
+  "suggestedKey": "D Minor / G Minor",
+  "streamingSuitability": "Full commercial broadcast and unlimited DSP streaming clearance with 100% master ownership."
+},
+  {
+  "slug": "heavy-sliding-808-drill-beats-sydney-stems",
+  "title": "Heavy Sliding 808 Sydney & Melbourne Drill Beats with WAV Trackout Stems",
+  "description": "Aggressive, heavyweight Australian street drill instrumentals featuring multi-octave sliding 808s, supplied with separated multitrack WAV stems for pro studio mixing in Sydney and Melbourne.",
+  "targetKeywords": [
+    "heavy sliding 808 drill beats sydney stems",
+    "melbourne street drill wav trackout",
+    "sliding 808 drill beats australia",
+    "buy drill stems western sydney"
+  ],
+  "heroCta": "Download Drill Beats + Stems",
+  "energyLevel": "Very High",
+  "primaryUse": "Major Studio Recording, Multitrack Stem Mixing and Dolby Atmos Spatial Audio",
+  "similarArtists": [
+    "ONEFOUR",
+    "Hooligan Hefs",
+    "Central Cee",
+    "Headie One"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Drums, 808s, synths, and effects exported dry with companion effect return tracks.",
+  "idealVocalStyle": "Hard-hitting punchlines, rapid drill flows, and authentic street storytelling.",
+  "suggestedKey": "E Minor / C Minor",
+  "streamingSuitability": "Unlimited streaming and broadcast rights included with stem trackout license."
+},
+  {
+  "slug": "apra-amcos-music-licensing-agreement-pdf",
+  "title": "APRA AMCOS Australasian Beat Licensing Agreement (Instant Signed PDF)",
+  "description": "Legally binding music producer agreement compliant with Australian and New Zealand copyright law and APRA AMCOS regulations: download your personalized license contract and split sheet immediately upon checkout.",
+  "targetKeywords": [
+    "apra amcos music licensing agreement pdf",
+    "australian producer contract signed pdf",
+    "apra amcos split sheet beat purchase",
+    "music copyright license australia nzd aud"
+  ],
+  "heroCta": "View APRA AMCOS License (Instant PDF)",
+  "energyLevel": "N/A",
+  "primaryUse": "APRA AMCOS Registration, Publishing Royalty Splits and Full Legal Commercial Protection",
+  "similarArtists": [
+    "Onzieb",
+    "APRA AMCOS Registered Songwriters and Australasian Music Creators"
+  ],
+  "recommendedBpm": "All Tempos",
+  "productionTips": "Formulated under Australian copyright law protecting both lyricists and music composers.",
+  "idealVocalStyle": "Valid for all musical genres, vocal recordings, and commercial releases.",
+  "suggestedKey": "All Keys",
+  "streamingSuitability": "Guaranteed legal protection for global commercial distribution and sync placements."
+},
+  {
+  "slug": "buy-beats-payid-beem-australia",
+  "title": "Buy Beats in Australia with PayID, Beem & Apple Pay (Instant AUD $)",
+  "description": "Purchase untagged premium instrumentals seamlessly using Australian banking infrastructure: PayID instant bank transfer, Beem, Apple Pay, and credit cards in Australian Dollars (AUD $).",
+  "targetKeywords": [
+    "buy beats payid beem australia",
+    "payid beat store australia aud",
+    "pay for beats in australian dollars",
+    "buy rap beats commbank anz nab westpac"
+  ],
+  "heroCta": "Checkout with PayID / Beem (AUD $)",
+  "energyLevel": "All Levels",
+  "primaryUse": "Frictionless Instant Checkout for Australian & NZ Recording Artists and Studios",
+  "similarArtists": [
+    "Independent Australian & NZ Recording Artists"
+  ],
+  "recommendedBpm": "80-160 BPM",
+  "productionTips": "Instant automated file download link delivery upon PayID confirmation.",
+  "idealVocalStyle": "Universal compatibility across rap, R&B, drill, and pop vocalists.",
+  "suggestedKey": "All Keys",
+  "streamingSuitability": "Instant commercial clearance valid across all global DSPs."
+},
+  {
+  "slug": "album-ep-beat-packages-australia-discount",
+  "title": "5-Beat Album & EP Bundles in Australia & NZ (Save 40% in AUD $)",
+  "description": "Complete project package for Australian and New Zealand recording artists producing a full mixtape, EP, or debut album: select any 5 or 10 instrumentals across the store and save up to 40% in AUD ($).",
+  "targetKeywords": [
+    "album ep beat packages australia discount",
+    "5 beat bundle discount australia aud",
+    "buy bulk rap beats sydney melbourne auckland",
+    "album instrumental package aud nzd"
+  ],
+  "heroCta": "Claim 5-Beat Album Bundle (40% Off)",
+  "energyLevel": "Variable",
+  "primaryUse": "Full Project Production, Cohesive Thematic Direction and Continuous Releases",
+  "similarArtists": [
+    "Independent Australian & NZ Rappers and Music Collectives"
+  ],
+  "recommendedBpm": "85-145 BPM",
+  "productionTips": "Harmonically and dynamically cohesive curation ensuring an immersive album journey.",
+  "idealVocalStyle": "Comprehensive canvas for showcasing an artist's full range of flows and songwriting dynamics.",
+  "suggestedKey": "Complementary Keys",
+  "streamingSuitability": "Single unified commercial license covering all tracks on your EP simultaneously."
+},
+  {
+  "slug": "aussie-music-producer-whatsapp-onzieb",
+  "title": "Direct Producer Collaboration for Australian & NZ Artists (Producer Onzieb)",
+  "description": "Work one-on-one with producer Onzieb via direct WhatsApp collaboration for bespoke custom beat making, key transposition, stem arrangement, and tailor-made Australian drill and melodic sound design.",
+  "targetKeywords": [
+    "aussie music producer whatsapp onzieb",
+    "onzieb producer australia sydney melbourne",
+    "hire custom drill producer australia",
+    "bespoke beatmaker auckland whatsapp"
+  ],
+  "heroCta": "Chat with Onzieb on WhatsApp",
+  "energyLevel": "Custom",
+  "primaryUse": "Bespoke Lead Singles, Label Pitching and Custom Signature Sound Identity",
+  "similarArtists": [
+    "Onzieb",
+    "Leading Australian Urban Producers"
+  ],
+  "recommendedBpm": "Tailored to artist breathing and vocal tempo",
+  "productionTips": "Collaborative stem-by-stem arrangement adjustments via WhatsApp voice notes and secure files.",
+  "idealVocalStyle": "Custom tuned to match the exact timbre, power, and pocket of your vocal delivery.",
+  "suggestedKey": "Custom Matched",
+  "streamingSuitability": "Direct exclusive contracts with 100% master ownership and global monetization."
+},
+  {
+  "slug": "melodic-acoustic-guitar-aussie-trap",
+  "title": "Melodic Acoustic Guitar Australian Trap Beats (Kid LAROI & ChillinIT Vibe)",
+  "description": "Chart-friendly, melodic Australian trap instrumentals pairing warm acoustic surf guitars with hard-hitting modern 808s and syncopated trap claps for radio airplay.",
+  "targetKeywords": [
+    "melodic acoustic guitar aussie trap",
+    "kid laroi style guitar beat",
+    "catchy guitar trap beat australia",
+    "aussie melodic rap instrumental"
+  ],
+  "heroCta": "Listen to Melodic Guitar Beats (WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Viral Summer Single, Radio-Ready Commercial Pop-Rap and TikTok Reel Audio",
+  "similarArtists": [
+    "The Kid LAROI",
+    "ChillinIT",
+    "Post Malone",
+    "Juice WRLD"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "productionTips": "Bright nylon acoustic guitar loops with warm low-mid saturation layered over punchy, bouncing trap 808s.",
+  "idealVocalStyle": "Catchy melodic hooks, relatable street observations, and smooth conversational cadences.",
+  "suggestedKey": "F# Minor / A Major / E Minor",
+  "streamingSuitability": "Massive viral replay potential across TikTok, Triple J, Spotify A1 Hip-Hop, and urban radio."
+},
+  {
+  "slug": "fast-grime-trap-beats-australia-140-bpm",
+  "title": "Fast 140 BPM Australian Grime & Technical Rap Beats (Double-Time Pocket)",
+  "description": "Blazing fast, technical 140 BPM Australian grime and trap beats featuring aggressive brass hits, rapid percussion, and rolling sub-bass for fast-flow lyricists and battle cyphers.",
+  "targetKeywords": [
+    "fast grime trap beats australia 140 bpm",
+    "aussie grime instrumental 140",
+    "chillinit style fast rap beat",
+    "double time rap beat australia"
+  ],
+  "heroCta": "Explore 140 BPM Grime Beats",
+  "energyLevel": "Maximum",
+  "primaryUse": "Technical Cypher, High-Speed Double Time Single and Live Festival Showdown",
+  "similarArtists": [
+    "ChillinIT",
+    "Wombat",
+    "Nerve",
+    "Kerser"
+  ],
+  "recommendedBpm": "138-142 BPM",
+  "productionTips": "Fast 140 BPM UK-influenced syncopated percussion layered with driving 808 portamento.",
+  "idealVocalStyle": "Relentless double-time speed, multi-syllabic internal rhymes, and energetic breath control.",
+  "suggestedKey": "B Minor / D Minor",
+  "streamingSuitability": "Supreme engagement on reaction channels, technical rap playlists, and high-energy workout mixes."
+},
+  {
+  "slug": "free-aussie-drill-drum-kit-wav-samples",
+  "title": "Free Australian & NZ Drill Drum Kit (24-Bit WAV Samples & Sliding 808s)",
+  "description": "Download our complimentary Australian & NZ producer sound pack featuring 25 tuned sliding 808 bass hits, punchy drill kicks, sharp metallic rimshots, and skippy hi-hat loops in 24-bit studio WAV format.",
+  "targetKeywords": [
+    "free aussie drill drum kit wav samples",
+    "australian drill sample pack free download",
+    "sliding 808 samples free australia",
+    "drill sound pack fl studio free aud"
+  ],
+  "heroCta": "Download Free Aussie Drill Kit (ZIP)",
+  "energyLevel": "High",
+  "primaryUse": "DAW Beatmaking in FL Studio, Ableton Live, and Logic Pro",
+  "similarArtists": [
+    "Australian Bedroom Beatmakers",
+    "Emerging Urban Producers"
+  ],
+  "recommendedBpm": "Compatible with all tempos",
+  "productionTips": "100% royalty-free authentic drill one-shots pre-mastered with peak transient punch.",
+  "idealVocalStyle": "Foundational drum elements for producing radio-quality Australian urban tracks.",
+  "suggestedKey": "Tuned to C for instant pitch mapping",
+  "streamingSuitability": "Royalty-free for commercial music releases, beat leasing, and DSP streaming."
+},
+  {
+  "slug": "auckland-south-aus-drill-808",
+  "name": "South Auckland Aus Drill 808 Beats",
+  "category": "scene",
+  "badge": "South Auckland Aus Drill",
+  "headline": "South Auckland (Otara, Mangere & Island Drill Cradle) Aus Drill 808 Beats: 24-Bit WAV Beats & PayID / POLi Checkout",
+  "description": "Heavy multi-octave sliding 808 sub-bass, minor synths, and rapid syncopated drill hats engineered for MCs in South Auckland.",
+  "targetArtists": [
+    "Artists from South Auckland",
+    "Australasian Rap Community",
+    "Sydney, Melbourne & Auckland Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "South Auckland",
+    "Aus Drill",
+    "PayID & POLi (AUD/NZD)",
+    "APRA AMCOS Compliant"
+  ],
+  "popularGenres": [
+    "Aus Drill 808 Beats",
+    "Aus Drill",
+    "Island Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "auckland-south-island-drill-bounce",
+  "name": "South Auckland Island Drill Bounce Beats",
+  "category": "scene",
+  "badge": "South Auckland Island Drill",
+  "headline": "South Auckland (Otara, Mangere & Island Drill Cradle) Island Drill Bounce Beats: 24-Bit WAV Beats & PayID / POLi Checkout",
+  "description": "Polynesian vocal harmonies, bright brass stabs, and bouncy sub-bass drops crafted for MCs in South Auckland.",
+  "targetArtists": [
+    "Artists from South Auckland",
+    "Australasian Rap Community",
+    "Sydney, Melbourne & Auckland Scene"
+  ],
+  "recommendedBpm": "138-142 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "South Auckland",
+    "Island Drill",
+    "PayID & POLi (AUD/NZD)",
+    "APRA AMCOS Compliant"
+  ],
+  "popularGenres": [
+    "Island Drill Bounce Beats",
+    "Aus Drill",
+    "Island Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "auckland-south-aussie-street-rap",
+  "name": "South Auckland Aussie Street Road Rap Beats",
+  "category": "scene",
+  "badge": "South Auckland Road Rap",
+  "headline": "South Auckland (Otara, Mangere & Island Drill Cradle) Aussie Street Road Rap Beats: 24-Bit WAV Beats & PayID / POLi Checkout",
+  "description": "Grand acoustic piano chords, heavyweight analog kicks, and gritty street storytelling space for lyricists in South Auckland.",
+  "targetArtists": [
+    "Artists from South Auckland",
+    "Australasian Rap Community",
+    "Sydney, Melbourne & Auckland Scene"
+  ],
+  "recommendedBpm": "88-94 / 130 BPM",
+  "recommendedKey": "F-Minor / A-Minor",
+  "vibeAttributes": [
+    "South Auckland",
+    "Road Rap",
+    "PayID & POLi (AUD/NZD)",
+    "APRA AMCOS Compliant"
+  ],
+  "popularGenres": [
+    "Aussie Street Road Rap Beats",
+    "Aus Drill",
+    "Island Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "auckland-south-anz-acoustic-melodic",
+  "name": "South Auckland ANZ Acoustic Melodic Trap",
+  "category": "scene",
+  "badge": "South Auckland Acoustic Trap",
+  "headline": "South Auckland (Otara, Mangere & Island Drill Cradle) ANZ Acoustic Melodic Trap: 24-Bit WAV Beats & PayID / POLi Checkout",
+  "description": "Bright finger-picked surf guitars, catchy pop-trap claps, and warm basslines for vocalists in South Auckland.",
+  "targetArtists": [
+    "Artists from South Auckland",
+    "Australasian Rap Community",
+    "Sydney, Melbourne & Auckland Scene"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "A-Major / F#-Minor",
+  "vibeAttributes": [
+    "South Auckland",
+    "Acoustic Trap",
+    "PayID & POLi (AUD/NZD)",
+    "APRA AMCOS Compliant"
+  ],
+  "popularGenres": [
+    "ANZ Acoustic Melodic Trap",
+    "Aus Drill",
+    "Island Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "wellington-central-aus-drill-808",
+  "name": "Wellington Aus Drill 808 Beats",
+  "category": "scene",
+  "badge": "Wellington Aus Drill",
+  "headline": "Wellington (Te Whanganui-a-Tara & Capital Dub Beats) Aus Drill 808 Beats: 24-Bit WAV Beats & PayID / POLi Checkout",
+  "description": "Heavy multi-octave sliding 808 sub-bass, minor synths, and rapid syncopated drill hats engineered for MCs in Wellington.",
+  "targetArtists": [
+    "Artists from Wellington",
+    "Australasian Rap Community",
+    "Sydney, Melbourne & Auckland Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Wellington",
+    "Aus Drill",
+    "PayID & POLi (AUD/NZD)",
+    "APRA AMCOS Compliant"
+  ],
+  "popularGenres": [
+    "Aus Drill 808 Beats",
+    "Aus Drill",
+    "Island Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "wellington-central-island-drill-bounce",
+  "name": "Wellington Island Drill Bounce Beats",
+  "category": "scene",
+  "badge": "Wellington Island Drill",
+  "headline": "Wellington (Te Whanganui-a-Tara & Capital Dub Beats) Island Drill Bounce Beats: 24-Bit WAV Beats & PayID / POLi Checkout",
+  "description": "Polynesian vocal harmonies, bright brass stabs, and bouncy sub-bass drops crafted for MCs in Wellington.",
+  "targetArtists": [
+    "Artists from Wellington",
+    "Australasian Rap Community",
+    "Sydney, Melbourne & Auckland Scene"
+  ],
+  "recommendedBpm": "138-142 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Wellington",
+    "Island Drill",
+    "PayID & POLi (AUD/NZD)",
+    "APRA AMCOS Compliant"
+  ],
+  "popularGenres": [
+    "Island Drill Bounce Beats",
+    "Aus Drill",
+    "Island Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "wellington-central-aussie-street-rap",
+  "name": "Wellington Aussie Street Road Rap Beats",
+  "category": "scene",
+  "badge": "Wellington Road Rap",
+  "headline": "Wellington (Te Whanganui-a-Tara & Capital Dub Beats) Aussie Street Road Rap Beats: 24-Bit WAV Beats & PayID / POLi Checkout",
+  "description": "Grand acoustic piano chords, heavyweight analog kicks, and gritty street storytelling space for lyricists in Wellington.",
+  "targetArtists": [
+    "Artists from Wellington",
+    "Australasian Rap Community",
+    "Sydney, Melbourne & Auckland Scene"
+  ],
+  "recommendedBpm": "88-94 / 130 BPM",
+  "recommendedKey": "F-Minor / A-Minor",
+  "vibeAttributes": [
+    "Wellington",
+    "Road Rap",
+    "PayID & POLi (AUD/NZD)",
+    "APRA AMCOS Compliant"
+  ],
+  "popularGenres": [
+    "Aussie Street Road Rap Beats",
+    "Aus Drill",
+    "Island Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "wellington-central-anz-acoustic-melodic",
+  "name": "Wellington ANZ Acoustic Melodic Trap",
+  "category": "scene",
+  "badge": "Wellington Acoustic Trap",
+  "headline": "Wellington (Te Whanganui-a-Tara & Capital Dub Beats) ANZ Acoustic Melodic Trap: 24-Bit WAV Beats & PayID / POLi Checkout",
+  "description": "Bright finger-picked surf guitars, catchy pop-trap claps, and warm basslines for vocalists in Wellington.",
+  "targetArtists": [
+    "Artists from Wellington",
+    "Australasian Rap Community",
+    "Sydney, Melbourne & Auckland Scene"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "A-Major / F#-Minor",
+  "vibeAttributes": [
+    "Wellington",
+    "Acoustic Trap",
+    "PayID & POLi (AUD/NZD)",
+    "APRA AMCOS Compliant"
+  ],
+  "popularGenres": [
+    "ANZ Acoustic Melodic Trap",
+    "Aus Drill",
+    "Island Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "sydney-west-aus-drill-808",
+  "name": "Western Sydney Aus Drill 808 Beats",
+  "category": "scene",
+  "badge": "Western Sydney Aus Drill",
+  "headline": "Western Sydney (Parramatta, Blacktown & 2150 Street Reality) Aus Drill 808 Beats: 24-Bit WAV Beats & PayID / POLi Checkout",
+  "description": "Heavy multi-octave sliding 808 sub-bass, minor synths, and rapid syncopated drill hats engineered for MCs in Western Sydney.",
+  "targetArtists": [
+    "Artists from Western Sydney",
+    "Australasian Rap Community",
+    "Sydney, Melbourne & Auckland Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Western Sydney",
+    "Aus Drill",
+    "PayID & POLi (AUD/NZD)",
+    "APRA AMCOS Compliant"
+  ],
+  "popularGenres": [
+    "Aus Drill 808 Beats",
+    "Aus Drill",
+    "Island Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "sydney-west-island-drill-bounce",
+  "name": "Western Sydney Island Drill Bounce Beats",
+  "category": "scene",
+  "badge": "Western Sydney Island Drill",
+  "headline": "Western Sydney (Parramatta, Blacktown & 2150 Street Reality) Island Drill Bounce Beats: 24-Bit WAV Beats & PayID / POLi Checkout",
+  "description": "Polynesian vocal harmonies, bright brass stabs, and bouncy sub-bass drops crafted for MCs in Western Sydney.",
+  "targetArtists": [
+    "Artists from Western Sydney",
+    "Australasian Rap Community",
+    "Sydney, Melbourne & Auckland Scene"
+  ],
+  "recommendedBpm": "138-142 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Western Sydney",
+    "Island Drill",
+    "PayID & POLi (AUD/NZD)",
+    "APRA AMCOS Compliant"
+  ],
+  "popularGenres": [
+    "Island Drill Bounce Beats",
+    "Aus Drill",
+    "Island Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "sydney-west-aussie-street-rap",
+  "name": "Western Sydney Aussie Street Road Rap Beats",
+  "category": "scene",
+  "badge": "Western Sydney Road Rap",
+  "headline": "Western Sydney (Parramatta, Blacktown & 2150 Street Reality) Aussie Street Road Rap Beats: 24-Bit WAV Beats & PayID / POLi Checkout",
+  "description": "Grand acoustic piano chords, heavyweight analog kicks, and gritty street storytelling space for lyricists in Western Sydney.",
+  "targetArtists": [
+    "Artists from Western Sydney",
+    "Australasian Rap Community",
+    "Sydney, Melbourne & Auckland Scene"
+  ],
+  "recommendedBpm": "88-94 / 130 BPM",
+  "recommendedKey": "F-Minor / A-Minor",
+  "vibeAttributes": [
+    "Western Sydney",
+    "Road Rap",
+    "PayID & POLi (AUD/NZD)",
+    "APRA AMCOS Compliant"
+  ],
+  "popularGenres": [
+    "Aussie Street Road Rap Beats",
+    "Aus Drill",
+    "Island Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "sydney-west-anz-acoustic-melodic",
+  "name": "Western Sydney ANZ Acoustic Melodic Trap",
+  "category": "scene",
+  "badge": "Western Sydney Acoustic Trap",
+  "headline": "Western Sydney (Parramatta, Blacktown & 2150 Street Reality) ANZ Acoustic Melodic Trap: 24-Bit WAV Beats & PayID / POLi Checkout",
+  "description": "Bright finger-picked surf guitars, catchy pop-trap claps, and warm basslines for vocalists in Western Sydney.",
+  "targetArtists": [
+    "Artists from Western Sydney",
+    "Australasian Rap Community",
+    "Sydney, Melbourne & Auckland Scene"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "A-Major / F#-Minor",
+  "vibeAttributes": [
+    "Western Sydney",
+    "Acoustic Trap",
+    "PayID & POLi (AUD/NZD)",
+    "APRA AMCOS Compliant"
+  ],
+  "popularGenres": [
+    "ANZ Acoustic Melodic Trap",
+    "Aus Drill",
+    "Island Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "melbourne-west-aus-drill-808",
+  "name": "Melbourne West Aus Drill 808 Beats",
+  "category": "scene",
+  "badge": "Melbourne West Aus Drill",
+  "headline": "Melbourne West (St Albans 3021 & Westside Drill Axis) Aus Drill 808 Beats: 24-Bit WAV Beats & PayID / POLi Checkout",
+  "description": "Heavy multi-octave sliding 808 sub-bass, minor synths, and rapid syncopated drill hats engineered for MCs in Melbourne West.",
+  "targetArtists": [
+    "Artists from Melbourne West",
+    "Australasian Rap Community",
+    "Sydney, Melbourne & Auckland Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Melbourne West",
+    "Aus Drill",
+    "PayID & POLi (AUD/NZD)",
+    "APRA AMCOS Compliant"
+  ],
+  "popularGenres": [
+    "Aus Drill 808 Beats",
+    "Aus Drill",
+    "Island Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "melbourne-west-island-drill-bounce",
+  "name": "Melbourne West Island Drill Bounce Beats",
+  "category": "scene",
+  "badge": "Melbourne West Island Drill",
+  "headline": "Melbourne West (St Albans 3021 & Westside Drill Axis) Island Drill Bounce Beats: 24-Bit WAV Beats & PayID / POLi Checkout",
+  "description": "Polynesian vocal harmonies, bright brass stabs, and bouncy sub-bass drops crafted for MCs in Melbourne West.",
+  "targetArtists": [
+    "Artists from Melbourne West",
+    "Australasian Rap Community",
+    "Sydney, Melbourne & Auckland Scene"
+  ],
+  "recommendedBpm": "138-142 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Melbourne West",
+    "Island Drill",
+    "PayID & POLi (AUD/NZD)",
+    "APRA AMCOS Compliant"
+  ],
+  "popularGenres": [
+    "Island Drill Bounce Beats",
+    "Aus Drill",
+    "Island Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "melbourne-west-aussie-street-rap",
+  "name": "Melbourne West Aussie Street Road Rap Beats",
+  "category": "scene",
+  "badge": "Melbourne West Road Rap",
+  "headline": "Melbourne West (St Albans 3021 & Westside Drill Axis) Aussie Street Road Rap Beats: 24-Bit WAV Beats & PayID / POLi Checkout",
+  "description": "Grand acoustic piano chords, heavyweight analog kicks, and gritty street storytelling space for lyricists in Melbourne West.",
+  "targetArtists": [
+    "Artists from Melbourne West",
+    "Australasian Rap Community",
+    "Sydney, Melbourne & Auckland Scene"
+  ],
+  "recommendedBpm": "88-94 / 130 BPM",
+  "recommendedKey": "F-Minor / A-Minor",
+  "vibeAttributes": [
+    "Melbourne West",
+    "Road Rap",
+    "PayID & POLi (AUD/NZD)",
+    "APRA AMCOS Compliant"
+  ],
+  "popularGenres": [
+    "Aussie Street Road Rap Beats",
+    "Aus Drill",
+    "Island Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "melbourne-west-anz-acoustic-melodic",
+  "name": "Melbourne West ANZ Acoustic Melodic Trap",
+  "category": "scene",
+  "badge": "Melbourne West Acoustic Trap",
+  "headline": "Melbourne West (St Albans 3021 & Westside Drill Axis) ANZ Acoustic Melodic Trap: 24-Bit WAV Beats & PayID / POLi Checkout",
+  "description": "Bright finger-picked surf guitars, catchy pop-trap claps, and warm basslines for vocalists in Melbourne West.",
+  "targetArtists": [
+    "Artists from Melbourne West",
+    "Australasian Rap Community",
+    "Sydney, Melbourne & Auckland Scene"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "A-Major / F#-Minor",
+  "vibeAttributes": [
+    "Melbourne West",
+    "Acoustic Trap",
+    "PayID & POLi (AUD/NZD)",
+    "APRA AMCOS Compliant"
+  ],
+  "popularGenres": [
+    "ANZ Acoustic Melodic Trap",
+    "Aus Drill",
+    "Island Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "brisbane-logan-aus-drill-808",
+  "name": "Logan City Aus Drill 808 Beats",
+  "category": "scene",
+  "badge": "Logan City Aus Drill",
+  "headline": "Logan City (South East Queensland Pasifika Rap Hub) Aus Drill 808 Beats: 24-Bit WAV Beats & PayID / POLi Checkout",
+  "description": "Heavy multi-octave sliding 808 sub-bass, minor synths, and rapid syncopated drill hats engineered for MCs in Logan City.",
+  "targetArtists": [
+    "Artists from Logan City",
+    "Australasian Rap Community",
+    "Sydney, Melbourne & Auckland Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Logan City",
+    "Aus Drill",
+    "PayID & POLi (AUD/NZD)",
+    "APRA AMCOS Compliant"
+  ],
+  "popularGenres": [
+    "Aus Drill 808 Beats",
+    "Aus Drill",
+    "Island Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "brisbane-logan-island-drill-bounce",
+  "name": "Logan City Island Drill Bounce Beats",
+  "category": "scene",
+  "badge": "Logan City Island Drill",
+  "headline": "Logan City (South East Queensland Pasifika Rap Hub) Island Drill Bounce Beats: 24-Bit WAV Beats & PayID / POLi Checkout",
+  "description": "Polynesian vocal harmonies, bright brass stabs, and bouncy sub-bass drops crafted for MCs in Logan City.",
+  "targetArtists": [
+    "Artists from Logan City",
+    "Australasian Rap Community",
+    "Sydney, Melbourne & Auckland Scene"
+  ],
+  "recommendedBpm": "138-142 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Logan City",
+    "Island Drill",
+    "PayID & POLi (AUD/NZD)",
+    "APRA AMCOS Compliant"
+  ],
+  "popularGenres": [
+    "Island Drill Bounce Beats",
+    "Aus Drill",
+    "Island Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "brisbane-logan-aussie-street-rap",
+  "name": "Logan City Aussie Street Road Rap Beats",
+  "category": "scene",
+  "badge": "Logan City Road Rap",
+  "headline": "Logan City (South East Queensland Pasifika Rap Hub) Aussie Street Road Rap Beats: 24-Bit WAV Beats & PayID / POLi Checkout",
+  "description": "Grand acoustic piano chords, heavyweight analog kicks, and gritty street storytelling space for lyricists in Logan City.",
+  "targetArtists": [
+    "Artists from Logan City",
+    "Australasian Rap Community",
+    "Sydney, Melbourne & Auckland Scene"
+  ],
+  "recommendedBpm": "88-94 / 130 BPM",
+  "recommendedKey": "F-Minor / A-Minor",
+  "vibeAttributes": [
+    "Logan City",
+    "Road Rap",
+    "PayID & POLi (AUD/NZD)",
+    "APRA AMCOS Compliant"
+  ],
+  "popularGenres": [
+    "Aussie Street Road Rap Beats",
+    "Aus Drill",
+    "Island Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "brisbane-logan-anz-acoustic-melodic",
+  "name": "Logan City ANZ Acoustic Melodic Trap",
+  "category": "scene",
+  "badge": "Logan City Acoustic Trap",
+  "headline": "Logan City (South East Queensland Pasifika Rap Hub) ANZ Acoustic Melodic Trap: 24-Bit WAV Beats & PayID / POLi Checkout",
+  "description": "Bright finger-picked surf guitars, catchy pop-trap claps, and warm basslines for vocalists in Logan City.",
+  "targetArtists": [
+    "Artists from Logan City",
+    "Australasian Rap Community",
+    "Sydney, Melbourne & Auckland Scene"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "A-Major / F#-Minor",
+  "vibeAttributes": [
+    "Logan City",
+    "Acoustic Trap",
+    "PayID & POLi (AUD/NZD)",
+    "APRA AMCOS Compliant"
+  ],
+  "popularGenres": [
+    "ANZ Acoustic Melodic Trap",
+    "Aus Drill",
+    "Island Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "christchurch-south-aus-drill-808",
+  "name": "Christchurch Aus Drill 808 Beats",
+  "category": "scene",
+  "badge": "Christchurch Aus Drill",
+  "headline": "Christchurch (Otautahi & South Island Electronic Bass) Aus Drill 808 Beats: 24-Bit WAV Beats & PayID / POLi Checkout",
+  "description": "Heavy multi-octave sliding 808 sub-bass, minor synths, and rapid syncopated drill hats engineered for MCs in Christchurch.",
+  "targetArtists": [
+    "Artists from Christchurch",
+    "Australasian Rap Community",
+    "Sydney, Melbourne & Auckland Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Christchurch",
+    "Aus Drill",
+    "PayID & POLi (AUD/NZD)",
+    "APRA AMCOS Compliant"
+  ],
+  "popularGenres": [
+    "Aus Drill 808 Beats",
+    "Aus Drill",
+    "Island Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "christchurch-south-island-drill-bounce",
+  "name": "Christchurch Island Drill Bounce Beats",
+  "category": "scene",
+  "badge": "Christchurch Island Drill",
+  "headline": "Christchurch (Otautahi & South Island Electronic Bass) Island Drill Bounce Beats: 24-Bit WAV Beats & PayID / POLi Checkout",
+  "description": "Polynesian vocal harmonies, bright brass stabs, and bouncy sub-bass drops crafted for MCs in Christchurch.",
+  "targetArtists": [
+    "Artists from Christchurch",
+    "Australasian Rap Community",
+    "Sydney, Melbourne & Auckland Scene"
+  ],
+  "recommendedBpm": "138-142 BPM",
+  "recommendedKey": "G-Minor / D-Minor",
+  "vibeAttributes": [
+    "Christchurch",
+    "Island Drill",
+    "PayID & POLi (AUD/NZD)",
+    "APRA AMCOS Compliant"
+  ],
+  "popularGenres": [
+    "Island Drill Bounce Beats",
+    "Aus Drill",
+    "Island Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "christchurch-south-aussie-street-rap",
+  "name": "Christchurch Aussie Street Road Rap Beats",
+  "category": "scene",
+  "badge": "Christchurch Road Rap",
+  "headline": "Christchurch (Otautahi & South Island Electronic Bass) Aussie Street Road Rap Beats: 24-Bit WAV Beats & PayID / POLi Checkout",
+  "description": "Grand acoustic piano chords, heavyweight analog kicks, and gritty street storytelling space for lyricists in Christchurch.",
+  "targetArtists": [
+    "Artists from Christchurch",
+    "Australasian Rap Community",
+    "Sydney, Melbourne & Auckland Scene"
+  ],
+  "recommendedBpm": "88-94 / 130 BPM",
+  "recommendedKey": "F-Minor / A-Minor",
+  "vibeAttributes": [
+    "Christchurch",
+    "Road Rap",
+    "PayID & POLi (AUD/NZD)",
+    "APRA AMCOS Compliant"
+  ],
+  "popularGenres": [
+    "Aussie Street Road Rap Beats",
+    "Aus Drill",
+    "Island Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "christchurch-south-anz-acoustic-melodic",
+  "name": "Christchurch ANZ Acoustic Melodic Trap",
+  "category": "scene",
+  "badge": "Christchurch Acoustic Trap",
+  "headline": "Christchurch (Otautahi & South Island Electronic Bass) ANZ Acoustic Melodic Trap: 24-Bit WAV Beats & PayID / POLi Checkout",
+  "description": "Bright finger-picked surf guitars, catchy pop-trap claps, and warm basslines for vocalists in Christchurch.",
+  "targetArtists": [
+    "Artists from Christchurch",
+    "Australasian Rap Community",
+    "Sydney, Melbourne & Auckland Scene"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "A-Major / F#-Minor",
+  "vibeAttributes": [
+    "Christchurch",
+    "Acoustic Trap",
+    "PayID & POLi (AUD/NZD)",
+    "APRA AMCOS Compliant"
+  ],
+  "popularGenres": [
+    "ANZ Acoustic Melodic Trap",
+    "Aus Drill",
+    "Island Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
 ];
