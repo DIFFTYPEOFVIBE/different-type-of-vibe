@@ -44288,4 +44288,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "ar/caba-palermo-almagro": {
+  "slug": "ar/caba-palermo-almagro",
+  "name": "Argentina – CABA: Palermo, Almagro & Caballito (Epicentro de la Nueva Ola Trap, Indie Urbano & Producción)",
+  "flag": "🇦🇷",
+  "currency": "ARS ($) / USD ($)",
+  "currencyCode": "ARS",
+  "gateways": "Mercado Pago (Transferencias 3.0 / CVU / Dinero en cuenta), Ualá, Tarjetas (Visa/Mastercard), Apple Pay, PayPal, Stripe",
+  "pro": "SADAIC / CAPIF",
+  "proFullName": "SADAIC (Sociedad Argentina de Autores y Compositores) / CAPIF",
+  "proGuide": "100% conforme a la Ley de Propiedad Intelectual argentina (Ley 11.723) y normativa SADAIC con contrato firmado y split sheet en PDF inmediato.",
+  "headline": "Beats en Palermo & Almagro: Nueva Ola Porteña, Sintes Espaciales & Trap Melódico 808",
+  "description": "El epicentro creativo y vanguardista de la música urbana argentina: sintetizadores analógicos envolventes, guitarras indie melancólicas y bajos 808 dinámicos para artistas de Palermo, Almagro y CABA.",
+  "popularGenres": [
+    "Trap Argentino",
+    "Palermo Indie Trap",
+    "Melodic Cloud Rap"
+  ],
+  "subClusters": []
+},
+  "ar/caba-laboca-san-telmo": {
+  "slug": "ar/caba-laboca-san-telmo",
+  "name": "Argentina – CABA: La Boca & San Telmo (Cuna de Trueno, Boom Bap Clásico, Arte Callejero & Tango)",
+  "flag": "🇦🇷",
+  "currency": "ARS ($) / USD ($)",
+  "currencyCode": "ARS",
+  "gateways": "Mercado Pago (Transferencias 3.0 / CVU / Dinero en cuenta), Ualá, Tarjetas (Visa/Mastercard), Apple Pay, PayPal, Stripe",
+  "pro": "SADAIC / CAPIF",
+  "proFullName": "SADAIC (Sociedad Argentina de Autores y Compositores) / CAPIF",
+  "proGuide": "Archivos WAV 24-bit de calidad de estudio sin compresión con pistas separadas (stems multitrack).",
+  "headline": "Beats en La Boca & San Telmo: Caminito, Patios de Tango & Hip-Hop Clásico de Barrio",
+  "description": "Donde la herencia del tango de conventillo se une al hip-hop de las plazas: bandoneones nostálgicos, bombos con pegada analógica y rimas con identidad para MCs de La Boca y San Telmo.",
+  "popularGenres": [
+    "La Boca Boom Bap",
+    "Tango-Hip Hop Fusión",
+    "Barras Clásicas Porteñas"
+  ],
+  "subClusters": []
+},
+  "ar/conurbano-sur-lanus-lomas": {
+  "slug": "ar/conurbano-sur-lanus-lomas",
+  "name": "Argentina – Conurbano Sur: Lanús, Lomas de Zamora & Quilmes (Cuna de RKT Callejero & Trap de Potrero)",
+  "flag": "🇦🇷",
+  "currency": "ARS ($) / USD ($)",
+  "currencyCode": "ARS",
+  "gateways": "Mercado Pago (Transferencias 3.0 / CVU / Dinero en cuenta), Ualá, Tarjetas (Visa/Mastercard), Apple Pay, PayPal, Stripe",
+  "pro": "SADAIC / CAPIF",
+  "proFullName": "SADAIC (Sociedad Argentina de Autores y Compositores) / CAPIF",
+  "proGuide": "Monetización digital global en Spotify, Apple Music, YouTube y radio 100% garantizada.",
+  "headline": "Beats en el Conurbano Sur: Lanús, Lomas, Quilmes & RKT 420 Demoledor",
+  "description": "La energía callejera e inquebrantable del conurbano sur: dembow sincopado a 98 BPM, sintetizadores agudos punzantes y bajos 808 arrolladores para los reyes del RKT y el turreo.",
+  "popularGenres": [
+    "RKT Cumbia 420",
+    "Turreo Callejero",
+    "Conurbano Sur Trap"
+  ],
+  "subClusters": []
+},
+  "ar/conurbano-norte-san-isidro-tigre": {
+  "slug": "ar/conurbano-norte-san-isidro-tigre",
+  "name": "Argentina – Conurbano Norte: Tigre, San Isidro & Vicente López (Delta Vibes, Trap Melódico & R&B Rioplatense)",
+  "flag": "🇦🇷",
+  "currency": "ARS ($) / USD ($)",
+  "currencyCode": "ARS",
+  "gateways": "Mercado Pago (Transferencias 3.0 / CVU / Dinero en cuenta), Ualá, Tarjetas (Visa/Mastercard), Apple Pay, PayPal, Stripe",
+  "pro": "SADAIC / CAPIF",
+  "proFullName": "SADAIC (Sociedad Argentina de Autores y Compositores) / CAPIF",
+  "proGuide": "100% libre de royalties sobre grabaciones master con licencia comercial ilimitada.",
+  "headline": "Beats en el Conurbano Norte: Río Luján, Delta de Tigre & Trap Melódico Sofisticado",
+  "description": "La brisa del Delta y el sonido cosmopolita de la zona norte: guitarras acústicas espaciales, acordes de Rhodes aveludados y baterías de trap elegantes para artistas de Tigre, San Isidro y Vicente López.",
+  "popularGenres": [
+    "Zona Norte Melodic Trap",
+    "Delta R&B Beat",
+    "Río de la Plata Chillhop"
+  ],
+  "subClusters": []
+},
+  "ar/cordoba-nueva-cordoba-guemes": {
+  "slug": "ar/cordoba-nueva-cordoba-guemes",
+  "name": "Argentina – Córdoba: Nueva Córdoba & Güemes (La Docta Universitaria, Cuarteto-Trap & RKT Serrano)",
+  "flag": "🇦🇷",
+  "currency": "ARS ($) / USD ($)",
+  "currencyCode": "ARS",
+  "gateways": "Mercado Pago (Transferencias 3.0 / CVU / Dinero en cuenta), Ualá, Tarjetas (Visa/Mastercard), Apple Pay, PayPal, Stripe",
+  "pro": "SADAIC / CAPIF",
+  "proFullName": "SADAIC (Sociedad Argentina de Autores y Compositores) / CAPIF",
+  "proGuide": "Pago instantáneo por Mercado Pago (Transferencias 3.0 / CVU) con descarga automática en pesos (ARS $).",
+  "headline": "Beats en Nueva Córdoba & Güemes: La Docta Joven, Tumbao de Cuarteto & Trap Serrano",
+  "description": "El corazón universitario y fiestero del interior argentino: tumbaos de piano de cuarteto cordobés, güiras bailables y potentes bajos 808 para creadores de Córdoba Capital y Güemes.",
+  "popularGenres": [
+    "Cuarteto-Trap Fusión",
+    "Córdoba Street Beat",
+    "Trap Serrano 808"
+  ],
+  "subClusters": []
+},
+  "ar/rosario-pichincha-centro": {
+  "slug": "ar/rosario-pichincha-centro",
+  "name": "Argentina – Rosario: Pichincha & Costanera del Paraná (Cuna de Nicki Nicole, Rap Rosarino & Flow del Río)",
+  "flag": "🇦🇷",
+  "currency": "ARS ($) / USD ($)",
+  "currencyCode": "ARS",
+  "gateways": "Mercado Pago (Transferencias 3.0 / CVU / Dinero en cuenta), Ualá, Tarjetas (Visa/Mastercard), Apple Pay, PayPal, Stripe",
+  "pro": "SADAIC / CAPIF",
+  "proFullName": "SADAIC (Sociedad Argentina de Autores y Compositores) / CAPIF",
+  "proGuide": "Pistas stems multitrack y archivos WAV de 24 bits incluidos para mezclas profesionales.",
+  "headline": "Beats en Rosario: Monumento a la Bandera, Costanera del Paraná & R&B-Trap de Oro",
+  "description": "La cuna del talento melódico argentino: acordes neo-soul envolventes, sintetizadores pop-trap brillantes y bajos 808 redondos inspirados en el sonido de Rosario y Pichincha.",
+  "popularGenres": [
+    "Rosario R&B Trap",
+    "Costanera Melodic Rap",
+    "Santa Fe Urban Beat"
+  ],
+  "subClusters": []
+},
+  "ar/mendoza-godoy-cruz-cuyo": {
+  "slug": "ar/mendoza-godoy-cruz-cuyo",
+  "name": "Argentina – Mendoza: Godoy Cruz & Cordillera (Trap Cuyano, Freestyle Mendocino & Bajos Andinos)",
+  "flag": "🇦🇷",
+  "currency": "ARS ($) / USD ($)",
+  "currencyCode": "ARS",
+  "gateways": "Mercado Pago (Transferencias 3.0 / CVU / Dinero en cuenta), Ualá, Tarjetas (Visa/Mastercard), Apple Pay, PayPal, Stripe",
+  "pro": "SADAIC / CAPIF",
+  "proFullName": "SADAIC (Sociedad Argentina de Autores y Compositores) / CAPIF",
+  "proGuide": "Derechos comerciales completos con factura y split sheet conforme a SADAIC.",
+  "headline": "Beats en Mendoza & Godoy Cruz: Cordillera de los Andes, Tierra del Sol & Trap Andino",
+  "description": "La fuerza y potencia del hip-hop cuyano: guitarras acústicas con sentimiento de montaña, sintetizadores espaciales y bajos 808 que retumban en los valles mendocinos.",
+  "popularGenres": [
+    "Mendoza Trap Andino",
+    "Cuyo Freestyle Beat",
+    "Godoy Cruz 808"
+  ],
+  "subClusters": []
+},
+  "ar/mar-del-plata-guemes-costa": {
+  "slug": "ar/mar-del-plata-guemes-costa",
+  "name": "Argentina – Mar del Plata: Playa Grande & La Perla (Costa Atlántica, Surf Trap & Bounces de Verano)",
+  "flag": "🇦🇷",
+  "currency": "ARS ($) / USD ($)",
+  "currencyCode": "ARS",
+  "gateways": "Mercado Pago (Transferencias 3.0 / CVU / Dinero en cuenta), Ualá, Tarjetas (Visa/Mastercard), Apple Pay, PayPal, Stripe",
+  "pro": "SADAIC / CAPIF",
+  "proFullName": "SADAIC (Sociedad Argentina de Autores y Compositores) / CAPIF",
+  "proGuide": "100% libre de royalties para streaming, radio y presentaciones en vivo.",
+  "headline": "Beats en Mar del Plata: Olas de Playa Grande, Brisa del Atlántico & Trap Costero",
+  "description": "La capital del verano y la costa bonaerense: guitarras acústicas surferas, hi-hats brillantes y bajos 808 bailables diseñados para artistas de Mar del Plata, La Perla y Chapadmalal.",
+  "popularGenres": [
+    "MDP Surf Trap",
+    "Costa Atlántica Beat",
+    "Mar del Plata Pop-Rap"
+  ],
+  "subClusters": []
+},
+  "ar/tucuman-san-miguel-norte": {
+  "slug": "ar/tucuman-san-miguel-norte",
+  "name": "Argentina – Tucumán: San Miguel & Yerba Buena (Norte Argentino, Folclore Fusión & Trap Pesado)",
+  "flag": "🇦🇷",
+  "currency": "ARS ($) / USD ($)",
+  "currencyCode": "ARS",
+  "gateways": "Mercado Pago (Transferencias 3.0 / CVU / Dinero en cuenta), Ualá, Tarjetas (Visa/Mastercard), Apple Pay, PayPal, Stripe",
+  "pro": "SADAIC / CAPIF",
+  "proFullName": "SADAIC (Sociedad Argentina de Autores y Compositores) / CAPIF",
+  "proGuide": "Licencia comercial directa con entrega inmediata de archivos de alta resolución.",
+  "headline": "Beats en Tucumán: Jardín de la República, Bombo Legüero & Trap del Norte",
+  "description": "El corazón histórico del Norte Grande argentino: bombos legüeros con resonancia folclórica, charangos melancólicos y potentes subgraves 808 para MCs de Tucumán y Yerba Buena.",
+  "popularGenres": [
+    "Tucumán Folk Trap",
+    "Norte Grande Rap",
+    "Bombo Legüero 808"
+  ],
+  "subClusters": []
+},
+  "ar/neuquen-alto-valle-patagonia": {
+  "slug": "ar/neuquen-alto-valle-patagonia",
+  "name": "Argentina – Neuquén & Alto Valle (Patagonia Urbana, Vientos del Sur & Drill de Meseta)",
+  "flag": "🇦🇷",
+  "currency": "ARS ($) / USD ($)",
+  "currencyCode": "ARS",
+  "gateways": "Mercado Pago (Transferencias 3.0 / CVU / Dinero en cuenta), Ualá, Tarjetas (Visa/Mastercard), Apple Pay, PayPal, Stripe",
+  "pro": "SADAIC / CAPIF",
+  "proFullName": "SADAIC (Sociedad Argentina de Autores y Compositores) / CAPIF",
+  "proGuide": "Validez jurídica internacional para distribución en plataformas de streaming y sincronización.",
+  "headline": "Beats en Neuquén: Vientos Patagónicos, Alto Valle & Drill Helado de Meseta",
+  "description": "La fuerza y soledad de la Patagonia norte: campanas menores cortantes, vientos gélidos en sintetizadores y bajos deslizantes de drill para los raperos de Neuquén, Cipolletti y el Alto Valle.",
+  "popularGenres": [
+    "Patagonia Drill",
+    "Neuquén Street Beat",
+    "Alto Valle Trap 808"
+  ],
+  "subClusters": []
+},
 };

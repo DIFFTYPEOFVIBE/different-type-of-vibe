@@ -141876,4 +141876,1296 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "1"
   ]
 },
+  {
+  "slug": "duki-antes-de-ameri-stadium-trap",
+  "title": "Duki Antes de Ameri King of Trap Argentino Heavy Rock-Trap Beat",
+  "description": "Chart-topping, multi-platinum Argentine trap anthem inspired by the King of Trap, Duki (Antes de Ameri, Goteo, Givenchy, She Don't Give a FO, Rockstar 2.0), with stadium rock-trap guitars and heavy 808s.",
+  "targetKeywords": [
+    "duki type beat 2024",
+    "antes de ameri duki instrumental",
+    "trap argentino duki beat",
+    "duki givenchy type beat",
+    "stadium trap beat argentina 808"
+  ],
+  "heroCta": "Comprar Beat Estilo Duki (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Lead Commercial Single, Stadium Concert Opener and High-Impact Video",
+  "similarArtists": [
+    "Duki",
+    "YSY A",
+    "Neo Pistea",
+    "Travis Scott"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "productionTips": "Overdriven electric guitar power chords layered with two-octave sliding 808s and aggressive trap rimshots.",
+  "idealVocalStyle": "Gravelly baritone vocal delivery, arrogant swagger, stadium anthemic choruses, and fast autotuned cadences.",
+  "suggestedKey": "F Minor / C# Minor",
+  "streamingSuitability": "Guaranteed top streaming numbers on Spotify Top 50 Argentina, Billboard Latin, and massive concert pogo mosh pits."
+},
+  {
+  "slug": "bizarrap-session-52-quevedo-electro",
+  "title": "Bizarrap BZRP Music Sessions #52 Multi-Platinum Electro-Trap Beat",
+  "description": "Historic, record-breaking electronic synth-pop and club-trap crossover inspired by Bizarrap and BZRP Music Sessions (#52 Quevedo, #53 Shakira, #57 Milo J, #58 Young Miko), featuring soaring synths and sidechain drops.",
+  "targetKeywords": [
+    "bizarrap type beat 2024",
+    "bzrp session 52 instrumental",
+    "quevedo bizarrap type beat",
+    "electro trap beat bzrp",
+    "bizarrap shakira type beat"
+  ],
+  "heroCta": "Comprar Beat Estilo BZRP (WAV + Stems)",
+  "energyLevel": "Maximum",
+  "primaryUse": "Global Breakout Single, Mainstage EDM-Trap Festival Track and Radio Hit",
+  "similarArtists": [
+    "Bizarrap",
+    "Quevedo",
+    "Daft Punk",
+    "Marshmello"
+  ],
+  "recommendedBpm": "126-130 BPM",
+  "productionTips": "Pumping sidechain compression on bright supersaw synth chords layered with punchy club kicks and heavy sub drops.",
+  "idealVocalStyle": "Catchy anthemic melodies, powerful vocal presence, memorable slogan hooks, and high-energy delivery.",
+  "suggestedKey": "D Minor / B Minor",
+  "streamingSuitability": "Universal global radio rotation, club DJ dominance, and multi-billion stream velocity."
+},
+  {
+  "slug": "milo-j-111-rincon-melancholic-trap",
+  "title": "Milo J 111 Rincón Nostalgic Spanish Guitar & Boombap Melancholy Beat",
+  "description": "Deeply emotional, mature Morón street melancholy inspired by Milo J (111, Rincón, Rara Vez, Dispara, Alumbre), blending nostalgic Spanish acoustic guitars, dusty boom bap pocket, and warm sub-bass.",
+  "targetKeywords": [
+    "milo j type beat 2024",
+    "milo j 111 instrumental",
+    "milo j rara vez beat",
+    "guitarra acustica trap milo j",
+    "melancholic boombap trap argentina"
+  ],
+  "heroCta": "Comprar Beat Estilo Milo J (Instant WAV)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Poetic Street Ballad, Heartfelt Narrative Single and Aesthetic Visualizer",
+  "similarArtists": [
+    "Milo J",
+    "Khea",
+    "Bizarrap",
+    "Nicki Nicole"
+  ],
+  "recommendedBpm": "88-95 / 126 BPM",
+  "productionTips": "Warm acoustic nylon guitar fingerpicking with tape flutter layered over dry, punchy boom bap drums and warm 808.",
+  "idealVocalStyle": "Deep, mature, raspy baritone singing, poetic street introspection, and heartfelt emotional delivery.",
+  "suggestedKey": "A Minor / D Minor",
+  "streamingSuitability": "Dominates Spotify Argentina top spots, viral romantic/heartbreak TikTok edits, and late-night listening."
+},
+  {
+  "slug": "trueno-bien-o-mal-barrio-boombap",
+  "title": "Trueno BIEN O MAL La Boca Golden Era Latin Funk & Boom Bap Beat",
+  "description": "Authentic, high-energy Argentine hip-hop fusion inspired by Trueno (BIEN O MAL, Mamichula, Dance Crip, Tranky Funky, Tierra Zanta), combining La Boca golden-era boom bap, funk breaks, and modern trap.",
+  "targetKeywords": [
+    "trueno type beat 2024",
+    "dance crip trueno instrumental",
+    "bien o mal trueno beat",
+    "la boca boom bap trap beat",
+    "funk rap argentino beat"
+  ],
+  "heroCta": "Comprar Beat Estilo Trueno (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Freestyle Rap Showcase, Funk-Hip Hop Single and Energetic Concert Track",
+  "similarArtists": [
+    "Trueno",
+    "Wos",
+    "Acru",
+    "Duki"
+  ],
+  "recommendedBpm": "95-104 BPM",
+  "productionTips": "Layer tight funk basslines and scratching vinyl samples with modern analog kicks and snappy acoustic snares.",
+  "idealVocalStyle": "Agile freestyle cadences, rhythmic double-time delivery, Argentine lunfardo wordplay, and celebratory choruses.",
+  "suggestedKey": "E Minor / G Minor",
+  "streamingSuitability": "Massive airplay across Latin America, festival headline reaction, and Latin Grammy recognition."
+},
+  {
+  "slug": "ysy-a-el-after-del-after-terremoto",
+  "title": "YSY A El After del After High-Speed Electronic Pogo Trap Beat",
+  "description": "Manic, high-velocity electronic club trap banger inspired by YSY A and Sponsor Dios (El After del After, Antezana 247, Trap de Verdad, Silbando), featuring hypnotic techno-synths and earthquake 808 pogo drops.",
+  "targetKeywords": [
+    "ysy a type beat 2024",
+    "el after del after instrumental",
+    "terremoto trap beat ysy a",
+    "pogo trap beat argentina",
+    "sponsor dios style beat 135 bpm"
+  ],
+  "heroCta": "Comprar Beat Estilo YSY A (WAV + Stems)",
+  "energyLevel": "Maximum",
+  "primaryUse": "Concert Pogo Anthem, High-Speed Club Trap and Workout Motivation Track",
+  "similarArtists": [
+    "YSY A",
+    "Duki",
+    "Bhavi",
+    "Neo Pistea"
+  ],
+  "recommendedBpm": "135-142 BPM",
+  "productionTips": "Rapid electronic arpeggiators with short decay layered over heavy, saturated 808 kicks with continuous forward drive.",
+  "idealVocalStyle": "Manic, breathless continuous flow, theatrical inflection switches, aggressive shouting ad-libs, and raw charisma.",
+  "suggestedKey": "C# Minor / A Minor",
+  "streamingSuitability": "Insuperable for stadium mosh pits, high-energy fitness playlists, and extreme sport reels."
+},
+  {
+  "slug": "tiago-pzk-portales-gotti-melodic-rnb",
+  "title": "Tiago PZK Portales Gotti Silky R&B-Trap & Commercial Vocal Beat",
+  "description": "Smooth, radio-ready urban R&B and melodic pop-trap instrumental inspired by Tiago PZK (Portales, Sola, Además de Mí, Salimo de Noche, Piel), featuring warm Rhodes chords and glossy 808s.",
+  "targetKeywords": [
+    "tiago pzk type beat",
+    "portales tiago pzk instrumental",
+    "melodic rnb trap beat argentina",
+    "tiago pzk sola beat",
+    "urban pop rap beat argentina"
+  ],
+  "heroCta": "Comprar Beat Tiago PZK (Instant WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Radio Pop-Rap Single, Romantic Urban Track and Commercial Video",
+  "similarArtists": [
+    "Tiago PZK",
+    "Khea",
+    "LIT killah",
+    "Rusherking"
+  ],
+  "recommendedBpm": "116-125 / 130 BPM",
+  "productionTips": "Silky electric piano chord progressions layered with clean, modern trap claps and rounded, warm 808s.",
+  "idealVocalStyle": "Rich vocal runs, emotive autotuned singing, catchy hooks, and smooth rhythmic verses.",
+  "suggestedKey": "Eb Major / C Minor",
+  "streamingSuitability": "Ideal for top 40 radio formatting, high-rotation Spotify editorial slots, and club DJ support."
+},
+  {
+  "slug": "nicki-nicole-naiki-rosario-soul-trap",
+  "title": "Nicki Nicole Naiki Rosario Soulful Urban R&B & Melodic Trap Beat",
+  "description": "Velvety, soulful Rosario urban R&B and melodic trap instrumental inspired by Nicki Nicole (Recuerdos, Parte de Mí, ALMA, Wapo Traketero, Dispara), with warm Rhodes keys and infectious pop-rap bounce.",
+  "targetKeywords": [
+    "nicki nicole type beat",
+    "wapo traketero instrumental",
+    "rosario soul trap beat",
+    "nicki nicole alma beat",
+    "female latin urban beat"
+  ],
+  "heroCta": "Comprar Beat Nicki Nicole (WAV 24-bit)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Soulful Urban Single, Melodic Pop-Rap Video and Intimate Vocal Showcase",
+  "similarArtists": [
+    "Nicki Nicole",
+    "Cazzu",
+    "Emilia",
+    "Maria Becerra"
+  ],
+  "recommendedBpm": "95-108 BPM",
+  "productionTips": "Warm Rhodes keyboard inversions washed in analog tape chorus with unquantized Neo-Soul drum pocket.",
+  "idealVocalStyle": "Velvety, flexible vocal delivery, emotional R&B phrasing, and infectious feminine swagger.",
+  "suggestedKey": "Ab Major / F Minor",
+  "streamingSuitability": "Consistent top-charting airplay on Latin radios, global streaming playlists, and viral reels."
+},
+  {
+  "slug": "rkt-cumbia-420-punteo-descontrol",
+  "title": "RKT Cumbia 420 Punteo Descontrol & Heavy Car Audio 98 BPM Beat",
+  "description": "High-octane, bass-shaking Argentine RKT Cumbia 420 instrumental inspired by El Noba, L-Gante, and Callejero Fino: pitch-bent synth punteos, 98 BPM syncopated dembow-cumbia kicks, and wall-shaking sub-bass.",
+  "targetKeywords": [
+    "rkt cumbia 420 beat",
+    "el noba type beat",
+    "turreo instrumental 98 bpm",
+    "punteo rkt cumbia beat",
+    "callejero fino rkt beat"
+  ],
+  "heroCta": "Comprar Beat RKT 420 (WAV + Stems)",
+  "energyLevel": "Maximum",
+  "primaryUse": "Car Audio Meet Banger, Boliche Party Anthem and High-Energy Dance Challenge",
+  "similarArtists": [
+    "L-Gante",
+    "Callejero Fino",
+    "La Joaqui",
+    "DJ Tao"
+  ],
+  "recommendedBpm": "96-100 BPM",
+  "productionTips": "Signature pitch-bent lead synths (punteos) with dry 98 BPM dembow kicks and subterranean sub-bass.",
+  "idealVocalStyle": "Rhythmic Argentine street slang, infectious party chants, and high-energy crowd-pumping delivery.",
+  "suggestedKey": "D Minor / A Minor",
+  "streamingSuitability": "Explosive viral spikes across TikTok dance challenges, boliches across South America, and car audio sound systems."
+},
+  {
+  "slug": "tango-bandoneon-boombap-porteño",
+  "title": "Buenos Aires Tango Bandoneón & Golden Era 90s Boom Bap Beat",
+  "description": "Nostalgic, culturally rich Argentine hip-hop fusion honoring traditional Buenos Aires Tango: authentic acoustic Bandoneón accordion runs and melancholic tango violin over dusty 90s boom bap drums.",
+  "targetKeywords": [
+    "tango boom bap beat",
+    "bandoneon rap beat argentina",
+    "buenos aires tango hip hop",
+    "tango fusion rap instrumental",
+    "porteño 90s boom bap"
+  ],
+  "heroCta": "Comprar Beat Tango-Boombap (Instant WAV)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Conscious Album Track, Cultural Cypher and Cinematic Buenos Aires Documentary",
+  "similarArtists": [
+    "Acru",
+    "Trueno",
+    "Wos",
+    "Astor Piazzolla Trap"
+  ],
+  "recommendedBpm": "88-93 BPM",
+  "productionTips": "Acoustic Bandoneón loops chopped on MPC pads with vinyl crackle and uncompressed acoustic drum kicks.",
+  "idealVocalStyle": "Dense, literary rhyme schemes, philosophical street observations on Buenos Aires, and classic cadence.",
+  "suggestedKey": "D Minor / A Minor",
+  "streamingSuitability": "Revered by hip-hop purists, cultural platforms, and conscious rap audiences across Argentina and Europe."
+},
+  {
+  "slug": "cordoba-cuarteto-trap-bouncing-groove",
+  "title": "Córdoba Cuarteto-Trap Festive Tumbao Piano & Bouncy 808 Beat",
+  "description": "High-energy, joyous cultural crossover blending Córdoba's iconic Cuarteto rhythms with modern 808 trap: live piano tumbaos, fast güira percussion, and bouncy modern trap kicks.",
+  "targetKeywords": [
+    "cuarteto trap beat cordoba",
+    "cordoba cuarteto rap instrumental",
+    "tumbao piano trap beat",
+    "cuarteto 808 beat argentina",
+    "baile cuarteto trap"
+  ],
+  "heroCta": "Comprar Beat Cuarteto-Trap (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Festive Street Single, Summer Carnival Anthem and High-Energy Dance Video",
+  "similarArtists": [
+    "La Mona Jiménez Trap",
+    "Paulo Londra",
+    "Luck Ra",
+    "La K'onga"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "productionTips": "Fast syncopated Cuarteto piano tumbaos layered with güira scrapers and bouncy modern 808 sub drops.",
+  "idealVocalStyle": "Lively Córdoba accent, celebratory party singing, rhythmic flows, and infectious singalong choruses.",
+  "suggestedKey": "G Major / E Minor",
+  "streamingSuitability": "Guaranteed dancefloor reaction, Córdoba festival rotation, and viral seasonal social media trends."
+},
+  {
+  "slug": "la-plata-diagonal-indie-cloud-trap",
+  "title": "La Plata Diagonales Rainy Autumn Indie Guitar & Cloud Trap Beat",
+  "description": "Atmospheric, rain-soaked university city soundtrack inspired by La Plata: hazy shoegaze/indie electric guitar chords, gentle rain textures, and relaxed cloud trap 808s.",
+  "targetKeywords": [
+    "la plata indie trap beat",
+    "indie rock trap beat argentina",
+    "shoegaze cloud trap instrumental",
+    "la plata rap beat 808",
+    "melancholic indie trap"
+  ],
+  "heroCta": "Comprar Beat La Plata Indie (Instant WAV)",
+  "energyLevel": "Medium",
+  "primaryUse": "Nocturnal Reflection, University Student Single and Aesthetic Rainy Visualizer",
+  "similarArtists": [
+    "Él Mató a un Policía Motorizado",
+    "Dillom",
+    "Wos",
+    "Tom Misch"
+  ],
+  "recommendedBpm": "118-126 BPM",
+  "productionTips": "Warm indie guitar picking with analog chorus and reverb layered over a soft, deep trap sub-bass pocket.",
+  "idealVocalStyle": "Vulnerable lyrics, melodic half-whispered flows, and emotionally honest late-night observations.",
+  "suggestedKey": "D Minor / G Major",
+  "streamingSuitability": "Continuous evergreen stream counts across indie alternative, study lofi, and moody playlists."
+},
+  {
+  "slug": "quinto-escalon-plaza-freestyle-cypher",
+  "title": "El Quinto Escalón Parque Rivadavia Legendary Plaza Freestyle Beat",
+  "description": "Monumental cultural tribute to the historic cradle of Argentine trap (El Quinto Escalón at Parque Rivadavia): raw vinyl scratches, punchy acoustic boom bap snares, and aggressive battle rhythm pocket.",
+  "targetKeywords": [
+    "quinto escalon type beat",
+    "parque rivadavia freestyle beat",
+    "batalla de gallos instrumental argentina",
+    "quinto escalon boom bap",
+    "plaza freestyle rap beat"
+  ],
+  "heroCta": "Comprar Beat Quinto Escalón (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Battle Rap Cypher, Aggressive Lyrical Showcase and Historic Tribute Video",
+  "similarArtists": [
+    "Duki",
+    "YSY A",
+    "Trueno",
+    "Wos"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "productionTips": "Analog boom bap drums with maximum mid-range punch and vinyl crackle leaving full space for battle delivery.",
+  "idealVocalStyle": "Aggressive freestyle delivery, hard punchlines, raw energy, and breathless battle rhyme schemes.",
+  "suggestedKey": "D Minor / C Minor",
+  "streamingSuitability": "Cherished by battle rap fans, freestyle leagues, and purist Argentine hip-hop audiences worldwide."
+},
+  {
+  "slug": "bases-trap-argentino-baratas-mercado-pago",
+  "title": "Bases de Trap Argentino Baratas desde $25.000 ARS (Mercado Pago & Ualá)",
+  "description": "Instrumentales profesionales de trap argentino, RKT y boombap desde $25.000 ARS con pago instantáneo en pesos argentinos mediante Mercado Pago (dinero en cuenta / CVU) y Ualá.",
+  "targetKeywords": [
+    "bases trap argentino baratas mercado pago",
+    "comprar bases de trap argentina uala",
+    "beats baratos pesos argentinos ars",
+    "instrumentales trap argentina mercado pago"
+  ],
+  "heroCta": "Ver Bases Baratas desde $25.000 ARS (Mercado Pago)",
+  "energyLevel": "Variable",
+  "primaryUse": "Mixtapes, Singles Debut y Grabaciones en Home Studio con Licencia Comercial",
+  "similarArtists": [
+    "Raperos Independientes Argentinos",
+    "Creadores de YouTube y TikTok"
+  ],
+  "recommendedBpm": "120-144 BPM",
+  "productionTips": "Pre-mezcladas y masterizadas con amplio margen dinámico para grabar voces en home studio.",
+  "idealVocalStyle": "Adaptable para canto melódico con autotune, rimas de trap de estadio y estilo de plaza.",
+  "suggestedKey": "Todas las tonalidades mayores y menores",
+  "streamingSuitability": "Licencia comercial que cubre hasta 100.000 reproducciones en Spotify, Apple Music y YouTube."
+},
+  {
+  "slug": "pistas-rkt-cumbia-420-stems-wav",
+  "title": "Pistas de RKT Cumbia 420 con Pistas Separadas Stems (Calidad Estudio WAV)",
+  "description": "Instrumentales de RKT Cumbia 420 y turreo con punteos de sintetizador y bajos demoledores, entregadas con todas las pistas de audio multipista separadas (stems WAV) para mezcla en estudio.",
+  "targetKeywords": [
+    "pistas rkt cumbia 420 stems wav",
+    "rkt cumbia pistas separadas download",
+    "comprar pistas rkt argentina wav 24 bit",
+    "turreo instrumental stems mercado pago"
+  ],
+  "heroCta": "Descargar Pistas RKT + Stems WAV",
+  "energyLevel": "Very High",
+  "primaryUse": "Grabación en Estudio Profesional, Mezcla Multipista y Boliches",
+  "similarArtists": [
+    "L-Gante",
+    "El Noba",
+    "Callejero Fino",
+    "La Joaqui"
+  ],
+  "recommendedBpm": "96-100 BPM",
+  "productionTips": "Cada sintetizador de punteo, bombo de dembow y bajo exportado en seco para control total.",
+  "idealVocalStyle": "Rimas de boliche, jerga argentina de barrio y estribillos fiesteros de alta energía.",
+  "suggestedKey": "Re menor / La menor",
+  "streamingSuitability": "Reproducciones ilimitadas y derechos de emisión en boliches, radio y videoclips incluidos."
+},
+  {
+  "slug": "bases-melodicas-piano-trap-argentina-wav",
+  "title": "Bases Melódicas de Piano Trap Argentina (WAV 24-Bit & Derechos SADAIC)",
+  "description": "Producciones emotivas de trap argentino con arreglos de piano acústico melancólico, cuerdas sentidas y bajos 808 profundos, listas para subir a Spotify y Apple Music en formato WAV de 24 bits.",
+  "targetKeywords": [
+    "bases melodicas piano trap argentina wav",
+    "piano trap beat argentina wav",
+    "bases de trap triste piano melancolico milo j",
+    "comprar instrumental piano trap caba"
+  ],
+  "heroCta": "Escuchar Bases Melódicas de Piano",
+  "energyLevel": "High",
+  "primaryUse": "Single Comercial Principal, Videoclip Emocional y Storytelling de Barrio",
+  "similarArtists": [
+    "Milo J",
+    "Khea",
+    "Duki",
+    "Tiago PZK"
+  ],
+  "recommendedBpm": "124-134 BPM",
+  "productionTips": "Pianos acústicos saturados en cinta analógica con pegada limpia en agudos y subgrave cálido.",
+  "idealVocalStyle": "Letras sinceras y vulnerables, estribillos melódicos y reflexiones personales.",
+  "suggestedKey": "Fa menor / La menor / Re menor",
+  "streamingSuitability": "Distribución comercial ilimitada en plataformas digitales con 100% de royalties master para el artista."
+},
+  {
+  "slug": "contrato-licencia-beat-sadaic-argentina-pdf",
+  "title": "Contrato de Licencia Beat SADAIC Argentina & Cede de Derechos (PDF Firmado)",
+  "description": "Contrato legal de producción musical vinculante conforme a la Ley 11.723 de Propiedad Intelectual en Argentina y normativa SADAIC: descarga tu contrato de licencia y split sheet al instante tras la compra.",
+  "targetKeywords": [
+    "contrato licencia beat sadaic argentina pdf",
+    "contrato cesion derechos beatmaker argentina",
+    "split sheet sadaic descarga inmediata",
+    "registro sadaic instrumental trap"
+  ],
+  "heroCta": "Ver Contrato de Licencia SADAIC (PDF)",
+  "energyLevel": "N/A",
+  "primaryUse": "Registro en SADAIC, Reparto de Derechos Editoriales y Protección Jurídica Integral",
+  "similarArtists": [
+    "Onzieb",
+    "Autores y Compositores Registrados en SADAIC"
+  ],
+  "recommendedBpm": "Todos los Tempos",
+  "productionTips": "Formulado para garantizar la seguridad legal absoluta del artista y los derechohabientes.",
+  "idealVocalStyle": "Válido para todos los géneros musicales, grabaciones de voz y lanzamientos comerciales.",
+  "suggestedKey": "Todas las Tonalidades",
+  "streamingSuitability": "Protección legal definitiva para distribución comercial mundial y sincronización audiovisual."
+},
+  {
+  "slug": "comprar-beats-mercado-pago-uala-argentina",
+  "title": "Comprar Beats en Argentina con Mercado Pago y Ualá (Pesos Argentinos ARS $)",
+  "description": "Compra instrumentales premium sin marcas de voz al instante utilizando los métodos de pago favoritos de Argentina: Mercado Pago (dinero en cuenta / CVU), Ualá y tarjetas con descarga automática en pesos (ARS $).",
+  "targetKeywords": [
+    "comprar beats mercado pago uala argentina",
+    "pagar beats con mercado pago caba",
+    "tienda de beats argentina pesos ars",
+    "comprar bases trap transferencia cvu"
+  ],
+  "heroCta": "Comprar Beats por Mercado Pago",
+  "energyLevel": "All Levels",
+  "primaryUse": "Compra Inmediata Sin Fricción para Artistas y Estudios en Toda Argentina",
+  "similarArtists": [
+    "Raperos y Productores Urbanos Argentinos"
+  ],
+  "recommendedBpm": "80-160 BPM",
+  "productionTips": "Generación automática del código QR o enlace de pago Mercado Pago para descarga en segundos.",
+  "idealVocalStyle": "Compatibilidad universal con cualquier estilo vocal o métrica.",
+  "suggestedKey": "Todas las Tonalidades",
+  "streamingSuitability": "Licencia comercial directa válida para subir inmediatamente a todas las plataformas digitales."
+},
+  {
+  "slug": "paquete-5-beats-album-argentina-descuento",
+  "title": "Paquete 5 Beats para Álbum y EP en Argentina (40% Descuento en Pesos ARS)",
+  "description": "El paquete definitivo para artistas independientes que preparan un proyecto completo (EP, mixtape o álbum): elige 5 o 10 instrumentales de todo el catálogo con hasta un 40% de descuento unificado.",
+  "targetKeywords": [
+    "paquete 5 beats album argentina descuento",
+    "bundle instrumentales ep trap argentina",
+    "comprar bases por mayor buenos aires ars",
+    "paquete de pistas trap barato argentina"
+  ],
+  "heroCta": "Conseguir Paquete Álbum (40% de Descuento)",
+  "energyLevel": "Variable",
+  "primaryUse": "Producción Completa de EP o Álbum, Dirección Sonora Coherente y Lanzamientos Periódicos",
+  "similarArtists": [
+    "Trappers y Productores Independientes en Argentina"
+  ],
+  "recommendedBpm": "85-145 BPM",
+  "productionTips": "Curaduría armónica y dinámica coordinada para garantizar una experiencia de escucha fluida en todo tu proyecto.",
+  "idealVocalStyle": "Lienzo amplio para desplegar toda la variedad métrica y melódica del artista.",
+  "suggestedKey": "Tonalidades Complementarias",
+  "streamingSuitability": "Licencia comercial única y global que cubre todas las pistas de tu proyecto a la vez."
+},
+  {
+  "slug": "productor-musical-argentina-whatsapp-onzieb",
+  "title": "Productor Musical Exclusivo para Artistas en Argentina (WhatsApp con Onzieb)",
+  "description": "Trabaja directamente con el productor musical Onzieb por WhatsApp para encargar instrumentales a medida: cambios de tono, adaptaciones de estructura, mezclas de pistas y arreglos personalizados de trap y RKT.",
+  "targetKeywords": [
+    "productor musical argentina whatsapp onzieb",
+    "onzieb productor trap argentina",
+    "encargar beat personalizado trap caba",
+    "beatmaker argentina contacto whatsapp"
+  ],
+  "heroCta": "Hablar con Onzieb por WhatsApp",
+  "energyLevel": "Personalizado",
+  "primaryUse": "Producción Exclusiva a Medida, Creación de Identidad Sonora y Singles Principales",
+  "similarArtists": [
+    "Onzieb",
+    "Productores Urbanos de Primer Nivel en Argentina"
+  ],
+  "recommendedBpm": "Ajustado a la respiración y ritmo natural del artista",
+  "productionTips": "Ajustes de estructura y mezcla en tiempo real mediante notas de voz e intercambio de stems en WhatsApp.",
+  "idealVocalStyle": "Diseñado a medida para resaltar el timbre, la fuerza y el rango dinámico del vocalista.",
+  "suggestedKey": "Tono Personalizado",
+  "streamingSuitability": "Contrato de cesión exclusiva con 100% de derechos master y monetización sin límites."
+},
+  {
+  "slug": "bases-boombap-argentino-acru-trueno",
+  "title": "Bases de Boom Bap Argentino Clásico (Estilo Acru, Trueno & Plazas)",
+  "description": "Instrumentales auténticas de hip-hop y boom bap argentino con muestras de jazz y soul de vinilo, bombos con pegada analógica y cajas secas inspiradas en las plazas y batallas de freestyle.",
+  "targetKeywords": [
+    "bases boombap argentino acru trueno",
+    "boom bap beat argentina wav",
+    "instrumental rap clasico buenos aires",
+    "acru style boom bap beat download"
+  ],
+  "heroCta": "Escuchar Bases de Boom Bap Argentino",
+  "energyLevel": "High",
+  "primaryUse": "Single de Rap Clásico, Freestyle de Plaza y Cypher Lirical",
+  "similarArtists": [
+    "Acru",
+    "Trueno",
+    "Wos",
+    "Urbanse"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "productionTips": "Sampleo clásico en estilo MPC con calidez de vinilo y cajas cortantes que dejan espacio al flow.",
+  "idealVocalStyle": "Métricas complejas, rimas multisilábicas, mensaje con contenido y entrega contundente.",
+  "suggestedKey": "Re Menor / Sol Menor",
+  "streamingSuitability": "Inmejorable para amantes del hip-hop estricto, competencias de rimas y oyentes de rap de culto."
+},
+  {
+  "slug": "bases-electro-trap-estilo-bizarrap",
+  "title": "Bases Electro-Trap y Club Sessions (Estilo BZRP Music Sessions WAV)",
+  "description": "Instrumentales comerciales de alta energía que combinan sintetizadores de club, drops electrónicos y baterías de trap con sidechain inspiradas en el sonido de las BZRP Music Sessions.",
+  "targetKeywords": [
+    "bases electro trap estilo bizarrap",
+    "bzrp session type beat wav",
+    "bizarrap style club trap beat",
+    "instrumental electro trap bzrp download"
+  ],
+  "heroCta": "Descubrir Beats Estilo BZRP",
+  "energyLevel": "Maximum",
+  "primaryUse": "Éxito Comercial Global, Banger de Festival y Single de Alto Impacto",
+  "similarArtists": [
+    "Bizarrap",
+    "Quevedo",
+    "Duki",
+    "Tiago PZK"
+  ],
+  "recommendedBpm": "126-130 BPM",
+  "productionTips": "Sintetizadores supersaw con compresión sidechain agresiva sobre bombos con pegada de club y subgraves pesados.",
+  "idealVocalStyle": "Estribillos pegadizos, melodías vocales épicas y barras aceleradas con actitud de fiesta.",
+  "suggestedKey": "Re Menor / Si Menor",
+  "streamingSuitability": "Excelente rendimiento en listas de éxitos globales, discotecas y pistas de baile de toda América Latina."
+},
+  {
+  "slug": "drum-kit-trap-argentino-gratis-wav",
+  "title": "Drum Kit de Trap Argentino & RKT Gratis (Samples WAV 24-Bit, 808s & Snares)",
+  "description": "Descarga gratis nuestro pack de sonidos para productores de música urbana argentina: 25 bajos 808 afinados, golpes secos de RKT, cajas con pegada y hi-hats en formato WAV 24-bit de estudio.",
+  "targetKeywords": [
+    "drum kit trap argentino gratis wav",
+    "libreria de sonidos rkt cumbia 420 gratis",
+    "808 samples descarga gratuita argentina",
+    "pack trap argentino fl studio download"
+  ],
+  "heroCta": "Descargar Drum Kit Gratis (ZIP)",
+  "energyLevel": "High",
+  "primaryUse": "Producción Musical en Home Studio, Beatmaking en FL Studio, Ableton y Logic Pro",
+  "similarArtists": [
+    "Beatmakers Independientes Argentinos",
+    "Productores Urbanos Emergentes"
+  ],
+  "recommendedBpm": "Compatible con todos los tempos",
+  "productionTips": "Sonidos one-shot 100% libres de derechos pre-masterizados con pegada analógica contundente.",
+  "idealVocalStyle": "Base rítmica sólida para la creación de instrumentales profesionales con el sonido característico argentino.",
+  "suggestedKey": "Afinado en Do (C) para una transposición inmediata en tu DAW",
+  "streamingSuitability": "Libre de derechos para la publicación de temas musicales comerciales y venta de beats."
+},
+  {
+  "slug": "caba-palermo-arg-trap-808",
+  "name": "Palermo Trap Argentino 808 Beats",
+  "category": "scene",
+  "badge": "Palermo Trap Argentino",
+  "headline": "Palermo (CABA & Nueva Ola Trap Porteño) Trap Argentino 808 Beats: Pistas WAV 24-Bit & Mercado Pago / Ualá",
+  "description": "Bajos 808 demoledores deslizantes, sintetizadores menores oscuros y cajas afiladas diseñadas para MCs en Palermo.",
+  "targetArtists": [
+    "Artistas de Palermo",
+    "Comunidad de Trap Argentino",
+    "Escena de Rap Porteño y Federal"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "Fa-Menor / Do-Menor",
+  "vibeAttributes": [
+    "Palermo",
+    "Trap Argentino",
+    "Pago Mercado Pago (ARS $)",
+    "100% Conforme SADAIC"
+  ],
+  "popularGenres": [
+    "Trap Argentino 808 Beats",
+    "Trap Argentino",
+    "RKT Cumbia 420"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "caba-palermo-arg-street-drill",
+  "name": "Palermo Argentine Street Drill Beats",
+  "category": "scene",
+  "badge": "Palermo Drill Argentino",
+  "headline": "Palermo (CABA & Nueva Ola Trap Porteño) Argentine Street Drill Beats: Pistas WAV 24-Bit & Mercado Pago / Ualá",
+  "description": "Pianos fríos melancólicos, hi-hats ultra rápidos y bajos en portamento creados para artistas de Palermo.",
+  "targetArtists": [
+    "Artistas de Palermo",
+    "Comunidad de Trap Argentino",
+    "Escena de Rap Porteño y Federal"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "Mi-Menor / Do#-Menor",
+  "vibeAttributes": [
+    "Palermo",
+    "Drill Argentino",
+    "Pago Mercado Pago (ARS $)",
+    "100% Conforme SADAIC"
+  ],
+  "popularGenres": [
+    "Argentine Street Drill Beats",
+    "Trap Argentino",
+    "RKT Cumbia 420"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "caba-palermo-rkt-cumbia-bounce",
+  "name": "Palermo RKT Cumbia 420 Bounce Beats",
+  "category": "scene",
+  "badge": "Palermo RKT 420",
+  "headline": "Palermo (CABA & Nueva Ola Trap Porteño) RKT Cumbia 420 Bounce Beats: Pistas WAV 24-Bit & Mercado Pago / Ualá",
+  "description": "Sintetizadores de punteo con pitch bend, dembow de 98 BPM y bajos arrolladores para la fiesta en Palermo.",
+  "targetArtists": [
+    "Artistas de Palermo",
+    "Comunidad de Trap Argentino",
+    "Escena de Rap Porteño y Federal"
+  ],
+  "recommendedBpm": "96-100 BPM",
+  "recommendedKey": "Re-Menor / La-Menor",
+  "vibeAttributes": [
+    "Palermo",
+    "RKT 420",
+    "Pago Mercado Pago (ARS $)",
+    "100% Conforme SADAIC"
+  ],
+  "popularGenres": [
+    "RKT Cumbia 420 Bounce Beats",
+    "Trap Argentino",
+    "RKT Cumbia 420"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "caba-palermo-rio-plata-boom-bap",
+  "name": "Palermo Río de la Plata Classic Boom Bap",
+  "category": "scene",
+  "badge": "Palermo Boombap Rioplatense",
+  "headline": "Palermo (CABA & Nueva Ola Trap Porteño) Río de la Plata Classic Boom Bap: Pistas WAV 24-Bit & Mercado Pago / Ualá",
+  "description": "Muestras de vinilo con textura, bombos analógicos con pegada y bajos redondos para los poetas de Palermo.",
+  "targetArtists": [
+    "Artistas de Palermo",
+    "Comunidad de Trap Argentino",
+    "Escena de Rap Porteño y Federal"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "Si-Menor / Re-Menor",
+  "vibeAttributes": [
+    "Palermo",
+    "Boombap Rioplatense",
+    "Pago Mercado Pago (ARS $)",
+    "100% Conforme SADAIC"
+  ],
+  "popularGenres": [
+    "Río de la Plata Classic Boom Bap",
+    "Trap Argentino",
+    "RKT Cumbia 420"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "caba-laboca-arg-trap-808",
+  "name": "La Boca Trap Argentino 808 Beats",
+  "category": "scene",
+  "badge": "La Boca Trap Argentino",
+  "headline": "La Boca (San Telmo & Golden Era Boombap) Trap Argentino 808 Beats: Pistas WAV 24-Bit & Mercado Pago / Ualá",
+  "description": "Bajos 808 demoledores deslizantes, sintetizadores menores oscuros y cajas afiladas diseñadas para MCs en La Boca.",
+  "targetArtists": [
+    "Artistas de La Boca",
+    "Comunidad de Trap Argentino",
+    "Escena de Rap Porteño y Federal"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "Fa-Menor / Do-Menor",
+  "vibeAttributes": [
+    "La Boca",
+    "Trap Argentino",
+    "Pago Mercado Pago (ARS $)",
+    "100% Conforme SADAIC"
+  ],
+  "popularGenres": [
+    "Trap Argentino 808 Beats",
+    "Trap Argentino",
+    "RKT Cumbia 420"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "caba-laboca-arg-street-drill",
+  "name": "La Boca Argentine Street Drill Beats",
+  "category": "scene",
+  "badge": "La Boca Drill Argentino",
+  "headline": "La Boca (San Telmo & Golden Era Boombap) Argentine Street Drill Beats: Pistas WAV 24-Bit & Mercado Pago / Ualá",
+  "description": "Pianos fríos melancólicos, hi-hats ultra rápidos y bajos en portamento creados para artistas de La Boca.",
+  "targetArtists": [
+    "Artistas de La Boca",
+    "Comunidad de Trap Argentino",
+    "Escena de Rap Porteño y Federal"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "Mi-Menor / Do#-Menor",
+  "vibeAttributes": [
+    "La Boca",
+    "Drill Argentino",
+    "Pago Mercado Pago (ARS $)",
+    "100% Conforme SADAIC"
+  ],
+  "popularGenres": [
+    "Argentine Street Drill Beats",
+    "Trap Argentino",
+    "RKT Cumbia 420"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "caba-laboca-rkt-cumbia-bounce",
+  "name": "La Boca RKT Cumbia 420 Bounce Beats",
+  "category": "scene",
+  "badge": "La Boca RKT 420",
+  "headline": "La Boca (San Telmo & Golden Era Boombap) RKT Cumbia 420 Bounce Beats: Pistas WAV 24-Bit & Mercado Pago / Ualá",
+  "description": "Sintetizadores de punteo con pitch bend, dembow de 98 BPM y bajos arrolladores para la fiesta en La Boca.",
+  "targetArtists": [
+    "Artistas de La Boca",
+    "Comunidad de Trap Argentino",
+    "Escena de Rap Porteño y Federal"
+  ],
+  "recommendedBpm": "96-100 BPM",
+  "recommendedKey": "Re-Menor / La-Menor",
+  "vibeAttributes": [
+    "La Boca",
+    "RKT 420",
+    "Pago Mercado Pago (ARS $)",
+    "100% Conforme SADAIC"
+  ],
+  "popularGenres": [
+    "RKT Cumbia 420 Bounce Beats",
+    "Trap Argentino",
+    "RKT Cumbia 420"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "caba-laboca-rio-plata-boom-bap",
+  "name": "La Boca Río de la Plata Classic Boom Bap",
+  "category": "scene",
+  "badge": "La Boca Boombap Rioplatense",
+  "headline": "La Boca (San Telmo & Golden Era Boombap) Río de la Plata Classic Boom Bap: Pistas WAV 24-Bit & Mercado Pago / Ualá",
+  "description": "Muestras de vinilo con textura, bombos analógicos con pegada y bajos redondos para los poetas de La Boca.",
+  "targetArtists": [
+    "Artistas de La Boca",
+    "Comunidad de Trap Argentino",
+    "Escena de Rap Porteño y Federal"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "Si-Menor / Re-Menor",
+  "vibeAttributes": [
+    "La Boca",
+    "Boombap Rioplatense",
+    "Pago Mercado Pago (ARS $)",
+    "100% Conforme SADAIC"
+  ],
+  "popularGenres": [
+    "Río de la Plata Classic Boom Bap",
+    "Trap Argentino",
+    "RKT Cumbia 420"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "conurbano-sur-arg-trap-808",
+  "name": "Lanús Trap Argentino 808 Beats",
+  "category": "scene",
+  "badge": "Lanús Trap Argentino",
+  "headline": "Lanús (Conurbano Sur & RKT de Potrero) Trap Argentino 808 Beats: Pistas WAV 24-Bit & Mercado Pago / Ualá",
+  "description": "Bajos 808 demoledores deslizantes, sintetizadores menores oscuros y cajas afiladas diseñadas para MCs en Lanús.",
+  "targetArtists": [
+    "Artistas de Lanús",
+    "Comunidad de Trap Argentino",
+    "Escena de Rap Porteño y Federal"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "Fa-Menor / Do-Menor",
+  "vibeAttributes": [
+    "Lanús",
+    "Trap Argentino",
+    "Pago Mercado Pago (ARS $)",
+    "100% Conforme SADAIC"
+  ],
+  "popularGenres": [
+    "Trap Argentino 808 Beats",
+    "Trap Argentino",
+    "RKT Cumbia 420"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "conurbano-sur-arg-street-drill",
+  "name": "Lanús Argentine Street Drill Beats",
+  "category": "scene",
+  "badge": "Lanús Drill Argentino",
+  "headline": "Lanús (Conurbano Sur & RKT de Potrero) Argentine Street Drill Beats: Pistas WAV 24-Bit & Mercado Pago / Ualá",
+  "description": "Pianos fríos melancólicos, hi-hats ultra rápidos y bajos en portamento creados para artistas de Lanús.",
+  "targetArtists": [
+    "Artistas de Lanús",
+    "Comunidad de Trap Argentino",
+    "Escena de Rap Porteño y Federal"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "Mi-Menor / Do#-Menor",
+  "vibeAttributes": [
+    "Lanús",
+    "Drill Argentino",
+    "Pago Mercado Pago (ARS $)",
+    "100% Conforme SADAIC"
+  ],
+  "popularGenres": [
+    "Argentine Street Drill Beats",
+    "Trap Argentino",
+    "RKT Cumbia 420"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "conurbano-sur-rkt-cumbia-bounce",
+  "name": "Lanús RKT Cumbia 420 Bounce Beats",
+  "category": "scene",
+  "badge": "Lanús RKT 420",
+  "headline": "Lanús (Conurbano Sur & RKT de Potrero) RKT Cumbia 420 Bounce Beats: Pistas WAV 24-Bit & Mercado Pago / Ualá",
+  "description": "Sintetizadores de punteo con pitch bend, dembow de 98 BPM y bajos arrolladores para la fiesta en Lanús.",
+  "targetArtists": [
+    "Artistas de Lanús",
+    "Comunidad de Trap Argentino",
+    "Escena de Rap Porteño y Federal"
+  ],
+  "recommendedBpm": "96-100 BPM",
+  "recommendedKey": "Re-Menor / La-Menor",
+  "vibeAttributes": [
+    "Lanús",
+    "RKT 420",
+    "Pago Mercado Pago (ARS $)",
+    "100% Conforme SADAIC"
+  ],
+  "popularGenres": [
+    "RKT Cumbia 420 Bounce Beats",
+    "Trap Argentino",
+    "RKT Cumbia 420"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "conurbano-sur-rio-plata-boom-bap",
+  "name": "Lanús Río de la Plata Classic Boom Bap",
+  "category": "scene",
+  "badge": "Lanús Boombap Rioplatense",
+  "headline": "Lanús (Conurbano Sur & RKT de Potrero) Río de la Plata Classic Boom Bap: Pistas WAV 24-Bit & Mercado Pago / Ualá",
+  "description": "Muestras de vinilo con textura, bombos analógicos con pegada y bajos redondos para los poetas de Lanús.",
+  "targetArtists": [
+    "Artistas de Lanús",
+    "Comunidad de Trap Argentino",
+    "Escena de Rap Porteño y Federal"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "Si-Menor / Re-Menor",
+  "vibeAttributes": [
+    "Lanús",
+    "Boombap Rioplatense",
+    "Pago Mercado Pago (ARS $)",
+    "100% Conforme SADAIC"
+  ],
+  "popularGenres": [
+    "Río de la Plata Classic Boom Bap",
+    "Trap Argentino",
+    "RKT Cumbia 420"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "cordoba-guemes-arg-trap-808",
+  "name": "Córdoba Trap Argentino 808 Beats",
+  "category": "scene",
+  "badge": "Córdoba Trap Argentino",
+  "headline": "Córdoba (Nueva Córdoba & Cuarteto-Trap) Trap Argentino 808 Beats: Pistas WAV 24-Bit & Mercado Pago / Ualá",
+  "description": "Bajos 808 demoledores deslizantes, sintetizadores menores oscuros y cajas afiladas diseñadas para MCs en Córdoba.",
+  "targetArtists": [
+    "Artistas de Córdoba",
+    "Comunidad de Trap Argentino",
+    "Escena de Rap Porteño y Federal"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "Fa-Menor / Do-Menor",
+  "vibeAttributes": [
+    "Córdoba",
+    "Trap Argentino",
+    "Pago Mercado Pago (ARS $)",
+    "100% Conforme SADAIC"
+  ],
+  "popularGenres": [
+    "Trap Argentino 808 Beats",
+    "Trap Argentino",
+    "RKT Cumbia 420"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "cordoba-guemes-arg-street-drill",
+  "name": "Córdoba Argentine Street Drill Beats",
+  "category": "scene",
+  "badge": "Córdoba Drill Argentino",
+  "headline": "Córdoba (Nueva Córdoba & Cuarteto-Trap) Argentine Street Drill Beats: Pistas WAV 24-Bit & Mercado Pago / Ualá",
+  "description": "Pianos fríos melancólicos, hi-hats ultra rápidos y bajos en portamento creados para artistas de Córdoba.",
+  "targetArtists": [
+    "Artistas de Córdoba",
+    "Comunidad de Trap Argentino",
+    "Escena de Rap Porteño y Federal"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "Mi-Menor / Do#-Menor",
+  "vibeAttributes": [
+    "Córdoba",
+    "Drill Argentino",
+    "Pago Mercado Pago (ARS $)",
+    "100% Conforme SADAIC"
+  ],
+  "popularGenres": [
+    "Argentine Street Drill Beats",
+    "Trap Argentino",
+    "RKT Cumbia 420"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "cordoba-guemes-rkt-cumbia-bounce",
+  "name": "Córdoba RKT Cumbia 420 Bounce Beats",
+  "category": "scene",
+  "badge": "Córdoba RKT 420",
+  "headline": "Córdoba (Nueva Córdoba & Cuarteto-Trap) RKT Cumbia 420 Bounce Beats: Pistas WAV 24-Bit & Mercado Pago / Ualá",
+  "description": "Sintetizadores de punteo con pitch bend, dembow de 98 BPM y bajos arrolladores para la fiesta en Córdoba.",
+  "targetArtists": [
+    "Artistas de Córdoba",
+    "Comunidad de Trap Argentino",
+    "Escena de Rap Porteño y Federal"
+  ],
+  "recommendedBpm": "96-100 BPM",
+  "recommendedKey": "Re-Menor / La-Menor",
+  "vibeAttributes": [
+    "Córdoba",
+    "RKT 420",
+    "Pago Mercado Pago (ARS $)",
+    "100% Conforme SADAIC"
+  ],
+  "popularGenres": [
+    "RKT Cumbia 420 Bounce Beats",
+    "Trap Argentino",
+    "RKT Cumbia 420"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "cordoba-guemes-rio-plata-boom-bap",
+  "name": "Córdoba Río de la Plata Classic Boom Bap",
+  "category": "scene",
+  "badge": "Córdoba Boombap Rioplatense",
+  "headline": "Córdoba (Nueva Córdoba & Cuarteto-Trap) Río de la Plata Classic Boom Bap: Pistas WAV 24-Bit & Mercado Pago / Ualá",
+  "description": "Muestras de vinilo con textura, bombos analógicos con pegada y bajos redondos para los poetas de Córdoba.",
+  "targetArtists": [
+    "Artistas de Córdoba",
+    "Comunidad de Trap Argentino",
+    "Escena de Rap Porteño y Federal"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "Si-Menor / Re-Menor",
+  "vibeAttributes": [
+    "Córdoba",
+    "Boombap Rioplatense",
+    "Pago Mercado Pago (ARS $)",
+    "100% Conforme SADAIC"
+  ],
+  "popularGenres": [
+    "Río de la Plata Classic Boom Bap",
+    "Trap Argentino",
+    "RKT Cumbia 420"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "rosario-costa-arg-trap-808",
+  "name": "Rosario Trap Argentino 808 Beats",
+  "category": "scene",
+  "badge": "Rosario Trap Argentino",
+  "headline": "Rosario (Costanera del Paraná & R&B Melódico) Trap Argentino 808 Beats: Pistas WAV 24-Bit & Mercado Pago / Ualá",
+  "description": "Bajos 808 demoledores deslizantes, sintetizadores menores oscuros y cajas afiladas diseñadas para MCs en Rosario.",
+  "targetArtists": [
+    "Artistas de Rosario",
+    "Comunidad de Trap Argentino",
+    "Escena de Rap Porteño y Federal"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "Fa-Menor / Do-Menor",
+  "vibeAttributes": [
+    "Rosario",
+    "Trap Argentino",
+    "Pago Mercado Pago (ARS $)",
+    "100% Conforme SADAIC"
+  ],
+  "popularGenres": [
+    "Trap Argentino 808 Beats",
+    "Trap Argentino",
+    "RKT Cumbia 420"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "rosario-costa-arg-street-drill",
+  "name": "Rosario Argentine Street Drill Beats",
+  "category": "scene",
+  "badge": "Rosario Drill Argentino",
+  "headline": "Rosario (Costanera del Paraná & R&B Melódico) Argentine Street Drill Beats: Pistas WAV 24-Bit & Mercado Pago / Ualá",
+  "description": "Pianos fríos melancólicos, hi-hats ultra rápidos y bajos en portamento creados para artistas de Rosario.",
+  "targetArtists": [
+    "Artistas de Rosario",
+    "Comunidad de Trap Argentino",
+    "Escena de Rap Porteño y Federal"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "Mi-Menor / Do#-Menor",
+  "vibeAttributes": [
+    "Rosario",
+    "Drill Argentino",
+    "Pago Mercado Pago (ARS $)",
+    "100% Conforme SADAIC"
+  ],
+  "popularGenres": [
+    "Argentine Street Drill Beats",
+    "Trap Argentino",
+    "RKT Cumbia 420"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "rosario-costa-rkt-cumbia-bounce",
+  "name": "Rosario RKT Cumbia 420 Bounce Beats",
+  "category": "scene",
+  "badge": "Rosario RKT 420",
+  "headline": "Rosario (Costanera del Paraná & R&B Melódico) RKT Cumbia 420 Bounce Beats: Pistas WAV 24-Bit & Mercado Pago / Ualá",
+  "description": "Sintetizadores de punteo con pitch bend, dembow de 98 BPM y bajos arrolladores para la fiesta en Rosario.",
+  "targetArtists": [
+    "Artistas de Rosario",
+    "Comunidad de Trap Argentino",
+    "Escena de Rap Porteño y Federal"
+  ],
+  "recommendedBpm": "96-100 BPM",
+  "recommendedKey": "Re-Menor / La-Menor",
+  "vibeAttributes": [
+    "Rosario",
+    "RKT 420",
+    "Pago Mercado Pago (ARS $)",
+    "100% Conforme SADAIC"
+  ],
+  "popularGenres": [
+    "RKT Cumbia 420 Bounce Beats",
+    "Trap Argentino",
+    "RKT Cumbia 420"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "rosario-costa-rio-plata-boom-bap",
+  "name": "Rosario Río de la Plata Classic Boom Bap",
+  "category": "scene",
+  "badge": "Rosario Boombap Rioplatense",
+  "headline": "Rosario (Costanera del Paraná & R&B Melódico) Río de la Plata Classic Boom Bap: Pistas WAV 24-Bit & Mercado Pago / Ualá",
+  "description": "Muestras de vinilo con textura, bombos analógicos con pegada y bajos redondos para los poetas de Rosario.",
+  "targetArtists": [
+    "Artistas de Rosario",
+    "Comunidad de Trap Argentino",
+    "Escena de Rap Porteño y Federal"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "Si-Menor / Re-Menor",
+  "vibeAttributes": [
+    "Rosario",
+    "Boombap Rioplatense",
+    "Pago Mercado Pago (ARS $)",
+    "100% Conforme SADAIC"
+  ],
+  "popularGenres": [
+    "Río de la Plata Classic Boom Bap",
+    "Trap Argentino",
+    "RKT Cumbia 420"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "mendoza-cuyo-arg-trap-808",
+  "name": "Mendoza Trap Argentino 808 Beats",
+  "category": "scene",
+  "badge": "Mendoza Trap Argentino",
+  "headline": "Mendoza (Godoy Cruz & Trap Andino) Trap Argentino 808 Beats: Pistas WAV 24-Bit & Mercado Pago / Ualá",
+  "description": "Bajos 808 demoledores deslizantes, sintetizadores menores oscuros y cajas afiladas diseñadas para MCs en Mendoza.",
+  "targetArtists": [
+    "Artistas de Mendoza",
+    "Comunidad de Trap Argentino",
+    "Escena de Rap Porteño y Federal"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "recommendedKey": "Fa-Menor / Do-Menor",
+  "vibeAttributes": [
+    "Mendoza",
+    "Trap Argentino",
+    "Pago Mercado Pago (ARS $)",
+    "100% Conforme SADAIC"
+  ],
+  "popularGenres": [
+    "Trap Argentino 808 Beats",
+    "Trap Argentino",
+    "RKT Cumbia 420"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "mendoza-cuyo-arg-street-drill",
+  "name": "Mendoza Argentine Street Drill Beats",
+  "category": "scene",
+  "badge": "Mendoza Drill Argentino",
+  "headline": "Mendoza (Godoy Cruz & Trap Andino) Argentine Street Drill Beats: Pistas WAV 24-Bit & Mercado Pago / Ualá",
+  "description": "Pianos fríos melancólicos, hi-hats ultra rápidos y bajos en portamento creados para artistas de Mendoza.",
+  "targetArtists": [
+    "Artistas de Mendoza",
+    "Comunidad de Trap Argentino",
+    "Escena de Rap Porteño y Federal"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "Mi-Menor / Do#-Menor",
+  "vibeAttributes": [
+    "Mendoza",
+    "Drill Argentino",
+    "Pago Mercado Pago (ARS $)",
+    "100% Conforme SADAIC"
+  ],
+  "popularGenres": [
+    "Argentine Street Drill Beats",
+    "Trap Argentino",
+    "RKT Cumbia 420"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "mendoza-cuyo-rkt-cumbia-bounce",
+  "name": "Mendoza RKT Cumbia 420 Bounce Beats",
+  "category": "scene",
+  "badge": "Mendoza RKT 420",
+  "headline": "Mendoza (Godoy Cruz & Trap Andino) RKT Cumbia 420 Bounce Beats: Pistas WAV 24-Bit & Mercado Pago / Ualá",
+  "description": "Sintetizadores de punteo con pitch bend, dembow de 98 BPM y bajos arrolladores para la fiesta en Mendoza.",
+  "targetArtists": [
+    "Artistas de Mendoza",
+    "Comunidad de Trap Argentino",
+    "Escena de Rap Porteño y Federal"
+  ],
+  "recommendedBpm": "96-100 BPM",
+  "recommendedKey": "Re-Menor / La-Menor",
+  "vibeAttributes": [
+    "Mendoza",
+    "RKT 420",
+    "Pago Mercado Pago (ARS $)",
+    "100% Conforme SADAIC"
+  ],
+  "popularGenres": [
+    "RKT Cumbia 420 Bounce Beats",
+    "Trap Argentino",
+    "RKT Cumbia 420"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "mendoza-cuyo-rio-plata-boom-bap",
+  "name": "Mendoza Río de la Plata Classic Boom Bap",
+  "category": "scene",
+  "badge": "Mendoza Boombap Rioplatense",
+  "headline": "Mendoza (Godoy Cruz & Trap Andino) Río de la Plata Classic Boom Bap: Pistas WAV 24-Bit & Mercado Pago / Ualá",
+  "description": "Muestras de vinilo con textura, bombos analógicos con pegada y bajos redondos para los poetas de Mendoza.",
+  "targetArtists": [
+    "Artistas de Mendoza",
+    "Comunidad de Trap Argentino",
+    "Escena de Rap Porteño y Federal"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "Si-Menor / Re-Menor",
+  "vibeAttributes": [
+    "Mendoza",
+    "Boombap Rioplatense",
+    "Pago Mercado Pago (ARS $)",
+    "100% Conforme SADAIC"
+  ],
+  "popularGenres": [
+    "Río de la Plata Classic Boom Bap",
+    "Trap Argentino",
+    "RKT Cumbia 420"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
 ];
