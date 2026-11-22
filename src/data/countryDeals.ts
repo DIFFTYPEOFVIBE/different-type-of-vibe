@@ -44858,4 +44858,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "ph/taguig-bgc-uptown": {
+  "slug": "ph/taguig-bgc-uptown",
+  "name": "Philippines – Taguig: Bonifacio Global City (BGC), Uptown & High Street (Metro Manila Financial Core, Sleek Neo-Soul & International R&B)",
+  "flag": "🇵🇭",
+  "currency": "PHP (₱) / USD ($)",
+  "currencyCode": "PHP",
+  "gateways": "GCash (Scan QR / Mobile Number), Maya, GrabPay, BDO / BPI Online Banking, Credit/Debit Cards, Apple Pay, PayPal, Stripe",
+  "pro": "FILSCAP / IPOPHL",
+  "proFullName": "FILSCAP (Filipino Society of Composers, Authors and Publishers) / IPOPHL",
+  "proGuide": "100% compliant with the Intellectual Property Code of the Philippines (Republic Act No. 8293) and FILSCAP registration with instant downloadable signed licensing contract and split sheet PDF.",
+  "headline": "Beats in BGC Taguig: Skyline Glow, Warm Electric Pianos & International Pinoy R&B",
+  "description": "The sleek, cosmopolitan heart of Metro Manila: lush Fender Rhodes chords, sophisticated chord progressions, and modern drums for R&B singers, neo-soul artists, and producers in BGC and Taguig.",
+  "popularGenres": [
+    "BGC Neo-Soul",
+    "Manila Slick R&B",
+    "Cosmopolitan Urban Pop"
+  ],
+  "subClusters": []
+},
+  "ph/muntinlupa-alabang": {
+  "slug": "ph/muntinlupa-alabang",
+  "name": "Philippines – Muntinlupa: Alabang, Ayala Alabang & Filinvest (South Metro Manila, Chill Suburban R&B, Acoustic Vibes & Cloud Trap)",
+  "flag": "🇵🇭",
+  "currency": "PHP (₱) / USD ($)",
+  "currencyCode": "PHP",
+  "gateways": "GCash (Scan QR / Mobile Number), Maya, GrabPay, BDO / BPI Online Banking, Credit/Debit Cards, Apple Pay, PayPal, Stripe",
+  "pro": "FILSCAP / IPOPHL",
+  "proFullName": "FILSCAP (Filipino Society of Composers, Authors and Publishers) / IPOPHL",
+  "proGuide": "Uncompressed 24-bit 48kHz studio WAV files with separated multitrack stems and commercial license.",
+  "headline": "Beats in Alabang & South Metro: Chill Suburban Breezes, Acoustic Guitars & Smooth Cloud Trap",
+  "description": "The relaxed, sunny lifestyle of southern Metro Manila: warm nylon guitars, airy vocal pads, and laid-back 808 pockets tailored for OPM chillhop, bedroom pop, and melodic rap in Muntinlupa and Alabang.",
+  "popularGenres": [
+    "Alabang Chillhop",
+    "South Metro Melodic Rap",
+    "Acoustic OPM Trap"
+  ],
+  "subClusters": []
+},
+  "ph/mandaluyong-ortigas": {
+  "slug": "ph/mandaluyong-ortigas",
+  "name": "Philippines – Mandaluyong & Ortigas: Greenfield & Shaw Boulevard (The Tiger City, Fast-Paced Radio Urban & Commercial 808s)",
+  "flag": "🇵🇭",
+  "currency": "PHP (₱) / USD ($)",
+  "currencyCode": "PHP",
+  "gateways": "GCash (Scan QR / Mobile Number), Maya, GrabPay, BDO / BPI Online Banking, Credit/Debit Cards, Apple Pay, PayPal, Stripe",
+  "pro": "FILSCAP / IPOPHL",
+  "proFullName": "FILSCAP (Filipino Society of Composers, Authors and Publishers) / IPOPHL",
+  "proGuide": "Instant digital delivery with split sheet and licensing contract for Spotify and Apple Music distribution.",
+  "headline": "Beats in Mandaluyong & Ortigas: High-Energy Radio Hits, Polished Synths & Commercial Pinoy Bounce",
+  "description": "Connecting the northern and southern hubs of the metropolis: driving synth arpeggios, punchy claps, and radio-ready arrangements for chart-topping Filipino urban artists.",
+  "popularGenres": [
+    "Mandaluyong Commercial Trap",
+    "Ortigas Radio Banger",
+    "Metro Manila Pop-Rap"
+  ],
+  "subClusters": []
+},
+  "ph/las-pinas-zapote": {
+  "slug": "ph/las-pinas-zapote",
+  "name": "Philippines – Las Piñas: Zapote, BF Resort & Bamboo Organ (South Metro Melodic Rap, Smooth Tagalog Bars & Warm Acoustic Dembow)",
+  "flag": "🇵🇭",
+  "currency": "PHP (₱) / USD ($)",
+  "currencyCode": "PHP",
+  "gateways": "GCash (Scan QR / Mobile Number), Maya, GrabPay, BDO / BPI Online Banking, Credit/Debit Cards, Apple Pay, PayPal, Stripe",
+  "pro": "FILSCAP / IPOPHL",
+  "proFullName": "FILSCAP (Filipino Society of Composers, Authors and Publishers) / IPOPHL",
+  "proGuide": "Direct mobile wallet payment via GCash and Maya with instant master and stem downloads.",
+  "headline": "Beats in Las Piñas & Zapote: Southside Melodic Flows, Soulful Chords & Smooth Tagalog Bars",
+  "description": "Where historic heritage blends with modern southside melodies: soulful guitar samples, warm sub-bass, and unhurried rhythms for melodic MCs across Las Piñas and Zapote.",
+  "popularGenres": [
+    "Las Piñas Melodic Rap",
+    "Southside Tagalog R&B",
+    "Bamboo Organ Soul"
+  ],
+  "subClusters": []
+},
+  "ph/marikina-riverbanks": {
+  "slug": "ph/marikina-riverbanks",
+  "name": "Philippines – Marikina: Riverbanks, Concepcion & Shoe Capital (Indie Hip-Hop Vanguard, Conscious Pinoy Boom Bap & Lo-Fi Beats)",
+  "flag": "🇵🇭",
+  "currency": "PHP (₱) / USD ($)",
+  "currencyCode": "PHP",
+  "gateways": "GCash (Scan QR / Mobile Number), Maya, GrabPay, BDO / BPI Online Banking, Credit/Debit Cards, Apple Pay, PayPal, Stripe",
+  "pro": "FILSCAP / IPOPHL",
+  "proFullName": "FILSCAP (Filipino Society of Composers, Authors and Publishers) / IPOPHL",
+  "proGuide": "100% royalty-free original compositions with no sample clearance complications.",
+  "headline": "Beats in Marikina: Riverbank Breezes, Dusty Vinyl Drums & Conscious Pinoy Boom Bap",
+  "description": "The creative and artisanal haven of eastern Metro Manila: authentic vinyl crackle, soulful jazz chops, and unquantized acoustic drum swing for lyrical storytellers in Marikina.",
+  "popularGenres": [
+    "Marikina Boom Bap",
+    "Conscious Pinoy Hip-Hop",
+    "Riverbank Lo-Fi"
+  ],
+  "subClusters": []
+},
+  "ph/rizal-antipolo-taytay": {
+  "slug": "ph/rizal-antipolo-taytay",
+  "name": "Philippines – Rizal: Antipolo, Taytay & Cainta (East Metro Ridges, Overlooking Manila Melodic Trap & Sunset R&B)",
+  "flag": "🇵🇭",
+  "currency": "PHP (₱) / USD ($)",
+  "currencyCode": "PHP",
+  "gateways": "GCash (Scan QR / Mobile Number), Maya, GrabPay, BDO / BPI Online Banking, Credit/Debit Cards, Apple Pay, PayPal, Stripe",
+  "pro": "FILSCAP / IPOPHL",
+  "proFullName": "FILSCAP (Filipino Society of Composers, Authors and Publishers) / IPOPHL",
+  "proGuide": "Commercial licensing agreement protecting publishing, sync, and streaming rights under Philippine copyright law.",
+  "headline": "Beats in Antipolo & Rizal: Overlooking Manila City Lights, Sunset Pianos & Atmospheric Cloud Rap",
+  "description": "Perched on the mountain ridges overlooking the metropolis: sweeping atmospheric synthesizers, melancholic acoustic chords, and resonant 808s for vocalists in Antipolo, Taytay, and Rizal.",
+  "popularGenres": [
+    "Antipolo Overlook Trap",
+    "Rizal Sunset R&B",
+    "East Ridge Cloud Rap"
+  ],
+  "subClusters": []
+},
+  "ph/bulacan-malolos-meycauayan": {
+  "slug": "ph/bulacan-malolos-meycauayan",
+  "name": "Philippines – Bulacan: Malolos, Meycauayan & San Jose del Monte (Central Luzon Urban Corridor, Raw Street Trap & Battle Rap Bars)",
+  "flag": "🇵🇭",
+  "currency": "PHP (₱) / USD ($)",
+  "currencyCode": "PHP",
+  "gateways": "GCash (Scan QR / Mobile Number), Maya, GrabPay, BDO / BPI Online Banking, Credit/Debit Cards, Apple Pay, PayPal, Stripe",
+  "pro": "FILSCAP / IPOPHL",
+  "proFullName": "FILSCAP (Filipino Society of Composers, Authors and Publishers) / IPOPHL",
+  "proGuide": "Studio-grade master files normalized to streaming loudness standards (-14 LUFS) for immediate release.",
+  "headline": "Beats in Bulacan: Historical Cradle, Gritty Street Realities & Hard-Hitting Battle Rap 808s",
+  "description": "The northern gateway to Central Luzon: aggressive minor bells, punchy snares, and heavy sliding 808s tailored for battle rappers and street storytellers in Bulacan.",
+  "popularGenres": [
+    "Bulacan Street Trap",
+    "Central Luzon Battle Rap",
+    "Malolos Dark 808"
+  ],
+  "subClusters": []
+},
+  "ph/angeles-clark-pampanga": {
+  "slug": "ph/angeles-clark-pampanga",
+  "name": "Philippines – Angeles City & Clark Freeport: Balibago & Friendship Highway (Culinary & Nightlife Capital, Heavy Club Trap & Afro-Pinoy Bounce)",
+  "flag": "🇵🇭",
+  "currency": "PHP (₱) / USD ($)",
+  "currencyCode": "PHP",
+  "gateways": "GCash (Scan QR / Mobile Number), Maya, GrabPay, BDO / BPI Online Banking, Credit/Debit Cards, Apple Pay, PayPal, Stripe",
+  "pro": "FILSCAP / IPOPHL",
+  "proFullName": "FILSCAP (Filipino Society of Composers, Authors and Publishers) / IPOPHL",
+  "proGuide": "Non-exclusive and exclusive licensing options with full stems for club performance and video sync.",
+  "headline": "Beats in Angeles & Clark: High-Octane Nightclub Energy, Syncopated Kicks & Afro-Pinoy Bounce",
+  "description": "The buzzing entertainment and nightlife capital of Central Luzon: heavy club trap drops, syncopated afrobeat shakers, and infectious 808 bass for performers in Angeles and Clark.",
+  "popularGenres": [
+    "Angeles Club Trap",
+    "Clark Nightlife Bounce",
+    "Kapampangan Urban Wave"
+  ],
+  "subClusters": []
+},
+  "ph/mandaue-lapu-lapu-cebu": {
+  "slug": "ph/mandaue-lapu-lapu-cebu",
+  "name": "Philippines – Cebu: Mandaue & Lapu-Lapu (Metro Cebu Coastal Hub, Bisdak Rap, Island Reggae-Trap & Tropical 808s)",
+  "flag": "🇵🇭",
+  "currency": "PHP (₱) / USD ($)",
+  "currencyCode": "PHP",
+  "gateways": "GCash (Scan QR / Mobile Number), Maya, GrabPay, BDO / BPI Online Banking, Credit/Debit Cards, Apple Pay, PayPal, Stripe",
+  "pro": "FILSCAP / IPOPHL",
+  "proFullName": "FILSCAP (Filipino Society of Composers, Authors and Publishers) / IPOPHL",
+  "proGuide": "Signed digital contract and split sheet PDF for independent Visayan music producers and recording artists.",
+  "headline": "Beats in Mandaue & Lapu-Lapu: Visayan Coastal Breezes, Bisdak Street Flows & Tropical 808 Drops",
+  "description": "The vibrant maritime and industrial pulse of Metro Cebu: island reggae-trap guitars, bright brass stabs, and buoyant 808s designed for Cebuano and Bisdak MCs.",
+  "popularGenres": [
+    "Bisdak Coastal Trap",
+    "Metro Cebu Bounce",
+    "Visayas Island Reggae-Trap"
+  ],
+  "subClusters": []
+},
+  "ph/naga-bicol-camarines": {
+  "slug": "ph/naga-bicol-camarines",
+  "name": "Philippines – Bicol: Naga City & Legazpi (Heart of Bicolandia, Bikolano Hip-Hop, Passionate Flows & Fiery Trap)",
+  "flag": "🇵🇭",
+  "currency": "PHP (₱) / USD ($)",
+  "currencyCode": "PHP",
+  "gateways": "GCash (Scan QR / Mobile Number), Maya, GrabPay, BDO / BPI Online Banking, Credit/Debit Cards, Apple Pay, PayPal, Stripe",
+  "pro": "FILSCAP / IPOPHL",
+  "proFullName": "FILSCAP (Filipino Society of Composers, Authors and Publishers) / IPOPHL",
+  "proGuide": "100% legal protection and commercial rights for YouTube, Spotify, and TikTok monetization.",
+  "headline": "Beats in Naga & Bicol: Mayon Volcano Intensity, Soulful Melodies & Fiery Bikolano Trap",
+  "description": "The passionate heart of southern Luzon: fiery 808 sub drops, emotional minor chord progressions, and resilient drums matching the energy of Bicolano hip-hop artists.",
+  "popularGenres": [
+    "Bikolano Trap",
+    "Naga Soulful Rap",
+    "Mayon Fiery 808s"
+  ],
+  "subClusters": []
+},
 };

@@ -145366,4 +145366,1104 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
   "market": "Chile",
   "sceneHub": "Antofagasta"
 },
+  {
+  "slug": "flow-g-high-speed-chopper-cadence",
+  "title": "Flow G High-Speed Chopper Cadence Aggressive Brass & Punchy 808 Trap Beat",
+  "description": "Lightning-fast, high-energy Pinoy trap inspired by Flow G (Rapstar, Moonlight, Batugan, Praning, High): aggressive brass stabs, rapid-fire hi-hat rolls, punchy 808 sub drops, and double-time rhythm pocket for technical Tagalog lyricists.",
+  "targetKeywords": [
+    "flow g type beat",
+    "flow g chopper beat",
+    "flow g rapstar type beat wav",
+    "pinoy chopper trap beat",
+    "fast rap instrumental philippines"
+  ],
+  "heroCta": "Comprar Beat Estilo Flow G (Instant WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "High-Speed Rap Showcase, Lyrical Battle Cypher and Adrenaline Music Video",
+  "similarArtists": [
+    "Flow G",
+    "Ex Battalion",
+    "Skusta Clee",
+    "Smugglaz"
+  ],
+  "recommendedBpm": "138-144 BPM",
+  "productionTips": "Layered brass horns and dramatic synth stabs with wide stereo imaging leaving the center channel open for lightning-fast double-time rapping.",
+  "idealVocalStyle": "Flawless rapid-fire Tagalog articulation, aggressive breath control, rhythmic syncopation, and swaggering punchlines.",
+  "suggestedKey": "D Minor / G Minor",
+  "streamingSuitability": "Dominates Filipino hip-hop playlists, TikTok speed rap challenges, and workout rotations."
+},
+  {
+  "slug": "al-james-latina-mood-smooth-rnb",
+  "title": "Al James Latina Nocturnal Baritone Mood Warm Rhodes & Sleek R&B Beat",
+  "description": "Velvety, late-night Metro Manila R&B and smooth modern trap inspired by Al James (Latina, Repeat, Pa-Umaga, Pauwi Nako, Mood): warm detuned Rhodes electric keys, subtle 808 glide, and intimate after-hours cruising groove.",
+  "targetKeywords": [
+    "al james type beat",
+    "al james latina beat wav",
+    "smooth pinoy rnb trap beat",
+    "pauwi nako type beat",
+    "manila late night rnb beat"
+  ],
+  "heroCta": "Comprar Beat Estilo Al James (WAV 24-bit)",
+  "energyLevel": "Medium",
+  "primaryUse": "Nocturnal Car Cruising Single, Romantic Tagalog R&B Track and Late-Night Driving Visualizer",
+  "similarArtists": [
+    "Al James",
+    "Because",
+    "Just Hush",
+    "Kiyo"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "productionTips": "Warm analog chorused Fender Rhodes chords paired with soft sub-bass frequencies and subtle percussion textures.",
+  "idealVocalStyle": "Deep, resonant baritone delivery, conversational bedroom whispers, and effortless sensual melodies in Tagalog and English.",
+  "suggestedKey": "Ab Major / F Minor",
+  "streamingSuitability": "Consistent long-tail streams on OPM R&B, Manila Chill, and Late Night Cruising curations."
+},
+  {
+  "slug": "heuss-maki-dilaw-indie-opm-trap",
+  "title": "Maki & Dilaw OPM Indie Alternative Acoustic Guitar & Melodic Trap Beat",
+  "description": "Heartwarming, chart-topping indie Filipino alternative crossover inspired by Maki and Dilaw (Dilaw, Namumula, Sikulo, Sa Bawat Sandali): bittersweet acoustic nylon guitars, organic live percussion, and emotional singalong pop-trap bounce.",
+  "targetKeywords": [
+    "maki type beat",
+    "dilaw type beat wav",
+    "opm indie trap beat",
+    "acoustic guitar rap beat philippines",
+    "namumula maki instrumental"
+  ],
+  "heroCta": "Comprar Beat Estilo Maki (WAV + Stems)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Mainstream OPM Radio Single, Viral Social Romance Anthem and Emotional Music Video",
+  "similarArtists": [
+    "Maki",
+    "Dilaw",
+    "Cup of Joe",
+    "Lola Amour"
+  ],
+  "recommendedBpm": "95-102 BPM",
+  "productionTips": "Warm finger-picked acoustic guitars tracked in stereo, layered over clean modern trap drums and a rounded, supportive 808 bass.",
+  "idealVocalStyle": "Emotional, vulnerable vocal delivery, heartfelt Tagalog lyrics, soulful falsetto leaps, and singalong choruses.",
+  "suggestedKey": "E Major / C# Minor",
+  "streamingSuitability": "Top tier virality on Spotify Philippines Top 50, Viral Hits Philippines, and TikTok video soundtracks."
+},
+  {
+  "slug": "felip-ken-complex-tribal-bisdak-trap",
+  "title": "FELIP Ken Complex Dark Industrial Tribal Percussion & Heavy 808 Trap Beat",
+  "description": "Cutting-edge, boundary-pushing Bisdak and English dark trap inspired by FELIP / Ken of SB19 (Complex, Bulan, Kanako, ROCKSTA): traditional Philippine ethnic gong/kulintang textures, aggressive industrial distortion, and dark 808 slides.",
+  "targetKeywords": [
+    "felip type beat",
+    "ken sb19 type beat",
+    "tribal pinoy trap beat wav",
+    "bisdak dark trap instrumental",
+    "industrial 808 beat philippines"
+  ],
+  "heroCta": "Comprar Beat Estilo FELIP (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Avant-Garde Concept Visual, High-Fashion Editorial and Powerful Stage Performance",
+  "similarArtists": [
+    "FELIP",
+    "SB19",
+    "Alamat",
+    "BGYO"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "productionTips": "Sampled indigenous Filipino agung and kulintang gongs blended with modern aggressive synth leads and distorted 808 sub glides.",
+  "idealVocalStyle": "Gritty low baritone growls, experimental vocal effects, bilingual Bisdak/English bars, and fierce rock-star energy.",
+  "suggestedKey": "D Minor / Bb Minor",
+  "streamingSuitability": "Massive global P-Pop and international urban crossover appeal across YouTube and streaming platforms."
+},
+  {
+  "slug": "shanti-dope-amat-lyrical-street-conscious",
+  "title": "Shanti Dope Amat Lyrical Street Wisdom Acoustic Chords & Boom Trap Beat",
+  "description": "Thought-provoking, culturally grounded Pinoy hip-hop inspired by Shanti Dope (Amat, Maya, Amatz, Nadarang, Normalan): intricate Tagalog internal rhyme pocket, organic acoustic guitar plucks, and a hard-hitting street boom-trap drum bounce.",
+  "targetKeywords": [
+    "shanti dope type beat",
+    "nandarag type beat wav",
+    "amatz shanti dope beat",
+    "conscious pinoy hip hop instrumental",
+    "acoustic rap beat manila"
+  ],
+  "heroCta": "Comprar Beat Estilo Shanti Dope (Instant WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Lyrical Street Single, Social Reality Anthem and Conscious Rap Album Opener",
+  "similarArtists": [
+    "Shanti Dope",
+    "Gloc-9",
+    "Ron Henley",
+    "Loonie"
+  ],
+  "recommendedBpm": "90-96 BPM",
+  "productionTips": "Organic guitar picking with analog compression leaving generous headroom for dense, poetic multisyllabic Tagalog rhymes.",
+  "idealVocalStyle": "Fast, articulate rhythmic storytelling, relatable street observations, and distinct Philippine social commentary.",
+  "suggestedKey": "A Minor / D Minor",
+  "streamingSuitability": "Heavy editorial rotation on Tatak Pinoy, Bago Sa Rap, and Pinoy Hip-Hop Classics."
+},
+  {
+  "slug": "hev-abi-morato-metro-manila-bounce",
+  "title": "Hev Abi Tomas Morato New-Wave West Coast Bounce & Relaxed Metro Rap Beat",
+  "description": "Effortless, breezy modern Manila bounce inspired by Hev Abi (Morato, Welcome2DT, Walang Alam, Makasarili): bouncy West Coast basslines, sparkling synth leads, and laid-back Quezon City youth anthem grooves.",
+  "targetKeywords": [
+    "hev abi type beat",
+    "morato hev abi beat wav",
+    "welcome2dt type beat",
+    "new wave pinoy rap beat",
+    "quezon city bounce instrumental"
+  ],
+  "heroCta": "Comprar Beat Estilo Hev Abi (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Viral Gen-Z Metro Anthem, High-School/College Weekend Banger and TikTok Visualizer",
+  "similarArtists": [
+    "Hev Abi",
+    "O Side Mafia",
+    "Illest Morena",
+    "Demet"
+  ],
+  "recommendedBpm": "96-102 BPM",
+  "productionTips": "Warm rolling West Coast sub-bass with sharp snappy snares, melodic whistle synth accents, and clean headroom.",
+  "idealVocalStyle": "Relaxed conversational swagger, catchy modern Pinoy slang, effortless rhythmic hooks, and singalong verses.",
+  "suggestedKey": "G Minor / C Minor",
+  "streamingSuitability": "Dominates Spotify Top 10 Philippines, Gen-Z viral trends, and metro nightlife playlists."
+},
+  {
+  "slug": "ex-battalion-hayaan-mo-sila-stadium-trap",
+  "title": "Ex Battalion Hayaan Mo Sila Stadium Brass Horns & Massive Pop-Trap Beat",
+  "description": "Multi-platinum, record-shattering Filipino stadium pop-trap inspired by Ex Battalion (Hayaan Mo Sila, No Games, Kakaiba, Sing-Along): anthemic brass horns, driving commercial kick-clap rhythm, and unstoppable radio earworm bounce.",
+  "targetKeywords": [
+    "ex battalion type beat",
+    "hayaan mo sila type beat wav",
+    "commercial pinoy trap beat",
+    "ex battalion instrumental",
+    "stadium pop trap philippines"
+  ],
+  "heroCta": "Comprar Beat Ex Battalion (Instant WAV)",
+  "energyLevel": "Maximum",
+  "primaryUse": "Viral Crowd-Igniting Single, Festival Main Stage Track and Commercial Billboard Lead",
+  "similarArtists": [
+    "Ex Battalion",
+    "Skusta Clee",
+    "Flow G",
+    "Bosx1ne"
+  ],
+  "recommendedBpm": "100-105 BPM",
+  "productionTips": "Huge fanfare brass section paired with wide stereo claps and an infectious 4-on-the-floor commercial trap kick drive.",
+  "idealVocalStyle": "High-energy collective group hooks, dynamic back-and-forth verses, memorable party chants, and commercial charisma.",
+  "suggestedKey": "F Minor / Bb Minor",
+  "streamingSuitability": "Guaranteed crowd participation, club peak rotation, and multi-million YouTube viral views."
+},
+  {
+  "slug": "bugoy-na-koykoy-2-joints-laid-back-west-coast",
+  "title": "Bugoy na Koykoy 2 Joints Laid-Back G-Funk Synthesizers & Street Hustle Beat",
+  "description": "Relaxed, independent Philippine street hustle soundtrack inspired by Bugoy na Koykoy (2 Joints, Daily Flight, Payaman, Kalmado): warm analog Moog synth leads, laid-back unhurried drum swing, and authentic underground entrepreneur vibes.",
+  "targetKeywords": [
+    "bugoy na koykoy type beat",
+    "2 joints type beat wav",
+    "g funk pinoy rap beat",
+    "bugoy na koykoy instrumental",
+    "kalmado payaman beat"
+  ],
+  "heroCta": "Comprar Beat Bugoy na Koykoy (WAV 24-bit)",
+  "energyLevel": "Medium",
+  "primaryUse": "Independent Hustle Anthem, Late-Night Studio Session and Street Lifestyle Visualizer",
+  "similarArtists": [
+    "Bugoy na Koykoy",
+    "Sorrento Uno",
+    "Eman",
+    "2 Joints Enterprise"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "productionTips": "Classic West Coast sine wave whistle lead layered over punchy analog kick drums and a warm, deep sub bassline.",
+  "idealVocalStyle": "Laid-back, unbothered conversational cadence, street philosophy, hustle wisdom, and effortless rhyme delivery.",
+  "suggestedKey": "C Minor / G Minor",
+  "streamingSuitability": "Dedicated cult following across YouTube, streetwear lifestyle videos, and independent rap playlists."
+},
+  {
+  "slug": "manila-sunset-baywalk-warm-lofi",
+  "title": "Manila Baywalk Golden Hour Sunset Warm Tape Rhodes & Coastal Lofi Beat",
+  "description": "Atmospheric, nostalgic tropical sunset along Manila Bay: gentle ocean breeze Foley, warm tape-saturated electric piano chords, mellow bass guitar, and relaxed unquantized lofi hip-hop drums.",
+  "targetKeywords": [
+    "manila lofi beat",
+    "philippines chillhop instrumental",
+    "manila baywalk sunset beat wav",
+    "opm lofi study beat",
+    "pinoy lofi hip hop"
+  ],
+  "heroCta": "Comprar Beat Manila Sunset Lofi (Instant WAV)",
+  "energyLevel": "Low-Medium",
+  "primaryUse": "Study and Focus Streaming, Late-Night Commute Soundtrack and Melancholic Vlog Background",
+  "similarArtists": [
+    "Kiyo",
+    "Arthur Nery",
+    "Reneé Dominique",
+    "ChilledCow"
+  ],
+  "recommendedBpm": "80-85 BPM",
+  "productionTips": "Vintage Rhodes recorded with tape saturation, paired with natural ocean surf Foley and soft acoustic kicks.",
+  "idealVocalStyle": "Intimate poetic whisper, gentle spoken word, melodic Tagalog acoustic hums, and emotional nostalgia.",
+  "suggestedKey": "F Major / D Minor",
+  "streamingSuitability": "Evergreen placement on lofi study playlists, nocturnal chill streams, and aesthetic YouTube channels."
+},
+  {
+  "slug": "baguio-pine-breeze-acoustic-cloud-trap",
+  "title": "Baguio City Pine Breeze Mist Melancholic Acoustic Guitar & Cloud Trap Beat",
+  "description": "Cold mountain air and introspective OPM rap inspired by Baguio City's mountain ridges: fingerpicked acoustic guitars, misty ambient reverb tails, and soft, warm 808 sub-bass for heartfelt lyricism.",
+  "targetKeywords": [
+    "baguio cloud trap beat",
+    "acoustic cloud rap philippines",
+    "baguio city instrumental wav",
+    "melancholic pinoy trap beat",
+    "pine breeze lofi trap"
+  ],
+  "heroCta": "Comprar Beat Baguio Cloud Trap (Instant WAV)",
+  "energyLevel": "Medium",
+  "primaryUse": "Introspective Album Track, Moody Mountain Visualizer and Emotional Storytelling Single",
+  "similarArtists": [
+    "Alisson Shore",
+    "Because",
+    "Zack Tabudlo",
+    "Adie"
+  ],
+  "recommendedBpm": "115-122 BPM",
+  "productionTips": "Layered acoustic guitar picking with wide stereophonic plate reverb over deep sub-bass and crisp, relaxed trap claps.",
+  "idealVocalStyle": "Vulnerable emotive singing, heartfelt Tagalog poetry, subtle autotune, and nostalgic melodies.",
+  "suggestedKey": "G Major / E Minor",
+  "streamingSuitability": "High engagement on sad boy OPM playlists, rainy season rotations, and indie acoustic curations."
+},
+  {
+  "slug": "cebuano-bisdak-island-reggae-trap-fusion",
+  "title": "Bisdak Island Reggae-Trap Skank Guitars & Heavy 808 Drop Crossover Beat",
+  "description": "Uplifting, sun-drenched Visayan island crossover honoring Cebuano and Bisdak rap heritage: bouncy off-beat reggae skank guitars, island percussion, and explosive modern 808 trap sub drops.",
+  "targetKeywords": [
+    "bisdak reggae trap beat",
+    "cebuano rap beat wav",
+    "island trap beat philippines",
+    "visayas reggae hip hop instrumental",
+    "bisdak 808 beat"
+  ],
+  "heroCta": "Comprar Beat Bisdak Reggae-Trap (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Island Beach Festival Anthem, Summer Road Trip Track and Vibrant Bisdak Rap Record",
+  "similarArtists": [
+    "Cookie$ (Cookie Dollar)",
+    "Missing Filemon Trap",
+    "Agsunta",
+    "Brownman Revival"
+  ],
+  "recommendedBpm": "96-102 BPM",
+  "productionTips": "Classic electric guitar reggae chops on the upbeats paired with dynamic live hi-hat rolls and powerful sub-bass 808 drops.",
+  "idealVocalStyle": "Rhythmic Bisdak (Cebuano) flows, joyful reggae-inspired vocal delivery, and anthemic community choruses.",
+  "suggestedKey": "A Major / F# Minor",
+  "streamingSuitability": "Dominates Visayas and Mindanao regional streaming charts, summer beach parties, and island radio stations."
+},
+  {
+  "slug": "tondo-underground-fliptop-battle-boombap",
+  "title": "Tondo Fliptop Battle Cypher Aggressive Vinyl Brass & Gritty Boom Bap Beat",
+  "description": "Raw, aggressive underground Philippine hip-hop paying homage to Tondo and the legendary Fliptop Battle League: gritty vinyl scratches, cutting acoustic snare cracks, punchy bass, and battle rhythm pocket.",
+  "targetKeywords": [
+    "fliptop battle type beat",
+    "tondo underground boom bap beat",
+    "battle rap instrumental philippines",
+    "gritty pinoy boom bap wav",
+    "fliptop cypher beat"
+  ],
+  "heroCta": "Comprar Beat Fliptop Battle (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Battle Rap League Cypher, Hardcore Lyrical Showcase and Underground Street Documentary",
+  "similarArtists": [
+    "Loonie",
+    "BLKD",
+    "Batas",
+    "Aklas",
+    "Anygma"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "productionTips": "Heavy mid-range acoustic boom bap kicks and cracking snares sampled with analog warmth leaving clear space for complex bars.",
+  "idealVocalStyle": "Aggressive, punchline-dense Tagalog battle delivery, intricate multisyllabic rhymes, and raw vocal power.",
+  "suggestedKey": "D Minor / C Minor",
+  "streamingSuitability": "Cherished by millions of Fliptop Battle League fans, underground cypher listeners, and hip-hop purists across the Philippines."
+},
+  {
+  "slug": "cheap-pinoy-trap-beats-gcash-php",
+  "title": "Cheap Pinoy Trap Beats from ₱1,200 PHP (Instant Mobile Payment via GCash & Maya)",
+  "description": "Professional Filipino hip-hop, trap, and R&B instrumentals starting from ₱1,200 PHP (~$22 USD) with instant QR and mobile number payment via GCash, Maya, and local Philippine bank transfer.",
+  "targetKeywords": [
+    "cheap pinoy trap beats gcash php",
+    "buy beats philippines gcash",
+    "affordable pinoy rap beats php",
+    "instrumental trap beat gcash scan qr"
+  ],
+  "heroCta": "Browse Beats from ₱1,200 PHP (Pay with GCash)",
+  "energyLevel": "Variable",
+  "primaryUse": "Debut Singles, Home Studio Recording and Independent Mixtapes with Commercial License",
+  "similarArtists": [
+    "Independent Filipino Rappers",
+    "YouTube & TikTok Content Creators"
+  ],
+  "recommendedBpm": "88-144 BPM",
+  "productionTips": "Pre-mixed and mastered with wide vocal headroom specifically optimized for Tagalog and English vocal recording.",
+  "idealVocalStyle": "Versatile for melodic autotune singing, fast chopper rap, or soulful Tagalog verses.",
+  "suggestedKey": "All Major and Minor Keys Available",
+  "streamingSuitability": "Commercial license covering up to 250,000 streams on Spotify, Apple Music, and YouTube."
+},
+  {
+  "slug": "commercial-opm-rnb-trap-beats-wav-stems",
+  "title": "Commercial OPM R&B-Trap Beats with Multitrack WAV Stems (Al James & Hev Abi Style)",
+  "description": "Smooth, nocturnal Metro Manila R&B and melodic trap instrumentals delivered with all uncompressed multitrack audio stems (WAV 24-bit) for professional studio mixing in Quezon City and Makati.",
+  "targetKeywords": [
+    "commercial opm rnb trap beats wav stems",
+    "pinoy rnb instrumental multitrack stems",
+    "buy beats stems philippines wav",
+    "al james hev abi style stems beat"
+  ],
+  "heroCta": "Download Beats with Multitrack WAV Stems",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Professional Studio Tracking, EP/Album Recording and Commercial Radio Master",
+  "similarArtists": [
+    "Al James",
+    "Hev Abi",
+    "Because",
+    "Just Hush"
+  ],
+  "recommendedBpm": "92-100 BPM",
+  "productionTips": "Individual 24-bit 48kHz WAV audio tracks labeled with exact tempo and key for instant Pro Tools and Logic Pro import.",
+  "idealVocalStyle": "Silky Tagalog vocal runs, intimate baritone verses, and polished pop-urban chorus hooks.",
+  "suggestedKey": "Ab Major / F Minor",
+  "streamingSuitability": "Radio-ready loudness standards suitable for mainstream Philippine radio and billboard charts."
+},
+  {
+  "slug": "fast-chopper-rap-beats-flow-g-wav",
+  "title": "Fast Chopper Rap Beats with Heavy 808s (Flow G & Ex Battalion Double-Time Style)",
+  "description": "High-octane, aggressive Philippine trap beats with punchy snares and driving 808 sub drops designed specifically for double-time chopper flows, battle rappers, and high-energy performers.",
+  "targetKeywords": [
+    "fast chopper rap beats flow g wav",
+    "double time pinoy trap instrumental",
+    "flow g chopper beat download",
+    "fast rap beat philippines 808"
+  ],
+  "heroCta": "Download Chopper Rap Beats (Instant WAV)",
+  "energyLevel": "Maximum",
+  "primaryUse": "High-Speed Lyrical Showcase, Battle Rap Cypher and High-Impact YouTube Release",
+  "similarArtists": [
+    "Flow G",
+    "Ex Battalion",
+    "Smugglaz",
+    "Skusta Clee"
+  ],
+  "recommendedBpm": "138-145 BPM",
+  "productionTips": "Crisp acoustic snares with high-velocity transient punch and room in the mid-frequencies for complex vocal articulation.",
+  "idealVocalStyle": "Lightning-fast Tagalog chopper rhymes, breath-control acrobatics, and aggressive punchlines.",
+  "suggestedKey": "D Minor / G Minor",
+  "streamingSuitability": "Top viral contender on TikTok speed challenges, YouTube cyphers, and gym workout playlists."
+},
+  {
+  "slug": "filscap-music-licensing-agreement-pdf-ph",
+  "title": "Philippine Music Producer Licensing Agreement (Compliant with FILSCAP & RA 8293)",
+  "description": "Legally binding Philippine music production contract 100% compliant with FILSCAP (Filipino Society of Composers, Authors and Publishers) and the Intellectual Property Code (RA 8293) with instant signed PDF and split sheet.",
+  "targetKeywords": [
+    "filscap music licensing agreement pdf ph",
+    "beat contract philippines filscap",
+    "music producer contract ra 8293 pdf",
+    "philippine beat licensing split sheet"
+  ],
+  "heroCta": "Buy Beat with FILSCAP Legal PDF Contract",
+  "energyLevel": "Professional",
+  "primaryUse": "Legal Song Registration with FILSCAP, DSP Distribution (DistroKid/TuneCore) and Sync Placement",
+  "similarArtists": [
+    "Independent Filipino Songwriters and Recording Artists"
+  ],
+  "recommendedBpm": "Applicable across all tempos",
+  "productionTips": "Transparent clauses: standard 50/50 publishing writer/publisher split and 100% master monetization rights up to license cap.",
+  "idealVocalStyle": "Essential for any recording artist seeking commercial airplay and royalty protection in the Philippines.",
+  "suggestedKey": "Universal Legal Standard",
+  "streamingSuitability": "Guaranteed legal clearance for commercial DSP uploads, radio play, television sync, and YouTube Content ID."
+},
+  {
+  "slug": "buy-beats-gcash-maya-philippines-instant",
+  "title": "Buy Beats with GCash & Maya in the Philippines (Instant Automated Digital Download in PHP)",
+  "description": "The fastest, most convenient way for Filipino artists to buy beats: scan and pay using GCash (QR or mobile number) or Maya and receive an automated instant email download link for WAV files and license.",
+  "targetKeywords": [
+    "buy beats gcash maya philippines instant",
+    "gcash beat store philippines",
+    "buy instrumental using gcash online",
+    "pambansang beat store gcash pay"
+  ],
+  "heroCta": "Buy Beats with GCash / Maya Now",
+  "energyLevel": "Instant",
+  "primaryUse": "Immediate Beat Purchase for Urgent Manila and Cebu Studio Recording Sessions",
+  "similarArtists": [
+    "Filipino Creators in Manila, Quezon City, Cebu, and Davao"
+  ],
+  "recommendedBpm": "80-150 BPM",
+  "productionTips": "Instant automated digital delivery via high-speed cloud download servers.",
+  "idealVocalStyle": "Compatible with all urban music genres in Tagalog, Bisdak, and English.",
+  "suggestedKey": "All Tonalities",
+  "streamingSuitability": "Includes commercial license ready for instant worldwide distribution."
+},
+  {
+  "slug": "album-ep-beat-packages-philippines-discount",
+  "title": "Album & EP Beat Packages in the Philippines (40% Off Bundle Discount in PHP)",
+  "description": "Save 40% when purchasing bundles of 5 to 10 sonically cohesive instrumentals to produce your next EP, mixtape, or full-length album in the Philippines with a unified commercial license in Philippine Pesos.",
+  "targetKeywords": [
+    "album ep beat packages philippines discount",
+    "pinoy rap beat bundle discount gcash",
+    "buy bulk beats philippines php",
+    "5 beat package album discount manila"
+  ],
+  "heroCta": "Get Album Beat Package (40% Off)",
+  "energyLevel": "Variable",
+  "primaryUse": "Full Album Production, Cohesive Sonic Identity and Continuous Release Strategy",
+  "similarArtists": [
+    "Emerging Filipino Bands, Collectives and Solo MCs"
+  ],
+  "recommendedBpm": "85-144 BPM",
+  "productionTips": "Coordinated tempos and harmonic textures designed to deliver an uninterrupted album listening experience.",
+  "idealVocalStyle": "Room to showcase an artist's full melodic and lyrical range across multiple tracks.",
+  "suggestedKey": "Full Harmonic Spectrum",
+  "streamingSuitability": "Unified commercial license covering all tracks on your EP or album at once."
+},
+  {
+  "slug": "productor-musical-philippines-whatsapp-onzieb",
+  "title": "Exclusive Music Producer for Philippine Artists (Direct WhatsApp Consultation with Onzieb)",
+  "description": "Collaborate directly with music producer Onzieb via WhatsApp for custom instrumentals: key changes, custom song structure adjustments, multi-track mixing, and bespoke Pinoy trap and R&B production.",
+  "targetKeywords": [
+    "productor musical philippines whatsapp onzieb",
+    "onzieb music producer manila",
+    "custom beat producer philippines whatsapp",
+    "hire beatmaker philippines online"
+  ],
+  "heroCta": "Chat with Onzieb on WhatsApp",
+  "energyLevel": "Custom",
+  "primaryUse": "Bespoke Production, Signature Sound Creation and Commercial Lead Singles",
+  "similarArtists": [
+    "Onzieb",
+    "Top Tier Philippine Music Producers"
+  ],
+  "recommendedBpm": "Custom tailored to the artist's vocal cadence and natural pocket",
+  "productionTips": "Rapid iteration via WhatsApp voice notes and high-speed stem exchanges for real-time arrangement adjustments.",
+  "idealVocalStyle": "Engineered specifically to elevate the vocalist's unique tone, timbre, and personality.",
+  "suggestedKey": "Custom Tailored Key",
+  "streamingSuitability": "Includes exclusive buyout options with 100% master rights and unrestricted commercial monetization."
+},
+  {
+  "slug": "pinoy-drill-beats-sliding-808s-manila",
+  "title": "Pinoy Drill Beats with Sliding 808s & Minor Bells (Gritty Manila Street Style)",
+  "description": "Dark, relentless Manila street drill instrumentals featuring aggressive pitch-sliding 808 sub-bass, gothic minor piano arpeggios, and cutting counter-snare rolls for gritty street storytellers.",
+  "targetKeywords": [
+    "pinoy drill beats sliding 808s manila",
+    "manila street drill instrumental",
+    "philippine drill type beat 2024",
+    "gritty pinoy drill beat wav"
+  ],
+  "heroCta": "Listen to Manila Street Drill Beats",
+  "energyLevel": "Very High",
+  "primaryUse": "Raw Street Single, Underground Cypher and Poblacion Music Video",
+  "similarArtists": [
+    "O Side Mafia",
+    "Al James Drill",
+    "Central Cee",
+    "Hev Abi"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Menacing minor keys, multi-octave 808 portamento glides, and piercing snares tuned for street impact.",
+  "idealVocalStyle": "Gritty low baritone flows, rapid triplet cadences, authentic street slang, and dark atmospheric ad-libs.",
+  "suggestedKey": "C# Minor / G# Minor",
+  "streamingSuitability": "Dominates underground YouTube drill channels, SoundCloud Philippines, and urban street playlists."
+},
+  {
+  "slug": "acoustic-guitar-opm-rap-beats-shanti-wav",
+  "title": "Heartfelt OPM Acoustic Guitar Rap Beats (Maki, Shanti Dope & Arthur Nery Style)",
+  "description": "Bittersweet, emotionally resonant Philippine acoustic rap beats featuring real fingerpicked nylon guitar chords and warm 808s for romantic storytelling and viral OPM hits.",
+  "targetKeywords": [
+    "acoustic guitar opm rap beats shanti wav",
+    "opm acoustic rap beat download",
+    "maki arthur nery type beat acoustic",
+    "heartfelt pinoy rap instrumental"
+  ],
+  "heroCta": "Discover Acoustic OPM Rap Beats",
+  "energyLevel": "Medium",
+  "primaryUse": "Viral OPM Romance Single, Acoustic Radio Hit and Emotional Storytelling Track",
+  "similarArtists": [
+    "Maki",
+    "Shanti Dope",
+    "Arthur Nery",
+    "Adie"
+  ],
+  "recommendedBpm": "94-102 BPM",
+  "productionTips": "Real acoustic guitars captured with warm analog preamps, backed by tight, round sub-bass and intimate snares.",
+  "idealVocalStyle": "Passionate, vulnerable singing and rap delivery with heartfelt Tagalog and English emotional hooks.",
+  "suggestedKey": "E Major / C# Minor",
+  "streamingSuitability": "Exceptional viral reach across TikTok, Spotify Philippines Viral 50, and Tatak Pinoy."
+},
+  {
+  "slug": "free-pinoy-hip-hop-drum-kit-wav-download",
+  "title": "Free Pinoy Hip-Hop & Trap Drum Kit (24-Bit WAV Samples, 808s, Kulintang & Drill Snares)",
+  "description": "Download our exclusive free sound pack for Philippine music producers: 30 tuned 808 sub-basses, crisp drill snares, kulintang ethnic percussion hits, and punchy kicks in studio-grade 24-bit WAV format.",
+  "targetKeywords": [
+    "free pinoy hip hop drum kit wav download",
+    "philippine drum kit free download fl studio",
+    "kulintang trap samples free wav",
+    "pinoy rap sound pack 808 download"
+  ],
+  "heroCta": "Download Free Pinoy Drum Kit (ZIP)",
+  "energyLevel": "High",
+  "primaryUse": "Music Production in Home Studios, Beatmaking in FL Studio, Ableton Live and Logic Pro",
+  "similarArtists": [
+    "Independent Filipino Beatmakers",
+    "Emerging Bedroom Producers in Manila and Cebu"
+  ],
+  "recommendedBpm": "Compatible with all tempos from 80 to 160 BPM",
+  "productionTips": "One-shot samples processed with analog outboard gear and zero clipping, 100% royalty-free.",
+  "idealVocalStyle": "Rock-solid rhythmic foundation for crafting professional Pinoy hip-hop, R&B, and drill instrumentals.",
+  "suggestedKey": "Tuned to C for immediate transposition in any sampler",
+  "streamingSuitability": "100% royalty-free for commercial music releases and beat sales worldwide."
+},
+  {
+  "slug": "taguig-bgc-pinoy-rnb-trap-slowjam",
+  "name": "Taguig (BGC) Pinoy R&B-Trap Slow Jam Beats",
+  "badge": "Pinoy R&B-Trap",
+  "headline": "Pinoy R&B-Trap Slow Jam Beats in Taguig (BGC): Metro Manila Financial Core & Sleek R&B",
+  "description": "Velvety Rhodes chords, sensual Tagalog melodies and smooth sub-bass with instant mobile payment via GCash for vocalists in Taguig (BGC).",
+  "targetKeywords": [
+    "pinoy r&b-trap slow jam beats taguig (bgc)",
+    "buy beats taguig (bgc) gcash",
+    "pambansang pinoy r&b-trap instrumental",
+    "beats in taguig (bgc) wav download"
+  ],
+  "heroCta": "Download Beats in Taguig (BGC) (GCash / WAV)",
+  "recommendedBpm": "88-95 BPM",
+  "suggestedKey": "Ab-Major / F-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Philippines",
+  "sceneHub": "Taguig (BGC)"
+},
+  {
+  "slug": "taguig-bgc-manila-street-drill-808",
+  "name": "Taguig (BGC) Manila Street Drill 808 Beats",
+  "badge": "Manila Drill",
+  "headline": "Manila Street Drill 808 Beats in Taguig (BGC): Metro Manila Financial Core & Sleek R&B",
+  "description": "Menacing minor bells, aggressive sliding 808s and rapid hi-hat rolls designed for street MCs and drill artists in Taguig (BGC).",
+  "targetKeywords": [
+    "manila street drill 808 beats taguig (bgc)",
+    "buy beats taguig (bgc) gcash",
+    "pambansang manila drill instrumental",
+    "beats in taguig (bgc) wav download"
+  ],
+  "heroCta": "Download Beats in Taguig (BGC) (GCash / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "C#-Minor / G#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Philippines",
+  "sceneHub": "Taguig (BGC)"
+},
+  {
+  "slug": "taguig-bgc-chopper-double-time-trap",
+  "name": "Taguig (BGC) Pinoy Chopper Double-Time Trap Beats",
+  "badge": "Chopper Rap",
+  "headline": "Pinoy Chopper Double-Time Trap Beats in Taguig (BGC): Metro Manila Financial Core & Sleek R&B",
+  "description": "High-speed brass horns, punchy transient snares and driving 808 kicks tailored for rapid chopper flows in Taguig (BGC).",
+  "targetKeywords": [
+    "pinoy chopper double-time trap beats taguig (bgc)",
+    "buy beats taguig (bgc) gcash",
+    "pambansang chopper rap instrumental",
+    "beats in taguig (bgc) wav download"
+  ],
+  "heroCta": "Download Beats in Taguig (BGC) (GCash / WAV)",
+  "recommendedBpm": "138-144 BPM",
+  "suggestedKey": "D-Minor / G-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Philippines",
+  "sceneHub": "Taguig (BGC)"
+},
+  {
+  "slug": "taguig-bgc-bisdak-island-reggae-trap",
+  "name": "Taguig (BGC) Bisdak Island Reggae-Trap Beats",
+  "badge": "Island Reggae-Trap",
+  "headline": "Bisdak Island Reggae-Trap Beats in Taguig (BGC): Metro Manila Financial Core & Sleek R&B",
+  "description": "Bouncy off-beat reggae skank guitars, island percussion and explosive 808 sub drops for vibrant performers in Taguig (BGC).",
+  "targetKeywords": [
+    "bisdak island reggae-trap beats taguig (bgc)",
+    "buy beats taguig (bgc) gcash",
+    "pambansang island reggae-trap instrumental",
+    "beats in taguig (bgc) wav download"
+  ],
+  "heroCta": "Download Beats in Taguig (BGC) (GCash / WAV)",
+  "recommendedBpm": "96-102 BPM",
+  "suggestedKey": "A-Major / F#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Philippines",
+  "sceneHub": "Taguig (BGC)"
+},
+  {
+  "slug": "quezon-city-morato-pinoy-rnb-trap-slowjam",
+  "name": "Quezon City (Tomas Morato) Pinoy R&B-Trap Slow Jam Beats",
+  "badge": "Pinoy R&B-Trap",
+  "headline": "Pinoy R&B-Trap Slow Jam Beats in Quezon City (Tomas Morato): Tomas Morato & New Wave Pinoy Bounce",
+  "description": "Velvety Rhodes chords, sensual Tagalog melodies and smooth sub-bass with instant mobile payment via GCash for vocalists in Quezon City (Tomas Morato).",
+  "targetKeywords": [
+    "pinoy r&b-trap slow jam beats quezon city (tomas morato)",
+    "buy beats quezon city (tomas morato) gcash",
+    "pambansang pinoy r&b-trap instrumental",
+    "beats in quezon city (tomas morato) wav download"
+  ],
+  "heroCta": "Download Beats in Quezon City (Tomas Morato) (GCash / WAV)",
+  "recommendedBpm": "88-95 BPM",
+  "suggestedKey": "Ab-Major / F-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Philippines",
+  "sceneHub": "Quezon City (Tomas Morato)"
+},
+  {
+  "slug": "quezon-city-morato-manila-street-drill-808",
+  "name": "Quezon City (Tomas Morato) Manila Street Drill 808 Beats",
+  "badge": "Manila Drill",
+  "headline": "Manila Street Drill 808 Beats in Quezon City (Tomas Morato): Tomas Morato & New Wave Pinoy Bounce",
+  "description": "Menacing minor bells, aggressive sliding 808s and rapid hi-hat rolls designed for street MCs and drill artists in Quezon City (Tomas Morato).",
+  "targetKeywords": [
+    "manila street drill 808 beats quezon city (tomas morato)",
+    "buy beats quezon city (tomas morato) gcash",
+    "pambansang manila drill instrumental",
+    "beats in quezon city (tomas morato) wav download"
+  ],
+  "heroCta": "Download Beats in Quezon City (Tomas Morato) (GCash / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "C#-Minor / G#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Philippines",
+  "sceneHub": "Quezon City (Tomas Morato)"
+},
+  {
+  "slug": "quezon-city-morato-chopper-double-time-trap",
+  "name": "Quezon City (Tomas Morato) Pinoy Chopper Double-Time Trap Beats",
+  "badge": "Chopper Rap",
+  "headline": "Pinoy Chopper Double-Time Trap Beats in Quezon City (Tomas Morato): Tomas Morato & New Wave Pinoy Bounce",
+  "description": "High-speed brass horns, punchy transient snares and driving 808 kicks tailored for rapid chopper flows in Quezon City (Tomas Morato).",
+  "targetKeywords": [
+    "pinoy chopper double-time trap beats quezon city (tomas morato)",
+    "buy beats quezon city (tomas morato) gcash",
+    "pambansang chopper rap instrumental",
+    "beats in quezon city (tomas morato) wav download"
+  ],
+  "heroCta": "Download Beats in Quezon City (Tomas Morato) (GCash / WAV)",
+  "recommendedBpm": "138-144 BPM",
+  "suggestedKey": "D-Minor / G-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Philippines",
+  "sceneHub": "Quezon City (Tomas Morato)"
+},
+  {
+  "slug": "quezon-city-morato-bisdak-island-reggae-trap",
+  "name": "Quezon City (Tomas Morato) Bisdak Island Reggae-Trap Beats",
+  "badge": "Island Reggae-Trap",
+  "headline": "Bisdak Island Reggae-Trap Beats in Quezon City (Tomas Morato): Tomas Morato & New Wave Pinoy Bounce",
+  "description": "Bouncy off-beat reggae skank guitars, island percussion and explosive 808 sub drops for vibrant performers in Quezon City (Tomas Morato).",
+  "targetKeywords": [
+    "bisdak island reggae-trap beats quezon city (tomas morato)",
+    "buy beats quezon city (tomas morato) gcash",
+    "pambansang island reggae-trap instrumental",
+    "beats in quezon city (tomas morato) wav download"
+  ],
+  "heroCta": "Download Beats in Quezon City (Tomas Morato) (GCash / WAV)",
+  "recommendedBpm": "96-102 BPM",
+  "suggestedKey": "A-Major / F#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Philippines",
+  "sceneHub": "Quezon City (Tomas Morato)"
+},
+  {
+  "slug": "manila-tondo-pinoy-rnb-trap-slowjam",
+  "name": "Manila (Tondo) Pinoy R&B-Trap Slow Jam Beats",
+  "badge": "Pinoy R&B-Trap",
+  "headline": "Pinoy R&B-Trap Slow Jam Beats in Manila (Tondo): Tondo & Fliptop Battle Cypher Roots",
+  "description": "Velvety Rhodes chords, sensual Tagalog melodies and smooth sub-bass with instant mobile payment via GCash for vocalists in Manila (Tondo).",
+  "targetKeywords": [
+    "pinoy r&b-trap slow jam beats manila (tondo)",
+    "buy beats manila (tondo) gcash",
+    "pambansang pinoy r&b-trap instrumental",
+    "beats in manila (tondo) wav download"
+  ],
+  "heroCta": "Download Beats in Manila (Tondo) (GCash / WAV)",
+  "recommendedBpm": "88-95 BPM",
+  "suggestedKey": "Ab-Major / F-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Philippines",
+  "sceneHub": "Manila (Tondo)"
+},
+  {
+  "slug": "manila-tondo-manila-street-drill-808",
+  "name": "Manila (Tondo) Manila Street Drill 808 Beats",
+  "badge": "Manila Drill",
+  "headline": "Manila Street Drill 808 Beats in Manila (Tondo): Tondo & Fliptop Battle Cypher Roots",
+  "description": "Menacing minor bells, aggressive sliding 808s and rapid hi-hat rolls designed for street MCs and drill artists in Manila (Tondo).",
+  "targetKeywords": [
+    "manila street drill 808 beats manila (tondo)",
+    "buy beats manila (tondo) gcash",
+    "pambansang manila drill instrumental",
+    "beats in manila (tondo) wav download"
+  ],
+  "heroCta": "Download Beats in Manila (Tondo) (GCash / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "C#-Minor / G#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Philippines",
+  "sceneHub": "Manila (Tondo)"
+},
+  {
+  "slug": "manila-tondo-chopper-double-time-trap",
+  "name": "Manila (Tondo) Pinoy Chopper Double-Time Trap Beats",
+  "badge": "Chopper Rap",
+  "headline": "Pinoy Chopper Double-Time Trap Beats in Manila (Tondo): Tondo & Fliptop Battle Cypher Roots",
+  "description": "High-speed brass horns, punchy transient snares and driving 808 kicks tailored for rapid chopper flows in Manila (Tondo).",
+  "targetKeywords": [
+    "pinoy chopper double-time trap beats manila (tondo)",
+    "buy beats manila (tondo) gcash",
+    "pambansang chopper rap instrumental",
+    "beats in manila (tondo) wav download"
+  ],
+  "heroCta": "Download Beats in Manila (Tondo) (GCash / WAV)",
+  "recommendedBpm": "138-144 BPM",
+  "suggestedKey": "D-Minor / G-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Philippines",
+  "sceneHub": "Manila (Tondo)"
+},
+  {
+  "slug": "manila-tondo-bisdak-island-reggae-trap",
+  "name": "Manila (Tondo) Bisdak Island Reggae-Trap Beats",
+  "badge": "Island Reggae-Trap",
+  "headline": "Bisdak Island Reggae-Trap Beats in Manila (Tondo): Tondo & Fliptop Battle Cypher Roots",
+  "description": "Bouncy off-beat reggae skank guitars, island percussion and explosive 808 sub drops for vibrant performers in Manila (Tondo).",
+  "targetKeywords": [
+    "bisdak island reggae-trap beats manila (tondo)",
+    "buy beats manila (tondo) gcash",
+    "pambansang island reggae-trap instrumental",
+    "beats in manila (tondo) wav download"
+  ],
+  "heroCta": "Download Beats in Manila (Tondo) (GCash / WAV)",
+  "recommendedBpm": "96-102 BPM",
+  "suggestedKey": "A-Major / F#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Philippines",
+  "sceneHub": "Manila (Tondo)"
+},
+  {
+  "slug": "cebu-visayas-pinoy-rnb-trap-slowjam",
+  "name": "Cebu (Visayas) Pinoy R&B-Trap Slow Jam Beats",
+  "badge": "Pinoy R&B-Trap",
+  "headline": "Pinoy R&B-Trap Slow Jam Beats in Cebu (Visayas): Metro Cebu & Bisdak Island Trap",
+  "description": "Velvety Rhodes chords, sensual Tagalog melodies and smooth sub-bass with instant mobile payment via GCash for vocalists in Cebu (Visayas).",
+  "targetKeywords": [
+    "pinoy r&b-trap slow jam beats cebu (visayas)",
+    "buy beats cebu (visayas) gcash",
+    "pambansang pinoy r&b-trap instrumental",
+    "beats in cebu (visayas) wav download"
+  ],
+  "heroCta": "Download Beats in Cebu (Visayas) (GCash / WAV)",
+  "recommendedBpm": "88-95 BPM",
+  "suggestedKey": "Ab-Major / F-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Philippines",
+  "sceneHub": "Cebu (Visayas)"
+},
+  {
+  "slug": "cebu-visayas-manila-street-drill-808",
+  "name": "Cebu (Visayas) Manila Street Drill 808 Beats",
+  "badge": "Manila Drill",
+  "headline": "Manila Street Drill 808 Beats in Cebu (Visayas): Metro Cebu & Bisdak Island Trap",
+  "description": "Menacing minor bells, aggressive sliding 808s and rapid hi-hat rolls designed for street MCs and drill artists in Cebu (Visayas).",
+  "targetKeywords": [
+    "manila street drill 808 beats cebu (visayas)",
+    "buy beats cebu (visayas) gcash",
+    "pambansang manila drill instrumental",
+    "beats in cebu (visayas) wav download"
+  ],
+  "heroCta": "Download Beats in Cebu (Visayas) (GCash / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "C#-Minor / G#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Philippines",
+  "sceneHub": "Cebu (Visayas)"
+},
+  {
+  "slug": "cebu-visayas-chopper-double-time-trap",
+  "name": "Cebu (Visayas) Pinoy Chopper Double-Time Trap Beats",
+  "badge": "Chopper Rap",
+  "headline": "Pinoy Chopper Double-Time Trap Beats in Cebu (Visayas): Metro Cebu & Bisdak Island Trap",
+  "description": "High-speed brass horns, punchy transient snares and driving 808 kicks tailored for rapid chopper flows in Cebu (Visayas).",
+  "targetKeywords": [
+    "pinoy chopper double-time trap beats cebu (visayas)",
+    "buy beats cebu (visayas) gcash",
+    "pambansang chopper rap instrumental",
+    "beats in cebu (visayas) wav download"
+  ],
+  "heroCta": "Download Beats in Cebu (Visayas) (GCash / WAV)",
+  "recommendedBpm": "138-144 BPM",
+  "suggestedKey": "D-Minor / G-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Philippines",
+  "sceneHub": "Cebu (Visayas)"
+},
+  {
+  "slug": "cebu-visayas-bisdak-island-reggae-trap",
+  "name": "Cebu (Visayas) Bisdak Island Reggae-Trap Beats",
+  "badge": "Island Reggae-Trap",
+  "headline": "Bisdak Island Reggae-Trap Beats in Cebu (Visayas): Metro Cebu & Bisdak Island Trap",
+  "description": "Bouncy off-beat reggae skank guitars, island percussion and explosive 808 sub drops for vibrant performers in Cebu (Visayas).",
+  "targetKeywords": [
+    "bisdak island reggae-trap beats cebu (visayas)",
+    "buy beats cebu (visayas) gcash",
+    "pambansang island reggae-trap instrumental",
+    "beats in cebu (visayas) wav download"
+  ],
+  "heroCta": "Download Beats in Cebu (Visayas) (GCash / WAV)",
+  "recommendedBpm": "96-102 BPM",
+  "suggestedKey": "A-Major / F#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Philippines",
+  "sceneHub": "Cebu (Visayas)"
+},
+  {
+  "slug": "davao-mindanao-pinoy-rnb-trap-slowjam",
+  "name": "Davao (Mindanao) Pinoy R&B-Trap Slow Jam Beats",
+  "badge": "Pinoy R&B-Trap",
+  "headline": "Pinoy R&B-Trap Slow Jam Beats in Davao (Mindanao): Davao City & Southern Flow",
+  "description": "Velvety Rhodes chords, sensual Tagalog melodies and smooth sub-bass with instant mobile payment via GCash for vocalists in Davao (Mindanao).",
+  "targetKeywords": [
+    "pinoy r&b-trap slow jam beats davao (mindanao)",
+    "buy beats davao (mindanao) gcash",
+    "pambansang pinoy r&b-trap instrumental",
+    "beats in davao (mindanao) wav download"
+  ],
+  "heroCta": "Download Beats in Davao (Mindanao) (GCash / WAV)",
+  "recommendedBpm": "88-95 BPM",
+  "suggestedKey": "Ab-Major / F-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Philippines",
+  "sceneHub": "Davao (Mindanao)"
+},
+  {
+  "slug": "davao-mindanao-manila-street-drill-808",
+  "name": "Davao (Mindanao) Manila Street Drill 808 Beats",
+  "badge": "Manila Drill",
+  "headline": "Manila Street Drill 808 Beats in Davao (Mindanao): Davao City & Southern Flow",
+  "description": "Menacing minor bells, aggressive sliding 808s and rapid hi-hat rolls designed for street MCs and drill artists in Davao (Mindanao).",
+  "targetKeywords": [
+    "manila street drill 808 beats davao (mindanao)",
+    "buy beats davao (mindanao) gcash",
+    "pambansang manila drill instrumental",
+    "beats in davao (mindanao) wav download"
+  ],
+  "heroCta": "Download Beats in Davao (Mindanao) (GCash / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "C#-Minor / G#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Philippines",
+  "sceneHub": "Davao (Mindanao)"
+},
+  {
+  "slug": "davao-mindanao-chopper-double-time-trap",
+  "name": "Davao (Mindanao) Pinoy Chopper Double-Time Trap Beats",
+  "badge": "Chopper Rap",
+  "headline": "Pinoy Chopper Double-Time Trap Beats in Davao (Mindanao): Davao City & Southern Flow",
+  "description": "High-speed brass horns, punchy transient snares and driving 808 kicks tailored for rapid chopper flows in Davao (Mindanao).",
+  "targetKeywords": [
+    "pinoy chopper double-time trap beats davao (mindanao)",
+    "buy beats davao (mindanao) gcash",
+    "pambansang chopper rap instrumental",
+    "beats in davao (mindanao) wav download"
+  ],
+  "heroCta": "Download Beats in Davao (Mindanao) (GCash / WAV)",
+  "recommendedBpm": "138-144 BPM",
+  "suggestedKey": "D-Minor / G-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Philippines",
+  "sceneHub": "Davao (Mindanao)"
+},
+  {
+  "slug": "davao-mindanao-bisdak-island-reggae-trap",
+  "name": "Davao (Mindanao) Bisdak Island Reggae-Trap Beats",
+  "badge": "Island Reggae-Trap",
+  "headline": "Bisdak Island Reggae-Trap Beats in Davao (Mindanao): Davao City & Southern Flow",
+  "description": "Bouncy off-beat reggae skank guitars, island percussion and explosive 808 sub drops for vibrant performers in Davao (Mindanao).",
+  "targetKeywords": [
+    "bisdak island reggae-trap beats davao (mindanao)",
+    "buy beats davao (mindanao) gcash",
+    "pambansang island reggae-trap instrumental",
+    "beats in davao (mindanao) wav download"
+  ],
+  "heroCta": "Download Beats in Davao (Mindanao) (GCash / WAV)",
+  "recommendedBpm": "96-102 BPM",
+  "suggestedKey": "A-Major / F#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Philippines",
+  "sceneHub": "Davao (Mindanao)"
+},
+  {
+  "slug": "angeles-clark-pinoy-rnb-trap-slowjam",
+  "name": "Angeles (Clark) Pinoy R&B-Trap Slow Jam Beats",
+  "badge": "Pinoy R&B-Trap",
+  "headline": "Pinoy R&B-Trap Slow Jam Beats in Angeles (Clark): Angeles City & Central Luzon Club Trap",
+  "description": "Velvety Rhodes chords, sensual Tagalog melodies and smooth sub-bass with instant mobile payment via GCash for vocalists in Angeles (Clark).",
+  "targetKeywords": [
+    "pinoy r&b-trap slow jam beats angeles (clark)",
+    "buy beats angeles (clark) gcash",
+    "pambansang pinoy r&b-trap instrumental",
+    "beats in angeles (clark) wav download"
+  ],
+  "heroCta": "Download Beats in Angeles (Clark) (GCash / WAV)",
+  "recommendedBpm": "88-95 BPM",
+  "suggestedKey": "Ab-Major / F-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Philippines",
+  "sceneHub": "Angeles (Clark)"
+},
+  {
+  "slug": "angeles-clark-manila-street-drill-808",
+  "name": "Angeles (Clark) Manila Street Drill 808 Beats",
+  "badge": "Manila Drill",
+  "headline": "Manila Street Drill 808 Beats in Angeles (Clark): Angeles City & Central Luzon Club Trap",
+  "description": "Menacing minor bells, aggressive sliding 808s and rapid hi-hat rolls designed for street MCs and drill artists in Angeles (Clark).",
+  "targetKeywords": [
+    "manila street drill 808 beats angeles (clark)",
+    "buy beats angeles (clark) gcash",
+    "pambansang manila drill instrumental",
+    "beats in angeles (clark) wav download"
+  ],
+  "heroCta": "Download Beats in Angeles (Clark) (GCash / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "C#-Minor / G#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Philippines",
+  "sceneHub": "Angeles (Clark)"
+},
+  {
+  "slug": "angeles-clark-chopper-double-time-trap",
+  "name": "Angeles (Clark) Pinoy Chopper Double-Time Trap Beats",
+  "badge": "Chopper Rap",
+  "headline": "Pinoy Chopper Double-Time Trap Beats in Angeles (Clark): Angeles City & Central Luzon Club Trap",
+  "description": "High-speed brass horns, punchy transient snares and driving 808 kicks tailored for rapid chopper flows in Angeles (Clark).",
+  "targetKeywords": [
+    "pinoy chopper double-time trap beats angeles (clark)",
+    "buy beats angeles (clark) gcash",
+    "pambansang chopper rap instrumental",
+    "beats in angeles (clark) wav download"
+  ],
+  "heroCta": "Download Beats in Angeles (Clark) (GCash / WAV)",
+  "recommendedBpm": "138-144 BPM",
+  "suggestedKey": "D-Minor / G-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Philippines",
+  "sceneHub": "Angeles (Clark)"
+},
+  {
+  "slug": "angeles-clark-bisdak-island-reggae-trap",
+  "name": "Angeles (Clark) Bisdak Island Reggae-Trap Beats",
+  "badge": "Island Reggae-Trap",
+  "headline": "Bisdak Island Reggae-Trap Beats in Angeles (Clark): Angeles City & Central Luzon Club Trap",
+  "description": "Bouncy off-beat reggae skank guitars, island percussion and explosive 808 sub drops for vibrant performers in Angeles (Clark).",
+  "targetKeywords": [
+    "bisdak island reggae-trap beats angeles (clark)",
+    "buy beats angeles (clark) gcash",
+    "pambansang island reggae-trap instrumental",
+    "beats in angeles (clark) wav download"
+  ],
+  "heroCta": "Download Beats in Angeles (Clark) (GCash / WAV)",
+  "recommendedBpm": "96-102 BPM",
+  "suggestedKey": "A-Major / F#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Philippines",
+  "sceneHub": "Angeles (Clark)"
+},
 ];
