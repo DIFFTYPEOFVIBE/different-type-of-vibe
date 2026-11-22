@@ -149764,4 +149764,1103 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
   "market": "Dominican Republic",
   "sceneHub": "San Cristóbal (Madre Vieja)"
 },
+  {
+  "slug": "jota-carrizales-fms-peru-battle-trap",
+  "title": "Jota Carrizales FMS Perú Punchline Battle Boom Bap & Hard Trap Beat",
+  "description": "Hard-hitting, aggressive battle rap and trap inspired by Jota and FMS Perú (Red Bull Batalla de los Gallos Perú champions): punchy acoustic snares, raw vinyl scratches, dramatic brass stabs, and relentless lyrical pocket.",
+  "targetKeywords": [
+    "jota carrizales type beat",
+    "fms peru battle beat",
+    "batalla de gallos peru instrumental",
+    "hardcore boom bap beat peru",
+    "jota fms type beat wav"
+  ],
+  "heroCta": "Comprar Beat FMS Perú (Instant WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "Freestyle Battle Cypher, Aggressive Punchline Record and Lyrical Rap Showcase",
+  "similarArtists": [
+    "Jota",
+    "Nekroos",
+    "Jaze",
+    "Stick"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "productionTips": "Heavy acoustic boom bap drums with analog punch and vinyl crackle leaving wide frequency space for battle delivery.",
+  "idealVocalStyle": "Aggressive freestyle delivery, hard punchlines, raw conviction, and breathless battle rhyme schemes.",
+  "suggestedKey": "D Minor / C Minor",
+  "streamingSuitability": "Cherished by battle rap fans, freestyle leagues, and purist Peruvian hip-hop audiences."
+},
+  {
+  "slug": "aco-dante-conscious-jazz-rap-lima",
+  "title": "A.C.O Dante Conscious Poetic Jazz-Hop & Warm Rhodes Boom Bap Beat",
+  "description": "Sophisticated, poetic Peruvian jazz-rap and conscious urban lofi inspired by A.C.O (Dante, Algo Bueno, Días Felices, Canciones de Otoño): warm Rhodes electric keys, acoustic upright bass, and intimate spoken-word cadence.",
+  "targetKeywords": [
+    "aco type beat",
+    "aco dante type beat wav",
+    "jazz rap peruano instrumental",
+    "conscious boom bap lima",
+    "aco hip hop beat"
+  ],
+  "heroCta": "Comprar Beat Estilo A.C.O (WAV 24-bit)",
+  "energyLevel": "Medium",
+  "primaryUse": "Conscious Hip-Hop Album Lead, Late-Night Nocturnal Drive and Poetic Spoken Word",
+  "similarArtists": [
+    "A.C.O",
+    "Rapper School",
+    "Norick",
+    "Loyle Carner"
+  ],
+  "recommendedBpm": "86-92 BPM",
+  "productionTips": "Warm Fender Rhodes chords tracked with analog tape saturation over an unquantized acoustic drum break and upright bass.",
+  "idealVocalStyle": "Intimate poetic delivery, deep philosophical lyrics, smooth conversational rap, and soulful refrains.",
+  "suggestedKey": "Bb Major / G Minor",
+  "streamingSuitability": "Evergreen streams across Jazz Rap Latino, Hip Hop Consciencia, and study lofi curations."
+},
+  {
+  "slug": "vijay-kesh-estilo-barrio-callejero-drill",
+  "title": "Vijay Kesh Estilo Barrio Minor Bells & Aggressive 808 Drill Beat",
+  "description": "Aggressive, fast-paced Lima street drill inspired by Vijay Kesh and the new Peruvian urban generation: cold minor bell melodies, multi-octave 808 slides, rapid-fire flow switches, and authentic street reality.",
+  "targetKeywords": [
+    "vijay kesh type beat",
+    "drill peruano 808 beat",
+    "vijay kesh instrumental wav",
+    "lima street drill beat",
+    "drill de barrio peru"
+  ],
+  "heroCta": "Comprar Beat Estilo Vijay Kesh (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hardcore Street Record, Gritty Music Video and Heavy Gym Workout Banger",
+  "similarArtists": [
+    "Vijay Kesh",
+    "Ghetto Kids Perú",
+    "Central Cee",
+    "Eladio Carrión"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Menacing minor bell ostinatos paired with multi-octave 808 slides and sharp counter-snare rolls.",
+  "idealVocalStyle": "Rapid triplet cadences, deep street slang, aggressive tone, and confident punchlines.",
+  "suggestedKey": "C# Minor / G# Minor",
+  "streamingSuitability": "Prime placement on Trap Peruano, Drill Latino, and urban underground platforms."
+},
+  {
+  "slug": "chicha-psicodelica-los-mirlos-cumbia-trap",
+  "title": "Chicha Psicodélica Vintage Surf Guitars & Bouncing 808 Cumbia-Trap Beat",
+  "description": "Legendary Peruvian Chicha psicodélica paying homage to Los Mirlos and Chacalón: vintage 1970s Amazonian surf-cumbia electric guitar licks with analog spring reverb, syncopated güiro, and booming 808 sub drops.",
+  "targetKeywords": [
+    "chicha trap beat peru",
+    "los mirlos cumbia beat wav",
+    "cumbia psicodelica trap instrumental",
+    "chicha beat 808",
+    "cumbia amazonica hip hop"
+  ],
+  "heroCta": "Comprar Beat Chicha-Trap (Instant WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "Cultural Crossover Single, High-Energy Festival Track and Psychedelic Urban Visualizer",
+  "similarArtists": [
+    "Los Mirlos",
+    "Dengue Dengue Dengue",
+    "Bareto",
+    "Chacalón Trap"
+  ],
+  "recommendedBpm": "100-106 BPM",
+  "productionTips": "Authentic vintage surf guitar tones with spring reverb and wah-wah over syncopated güiro and punchy 808 sub kicks.",
+  "idealVocalStyle": "Passionate urban cumbia singing, rhythmic rap verses, celebratory chants, and distinctive Peruvian cadence.",
+  "suggestedKey": "A Minor / D Minor",
+  "streamingSuitability": "Guaranteed dancefloor reaction, viral international crossover, and high engagement on Latin Alternative."
+},
+  {
+  "slug": "charango-andino-quena-mystical-trap",
+  "title": "Charango Andino & Quena Panflute Mystical Highland 808 Trap Beat",
+  "description": "Sacred, atmospheric Andean cultural crossover: authentic acoustic Charango tremolo picking, mystical Quena and Zampoña bamboo panflutes, and subterranean 808 sub-bass glides.",
+  "targetKeywords": [
+    "charango trap beat 808",
+    "musica andina trap beat",
+    "quena flauta hip hop beat wav",
+    "cusco mystical trap beat",
+    "andino 808 instrumental"
+  ],
+  "heroCta": "Comprar Beat Charango-Trap (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Cultural Masterpiece, Andean Documentary Visualizer and Festival Mainstage Performance",
+  "similarArtists": [
+    "Alborada Trap",
+    "Uchpa",
+    "Kayfex",
+    "Renata Flores"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "productionTips": "Real multi-tracked Charango tremolo picking layered with airy Quena flutes and deep, resonant 808 sub bass.",
+  "idealVocalStyle": "Passionate Quechua/Spanish bilingual lyrics, storytelling of the Andes, and emotional vocal hooks.",
+  "suggestedKey": "E Minor / G Major",
+  "streamingSuitability": "Celebrated by world music platforms, cultural media, and international Latin Alternative listeners."
+},
+  {
+  "slug": "callao-salsa-dura-trombon-trap",
+  "title": "Callao Salsa Dura Brass Trombones & Puerto Bravo 808 Trap Beat",
+  "description": "The proud, defiant rhythm of Callao: driving brass trombone stabs, syncopated timbal accents, and heavy modern 808 trap drops inspired by historic salsa chalaca and Puerto Bravo street culture.",
+  "targetKeywords": [
+    "callao salsa trap beat",
+    "salsa dura hip hop beat wav",
+    "trombon salsa beat 808",
+    "callao puerto bravo instrumental",
+    "salsa urbana peruana beat"
+  ],
+  "heroCta": "Comprar Beat Salsa-Trap Callao (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Puerto Bravo Street Anthem, Hardcore Urban Single and High-Energy Dance Video",
+  "similarArtists": [
+    "Zaperoko Trap",
+    "ChocQuibTown",
+    "Calle 13",
+    "Farruko (Salsa-Trap)"
+  ],
+  "recommendedBpm": "100-108 BPM",
+  "productionTips": "Layered brass trombone fanfare with authentic Latin percussion timbal rolls and punchy 808 sub drops.",
+  "idealVocalStyle": "Gravelly street singing, aggressive rhythmic bars, authentic Chalaco slang, and call-and-response hooks.",
+  "suggestedKey": "D Minor / G Minor",
+  "streamingSuitability": "Huge affinity across coastal Peru, Callao barrios, and energetic Latin club playlists."
+},
+  {
+  "slug": "faraon-love-shady-trap-viral-rhythm",
+  "title": "Faraón Love Shady Bouncy Viral Latin Trap & Commercial Dembow Beat",
+  "description": "Eccentric, viral Latin trap inspired by Faraón Love Shady (Soy Guapo, Duro 2 Horas, Raaa, Oh Me Vengo): brass horn stabs, bouncy commercial dembow-trap kicks, and unmistakable internet humor charisma.",
+  "targetKeywords": [
+    "faraon love shady type beat",
+    "soy guapo type beat wav",
+    "viral latin trap beat 2024",
+    "faraon love shady instrumental",
+    "commercial latin trap banger"
+  ],
+  "heroCta": "Comprar Beat Estilo Faraón (Instant WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "Viral Comedy Rap Single, High-Engagement TikTok Trend and Party Banger",
+  "similarArtists": [
+    "Faraón Love Shady",
+    "Jon Z",
+    "Kiko el Crazy",
+    "El Alfa"
+  ],
+  "recommendedBpm": "115-122 BPM",
+  "productionTips": "Punchy kick-clap dembow groove with overdriven 808s and bright synth horns designed for high virality.",
+  "idealVocalStyle": "Unapologetic eccentric delivery, iconic catchphrases (Raaa), bold humorous lyrics, and swagger.",
+  "suggestedKey": "F Minor / C Minor",
+  "streamingSuitability": "Guaranteed viral potential across TikTok, YouTube humor trends, and party sound systems."
+},
+  {
+  "slug": "lima-barranco-bohemian-coastal-lofi",
+  "title": "Lima Barranco Puente de los Suspiros Warm Nylon Guitar & Ocean Lofi Beat",
+  "description": "Atmospheric, nostalgic nocturnal stroll through Barranco and the Pacific cliffs: tender Spanish nylon guitar fingerpicking, gentle ocean surf Foley, and unquantized lofi boom bap drums.",
+  "targetKeywords": [
+    "lima lofi beat",
+    "barranco chillhop instrumental",
+    "puente de los suspiros lofi beat wav",
+    "peru lofi study beat",
+    "guitarra acustica lofi peru"
+  ],
+  "heroCta": "Comprar Beat Barranco Lofi (Instant WAV)",
+  "energyLevel": "Low-Medium",
+  "primaryUse": "Nocturnal Reflection, Study and Focus Background and Aesthetic Coastal Visualizer",
+  "similarArtists": [
+    "A.C.O (Lofi)",
+    "Novalima (Chill)",
+    "ChilledCow",
+    "Tom Misch"
+  ],
+  "recommendedBpm": "80-85 BPM",
+  "productionTips": "Warm acoustic guitar tracked with tube microphones, textured with vinyl crackle and natural Pacific ocean Foley.",
+  "idealVocalStyle": "Intimate poetic whisper, gentle spoken word, melodic Spanish hums, and late-night nostalgic observations.",
+  "suggestedKey": "F Major / D Minor",
+  "streamingSuitability": "Evergreen placement on lofi study playlists, nocturnal chill streams, and aesthetic YouTube channels."
+},
+  {
+  "slug": "huayno-wanka-saxo-andino-808-bounce",
+  "title": "Huayno Wanka Fast Andean Saxophones & High-Altitude 808 Bounce Beat",
+  "description": "High-altitude Mantaro Valley fusion: rapid Peruvian Huayno brass saxophone melodies, syncopated tinya drums, and heavy modern 808 trap sub bass for festive highland performers.",
+  "targetKeywords": [
+    "huayno trap beat 808",
+    "saxo wanka beat wav",
+    "huancayo huayno hip hop",
+    "folclore andino trap fusion",
+    "huayno instrumental download"
+  ],
+  "heroCta": "Comprar Beat Huayno-Trap (WAV + Stems)",
+  "energyLevel": "Maximum",
+  "primaryUse": "Festive Highland Single, Regional Carnival Anthem and Andean Dance Video",
+  "similarArtists": [
+    "Kayfex",
+    "Los Shapis (Trap)",
+    "Pelo D'Ambrosio Trap",
+    "Damián de la Cruz"
+  ],
+  "recommendedBpm": "120-128 BPM",
+  "productionTips": "Live recorded Andean Huayno brass saxophones paired with driving acoustic percussion and punchy 808 sub drops.",
+  "idealVocalStyle": "High-spirited Andean party singing, rhythmic zapateo chants, fast flows, and festive energy.",
+  "suggestedKey": "G Minor / D Minor",
+  "streamingSuitability": "Dominates central Andean regional streaming, YouTube concerts, and festive dance halls across Peru."
+},
+  {
+  "slug": "cajon-peruano-afro-criollo-festejo-trap",
+  "title": "Cajón Peruano & Quijada Afro-Criollo Festejo Poly-Rhythm 808 Beat",
+  "description": "Authentic Afro-Peruvian cultural fusion: live acoustic Cajón peruano, Quijada de burro jawbone rattle, and swinging Festejo polyrhythms fused with contemporary 808 trap drops.",
+  "targetKeywords": [
+    "cajon peruano trap beat",
+    "festejo trap beat 808",
+    "afro peruano hip hop instrumental",
+    "quijada de burro rap beat wav",
+    "ritmo afro criollo trap"
+  ],
+  "heroCta": "Comprar Beat Festejo-Trap (Instant WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "Cultural Masterpiece, Afro-Peruvian Pride Anthem and International Festival Single",
+  "similarArtists": [
+    "Novalima",
+    "Susana Baca (Trap)",
+    "Eva Ayllón",
+    "Arturo 'Zambo' Cavero Trap"
+  ],
+  "recommendedBpm": "104-112 BPM",
+  "productionTips": "Hand-recorded wooden Cajón box grooves and cajita clicks layered over a warm analog 808 sub bassline.",
+  "idealVocalStyle": "Rhythmic Afro-Peruvian vocal delivery, celebratory call-and-response chants, and poetic street commentary.",
+  "suggestedKey": "A Minor / E Minor",
+  "streamingSuitability": "Critically acclaimed across NPR Alt.Latino, world music festivals, and Latin Grammy alternative categories."
+},
+  {
+  "slug": "san-juan-de-lurigancho-subterranean-drill",
+  "title": "San Juan de Lurigancho SJL Raw Street Reality Sirens & 808 Drill Beat",
+  "description": "Raw, unadorned San Juan de Lurigancho (SJL) street reality: screeching siren textures, dark minor bell ostinatos, and aggressive subterranean 808 slides designed for authentic Peruvian street storytellers.",
+  "targetKeywords": [
+    "sjl drill beat 808",
+    "san juan de lurigancho trap beat",
+    "drill peruano subterraneo wav",
+    "ghetto lima street rap beat",
+    "raw sjl hip hop beat"
+  ],
+  "heroCta": "Comprar Beat SJL Drill (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hardcore Street Record, Gritty Music Video and Underground Lima Cypher",
+  "similarArtists": [
+    "Vijay Kesh",
+    "Eladio Carrión",
+    "Pablo Chill-E",
+    "Morad"
+  ],
+  "recommendedBpm": "142-145 BPM",
+  "productionTips": "Ominous minor bell progressions, aggressive multi-octave 808 slides, and piercing snares tuned for street impact.",
+  "idealVocalStyle": "Gritty low baritone delivery, fast drill flows, authentic Peruvian barrio slang, and dark atmospheric ad-libs.",
+  "suggestedKey": "F# Minor / C# Minor",
+  "streamingSuitability": "High virality on SoundCloud, YouTube street cyphers, and underground urban circuits in Peru."
+},
+  {
+  "slug": "huanchaco-sunset-caballito-de-totora-cloud",
+  "title": "Huanchaco Caballitos de Totora Pacific Ocean Breeze & Cloud Trap Beat",
+  "description": "Breezy, sun-kissed coastal reflection inspired by Huanchaco and Trujillo: bright acoustic guitar picking, ocean surf reverb tails, and relaxed 808 cloud trap grooves for chill beachside singles.",
+  "targetKeywords": [
+    "huanchaco cloud trap beat",
+    "trujillo surf beat wav",
+    "costa norte peru trap beat",
+    "caballitos de totora lofi rap",
+    "pacific sunset cloud trap"
+  ],
+  "heroCta": "Comprar Beat Huanchaco Cloud Trap (Instant WAV)",
+  "energyLevel": "Medium",
+  "primaryUse": "Beach Vlog Soundtrack, Chill Summer Single and Late-Night Drive Along the Northern Coast",
+  "similarArtists": [
+    "Tourista",
+    "Kanaku y El Tigre",
+    "We The Lion",
+    "A.C.O"
+  ],
+  "recommendedBpm": "115-122 BPM",
+  "productionTips": "Sunny nylon guitar arpeggios layered with lush plate reverb tails and a deep, rounded sub bass.",
+  "idealVocalStyle": "Relaxed melodic singing, romantic Spanish wordplay, and breezy summer hooks.",
+  "suggestedKey": "G Major / E Minor",
+  "streamingSuitability": "Ideal for Summer Hits, Beach Vibes, and Peruvian Alternative playlists across DSPs."
+},
+  {
+  "slug": "bases-trap-peruano-baratas-yape-plin",
+  "title": "Bases de Trap Peruano Baratas desde S/ 85 PEN (Pago Instantáneo por Yape & Plin)",
+  "description": "Instrumentales profesionales de trap peruano, drill y boombap desde S/ 85 PEN (~$23 USD) con pago rápido y seguro mediante Yape (BCP), Plin (Interbank, BBVA, Scotiabank) y tarjetas locales.",
+  "targetKeywords": [
+    "bases trap peruano baratas yape plin",
+    "comprar bases de trap peru yape",
+    "beats baratos soles pen bcp",
+    "instrumentales trap lima plin"
+  ],
+  "heroCta": "Ver Bases Baratas desde S/ 85 PEN (Yape / Plin)",
+  "energyLevel": "Variable",
+  "primaryUse": "Singles Debut, Grabación en Home Studio y Mixtapes Independientes con Licencia Comercial",
+  "similarArtists": [
+    "Raperos Independientes Peruanos",
+    "Creadores de YouTube y TikTok"
+  ],
+  "recommendedBpm": "88-144 BPM",
+  "productionTips": "Pre-masterizadas con margen dinámico optimizado para grabar voces nítidas en cualquier micrófono de condensador.",
+  "idealVocalStyle": "Versátil para trap melódico con autotune, drill agresivo o rimas conscientes de barrio.",
+  "suggestedKey": "Todas las tonalidades disponibles",
+  "streamingSuitability": "Licencia comercial con hasta 250.000 reproducciones en Spotify, Apple Music y YouTube."
+},
+  {
+  "slug": "pistas-chicha-trap-psicodelica-wav-stems",
+  "title": "Pistas de Chicha-Trap Psicodélica con Stems WAV (Estilo Los Mirlos & Chacalón)",
+  "description": "Instrumentales de cumbia-chicha psicodélica peruana con guitarras surf vintage y bajos 808 demoledores, entregadas con todas las pistas de audio WAV sin compresión (stems multitrack) para mezcla en estudio.",
+  "targetKeywords": [
+    "pistas chicha trap psicodelica wav stems",
+    "chicha cumbia pistas separadas download",
+    "comprar bases chicha peru wav 24 bit",
+    "cumbia psicodelica stems yape"
+  ],
+  "heroCta": "Descargar Pistas Chicha-Trap + Stems WAV",
+  "energyLevel": "High",
+  "primaryUse": "Mezcla en Estudio Profesional, Grabación de Álbum y Fusión Cultural de Impacto",
+  "similarArtists": [
+    "Los Mirlos",
+    "Dengue Dengue Dengue",
+    "Bareto",
+    "Chacalón"
+  ],
+  "recommendedBpm": "100-106 BPM",
+  "productionTips": "Pistas separadas en formato WAV 24-bit 48kHz con etiquetas de tempo y tono exactas para fácil importación en Pro Tools.",
+  "idealVocalStyle": "Voces de cumbia con sentimiento, barras de rap rítmicas o cantos festivos caribeños.",
+  "suggestedKey": "La Menor / Re Menor",
+  "streamingSuitability": "Apto para lanzamientos en grandes discográficas y rotación en playlists globales de música alternativa."
+},
+  {
+  "slug": "bases-drill-peruano-sliding-808s-callao",
+  "title": "Bases de Drill Peruano con Bajos 808 Deslizantes (Estilo Callao & Vijay Kesh)",
+  "description": "Instrumentales de drill callejero peruano con campanas menores oscuras y bajos 808 con deslizamientos de varias octavas, diseñadas para MCs de batalla y raperos del Callao y Lima.",
+  "targetKeywords": [
+    "bases drill peruano sliding 808s callao",
+    "drill peruano instrumental wav",
+    "bases drill lima 808 yape",
+    "vijay kesh drill beat download"
+  ],
+  "heroCta": "Descargar Bases de Drill Peruano (Instant WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "Single de Calle, Cypher de Batalla y Video Musical de Alto Impacto",
+  "similarArtists": [
+    "Vijay Kesh",
+    "Ghetto Kids Perú",
+    "Central Cee",
+    "Morad"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Cajas secas con pegada de transiente agresiva y espacio en frecuencias medias para rimas de alta velocidad.",
+  "idealVocalStyle": "Rimas de drill enérgicas, jerga de barrio chalaco/limeño y entrega contundente.",
+  "suggestedKey": "Do Sostenido Menor / Sol Sostenido Menor",
+  "streamingSuitability": "Top viral en YouTube, batallas de freestyle y listas de trap underground peruano."
+},
+  {
+  "slug": "contrato-licencia-beat-apdayc-indecopi-pdf",
+  "title": "Contrato de Licencia de Beats Peruano (Conforme a APDAYC, Indecopi & D.L. 822)",
+  "description": "Contrato legal de producción musical 100% conforme a las normativas de la Asociación Peruana de Autores y Compositores (APDAYC), Indecopi y el Decreto Legislativo 822 (Ley de Derecho de Autor) con PDF firmado y split sheet inmediato.",
+  "targetKeywords": [
+    "contrato licencia beat apdayc indecopi pdf",
+    "contrato compra beat peru apdayc",
+    "licencia beat rap peru pdf",
+    "split sheet productor musical peru"
+  ],
+  "heroCta": "Comprar Beat con Contrato APDAYC en PDF",
+  "energyLevel": "Profesional",
+  "primaryUse": "Registro Legal de Obras ante Indecopi/APDAYC, Distribución Digital y Cobro de Regalías",
+  "similarArtists": [
+    "Compositores y Productores Afiliados a APDAYC"
+  ],
+  "recommendedBpm": "Aplicable a todos los tempos",
+  "productionTips": "Términos claros: 50/50 en split de regalías editoriales (publishing) y 100% de ingresos de máster hasta el límite acordado.",
+  "idealVocalStyle": "Esencial para cualquier estilo vocal con aspiraciones de monetización profesional.",
+  "suggestedKey": "Estándar Legal Universal",
+  "streamingSuitability": "Protección jurídica total para subir temas a Spotify, monetizar en Content ID y sonar en radio peruana."
+},
+  {
+  "slug": "comprar-beats-yape-bcp-peru-instant",
+  "title": "Comprar Beats con Yape & Plin en el Perú (Descarga Inmediata en Soles PEN)",
+  "description": "La forma más fácil y rápida de comprar instrumentales en el Perú: escanea y paga directo con Yape (BCP) o Plin (BBVA, Interbank, Scotiabank) y recibe la descarga automática de archivos WAV y contrato.",
+  "targetKeywords": [
+    "comprar beats yape bcp peru instant",
+    "comprar pistas rap yape",
+    "tienda de beats peru yape plin",
+    "beats trap peru pago yape inmediato"
+  ],
+  "heroCta": "Comprar Beats con Yape / Plin Ahora",
+  "energyLevel": "Instantáneo",
+  "primaryUse": "Compra Rápida de Beats para Sesiones de Grabación Urgentes en Lima, Callao y Provincias",
+  "similarArtists": [
+    "Creadores Urbanos en Lima, Arequipa, Trujillo y Cusco"
+  ],
+  "recommendedBpm": "85-150 BPM",
+  "productionTips": "Sistema de entrega instantánea por correo electrónico con enlaces de descarga de alta velocidad.",
+  "idealVocalStyle": "Apto para todos los géneros urbanos peruanos.",
+  "suggestedKey": "Multitonal",
+  "streamingSuitability": "Descarga instantánea con licencia lista para distribución comercial inmediata."
+},
+  {
+  "slug": "paquete-5-beats-album-peru-descuento",
+  "title": "Paquetes de Beats para EP y Álbum en el Perú (40% de Descuento en Soles PEN)",
+  "description": "Ahorra un 40% adquiriendo paquetes de 5 a 10 instrumentales coordinadas sónicamente para producir tu próximo EP, mixtape o álbum discográfico en el Perú con licencia unificada y pago en soles.",
+  "targetKeywords": [
+    "paquete 5 beats album peru descuento",
+    "bundle instrumentales ep trap peru yape",
+    "comprar beats por mayor lima pen",
+    "paquete de pistas rap barato peru"
+  ],
+  "heroCta": "Conseguir Paquete para Álbum (40% Off)",
+  "energyLevel": "Variable",
+  "primaryUse": "Producción Integral de Discos, Conceptos Musicales Coherentes y Lanzamientos Periódicos",
+  "similarArtists": [
+    "Raperos en Desarrollo y Colectivos Urbanos Independientes"
+  ],
+  "recommendedBpm": "88-142 BPM",
+  "productionTips": "Curaduría armónica y dinámica coordinada para garantizar una experiencia de escucha fluida en todo tu proyecto.",
+  "idealVocalStyle": "Amplitud para que el artista demuestre su versatilidad lírica y rítmica.",
+  "suggestedKey": "Gama Armónica Completa",
+  "streamingSuitability": "Licencia comercial unificada que cubre todos los temas de tu proyecto a la vez."
+},
+  {
+  "slug": "productor-musical-peru-whatsapp-onzieb",
+  "title": "Productor Musical Exclusivo para el Perú (WhatsApp Directo con Onzieb)",
+  "description": "Trabaja mano a mano con el productor musical Onzieb mediante WhatsApp para ordenar pistas personalizadas: cambios de tonalidad, arreglos de estructura a medida y producción exclusiva de trap, boombap y chicha.",
+  "targetKeywords": [
+    "productor musical peru whatsapp onzieb",
+    "onzieb productor trap peru",
+    "encargar beat personalizado lima whatsapp",
+    "beatmaker peru contacto whatsapp"
+  ],
+  "heroCta": "Hablar con Onzieb por WhatsApp",
+  "energyLevel": "Personalizado",
+  "primaryUse": "Producción Exclusiva a Medida, Creación de Identidad Sonora y Singles Principales",
+  "similarArtists": [
+    "Onzieb",
+    "Productores Urbanos de Primer Nivel en el Perú"
+  ],
+  "recommendedBpm": "Adaptado exactamente al flujo y tesitura del artista",
+  "productionTips": "Comunicación ágil por notas de voz en WhatsApp para pulir detalles de mezcla y composición en tiempo real.",
+  "idealVocalStyle": "Diseñado milimétricamente para exaltar el timbre y carácter vocal del intérprete.",
+  "suggestedKey": "Tono Personalizado a Medida",
+  "streamingSuitability": "Cesión exclusiva con 100% de derechos master para lanzamientos comerciales sin límites."
+},
+  {
+  "slug": "bases-boombap-peruano-clasico-aco-wav",
+  "title": "Bases de Boom Bap Peruano Clásico (Estilo A.C.O, Rapper School & Vinilo)",
+  "description": "Instrumentales auténticas de hip-hop y boom bap peruano con muestras de jazz y soul de vinilo, bombos con pegada analógica y cajas secas inspiradas en la escuela clásica limeña.",
+  "targetKeywords": [
+    "bases boombap peruano clasico aco wav",
+    "boom bap beat peru yape",
+    "instrumental rap clasico lima",
+    "rapper school style boom bap"
+  ],
+  "heroCta": "Escuchar Bases de Boom Bap Peruano",
+  "energyLevel": "High",
+  "primaryUse": "Single de Rap Clásico, Poesía Urbana y Cypher Lirical",
+  "similarArtists": [
+    "A.C.O",
+    "Rapper School",
+    "Norick",
+    "Warrior"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "productionTips": "Sampleo clásico en estilo MPC con calidez de vinilo y cajas cortantes que dejan espacio al flow.",
+  "idealVocalStyle": "Métricas complejas, rimas multisilábicas, mensaje con contenido y entrega contundente.",
+  "suggestedKey": "Re Menor / Sol Menor",
+  "streamingSuitability": "Inmejorable para amantes del hip-hop estricto, competencias de rimas y oyentes de rap de culto."
+},
+  {
+  "slug": "bases-charango-trap-andino-mistico-wav",
+  "title": "Bases de Trap Andino Místico con Charango & Quena (Fusión 808)",
+  "description": "La poderosa fusión de la música tradicional andina con el trap moderno: trémolos de charango acústico, quenas de caña envolventes y bajos 808 profundos para proyectos de vanguardia cultural.",
+  "targetKeywords": [
+    "bases charango trap andino mistico wav",
+    "trap andino beat 808 peru",
+    "musica andina rap instrumental",
+    "charango quena trap download"
+  ],
+  "heroCta": "Descubrir Beats Trap Andino con Charango",
+  "energyLevel": "High",
+  "primaryUse": "Obra de Fusión Cultural, Himno de Identidad Andina y Video Musical Sinematográfico",
+  "similarArtists": [
+    "Kayfex",
+    "Renata Flores",
+    "Uchpa",
+    "Alborada"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "productionTips": "Instrumentos tradicionales andinos grabados con fidelidad de estudio cruzados con subgraves 808 afinados y baterías híbridas.",
+  "idealVocalStyle": "Voces apasionadas en quechua o español, coros épicos y barras con mensaje cultural.",
+  "suggestedKey": "Mi Menor / Si Menor",
+  "streamingSuitability": "Excelente impacto en festivales internacionales, plataformas culturales y listas de música alternativa."
+},
+  {
+  "slug": "drum-kit-urbano-peruano-gratis-wav",
+  "title": "Drum Kit Urbano Peruano Gratis (Samples WAV 24-Bit, 808s, Cajón & Drill Snares)",
+  "description": "Descarga gratis nuestro pack de sonidos para productores de música urbana peruana: 30 bajos 808 afinados, golpes secos de cajón peruano, cajas de drill y hi-hats en formato WAV 24-bit de estudio.",
+  "targetKeywords": [
+    "drum kit urbano peruano gratis wav",
+    "libreria trap peruano gratis fl studio",
+    "samples cajon peruano wav download",
+    "sample pack hip hop peruano free"
+  ],
+  "heroCta": "Descargar Drum Kit Peruano Gratis (ZIP)",
+  "energyLevel": "High",
+  "primaryUse": "Producción Musical en Home Studio, Beatmaking en FL Studio, Ableton Live y Logic Pro",
+  "similarArtists": [
+    "Beatmakers Independientes Peruanos",
+    "Productores Urbanos Emergentes"
+  ],
+  "recommendedBpm": "Compatible con todos los tempos de 80 a 160 BPM",
+  "productionTips": "Sonidos one-shot procesados con ecualización de estudio y transientes nítidos 100% libres de derechos.",
+  "idealVocalStyle": "Cimientos rítmicos sólidos para crear instrumentales profesionales con el sonido característico del Perú.",
+  "suggestedKey": "Afinados en Do (C) para fácil afinación en tu sampler",
+  "streamingSuitability": "Completamente libre de regalías (Royalty-Free) para temas comerciales y venta de beats."
+},
+  {
+  "slug": "lima-barranco-chicha-trap-psicodelica",
+  "name": "Lima (Barranco) Chicha Trap Psicodélica Beats",
+  "badge": "Chicha Trap",
+  "headline": "Chicha Trap Psicodélica Beats en Lima (Barranco): Barranco & Hip-Hop Bohemio",
+  "description": "Guitarras de cumbia surf psicodélica vintage, güiro bailable y bajos 808 profundos con pago por Yape para artistas en Lima (Barranco).",
+  "targetKeywords": [
+    "chicha trap psicodélica beats lima (barranco)",
+    "comprar beats lima (barranco) yape",
+    "pistas de chicha trap peru",
+    "instrumentales en lima (barranco) wav"
+  ],
+  "heroCta": "Descargar Beats en Lima (Barranco) (Yape / WAV)",
+  "recommendedBpm": "100-106 BPM",
+  "suggestedKey": "La-Menor / Re-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Peru",
+  "sceneHub": "Lima (Barranco)"
+},
+  {
+  "slug": "lima-barranco-peruvian-street-drill-808",
+  "name": "Lima (Barranco) Peruvian Street Drill 808 Beats",
+  "badge": "Peruvian Drill",
+  "headline": "Peruvian Street Drill 808 Beats en Lima (Barranco): Barranco & Hip-Hop Bohemio",
+  "description": "Campanas menores amenazantes, bajos 808 deslizantes y cajas afiladas para raperos de barrio en Lima (Barranco).",
+  "targetKeywords": [
+    "peruvian street drill 808 beats lima (barranco)",
+    "comprar beats lima (barranco) yape",
+    "pistas de peruvian drill peru",
+    "instrumentales en lima (barranco) wav"
+  ],
+  "heroCta": "Descargar Beats en Lima (Barranco) (Yape / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "Do#-Menor / Sol#-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Peru",
+  "sceneHub": "Lima (Barranco)"
+},
+  {
+  "slug": "lima-barranco-boombap-criollo-poetico",
+  "name": "Lima (Barranco) Boom Bap Criollo Poético Beats",
+  "badge": "Boom Bap Criollo",
+  "headline": "Boom Bap Criollo Poético Beats en Lima (Barranco): Barranco & Hip-Hop Bohemio",
+  "description": "Muestras de vinilo con calidez analógica, cajón peruano y bajo acústico vertical para letristas en Lima (Barranco).",
+  "targetKeywords": [
+    "boom bap criollo poético beats lima (barranco)",
+    "comprar beats lima (barranco) yape",
+    "pistas de boom bap criollo peru",
+    "instrumentales en lima (barranco) wav"
+  ],
+  "heroCta": "Descargar Beats en Lima (Barranco) (Yape / WAV)",
+  "recommendedBpm": "88-94 BPM",
+  "suggestedKey": "Re-Menor / Sol-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Peru",
+  "sceneHub": "Lima (Barranco)"
+},
+  {
+  "slug": "lima-barranco-andino-charango-trap",
+  "name": "Lima (Barranco) Andino Charango Trap Beats",
+  "badge": "Charango Trap",
+  "headline": "Andino Charango Trap Beats en Lima (Barranco): Barranco & Hip-Hop Bohemio",
+  "description": "Trémolos de charango acústico, quenas de caña envolventes y bajos 808 de altura para la vanguardia musical en Lima (Barranco).",
+  "targetKeywords": [
+    "andino charango trap beats lima (barranco)",
+    "comprar beats lima (barranco) yape",
+    "pistas de charango trap peru",
+    "instrumentales en lima (barranco) wav"
+  ],
+  "heroCta": "Descargar Beats en Lima (Barranco) (Yape / WAV)",
+  "recommendedBpm": "128-135 BPM",
+  "suggestedKey": "Mi-Menor / Si-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Peru",
+  "sceneHub": "Lima (Barranco)"
+},
+  {
+  "slug": "callao-puerto-chicha-trap-psicodelica",
+  "name": "Callao (Puerto Bravo) Chicha Trap Psicodélica Beats",
+  "badge": "Chicha Trap",
+  "headline": "Chicha Trap Psicodélica Beats en Callao (Puerto Bravo): Callao & Salsa-Trap Porteño",
+  "description": "Guitarras de cumbia surf psicodélica vintage, güiro bailable y bajos 808 profundos con pago por Yape para artistas en Callao (Puerto Bravo).",
+  "targetKeywords": [
+    "chicha trap psicodélica beats callao (puerto bravo)",
+    "comprar beats callao (puerto bravo) yape",
+    "pistas de chicha trap peru",
+    "instrumentales en callao (puerto bravo) wav"
+  ],
+  "heroCta": "Descargar Beats en Callao (Puerto Bravo) (Yape / WAV)",
+  "recommendedBpm": "100-106 BPM",
+  "suggestedKey": "La-Menor / Re-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Peru",
+  "sceneHub": "Callao (Puerto Bravo)"
+},
+  {
+  "slug": "callao-puerto-peruvian-street-drill-808",
+  "name": "Callao (Puerto Bravo) Peruvian Street Drill 808 Beats",
+  "badge": "Peruvian Drill",
+  "headline": "Peruvian Street Drill 808 Beats en Callao (Puerto Bravo): Callao & Salsa-Trap Porteño",
+  "description": "Campanas menores amenazantes, bajos 808 deslizantes y cajas afiladas para raperos de barrio en Callao (Puerto Bravo).",
+  "targetKeywords": [
+    "peruvian street drill 808 beats callao (puerto bravo)",
+    "comprar beats callao (puerto bravo) yape",
+    "pistas de peruvian drill peru",
+    "instrumentales en callao (puerto bravo) wav"
+  ],
+  "heroCta": "Descargar Beats en Callao (Puerto Bravo) (Yape / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "Do#-Menor / Sol#-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Peru",
+  "sceneHub": "Callao (Puerto Bravo)"
+},
+  {
+  "slug": "callao-puerto-boombap-criollo-poetico",
+  "name": "Callao (Puerto Bravo) Boom Bap Criollo Poético Beats",
+  "badge": "Boom Bap Criollo",
+  "headline": "Boom Bap Criollo Poético Beats en Callao (Puerto Bravo): Callao & Salsa-Trap Porteño",
+  "description": "Muestras de vinilo con calidez analógica, cajón peruano y bajo acústico vertical para letristas en Callao (Puerto Bravo).",
+  "targetKeywords": [
+    "boom bap criollo poético beats callao (puerto bravo)",
+    "comprar beats callao (puerto bravo) yape",
+    "pistas de boom bap criollo peru",
+    "instrumentales en callao (puerto bravo) wav"
+  ],
+  "heroCta": "Descargar Beats en Callao (Puerto Bravo) (Yape / WAV)",
+  "recommendedBpm": "88-94 BPM",
+  "suggestedKey": "Re-Menor / Sol-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Peru",
+  "sceneHub": "Callao (Puerto Bravo)"
+},
+  {
+  "slug": "callao-puerto-andino-charango-trap",
+  "name": "Callao (Puerto Bravo) Andino Charango Trap Beats",
+  "badge": "Charango Trap",
+  "headline": "Andino Charango Trap Beats en Callao (Puerto Bravo): Callao & Salsa-Trap Porteño",
+  "description": "Trémolos de charango acústico, quenas de caña envolventes y bajos 808 de altura para la vanguardia musical en Callao (Puerto Bravo).",
+  "targetKeywords": [
+    "andino charango trap beats callao (puerto bravo)",
+    "comprar beats callao (puerto bravo) yape",
+    "pistas de charango trap peru",
+    "instrumentales en callao (puerto bravo) wav"
+  ],
+  "heroCta": "Descargar Beats en Callao (Puerto Bravo) (Yape / WAV)",
+  "recommendedBpm": "128-135 BPM",
+  "suggestedKey": "Mi-Menor / Si-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Peru",
+  "sceneHub": "Callao (Puerto Bravo)"
+},
+  {
+  "slug": "lima-sjl-chicha-trap-psicodelica",
+  "name": "Lima (San Juan de Lurigancho) Chicha Trap Psicodélica Beats",
+  "badge": "Chicha Trap",
+  "headline": "Chicha Trap Psicodélica Beats en Lima (San Juan de Lurigancho): SJL & Street Drill Pesado",
+  "description": "Guitarras de cumbia surf psicodélica vintage, güiro bailable y bajos 808 profundos con pago por Yape para artistas en Lima (San Juan de Lurigancho).",
+  "targetKeywords": [
+    "chicha trap psicodélica beats lima (san juan de lurigancho)",
+    "comprar beats lima (san juan de lurigancho) yape",
+    "pistas de chicha trap peru",
+    "instrumentales en lima (san juan de lurigancho) wav"
+  ],
+  "heroCta": "Descargar Beats en Lima (San Juan de Lurigancho) (Yape / WAV)",
+  "recommendedBpm": "100-106 BPM",
+  "suggestedKey": "La-Menor / Re-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Peru",
+  "sceneHub": "Lima (San Juan de Lurigancho)"
+},
+  {
+  "slug": "lima-sjl-peruvian-street-drill-808",
+  "name": "Lima (San Juan de Lurigancho) Peruvian Street Drill 808 Beats",
+  "badge": "Peruvian Drill",
+  "headline": "Peruvian Street Drill 808 Beats en Lima (San Juan de Lurigancho): SJL & Street Drill Pesado",
+  "description": "Campanas menores amenazantes, bajos 808 deslizantes y cajas afiladas para raperos de barrio en Lima (San Juan de Lurigancho).",
+  "targetKeywords": [
+    "peruvian street drill 808 beats lima (san juan de lurigancho)",
+    "comprar beats lima (san juan de lurigancho) yape",
+    "pistas de peruvian drill peru",
+    "instrumentales en lima (san juan de lurigancho) wav"
+  ],
+  "heroCta": "Descargar Beats en Lima (San Juan de Lurigancho) (Yape / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "Do#-Menor / Sol#-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Peru",
+  "sceneHub": "Lima (San Juan de Lurigancho)"
+},
+  {
+  "slug": "lima-sjl-boombap-criollo-poetico",
+  "name": "Lima (San Juan de Lurigancho) Boom Bap Criollo Poético Beats",
+  "badge": "Boom Bap Criollo",
+  "headline": "Boom Bap Criollo Poético Beats en Lima (San Juan de Lurigancho): SJL & Street Drill Pesado",
+  "description": "Muestras de vinilo con calidez analógica, cajón peruano y bajo acústico vertical para letristas en Lima (San Juan de Lurigancho).",
+  "targetKeywords": [
+    "boom bap criollo poético beats lima (san juan de lurigancho)",
+    "comprar beats lima (san juan de lurigancho) yape",
+    "pistas de boom bap criollo peru",
+    "instrumentales en lima (san juan de lurigancho) wav"
+  ],
+  "heroCta": "Descargar Beats en Lima (San Juan de Lurigancho) (Yape / WAV)",
+  "recommendedBpm": "88-94 BPM",
+  "suggestedKey": "Re-Menor / Sol-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Peru",
+  "sceneHub": "Lima (San Juan de Lurigancho)"
+},
+  {
+  "slug": "lima-sjl-andino-charango-trap",
+  "name": "Lima (San Juan de Lurigancho) Andino Charango Trap Beats",
+  "badge": "Charango Trap",
+  "headline": "Andino Charango Trap Beats en Lima (San Juan de Lurigancho): SJL & Street Drill Pesado",
+  "description": "Trémolos de charango acústico, quenas de caña envolventes y bajos 808 de altura para la vanguardia musical en Lima (San Juan de Lurigancho).",
+  "targetKeywords": [
+    "andino charango trap beats lima (san juan de lurigancho)",
+    "comprar beats lima (san juan de lurigancho) yape",
+    "pistas de charango trap peru",
+    "instrumentales en lima (san juan de lurigancho) wav"
+  ],
+  "heroCta": "Descargar Beats en Lima (San Juan de Lurigancho) (Yape / WAV)",
+  "recommendedBpm": "128-135 BPM",
+  "suggestedKey": "Mi-Menor / Si-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Peru",
+  "sceneHub": "Lima (San Juan de Lurigancho)"
+},
+  {
+  "slug": "arequipa-yanahuara-chicha-trap-psicodelica",
+  "name": "Arequipa (Yanahuara) Chicha Trap Psicodélica Beats",
+  "badge": "Chicha Trap",
+  "headline": "Chicha Trap Psicodélica Beats en Arequipa (Yanahuara): Ciudad Blanca & Trap Volcánico",
+  "description": "Guitarras de cumbia surf psicodélica vintage, güiro bailable y bajos 808 profundos con pago por Yape para artistas en Arequipa (Yanahuara).",
+  "targetKeywords": [
+    "chicha trap psicodélica beats arequipa (yanahuara)",
+    "comprar beats arequipa (yanahuara) yape",
+    "pistas de chicha trap peru",
+    "instrumentales en arequipa (yanahuara) wav"
+  ],
+  "heroCta": "Descargar Beats en Arequipa (Yanahuara) (Yape / WAV)",
+  "recommendedBpm": "100-106 BPM",
+  "suggestedKey": "La-Menor / Re-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Peru",
+  "sceneHub": "Arequipa (Yanahuara)"
+},
+  {
+  "slug": "arequipa-yanahuara-peruvian-street-drill-808",
+  "name": "Arequipa (Yanahuara) Peruvian Street Drill 808 Beats",
+  "badge": "Peruvian Drill",
+  "headline": "Peruvian Street Drill 808 Beats en Arequipa (Yanahuara): Ciudad Blanca & Trap Volcánico",
+  "description": "Campanas menores amenazantes, bajos 808 deslizantes y cajas afiladas para raperos de barrio en Arequipa (Yanahuara).",
+  "targetKeywords": [
+    "peruvian street drill 808 beats arequipa (yanahuara)",
+    "comprar beats arequipa (yanahuara) yape",
+    "pistas de peruvian drill peru",
+    "instrumentales en arequipa (yanahuara) wav"
+  ],
+  "heroCta": "Descargar Beats en Arequipa (Yanahuara) (Yape / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "Do#-Menor / Sol#-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Peru",
+  "sceneHub": "Arequipa (Yanahuara)"
+},
+  {
+  "slug": "arequipa-yanahuara-boombap-criollo-poetico",
+  "name": "Arequipa (Yanahuara) Boom Bap Criollo Poético Beats",
+  "badge": "Boom Bap Criollo",
+  "headline": "Boom Bap Criollo Poético Beats en Arequipa (Yanahuara): Ciudad Blanca & Trap Volcánico",
+  "description": "Muestras de vinilo con calidez analógica, cajón peruano y bajo acústico vertical para letristas en Arequipa (Yanahuara).",
+  "targetKeywords": [
+    "boom bap criollo poético beats arequipa (yanahuara)",
+    "comprar beats arequipa (yanahuara) yape",
+    "pistas de boom bap criollo peru",
+    "instrumentales en arequipa (yanahuara) wav"
+  ],
+  "heroCta": "Descargar Beats en Arequipa (Yanahuara) (Yape / WAV)",
+  "recommendedBpm": "88-94 BPM",
+  "suggestedKey": "Re-Menor / Sol-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Peru",
+  "sceneHub": "Arequipa (Yanahuara)"
+},
+  {
+  "slug": "arequipa-yanahuara-andino-charango-trap",
+  "name": "Arequipa (Yanahuara) Andino Charango Trap Beats",
+  "badge": "Charango Trap",
+  "headline": "Andino Charango Trap Beats en Arequipa (Yanahuara): Ciudad Blanca & Trap Volcánico",
+  "description": "Trémolos de charango acústico, quenas de caña envolventes y bajos 808 de altura para la vanguardia musical en Arequipa (Yanahuara).",
+  "targetKeywords": [
+    "andino charango trap beats arequipa (yanahuara)",
+    "comprar beats arequipa (yanahuara) yape",
+    "pistas de charango trap peru",
+    "instrumentales en arequipa (yanahuara) wav"
+  ],
+  "heroCta": "Descargar Beats en Arequipa (Yanahuara) (Yape / WAV)",
+  "recommendedBpm": "128-135 BPM",
+  "suggestedKey": "Mi-Menor / Si-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Peru",
+  "sceneHub": "Arequipa (Yanahuara)"
+},
+  {
+  "slug": "trujillo-huanchaco-chicha-trap-psicodelica",
+  "name": "Trujillo (Huanchaco) Chicha Trap Psicodélica Beats",
+  "badge": "Chicha Trap",
+  "headline": "Chicha Trap Psicodélica Beats en Trujillo (Huanchaco): Huanchaco & Cumbia-Trap Costero",
+  "description": "Guitarras de cumbia surf psicodélica vintage, güiro bailable y bajos 808 profundos con pago por Yape para artistas en Trujillo (Huanchaco).",
+  "targetKeywords": [
+    "chicha trap psicodélica beats trujillo (huanchaco)",
+    "comprar beats trujillo (huanchaco) yape",
+    "pistas de chicha trap peru",
+    "instrumentales en trujillo (huanchaco) wav"
+  ],
+  "heroCta": "Descargar Beats en Trujillo (Huanchaco) (Yape / WAV)",
+  "recommendedBpm": "100-106 BPM",
+  "suggestedKey": "La-Menor / Re-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Peru",
+  "sceneHub": "Trujillo (Huanchaco)"
+},
+  {
+  "slug": "trujillo-huanchaco-peruvian-street-drill-808",
+  "name": "Trujillo (Huanchaco) Peruvian Street Drill 808 Beats",
+  "badge": "Peruvian Drill",
+  "headline": "Peruvian Street Drill 808 Beats en Trujillo (Huanchaco): Huanchaco & Cumbia-Trap Costero",
+  "description": "Campanas menores amenazantes, bajos 808 deslizantes y cajas afiladas para raperos de barrio en Trujillo (Huanchaco).",
+  "targetKeywords": [
+    "peruvian street drill 808 beats trujillo (huanchaco)",
+    "comprar beats trujillo (huanchaco) yape",
+    "pistas de peruvian drill peru",
+    "instrumentales en trujillo (huanchaco) wav"
+  ],
+  "heroCta": "Descargar Beats en Trujillo (Huanchaco) (Yape / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "Do#-Menor / Sol#-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Peru",
+  "sceneHub": "Trujillo (Huanchaco)"
+},
+  {
+  "slug": "trujillo-huanchaco-boombap-criollo-poetico",
+  "name": "Trujillo (Huanchaco) Boom Bap Criollo Poético Beats",
+  "badge": "Boom Bap Criollo",
+  "headline": "Boom Bap Criollo Poético Beats en Trujillo (Huanchaco): Huanchaco & Cumbia-Trap Costero",
+  "description": "Muestras de vinilo con calidez analógica, cajón peruano y bajo acústico vertical para letristas en Trujillo (Huanchaco).",
+  "targetKeywords": [
+    "boom bap criollo poético beats trujillo (huanchaco)",
+    "comprar beats trujillo (huanchaco) yape",
+    "pistas de boom bap criollo peru",
+    "instrumentales en trujillo (huanchaco) wav"
+  ],
+  "heroCta": "Descargar Beats en Trujillo (Huanchaco) (Yape / WAV)",
+  "recommendedBpm": "88-94 BPM",
+  "suggestedKey": "Re-Menor / Sol-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Peru",
+  "sceneHub": "Trujillo (Huanchaco)"
+},
+  {
+  "slug": "trujillo-huanchaco-andino-charango-trap",
+  "name": "Trujillo (Huanchaco) Andino Charango Trap Beats",
+  "badge": "Charango Trap",
+  "headline": "Andino Charango Trap Beats en Trujillo (Huanchaco): Huanchaco & Cumbia-Trap Costero",
+  "description": "Trémolos de charango acústico, quenas de caña envolventes y bajos 808 de altura para la vanguardia musical en Trujillo (Huanchaco).",
+  "targetKeywords": [
+    "andino charango trap beats trujillo (huanchaco)",
+    "comprar beats trujillo (huanchaco) yape",
+    "pistas de charango trap peru",
+    "instrumentales en trujillo (huanchaco) wav"
+  ],
+  "heroCta": "Descargar Beats en Trujillo (Huanchaco) (Yape / WAV)",
+  "recommendedBpm": "128-135 BPM",
+  "suggestedKey": "Mi-Menor / Si-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Peru",
+  "sceneHub": "Trujillo (Huanchaco)"
+},
+  {
+  "slug": "cusco-sanblas-chicha-trap-psicodelica",
+  "name": "Cusco (San Blas) Chicha Trap Psicodélica Beats",
+  "badge": "Chicha Trap",
+  "headline": "Chicha Trap Psicodélica Beats en Cusco (San Blas): Cusco & Charango Trap Místico",
+  "description": "Guitarras de cumbia surf psicodélica vintage, güiro bailable y bajos 808 profundos con pago por Yape para artistas en Cusco (San Blas).",
+  "targetKeywords": [
+    "chicha trap psicodélica beats cusco (san blas)",
+    "comprar beats cusco (san blas) yape",
+    "pistas de chicha trap peru",
+    "instrumentales en cusco (san blas) wav"
+  ],
+  "heroCta": "Descargar Beats en Cusco (San Blas) (Yape / WAV)",
+  "recommendedBpm": "100-106 BPM",
+  "suggestedKey": "La-Menor / Re-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Peru",
+  "sceneHub": "Cusco (San Blas)"
+},
+  {
+  "slug": "cusco-sanblas-peruvian-street-drill-808",
+  "name": "Cusco (San Blas) Peruvian Street Drill 808 Beats",
+  "badge": "Peruvian Drill",
+  "headline": "Peruvian Street Drill 808 Beats en Cusco (San Blas): Cusco & Charango Trap Místico",
+  "description": "Campanas menores amenazantes, bajos 808 deslizantes y cajas afiladas para raperos de barrio en Cusco (San Blas).",
+  "targetKeywords": [
+    "peruvian street drill 808 beats cusco (san blas)",
+    "comprar beats cusco (san blas) yape",
+    "pistas de peruvian drill peru",
+    "instrumentales en cusco (san blas) wav"
+  ],
+  "heroCta": "Descargar Beats en Cusco (San Blas) (Yape / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "Do#-Menor / Sol#-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Peru",
+  "sceneHub": "Cusco (San Blas)"
+},
+  {
+  "slug": "cusco-sanblas-boombap-criollo-poetico",
+  "name": "Cusco (San Blas) Boom Bap Criollo Poético Beats",
+  "badge": "Boom Bap Criollo",
+  "headline": "Boom Bap Criollo Poético Beats en Cusco (San Blas): Cusco & Charango Trap Místico",
+  "description": "Muestras de vinilo con calidez analógica, cajón peruano y bajo acústico vertical para letristas en Cusco (San Blas).",
+  "targetKeywords": [
+    "boom bap criollo poético beats cusco (san blas)",
+    "comprar beats cusco (san blas) yape",
+    "pistas de boom bap criollo peru",
+    "instrumentales en cusco (san blas) wav"
+  ],
+  "heroCta": "Descargar Beats en Cusco (San Blas) (Yape / WAV)",
+  "recommendedBpm": "88-94 BPM",
+  "suggestedKey": "Re-Menor / Sol-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Peru",
+  "sceneHub": "Cusco (San Blas)"
+},
+  {
+  "slug": "cusco-sanblas-andino-charango-trap",
+  "name": "Cusco (San Blas) Andino Charango Trap Beats",
+  "badge": "Charango Trap",
+  "headline": "Andino Charango Trap Beats en Cusco (San Blas): Cusco & Charango Trap Místico",
+  "description": "Trémolos de charango acústico, quenas de caña envolventes y bajos 808 de altura para la vanguardia musical en Cusco (San Blas).",
+  "targetKeywords": [
+    "andino charango trap beats cusco (san blas)",
+    "comprar beats cusco (san blas) yape",
+    "pistas de charango trap peru",
+    "instrumentales en cusco (san blas) wav"
+  ],
+  "heroCta": "Descargar Beats en Cusco (San Blas) (Yape / WAV)",
+  "recommendedBpm": "128-135 BPM",
+  "suggestedKey": "Mi-Menor / Si-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Peru",
+  "sceneHub": "Cusco (San Blas)"
+},
 ];

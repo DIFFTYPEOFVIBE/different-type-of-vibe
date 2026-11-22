@@ -45618,4 +45618,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "pe/lima-miraflores-barranco": {
+  "slug": "pe/lima-miraflores-barranco",
+  "name": "Perú – Lima: Miraflores, Barranco & San Isidro (Malecón Bohemio, Hip-Hop Indie, Neo-Soul & R&B Peruano Pulido)",
+  "flag": "🇵🇪",
+  "currency": "PEN (S/) / USD ($)",
+  "currencyCode": "PEN",
+  "gateways": "Yape (BCP), Plin (Interbank, BBVA, Scotiabank), PagoEfectivo, Tarjetas Débito/Crédito, Apple Pay, PayPal, Stripe",
+  "pro": "APDAYC / Indecopi",
+  "proFullName": "APDAYC (Asociación Peruana de Autores y Compositores) / Indecopi",
+  "proGuide": "100% conforme con el Decreto Legislativo 822 (Ley sobre el Derecho de Autor del Perú) y registro APDAYC / Indecopi con contrato firmado y split sheet en PDF inmediato.",
+  "headline": "Beats en Miraflores & Barranco: Malecón Bohemio, Pianos Rhodes Cálidos & R&B Peruano Pulido",
+  "description": "El epicentro cultural y vanguardista de la capital: acordes de jazz aterciopelados, guitarras indie melancólicas y bajos modernos para artistas de Miraflores, Barranco y San Isidro.",
+  "popularGenres": [
+    "Barranco Indie Hip-Hop",
+    "Lima Neo-Soul R&B",
+    "Miraflores Chill Trap"
+  ],
+  "subClusters": []
+},
+  "pe/callao-bellavista-la-perla": {
+  "slug": "pe/callao-bellavista-la-perla",
+  "name": "Perú – Callao: Bellavista, La Perla & Chucuito (Puerto Bravo, Cuna de Salsa Dura, Trap Porteño & 808s Pesados)",
+  "flag": "🇵🇪",
+  "currency": "PEN (S/) / USD ($)",
+  "currencyCode": "PEN",
+  "gateways": "Yape (BCP), Plin (Interbank, BBVA, Scotiabank), PagoEfectivo, Tarjetas Débito/Crédito, Apple Pay, PayPal, Stripe",
+  "pro": "APDAYC / Indecopi",
+  "proFullName": "APDAYC / Indecopi",
+  "proGuide": "Archivos WAV 24-bit de calidad de estudio sin compresión con pistas separadas (stems multitrack) y licencia comercial.",
+  "headline": "Beats en Callao: Puerto Bravo, Trombones de Salsa Dura, Trap Porteño & Bajos 808",
+  "description": "La bravura y el sabor histórico del primer puerto: metales de salsa pesada, baterías secas con pegada analógica y bajos 808 demoledores para raperos y salseros del Callao.",
+  "popularGenres": [
+    "Callao Street Trap",
+    "Salsa-Trap Chalaco",
+    "Puerto Bravo Drill"
+  ],
+  "subClusters": []
+},
+  "pe/lima-san-martin-de-porres": {
+  "slug": "pe/lima-san-martin-de-porres",
+  "name": "Perú – Lima: San Martín de Porres (SMP, Habich & Condevilla, Lima Norte Street Trap & Barras Duras)",
+  "flag": "🇵🇪",
+  "currency": "PEN (S/) / USD ($)",
+  "currencyCode": "PEN",
+  "gateways": "Yape (BCP), Plin (Interbank, BBVA, Scotiabank), PagoEfectivo, Tarjetas Débito/Crédito, Apple Pay, PayPal, Stripe",
+  "pro": "APDAYC / Indecopi",
+  "proFullName": "APDAYC / Indecopi",
+  "proGuide": "Entrega digital inmediata con split sheet y contrato de licencia para distribución en Spotify y Apple Music.",
+  "headline": "Beats en San Martín de Porres: Lima Norte, Campanas Sombrías & Drill Callejero Peruano",
+  "description": "El corazón combativo de Lima Norte: melodías menores amenazantes, cajas cortantes y deslizamientos de subgrave 808 para MCs de San Martín de Porres y Habich.",
+  "popularGenres": [
+    "SMP Street Drill",
+    "Lima Norte Trap Pesado",
+    "Cono Norte Bars"
+  ],
+  "subClusters": []
+},
+  "pe/lima-ate-vitarte": {
+  "slug": "pe/lima-ate-vitarte",
+  "name": "Perú – Lima: Ate, Vitarte & Santa Anita (Lima Este, Cuna de Chicha Psicodélica, Cumbia Urbana & Bounces de Cono)",
+  "flag": "🇵🇪",
+  "currency": "PEN (S/) / USD ($)",
+  "currencyCode": "PEN",
+  "gateways": "Yape (BCP), Plin (Interbank, BBVA, Scotiabank), PagoEfectivo, Tarjetas Débito/Crédito, Apple Pay, PayPal, Stripe",
+  "pro": "APDAYC / Indecopi",
+  "proFullName": "APDAYC / Indecopi",
+  "proGuide": "Descargas de audio WAV masterizado y multipista para mezcla profesional en Pro Tools, FL Studio y Logic Pro.",
+  "headline": "Beats en Ate & Santa Anita: Carretera Central, Chicha Psicodélica & Cumbia-Trap Urbano",
+  "description": "La cuna de la música chicha y el sonido del pueblo: guitarras eléctricas psicodélicas con reverb de resorte, güiro bailable y bajos 808 profundos para artistas de Lima Este.",
+  "popularGenres": [
+    "Chicha-Trap Psicodélica",
+    "Ate Cumbia Urbana",
+    "Lima Este Street Bounce"
+  ],
+  "subClusters": []
+},
+  "pe/lima-surco-la-molina": {
+  "slug": "pe/lima-surco-la-molina",
+  "name": "Perú – Lima: Santiago de Surco & La Molina (Monterrico, Trap Comercial, Pianos Rhodes & Producción de Estudio Élite)",
+  "flag": "🇵🇪",
+  "currency": "PEN (S/) / USD ($)",
+  "currencyCode": "PEN",
+  "gateways": "Yape (BCP), Plin (Interbank, BBVA, Scotiabank), PagoEfectivo, Tarjetas Débito/Crédito, Apple Pay, PayPal, Stripe",
+  "pro": "APDAYC / Indecopi",
+  "proFullName": "APDAYC / Indecopi",
+  "proGuide": "Pago seguro mediante Yape o Plin y entrega instantánea con contrato para monetización.",
+  "headline": "Beats en Surco & La Molina: Sesiones de Estudio Élite, Pianos Nítidos & Trap Pop Comercial",
+  "description": "El estándar de producción ejecutiva y mezcla comercial en Lima: pianos acústicos cristalinos, sintetizadores pulidos y compresión de estudio para hits de radio y streaming.",
+  "popularGenres": [
+    "Surco Commercial Trap",
+    "La Molina Pop-Rap",
+    "Lima Elite Studio Beats"
+  ],
+  "subClusters": []
+},
+  "pe/arequipa-yanahuara-cayma": {
+  "slug": "pe/arequipa-yanahuara-cayma",
+  "name": "Perú – Arequipa: Yanahuara, Cayma & Cerro Colorado (Ciudad Blanca, Trap Volcánico, Hip-Hop del Misti & Melodías Andinas)",
+  "flag": "🇵🇪",
+  "currency": "PEN (S/) / USD ($)",
+  "currencyCode": "PEN",
+  "gateways": "Yape (BCP), Plin (Interbank, BBVA, Scotiabank), PagoEfectivo, Tarjetas Débito/Crédito, Apple Pay, PayPal, Stripe",
+  "pro": "APDAYC / Indecopi",
+  "proFullName": "APDAYC / Indecopi",
+  "proGuide": "Licencias comerciales transparentes para proyectos independientes en Arequipa y el sur peruano.",
+  "headline": "Beats en Arequipa: La Ciudad Blanca, Viento Volcánico del Misti & Trap Andino Pesado",
+  "description": "La fuerza y el orgullo de la Ciudad Blanca: guitarras acústicas solemnes, vientos andinos melancólicos y bajos 808 profundos para MCs y creadores arequipeños.",
+  "popularGenres": [
+    "Arequipa Trap Volcánico",
+    "Hip-Hop del Misti",
+    "Sur Peruano 808"
+  ],
+  "subClusters": []
+},
+  "pe/trujillo-victor-larco-huanchaco": {
+  "slug": "pe/trujillo-victor-larco-huanchaco",
+  "name": "Perú – Trujillo: Víctor Larco, Huanchaco & El Golf (Capital de la Marinera, Trap Costero del Norte & Surf Bounces)",
+  "flag": "🇵🇪",
+  "currency": "PEN (S/) / USD ($)",
+  "currencyCode": "PEN",
+  "gateways": "Yape (BCP), Plin (Interbank, BBVA, Scotiabank), PagoEfectivo, Tarjetas Débito/Crédito, Apple Pay, PayPal, Stripe",
+  "pro": "APDAYC / Indecopi",
+  "proFullName": "APDAYC / Indecopi",
+  "proGuide": "Contrato de cesión de derechos no exclusivos y exclusivos con registro directo ante APDAYC.",
+  "headline": "Beats en Trujillo & Huanchaco: Caballitos de Totora, Brisas del Pacífico & Trap Costero Norteño",
+  "description": "El dinamismo cultural de la costa norte: marimbas brillantes, cajas dinámicas y bajos rebotantes inspirados en las playas y atardeceres de Huanchaco y Trujillo.",
+  "popularGenres": [
+    "Trujillo Coastal Trap",
+    "Huanchaco Surf Beats",
+    "Norteño Urban Flow"
+  ],
+  "subClusters": []
+},
+  "pe/cusco-san-blas-valle-sagrado": {
+  "slug": "pe/cusco-san-blas-valle-sagrado",
+  "name": "Perú – Cusco: San Blas, Wanchaq & Valle Sagrado (Capital Histórica, Charango-Trap Místico, Flauta Andina & Sub-Bajos 808)",
+  "flag": "🇵🇪",
+  "currency": "PEN (S/) / USD ($)",
+  "currencyCode": "PEN",
+  "gateways": "Yape (BCP), Plin (Interbank, BBVA, Scotiabank), PagoEfectivo, Tarjetas Débito/Crédito, Apple Pay, PayPal, Stripe",
+  "pro": "APDAYC / Indecopi",
+  "proFullName": "APDAYC / Indecopi",
+  "proGuide": "Archivos masterizados a -14 LUFS listos para distribución comercial.",
+  "headline": "Beats en Cusco & Valle Sagrado: Misticismo Andino, Arpegios de Charango & Trap Sagrado 808",
+  "description": "La conexión milenaria de los Andes: trémolos de charango acústico, quenas y zampoñas de caña sobre una arquitectura contemporánea de trap 808 para artistas de Cusco.",
+  "popularGenres": [
+    "Cusco Charango Trap",
+    "Valle Sagrado Místico",
+    "Andean Cloud Rap"
+  ],
+  "subClusters": []
+},
+  "pe/piura-castilla-catacaos": {
+  "slug": "pe/piura-castilla-catacaos",
+  "name": "Perú – Piura: Castilla & Catacaos (Norte Caliente, Cumbia-Trap Piurana, Melodías Soleadas & Baterías Rebotantes)",
+  "flag": "🇵🇪",
+  "currency": "PEN (S/) / USD ($)",
+  "currencyCode": "PEN",
+  "gateways": "Yape (BCP), Plin (Interbank, BBVA, Scotiabank), PagoEfectivo, Tarjetas Débito/Crédito, Apple Pay, PayPal, Stripe",
+  "pro": "APDAYC / Indecopi",
+  "proFullName": "APDAYC / Indecopi",
+  "proGuide": "100% composiciones originales libres de reclamos de derechos de autor.",
+  "headline": "Beats en Piura: El Norte Caluroso, Sabor de Cumbia Sanjuanera & Bounces Urbanos",
+  "description": "El calor inconfundible de la costa norte: melodías alegres de sintetizador, ritmo de cumbia bailable y subgraves redondeados para sonar en parlantes y discotecas de Piura.",
+  "popularGenres": [
+    "Piura Cumbia-Trap",
+    "Catacaos Summer Beats",
+    "Norte Caliente Banger"
+  ],
+  "subClusters": []
+},
+  "pe/huancayo-el-tambo-chilca": {
+  "slug": "pe/huancayo-el-tambo-chilca",
+  "name": "Perú – Huancayo: El Tambo & Chilca (Valle del Mantaro, Huayno-Trap Fusión, Saxo Wanka & 808s de Altura)",
+  "flag": "🇵🇪",
+  "currency": "PEN (S/) / USD ($)",
+  "currencyCode": "PEN",
+  "gateways": "Yape (BCP), Plin (Interbank, BBVA, Scotiabank), PagoEfectivo, Tarjetas Débito/Crédito, Apple Pay, PayPal, Stripe",
+  "pro": "APDAYC / Indecopi",
+  "proFullName": "APDAYC / Indecopi",
+  "proGuide": "Protección jurídica total para monetización en YouTube, TikTok y Spotify.",
+  "headline": "Beats en Huancayo: Valle del Mantaro, Saxofones Huayno en Llamas & 808s de Altura",
+  "description": "La energía arrolladora del centro andino: saxofones huayno virtuosos a alta velocidad, percusión tradicional y bajos 808 para la juventud creativa de Huancayo y Junín.",
+  "popularGenres": [
+    "Huancayo Huayno Trap",
+    "Valle del Mantaro 808",
+    "Saxo Wanka Beats"
+  ],
+  "subClusters": []
+},
 };
