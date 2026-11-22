@@ -138000,4 +138000,1296 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "1"
   ]
 },
+  {
+  "slug": "ezhel-muptezhel-reggae-trap-fusion",
+  "title": "Ezhel Müptezhel Pioneer Anatolian Reggae-Trap & Baglama 808 Beat",
+  "description": "Groundbreaking, visionary Turkish trap instrumental inspired by Ezhel (Müptezhel, Geceler, Felaket, Alo, Kazıdık Tırnaklarla), blending Anatolian reggae-trap, acoustic bağlama runs, and deep 808s.",
+  "targetKeywords": [
+    "ezhel type beat 2024",
+    "muptezhel ezhel instrumental",
+    "turkce reggae trap beat",
+    "ezhel geceler beat 808",
+    "anatolian trap beat ezhel"
+  ],
+  "heroCta": "Ezhel Tarzı Beat Satın Al (WAV 24-Bit)",
+  "energyLevel": "High",
+  "primaryUse": "Lead Commercial Single, Melodic Street Anthem and Viral Radio Hit",
+  "similarArtists": [
+    "Ezhel",
+    "Murda",
+    "Ufo361",
+    "Arem Özgüç"
+  ],
+  "recommendedBpm": "126-134 BPM",
+  "productionTips": "Rich stereo acoustic bağlama licks with subtle tape delay layered over punchy trap kicks and warm sub-bass.",
+  "idealVocalStyle": "Effortless melodic cadence variations, reggae-infused Turkish phrasing, and unforgettable singalong hooks.",
+  "suggestedKey": "D Minor / A Minor",
+  "streamingSuitability": "Guaranteed heavy rotation on Spotify Türkçe Rap, Apple Music Zirvedekiler, and radio airplay."
+},
+  {
+  "slug": "uzi-kan-gng-sert-sokak-drill",
+  "title": "UZI GNG Kan Heavy Street Trap & Menacing Sliding 808 Drill Beat",
+  "description": "Chart-topping, certified street rap instrumental inspired by UZI and GNG (Kan, El Choclo, Krvn, Cindy, Umrumda Değil), with menacing minor synths, cold bells, and heavy sliding 808 sub-bass.",
+  "targetKeywords": [
+    "uzi type beat 2024",
+    "gng type beat",
+    "uzi kan instrumental",
+    "turkce sokak drill beat",
+    "uzi krvn beat 808"
+  ],
+  "heroCta": "UZI Tarzı Drill Beat Satın Al (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hardcore Street Single, Car Audio Bass Demonstration and Gym Workout Track",
+  "similarArtists": [
+    "UZI",
+    "Motive",
+    "Batuflex",
+    "Lvbel C5"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Two-octave 808 portamento pitch glides with clipped rimshots and sinister minor synthesizer ostinatos.",
+  "idealVocalStyle": "Raw street reality delivery, aggressive cadence, authentic Güngören street punchlines, and catchy hooks.",
+  "suggestedKey": "C# Minor / E Minor",
+  "streamingSuitability": "Insuperable for gym workout playlists, Turkish drill channels, and high-impact visualizers."
+},
+  {
+  "slug": "murda-doga-afro-summer-banger",
+  "title": "Murda Doğa Dutch-Turkish Afro-Trap & Melodic Summer Dancehall Beat",
+  "description": "Infectious, soulful European-Turkish Afro-dancehall crossover instrumental inspired by Murda (Doğa, Gece Gündüz, Eh Baba, Konum Gizli), featuring warm acoustic guitars, tropical percussion, and bouncy bass.",
+  "targetKeywords": [
+    "murda type beat",
+    "afro trap turkce beat",
+    "murda gece gunduz instrumental",
+    "yazlik turkce rap beat",
+    "murda eh baba beat"
+  ],
+  "heroCta": "Murda Tarzı Beat Satın Al (Instant WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Summer Radio Hit, Club Dance Track and Viral TikTok Sound",
+  "similarArtists": [
+    "Murda",
+    "Ezhel",
+    "Sefo",
+    "Frenna"
+  ],
+  "recommendedBpm": "104-112 BPM",
+  "productionTips": "Warm tropical nylon guitar licks with syncopated dembow/afrobeat kicks and round, melodic sub-bass.",
+  "idealVocalStyle": "Smooth autotuned singing, seductive melodies, bilingual Dutch-Turkish phrasing, and feel-good hooks.",
+  "suggestedKey": "G Major / E Minor",
+  "streamingSuitability": "Universal top 40 radio formatting, summer club DJ rotation, and multi-platinum streaming appeal."
+},
+  {
+  "slug": "cakal-paradoks-hyper-drill-flow",
+  "title": "cakal Paradoks High-Velocity Turkish Drill & Triplet Flow Beat",
+  "description": "Explosive, hyperactive Turkish drill instrumental inspired by cakal (Paradoks, İmdat, Lütfen, Düşerim Öyle Bir), featuring rapid-fire triplet hi-hats, hard sliding 808s, and bouncy energy.",
+  "targetKeywords": [
+    "cakal type beat 2024",
+    "cakal imdat instrumental",
+    "hizli turkce drill beat",
+    "cakal lutfen type beat",
+    "turkce kulup drill beat"
+  ],
+  "heroCta": "cakal Tarzı Beat Satın Al (WAV 24-bit)",
+  "energyLevel": "Maximum",
+  "primaryUse": "High-Velocity Street Single, Club Banger and TikTok Viral Rap Challenge",
+  "similarArtists": [
+    "cakal",
+    "Reckol",
+    "Batuflex",
+    "Lvbel C5"
+  ],
+  "recommendedBpm": "142-146 BPM",
+  "productionTips": "Rapid 32nd-note hi-hat triplets paired with deep sub-bass portamento and sharp acoustic rimshots.",
+  "idealVocalStyle": "Fast-paced triplet cadence, humorous street slang, energetic ad-libs, and breathless punchlines.",
+  "suggestedKey": "D Minor / B Minor",
+  "streamingSuitability": "Extreme viral potential across TikTok, Spotify Türkiye Top 50, and high-energy workout playlists."
+},
+  {
+  "slug": "motive-22-melodic-modern-trap",
+  "title": "Motive 22 Sophisticated Melodic Turkish Trap & Rhodes Chords Beat",
+  "description": "Sophisticated, lyrical and polished modern Turkish trap instrumental inspired by Motive (22, 10MG, Romantik, CHROME), with lush Rhodes keyboards, delicate guitar arpeggios, and smooth 808s.",
+  "targetKeywords": [
+    "motive type beat 2024",
+    "motive 22 instrumental",
+    "melodik turkce trap beat",
+    "motive romantik beat",
+    "lirik modern rap beat turkiye"
+  ],
+  "heroCta": "Motive Tarzı Beat Satın Al (WAV + Stems)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Sophisticated Lyrical Single, Late-Night Drive Track and Album Centerpiece",
+  "similarArtists": [
+    "Motive",
+    "UZI",
+    "Baneva",
+    "Aspova"
+  ],
+  "recommendedBpm": "124-132 BPM",
+  "productionTips": "Warm low-pass filtered electric piano chords with smooth analog tape warble and deep, singing 808 sub-bass.",
+  "idealVocalStyle": "Intricate internal rhyme schemes, smooth autotuned melodies, introspective delivery, and classy hooks.",
+  "suggestedKey": "F Minor / Bb Minor",
+  "streamingSuitability": "Critically acclaimed streaming longevity across editorial playlists, night drive mixes, and rap radio."
+},
+  {
+  "slug": "sefo-bilmem-mi-afro-pop-reggaeton",
+  "title": "Sefo Bilmem Mi Infectious Turkish Reggaeton-Trap & Dance Bounce Beat",
+  "description": "Chart-topping, infectious Turkish reggaeton and afro-pop crossover instrumental inspired by Sefo (Bilmem Mi?, Isabelle, Tutsak, Bonita), featuring catchy brass synths and a bouncy dembow groove.",
+  "targetKeywords": [
+    "sefo type beat",
+    "bilmem mi sefo instrumental",
+    "turkce reggaeton trap beat",
+    "sefo isabelle type beat",
+    "dans edilebilir turkce pop rap beat"
+  ],
+  "heroCta": "Sefo Tarzı Beat Satın Al (Instant WAV)",
+  "energyLevel": "Maximum",
+  "primaryUse": "Mainstream Radio Hit, Viral Dance Video and Summer Club Anthem",
+  "similarArtists": [
+    "Sefo",
+    "Reynmen",
+    "Murda",
+    "Capo"
+  ],
+  "recommendedBpm": "100-108 BPM",
+  "productionTips": "Syncopated reggaeton/dembow kick pattern layered with bright brass leads and warm melodic 808 bass.",
+  "idealVocalStyle": "Ultra-catchy singalong chorus melodies, playful rap flows, and feel-good party swagger.",
+  "suggestedKey": "C# Minor / A Major",
+  "streamingSuitability": "Massive viral sharing on TikTok, radio chart domination, and international party playlist support."
+},
+  {
+  "slug": "lvbel-c5-baba-energetic-club-banger",
+  "title": "Lvbel C5 Baba High-Octane Club Trap & Distorted 808 Banger Beat",
+  "description": "High-octane, explosive Turkish club trap banger inspired by Lvbel C5 (Baba, Aynen Öyle, 10 Numara, DACIA), featuring aggressive hype synth leads, distorted 808 kicks, and infectious club bounce.",
+  "targetKeywords": [
+    "lvbel c5 type beat",
+    "baba lvbel c5 instrumental",
+    "enerjik turkce trap beat",
+    "lvbel c5 aynen oyle beat",
+    "kulup rap beat turkiye"
+  ],
+  "heroCta": "Lvbel C5 Tarzı Beat Satın Al (WAV 24-bit)",
+  "energyLevel": "Maximum",
+  "primaryUse": "High-Voltage Club Banger, Car Audio Bass Test and Gym Workout Music",
+  "similarArtists": [
+    "Lvbel C5",
+    "Batuflex",
+    "cakal",
+    "UZI"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "productionTips": "Heavily clipped 808 kick transients layered with short decay lead synths and repetitive rhythm bounce.",
+  "idealVocalStyle": "Energetic hype ad-libs, repetitive slogan hooks, aggressive confidence, and party swagger.",
+  "suggestedKey": "E Minor / A Minor",
+  "streamingSuitability": "Explosive viral spikes on TikTok, nightlife club rotation, and car audio sound systems."
+},
+  {
+  "slug": "anatolian-baglama-saz-arabesk-trap",
+  "title": "Anatolian Electro-Bağlama Saz Solo & Deep Arabesk Trap 808 Beat",
+  "description": "Awe-inspiring traditional Turkish cultural fusion: virtuoso electro-bağlama (saz) microtonal solos, weeping strings, and earthquake modern trap 808 sub-bass drops.",
+  "targetKeywords": [
+    "baglama trap beat",
+    "arabesk trap altyapisi",
+    "saz rap beat turkiye 808",
+    "anatolian trap beat wav",
+    "elektro baglama rap beat"
+  ],
+  "heroCta": "Arabesk Trap Beat Satın Al (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Cultural Masterpiece, Emotional Street Single and High-Impact Rap Video",
+  "similarArtists": [
+    "Canbay & Wolker",
+    "Ezhel",
+    "Gazapizm",
+    "Müslüm Gürses Trap"
+  ],
+  "recommendedBpm": "126-134 BPM",
+  "productionTips": "Live microtonal electro-bağlama solos captured with tube preamp warmth over seismic 808 sub frequencies.",
+  "idealVocalStyle": "Passionate Arabesk-infused street vocals, raw emotional delivery, and heartfelt poetic pain.",
+  "suggestedKey": "D Minor / A Minor (Hicaz / Kurdi Scale)",
+  "streamingSuitability": "Supreme emotional resonance across Turkish youth culture, YouTube trending, and car audio meets."
+},
+  {
+  "slug": "bosphorus-midnight-ferry-rainy-lofi",
+  "title": "Bosphorus Istanbul Midnight Ferry Rainy Foggy Lofi Chillhop Beat",
+  "description": "Atmospheric, soothing nocturnal Istanbul soundtrack capturing a midnight ferry crossing through Bosphorus fog: warm electric piano chords, sea wave textures, and gentle lofi boom bap drums.",
+  "targetKeywords": [
+    "istanbul lofi beat",
+    "bogaz lofi hip hop beat",
+    "rainy istanbul lofi chillhop",
+    "turkce lofi beat sakin",
+    "gece bogaz rap altyapisi"
+  ],
+  "heroCta": "İstanbul Lofi Beat Satın Al (Instant WAV)",
+  "energyLevel": "Low-Medium",
+  "primaryUse": "Midnight Ferry Track, Relaxing Study Session and Aesthetic City Travel Vlog",
+  "similarArtists": [
+    "Farazi",
+    "Kayra",
+    "Da Poet",
+    "Tom Misch"
+  ],
+  "recommendedBpm": "82-88 BPM",
+  "productionTips": "Warm Wurlitzer and Rhodes keys captured through vintage tape wow-and-flutter with gentle vinyl dust.",
+  "idealVocalStyle": "Laid-back, comforting Turkish spoken word, gentle acoustic singing, and intimate late-night thoughts.",
+  "suggestedKey": "G Major / E Minor",
+  "streamingSuitability": "Continuous evergreen stream counts across chillhop, study lofi, and ambient relaxation playlists."
+},
+  {
+  "slug": "black-sea-kemence-fast-drill-fusion",
+  "title": "Black Sea Karadeniz Kemençe Fiddle High-Speed 142 BPM Drill Beat",
+  "description": "Electrifying Black Sea cultural crossover: virtuoso Karadeniz Kemençe fiddle melodies chopped over frantic 142 BPM drill hats and heavy sliding sub-bass drops.",
+  "targetKeywords": [
+    "kemence drill beat",
+    "karadeniz drill altyapisi",
+    "trabzon kemence rap beat",
+    "142 bpm hizli turkce drill",
+    "karadeniz trap beat 808"
+  ],
+  "heroCta": "Karadeniz Drill Beat Satın Al (WAV 24-bit)",
+  "energyLevel": "Maximum",
+  "primaryUse": "High-Speed Cultural Single, Viral Regional Dance Video and Gym Workout Banger",
+  "similarArtists": [
+    "Resul Dindar",
+    "Batuflex",
+    "UZI",
+    "Central Cee"
+  ],
+  "recommendedBpm": "142 BPM",
+  "productionTips": "Rapid Karadeniz Kemençe riffs captured with high transient detail over sliding 808 portamento.",
+  "idealVocalStyle": "Fast-paced rhythmic delivery, energetic ad-libs, and aggressive regional street pride.",
+  "suggestedKey": "A Minor / E Minor",
+  "streamingSuitability": "Massive viral sharing across Black Sea youth channels, TikTok dance edits, and energetic playlists."
+},
+  {
+  "slug": "middle-eastern-mey-duduk-dark-trap",
+  "title": "Middle Eastern Mey & Duduk Woodwind Dark Street Trap 808 Beat",
+  "description": "Haunting, deeply atmospheric Middle Eastern woodwind trap instrumental featuring crying Mey and Duduk double-reed laments over subterranean Istanbul street trap 808s.",
+  "targetKeywords": [
+    "mey duduk trap beat",
+    "karanlik turkce trap beat",
+    "orta dogu mey rap altyapisi",
+    "derin 808 trap beat turkiye",
+    "duduk trap beat 808"
+  ],
+  "heroCta": "Mey Trap Beat Satın Al (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Dark Street Single, Cinematic Crime Series Soundtrack and Heavy Rap Video",
+  "similarArtists": [
+    "Gazapizm",
+    "Şanışer",
+    "Ceza",
+    "Sagopa Kajmer"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "productionTips": "Acoustic Mey woodwind harmonics recorded through tube saturation over cavernous 808 sub drops.",
+  "idealVocalStyle": "Gravelly, emotional storytelling, dark philosophical lyrics, and heavy vocal presence.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Essential for dark rap playlists, cinematic street series soundtracks, and automotive videos."
+},
+  {
+  "slug": "kadikoy-acil-underground-boom-bap",
+  "title": "Kadıköy Acil 90s Golden Era Istanbul Underground Boom Bap Beat",
+  "description": "Revered, authentic underground hip-hop tribute honoring Istanbul's legendary Kadıköy Acil movement: dusty vinyl turntable scratches, punchy acoustic kicks, and raw street cypher bars.",
+  "targetKeywords": [
+    "kadikoy acil type beat",
+    "istanbul underground boom bap",
+    "turkce klasik rap beat 90s",
+    "kadikoy boom bap altyapi",
+    "plak sampleli rap beat"
+  ],
+  "heroCta": "Kadıköy Boom Bap Satın Al (Instant WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Underground Street Cypher, Authentic Golden Era Single and Lyrical Rap Video",
+  "similarArtists": [
+    "Alaturka Mavzer",
+    "Sansar Salvo",
+    "Sayko",
+    "Saian"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "productionTips": "SP-1200 style 12-bit crunch on jazz piano chops layered with fat analog acoustic kicks and snapping snares.",
+  "idealVocalStyle": "Dense Turkish internal rhyming, authentic street cadence, and commanding boom bap delivery.",
+  "suggestedKey": "D Minor / G Minor",
+  "streamingSuitability": "Cherished by hip-hop purists, cypher organizers, and authentic Turkish underground rap fans."
+},
+  {
+  "slug": "turkce-rap-altyapilari-papara-ile-satin-al",
+  "title": "Türkçe Rap Altyapıları ₺499'den Başlayan Fiyatlarla (Papara, Troy & Kart)",
+  "description": "Profesyonel, stüdyoya hazır Türkçe rap, trap ve drill altyapıları ₺499'den başlayan fiyatlarla; Papara, Troy kart, kredi kartı ve havale ile anında güvenli teslimat Türk Lirası (₺) cinsinden.",
+  "targetKeywords": [
+    "turkce rap altyapilari papara ile satin al",
+    "ucuz rap beatleri turkiye troy",
+    "trap altyapi satin al 500 tl",
+    "turkce rap beatleri indir wav"
+  ],
+  "heroCta": "Uygun Fiyatlı Beatleri Gör (₺499'den Başlayan)",
+  "energyLevel": "Variable",
+  "primaryUse": "Mixtapeler, Çıkış Parçaları ve Ev Stüdyosu Kayıtları için Tam Ticari Lisans",
+  "similarArtists": [
+    "Bağımsız Türk Rapçiler",
+    "SoundCloud ve YouTube Üreticileri"
+  ],
+  "recommendedBpm": "120-144 BPM",
+  "productionTips": "Ev stüdyosunda vokal kayıtları için geniş dinamik headroom bırakılarak profesyonelce mikslendi.",
+  "idealVocalStyle": "Hızlı sokak flowları, autotunelu melodik nakaratlar ve sert drill vokalleri için uyumlu.",
+  "suggestedKey": "Tüm majör ve minör gamlar",
+  "streamingSuitability": "Spotify, Apple Music ve YouTube'da 100.000 dinlenmeye kadar tam ticari hak sağlar."
+},
+  {
+  "slug": "turkce-drill-altyapilari-wav-stems-indir",
+  "title": "Türkçe Drill Altyapıları ve Kanal Kayıtları Stems (24-Bit Stüdyo WAV)",
+  "description": "Ağır kaygan 808 basları ve karanlık minör melodileri içeren İstanbul sokak drill altyapıları, profesyonel stüdyo miksajı için ayrılmış tüm ses kanalları (WAV stems) ile teslim edilir.",
+  "targetKeywords": [
+    "turkce drill altyapilari wav stems indir",
+    "drill beat kanallari ayrik download",
+    "istanbul sokak drill beat satin al",
+    "kaygan 808 drill altyapisi turkce"
+  ],
+  "heroCta": "Drill Beat + Stems Kanallarını İndir",
+  "energyLevel": "Very High",
+  "primaryUse": "Profesyonel Stüdyo Kaydı, İleri Seviye Miksaj ve Dolby Atmos Dağıtımı",
+  "similarArtists": [
+    "UZI",
+    "cakal",
+    "Batuflex",
+    "Central Cee"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Davullar, 808ler ve melodiler stüdyoda tam kontrol sağlamak için kuru (dry) olarak dışa aktarıldı.",
+  "idealVocalStyle": "Sert punchlinelar, hızlı drill akışları ve doğrudan sokak gerçekliğini anlatan vokaller.",
+  "suggestedKey": "E Minör / C# Minör",
+  "streamingSuitability": "Sınırsız dijital dinlenme, radyo ve resmi video klip hakları pakete dahildir."
+},
+  {
+  "slug": "duygusal-piyano-turkce-rap-beatleri-wav",
+  "title": "Duygusal Piyano Türkçe Rap Beatleri (24-Bit WAV & Tam Ticari Haklar)",
+  "description": "Akustik piyano arpejleri, hüzünlü yaylılar ve sıcak 808 baslarla bezenmiş duygusal Türkçe rap prodüksiyonları, 24-bit kayıpsız stüdyo WAV formatında Spotify ve Apple Music yüklemelerine hazır.",
+  "targetKeywords": [
+    "duygusal piyano turkce rap beatleri wav",
+    "huzunlu turkce rap altyapisi",
+    "duygusal trap beat indir 24 bit",
+    "piyano turkce hip hop altyapi satin al"
+  ],
+  "heroCta": "Duygusal Piyano Beatlerini Dinle",
+  "energyLevel": "High",
+  "primaryUse": "Duygusal Çıkış Single'ı, Hikaye Anlatan Klip ve Samimi Sokak Parçası",
+  "similarArtists": [
+    "Gazapizm",
+    "Şanışer",
+    "Sancak",
+    "Motive"
+  ],
+  "recommendedBpm": "126-136 BPM",
+  "productionTips": "Analog teyp sıcaklığıyla doygunlaştırılmış akustik piyano ve sıcak, net subbas frekansları.",
+  "idealVocalStyle": "İçten ve samimi sözler, melodik nakaratlar ve derin kişisel anlatımlar.",
+  "suggestedKey": "F Minör / A Minör / D Minör",
+  "streamingSuitability": "Sanatçıya %100 master telif hakkı bırakan sınırsız ticari dağıtım lisansı."
+},
+  {
+  "slug": "mesam-msg-onayli-beat-lisans-sozlesmesi-pdf",
+  "title": "MESAM & MSG Onaylı Beat Lisans Sözleşmesi (İmzalı PDF & Split Sheet)",
+  "description": "5846 Sayılı Fikir ve Sanat Eserleri Kanunu ile MESAM ve MSG standartlarına uygun bağlayıcı müzik yapımcısı sözleşmesi: satın alma sonrasında kişiselleştirilmiş lisansınızı ve split sheet belgenizi anında indirin.",
+  "targetKeywords": [
+    "mesam msg onayli beat lisans sozlesmesi pdf",
+    "turkce beat sozlesmesi pdf indir",
+    "split sheet mesam beat satin al",
+    "muzik lisans sozlesmesi turkiye try"
+  ],
+  "heroCta": "MESAM Onaylı Lisans Sözleşmesini Gör (PDF)",
+  "energyLevel": "N/A",
+  "primaryUse": "MESAM/MSG Kaydı, Telif Hakkı Paylaşımı ve Tam Hukuki Güvence",
+  "similarArtists": [
+    "Onzieb",
+    "MESAM ve MSG'ye Kayıtlı Söz Yazarları ve Besteciler"
+  ],
+  "recommendedBpm": "Tüm Tempolar",
+  "productionTips": "Hem söz yazarını hem müzik bestecisini koruyan Türk telif mevzuatına uygun hazırlandı.",
+  "idealVocalStyle": "Tüm müzik tarzları, vokal kayıtları ve ticari sürümler için geçerlidir.",
+  "suggestedKey": "Tüm Tonlar",
+  "streamingSuitability": "Dünya çapında dijital dağıtım ve senkronizasyon için kesin yasal koruma sağlar."
+},
+  {
+  "slug": "beat-satin-al-papara-troy-turkiye",
+  "title": "Türkiye'de Papara, Troy ve Havale ile Beat Satın Al (Anında Türk Lirası ₺)",
+  "description": "Ses etiketi (voice-tag) içermeyen premium beatleri Türkiye'nin yerel ödeme sistemleriyle satın alın: Papara, Troy kart, İninal ve Havale/EFT ile Türk Lirası (TRY ₺) cinsinden anında teslimat.",
+  "targetKeywords": [
+    "beat satin al papara troy turkiye",
+    "papara ile beat alma sitesi",
+    "troy kartla rap altyapi al",
+    "havale ile beat satin al turkiye"
+  ],
+  "heroCta": "Papara / Troy Kart ile Satın Al",
+  "energyLevel": "All Levels",
+  "primaryUse": "Türkiye'deki Rapçiler ve Ev Stüdyoları için Kolay ve Güvenli Ödeme",
+  "similarArtists": [
+    "Bağımsız Türk Müzik Üreticileri"
+  ],
+  "recommendedBpm": "80-160 BPM",
+  "productionTips": "Ödeme onayının hemen ardından otomatik ve şifreli dosya indirme bağlantısı oluşturulur.",
+  "idealVocalStyle": "Tüm vokal tarzları ve tempolar ile evrensel uyumluluk.",
+  "suggestedKey": "Tüm Tonlar",
+  "streamingSuitability": "Tüm dijital platformlarda anında yayına uygun ticari lisans."
+},
+  {
+  "slug": "5li-album-ep-beat-paketleri-turkiye-indirim",
+  "title": "5'li Albüm & EP Beat Paketleri Türkiye (%40 İndirimli Türk Lirası ₺)",
+  "description": "Tam bir EP, albüm veya mixtape kaydeden bağımsız Türk rapçiler için avantajlı paket: tüm katalogdan seçeceğiniz 5 veya 10 altyapıyı %40'a varan indirimle tek bir lisans altında edinin.",
+  "targetKeywords": [
+    "5li album ep beat paketleri turkiye indirim",
+    "coklu beat satin al indirim turkce rap",
+    "ep altyapi paketi turk lirasi",
+    "toplu beat alma turkiye 40 indirim"
+  ],
+  "heroCta": "5'li Albüm Paketini Al (%40 İndirim)",
+  "energyLevel": "Variable",
+  "primaryUse": "Tam Proje Prodüksiyonu, Tutarlı Ses Kimliği ve Düzenli Parça Çıkışı",
+  "similarArtists": [
+    "Bağımsız Türk Rapçiler ve Müzik Grupları"
+  ],
+  "recommendedBpm": "85-145 BPM",
+  "productionTips": "Projeniz boyunca akıcı bir dinleme deneyimi sunmak için harmonik ve dinamik olarak uyumlu kürasyon.",
+  "idealVocalStyle": "Sanatçının tüm vokal ve lirik yeteneğini sergilemesi için geniş bir alan.",
+  "suggestedKey": "Uyumlu Tonlar",
+  "streamingSuitability": "EP'nizdeki tüm parçaları aynı anda kapsayan tek bir ticari lisans."
+},
+  {
+  "slug": "turk-muzik-productoru-whatsapp-onzieb",
+  "title": "Türk Sanatçılar için Özel Müzik Prodüktörü (WhatsApp ile Onzieb)",
+  "description": "Kişiye özel altyapı siparişi vermek için prodüktör Onzieb ile doğrudan WhatsApp üzerinden iletişime geçin: ton ayarlamaları, kanal düzenlemeleri ve tarzınıza özel Türkçe trap ve drill üretimi.",
+  "targetKeywords": [
+    "turk muzik productoru whatsapp onzieb",
+    "onzieb beatmaker iletisim",
+    "ozel beat yaptirma turkce rap",
+    "muzik produksiyonu whatsapp siparis"
+  ],
+  "heroCta": "Onzieb ile WhatsApp'tan Görüş",
+  "energyLevel": "Özel",
+  "primaryUse": "Kişiye Özel Çıkış Parçası, Özgün Ses Kimliği ve Özel Projeler",
+  "similarArtists": [
+    "Onzieb",
+    "Önde Gelen Türk Müzik Prodüktörleri"
+  ],
+  "recommendedBpm": "Sanatçının akışına ve nefes aralıklarına özel olarak ayarlanır",
+  "productionTips": "WhatsApp sesli mesajları ve dosya paylaşımı ile adım adım düzenleme imkanı.",
+  "idealVocalStyle": "Vokalinizin tınısını, gücünü ve frekans aralığını en iyi şekilde öne çıkaracak biçimde tasarlandı.",
+  "suggestedKey": "Özel Ayarlanmış Ton",
+  "streamingSuitability": "%100 master hakları ve sınırsız gelir hakkı sunan doğrudan özel anlaşma."
+},
+  {
+  "slug": "arabesk-trap-baglama-altyapilari-indir",
+  "title": "Arabesk Trap & Elektro Bağlama Altyapıları (Canlı Saz & 808 Baslar)",
+  "description": "Geleneksel Anadolu tınıları ve modern trap füzyonu: elektro bağlama riffleri, hüzünlü yaylılar ve göğüs titreten 808 baslarla donatılmış arabesk trap altyapıları yayına hazır.",
+  "targetKeywords": [
+    "arabesk trap baglama altyapilari indir",
+    "sazli trap beat indir wav",
+    "elektro baglama rap altyapisi",
+    "canbay wolker tarz beat"
+  ],
+  "heroCta": "Arabesk Trap Beatlerini Dinle",
+  "energyLevel": "Very High",
+  "primaryUse": "Arabesk Trap Çıkış Parçası, Duygusal Sokak Klibi ve Konser Şarkısı",
+  "similarArtists": [
+    "Canbay & Wolker",
+    "Ezhel",
+    "Gazapizm",
+    "Müslüm Gürses Trap"
+  ],
+  "recommendedBpm": "126-134 BPM",
+  "productionTips": "Analog teyp sıcaklığıyla kaydedilmiş elektro bağlama soloları ve derin 808 bas frekansları.",
+  "idealVocalStyle": "İçten arabesk vokaller, sokak gerçekliği anlatan sözler ve duygusal nakaratlar.",
+  "suggestedKey": "Re Minör / La Minör (Hicaz / Kürdi)",
+  "streamingSuitability": "Türkçe rap listelerinde, arabesk trap çalma listelerinde ve sosyal medyada yüksek dinlenme performansı."
+},
+  {
+  "slug": "yazlik-afro-trap-turkce-beatler-sefo",
+  "title": "Yazlık Afro-Trap & Reggaeton Türkçe Beatler (Sefo & Murda Tarzı 108 BPM)",
+  "description": "Kulüpler ve radyolar için dans edilebilir Türkçe afro-trap ve reggaeton prodüksiyonları: sıcak naylon gitarlar, tropikal perküsyonlar ve zıplayan baslar yaz hitleri için hazırlandı.",
+  "targetKeywords": [
+    "yazlik afro trap turkce beatler sefo",
+    "sefo tarzi reggaeton beat indir",
+    "turkce dans edilebilir rap altyapisi",
+    "afro pop rap beat 108 bpm"
+  ],
+  "heroCta": "Yazlık Afro-Trap Beatlerini Keşfet",
+  "energyLevel": "High",
+  "primaryUse": "Radyo Hiti, Kulüp Dans Parçası ve TikTok Trend Şarkısı",
+  "similarArtists": [
+    "Sefo",
+    "Murda",
+    "Reynmen",
+    "Capo"
+  ],
+  "recommendedBpm": "104-112 BPM",
+  "productionTips": "Canlı hissettiren akustik gitar riffleri ve dans edilebilir dembow/afrobeat vuruşları.",
+  "idealVocalStyle": "Ağza takılan melodik nakaratlar, neşeli yaz sözleri ve enerjik vokal sunumu.",
+  "suggestedKey": "Sol Majör / Mi Minör",
+  "streamingSuitability": "Spotify Türkiye hit listelerinde, radyo frekanslarında ve yaz kulüplerinde üstün performans."
+},
+  {
+  "slug": "ucretsiz-turkce-drill-drum-kit-wav",
+  "title": "Ücretsiz Türkçe Drill & Trap Drum Kit (24-Bit WAV Samples & 808 Baslar)",
+  "description": "Beatmakerlar ve prodüktörler için ücretsiz ses paketi: 25 adet akortlu 808 bas, darbuka vuruşları, sert drill rimshotları ve trampetler stüdyo kalitesinde 24-bit WAV formatında.",
+  "targetKeywords": [
+    "ucretsiz turkce drill drum kit wav",
+    "turkce rap sample pack bedava indir",
+    "808 ses paketi fl studio ucretsiz",
+    "turkce drill davul kiti indir"
+  ],
+  "heroCta": "Ücretsiz Drum Kiti İndir (ZIP)",
+  "energyLevel": "High",
+  "primaryUse": "Home Stüdyoda Müzik Yapımı, FL Studio, Ableton ve Logic Pro Prodüksiyonu",
+  "similarArtists": [
+    "Bağımsız Türk Beatmakerlar",
+    "Gelişmekte Olan Prodüktörler"
+  ],
+  "recommendedBpm": "Tüm tempolarla uyumlu",
+  "productionTips": "Analog vuruş gücüyle önceden mikslenmiş %100 telifsiz one-shot sesler.",
+  "idealVocalStyle": "Türkçe rap ve trap parçalarının güçlü ritmik temelini oluşturur.",
+  "suggestedKey": "DAW ortamında kolay perde değişimi için Do (C) tonunda akortlandı",
+  "streamingSuitability": "Ticari müzik yayınları ve beat satışı için tamamen telifsiz kullanılabilir."
+},
+  {
+  "slug": "istanbul-kadikoy-turkce-trap-808",
+  "name": "Kadıköy Türkçe Trap 808 Beats",
+  "category": "scene",
+  "badge": "Kadıköy Türkçe Trap",
+  "headline": "Kadıköy (Anadolu Yakası & Kadıköy Acil Mirası) Türkçe Trap 808 Beats: 24-Bit WAV Beats & Papara / Troy ile Ödeme",
+  "description": "Kaygan 808 subbaslar, karanlık minör melodiler ve sert trampetler Kadıköy MC'leri için özel olarak mikslendi.",
+  "targetArtists": [
+    "Artists from Kadıköy",
+    "Türkçe Rap Topluluğu",
+    "Anadolu Hip-Hop Hareketi"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "Re-Minör / Do-Minör",
+  "vibeAttributes": [
+    "Kadıköy",
+    "Türkçe Trap",
+    "Papara & Troy ile Ödeme (TRY ₺)",
+    "MESAM/MSG Onaylı"
+  ],
+  "popularGenres": [
+    "Türkçe Trap 808 Beats",
+    "Türkçe Trap",
+    "İstanbul Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "istanbul-kadikoy-istanbul-street-drill",
+  "name": "Kadıköy İstanbul Street Drill Beats",
+  "category": "scene",
+  "badge": "Kadıköy İstanbul Drill",
+  "headline": "Kadıköy (Anadolu Yakası & Kadıköy Acil Mirası) İstanbul Street Drill Beats: 24-Bit WAV Beats & Papara / Troy ile Ödeme",
+  "description": "Soğuk minör piyanolar, hızlı hi-hat geçişleri ve yıkıcı portamento baslar Kadıköy sokakları için hazırlandı.",
+  "targetArtists": [
+    "Artists from Kadıköy",
+    "Türkçe Rap Topluluğu",
+    "Anadolu Hip-Hop Hareketi"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "Mi-Minör / Do#-Minör",
+  "vibeAttributes": [
+    "Kadıköy",
+    "İstanbul Drill",
+    "Papara & Troy ile Ödeme (TRY ₺)",
+    "MESAM/MSG Onaylı"
+  ],
+  "popularGenres": [
+    "İstanbul Street Drill Beats",
+    "Türkçe Trap",
+    "İstanbul Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "istanbul-kadikoy-arabesk-trap-fusion",
+  "name": "Kadıköy Arabesk Trap Fusion Beats",
+  "category": "scene",
+  "badge": "Kadıköy Arabesk Trap",
+  "headline": "Kadıköy (Anadolu Yakası & Kadıköy Acil Mirası) Arabesk Trap Fusion Beats: 24-Bit WAV Beats & Papara / Troy ile Ödeme",
+  "description": "Elektro bağlama ezgileri, içli yaylılar ve göğüs titreten 808 baslar Kadıköy sanatçıları için buluştu.",
+  "targetArtists": [
+    "Artists from Kadıköy",
+    "Türkçe Rap Topluluğu",
+    "Anadolu Hip-Hop Hareketi"
+  ],
+  "recommendedBpm": "126-134 BPM",
+  "recommendedKey": "Re-Hicaz / La-Kürdi",
+  "vibeAttributes": [
+    "Kadıköy",
+    "Arabesk Trap",
+    "Papara & Troy ile Ödeme (TRY ₺)",
+    "MESAM/MSG Onaylı"
+  ],
+  "popularGenres": [
+    "Arabesk Trap Fusion Beats",
+    "Türkçe Trap",
+    "İstanbul Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "istanbul-kadikoy-anadolu-boom-bap",
+  "name": "Kadıköy Anadolu Classic Boom Bap",
+  "category": "scene",
+  "badge": "Kadıköy Anadolu Boom Bap",
+  "headline": "Kadıköy (Anadolu Yakası & Kadıköy Acil Mirası) Anadolu Classic Boom Bap: 24-Bit WAV Beats & Papara / Troy ile Ödeme",
+  "description": "Knisperende plak sample'ları, analog dolgun vuruşlar ve sıcak bas hatları Kadıköy saf rap tutkunları için üretildi.",
+  "targetArtists": [
+    "Artists from Kadıköy",
+    "Türkçe Rap Topluluğu",
+    "Anadolu Hip-Hop Hareketi"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "Si-Minör / Re-Minör",
+  "vibeAttributes": [
+    "Kadıköy",
+    "Anadolu Boom Bap",
+    "Papara & Troy ile Ödeme (TRY ₺)",
+    "MESAM/MSG Onaylı"
+  ],
+  "popularGenres": [
+    "Anadolu Classic Boom Bap",
+    "Türkçe Trap",
+    "İstanbul Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "istanbul-bagcilar-turkce-trap-808",
+  "name": "Bağcılar Türkçe Trap 808 Beats",
+  "category": "scene",
+  "badge": "Bağcılar Türkçe Trap",
+  "headline": "Bağcılar (Avrupa Yakası Sokak Drill Kalbi) Türkçe Trap 808 Beats: 24-Bit WAV Beats & Papara / Troy ile Ödeme",
+  "description": "Kaygan 808 subbaslar, karanlık minör melodiler ve sert trampetler Bağcılar MC'leri için özel olarak mikslendi.",
+  "targetArtists": [
+    "Artists from Bağcılar",
+    "Türkçe Rap Topluluğu",
+    "Anadolu Hip-Hop Hareketi"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "Re-Minör / Do-Minör",
+  "vibeAttributes": [
+    "Bağcılar",
+    "Türkçe Trap",
+    "Papara & Troy ile Ödeme (TRY ₺)",
+    "MESAM/MSG Onaylı"
+  ],
+  "popularGenres": [
+    "Türkçe Trap 808 Beats",
+    "Türkçe Trap",
+    "İstanbul Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "istanbul-bagcilar-istanbul-street-drill",
+  "name": "Bağcılar İstanbul Street Drill Beats",
+  "category": "scene",
+  "badge": "Bağcılar İstanbul Drill",
+  "headline": "Bağcılar (Avrupa Yakası Sokak Drill Kalbi) İstanbul Street Drill Beats: 24-Bit WAV Beats & Papara / Troy ile Ödeme",
+  "description": "Soğuk minör piyanolar, hızlı hi-hat geçişleri ve yıkıcı portamento baslar Bağcılar sokakları için hazırlandı.",
+  "targetArtists": [
+    "Artists from Bağcılar",
+    "Türkçe Rap Topluluğu",
+    "Anadolu Hip-Hop Hareketi"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "Mi-Minör / Do#-Minör",
+  "vibeAttributes": [
+    "Bağcılar",
+    "İstanbul Drill",
+    "Papara & Troy ile Ödeme (TRY ₺)",
+    "MESAM/MSG Onaylı"
+  ],
+  "popularGenres": [
+    "İstanbul Street Drill Beats",
+    "Türkçe Trap",
+    "İstanbul Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "istanbul-bagcilar-arabesk-trap-fusion",
+  "name": "Bağcılar Arabesk Trap Fusion Beats",
+  "category": "scene",
+  "badge": "Bağcılar Arabesk Trap",
+  "headline": "Bağcılar (Avrupa Yakası Sokak Drill Kalbi) Arabesk Trap Fusion Beats: 24-Bit WAV Beats & Papara / Troy ile Ödeme",
+  "description": "Elektro bağlama ezgileri, içli yaylılar ve göğüs titreten 808 baslar Bağcılar sanatçıları için buluştu.",
+  "targetArtists": [
+    "Artists from Bağcılar",
+    "Türkçe Rap Topluluğu",
+    "Anadolu Hip-Hop Hareketi"
+  ],
+  "recommendedBpm": "126-134 BPM",
+  "recommendedKey": "Re-Hicaz / La-Kürdi",
+  "vibeAttributes": [
+    "Bağcılar",
+    "Arabesk Trap",
+    "Papara & Troy ile Ödeme (TRY ₺)",
+    "MESAM/MSG Onaylı"
+  ],
+  "popularGenres": [
+    "Arabesk Trap Fusion Beats",
+    "Türkçe Trap",
+    "İstanbul Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "istanbul-bagcilar-anadolu-boom-bap",
+  "name": "Bağcılar Anadolu Classic Boom Bap",
+  "category": "scene",
+  "badge": "Bağcılar Anadolu Boom Bap",
+  "headline": "Bağcılar (Avrupa Yakası Sokak Drill Kalbi) Anadolu Classic Boom Bap: 24-Bit WAV Beats & Papara / Troy ile Ödeme",
+  "description": "Knisperende plak sample'ları, analog dolgun vuruşlar ve sıcak bas hatları Bağcılar saf rap tutkunları için üretildi.",
+  "targetArtists": [
+    "Artists from Bağcılar",
+    "Türkçe Rap Topluluğu",
+    "Anadolu Hip-Hop Hareketi"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "Si-Minör / Re-Minör",
+  "vibeAttributes": [
+    "Bağcılar",
+    "Anadolu Boom Bap",
+    "Papara & Troy ile Ödeme (TRY ₺)",
+    "MESAM/MSG Onaylı"
+  ],
+  "popularGenres": [
+    "Anadolu Classic Boom Bap",
+    "Türkçe Trap",
+    "İstanbul Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "ankara-cankaya-turkce-trap-808",
+  "name": "Çankaya Türkçe Trap 808 Beats",
+  "category": "scene",
+  "badge": "Çankaya Türkçe Trap",
+  "headline": "Çankaya (Başkent 06 & Gri Sokak Gerçekliği) Türkçe Trap 808 Beats: 24-Bit WAV Beats & Papara / Troy ile Ödeme",
+  "description": "Kaygan 808 subbaslar, karanlık minör melodiler ve sert trampetler Çankaya MC'leri için özel olarak mikslendi.",
+  "targetArtists": [
+    "Artists from Çankaya",
+    "Türkçe Rap Topluluğu",
+    "Anadolu Hip-Hop Hareketi"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "Re-Minör / Do-Minör",
+  "vibeAttributes": [
+    "Çankaya",
+    "Türkçe Trap",
+    "Papara & Troy ile Ödeme (TRY ₺)",
+    "MESAM/MSG Onaylı"
+  ],
+  "popularGenres": [
+    "Türkçe Trap 808 Beats",
+    "Türkçe Trap",
+    "İstanbul Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "ankara-cankaya-istanbul-street-drill",
+  "name": "Çankaya İstanbul Street Drill Beats",
+  "category": "scene",
+  "badge": "Çankaya İstanbul Drill",
+  "headline": "Çankaya (Başkent 06 & Gri Sokak Gerçekliği) İstanbul Street Drill Beats: 24-Bit WAV Beats & Papara / Troy ile Ödeme",
+  "description": "Soğuk minör piyanolar, hızlı hi-hat geçişleri ve yıkıcı portamento baslar Çankaya sokakları için hazırlandı.",
+  "targetArtists": [
+    "Artists from Çankaya",
+    "Türkçe Rap Topluluğu",
+    "Anadolu Hip-Hop Hareketi"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "Mi-Minör / Do#-Minör",
+  "vibeAttributes": [
+    "Çankaya",
+    "İstanbul Drill",
+    "Papara & Troy ile Ödeme (TRY ₺)",
+    "MESAM/MSG Onaylı"
+  ],
+  "popularGenres": [
+    "İstanbul Street Drill Beats",
+    "Türkçe Trap",
+    "İstanbul Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "ankara-cankaya-arabesk-trap-fusion",
+  "name": "Çankaya Arabesk Trap Fusion Beats",
+  "category": "scene",
+  "badge": "Çankaya Arabesk Trap",
+  "headline": "Çankaya (Başkent 06 & Gri Sokak Gerçekliği) Arabesk Trap Fusion Beats: 24-Bit WAV Beats & Papara / Troy ile Ödeme",
+  "description": "Elektro bağlama ezgileri, içli yaylılar ve göğüs titreten 808 baslar Çankaya sanatçıları için buluştu.",
+  "targetArtists": [
+    "Artists from Çankaya",
+    "Türkçe Rap Topluluğu",
+    "Anadolu Hip-Hop Hareketi"
+  ],
+  "recommendedBpm": "126-134 BPM",
+  "recommendedKey": "Re-Hicaz / La-Kürdi",
+  "vibeAttributes": [
+    "Çankaya",
+    "Arabesk Trap",
+    "Papara & Troy ile Ödeme (TRY ₺)",
+    "MESAM/MSG Onaylı"
+  ],
+  "popularGenres": [
+    "Arabesk Trap Fusion Beats",
+    "Türkçe Trap",
+    "İstanbul Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "ankara-cankaya-anadolu-boom-bap",
+  "name": "Çankaya Anadolu Classic Boom Bap",
+  "category": "scene",
+  "badge": "Çankaya Anadolu Boom Bap",
+  "headline": "Çankaya (Başkent 06 & Gri Sokak Gerçekliği) Anadolu Classic Boom Bap: 24-Bit WAV Beats & Papara / Troy ile Ödeme",
+  "description": "Knisperende plak sample'ları, analog dolgun vuruşlar ve sıcak bas hatları Çankaya saf rap tutkunları için üretildi.",
+  "targetArtists": [
+    "Artists from Çankaya",
+    "Türkçe Rap Topluluğu",
+    "Anadolu Hip-Hop Hareketi"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "Si-Minör / Re-Minör",
+  "vibeAttributes": [
+    "Çankaya",
+    "Anadolu Boom Bap",
+    "Papara & Troy ile Ödeme (TRY ₺)",
+    "MESAM/MSG Onaylı"
+  ],
+  "popularGenres": [
+    "Anadolu Classic Boom Bap",
+    "Türkçe Trap",
+    "İstanbul Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "izmir-karsiyaka-turkce-trap-808",
+  "name": "Karşıyaka Türkçe Trap 808 Beats",
+  "category": "scene",
+  "badge": "Karşıyaka Türkçe Trap",
+  "headline": "Karşıyaka (İzmir 35 & Ege Melodik Bouncesi) Türkçe Trap 808 Beats: 24-Bit WAV Beats & Papara / Troy ile Ödeme",
+  "description": "Kaygan 808 subbaslar, karanlık minör melodiler ve sert trampetler Karşıyaka MC'leri için özel olarak mikslendi.",
+  "targetArtists": [
+    "Artists from Karşıyaka",
+    "Türkçe Rap Topluluğu",
+    "Anadolu Hip-Hop Hareketi"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "Re-Minör / Do-Minör",
+  "vibeAttributes": [
+    "Karşıyaka",
+    "Türkçe Trap",
+    "Papara & Troy ile Ödeme (TRY ₺)",
+    "MESAM/MSG Onaylı"
+  ],
+  "popularGenres": [
+    "Türkçe Trap 808 Beats",
+    "Türkçe Trap",
+    "İstanbul Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "izmir-karsiyaka-istanbul-street-drill",
+  "name": "Karşıyaka İstanbul Street Drill Beats",
+  "category": "scene",
+  "badge": "Karşıyaka İstanbul Drill",
+  "headline": "Karşıyaka (İzmir 35 & Ege Melodik Bouncesi) İstanbul Street Drill Beats: 24-Bit WAV Beats & Papara / Troy ile Ödeme",
+  "description": "Soğuk minör piyanolar, hızlı hi-hat geçişleri ve yıkıcı portamento baslar Karşıyaka sokakları için hazırlandı.",
+  "targetArtists": [
+    "Artists from Karşıyaka",
+    "Türkçe Rap Topluluğu",
+    "Anadolu Hip-Hop Hareketi"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "Mi-Minör / Do#-Minör",
+  "vibeAttributes": [
+    "Karşıyaka",
+    "İstanbul Drill",
+    "Papara & Troy ile Ödeme (TRY ₺)",
+    "MESAM/MSG Onaylı"
+  ],
+  "popularGenres": [
+    "İstanbul Street Drill Beats",
+    "Türkçe Trap",
+    "İstanbul Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "izmir-karsiyaka-arabesk-trap-fusion",
+  "name": "Karşıyaka Arabesk Trap Fusion Beats",
+  "category": "scene",
+  "badge": "Karşıyaka Arabesk Trap",
+  "headline": "Karşıyaka (İzmir 35 & Ege Melodik Bouncesi) Arabesk Trap Fusion Beats: 24-Bit WAV Beats & Papara / Troy ile Ödeme",
+  "description": "Elektro bağlama ezgileri, içli yaylılar ve göğüs titreten 808 baslar Karşıyaka sanatçıları için buluştu.",
+  "targetArtists": [
+    "Artists from Karşıyaka",
+    "Türkçe Rap Topluluğu",
+    "Anadolu Hip-Hop Hareketi"
+  ],
+  "recommendedBpm": "126-134 BPM",
+  "recommendedKey": "Re-Hicaz / La-Kürdi",
+  "vibeAttributes": [
+    "Karşıyaka",
+    "Arabesk Trap",
+    "Papara & Troy ile Ödeme (TRY ₺)",
+    "MESAM/MSG Onaylı"
+  ],
+  "popularGenres": [
+    "Arabesk Trap Fusion Beats",
+    "Türkçe Trap",
+    "İstanbul Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "izmir-karsiyaka-anadolu-boom-bap",
+  "name": "Karşıyaka Anadolu Classic Boom Bap",
+  "category": "scene",
+  "badge": "Karşıyaka Anadolu Boom Bap",
+  "headline": "Karşıyaka (İzmir 35 & Ege Melodik Bouncesi) Anadolu Classic Boom Bap: 24-Bit WAV Beats & Papara / Troy ile Ödeme",
+  "description": "Knisperende plak sample'ları, analog dolgun vuruşlar ve sıcak bas hatları Karşıyaka saf rap tutkunları için üretildi.",
+  "targetArtists": [
+    "Artists from Karşıyaka",
+    "Türkçe Rap Topluluğu",
+    "Anadolu Hip-Hop Hareketi"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "Si-Minör / Re-Minör",
+  "vibeAttributes": [
+    "Karşıyaka",
+    "Anadolu Boom Bap",
+    "Papara & Troy ile Ödeme (TRY ₺)",
+    "MESAM/MSG Onaylı"
+  ],
+  "popularGenres": [
+    "Anadolu Classic Boom Bap",
+    "Türkçe Trap",
+    "İstanbul Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "adana-seyhan-turkce-trap-808",
+  "name": "Seyhan Türkçe Trap 808 Beats",
+  "category": "scene",
+  "badge": "Seyhan Türkçe Trap",
+  "headline": "Seyhan (Çukurova 01 & Güney Ağır 808) Türkçe Trap 808 Beats: 24-Bit WAV Beats & Papara / Troy ile Ödeme",
+  "description": "Kaygan 808 subbaslar, karanlık minör melodiler ve sert trampetler Seyhan MC'leri için özel olarak mikslendi.",
+  "targetArtists": [
+    "Artists from Seyhan",
+    "Türkçe Rap Topluluğu",
+    "Anadolu Hip-Hop Hareketi"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "Re-Minör / Do-Minör",
+  "vibeAttributes": [
+    "Seyhan",
+    "Türkçe Trap",
+    "Papara & Troy ile Ödeme (TRY ₺)",
+    "MESAM/MSG Onaylı"
+  ],
+  "popularGenres": [
+    "Türkçe Trap 808 Beats",
+    "Türkçe Trap",
+    "İstanbul Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "adana-seyhan-istanbul-street-drill",
+  "name": "Seyhan İstanbul Street Drill Beats",
+  "category": "scene",
+  "badge": "Seyhan İstanbul Drill",
+  "headline": "Seyhan (Çukurova 01 & Güney Ağır 808) İstanbul Street Drill Beats: 24-Bit WAV Beats & Papara / Troy ile Ödeme",
+  "description": "Soğuk minör piyanolar, hızlı hi-hat geçişleri ve yıkıcı portamento baslar Seyhan sokakları için hazırlandı.",
+  "targetArtists": [
+    "Artists from Seyhan",
+    "Türkçe Rap Topluluğu",
+    "Anadolu Hip-Hop Hareketi"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "Mi-Minör / Do#-Minör",
+  "vibeAttributes": [
+    "Seyhan",
+    "İstanbul Drill",
+    "Papara & Troy ile Ödeme (TRY ₺)",
+    "MESAM/MSG Onaylı"
+  ],
+  "popularGenres": [
+    "İstanbul Street Drill Beats",
+    "Türkçe Trap",
+    "İstanbul Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "adana-seyhan-arabesk-trap-fusion",
+  "name": "Seyhan Arabesk Trap Fusion Beats",
+  "category": "scene",
+  "badge": "Seyhan Arabesk Trap",
+  "headline": "Seyhan (Çukurova 01 & Güney Ağır 808) Arabesk Trap Fusion Beats: 24-Bit WAV Beats & Papara / Troy ile Ödeme",
+  "description": "Elektro bağlama ezgileri, içli yaylılar ve göğüs titreten 808 baslar Seyhan sanatçıları için buluştu.",
+  "targetArtists": [
+    "Artists from Seyhan",
+    "Türkçe Rap Topluluğu",
+    "Anadolu Hip-Hop Hareketi"
+  ],
+  "recommendedBpm": "126-134 BPM",
+  "recommendedKey": "Re-Hicaz / La-Kürdi",
+  "vibeAttributes": [
+    "Seyhan",
+    "Arabesk Trap",
+    "Papara & Troy ile Ödeme (TRY ₺)",
+    "MESAM/MSG Onaylı"
+  ],
+  "popularGenres": [
+    "Arabesk Trap Fusion Beats",
+    "Türkçe Trap",
+    "İstanbul Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "adana-seyhan-anadolu-boom-bap",
+  "name": "Seyhan Anadolu Classic Boom Bap",
+  "category": "scene",
+  "badge": "Seyhan Anadolu Boom Bap",
+  "headline": "Seyhan (Çukurova 01 & Güney Ağır 808) Anadolu Classic Boom Bap: 24-Bit WAV Beats & Papara / Troy ile Ödeme",
+  "description": "Knisperende plak sample'ları, analog dolgun vuruşlar ve sıcak bas hatları Seyhan saf rap tutkunları için üretildi.",
+  "targetArtists": [
+    "Artists from Seyhan",
+    "Türkçe Rap Topluluğu",
+    "Anadolu Hip-Hop Hareketi"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "Si-Minör / Re-Minör",
+  "vibeAttributes": [
+    "Seyhan",
+    "Anadolu Boom Bap",
+    "Papara & Troy ile Ödeme (TRY ₺)",
+    "MESAM/MSG Onaylı"
+  ],
+  "popularGenres": [
+    "Anadolu Classic Boom Bap",
+    "Türkçe Trap",
+    "İstanbul Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "trabzon-karadeniz-turkce-trap-808",
+  "name": "Trabzon Türkçe Trap 808 Beats",
+  "category": "scene",
+  "badge": "Trabzon Türkçe Trap",
+  "headline": "Trabzon (Karadeniz 61 & Hızlı Kemençe Drill) Türkçe Trap 808 Beats: 24-Bit WAV Beats & Papara / Troy ile Ödeme",
+  "description": "Kaygan 808 subbaslar, karanlık minör melodiler ve sert trampetler Trabzon MC'leri için özel olarak mikslendi.",
+  "targetArtists": [
+    "Artists from Trabzon",
+    "Türkçe Rap Topluluğu",
+    "Anadolu Hip-Hop Hareketi"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "Re-Minör / Do-Minör",
+  "vibeAttributes": [
+    "Trabzon",
+    "Türkçe Trap",
+    "Papara & Troy ile Ödeme (TRY ₺)",
+    "MESAM/MSG Onaylı"
+  ],
+  "popularGenres": [
+    "Türkçe Trap 808 Beats",
+    "Türkçe Trap",
+    "İstanbul Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "trabzon-karadeniz-istanbul-street-drill",
+  "name": "Trabzon İstanbul Street Drill Beats",
+  "category": "scene",
+  "badge": "Trabzon İstanbul Drill",
+  "headline": "Trabzon (Karadeniz 61 & Hızlı Kemençe Drill) İstanbul Street Drill Beats: 24-Bit WAV Beats & Papara / Troy ile Ödeme",
+  "description": "Soğuk minör piyanolar, hızlı hi-hat geçişleri ve yıkıcı portamento baslar Trabzon sokakları için hazırlandı.",
+  "targetArtists": [
+    "Artists from Trabzon",
+    "Türkçe Rap Topluluğu",
+    "Anadolu Hip-Hop Hareketi"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "Mi-Minör / Do#-Minör",
+  "vibeAttributes": [
+    "Trabzon",
+    "İstanbul Drill",
+    "Papara & Troy ile Ödeme (TRY ₺)",
+    "MESAM/MSG Onaylı"
+  ],
+  "popularGenres": [
+    "İstanbul Street Drill Beats",
+    "Türkçe Trap",
+    "İstanbul Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "trabzon-karadeniz-arabesk-trap-fusion",
+  "name": "Trabzon Arabesk Trap Fusion Beats",
+  "category": "scene",
+  "badge": "Trabzon Arabesk Trap",
+  "headline": "Trabzon (Karadeniz 61 & Hızlı Kemençe Drill) Arabesk Trap Fusion Beats: 24-Bit WAV Beats & Papara / Troy ile Ödeme",
+  "description": "Elektro bağlama ezgileri, içli yaylılar ve göğüs titreten 808 baslar Trabzon sanatçıları için buluştu.",
+  "targetArtists": [
+    "Artists from Trabzon",
+    "Türkçe Rap Topluluğu",
+    "Anadolu Hip-Hop Hareketi"
+  ],
+  "recommendedBpm": "126-134 BPM",
+  "recommendedKey": "Re-Hicaz / La-Kürdi",
+  "vibeAttributes": [
+    "Trabzon",
+    "Arabesk Trap",
+    "Papara & Troy ile Ödeme (TRY ₺)",
+    "MESAM/MSG Onaylı"
+  ],
+  "popularGenres": [
+    "Arabesk Trap Fusion Beats",
+    "Türkçe Trap",
+    "İstanbul Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "trabzon-karadeniz-anadolu-boom-bap",
+  "name": "Trabzon Anadolu Classic Boom Bap",
+  "category": "scene",
+  "badge": "Trabzon Anadolu Boom Bap",
+  "headline": "Trabzon (Karadeniz 61 & Hızlı Kemençe Drill) Anadolu Classic Boom Bap: 24-Bit WAV Beats & Papara / Troy ile Ödeme",
+  "description": "Knisperende plak sample'ları, analog dolgun vuruşlar ve sıcak bas hatları Trabzon saf rap tutkunları için üretildi.",
+  "targetArtists": [
+    "Artists from Trabzon",
+    "Türkçe Rap Topluluğu",
+    "Anadolu Hip-Hop Hareketi"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "Si-Minör / Re-Minör",
+  "vibeAttributes": [
+    "Trabzon",
+    "Anadolu Boom Bap",
+    "Papara & Troy ile Ödeme (TRY ₺)",
+    "MESAM/MSG Onaylı"
+  ],
+  "popularGenres": [
+    "Anadolu Classic Boom Bap",
+    "Türkçe Trap",
+    "İstanbul Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
 ];

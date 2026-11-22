@@ -43718,4 +43718,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "tr/istanbul-kadikoy-moda": {
+  "slug": "tr/istanbul-kadikoy-moda",
+  "name": "Türkiye – İstanbul: Kadıköy & Moda (Anadolu Yakası Bağımsız Hip-Hop & Kadıköy Acil Kültürü)",
+  "flag": "🇹🇷",
+  "currency": "TRY (₺) / USD ($)",
+  "currencyCode": "TRY",
+  "gateways": "Papara, Troy (Türkiye Kartı), Ininal, Kredi Kartı, Apple Pay, Google Pay, Havale/EFT, PayPal, Stripe",
+  "pro": "MESAM / MSG",
+  "proFullName": "MESAM (Türkiye Musiki Eseri Sahipleri Meslek Birliği) / MSG",
+  "proGuide": "100% 5846 Sayılı Fikir ve Sanat Eserleri Kanunu ve MESAM/MSG mevzuatına uygun imzalı PDF lisans sözleşmesi ile.",
+  "headline": "Beats in Kadıköy & Moda: Rıhtım Kültürü, Kadıköy Acil Mirası & Ağır Trap 808 Basları",
+  "description": "Anadolu Yakası'nın bağımsız rap kalbi: melodik synthesizer riffleri, vuruşlu trampetler ve derin 808 baslar Kadıköy, Moda ve Caferağa sokaklarındaki MC'ler için özel olarak tasarlandı.",
+  "popularGenres": [
+    "Kadıköy Hip-Hop",
+    "Anadolu Yakası Trap",
+    "Moda Boom Bap"
+  ],
+  "subClusters": []
+},
+  "tr/istanbul-sisli-mecidiyekoy": {
+  "slug": "tr/istanbul-sisli-mecidiyekoy",
+  "name": "Türkiye – İstanbul: Şişli, Mecidiyeköy & Bomonti (Müzik Şirketleri, Stüdyolar & Lüks Trap)",
+  "flag": "🇹🇷",
+  "currency": "TRY (₺) / USD ($)",
+  "currencyCode": "TRY",
+  "gateways": "Papara, Troy (Türkiye Kartı), Ininal, Kredi Kartı, Apple Pay, Google Pay, Havale/EFT, PayPal, Stripe",
+  "pro": "MESAM / MSG",
+  "proFullName": "MESAM (Türkiye Musiki Eseri Sahipleri Meslek Birliği) / MSG",
+  "proGuide": "Stüdyo vokalleri için 24-bit kayıpsız WAV ve ayrılmış multitrack stem kanalları.",
+  "headline": "Beats in Şişli & Bomonti: Gökdelen Işıkları, Profesyonel Stüdyo Standardı & Parlak 808",
+  "description": "Türkiye'nin müzik endüstrisi ve stüdyo merkezi: cilalı modern trap synthesizerları, geniş stereo alan ve kulüp standardı mastering ile Şişli ve Bomonti sanatçıları için.",
+  "popularGenres": [
+    "Şişli Lüks Trap",
+    "Ticari J-Rap Tarzı",
+    "Bomonti R&B Beat"
+  ],
+  "subClusters": []
+},
+  "tr/istanbul-esenler-bagcilar": {
+  "slug": "tr/istanbul-esenler-bagcilar",
+  "name": "Türkiye – İstanbul: Bağcılar, Esenler & Güngören (Sokak Rapinin Kalbi & Sert Drill Ritimleri)",
+  "flag": "🇹🇷",
+  "currency": "TRY (₺) / USD ($)",
+  "currencyCode": "TRY",
+  "gateways": "Papara, Troy (Türkiye Kartı), Ininal, Kredi Kartı, Apple Pay, Google Pay, Havale/EFT, PayPal, Stripe",
+  "pro": "MESAM / MSG",
+  "proFullName": "MESAM (Türkiye Musiki Eseri Sahipleri Meslek Birliği) / MSG",
+  "proGuide": "Spotify, Apple Music, YouTube ve yerel radyolarda %100 telifsiz ve sorunsuz yayın hakkı.",
+  "headline": "Beats in Bağcılar & Güngören: Ham Sokak Gerçekliği, GNG Sound & Yırtıcı Drill",
+  "description": "Türkçe drill ve sokak trap müziğinin doğduğu sokaklar: soğuk minör piyano akorları, iki oktav kayan 808 portamento basları ve sert rimshotlar Güngören ve Bağcılar için.",
+  "popularGenres": [
+    "Bağcılar Street Drill",
+    "Güngören Sert Trap",
+    "GNG Style Beat"
+  ],
+  "subClusters": []
+},
+  "tr/ankara-cankaya-kizilay": {
+  "slug": "tr/ankara-cankaya-kizilay",
+  "name": "Türkiye – Ankara: Çankaya, Kızılay & Tunalı (Başkent Gri Sokak Gerçekliği & Ezhel Kökleri)",
+  "flag": "🇹🇷",
+  "currency": "TRY (₺) / USD ($)",
+  "currencyCode": "TRY",
+  "gateways": "Papara, Troy (Türkiye Kartı), Ininal, Kredi Kartı, Apple Pay, Google Pay, Havale/EFT, PayPal, Stripe",
+  "pro": "MESAM / MSG",
+  "proFullName": "MESAM (Türkiye Musiki Eseri Sahipleri Meslek Birliği) / MSG",
+  "proGuide": "100% orijinal besteler, hiçbir izinsiz sample içermeyen temiz ticari lisans.",
+  "headline": "Beats in Ankara Çankaya: Kızılay Gri Sokakları, Kuğulu Park & Melankolik 06 Trap",
+  "description": "Ezhel'in ve modern Türkçe rapin başkent kökleri: nostaljik akustik bağlama tınıları, puslu analog synthler ve tok 808 baslar Çankaya, Kızılay ve Tunalı MC'leri için.",
+  "popularGenres": [
+    "Ankara 06 Trap",
+    "Çankaya Lirik Rap",
+    "Başkent Sokak Beat"
+  ],
+  "subClusters": []
+},
+  "tr/izmir-karsiyaka-alsancak": {
+  "slug": "tr/izmir-karsiyaka-alsancak",
+  "name": "Türkiye – İzmir: Karşıyaka, Alsancak & Bornova (Ege Esintisi, Melodik Yaz Bouncesi & 35 Trap)",
+  "flag": "🇹🇷",
+  "currency": "TRY (₺) / USD ($)",
+  "currencyCode": "TRY",
+  "gateways": "Papara, Troy (Türkiye Kartı), Ininal, Kredi Kartı, Apple Pay, Google Pay, Havale/EFT, PayPal, Stripe",
+  "pro": "MESAM / MSG",
+  "proFullName": "MESAM (Türkiye Musiki Eseri Sahipleri Meslek Birliği) / MSG",
+  "proGuide": "Papara, Troy kart veya banka havalesiyle Türk Lirası (₺) cinsinden anında teslimat.",
+  "headline": "Beats in İzmir Alsancak: Kordon Esintisi, Karşıyaka Enerjisi & Dans Edilebilir Trap",
+  "description": "Ege'nin özgür ve melodik hip-hop tınıları: sıcak naylon gitar sample'ları, afrobeat dembow vuruşları ve zıplayan 808 baslar Karşıyaka, Alsancak ve Bornova için.",
+  "popularGenres": [
+    "İzmir Melodik Trap",
+    "Ege Afro Bounce",
+    "35 Street Beat"
+  ],
+  "subClusters": []
+},
+  "tr/bursa-nilufer-osmangazi": {
+  "slug": "tr/bursa-nilufer-osmangazi",
+  "name": "Türkiye – Bursa: Nilüfer & Osmangazi (Sanayi Kenti Dinamizmi, Hızlı Akış & Sert Kicks)",
+  "flag": "🇹🇷",
+  "currency": "TRY (₺) / USD ($)",
+  "currencyCode": "TRY",
+  "gateways": "Papara, Troy (Türkiye Kartı), Ininal, Kredi Kartı, Apple Pay, Google Pay, Havale/EFT, PayPal, Stripe",
+  "pro": "MESAM / MSG",
+  "proFullName": "MESAM (Türkiye Musiki Eseri Sahipleri Meslek Birliği) / MSG",
+  "proGuide": "Profesyonel vokal miksajı için ayrılmış WAV stem kanalları pakete dahildir.",
+  "headline": "Beats in Bursa: Uludağ Heybeti, Nilüfer Gençlik Hareketi & Hızlı Trap Akışı",
+  "description": "Güney Marmara'nın sanayi ve gençlik gücü: vuruşlu trampetler, hızlı hi-hat geçişleri ve dolgun subbaslar Bursa, Nilüfer ve Osmangazi sanatçıları için.",
+  "popularGenres": [
+    "Bursa Street Trap",
+    "Nilüfer Drill Beat",
+    "Marmara Rap"
+  ],
+  "subClusters": []
+},
+  "tr/antalya-muratpasa-alanya": {
+  "slug": "tr/antalya-muratpasa-alanya",
+  "name": "Türkiye – Antalya: Muratpaşa & Alanya (Akdeniz Turizm Merkezi, Afro-Trap & Kulüp Ritimleri)",
+  "flag": "🇹🇷",
+  "currency": "TRY (₺) / USD ($)",
+  "currencyCode": "TRY",
+  "gateways": "Papara, Troy (Türkiye Kartı), Ininal, Kredi Kartı, Apple Pay, Google Pay, Havale/EFT, PayPal, Stripe",
+  "pro": "MESAM / MSG",
+  "proFullName": "MESAM (Türkiye Musiki Eseri Sahipleri Meslek Birliği) / MSG",
+  "proGuide": "Dijital yayın, radyo ve kulüp performansları için tam ticari haklar.",
+  "headline": "Beats in Antalya & Alanya: Akdeniz Güneşi, Tropikal Melodiler & Kulüp Afro-Trap",
+  "description": "Akdeniz'in uluslararası ritim durağı: tropikal marimba ve synth tınıları, dans edilebilir kulüp vuruşları ve plaj partisi enerjisi Antalya ve Alanya sanatçıları için.",
+  "popularGenres": [
+    "Antalya Afro-Trap",
+    "Akdeniz Club Beat",
+    "Yazlık Türkçe Rap"
+  ],
+  "subClusters": []
+},
+  "tr/adana-seyhan-yuregir": {
+  "slug": "tr/adana-seyhan-yuregir",
+  "name": "Türkiye – Adana: Seyhan & Yüreğir (Güney Sokak Harareti, Çukurova Rap & Ağır 808 Baslar)",
+  "flag": "🇹🇷",
+  "currency": "TRY (₺) / USD ($)",
+  "currencyCode": "TRY",
+  "gateways": "Papara, Troy (Türkiye Kartı), Ininal, Kredi Kartı, Apple Pay, Google Pay, Havale/EFT, PayPal, Stripe",
+  "pro": "MESAM / MSG",
+  "proFullName": "MESAM (Türkiye Musiki Eseri Sahipleri Meslek Birliği) / MSG",
+  "proGuide": "100% telifsiz master hakları ile sınırsız dinlenme ve ticari yayın garantisi.",
+  "headline": "Beats in Adana Seyhan: Çukurova Sıcağı, Taşköprü & Agresif Sokak Rap 808leri",
+  "description": "Güney sokaklarının tavizsiz ve sıcak enerjisi: sert analog kitlemeler, yırtıcı 808 bas vuruşları ve doğrudan sokağı anlatan ritimler Adana, Seyhan ve Yüreğir MC'leri için.",
+  "popularGenres": [
+    "Adana Sokak Trap",
+    "Çukurova Hardcore Rap",
+    "01 Ağır 808"
+  ],
+  "subClusters": []
+},
+  "tr/diyarbakir-sur-baglar": {
+  "slug": "tr/diyarbakir-sur-baglar",
+  "name": "Türkiye – Diyarbakır: Sur & Bağlar (Güneydoğu Kadim Melodileri, Mey & Bağlama Trap Füzyonu)",
+  "flag": "🇹🇷",
+  "currency": "TRY (₺) / USD ($)",
+  "currencyCode": "TRY",
+  "gateways": "Papara, Troy (Türkiye Kartı), Ininal, Kredi Kartı, Apple Pay, Google Pay, Havale/EFT, PayPal, Stripe",
+  "pro": "MESAM / MSG",
+  "proFullName": "MESAM (Türkiye Musiki Eseri Sahipleri Meslek Birliği) / MSG",
+  "proGuide": "İmzalı MESAM/MSG lisans belgesi ile anında indirilebilir prodüksiyon.",
+  "headline": "Beats in Diyarbakır Sur: Tarihi Surlar, Dicle Nehri & Mey Eşliğinde Derin Trap",
+  "description": "Mezopotamya ve Anadolu'nun bin yıllık kökleri modern trap ile buluşuyor: içli mey ve duduk soloları, bağlama arpejleri ve deprem etkisi yaratan 808 baslar Diyarbakır ve Sur için.",
+  "popularGenres": [
+    "Diyarbakır Folk Trap",
+    "Mezopotamya Beat",
+    "Sur Lirik Rap"
+  ],
+  "subClusters": []
+},
+  "tr/trabzon-karadeniz-sahil": {
+  "slug": "tr/trabzon-karadeniz-sahil",
+  "name": "Türkiye – Trabzon & Karadeniz Kıyısı (Kemençe Ritimleri, Hızlı Karadeniz Akışı & Sert Drill)",
+  "flag": "🇹🇷",
+  "currency": "TRY (₺) / USD ($)",
+  "currencyCode": "TRY",
+  "gateways": "Papara, Troy (Türkiye Kartı), Ininal, Kredi Kartı, Apple Pay, Google Pay, Havale/EFT, PayPal, Stripe",
+  "pro": "MESAM / MSG",
+  "proFullName": "MESAM (Türkiye Musiki Eseri Sahipleri Meslek Birliği) / MSG",
+  "proGuide": "Küresel DSP dağıtımı ve video senkronizasyonu için tam ticari serbestlik.",
+  "headline": "Beats in Trabzon: Hırçın Karadeniz Dalgaları, Canlı Kemençe & 142 BPM Sert Drill",
+  "description": "Karadeniz'in fırtınalı enerjisi: hızlı kemençe ezgileri, hiperaktif perküsyonlar ve kaygan drill subbasları Trabzon, Rize ve Karadeniz sokakları için özel olarak mikslendi.",
+  "popularGenres": [
+    "Karadeniz Drill Beat",
+    "Kemençe Trap Füzyonu",
+    "Trabzon 61 Rap"
+  ],
+  "subClusters": []
+},
 };
