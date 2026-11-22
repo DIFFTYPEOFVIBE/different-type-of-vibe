@@ -46188,4 +46188,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "th/bangkok-thonglor-ekkamai": {
+  "slug": "th/bangkok-thonglor-ekkamai",
+  "name": "Thailand – Bangkok: Thonglor, Ekkamai & Sukhumvit (Bangkok Luxury Nightlife Core, Sleek Neo-Soul, Thai R&B & High-End Urban Trap)",
+  "flag": "🇹🇭",
+  "currency": "THB (฿) / USD ($)",
+  "currencyCode": "THB",
+  "gateways": "PromptPay (Scan QR All Thai Banks), TrueMoney Wallet, K PLUS (Kasikornbank), SCB Easy, Credit/Debit Cards, Apple Pay, PayPal, Stripe",
+  "pro": "MCT / DIP",
+  "proFullName": "MCT (Music Copyright Thailand) / DIP",
+  "proGuide": "100% compliant with the Copyright Act B.E. 2537 of Thailand and MCT registration with instant signed digital PDF agreement.",
+  "headline": "Beats in Thonglor & Ekkamai: Sukhumvit Luxury Skyline, Warm Rhodes & Sleek T-Pop R&B",
+  "description": "The trendsetting luxury nightlife and creative core of Bangkok: velvety Fender Rhodes keys, sophisticated neo-soul progressions, and modern drums for R&B singers and producers.",
+  "popularGenres": [
+    "Thonglor Neo-Soul",
+    "Sukhumvit Urban R&B",
+    "Bangkok Sleek Trap"
+  ],
+  "subClusters": []
+},
+  "th/bangkok-ratchada-huai-khwang": {
+  "slug": "th/bangkok-ratchada-huai-khwang",
+  "name": "Thailand – Bangkok: Ratchada, Huai Khwang & Rama 9 (The New CBD, High-Octane Club Trap, Asian Crossover & Heavy 808s)",
+  "flag": "🇹🇭",
+  "currency": "THB (฿) / USD ($)",
+  "currencyCode": "THB",
+  "gateways": "PromptPay (Scan QR All Thai Banks), TrueMoney Wallet, K PLUS (Kasikornbank), SCB Easy, Credit/Debit Cards, Apple Pay, PayPal, Stripe",
+  "pro": "MCT / DIP",
+  "proFullName": "MCT (Music Copyright Thailand) / DIP",
+  "proGuide": "Uncompressed 24-bit 48kHz studio WAV files with separated multitrack stems and commercial license.",
+  "headline": "Beats in Ratchada & Rama 9: High-Energy Nightclub Pulse, Icy Minor Bells & Heavy Asian Trap",
+  "description": "The buzzing nightlife crossroads of Bangkok: sharp cutting snares, driving synth arpeggios, and booming 808 sub drops tailored for nightclub performers.",
+  "popularGenres": [
+    "Ratchada Club Trap",
+    "Rama 9 Heavy 808",
+    "Bangkok Asian Crossover"
+  ],
+  "subClusters": []
+},
+  "th/bangkok-chao-phraya-riverside": {
+  "slug": "th/bangkok-chao-phraya-riverside",
+  "name": "Thailand – Bangkok: Riverside, Charoen Krung & Iconsiam (Historic Riverside, Chillhop Lofi, Ranat-Trap & Soulful Brass)",
+  "flag": "🇹🇭",
+  "currency": "THB (฿) / USD ($)",
+  "currencyCode": "THB",
+  "gateways": "PromptPay (Scan QR All Thai Banks), TrueMoney Wallet, K PLUS (Kasikornbank), SCB Easy, Credit/Debit Cards, Apple Pay, PayPal, Stripe",
+  "pro": "MCT / DIP",
+  "proFullName": "MCT (Music Copyright Thailand) / DIP",
+  "proGuide": "Instant digital delivery with split sheet and licensing contract for Spotify and Apple Music distribution.",
+  "headline": "Beats along Chao Phraya River: Historic Riverside Temples, Ranat-Trap Fusions & Soulful Lofi",
+  "description": "Where historic riverside heritage meets modern urban expression: traditional wooden Ranat Ek melodies, river ferry Foley, and unquantized dusty boom bap drums.",
+  "popularGenres": [
+    "Chao Phraya Lofi",
+    "Charoen Krung Soul Hop",
+    "Riverside Ranat Trap"
+  ],
+  "subClusters": []
+},
+  "th/chiang-mai-nimman-old-city": {
+  "slug": "th/chiang-mai-nimman-old-city",
+  "name": "Thailand – Chiang Mai: Nimman, Maya & Old City (Northern Digital Nomad Oasis, Lanna Phin-Trap & Misty Mountain Lofi)",
+  "flag": "🇹🇭",
+  "currency": "THB (฿) / USD ($)",
+  "currencyCode": "THB",
+  "gateways": "PromptPay (Scan QR All Thai Banks), TrueMoney Wallet, K PLUS (Kasikornbank), SCB Easy, Credit/Debit Cards, Apple Pay, PayPal, Stripe",
+  "pro": "MCT / DIP",
+  "proFullName": "MCT (Music Copyright Thailand) / DIP",
+  "proGuide": "Direct mobile wallet payment via PromptPay and TrueMoney with instant master and stem downloads.",
+  "headline": "Beats in Nimman & Chiang Mai: Northern Mountain Air, Lanna Acoustic Chords & Cloud Trap",
+  "description": "The creative oasis of northern Thailand: delicate acoustic guitars, ambient plate reverbs, and warm, gentle 808 sub-bass designed for introspective bedroom pop.",
+  "popularGenres": [
+    "Nimman Cloud Trap",
+    "Lanna Indie Rap",
+    "Chiang Mai Mountain Lofi"
+  ],
+  "subClusters": []
+},
+  "th/phuket-patong-rawai": {
+  "slug": "th/phuket-patong-rawai",
+  "name": "Thailand – Phuket: Patong, Rawai & Bang Tao (Andaman Beach Paradise, Tropical Afro-Trap & Sunset Island Dembow)",
+  "flag": "🇹🇭",
+  "currency": "THB (฿) / USD ($)",
+  "currencyCode": "THB",
+  "gateways": "PromptPay (Scan QR All Thai Banks), TrueMoney Wallet, K PLUS (Kasikornbank), SCB Easy, Credit/Debit Cards, Apple Pay, PayPal, Stripe",
+  "pro": "MCT / DIP",
+  "proFullName": "MCT (Music Copyright Thailand) / DIP",
+  "proGuide": "100% royalty-free original compositions with no sample clearance complications.",
+  "headline": "Beats in Phuket: Andaman Sea Sunset Breezes, Tropical Marimbas & Afro-Trap Island Hits",
+  "description": "The premier tropical island playground: bright marimba plucks, tropical afrobeat shakers, and danceable 808 drops tailored for beach clubs and international resort visuals.",
+  "popularGenres": [
+    "Phuket Beach Afro-Trap",
+    "Patong Club Banger",
+    "Andaman Sunset Beats"
+  ],
+  "subClusters": []
+},
+  "th/pattaya-jomtien-walking-street": {
+  "slug": "th/pattaya-jomtien-walking-street",
+  "name": "Thailand – Chonburi: Pattaya, Jomtien & Walking Street (Eastern Seaboard Entertainment Capital, High-Energy EDM-Trap & Fast Club Beats)",
+  "flag": "🇹🇭",
+  "currency": "THB (฿) / USD ($)",
+  "currencyCode": "THB",
+  "gateways": "PromptPay (Scan QR All Thai Banks), TrueMoney Wallet, K PLUS (Kasikornbank), SCB Easy, Credit/Debit Cards, Apple Pay, PayPal, Stripe",
+  "pro": "MCT / DIP",
+  "proFullName": "MCT (Music Copyright Thailand) / DIP",
+  "proGuide": "Commercial licensing agreement protecting publishing, sync, and streaming rights under Thai copyright law.",
+  "headline": "Beats in Pattaya & Jomtien: Eastern Seaboard Nightlife, Pumping Synth Drops & Club Trap",
+  "description": "The wild entertainment capital of the eastern seaboard: high-energy 130+ BPM club trap kicks, piercing lead synths, and basslines crafted for massive nightlife sound systems.",
+  "popularGenres": [
+    "Pattaya EDM-Trap",
+    "Walking Street Banger",
+    "Chonburi Club Hits"
+  ],
+  "subClusters": []
+},
+  "th/khon-kaen-mor-din-daeng": {
+  "slug": "th/khon-kaen-mor-din-daeng",
+  "name": "Thailand – Khon Kaen: Mor Din Daeng & Kaen Nakhon (Isan University & Music Heartland, Fast Phin-Khaen Molam-Trap & Bouncing 808s)",
+  "flag": "🇹🇭",
+  "currency": "THB (฿) / USD ($)",
+  "currencyCode": "THB",
+  "gateways": "PromptPay (Scan QR All Thai Banks), TrueMoney Wallet, K PLUS (Kasikornbank), SCB Easy, Credit/Debit Cards, Apple Pay, PayPal, Stripe",
+  "pro": "MCT / DIP",
+  "proFullName": "MCT (Music Copyright Thailand) / DIP",
+  "proGuide": "Studio-grade master files normalized to streaming loudness standards (-14 LUFS) for immediate release.",
+  "headline": "Beats in Khon Kaen: Heart of Isan, Electrified Phin Lute & High-Speed Molam-Trap",
+  "description": "The vibrant university and cultural capital of northeastern Thailand: rapid electrified Phin lute riffs, syncopated Khaen bamboo pipes, and bouncy 808 sub drops for viral Isan rappers.",
+  "popularGenres": [
+    "Isan Molam-Trap",
+    "Khon Kaen Phin 808",
+    "Northeast Thai Folk Rap"
+  ],
+  "subClusters": []
+},
+  "th/korat-suranaree-city": {
+  "slug": "th/korat-suranaree-city",
+  "name": "Thailand – Nakhon Ratchasima: Korat City, Suranaree & Pak Chong (Gateway to Isan, Heavy Street Rap, Raw Minor Bells & Korat Drill)",
+  "flag": "🇹🇭",
+  "currency": "THB (฿) / USD ($)",
+  "currencyCode": "THB",
+  "gateways": "PromptPay (Scan QR All Thai Banks), TrueMoney Wallet, K PLUS (Kasikornbank), SCB Easy, Credit/Debit Cards, Apple Pay, PayPal, Stripe",
+  "pro": "MCT / DIP",
+  "proFullName": "MCT (Music Copyright Thailand) / DIP",
+  "proGuide": "Non-exclusive and exclusive licensing options with full stems for club performance and video sync.",
+  "headline": "Beats in Korat: Gateway to Isan, Thao Suranari Pride, Raw Street Bells & Hardcore Drill",
+  "description": "The proud, gritty industrial gateway to the northeast: cold minor bell melodies, multi-octave sliding 808s, and hard-knocking snares matching the intensity of Korat street MCs.",
+  "popularGenres": [
+    "Korat Street Drill",
+    "Gateway Isan Trap",
+    "Nakhon Ratchasima 808"
+  ],
+  "subClusters": []
+},
+  "th/hat-yai-lee-gardens-songkhla": {
+  "slug": "th/hat-yai-lee-gardens-songkhla",
+  "name": "Thailand – Songkhla: Hat Yai, Lee Gardens & Kim Yong (Southern Commercial Trading Hub, Deep Southern Thai Flow & Bilingual Trap)",
+  "flag": "🇹🇭",
+  "currency": "THB (฿) / USD ($)",
+  "currencyCode": "THB",
+  "gateways": "PromptPay (Scan QR All Thai Banks), TrueMoney Wallet, K PLUS (Kasikornbank), SCB Easy, Credit/Debit Cards, Apple Pay, PayPal, Stripe",
+  "pro": "MCT / DIP",
+  "proFullName": "MCT (Music Copyright Thailand) / DIP",
+  "proGuide": "Signed digital contract and split sheet PDF for independent Thai music producers and recording artists.",
+  "headline": "Beats in Hat Yai: Southern Commercial Pulse, Manora Percussion & Deep Southern Thai Trap",
+  "description": "The buzzing southern commercial metropolis: driving rhythmic percussion, traditional southern Thai brass accents, and booming 808s designed for southern Thai and bilingual performers.",
+  "popularGenres": [
+    "Hat Yai Southern Trap",
+    "Songkhla Street Rap",
+    "Deep South Thai 808"
+  ],
+  "subClusters": []
+},
+  "th/udon-thani-nong-prajak": {
+  "slug": "th/udon-thani-nong-prajak",
+  "name": "Thailand – Udon Thani: Nong Prajak & UD Town (Upper Northeast Commercial Center, Mekong River Trap & Lao-Isan Fusion)",
+  "flag": "🇹🇭",
+  "currency": "THB (฿) / USD ($)",
+  "currencyCode": "THB",
+  "gateways": "PromptPay (Scan QR All Thai Banks), TrueMoney Wallet, K PLUS (Kasikornbank), SCB Easy, Credit/Debit Cards, Apple Pay, PayPal, Stripe",
+  "pro": "MCT / DIP",
+  "proFullName": "MCT (Music Copyright Thailand) / DIP",
+  "proGuide": "100% legal protection and commercial rights for YouTube, Spotify, and TikTok monetization.",
+  "headline": "Beats in Udon Thani: Nong Prajak Breezes, Mekong River Heritage & Bouncing Lao-Isan Trap",
+  "description": "The thriving cultural and trade center of the upper northeast: joyful acoustic folk instruments, syncopated drum rolls, and bouncy modern 808s tailored for artists across Udon Thani.",
+  "popularGenres": [
+    "Udon Thani Isan Trap",
+    "Mekong River Bounce",
+    "Upper Northeast Urban"
+  ],
+  "subClusters": []
+},
 };

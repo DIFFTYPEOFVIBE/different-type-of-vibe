@@ -153061,4 +153061,1103 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
   "market": "Vietnam",
   "sceneHub": "Cần Thơ (Ninh Kiều)"
 },
+  {
+  "slug": "youngohm-thatthong-sound-bangkok-trap",
+  "title": "Youngohm Thatthong Sound Bangkok Melodic Autotune & Funky Club Trap Beat",
+  "description": "Signature modern Bangkok sound inspired by Youngohm (Thatthong Sound, Chopper, Doo White, ธารารัตน์, มาเฟียสเปน): autotune melodic bounce, funky percussion, catchy Thai street slang, and viral club anthem hooks.",
+  "targetKeywords": [
+    "youngohm type beat",
+    "thatthong sound beat wav",
+    "youngohm chopper beat",
+    "bangkok melodic trap beat",
+    "thai trap instrumental download"
+  ],
+  "heroCta": "Buy Youngohm Style Beat (Instant WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "Viral Bangkok Club Anthem, TikTok Dance Trend and Chart-Topping Lead Single",
+  "similarArtists": [
+    "Youngohm",
+    "FIIXD",
+    "1MILL",
+    "DIAMOND MQT"
+  ],
+  "recommendedBpm": "100-106 BPM",
+  "productionTips": "Warm funky synth basslines layered over crisp syncopated percussion, leaving plenty of space for catchy melodic autotune delivery.",
+  "idealVocalStyle": "Laid-back charismatic cadence, singalong autotune refrains, clever Thai wordplay, and confident swagger.",
+  "suggestedKey": "E Minor / A Minor",
+  "streamingSuitability": "Dominates Spotify Top 50 Thailand, YouTube Music Thailand, and viral short-form dance trends."
+},
+  {
+  "slug": "f-hero-mirror-mirror-heavy-asian-trap",
+  "title": "F.HERO Mirror Mirror Heavy Orchestral Brass & Authoritative Asian Trap Beat",
+  "description": "Thunderous, authoritative Asian hip-hop heavyweight inspired by F.HERO (Mirror Mirror, Sad Movie, Strike, Do You): booming distorted 808 sub drops, triumphant brass fanfares, and commanding baritone rhythm pocket.",
+  "targetKeywords": [
+    "f hero type beat",
+    "mirror mirror beat wav",
+    "heavy asian trap beat 808",
+    "f hero instrumental",
+    "thai hip hop heavyweight beat"
+  ],
+  "heroCta": "Buy F.HERO Style Beat (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Aggressive International Cypher, Epic Stage Showcase and High-Impact Martial Arts Visualizer",
+  "similarArtists": [
+    "F.HERO",
+    "Changbin (Stray Kids)",
+    "MILLI",
+    "Twopee Southside"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "productionTips": "Massive brass horn section layered with aggressive 808 sub-bass distortion and sharp, cutting acoustic snares.",
+  "idealVocalStyle": "Deep authoritative baritone delivery, thunderous presence, bilingual Thai/English flows, and fierce conviction.",
+  "suggestedKey": "D Minor / G Minor",
+  "streamingSuitability": "Engineered for international pan-Asian crossover playlists, festival main stages, and workout tracks."
+},
+  {
+  "slug": "milli-yupp-mirror-sassy-queen-flow",
+  "title": "MILLI YUPP! Mirror Multilingual Fast Flow & Sassy Baddie Trap Beat",
+  "description": "Fierce, high-energy Thai rap queen energy inspired by MILLI (Mirror Mirror, YUPP!, Sad Aerobic, Mango Sticky Rice, สุดปัง): rapid-fire multilingual wordplay, quirky vocal switches, bouncy 808s, and viral global stage charisma.",
+  "targetKeywords": [
+    "milli type beat",
+    "milli yupp beat wav",
+    "thai female rap beat",
+    "mango sticky rice type beat",
+    "sassy asian baddie trap beat"
+  ],
+  "heroCta": "Buy MILLI Style Beat (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Viral Global Banger, Coachella-Tier Stage Performance and Female Empowerment Track",
+  "similarArtists": [
+    "MILLI",
+    "BIBI",
+    "CL",
+    "Cardi B"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "productionTips": "Overdriven syncopated 808 kicks with micro-pitched vocal chops, bright synth stabs, and dynamic breakdown switches.",
+  "idealVocalStyle": "Lightning-fast multilingual delivery (Thai, English, Isan), theatrical cadence shifts, and playful baddie swagger.",
+  "suggestedKey": "C Minor / F Minor",
+  "streamingSuitability": "Top viral contender on global TikTok trends, Spotify K-Pop/Asian Hip-Hop, and international festival playlists."
+},
+  {
+  "slug": "1mill-only1-hardcore-sliding-drill",
+  "title": "1MILL Only1 Hardcore Sliding 808s & Bangkok Street Drill Beat",
+  "description": "Relentless, dark Bangkok street drill inspired by 1MILL (Only1, Pain, BADASS, 21, Can't Stop): icy minor bell arpeggios, aggressive multi-octave 808 glides, and cold street trap cadence.",
+  "targetKeywords": [
+    "1mill type beat",
+    "only1 1mill beat wav",
+    "bangkok street drill beat 808",
+    "thai drill instrumental",
+    "1mill trap beat download"
+  ],
+  "heroCta": "Buy 1MILL Style Beat (Instant WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hardcore Street Record, Gritty Music Video and Heavy Gym Workout Track",
+  "similarArtists": [
+    "1MILL",
+    "FIIXD",
+    "Central Cee",
+    "Pop Smoke"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Menacing dark bell ostinatos drenched in hall reverb paired with multi-octave sliding 808s and sharp counter snares.",
+  "idealVocalStyle": "Cold street confidence, rapid triplet drill cadences, authentic Thai slang, and dark atmospheric ad-libs.",
+  "suggestedKey": "C# Minor / G# Minor",
+  "streamingSuitability": "Dominates Spotify Hip-Hop Thailand, underground YouTube cyphers, and car audio systems."
+},
+  {
+  "slug": "saran-dont-cry-melodic-acoustic-rap",
+  "title": "SARAN Melodic Acoustic Nylon Guitar & Heartfelt Emotional Rap Beat",
+  "description": "Deeply emotional, heartfelt Thai melodic rap and acoustic chillhop inspired by SARAN (ลืมแทบไม่ไหว, อย่าร้อง, ใจพัง, รักแท้): gentle nylon guitars, warm 808s, and poignant romantic storytelling.",
+  "targetKeywords": [
+    "saran type beat",
+    "saran emotional rap beat wav",
+    "thai acoustic rap beat",
+    "saran instrumental guitar",
+    "heartfelt thai hip hop beat"
+  ],
+  "heroCta": "Buy SARAN Style Beat (WAV 24-bit)",
+  "energyLevel": "Medium",
+  "primaryUse": "Heartfelt Romance Single, Sad Boy OPM/Thai Visualizer and Emotional Acoustic Video",
+  "similarArtists": [
+    "SARAN",
+    "THE TOYS",
+    "UrboyTJ",
+    "OG-ANIC"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "productionTips": "Warm fingerpicked nylon acoustic guitars tracked with analog depth over clean modern trap drums and deep sub bass.",
+  "idealVocalStyle": "Passionate singing and rap delivery, emotional vulnerability, sincere Thai lyrics, and anthemic singalong choruses.",
+  "suggestedKey": "G Major / E Minor",
+  "streamingSuitability": "Top tier evergreen streams on Spotify Top 50 Thailand, เพลงฮิตติดกระแส, and sad acoustic curations."
+},
+  {
+  "slug": "urboytj-villain-funky-pop-urban-rnb",
+  "title": "UrboyTJ Villain Funky Slap Bass & Groovy Modern T-Pop R&B Beat",
+  "description": "Polished, radio-ready urban pop-rap and groovy modern R&B inspired by UrboyTJ (วายร้าย, แบกไม่ไหว, รังแค, กอดได้ไหม): vintage slap basslines, bright synthesizers, and unforgettable singalong hooks.",
+  "targetKeywords": [
+    "urboytj type beat",
+    "villain urboytj beat wav",
+    "funky t pop rnb beat",
+    "urboytj instrumental",
+    "groovy thai urban pop beat"
+  ],
+  "heroCta": "Buy UrboyTJ Style Beat (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Commercial Radio Pop Single, Dance Video and Feel-Good Summer Playlist Lead",
+  "similarArtists": [
+    "UrboyTJ",
+    "D GERRARD",
+    "Twopee Southside",
+    "GAVIN.D"
+  ],
+  "recommendedBpm": "100-108 BPM",
+  "productionTips": "Funky analog slap bassline layered with clean Rhodes keys, vocoder harmonies, and a bouncy pop-trap drum groove.",
+  "idealVocalStyle": "Playful conversational rap cadence, silky smooth pop vocals, and clever commercial hook delivery.",
+  "suggestedKey": "A Minor / D Minor",
+  "streamingSuitability": "Heavy mainstream rotation across Thai radio stations, T-Pop Now, and commercial television placements."
+},
+  {
+  "slug": "molam-phin-khaen-isan-traditional-trap",
+  "title": "Molam Electrified Phin Lute & Bamboo Khaen Isan Bouncing 808 Trap Beat",
+  "description": "High-octane Thai cultural crossover: rapid electrified Phin three-string lute riffs, breathy bamboo Khaen mouth organ chords, and thunderous 808 sub drops for viral Thai dance challenges.",
+  "targetKeywords": [
+    "molam trap beat 808",
+    "phin isan trap beat wav",
+    "khaen molam instrumental",
+    "thai folk trap beat",
+    "morlam remix trap thailand"
+  ],
+  "heroCta": "Buy Molam-Trap Beat (Instant WAV)",
+  "energyLevel": "Maximum",
+  "primaryUse": "Viral TikTok Dance Challenge, Isan Festival Mainstage Anthem and High-Energy Club Remix",
+  "similarArtists": [
+    "The Paradise Bangkok Molam International Band",
+    "F.HERO (Molam)",
+    "Youngohm",
+    "Rasmee"
+  ],
+  "recommendedBpm": "116-124 BPM",
+  "productionTips": "Authentic electrified Phin lute riffs recorded with bright analog drive over bouncing syncopated 808 drops and shakers.",
+  "idealVocalStyle": "High-spirited Isan/Lao dialect delivery, fast rhythmic chanting, humorous country swagger, and crowd call-and-response.",
+  "suggestedKey": "A Minor / E Minor",
+  "streamingSuitability": "Massive viral dominance across TikTok Thailand, regional northeastern streaming, and festive concerts."
+},
+  {
+  "slug": "ranat-ek-thai-traditional-gong-trap",
+  "title": "Ranat Ek Wooden Xylophone & Khong Wong Sacred Thai 808 Trap Beat",
+  "description": "Sacred, awe-inspiring Thai classical crossover: resonant wooden Ranat Ek xylophone runs and Khong Wong bronze gongs fused with contemporary 808 trap drops and crisp modern claps.",
+  "targetKeywords": [
+    "ranat ek trap beat",
+    "thai classical hip hop beat wav",
+    "gong trap beat thailand",
+    "traditional thai 808 beat",
+    "ranat hip hop instrumental"
+  ],
+  "heroCta": "Buy Ranat-Trap Beat (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "National Cultural Showcase, Muay Thai Walkout Theme and Epic Historical Visualizer",
+  "similarArtists": [
+    "T-Rex Trap",
+    "Twopee Southside",
+    "Alffy Rev",
+    "DPR LIVE (Asian Fusion)"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "productionTips": "Acoustic Ranat Ek mallet runs layered over wide stereo gong accents and an immovable sub-bass 808 foundation.",
+  "idealVocalStyle": "Majestic poetic Thai delivery, historical pride, aggressive rap bars, and traditional vocal ornamentations.",
+  "suggestedKey": "Thai Heptatonic Tuning (Tuned to D Minor)",
+  "streamingSuitability": "Huge national pride appeal across YouTube Thailand, martial arts events, and cultural documentaries."
+},
+  {
+  "slug": "bangkok-chao-phraya-rainy-midnight-lofi",
+  "title": "Bangkok Chao Phraya Midnight Rain Warm Felt Rhodes & Riverside Lofi Beat",
+  "description": "Atmospheric, nostalgic tropical midnight rain overlooking Wat Arun and the Chao Phraya River: warm tape-saturated Rhodes electric keys, river ferry Foley, and unquantized dusty lofi boom bap drums.",
+  "targetKeywords": [
+    "bangkok lofi beat",
+    "chao phraya chillhop instrumental",
+    "rainy bangkok lofi beat wav",
+    "thai lofi study beat",
+    "lofi hip hop thailand"
+  ],
+  "heroCta": "Buy Bangkok Lofi Beat (Instant WAV)",
+  "energyLevel": "Low-Medium",
+  "primaryUse": "Late-Night Commute Soundtrack, Study and Focus Background and Aesthetic Bangkok Visualizer",
+  "similarArtists": [
+    "Phum Viphurit (Chill)",
+    "THE TOYS (Lofi)",
+    "ChilledCow",
+    "Tom Misch"
+  ],
+  "recommendedBpm": "80-85 BPM",
+  "productionTips": "Analog tape flutter on vintage electric piano chords with authentic Bangkok rainfall Foley and soft acoustic kicks.",
+  "idealVocalStyle": "Intimate poetic whisper, gentle spoken word, melodic Thai hums, and late-night nostalgic observations.",
+  "suggestedKey": "Eb Major / C Minor",
+  "streamingSuitability": "Evergreen placement on lofi study playlists, nocturnal chill streams, and aesthetic travel YouTube channels."
+},
+  {
+  "slug": "chiang-mai-misty-doi-suthep-acoustic-cloud",
+  "title": "Chiang Mai Doi Suthep Mountain Mist Nylon Guitar & Lanna Cloud Trap Beat",
+  "description": "Cool mountain breeze overlooking Chiang Mai from Doi Suthep: delicate fingerpicked nylon guitars, shoegaze plate reverb tails, and warm, gentle 808 sub-bass for introspective Lanna rap.",
+  "targetKeywords": [
+    "chiang mai cloud trap beat",
+    "doi suthep acoustic rap beat",
+    "lanna chillhop beat wav",
+    "northern thai indie rap beat",
+    "chiang mai misty lofi"
+  ],
+  "heroCta": "Buy Chiang Mai Cloud Trap Beat (Instant WAV)",
+  "energyLevel": "Medium",
+  "primaryUse": "Introspective Music Video, Moody Mountain Visualizer and Melancholic Storytelling Single",
+  "similarArtists": [
+    "Phum Viphurit",
+    "YENTED",
+    "Anatomy Rabbit",
+    "Safeplanet"
+  ],
+  "recommendedBpm": "115-122 BPM",
+  "productionTips": "Warm acoustic nylon guitar picking layered with wide stereo plate reverb and a deep, rounded sub bass.",
+  "idealVocalStyle": "Vulnerable emotive singing, heartfelt Northern Thai/English poetic lyrics, and dreamy nostalgic hooks.",
+  "suggestedKey": "G Major / E Minor",
+  "streamingSuitability": "High engagement across Indie Thailand, เพลงอินดี้ฟังชิล, and rainy day curations."
+},
+  {
+  "slug": "phuket-andaman-sunset-tropical-afro-trap",
+  "title": "Phuket Promthep Cape Sunset Tropical Marimba & Andaman Afro-Trap Beat",
+  "description": "Sun-drenched, international island lifestyle inspired by Phuket's Promthep Cape sunsets: sunny marimba plucks, tropical afrobeat shaker grooves, and breezy trap rhythm for beachfront dayclubs.",
+  "targetKeywords": [
+    "phuket sunset afro trap beat",
+    "andaman tropical beat wav",
+    "phuket beach club instrumental",
+    "island afrobeat trap thailand",
+    "promthep cape beat"
+  ],
+  "heroCta": "Buy Phuket Afro-Trap Beat (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Beach Club Sunset Anthem, Summer Travel Vlog Soundtrack and Vibrant Tropical Single",
+  "similarArtists": [
+    "Twopee Southside (Beach)",
+    "Daboyway",
+    "Burna Boy",
+    "Rema"
+  ],
+  "recommendedBpm": "100-106 BPM",
+  "productionTips": "Bright marimba melodies layered with shaker grooves, warm conga drums, and round 808 sub drops.",
+  "idealVocalStyle": "Smooth melodic singing, English and Thai bilingual lyrics, and cheerful summer party hooks.",
+  "suggestedKey": "A Major / F# Minor",
+  "streamingSuitability": "Dominates Phuket dayclub playlists, travel vlog content, and international Summer Chill curations."
+},
+  {
+  "slug": "southern-manora-sacred-percussion-drill",
+  "title": "Southern Thai Manora Sacred Pi Percussion & Subterranean 808 Drill Beat",
+  "description": "Southern Thai Manora dance heritage: piercing Pi Pi-chanai oboe runs, swinging Krap wooden clappers, and subterranean sliding 808 glides engineered for fierce Southern Thai street lyricists.",
+  "targetKeywords": [
+    "southern thai drill beat 808",
+    "manora trap beat wav",
+    "songkhla street drill beat",
+    "hat yai drill instrumental",
+    "manora hip hop beat"
+  ],
+  "heroCta": "Buy Southern Manora Drill Beat (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hardcore Street Record, Gritty Music Video and Southern Cypher Anthem",
+  "similarArtists": [
+    "Twopee Southside",
+    "Southside Phuket",
+    "Central Cee",
+    "F.HERO"
+  ],
+  "recommendedBpm": "142-145 BPM",
+  "productionTips": "Piercing traditional southern Thai double-reed oboe riffs layered with multi-octave 808 slides and sharp snares.",
+  "idealVocalStyle": "Fast-paced Southern Thai dialect, authoritative baritone delivery, aggressive street pride, and raw conviction.",
+  "suggestedKey": "F# Minor / C# Minor",
+  "streamingSuitability": "High engagement on Southern Thai rap circuits, YouTube street cyphers, and underground urban platforms."
+},
+  {
+  "slug": "cheap-thai-trap-beats-promptpay-thb",
+  "title": "Cheap Thai Trap & Hip-Hop Beats from ฿650 THB (Instant Scan via PromptPay & TrueMoney)",
+  "description": "Professional Thai trap, T-Pop R&B, and Molam fusion instrumentals starting from ฿650 THB (~$19 USD) with instant QR code payment via PromptPay (all Thai banks) and TrueMoney Wallet.",
+  "targetKeywords": [
+    "cheap thai trap beats promptpay thb",
+    "buy beats thailand promptpay",
+    "affordable thai rap beats thb",
+    "beat rap thai scan promptpay"
+  ],
+  "heroCta": "Browse Beats from ฿650 THB (PromptPay / TrueMoney)",
+  "energyLevel": "Variable",
+  "primaryUse": "Debut Singles, Home Studio Recording and Independent Mixtapes with Commercial License",
+  "similarArtists": [
+    "Independent Thai Rappers",
+    "Bangkok & Chiang Mai Content Creators"
+  ],
+  "recommendedBpm": "88-144 BPM",
+  "productionTips": "Pre-mixed and mastered with wide vocal headroom specifically optimized for tonal Thai language flow and autotune.",
+  "idealVocalStyle": "Versatile for melodic autotune singing, fast Isan deejaying, or smooth Thai R&B verses.",
+  "suggestedKey": "All Major and Minor Keys Available",
+  "streamingSuitability": "Commercial license covering up to 250,000 streams on Spotify, Apple Music, and YouTube."
+},
+  {
+  "slug": "commercial-thai-rnb-trap-beats-wav-stems",
+  "title": "Commercial Thai T-Pop R&B-Trap Beats with Multitrack WAV Stems",
+  "description": "Smooth Bangkok urban R&B and melodic trap instrumentals delivered with all uncompressed multitrack audio stems (WAV 24-bit) for professional studio mixing in Thonglor, Ekkamai, and Chiang Mai.",
+  "targetKeywords": [
+    "commercial thai rnb trap beats wav stems",
+    "t pop rnb instrumental multitrack stems",
+    "buy beats stems thailand wav",
+    "youngohm urboytj style stems beat"
+  ],
+  "heroCta": "Download Beats with Multitrack WAV Stems",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Professional Studio Tracking, EP/Album Recording and Commercial Radio Master",
+  "similarArtists": [
+    "UrboyTJ",
+    "THE TOYS",
+    "Youngohm",
+    "Twopee Southside"
+  ],
+  "recommendedBpm": "94-102 BPM",
+  "productionTips": "Individual 24-bit 48kHz WAV audio tracks labeled with exact tempo and key for instant Pro Tools, Logic Pro, and FL Studio import.",
+  "idealVocalStyle": "Silky smooth falsetto runs, soulful Thai love lyrics, and catchy commercial chorus hooks.",
+  "suggestedKey": "Ab Major / F Minor",
+  "streamingSuitability": "Radio-ready loudness standards suitable for mainstream Thai radio, Joox, and Spotify Top 50."
+},
+  {
+  "slug": "molam-trap-beats-phin-khaen-isan-wav",
+  "title": "Isan Molam-Trap Beats with Electrified Phin & Khaen (118 BPM Dance Challenge WAV)",
+  "description": "High-octane northeastern Thai Molam-trap fusion beats featuring authentic electrified Phin lute riffs, bamboo Khaen pipes, and heavy 808 sub drops for viral TikTok tracks and live concerts.",
+  "targetKeywords": [
+    "molam trap beats phin khaen isan wav",
+    "isan molam trap beat download",
+    "phin trap beat thailand 808",
+    "morlam remix trap beat promptpay"
+  ],
+  "heroCta": "Download Molam-Trap Beats (Instant WAV)",
+  "energyLevel": "Maximum",
+  "primaryUse": "Viral Dance Challenge, Regional Concert Anthem and High-Energy Nightclub Remix",
+  "similarArtists": [
+    "The Paradise Bangkok Molam",
+    "F.HERO",
+    "Youngohm",
+    "Rasmee"
+  ],
+  "recommendedBpm": "116-122 BPM",
+  "productionTips": "Electrified Phin riffs recorded with warm analog overdrive over syncopated hi-hats and booming 808 drops.",
+  "idealVocalStyle": "High-spirited Isan/Thai party singing, humorous country swagger, rapid rhymes, and crowd chants.",
+  "suggestedKey": "A Minor / E Minor",
+  "streamingSuitability": "Top viral contender on TikTok Thailand, YouTube music charts, and northeastern festive concerts."
+},
+  {
+  "slug": "mct-music-licensing-agreement-pdf-thailand",
+  "title": "Thai Music Producer Licensing Agreement (Compliant with MCT & Copyright Act B.E. 2537)",
+  "description": "Legally binding Thai music production contract 100% compliant with Music Copyright Thailand (MCT), the Department of Intellectual Property (DIP), and the Thai Copyright Act with instant signed PDF and split sheet.",
+  "targetKeywords": [
+    "mct music licensing agreement pdf thailand",
+    "beat contract thailand mct",
+    "thai music producer agreement pdf",
+    "beat licensing split sheet thailand"
+  ],
+  "heroCta": "Buy Beat with MCT Legal PDF Contract",
+  "energyLevel": "Professional",
+  "primaryUse": "Legal Song Registration with MCT/DIP, Commercial DSP Distribution and TV/Film Sync",
+  "similarArtists": [
+    "Independent Thai Songwriters, Rappers and Music Producers"
+  ],
+  "recommendedBpm": "Applicable across all tempos",
+  "productionTips": "Transparent clauses: standard 50/50 publishing split and 100% master revenue retention up to the commercial streaming limit.",
+  "idealVocalStyle": "Essential for any Thai recording artist seeking commercial airplay, streaming monetisation, and royalty collection.",
+  "suggestedKey": "Universal Legal Standard",
+  "streamingSuitability": "Guaranteed clearance for commercial Spotify uploads, sync licensing, and radio broadcast royalties."
+},
+  {
+  "slug": "buy-beats-promptpay-truemoney-thailand-instant",
+  "title": "Buy Beats with PromptPay & TrueMoney in Thailand (Instant Automated Digital Download in THB ฿)",
+  "description": "The fastest, most seamless way for Thai artists to buy beats: scan and pay using PromptPay QR (any Thai bank) or TrueMoney Wallet and receive an automated instant email download link for WAV files and license.",
+  "targetKeywords": [
+    "buy beats promptpay truemoney thailand instant",
+    "promptpay beat store thailand",
+    "buy instrumental using promptpay thb",
+    "instant beat download thailand truemoney"
+  ],
+  "heroCta": "Buy Beats with PromptPay / TrueMoney Now",
+  "energyLevel": "Instant",
+  "primaryUse": "Immediate Beat Purchase for Urgent Bangkok, Chiang Mai, and Khon Kaen Studio Sessions",
+  "similarArtists": [
+    "Thai Creators across Bangkok, Chiang Mai, Phuket, and Isan"
+  ],
+  "recommendedBpm": "80-150 BPM",
+  "productionTips": "Instant automated digital delivery via high-speed cloud download servers.",
+  "idealVocalStyle": "Compatible with all urban music genres in Thai, Isan, and English.",
+  "suggestedKey": "All Tonalities",
+  "streamingSuitability": "Includes commercial license ready for instant worldwide distribution."
+},
+  {
+  "slug": "album-ep-beat-packages-thailand-discount",
+  "title": "Album & EP Beat Packages in Thailand (40% Off Bundle Discount in THB ฿)",
+  "description": "Save 40% when purchasing bundles of 5 to 10 sonically cohesive instrumentals to produce your next EP, mixtape, or full-length album in Thailand with a unified commercial license in Thai Baht (฿).",
+  "targetKeywords": [
+    "album ep beat packages thailand discount",
+    "thai rap beat bundle discount promptpay",
+    "buy bulk beats bangkok thb",
+    "5 beat package album discount thailand"
+  ],
+  "heroCta": "Get Album Beat Package (40% Off)",
+  "energyLevel": "Variable",
+  "primaryUse": "Full Album Production, Cohesive Sonic Identity and Continuous Release Strategy",
+  "similarArtists": [
+    "Emerging Thai Hip-Hop Groups, Collectives and Solo MCs"
+  ],
+  "recommendedBpm": "85-144 BPM",
+  "productionTips": "Coordinated tempos and harmonic textures designed to deliver an uninterrupted album listening experience.",
+  "idealVocalStyle": "Room to showcase an artist's full melodic and lyrical range across multiple tracks.",
+  "suggestedKey": "Full Harmonic Spectrum",
+  "streamingSuitability": "Unified commercial license covering all tracks on your EP or album at once."
+},
+  {
+  "slug": "productor-musical-thailand-whatsapp-onzieb",
+  "title": "Exclusive Music Producer for Thai Artists (Direct WhatsApp Consultation with Onzieb)",
+  "description": "Collaborate directly with music producer Onzieb via WhatsApp for custom instrumentals: key changes, custom song structure adjustments, multi-track mixing, and bespoke Thai trap, T-Pop R&B, and Molam fusion production.",
+  "targetKeywords": [
+    "productor musical thailand whatsapp onzieb",
+    "onzieb music producer bangkok",
+    "custom beat producer thailand whatsapp",
+    "hire beatmaker bangkok online"
+  ],
+  "heroCta": "Chat with Onzieb on WhatsApp",
+  "energyLevel": "Custom",
+  "primaryUse": "Bespoke Production, Signature Sound Creation and Commercial Lead Singles",
+  "similarArtists": [
+    "Onzieb",
+    "Top Tier Thai and Asian Music Producers"
+  ],
+  "recommendedBpm": "Custom tailored to the artist's vocal cadence and natural pocket",
+  "productionTips": "Rapid iteration via WhatsApp voice notes and high-speed stem exchanges for real-time arrangement adjustments.",
+  "idealVocalStyle": "Engineered specifically to elevate the vocalist's unique tone, timbre, and personality.",
+  "suggestedKey": "Custom Tailored Key",
+  "streamingSuitability": "Includes exclusive buyout options with 100% master rights and unrestricted commercial monetization."
+},
+  {
+  "slug": "thai-drill-beats-sliding-808s-1mill",
+  "title": "Thai Drill Beats with Aggressive Sliding 808s (1MILL & Bangkok Street Style)",
+  "description": "Gritty Bangkok street drill instrumentals featuring aggressive multi-octave sliding 808s, cold minor bells, and rapid counter-snare rolls for authoritative Thai battle rappers and street lyricists.",
+  "targetKeywords": [
+    "thai drill beats sliding 808s 1mill",
+    "bangkok street drill instrumental",
+    "thai drill type beat 2024",
+    "1mill style drill beat wav"
+  ],
+  "heroCta": "Explore Thai Street Drill Beats",
+  "energyLevel": "Very High",
+  "primaryUse": "Raw Street Single, Underground Cypher and Heavy Gym Workout Track",
+  "similarArtists": [
+    "1MILL",
+    "FIIXD",
+    "Central Cee",
+    "Pop Smoke"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Menacing minor keys, multi-octave 808 portamento glides, and piercing snares tuned for street impact.",
+  "idealVocalStyle": "Cold street confidence, rapid triplet drill cadences, authentic Thai slang, and dark atmospheric ad-libs.",
+  "suggestedKey": "C# Minor / G# Minor",
+  "streamingSuitability": "Dominates underground YouTube drill channels, SoundCloud Thailand, and urban street playlists."
+},
+  {
+  "slug": "acoustic-guitar-thai-rap-beats-saran-wav",
+  "title": "Heartfelt Thai Acoustic Guitar Rap Beats (SARAN & Emotional Chillhop Style)",
+  "description": "Melancholic, emotionally resonant Thai acoustic rap beats featuring real fingerpicked nylon guitar chords and warm 808s for romantic storytelling and viral hit singles.",
+  "targetKeywords": [
+    "acoustic guitar thai rap beats saran wav",
+    "thai acoustic rap beat download",
+    "saran emotional type beat acoustic",
+    "heartfelt thai rap instrumental"
+  ],
+  "heroCta": "Discover Acoustic Thai Rap Beats",
+  "energyLevel": "Medium",
+  "primaryUse": "Viral Romance Single, Acoustic Radio Hit and Emotional Storytelling Track",
+  "similarArtists": [
+    "SARAN",
+    "THE TOYS",
+    "UrboyTJ",
+    "OG-ANIC"
+  ],
+  "recommendedBpm": "88-96 BPM",
+  "productionTips": "Real acoustic guitars captured with warm analog preamps, backed by tight, round sub-bass and intimate snares.",
+  "idealVocalStyle": "Passionate, vulnerable singing and rap delivery with heartfelt Thai emotional hooks.",
+  "suggestedKey": "G Major / E Minor",
+  "streamingSuitability": "Exceptional viral reach across TikTok Thailand, Spotify Top 50 Thailand, and เพลงฮิตติดกระแส."
+},
+  {
+  "slug": "free-thai-hip-hop-drum-kit-wav-download",
+  "title": "Free Thai Hip-Hop Drum Kit (24-Bit WAV Samples, 808s, Phin Lute & Drill Snares)",
+  "description": "Download our exclusive free sound pack for Thai music producers: 30 tuned 808 sub-basses, crisp drill snares, Phin lute plucks, and punchy kicks in studio-grade 24-bit WAV format.",
+  "targetKeywords": [
+    "free thai hip hop drum kit wav download",
+    "thai drum kit free download fl studio",
+    "phin samples free wav",
+    "thai rap sound pack 808 download"
+  ],
+  "heroCta": "Download Free Thai Drum Kit (ZIP)",
+  "energyLevel": "High",
+  "primaryUse": "Music Production in Home Studios, Beatmaking in FL Studio, Ableton Live and Logic Pro",
+  "similarArtists": [
+    "Independent Thai Beatmakers",
+    "Emerging Bedroom Producers in Bangkok and Chiang Mai"
+  ],
+  "recommendedBpm": "Compatible with all tempos from 80 to 160 BPM",
+  "productionTips": "One-shot samples processed with analog outboard gear and zero clipping, 100% royalty-free.",
+  "idealVocalStyle": "Rock-solid rhythmic foundation for crafting professional Thai hip-hop, R&B, and Molam trap instrumentals.",
+  "suggestedKey": "Tuned to C for immediate transposition in any sampler",
+  "streamingSuitability": "100% royalty-free for commercial music releases and beat sales worldwide."
+},
+  {
+  "slug": "bangkok-thonglor-t-pop-rnb-trap-slowjam",
+  "name": "Bangkok (Thonglor) T-Pop R&B-Trap Slow Jam Beats",
+  "badge": "T-Pop R&B",
+  "headline": "T-Pop R&B-Trap Slow Jam Beats in Bangkok (Thonglor): Sukhumvit & Luxury Nightlife R&B",
+  "description": "Warm Rhodes keys, atmospheric vocal pads and smooth sub-bass with instant checkout via PromptPay for singers in Bangkok (Thonglor).",
+  "targetKeywords": [
+    "t-pop r&b-trap slow jam beats bangkok (thonglor)",
+    "buy beats bangkok (thonglor) promptpay",
+    "thai t-pop r&b instrumental",
+    "beats in bangkok (thonglor) wav download"
+  ],
+  "heroCta": "Download Beats in Bangkok (Thonglor) (PromptPay / WAV)",
+  "recommendedBpm": "90-96 BPM",
+  "suggestedKey": "Ab-Major / F-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Thailand",
+  "sceneHub": "Bangkok (Thonglor)"
+},
+  {
+  "slug": "bangkok-thonglor-molam-phin-ethnic-trap-808",
+  "name": "Bangkok (Thonglor) Molam Phin Ethnic Trap 808 Beats",
+  "badge": "Molam Trap",
+  "headline": "Molam Phin Ethnic Trap 808 Beats in Bangkok (Thonglor): Sukhumvit & Luxury Nightlife R&B",
+  "description": "Electrified Phin lute riffs, bamboo Khaen pipes and bouncy 808s designed for viral performers in Bangkok (Thonglor).",
+  "targetKeywords": [
+    "molam phin ethnic trap 808 beats bangkok (thonglor)",
+    "buy beats bangkok (thonglor) promptpay",
+    "thai molam trap instrumental",
+    "beats in bangkok (thonglor) wav download"
+  ],
+  "heroCta": "Download Beats in Bangkok (Thonglor) (PromptPay / WAV)",
+  "recommendedBpm": "116-122 BPM",
+  "suggestedKey": "A-Minor / E-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Thailand",
+  "sceneHub": "Bangkok (Thonglor)"
+},
+  {
+  "slug": "bangkok-thonglor-thai-street-drill-808",
+  "name": "Bangkok (Thonglor) Thai Street Drill 808 Beats",
+  "badge": "Thai Drill",
+  "headline": "Thai Street Drill 808 Beats in Bangkok (Thonglor): Sukhumvit & Luxury Nightlife R&B",
+  "description": "Menacing minor bells, rapid drill hats and subterranean sliding 808 sub-bass designed for street MCs in Bangkok (Thonglor).",
+  "targetKeywords": [
+    "thai street drill 808 beats bangkok (thonglor)",
+    "buy beats bangkok (thonglor) promptpay",
+    "thai thai drill instrumental",
+    "beats in bangkok (thonglor) wav download"
+  ],
+  "heroCta": "Download Beats in Bangkok (Thonglor) (PromptPay / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "C#-Minor / G#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Thailand",
+  "sceneHub": "Bangkok (Thonglor)"
+},
+  {
+  "slug": "bangkok-thonglor-acoustic-thai-chillhop",
+  "name": "Bangkok (Thonglor) Acoustic Thai Chillhop Beats",
+  "badge": "Acoustic Chillhop",
+  "headline": "Acoustic Thai Chillhop Beats in Bangkok (Thonglor): Sukhumvit & Luxury Nightlife R&B",
+  "description": "Warm nylon guitar picking, unquantized dusty boom bap drums and emotional melodies for poetic artists in Bangkok (Thonglor).",
+  "targetKeywords": [
+    "acoustic thai chillhop beats bangkok (thonglor)",
+    "buy beats bangkok (thonglor) promptpay",
+    "thai acoustic chillhop instrumental",
+    "beats in bangkok (thonglor) wav download"
+  ],
+  "heroCta": "Download Beats in Bangkok (Thonglor) (PromptPay / WAV)",
+  "recommendedBpm": "80-86 BPM",
+  "suggestedKey": "G-Major / E-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Thailand",
+  "sceneHub": "Bangkok (Thonglor)"
+},
+  {
+  "slug": "bangkok-ratchada-t-pop-rnb-trap-slowjam",
+  "name": "Bangkok (Ratchada) T-Pop R&B-Trap Slow Jam Beats",
+  "badge": "T-Pop R&B",
+  "headline": "T-Pop R&B-Trap Slow Jam Beats in Bangkok (Ratchada): Ratchada & High-Energy Nightclub Trap",
+  "description": "Warm Rhodes keys, atmospheric vocal pads and smooth sub-bass with instant checkout via PromptPay for singers in Bangkok (Ratchada).",
+  "targetKeywords": [
+    "t-pop r&b-trap slow jam beats bangkok (ratchada)",
+    "buy beats bangkok (ratchada) promptpay",
+    "thai t-pop r&b instrumental",
+    "beats in bangkok (ratchada) wav download"
+  ],
+  "heroCta": "Download Beats in Bangkok (Ratchada) (PromptPay / WAV)",
+  "recommendedBpm": "90-96 BPM",
+  "suggestedKey": "Ab-Major / F-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Thailand",
+  "sceneHub": "Bangkok (Ratchada)"
+},
+  {
+  "slug": "bangkok-ratchada-molam-phin-ethnic-trap-808",
+  "name": "Bangkok (Ratchada) Molam Phin Ethnic Trap 808 Beats",
+  "badge": "Molam Trap",
+  "headline": "Molam Phin Ethnic Trap 808 Beats in Bangkok (Ratchada): Ratchada & High-Energy Nightclub Trap",
+  "description": "Electrified Phin lute riffs, bamboo Khaen pipes and bouncy 808s designed for viral performers in Bangkok (Ratchada).",
+  "targetKeywords": [
+    "molam phin ethnic trap 808 beats bangkok (ratchada)",
+    "buy beats bangkok (ratchada) promptpay",
+    "thai molam trap instrumental",
+    "beats in bangkok (ratchada) wav download"
+  ],
+  "heroCta": "Download Beats in Bangkok (Ratchada) (PromptPay / WAV)",
+  "recommendedBpm": "116-122 BPM",
+  "suggestedKey": "A-Minor / E-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Thailand",
+  "sceneHub": "Bangkok (Ratchada)"
+},
+  {
+  "slug": "bangkok-ratchada-thai-street-drill-808",
+  "name": "Bangkok (Ratchada) Thai Street Drill 808 Beats",
+  "badge": "Thai Drill",
+  "headline": "Thai Street Drill 808 Beats in Bangkok (Ratchada): Ratchada & High-Energy Nightclub Trap",
+  "description": "Menacing minor bells, rapid drill hats and subterranean sliding 808 sub-bass designed for street MCs in Bangkok (Ratchada).",
+  "targetKeywords": [
+    "thai street drill 808 beats bangkok (ratchada)",
+    "buy beats bangkok (ratchada) promptpay",
+    "thai thai drill instrumental",
+    "beats in bangkok (ratchada) wav download"
+  ],
+  "heroCta": "Download Beats in Bangkok (Ratchada) (PromptPay / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "C#-Minor / G#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Thailand",
+  "sceneHub": "Bangkok (Ratchada)"
+},
+  {
+  "slug": "bangkok-ratchada-acoustic-thai-chillhop",
+  "name": "Bangkok (Ratchada) Acoustic Thai Chillhop Beats",
+  "badge": "Acoustic Chillhop",
+  "headline": "Acoustic Thai Chillhop Beats in Bangkok (Ratchada): Ratchada & High-Energy Nightclub Trap",
+  "description": "Warm nylon guitar picking, unquantized dusty boom bap drums and emotional melodies for poetic artists in Bangkok (Ratchada).",
+  "targetKeywords": [
+    "acoustic thai chillhop beats bangkok (ratchada)",
+    "buy beats bangkok (ratchada) promptpay",
+    "thai acoustic chillhop instrumental",
+    "beats in bangkok (ratchada) wav download"
+  ],
+  "heroCta": "Download Beats in Bangkok (Ratchada) (PromptPay / WAV)",
+  "recommendedBpm": "80-86 BPM",
+  "suggestedKey": "G-Major / E-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Thailand",
+  "sceneHub": "Bangkok (Ratchada)"
+},
+  {
+  "slug": "chiang-mai-nimman-t-pop-rnb-trap-slowjam",
+  "name": "Chiang Mai (Nimman) T-Pop R&B-Trap Slow Jam Beats",
+  "badge": "T-Pop R&B",
+  "headline": "T-Pop R&B-Trap Slow Jam Beats in Chiang Mai (Nimman): Nimman & Lanna Acoustic Cloud Trap",
+  "description": "Warm Rhodes keys, atmospheric vocal pads and smooth sub-bass with instant checkout via PromptPay for singers in Chiang Mai (Nimman).",
+  "targetKeywords": [
+    "t-pop r&b-trap slow jam beats chiang mai (nimman)",
+    "buy beats chiang mai (nimman) promptpay",
+    "thai t-pop r&b instrumental",
+    "beats in chiang mai (nimman) wav download"
+  ],
+  "heroCta": "Download Beats in Chiang Mai (Nimman) (PromptPay / WAV)",
+  "recommendedBpm": "90-96 BPM",
+  "suggestedKey": "Ab-Major / F-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Thailand",
+  "sceneHub": "Chiang Mai (Nimman)"
+},
+  {
+  "slug": "chiang-mai-nimman-molam-phin-ethnic-trap-808",
+  "name": "Chiang Mai (Nimman) Molam Phin Ethnic Trap 808 Beats",
+  "badge": "Molam Trap",
+  "headline": "Molam Phin Ethnic Trap 808 Beats in Chiang Mai (Nimman): Nimman & Lanna Acoustic Cloud Trap",
+  "description": "Electrified Phin lute riffs, bamboo Khaen pipes and bouncy 808s designed for viral performers in Chiang Mai (Nimman).",
+  "targetKeywords": [
+    "molam phin ethnic trap 808 beats chiang mai (nimman)",
+    "buy beats chiang mai (nimman) promptpay",
+    "thai molam trap instrumental",
+    "beats in chiang mai (nimman) wav download"
+  ],
+  "heroCta": "Download Beats in Chiang Mai (Nimman) (PromptPay / WAV)",
+  "recommendedBpm": "116-122 BPM",
+  "suggestedKey": "A-Minor / E-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Thailand",
+  "sceneHub": "Chiang Mai (Nimman)"
+},
+  {
+  "slug": "chiang-mai-nimman-thai-street-drill-808",
+  "name": "Chiang Mai (Nimman) Thai Street Drill 808 Beats",
+  "badge": "Thai Drill",
+  "headline": "Thai Street Drill 808 Beats in Chiang Mai (Nimman): Nimman & Lanna Acoustic Cloud Trap",
+  "description": "Menacing minor bells, rapid drill hats and subterranean sliding 808 sub-bass designed for street MCs in Chiang Mai (Nimman).",
+  "targetKeywords": [
+    "thai street drill 808 beats chiang mai (nimman)",
+    "buy beats chiang mai (nimman) promptpay",
+    "thai thai drill instrumental",
+    "beats in chiang mai (nimman) wav download"
+  ],
+  "heroCta": "Download Beats in Chiang Mai (Nimman) (PromptPay / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "C#-Minor / G#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Thailand",
+  "sceneHub": "Chiang Mai (Nimman)"
+},
+  {
+  "slug": "chiang-mai-nimman-acoustic-thai-chillhop",
+  "name": "Chiang Mai (Nimman) Acoustic Thai Chillhop Beats",
+  "badge": "Acoustic Chillhop",
+  "headline": "Acoustic Thai Chillhop Beats in Chiang Mai (Nimman): Nimman & Lanna Acoustic Cloud Trap",
+  "description": "Warm nylon guitar picking, unquantized dusty boom bap drums and emotional melodies for poetic artists in Chiang Mai (Nimman).",
+  "targetKeywords": [
+    "acoustic thai chillhop beats chiang mai (nimman)",
+    "buy beats chiang mai (nimman) promptpay",
+    "thai acoustic chillhop instrumental",
+    "beats in chiang mai (nimman) wav download"
+  ],
+  "heroCta": "Download Beats in Chiang Mai (Nimman) (PromptPay / WAV)",
+  "recommendedBpm": "80-86 BPM",
+  "suggestedKey": "G-Major / E-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Thailand",
+  "sceneHub": "Chiang Mai (Nimman)"
+},
+  {
+  "slug": "phuket-patong-t-pop-rnb-trap-slowjam",
+  "name": "Phuket (Patong) T-Pop R&B-Trap Slow Jam Beats",
+  "badge": "T-Pop R&B",
+  "headline": "T-Pop R&B-Trap Slow Jam Beats in Phuket (Patong): Phuket & Tropical Sunset Afro-Trap",
+  "description": "Warm Rhodes keys, atmospheric vocal pads and smooth sub-bass with instant checkout via PromptPay for singers in Phuket (Patong).",
+  "targetKeywords": [
+    "t-pop r&b-trap slow jam beats phuket (patong)",
+    "buy beats phuket (patong) promptpay",
+    "thai t-pop r&b instrumental",
+    "beats in phuket (patong) wav download"
+  ],
+  "heroCta": "Download Beats in Phuket (Patong) (PromptPay / WAV)",
+  "recommendedBpm": "90-96 BPM",
+  "suggestedKey": "Ab-Major / F-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Thailand",
+  "sceneHub": "Phuket (Patong)"
+},
+  {
+  "slug": "phuket-patong-molam-phin-ethnic-trap-808",
+  "name": "Phuket (Patong) Molam Phin Ethnic Trap 808 Beats",
+  "badge": "Molam Trap",
+  "headline": "Molam Phin Ethnic Trap 808 Beats in Phuket (Patong): Phuket & Tropical Sunset Afro-Trap",
+  "description": "Electrified Phin lute riffs, bamboo Khaen pipes and bouncy 808s designed for viral performers in Phuket (Patong).",
+  "targetKeywords": [
+    "molam phin ethnic trap 808 beats phuket (patong)",
+    "buy beats phuket (patong) promptpay",
+    "thai molam trap instrumental",
+    "beats in phuket (patong) wav download"
+  ],
+  "heroCta": "Download Beats in Phuket (Patong) (PromptPay / WAV)",
+  "recommendedBpm": "116-122 BPM",
+  "suggestedKey": "A-Minor / E-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Thailand",
+  "sceneHub": "Phuket (Patong)"
+},
+  {
+  "slug": "phuket-patong-thai-street-drill-808",
+  "name": "Phuket (Patong) Thai Street Drill 808 Beats",
+  "badge": "Thai Drill",
+  "headline": "Thai Street Drill 808 Beats in Phuket (Patong): Phuket & Tropical Sunset Afro-Trap",
+  "description": "Menacing minor bells, rapid drill hats and subterranean sliding 808 sub-bass designed for street MCs in Phuket (Patong).",
+  "targetKeywords": [
+    "thai street drill 808 beats phuket (patong)",
+    "buy beats phuket (patong) promptpay",
+    "thai thai drill instrumental",
+    "beats in phuket (patong) wav download"
+  ],
+  "heroCta": "Download Beats in Phuket (Patong) (PromptPay / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "C#-Minor / G#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Thailand",
+  "sceneHub": "Phuket (Patong)"
+},
+  {
+  "slug": "phuket-patong-acoustic-thai-chillhop",
+  "name": "Phuket (Patong) Acoustic Thai Chillhop Beats",
+  "badge": "Acoustic Chillhop",
+  "headline": "Acoustic Thai Chillhop Beats in Phuket (Patong): Phuket & Tropical Sunset Afro-Trap",
+  "description": "Warm nylon guitar picking, unquantized dusty boom bap drums and emotional melodies for poetic artists in Phuket (Patong).",
+  "targetKeywords": [
+    "acoustic thai chillhop beats phuket (patong)",
+    "buy beats phuket (patong) promptpay",
+    "thai acoustic chillhop instrumental",
+    "beats in phuket (patong) wav download"
+  ],
+  "heroCta": "Download Beats in Phuket (Patong) (PromptPay / WAV)",
+  "recommendedBpm": "80-86 BPM",
+  "suggestedKey": "G-Major / E-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Thailand",
+  "sceneHub": "Phuket (Patong)"
+},
+  {
+  "slug": "khon-kaen-isan-t-pop-rnb-trap-slowjam",
+  "name": "Khon Kaen (Isan) T-Pop R&B-Trap Slow Jam Beats",
+  "badge": "T-Pop R&B",
+  "headline": "T-Pop R&B-Trap Slow Jam Beats in Khon Kaen (Isan): Khon Kaen & Molam-Trap Heartland",
+  "description": "Warm Rhodes keys, atmospheric vocal pads and smooth sub-bass with instant checkout via PromptPay for singers in Khon Kaen (Isan).",
+  "targetKeywords": [
+    "t-pop r&b-trap slow jam beats khon kaen (isan)",
+    "buy beats khon kaen (isan) promptpay",
+    "thai t-pop r&b instrumental",
+    "beats in khon kaen (isan) wav download"
+  ],
+  "heroCta": "Download Beats in Khon Kaen (Isan) (PromptPay / WAV)",
+  "recommendedBpm": "90-96 BPM",
+  "suggestedKey": "Ab-Major / F-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Thailand",
+  "sceneHub": "Khon Kaen (Isan)"
+},
+  {
+  "slug": "khon-kaen-isan-molam-phin-ethnic-trap-808",
+  "name": "Khon Kaen (Isan) Molam Phin Ethnic Trap 808 Beats",
+  "badge": "Molam Trap",
+  "headline": "Molam Phin Ethnic Trap 808 Beats in Khon Kaen (Isan): Khon Kaen & Molam-Trap Heartland",
+  "description": "Electrified Phin lute riffs, bamboo Khaen pipes and bouncy 808s designed for viral performers in Khon Kaen (Isan).",
+  "targetKeywords": [
+    "molam phin ethnic trap 808 beats khon kaen (isan)",
+    "buy beats khon kaen (isan) promptpay",
+    "thai molam trap instrumental",
+    "beats in khon kaen (isan) wav download"
+  ],
+  "heroCta": "Download Beats in Khon Kaen (Isan) (PromptPay / WAV)",
+  "recommendedBpm": "116-122 BPM",
+  "suggestedKey": "A-Minor / E-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Thailand",
+  "sceneHub": "Khon Kaen (Isan)"
+},
+  {
+  "slug": "khon-kaen-isan-thai-street-drill-808",
+  "name": "Khon Kaen (Isan) Thai Street Drill 808 Beats",
+  "badge": "Thai Drill",
+  "headline": "Thai Street Drill 808 Beats in Khon Kaen (Isan): Khon Kaen & Molam-Trap Heartland",
+  "description": "Menacing minor bells, rapid drill hats and subterranean sliding 808 sub-bass designed for street MCs in Khon Kaen (Isan).",
+  "targetKeywords": [
+    "thai street drill 808 beats khon kaen (isan)",
+    "buy beats khon kaen (isan) promptpay",
+    "thai thai drill instrumental",
+    "beats in khon kaen (isan) wav download"
+  ],
+  "heroCta": "Download Beats in Khon Kaen (Isan) (PromptPay / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "C#-Minor / G#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Thailand",
+  "sceneHub": "Khon Kaen (Isan)"
+},
+  {
+  "slug": "khon-kaen-isan-acoustic-thai-chillhop",
+  "name": "Khon Kaen (Isan) Acoustic Thai Chillhop Beats",
+  "badge": "Acoustic Chillhop",
+  "headline": "Acoustic Thai Chillhop Beats in Khon Kaen (Isan): Khon Kaen & Molam-Trap Heartland",
+  "description": "Warm nylon guitar picking, unquantized dusty boom bap drums and emotional melodies for poetic artists in Khon Kaen (Isan).",
+  "targetKeywords": [
+    "acoustic thai chillhop beats khon kaen (isan)",
+    "buy beats khon kaen (isan) promptpay",
+    "thai acoustic chillhop instrumental",
+    "beats in khon kaen (isan) wav download"
+  ],
+  "heroCta": "Download Beats in Khon Kaen (Isan) (PromptPay / WAV)",
+  "recommendedBpm": "80-86 BPM",
+  "suggestedKey": "G-Major / E-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Thailand",
+  "sceneHub": "Khon Kaen (Isan)"
+},
+  {
+  "slug": "pattaya-jomtien-t-pop-rnb-trap-slowjam",
+  "name": "Pattaya (Jomtien) T-Pop R&B-Trap Slow Jam Beats",
+  "badge": "T-Pop R&B",
+  "headline": "T-Pop R&B-Trap Slow Jam Beats in Pattaya (Jomtien): Eastern Seaboard & Fast Club Beats",
+  "description": "Warm Rhodes keys, atmospheric vocal pads and smooth sub-bass with instant checkout via PromptPay for singers in Pattaya (Jomtien).",
+  "targetKeywords": [
+    "t-pop r&b-trap slow jam beats pattaya (jomtien)",
+    "buy beats pattaya (jomtien) promptpay",
+    "thai t-pop r&b instrumental",
+    "beats in pattaya (jomtien) wav download"
+  ],
+  "heroCta": "Download Beats in Pattaya (Jomtien) (PromptPay / WAV)",
+  "recommendedBpm": "90-96 BPM",
+  "suggestedKey": "Ab-Major / F-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Thailand",
+  "sceneHub": "Pattaya (Jomtien)"
+},
+  {
+  "slug": "pattaya-jomtien-molam-phin-ethnic-trap-808",
+  "name": "Pattaya (Jomtien) Molam Phin Ethnic Trap 808 Beats",
+  "badge": "Molam Trap",
+  "headline": "Molam Phin Ethnic Trap 808 Beats in Pattaya (Jomtien): Eastern Seaboard & Fast Club Beats",
+  "description": "Electrified Phin lute riffs, bamboo Khaen pipes and bouncy 808s designed for viral performers in Pattaya (Jomtien).",
+  "targetKeywords": [
+    "molam phin ethnic trap 808 beats pattaya (jomtien)",
+    "buy beats pattaya (jomtien) promptpay",
+    "thai molam trap instrumental",
+    "beats in pattaya (jomtien) wav download"
+  ],
+  "heroCta": "Download Beats in Pattaya (Jomtien) (PromptPay / WAV)",
+  "recommendedBpm": "116-122 BPM",
+  "suggestedKey": "A-Minor / E-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Thailand",
+  "sceneHub": "Pattaya (Jomtien)"
+},
+  {
+  "slug": "pattaya-jomtien-thai-street-drill-808",
+  "name": "Pattaya (Jomtien) Thai Street Drill 808 Beats",
+  "badge": "Thai Drill",
+  "headline": "Thai Street Drill 808 Beats in Pattaya (Jomtien): Eastern Seaboard & Fast Club Beats",
+  "description": "Menacing minor bells, rapid drill hats and subterranean sliding 808 sub-bass designed for street MCs in Pattaya (Jomtien).",
+  "targetKeywords": [
+    "thai street drill 808 beats pattaya (jomtien)",
+    "buy beats pattaya (jomtien) promptpay",
+    "thai thai drill instrumental",
+    "beats in pattaya (jomtien) wav download"
+  ],
+  "heroCta": "Download Beats in Pattaya (Jomtien) (PromptPay / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "C#-Minor / G#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Thailand",
+  "sceneHub": "Pattaya (Jomtien)"
+},
+  {
+  "slug": "pattaya-jomtien-acoustic-thai-chillhop",
+  "name": "Pattaya (Jomtien) Acoustic Thai Chillhop Beats",
+  "badge": "Acoustic Chillhop",
+  "headline": "Acoustic Thai Chillhop Beats in Pattaya (Jomtien): Eastern Seaboard & Fast Club Beats",
+  "description": "Warm nylon guitar picking, unquantized dusty boom bap drums and emotional melodies for poetic artists in Pattaya (Jomtien).",
+  "targetKeywords": [
+    "acoustic thai chillhop beats pattaya (jomtien)",
+    "buy beats pattaya (jomtien) promptpay",
+    "thai acoustic chillhop instrumental",
+    "beats in pattaya (jomtien) wav download"
+  ],
+  "heroCta": "Download Beats in Pattaya (Jomtien) (PromptPay / WAV)",
+  "recommendedBpm": "80-86 BPM",
+  "suggestedKey": "G-Major / E-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Thailand",
+  "sceneHub": "Pattaya (Jomtien)"
+},
 ];
