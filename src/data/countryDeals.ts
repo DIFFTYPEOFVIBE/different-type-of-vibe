@@ -43528,4 +43528,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "nl/amsterdam-west-nieuw-west": {
+  "slug": "nl/amsterdam-west-nieuw-west",
+  "name": "Nederland – Amsterdam: West & Nieuw-West (Berço do Nederhop & Marokkaans-Nederlandse Straatrap)",
+  "flag": "🇳🇱",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "iDEAL (ING, ABN AMRO, Rabobank, SNS), Bancontact, Apple Pay, Google Pay, Cards, PayPal, Stripe",
+  "pro": "Buma/Stemra",
+  "proFullName": "Buma/Stemra (Vereniging Buma en Stichting Stemra)",
+  "proGuide": "100% goedgekeurd voor Buma/Stemra registratie en commerciële release met direct downloadbaar PDF-licentiecontract.",
+  "headline": "Beats in Amsterdam-West: Nieuw-West Straatrap, Snelle Flows & Donkere 808 Bassen",
+  "description": "Het onbetwiste hart van de moderne Nederhop en straatrap: donkere mineur piano's, rollende 808-bassen en energieke trap drums voor artiesten uit Amsterdam-West, Osdorp en Geuzenveld.",
+  "popularGenres": [
+    "Nederhop Trap",
+    "Amsterdam Street Drill",
+    "Nieuw-West Rap"
+  ],
+  "subClusters": []
+},
+  "nl/rotterdam-zuid-feijenoord": {
+  "slug": "nl/rotterdam-zuid-feijenoord",
+  "name": "Nederland – Rotterdam: Zuid, Feijenoord & Charlois (010 Haven Realiteit & Zware Drill)",
+  "flag": "🇳🇱",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "iDEAL (ING, ABN AMRO, Rabobank, SNS), Bancontact, Apple Pay, Google Pay, Cards, PayPal, Stripe",
+  "pro": "Buma/Stemra",
+  "proFullName": "Buma/Stemra (Vereniging Buma en Stichting Stemra)",
+  "proGuide": "Studio-kwaliteit 24-bit WAV bestanden met gescheiden multitrack stems voor professionele studio mixage.",
+  "headline": "Beats in Rotterdam-Zuid: 010 Havenmentaliteit, Feijenoord Passie & Zware Kicks",
+  "description": "De rauwe, industriële havenenergie van Rotterdam-Zuid: zware analoge kicks, scherpe drill-snares en onvervalste straatbeats voor lyrici uit Charlois, Bloemhof en Feijenoord.",
+  "popularGenres": [
+    "Rotterdam Street Drill",
+    "010 Haven Rap",
+    "Zuid Hardcore Trap"
+  ],
+  "subClusters": []
+},
+  "nl/den-haag-schilderswijk-transvaalkwartier": {
+  "slug": "nl/den-haag-schilderswijk-transvaalkwartier",
+  "name": "Nederland – Den Haag: Schilderswijk & Transvaal (070 Straatrap, Haags Trots & Snelle 808s)",
+  "flag": "🇳🇱",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "iDEAL (ING, ABN AMRO, Rabobank, SNS), Bancontact, Apple Pay, Google Pay, Cards, PayPal, Stripe",
+  "pro": "Buma/Stemra",
+  "proFullName": "Buma/Stemra (Vereniging Buma en Stichting Stemra)",
+  "proGuide": "Volledige digitale rechten voor Spotify, Apple Music, Deezer en YouTube zonder royalty-afdracht.",
+  "headline": "Beats in Den Haag: Schilderswijk Energie, Transvaal Straten & Haagse Trap 808s",
+  "description": "De authentieke Haagse straatcultuur van 070: snelle hi-hat patronen, agressieve sliding 808 bassen en pakkende melodieën op maat gemaakt voor Haagse artiesten.",
+  "popularGenres": [
+    "Haagse Straatrap",
+    "070 Drill Beat",
+    "Schilderswijk Trap"
+  ],
+  "subClusters": []
+},
+  "nl/utrecht-overvecht-kanaleneiland": {
+  "slug": "nl/utrecht-overvecht-kanaleneiland",
+  "name": "Nederland – Utrecht: Overvecht & Kanaleneiland (030 Lirische Straathub & Donkere Melodische Trap)",
+  "flag": "🇳🇱",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "iDEAL (ING, ABN AMRO, Rabobank, SNS), Bancontact, Apple Pay, Google Pay, Cards, PayPal, Stripe",
+  "pro": "Buma/Stemra",
+  "proFullName": "Buma/Stemra (Vereniging Buma en Stichting Stemra)",
+  "proGuide": "100% originele producties, volledig cleared voor commerciële streaming en airplay.",
+  "headline": "Beats in Utrecht: 030 Lirische Traditie, Kanaleneiland Straten & Diepe Subbassen",
+  "description": "Het geografische en lirische hart van Nederland: sfeervolle mineur toetsen, strakke snare rolls en diepe bassen afgestemd op de verhalenvertellers uit Utrecht, Overvecht en Kanaleneiland.",
+  "popularGenres": [
+    "Utrecht Melodic Trap",
+    "030 Straatrap",
+    "Kanaleneiland Beat"
+  ],
+  "subClusters": []
+},
+  "nl/eindhoven-stratum-woensel": {
+  "slug": "nl/eindhoven-stratum-woensel",
+  "name": "Nederland – Eindhoven: Woensel & Stratum (040 Woensel-West Rap Cradle & Fresku Heritage)",
+  "flag": "🇳🇱",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "iDEAL (ING, ABN AMRO, Rabobank, SNS), Bancontact, Apple Pay, Google Pay, Cards, PayPal, Stripe",
+  "pro": "Buma/Stemra",
+  "proFullName": "Buma/Stemra (Vereniging Buma en Stichting Stemra)",
+  "proGuide": "Directe iDEAL betaling via alle Nederlandse banken met onmiddellijke digitale download.",
+  "headline": "Beats in Eindhoven: Woensel-West Trots, Lichtstad Innovatie & Zware Trap Beats",
+  "description": "De bakermat van Brabantse hiphopcultuur: melodische Rhodes akkoorden, rauwe akoestische drums en energieke trap bouncers ontworpen voor Eindhoven en Woensel MCs.",
+  "popularGenres": [
+    "Woensel Trap",
+    "Eindhoven Rap",
+    "Brabant Street Beat"
+  ],
+  "subClusters": []
+},
+  "nl/arnhem-presikhaaf-klarendal": {
+  "slug": "nl/arnhem-presikhaaf-klarendal",
+  "name": "Nederland – Arnhem: Presikhaaf & Klarendal (026 Gelderland Straatrap & Snelle Drill)",
+  "flag": "🇳🇱",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "iDEAL (ING, ABN AMRO, Rabobank, SNS), Bancontact, Apple Pay, Google Pay, Cards, PayPal, Stripe",
+  "pro": "Buma/Stemra",
+  "proFullName": "Buma/Stemra (Vereniging Buma en Stichting Stemra)",
+  "proGuide": "Commerciële licentie inclusief professionele multitrack stems en WAV master.",
+  "headline": "Beats in Arnhem: 026 Presikhaaf Energie, Rijnkade Realiteit & Snelle Flows",
+  "description": "De energieke hoofdstad van Gelderland: vlijmscherpe hi-hat triplets, harde drill bassen en donkere synths op maat gemaakt voor de rap scene in Arnhem en Klarendal.",
+  "popularGenres": [
+    "Arnhem Street Drill",
+    "026 Gelderland Rap",
+    "Presikhaaf Trap"
+  ],
+  "subClusters": []
+},
+  "nl/zaandam-zaanstreek-noord": {
+  "slug": "nl/zaandam-zaanstreek-noord",
+  "name": "Nederland – Zaandam & Zaanstreek (Noord-Holland Industrie & Melodische Afro-Trap)",
+  "flag": "🇳🇱",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "iDEAL (ING, ABN AMRO, Rabobank, SNS), Bancontact, Apple Pay, Google Pay, Cards, PayPal, Stripe",
+  "pro": "Buma/Stemra",
+  "proFullName": "Buma/Stemra (Vereniging Buma en Stichting Stemra)",
+  "proGuide": "Volledige Buma/Stemra contractuele bescherming met digitaal ondertekend certificaat.",
+  "headline": "Beats in Zaandam: Zaanstreek Industrie, Melodische Afro-Trap & Zomerse Bounces",
+  "description": "De innovatieve industriële noordrand van het Noordzeekanaal: warme gitaarmelodieën, dansbare afrobeat swing en diepe 808s voor Zaandam en Zaanstad artiesten.",
+  "popularGenres": [
+    "Zaandam Afro-Trap",
+    "Zaanstreek Melodic Rap",
+    "Noord-Holland Beat"
+  ],
+  "subClusters": []
+},
+  "nl/maastricht-zuid-limburg": {
+  "slug": "nl/maastricht-zuid-limburg",
+  "name": "Nederland – Maastricht & Zuid-Limburg (Grensregio Cross-Over Rap & Warme Bassen)",
+  "flag": "🇳🇱",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "iDEAL (ING, ABN AMRO, Rabobank, SNS), Bancontact, Apple Pay, Google Pay, Cards, PayPal, Stripe",
+  "pro": "Buma/Stemra",
+  "proFullName": "Buma/Stemra (Vereniging Buma en Stichting Stemra)",
+  "proGuide": "100% royalty-vrij voor streaming, radio, club draaien en live optredens.",
+  "headline": "Beats in Maastricht: Vrijthof Sfeer, Maasvallei & Internationale Melodische Trap",
+  "description": "De zuidelijke Europese ontmoetingsplek: melodieuze elektrische piano's, zachte Franse/Nederlandse cross-over cadensen en warme subbassen voor Maastricht en Zuid-Limburg.",
+  "popularGenres": [
+    "Maastricht Melodic Trap",
+    "Zuid-Limburg Rap",
+    "Grensregio Beat"
+  ],
+  "subClusters": []
+},
+  "nl/enschede-twente-oost": {
+  "slug": "nl/enschede-twente-oost",
+  "name": "Nederland – Enschede & Twente (Oost-Nederlandse Industriële Jeugdcultuur & Raw Trap)",
+  "flag": "🇳🇱",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "iDEAL (ING, ABN AMRO, Rabobank, SNS), Bancontact, Apple Pay, Google Pay, Cards, PayPal, Stripe",
+  "pro": "Buma/Stemra",
+  "proFullName": "Buma/Stemra (Vereniging Buma en Stichting Stemra)",
+  "proGuide": "Directe commerciële licentie voor Spotify, YouTube, en social media distributie.",
+  "headline": "Beats in Enschede: Twente Trots, Textielverleden & Rauwe Underground Kicks",
+  "description": "De industriële en universitaire pioniersstad van het Oosten: donkere analoge synths, strakke punchy kicks en doordringende 808s voor Enschede, Hengelo en Twente.",
+  "popularGenres": [
+    "Twente Underground Trap",
+    "Enschede Street Rap",
+    "Oost-Nederland Beat"
+  ],
+  "subClusters": []
+},
+  "nl/amersfoort-eemland": {
+  "slug": "nl/amersfoort-eemland",
+  "name": "Nederland – Amersfoort & Eemland (Centraal Knooppunt & Pakkende Melodische Nederhop)",
+  "flag": "🇳🇱",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "iDEAL (ING, ABN AMRO, Rabobank, SNS), Bancontact, Apple Pay, Google Pay, Cards, PayPal, Stripe",
+  "pro": "Buma/Stemra",
+  "proFullName": "Buma/Stemra (Vereniging Buma en Stichting Stemra)",
+  "proGuide": "Wettelijk geldend licentiecontract met directe digitale download na betaling.",
+  "headline": "Beats in Amersfoort: Koppelpoort Erfgoed, Eemland Knooppunt & Frisse Trap Bounces",
+  "description": "Het bruisende centrale knooppunt van Nederland: frisse akoestische gitaarhooks, aanstekelijke pop-trap drums en diepe bassen afgestemd op Amersfoort en de regio Utrecht.",
+  "popularGenres": [
+    "Amersfoort Melodische Rap",
+    "Eemland Trap",
+    "Centraal Nederhop Beat"
+  ],
+  "subClusters": []
+},
 };

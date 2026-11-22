@@ -136730,4 +136730,1274 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "1"
   ]
 },
+  {
+  "slug": "boef-slaaptekort-fast-flow-trap",
+  "title": "Boef Slaaptekort Multi-Platinum Rapid-Fire Flow & Bouncy Trap Beat",
+  "description": "Chart-breaking, multi-platinum Dutch rap instrumental inspired by Boef (Slaaptekort, Habiba, Tout Est Bon, Treinstation), featuring lightning-fast multi-syllabic flow space, catchy street hooks, and punchy 808s.",
+  "targetKeywords": [
+    "boef type beat 2024",
+    "slaaptekort boef instrumental",
+    "nederhop fast flow trap beat",
+    "boef habiba type beat",
+    "snelle nederlandse rap beat"
+  ],
+  "heroCta": "Koop Beat Stijl Boef (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Lead Commercial Single, Fast-Paced Rap Cypher and High-Energy Video",
+  "similarArtists": [
+    "Boef",
+    "Lijpe",
+    "Ismo",
+    "Sevn Alias"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "productionTips": "Staccato synthesizer plucks layered with punchy analog kicks and rolling hi-hats that allow rapid syllable delivery.",
+  "idealVocalStyle": "Ultra-fast multi-syllabic rhyming, breath control, catchy repetitive hooks, and clever street punchlines.",
+  "suggestedKey": "D Minor / A Minor",
+  "streamingSuitability": "Guaranteed top-charting streaming numbers on Top 50 Nederland, Spotify Woensdag, and FunX."
+},
+  {
+  "slug": "frenna-sfb-afro-dancehall-bounce",
+  "title": "Frenna & SFB Francis Smooth Afro-Dancehall & Tropical Caribbean Beat",
+  "description": "Infectious, soulful Dutch Afro-dancehall crossover instrumental inspired by Frenna and SFB (Francis, My Love, Verleden Tijd, Pretty Girls), blending warm acoustic guitars, tropical percussion, and bouncy sub-bass.",
+  "targetKeywords": [
+    "frenna type beat",
+    "sfb type beat",
+    "afro dancehall beat nederland",
+    "frenna verleden tijd instrumental",
+    "zomerse nederhop beat"
+  ],
+  "heroCta": "Koop Beat Stijl Frenna (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Summer Radio Anthem, Club Dance Hit and Viral TikTok Sound",
+  "similarArtists": [
+    "Frenna",
+    "SFB",
+    "Ronnie Flex",
+    "Broederliefde"
+  ],
+  "recommendedBpm": "104-112 BPM",
+  "productionTips": "Warm tropical nylon guitar licks with syncopated dembow/afrobeat kicks and round, melodic sub-bass.",
+  "idealVocalStyle": "Smooth autotuned singing, seductive melodies, bilingual Dutch-English phrasing, and feel-good hooks.",
+  "suggestedKey": "G Major / E Minor",
+  "streamingSuitability": "Universal top 40 radio formatting, summer club DJ rotation, and multi-platinum streaming appeal."
+},
+  {
+  "slug": "ronnie-flex-remi-melodic-cloud-trap",
+  "title": "Ronnie Flex Rémi Dreamy Melodic Pop-Rap & Autotune Cloud Beat",
+  "description": "Visionary, atmospheric and emotional Dutch pop-rap instrumental inspired by Ronnie Flex (Rémi, Energie, Blijf Bij Mij, Altijd Op Tijd), with lush filtered synth chords, smooth 808s, and infectious swing.",
+  "targetKeywords": [
+    "ronnie flex type beat",
+    "remi ronnie flex instrumental",
+    "melodische nederhop beat",
+    "ronnie flex energie type beat",
+    "pop rap beat nederland"
+  ],
+  "heroCta": "Koop Beat Stijl Ronnie Flex (Instant WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Mainstream Radio Hit, Commercial Pop-Rap Single and High-Budget Video",
+  "similarArtists": [
+    "Ronnie Flex",
+    "Frenna",
+    "Bilal Wahib",
+    "Tabitha"
+  ],
+  "recommendedBpm": "118-126 / 130 BPM",
+  "productionTips": "Lush synthesizer textures with subtle stereo chorus over tight, danceable trap drums and warm sub-bass.",
+  "idealVocalStyle": "Catchy harmonized autotune singing, heartfelt lyrics on love and success, and bouncy melodic rap verses.",
+  "suggestedKey": "C# Minor / A Major",
+  "streamingSuitability": "Massive airplay on 538, Qmusic, NPO FunX, and consistent top 10 charting on Spotify Nederland."
+},
+  {
+  "slug": "josylvio-hitu-street-mafia-trap",
+  "title": "Josylvio Hitu Aggressive Egyptian-Dutch Street Trap & Heavy 808 Beat",
+  "description": "Hard-hitting, aggressive and authoritative street rap instrumental inspired by Josylvio and Hitu (Hitu, Catch Up, Skittle Steez, Ride Or Die), featuring dark minor piano chords and menacing sub-bass.",
+  "targetKeywords": [
+    "josylvio type beat 2024",
+    "hitu josylvio instrumental",
+    "donkere straatrap beat nederland",
+    "josylvio catch up type beat",
+    "zware 808 trap beat"
+  ],
+  "heroCta": "Koop Beat Stijl Josylvio (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hardcore Street Single, Heavy Bass Demonstration and Road Reality Video",
+  "similarArtists": [
+    "Josylvio",
+    "Sevn Alias",
+    "Moeman",
+    "Ashafar"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "productionTips": "Heavy analog kick compression paired with clipped snare transients and deep, sliding 808 portamento.",
+  "idealVocalStyle": "Commanding baritone delivery, aggressive street punchlines, fast flow bursts, and authoritative hooks.",
+  "suggestedKey": "E Minor / C Minor",
+  "streamingSuitability": "Insuperable for gym workout playlists, Dutch street rap channels, and high-impact visuals."
+},
+  {
+  "slug": "sevn-alias-trap-story-drill-pioneer",
+  "title": "Sevn Alias Trap Story Groundbreaking Amsterdam Drill & Brass Beat",
+  "description": "Pioneering, cold and menacing Amsterdam street drill instrumental inspired by Sevn Alias (Trap Story, Gass, Kifesh, Ma3lesh), with dark tubular bell ostinatos and subterranean sliding 808 bass.",
+  "targetKeywords": [
+    "sevn alias type beat",
+    "trap story sevn alias instrumental",
+    "amsterdam drill beat 140 bpm",
+    "sevn alias gass type beat",
+    "nederlandse drill beat wav"
+  ],
+  "heroCta": "Koop Beat Stijl Sevn Alias (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Aggressive Drill Track, Street Cypher and High-Velocity Video",
+  "similarArtists": [
+    "Sevn Alias",
+    "Chivv",
+    "Vic9",
+    "Central Cee"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Dark tubular bell melodies layered over two-octave 808 portamento slides and tight drill rimshots.",
+  "idealVocalStyle": "Cold, rapid-fire Dutch street reality flows, iconic slang wordplay (Mocro/Sranan), and heavy punchlines.",
+  "suggestedKey": "C# Minor",
+  "streamingSuitability": "Essential for drill playlists, automotive content creators, and urban street visualizers."
+},
+  {
+  "slug": "lijpe-levensles-real-rap-street-story",
+  "title": "Lijpe Levensles Heartfelt Real Dutch Street Rap & Minor Piano Beat",
+  "description": "Deeply emotional, sincere and respected Dutch street reality instrumental inspired by Lijpe (Levensles, Verstand Op Nul, Dag & Nacht, Zelfvertrouwen), with weeping minor grand piano arpeggios.",
+  "targetKeywords": [
+    "lijpe type beat 2024",
+    "levensles lijpe instrumental",
+    "emotionele nederhop beat piano",
+    "lijpe zelfvertrouwen type beat",
+    "real rap beat nederland"
+  ],
+  "heroCta": "Koop Beat Stijl Lijpe (Instant WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Conscious Street Storytelling, Emotional Narrative Single and Poetic Video",
+  "similarArtists": [
+    "Lijpe",
+    "Ismo",
+    "Boef",
+    "3robi"
+  ],
+  "recommendedBpm": "126-135 BPM",
+  "productionTips": "Acoustic grand piano recorded with tape saturation layered over deep, warm 808 sub frequencies.",
+  "idealVocalStyle": "Passionate, unadorned, honest vocal delivery exploring struggle, family loyalty, and street wisdom.",
+  "suggestedKey": "A Minor / F Minor",
+  "streamingSuitability": "Tremendous organic listener loyalty on Spotify Nederland, YouTube, and conscious rap channels."
+},
+  {
+  "slug": "hef-bundy-noord-rotterdam-classic",
+  "title": "Hef Bundy Rotterdam Street Rap Godfather & Laid-Back Boom Bap Beat",
+  "description": "Timeless, laid-back and dignified Rotterdam street rap instrumental inspired by the godfather of Dutch hip-hop, Hef and Bundy (Puur, 13, Koud, Kermis, Geen Grap), with dusty vinyl samples and heavy 90 BPM kicks.",
+  "targetKeywords": [
+    "hef type beat",
+    "hef bundy rotterdam beat",
+    "laid back nederhop boom bap",
+    "hef puur instrumental",
+    "rotterdam noord rap beat"
+  ],
+  "heroCta": "Koop Beat Stijl Hef (WAV 24-bit)",
+  "energyLevel": "Medium",
+  "primaryUse": "Classic Street Cypher, Authentic Road Storytelling and Heavy Car Cruising",
+  "similarArtists": [
+    "Hef",
+    "Crooks",
+    "Adje",
+    "Kevin"
+  ],
+  "recommendedBpm": "88-93 BPM",
+  "productionTips": "MPC-style chopped vintage soul piano loops with subtle vinyl crackle and uncompressed acoustic drums.",
+  "idealVocalStyle": "Laid-back, gravelly, conversational cadence, witty everyday humor, and effortless street authority.",
+  "suggestedKey": "D Minor / G Minor",
+  "streamingSuitability": "Revered by hip-hop purists, cultural platforms, and conscious rap audiences across the Netherlands."
+},
+  {
+  "slug": "chivv-unlocked-afro-drill-party",
+  "title": "Chivv Unlocked High-Voltage Afro-Drill & Caribbean Party Banger Beat",
+  "description": "High-energy, bouncy party anthem fusing UK-Dutch drill with tropical Afro-Caribbean swing inspired by Chivv (Unlocked, Ewa Ewa, Anoniem, Je Kent 'T Wel), with wild brass stabs and heavy sliding 808s.",
+  "targetKeywords": [
+    "chivv type beat",
+    "afro drill party beat nederland",
+    "chivv ewa ewa instrumental",
+    "chivv unlocked type beat",
+    "dansbare drill beat 808"
+  ],
+  "heroCta": "Koop Beat Stijl Chivv (WAV + Stems)",
+  "energyLevel": "Maximum",
+  "primaryUse": "High-Voltage Club Banger, Viral TikTok Party Challenge and Festival Anthem",
+  "similarArtists": [
+    "Chivv",
+    "D-Double",
+    "Sevn Alias",
+    "BKO"
+  ],
+  "recommendedBpm": "138-144 BPM",
+  "productionTips": "Layer driving Afro-drill percussion with bright synth brass and heavy portamento sub-bass drops.",
+  "idealVocalStyle": "High-energy party shouts, infectious Caribbean-Dutch ad-libs, and crowd-moving anthem choruses.",
+  "suggestedKey": "E Minor / G Minor",
+  "streamingSuitability": "Guaranteed dancefloor reaction, festival stage playback, and viral social media trends."
+},
+  {
+  "slug": "amsterdam-canals-rainy-nocturnal-lofi",
+  "title": "Amsterdam Canals Midnight Autumn Rain Gentle Lofi Chillhop Beat",
+  "description": "Atmospheric, soothing nocturnal soundtrack capturing a midnight bike ride along the Amsterdam Prinsengracht in autumn rain: warm Rhodes electric piano, canal water textures, and vinyl tape flutter.",
+  "targetKeywords": [
+    "amsterdam lofi beat",
+    "grachten lofi hip hop beat",
+    "rainy night bike drive amsterdam",
+    "nederlandse chillhop instrumental",
+    "relaxing lofi beat nederland"
+  ],
+  "heroCta": "Koop Amsterdam Lofi Beat (Instant WAV)",
+  "energyLevel": "Low-Medium",
+  "primaryUse": "Midnight Bike Ride Track, Relaxing Study Session and Aesthetic Travel Vlog",
+  "similarArtists": [
+    "Fresku",
+    "Kraantje Pappie",
+    "Tom Misch",
+    "FKJ"
+  ],
+  "recommendedBpm": "82-88 BPM",
+  "productionTips": "Warm Wurlitzer and Rhodes keys captured through vintage tape wow-and-flutter with gentle vinyl dust.",
+  "idealVocalStyle": "Laid-back, comforting Dutch spoken word, gentle acoustic singing, and intimate late-night thoughts.",
+  "suggestedKey": "G Major / E Minor",
+  "streamingSuitability": "Continuous evergreen stream counts across chillhop, study lofi, and ambient relaxation playlists."
+},
+  {
+  "slug": "surinamese-kaseko-caribbean-afro-trap",
+  "title": "Surinamese Kaseko Kawina Percussion & Dutch Afro-Trap 808 Beat",
+  "description": "Vibrant, historic cultural crossover blending authentic Surinamese Kaseko and Kawina percussion polyrhythms with modern Dutch Afro-trap 808s and festive brass fanfares.",
+  "targetKeywords": [
+    "kaseko trap beat",
+    "surinaamse rap beat nederland",
+    "kawina percussion trap 808",
+    "afro trap suriname nederhop",
+    "caribbean dutch trap beat"
+  ],
+  "heroCta": "Koop Kaseko Trap Beat (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Cultural Carnival Single, High-Energy Festival Track and Party Anthem",
+  "similarArtists": [
+    "Broederliefde",
+    "Frenna",
+    "La Rouge",
+    "D-Double"
+  ],
+  "recommendedBpm": "126-134 BPM",
+  "productionTips": "Authentic Skratji and Dholak percussion grooves layered tightly over modern sub-bass drops and horns.",
+  "idealVocalStyle": "High-energy Sranan Tongo and Dutch bilingual delivery, festive celebration hooks, and dance swagger.",
+  "suggestedKey": "D Major / B Minor",
+  "streamingSuitability": "Massive seasonal sharing during Kwaku Summer Festival, carnival events, and energetic party reels."
+},
+  {
+  "slug": "rotterdam-port-industrial-steel-drill",
+  "title": "Rotterdam Harbor Port Industrial Steel Cold Drill 808 Beat",
+  "description": "Cinematic, dark nighttime Dutch drill instrumental capturing the massive industrial machinery of Europe's largest port: cold minor synthesizer leads, metallic clangs, and sliding sub-bass drops.",
+  "targetKeywords": [
+    "rotterdam haven drill beat",
+    "industrial steel drill beat 010",
+    "nederlandse haven rap instrumental",
+    "cold sliding 808 rotterdam",
+    "zware drill beat 010"
+  ],
+  "heroCta": "Koop Rotterdam Haven Drill (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Dark Industrial Single, Street Reality Visuals and Hard Workout Banger",
+  "similarArtists": [
+    "Kevin",
+    "Vic9",
+    "Central Cee",
+    "Headie One"
+  ],
+  "recommendedBpm": "141-144 BPM",
+  "productionTips": "Industrial metallic transients and clangs layered over subterranean 808 slides and clipped rimshots.",
+  "idealVocalStyle": "Cold, gravelly street reality delivery, menacing punchlines, and raw atmospheric ad-libs.",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "Essential for drill playlists, automotive content creators, and urban street visuals."
+},
+  {
+  "slug": "antillean-bubbling-fast-140-drill",
+  "title": "Antillean Bubbling Fast 140 BPM Dutch Club & Speed Drill Beat",
+  "description": "Iconic Curaçao-Dutch Bubbling beat fusion (DJ Moortje heritage): skippy syncopated 140 BPM rimshots, organ stabs, and heavy modern drill sub-bass for energetic Dutch dancefloors.",
+  "targetKeywords": [
+    "bubbling drill beat nederland",
+    "curacao bubbling rap beat",
+    "140 bpm bubbling instrumental",
+    "antilliaanse bubbling trap beat",
+    "snelle club beat nederland"
+  ],
+  "heroCta": "Koop Bubbling Drill Beat (Instant WAV)",
+  "energyLevel": "Maximum",
+  "primaryUse": "High-Voltage Club Banger, Fast-Paced Festival Cypher and Dance Challenge",
+  "similarArtists": [
+    "DJ Moortje",
+    "D-Double",
+    "Chivv",
+    "Broederliefde"
+  ],
+  "recommendedBpm": "138-142 BPM",
+  "productionTips": "Signature sped-up 2-step dancehall bubbling groove with heavy sub-bass portamento and crisp hats.",
+  "idealVocalStyle": "Rapid-fire cadence, Papiamento and Dutch bilingual party wordplay, and energetic wheel-ups.",
+  "suggestedKey": "A Minor / E Minor",
+  "streamingSuitability": "Insuperable for Caribbean-Dutch club nights, viral dance challenges, and festival sound systems."
+},
+  {
+  "slug": "nederhop-beats-kopen-ideal-goedkoop",
+  "title": "Nederhop Beats Kopen Vanaf €29 met iDEAL (Directe Digitale Download)",
+  "description": "Professionele, studio-gemasterde Nederhop, trap en drill instrumentals vanaf €29 met directe en veilige iDEAL betaling via alle Nederlandse banken (ING, ABN AMRO, Rabobank) in Euro (€).",
+  "targetKeywords": [
+    "nederhop beats kopen ideal goedkoop",
+    "beats kopen met ideal nederland",
+    "goedkope rap beats ideal 30 euro",
+    "nederlandse trap beats kopen wav"
+  ],
+  "heroCta": "Bekijk Goedkope Beats vanaf €29 (iDEAL)",
+  "energyLevel": "Variable",
+  "primaryUse": "Mixtapes, Debuut-Singles en Home Studio Opnames met Volledige Licentie",
+  "similarArtists": [
+    "Onafhankelijke Nederlandse Rappers",
+    "SoundCloud & TikTok Artiesten"
+  ],
+  "recommendedBpm": "120-144 BPM",
+  "productionTips": "Vooraf gemixt en gemasterd met voldoende dynamische headroom voor vocale opnames in home studios.",
+  "idealVocalStyle": "Aanpasbaar voor snelle straatflows, melodische autotune zang en commerciële tracks.",
+  "suggestedKey": "Alle majeur en mineur toonsoorten",
+  "streamingSuitability": "Commerciële licentie dekt tot 100.000 streams op Spotify, Apple Music en Deezer."
+},
+  {
+  "slug": "nederlandse-drill-beats-stems-wav",
+  "title": "Nederlandse Drill Beats met Losse Pistes Stems (Amsterdam & Rotterdam WAV)",
+  "description": "Zware, duistere Amsterdamse en Rotterdamse street drill instrumentals met sliding 808s, geleverd met alle afzonderlijke multitrack stems (WAV) voor professionele afmixage in de studio.",
+  "targetKeywords": [
+    "nederlandse drill beats stems wav",
+    "drill beats met losse sporen download",
+    "amsterdam drill trackout wav 24 bit",
+    "zware 808 drill beats nederland"
+  ],
+  "heroCta": "Download Drill Beats + Stems WAV",
+  "energyLevel": "Very High",
+  "primaryUse": "Professionele Studio Opnames, Multitrack Stem Mixing en Dolby Atmos",
+  "similarArtists": [
+    "Sevn Alias",
+    "Chivv",
+    "Central Cee",
+    "Headie One"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Elk instrument droog geëxporteerd met aparte effectsporen voor absolute mixagecontrole.",
+  "idealVocalStyle": "Harde punchlines, snelle drill flows en authentieke straatverhalen.",
+  "suggestedKey": "E Mineur / C# Mineur",
+  "streamingSuitability": "Onbeperkte streams en wereldwijde videoclip monetarisatie inbegrepen."
+},
+  {
+  "slug": "melodische-nederhop-piano-beats-wav",
+  "title": "Melodische Nederhop Piano Beats (WAV 24-Bit & Volledige Rechten)",
+  "description": "Gevoelige Nederlandse rapbeats met akoestische vleugelpiano arrangementen, warme strijkers en diepe 808 bassen, klaar voor upload naar Spotify en Apple Music in 24-bit studio WAV kwaliteit.",
+  "targetKeywords": [
+    "melodische nederhop piano beats wav",
+    "piano rap beat nederland wav",
+    "gevoelige nederhop beats kopen",
+    "emotionele piano trap beat lijpe"
+  ],
+  "heroCta": "Beluister Melodische Piano Beats",
+  "energyLevel": "High",
+  "primaryUse": "Commerciële Hoofdsingle, Emotionele Videoclip en Oprecht Straatverhaal",
+  "similarArtists": [
+    "Lijpe",
+    "Boef",
+    "Kevin",
+    "Ronnie Flex"
+  ],
+  "recommendedBpm": "126-136 BPM",
+  "productionTips": "Akoestische piano verzadigd op analoge tape met strakke hoge tonen en een warme sublaag.",
+  "idealVocalStyle": "Oprechte en kwetsbare teksten, melodische refreinen en persoonlijke reflecties.",
+  "suggestedKey": "F Mineur / A Mineur / D Mineur",
+  "streamingSuitability": "Onbeperkte commerciële streaming distributie met 100% behoud van master royalties voor de artiest."
+},
+  {
+  "slug": "buma-stemra-beat-licentie-contract-pdf",
+  "title": "Buma/Stemra Beat Licentie Contract & Split Sheet (Direct Getekend PDF)",
+  "description": "Juridisch bindend muziekproducentencontract conform de Nederlandse Auteurswet en Buma/Stemra richtlijnen: download direct na aankoop uw officiële licentieovereenkomst en split sheet in PDF.",
+  "targetKeywords": [
+    "buma stemra beat licentie contract pdf",
+    "buma stemra muziekcontract download",
+    "split sheet buma stemra beat aankoop",
+    "muzieklicentie nederland auteursrecht"
+  ],
+  "heroCta": "Bekijk Buma/Stemra Licentie (PDF)",
+  "energyLevel": "N/A",
+  "primaryUse": "Buma/Stemra Registratie, Royalty Verdeling en Volledige Juridische Bescherming",
+  "similarArtists": [
+    "Onzieb",
+    "Bij Buma/Stemra Geregistreerde Auteurs en Producenten"
+  ],
+  "recommendedBpm": "Alle Tempos",
+  "productionTips": "Opgesteld volgens het Nederlandse auteursrecht ter bescherming van zowel tekstschrijvers als componisten.",
+  "idealVocalStyle": "Geldig voor alle muziekgenres, vocale opnames en commerciële releases.",
+  "suggestedKey": "Alle Toonsoorten",
+  "streamingSuitability": "Gegarandeerde juridische bescherming voor wereldwijde commerciële DSP distributie en sync."
+},
+  {
+  "slug": "album-ep-beat-bundels-nederland-korting",
+  "title": "5-Beat Album & EP Bundels in Nederland (Bespaar 40% in Euro €)",
+  "description": "Het complete projectpakket voor Nederlandse artiesten die een volledige mixtape, EP of debuutalbum opnemen: kies 5 of 10 instrumentals uit de hele catalogus met tot 40% bundelkorting.",
+  "targetKeywords": [
+    "album ep beat bundels nederland korting",
+    "5 beats bundel korting nederhop",
+    "meerdere beats tegelijk kopen korting euro",
+    "ep productie beat pakket nederland"
+  ],
+  "heroCta": "Claim 5-Beat Album Bundel (40% Korting)",
+  "energyLevel": "Variable",
+  "primaryUse": "Volledige Projectproductie, Consistente Richting en Regelmatige Releases",
+  "similarArtists": [
+    "Onafhankelijke Nederlandse Rappers en Collectieven"
+  ],
+  "recommendedBpm": "85-145 BPM",
+  "productionTips": "Harmonisch en dynamisch afgestemde selectie voor een naadloze luisterervaring door uw hele project.",
+  "idealVocalStyle": "Uitgebreid canvas voor het demonstreren van het volledige vocale en thematische bereik.",
+  "suggestedKey": "Complementaire Toonsoorten",
+  "streamingSuitability": "Enkele uniforme commerciële licentie die alle tracks van uw EP gelijktijdig dekt."
+},
+  {
+  "slug": "nederlandse-muziekproducent-whatsapp-onzieb",
+  "title": "Exclusieve Muziekproducent voor Nederlandse Artiesten (WhatsApp Onzieb)",
+  "description": "Werk één-op-één samen met muziekproducent Onzieb via direct WhatsApp overleg voor beats op maat: aanpassen van toonsoort, tempo, stem-arrangementen en exclusieve Nederhop producties.",
+  "targetKeywords": [
+    "nederlandse muziekproducent whatsapp onzieb",
+    "onzieb producer nederland amsterdam rotterdam",
+    "exclusieve beat laten maken nederhop",
+    "beatmaker nederland contact whatsapp"
+  ],
+  "heroCta": "Chat met Onzieb op WhatsApp",
+  "energyLevel": "Op Maat",
+  "primaryUse": "Exclusieve Maatwerkproductie, Eigen Sound Identiteit en Hoofdsingles",
+  "similarArtists": [
+    "Onzieb",
+    "Toonaangevende Nederlandse Urban Producenten"
+  ],
+  "recommendedBpm": "Afgestemd op de natuurlijke flow en ademhaling van de artiest",
+  "productionTips": "Stapsgewijze arrangement- en mixaanpassingen via spraakberichten en bestanden op WhatsApp.",
+  "idealVocalStyle": "Op maat gesneden om de exacte klankkleur en dynamiek van uw stem te versterken.",
+  "suggestedKey": "Persoonlijke Toonsoort",
+  "streamingSuitability": "Direct exclusief contract met 100% master-eigendom en wereldwijde exploitatierechten."
+},
+  {
+  "slug": "afro-dancehall-nederhop-beats-frenna",
+  "title": "Zomerse Afro-Dancehall & Nederhop Beats (SFB & Frenna Sound 108 BPM)",
+  "description": "Dansbare, zomerse Afro-dancehall en Nederhop instrumentals met vrolijke gitaarriffs, Caribische percussie en pakkende ritmes voor clubs, festivals en radio-airplay.",
+  "targetKeywords": [
+    "afro dancehall nederhop beats frenna",
+    "zomerse rap beat nederland",
+    "dancehall trap beat 108 bpm",
+    "nederhop club beat zomers"
+  ],
+  "heroCta": "Beluister Afro-Dancehall Beats",
+  "energyLevel": "High",
+  "primaryUse": "Zomerse Radiohit, Club Danssingle en TikTok Dansvideo",
+  "similarArtists": [
+    "Frenna",
+    "SFB",
+    "Ronnie Flex",
+    "Broederliefde"
+  ],
+  "recommendedBpm": "104-112 BPM",
+  "productionTips": "Heldere akoestische nylongitaar licks gecombineerd met een dansbaar dembow/afrobeat kick-patroon.",
+  "idealVocalStyle": "Aanstekelijke zangrefreinen, tweetalige teksten en zomers zelfvertrouwen.",
+  "suggestedKey": "G Majeur / E Mineur",
+  "streamingSuitability": "Uitstekende rotatie op FunX, 538, zomerfestival sets en virale social media trends."
+},
+  {
+  "slug": "akoestische-gitaar-sad-nederhop-beats",
+  "title": "Gevoelige Akoestische Gitaar Nederhop Beats (Sad Trap & Melancholie)",
+  "description": "Hartverscheurende, melancholische trapbeats met live ingespeelde akoestische gitaarloopjes, piano progressies en diepe 808s afgestemd op emotionele Nederlandse rap en autotune zang.",
+  "targetKeywords": [
+    "akoestische gitaar sad nederhop beats",
+    "sad trap beat nederland gitaar",
+    "emotionele nederhop instrumental",
+    "gitaar rap beat lijpe boef"
+  ],
+  "heroCta": "Beluister Akoestische Gitaar Beats (WAV)",
+  "energyLevel": "Medium",
+  "primaryUse": "Liefdesverdriet Single, Kwetsbaar Straatverhaal en Akoestische Rapvideo",
+  "similarArtists": [
+    "Lijpe",
+    "Kevin",
+    "Lil Peep",
+    "Juice WRLD"
+  ],
+  "recommendedBpm": "120-132 BPM",
+  "productionTips": "Echte nylongitaar opgenomen in stereo met warme tape-saturatie over een diepe 808 sublaag.",
+  "idealVocalStyle": "Kwetsbare, eerlijke teksten, melodische autotune refreinen en persoonlijke reflecties.",
+  "suggestedKey": "D Mineur / A Mineur / E Mineur",
+  "streamingSuitability": "Enorme luisterloyaliteit op emotionele Spotify playlists, nachtelijke luisteraars en video's."
+},
+  {
+  "slug": "gratis-nederhop-drill-drum-kit-wav",
+  "title": "Gratis Nederhop & Drill Drum Kit (24-Bit WAV Studio Samples & 808s)",
+  "description": "Download gratis ons exclusieve samplepakket voor Nederlandse beatmakers en producers: 25 gestemde 808 bassen, scherpe drill rimshots, harde kicks en percussie in 24-bit studio WAV kwaliteit.",
+  "targetKeywords": [
+    "gratis nederhop drill drum kit wav",
+    "nederlandse trap drum kit download",
+    "808 samples gratis nederland",
+    "drill drum kit fl studio gratis"
+  ],
+  "heroCta": "Download Gratis Drum Kit (ZIP)",
+  "energyLevel": "High",
+  "primaryUse": "Muziekproductie in Home Studio, Beatmaking in FL Studio, Ableton en Logic Pro",
+  "similarArtists": [
+    "Onafhankelijke Nederlandse Beatmakers",
+    "Opkomende Urban Producers"
+  ],
+  "recommendedBpm": "Compatibel met alle tempos",
+  "productionTips": "100% royalty-vrije one-shots voorgemasterd met krachtige analoge punch en directe inzetbaarheid.",
+  "idealVocalStyle": "Stevige ritmische basis voor het produceren van professionele Nederlandse urban tracks.",
+  "suggestedKey": "Gestemd op C voor directe toonsoort-transpositie in uw DAW",
+  "streamingSuitability": "Royalty-vrij te gebruiken voor commerciële muziekuitgaven en beatverkoop."
+},
+  {
+  "slug": "amsterdam-nieuw-west-nederhop-trap-808",
+  "name": "Nieuw-West Nederhop Trap 808 Beats",
+  "category": "scene",
+  "badge": "Nieuw-West Nederhop Trap",
+  "headline": "Nieuw-West (Amsterdam-West & Moderne Nederhop Bakermat) Nederhop Trap 808 Beats: 24-Bit WAV Beats & iDEAL Betaling",
+  "description": "Zware sliding 808 subbassen, donkere mineur synths en strakke moderne trap snares ontworpen voor MCs in Nieuw-West.",
+  "targetArtists": [
+    "Artiesten uit Nieuw-West",
+    "Nederlandse Rap Community",
+    "Nederhop Scene"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "D-Mineur / A-Mineur",
+  "vibeAttributes": [
+    "Nieuw-West",
+    "Nederhop Trap",
+    "iDEAL Betaling (EUR €)",
+    "100% Buma/Stemra Goedgekeurd"
+  ],
+  "popularGenres": [
+    "Nederhop Trap 808 Beats",
+    "Nederhop Trap",
+    "Holland Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "amsterdam-nieuw-west-holland-street-drill",
+  "name": "Nieuw-West Holland Street Drill Beats",
+  "category": "scene",
+  "badge": "Nieuw-West Holland Drill",
+  "headline": "Nieuw-West (Amsterdam-West & Moderne Nederhop Bakermat) Holland Street Drill Beats: 24-Bit WAV Beats & iDEAL Betaling",
+  "description": "Koude mineur piano's, snelle hi-hat triplets en doordringende 808 slides gecreëerd voor artiesten in Nieuw-West.",
+  "targetArtists": [
+    "Artiesten uit Nieuw-West",
+    "Nederlandse Rap Community",
+    "Nederhop Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Mineur / C#-Mineur",
+  "vibeAttributes": [
+    "Nieuw-West",
+    "Holland Drill",
+    "iDEAL Betaling (EUR €)",
+    "100% Buma/Stemra Goedgekeurd"
+  ],
+  "popularGenres": [
+    "Holland Street Drill Beats",
+    "Nederhop Trap",
+    "Holland Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "amsterdam-nieuw-west-dutch-afro-bounce",
+  "name": "Nieuw-West Dutch Afro Bounce Beats",
+  "category": "scene",
+  "badge": "Nieuw-West Afro Bounce NL",
+  "headline": "Nieuw-West (Amsterdam-West & Moderne Nederhop Bakermat) Dutch Afro Bounce Beats: 24-Bit WAV Beats & iDEAL Betaling",
+  "description": "Aanstekelijke tropische gitaarriffs, dansbare dembow swing en diepe bassen voor zangers en vocalisten in Nieuw-West.",
+  "targetArtists": [
+    "Artiesten uit Nieuw-West",
+    "Nederlandse Rap Community",
+    "Nederhop Scene"
+  ],
+  "recommendedBpm": "104-112 BPM",
+  "recommendedKey": "G-Majeur / E-Mineur",
+  "vibeAttributes": [
+    "Nieuw-West",
+    "Afro Bounce NL",
+    "iDEAL Betaling (EUR €)",
+    "100% Buma/Stemra Goedgekeurd"
+  ],
+  "popularGenres": [
+    "Dutch Afro Bounce Beats",
+    "Nederhop Trap",
+    "Holland Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "amsterdam-nieuw-west-mokum-boom-bap",
+  "name": "Nieuw-West Mokum Classic Boom Bap",
+  "category": "scene",
+  "badge": "Nieuw-West Mokum Boom Bap",
+  "headline": "Nieuw-West (Amsterdam-West & Moderne Nederhop Bakermat) Mokum Classic Boom Bap: 24-Bit WAV Beats & iDEAL Betaling",
+  "description": "Knisperende vinyl samples, droge akoestische snares en warme analoge baslijnen voor de pure hiphopkoppen in Nieuw-West.",
+  "targetArtists": [
+    "Artiesten uit Nieuw-West",
+    "Nederlandse Rap Community",
+    "Nederhop Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Mineur / D-Mineur",
+  "vibeAttributes": [
+    "Nieuw-West",
+    "Mokum Boom Bap",
+    "iDEAL Betaling (EUR €)",
+    "100% Buma/Stemra Goedgekeurd"
+  ],
+  "popularGenres": [
+    "Mokum Classic Boom Bap",
+    "Nederhop Trap",
+    "Holland Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "rotterdam-feijenoord-nederhop-trap-808",
+  "name": "Feijenoord Nederhop Trap 808 Beats",
+  "category": "scene",
+  "badge": "Feijenoord Nederhop Trap",
+  "headline": "Feijenoord (Rotterdam-Zuid & Zware Haven Drill) Nederhop Trap 808 Beats: 24-Bit WAV Beats & iDEAL Betaling",
+  "description": "Zware sliding 808 subbassen, donkere mineur synths en strakke moderne trap snares ontworpen voor MCs in Feijenoord.",
+  "targetArtists": [
+    "Artiesten uit Feijenoord",
+    "Nederlandse Rap Community",
+    "Nederhop Scene"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "D-Mineur / A-Mineur",
+  "vibeAttributes": [
+    "Feijenoord",
+    "Nederhop Trap",
+    "iDEAL Betaling (EUR €)",
+    "100% Buma/Stemra Goedgekeurd"
+  ],
+  "popularGenres": [
+    "Nederhop Trap 808 Beats",
+    "Nederhop Trap",
+    "Holland Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "rotterdam-feijenoord-holland-street-drill",
+  "name": "Feijenoord Holland Street Drill Beats",
+  "category": "scene",
+  "badge": "Feijenoord Holland Drill",
+  "headline": "Feijenoord (Rotterdam-Zuid & Zware Haven Drill) Holland Street Drill Beats: 24-Bit WAV Beats & iDEAL Betaling",
+  "description": "Koude mineur piano's, snelle hi-hat triplets en doordringende 808 slides gecreëerd voor artiesten in Feijenoord.",
+  "targetArtists": [
+    "Artiesten uit Feijenoord",
+    "Nederlandse Rap Community",
+    "Nederhop Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Mineur / C#-Mineur",
+  "vibeAttributes": [
+    "Feijenoord",
+    "Holland Drill",
+    "iDEAL Betaling (EUR €)",
+    "100% Buma/Stemra Goedgekeurd"
+  ],
+  "popularGenres": [
+    "Holland Street Drill Beats",
+    "Nederhop Trap",
+    "Holland Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "rotterdam-feijenoord-dutch-afro-bounce",
+  "name": "Feijenoord Dutch Afro Bounce Beats",
+  "category": "scene",
+  "badge": "Feijenoord Afro Bounce NL",
+  "headline": "Feijenoord (Rotterdam-Zuid & Zware Haven Drill) Dutch Afro Bounce Beats: 24-Bit WAV Beats & iDEAL Betaling",
+  "description": "Aanstekelijke tropische gitaarriffs, dansbare dembow swing en diepe bassen voor zangers en vocalisten in Feijenoord.",
+  "targetArtists": [
+    "Artiesten uit Feijenoord",
+    "Nederlandse Rap Community",
+    "Nederhop Scene"
+  ],
+  "recommendedBpm": "104-112 BPM",
+  "recommendedKey": "G-Majeur / E-Mineur",
+  "vibeAttributes": [
+    "Feijenoord",
+    "Afro Bounce NL",
+    "iDEAL Betaling (EUR €)",
+    "100% Buma/Stemra Goedgekeurd"
+  ],
+  "popularGenres": [
+    "Dutch Afro Bounce Beats",
+    "Nederhop Trap",
+    "Holland Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "rotterdam-feijenoord-mokum-boom-bap",
+  "name": "Feijenoord Mokum Classic Boom Bap",
+  "category": "scene",
+  "badge": "Feijenoord Mokum Boom Bap",
+  "headline": "Feijenoord (Rotterdam-Zuid & Zware Haven Drill) Mokum Classic Boom Bap: 24-Bit WAV Beats & iDEAL Betaling",
+  "description": "Knisperende vinyl samples, droge akoestische snares en warme analoge baslijnen voor de pure hiphopkoppen in Feijenoord.",
+  "targetArtists": [
+    "Artiesten uit Feijenoord",
+    "Nederlandse Rap Community",
+    "Nederhop Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Mineur / D-Mineur",
+  "vibeAttributes": [
+    "Feijenoord",
+    "Mokum Boom Bap",
+    "iDEAL Betaling (EUR €)",
+    "100% Buma/Stemra Goedgekeurd"
+  ],
+  "popularGenres": [
+    "Mokum Classic Boom Bap",
+    "Nederhop Trap",
+    "Holland Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "den-haag-schilderswijk-nederhop-trap-808",
+  "name": "Schilderswijk Nederhop Trap 808 Beats",
+  "category": "scene",
+  "badge": "Schilderswijk Nederhop Trap",
+  "headline": "Schilderswijk (070 Den Haag & Echte Straatrap) Nederhop Trap 808 Beats: 24-Bit WAV Beats & iDEAL Betaling",
+  "description": "Zware sliding 808 subbassen, donkere mineur synths en strakke moderne trap snares ontworpen voor MCs in Schilderswijk.",
+  "targetArtists": [
+    "Artiesten uit Schilderswijk",
+    "Nederlandse Rap Community",
+    "Nederhop Scene"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "D-Mineur / A-Mineur",
+  "vibeAttributes": [
+    "Schilderswijk",
+    "Nederhop Trap",
+    "iDEAL Betaling (EUR €)",
+    "100% Buma/Stemra Goedgekeurd"
+  ],
+  "popularGenres": [
+    "Nederhop Trap 808 Beats",
+    "Nederhop Trap",
+    "Holland Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "den-haag-schilderswijk-holland-street-drill",
+  "name": "Schilderswijk Holland Street Drill Beats",
+  "category": "scene",
+  "badge": "Schilderswijk Holland Drill",
+  "headline": "Schilderswijk (070 Den Haag & Echte Straatrap) Holland Street Drill Beats: 24-Bit WAV Beats & iDEAL Betaling",
+  "description": "Koude mineur piano's, snelle hi-hat triplets en doordringende 808 slides gecreëerd voor artiesten in Schilderswijk.",
+  "targetArtists": [
+    "Artiesten uit Schilderswijk",
+    "Nederlandse Rap Community",
+    "Nederhop Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Mineur / C#-Mineur",
+  "vibeAttributes": [
+    "Schilderswijk",
+    "Holland Drill",
+    "iDEAL Betaling (EUR €)",
+    "100% Buma/Stemra Goedgekeurd"
+  ],
+  "popularGenres": [
+    "Holland Street Drill Beats",
+    "Nederhop Trap",
+    "Holland Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "den-haag-schilderswijk-dutch-afro-bounce",
+  "name": "Schilderswijk Dutch Afro Bounce Beats",
+  "category": "scene",
+  "badge": "Schilderswijk Afro Bounce NL",
+  "headline": "Schilderswijk (070 Den Haag & Echte Straatrap) Dutch Afro Bounce Beats: 24-Bit WAV Beats & iDEAL Betaling",
+  "description": "Aanstekelijke tropische gitaarriffs, dansbare dembow swing en diepe bassen voor zangers en vocalisten in Schilderswijk.",
+  "targetArtists": [
+    "Artiesten uit Schilderswijk",
+    "Nederlandse Rap Community",
+    "Nederhop Scene"
+  ],
+  "recommendedBpm": "104-112 BPM",
+  "recommendedKey": "G-Majeur / E-Mineur",
+  "vibeAttributes": [
+    "Schilderswijk",
+    "Afro Bounce NL",
+    "iDEAL Betaling (EUR €)",
+    "100% Buma/Stemra Goedgekeurd"
+  ],
+  "popularGenres": [
+    "Dutch Afro Bounce Beats",
+    "Nederhop Trap",
+    "Holland Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "den-haag-schilderswijk-mokum-boom-bap",
+  "name": "Schilderswijk Mokum Classic Boom Bap",
+  "category": "scene",
+  "badge": "Schilderswijk Mokum Boom Bap",
+  "headline": "Schilderswijk (070 Den Haag & Echte Straatrap) Mokum Classic Boom Bap: 24-Bit WAV Beats & iDEAL Betaling",
+  "description": "Knisperende vinyl samples, droge akoestische snares en warme analoge baslijnen voor de pure hiphopkoppen in Schilderswijk.",
+  "targetArtists": [
+    "Artiesten uit Schilderswijk",
+    "Nederlandse Rap Community",
+    "Nederhop Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Mineur / D-Mineur",
+  "vibeAttributes": [
+    "Schilderswijk",
+    "Mokum Boom Bap",
+    "iDEAL Betaling (EUR €)",
+    "100% Buma/Stemra Goedgekeurd"
+  ],
+  "popularGenres": [
+    "Mokum Classic Boom Bap",
+    "Nederhop Trap",
+    "Holland Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "utrecht-overvecht-nederhop-trap-808",
+  "name": "Overvecht Nederhop Trap 808 Beats",
+  "category": "scene",
+  "badge": "Overvecht Nederhop Trap",
+  "headline": "Overvecht (030 Kanaleneiland & Lirische Trap) Nederhop Trap 808 Beats: 24-Bit WAV Beats & iDEAL Betaling",
+  "description": "Zware sliding 808 subbassen, donkere mineur synths en strakke moderne trap snares ontworpen voor MCs in Overvecht.",
+  "targetArtists": [
+    "Artiesten uit Overvecht",
+    "Nederlandse Rap Community",
+    "Nederhop Scene"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "D-Mineur / A-Mineur",
+  "vibeAttributes": [
+    "Overvecht",
+    "Nederhop Trap",
+    "iDEAL Betaling (EUR €)",
+    "100% Buma/Stemra Goedgekeurd"
+  ],
+  "popularGenres": [
+    "Nederhop Trap 808 Beats",
+    "Nederhop Trap",
+    "Holland Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "utrecht-overvecht-holland-street-drill",
+  "name": "Overvecht Holland Street Drill Beats",
+  "category": "scene",
+  "badge": "Overvecht Holland Drill",
+  "headline": "Overvecht (030 Kanaleneiland & Lirische Trap) Holland Street Drill Beats: 24-Bit WAV Beats & iDEAL Betaling",
+  "description": "Koude mineur piano's, snelle hi-hat triplets en doordringende 808 slides gecreëerd voor artiesten in Overvecht.",
+  "targetArtists": [
+    "Artiesten uit Overvecht",
+    "Nederlandse Rap Community",
+    "Nederhop Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Mineur / C#-Mineur",
+  "vibeAttributes": [
+    "Overvecht",
+    "Holland Drill",
+    "iDEAL Betaling (EUR €)",
+    "100% Buma/Stemra Goedgekeurd"
+  ],
+  "popularGenres": [
+    "Holland Street Drill Beats",
+    "Nederhop Trap",
+    "Holland Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "utrecht-overvecht-dutch-afro-bounce",
+  "name": "Overvecht Dutch Afro Bounce Beats",
+  "category": "scene",
+  "badge": "Overvecht Afro Bounce NL",
+  "headline": "Overvecht (030 Kanaleneiland & Lirische Trap) Dutch Afro Bounce Beats: 24-Bit WAV Beats & iDEAL Betaling",
+  "description": "Aanstekelijke tropische gitaarriffs, dansbare dembow swing en diepe bassen voor zangers en vocalisten in Overvecht.",
+  "targetArtists": [
+    "Artiesten uit Overvecht",
+    "Nederlandse Rap Community",
+    "Nederhop Scene"
+  ],
+  "recommendedBpm": "104-112 BPM",
+  "recommendedKey": "G-Majeur / E-Mineur",
+  "vibeAttributes": [
+    "Overvecht",
+    "Afro Bounce NL",
+    "iDEAL Betaling (EUR €)",
+    "100% Buma/Stemra Goedgekeurd"
+  ],
+  "popularGenres": [
+    "Dutch Afro Bounce Beats",
+    "Nederhop Trap",
+    "Holland Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "utrecht-overvecht-mokum-boom-bap",
+  "name": "Overvecht Mokum Classic Boom Bap",
+  "category": "scene",
+  "badge": "Overvecht Mokum Boom Bap",
+  "headline": "Overvecht (030 Kanaleneiland & Lirische Trap) Mokum Classic Boom Bap: 24-Bit WAV Beats & iDEAL Betaling",
+  "description": "Knisperende vinyl samples, droge akoestische snares en warme analoge baslijnen voor de pure hiphopkoppen in Overvecht.",
+  "targetArtists": [
+    "Artiesten uit Overvecht",
+    "Nederlandse Rap Community",
+    "Nederhop Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Mineur / D-Mineur",
+  "vibeAttributes": [
+    "Overvecht",
+    "Mokum Boom Bap",
+    "iDEAL Betaling (EUR €)",
+    "100% Buma/Stemra Goedgekeurd"
+  ],
+  "popularGenres": [
+    "Mokum Classic Boom Bap",
+    "Nederhop Trap",
+    "Holland Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "eindhoven-woensel-nederhop-trap-808",
+  "name": "Woensel Nederhop Trap 808 Beats",
+  "category": "scene",
+  "badge": "Woensel Nederhop Trap",
+  "headline": "Woensel (040 Woensel-West & Brabantse Rap Trots) Nederhop Trap 808 Beats: 24-Bit WAV Beats & iDEAL Betaling",
+  "description": "Zware sliding 808 subbassen, donkere mineur synths en strakke moderne trap snares ontworpen voor MCs in Woensel.",
+  "targetArtists": [
+    "Artiesten uit Woensel",
+    "Nederlandse Rap Community",
+    "Nederhop Scene"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "D-Mineur / A-Mineur",
+  "vibeAttributes": [
+    "Woensel",
+    "Nederhop Trap",
+    "iDEAL Betaling (EUR €)",
+    "100% Buma/Stemra Goedgekeurd"
+  ],
+  "popularGenres": [
+    "Nederhop Trap 808 Beats",
+    "Nederhop Trap",
+    "Holland Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "eindhoven-woensel-holland-street-drill",
+  "name": "Woensel Holland Street Drill Beats",
+  "category": "scene",
+  "badge": "Woensel Holland Drill",
+  "headline": "Woensel (040 Woensel-West & Brabantse Rap Trots) Holland Street Drill Beats: 24-Bit WAV Beats & iDEAL Betaling",
+  "description": "Koude mineur piano's, snelle hi-hat triplets en doordringende 808 slides gecreëerd voor artiesten in Woensel.",
+  "targetArtists": [
+    "Artiesten uit Woensel",
+    "Nederlandse Rap Community",
+    "Nederhop Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Mineur / C#-Mineur",
+  "vibeAttributes": [
+    "Woensel",
+    "Holland Drill",
+    "iDEAL Betaling (EUR €)",
+    "100% Buma/Stemra Goedgekeurd"
+  ],
+  "popularGenres": [
+    "Holland Street Drill Beats",
+    "Nederhop Trap",
+    "Holland Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "eindhoven-woensel-dutch-afro-bounce",
+  "name": "Woensel Dutch Afro Bounce Beats",
+  "category": "scene",
+  "badge": "Woensel Afro Bounce NL",
+  "headline": "Woensel (040 Woensel-West & Brabantse Rap Trots) Dutch Afro Bounce Beats: 24-Bit WAV Beats & iDEAL Betaling",
+  "description": "Aanstekelijke tropische gitaarriffs, dansbare dembow swing en diepe bassen voor zangers en vocalisten in Woensel.",
+  "targetArtists": [
+    "Artiesten uit Woensel",
+    "Nederlandse Rap Community",
+    "Nederhop Scene"
+  ],
+  "recommendedBpm": "104-112 BPM",
+  "recommendedKey": "G-Majeur / E-Mineur",
+  "vibeAttributes": [
+    "Woensel",
+    "Afro Bounce NL",
+    "iDEAL Betaling (EUR €)",
+    "100% Buma/Stemra Goedgekeurd"
+  ],
+  "popularGenres": [
+    "Dutch Afro Bounce Beats",
+    "Nederhop Trap",
+    "Holland Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "eindhoven-woensel-mokum-boom-bap",
+  "name": "Woensel Mokum Classic Boom Bap",
+  "category": "scene",
+  "badge": "Woensel Mokum Boom Bap",
+  "headline": "Woensel (040 Woensel-West & Brabantse Rap Trots) Mokum Classic Boom Bap: 24-Bit WAV Beats & iDEAL Betaling",
+  "description": "Knisperende vinyl samples, droge akoestische snares en warme analoge baslijnen voor de pure hiphopkoppen in Woensel.",
+  "targetArtists": [
+    "Artiesten uit Woensel",
+    "Nederlandse Rap Community",
+    "Nederhop Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Mineur / D-Mineur",
+  "vibeAttributes": [
+    "Woensel",
+    "Mokum Boom Bap",
+    "iDEAL Betaling (EUR €)",
+    "100% Buma/Stemra Goedgekeurd"
+  ],
+  "popularGenres": [
+    "Mokum Classic Boom Bap",
+    "Nederhop Trap",
+    "Holland Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "arnhem-presikhaaf-nederhop-trap-808",
+  "name": "Presikhaaf Nederhop Trap 808 Beats",
+  "category": "scene",
+  "badge": "Presikhaaf Nederhop Trap",
+  "headline": "Presikhaaf (026 Gelderland & Snelle Drill Flow) Nederhop Trap 808 Beats: 24-Bit WAV Beats & iDEAL Betaling",
+  "description": "Zware sliding 808 subbassen, donkere mineur synths en strakke moderne trap snares ontworpen voor MCs in Presikhaaf.",
+  "targetArtists": [
+    "Artiesten uit Presikhaaf",
+    "Nederlandse Rap Community",
+    "Nederhop Scene"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "D-Mineur / A-Mineur",
+  "vibeAttributes": [
+    "Presikhaaf",
+    "Nederhop Trap",
+    "iDEAL Betaling (EUR €)",
+    "100% Buma/Stemra Goedgekeurd"
+  ],
+  "popularGenres": [
+    "Nederhop Trap 808 Beats",
+    "Nederhop Trap",
+    "Holland Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "arnhem-presikhaaf-holland-street-drill",
+  "name": "Presikhaaf Holland Street Drill Beats",
+  "category": "scene",
+  "badge": "Presikhaaf Holland Drill",
+  "headline": "Presikhaaf (026 Gelderland & Snelle Drill Flow) Holland Street Drill Beats: 24-Bit WAV Beats & iDEAL Betaling",
+  "description": "Koude mineur piano's, snelle hi-hat triplets en doordringende 808 slides gecreëerd voor artiesten in Presikhaaf.",
+  "targetArtists": [
+    "Artiesten uit Presikhaaf",
+    "Nederlandse Rap Community",
+    "Nederhop Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Mineur / C#-Mineur",
+  "vibeAttributes": [
+    "Presikhaaf",
+    "Holland Drill",
+    "iDEAL Betaling (EUR €)",
+    "100% Buma/Stemra Goedgekeurd"
+  ],
+  "popularGenres": [
+    "Holland Street Drill Beats",
+    "Nederhop Trap",
+    "Holland Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "arnhem-presikhaaf-dutch-afro-bounce",
+  "name": "Presikhaaf Dutch Afro Bounce Beats",
+  "category": "scene",
+  "badge": "Presikhaaf Afro Bounce NL",
+  "headline": "Presikhaaf (026 Gelderland & Snelle Drill Flow) Dutch Afro Bounce Beats: 24-Bit WAV Beats & iDEAL Betaling",
+  "description": "Aanstekelijke tropische gitaarriffs, dansbare dembow swing en diepe bassen voor zangers en vocalisten in Presikhaaf.",
+  "targetArtists": [
+    "Artiesten uit Presikhaaf",
+    "Nederlandse Rap Community",
+    "Nederhop Scene"
+  ],
+  "recommendedBpm": "104-112 BPM",
+  "recommendedKey": "G-Majeur / E-Mineur",
+  "vibeAttributes": [
+    "Presikhaaf",
+    "Afro Bounce NL",
+    "iDEAL Betaling (EUR €)",
+    "100% Buma/Stemra Goedgekeurd"
+  ],
+  "popularGenres": [
+    "Dutch Afro Bounce Beats",
+    "Nederhop Trap",
+    "Holland Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "arnhem-presikhaaf-mokum-boom-bap",
+  "name": "Presikhaaf Mokum Classic Boom Bap",
+  "category": "scene",
+  "badge": "Presikhaaf Mokum Boom Bap",
+  "headline": "Presikhaaf (026 Gelderland & Snelle Drill Flow) Mokum Classic Boom Bap: 24-Bit WAV Beats & iDEAL Betaling",
+  "description": "Knisperende vinyl samples, droge akoestische snares en warme analoge baslijnen voor de pure hiphopkoppen in Presikhaaf.",
+  "targetArtists": [
+    "Artiesten uit Presikhaaf",
+    "Nederlandse Rap Community",
+    "Nederhop Scene"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Mineur / D-Mineur",
+  "vibeAttributes": [
+    "Presikhaaf",
+    "Mokum Boom Bap",
+    "iDEAL Betaling (EUR €)",
+    "100% Buma/Stemra Goedgekeurd"
+  ],
+  "popularGenres": [
+    "Mokum Classic Boom Bap",
+    "Nederhop Trap",
+    "Holland Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
 ];
