@@ -154160,4 +154160,1103 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
   "market": "Thailand",
   "sceneHub": "Pattaya (Jomtien)"
 },
+  {
+  "slug": "joe-flizzow-satu-malam-di-kl-presiden",
+  "title": "Joe Flizzow Satu Malam di KL Presidential Brass & Southeast Asian Kingpin Flow Beat",
+  "description": "Commanding, sophisticated Asian boom-trap inspired by Joe Flizzow (Satu Malam di KL, Havoc, Drop, Baek, CIAO): triumphant brass fanfare chords, punchy MPC drums, deep 808 bass, and trilingual Kuala Lumpur street prestige.",
+  "targetKeywords": [
+    "joe flizzow type beat",
+    "satu malam di kl beat wav",
+    "presiden flow hip hop beat",
+    "def jam sea type beat",
+    "malaysian hip hop godfather beat"
+  ],
+  "heroCta": "Buy Joe Flizzow Style Beat (Instant WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Executive Hip-Hop Single, International Pan-Asian Cypher and High-End Luxury Visualizer",
+  "similarArtists": [
+    "Joe Flizzow",
+    "SonaOne",
+    "ALTIMET",
+    "Jay Park"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "productionTips": "Layered live brass fanfare with punchy MPC 60 drum swing and a warm, authoritative 808 sub bassline.",
+  "idealVocalStyle": "Commanding presidential baritone delivery, trilingual wordplay (Malay, English, Tamil), and effortless street prestige.",
+  "suggestedKey": "D Minor / G Minor",
+  "streamingSuitability": "Dominates Spotify Hip-Hop MY, Def Jam South East Asia playlists, and international Asian urban curations."
+},
+  {
+  "slug": "sonaone-no-more-melodic-rnb-trap",
+  "title": "SonaOne No More Silky French-Malay Rhodes & Modern Melodic R&B Beat",
+  "description": "Silky smooth, radio-ready urban R&B and melodic trap inspired by SonaOne (No More, Hakeleh, Kueh, Appreciate, Look Around): warm chorused Fender Rhodes keys, airy vocal pads, and infectious autotune hooks.",
+  "targetKeywords": [
+    "sonaone type beat",
+    "no more sonaone beat wav",
+    "melodic rnb trap beat malaysia",
+    "def jam sea rnb instrumental",
+    "sonaone style beat download"
+  ],
+  "heroCta": "Buy SonaOne Style Beat (WAV 24-bit)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Commercial Radio R&B Single, Romantic Urban Track and Late-Night Driving Visualizer",
+  "similarArtists": [
+    "SonaOne",
+    "Alif",
+    "Kaka Azraff",
+    "JustaTee"
+  ],
+  "recommendedBpm": "94-100 BPM",
+  "productionTips": "Warm chorused Rhodes chords layered with subtle vocoder ear candy and a deep, rounded sub bass pocket.",
+  "idealVocalStyle": "Silky smooth falsetto runs, soulful bilingual English/Malay melodies, and stylish conversational rap verses.",
+  "suggestedKey": "Ab Major / F Minor",
+  "streamingSuitability": "Heavy mainstream rotation across Hitz FM, Era FM, and Spotify Pop Terkini."
+},
+  {
+  "slug": "forceparkbois-lot-10-street-drill-jb",
+  "title": "ForceParkBois LOT 10 Raw Johor Bahru Street Drill & Sliding 808 Beat",
+  "description": "Explosive, raw street drill inspired by ForceParkBois (LOT 10, ULTRA, Top Boy, Sa-Mpan, SHEESH): icy minor bells, aggressive multi-octave 808 sub glides, rapid-fire Malay street slang, and unapologetic hood realism.",
+  "targetKeywords": [
+    "forceparkbois type beat",
+    "lot 10 forceparkbois beat wav",
+    "jb street drill beat 808",
+    "malaysian drill instrumental",
+    "ultra forceparkbois type beat"
+  ],
+  "heroCta": "Buy ForceParkBois Style Beat (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hardcore Street Record, Gritty Crew Cypher and High-Intensity Workout Banger",
+  "similarArtists": [
+    "ForceParkBois",
+    "Luqman Podolski",
+    "Central Cee",
+    "A92"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Menacing dark bell ostinatos drenched in hall reverb paired with multi-octave sliding 808s and sharp counter snares.",
+  "idealVocalStyle": "Aggressive crew back-and-forth delivery, authentic JB street slang, rapid triplet drill cadences, and raw energy.",
+  "suggestedKey": "C# Minor / G# Minor",
+  "streamingSuitability": "Dominates Malaysian underground YouTube cyphers, Spotify Drill Nusantara, and streetwear playlists."
+},
+  {
+  "slug": "luqman-podolski-kemas-viral-parody-trap",
+  "title": "Luqman Podolski Kemas Viral Bouncy Comedy-Trap & Playful Malay Beat",
+  "description": "High-energy, quirky viral Malaysian comedy-rap and modern bouncy trap inspired by Luqman Podolski (Kemas, Kalau Kau Rindu, Sorang, Ring Ring): bouncy 808 kicks, bright synths, and relatable youth culture charisma.",
+  "targetKeywords": [
+    "luqman podolski type beat",
+    "kemas luqman podolski beat wav",
+    "bouncy viral trap beat malaysia",
+    "luqman podolski instrumental",
+    "funny malay rap beat"
+  ],
+  "heroCta": "Buy Luqman Podolski Style Beat (Instant WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Viral TikTok Trend, Comedy-Rap Single and High-Energy Social Media Visualizer",
+  "similarArtists": [
+    "Luqman Podolski",
+    "Yonnyboii",
+    "Zynakal",
+    "Ismail Izzani"
+  ],
+  "recommendedBpm": "100-106 BPM",
+  "productionTips": "Punchy kick-clap trap groove with bright melodic ear candy and plenty of headroom for animated vocal inflections.",
+  "idealVocalStyle": "Playful cadence switches, humorous everyday observations, relatable Malay slang, and catchy singalong hooks.",
+  "suggestedKey": "G Minor / C Minor",
+  "streamingSuitability": "Top tier virality across TikTok Malaysia, Reels, and Malaysian Gen-Z youth playlists."
+},
+  {
+  "slug": "yonnyboii-sakit-melodic-emo-acoustic-rap",
+  "title": "Yonnyboii Sakit Melodic Acoustic Nylon Guitar & Emo-Trap Beat",
+  "description": "Deeply emotional, vulnerable acoustic emo-trap inspired by Yonnyboii (Sakit, Salahku, Boleh Bla, Bayang): nostalgic nylon guitar picking, deep resonant 808s, and raw heartfelt Malay singalong choruses.",
+  "targetKeywords": [
+    "yonnyboii type beat",
+    "sakit yonnyboii beat wav",
+    "emo trap beat malaysia",
+    "acoustic guitar rap beat malay",
+    "yonnyboii instrumental download"
+  ],
+  "heroCta": "Buy Yonnyboii Style Beat (WAV 24-bit)",
+  "energyLevel": "Medium",
+  "primaryUse": "Heartfelt Romance Single, Sad Boy Acoustic Visualizer and Emotional Storytelling Track",
+  "similarArtists": [
+    "Yonnyboii",
+    "Zynakal",
+    "SARAN",
+    "MCK"
+  ],
+  "recommendedBpm": "88-95 BPM",
+  "productionTips": "Warm fingerpicked nylon acoustic guitars tracked with analog depth over clean modern trap drums and deep sub bass.",
+  "idealVocalStyle": "Passionate singing and rap delivery, emotional vulnerability, sincere Malay lyrics, and anthemic singalong choruses.",
+  "suggestedKey": "G Major / E Minor",
+  "streamingSuitability": "Massive multi-million streams across Spotify Top 50 Malaysia, Carta Hits Malaysia, and sad acoustic curations."
+},
+  {
+  "slug": "k-clique-mimpi-borneo-sabah-swag",
+  "title": "K-Clique Mimpi West Coast Bouncing 808s & Anthemic Sabahan Swag Beat",
+  "description": "Massive 8-member Sabahan powerhouse hip-hop inspired by K-Clique (Mimpi, Sah, Pulang, Merais): heavy West Coast-inspired 808 bounces, bright metallic synthesizers, swaggering Bornean slang, and anthemic choruses.",
+  "targetKeywords": [
+    "k clique type beat",
+    "mimpi k clique beat wav",
+    "sabahan rap beat 808",
+    "k clique instrumental",
+    "west coast bounce malaysia beat"
+  ],
+  "heroCta": "Buy K-Clique Style Beat (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Crowd-Igniting Festival Anthem, Massive Crew Single and High-Energy Music Video",
+  "similarArtists": [
+    "K-Clique",
+    "MK K-Clique",
+    "Noki",
+    "Tuju"
+  ],
+  "recommendedBpm": "96-102 BPM",
+  "productionTips": "Warm rolling West Coast sub-bass with sharp snappy snares, melodic whistle synth accents, and clean headroom.",
+  "idealVocalStyle": "Dynamic multi-member tag-team flows, distinctive Sabahan slang, confident swagger, and stadium hooks.",
+  "suggestedKey": "F Minor / Bb Minor",
+  "streamingSuitability": "Dominates Malaysian streaming charts, festival headline slots, and youth culture lifestyle videos."
+},
+  {
+  "slug": "borneo-sape-dayak-rainforest-trap",
+  "title": "Borneo Sape Boat Lute & Dayak Rainforest Mystical 808 Trap Beat",
+  "description": "Sacred Bornean Dayak cultural crossover: traditional acoustic Sape boat lute arpeggios, tropical rainforest Foley, and heavy modern 808 sub drops for cultural hip-hop artists.",
+  "targetKeywords": [
+    "borneo sape trap beat 808",
+    "dayak rap beat wav",
+    "sarawak sape hip hop instrumental",
+    "borneo ethnic trap beat",
+    "sape instrument rap beat"
+  ],
+  "heroCta": "Buy Borneo Sape Trap Beat (Instant WAV)",
+  "energyLevel": "High",
+  "primaryUse": "National Cultural Masterpiece, Rainforest World Music Festival Single and Epic Travel Visualizer",
+  "similarArtists": [
+    "Alena Murang",
+    "Zee Avi (Trap)",
+    "Namewee",
+    "FAZZ"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "productionTips": "Hand-recorded Sape lute melodies layered with tropical bird and water sound design over a heavy 808 sub-bass foundation.",
+  "idealVocalStyle": "Passionate Bornean native/Malay/English bilingual poetry, spiritual chanting, and majestic vocal delivery.",
+  "suggestedKey": "D Major / B Minor",
+  "streamingSuitability": "Huge national pride appeal across YouTube Malaysia, cultural documentaries, and world music festivals."
+},
+  {
+  "slug": "gamelan-melayu-caklempong-royal-trap",
+  "title": "Royal Gamelan Melayu Bronze Gongs & Caklempong 808 Trap Beat",
+  "description": "Traditional Royal Malay Gamelan and Caklempong bronze gong melodies fused with contemporary 808 trap drops and crisp modern claps for groundbreaking Malaysian cultural tracks.",
+  "targetKeywords": [
+    "gamelan melayu trap beat",
+    "caklempong hip hop beat wav",
+    "royal malay trap beat 808",
+    "traditional malay rap instrumental",
+    "gamelan 808 beat malaysia"
+  ],
+  "heroCta": "Buy Gamelan Melayu Trap Beat (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "National Cultural Anthem, Silat Martial Arts Walkout Track and Epic Stage Visualizer",
+  "similarArtists": [
+    "Malique (Folk)",
+    "Kmy Kmo",
+    "Luca Sickta",
+    "Dato' Sri Siti Nurhaliza (Trap)"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "productionTips": "Resonant bronze Caklempong and Gong agung loops layered over an overdriven 808 sub bassline and crisp trap claps.",
+  "idealVocalStyle": "Classical Malay poetic pantun rhyme schemes, proud historical storytelling, and aggressive delivery.",
+  "suggestedKey": "Slendro Malay Scale (Tuned to E Minor)",
+  "streamingSuitability": "High virality on Merdeka national day specials, traditional silat videos, and Malaysian cultural playlists."
+},
+  {
+  "slug": "kuala-lumpur-klcc-midnight-rain-lofi",
+  "title": "Kuala Lumpur KLCC Midnight Rain Warm Rhodes & Bukit Bintang Lofi Beat",
+  "description": "Nocturnal, moody metropolitan transit soundtrack inspired by Kuala Lumpur's rainy evenings overlooking the Petronas Twin Towers: warm tape-saturated Rhodes keys, city rain Foley, and unquantized dusty boom bap drums.",
+  "targetKeywords": [
+    "kuala lumpur lofi beat",
+    "klcc midnight rain lofi beat wav",
+    "malaysia chillhop instrumental",
+    "bukit bintang lofi study beat",
+    "malay chill rap beat"
+  ],
+  "heroCta": "Buy KL Midnight Lofi Beat (Instant WAV)",
+  "energyLevel": "Low-Medium",
+  "primaryUse": "Late-Night Commute Soundtrack, Study and Focus Background and Aesthetic KL Skyline Visualizer",
+  "similarArtists": [
+    "Midnight Fusic",
+    "Late Night Frequency",
+    "ChilledCow",
+    "Tom Misch"
+  ],
+  "recommendedBpm": "82-86 BPM",
+  "productionTips": "Analog tape flutter on vintage electric piano chords with authentic KL tropical rainfall Foley and soft acoustic kicks.",
+  "idealVocalStyle": "Intimate poetic whisper, gentle spoken word, melodic Malay hums, and late-night nostalgic observations.",
+  "suggestedKey": "F Major / D Minor",
+  "streamingSuitability": "Evergreen placement on lofi study playlists, nocturnal chill streams, and aesthetic travel YouTube channels."
+},
+  {
+  "slug": "penang-george-town-heritage-jazz-hop",
+  "title": "Penang George Town Heritage Murals Sampled Jazz Horns & Island Boom Bap Beat",
+  "description": "Nostalgic, bohemian coastal boom bap paying homage to George Town's historic shophouses and heritage murals: warm sampled jazz saxophone riffs, acoustic upright bass, and unhurried street poetry pocket.",
+  "targetKeywords": [
+    "penang jazz hop beat",
+    "george town boom bap beat wav",
+    "malaysian jazz rap instrumental",
+    "penang lofi hip hop beat",
+    "island boom bap malaysia"
+  ],
+  "heroCta": "Buy Penang Heritage Jazz-Hop Beat (Instant WAV)",
+  "energyLevel": "Medium",
+  "primaryUse": "Conscious Hip-Hop Track, Bohemian Travel Visualizer and Streetwear Lifestyle Single",
+  "similarArtists": [
+    "Fariz Jabba",
+    "Yung Raja",
+    "Altimet",
+    "Loyle Carner"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "productionTips": "Warm vinyl crackle, authentic sampled jazz saxophone loops, and punchy acoustic kick-snare pocket.",
+  "idealVocalStyle": "Laid-back trilingual delivery (English, Malay, Hokkien), witty street observations, and smooth boom bap cadence.",
+  "suggestedKey": "D Minor / A Minor",
+  "streamingSuitability": "Cherished by Southeast Asian hip-hop purists, conscious rap playlists, and travel lifestyle content."
+},
+  {
+  "slug": "malaysian-tamil-dr-burn-street-gaana-trap",
+  "title": "Malaysian Tamil Dr. Burn Thavil Drums & Gaana-Trap Brass 808 Beat",
+  "description": "High-energy Malaysian Tamil hip-hop and Gaana-trap crossover inspired by Dr. Burn and Psycho.unit: rapid Thavil drum rolls, piercing Nadaswaram horn stabs, and booming 808 sub drops.",
+  "targetKeywords": [
+    "malaysian tamil rap beat",
+    "dr burn type beat wav",
+    "gaana trap beat 808",
+    "psycho unit tamil hip hop beat",
+    "tamil street rap instrumental malaysia"
+  ],
+  "heroCta": "Buy Malaysian Tamil Gaana-Trap Beat (WAV 24-bit)",
+  "energyLevel": "Maximum",
+  "primaryUse": "High-Energy Street Single, Dance Challenge and Festival Mainstage Performance",
+  "similarArtists": [
+    "Dr. Burn",
+    "Yogi B",
+    "Sheezay",
+    "Santesh"
+  ],
+  "recommendedBpm": "108-116 BPM",
+  "productionTips": "Authentic South Indian Thavil drum rolls and Nadaswaram trumpet stabs layered over an aggressive, distorted 808 sub bassline.",
+  "idealVocalStyle": "Fast-paced Malaysian Tamil street cadence, energetic call-and-response chants, and commanding vocal authority.",
+  "suggestedKey": "G Minor / C Minor",
+  "streamingSuitability": "Dominates Malaysian Indian streaming, global Tamil diaspora playlists, and viral street dance videos."
+},
+  {
+  "slug": "jb-woodlands-causeway-cross-border-drill",
+  "title": "JB Woodlands Causeway Cross-Border Minor Bells & Heavy 808 Drill Beat",
+  "description": "Menacing cross-border drill reality between Johor Bahru and Singapore: cold minor bell arpeggios, aggressive multi-octave 808 glides, and bilingual Malay/Singlish cadence.",
+  "targetKeywords": [
+    "cross border drill beat 808",
+    "jb woodlands causeway rap beat",
+    "malaysia singapore drill instrumental wav",
+    "forceparkbois style drill beat",
+    "southeast asian street drill"
+  ],
+  "heroCta": "Buy Causeway Cross-Border Drill Beat (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hardcore Street Record, Gritty Music Video and Heavy Gym Workout Playlist Lead",
+  "similarArtists": [
+    "ForceParkBois",
+    "ShiGGa Shay",
+    "Yung Raja",
+    "A92"
+  ],
+  "recommendedBpm": "142-145 BPM",
+  "productionTips": "Ominous minor bell progressions, aggressive multi-octave 808 slides, and sharp, piercing counter-snares.",
+  "idealVocalStyle": "Gritty low baritone delivery, fast drill flows, authentic JB street slang, and dark atmospheric ad-libs.",
+  "suggestedKey": "F# Minor / C# Minor",
+  "streamingSuitability": "High virality on SoundCloud, YouTube street cyphers, and underground urban circuits across Malaysia and Singapore."
+},
+  {
+  "slug": "cheap-malaysian-rap-beats-tng-ewallet-myr",
+  "title": "Cheap Malaysian Rap Beats from RM 80 MYR (Instant QR via Touch 'n Go & DuitNow)",
+  "description": "Professional Malaysian hip-hop, trap, and R&B instrumentals starting from RM 80 MYR (~$18 USD) with instant QR code payment via Touch 'n Go eWallet, DuitNow QR, and GrabPay.",
+  "targetKeywords": [
+    "cheap malaysian rap beats tng ewallet myr",
+    "buy beats malaysia duitnow",
+    "affordable malay rap beats rm",
+    "beat rap malaysia touch n go"
+  ],
+  "heroCta": "Browse Beats from RM 80 MYR (Touch 'n Go / DuitNow)",
+  "energyLevel": "Variable",
+  "primaryUse": "Debut Singles, Home Studio Recording and Independent Mixtapes with Commercial License",
+  "similarArtists": [
+    "Independent Malaysian Rappers",
+    "KL & JB Content Creators"
+  ],
+  "recommendedBpm": "88-144 BPM",
+  "productionTips": "Pre-mixed and mastered with wide vocal headroom specifically optimized for Bahasa Melayu, English, and Tamil vocal recording.",
+  "idealVocalStyle": "Versatile for melodic autotune singing, fast drill flows, or smooth R&B verses.",
+  "suggestedKey": "All Major and Minor Keys Available",
+  "streamingSuitability": "Commercial license covering up to 250,000 streams on Spotify, Apple Music, and YouTube."
+},
+  {
+  "slug": "commercial-malay-rnb-trap-beats-wav-stems",
+  "title": "Commercial Malay R&B-Trap Beats with Multitrack WAV Stems (SonaOne Style)",
+  "description": "Smooth, nocturnal Kuala Lumpur R&B and melodic trap instrumentals delivered with all uncompressed multitrack audio stems (WAV 24-bit) for professional studio mixing in KL and Petaling Jaya.",
+  "targetKeywords": [
+    "commercial malay rnb trap beats wav stems",
+    "malay rnb instrumental multitrack stems",
+    "buy beats stems malaysia wav",
+    "sonaone style stems beat download"
+  ],
+  "heroCta": "Download Beats with Multitrack WAV Stems",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Professional Studio Tracking, EP/Album Recording and Commercial Radio Master",
+  "similarArtists": [
+    "SonaOne",
+    "Alif",
+    "Ismail Izzani",
+    "Kaka Azraff"
+  ],
+  "recommendedBpm": "94-102 BPM",
+  "productionTips": "Individual 24-bit 48kHz WAV audio tracks labeled with exact tempo and key for instant Pro Tools, Logic Pro, and FL Studio import.",
+  "idealVocalStyle": "Silky smooth falsetto runs, soulful Malay/English lyrics, and catchy commercial chorus hooks.",
+  "suggestedKey": "Ab Major / F Minor",
+  "streamingSuitability": "Radio-ready loudness standards suitable for mainstream Malaysian radio (Hitz, Era) and Spotify Top 50."
+},
+  {
+  "slug": "malaysian-drill-beats-sliding-808s-forceparkbois",
+  "title": "Malaysian Street Drill Beats with Sliding 808s (ForceParkBois & Def Jam SEA Style)",
+  "description": "Hardcore Malaysian street drill beats with aggressive multi-octave sliding 808s, cold minor bells, and rapid counter-snare rolls for authoritative street MCs in JB and KL.",
+  "targetKeywords": [
+    "malaysian drill beats sliding 808s forceparkbois",
+    "jb street drill instrumental",
+    "malaysia drill type beat 2024",
+    "forceparkbois style drill beat wav"
+  ],
+  "heroCta": "Download Malaysian Drill Beats (Instant WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hardcore Street Record, Gritty Music Video and Heavy Gym Workout Track",
+  "similarArtists": [
+    "ForceParkBois",
+    "Luqman Podolski",
+    "Central Cee",
+    "A92"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Menacing minor keys, multi-octave 808 portamento glides, and piercing snares tuned for street impact.",
+  "idealVocalStyle": "Aggressive street confidence, rapid triplet drill cadences, authentic Malay slang, and dark atmospheric ad-libs.",
+  "suggestedKey": "C# Minor / G# Minor",
+  "streamingSuitability": "Dominates underground YouTube drill channels, SoundCloud Malaysia, and urban street playlists."
+},
+  {
+  "slug": "macp-music-licensing-agreement-pdf-malaysia",
+  "title": "Malaysian Music Producer Licensing Agreement (Compliant with MACP, MyIPO & Copyright Act 1987)",
+  "description": "Legally binding Malaysian music production contract 100% compliant with Music Authors' Copyright Protection (MACP), MyIPO, and the Malaysian Copyright Act 1987 with instant signed PDF agreement and split sheet.",
+  "targetKeywords": [
+    "macp music licensing agreement pdf malaysia",
+    "beat contract malaysia macp",
+    "malay music producer agreement pdf",
+    "beat licensing split sheet malaysia"
+  ],
+  "heroCta": "Buy Beat with MACP Legal PDF Contract",
+  "energyLevel": "Professional",
+  "primaryUse": "Legal Song Registration with MACP/MyIPO, Commercial DSP Distribution and TV/Film Sync",
+  "similarArtists": [
+    "Independent Malaysian Songwriters, Rappers and Music Producers"
+  ],
+  "recommendedBpm": "Applicable across all tempos",
+  "productionTips": "Transparent clauses: standard 50/50 publishing split and 100% master revenue retention up to the commercial streaming limit.",
+  "idealVocalStyle": "Essential for any Malaysian recording artist seeking commercial airplay on Era FM, Hot FM, and international royalty collection.",
+  "suggestedKey": "Universal Legal Standard",
+  "streamingSuitability": "Guaranteed clearance for commercial Spotify uploads, sync licensing, and radio broadcast royalties."
+},
+  {
+  "slug": "buy-beats-touch-n-go-duitnow-malaysia-instant",
+  "title": "Buy Beats with Touch 'n Go & DuitNow in Malaysia (Instant Automated Digital Download in MYR RM)",
+  "description": "The fastest, most seamless way for Malaysian artists to buy beats: scan and pay using Touch 'n Go eWallet or DuitNow QR (any Malaysian bank) and receive an automated instant email download link for WAV files and license.",
+  "targetKeywords": [
+    "buy beats touch n go duitnow malaysia instant",
+    "tng ewallet beat store malaysia",
+    "buy instrumental using duitnow myr",
+    "instant beat download malaysia touch n go"
+  ],
+  "heroCta": "Buy Beats with Touch 'n Go / DuitNow Now",
+  "energyLevel": "Instant",
+  "primaryUse": "Immediate Beat Purchase for Urgent Kuala Lumpur, Petaling Jaya, and Johor Bahru Studio Sessions",
+  "similarArtists": [
+    "Malaysian Creators across KL, Selangor, Johor, Penang, and Sabah"
+  ],
+  "recommendedBpm": "80-150 BPM",
+  "productionTips": "Instant automated digital delivery via high-speed cloud download servers.",
+  "idealVocalStyle": "Compatible with all urban music genres in Malay, English, and Tamil.",
+  "suggestedKey": "All Tonalities",
+  "streamingSuitability": "Includes commercial license ready for instant worldwide distribution."
+},
+  {
+  "slug": "album-ep-beat-packages-malaysia-discount",
+  "title": "Album & EP Beat Packages in Malaysia (40% Off Bundle Discount in MYR RM)",
+  "description": "Save 40% when purchasing bundles of 5 to 10 sonically cohesive instrumentals to produce your next EP, mixtape, or full-length album in Malaysia with a unified commercial license in Malaysian Ringgit (RM).",
+  "targetKeywords": [
+    "album ep beat packages malaysia discount",
+    "malay rap beat bundle discount tng",
+    "buy bulk beats kuala lumpur myr",
+    "5 beat package album discount malaysia"
+  ],
+  "heroCta": "Get Album Beat Package (40% Off)",
+  "energyLevel": "Variable",
+  "primaryUse": "Full Album Production, Cohesive Sonic Identity and Continuous Release Strategy",
+  "similarArtists": [
+    "Emerging Malaysian Hip-Hop Groups, Collectives and Solo MCs"
+  ],
+  "recommendedBpm": "85-144 BPM",
+  "productionTips": "Coordinated tempos and harmonic textures designed to deliver an uninterrupted album listening experience.",
+  "idealVocalStyle": "Room to showcase an artist's full melodic and lyrical range across multiple tracks.",
+  "suggestedKey": "Full Harmonic Spectrum",
+  "streamingSuitability": "Unified commercial license covering all tracks on your EP or album at once."
+},
+  {
+  "slug": "productor-musical-malaysia-whatsapp-onzieb",
+  "title": "Exclusive Music Producer for Malaysian Artists (Direct WhatsApp Consultation with Onzieb)",
+  "description": "Collaborate directly with music producer Onzieb via WhatsApp for custom instrumentals: key changes, custom song structure adjustments, multi-track mixing, and bespoke Malaysian trap, R&B, and Sape fusion production.",
+  "targetKeywords": [
+    "productor musical malaysia whatsapp onzieb",
+    "onzieb music producer kuala lumpur",
+    "custom beat producer malaysia whatsapp",
+    "hire beatmaker kuala lumpur online"
+  ],
+  "heroCta": "Chat with Onzieb on WhatsApp",
+  "energyLevel": "Custom",
+  "primaryUse": "Bespoke Production, Signature Sound Creation and Commercial Lead Singles",
+  "similarArtists": [
+    "Onzieb",
+    "Top Tier Malaysian and Asian Music Producers"
+  ],
+  "recommendedBpm": "Custom tailored to the artist's vocal cadence and natural pocket",
+  "productionTips": "Rapid iteration via WhatsApp voice notes and high-speed stem exchanges for real-time arrangement adjustments.",
+  "idealVocalStyle": "Engineered specifically to elevate the vocalist's unique tone, timbre, and personality.",
+  "suggestedKey": "Custom Tailored Key",
+  "streamingSuitability": "Includes exclusive buyout options with 100% master rights and unrestricted commercial monetization."
+},
+  {
+  "slug": "borneo-sape-ethnic-trap-beats-wav",
+  "title": "Borneo Sape & Dayak Rainforest Ethnic Trap Beats (Mystical 808 Fusion WAV)",
+  "description": "Mystical Bornean Dayak ethnic trap instrumentals featuring authentic Sape boat lute arpeggios, Sompoton bamboo mouth organs, and deep modern 808 sub drops for cultural masterpieces.",
+  "targetKeywords": [
+    "borneo sape ethnic trap beats wav",
+    "sape lute trap beat download",
+    "dayak hip hop beat 808",
+    "sarawak ethnic rap instrumental"
+  ],
+  "heroCta": "Discover Borneo Sape Trap Beats",
+  "energyLevel": "High",
+  "primaryUse": "Cultural Masterpiece, Rainforest World Music Single and Epic Travel Visualizer",
+  "similarArtists": [
+    "Alena Murang",
+    "Zee Avi",
+    "Namewee",
+    "FAZZ"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "productionTips": "Authentic plucked Sape boat lute recordings layered with rainforest sound design and an immovable 808 sub foundation.",
+  "idealVocalStyle": "Passionate bilingual Dayak/Malay/English delivery, cultural chanting, and melodic storytelling.",
+  "suggestedKey": "D Major / B Minor",
+  "streamingSuitability": "High viral national pride reach across YouTube Malaysia, cultural television, and world music festivals."
+},
+  {
+  "slug": "acoustic-guitar-malay-rap-beats-yonnyboii-wav",
+  "title": "Heartfelt Malay Acoustic Guitar Rap Beats (Yonnyboii & Emo-Trap Style)",
+  "description": "Melancholic, emotionally resonant Malay acoustic rap beats featuring real fingerpicked nylon guitar chords and warm 808s for romantic storytelling and viral hit singles.",
+  "targetKeywords": [
+    "acoustic guitar malay rap beats yonnyboii wav",
+    "malay acoustic rap beat download",
+    "yonnyboii emotional type beat",
+    "heartfelt malay hip hop beat"
+  ],
+  "heroCta": "Explore Acoustic Malay Rap Beats",
+  "energyLevel": "Medium",
+  "primaryUse": "Viral Romance Single, Acoustic Radio Hit and Emotional Storytelling Track",
+  "similarArtists": [
+    "Yonnyboii",
+    "Zynakal",
+    "SARAN",
+    "Ismail Izzani"
+  ],
+  "recommendedBpm": "88-96 BPM",
+  "productionTips": "Real acoustic guitars captured with warm analog preamps, backed by tight, round sub-bass and intimate snares.",
+  "idealVocalStyle": "Passionate, vulnerable singing and rap delivery with heartfelt Malay emotional hooks.",
+  "suggestedKey": "G Major / E Minor",
+  "streamingSuitability": "Exceptional viral reach across TikTok Malaysia, Spotify Top 50 Malaysia, and Carta Hits Malaysia."
+},
+  {
+  "slug": "free-malaysian-hip-hop-drum-kit-wav-download",
+  "title": "Free Malaysian Hip-Hop Drum Kit (24-Bit WAV Samples, 808s, Sape Plucks & Drill Snares)",
+  "description": "Download our exclusive free sound pack for Malaysian music producers: 30 tuned 808 sub-basses, crisp drill snares, Sape lute plucks, and punchy kicks in studio-grade 24-bit WAV format.",
+  "targetKeywords": [
+    "free malaysian hip hop drum kit wav download",
+    "malaysia drum kit free download fl studio",
+    "sape samples free wav",
+    "malay rap sound pack 808 download"
+  ],
+  "heroCta": "Download Free Malaysian Drum Kit (ZIP)",
+  "energyLevel": "High",
+  "primaryUse": "Music Production in Home Studios, Beatmaking in FL Studio, Ableton Live and Logic Pro",
+  "similarArtists": [
+    "Independent Malaysian Beatmakers",
+    "Emerging Bedroom Producers in KL and JB"
+  ],
+  "recommendedBpm": "Compatible with all tempos from 80 to 160 BPM",
+  "productionTips": "One-shot samples processed with analog outboard gear and zero clipping, 100% royalty-free.",
+  "idealVocalStyle": "Rock-solid rhythmic foundation for crafting professional Malaysian hip-hop, R&B, and street drill instrumentals.",
+  "suggestedKey": "Tuned to C for immediate transposition in any sampler",
+  "streamingSuitability": "100% royalty-free for commercial music releases and beat sales worldwide."
+},
+  {
+  "slug": "kl-bukitbintang-malay-rnb-trap-slowjam",
+  "name": "Kuala Lumpur (Bukit Bintang) Malay R&B-Trap Slow Jam Beats",
+  "badge": "Malay R&B",
+  "headline": "Malay R&B-Trap Slow Jam Beats in Kuala Lumpur (Bukit Bintang): Golden Triangle & Sleek Urban Neo-Soul",
+  "description": "Warm Rhodes keys, atmospheric vocal pads and smooth sub-bass with instant checkout via Touch 'n Go for vocalists in Kuala Lumpur (Bukit Bintang).",
+  "targetKeywords": [
+    "malay r&b-trap slow jam beats kuala lumpur (bukit bintang)",
+    "buy beats kuala lumpur (bukit bintang) touch n go",
+    "malaysian malay r&b instrumental",
+    "beats in kuala lumpur (bukit bintang) wav download"
+  ],
+  "heroCta": "Download Beats in Kuala Lumpur (Bukit Bintang) (Touch 'n Go / WAV)",
+  "recommendedBpm": "90-96 BPM",
+  "suggestedKey": "Ab-Major / F-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Malaysia",
+  "sceneHub": "Kuala Lumpur (Bukit Bintang)"
+},
+  {
+  "slug": "kl-bukitbintang-borneo-sape-ethnic-trap-808",
+  "name": "Kuala Lumpur (Bukit Bintang) Borneo Sape Ethnic Trap 808 Beats",
+  "badge": "Borneo Sape Trap",
+  "headline": "Borneo Sape Ethnic Trap 808 Beats in Kuala Lumpur (Bukit Bintang): Golden Triangle & Sleek Urban Neo-Soul",
+  "description": "Authentic Sape boat lute arpeggios, rainforest percussion and heavy modern 808s designed for cultural performers in Kuala Lumpur (Bukit Bintang).",
+  "targetKeywords": [
+    "borneo sape ethnic trap 808 beats kuala lumpur (bukit bintang)",
+    "buy beats kuala lumpur (bukit bintang) touch n go",
+    "malaysian borneo sape trap instrumental",
+    "beats in kuala lumpur (bukit bintang) wav download"
+  ],
+  "heroCta": "Download Beats in Kuala Lumpur (Bukit Bintang) (Touch 'n Go / WAV)",
+  "recommendedBpm": "130-136 BPM",
+  "suggestedKey": "D-Major / B-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Malaysia",
+  "sceneHub": "Kuala Lumpur (Bukit Bintang)"
+},
+  {
+  "slug": "kl-bukitbintang-malaysian-street-drill-808",
+  "name": "Kuala Lumpur (Bukit Bintang) Malaysian Street Drill 808 Beats",
+  "badge": "Malaysian Drill",
+  "headline": "Malaysian Street Drill 808 Beats in Kuala Lumpur (Bukit Bintang): Golden Triangle & Sleek Urban Neo-Soul",
+  "description": "Menacing minor bells, rapid drill hats and subterranean sliding 808 sub-bass designed for street MCs in Kuala Lumpur (Bukit Bintang).",
+  "targetKeywords": [
+    "malaysian street drill 808 beats kuala lumpur (bukit bintang)",
+    "buy beats kuala lumpur (bukit bintang) touch n go",
+    "malaysian malaysian drill instrumental",
+    "beats in kuala lumpur (bukit bintang) wav download"
+  ],
+  "heroCta": "Download Beats in Kuala Lumpur (Bukit Bintang) (Touch 'n Go / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "C#-Minor / G#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Malaysia",
+  "sceneHub": "Kuala Lumpur (Bukit Bintang)"
+},
+  {
+  "slug": "kl-bukitbintang-acoustic-malay-chillhop",
+  "name": "Kuala Lumpur (Bukit Bintang) Acoustic Malay Chillhop Beats",
+  "badge": "Acoustic Malay",
+  "headline": "Acoustic Malay Chillhop Beats in Kuala Lumpur (Bukit Bintang): Golden Triangle & Sleek Urban Neo-Soul",
+  "description": "Warm nylon guitar picking, unquantized dusty boom bap drums and emotional melodies for poetic artists in Kuala Lumpur (Bukit Bintang).",
+  "targetKeywords": [
+    "acoustic malay chillhop beats kuala lumpur (bukit bintang)",
+    "buy beats kuala lumpur (bukit bintang) touch n go",
+    "malaysian acoustic malay instrumental",
+    "beats in kuala lumpur (bukit bintang) wav download"
+  ],
+  "heroCta": "Download Beats in Kuala Lumpur (Bukit Bintang) (Touch 'n Go / WAV)",
+  "recommendedBpm": "80-86 BPM",
+  "suggestedKey": "G-Major / E-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Malaysia",
+  "sceneHub": "Kuala Lumpur (Bukit Bintang)"
+},
+  {
+  "slug": "selangor-sunway-malay-rnb-trap-slowjam",
+  "name": "Selangor (Bandar Sunway) Malay R&B-Trap Slow Jam Beats",
+  "badge": "Malay R&B",
+  "headline": "Malay R&B-Trap Slow Jam Beats in Selangor (Bandar Sunway): Bandar Sunway & Modern College Trap",
+  "description": "Warm Rhodes keys, atmospheric vocal pads and smooth sub-bass with instant checkout via Touch 'n Go for vocalists in Selangor (Bandar Sunway).",
+  "targetKeywords": [
+    "malay r&b-trap slow jam beats selangor (bandar sunway)",
+    "buy beats selangor (bandar sunway) touch n go",
+    "malaysian malay r&b instrumental",
+    "beats in selangor (bandar sunway) wav download"
+  ],
+  "heroCta": "Download Beats in Selangor (Bandar Sunway) (Touch 'n Go / WAV)",
+  "recommendedBpm": "90-96 BPM",
+  "suggestedKey": "Ab-Major / F-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Malaysia",
+  "sceneHub": "Selangor (Bandar Sunway)"
+},
+  {
+  "slug": "selangor-sunway-borneo-sape-ethnic-trap-808",
+  "name": "Selangor (Bandar Sunway) Borneo Sape Ethnic Trap 808 Beats",
+  "badge": "Borneo Sape Trap",
+  "headline": "Borneo Sape Ethnic Trap 808 Beats in Selangor (Bandar Sunway): Bandar Sunway & Modern College Trap",
+  "description": "Authentic Sape boat lute arpeggios, rainforest percussion and heavy modern 808s designed for cultural performers in Selangor (Bandar Sunway).",
+  "targetKeywords": [
+    "borneo sape ethnic trap 808 beats selangor (bandar sunway)",
+    "buy beats selangor (bandar sunway) touch n go",
+    "malaysian borneo sape trap instrumental",
+    "beats in selangor (bandar sunway) wav download"
+  ],
+  "heroCta": "Download Beats in Selangor (Bandar Sunway) (Touch 'n Go / WAV)",
+  "recommendedBpm": "130-136 BPM",
+  "suggestedKey": "D-Major / B-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Malaysia",
+  "sceneHub": "Selangor (Bandar Sunway)"
+},
+  {
+  "slug": "selangor-sunway-malaysian-street-drill-808",
+  "name": "Selangor (Bandar Sunway) Malaysian Street Drill 808 Beats",
+  "badge": "Malaysian Drill",
+  "headline": "Malaysian Street Drill 808 Beats in Selangor (Bandar Sunway): Bandar Sunway & Modern College Trap",
+  "description": "Menacing minor bells, rapid drill hats and subterranean sliding 808 sub-bass designed for street MCs in Selangor (Bandar Sunway).",
+  "targetKeywords": [
+    "malaysian street drill 808 beats selangor (bandar sunway)",
+    "buy beats selangor (bandar sunway) touch n go",
+    "malaysian malaysian drill instrumental",
+    "beats in selangor (bandar sunway) wav download"
+  ],
+  "heroCta": "Download Beats in Selangor (Bandar Sunway) (Touch 'n Go / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "C#-Minor / G#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Malaysia",
+  "sceneHub": "Selangor (Bandar Sunway)"
+},
+  {
+  "slug": "selangor-sunway-acoustic-malay-chillhop",
+  "name": "Selangor (Bandar Sunway) Acoustic Malay Chillhop Beats",
+  "badge": "Acoustic Malay",
+  "headline": "Acoustic Malay Chillhop Beats in Selangor (Bandar Sunway): Bandar Sunway & Modern College Trap",
+  "description": "Warm nylon guitar picking, unquantized dusty boom bap drums and emotional melodies for poetic artists in Selangor (Bandar Sunway).",
+  "targetKeywords": [
+    "acoustic malay chillhop beats selangor (bandar sunway)",
+    "buy beats selangor (bandar sunway) touch n go",
+    "malaysian acoustic malay instrumental",
+    "beats in selangor (bandar sunway) wav download"
+  ],
+  "heroCta": "Download Beats in Selangor (Bandar Sunway) (Touch 'n Go / WAV)",
+  "recommendedBpm": "80-86 BPM",
+  "suggestedKey": "G-Major / E-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Malaysia",
+  "sceneHub": "Selangor (Bandar Sunway)"
+},
+  {
+  "slug": "johor-stulang-malay-rnb-trap-slowjam",
+  "name": "Johor Bahru (Stulang Laut) Malay R&B-Trap Slow Jam Beats",
+  "badge": "Malay R&B",
+  "headline": "Malay R&B-Trap Slow Jam Beats in Johor Bahru (Stulang Laut): JB & Street Drill Reality",
+  "description": "Warm Rhodes keys, atmospheric vocal pads and smooth sub-bass with instant checkout via Touch 'n Go for vocalists in Johor Bahru (Stulang Laut).",
+  "targetKeywords": [
+    "malay r&b-trap slow jam beats johor bahru (stulang laut)",
+    "buy beats johor bahru (stulang laut) touch n go",
+    "malaysian malay r&b instrumental",
+    "beats in johor bahru (stulang laut) wav download"
+  ],
+  "heroCta": "Download Beats in Johor Bahru (Stulang Laut) (Touch 'n Go / WAV)",
+  "recommendedBpm": "90-96 BPM",
+  "suggestedKey": "Ab-Major / F-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Malaysia",
+  "sceneHub": "Johor Bahru (Stulang Laut)"
+},
+  {
+  "slug": "johor-stulang-borneo-sape-ethnic-trap-808",
+  "name": "Johor Bahru (Stulang Laut) Borneo Sape Ethnic Trap 808 Beats",
+  "badge": "Borneo Sape Trap",
+  "headline": "Borneo Sape Ethnic Trap 808 Beats in Johor Bahru (Stulang Laut): JB & Street Drill Reality",
+  "description": "Authentic Sape boat lute arpeggios, rainforest percussion and heavy modern 808s designed for cultural performers in Johor Bahru (Stulang Laut).",
+  "targetKeywords": [
+    "borneo sape ethnic trap 808 beats johor bahru (stulang laut)",
+    "buy beats johor bahru (stulang laut) touch n go",
+    "malaysian borneo sape trap instrumental",
+    "beats in johor bahru (stulang laut) wav download"
+  ],
+  "heroCta": "Download Beats in Johor Bahru (Stulang Laut) (Touch 'n Go / WAV)",
+  "recommendedBpm": "130-136 BPM",
+  "suggestedKey": "D-Major / B-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Malaysia",
+  "sceneHub": "Johor Bahru (Stulang Laut)"
+},
+  {
+  "slug": "johor-stulang-malaysian-street-drill-808",
+  "name": "Johor Bahru (Stulang Laut) Malaysian Street Drill 808 Beats",
+  "badge": "Malaysian Drill",
+  "headline": "Malaysian Street Drill 808 Beats in Johor Bahru (Stulang Laut): JB & Street Drill Reality",
+  "description": "Menacing minor bells, rapid drill hats and subterranean sliding 808 sub-bass designed for street MCs in Johor Bahru (Stulang Laut).",
+  "targetKeywords": [
+    "malaysian street drill 808 beats johor bahru (stulang laut)",
+    "buy beats johor bahru (stulang laut) touch n go",
+    "malaysian malaysian drill instrumental",
+    "beats in johor bahru (stulang laut) wav download"
+  ],
+  "heroCta": "Download Beats in Johor Bahru (Stulang Laut) (Touch 'n Go / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "C#-Minor / G#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Malaysia",
+  "sceneHub": "Johor Bahru (Stulang Laut)"
+},
+  {
+  "slug": "johor-stulang-acoustic-malay-chillhop",
+  "name": "Johor Bahru (Stulang Laut) Acoustic Malay Chillhop Beats",
+  "badge": "Acoustic Malay",
+  "headline": "Acoustic Malay Chillhop Beats in Johor Bahru (Stulang Laut): JB & Street Drill Reality",
+  "description": "Warm nylon guitar picking, unquantized dusty boom bap drums and emotional melodies for poetic artists in Johor Bahru (Stulang Laut).",
+  "targetKeywords": [
+    "acoustic malay chillhop beats johor bahru (stulang laut)",
+    "buy beats johor bahru (stulang laut) touch n go",
+    "malaysian acoustic malay instrumental",
+    "beats in johor bahru (stulang laut) wav download"
+  ],
+  "heroCta": "Download Beats in Johor Bahru (Stulang Laut) (Touch 'n Go / WAV)",
+  "recommendedBpm": "80-86 BPM",
+  "suggestedKey": "G-Major / E-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Malaysia",
+  "sceneHub": "Johor Bahru (Stulang Laut)"
+},
+  {
+  "slug": "penang-georgetown-malay-rnb-trap-slowjam",
+  "name": "Penang (George Town) Malay R&B-Trap Slow Jam Beats",
+  "badge": "Malay R&B",
+  "headline": "Malay R&B-Trap Slow Jam Beats in Penang (George Town): George Town & Heritage Jazz-Hop",
+  "description": "Warm Rhodes keys, atmospheric vocal pads and smooth sub-bass with instant checkout via Touch 'n Go for vocalists in Penang (George Town).",
+  "targetKeywords": [
+    "malay r&b-trap slow jam beats penang (george town)",
+    "buy beats penang (george town) touch n go",
+    "malaysian malay r&b instrumental",
+    "beats in penang (george town) wav download"
+  ],
+  "heroCta": "Download Beats in Penang (George Town) (Touch 'n Go / WAV)",
+  "recommendedBpm": "90-96 BPM",
+  "suggestedKey": "Ab-Major / F-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Malaysia",
+  "sceneHub": "Penang (George Town)"
+},
+  {
+  "slug": "penang-georgetown-borneo-sape-ethnic-trap-808",
+  "name": "Penang (George Town) Borneo Sape Ethnic Trap 808 Beats",
+  "badge": "Borneo Sape Trap",
+  "headline": "Borneo Sape Ethnic Trap 808 Beats in Penang (George Town): George Town & Heritage Jazz-Hop",
+  "description": "Authentic Sape boat lute arpeggios, rainforest percussion and heavy modern 808s designed for cultural performers in Penang (George Town).",
+  "targetKeywords": [
+    "borneo sape ethnic trap 808 beats penang (george town)",
+    "buy beats penang (george town) touch n go",
+    "malaysian borneo sape trap instrumental",
+    "beats in penang (george town) wav download"
+  ],
+  "heroCta": "Download Beats in Penang (George Town) (Touch 'n Go / WAV)",
+  "recommendedBpm": "130-136 BPM",
+  "suggestedKey": "D-Major / B-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Malaysia",
+  "sceneHub": "Penang (George Town)"
+},
+  {
+  "slug": "penang-georgetown-malaysian-street-drill-808",
+  "name": "Penang (George Town) Malaysian Street Drill 808 Beats",
+  "badge": "Malaysian Drill",
+  "headline": "Malaysian Street Drill 808 Beats in Penang (George Town): George Town & Heritage Jazz-Hop",
+  "description": "Menacing minor bells, rapid drill hats and subterranean sliding 808 sub-bass designed for street MCs in Penang (George Town).",
+  "targetKeywords": [
+    "malaysian street drill 808 beats penang (george town)",
+    "buy beats penang (george town) touch n go",
+    "malaysian malaysian drill instrumental",
+    "beats in penang (george town) wav download"
+  ],
+  "heroCta": "Download Beats in Penang (George Town) (Touch 'n Go / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "C#-Minor / G#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Malaysia",
+  "sceneHub": "Penang (George Town)"
+},
+  {
+  "slug": "penang-georgetown-acoustic-malay-chillhop",
+  "name": "Penang (George Town) Acoustic Malay Chillhop Beats",
+  "badge": "Acoustic Malay",
+  "headline": "Acoustic Malay Chillhop Beats in Penang (George Town): George Town & Heritage Jazz-Hop",
+  "description": "Warm nylon guitar picking, unquantized dusty boom bap drums and emotional melodies for poetic artists in Penang (George Town).",
+  "targetKeywords": [
+    "acoustic malay chillhop beats penang (george town)",
+    "buy beats penang (george town) touch n go",
+    "malaysian acoustic malay instrumental",
+    "beats in penang (george town) wav download"
+  ],
+  "heroCta": "Download Beats in Penang (George Town) (Touch 'n Go / WAV)",
+  "recommendedBpm": "80-86 BPM",
+  "suggestedKey": "G-Major / E-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Malaysia",
+  "sceneHub": "Penang (George Town)"
+},
+  {
+  "slug": "kuching-waterfront-malay-rnb-trap-slowjam",
+  "name": "Kuching (Waterfront) Malay R&B-Trap Slow Jam Beats",
+  "badge": "Malay R&B",
+  "headline": "Malay R&B-Trap Slow Jam Beats in Kuching (Waterfront): Kuching & Sacred Sape Trap",
+  "description": "Warm Rhodes keys, atmospheric vocal pads and smooth sub-bass with instant checkout via Touch 'n Go for vocalists in Kuching (Waterfront).",
+  "targetKeywords": [
+    "malay r&b-trap slow jam beats kuching (waterfront)",
+    "buy beats kuching (waterfront) touch n go",
+    "malaysian malay r&b instrumental",
+    "beats in kuching (waterfront) wav download"
+  ],
+  "heroCta": "Download Beats in Kuching (Waterfront) (Touch 'n Go / WAV)",
+  "recommendedBpm": "90-96 BPM",
+  "suggestedKey": "Ab-Major / F-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Malaysia",
+  "sceneHub": "Kuching (Waterfront)"
+},
+  {
+  "slug": "kuching-waterfront-borneo-sape-ethnic-trap-808",
+  "name": "Kuching (Waterfront) Borneo Sape Ethnic Trap 808 Beats",
+  "badge": "Borneo Sape Trap",
+  "headline": "Borneo Sape Ethnic Trap 808 Beats in Kuching (Waterfront): Kuching & Sacred Sape Trap",
+  "description": "Authentic Sape boat lute arpeggios, rainforest percussion and heavy modern 808s designed for cultural performers in Kuching (Waterfront).",
+  "targetKeywords": [
+    "borneo sape ethnic trap 808 beats kuching (waterfront)",
+    "buy beats kuching (waterfront) touch n go",
+    "malaysian borneo sape trap instrumental",
+    "beats in kuching (waterfront) wav download"
+  ],
+  "heroCta": "Download Beats in Kuching (Waterfront) (Touch 'n Go / WAV)",
+  "recommendedBpm": "130-136 BPM",
+  "suggestedKey": "D-Major / B-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Malaysia",
+  "sceneHub": "Kuching (Waterfront)"
+},
+  {
+  "slug": "kuching-waterfront-malaysian-street-drill-808",
+  "name": "Kuching (Waterfront) Malaysian Street Drill 808 Beats",
+  "badge": "Malaysian Drill",
+  "headline": "Malaysian Street Drill 808 Beats in Kuching (Waterfront): Kuching & Sacred Sape Trap",
+  "description": "Menacing minor bells, rapid drill hats and subterranean sliding 808 sub-bass designed for street MCs in Kuching (Waterfront).",
+  "targetKeywords": [
+    "malaysian street drill 808 beats kuching (waterfront)",
+    "buy beats kuching (waterfront) touch n go",
+    "malaysian malaysian drill instrumental",
+    "beats in kuching (waterfront) wav download"
+  ],
+  "heroCta": "Download Beats in Kuching (Waterfront) (Touch 'n Go / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "C#-Minor / G#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Malaysia",
+  "sceneHub": "Kuching (Waterfront)"
+},
+  {
+  "slug": "kuching-waterfront-acoustic-malay-chillhop",
+  "name": "Kuching (Waterfront) Acoustic Malay Chillhop Beats",
+  "badge": "Acoustic Malay",
+  "headline": "Acoustic Malay Chillhop Beats in Kuching (Waterfront): Kuching & Sacred Sape Trap",
+  "description": "Warm nylon guitar picking, unquantized dusty boom bap drums and emotional melodies for poetic artists in Kuching (Waterfront).",
+  "targetKeywords": [
+    "acoustic malay chillhop beats kuching (waterfront)",
+    "buy beats kuching (waterfront) touch n go",
+    "malaysian acoustic malay instrumental",
+    "beats in kuching (waterfront) wav download"
+  ],
+  "heroCta": "Download Beats in Kuching (Waterfront) (Touch 'n Go / WAV)",
+  "recommendedBpm": "80-86 BPM",
+  "suggestedKey": "G-Major / E-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Malaysia",
+  "sceneHub": "Kuching (Waterfront)"
+},
+  {
+  "slug": "sabah-tanjungaru-malay-rnb-trap-slowjam",
+  "name": "Kota Kinabalu (Tanjung Aru) Malay R&B-Trap Slow Jam Beats",
+  "badge": "Malay R&B",
+  "headline": "Malay R&B-Trap Slow Jam Beats in Kota Kinabalu (Tanjung Aru): Kota Kinabalu & Bornean Afro-Trap",
+  "description": "Warm Rhodes keys, atmospheric vocal pads and smooth sub-bass with instant checkout via Touch 'n Go for vocalists in Kota Kinabalu (Tanjung Aru).",
+  "targetKeywords": [
+    "malay r&b-trap slow jam beats kota kinabalu (tanjung aru)",
+    "buy beats kota kinabalu (tanjung aru) touch n go",
+    "malaysian malay r&b instrumental",
+    "beats in kota kinabalu (tanjung aru) wav download"
+  ],
+  "heroCta": "Download Beats in Kota Kinabalu (Tanjung Aru) (Touch 'n Go / WAV)",
+  "recommendedBpm": "90-96 BPM",
+  "suggestedKey": "Ab-Major / F-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Malaysia",
+  "sceneHub": "Kota Kinabalu (Tanjung Aru)"
+},
+  {
+  "slug": "sabah-tanjungaru-borneo-sape-ethnic-trap-808",
+  "name": "Kota Kinabalu (Tanjung Aru) Borneo Sape Ethnic Trap 808 Beats",
+  "badge": "Borneo Sape Trap",
+  "headline": "Borneo Sape Ethnic Trap 808 Beats in Kota Kinabalu (Tanjung Aru): Kota Kinabalu & Bornean Afro-Trap",
+  "description": "Authentic Sape boat lute arpeggios, rainforest percussion and heavy modern 808s designed for cultural performers in Kota Kinabalu (Tanjung Aru).",
+  "targetKeywords": [
+    "borneo sape ethnic trap 808 beats kota kinabalu (tanjung aru)",
+    "buy beats kota kinabalu (tanjung aru) touch n go",
+    "malaysian borneo sape trap instrumental",
+    "beats in kota kinabalu (tanjung aru) wav download"
+  ],
+  "heroCta": "Download Beats in Kota Kinabalu (Tanjung Aru) (Touch 'n Go / WAV)",
+  "recommendedBpm": "130-136 BPM",
+  "suggestedKey": "D-Major / B-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Malaysia",
+  "sceneHub": "Kota Kinabalu (Tanjung Aru)"
+},
+  {
+  "slug": "sabah-tanjungaru-malaysian-street-drill-808",
+  "name": "Kota Kinabalu (Tanjung Aru) Malaysian Street Drill 808 Beats",
+  "badge": "Malaysian Drill",
+  "headline": "Malaysian Street Drill 808 Beats in Kota Kinabalu (Tanjung Aru): Kota Kinabalu & Bornean Afro-Trap",
+  "description": "Menacing minor bells, rapid drill hats and subterranean sliding 808 sub-bass designed for street MCs in Kota Kinabalu (Tanjung Aru).",
+  "targetKeywords": [
+    "malaysian street drill 808 beats kota kinabalu (tanjung aru)",
+    "buy beats kota kinabalu (tanjung aru) touch n go",
+    "malaysian malaysian drill instrumental",
+    "beats in kota kinabalu (tanjung aru) wav download"
+  ],
+  "heroCta": "Download Beats in Kota Kinabalu (Tanjung Aru) (Touch 'n Go / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "C#-Minor / G#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Malaysia",
+  "sceneHub": "Kota Kinabalu (Tanjung Aru)"
+},
+  {
+  "slug": "sabah-tanjungaru-acoustic-malay-chillhop",
+  "name": "Kota Kinabalu (Tanjung Aru) Acoustic Malay Chillhop Beats",
+  "badge": "Acoustic Malay",
+  "headline": "Acoustic Malay Chillhop Beats in Kota Kinabalu (Tanjung Aru): Kota Kinabalu & Bornean Afro-Trap",
+  "description": "Warm nylon guitar picking, unquantized dusty boom bap drums and emotional melodies for poetic artists in Kota Kinabalu (Tanjung Aru).",
+  "targetKeywords": [
+    "acoustic malay chillhop beats kota kinabalu (tanjung aru)",
+    "buy beats kota kinabalu (tanjung aru) touch n go",
+    "malaysian acoustic malay instrumental",
+    "beats in kota kinabalu (tanjung aru) wav download"
+  ],
+  "heroCta": "Download Beats in Kota Kinabalu (Tanjung Aru) (Touch 'n Go / WAV)",
+  "recommendedBpm": "80-86 BPM",
+  "suggestedKey": "G-Major / E-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Malaysia",
+  "sceneHub": "Kota Kinabalu (Tanjung Aru)"
+},
 ];

@@ -46378,4 +46378,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "my/kl-bukit-bintang-bangsar": {
+  "slug": "my/kl-bukit-bintang-bangsar",
+  "name": "Malaysia – Kuala Lumpur: Bukit Bintang, Bangsar & Mont Kiara (Metropolitan Golden Triangle, Def Jam SEA Vibe, Sleek Neo-Soul & International Urban R&B)",
+  "flag": "🇲🇾",
+  "currency": "MYR (RM) / USD ($)",
+  "currencyCode": "MYR",
+  "gateways": "Touch 'n Go eWallet, DuitNow QR (All Malaysian Banks: Maybank, CIMB, Public Bank), GrabPay, Apple Pay, PayPal, Stripe",
+  "pro": "MACP / MyIPO",
+  "proFullName": "MACP (Music Authors' Copyright Protection) / MyIPO",
+  "proGuide": "100% compliant with the Copyright Act 1987 of Malaysia and MACP registration with instant signed digital PDF agreement and split sheet.",
+  "headline": "Beats in Bukit Bintang & Bangsar: Golden Triangle Skyline, Warm Rhodes & Sleek Malaysian R&B",
+  "description": "The trendsetting luxury core of Kuala Lumpur and Southeast Asian hip-hop headquarters: velvety Fender Rhodes keys, sophisticated neo-soul chord progressions, and modern drums.",
+  "popularGenres": [
+    "KL Neo-Soul",
+    "Bangsar Urban R&B",
+    "Bukit Bintang Sleek Trap"
+  ],
+  "subClusters": []
+},
+  "my/kl-hartamas-damansara": {
+  "slug": "my/kl-hartamas-damansara",
+  "name": "Malaysia – Kuala Lumpur & Selangor: Sri Hartamas, Damansara Heights & TTDI (Urban Luxury Haven, Polished Trap, Rhodes Keys & Hitmakers)",
+  "flag": "🇲🇾",
+  "currency": "MYR (RM) / USD ($)",
+  "currencyCode": "MYR",
+  "gateways": "Touch 'n Go eWallet, DuitNow QR (All Malaysian Banks: Maybank, CIMB, Public Bank), GrabPay, Apple Pay, PayPal, Stripe",
+  "pro": "MACP / MyIPO",
+  "proFullName": "MACP (Music Authors' Copyright Protection) / MyIPO",
+  "proGuide": "Uncompressed 24-bit 48kHz studio WAV files with separated multitrack stems and commercial license.",
+  "headline": "Beats in Damansara & Hartamas: High-End Studio Production Standard, Clean Synths & Commercial Pop-Trap",
+  "description": "The creative enclave of major record labels and executive studios: pristine acoustic grand pianos, radio-ready melodies, and punchy drums for Malaysian chart-toppers.",
+  "popularGenres": [
+    "Damansara Pop-Trap",
+    "Hartamas Radio Hit",
+    "TTDI Smooth R&B"
+  ],
+  "subClusters": []
+},
+  "my/kl-ampang-cheras": {
+  "slug": "my/kl-ampang-cheras",
+  "name": "Malaysia – Kuala Lumpur: Ampang, Cheras & Pandan Indah (Historic Eastern Suburbs, Raw Street Rap, Classic Boom Bap & Gritty 808s)",
+  "flag": "🇲🇾",
+  "currency": "MYR (RM) / USD ($)",
+  "currencyCode": "MYR",
+  "gateways": "Touch 'n Go eWallet, DuitNow QR (All Malaysian Banks: Maybank, CIMB, Public Bank), GrabPay, Apple Pay, PayPal, Stripe",
+  "pro": "MACP / MyIPO",
+  "proFullName": "MACP (Music Authors' Copyright Protection) / MyIPO",
+  "proGuide": "Instant digital delivery with split sheet and licensing contract for Spotify and Apple Music distribution.",
+  "headline": "Beats in Ampang & Cheras: Eastern Suburb Street Realities, Gritty Vinyl Chops & Heavy Boom-Trap",
+  "description": "The authentic street pulse of eastern KL: dusty vinyl soul chops, hard-hitting boom bap drums, and heavy sliding 808s tailored for gritty lyricists in Ampang and Cheras.",
+  "popularGenres": [
+    "Ampang Street Rap",
+    "Cheras Boom Bap",
+    "Eastern KL 808s"
+  ],
+  "subClusters": []
+},
+  "my/pj-sunway-damansara-utama": {
+  "slug": "my/pj-sunway-damansara-utama",
+  "name": "Malaysia – Selangor: Petaling Jaya, Bandar Sunway, Damansara Utama & SS2 (University & Youth Epicenter, Modern Bouncing Trap & TikTok Wave)",
+  "flag": "🇲🇾",
+  "currency": "MYR (RM) / USD ($)",
+  "currencyCode": "MYR",
+  "gateways": "Touch 'n Go eWallet, DuitNow QR (All Malaysian Banks: Maybank, CIMB, Public Bank), GrabPay, Apple Pay, PayPal, Stripe",
+  "pro": "MACP / MyIPO",
+  "proFullName": "MACP (Music Authors' Copyright Protection) / MyIPO",
+  "proGuide": "Direct mobile wallet payment via Touch 'n Go and DuitNow QR with instant master and stem downloads.",
+  "headline": "Beats in Sunway & Petaling Jaya: University Campus Pulse, Bouncing Hi-Hats & Viral Trap Wave",
+  "description": "The youthful, dynamic entertainment capital of Selangor: bouncy 808 sub drops, bright synthesizer ear candy, and modern rhythms for the next generation of Malaysian creators.",
+  "popularGenres": [
+    "Sunway University Trap",
+    "PJ Bouncing 808",
+    "SS2 New Wave"
+  ],
+  "subClusters": []
+},
+  "my/johor-bahru-stulang-larkin": {
+  "slug": "my/johor-bahru-stulang-larkin",
+  "name": "Malaysia – Johor: Johor Bahru, Stulang Laut, Larkin & Tampoi (Southern Gate to Singapore, ForceParkBois Street Drill & Cross-Border Bounces)",
+  "flag": "🇲🇾",
+  "currency": "MYR (RM) / USD ($)",
+  "currencyCode": "MYR",
+  "gateways": "Touch 'n Go eWallet, DuitNow QR (All Malaysian Banks: Maybank, CIMB, Public Bank), GrabPay, Apple Pay, PayPal, Stripe",
+  "pro": "MACP / MyIPO",
+  "proFullName": "MACP (Music Authors' Copyright Protection) / MyIPO",
+  "proGuide": "100% royalty-free original compositions with no sample clearance complications.",
+  "headline": "Beats in Johor Bahru & Larkin: Southern Gateway, Causeway Tension, Sliding 808s & Raw JB Drill",
+  "description": "The explosive cradle of Malaysian street drill: cold minor bells, aggressive multi-octave 808 slides, and hard-knocking snares matching the intensity of JB street crews.",
+  "popularGenres": [
+    "JB Street Drill",
+    "Larkin Raw 808",
+    "Causeway Cross-Border Trap"
+  ],
+  "subClusters": []
+},
+  "my/penang-bayan-lepas-gurney": {
+  "slug": "my/penang-bayan-lepas-gurney",
+  "name": "Malaysia – Pulau Pinang: Bayan Lepas, Gurney Drive & Batu Ferringhi (Silicon Island of the East, Coastal Chillhop, Chinese-Malay Rap & Island Lofi)",
+  "flag": "🇲🇾",
+  "currency": "MYR (RM) / USD ($)",
+  "currencyCode": "MYR",
+  "gateways": "Touch 'n Go eWallet, DuitNow QR (All Malaysian Banks: Maybank, CIMB, Public Bank), GrabPay, Apple Pay, PayPal, Stripe",
+  "pro": "MACP / MyIPO",
+  "proFullName": "MACP (Music Authors' Copyright Protection) / MyIPO",
+  "proGuide": "Commercial licensing agreement protecting publishing, sync, and streaming rights under Malaysian copyright law.",
+  "headline": "Beats in Penang: Gurney Coastal Breezes, Heritage Street Jazz & Multilingual Island Lofi",
+  "description": "Where historic cultural heritage meets modern tech island innovation: sampled jazz horns, ocean surf Foley, and unhurried drums for trilingual MCs across Penang.",
+  "popularGenres": [
+    "Penang Island Lofi",
+    "Gurney Drive Jazz Hop",
+    "Bayan Lepas Chill Trap"
+  ],
+  "subClusters": []
+},
+  "my/kuching-padungan-damai": {
+  "slug": "my/kuching-padungan-damai",
+  "name": "Malaysia – Sarawak: Kuching, Padungan, Waterfront & Damai Beach (Cat City Cultural Capital, Sacred Sape Lute Fusions & Rainforest Trap)",
+  "flag": "🇲🇾",
+  "currency": "MYR (RM) / USD ($)",
+  "currencyCode": "MYR",
+  "gateways": "Touch 'n Go eWallet, DuitNow QR (All Malaysian Banks: Maybank, CIMB, Public Bank), GrabPay, Apple Pay, PayPal, Stripe",
+  "pro": "MACP / MyIPO",
+  "proFullName": "MACP (Music Authors' Copyright Protection) / MyIPO",
+  "proGuide": "Studio-grade master files normalized to streaming loudness standards (-14 LUFS) for immediate release.",
+  "headline": "Beats in Kuching: Sarawak Rainforest Echoes, Dayak Sape Lute & Mystical Borneo Trap 808",
+  "description": "The mystical cultural pulse of Sarawak: authentic plucked Sape boat lute arpeggios, tropical nature Foley, and deep modern 808s for Bornean hip-hop creators.",
+  "popularGenres": [
+    "Sarawak Sape Trap",
+    "Bornean Indigenous Hip-Hop",
+    "Kuching Waterfront Lofi"
+  ],
+  "subClusters": []
+},
+  "my/kota-kinabalu-tanjung-aru": {
+  "slug": "my/kota-kinabalu-tanjung-aru",
+  "name": "Malaysia – Sabah: Kota Kinabalu, Tanjung Aru & Likas (Land Below The Wind, Sunset Afro-Trap & Bornean Hip-Hop Swag)",
+  "flag": "🇲🇾",
+  "currency": "MYR (RM) / USD ($)",
+  "currencyCode": "MYR",
+  "gateways": "Touch 'n Go eWallet, DuitNow QR (All Malaysian Banks: Maybank, CIMB, Public Bank), GrabPay, Apple Pay, PayPal, Stripe",
+  "pro": "MACP / MyIPO",
+  "proFullName": "MACP (Music Authors' Copyright Protection) / MyIPO",
+  "proGuide": "Non-exclusive and exclusive licensing options with full stems for club performance and video sync.",
+  "headline": "Beats in Kota Kinabalu: Land Below The Wind, Mount Kinabalu Majesty & West Coast Sabahan Swag",
+  "description": "The swaggering northern Bornean powerhouse: West Coast bouncing 808s, bright synths, and festive island melodies matching the energy of K-Clique and Sabahan crews.",
+  "popularGenres": [
+    "Sabah West Coast Trap",
+    "KK Sunset Afro-Trap",
+    "Bornean Urban Wave"
+  ],
+  "subClusters": []
+},
+  "my/klang-port-klang-selangor": {
+  "slug": "my/klang-port-klang-selangor",
+  "name": "Malaysia – Selangor: Klang & Port Klang (Royal Town & Maritime Hub, Heavy Industrial 808s & Tamil-Malay Street Rap)",
+  "flag": "🇲🇾",
+  "currency": "MYR (RM) / USD ($)",
+  "currencyCode": "MYR",
+  "gateways": "Touch 'n Go eWallet, DuitNow QR (All Malaysian Banks: Maybank, CIMB, Public Bank), GrabPay, Apple Pay, PayPal, Stripe",
+  "pro": "MACP / MyIPO",
+  "proFullName": "MACP (Music Authors' Copyright Protection) / MyIPO",
+  "proGuide": "Signed digital contract and split sheet PDF for independent Malaysian music producers and recording artists.",
+  "headline": "Beats in Klang: Industrial Port Realities, Thavil Percussion & Heavy Tamil-Malay Street 808s",
+  "description": "The rugged maritime and industrial core of Selangor: hard-knocking drums, South Indian Gaana percussion chops, and distorted 808 sub bass for bilingual street rappers in Klang.",
+  "popularGenres": [
+    "Klang Tamil-Malay Drill",
+    "Port Klang Heavy 808",
+    "Selangor Industrial Rap"
+  ],
+  "subClusters": []
+},
+  "my/batu-pahat-muar-johor": {
+  "slug": "my/batu-pahat-muar-johor",
+  "name": "Malaysia – Johor: Muar & Batu Pahat (Bandar Maharani & Creative Heartland, Bouncing Trap & Gamelan Melayu)",
+  "flag": "🇲🇾",
+  "currency": "MYR (RM) / USD ($)",
+  "currencyCode": "MYR",
+  "gateways": "Touch 'n Go eWallet, DuitNow QR (All Malaysian Banks: Maybank, CIMB, Public Bank), GrabPay, Apple Pay, PayPal, Stripe",
+  "pro": "MACP / MyIPO",
+  "proFullName": "MACP (Music Authors' Copyright Protection) / MyIPO",
+  "proGuide": "100% legal protection and commercial rights for YouTube, Spotify, and TikTok monetization.",
+  "headline": "Beats in Muar & Batu Pahat: Johor River Heritage, Gamelan Melayu Chimes & Melodic Southern Trap",
+  "description": "The creative heartland of Johor: traditional Gamelan Melayu bronze metallophones, acoustic guitar plucks, and buoyant 808 sub drops for southern creators.",
+  "popularGenres": [
+    "Muar Melodic Trap",
+    "Johor Gamelan Urban",
+    "Batu Pahat Chillhop"
+  ],
+  "subClusters": []
+},
 };
