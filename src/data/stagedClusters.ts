@@ -139292,4 +139292,1296 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "1"
   ]
 },
+  {
+  "slug": "quebonafide-ezoteryka-romantic-trap",
+  "title": "Quebonafide Romantic Psycho Emotional Piano & World Trap Beat",
+  "description": "Multi-platinum, visionary Polish trap instrumental inspired by Quebonafide (Egzotyka, Romantic Psycho, Candy, Tamagotchi, Szubienicapestycydybroń), blending delicate acoustic pianos, global sample textures, and modern 808s.",
+  "targetKeywords": [
+    "quebonafide type beat 2024",
+    "romantic psycho instrumental",
+    "quebonafide tamagotchi beat",
+    "polski trap beat pianino",
+    "quebo style trap beat"
+  ],
+  "heroCta": "Kup Beat w Stylu Quebonafide (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Lead Commercial Single, Stadium Tour Anthem and Concept Visuals",
+  "similarArtists": [
+    "Quebonafide",
+    "Taco Hemingway",
+    "Bedoes 2115",
+    "Kukon"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "productionTips": "Delicate, melancholic grand piano inversions layered with wide stereo ambient pads and a punchy 808 pocket.",
+  "idealVocalStyle": "Passionate, versatile flow switches, heartfelt autotuned choruses, and introspective literary rhymes.",
+  "suggestedKey": "F Minor / Ab Major",
+  "streamingSuitability": "Guaranteed top-charting streaming numbers on Spotify Top 50 Polska, Apple Music Rap PL, and radio."
+},
+  {
+  "slug": "taco-hemingway-1-800-oswiecenie-nocturnal",
+  "title": "Taco Hemingway 1-800-OŚWIECENIE Nocturnal Warsaw Storytelling Beat",
+  "description": "Nostalgic, atmospheric Polish hip-hop instrumental inspired by Taco Hemingway (1-800-OŚWIECENIE, Trójkąt Warszawski, Marmur, Jarmark, Gelato), featuring warm Rhodes keyboards and late-night city ambient textures.",
+  "targetKeywords": [
+    "taco hemingway type beat 2024",
+    "1-800 oswiecenie instrumental",
+    "taco hemingway warszawa noc beat",
+    "lofi hip hop polska taco",
+    "chillhop beat polski rap"
+  ],
+  "heroCta": "Kup Beat w Stylu Taco (WAV + Stems)",
+  "energyLevel": "Medium",
+  "primaryUse": "Nocturnal City Storytelling, Radio Single and Reflective Album Track",
+  "similarArtists": [
+    "Taco Hemingway",
+    "Quebonafide",
+    "Otsochodzi",
+    "Dwa Sławy"
+  ],
+  "recommendedBpm": "85-92 / 126 BPM",
+  "productionTips": "Warm Rhodes electric piano chords treated with subtle analog tape warble and unquantized, dusty acoustic drums.",
+  "idealVocalStyle": "Intellectual, witty, narrative-driven delivery, clever wordplay on urban life, and relaxed rhythmic pocket.",
+  "suggestedKey": "D Minor / G Minor",
+  "streamingSuitability": "Consistent evergreen stream counts across Polish chillhop, late-night drive playlists, and top radio stations."
+},
+  {
+  "slug": "bedoes-2115-rodzina-guitar-anthem",
+  "title": "Bedoes 2115 Rodzina Emotional Acoustic Guitar & Stadium Trap Beat",
+  "description": "Heart-wrenching, anthemic Polish rap instrumental inspired by Bedoes 2115 (Opowieści z Doliny Smoków, Rodzina 2115, Rewolucja Romantyczna, Bedoesiara), with passionate acoustic guitars and massive choir hooks.",
+  "targetKeywords": [
+    "bedoes type beat 2024",
+    "2115 type beat",
+    "bedoes gitara trap beat",
+    "rodzina 2115 instrumental",
+    "emocjonalny trap beat polska"
+  ],
+  "heroCta": "Kup Beat w Stylu Bedoesa (Instant WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "Emotional Stadium Anthem, High-Energy Festival Single and Music Video",
+  "similarArtists": [
+    "Bedoes 2115",
+    "White 2115",
+    "Kubi Producent",
+    "Szpaku"
+  ],
+  "recommendedBpm": "126-134 BPM",
+  "productionTips": "Rich stereo acoustic and overdriven electric guitars layered with explosive 808 drops and anthemic synth horns.",
+  "idealVocalStyle": "Raw, emotionally vulnerable vocal delivery, passionate screams, brotherhood themes, and singalong choruses.",
+  "suggestedKey": "C# Minor / A Major",
+  "streamingSuitability": "Dominates Spotify Polska #1 streaming spots, festival mainstages, and viral youth reels."
+},
+  {
+  "slug": "mata-mlody-matczak-patointeligencja",
+  "title": "Mata Młody Matczak Generational Youth Anthem & Melodic Piano Beat",
+  "description": "Generational Polish hip-hop instrumental inspired by Mata (100 dni do matury, Młody Matczak, Patointeligencja, Szafir, Papuga), with poignant acoustic piano arpeggios, witty flow spaces, and bouncy trap drums.",
+  "targetKeywords": [
+    "mata type beat 2024",
+    "mlody matczak instrumental",
+    "mata szafir type beat",
+    "patointeligencja style beat",
+    "polski melodyjny trap mata"
+  ],
+  "heroCta": "Kup Beat w Stylu Maty (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Generational Single, High-Impact Music Video and Radio Pop-Rap Hit",
+  "similarArtists": [
+    "Mata",
+    "White 2115",
+    "Sobbel",
+    "Young Leosia"
+  ],
+  "recommendedBpm": "124-132 BPM",
+  "productionTips": "Poignant grand piano arpeggios layered with crisp, modern trap claps and warm, rounded 808 sub-bass.",
+  "idealVocalStyle": "Sharp social commentary, witty rhymes, adolescent defiance, and catchy autotuned chorus melodies.",
+  "suggestedKey": "A Minor / E Minor",
+  "streamingSuitability": "Guaranteed multi-platinum streaming velocity across Polish youth demographics, TikTok, and radio."
+},
+  {
+  "slug": "malik-montana-gm-luxury-drill-808",
+  "title": "Malik Montana GM2L European Luxury Drill & Low-End Brass Beat",
+  "description": "Opulent, international European drill instrumental inspired by Malik Montana and GM2L (Adwokat Diabła, Do Tańca, Jetlag, 3 Telefony, Chandelier), with heavy brass fanfares and sliding 808 sub-bass.",
+  "targetKeywords": [
+    "malik montana type beat 2024",
+    "gm2l type beat",
+    "luksusowy drill beat polska",
+    "malik montana adwokat diabla beat",
+    "heavy sliding 808 drill pl"
+  ],
+  "heroCta": "Kup Beat w Stylu Malika (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Luxury Drill Single, High-Budget Car Audio Video and Club Banger",
+  "similarArtists": [
+    "Malik Montana",
+    "Kaz Bałagane",
+    "Alberto",
+    "Kronkel Dom"
+  ],
+  "recommendedBpm": "141-144 BPM",
+  "productionTips": "Low-register cinematic brass stabs layered with two-octave 808 portamento slides and dry rimshots.",
+  "idealVocalStyle": "Deep, commanding baritone delivery, international luxury swagger, foreign slang, and heavy punchlines.",
+  "suggestedKey": "G Minor / C Minor",
+  "streamingSuitability": "Insuperable for European drill playlists, luxury automotive showcases, and gym workout tracks."
+},
+  {
+  "slug": "szpaku-mati-bor-emotional-rock-trap",
+  "title": "Szpaku Mati GUGU Raw Visceral Rock-Trap & Distorted Guitar Beat",
+  "description": "Aggressive, heart-wrenching Polish rock-trap instrumental inspired by Szpaku (Atypowy, Różowa Pantera, DDZPWT, Uzi), featuring distorted electric guitar power chords, raw emotional tension, and heavy kicks.",
+  "targetKeywords": [
+    "szpaku type beat 2024",
+    "gugu rock trap beat",
+    "szpaku atypowy instrumental",
+    "mroczny rock trap polska",
+    "szpaku rozowa pantera beat"
+  ],
+  "heroCta": "Kup Beat w Stylu Szpaka (Instant WAV)",
+  "energyLevel": "Maximum",
+  "primaryUse": "Visceral Rock-Rap Single, Concert Mosh Pit Anthem and Emotional Visualizer",
+  "similarArtists": [
+    "Szpaku",
+    "Chivas",
+    "Kizo",
+    "Paluch"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "productionTips": "Heavy overdriven electric guitar power chords balanced with a clipped 808 transient punch and rapid hi-hats.",
+  "idealVocalStyle": "Raw visceral screams, emotional street pain, vulnerable authenticity, and powerful melodic choruses.",
+  "suggestedKey": "E Minor / D Minor",
+  "streamingSuitability": "Massive cult loyalty across Polish alternative rap fans, concert mosh pits, and fitness playlists."
+},
+  {
+  "slug": "oki-produkt47-hyper-speed-bounce",
+  "title": "Oki PRODUKT47 Hyper-Speed Acrobatic Flow & Futuristic Synth Beat",
+  "description": "High-velocity, energetic Polish trap instrumental inspired by Oki (PRODUKT47, JEŻYK, Piri Piri, Jeremy Sochan, Agent47), featuring quirky electronic synths, bouncy 808s, and acrobatic rhythm space.",
+  "targetKeywords": [
+    "oki type beat 2024",
+    "produkt47 type beat",
+    "oki jezyk instrumental",
+    "szybki trap beat oki",
+    "futurystyczny trap beat polska"
+  ],
+  "heroCta": "Kup Beat w Stylu Oki (WAV 24-bit)",
+  "energyLevel": "Maximum",
+  "primaryUse": "High-Speed Rap Single, Acrobatic Cypher and Viral TikTok Challenge",
+  "similarArtists": [
+    "Oki",
+    "Sobbel",
+    "Young Igi",
+    "Otsochodzi"
+  ],
+  "recommendedBpm": "136-144 BPM",
+  "productionTips": "Staccato synthesizer stabs with fast decay riding a bouncy, syncopated 808 groove with open hats.",
+  "idealVocalStyle": "Acrobatic rapid-fire flow, breathless syllable spitting, witty punchlines, and high-energy ad-libs.",
+  "suggestedKey": "B Minor / D Minor",
+  "streamingSuitability": "Explosive viral spikes across TikTok Polska, Spotify Top 50, and energetic festival crowds."
+},
+  {
+  "slug": "chivas-mlody-say10-emo-screamo-trap",
+  "title": "Chivas Młody Say10 Emo-Screamo Trap & Dark Acoustic Guitar Beat",
+  "description": "Alternative emo-rap instrumental inspired by Chivas (młody say10, Lato które umarło, Deathcore, Anyżowe Kule), pairing weeping acoustic guitars, industrial trap distortion, and emotional scream spaces.",
+  "targetKeywords": [
+    "chivas type beat 2024",
+    "mlody say10 instrumental",
+    "emo screamo trap beat polska",
+    "chivas lato ktore umarlo beat",
+    "trap metal beat polski rap"
+  ],
+  "heroCta": "Kup Beat w Stylu Chivasa (Instant WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "Alternative Emo-Rap Track, Heartbreak Anthem and High-Tension Video",
+  "similarArtists": [
+    "Chivas",
+    "Szpaku",
+    "Lil Peep",
+    "Ghostemane"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "productionTips": "Real processed electric guitar with stereo chorus and analog tape saturation over punchy 808 kicks.",
+  "idealVocalStyle": "Vulnerable, honest lyrics, heart-wrenching screams, melodic autotuned singing, and raw adolescent pain.",
+  "suggestedKey": "C# Minor / A Minor",
+  "streamingSuitability": "Extreme emotional listener loyalty across alternative trap playlists, sad rap edits, and youth channels."
+},
+  {
+  "slug": "warszawa-noc-wisla-bridge-ambient-drill",
+  "title": "Warszawa Noc Wisłostrada Midnight Rainy Ambient Drill 808 Beat",
+  "description": "Cinematic, moody Polish drill soundtrack capturing a rainy midnight drive along the Wisłostrada and Poniatowski Bridge: ambient rain textures, cold minor synth bells, and sliding 808s.",
+  "targetKeywords": [
+    "warszawa drill beat",
+    "nocny drill warszawa instrumental",
+    "ciemny drill beat 142 bpm",
+    "warszawski ambient drill 808",
+    "wisla noc drill beat"
+  ],
+  "heroCta": "Kup Beat Warszawa Noc (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Midnight Street Visuals, Automotive Cinematic Video and Dark Workout Track",
+  "similarArtists": [
+    "Malik Montana",
+    "Kaz Bałagane",
+    "Central Cee",
+    "Gazo"
+  ],
+  "recommendedBpm": "141-144 BPM",
+  "productionTips": "Grand piano with tape degradation layered over deep portamento sub-bass drops and clipped drill rimshots.",
+  "idealVocalStyle": "Cold, gravelly street reality delivery, menacing punchlines, and raw atmospheric ad-libs.",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "Essential for drill playlists, automotive content creators, and urban street visualizers."
+},
+  {
+  "slug": "slask-industrial-coal-mine-heavy-trap",
+  "title": "Śląsk Industrial Metropolia GZM 30 Hz Sub-Bass Heavyweight Trap Beat",
+  "description": "Heavyweight industrial trap instrumental reflecting the raw manufacturing power of Upper Silesia: metallic factory clangs, rumbling 30 Hz sub-bass, and cold minor brass stabs.",
+  "targetKeywords": [
+    "slaski trap beat",
+    "industrialny trap beat polska",
+    "katowice trap beat 808",
+    "ciezki bas do auta slask",
+    "gzm street trap beat"
+  ],
+  "heroCta": "Kup Śląski Trap Beat (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Heavy Bass Car Audio Test, Industrial Street Single and Gym Motivation",
+  "similarArtists": [
+    "Paluch",
+    "KęKę",
+    "Słoń",
+    "Major RD"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "productionTips": "Heavy, saturated low-end below 35Hz balanced with clipped industrial snare transients and metallic bells.",
+  "idealVocalStyle": "Hard-hitting baritone street delivery, working-class resilience, and uncompromising punchlines.",
+  "suggestedKey": "D Minor",
+  "streamingSuitability": "Insuperable for car audio bass tests, gym workout playlists, and raw street visualizers."
+},
+  {
+  "slug": "white-2115-rockstar-summer-guitar-trap",
+  "title": "White 2115 Rockstar California Sun-Drenched Melodic Guitar Trap Beat",
+  "description": "Sun-drenched, feel-good Polish pop-rap and summer guitar-trap instrumental inspired by White 2115 (Rockstar, Morgan, California, RiRi, Pałac), with bright acoustic chords and festival bounce.",
+  "targetKeywords": [
+    "white 2115 type beat",
+    "rockstar white 2115 instrumental",
+    "letni trap beat gitara polska",
+    "white 2115 california beat",
+    "melodyjny pop rap beat pl"
+  ],
+  "heroCta": "Kup Beat w Stylu White 2115 (Instant WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Summer Radio Anthem, Festival Pop-Rap Single and Viral Lifestyle Video",
+  "similarArtists": [
+    "White 2115",
+    "Bedoes 2115",
+    "Sobbel",
+    "Mata"
+  ],
+  "recommendedBpm": "120-128 BPM",
+  "productionTips": "Bright nylon acoustic guitar loops with subtle chorus over a bouncy, syncopated 808 groove.",
+  "idealVocalStyle": "Uplifting autotune melodies, catchy summer hooks, and youthful carefree lyrics.",
+  "suggestedKey": "G Major / E Minor",
+  "streamingSuitability": "Heavy summer radio rotation, festival mainstages, and viral seasonal social media trends."
+},
+  {
+  "slug": "paluch-bor-bezkompromisowy-street-banger",
+  "title": "Paluch B.O.R. Uncompromising Poznań Hardcore Street Trap Beat",
+  "description": "Uncompromising, battle-tested Poznań street rap banger inspired by Paluch and B.O.R. (Czerwony Dywan, Nadciśnienie, Złota Maska, Bez Strachu), with heavy brass horns and punchy kicks.",
+  "targetKeywords": [
+    "paluch type beat 2024",
+    "bor biuro ochrony rapu beat",
+    "uliczny trap beat poznan",
+    "paluch czerwony dywan instrumental",
+    "twardy polski rap beat"
+  ],
+  "heroCta": "Kup Beat w Stylu Palucha (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hardcore Street Single, Street Authority Anthem and Concert Banger",
+  "similarArtists": [
+    "Paluch",
+    "Szpaku",
+    "Gedz",
+    "Peja"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "productionTips": "Aggressive, dry snare transients paired with deep analog sub-bass and tension-building brass fanfares.",
+  "idealVocalStyle": "Sharp, commanding vocal projection, breathless flow patterns, and uncompromising street lyrics.",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "Consistent evergreen streams across Polish street rap playlists, YouTube, and car audio meets."
+},
+  {
+  "slug": "bity-rap-kup-blik-tanie-pln",
+  "title": "Tanie Bity do Rapu od 119 zł (Płatność Kodem BLIK & Przelew P24)",
+  "description": "Profesjonalne, zmasterowane w studiu bity trap, drill i boombap od 119 zł z błyskawiczną i bezpieczną płatnością kodem BLIK, kartą lub Przelewy24 w polskich złotych (PLN zł).",
+  "targetKeywords": [
+    "bity rap kup blik tanie pln",
+    "kup bity blikiem polska",
+    "tanie bity trap 120 zl blik",
+    "bity do rapu bez tagow zlotowki"
+  ],
+  "heroCta": "Zobacz Tanie Bity od 119 zł (BLIK)",
+  "energyLevel": "Variable",
+  "primaryUse": "Mixtape'y, Debiutanckie Single i Nagrania Home Studio z Pełną Licencją",
+  "similarArtists": [
+    "Niezależni Polscy Raperzy",
+    "Twórcy z YouTube i TikToka"
+  ],
+  "recommendedBpm": "120-144 BPM",
+  "productionTips": "Profesjonalnie zmiksowane z zapasem dynamiki (headroom) do bezproblemowej rejestracji wokali.",
+  "idealVocalStyle": "Dostosowane do szybkiej nawijki, melodyjnego śpiewu z autotune i ulicznych linijek.",
+  "suggestedKey": "Wszystkie tonacje durowe i molowe",
+  "streamingSuitability": "Licencja komercyjna obejmuje do 100 000 odtworzeń na Spotify, Apple Music i YouTube."
+},
+  {
+  "slug": "polskie-drill-bity-stems-wav-download",
+  "title": "Polskie Bity Drill ze Ścieżkami Stems (WAV 24-Bit do Miksu w Studiu)",
+  "description": "Agresywne, ciężkie podkłady drill z sunącymi basami 808 dostarczane ze wszystkimi osobnymi ścieżkami audio multitrack (stems WAV) dla pełnej kontroli mikserskiej w profesjonalnym studiu.",
+  "targetKeywords": [
+    "polskie drill bity stems wav download",
+    "bity drill osobne slady pobierz",
+    "kup bity drill polska wav 24 bit",
+    "agresywny 808 drill beat pl"
+  ],
+  "heroCta": "Pobierz Bity Drill + Stems WAV",
+  "energyLevel": "Very High",
+  "primaryUse": "Nagranie w Profesjonalnym Studiu, Miks Wielomikrofonowy i Dolby Atmos",
+  "similarArtists": [
+    "Malik Montana",
+    "Alberto",
+    "Central Cee",
+    "Headie One"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Bębny, basy 808, melodie i efekty wyeksportowane w wersji suchej dla maksymalnej elastyczności.",
+  "idealVocalStyle": "Twarde wersy, szybki flow w stylu drill i surowe uliczne opowieści.",
+  "suggestedKey": "E Minor / C# Minor",
+  "streamingSuitability": "Nielimitowane odtworzenia oraz pełne prawa do teledysków i dystrybucji."
+},
+  {
+  "slug": "melodyjne-bity-pianino-rap-polska-wav",
+  "title": "Melodyjne Bity z Pianinem Rap Polska (Bezstratny WAV 24-Bit & Prawa ZAiKS)",
+  "description": "Emocjonalne polskie bity rapowe oparte na żywym fortepianie, przestrzennych skrzypcach i ciepłym basie 808, gotowe do publikacji na Spotify i Apple Music w jakości studyjnej 24-bit WAV.",
+  "targetKeywords": [
+    "melodyjne bity pianino rap polska wav",
+    "pianino rap beat polska wav",
+    "smutne bity rap pianino quebonafide",
+    "emocjonalny trap podklad fortepian"
+  ],
+  "heroCta": "Posłuchaj Melodyjnych Bitów z Pianinem",
+  "energyLevel": "High",
+  "primaryUse": "Główny Singiel Radiowy, Emocjonalny Teledysk i Osobisty Utwór",
+  "similarArtists": [
+    "Quebonafide",
+    "Taco Hemingway",
+    "Bedoes 2115",
+    "Mata"
+  ],
+  "recommendedBpm": "126-136 BPM",
+  "productionTips": "Akustyczny fortepian nasycony taśmą analogową z ciepłym, kontrolowanym fundamentem subbasu.",
+  "idealVocalStyle": "Osobiste, szczere teksty, śpiewane refreny i nostalgiczne refleksje.",
+  "suggestedKey": "F Minor / A Minor / D Minor",
+  "streamingSuitability": "Nielimitowana komercyjna dystrybucja cyfrowa z zachowaniem 100% zysków z praw wykonawczych."
+},
+  {
+  "slug": "zaiks-umowa-licencyjna-beat-pdf",
+  "title": "Umowa Licencyjna na Bity ZAiKS & Split Sheet (Podpisany PDF Natychmiast)",
+  "description": "Wiążąca prawnie umowa producencka zgodna z polską Ustawą o prawie autorskim i prawach pokrewnych oraz wytycznymi ZAiKS: pobierz podpisaną umowę i metryczkę utworu od razu po zakupie.",
+  "targetKeywords": [
+    "zaiks umowa licencyjna beat pdf",
+    "umowa na podklad muzyczny pdf zaiks",
+    "metryczka utworu split sheet bity",
+    "licencja komercyjna beat rap polska"
+  ],
+  "heroCta": "Zobacz Umowę Licencyjną ZAiKS (PDF)",
+  "energyLevel": "N/A",
+  "primaryUse": "Zgłoszenie do ZAiKS, Podział Praw Autorskich i Pełna Ochrona Prawna",
+  "similarArtists": [
+    "Onzieb",
+    "Autorzy i Kompozytorzy Zarejestrowani w ZAiKS"
+  ],
+  "recommendedBpm": "Wszystkie Tempa",
+  "productionTips": "Sformułowana w celu zagwarantowania pełnego bezpieczeństwa prawnego artysty i wydawcy.",
+  "idealVocalStyle": "Ważna dla wszystkich stylów muzycznych, nagrań wokalnych i wydań komercyjnych.",
+  "suggestedKey": "Wszystkie Tonacje",
+  "streamingSuitability": "Pełna ochrona prawna przy globalnej dystrybucji cyfrowej i synchronizacji z wideo."
+},
+  {
+  "slug": "kup-bity-blikiem-przelewy24-polska",
+  "title": "Kup Bity w Polsce Płacąc Kodem BLIK lub Przelewy24 (Szybkie Złotówki PLN zł)",
+  "description": "Kupuj bity bez tagów wokalnych za pomocą najpopularniejszej metody płatności w Polsce: kodem BLIK z aplikacji bankowej lub szybkim przelewem P24 z natychmiastowym pobraniem plików w PLN (zł).",
+  "targetKeywords": [
+    "kup bity blikiem przelewy24 polska",
+    "bity rap platnosc blik zlotowki",
+    "sklep z bitami blik p24",
+    "kupic podklad muzyczny blikiem"
+  ],
+  "heroCta": "Kup Bity Płacąc BLIK-iem",
+  "energyLevel": "All Levels",
+  "primaryUse": "Błyskawiczny i Wygodny Zakup dla Polskich Raperów i Studiów Nagraniowych",
+  "similarArtists": [
+    "Polscy Niezależni Artyści i Producenci"
+  ],
+  "recommendedBpm": "80-160 BPM",
+  "productionTips": "Automatyczne wygenerowanie bezpiecznego linku do pobrania plików zaraz po wpisaniu kodu BLIK.",
+  "idealVocalStyle": "Uniwersalna kompatybilność z każdym stylem wokalnym i tempem nawijki.",
+  "suggestedKey": "Wszystkie Tonacje",
+  "streamingSuitability": "Bezpośrednia licencja komercyjna ważna do publikacji we wszystkich serwisach streamingowych."
+},
+  {
+  "slug": "pakiet-5-bitow-album-rap-polska-rabat",
+  "title": "Pakiet 5 Bitów na Album i EP Rap Polska (40% Rabatu w Złotówkach PLN)",
+  "description": "Kompleksowy pakiet dla artystów tworzących pełny album, mixtape lub EP: wybierz dowolne 5 lub 10 podkładów z całego katalogu z rabatem do 40% pod jednolitą licencją komercyjną.",
+  "targetKeywords": [
+    "pakiet 5 bitow album rap polska rabat",
+    "bity na plyte hurtowo taniej pln",
+    "pakiet podkladow na ep rabat zlotowki",
+    "kupic bity w pakiecie polska 40 taniej"
+  ],
+  "heroCta": "Odbierz Pakiet 5 Bitów (40% Zniżki)",
+  "energyLevel": "Variable",
+  "primaryUse": "Produkcja Całego Projektu, Spójna Wizja Artystyczna i Regularne Single",
+  "similarArtists": [
+    "Niezależni Polscy Raperzy i Składy Hip-Hopowe"
+  ],
+  "recommendedBpm": "85-145 BPM",
+  "productionTips": "Harmonijnie i dynamicznie dobrany zestaw gwarantujący spójne brzmienie całej płyty.",
+  "idealVocalStyle": "Szeroka przestrzeń do zaprezentowania pełnego wachlarza możliwości technicznych rapera.",
+  "suggestedKey": "Dopełniające się Tonacje",
+  "streamingSuitability": "Jedna, przejrzysta licencja komercyjna obejmująca jednocześnie wszystkie utwory z projektu."
+},
+  {
+  "slug": "polski-producent-muzyczny-whatsapp-onzieb",
+  "title": "Ekskluzywny Producent Muzyczny dla Raperów w Polsce (WhatsApp z Onzieb)",
+  "description": "Pracuj bezpośrednio z producentem Onzieb przez WhatsApp nad podkładami na zamówienie: zmiana tonacji, przearanżowanie ścieżek, miks wokali i bity szyte na miarę Twojego stylu.",
+  "targetKeywords": [
+    "polski producent muzyczny whatsapp onzieb",
+    "onzieb producent bity kontakt",
+    "zamowic wlasny beat rap polska",
+    "beatmaker na zamowienie whatsapp"
+  ],
+  "heroCta": "Napisz do Onzieb na WhatsApp",
+  "energyLevel": "Dedykowany",
+  "primaryUse": "Ekskluzywne Bity na Zamówienie, Budowanie Własnego Brzmienia i Główne Single",
+  "similarArtists": [
+    "Onzieb",
+    "Czołowi Polscy Producenci Urban"
+  ],
+  "recommendedBpm": "Dostosowane precyzyjnie do oddechu i tempa flow wykonawcy",
+  "productionTips": "Bieżące korekty struktury i miksu za pomocą notatek głosowych i plików przesyłanych na WhatsApp.",
+  "idealVocalStyle": "Dopasowane dokładnie do barwy, dynamiki i siły głosu danego wokalisty.",
+  "suggestedKey": "Indywidualnie Dobrana Tonacja",
+  "streamingSuitability": "Umowa na wyłączność ze 100% praw do nagrania master i bezlimitową monetyzacją."
+},
+  {
+  "slug": "gitara-akustyczna-emo-trap-bity-polska",
+  "title": "Bity Emo Trap z Gitarą Akustyczną (Klimat Bedoes, White 2115 & Chivas)",
+  "description": "Poruszające, melancholijne bity trapowe łączące żywą gitarę akustyczną i przesterowane gitary elektryczne z ciężkim basem 808, stworzone pod emocjonalne autotune'owe wokale.",
+  "targetKeywords": [
+    "gitara akustyczna emo trap bity polska",
+    "bity trap z gitara pobierz",
+    "bedoes white 2115 styl beat",
+    "smutny trap podklad gitara 808"
+  ],
+  "heroCta": "Posłuchaj Bitów z Gitarą (WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Emocjonalny Singiel, Utwór o Złamanym Sercu i Teledysk z Przekazem",
+  "similarArtists": [
+    "Bedoes 2115",
+    "White 2115",
+    "Chivas",
+    "Szpaku"
+  ],
+  "recommendedBpm": "124-134 BPM",
+  "productionTips": "Prawdziwa gitara akustyczna nagrana w stereo z analogowym nasyceniem i miękkim basem 808.",
+  "idealVocalStyle": "Szczere, bezbronne teksty, melodyjny autotune i śpiewane, chwytliwe refreny.",
+  "suggestedKey": "C# Minor / A Major / E Minor",
+  "streamingSuitability": "Ogromna powtarzalność odtworzeń na playlistach młodzieżowych i TikToku."
+},
+  {
+  "slug": "komercyjne-bity-klubowe-trap-afro-polska",
+  "title": "Komercyjne Bity Klubowe Trap & Afro-Dancehall (Styl Radiowy & Klubowy)",
+  "description": "Bujające, imprezowe bity łączące nowoczesny trap z rytmami afro-dancehall: świeże melodie, perkusyjny swing i sprężysty bas stworzone pod hity klubowe i radiowe.",
+  "targetKeywords": [
+    "komercyjne bity klubowe trap afro polska",
+    "taneczny trap beat polska",
+    "klubowy podklad rap radio",
+    "afro trap beat po polsku"
+  ],
+  "heroCta": "Sprawdź Bity Klubowe i Afro-Trap",
+  "energyLevel": "Very High",
+  "primaryUse": "Klubowy Banger, Przebój Radiowy i Dynamiczny TikTok Trend",
+  "similarArtists": [
+    "Malik Montana",
+    "Sobbel",
+    "White 2115",
+    "Kizo"
+  ],
+  "recommendedBpm": "108-116 / 128 BPM",
+  "productionTips": "Selektywne syntezatory i tropikalne motywy oparte na bujającym, synkopowanym rytmie stopy.",
+  "idealVocalStyle": "Wpadające w ucho melodie, wakacyjne teksty i imprezowa pewność siebie.",
+  "suggestedKey": "G Major / E Minor",
+  "streamingSuitability": "Doskonałe wyniki na playlistach imprezowych, w setach DJ-skich i radiowych pasmach młodzieżowych."
+},
+  {
+  "slug": "darmowy-polski-drill-drum-kit-wav",
+  "title": "Darmowy Polski Drill & Trap Drum Kit (Sample WAV 24-Bit, Basy 808 i Werble)",
+  "description": "Pobierz bezpłatny zestaw brzmień dla producentów: 25 nastrojonych basów 808, ostre drillowe rimshoty, twarde stopy i hi-haty w jakości studyjnej 24-bit WAV.",
+  "targetKeywords": [
+    "darmowy polski drill drum kit wav",
+    "paczka sampli drill fl studio za darmo",
+    "darmowy 808 trap sample pack polska",
+    "drum kit rap do pobrania free"
+  ],
+  "heroCta": "Pobierz Darmowy Drum Kit (ZIP)",
+  "energyLevel": "High",
+  "primaryUse": "Produkcja Muzyki w Home Studio, Beatmaking w FL Studio, Abletonie i Logic Pro",
+  "similarArtists": [
+    "Polscy Niezależni Beatmakerzy",
+    "Początkujący i Zaawansowani Producenci"
+  ],
+  "recommendedBpm": "Kompatybilny ze wszystkimi tempami",
+  "productionTips": "W 100% wolne od tantiem sample one-shot z potężnym analogowym uderzeniem gotowe do wczytania.",
+  "idealVocalStyle": "Solidny fundament rytmiczny pod produkcję nowoczesnych polskich utworów trapowych.",
+  "suggestedKey": "Nastrojony na C (Do) dla natychmiastowej zmiany tonacji w programie DAW",
+  "streamingSuitability": "Może być swobodnie używany do wydań komercyjnych bez opłat licencyjnych."
+},
+  {
+  "slug": "warszawa-praga-polski-trap-808",
+  "name": "Warszawa Praga Polski Trap 808 Beats",
+  "category": "scene",
+  "badge": "Warszawa Praga Polski Trap",
+  "headline": "Warszawa Praga (Praga Północ & Nocny Stołeczny Trap) Polski Trap 808 Beats: Płyty WAV 24-Bit & Płatność Kodem BLIK",
+  "description": "Ciężkie sunące basy 808, mroczne syntezatory i ostre werble stworzone pod wersy MC z Warszawa Praga.",
+  "targetArtists": [
+    "Artyści z Warszawa Praga",
+    "Polska Scena Hip-Hopowa",
+    "Środowisko Rapowe"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Warszawa Praga",
+    "Polski Trap",
+    "Płatność BLIK (PLN zł)",
+    "100% Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Polski Trap 808 Beats",
+    "Polski Trap",
+    "Polski Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "warszawa-praga-polska-street-drill",
+  "name": "Warszawa Praga Polska Street Drill Beats",
+  "category": "scene",
+  "badge": "Warszawa Praga Polski Drill",
+  "headline": "Warszawa Praga (Praga Północ & Nocny Stołeczny Trap) Polska Street Drill Beats: Płyty WAV 24-Bit & Płatność Kodem BLIK",
+  "description": "Chłodne fortepiany, szybkie hi-hatowe tercyny i sejsmiczne glissanda basu dla artystów z Warszawa Praga.",
+  "targetArtists": [
+    "Artyści z Warszawa Praga",
+    "Polska Scena Hip-Hopowa",
+    "Środowisko Rapowe"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / C#-Minor",
+  "vibeAttributes": [
+    "Warszawa Praga",
+    "Polski Drill",
+    "Płatność BLIK (PLN zł)",
+    "100% Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Polska Street Drill Beats",
+    "Polski Trap",
+    "Polski Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "warszawa-praga-gitara-melodic-trap",
+  "name": "Warszawa Praga Gitara Melodic Trap Beats",
+  "category": "scene",
+  "badge": "Warszawa Praga Gitara Trap",
+  "headline": "Warszawa Praga (Praga Północ & Nocny Stołeczny Trap) Gitara Melodic Trap Beats: Płyty WAV 24-Bit & Płatność Kodem BLIK",
+  "description": "Żywe gitary akustyczne, przestrzenne pady i bujający bas pod melodyjne wokale z Warszawa Praga.",
+  "targetArtists": [
+    "Artyści z Warszawa Praga",
+    "Polska Scena Hip-Hopowa",
+    "Środowisko Rapowe"
+  ],
+  "recommendedBpm": "124-132 BPM",
+  "recommendedKey": "C#-Minor / A-Major",
+  "vibeAttributes": [
+    "Warszawa Praga",
+    "Gitara Trap",
+    "Płatność BLIK (PLN zł)",
+    "100% Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Gitara Melodic Trap Beats",
+    "Polski Trap",
+    "Polski Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "warszawa-praga-polski-classic-boom-bap",
+  "name": "Warszawa Praga Polski Classic Boom Bap",
+  "category": "scene",
+  "badge": "Warszawa Praga Polski Boombap",
+  "headline": "Warszawa Praga (Praga Północ & Nocny Stołeczny Trap) Polski Classic Boom Bap: Płyty WAV 24-Bit & Płatność Kodem BLIK",
+  "description": "Trzaskający winyl, twarde bębny z automatu perkusyjnego i ciepły analogowy bas dla purystów rapu w Warszawa Praga.",
+  "targetArtists": [
+    "Artyści z Warszawa Praga",
+    "Polska Scena Hip-Hopowa",
+    "Środowisko Rapowe"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Warszawa Praga",
+    "Polski Boombap",
+    "Płatność BLIK (PLN zł)",
+    "100% Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Polski Classic Boom Bap",
+    "Polski Trap",
+    "Polski Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "katowice-slask-polski-trap-808",
+  "name": "Śląsk GZM Polski Trap 808 Beats",
+  "category": "scene",
+  "badge": "Śląsk GZM Polski Trap",
+  "headline": "Śląsk GZM (Katowice & Industrialny Ciężki 808) Polski Trap 808 Beats: Płyty WAV 24-Bit & Płatność Kodem BLIK",
+  "description": "Ciężkie sunące basy 808, mroczne syntezatory i ostre werble stworzone pod wersy MC z Śląsk GZM.",
+  "targetArtists": [
+    "Artyści z Śląsk GZM",
+    "Polska Scena Hip-Hopowa",
+    "Środowisko Rapowe"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Śląsk GZM",
+    "Polski Trap",
+    "Płatność BLIK (PLN zł)",
+    "100% Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Polski Trap 808 Beats",
+    "Polski Trap",
+    "Polski Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "katowice-slask-polska-street-drill",
+  "name": "Śląsk GZM Polska Street Drill Beats",
+  "category": "scene",
+  "badge": "Śląsk GZM Polski Drill",
+  "headline": "Śląsk GZM (Katowice & Industrialny Ciężki 808) Polska Street Drill Beats: Płyty WAV 24-Bit & Płatność Kodem BLIK",
+  "description": "Chłodne fortepiany, szybkie hi-hatowe tercyny i sejsmiczne glissanda basu dla artystów z Śląsk GZM.",
+  "targetArtists": [
+    "Artyści z Śląsk GZM",
+    "Polska Scena Hip-Hopowa",
+    "Środowisko Rapowe"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / C#-Minor",
+  "vibeAttributes": [
+    "Śląsk GZM",
+    "Polski Drill",
+    "Płatność BLIK (PLN zł)",
+    "100% Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Polska Street Drill Beats",
+    "Polski Trap",
+    "Polski Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "katowice-slask-gitara-melodic-trap",
+  "name": "Śląsk GZM Gitara Melodic Trap Beats",
+  "category": "scene",
+  "badge": "Śląsk GZM Gitara Trap",
+  "headline": "Śląsk GZM (Katowice & Industrialny Ciężki 808) Gitara Melodic Trap Beats: Płyty WAV 24-Bit & Płatność Kodem BLIK",
+  "description": "Żywe gitary akustyczne, przestrzenne pady i bujający bas pod melodyjne wokale z Śląsk GZM.",
+  "targetArtists": [
+    "Artyści z Śląsk GZM",
+    "Polska Scena Hip-Hopowa",
+    "Środowisko Rapowe"
+  ],
+  "recommendedBpm": "124-132 BPM",
+  "recommendedKey": "C#-Minor / A-Major",
+  "vibeAttributes": [
+    "Śląsk GZM",
+    "Gitara Trap",
+    "Płatność BLIK (PLN zł)",
+    "100% Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Gitara Melodic Trap Beats",
+    "Polski Trap",
+    "Polski Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "katowice-slask-polski-classic-boom-bap",
+  "name": "Śląsk GZM Polski Classic Boom Bap",
+  "category": "scene",
+  "badge": "Śląsk GZM Polski Boombap",
+  "headline": "Śląsk GZM (Katowice & Industrialny Ciężki 808) Polski Classic Boom Bap: Płyty WAV 24-Bit & Płatność Kodem BLIK",
+  "description": "Trzaskający winyl, twarde bębny z automatu perkusyjnego i ciepły analogowy bas dla purystów rapu w Śląsk GZM.",
+  "targetArtists": [
+    "Artyści z Śląsk GZM",
+    "Polska Scena Hip-Hopowa",
+    "Środowisko Rapowe"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Śląsk GZM",
+    "Polski Boombap",
+    "Płatność BLIK (PLN zł)",
+    "100% Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Polski Classic Boom Bap",
+    "Polski Trap",
+    "Polski Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "trojmiasto-gdansk-polski-trap-808",
+  "name": "Trójmiasto Polski Trap 808 Beats",
+  "category": "scene",
+  "badge": "Trójmiasto Polski Trap",
+  "headline": "Trójmiasto (Gdańsk & Nadmorski Bałtycki Drill) Polski Trap 808 Beats: Płyty WAV 24-Bit & Płatność Kodem BLIK",
+  "description": "Ciężkie sunące basy 808, mroczne syntezatory i ostre werble stworzone pod wersy MC z Trójmiasto.",
+  "targetArtists": [
+    "Artyści z Trójmiasto",
+    "Polska Scena Hip-Hopowa",
+    "Środowisko Rapowe"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Trójmiasto",
+    "Polski Trap",
+    "Płatność BLIK (PLN zł)",
+    "100% Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Polski Trap 808 Beats",
+    "Polski Trap",
+    "Polski Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "trojmiasto-gdansk-polska-street-drill",
+  "name": "Trójmiasto Polska Street Drill Beats",
+  "category": "scene",
+  "badge": "Trójmiasto Polski Drill",
+  "headline": "Trójmiasto (Gdańsk & Nadmorski Bałtycki Drill) Polska Street Drill Beats: Płyty WAV 24-Bit & Płatność Kodem BLIK",
+  "description": "Chłodne fortepiany, szybkie hi-hatowe tercyny i sejsmiczne glissanda basu dla artystów z Trójmiasto.",
+  "targetArtists": [
+    "Artyści z Trójmiasto",
+    "Polska Scena Hip-Hopowa",
+    "Środowisko Rapowe"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / C#-Minor",
+  "vibeAttributes": [
+    "Trójmiasto",
+    "Polski Drill",
+    "Płatność BLIK (PLN zł)",
+    "100% Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Polska Street Drill Beats",
+    "Polski Trap",
+    "Polski Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "trojmiasto-gdansk-gitara-melodic-trap",
+  "name": "Trójmiasto Gitara Melodic Trap Beats",
+  "category": "scene",
+  "badge": "Trójmiasto Gitara Trap",
+  "headline": "Trójmiasto (Gdańsk & Nadmorski Bałtycki Drill) Gitara Melodic Trap Beats: Płyty WAV 24-Bit & Płatność Kodem BLIK",
+  "description": "Żywe gitary akustyczne, przestrzenne pady i bujający bas pod melodyjne wokale z Trójmiasto.",
+  "targetArtists": [
+    "Artyści z Trójmiasto",
+    "Polska Scena Hip-Hopowa",
+    "Środowisko Rapowe"
+  ],
+  "recommendedBpm": "124-132 BPM",
+  "recommendedKey": "C#-Minor / A-Major",
+  "vibeAttributes": [
+    "Trójmiasto",
+    "Gitara Trap",
+    "Płatność BLIK (PLN zł)",
+    "100% Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Gitara Melodic Trap Beats",
+    "Polski Trap",
+    "Polski Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "trojmiasto-gdansk-polski-classic-boom-bap",
+  "name": "Trójmiasto Polski Classic Boom Bap",
+  "category": "scene",
+  "badge": "Trójmiasto Polski Boombap",
+  "headline": "Trójmiasto (Gdańsk & Nadmorski Bałtycki Drill) Polski Classic Boom Bap: Płyty WAV 24-Bit & Płatność Kodem BLIK",
+  "description": "Trzaskający winyl, twarde bębny z automatu perkusyjnego i ciepły analogowy bas dla purystów rapu w Trójmiasto.",
+  "targetArtists": [
+    "Artyści z Trójmiasto",
+    "Polska Scena Hip-Hopowa",
+    "Środowisko Rapowe"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Trójmiasto",
+    "Polski Boombap",
+    "Płatność BLIK (PLN zł)",
+    "100% Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Polski Classic Boom Bap",
+    "Polski Trap",
+    "Polski Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "krakow-kazimierz-polski-trap-808",
+  "name": "Kraków Polski Trap 808 Beats",
+  "category": "scene",
+  "badge": "Kraków Polski Trap",
+  "headline": "Kraków (Kazimierz & Poetycki Świadomy Trap) Polski Trap 808 Beats: Płyty WAV 24-Bit & Płatność Kodem BLIK",
+  "description": "Ciężkie sunące basy 808, mroczne syntezatory i ostre werble stworzone pod wersy MC z Kraków.",
+  "targetArtists": [
+    "Artyści z Kraków",
+    "Polska Scena Hip-Hopowa",
+    "Środowisko Rapowe"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Kraków",
+    "Polski Trap",
+    "Płatność BLIK (PLN zł)",
+    "100% Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Polski Trap 808 Beats",
+    "Polski Trap",
+    "Polski Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "krakow-kazimierz-polska-street-drill",
+  "name": "Kraków Polska Street Drill Beats",
+  "category": "scene",
+  "badge": "Kraków Polski Drill",
+  "headline": "Kraków (Kazimierz & Poetycki Świadomy Trap) Polska Street Drill Beats: Płyty WAV 24-Bit & Płatność Kodem BLIK",
+  "description": "Chłodne fortepiany, szybkie hi-hatowe tercyny i sejsmiczne glissanda basu dla artystów z Kraków.",
+  "targetArtists": [
+    "Artyści z Kraków",
+    "Polska Scena Hip-Hopowa",
+    "Środowisko Rapowe"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / C#-Minor",
+  "vibeAttributes": [
+    "Kraków",
+    "Polski Drill",
+    "Płatność BLIK (PLN zł)",
+    "100% Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Polska Street Drill Beats",
+    "Polski Trap",
+    "Polski Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "krakow-kazimierz-gitara-melodic-trap",
+  "name": "Kraków Gitara Melodic Trap Beats",
+  "category": "scene",
+  "badge": "Kraków Gitara Trap",
+  "headline": "Kraków (Kazimierz & Poetycki Świadomy Trap) Gitara Melodic Trap Beats: Płyty WAV 24-Bit & Płatność Kodem BLIK",
+  "description": "Żywe gitary akustyczne, przestrzenne pady i bujający bas pod melodyjne wokale z Kraków.",
+  "targetArtists": [
+    "Artyści z Kraków",
+    "Polska Scena Hip-Hopowa",
+    "Środowisko Rapowe"
+  ],
+  "recommendedBpm": "124-132 BPM",
+  "recommendedKey": "C#-Minor / A-Major",
+  "vibeAttributes": [
+    "Kraków",
+    "Gitara Trap",
+    "Płatność BLIK (PLN zł)",
+    "100% Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Gitara Melodic Trap Beats",
+    "Polski Trap",
+    "Polski Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "krakow-kazimierz-polski-classic-boom-bap",
+  "name": "Kraków Polski Classic Boom Bap",
+  "category": "scene",
+  "badge": "Kraków Polski Boombap",
+  "headline": "Kraków (Kazimierz & Poetycki Świadomy Trap) Polski Classic Boom Bap: Płyty WAV 24-Bit & Płatność Kodem BLIK",
+  "description": "Trzaskający winyl, twarde bębny z automatu perkusyjnego i ciepły analogowy bas dla purystów rapu w Kraków.",
+  "targetArtists": [
+    "Artyści z Kraków",
+    "Polska Scena Hip-Hopowa",
+    "Środowisko Rapowe"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Kraków",
+    "Polski Boombap",
+    "Płatność BLIK (PLN zł)",
+    "100% Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Polski Classic Boom Bap",
+    "Polski Trap",
+    "Polski Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "poznan-jezyce-polski-trap-808",
+  "name": "Poznań Polski Trap 808 Beats",
+  "category": "scene",
+  "badge": "Poznań Polski Trap",
+  "headline": "Poznań (Jeżyce & B.O.R. Twardy Uliczny Rap) Polski Trap 808 Beats: Płyty WAV 24-Bit & Płatność Kodem BLIK",
+  "description": "Ciężkie sunące basy 808, mroczne syntezatory i ostre werble stworzone pod wersy MC z Poznań.",
+  "targetArtists": [
+    "Artyści z Poznań",
+    "Polska Scena Hip-Hopowa",
+    "Środowisko Rapowe"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Poznań",
+    "Polski Trap",
+    "Płatność BLIK (PLN zł)",
+    "100% Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Polski Trap 808 Beats",
+    "Polski Trap",
+    "Polski Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "poznan-jezyce-polska-street-drill",
+  "name": "Poznań Polska Street Drill Beats",
+  "category": "scene",
+  "badge": "Poznań Polski Drill",
+  "headline": "Poznań (Jeżyce & B.O.R. Twardy Uliczny Rap) Polska Street Drill Beats: Płyty WAV 24-Bit & Płatność Kodem BLIK",
+  "description": "Chłodne fortepiany, szybkie hi-hatowe tercyny i sejsmiczne glissanda basu dla artystów z Poznań.",
+  "targetArtists": [
+    "Artyści z Poznań",
+    "Polska Scena Hip-Hopowa",
+    "Środowisko Rapowe"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / C#-Minor",
+  "vibeAttributes": [
+    "Poznań",
+    "Polski Drill",
+    "Płatność BLIK (PLN zł)",
+    "100% Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Polska Street Drill Beats",
+    "Polski Trap",
+    "Polski Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "poznan-jezyce-gitara-melodic-trap",
+  "name": "Poznań Gitara Melodic Trap Beats",
+  "category": "scene",
+  "badge": "Poznań Gitara Trap",
+  "headline": "Poznań (Jeżyce & B.O.R. Twardy Uliczny Rap) Gitara Melodic Trap Beats: Płyty WAV 24-Bit & Płatność Kodem BLIK",
+  "description": "Żywe gitary akustyczne, przestrzenne pady i bujający bas pod melodyjne wokale z Poznań.",
+  "targetArtists": [
+    "Artyści z Poznań",
+    "Polska Scena Hip-Hopowa",
+    "Środowisko Rapowe"
+  ],
+  "recommendedBpm": "124-132 BPM",
+  "recommendedKey": "C#-Minor / A-Major",
+  "vibeAttributes": [
+    "Poznań",
+    "Gitara Trap",
+    "Płatność BLIK (PLN zł)",
+    "100% Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Gitara Melodic Trap Beats",
+    "Polski Trap",
+    "Polski Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "poznan-jezyce-polski-classic-boom-bap",
+  "name": "Poznań Polski Classic Boom Bap",
+  "category": "scene",
+  "badge": "Poznań Polski Boombap",
+  "headline": "Poznań (Jeżyce & B.O.R. Twardy Uliczny Rap) Polski Classic Boom Bap: Płyty WAV 24-Bit & Płatność Kodem BLIK",
+  "description": "Trzaskający winyl, twarde bębny z automatu perkusyjnego i ciepły analogowy bas dla purystów rapu w Poznań.",
+  "targetArtists": [
+    "Artyści z Poznań",
+    "Polska Scena Hip-Hopowa",
+    "Środowisko Rapowe"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Poznań",
+    "Polski Boombap",
+    "Płatność BLIK (PLN zł)",
+    "100% Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Polski Classic Boom Bap",
+    "Polski Trap",
+    "Polski Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "wroclaw-nadodrze-polski-trap-808",
+  "name": "Wrocław Polski Trap 808 Beats",
+  "category": "scene",
+  "badge": "Wrocław Polski Trap",
+  "headline": "Wrocław (Nadodrze & Dolnośląska Nowa Fala) Polski Trap 808 Beats: Płyty WAV 24-Bit & Płatność Kodem BLIK",
+  "description": "Ciężkie sunące basy 808, mroczne syntezatory i ostre werble stworzone pod wersy MC z Wrocław.",
+  "targetArtists": [
+    "Artyści z Wrocław",
+    "Polska Scena Hip-Hopowa",
+    "Środowisko Rapowe"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Wrocław",
+    "Polski Trap",
+    "Płatność BLIK (PLN zł)",
+    "100% Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Polski Trap 808 Beats",
+    "Polski Trap",
+    "Polski Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "wroclaw-nadodrze-polska-street-drill",
+  "name": "Wrocław Polska Street Drill Beats",
+  "category": "scene",
+  "badge": "Wrocław Polski Drill",
+  "headline": "Wrocław (Nadodrze & Dolnośląska Nowa Fala) Polska Street Drill Beats: Płyty WAV 24-Bit & Płatność Kodem BLIK",
+  "description": "Chłodne fortepiany, szybkie hi-hatowe tercyny i sejsmiczne glissanda basu dla artystów z Wrocław.",
+  "targetArtists": [
+    "Artyści z Wrocław",
+    "Polska Scena Hip-Hopowa",
+    "Środowisko Rapowe"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / C#-Minor",
+  "vibeAttributes": [
+    "Wrocław",
+    "Polski Drill",
+    "Płatność BLIK (PLN zł)",
+    "100% Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Polska Street Drill Beats",
+    "Polski Trap",
+    "Polski Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "wroclaw-nadodrze-gitara-melodic-trap",
+  "name": "Wrocław Gitara Melodic Trap Beats",
+  "category": "scene",
+  "badge": "Wrocław Gitara Trap",
+  "headline": "Wrocław (Nadodrze & Dolnośląska Nowa Fala) Gitara Melodic Trap Beats: Płyty WAV 24-Bit & Płatność Kodem BLIK",
+  "description": "Żywe gitary akustyczne, przestrzenne pady i bujający bas pod melodyjne wokale z Wrocław.",
+  "targetArtists": [
+    "Artyści z Wrocław",
+    "Polska Scena Hip-Hopowa",
+    "Środowisko Rapowe"
+  ],
+  "recommendedBpm": "124-132 BPM",
+  "recommendedKey": "C#-Minor / A-Major",
+  "vibeAttributes": [
+    "Wrocław",
+    "Gitara Trap",
+    "Płatność BLIK (PLN zł)",
+    "100% Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Gitara Melodic Trap Beats",
+    "Polski Trap",
+    "Polski Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "wroclaw-nadodrze-polski-classic-boom-bap",
+  "name": "Wrocław Polski Classic Boom Bap",
+  "category": "scene",
+  "badge": "Wrocław Polski Boombap",
+  "headline": "Wrocław (Nadodrze & Dolnośląska Nowa Fala) Polski Classic Boom Bap: Płyty WAV 24-Bit & Płatność Kodem BLIK",
+  "description": "Trzaskający winyl, twarde bębny z automatu perkusyjnego i ciepły analogowy bas dla purystów rapu w Wrocław.",
+  "targetArtists": [
+    "Artyści z Wrocław",
+    "Polska Scena Hip-Hopowa",
+    "Środowisko Rapowe"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "B-Minor / D-Minor",
+  "vibeAttributes": [
+    "Wrocław",
+    "Polski Boombap",
+    "Płatność BLIK (PLN zł)",
+    "100% Zgodne z ZAiKS"
+  ],
+  "popularGenres": [
+    "Polski Classic Boom Bap",
+    "Polski Trap",
+    "Polski Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
 ];

@@ -43908,4 +43908,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "pl/warszawa-praga-mokotow": {
+  "slug": "pl/warszawa-praga-mokotow",
+  "name": "Polska – Warszawa: Praga, Mokotów & Śródmieście (Serce Polskiego Hip-Hopu & Nocny Drill)",
+  "flag": "🇵🇱",
+  "currency": "PLN (zł) / USD ($)",
+  "currencyCode": "PLN",
+  "gateways": "BLIK (Kod BLIK), Przelewy24 (P24), Karty płatnicze (Visa/Mastercard), Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "ZAiKS / ZPAV",
+  "proFullName": "ZAiKS (Stowarzyszenie Autorów ZAiKS) / ZPAV",
+  "proGuide": "100% zgodne z polskim prawem autorskim i ZAiKS. Umowa licencyjna PDF i metryczka utworu (split sheet) natychmiast po zakupie.",
+  "headline": "Bity w Warszawie: Praga Północ, Wisłostrada Nocą & Ciężki Warszawski Drill 808",
+  "description": "Najważniejsza scena hip-hopowa w Polsce: chłodne pianina, agresywnie sunące basy 808 i precyzyjne hi-haty stworzone dla raperów z Pragi, Mokotowa, Woli i Śródmieścia.",
+  "popularGenres": [
+    "Warszawski Drill",
+    "Nocny Trap 808",
+    "Stołeczny Uliczny Rap"
+  ],
+  "subClusters": []
+},
+  "pl/slask-katowice-gliwice": {
+  "slug": "pl/slask-katowice-gliwice",
+  "name": "Polska – Śląsk: Katowice, Gliwice & Bytom (Metropolia GZM & Industrialny Ciężki Trap)",
+  "flag": "🇵🇱",
+  "currency": "PLN (zł) / USD ($)",
+  "currencyCode": "PLN",
+  "gateways": "BLIK (Kod BLIK), Przelewy24 (P24), Karty płatnicze (Visa/Mastercard), Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "ZAiKS / ZPAV",
+  "proFullName": "ZAiKS (Stowarzyszenie Autorów ZAiKS) / ZPAV",
+  "proGuide": "Niezależna licencja komercyjna ze ścieżkami multitrack (stems) w bezstratnej jakości 24-bit WAV.",
+  "headline": "Bity na Śląsku: Katowice Spodek, Kopalniany Industrial & Miażdżący Subbas 808",
+  "description": "Potęga przemysłowej aglomeracji śląskiej: surowe uderzenia stopy, metaliczne faktury i sejsmiczny subbas poniżej 35Hz dla bezkompromisowych MC z Katowic, Gliwic i Bytomia.",
+  "popularGenres": [
+    "Śląski Trap",
+    "Industrial Drill",
+    "GZM Street Rap"
+  ],
+  "subClusters": []
+},
+  "pl/trojmiasto-gdansk-gdynia": {
+  "slug": "pl/trojmiasto-gdansk-gdynia",
+  "name": "Polska – Trójmiasto: Gdańsk, Gdynia & Sopot (Nadmorski Trap, Bałtycki Drill & Świeży Vibe)",
+  "flag": "🇵🇱",
+  "currency": "PLN (zł) / USD ($)",
+  "currencyCode": "PLN",
+  "gateways": "BLIK (Kod BLIK), Przelewy24 (P24), Karty płatnicze (Visa/Mastercard), Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "ZAiKS / ZPAV",
+  "proFullName": "ZAiKS (Stowarzyszenie Autorów ZAiKS) / ZPAV",
+  "proGuide": "100% monetyzacji na Spotify, Apple Music, YouTube i Tidal bez potrąceń tantiem autorskich.",
+  "headline": "Bity w Trójmieście: Bałtycka Bryza, Stocznia Gdańska & Nowoczesny Nadmorski Trap",
+  "description": "Świeże, przestrzenne brzmienie znad polskiego morza: melodyjne syntezatory, szerokie przestrzenie pogłosowe i bujający trap dla artystów z Gdańska, Gdyni i Sopotu.",
+  "popularGenres": [
+    "Trójmiejski Trap",
+    "Bałtycki Drill",
+    "Nadmorski Melodic Beat"
+  ],
+  "subClusters": []
+},
+  "pl/krakow-kazimierz-nowa-huta": {
+  "slug": "pl/krakow-kazimierz-nowa-huta",
+  "name": "Polska – Kraków: Kazimierz & Nowa Huta (Królewskie Miasto, Poetycki Boombap & Trapowa Nowa Fala)",
+  "flag": "🇵🇱",
+  "currency": "PLN (zł) / USD ($)",
+  "currencyCode": "PLN",
+  "gateways": "BLIK (Kod BLIK), Przelewy24 (P24), Karty płatnicze (Visa/Mastercard), Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "ZAiKS / ZPAV",
+  "proFullName": "ZAiKS (Stowarzyszenie Autorów ZAiKS) / ZPAV",
+  "proGuide": "100% oryginalne bity wyprodukowane bez nielicencjonowanych sampli pod oficjalny release.",
+  "headline": "Bity w Krakowie: Zaułki Kazimierza, Nowa Huta & Klimatyczny Melancholijny Trap",
+  "description": "Literacka i artystyczna dusza Małopolski: intymne partie fortepianu, szlachetne skrzypce i precyzyjnie wystrojone doły 808 dla świadomych raperów z Krakowa i okolic.",
+  "popularGenres": [
+    "Krakowski Trap",
+    "Kazimierz Boombap",
+    "Małopolski Melodic Rap"
+  ],
+  "subClusters": []
+},
+  "pl/wroclaw-nadodrze-krzyki": {
+  "slug": "pl/wroclaw-nadodrze-krzyki",
+  "name": "Polska – Wrocław: Nadodrze & Krzyki (Dolnośląska Stolica Trapu & Płynne Melodie)",
+  "flag": "🇵🇱",
+  "currency": "PLN (zł) / USD ($)",
+  "currencyCode": "PLN",
+  "gateways": "BLIK (Kod BLIK), Przelewy24 (P24), Karty płatnicze (Visa/Mastercard), Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "ZAiKS / ZPAV",
+  "proFullName": "ZAiKS (Stowarzyszenie Autorów ZAiKS) / ZPAV",
+  "proGuide": "Błyskawiczna płatność kodem BLIK lub przelewem natychmiastowym w złotówkach (PLN zł).",
+  "headline": "Bity we Wrocławiu: Mosty nad Odrą, Nadodrze Vibe & Płynny Nowoczesny 808",
+  "description": "Klimatyczna stolica Dolnego Śląska: ciepłe gitary elektryczne, syntezatory w stylu New Wave i sprężysty bas 808 dla wrocławskich raperów i wokalistów.",
+  "popularGenres": [
+    "Wrocławski Trap",
+    "Nadodrze Street Beat",
+    "Dolny Śląsk Drill"
+  ],
+  "subClusters": []
+},
+  "pl/poznan-jezyce-wildar": {
+  "slug": "pl/poznan-jezyce-wildar",
+  "name": "Polska – Poznań: Jeżyce, Wilda & Grunwald (Kolebka B.O.R., Peja & Bezkompromisowy Uliczny Styl)",
+  "flag": "🇵🇱",
+  "currency": "PLN (zł) / USD ($)",
+  "currencyCode": "PLN",
+  "gateways": "BLIK (Kod BLIK), Przelewy24 (P24), Karty płatnicze (Visa/Mastercard), Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "ZAiKS / ZPAV",
+  "proFullName": "ZAiKS (Stowarzyszenie Autorów ZAiKS) / ZPAV",
+  "proGuide": "Ścieżki trackout WAV oraz pełne prawa komercyjne bez ukrytych opłat.",
+  "headline": "Bity w Poznaniu: Jeżycki Klimat, Wielkopolski Etos & Twardy Rap z Ciężką Stopą",
+  "description": "Kolebka najtwardszego ulicznego rapu w Polsce: agresywne instrumenty dęte, tnące werble i potężny subbas stworzony dla artystów z Jeżyc, Wildy i całego Poznania.",
+  "popularGenres": [
+    "Poznański Uliczny Trap",
+    "B.O.R. Style Beat",
+    "Wielkopolska Boombap"
+  ],
+  "subClusters": []
+},
+  "pl/lodz-baluty-piotrkowska": {
+  "slug": "pl/lodz-baluty-piotrkowska",
+  "name": "Polska – Łódź: Bałuty & Piotrkowska (Fabryczna Surowość, Klasyczny Brudny Boombap & Drill)",
+  "flag": "🇵🇱",
+  "currency": "PLN (zł) / USD ($)",
+  "currencyCode": "PLN",
+  "gateways": "BLIK (Kod BLIK), Przelewy24 (P24), Karty płatnicze (Visa/Mastercard), Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "ZAiKS / ZPAV",
+  "proFullName": "ZAiKS (Stowarzyszenie Autorów ZAiKS) / ZPAV",
+  "proGuide": "Bezpieczna umowa licencyjna chroniąca wykonawcę przed roszczeniami prawnymi.",
+  "headline": "Bity w Łodzi: Czerwona Cegła Bałut, Fabryczne Kamienice & Brudny Hip-Hop",
+  "description": "Surowy, bezkompromisowy klimat centralnej Polski: brudne winylowe pętle, twarde bębny w stylu lat 90. i mroczne basy dla łódzkich MC z Bałut i Śródmieścia.",
+  "popularGenres": [
+    "Łódzki Boombap",
+    "Bałuty Street Rap",
+    "Fabryczny Trap 808"
+  ],
+  "subClusters": []
+},
+  "pl/szczecin-pomerania-port": {
+  "slug": "pl/szczecin-pomerania-port",
+  "name": "Polska – Szczecin & Pomorze Zachodnie (Nadmorski Port, Niemiecki Drill Crossover & Głęboki 808)",
+  "flag": "🇵🇱",
+  "currency": "PLN (zł) / USD ($)",
+  "currencyCode": "PLN",
+  "gateways": "BLIK (Kod BLIK), Przelewy24 (P24), Karty płatnicze (Visa/Mastercard), Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "ZAiKS / ZPAV",
+  "proFullName": "ZAiKS (Stowarzyszenie Autorów ZAiKS) / ZPAV",
+  "proGuide": "100% praw autorskich do nagrania master bez limitów wyświetleń.",
+  "headline": "Bity w Szczecinie: Wały Chrobrego, Portowa Surowość & Chłodny Europejski Drill",
+  "description": "Przygraniczny portowy klimat Pomorza: surowe dzwony, ciężkie sunące basy 808 i precyzyjne tempo dla raperów ze Szczecina, Stargardu i Świnoujścia.",
+  "popularGenres": [
+    "Szczeciński Drill",
+    "Pomorski Street Rap",
+    "Portowy 808 Beat"
+  ],
+  "subClusters": []
+},
+  "pl/lublin-stare-miasto-wschod": {
+  "slug": "pl/lublin-stare-miasto-wschod",
+  "name": "Polska – Lublin & Wschodnia Polska (Wschodnia Scena Rapowa, Organiczny Trap & Mroczne Piana)",
+  "flag": "🇵🇱",
+  "currency": "PLN (zł) / USD ($)",
+  "currencyCode": "PLN",
+  "gateways": "BLIK (Kod BLIK), Przelewy24 (P24), Karty płatnicze (Visa/Mastercard), Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "ZAiKS / ZPAV",
+  "proFullName": "ZAiKS (Stowarzyszenie Autorów ZAiKS) / ZPAV",
+  "proGuide": "Bezpośrednia licencja komercyjna na serwisy streamingowe, radio i koncerty.",
+  "headline": "Bity w Lublinie: Zamek Lubelski, Wschodni Klimat & Klimatyczne Pianina Trapowe",
+  "description": "Klimatyczna brama wschodniej Polski: organiczne brzmienia instrumentów, głębokie harmonie i dojrzały groove dla świadomych twórców z Lublina i Lubelszczyzny.",
+  "popularGenres": [
+    "Lubelski Trap",
+    "Wschodni Rap",
+    "Organiczny Boombap"
+  ],
+  "subClusters": []
+},
+  "pl/bydgoszcz-torun-kujawy": {
+  "slug": "pl/bydgoszcz-torun-kujawy",
+  "name": "Polska – Bydgoszcz & Toruń (Kujawsko-Pomorskie Zagłębie Trapu & Melodyjne Gitary 2115)",
+  "flag": "🇵🇱",
+  "currency": "PLN (zł) / USD ($)",
+  "currencyCode": "PLN",
+  "gateways": "BLIK (Kod BLIK), Przelewy24 (P24), Karty płatnicze (Visa/Mastercard), Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "ZAiKS / ZPAV",
+  "proFullName": "ZAiKS (Stowarzyszenie Autorów ZAiKS) / ZPAV",
+  "proGuide": "Ważność prawna na całym świecie bez konieczności dzielenia się zyskami ze streamingu.",
+  "headline": "Bity w Bydgoszczy i Toruniu: Kujawskie Zagłębie Hitów, Żywe Gitary & Melodyjny Trap",
+  "description": "Kolebka melodyjnych hitów młodego pokolenia: akustyczne i przesterowane gitary, autotune'owe tła i bujające bębny dla artystów z Bydgoszczy, Torunia i Kujaw.",
+  "popularGenres": [
+    "Kujawski Melodic Trap",
+    "Bydgoski Rap Gitarowy",
+    "2115 Style Beat"
+  ],
+  "subClusters": []
+},
 };
