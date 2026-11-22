@@ -144267,4 +144267,1103 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
   "market": "Puerto Rico",
   "sceneHub": "Caguas"
 },
+  {
+  "slug": "cris-mj-partyson-stadium-perreo",
+  "title": "Cris Mj Partyson Signature Shimmering Bells & Stadium Perreo Beat",
+  "description": "High-energy, melodic Chilean perreo inspired by Cris Mj's global hit era (Partyson, Una Noche en Medellín, Gata Only, Marisola): signature high-pitched bell arpeggios, infectious 96 BPM rolling dembow, and anthemic romantic autotune spaces.",
+  "targetKeywords": [
+    "cris mj type beat",
+    "cris mj gata only beat",
+    "partyson perreo beat wav",
+    "cris mj una noche en medellin beat",
+    "reggaeton chileno instrumental"
+  ],
+  "heroCta": "Comprar Beat Estilo Cris Mj (Instant WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "Global Latin Hit Single, Viral TikTok Perreo Trend and Stadium Tour Opener",
+  "similarArtists": [
+    "Cris Mj",
+    "FloyyMenor",
+    "Standly",
+    "El Jordan 23"
+  ],
+  "recommendedBpm": "94-98 BPM",
+  "productionTips": "Layered FM bell chimes and bright plucked synths over a punchy, rounded dembow kick and rolling acoustic snare rolls.",
+  "idealVocalStyle": "Nasal, catchy melodic autotune delivery, sensual street lyrics, and infectious singalong hooks.",
+  "suggestedKey": "F Minor / Bb Minor",
+  "streamingSuitability": "Engineered for Spotify Top 50 Global, Baila Reggaetón, and viral Latin charts."
+},
+  {
+  "slug": "pablo-chill-e-el-duende-verde-trap",
+  "title": "Pablo Chill-E El Duende Verde Shishi Gang Heavy 808 & Dark Bell Trap Beat",
+  "description": "Raw, uncompromising street trap inspired by Pablo Chill-E and the Shishi Gang movement (El Duende Verde, Flotao, Jaggy, Facts, Big Cut): heavy distorted 808 sub-bass glides, icy minor bells, and aggressive street reality.",
+  "targetKeywords": [
+    "pablo chill e type beat",
+    "shishi gang trap beat",
+    "pablo chill e instrumental wav",
+    "trap chileno pesado 808",
+    "el duende verde type beat"
+  ],
+  "heroCta": "Comprar Beat Estilo Pablo Chill-E (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Hardcore Street Record, Underground Cypher and Población Documentary Anthem",
+  "similarArtists": [
+    "Pablo Chill-E",
+    "Julianno Sosa",
+    "Yung Beef",
+    "Polimá Westcoast"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "productionTips": "Brooding minor grand piano stabs drenched in dark hall reverb paired with heavily saturated, buzzing 808s and dry claps.",
+  "idealVocalStyle": "Aggressive, gravelly Chilean slang, unfiltered street critique, and charismatic, rebellious cadence.",
+  "suggestedKey": "C Minor / G Minor",
+  "streamingSuitability": "Dominates Chilean urban underground playlists, YouTube street cyphers, and gym workout tracks."
+},
+  {
+  "slug": "floyymenor-gata-only-hypnotic-perreo",
+  "title": "FloyyMenor Gata Only Deep Baritone Cadence & Hypnotic Perreo Beat",
+  "description": "Minimalist, deeply hypnotic Chilean perreo inspired by FloyyMenor's record-shattering sound (Gata Only, Pelotera, Apaga el Cel, Tu Ta Rica): low-register vocal space, subtle atmospheric synths, and low-slung perreo drums.",
+  "targetKeywords": [
+    "floyymenor type beat",
+    "gata only type beat wav",
+    "floyymenor instrumental perreo",
+    "minimalist reggaeton beat",
+    "pelotera floyymenor beat"
+  ],
+  "heroCta": "Comprar Beat Estilo FloyyMenor (WAV 24-bit)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Billboard Hot 100 Latin Single, Hypnotic Nightclub Record and Late-Night Driving Anthem",
+  "similarArtists": [
+    "FloyyMenor",
+    "Cris Mj",
+    "Lucky Brown",
+    "Jere Klein"
+  ],
+  "recommendedBpm": "96-100 BPM",
+  "productionTips": "Sparse, spacious arrangement with deep sub-bass frequencies and crisp dembow clicks that prioritize heavy vocal presence.",
+  "idealVocalStyle": "Ultra-deep baritone delivery, rhythmic conversational cadence, and effortless melodic phrasing.",
+  "suggestedKey": "F Minor / C Minor",
+  "streamingSuitability": "Record-breaking potential across global DSPs, Spotify Daily Top 10, and viral TikTok trends."
+},
+  {
+  "slug": "jere-klein-enfasiko-teen-trap-bounce",
+  "title": "Jere Klein Énfasis Syncopated Bouncing Hats & Party Trap Beat",
+  "description": "Youthful, viral party trap and reggaetón crossover inspired by Jere Klein (Énfasis, 2 Hielos, XQ Tan Sola, Ando, Princesita de...): energetic syncopated bounce kicks, bright metallic synths, and infectious party hooks.",
+  "targetKeywords": [
+    "jere klein type beat",
+    "2 hielos type beat wav",
+    "jere klein trap bounce instrumental",
+    "enfasis jere klein beat",
+    "party reggaeton beat chile"
+  ],
+  "heroCta": "Comprar Beat Estilo Jere Klein (Instant WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "Viral Teen Party Single, High-School/University Banger and TikTok Dance Track",
+  "similarArtists": [
+    "Jere Klein",
+    "Nickoog Clk",
+    "Gino Mella",
+    "Cris Mj"
+  ],
+  "recommendedBpm": "98-104 BPM",
+  "productionTips": "Punchy kick-snare syncopation with micro-pitched synth stabs that invite rapid, playful vocal delivery.",
+  "idealVocalStyle": "High-energy youthful delivery, clever teen slang, rapid melodic rhythm switches, and anthemic hooks.",
+  "suggestedKey": "G Minor / D Minor",
+  "streamingSuitability": "Dominates Chilean teen streaming charts, weekend party playlists, and TikTok virality."
+},
+  {
+  "slug": "pailita-casti-flow-melodic-reggaeton",
+  "title": "Pailita El Casti Romantic Grand Piano & Emotional Club Perreo Beat",
+  "description": "Heartwarming, romantic melodic reggaetón inspired by Pailita (Casti, Ultra Solo, Me Arrepentí, Par De Veces, Na Na Na): moving grand piano progressions, warm acoustic guitar plucks, and smooth club dembow.",
+  "targetKeywords": [
+    "pailita type beat",
+    "el casti type beat wav",
+    "pailita reggaeton instrumental",
+    "reggaeton romantico chileno beat",
+    "ultra solo style beat"
+  ],
+  "heroCta": "Comprar Beat Estilo Pailita (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Heartfelt Radio Single, Romantic Club Anthem and Emotional Acoustic Crossover",
+  "similarArtists": [
+    "Pailita",
+    "Polimá Westcoast",
+    "Young Cister",
+    "Cris Mj"
+  ],
+  "recommendedBpm": "92-96 BPM",
+  "productionTips": "Rich classical grand piano chords layered with subtle pad layers and a buoyant, danceable dembow groove.",
+  "idealVocalStyle": "Passionate singing voice, romantic vulnerability, heartfelt hooks, and smooth rhythmic verses.",
+  "suggestedKey": "Eb Major / C Minor",
+  "streamingSuitability": "Heavy mainstream rotation across Radio Carolina, Radio Activa, and Latin Romance curations."
+},
+  {
+  "slug": "young-cister-los-sentimientos-de-un-gangsta",
+  "title": "Young Cister Los Sentimientos De Un Gangsta Lush Rhodes & R&B Trap Beat",
+  "description": "Slick, nocturnal urban R&B and smooth modern trap inspired by Young Cister (Los Sentimientos de un Gangsta, Planes de Medianoche, Casi Amor de Verano, La Terapia): velvety Rhodes electric piano chords and crisp trap drums.",
+  "targetKeywords": [
+    "young cister type beat",
+    "la terapia type beat wav",
+    "rnb trap chileno instrumental",
+    "young cister planes de medianoche beat",
+    "smooth latin urban beat"
+  ],
+  "heroCta": "Comprar Beat Estilo Young Cister (WAV + Stems)",
+  "energyLevel": "Medium",
+  "primaryUse": "Nocturnal Reflection, Smooth R&B-Trap Single and Sophisticated Visualizer",
+  "similarArtists": [
+    "Young Cister",
+    "Kidd Voodoo",
+    "Harry Nach",
+    "DrefQuila"
+  ],
+  "recommendedBpm": "115-122 BPM",
+  "productionTips": "Vintage Fender Rhodes keys with analog tremolo and chorus, paired with tight 808 sub bass and relaxed hats.",
+  "idealVocalStyle": "Smooth vocal runs, emotional autotune melodies, introspective lyrics, and laid-back confidence.",
+  "suggestedKey": "Ab Major / F Minor",
+  "streamingSuitability": "Top performer across R&B Latino, Novedades Urbanas, and late-night lounge playlists."
+},
+  {
+  "slug": "marcianeke-los-malvekes-hyper-perreo",
+  "title": "Marcianeke Los Malvekes High-Speed Synths & Hyper Perreo Beat",
+  "description": "Hyperactive, high-octane party perreo inspired by Marcianeke (Los Malvekes, Dímelo Ma, Qué Pasa?, Me Quieren y Me Odian): 100 BPM rapid-fire dembow kicks, quirky screeching synth horns, and unapologetic club madness.",
+  "targetKeywords": [
+    "marcianeke type beat",
+    "los malvekes type beat wav",
+    "marcianeke dembow instrumental",
+    "perreo fiestero chileno beat",
+    "marcianeke dimelo ma beat"
+  ],
+  "heroCta": "Comprar Beat Estilo Marcianeke (Instant WAV)",
+  "energyLevel": "Maximum",
+  "primaryUse": "Wild Nightclub Peak, High-Energy Festival Track and Party Anthem",
+  "similarArtists": [
+    "Marcianeke",
+    "El Jordan 23",
+    "Galee Galee",
+    "King Savagge"
+  ],
+  "recommendedBpm": "98-102 BPM",
+  "productionTips": "Overdriven syncopated dembow percussion with screeching micro-synth riffs and aggressive drop transitions.",
+  "idealVocalStyle": "Unfiltered gravelly delivery, hyper-energetic ad-libs, rapid street slang, and crowd-igniting chants.",
+  "suggestedKey": "E Minor / A Minor",
+  "streamingSuitability": "Guaranteed nightclub reaction, high energy gym rotations, and viral social media moments."
+},
+  {
+  "slug": "polima-westcoast-cuatro-estaciones-afro-pop",
+  "title": "Polimá Westcoast Cuatro Estaciones Afro-Trap & International Pop Beat",
+  "description": "Vibrant, sun-soaked Afro-trap and Latin Afrobeat crossover inspired by Polimá Westcoast (Cuatro Estaciones, Baby Otaku, Ultra Solo, Samurai): polyrhythmic percussion, warm acoustic guitars, and international pop melodies.",
+  "targetKeywords": [
+    "polima westcoast type beat",
+    "ultra solo type beat wav",
+    "afro trap latino instrumental",
+    "polima afrobeat beat",
+    "cuatro estaciones type beat"
+  ],
+  "heroCta": "Comprar Beat Estilo Polimá (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "International Radio Single, Summer Festival Anthem and Cross-Continental Feature",
+  "similarArtists": [
+    "Polimá Westcoast",
+    "Pailita",
+    "Duki",
+    "Rauw Alejandro"
+  ],
+  "recommendedBpm": "104-110 BPM",
+  "productionTips": "African log drums, shaker grooves, and bright acoustic guitar melodies mixed with modern 808 subs.",
+  "idealVocalStyle": "Melodic flows, multilingual refrains, uplifting themes, and seamless transitions into singing.",
+  "suggestedKey": "D Major / B Minor",
+  "streamingSuitability": "Designed for global crossover playlists, Summer Hits, and international DSP editorial features."
+},
+  {
+  "slug": "mambo-chileno-saxo-punteo-descontrol",
+  "title": "Mambo Chileno High-Speed Brass Sax & Punteo Street Bounce Beat",
+  "description": "High-octane Chilean street mambo inspired by the sound dominating Santiago neighborhoods: rapid 115 BPM mambo bounce kicks, piercing live saxophone and trumpet hooks, and driving street perreo basslines.",
+  "targetKeywords": [
+    "mambo chileno type beat",
+    "mambo callejero instrumental wav",
+    "saxo mambo beat chile",
+    "punteo mambo chileno download",
+    "mambo fiestero santiago"
+  ],
+  "heroCta": "Comprar Beat Mambo Chileno (WAV 24-bit)",
+  "energyLevel": "Maximum",
+  "primaryUse": "Street Party Anthem, High-Speed Dance Challenge and Urban Auto-Soundtrack",
+  "similarArtists": [
+    "El Jordan 23",
+    "Julianno Sosa",
+    "Marcianeke",
+    "Cris Mj"
+  ],
+  "recommendedBpm": "112-118 BPM",
+  "productionTips": "Rapid syncopated mambo drums layered with staccato brass horn riffs and punchy sub-bass hits.",
+  "idealVocalStyle": "Fast-paced street delivery, aggressive party chants, call-and-response choruses, and rebellious attitude.",
+  "suggestedKey": "G Minor / C Minor",
+  "streamingSuitability": "Huge affinity across TikTok, car audio systems, and underground street parties throughout Chile."
+},
+  {
+  "slug": "valparaiso-cerros-bohemian-poetic-boombap",
+  "title": "Valparaíso Cerros Bohemian Vinyl Jazz Saxophone & Poetic Boom Bap Beat",
+  "description": "Nostalgic, bohemian coastal boom bap paying homage to Valparaíso's staircases and Pacific spray: warm dusty vinyl jazz saxophone chops, unquantized MPC 60 drum swing, and thoughtful storytelling pocket.",
+  "targetKeywords": [
+    "valparaiso boom bap beat",
+    "rap chileno clasico instrumental",
+    "bohemian jazz rap beat chile",
+    "poetic cerros hip hop wav",
+    "valpo 90s boom bap"
+  ],
+  "heroCta": "Comprar Beat Valparaíso Boom Bap (Instant WAV)",
+  "energyLevel": "Medium",
+  "primaryUse": "Conscious Album Track, Poetic Cypher and Cinematic Valparaíso Visualizer",
+  "similarArtists": [
+    "Portavoz",
+    "Movimiento Original",
+    "Charly Humos",
+    "Jonas Sanche"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "productionTips": "Warm vinyl crackle, authentic sampled jazz saxophone loops, and punchy acoustic kick-snare pocket.",
+  "idealVocalStyle": "Philosophical street observations, dense poetic rhyme schemes, and laid-back boom bap cadence.",
+  "suggestedKey": "D Minor / A Minor",
+  "streamingSuitability": "Cherished by Latin American hip-hop purists, conscious rap playlists, and cultural platforms."
+},
+  {
+  "slug": "santiago-subway-linea-1-nocturnal-lofi",
+  "title": "Santiago Línea 1 Midnight Train Warm Rhodes & Rainy Alameda Lofi Beat",
+  "description": "Atmospheric, late-night transit soundtrack inspired by Santiago's historic Alameda and metro lines: warm tape-saturated electric piano chords, rainy city street Foley, and relaxed unquantized chillhop drums.",
+  "targetKeywords": [
+    "santiago lofi beat",
+    "chile chillhop instrumental",
+    "rainy alameda hip hop beat",
+    "santiago midnight lofi wav",
+    "chilean lofi study beat"
+  ],
+  "heroCta": "Comprar Beat Santiago Lofi (Instant WAV)",
+  "energyLevel": "Low-Medium",
+  "primaryUse": "Study & Work Background, Late-Night Commute Soundtrack and Melancholic Interlude",
+  "similarArtists": [
+    "Bronko Yotte",
+    "Gianluca",
+    "ChilledCow",
+    "Tom Misch"
+  ],
+  "recommendedBpm": "82-86 BPM",
+  "productionTips": "Analog tape wow-and-flutter modulation on electric piano keys with natural urban rain sound design.",
+  "idealVocalStyle": "Intimate conversational spoken word, gentle melodic hooks, and reflective urban lyrics.",
+  "suggestedKey": "Bb Major / G Minor",
+  "streamingSuitability": "Evergreen stream counts across lofi study beats, chill rap, and nocturnal ambient playlists."
+},
+  {
+  "slug": "chilean-drill-poblacion-cold-808s",
+  "title": "Chilean Drill Población Reality Glacial Synths & Sliding 808s Beat",
+  "description": "Cold, unapologetic Santiago población reality: glacial synthesizer pads, rapid hi-hat rolls with triplet switches, and subterranean sliding 808 basslines designed for hard-hitting Chilean street lyricists.",
+  "targetKeywords": [
+    "chilean drill beat 808",
+    "drill poblacion instrumental wav",
+    "santiago street drill beat",
+    "pablo chill e drill type beat",
+    "chile drill 2024"
+  ],
+  "heroCta": "Comprar Beat Chilean Drill (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Aggressive Street Record, Gritty Music Video and Heavy Trap Mixtape",
+  "similarArtists": [
+    "Pablo Chill-E",
+    "Julianno Sosa",
+    "YOVNGCHIMI",
+    "Central Cee"
+  ],
+  "recommendedBpm": "142-145 BPM",
+  "productionTips": "Menacing minor strings, aggressive multi-octave 808 glides, and piercing snares tuned for heavy playback.",
+  "idealVocalStyle": "Intimidating baritone delivery, fast drill flows, raw street slang, and dark atmospheric ad-libs.",
+  "suggestedKey": "F# Minor / C# Minor",
+  "streamingSuitability": "High engagement on SoundCloud, YouTube drill channels, and urban underground platforms."
+},
+  {
+  "slug": "bases-trap-chileno-baratas-cuenta-rut-clp",
+  "title": "Bases de Trap Chileno Baratas desde $22.000 CLP (Pago por CuentaRUT & Webpay)",
+  "description": "Instrumentales profesionales de trap chileno, perreo y mambo desde $22.000 CLP con pago instantáneo en pesos chilenos mediante CuentaRUT (BancoEstado), Webpay Plus y MACH.",
+  "targetKeywords": [
+    "bases trap chileno baratas cuenta rut clp",
+    "comprar bases de trap chile cuentarut",
+    "beats baratos pesos chilenos clp",
+    "instrumentales perreo chile webpay"
+  ],
+  "heroCta": "Ver Bases Baratas desde $22.000 CLP (CuentaRUT)",
+  "energyLevel": "Variable",
+  "primaryUse": "Mixtapes, Singles Debut y Grabaciones en Home Studio con Licencia Comercial",
+  "similarArtists": [
+    "Raperos Independientes Chilenos",
+    "Creadores de YouTube y TikTok"
+  ],
+  "recommendedBpm": "94-142 BPM",
+  "productionTips": "Pre-mezcladas con espacio para voces en español, optimizadas para micrófonos caseros y estudios independientes.",
+  "idealVocalStyle": "Adaptable para perreo fiestero, trap melódico con autotune o barras rápidas de población.",
+  "suggestedKey": "Todas las tonalidades disponibles",
+  "streamingSuitability": "Licencia comercial con hasta 250.000 reproducciones en Spotify, Apple Music y YouTube."
+},
+  {
+  "slug": "pistas-reggaeton-chileno-cris-mj-wav-stems",
+  "title": "Pistas de Reggaetón Chileno con Stems WAV (Estilo Cris Mj & FloyyMenor)",
+  "description": "Instrumentales de perreo melódico chileno con campanitas pegajosas y bajos envolventes, entregadas con todas las pistas de audio WAV sin compresión (stems multitrack) para mezcla en Santiago.",
+  "targetKeywords": [
+    "pistas reggaeton chileno cris mj wav stems",
+    "pistas perreo chileno canales separados",
+    "comprar bases reggaeton chile stems",
+    "cris mj floyymenor instrumental wav"
+  ],
+  "heroCta": "Descargar Pistas Reggaetón + Stems WAV",
+  "energyLevel": "High",
+  "primaryUse": "Mezcla en Estudio Profesional, Grabación de Álbum y Masterización Radial",
+  "similarArtists": [
+    "Cris Mj",
+    "FloyyMenor",
+    "Jere Klein",
+    "Standly"
+  ],
+  "recommendedBpm": "94-98 BPM",
+  "productionTips": "Pistas multitrack en formato WAV 24-bit con stems etiquetados por tono y tempo para fácil importación en tu DAW.",
+  "idealVocalStyle": "Voces melódicas con autotune, estribillos pegajosos y versos sensuales con cadencia chilena.",
+  "suggestedKey": "Fa Menor / Do Menor",
+  "streamingSuitability": "Apto para distribución en grandes sellos y listas editoriales globales."
+},
+  {
+  "slug": "pistas-mambo-chileno-saxo-stems-wav",
+  "title": "Pistas de Mambo Chileno con Saxo y Metales (Calidad Estudio WAV con Stems)",
+  "description": "Instrumentales de mambo chileno callejero a alta velocidad con vientos de saxofón enérgicos y punteos bailables, entregadas con pistas separadas para sonar en eventos y discotecas.",
+  "targetKeywords": [
+    "pistas mambo chileno saxo stems wav",
+    "mambo callejero chile instrumental",
+    "comprar bases mambo chileno cuentarut",
+    "mambo saxo beat fl studio download"
+  ],
+  "heroCta": "Descargar Pistas Mambo Chileno + Stems",
+  "energyLevel": "Maximum",
+  "primaryUse": "Single de Fiesta Callejera, Descontrol en Discotecas y Desafíos de Baile en TikTok",
+  "similarArtists": [
+    "El Jordan 23",
+    "Julianno Sosa",
+    "Marcianeke",
+    "Bayron Fire"
+  ],
+  "recommendedBpm": "112-118 BPM",
+  "productionTips": "Metales de saxofón y trompeta procesados con brillo y pegada analógica sobre dembow rápido y subgraves secos.",
+  "idealVocalStyle": "Voces aceleradas, coros fiesteros directos y actitud rebelde de fiesta nocturna.",
+  "suggestedKey": "Sol Menor / Re Menor",
+  "streamingSuitability": "Altísima viralidad en redes sociales, fiestas urbanas y parlantes de autos en todo Chile."
+},
+  {
+  "slug": "contrato-licencia-beat-scd-chile-pdf",
+  "title": "Contrato de Licencia de Beats Chileno (Conforme a la SCD & Ley 17.336)",
+  "description": "Contrato legal de producción musical 100% conforme a las normativas de la Sociedad Chilena del Derecho de Autor (SCD) y la Ley 17.336 de Propiedad Intelectual, con PDF firmado y split sheet inmediato.",
+  "targetKeywords": [
+    "contrato licencia beat scd chile pdf",
+    "contrato compra beat chile scd",
+    "licencia beat reggaeton chile pdf",
+    "split sheet productor musical chile"
+  ],
+  "heroCta": "Comprar Beat con Contrato SCD en PDF",
+  "energyLevel": "Profesional",
+  "primaryUse": "Registro Legal de Obras ante la SCD, Subida a DistroKid y Cobro de Regalías en Chile",
+  "similarArtists": [
+    "Compositores y Productores Afiliados a la SCD"
+  ],
+  "recommendedBpm": "Aplicable a todos los tempos",
+  "productionTips": "Cláusulas transparentes: 50/50 en derechos autorales editoriales y 100% de ganancias de máster hasta el tope comercial.",
+  "idealVocalStyle": "Indispensable para cualquier intérprete independiente con ambiciones comerciales.",
+  "suggestedKey": "Estándar Legal Universal",
+  "streamingSuitability": "Protección jurídica completa para sonar en radios nacionales chilenas y plataformas globales."
+},
+  {
+  "slug": "comprar-beats-webpay-cuenta-rut-chile",
+  "title": "Comprar Beats con Webpay Plus & CuentaRUT en Chile (Descarga Inmediata en CLP)",
+  "description": "Adquiere instrumentales profesionales al instante en Chile pagando con tus tarjetas de débito o crédito locales, CuentaRUT (BancoEstado), MACH o Khipu con entrega automática en segundos.",
+  "targetKeywords": [
+    "comprar beats webpay cuenta rut chile",
+    "comprar pistas cuentarut bancoestado",
+    "tienda de beats chile webpay plus",
+    "beats trap chile pago cuentarut"
+  ],
+  "heroCta": "Comprar Beats con CuentaRUT / Webpay",
+  "energyLevel": "Instantáneo",
+  "primaryUse": "Compra Rápida de Instrumentales para Sesiones de Grabación en Estudios Chilenos",
+  "similarArtists": [
+    "Artistas Urbanos en Santiago, Concepción, Valparaíso y Antofagasta"
+  ],
+  "recommendedBpm": "85-150 BPM",
+  "productionTips": "Descarga digital automática por correo con enlaces de alta velocidad y licencia en PDF.",
+  "idealVocalStyle": "Compatible con todos los géneros urbanos.",
+  "suggestedKey": "Multitonal",
+  "streamingSuitability": "Descarga instantánea con licencia lista para distribución comercial inmediata."
+},
+  {
+  "slug": "paquete-5-beats-album-chile-descuento",
+  "title": "Paquetes de Beats para EP y Álbum en Chile (40% de Descuento en CLP)",
+  "description": "Ahorra un 40% adquiriendo paquetes de 5 a 10 instrumentales coordinadas sónicamente para producir tu próximo EP, mixtape o álbum en Chile con licencia unificada y pago en pesos chilenos.",
+  "targetKeywords": [
+    "paquete 5 beats album chile descuento",
+    "bundle instrumentales ep trap chile",
+    "comprar beats por mayor santiago clp",
+    "paquete pistas reggaeton barato chile"
+  ],
+  "heroCta": "Conseguir Paquete para Álbum (40% Off)",
+  "energyLevel": "Variable",
+  "primaryUse": "Producción Integral de Discos, Conceptos Musicales Coherentes y Lanzamientos Periódicos",
+  "similarArtists": [
+    "Músicos Urbanos en Desarrollo y Colectivos Independientes"
+  ],
+  "recommendedBpm": "88-142 BPM",
+  "productionTips": "Curaduría armónica y de tempo para garantizar una transición fluida a lo largo de tu álbum.",
+  "idealVocalStyle": "Espacio para exhibir toda la paleta lírica y melódica del artista.",
+  "suggestedKey": "Gama Armónica Completa",
+  "streamingSuitability": "Licencia comercial unificada que cubre todos los temas de tu proyecto a la vez."
+},
+  {
+  "slug": "productor-musical-chile-whatsapp-onzieb",
+  "title": "Productor Musical Exclusivo para Chile (WhatsApp Directo con Onzieb)",
+  "description": "Trabaja directamente con el productor musical Onzieb por WhatsApp para ordenar pistas personalizadas: cambios de tono, adaptaciones de estructura, mezcla de canales y producción exclusiva de trap y perreo.",
+  "targetKeywords": [
+    "productor musical chile whatsapp onzieb",
+    "onzieb productor trap chile",
+    "encargar beat personalizado santiago whatsapp",
+    "beatmaker chile contacto whatsapp"
+  ],
+  "heroCta": "Hablar con Onzieb por WhatsApp",
+  "energyLevel": "Personalizado",
+  "primaryUse": "Producción Exclusiva a Medida, Creación de Identidad Sonora y Singles Principales",
+  "similarArtists": [
+    "Onzieb",
+    "Productores Urbanos de Primer Nivel en Chile"
+  ],
+  "recommendedBpm": "Adaptado exactamente al flujo y tesitura del artista",
+  "productionTips": "Ajustes de estructura y mezcla en tiempo real mediante notas de voz e intercambio de stems en WhatsApp.",
+  "idealVocalStyle": "Diseñado milimétricamente para resaltar el timbre y carácter vocal del intérprete.",
+  "suggestedKey": "Tono Personalizado a Medida",
+  "streamingSuitability": "Cesión exclusiva con 100% de derechos master para lanzamientos comerciales sin límites."
+},
+  {
+  "slug": "bases-trap-pesado-pablo-chill-e-shishi",
+  "title": "Bases de Trap Pesado Chileno (Estilo Pablo Chill-E, Julianno Sosa & Shishi Gang)",
+  "description": "Instrumentales de trap callejero oscuro y agresivo con campanas menores glaciales, cajas penetrantes y bajos 808 distorsionados inspirados en el sonido combativo de las poblaciones santiaguinas.",
+  "targetKeywords": [
+    "bases trap pesado pablo chill e shishi",
+    "trap chileno 808 beat wav",
+    "instrumentales shishi gang download",
+    "pablo chill e trap instrumental"
+  ],
+  "heroCta": "Escuchar Bases de Trap Pesado Chileno",
+  "energyLevel": "Very High",
+  "primaryUse": "Single de Calle, Freestyle de Población y Cypher de Rap Pesado",
+  "similarArtists": [
+    "Pablo Chill-E",
+    "Julianno Sosa",
+    "Yung Beef",
+    "King Savagge"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "productionTips": "Bajos 808 saturados con compresión paralela y melodías góticas en pianos menores que dejan espacio al flow.",
+  "idealVocalStyle": "Rimas duras, jerga callejera chilena, mensaje de realidad social y entrega contundente.",
+  "suggestedKey": "Do Menor / Sol Menor",
+  "streamingSuitability": "Inmejorable para el circuito del trap chileno callejero, gimnasios y competencias urbanas."
+},
+  {
+  "slug": "bases-rnb-trap-suave-estilo-young-cister",
+  "title": "Bases de R&B y Trap Suave Chileno (Estilo Young Cister & Kidd Voodoo)",
+  "description": "Instrumentales elegantes y nocturnas con pianos eléctricos Rhodes aterciopelados, sintetizadores envolventes y baterías suaves de trap inspiradas en 'La Terapia' y el R&B urbano contemporáneo.",
+  "targetKeywords": [
+    "bases rnb trap suave estilo young cister",
+    "pistas r&b urbano chileno wav",
+    "young cister instrumental suave",
+    "kidd voodoo type beat r&b trap"
+  ],
+  "heroCta": "Descubrir Beats R&B-Trap Suave",
+  "energyLevel": "Medium",
+  "primaryUse": "Single Romántico, Colaboración Pop-Urbana y Canción Nocturna de Desamor",
+  "similarArtists": [
+    "Young Cister",
+    "Kidd Voodoo",
+    "Harry Nach",
+    "Easykid"
+  ],
+  "recommendedBpm": "116-124 BPM",
+  "productionTips": "Teclados Rhodes cálidos con chorus analógico y baterías trap sutiles con graves redondos y aireados.",
+  "idealVocalStyle": "Voces melódicas con sentimiento, falsetes suaves y letras emotivas de desamor o romance.",
+  "suggestedKey": "La Bemol Mayor / Fa Menor",
+  "streamingSuitability": "Diseñado para posicionarse en listas de reproducción como R&B Latino y Novedades Urbanas."
+},
+  {
+  "slug": "drum-kit-urbano-chileno-gratis-wav",
+  "title": "Drum Kit Urbano Chileno Gratis (Samples WAV 24-Bit, 808s, Perreo Kicks & Saxo Hits)",
+  "description": "Descarga gratis nuestro pack de sonidos para productores de música urbana chilena: 30 bajos 808 afinados, golpes secos de perreo, cajas con pegada y stabs de saxo mambo en formato WAV 24-bit de estudio.",
+  "targetKeywords": [
+    "drum kit urbano chileno gratis wav",
+    "libreria trap chileno gratis fl studio",
+    "samples perreo chileno wav download",
+    "mambo chileno sound pack free"
+  ],
+  "heroCta": "Descargar Drum Kit Chileno Gratis (ZIP)",
+  "energyLevel": "High",
+  "primaryUse": "Producción Musical en Home Studio, Beatmaking en FL Studio, Ableton y Logic Pro",
+  "similarArtists": [
+    "Beatmakers Independientes Chilenos",
+    "Productores Urbanos Emergentes"
+  ],
+  "recommendedBpm": "Compatible con todos los tempos de 90 a 150 BPM",
+  "productionTips": "Sonidos one-shot procesados con ecualización de estudio y transientes nítidos 100% libres de derechos.",
+  "idealVocalStyle": "Cimientos rítmicos sólidos para crear instrumentales profesionales con el sonido característico chileno.",
+  "suggestedKey": "Afinados en Do (C) para fácil afinación en tu sampler",
+  "streamingSuitability": "Completamente libre de regalías (Royalty-Free) para temas comerciales y venta de beats."
+},
+  {
+  "slug": "santiago-providencia-chile-perreo-96bpm",
+  "name": "Santiago (Providencia) Chilean Perreo 96 BPM Beats",
+  "badge": "Perreo Chileno",
+  "headline": "Chilean Perreo 96 BPM Beats en Santiago (Providencia): Sector Oriente & Urban Pop Pulido",
+  "description": "Campanitas pegajosas, dembow rebotante a 96 BPM y bajos 808 profundos con pago en pesos chilenos por CuentaRUT para artistas en Santiago (Providencia).",
+  "targetKeywords": [
+    "chilean perreo 96 bpm beats santiago (providencia)",
+    "comprar beats santiago (providencia) cuentarut",
+    "pistas de perreo chileno chile",
+    "instrumentales en santiago (providencia) wav"
+  ],
+  "heroCta": "Descargar Beats en Santiago (Providencia) (CuentaRUT / WAV)",
+  "recommendedBpm": "94-98 BPM",
+  "suggestedKey": "Fa-Menor / Do-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Chile",
+  "sceneHub": "Santiago (Providencia)"
+},
+  {
+  "slug": "santiago-providencia-shishi-street-trap",
+  "name": "Santiago (Providencia) Shishi Street Trap Beats",
+  "badge": "Shishi Trap",
+  "headline": "Shishi Street Trap Beats en Santiago (Providencia): Sector Oriente & Urban Pop Pulido",
+  "description": "Bajos 808 demoledores distorsionados, campanas menores glaciales y baterías secas de población para raperos en Santiago (Providencia).",
+  "targetKeywords": [
+    "shishi street trap beats santiago (providencia)",
+    "comprar beats santiago (providencia) cuentarut",
+    "pistas de shishi trap chile",
+    "instrumentales en santiago (providencia) wav"
+  ],
+  "heroCta": "Descargar Beats en Santiago (Providencia) (CuentaRUT / WAV)",
+  "recommendedBpm": "130-138 BPM",
+  "suggestedKey": "Do-Menor / Sol-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Chile",
+  "sceneHub": "Santiago (Providencia)"
+},
+  {
+  "slug": "santiago-providencia-mambo-chileno-bounce",
+  "name": "Santiago (Providencia) Mambo Chileno Bounce Beats",
+  "badge": "Mambo Chileno",
+  "headline": "Mambo Chileno Bounce Beats en Santiago (Providencia): Sector Oriente & Urban Pop Pulido",
+  "description": "Metales de saxo acelerados a 115 BPM, percusión fiestera callejera y bajos con pegada para la escena urbana de Santiago (Providencia).",
+  "targetKeywords": [
+    "mambo chileno bounce beats santiago (providencia)",
+    "comprar beats santiago (providencia) cuentarut",
+    "pistas de mambo chileno chile",
+    "instrumentales en santiago (providencia) wav"
+  ],
+  "heroCta": "Descargar Beats en Santiago (Providencia) (CuentaRUT / WAV)",
+  "recommendedBpm": "112-118 BPM",
+  "suggestedKey": "Sol-Menor / Re-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Chile",
+  "sceneHub": "Santiago (Providencia)"
+},
+  {
+  "slug": "santiago-providencia-biobio-indie-cloud-trap",
+  "name": "Santiago (Providencia) Biobío Indie-Cloud Trap Beats",
+  "badge": "Indie-Trap Chileno",
+  "headline": "Biobío Indie-Cloud Trap Beats en Santiago (Providencia): Sector Oriente & Urban Pop Pulido",
+  "description": "Guitarras melancólicas espaciales, texturas indie y bajos 808 cálidos diseñados para creadores alternativos en Santiago (Providencia).",
+  "targetKeywords": [
+    "biobío indie-cloud trap beats santiago (providencia)",
+    "comprar beats santiago (providencia) cuentarut",
+    "pistas de indie-trap chileno chile",
+    "instrumentales en santiago (providencia) wav"
+  ],
+  "heroCta": "Descargar Beats en Santiago (Providencia) (CuentaRUT / WAV)",
+  "recommendedBpm": "118-126 BPM",
+  "suggestedKey": "La-Mayor / Mi-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Chile",
+  "sceneHub": "Santiago (Providencia)"
+},
+  {
+  "slug": "santiago-laflorida-chile-perreo-96bpm",
+  "name": "Santiago (La Florida) Chilean Perreo 96 BPM Beats",
+  "badge": "Perreo Chileno",
+  "headline": "Chilean Perreo 96 BPM Beats en Santiago (La Florida): La Florida & Cuna del Trap Masivo",
+  "description": "Campanitas pegajosas, dembow rebotante a 96 BPM y bajos 808 profundos con pago en pesos chilenos por CuentaRUT para artistas en Santiago (La Florida).",
+  "targetKeywords": [
+    "chilean perreo 96 bpm beats santiago (la florida)",
+    "comprar beats santiago (la florida) cuentarut",
+    "pistas de perreo chileno chile",
+    "instrumentales en santiago (la florida) wav"
+  ],
+  "heroCta": "Descargar Beats en Santiago (La Florida) (CuentaRUT / WAV)",
+  "recommendedBpm": "94-98 BPM",
+  "suggestedKey": "Fa-Menor / Do-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Chile",
+  "sceneHub": "Santiago (La Florida)"
+},
+  {
+  "slug": "santiago-laflorida-shishi-street-trap",
+  "name": "Santiago (La Florida) Shishi Street Trap Beats",
+  "badge": "Shishi Trap",
+  "headline": "Shishi Street Trap Beats en Santiago (La Florida): La Florida & Cuna del Trap Masivo",
+  "description": "Bajos 808 demoledores distorsionados, campanas menores glaciales y baterías secas de población para raperos en Santiago (La Florida).",
+  "targetKeywords": [
+    "shishi street trap beats santiago (la florida)",
+    "comprar beats santiago (la florida) cuentarut",
+    "pistas de shishi trap chile",
+    "instrumentales en santiago (la florida) wav"
+  ],
+  "heroCta": "Descargar Beats en Santiago (La Florida) (CuentaRUT / WAV)",
+  "recommendedBpm": "130-138 BPM",
+  "suggestedKey": "Do-Menor / Sol-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Chile",
+  "sceneHub": "Santiago (La Florida)"
+},
+  {
+  "slug": "santiago-laflorida-mambo-chileno-bounce",
+  "name": "Santiago (La Florida) Mambo Chileno Bounce Beats",
+  "badge": "Mambo Chileno",
+  "headline": "Mambo Chileno Bounce Beats en Santiago (La Florida): La Florida & Cuna del Trap Masivo",
+  "description": "Metales de saxo acelerados a 115 BPM, percusión fiestera callejera y bajos con pegada para la escena urbana de Santiago (La Florida).",
+  "targetKeywords": [
+    "mambo chileno bounce beats santiago (la florida)",
+    "comprar beats santiago (la florida) cuentarut",
+    "pistas de mambo chileno chile",
+    "instrumentales en santiago (la florida) wav"
+  ],
+  "heroCta": "Descargar Beats en Santiago (La Florida) (CuentaRUT / WAV)",
+  "recommendedBpm": "112-118 BPM",
+  "suggestedKey": "Sol-Menor / Re-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Chile",
+  "sceneHub": "Santiago (La Florida)"
+},
+  {
+  "slug": "santiago-laflorida-biobio-indie-cloud-trap",
+  "name": "Santiago (La Florida) Biobío Indie-Cloud Trap Beats",
+  "badge": "Indie-Trap Chileno",
+  "headline": "Biobío Indie-Cloud Trap Beats en Santiago (La Florida): La Florida & Cuna del Trap Masivo",
+  "description": "Guitarras melancólicas espaciales, texturas indie y bajos 808 cálidos diseñados para creadores alternativos en Santiago (La Florida).",
+  "targetKeywords": [
+    "biobío indie-cloud trap beats santiago (la florida)",
+    "comprar beats santiago (la florida) cuentarut",
+    "pistas de indie-trap chileno chile",
+    "instrumentales en santiago (la florida) wav"
+  ],
+  "heroCta": "Descargar Beats en Santiago (La Florida) (CuentaRUT / WAV)",
+  "recommendedBpm": "118-126 BPM",
+  "suggestedKey": "La-Mayor / Mi-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Chile",
+  "sceneHub": "Santiago (La Florida)"
+},
+  {
+  "slug": "santiago-pudahuel-chile-perreo-96bpm",
+  "name": "Santiago (Pudahuel) Chilean Perreo 96 BPM Beats",
+  "badge": "Perreo Chileno",
+  "headline": "Chilean Perreo 96 BPM Beats en Santiago (Pudahuel): Zona Poniente & Trap de Población",
+  "description": "Campanitas pegajosas, dembow rebotante a 96 BPM y bajos 808 profundos con pago en pesos chilenos por CuentaRUT para artistas en Santiago (Pudahuel).",
+  "targetKeywords": [
+    "chilean perreo 96 bpm beats santiago (pudahuel)",
+    "comprar beats santiago (pudahuel) cuentarut",
+    "pistas de perreo chileno chile",
+    "instrumentales en santiago (pudahuel) wav"
+  ],
+  "heroCta": "Descargar Beats en Santiago (Pudahuel) (CuentaRUT / WAV)",
+  "recommendedBpm": "94-98 BPM",
+  "suggestedKey": "Fa-Menor / Do-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Chile",
+  "sceneHub": "Santiago (Pudahuel)"
+},
+  {
+  "slug": "santiago-pudahuel-shishi-street-trap",
+  "name": "Santiago (Pudahuel) Shishi Street Trap Beats",
+  "badge": "Shishi Trap",
+  "headline": "Shishi Street Trap Beats en Santiago (Pudahuel): Zona Poniente & Trap de Población",
+  "description": "Bajos 808 demoledores distorsionados, campanas menores glaciales y baterías secas de población para raperos en Santiago (Pudahuel).",
+  "targetKeywords": [
+    "shishi street trap beats santiago (pudahuel)",
+    "comprar beats santiago (pudahuel) cuentarut",
+    "pistas de shishi trap chile",
+    "instrumentales en santiago (pudahuel) wav"
+  ],
+  "heroCta": "Descargar Beats en Santiago (Pudahuel) (CuentaRUT / WAV)",
+  "recommendedBpm": "130-138 BPM",
+  "suggestedKey": "Do-Menor / Sol-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Chile",
+  "sceneHub": "Santiago (Pudahuel)"
+},
+  {
+  "slug": "santiago-pudahuel-mambo-chileno-bounce",
+  "name": "Santiago (Pudahuel) Mambo Chileno Bounce Beats",
+  "badge": "Mambo Chileno",
+  "headline": "Mambo Chileno Bounce Beats en Santiago (Pudahuel): Zona Poniente & Trap de Población",
+  "description": "Metales de saxo acelerados a 115 BPM, percusión fiestera callejera y bajos con pegada para la escena urbana de Santiago (Pudahuel).",
+  "targetKeywords": [
+    "mambo chileno bounce beats santiago (pudahuel)",
+    "comprar beats santiago (pudahuel) cuentarut",
+    "pistas de mambo chileno chile",
+    "instrumentales en santiago (pudahuel) wav"
+  ],
+  "heroCta": "Descargar Beats en Santiago (Pudahuel) (CuentaRUT / WAV)",
+  "recommendedBpm": "112-118 BPM",
+  "suggestedKey": "Sol-Menor / Re-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Chile",
+  "sceneHub": "Santiago (Pudahuel)"
+},
+  {
+  "slug": "santiago-pudahuel-biobio-indie-cloud-trap",
+  "name": "Santiago (Pudahuel) Biobío Indie-Cloud Trap Beats",
+  "badge": "Indie-Trap Chileno",
+  "headline": "Biobío Indie-Cloud Trap Beats en Santiago (Pudahuel): Zona Poniente & Trap de Población",
+  "description": "Guitarras melancólicas espaciales, texturas indie y bajos 808 cálidos diseñados para creadores alternativos en Santiago (Pudahuel).",
+  "targetKeywords": [
+    "biobío indie-cloud trap beats santiago (pudahuel)",
+    "comprar beats santiago (pudahuel) cuentarut",
+    "pistas de indie-trap chileno chile",
+    "instrumentales en santiago (pudahuel) wav"
+  ],
+  "heroCta": "Descargar Beats en Santiago (Pudahuel) (CuentaRUT / WAV)",
+  "recommendedBpm": "118-126 BPM",
+  "suggestedKey": "La-Mayor / Mi-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Chile",
+  "sceneHub": "Santiago (Pudahuel)"
+},
+  {
+  "slug": "concepcion-biobio-chile-perreo-96bpm",
+  "name": "Concepción Chilean Perreo 96 BPM Beats",
+  "badge": "Perreo Chileno",
+  "headline": "Chilean Perreo 96 BPM Beats en Concepción: Biobío & Vanguardia Musical Penquista",
+  "description": "Campanitas pegajosas, dembow rebotante a 96 BPM y bajos 808 profundos con pago en pesos chilenos por CuentaRUT para artistas en Concepción.",
+  "targetKeywords": [
+    "chilean perreo 96 bpm beats concepción",
+    "comprar beats concepción cuentarut",
+    "pistas de perreo chileno chile",
+    "instrumentales en concepción wav"
+  ],
+  "heroCta": "Descargar Beats en Concepción (CuentaRUT / WAV)",
+  "recommendedBpm": "94-98 BPM",
+  "suggestedKey": "Fa-Menor / Do-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Chile",
+  "sceneHub": "Concepción"
+},
+  {
+  "slug": "concepcion-biobio-shishi-street-trap",
+  "name": "Concepción Shishi Street Trap Beats",
+  "badge": "Shishi Trap",
+  "headline": "Shishi Street Trap Beats en Concepción: Biobío & Vanguardia Musical Penquista",
+  "description": "Bajos 808 demoledores distorsionados, campanas menores glaciales y baterías secas de población para raperos en Concepción.",
+  "targetKeywords": [
+    "shishi street trap beats concepción",
+    "comprar beats concepción cuentarut",
+    "pistas de shishi trap chile",
+    "instrumentales en concepción wav"
+  ],
+  "heroCta": "Descargar Beats en Concepción (CuentaRUT / WAV)",
+  "recommendedBpm": "130-138 BPM",
+  "suggestedKey": "Do-Menor / Sol-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Chile",
+  "sceneHub": "Concepción"
+},
+  {
+  "slug": "concepcion-biobio-mambo-chileno-bounce",
+  "name": "Concepción Mambo Chileno Bounce Beats",
+  "badge": "Mambo Chileno",
+  "headline": "Mambo Chileno Bounce Beats en Concepción: Biobío & Vanguardia Musical Penquista",
+  "description": "Metales de saxo acelerados a 115 BPM, percusión fiestera callejera y bajos con pegada para la escena urbana de Concepción.",
+  "targetKeywords": [
+    "mambo chileno bounce beats concepción",
+    "comprar beats concepción cuentarut",
+    "pistas de mambo chileno chile",
+    "instrumentales en concepción wav"
+  ],
+  "heroCta": "Descargar Beats en Concepción (CuentaRUT / WAV)",
+  "recommendedBpm": "112-118 BPM",
+  "suggestedKey": "Sol-Menor / Re-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Chile",
+  "sceneHub": "Concepción"
+},
+  {
+  "slug": "concepcion-biobio-biobio-indie-cloud-trap",
+  "name": "Concepción Biobío Indie-Cloud Trap Beats",
+  "badge": "Indie-Trap Chileno",
+  "headline": "Biobío Indie-Cloud Trap Beats en Concepción: Biobío & Vanguardia Musical Penquista",
+  "description": "Guitarras melancólicas espaciales, texturas indie y bajos 808 cálidos diseñados para creadores alternativos en Concepción.",
+  "targetKeywords": [
+    "biobío indie-cloud trap beats concepción",
+    "comprar beats concepción cuentarut",
+    "pistas de indie-trap chileno chile",
+    "instrumentales en concepción wav"
+  ],
+  "heroCta": "Descargar Beats en Concepción (CuentaRUT / WAV)",
+  "recommendedBpm": "118-126 BPM",
+  "suggestedKey": "La-Mayor / Mi-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Chile",
+  "sceneHub": "Concepción"
+},
+  {
+  "slug": "valparaiso-cerros-chile-perreo-96bpm",
+  "name": "Valparaíso Chilean Perreo 96 BPM Beats",
+  "badge": "Perreo Chileno",
+  "headline": "Chilean Perreo 96 BPM Beats en Valparaíso: Cerros Porteños & Bohemia Hip-Hop",
+  "description": "Campanitas pegajosas, dembow rebotante a 96 BPM y bajos 808 profundos con pago en pesos chilenos por CuentaRUT para artistas en Valparaíso.",
+  "targetKeywords": [
+    "chilean perreo 96 bpm beats valparaíso",
+    "comprar beats valparaíso cuentarut",
+    "pistas de perreo chileno chile",
+    "instrumentales en valparaíso wav"
+  ],
+  "heroCta": "Descargar Beats en Valparaíso (CuentaRUT / WAV)",
+  "recommendedBpm": "94-98 BPM",
+  "suggestedKey": "Fa-Menor / Do-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Chile",
+  "sceneHub": "Valparaíso"
+},
+  {
+  "slug": "valparaiso-cerros-shishi-street-trap",
+  "name": "Valparaíso Shishi Street Trap Beats",
+  "badge": "Shishi Trap",
+  "headline": "Shishi Street Trap Beats en Valparaíso: Cerros Porteños & Bohemia Hip-Hop",
+  "description": "Bajos 808 demoledores distorsionados, campanas menores glaciales y baterías secas de población para raperos en Valparaíso.",
+  "targetKeywords": [
+    "shishi street trap beats valparaíso",
+    "comprar beats valparaíso cuentarut",
+    "pistas de shishi trap chile",
+    "instrumentales en valparaíso wav"
+  ],
+  "heroCta": "Descargar Beats en Valparaíso (CuentaRUT / WAV)",
+  "recommendedBpm": "130-138 BPM",
+  "suggestedKey": "Do-Menor / Sol-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Chile",
+  "sceneHub": "Valparaíso"
+},
+  {
+  "slug": "valparaiso-cerros-mambo-chileno-bounce",
+  "name": "Valparaíso Mambo Chileno Bounce Beats",
+  "badge": "Mambo Chileno",
+  "headline": "Mambo Chileno Bounce Beats en Valparaíso: Cerros Porteños & Bohemia Hip-Hop",
+  "description": "Metales de saxo acelerados a 115 BPM, percusión fiestera callejera y bajos con pegada para la escena urbana de Valparaíso.",
+  "targetKeywords": [
+    "mambo chileno bounce beats valparaíso",
+    "comprar beats valparaíso cuentarut",
+    "pistas de mambo chileno chile",
+    "instrumentales en valparaíso wav"
+  ],
+  "heroCta": "Descargar Beats en Valparaíso (CuentaRUT / WAV)",
+  "recommendedBpm": "112-118 BPM",
+  "suggestedKey": "Sol-Menor / Re-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Chile",
+  "sceneHub": "Valparaíso"
+},
+  {
+  "slug": "valparaiso-cerros-biobio-indie-cloud-trap",
+  "name": "Valparaíso Biobío Indie-Cloud Trap Beats",
+  "badge": "Indie-Trap Chileno",
+  "headline": "Biobío Indie-Cloud Trap Beats en Valparaíso: Cerros Porteños & Bohemia Hip-Hop",
+  "description": "Guitarras melancólicas espaciales, texturas indie y bajos 808 cálidos diseñados para creadores alternativos en Valparaíso.",
+  "targetKeywords": [
+    "biobío indie-cloud trap beats valparaíso",
+    "comprar beats valparaíso cuentarut",
+    "pistas de indie-trap chileno chile",
+    "instrumentales en valparaíso wav"
+  ],
+  "heroCta": "Descargar Beats en Valparaíso (CuentaRUT / WAV)",
+  "recommendedBpm": "118-126 BPM",
+  "suggestedKey": "La-Mayor / Mi-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Chile",
+  "sceneHub": "Valparaíso"
+},
+  {
+  "slug": "antofagasta-norte-chile-perreo-96bpm",
+  "name": "Antofagasta Chilean Perreo 96 BPM Beats",
+  "badge": "Perreo Chileno",
+  "headline": "Chilean Perreo 96 BPM Beats en Antofagasta: Perla del Norte & Minería Urbana",
+  "description": "Campanitas pegajosas, dembow rebotante a 96 BPM y bajos 808 profundos con pago en pesos chilenos por CuentaRUT para artistas en Antofagasta.",
+  "targetKeywords": [
+    "chilean perreo 96 bpm beats antofagasta",
+    "comprar beats antofagasta cuentarut",
+    "pistas de perreo chileno chile",
+    "instrumentales en antofagasta wav"
+  ],
+  "heroCta": "Descargar Beats en Antofagasta (CuentaRUT / WAV)",
+  "recommendedBpm": "94-98 BPM",
+  "suggestedKey": "Fa-Menor / Do-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Chile",
+  "sceneHub": "Antofagasta"
+},
+  {
+  "slug": "antofagasta-norte-shishi-street-trap",
+  "name": "Antofagasta Shishi Street Trap Beats",
+  "badge": "Shishi Trap",
+  "headline": "Shishi Street Trap Beats en Antofagasta: Perla del Norte & Minería Urbana",
+  "description": "Bajos 808 demoledores distorsionados, campanas menores glaciales y baterías secas de población para raperos en Antofagasta.",
+  "targetKeywords": [
+    "shishi street trap beats antofagasta",
+    "comprar beats antofagasta cuentarut",
+    "pistas de shishi trap chile",
+    "instrumentales en antofagasta wav"
+  ],
+  "heroCta": "Descargar Beats en Antofagasta (CuentaRUT / WAV)",
+  "recommendedBpm": "130-138 BPM",
+  "suggestedKey": "Do-Menor / Sol-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Chile",
+  "sceneHub": "Antofagasta"
+},
+  {
+  "slug": "antofagasta-norte-mambo-chileno-bounce",
+  "name": "Antofagasta Mambo Chileno Bounce Beats",
+  "badge": "Mambo Chileno",
+  "headline": "Mambo Chileno Bounce Beats en Antofagasta: Perla del Norte & Minería Urbana",
+  "description": "Metales de saxo acelerados a 115 BPM, percusión fiestera callejera y bajos con pegada para la escena urbana de Antofagasta.",
+  "targetKeywords": [
+    "mambo chileno bounce beats antofagasta",
+    "comprar beats antofagasta cuentarut",
+    "pistas de mambo chileno chile",
+    "instrumentales en antofagasta wav"
+  ],
+  "heroCta": "Descargar Beats en Antofagasta (CuentaRUT / WAV)",
+  "recommendedBpm": "112-118 BPM",
+  "suggestedKey": "Sol-Menor / Re-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Chile",
+  "sceneHub": "Antofagasta"
+},
+  {
+  "slug": "antofagasta-norte-biobio-indie-cloud-trap",
+  "name": "Antofagasta Biobío Indie-Cloud Trap Beats",
+  "badge": "Indie-Trap Chileno",
+  "headline": "Biobío Indie-Cloud Trap Beats en Antofagasta: Perla del Norte & Minería Urbana",
+  "description": "Guitarras melancólicas espaciales, texturas indie y bajos 808 cálidos diseñados para creadores alternativos en Antofagasta.",
+  "targetKeywords": [
+    "biobío indie-cloud trap beats antofagasta",
+    "comprar beats antofagasta cuentarut",
+    "pistas de indie-trap chileno chile",
+    "instrumentales en antofagasta wav"
+  ],
+  "heroCta": "Descargar Beats en Antofagasta (CuentaRUT / WAV)",
+  "recommendedBpm": "118-126 BPM",
+  "suggestedKey": "La-Mayor / Mi-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Chile",
+  "sceneHub": "Antofagasta"
+},
 ];

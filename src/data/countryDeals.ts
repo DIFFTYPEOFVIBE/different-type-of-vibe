@@ -44668,4 +44668,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "cl/providencia-las-condes": {
+  "slug": "cl/providencia-las-condes",
+  "name": "Chile – Santiago: Providencia, Las Condes & Vitacura (Barrio Alto, Urban Pop Pulido, Neo-Soul & R&B Chileno)",
+  "flag": "🇨🇱",
+  "currency": "CLP ($) / USD ($)",
+  "currencyCode": "CLP",
+  "gateways": "Webpay Plus (Transbank), CuentaRUT (BancoEstado), MACH, Khipu, Tarjetas Débito/Crédito, Apple Pay, PayPal, Stripe",
+  "pro": "SCD / Provi",
+  "proFullName": "SCD (Sociedad Chilena del Derecho de Autor) / Provi",
+  "proGuide": "100% conforme a la Ley 17.336 de Propiedad Intelectual de Chile y registro SCD con contrato firmado y split sheet en PDF inmediato.",
+  "headline": "Beats en Providencia & Las Condes: Urban Pop Pulido, Pianos Rhodes & R&B Santiaguino",
+  "description": "El estándar de alta fidelidad y vanguardia pop en Santiago: arreglos armónicos sofisticados, sintetizadores sedosos y ritmos dinámicos para creadores de Providencia y el sector oriente.",
+  "popularGenres": [
+    "Santiago Urban Pop",
+    "Chileno Neo-Soul",
+    "Smooth R&B Trap"
+  ],
+  "subClusters": []
+},
+  "cl/la-florida-bellavista": {
+  "slug": "cl/la-florida-bellavista",
+  "name": "Chile – Santiago: La Florida & Vicuña Mackenna (Cuna del Trap Masivo, Perreo de Mall & Melodías Pegajosas)",
+  "flag": "🇨🇱",
+  "currency": "CLP ($) / USD ($)",
+  "currencyCode": "CLP",
+  "gateways": "Webpay Plus (Transbank), CuentaRUT (BancoEstado), MACH, Khipu, Tarjetas Débito/Crédito, Apple Pay, PayPal, Stripe",
+  "pro": "SCD / Provi",
+  "proFullName": "SCD (Sociedad Chilena del Derecho de Autor) / Provi",
+  "proGuide": "Archivos WAV 24-bit de calidad de estudio sin compresión con pistas separadas (stems multitrack).",
+  "headline": "Beats en La Florida: Cuna del Perreo de Alto Impacto, Bounces Fiesteros & Trap Radial",
+  "description": "El corazón demográfico y comercial de la música urbana en Santiago: cajas secas contundentes, melodías de campanitas instantáneas y bajos rebotantes para artistas de La Florida.",
+  "popularGenres": [
+    "La Florida Perreo",
+    "Trap Chileno Fiestero",
+    "Boricua-Chileno Crossover"
+  ],
+  "subClusters": []
+},
+  "cl/pudahuel-lo-prado": {
+  "slug": "cl/pudahuel-lo-prado",
+  "name": "Chile – Santiago: Pudahuel, Lo Prado & Cerro Navia (Zona Poniente, Trap de Población, Flow Callejero & 808s Pesados)",
+  "flag": "🇨🇱",
+  "currency": "CLP ($) / USD ($)",
+  "currencyCode": "CLP",
+  "gateways": "Webpay Plus (Transbank), CuentaRUT (BancoEstado), MACH, Khipu, Tarjetas Débito/Crédito, Apple Pay, PayPal, Stripe",
+  "pro": "SCD / Provi",
+  "proFullName": "SCD (Sociedad Chilena del Derecho de Autor) / Provi",
+  "proGuide": "Entrega digital inmediata con split sheet y contrato de licencia para distribución en Spotify y Apple Music.",
+  "headline": "Beats en Pudahuel & Zona Poniente: Barras de Población, Campanas Menores & Trap Callejero Shishi",
+  "description": "La autenticidad cruda y combativa de las poblaciones del poniente santiaguino: bajos 808 demoledores, melodías oscuras y baterías con pegada para MCs con mensaje y realidad social.",
+  "popularGenres": [
+    "Trap de Población",
+    "Pudahuel Street Drill",
+    "Shishi Gang Sound"
+  ],
+  "subClusters": []
+},
+  "cl/estacion-central-meiggs": {
+  "slug": "cl/estacion-central-meiggs",
+  "name": "Chile – Santiago: Estación Central & Barrio Meiggs (Cruce Multicultural, Dembow Acelerado & Mambo Chileno)",
+  "flag": "🇨🇱",
+  "currency": "CLP ($) / USD ($)",
+  "currencyCode": "CLP",
+  "gateways": "Webpay Plus (Transbank), CuentaRUT (BancoEstado), MACH, Khipu, Tarjetas Débito/Crédito, Apple Pay, PayPal, Stripe",
+  "pro": "SCD / Provi",
+  "proFullName": "SCD (Sociedad Chilena del Derecho de Autor) / Provi",
+  "proGuide": "Descargas de audio WAV masterizado y multipista para mezcla profesional en Pro Tools y FL Studio.",
+  "headline": "Beats en Estación Central & Meiggs: Mambo Acelerado, Vientos de Saxo & Descontrol Urbano",
+  "description": "El punto de encuentro rítmico más vibrante de la capital: mambo callejero a 115 BPM, trompetas fiesteras y percusión caribeña adaptada a la velocidad de la calle chilena.",
+  "popularGenres": [
+    "Mambo Chileno",
+    "Dembow Meiggs",
+    "Afro-Perreo Santiaguino"
+  ],
+  "subClusters": []
+},
+  "cl/quilicura-valle-grande": {
+  "slug": "cl/quilicura-valle-grande",
+  "name": "Chile – Santiago: Quilicura & Valle Grande (Zona Norte Urbana, Drill Chileno, Sintes Menores & Barras Duras)",
+  "flag": "🇨🇱",
+  "currency": "CLP ($) / USD ($)",
+  "currencyCode": "CLP",
+  "gateways": "Webpay Plus (Transbank), CuentaRUT (BancoEstado), MACH, Khipu, Tarjetas Débito/Crédito, Apple Pay, PayPal, Stripe",
+  "pro": "SCD / Provi",
+  "proFullName": "SCD (Sociedad Chilena del Derecho de Autor) / Provi",
+  "proGuide": "Pago seguro mediante CuentaRUT o Webpay Plus y entrega instantánea con contrato para monetización.",
+  "headline": "Beats en Quilicura & Zona Norte: Bajas Temperaturas, Subgraves Deslizantes & Drill Metropolitano",
+  "description": "El pulso industrial del norte de Santiago: atmósferas frías de sintetizador, cajas con compresión quirúrgica y bajos 808 afinados para raperos de Quilicura y Valle Grande.",
+  "popularGenres": [
+    "Quilicura Drill",
+    "Industrial North Trap",
+    "Dark Metro 808"
+  ],
+  "subClusters": []
+},
+  "cl/concepcion-san-pedro-u-de-c": {
+  "slug": "cl/concepcion-san-pedro-u-de-c",
+  "name": "Chile – Concepción: San Pedro de la Paz & Barrio Universitario (Capital del Rock Chileno, Indie-Trap & Lofi Penquista)",
+  "flag": "🇨🇱",
+  "currency": "CLP ($) / USD ($)",
+  "currencyCode": "CLP",
+  "gateways": "Webpay Plus (Transbank), CuentaRUT (BancoEstado), MACH, Khipu, Tarjetas Débito/Crédito, Apple Pay, PayPal, Stripe",
+  "pro": "SCD / Provi",
+  "proFullName": "SCD (Sociedad Chilena del Derecho de Autor) / Provi",
+  "proGuide": "Licencias comerciales transparentes para lanzamientos independientes en la Región del Biobío.",
+  "headline": "Beats en Concepción: Cuna del Rock & Vanguardia Penquista, Guitarras Melancólicas & Trap Alternativo",
+  "description": "Donde la histórica herencia guitarrera penquista se une al trap melódico: texturas de rock alternativo, lluvias del sur y bajos cálidos para creadores de Concepción y San Pedro.",
+  "popularGenres": [
+    "Biobío Indie Trap",
+    "Concepción Rock-Urban",
+    "Penquista Lofi"
+  ],
+  "subClusters": []
+},
+  "cl/valparaiso-cerros-puerto": {
+  "slug": "cl/valparaiso-cerros-puerto",
+  "name": "Chile – Valparaíso: Cerro Alegre, Playa Ancha & El Puerto (Bohemia Porteña, Rap Poético de Cerros & Vientos Marinos)",
+  "flag": "🇨🇱",
+  "currency": "CLP ($) / USD ($)",
+  "currencyCode": "CLP",
+  "gateways": "Webpay Plus (Transbank), CuentaRUT (BancoEstado), MACH, Khipu, Tarjetas Débito/Crédito, Apple Pay, PayPal, Stripe",
+  "pro": "SCD / Provi",
+  "proFullName": "SCD (Sociedad Chilena del Derecho de Autor) / Provi",
+  "proGuide": "Contrato de cesión de derechos no exclusivos y exclusivos con registro directo ante la SCD.",
+  "headline": "Beats en Valparaíso: Escaleras Eternas, Vientos del Pacífico & Boom Bap Poético de Cerros",
+  "description": "El alma poética y bohemia de los cerros porteños: metales de jazz sobre vinilo analógico, cajas con swing noventero y acordes de guitarra para MCs líricos de Valparaíso.",
+  "popularGenres": [
+    "Valparaíso Boom Bap",
+    "Poetic Cerros Rap",
+    "Porteño Jazz-Hop"
+  ],
+  "subClusters": []
+},
+  "cl/vina-del-mar-reñaca": {
+  "slug": "cl/vina-del-mar-reñaca",
+  "name": "Chile – Viña del Mar: Reñaca, Recreo & Costa Jardín (Perreo de Playa, Verano Electrónico & Trap Costero)",
+  "flag": "🇨🇱",
+  "currency": "CLP ($) / USD ($)",
+  "currencyCode": "CLP",
+  "gateways": "Webpay Plus (Transbank), CuentaRUT (BancoEstado), MACH, Khipu, Tarjetas Débito/Crédito, Apple Pay, PayPal, Stripe",
+  "pro": "SCD / Provi",
+  "proFullName": "SCD (Sociedad Chilena del Derecho de Autor) / Provi",
+  "proGuide": "Archivos de audio de alta resolución y stems para mezcla y masterización con calidad de festival.",
+  "headline": "Beats en Viña del Mar & Reñaca: Atardeceres del Pacífico, Sintes Brillantes & Perreo Playero",
+  "description": "El verano costero chileno en su máxima expresión: dembow bailable a 96 BPM, arpegios soleados y bajos envolventes para singles de fiesta y discoteca en Viña y Reñaca.",
+  "popularGenres": [
+    "Viña del Mar Beach Perreo",
+    "Reñaca Summer Trap",
+    "Costa Jardín Hits"
+  ],
+  "subClusters": []
+},
+  "cl/antofagasta-coviefi-la-chimba": {
+  "slug": "cl/antofagasta-coviefi-la-chimba",
+  "name": "Chile – Antofagasta: Coviefi & La Chimba (Perla del Norte, Minería Urbana, RKT & Trap del Desierto)",
+  "flag": "🇨🇱",
+  "currency": "CLP ($) / USD ($)",
+  "currencyCode": "CLP",
+  "gateways": "Webpay Plus (Transbank), CuentaRUT (BancoEstado), MACH, Khipu, Tarjetas Débito/Crédito, Apple Pay, PayPal, Stripe",
+  "pro": "SCD / Provi",
+  "proFullName": "SCD (Sociedad Chilena del Derecho de Autor) / Provi",
+  "proGuide": "Composiciones originales 100% libres de disputas por copyright.",
+  "headline": "Beats en Antofagasta: La Perla del Norte, Resonancias del Desierto & Trap Minero Pesado",
+  "description": "El sonido árido y potente del norte grande chileno: percusiones secas, bajos 808 profundos y melodías menores que reflejan el ritmo incansable de la capital minera.",
+  "popularGenres": [
+    "Antofagasta Desert Trap",
+    "Norte Grande 808",
+    "Minería Urbana Beats"
+  ],
+  "subClusters": []
+},
+  "cl/la-serena-av-del-mar": {
+  "slug": "cl/la-serena-av-del-mar",
+  "name": "Chile – La Serena & Coquimbo: Av. del Mar & Peñuelas (Faro Monumental, Reggaetón Costero & Bounces Veraniegos)",
+  "flag": "🇨🇱",
+  "currency": "CLP ($) / USD ($)",
+  "currencyCode": "CLP",
+  "gateways": "Webpay Plus (Transbank), CuentaRUT (BancoEstado), MACH, Khipu, Tarjetas Débito/Crédito, Apple Pay, PayPal, Stripe",
+  "pro": "SCD / Provi",
+  "proFullName": "SCD (Sociedad Chilena del Derecho de Autor) / Provi",
+  "proGuide": "Masterización comercial competitiva a -14 LUFS para plataformas de streaming.",
+  "headline": "Beats en La Serena & Coquimbo: Brisas del Faro, Baterías Rebotantes & Perreo Serenense",
+  "description": "La costa serena y fiestera de la Cuarta Región: melodías pegadizas de sintetizador, ritmo de perreo playero y bajos redondos diseñados para sonar en autos y parlantes costeros.",
+  "popularGenres": [
+    "La Serena Summer Bounce",
+    "Coquimbo Coastal Trap",
+    "Faro Monumental Perreo"
+  ],
+  "subClusters": []
+},
 };
