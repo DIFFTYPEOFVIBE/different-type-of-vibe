@@ -43148,4 +43148,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "mx/cdmx-tepito-iztapalapa": {
+  "slug": "mx/cdmx-tepito-iztapalapa",
+  "name": "México – CDMX: Tepito, Iztapalapa & Nezahualcóyotl (Cuna Histórica del Rap Callejero & Cumbia Sonidera)",
+  "flag": "🇲🇽",
+  "currency": "MXN ($) / USD ($)",
+  "currencyCode": "MXN",
+  "gateways": "OXXO Pay (Efectivo en Tiendas OXXO), SPEI (Transferencia Interbancaria), Mercado Pago, Tarjetas, Apple Pay, PayPal",
+  "pro": "SACM",
+  "proFullName": "SACM (Sociedad de Autores y Compositores de México)",
+  "proGuide": "100% conforme a la Ley Federal del Derecho de Autor mexicana y normativa SACM con contrato de licencia PDF firmado inmediato.",
+  "headline": "Beats en Tepito & Iztapalapa: Barrio Bravo, Cumbia Sonidera & Rap Callejero 808",
+  "description": "El corazón palpitante del rap de barrio en el Valle de México: acordeones en vivo, cajas secas con pegada y bajos 808 demoledores diseñados para MCs de Tepito, Iztapalapa y Neza.",
+  "popularGenres": [
+    "CDMX Street Rap",
+    "Cumbia Rap 808",
+    "Barrio Bravo Trap"
+  ],
+  "subClusters": []
+},
+  "mx/guadalajara-zapopan-jalisco": {
+  "slug": "mx/guadalajara-zapopan-jalisco",
+  "name": "México – Guadalajara: Zapopan & Tlaquepaque (Epicentro de Corridos Bélicos & Trap Moderno)",
+  "flag": "🇲🇽",
+  "currency": "MXN ($) / USD ($)",
+  "currencyCode": "MXN",
+  "gateways": "OXXO Pay (Efectivo en Tiendas OXXO), SPEI (Transferencia Interbancaria), Mercado Pago, Tarjetas, Apple Pay, PayPal",
+  "pro": "SACM",
+  "proFullName": "SACM (Sociedad de Autores y Compositores de México)",
+  "proGuide": "Archivos WAV 24-bit de calidad de estudio sin compresión con pistas separadas (stems multitrack).",
+  "headline": "Beats en Zapopan & Guadalajara: Tierra de Éxitos Bélicos, Trombones & Bajos 808",
+  "description": "La capital de los mayores éxitos de la música mexicana actual: trombones brillantes de viento metal, requintos de 12 cuerdas y bajos deslizantes para artistas de Zapopan y Guadalajara.",
+  "popularGenres": [
+    "Trap Bélico",
+    "Corridos Tumbados Jalisco",
+    "Guadalajara Street Trap"
+  ],
+  "subClusters": []
+},
+  "mx/monterrey-san-pedro-garza": {
+  "slug": "mx/monterrey-san-pedro-garza",
+  "name": "México – Monterrey: San Pedro Garza García & Santa Catarina (Eje Industrial del Rap Regio)",
+  "flag": "🇲🇽",
+  "currency": "MXN ($) / USD ($)",
+  "currencyCode": "MXN",
+  "gateways": "OXXO Pay (Efectivo en Tiendas OXXO), SPEI (Transferencia Interbancaria), Mercado Pago, Tarjetas, Apple Pay, PayPal",
+  "pro": "SACM",
+  "proFullName": "SACM (Sociedad de Autores y Compositores de México)",
+  "proGuide": "Monetización digital global en Spotify, Apple Music, YouTube y radio 100% garantizada.",
+  "headline": "Beats en Monterrey & San Pedro: Cerro de la Silla, Rap Regio Pesado & Kicks con Pegada",
+  "description": "La cuna del rap más pesado y rudo de México: bombos analógicos distorsionados, sintetizadores oscuros y actitud norteña inquebrantable para creadores de Monterrey y Santa Catarina.",
+  "popularGenres": [
+    "Rap Regio Pesado",
+    "Monterrey Hard Trap",
+    "Boom Bap Norteño"
+  ],
+  "subClusters": []
+},
+  "mx/tijuana-playas-otay": {
+  "slug": "mx/tijuana-playas-otay",
+  "name": "México – Tijuana: Playas de Tijuana & Otay (Cruce Fronterizo West Coast & Spanglish Drill)",
+  "flag": "🇲🇽",
+  "currency": "MXN ($) / USD ($)",
+  "currencyCode": "MXN",
+  "gateways": "OXXO Pay (Efectivo en Tiendas OXXO), SPEI (Transferencia Interbancaria), Mercado Pago, Tarjetas, Apple Pay, PayPal",
+  "pro": "SACM",
+  "proFullName": "SACM (Sociedad de Autores y Compositores de México)",
+  "proGuide": "100% libre de royalties sobre grabaciones master con licencia comercial ilimitada.",
+  "headline": "Beats en Tijuana: Muro Fronterizo, Brisa del Pacífico & West Coast G-Funk Trap",
+  "description": "La frontera más transitada del mundo: silbidos clásicos de sintetizador West Coast, cajas cortantes y bajos 808 rebotantes para el estilo bilingüe Spanglish de Tijuana, Playas y Otay.",
+  "popularGenres": [
+    "Tijuana West Coast Trap",
+    "Frontera G-Funk Beat",
+    "Spanglish Drill"
+  ],
+  "subClusters": []
+},
+  "mx/leon-guanajuato-bajio": {
+  "slug": "mx/leon-guanajuato-bajio",
+  "name": "México – León & Irapuato (Capital del Calzado de Guanajuato & Trap de Calle)",
+  "flag": "🇲🇽",
+  "currency": "MXN ($) / USD ($)",
+  "currencyCode": "MXN",
+  "gateways": "OXXO Pay (Efectivo en Tiendas OXXO), SPEI (Transferencia Interbancaria), Mercado Pago, Tarjetas, Apple Pay, PayPal",
+  "pro": "SACM",
+  "proFullName": "SACM (Sociedad de Autores y Compositores de México)",
+  "proGuide": "Pago en efectivo en tiendas OXXO de todo México o transferencia SPEI inmediata.",
+  "headline": "Beats en León & Bajío: Calles de Guanajuato, Industria & Trap Acelerado",
+  "description": "El corazón industrial del Bajío: cajas rápidas de trap, sintetizadores agresivos y graves profundos para la creciente escena de hip-hop de León, Irapuato y Celaya.",
+  "popularGenres": [
+    "León Street Trap",
+    "Bajío Rap Callejero",
+    "Guanajuato 808 Beat"
+  ],
+  "subClusters": []
+},
+  "mx/culiacan-tierra-blanca-sinaloa": {
+  "slug": "mx/culiacan-tierra-blanca-sinaloa",
+  "name": "México – Culiacán: Tierra Blanca & Las Quintas (La Auténtica Cuna de Requintos & Trombones)",
+  "flag": "🇲🇽",
+  "currency": "MXN ($) / USD ($)",
+  "currencyCode": "MXN",
+  "gateways": "OXXO Pay (Efectivo en Tiendas OXXO), SPEI (Transferencia Interbancaria), Mercado Pago, Tarjetas, Apple Pay, PayPal",
+  "pro": "SACM",
+  "proFullName": "SACM (Sociedad de Autores y Compositores de México)",
+  "proGuide": "Pistas stems multitrack y archivos WAV de 24 bits incluidos para mezclas profesionales.",
+  "headline": "Beats en Culiacán: Tierra Blanca, Requintos Docerola con Delay & Viento Metal",
+  "description": "El epicentro definitivo de la música sinaloense: requintos de 12 cuerdas grabados con delay estéreo, charchetas bélicas y bajos tololoche pesados para los corridos más respetados de Culiacán.",
+  "popularGenres": [
+    "Culiacán Corridos Tumbados",
+    "Sinaloa Requinto Trap",
+    "Tierra Blanca Beat"
+  ],
+  "subClusters": []
+},
+  "mx/oaxaca-valles-centrales": {
+  "slug": "mx/oaxaca-valles-centrales",
+  "name": "México – Oaxaca & Valles Centrales (Herencia Indígena, Marimba & Hip-Hop Consciente)",
+  "flag": "🇲🇽",
+  "currency": "MXN ($) / USD ($)",
+  "currencyCode": "MXN",
+  "gateways": "OXXO Pay (Efectivo en Tiendas OXXO), SPEI (Transferencia Interbancaria), Mercado Pago, Tarjetas, Apple Pay, PayPal",
+  "pro": "SACM",
+  "proFullName": "SACM (Sociedad de Autores y Compositores de México)",
+  "proGuide": "Derechos comerciales completos con factura y split sheet conforme a SACM.",
+  "headline": "Beats en Oaxaca: Cuna del Mezcal, Flautas Prehispánicas & Marimba Trap",
+  "description": "Donde las raíces milenarias se encuentran con el bombo y la caja: maderas de marimba tradicional, flautas de barro y ritmos de lofi hip-hop orgánicos para raperos conscientes de Oaxaca.",
+  "popularGenres": [
+    "Oaxaca Conscious Rap",
+    "Marimba Trap Fusión",
+    "Valles Centrales Beat"
+  ],
+  "subClusters": []
+},
+  "mx/acapulco-guerrero-costa": {
+  "slug": "mx/acapulco-guerrero-costa",
+  "name": "México – Acapulco & Costa Chica (Costa de Guerrero & Flow Urbano Callejero)",
+  "flag": "🇲🇽",
+  "currency": "MXN ($) / USD ($)",
+  "currencyCode": "MXN",
+  "gateways": "OXXO Pay (Efectivo en Tiendas OXXO), SPEI (Transferencia Interbancaria), Mercado Pago, Tarjetas, Apple Pay, PayPal",
+  "pro": "SACM",
+  "proFullName": "SACM (Sociedad de Autores y Compositores de México)",
+  "proGuide": "100% libre de royalties para streaming, radio y presentaciones en vivo.",
+  "headline": "Beats en Acapulco: Bahía de Santa Lucía, Calor Costero & Drill Callejero de Guerrero",
+  "description": "El puerto más icónico del Pacífico sur mexicano: metales ardientes, percusiones tropicales y bajos 808 pesados diseñados para la cruda realidad urbana de Acapulco y Guerrero.",
+  "popularGenres": [
+    "Acapulco Street Drill",
+    "Costa Chica Rap",
+    "Guerrero 808 Beat"
+  ],
+  "subClusters": []
+},
+  "mx/torreon-comarca-lagunera": {
+  "slug": "mx/torreon-comarca-lagunera",
+  "name": "México – Torreón & Comarca Lagunera (Fuerza Industrial de Coahuila & Rap Pesado)",
+  "flag": "🇲🇽",
+  "currency": "MXN ($) / USD ($)",
+  "currencyCode": "MXN",
+  "gateways": "OXXO Pay (Efectivo en Tiendas OXXO), SPEI (Transferencia Interbancaria), Mercado Pago, Tarjetas, Apple Pay, PayPal",
+  "pro": "SACM",
+  "proFullName": "SACM (Sociedad de Autores y Compositores de México)",
+  "proGuide": "Licencia comercial directa con entrega inmediata de archivos de alta resolución.",
+  "headline": "Beats en Torreón: Comarca Lagunera, Desierto Coahuilense & Cajas con Pegada",
+  "description": "La resistencia y tenacidad de la Laguna: baterías de boom bap con pegada analógica, sintetizadores desérticos y bajos con cuerpo para los raperos de Torreón, Gómez Palacio y Lerdo.",
+  "popularGenres": [
+    "La Laguna Street Rap",
+    "Torreón Heavy Boom Bap",
+    "Coahuila 808 Trap"
+  ],
+  "subClusters": []
+},
+  "mx/tampico-tamaulipas-golfo": {
+  "slug": "mx/tampico-tamaulipas-golfo",
+  "name": "México – Tampico & Madero (Puerto del Golfo de Tamaulipas & Trap Costero)",
+  "flag": "🇲🇽",
+  "currency": "MXN ($) / USD ($)",
+  "currencyCode": "MXN",
+  "gateways": "OXXO Pay (Efectivo en Tiendas OXXO), SPEI (Transferencia Interbancaria), Mercado Pago, Tarjetas, Apple Pay, PayPal",
+  "pro": "SACM",
+  "proFullName": "SACM (Sociedad de Autores y Compositores de México)",
+  "proGuide": "Validez jurídica internacional para distribución en plataformas de streaming y sincronización.",
+  "headline": "Beats en Tampico: Río Pánuco, Clima Portuario & Trap Costero del Golfo",
+  "description": "Donde el río Pánuco desemboca en el Golfo de México: guitarras acústicas costeñas, charlestons rápidos y bajos 808 retumbantes para artistas de Tampico, Madero y Altamira.",
+  "popularGenres": [
+    "Tampico Gulf Trap",
+    "Tamaulipas Street Beat",
+    "Costero 808 Rap"
+  ],
+  "subClusters": []
+},
 };
