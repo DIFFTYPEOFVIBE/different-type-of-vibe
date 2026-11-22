@@ -45998,4 +45998,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "vn/saigon-quan-1-thao-dien": {
+  "slug": "vn/saigon-quan-1-thao-dien",
+  "name": "Việt Nam – TP. Hồ Chí Minh: Quận 1, Thảo Điền & Landmark 81 (Trung Tâm Tài Chính & Thời Thượng Sài Gòn, Sleek Neo-Soul & V-Pop R&B)",
+  "flag": "🇻🇳",
+  "currency": "VND (₫) / USD ($)",
+  "currencyCode": "VND",
+  "gateways": "Ví MoMo, ZaloPay, VNPay-QR (VietQR quét từ mọi ngân hàng: Vietcombank, Techcombank, MB Bank), Apple Pay, PayPal, Stripe",
+  "pro": "VCPMC / COV",
+  "proFullName": "VCPMC (Trung tâm Bảo vệ Quyền Tác giả Âm nhạc Việt Nam) / Cục Bản quyền tác giả (COV)",
+  "proGuide": "100% tuân thủ Luật Sở hữu trí tuệ Việt Nam (Luật số 50/2005/QH11 và sửa đổi bổ sung 2022) và đăng ký VCPMC với hợp đồng kỹ thuật số PDF ký sẵn và split sheet tức thì.",
+  "headline": "Beats tại Quận 1 & Thảo Điền: Skyline Sài Gòn Lộng Lẫy, Pianos Rhodes Ấm Áp & V-Pop R&B Thời Thượng",
+  "description": "Trung tâm sáng tạo và phong cách sống thượng lưu tại TP. Hồ Chí Minh: hợp âm piano điện Rhodes mượt mà, hòa âm neo-soul tinh tế và nhịp trống hiện đại cho ca sĩ và nhà sản xuất tại Quận 1 và Thảo Điền.",
+  "popularGenres": [
+    "Saigon Neo-Soul",
+    "Thảo Điền Urban R&B",
+    "Landmark Modern Trap"
+  ],
+  "subClusters": []
+},
+  "vn/hanoi-hoan-kiem-tay-ho": {
+  "slug": "vn/hanoi-hoan-kiem-tay-ho",
+  "name": "Việt Nam – Hà Nội: Hoàn Kiếm, Phố Cổ & Tây Hồ (Trái Tim Thủ Đô, Lofi Phố Cổ, Đàn Tranh-Trap & Hip-Hop Triết Lý)",
+  "flag": "🇻🇳",
+  "currency": "VND (₫) / USD ($)",
+  "currencyCode": "VND",
+  "gateways": "Ví MoMo, ZaloPay, VNPay-QR (VietQR quét từ mọi ngân hàng: Vietcombank, Techcombank, MB Bank), Apple Pay, PayPal, Stripe",
+  "pro": "VCPMC / COV",
+  "proFullName": "VCPMC (Trung tâm Bảo vệ Quyền Tác giả Âm nhạc Việt Nam) / Cục Bản quyền tác giả (COV)",
+  "proGuide": "File audio WAV 24-bit chất lượng phòng thu không nén với các track stem tách biệt và giấy phép thương mại.",
+  "headline": "Beats tại Hoàn Kiếm & Tây Hồ: Gió Mùa Phố Cổ, Tiếng Đàn Tranh Trầm Mặc & Boom Bap Triết Lý Hà Nội",
+  "description": "Cái nôi văn hóa và nghệ thuật nghìn năm văn hiến: âm hưởng đàn tranh dân tộc kết hợp tiếng mưa rơi cà phê phố cổ và trống boom bap cổ điển cho các rapper sâu sắc tại Hà Nội.",
+  "popularGenres": [
+    "Hà Nội Phố Cổ Lofi",
+    "Đàn Tranh Trap Fusión",
+    "Tây Hồ Conscious Rap"
+  ],
+  "subClusters": []
+},
+  "vn/hanoi-cau-giay-my-dinh": {
+  "slug": "vn/hanoi-cau-giay-my-dinh",
+  "name": "Việt Nam – Hà Nội: Cầu Giấy, Mỹ Đình & Nam Từ Liêm (Khu Đô Thị Sinh Viên & Sân Vận Động, Rap Việt Trap & 808s Uy Lực)",
+  "flag": "🇻🇳",
+  "currency": "VND (₫) / USD ($)",
+  "currencyCode": "VND",
+  "gateways": "Ví MoMo, ZaloPay, VNPay-QR (VietQR quét từ mọi ngân hàng: Vietcombank, Techcombank, MB Bank), Apple Pay, PayPal, Stripe",
+  "pro": "VCPMC / COV",
+  "proFullName": "VCPMC (Trung tâm Bảo vệ Quyền Tác giả Âm nhạc Việt Nam) / Cục Bản quyền tác giả (COV)",
+  "proGuide": "Giao nhận kỹ thuật số tức thì với split sheet và hợp đồng bản quyền phân phối Spotify và Apple Music.",
+  "headline": "Beats tại Cầu Giấy & Mỹ Đình: Năng Lượng Sân Vận Động Rực Cháy, Bass 808 Uy Lực & Trap Chiến Hà Nội",
+  "description": "Khu đô thị sôi động của thế hệ trẻ thủ đô: chuông minor lạnh lùng, snare đanh thép và tiếng bass 808 trượt bốc lửa chuẩn sân khấu Rap Việt cho nghệ sĩ Cầu Giấy và Mỹ Đình.",
+  "popularGenres": [
+    "Cầu Giấy Street Drill",
+    "Mỹ Đình Stadium Trap",
+    "Hà Nội New Wave 808"
+  ],
+  "subClusters": []
+},
+  "vn/saigon-quan-7-phu-my-hung": {
+  "slug": "vn/saigon-quan-7-phu-my-hung",
+  "name": "Việt Nam – TP. Hồ Chí Minh: Quận 7 & Phú Mỹ Hưng (Khu Đô Thị Nam Sài Gòn, Chillhop Hiện Đại, Melodic Cloud Rap & Smooth R&B)",
+  "flag": "🇻🇳",
+  "currency": "VND (₫) / USD ($)",
+  "currencyCode": "VND",
+  "gateways": "Ví MoMo, ZaloPay, VNPay-QR (VietQR quét từ mọi ngân hàng: Vietcombank, Techcombank, MB Bank), Apple Pay, PayPal, Stripe",
+  "pro": "VCPMC / COV",
+  "proFullName": "VCPMC (Trung tâm Bảo vệ Quyền Tác giả Âm nhạc Việt Nam) / Cục Bản quyền tác giả (COV)",
+  "proGuide": "Thanh toán ví điện tử MoMo, ZaloPay và VietQR quét mã tức thì kèm file tải tốc độ cao.",
+  "headline": "Beats tại Quận 7 & Phú Mỹ Hưng: Cầu Ánh Sao Lãng Mạn, Giai Điệu R&B Mềm Mại & Cloud Trap Bay Bổng",
+  "description": "Không gian sống hiện đại và thoáng đãng tại Nam Sài Gòn: pad synth êm dịu, guitar lả lướt và bass sub ấm áp dành cho các bản tình ca R&B và melodic rap nhẹ nhàng.",
+  "popularGenres": [
+    "Phú Mỹ Hưng Cloud Rap",
+    "Quận 7 Smooth R&B",
+    "Nam Sài Gòn Chillhop"
+  ],
+  "subClusters": []
+},
+  "vn/saigon-quan-binh-thanh-thao-cam-vien": {
+  "slug": "vn/saigon-quan-binh-thanh-thao-cam-vien",
+  "name": "Việt Nam – TP. Hồ Chí Minh: Bình Thạnh, Thị Nghè & Thanh Đa (Cái Nôi Indie Sài Gòn, Trap Đường Phố & Underground Cypher)",
+  "flag": "🇻🇳",
+  "currency": "VND (₫) / USD ($)",
+  "currencyCode": "VND",
+  "gateways": "Ví MoMo, ZaloPay, VNPay-QR (VietQR quét từ mọi ngân hàng: Vietcombank, Techcombank, MB Bank), Apple Pay, PayPal, Stripe",
+  "pro": "VCPMC / COV",
+  "proFullName": "VCPMC (Trung tâm Bảo vệ Quyền Tác giả Âm nhạc Việt Nam) / Cục Bản quyền tác giả (COV)",
+  "proGuide": "100% bản quyền âm nhạc an toàn, sáng tác gốc không có tranh chấp mẫu sample.",
+  "headline": "Beats tại Bình Thạnh & Thị Nghè: Con Hẻm Sài Gòn Đậm Chất Thật, Bass Nặng Đô & Underground Trap",
+  "description": "Nơi nuôi dưỡng tinh thần hip-hop đường phố Sài Gòn: chất âm thô mộc đầy bản lĩnh, nhịp hi-hat dồn dập và tiếng bass 808 căng tràn năng lượng cho các cypher hẻm phố.",
+  "popularGenres": [
+    "Bình Thạnh Street Trap",
+    "Thị Nghè Underground Cypher",
+    "Thanh Đa Raw 808"
+  ],
+  "subClusters": []
+},
+  "vn/da-nang-hai-chau-son-tra": {
+  "slug": "vn/da-nang-hai-chau-son-tra",
+  "name": "Việt Nam – Đà Nẵng: Hải Châu, Cầu Rồng & Bán Đảo Sơn Trà (Thủ Phủ Miền Trung, Trap Gió Biển & Bounces Mùa Hè)",
+  "flag": "🇻🇳",
+  "currency": "VND (₫) / USD ($)",
+  "currencyCode": "VND",
+  "gateways": "Ví MoMo, ZaloPay, VNPay-QR (VietQR quét từ mọi ngân hàng: Vietcombank, Techcombank, MB Bank), Apple Pay, PayPal, Stripe",
+  "pro": "VCPMC / COV",
+  "proFullName": "VCPMC / COV",
+  "proGuide": "Hợp đồng cấp phép thương mại minh bạch cho các dự án âm nhạc độc lập tại miền Trung.",
+  "headline": "Beats tại Đà Nẵng: Cầu Rồng Phun Lửa, Gió Biển Mỹ Khê & Trap Miền Trung Phóng Khoáng",
+  "description": "Năng lượng cởi mở và tươi sáng của thành phố đáng sống: tiếng guitar bãi biển trong trẻo, nhịp trống nảy và tiếng bass tròn trịa cho các ca khúc mùa hè rực rỡ tại Đà Nẵng.",
+  "popularGenres": [
+    "Đà Nẵng Coastal Trap",
+    "Cầu Rồng Summer Bounce",
+    "Miền Trung Urban Vibe"
+  ],
+  "subClusters": []
+},
+  "vn/hai-phong-hong-bang-le-chan": {
+  "slug": "vn/hai-phong-hong-bang-le-chan",
+  "name": "Việt Nam – Hải Phòng: Hồng Bàng & Lê Chân (Đất Cảng Hào Sảng, Rap Cực Căng, Bass 808 Trượt & Trap Chiến)",
+  "flag": "🇻🇳",
+  "currency": "VND (₫) / USD ($)",
+  "currencyCode": "VND",
+  "gateways": "Ví MoMo, ZaloPay, VNPay-QR (VietQR quét từ mọi ngân hàng: Vietcombank, Techcombank, MB Bank), Apple Pay, PayPal, Stripe",
+  "pro": "VCPMC / COV",
+  "proFullName": "VCPMC / COV",
+  "proGuide": "Chuyển nhượng quyền sử dụng độc quyền và không độc quyền đăng ký VCPMC tức thì.",
+  "headline": "Beats tại Hải Phòng: Khí Chất Đất Cảng Hào Sảng, Bass 808 Trượt Cực Căng & Drill Chiến",
+  "description": "Chất rap bộc trực và kiên cường không thể trộn lẫn của Đất Cảng: tiếng còi tàu vang vọng, nhịp trống trap dồn dập và tiếng bass 808 xé gió cho các tay chơi Hải Phòng.",
+  "popularGenres": [
+    "Hải Phòng Đất Cảng Drill",
+    "Lê Chân Street Rap",
+    "Hoa Phượng Đỏ 808"
+  ],
+  "subClusters": []
+},
+  "vn/can-tho-ninh-kieu-cai-rang": {
+  "slug": "vn/can-tho-ninh-kieu-cai-rang",
+  "name": "Việt Nam – Cần Thơ: Ninh Kiều & Cái Răng (Thủ Phủ Miền Tây Sông Nước, Đàn Kìm-Trap & Bounces Miệt Vườn)",
+  "flag": "🇻🇳",
+  "currency": "VND (₫) / USD ($)",
+  "currencyCode": "VND",
+  "gateways": "Ví MoMo, ZaloPay, VNPay-QR (VietQR quét từ mọi ngân hàng: Vietcombank, Techcombank, MB Bank), Apple Pay, PayPal, Stripe",
+  "pro": "VCPMC / COV",
+  "proFullName": "VCPMC / COV",
+  "proGuide": "Mastering chuẩn phát hành trực tuyến (-14 LUFS) sẵn sàng lên sóng Spotify và YouTube.",
+  "headline": "Beats tại Cần Thơ: Bến Ninh Kiều Thơ Mộng, Tiếng Đàn Kìm Sông Nước & Trap Dân Gian Miền Tây",
+  "description": "Sự kết hợp độc đáo giữa âm nhạc tài tử miền Tây sông nước và hip-hop hiện đại: tiếng đàn kìm réo rắt, nhịp sóng vỗ êm đềm và tiếng bass 808 nảy dành cho rapper Tây Đô.",
+  "popularGenres": [
+    "Miền Tây Đàn Kìm Trap",
+    "Ninh Kiều Sông Nước Rap",
+    "Cần Thơ Folk Urban"
+  ],
+  "subClusters": []
+},
+  "vn/da-lat-xuan-huong-tuyen-lam": {
+  "slug": "vn/da-lat-xuan-huong-tuyen-lam",
+  "name": "Việt Nam – Lâm Đồng: Đà Lạt, Hồ Xuân Hương & Tuyền Lâm (Thành Phố Sương Mù, Lofi Acoustic Buồn & Chill Rap)",
+  "flag": "🇻🇳",
+  "currency": "VND (₫) / USD ($)",
+  "currencyCode": "VND",
+  "gateways": "Ví MoMo, ZaloPay, VNPay-QR (VietQR quét từ mọi ngân hàng: Vietcombank, Techcombank, MB Bank), Apple Pay, PayPal, Stripe",
+  "pro": "VCPMC / COV",
+  "proFullName": "VCPMC / COV",
+  "proGuide": "File gốc chất lượng cao và stem multitrack để hòa âm phối khí chuyên nghiệp tại phòng thu.",
+  "headline": "Beats tại Đà Lạt: Đồi Thông Sương Khói, Tiếng Guitar Rải Mộc & Lofi Acoustic U Sầu",
+  "description": "Cảm hứng bất tận từ những chiều mưa lạnh giữa rừng thông: tiếng đàn guitar thùng mộc mạc, không gian reverb sương khói và tiếng kick lofi trầm ấm cho những bản rap suy tư.",
+  "popularGenres": [
+    "Đà Lạt Misty Lofi",
+    "Hồ Xuân Hương Sad Rap",
+    "Đồi Thông Acoustic Cloud"
+  ],
+  "subClusters": []
+},
+  "vn/hue-huong-thuy-co-do": {
+  "slug": "vn/hue-huong-thuy-co-do",
+  "name": "Việt Nam – Thừa Thiên Huế: Hương Thủy & Sông Hương (Cố Đô Thơ Mộng, Nhã Nhạc-Trap Cung Đình & Đàn Bầu Huyền Bí)",
+  "flag": "🇻🇳",
+  "currency": "VND (₫) / USD ($)",
+  "currencyCode": "VND",
+  "gateways": "Ví MoMo, ZaloPay, VNPay-QR (VietQR quét từ mọi ngân hàng: Vietcombank, Techcombank, MB Bank), Apple Pay, PayPal, Stripe",
+  "pro": "VCPMC / COV",
+  "proFullName": "VCPMC / COV",
+  "proGuide": "Bảo vệ pháp lý toàn diện hỗ trợ bật kiếm tiền trên YouTube Content ID, TikTok và Spotify.",
+  "headline": "Beats tại Huế: Cố Đô Trầm Mặc, Tiếng Đàn Bầu Huyền Ảo & Trap Nhã Nhạc Cung Đình",
+  "description": "Nét trang nghiêm và huyền bí của kinh đô xưa: tiếng đàn bầu u uẩn, dàn chuông khánh cung đình vang vọng trên nền sub 808 sâu lắng cho những tác phẩm mang đậm hồn cốt dân tộc.",
+  "popularGenres": [
+    "Cố Đô Nhã Nhạc Trap",
+    "Đàn Bầu Huyền Bí Beats",
+    "Sông Hương Melodic Rap"
+  ],
+  "subClusters": []
+},
 };

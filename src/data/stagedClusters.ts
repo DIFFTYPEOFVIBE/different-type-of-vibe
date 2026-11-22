@@ -151962,4 +151962,1103 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
   "market": "Jamaica",
   "sceneHub": "Negril (Seven Mile)"
 },
+  {
+  "slug": "16-typh-don-dat-cang-drill-trap",
+  "title": "16 Typh Đất Cảng Swagger Sliding 808s & Cold Minor Bells Drill Beat",
+  "description": "Raw, unapologetic Đất Cảng Hải Phòng swagger inspired by 16 Typh (Người Chơi Hệ Đẹp, Walk On Da Street, Don't Waste My Time, Khởi Đầu): icy minor bell arpeggios, sliding multi-octave 808 sub-bass, and cold street confidence.",
+  "targetKeywords": [
+    "16 typh type beat",
+    "nguoi choi he dep type beat wav",
+    "drill viet nam beat 808",
+    "16 typh rap viet instrumental",
+    "hai phong street drill beat"
+  ],
+  "heroCta": "Mua Beat Phong Cách 16 Typh (Instant WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hardcore Street Rap Single, Rap Việt Audition Cypher and High-Energy Music Video",
+  "similarArtists": [
+    "16 Typh",
+    "16 BrT",
+    "Gonzo",
+    "Dế Choắt"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Menacing minor bell melodies with aggressive multi-octave 808 glides and sharp, piercing counter-snare rolls.",
+  "idealVocalStyle": "Cold street confidence, smooth baritone delivery, clever rhyme schemes, and effortless Northern Vietnamese swagger.",
+  "suggestedKey": "C# Minor / G# Minor",
+  "streamingSuitability": "Dominates Spotify Rap Việt Tinh Tuyển, YouTube trending hip-hop, and club cyphers."
+},
+  {
+  "slug": "low-g-tang-ga-chopper-ha-noi-flow",
+  "title": "Low G Tán Gái Deadpan Baritone & Bouncy Minimalist Hà Nội Trap Beat",
+  "description": "Deadpan, minimalist, and ultra-bouncy Hà Nội trap inspired by Low G (Tán Gái 606, Càng Cua, An Thần, Phân Thân, Thủ Đô Cypher): deep conversational vocal pocket, bouncy sub kicks, and witty street wordplay.",
+  "targetKeywords": [
+    "low g type beat",
+    "tan gai low g beat wav",
+    "rap nguoi ha noi instrumental",
+    "low g beat cang cua",
+    "minimalist bouncy trap beat vietnam"
+  ],
+  "heroCta": "Mua Beat Phong Cách Low G (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Viral Comedy-Rap Single, Chill College Banger and Clever TikTok Cypher",
+  "similarArtists": [
+    "Low G",
+    "Thắng (Ngọt)",
+    "Tlinh",
+    "Wxrdie"
+  ],
+  "recommendedBpm": "100-106 BPM",
+  "productionTips": "Sparse, punchy percussion arrangement with plenty of dynamic negative space to let dry baritone vocals cut through.",
+  "idealVocalStyle": "Deadpan conversational cadence, humorous Hà Nội street slang, rapid-fire rhymes, and laid-back confidence.",
+  "suggestedKey": "F Minor / C Minor",
+  "streamingSuitability": "Massive viral engagement on TikTok, YouTube audio trends, and Gen-Z Vietnamese streaming playlists."
+},
+  {
+  "slug": "mck-chim-sau-autotune-emo-rnb-trap",
+  "title": "MCK Chìm Sâu Silky Melodic Autotune Emo-Trap & Bedroom R&B Beat",
+  "description": "Emotional, silky modern V-Pop R&B and autotune trap inspired by MCK (Chìm Sâu, Tại Vì Sao, Va Vào Giai Điệu Này, Thờ Er): atmospheric ambient guitar chords, warm sub-bass, and passionate romantic chorus hooks.",
+  "targetKeywords": [
+    "mck type beat",
+    "chim sau mck type beat wav",
+    "melodic autotune trap beat vietnam",
+    "rnb vpop instrumental",
+    "mck rap viet style beat"
+  ],
+  "heroCta": "Mua Beat Phong Cách MCK (WAV + Stems)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Viral Romance Lead Single, Bedroom R&B Track and Late-Night Mood Visualizer",
+  "similarArtists": [
+    "MCK",
+    "Wren Evans",
+    "Tage",
+    "JustaTee"
+  ],
+  "recommendedBpm": "92-98 BPM",
+  "productionTips": "Lush chorus electric guitars layered with smooth analog synth pads and a round, supportive 808 bass.",
+  "idealVocalStyle": "Expressive autotune melodies, soulful falsetto vocal runs, passionate romantic lyrics, and catchy earworm choruses.",
+  "suggestedKey": "Ab Major / F Minor",
+  "streamingSuitability": "Top tier performer on Spotify Top 50 Vietnam, V-Pop Không Thể Thiếu, and Apple Music Vietnam."
+},
+  {
+  "slug": "den-vau-di-ve-nha-acoustic-folk-rap",
+  "title": "Đen Vâu Đi Về Nhà Acoustic Nylon Guitar & Philosophical Chillhop Beat",
+  "description": "Heartfelt, culturally rooted Vietnamese chillhop inspired by Đen Vâu (Đi Về Nhà, Nấu Ăn Cho Em, Mang Tiền Về Cho Mẹ, Trốn Tìm): nostalgic fingerpicked nylon guitars, warm acoustic kicks, and philosophical working-class storytelling.",
+  "targetKeywords": [
+    "den vau type beat",
+    "di ve nha den vau beat wav",
+    "acoustic chillhop beat vietnam",
+    "den vau instrumental guitar",
+    "philosophical rap beat vietnam"
+  ],
+  "heroCta": "Mua Beat Phong Cách Đen Vâu (Instant WAV)",
+  "energyLevel": "Medium",
+  "primaryUse": "Heartfelt Storytelling Single, Tet Holiday Anthem and Cinematic Brand Visualizer",
+  "similarArtists": [
+    "Đen Vâu",
+    "JustaTee",
+    "Vũ.",
+    "Lynk Lee"
+  ],
+  "recommendedBpm": "80-86 BPM",
+  "productionTips": "Warm acoustic guitar picking recorded with stereo ribbon microphones over an unquantized dusty boom bap drum swing.",
+  "idealVocalStyle": "Warm gravelly baritone voice, deeply philosophical Vietnamese poetry, sincere storytelling, and humble perspective.",
+  "suggestedKey": "G Major / E Minor",
+  "streamingSuitability": "Guaranteed multi-million evergreen streams across YouTube Vietnam, Spotify Indie Việt, and holiday playlists."
+},
+  {
+  "slug": "wren-evans-tinh-bang-thang-electro-pop-trap",
+  "title": "Wren Evans Tò Te Tí Avant-Garde Funky Bass & Viral Electro-Trap Beat",
+  "description": "Avant-garde, genre-bending modern Vietnamese pop-trap inspired by Wren Evans (Tò Te Tí, Thích Em Hơi Nhiều, Cơn Đau, Bé Ơi Từ Từ): syncopated house/afrobeat grooves, funky slap basslines, and high-fashion viral TikTok hooks.",
+  "targetKeywords": [
+    "wren evans type beat",
+    "to te ti wren evans beat wav",
+    "avant garde pop trap vietnam",
+    "wren evans instrumental",
+    "funky electro trap beat"
+  ],
+  "heroCta": "Mua Beat Phong Cách Wren Evans (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Viral TikTok Dance Challenge, High-Fashion Runway Single and Modern Radio Pop Hit",
+  "similarArtists": [
+    "Wren Evans",
+    "MONO",
+    "SOOBIN",
+    "Touliver"
+  ],
+  "recommendedBpm": "118-124 BPM",
+  "productionTips": "Punchy syncopated basslines with analog filter modulation, crisp claps, and bright synthesizer ear candy.",
+  "idealVocalStyle": "Trendy falsetto melodies, playful rhythm inflections, stylish vocal chops, and bilingual English/Vietnamese hooks.",
+  "suggestedKey": "D Major / B Minor",
+  "streamingSuitability": "Massive viral dominance across TikTok Vietnam, Reels, and international Gen-Z playlists."
+},
+  {
+  "slug": "suboi-doi-queen-of-vietnamese-rap",
+  "title": "Suboi Đời Jazz Chops & Pioneering Female Empowerment Boom Trap Beat",
+  "description": "Pioneering, sophisticated Vietnamese hip-hop inspired by Suboi (Đời, N-G-A-O, Cho Không, Bet On Me): intricate jazz piano chops, hard-hitting boom-trap drums, and fierce feminist empowerment cadence.",
+  "targetKeywords": [
+    "suboi type beat",
+    "queen of vietnamese rap beat",
+    "suboi doi instrumental wav",
+    "female rap beat vietnam",
+    "jazz boom trap beat suboi"
+  ],
+  "heroCta": "Mua Beat Phong Cách Suboi (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Lyrical Female Rap Single, Cultural Documentary Soundtrack and Festival Showcase",
+  "similarArtists": [
+    "Suboi",
+    "Kimmese",
+    "Tlinh",
+    "Pháo"
+  ],
+  "recommendedBpm": "90-96 BPM",
+  "productionTips": "Rich sampled jazz chords paired with tight 808 sub hits and punchy acoustic snares leaving room for rapid multisyllabic rhymes.",
+  "idealVocalStyle": "Articulate rhythmic articulation, bilingual English/Vietnamese flows, sharp social critique, and undeniable presence.",
+  "suggestedKey": "D Minor / A Minor",
+  "streamingSuitability": "Celebrated by international media (NPR, CNN), Rap Việt judges, and conscious Asian hip-hop curations."
+},
+  {
+  "slug": "dan-tranh-dan-bau-ethnic-viet-trap",
+  "title": "Đàn Tranh & Đàn Bầu Traditional Zither Mystical 808 Trap Beat",
+  "description": "Sacred, awe-inspiring Vietnamese cultural crossover: traditional Đàn Tranh (16-string zither) and Đàn Bầu (monochord) melodies fused with subterranean 808 sub glides and modern trap percussion.",
+  "targetKeywords": [
+    "dan tranh trap beat 808",
+    "dan bau hip hop beat wav",
+    "am nhac dan toc trap viet nam",
+    "ethnic vietnamese trap beat",
+    "dan tranh rap instrumental"
+  ],
+  "heroCta": "Mua Beat Đàn Tranh Trap (Instant WAV)",
+  "energyLevel": "High",
+  "primaryUse": "National Cultural Masterpiece, Rap Việt Stage Showcase and Cinematic Historical Visualizer",
+  "similarArtists": [
+    "Phương Mỹ Chi (Trap Remix)",
+    "Hoàng Thùy Linh",
+    "DTAP",
+    "Masew"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "productionTips": "Authentic plucked Đàn Tranh glissandos and expressive Đàn Bầu pitch bends layered over sharp trap claps and heavy sub drops.",
+  "idealVocalStyle": "Passionate Vietnamese patriotic poetry, vocal chants, rapid-fire flows, and majestic delivery.",
+  "suggestedKey": "Pentatonic Scale (Tuned to D Minor / G Minor)",
+  "streamingSuitability": "Viral national pride appeal across YouTube Vietnam, cultural television specials, and festival stages."
+},
+  {
+  "slug": "vinahouse-high-energy-rave-trap-bounce",
+  "title": "Vinahouse High-Energy 138 BPM Rave Kick & Club Trap Bounce Beat",
+  "description": "Blistering 138 BPM Vietnamese club Vinahouse kick energy fused with aggressive modern 808 trap drops and catchy synth lead melodies for high-energy nightlife anthems.",
+  "targetKeywords": [
+    "vinahouse trap beat",
+    "vinahouse 138 bpm beat wav",
+    "vietnamese club rave beat",
+    "vinahouse rap beat download",
+    "bay lac vinahouse trap"
+  ],
+  "heroCta": "Mua Beat Vinahouse-Trap (WAV 24-bit)",
+  "energyLevel": "Maximum",
+  "primaryUse": "Nightclub Peak Banger, High-Energy Festival Track and TikTok Dance Challenge",
+  "similarArtists": [
+    "Masew",
+    "Touliver",
+    "K-ICM",
+    "DJ Mie"
+  ],
+  "recommendedBpm": "135-140 BPM",
+  "productionTips": "Driving 4-on-the-floor Vinahouse acoustic kick-bass punch transitioning into explosive half-time trap 808 drops.",
+  "idealVocalStyle": "Fast party chants, energetic hypeman shouts, rapid-fire verses, and infectious club singalongs.",
+  "suggestedKey": "E Minor / A Minor",
+  "streamingSuitability": "Dominates Vietnamese nightclub circuits, fitness workout playlists, and TikTok dance remixes."
+},
+  {
+  "slug": "hanoi-pho-co-rainy-coffee-lofi",
+  "title": "Hà Nội Phố Cổ Autumn Rain Warm Felt Piano & Street Coffee Lofi Beat",
+  "description": "Atmospheric, nostalgic autumn midnight rain in Hà Nội's Old Quarter (Phố Cổ): warm tape-saturated felt piano chords, quiet street rain Foley, and unquantized dusty lofi boom bap drums.",
+  "targetKeywords": [
+    "hanoi lofi beat",
+    "pho co lofi beat wav",
+    "ca phe pho co chillhop",
+    "ha noi mua thu lofi study beat",
+    "vietnam lofi rap beat"
+  ],
+  "heroCta": "Mua Beat Hà Nội Phố Cổ Lofi (Instant WAV)",
+  "energyLevel": "Low-Medium",
+  "primaryUse": "Late-Night Commute Soundtrack, Study and Focus Background and Aesthetic Hà Nội Visualizer",
+  "similarArtists": [
+    "Vũ.",
+    "Đen Vâu (Lofi)",
+    "ChilledCow",
+    "Tom Misch"
+  ],
+  "recommendedBpm": "80-85 BPM",
+  "productionTips": "Felt upright piano recorded with analog tape wow-and-flutter, paired with gentle Hà Nội rain Foley and soft brushes.",
+  "idealVocalStyle": "Intimate poetic whisper, gentle spoken word, reflective Vietnamese observations, and nostalgic hums.",
+  "suggestedKey": "F Major / D Minor",
+  "streamingSuitability": "Evergreen placement on lofi study playlists, nocturnal coffeehouse streams, and aesthetic YouTube channels."
+},
+  {
+  "slug": "saigon-traffic-jam-scbd-nocturnal-rnb",
+  "title": "Sài Gòn Midnight Traffic Jam Warm Rhodes & Urban SpaceSpeakers R&B Beat",
+  "description": "Cruising through Saigon's vibrant neon avenues late at night: warm Fender Rhodes electric keys, atmospheric vocal pads, and sleek nocturnal urban R&B drums inspired by SpaceSpeakers.",
+  "targetKeywords": [
+    "saigon rnb beat",
+    "spacespeakers type beat wav",
+    "sai gon midnight trap beat",
+    "vpop rnb instrumental",
+    "nocturnal saigon beat"
+  ],
+  "heroCta": "Mua Beat Sài Gòn Midnight R&B (Instant WAV)",
+  "energyLevel": "Medium",
+  "primaryUse": "Nocturnal Car Cruising Single, Romantic V-Pop Track and Moody Sài Gòn Visualizer",
+  "similarArtists": [
+    "SOOBIN",
+    "Touliver",
+    "JustaTee",
+    "Binz"
+  ],
+  "recommendedBpm": "92-96 BPM",
+  "productionTips": "Warm chorused Fender Rhodes chords layered with subtle vocoder textures and a deep, rounded 808 sub pocket.",
+  "idealVocalStyle": "Silky smooth falsetto runs, sensual Vietnamese lyrics, and stylish conversational rap verses.",
+  "suggestedKey": "Ab Major / F Minor",
+  "streamingSuitability": "Prime placement on V-Pop R&B, Sài Gòn Night Drive, and Apple Music Vietnam."
+},
+  {
+  "slug": "mien-tay-dan-kim-song-nuoc-folk-trap",
+  "title": "Miền Tây Sông Nước Đàn Kìm Moon Lute & Bouncing 808 Folk-Trap Beat",
+  "description": "Southwestern Mekong Delta river folk crossover: traditional Đàn Kìm (moon lute) arpeggios, gentle riverboat water Foley, and bouncy 808 trap drops for regional Southern Vietnamese performers.",
+  "targetKeywords": [
+    "mien tay trap beat 808",
+    "dan kim rap beat wav",
+    "am nhac song nuoc trap beat",
+    "tay do folk trap instrumental",
+    "rap mien tay beat download"
+  ],
+  "heroCta": "Mua Beat Miền Tây Folk-Trap (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Regional River Pride Anthem, Southern Folk-Rap Single and High-Energy Stage Video",
+  "similarArtists": [
+    "Ricky Star",
+    "Yuno Bigboi",
+    "DTAP",
+    "Lăng LD"
+  ],
+  "recommendedBpm": "105-112 BPM",
+  "productionTips": "Hand-recorded Đàn Kìm melodies paired with acoustic percussion and bouncy, dynamic 808 sub-bass drops.",
+  "idealVocalStyle": "Charismatic Southern Vietnamese (Miền Tây) dialect, humorous relatable storytelling, and bouncy cadence.",
+  "suggestedKey": "C Major / A Minor",
+  "streamingSuitability": "Dominates Southern regional streaming charts, YouTube music trends, and cultural festivals."
+},
+  {
+  "slug": "da-lat-misty-pine-forest-acoustic-cloud",
+  "title": "Đà Lạt Misty Pine Forest Nylon Guitar & Melancholic Cloud Trap Beat",
+  "description": "Pine-covered mountain chill in Đà Lạt: delicate fingerpicked nylon guitars, misty shoegaze reverb tails, and warm, gentle 808 sub-bass for melancholic Vietnamese indie-rap.",
+  "targetKeywords": [
+    "da lat cloud trap beat",
+    "indie acoustic rap beat vietnam",
+    "da lat suong mu beat wav",
+    "melancholic acoustic trap vietnam",
+    "chill lofi beat da lat"
+  ],
+  "heroCta": "Mua Beat Đà Lạt Cloud Trap (Instant WAV)",
+  "energyLevel": "Medium",
+  "primaryUse": "Introspective Music Video, Moody Pine Mountain Visualizer and Melancholic Storytelling Single",
+  "similarArtists": [
+    "Vũ.",
+    "Đen Vâu",
+    "Nguyên Hà",
+    "Kha"
+  ],
+  "recommendedBpm": "115-122 BPM",
+  "productionTips": "Warm acoustic nylon guitar picking layered with wide stereo plate reverb and a deep, rounded sub bass.",
+  "idealVocalStyle": "Vulnerable emotive singing, heartfelt Vietnamese poetic lyrics, and dreamy nostalgic hooks.",
+  "suggestedKey": "G Major / E Minor",
+  "streamingSuitability": "High engagement across Indie Việt, Nhạc Buồn Tâm Trạng, and rainy day curations."
+},
+  {
+  "slug": "mua-beat-rap-viet-nam-gia-re-momo-vnd",
+  "title": "Mua Beat Rap Việt Nam Giá Rẻ Từ 450.000₫ (Thanh Toán Quét Mã MoMo & VietQR)",
+  "description": "Instrumental rap, trap và R&B Việt Nam chất lượng chuyên nghiệp từ 450.000₫ VND (~$18 USD) với phương thức thanh toán tức thì qua Ví MoMo, ZaloPay và VietQR mọi ngân hàng.",
+  "targetKeywords": [
+    "mua beat rap viet nam gia re momo vnd",
+    "ban beat rap gia re viet nam",
+    "beat rap gia re cho hoc sinh sinh vien",
+    "mua beat bang vi momo zalopay"
+  ],
+  "heroCta": "Xem Beat Giá Rẻ Từ 450.000₫ (MoMo / VietQR)",
+  "energyLevel": "Variable",
+  "primaryUse": "Single Debut, Thu Âm Home Studio và Mixtape Độc Lập Kèm Giấy Phép Thương Mại",
+  "similarArtists": [
+    "Rapper Độc Lập Việt Nam",
+    "Kênh YouTube & TikTok Sáng Tạo Nội Dung"
+  ],
+  "recommendedBpm": "88-144 BPM",
+  "productionTips": "Được hòa âm và làm chủ với khoảng không headroom rộng rãi dành riêng cho giọng rap tiếng Việt.",
+  "idealVocalStyle": "Phù hợp cho cả rap autotune melodi, rap chiến cực căng hay nhịp điệu chiêm nghiệm nhẹ nhàng.",
+  "suggestedKey": "Có Đầy Đủ Tất Cả Các Giọng Trưởng và Thứ",
+  "streamingSuitability": "Giấy phép thương mại cho phép phát hành lên đến 250.000 lượt nghe trên Spotify, Apple Music và YouTube."
+},
+  {
+  "slug": "beat-rnb-viet-nam-stems-wav-chat-luong-cao",
+  "title": "Beat R&B Việt Nam Kèm Stems WAV Tách Track (Phong Cách MCK & SpaceSpeakers)",
+  "description": "Instrumental R&B mượt mà và melodic trap hiện đại được cung cấp đầy đủ các track stem audio WAV 24-bit không nén để mixing chuyên nghiệp tại phòng thu ở Sài Gòn và Hà Nội.",
+  "targetKeywords": [
+    "beat rnb viet nam stems wav chat luong cao",
+    "mua beat rnb tach track stems",
+    "instrumental vpop rnb stems wav",
+    "mck spacespeakers style beat wav"
+  ],
+  "heroCta": "Tải Beat R&B + Stems WAV Tách Track",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Thu Âm Phòng Thu Chuyên Nghiệp, Sản Xuất Album/EP và Phát Hành Đĩa Đơn",
+  "similarArtists": [
+    "MCK",
+    "Wren Evans",
+    "SOOBIN",
+    "Touliver"
+  ],
+  "recommendedBpm": "92-100 BPM",
+  "productionTips": "Các track audio WAV 24-bit 48kHz riêng biệt có dán nhãn tempo và tone chính xác để import tức thì vào Pro Tools, Logic Pro và FL Studio.",
+  "idealVocalStyle": "Giọng hát R&B luyến láy mượt mà, lời tình yêu tiếng Việt ngọt ngào và giai điệu điệp khúc bắt tai.",
+  "suggestedKey": "La Giáng Trưởng / Fa Thứ",
+  "streamingSuitability": "Chuẩn âm lượng phát thanh thương mại sẵn sàng cho việc phân phối đĩa đơn lên các nền tảng streaming toàn cầu."
+},
+  {
+  "slug": "beat-drill-viet-nam-808-truot-16-typh",
+  "title": "Beat Drill Việt Nam với Bass 808 Trượt Căng Đét (Phong Cách 16 Typh & Đất Cảng)",
+  "description": "Instrumental drill đường phố Việt Nam với tiếng bass 808 trượt nhiều quãng tám, chuông minor lạnh lùng và snare đanh thép dành cho các rapper thi đấu và biểu diễn sân khấu.",
+  "targetKeywords": [
+    "beat drill viet nam 808 truot 16 typh",
+    "drill viet nam instrumental wav",
+    "mua beat drill hai phong 808 momo",
+    "16 typh style drill beat download"
+  ],
+  "heroCta": "Tải Beat Drill Việt Nam (Instant WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "Single Rap Chiến Đường Phố, Bài Thi Rap Việt và Video Âm Nhạc Năng Lượng Cao",
+  "similarArtists": [
+    "16 Typh",
+    "Gonzo",
+    "Tage",
+    "Dế Choắt"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Snare đanh thép với độ nảy transiente mạnh mẽ và khoảng trống tần số trung để vocal rap tốc độ cao phát huy tối đa.",
+  "idealVocalStyle": "Rima drill dồn dập, phong cách đường phố tự tin, nhịp flow chắc chắn và năng lượng bốc lửa.",
+  "suggestedKey": "Đô Thăng Thứ / Sol Thăng Thứ",
+  "streamingSuitability": "Rất được ưa chuộng trên các kênh hip-hop YouTube, sàn đấu Rap Việt và các playlist trap underground Việt Nam."
+},
+  {
+  "slug": "hop-dong-ban-quyen-beat-vcpmc-pdf-viet-nam",
+  "title": "Hợp Đồng Bản Quyền Beat Nhạc Việt Nam (Tuân Thủ VCPMC, COV & Luật Sở Hữu Trí Tuệ)",
+  "description": "Hợp đồng pháp lý sản xuất âm nhạc có giá trị pháp lý 100% tuân thủ Luật Sở hữu trí tuệ Việt Nam và đăng ký VCPMC với tải xuống tức thì file hợp đồng PDF có chữ ký sẵn và bản phân chia quyền tác giả (split sheet).",
+  "targetKeywords": [
+    "hop dong ban quyen beat vcpmc pdf viet nam",
+    "hop dong mua ban beat viet nam vcpmc",
+    "giay phep su dung beat rap viet nam",
+    "split sheet nhac si viet nam pdf"
+  ],
+  "heroCta": "Mua Beat Kèm Hợp Đồng VCPMC PDF",
+  "energyLevel": "Professional",
+  "primaryUse": "Đăng Ký Quyền Tác Giả Tại VCPMC/COV, Phát Hành Nhạc Lên Nền Tảng Streaming và Nhận Tiền Bản Quyền",
+  "similarArtists": [
+    "Nhạc Sĩ và Rapper Độc Lập Trực Thuộc VCPMC"
+  ],
+  "recommendedBpm": "Áp dụng cho mọi nhịp độ",
+  "productionTips": "Điều khoản pháp lý minh bạch: chia đều 50/50 quyền tác phẩm (publishing) và 100% quyền khai thác bản ghi (master) trong giới hạn phát hành.",
+  "idealVocalStyle": "Cực kỳ cần thiết cho bất kỳ nghệ sĩ độc lập nào có định hướng phát hành thương mại và bảo vệ bản quyền.",
+  "suggestedKey": "Chuẩn Pháp Lý Toàn Diện",
+  "streamingSuitability": "Bảo vệ pháp lý đầy đủ để phát hành nhạc trên Spotify, bật kiếm tiền YouTube Content ID và phát thanh truyền hình."
+},
+  {
+  "slug": "mua-beat-nhac-bang-momo-zalopay-vietqr-nhanh",
+  "title": "Mua Beat Bằng MoMo, ZaloPay & VietQR Tại Việt Nam (Tải Về Tức Thì Bằng Đồng VND)",
+  "description": "Phương thức tiện lợi và nhanh chóng nhất để sở hữu instrumental tại Việt Nam: quét mã QR qua Ví MoMo, ZaloPay hoặc app ngân hàng qua VietQR và nhận link tải file WAV cùng hợp đồng ngay lập tức.",
+  "targetKeywords": [
+    "mua beat nhac bang momo zalopay vietqr nhanh",
+    "mua beat rap quet ma momo",
+    "web ban beat viet nam thanh toan vietqr",
+    "beats trap viet nam chuyen khoan nhanh"
+  ],
+  "heroCta": "Mua Beat Bằng MoMo / VietQR Ngay",
+  "energyLevel": "Instant",
+  "primaryUse": "Mua Beat Nhanh Chóng Cho Các Buổi Thu Âm Khẩn Cấp Tại Sài Gòn, Hà Nội và Đà Nẵng",
+  "similarArtists": [
+    "Nghệ Sĩ Trẻ Tại Hà Nội, TP.HCM, Hải Phòng và Đà Nẵng"
+  ],
+  "recommendedBpm": "80-150 BPM",
+  "productionTips": "Hệ thống phân phối kỹ thuật số tự động qua server tốc độ cao gửi thẳng về email người mua.",
+  "idealVocalStyle": "Tương thích với mọi phong cách rap và hát tiếng Việt.",
+  "suggestedKey": "Đa Dạng Tonalities",
+  "streamingSuitability": "Tải về tức thì kèm giấy phép thương mại sẵn sàng cho việc phát hành toàn cầu."
+},
+  {
+  "slug": "combo-5-beat-lam-album-ep-giam-gia-40",
+  "title": "Combo 5 Beat Làm Album & EP Tại Việt Nam (Giảm Giá 40% Bằng Đồng VND)",
+  "description": "Tiết kiệm 40% khi mua gói bundle từ 5 đến 10 beat nhạc được phối hợp màu sắc âm thanh chặt chẽ để sản xuất EP, mixtape hoặc album đầy tay tại Việt Nam với giấy phép thương mại đồng nhất.",
+  "targetKeywords": [
+    "combo 5 beat lam album ep giam gia 40",
+    "bundle beat rap gia re viet nam",
+    "mua beat si hoan am saigon vnd",
+    "goi beat lam album giam gia 40"
+  ],
+  "heroCta": "Nhận Gói Beat Làm Album (Giảm 40%)",
+  "energyLevel": "Variable",
+  "primaryUse": "Sản Xuất Album Trọn Vẹn, Định Hình Bản Sắc Âm Nhạc và Kế Hoạch Ra Mắt Dài Hạn",
+  "similarArtists": [
+    "Các Nhóm Nhạc Hip-Hop Trẻ và Rapper Độc Lập Đang Phát Triển"
+  ],
+  "recommendedBpm": "85-144 BPM",
+  "productionTips": "Được tuyển chọn kỹ lưỡng về nhịp độ và hòa thanh để đảm bảo trải nghiệm nghe xuyên suốt cho cả album.",
+  "idealVocalStyle": "Không gian rộng mở để nghệ sĩ phô diễn toàn bộ kỹ năng viết lời và flow đa dạng.",
+  "suggestedKey": "Dải Hòa Thanh Đầy Đủ",
+  "streamingSuitability": "Giấy phép thương mại đồng nhất bảo vệ trọn vẹn tất cả các bài hát trong dự án của bạn."
+},
+  {
+  "slug": "nha-san-xuat-am-nhac-viet-nam-whatsapp-onzieb",
+  "title": "Nhà Sản Xuất Âm Nhạc Chuyên Nghiệp Cho Rapper Việt Nam (Tư Vấn Trực Tiếp WhatsApp Với Onzieb)",
+  "description": "Làm việc trực tiếp với producer Onzieb qua WhatsApp để đặt làm beat nhạc theo yêu cầu: đổi tone, tinh chỉnh cấu trúc, mixing multitrack và sản xuất độc quyền trap, R&B và dân gian đương đại.",
+  "targetKeywords": [
+    "nha san xuat am nhac viet nam whatsapp onzieb",
+    "onzieb producer beat viet nam",
+    "dat lam beat theo yeu cau whatsapp",
+    "lien he beatmaker viet nam online"
+  ],
+  "heroCta": "Nhắn Tin Với Onzieb Qua WhatsApp",
+  "energyLevel": "Custom",
+  "primaryUse": "Sản Xuất Độc Quyền Theo Yêu Cầu, Định Hình Bản Sắc Âm Nhạc và Đĩa Đơn Chủ Đạo",
+  "similarArtists": [
+    "Onzieb",
+    "Các Producer Hàng Đầu Việt Nam"
+  ],
+  "recommendedBpm": "Được tinh chỉnh chính xác theo nhịp thở và flow tự nhiên của nghệ sĩ",
+  "productionTips": "Trao đổi linh hoạt qua tin nhắn thoại WhatsApp và file stem để hoàn thiện bản phối theo thời gian thực.",
+  "idealVocalStyle": "Được thiết kế riêng để tôn vinh chất giọng và cá tính âm nhạc độc nhất của người thể hiện.",
+  "suggestedKey": "Tone Nhạc Tùy Chỉnh Theo Quãng Giọng",
+  "streamingSuitability": "Tùy chọn chuyển nhượng độc quyền 100% quyền bản ghi cho việc khai thác thương mại không giới hạn."
+},
+  {
+  "slug": "beat-dan-tranh-etnik-trap-viet-nam-wav",
+  "title": "Beat Đàn Tranh & Đàn Bầu Trap Dân Gian Đương Đại (Âm Hưởng Hùng Thiêng & Bass 808)",
+  "description": "Sự kết hợp hào hùng giữa nhạc cụ dân tộc truyền thống Việt Nam (Đàn Tranh, Đàn Bầu) với nhịp trap 808 hiện đại, mang đến màu sắc âm nhạc độc đáo vươn tầm quốc tế.",
+  "targetKeywords": [
+    "beat dan tranh etnik trap viet nam wav",
+    "beat trap nhac cu dan toc viet nam",
+    "dan tranh rap instrumental download",
+    "ethnic vietnamese trap beat 808"
+  ],
+  "heroCta": "Khám Phá Beat Đàn Tranh Trap Dân Gian",
+  "energyLevel": "High",
+  "primaryUse": "Tác Phẩm Âm Nhạc Mang Bản Sắc Dân Tộc, Trình Diễn Rap Việt và Video Âm Nhạc Lịch Sử",
+  "similarArtists": [
+    "Phương Mỹ Chi",
+    "Hoàng Thùy Linh",
+    "DTAP",
+    "Masew"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "productionTips": "Tiếng đàn tranh thật được thu âm với không gian stereo rộng trên nền sub-bass 808 vững chắc.",
+  "idealVocalStyle": "Lời ca đậm chất sử thi, niềm tự hào dân tộc, giọng hát hào sảng hoặc rap nhanh với kỹ thuật nhả chữ điêu luyện.",
+  "suggestedKey": "Thang Âm Ngũ Cung (Tương đương Rê Thứ / Sol Thứ)",
+  "streamingSuitability": "Lan tỏa mạnh mẽ trên YouTube Việt Nam, các chương trình truyền hình văn hóa và lễ hội âm nhạc."
+},
+  {
+  "slug": "beat-boombap-viet-nam-chill-den-vau",
+  "title": "Beat Boom Bap & Chillhop Mộc Mạc Việt Nam (Phong Cách Đen Vâu & Guitar Thùng)",
+  "description": "Instrumental boom bap mộc mạc và chân thành với tiếng đàn guitar nylon ấm áp, nhịp trống analog cổ điển và bass trầm dành cho các rapper ưa chuộng lột tả chiều sâu tâm trạng.",
+  "targetKeywords": [
+    "beat boombap viet nam chill den vau",
+    "beat rap den vau guitar thung",
+    "instrumental rap tu su viet nam",
+    "chillhop viet nam instrumental wav"
+  ],
+  "heroCta": "Lắng Nghe Beat Boom Bap Mộc Mạc",
+  "energyLevel": "Medium",
+  "primaryUse": "Bài Rap Tự Sự, Thơ Ca Đường Phố và Đĩa Đơn Truyền Cảm Hứng",
+  "similarArtists": [
+    "Đen Vâu",
+    "Vũ.",
+    "JustaTee",
+    "Lynk Lee"
+  ],
+  "recommendedBpm": "80-86 BPM",
+  "productionTips": "Tiếng guitar mộc được thu bằng mic condenser đèn cùng tiếng snare ấm áp và tiếng đĩa than xì xào hoài niệm.",
+  "idealVocalStyle": "Giọng đọc trầm ấm, ca từ giàu chất thơ và triết lý sống chân thật.",
+  "suggestedKey": "Sol Trưởng / Mi Thứ",
+  "streamingSuitability": "Lý tưởng cho người yêu thích hip-hop tự sự, các buổi acoustic live session và playlist thư giãn."
+},
+  {
+  "slug": "drum-kit-rap-viet-nam-mien-phi-wav-download",
+  "title": "Drum Kit Rap Việt Nam Miễn Phí (Sample WAV 24-Bit, 808s, Đàn Tranh Hits & Drill Snares)",
+  "description": "Tải miễn phí gói âm thanh độc quyền cho nhà sản xuất âm nhạc Việt Nam: 30 bass 808 chuẩn cao độ, tiếng gảy đàn tranh, snare drill đanh thép và hi-hat hiện đại định dạng WAV 24-bit phòng thu.",
+  "targetKeywords": [
+    "drum kit rap viet nam mien phi wav download",
+    "bo sample trap viet nam mien phi fl studio",
+    "sample dan tranh wav download",
+    "sample 808 mien phi rap viet"
+  ],
+  "heroCta": "Tải Drum Kit Việt Nam Miễn Phí (ZIP)",
+  "energyLevel": "High",
+  "primaryUse": "Sản Xuất Âm Nhạc Tại Home Studio, Làm Beat Trên FL Studio, Ableton Live và Logic Pro",
+  "similarArtists": [
+    "Các Beatmaker Độc Lập Việt Nam",
+    "Nhà Sản Xuất Phòng Ngủ Trẻ"
+  ],
+  "recommendedBpm": "Tương thích với mọi nhịp độ từ 80 đến 160 BPM",
+  "productionTips": "Sample one-shot 100% miễn phí bản quyền đã qua xử lý cân bằng tần số kỹ lưỡng.",
+  "idealVocalStyle": "Nền tảng nhịp điệu vững chắc để tạo nên những con beat chuyên nghiệp mang âm hưởng Việt Nam.",
+  "suggestedKey": "Chuẩn hóa ở nốt C để dễ dàng chuyển tone trên mọi sampler",
+  "streamingSuitability": "Hoàn toàn miễn phí bản quyền (Royalty-Free) phục vụ phát hành thương mại và kinh doanh beat."
+},
+  {
+  "slug": "saigon-thao-dien-v-pop-rnb-trap-slowjam",
+  "name": "TP.HCM (Quận 1) V-Pop R&B-Trap Slow Jam Beats",
+  "badge": "V-Pop R&B",
+  "headline": "V-Pop R&B-Trap Slow Jam Beats tại TP.HCM (Quận 1): Trung Tâm Sài Gòn & Sleek R&B",
+  "description": "Pianos Rhodes ấm áp, đệm vocal pad mượt mà và bass sub tròn trịa với thanh toán MoMo tức thì cho ca sĩ tại TP.HCM (Quận 1).",
+  "targetKeywords": [
+    "v-pop r&b-trap slow jam beats tp.hcm (quận 1)",
+    "mua beat tp.hcm (quận 1) momo",
+    "beat v-pop r&b viet nam",
+    "beats tai tp.hcm (quận 1) wav download"
+  ],
+  "heroCta": "Tải Beat Tại TP.HCM (Quận 1) (MoMo / WAV)",
+  "recommendedBpm": "90-96 BPM",
+  "suggestedKey": "La-Giáng-Trưởng / Fa-Thứ",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Vietnam",
+  "sceneHub": "TP.HCM (Quận 1)"
+},
+  {
+  "slug": "saigon-thao-dien-dan-tranh-ethnic-trap-808",
+  "name": "TP.HCM (Quận 1) Đàn Tranh Ethnic Trap 808 Beats",
+  "badge": "Đàn Tranh Trap",
+  "headline": "Đàn Tranh Ethnic Trap 808 Beats tại TP.HCM (Quận 1): Trung Tâm Sài Gòn & Sleek R&B",
+  "description": "Tiếng gảy đàn tranh réo rắt, bass 808 trượt uy lực và nhịp trap dồn dập cho nghệ sĩ tại TP.HCM (Quận 1).",
+  "targetKeywords": [
+    "đàn tranh ethnic trap 808 beats tp.hcm (quận 1)",
+    "mua beat tp.hcm (quận 1) momo",
+    "beat đàn tranh trap viet nam",
+    "beats tai tp.hcm (quận 1) wav download"
+  ],
+  "heroCta": "Tải Beat Tại TP.HCM (Quận 1) (MoMo / WAV)",
+  "recommendedBpm": "130-136 BPM",
+  "suggestedKey": "Rê-Thứ / Sol-Thứ",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Vietnam",
+  "sceneHub": "TP.HCM (Quận 1)"
+},
+  {
+  "slug": "saigon-thao-dien-viet-street-drill-808",
+  "name": "TP.HCM (Quận 1) Việt Street Drill 808 Beats",
+  "badge": "Việt Drill",
+  "headline": "Việt Street Drill 808 Beats tại TP.HCM (Quận 1): Trung Tâm Sài Gòn & Sleek R&B",
+  "description": "Chuông minor lạnh lùng, hi-hat dồn dập và tiếng bass 808 xé gió dành cho các rapper đường phố tại TP.HCM (Quận 1).",
+  "targetKeywords": [
+    "việt street drill 808 beats tp.hcm (quận 1)",
+    "mua beat tp.hcm (quận 1) momo",
+    "beat việt drill viet nam",
+    "beats tai tp.hcm (quận 1) wav download"
+  ],
+  "heroCta": "Tải Beat Tại TP.HCM (Quận 1) (MoMo / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "Đô#-Thứ / Sol#-Thứ",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Vietnam",
+  "sceneHub": "TP.HCM (Quận 1)"
+},
+  {
+  "slug": "saigon-thao-dien-acoustic-chillhop-triet-ly",
+  "name": "TP.HCM (Quận 1) Acoustic Chillhop Triết Lý Beats",
+  "badge": "Acoustic Chillhop",
+  "headline": "Acoustic Chillhop Triết Lý Beats tại TP.HCM (Quận 1): Trung Tâm Sài Gòn & Sleek R&B",
+  "description": "Tiếng guitar nylon rải mộc mạc, nhịp trống boom bap đĩa than ấm áp cho những bản rap tự sự tại TP.HCM (Quận 1).",
+  "targetKeywords": [
+    "acoustic chillhop triết lý beats tp.hcm (quận 1)",
+    "mua beat tp.hcm (quận 1) momo",
+    "beat acoustic chillhop viet nam",
+    "beats tai tp.hcm (quận 1) wav download"
+  ],
+  "heroCta": "Tải Beat Tại TP.HCM (Quận 1) (MoMo / WAV)",
+  "recommendedBpm": "80-86 BPM",
+  "suggestedKey": "Sol-Trưởng / Mi-Thứ",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Vietnam",
+  "sceneHub": "TP.HCM (Quận 1)"
+},
+  {
+  "slug": "hanoi-hoankiem-v-pop-rnb-trap-slowjam",
+  "name": "Hà Nội (Hoàn Kiếm) V-Pop R&B-Trap Slow Jam Beats",
+  "badge": "V-Pop R&B",
+  "headline": "V-Pop R&B-Trap Slow Jam Beats tại Hà Nội (Hoàn Kiếm): Hoàn Kiếm & Lofi Phố Cổ Hà Nội",
+  "description": "Pianos Rhodes ấm áp, đệm vocal pad mượt mà và bass sub tròn trịa với thanh toán MoMo tức thì cho ca sĩ tại Hà Nội (Hoàn Kiếm).",
+  "targetKeywords": [
+    "v-pop r&b-trap slow jam beats hà nội (hoàn kiếm)",
+    "mua beat hà nội (hoàn kiếm) momo",
+    "beat v-pop r&b viet nam",
+    "beats tai hà nội (hoàn kiếm) wav download"
+  ],
+  "heroCta": "Tải Beat Tại Hà Nội (Hoàn Kiếm) (MoMo / WAV)",
+  "recommendedBpm": "90-96 BPM",
+  "suggestedKey": "La-Giáng-Trưởng / Fa-Thứ",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Vietnam",
+  "sceneHub": "Hà Nội (Hoàn Kiếm)"
+},
+  {
+  "slug": "hanoi-hoankiem-dan-tranh-ethnic-trap-808",
+  "name": "Hà Nội (Hoàn Kiếm) Đàn Tranh Ethnic Trap 808 Beats",
+  "badge": "Đàn Tranh Trap",
+  "headline": "Đàn Tranh Ethnic Trap 808 Beats tại Hà Nội (Hoàn Kiếm): Hoàn Kiếm & Lofi Phố Cổ Hà Nội",
+  "description": "Tiếng gảy đàn tranh réo rắt, bass 808 trượt uy lực và nhịp trap dồn dập cho nghệ sĩ tại Hà Nội (Hoàn Kiếm).",
+  "targetKeywords": [
+    "đàn tranh ethnic trap 808 beats hà nội (hoàn kiếm)",
+    "mua beat hà nội (hoàn kiếm) momo",
+    "beat đàn tranh trap viet nam",
+    "beats tai hà nội (hoàn kiếm) wav download"
+  ],
+  "heroCta": "Tải Beat Tại Hà Nội (Hoàn Kiếm) (MoMo / WAV)",
+  "recommendedBpm": "130-136 BPM",
+  "suggestedKey": "Rê-Thứ / Sol-Thứ",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Vietnam",
+  "sceneHub": "Hà Nội (Hoàn Kiếm)"
+},
+  {
+  "slug": "hanoi-hoankiem-viet-street-drill-808",
+  "name": "Hà Nội (Hoàn Kiếm) Việt Street Drill 808 Beats",
+  "badge": "Việt Drill",
+  "headline": "Việt Street Drill 808 Beats tại Hà Nội (Hoàn Kiếm): Hoàn Kiếm & Lofi Phố Cổ Hà Nội",
+  "description": "Chuông minor lạnh lùng, hi-hat dồn dập và tiếng bass 808 xé gió dành cho các rapper đường phố tại Hà Nội (Hoàn Kiếm).",
+  "targetKeywords": [
+    "việt street drill 808 beats hà nội (hoàn kiếm)",
+    "mua beat hà nội (hoàn kiếm) momo",
+    "beat việt drill viet nam",
+    "beats tai hà nội (hoàn kiếm) wav download"
+  ],
+  "heroCta": "Tải Beat Tại Hà Nội (Hoàn Kiếm) (MoMo / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "Đô#-Thứ / Sol#-Thứ",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Vietnam",
+  "sceneHub": "Hà Nội (Hoàn Kiếm)"
+},
+  {
+  "slug": "hanoi-hoankiem-acoustic-chillhop-triet-ly",
+  "name": "Hà Nội (Hoàn Kiếm) Acoustic Chillhop Triết Lý Beats",
+  "badge": "Acoustic Chillhop",
+  "headline": "Acoustic Chillhop Triết Lý Beats tại Hà Nội (Hoàn Kiếm): Hoàn Kiếm & Lofi Phố Cổ Hà Nội",
+  "description": "Tiếng guitar nylon rải mộc mạc, nhịp trống boom bap đĩa than ấm áp cho những bản rap tự sự tại Hà Nội (Hoàn Kiếm).",
+  "targetKeywords": [
+    "acoustic chillhop triết lý beats hà nội (hoàn kiếm)",
+    "mua beat hà nội (hoàn kiếm) momo",
+    "beat acoustic chillhop viet nam",
+    "beats tai hà nội (hoàn kiếm) wav download"
+  ],
+  "heroCta": "Tải Beat Tại Hà Nội (Hoàn Kiếm) (MoMo / WAV)",
+  "recommendedBpm": "80-86 BPM",
+  "suggestedKey": "Sol-Trưởng / Mi-Thứ",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Vietnam",
+  "sceneHub": "Hà Nội (Hoàn Kiếm)"
+},
+  {
+  "slug": "hanoi-caugiay-v-pop-rnb-trap-slowjam",
+  "name": "Hà Nội (Cầu Giấy) V-Pop R&B-Trap Slow Jam Beats",
+  "badge": "V-Pop R&B",
+  "headline": "V-Pop R&B-Trap Slow Jam Beats tại Hà Nội (Cầu Giấy): Cầu Giấy & Rap Việt Trap 808",
+  "description": "Pianos Rhodes ấm áp, đệm vocal pad mượt mà và bass sub tròn trịa với thanh toán MoMo tức thì cho ca sĩ tại Hà Nội (Cầu Giấy).",
+  "targetKeywords": [
+    "v-pop r&b-trap slow jam beats hà nội (cầu giấy)",
+    "mua beat hà nội (cầu giấy) momo",
+    "beat v-pop r&b viet nam",
+    "beats tai hà nội (cầu giấy) wav download"
+  ],
+  "heroCta": "Tải Beat Tại Hà Nội (Cầu Giấy) (MoMo / WAV)",
+  "recommendedBpm": "90-96 BPM",
+  "suggestedKey": "La-Giáng-Trưởng / Fa-Thứ",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Vietnam",
+  "sceneHub": "Hà Nội (Cầu Giấy)"
+},
+  {
+  "slug": "hanoi-caugiay-dan-tranh-ethnic-trap-808",
+  "name": "Hà Nội (Cầu Giấy) Đàn Tranh Ethnic Trap 808 Beats",
+  "badge": "Đàn Tranh Trap",
+  "headline": "Đàn Tranh Ethnic Trap 808 Beats tại Hà Nội (Cầu Giấy): Cầu Giấy & Rap Việt Trap 808",
+  "description": "Tiếng gảy đàn tranh réo rắt, bass 808 trượt uy lực và nhịp trap dồn dập cho nghệ sĩ tại Hà Nội (Cầu Giấy).",
+  "targetKeywords": [
+    "đàn tranh ethnic trap 808 beats hà nội (cầu giấy)",
+    "mua beat hà nội (cầu giấy) momo",
+    "beat đàn tranh trap viet nam",
+    "beats tai hà nội (cầu giấy) wav download"
+  ],
+  "heroCta": "Tải Beat Tại Hà Nội (Cầu Giấy) (MoMo / WAV)",
+  "recommendedBpm": "130-136 BPM",
+  "suggestedKey": "Rê-Thứ / Sol-Thứ",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Vietnam",
+  "sceneHub": "Hà Nội (Cầu Giấy)"
+},
+  {
+  "slug": "hanoi-caugiay-viet-street-drill-808",
+  "name": "Hà Nội (Cầu Giấy) Việt Street Drill 808 Beats",
+  "badge": "Việt Drill",
+  "headline": "Việt Street Drill 808 Beats tại Hà Nội (Cầu Giấy): Cầu Giấy & Rap Việt Trap 808",
+  "description": "Chuông minor lạnh lùng, hi-hat dồn dập và tiếng bass 808 xé gió dành cho các rapper đường phố tại Hà Nội (Cầu Giấy).",
+  "targetKeywords": [
+    "việt street drill 808 beats hà nội (cầu giấy)",
+    "mua beat hà nội (cầu giấy) momo",
+    "beat việt drill viet nam",
+    "beats tai hà nội (cầu giấy) wav download"
+  ],
+  "heroCta": "Tải Beat Tại Hà Nội (Cầu Giấy) (MoMo / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "Đô#-Thứ / Sol#-Thứ",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Vietnam",
+  "sceneHub": "Hà Nội (Cầu Giấy)"
+},
+  {
+  "slug": "hanoi-caugiay-acoustic-chillhop-triet-ly",
+  "name": "Hà Nội (Cầu Giấy) Acoustic Chillhop Triết Lý Beats",
+  "badge": "Acoustic Chillhop",
+  "headline": "Acoustic Chillhop Triết Lý Beats tại Hà Nội (Cầu Giấy): Cầu Giấy & Rap Việt Trap 808",
+  "description": "Tiếng guitar nylon rải mộc mạc, nhịp trống boom bap đĩa than ấm áp cho những bản rap tự sự tại Hà Nội (Cầu Giấy).",
+  "targetKeywords": [
+    "acoustic chillhop triết lý beats hà nội (cầu giấy)",
+    "mua beat hà nội (cầu giấy) momo",
+    "beat acoustic chillhop viet nam",
+    "beats tai hà nội (cầu giấy) wav download"
+  ],
+  "heroCta": "Tải Beat Tại Hà Nội (Cầu Giấy) (MoMo / WAV)",
+  "recommendedBpm": "80-86 BPM",
+  "suggestedKey": "Sol-Trưởng / Mi-Thứ",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Vietnam",
+  "sceneHub": "Hà Nội (Cầu Giấy)"
+},
+  {
+  "slug": "da-nang-haichau-v-pop-rnb-trap-slowjam",
+  "name": "Đà Nẵng (Hải Châu) V-Pop R&B-Trap Slow Jam Beats",
+  "badge": "V-Pop R&B",
+  "headline": "V-Pop R&B-Trap Slow Jam Beats tại Đà Nẵng (Hải Châu): Đà Nẵng & Trap Gió Biển",
+  "description": "Pianos Rhodes ấm áp, đệm vocal pad mượt mà và bass sub tròn trịa với thanh toán MoMo tức thì cho ca sĩ tại Đà Nẵng (Hải Châu).",
+  "targetKeywords": [
+    "v-pop r&b-trap slow jam beats đà nẵng (hải châu)",
+    "mua beat đà nẵng (hải châu) momo",
+    "beat v-pop r&b viet nam",
+    "beats tai đà nẵng (hải châu) wav download"
+  ],
+  "heroCta": "Tải Beat Tại Đà Nẵng (Hải Châu) (MoMo / WAV)",
+  "recommendedBpm": "90-96 BPM",
+  "suggestedKey": "La-Giáng-Trưởng / Fa-Thứ",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Vietnam",
+  "sceneHub": "Đà Nẵng (Hải Châu)"
+},
+  {
+  "slug": "da-nang-haichau-dan-tranh-ethnic-trap-808",
+  "name": "Đà Nẵng (Hải Châu) Đàn Tranh Ethnic Trap 808 Beats",
+  "badge": "Đàn Tranh Trap",
+  "headline": "Đàn Tranh Ethnic Trap 808 Beats tại Đà Nẵng (Hải Châu): Đà Nẵng & Trap Gió Biển",
+  "description": "Tiếng gảy đàn tranh réo rắt, bass 808 trượt uy lực và nhịp trap dồn dập cho nghệ sĩ tại Đà Nẵng (Hải Châu).",
+  "targetKeywords": [
+    "đàn tranh ethnic trap 808 beats đà nẵng (hải châu)",
+    "mua beat đà nẵng (hải châu) momo",
+    "beat đàn tranh trap viet nam",
+    "beats tai đà nẵng (hải châu) wav download"
+  ],
+  "heroCta": "Tải Beat Tại Đà Nẵng (Hải Châu) (MoMo / WAV)",
+  "recommendedBpm": "130-136 BPM",
+  "suggestedKey": "Rê-Thứ / Sol-Thứ",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Vietnam",
+  "sceneHub": "Đà Nẵng (Hải Châu)"
+},
+  {
+  "slug": "da-nang-haichau-viet-street-drill-808",
+  "name": "Đà Nẵng (Hải Châu) Việt Street Drill 808 Beats",
+  "badge": "Việt Drill",
+  "headline": "Việt Street Drill 808 Beats tại Đà Nẵng (Hải Châu): Đà Nẵng & Trap Gió Biển",
+  "description": "Chuông minor lạnh lùng, hi-hat dồn dập và tiếng bass 808 xé gió dành cho các rapper đường phố tại Đà Nẵng (Hải Châu).",
+  "targetKeywords": [
+    "việt street drill 808 beats đà nẵng (hải châu)",
+    "mua beat đà nẵng (hải châu) momo",
+    "beat việt drill viet nam",
+    "beats tai đà nẵng (hải châu) wav download"
+  ],
+  "heroCta": "Tải Beat Tại Đà Nẵng (Hải Châu) (MoMo / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "Đô#-Thứ / Sol#-Thứ",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Vietnam",
+  "sceneHub": "Đà Nẵng (Hải Châu)"
+},
+  {
+  "slug": "da-nang-haichau-acoustic-chillhop-triet-ly",
+  "name": "Đà Nẵng (Hải Châu) Acoustic Chillhop Triết Lý Beats",
+  "badge": "Acoustic Chillhop",
+  "headline": "Acoustic Chillhop Triết Lý Beats tại Đà Nẵng (Hải Châu): Đà Nẵng & Trap Gió Biển",
+  "description": "Tiếng guitar nylon rải mộc mạc, nhịp trống boom bap đĩa than ấm áp cho những bản rap tự sự tại Đà Nẵng (Hải Châu).",
+  "targetKeywords": [
+    "acoustic chillhop triết lý beats đà nẵng (hải châu)",
+    "mua beat đà nẵng (hải châu) momo",
+    "beat acoustic chillhop viet nam",
+    "beats tai đà nẵng (hải châu) wav download"
+  ],
+  "heroCta": "Tải Beat Tại Đà Nẵng (Hải Châu) (MoMo / WAV)",
+  "recommendedBpm": "80-86 BPM",
+  "suggestedKey": "Sol-Trưởng / Mi-Thứ",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Vietnam",
+  "sceneHub": "Đà Nẵng (Hải Châu)"
+},
+  {
+  "slug": "hai-phong-datcang-v-pop-rnb-trap-slowjam",
+  "name": "Hải Phòng (Đất Cảng) V-Pop R&B-Trap Slow Jam Beats",
+  "badge": "V-Pop R&B",
+  "headline": "V-Pop R&B-Trap Slow Jam Beats tại Hải Phòng (Đất Cảng): Hải Phòng & Drill Đất Cảng Cực Căng",
+  "description": "Pianos Rhodes ấm áp, đệm vocal pad mượt mà và bass sub tròn trịa với thanh toán MoMo tức thì cho ca sĩ tại Hải Phòng (Đất Cảng).",
+  "targetKeywords": [
+    "v-pop r&b-trap slow jam beats hải phòng (đất cảng)",
+    "mua beat hải phòng (đất cảng) momo",
+    "beat v-pop r&b viet nam",
+    "beats tai hải phòng (đất cảng) wav download"
+  ],
+  "heroCta": "Tải Beat Tại Hải Phòng (Đất Cảng) (MoMo / WAV)",
+  "recommendedBpm": "90-96 BPM",
+  "suggestedKey": "La-Giáng-Trưởng / Fa-Thứ",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Vietnam",
+  "sceneHub": "Hải Phòng (Đất Cảng)"
+},
+  {
+  "slug": "hai-phong-datcang-dan-tranh-ethnic-trap-808",
+  "name": "Hải Phòng (Đất Cảng) Đàn Tranh Ethnic Trap 808 Beats",
+  "badge": "Đàn Tranh Trap",
+  "headline": "Đàn Tranh Ethnic Trap 808 Beats tại Hải Phòng (Đất Cảng): Hải Phòng & Drill Đất Cảng Cực Căng",
+  "description": "Tiếng gảy đàn tranh réo rắt, bass 808 trượt uy lực và nhịp trap dồn dập cho nghệ sĩ tại Hải Phòng (Đất Cảng).",
+  "targetKeywords": [
+    "đàn tranh ethnic trap 808 beats hải phòng (đất cảng)",
+    "mua beat hải phòng (đất cảng) momo",
+    "beat đàn tranh trap viet nam",
+    "beats tai hải phòng (đất cảng) wav download"
+  ],
+  "heroCta": "Tải Beat Tại Hải Phòng (Đất Cảng) (MoMo / WAV)",
+  "recommendedBpm": "130-136 BPM",
+  "suggestedKey": "Rê-Thứ / Sol-Thứ",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Vietnam",
+  "sceneHub": "Hải Phòng (Đất Cảng)"
+},
+  {
+  "slug": "hai-phong-datcang-viet-street-drill-808",
+  "name": "Hải Phòng (Đất Cảng) Việt Street Drill 808 Beats",
+  "badge": "Việt Drill",
+  "headline": "Việt Street Drill 808 Beats tại Hải Phòng (Đất Cảng): Hải Phòng & Drill Đất Cảng Cực Căng",
+  "description": "Chuông minor lạnh lùng, hi-hat dồn dập và tiếng bass 808 xé gió dành cho các rapper đường phố tại Hải Phòng (Đất Cảng).",
+  "targetKeywords": [
+    "việt street drill 808 beats hải phòng (đất cảng)",
+    "mua beat hải phòng (đất cảng) momo",
+    "beat việt drill viet nam",
+    "beats tai hải phòng (đất cảng) wav download"
+  ],
+  "heroCta": "Tải Beat Tại Hải Phòng (Đất Cảng) (MoMo / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "Đô#-Thứ / Sol#-Thứ",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Vietnam",
+  "sceneHub": "Hải Phòng (Đất Cảng)"
+},
+  {
+  "slug": "hai-phong-datcang-acoustic-chillhop-triet-ly",
+  "name": "Hải Phòng (Đất Cảng) Acoustic Chillhop Triết Lý Beats",
+  "badge": "Acoustic Chillhop",
+  "headline": "Acoustic Chillhop Triết Lý Beats tại Hải Phòng (Đất Cảng): Hải Phòng & Drill Đất Cảng Cực Căng",
+  "description": "Tiếng guitar nylon rải mộc mạc, nhịp trống boom bap đĩa than ấm áp cho những bản rap tự sự tại Hải Phòng (Đất Cảng).",
+  "targetKeywords": [
+    "acoustic chillhop triết lý beats hải phòng (đất cảng)",
+    "mua beat hải phòng (đất cảng) momo",
+    "beat acoustic chillhop viet nam",
+    "beats tai hải phòng (đất cảng) wav download"
+  ],
+  "heroCta": "Tải Beat Tại Hải Phòng (Đất Cảng) (MoMo / WAV)",
+  "recommendedBpm": "80-86 BPM",
+  "suggestedKey": "Sol-Trưởng / Mi-Thứ",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Vietnam",
+  "sceneHub": "Hải Phòng (Đất Cảng)"
+},
+  {
+  "slug": "can-tho-ninhkieu-v-pop-rnb-trap-slowjam",
+  "name": "Cần Thơ (Ninh Kiều) V-Pop R&B-Trap Slow Jam Beats",
+  "badge": "V-Pop R&B",
+  "headline": "V-Pop R&B-Trap Slow Jam Beats tại Cần Thơ (Ninh Kiều): Cần Thơ & Miền Tây Đàn Kìm Trap",
+  "description": "Pianos Rhodes ấm áp, đệm vocal pad mượt mà và bass sub tròn trịa với thanh toán MoMo tức thì cho ca sĩ tại Cần Thơ (Ninh Kiều).",
+  "targetKeywords": [
+    "v-pop r&b-trap slow jam beats cần thơ (ninh kiều)",
+    "mua beat cần thơ (ninh kiều) momo",
+    "beat v-pop r&b viet nam",
+    "beats tai cần thơ (ninh kiều) wav download"
+  ],
+  "heroCta": "Tải Beat Tại Cần Thơ (Ninh Kiều) (MoMo / WAV)",
+  "recommendedBpm": "90-96 BPM",
+  "suggestedKey": "La-Giáng-Trưởng / Fa-Thứ",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Vietnam",
+  "sceneHub": "Cần Thơ (Ninh Kiều)"
+},
+  {
+  "slug": "can-tho-ninhkieu-dan-tranh-ethnic-trap-808",
+  "name": "Cần Thơ (Ninh Kiều) Đàn Tranh Ethnic Trap 808 Beats",
+  "badge": "Đàn Tranh Trap",
+  "headline": "Đàn Tranh Ethnic Trap 808 Beats tại Cần Thơ (Ninh Kiều): Cần Thơ & Miền Tây Đàn Kìm Trap",
+  "description": "Tiếng gảy đàn tranh réo rắt, bass 808 trượt uy lực và nhịp trap dồn dập cho nghệ sĩ tại Cần Thơ (Ninh Kiều).",
+  "targetKeywords": [
+    "đàn tranh ethnic trap 808 beats cần thơ (ninh kiều)",
+    "mua beat cần thơ (ninh kiều) momo",
+    "beat đàn tranh trap viet nam",
+    "beats tai cần thơ (ninh kiều) wav download"
+  ],
+  "heroCta": "Tải Beat Tại Cần Thơ (Ninh Kiều) (MoMo / WAV)",
+  "recommendedBpm": "130-136 BPM",
+  "suggestedKey": "Rê-Thứ / Sol-Thứ",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Vietnam",
+  "sceneHub": "Cần Thơ (Ninh Kiều)"
+},
+  {
+  "slug": "can-tho-ninhkieu-viet-street-drill-808",
+  "name": "Cần Thơ (Ninh Kiều) Việt Street Drill 808 Beats",
+  "badge": "Việt Drill",
+  "headline": "Việt Street Drill 808 Beats tại Cần Thơ (Ninh Kiều): Cần Thơ & Miền Tây Đàn Kìm Trap",
+  "description": "Chuông minor lạnh lùng, hi-hat dồn dập và tiếng bass 808 xé gió dành cho các rapper đường phố tại Cần Thơ (Ninh Kiều).",
+  "targetKeywords": [
+    "việt street drill 808 beats cần thơ (ninh kiều)",
+    "mua beat cần thơ (ninh kiều) momo",
+    "beat việt drill viet nam",
+    "beats tai cần thơ (ninh kiều) wav download"
+  ],
+  "heroCta": "Tải Beat Tại Cần Thơ (Ninh Kiều) (MoMo / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "Đô#-Thứ / Sol#-Thứ",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Vietnam",
+  "sceneHub": "Cần Thơ (Ninh Kiều)"
+},
+  {
+  "slug": "can-tho-ninhkieu-acoustic-chillhop-triet-ly",
+  "name": "Cần Thơ (Ninh Kiều) Acoustic Chillhop Triết Lý Beats",
+  "badge": "Acoustic Chillhop",
+  "headline": "Acoustic Chillhop Triết Lý Beats tại Cần Thơ (Ninh Kiều): Cần Thơ & Miền Tây Đàn Kìm Trap",
+  "description": "Tiếng guitar nylon rải mộc mạc, nhịp trống boom bap đĩa than ấm áp cho những bản rap tự sự tại Cần Thơ (Ninh Kiều).",
+  "targetKeywords": [
+    "acoustic chillhop triết lý beats cần thơ (ninh kiều)",
+    "mua beat cần thơ (ninh kiều) momo",
+    "beat acoustic chillhop viet nam",
+    "beats tai cần thơ (ninh kiều) wav download"
+  ],
+  "heroCta": "Tải Beat Tại Cần Thơ (Ninh Kiều) (MoMo / WAV)",
+  "recommendedBpm": "80-86 BPM",
+  "suggestedKey": "Sol-Trưởng / Mi-Thứ",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Vietnam",
+  "sceneHub": "Cần Thơ (Ninh Kiều)"
+},
 ];
