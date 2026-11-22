@@ -45808,4 +45808,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "jm/kingston-havendale-red-hills": {
+  "slug": "jm/kingston-havendale-red-hills",
+  "name": "Jamaica – Kingston: Havendale, Red Hills & Meadowbrook (Uptown Hills, Studio Elite Production, Melodic R&B-Dancehall & Island Pop)",
+  "flag": "🇯🇲",
+  "currency": "JMD ($) / USD ($)",
+  "currencyCode": "JMD",
+  "gateways": "Lynk (NCB Digital Wallet), NCB / Scotiabank Online Transfer, Credit/Debit Cards, Apple Pay, PayPal, Stripe",
+  "pro": "JACAP / JAMMS",
+  "proFullName": "JACAP (Jamaica Association of Composers, Authors and Publishers) / JAMMS",
+  "proGuide": "100% compliant with the Jamaica Copyright Act 1993 and JACAP / JAMMS registration with instant downloadable signed licensing contract and split sheet PDF.",
+  "headline": "Beats in Havendale & Red Hills: Uptown Kingston Breezes, Lush Rhodes Pianos & Sleek Island Pop",
+  "description": "The elite studio standard of Uptown Kingston: warm Fender Rhodes chords, radio-ready melodies, and modern drums designed for international crossover dancehall and R&B artists.",
+  "popularGenres": [
+    "Uptown Island Pop",
+    "Melodic Dancehall R&B",
+    "Red Hills Chill Trap"
+  ],
+  "subClusters": []
+},
+  "jm/kingston-waterhouse-olympic": {
+  "slug": "jm/kingston-waterhouse-olympic",
+  "name": "Jamaica – Kingston: Waterhouse, Olympic Gardens & Cockburn Pen (King Jammy's Digital Foundation, Sleng Teng Roots & Sound Clash Energy)",
+  "flag": "🇯🇲",
+  "currency": "JMD ($) / USD ($)",
+  "currencyCode": "JMD",
+  "gateways": "Lynk (NCB Digital Wallet), NCB / Scotiabank Online Transfer, Credit/Debit Cards, Apple Pay, PayPal, Stripe",
+  "pro": "JACAP / JAMMS",
+  "proFullName": "JACAP / JAMMS",
+  "proGuide": "Uncompressed 24-bit 48kHz studio WAV files with separated multitrack stems and commercial license.",
+  "headline": "Beats in Waterhouse & Olympic Way: Birthplace of Digital Dancehall, Sleng Teng Bass & Sound Clash Riddims",
+  "description": "Where King Jammy revolutionized world music: classic digital basslines, crisp rimshots, and authentic sound clash pressure for deejays and singers across Waterhouse and Olympic Gardens.",
+  "popularGenres": [
+    "Digital Sleng Teng Riddims",
+    "Waterhouse Sound Clash",
+    "Classic 80s Dancehall"
+  ],
+  "subClusters": []
+},
+  "jm/kingston-rockfort-east": {
+  "slug": "jm/kingston-rockfort-east",
+  "name": "Jamaica – Kingston: Rockfort, Mountain View & Windward Road (East Kingston Street Roots, Raw 808 Trap-Dancehall & Gritty Gully Flows)",
+  "flag": "🇯🇲",
+  "currency": "JMD ($) / USD ($)",
+  "currencyCode": "JMD",
+  "gateways": "Lynk (NCB Digital Wallet), NCB / Scotiabank Online Transfer, Credit/Debit Cards, Apple Pay, PayPal, Stripe",
+  "pro": "JACAP / JAMMS",
+  "proFullName": "JACAP / JAMMS",
+  "proGuide": "Instant digital delivery with split sheet and licensing contract for Spotify and Apple Music distribution.",
+  "headline": "Beats in Rockfort & East Kingston: Mountain View Realities, Heavy Sliding 808s & Raw Trap-Dancehall",
+  "description": "The gritty, defiant sound of East Kingston: cold minor bells, aggressive 808 sub glides, and heavy trap-dancehall drums tailored for hardcore lyricists in Rockfort and Mountain View.",
+  "popularGenres": [
+    "East Kingston Trap-Dancehall",
+    "Rockfort 808s",
+    "Gully Street Drill"
+  ],
+  "subClusters": []
+},
+  "jm/portmore-braeton-naggo-head": {
+  "slug": "jm/portmore-braeton-naggo-head",
+  "name": "Jamaica – St. Catherine: Portmore, Braeton, Naggo Head & Greater Portmore (The Sunshine City, Gaza Movement Epicenter & Modern Jugglin Riddims)",
+  "flag": "🇯🇲",
+  "currency": "JMD ($) / USD ($)",
+  "currencyCode": "JMD",
+  "gateways": "Lynk (NCB Digital Wallet), NCB / Scotiabank Online Transfer, Credit/Debit Cards, Apple Pay, PayPal, Stripe",
+  "pro": "JACAP / JAMMS",
+  "proFullName": "JACAP / JAMMS",
+  "proGuide": "Direct mobile wallet payment via Lynk and NCB online with instant master and stem downloads.",
+  "headline": "Beats in Portmore: The Sunshine City, Gaza Movement Legacy & Driving Jugglin Riddims",
+  "description": "The creative capital of modern dancehall: syncopated 100-112 BPM jugglin drums, bright synth stabs, and bouncy basslines tailored for hitmakers across Portmore and Greater Portmore.",
+  "popularGenres": [
+    "Portmore Gaza Jugglin",
+    "Sunshine City Dancehall",
+    "Braeton Club Riddims"
+  ],
+  "subClusters": []
+},
+  "jm/montego-bay-flankers-glendevon": {
+  "slug": "jm/montego-bay-flankers-glendevon",
+  "name": "Jamaica – St. James: Montego Bay, Flankers, Glendevon & Norwood (Second City Street Reality, Dark 6ix Trap & Sliding 808s)",
+  "flag": "🇯🇲",
+  "currency": "JMD ($) / USD ($)",
+  "currencyCode": "JMD",
+  "gateways": "Lynk (NCB Digital Wallet), NCB / Scotiabank Online Transfer, Credit/Debit Cards, Apple Pay, PayPal, Stripe",
+  "pro": "JACAP / JAMMS",
+  "proFullName": "JACAP / JAMMS",
+  "proGuide": "100% royalty-free original compositions with no sample clearance complications.",
+  "headline": "Beats in Montego Bay: Second City Street Tension, Menacing Minor Bells & MoBay 6ix Trap",
+  "description": "The explosive northern cradle of Jamaican trap-dancehall: dark ambient pads, multi-octave 808 slides, and sharp snares matching the intensity of Montego Bay street lyricists.",
+  "popularGenres": [
+    "MoBay 6ix Trap",
+    "Flankers Street Drill",
+    "St. James Dark 808"
+  ],
+  "subClusters": []
+},
+  "jm/montego-bay-rose-hall-ironshore": {
+  "slug": "jm/montego-bay-rose-hall-ironshore",
+  "name": "Jamaica – St. James: Montego Bay, Rose Hall & Ironshore (North Coast Luxury Strip, Afrobeats-Dancehall & Breezy Summer Pop)",
+  "flag": "🇯🇲",
+  "currency": "JMD ($) / USD ($)",
+  "currencyCode": "JMD",
+  "gateways": "Lynk (NCB Digital Wallet), NCB / Scotiabank Online Transfer, Credit/Debit Cards, Apple Pay, PayPal, Stripe",
+  "pro": "JACAP / JAMMS",
+  "proFullName": "JACAP / JAMMS",
+  "proGuide": "Commercial licensing agreement protecting publishing, sync, and streaming rights under Jamaican copyright law.",
+  "headline": "Beats in Rose Hall & Ironshore: North Coast Luxury, Tropical Guitars & Afrobeats-Dancehall",
+  "description": "Where world-class tourism meets Caribbean rhythms: warm acoustic guitar plucks, uplifting afro-dancehall shakers, and round basslines for international resort hits.",
+  "popularGenres": [
+    "Rose Hall Afro-Dancehall",
+    "MoBay Summer Pop",
+    "Ironshore Beach Hits"
+  ],
+  "subClusters": []
+},
+  "jm/spanish-town-central-tawang": {
+  "slug": "jm/spanish-town-central-tawang",
+  "name": "Jamaica – St. Catherine: Spanish Town, Old Capital & March Pen (Historic Roots, Hardcore 90s Dancehall Breaks & Conscious Lyrics)",
+  "flag": "🇯🇲",
+  "currency": "JMD ($) / USD ($)",
+  "currencyCode": "JMD",
+  "gateways": "Lynk (NCB Digital Wallet), NCB / Scotiabank Online Transfer, Credit/Debit Cards, Apple Pay, PayPal, Stripe",
+  "pro": "JACAP / JAMMS",
+  "proFullName": "JACAP / JAMMS",
+  "proGuide": "Studio-grade master files normalized to streaming loudness standards (-14 LUFS) for immediate release.",
+  "headline": "Beats in Spanish Town: The Old Capital, Hardcore 90s Riddims & Conscious Roots Energy",
+  "description": "The proud historic capital of St. Catherine: raw acoustic drum breaks, heavy dub basslines, and conscious organs for serious lyricists across Spanish Town.",
+  "popularGenres": [
+    "Spanish Town Hardcore",
+    "Old Capital 90s Dancehall",
+    "March Pen Roots"
+  ],
+  "subClusters": []
+},
+  "jm/ocho-rios-white-river-drax": {
+  "slug": "jm/ocho-rios-white-river-drax",
+  "name": "Jamaica – St. Ann: Ocho Rios, White River & Drax Hall (Garden Parish, Reggae Fusion, Mystic Dub & Tourism Soundtracks)",
+  "flag": "🇯🇲",
+  "currency": "JMD ($) / USD ($)",
+  "currencyCode": "JMD",
+  "gateways": "Lynk (NCB Digital Wallet), NCB / Scotiabank Online Transfer, Credit/Debit Cards, Apple Pay, PayPal, Stripe",
+  "pro": "JACAP / JAMMS",
+  "proFullName": "JACAP / JAMMS",
+  "proGuide": "Non-exclusive and exclusive licensing options with full stems for club performance and video sync.",
+  "headline": "Beats in Ocho Rios & White River: Garden Parish Lushness, Mystic Dub Delays & Reggae-Trap",
+  "description": "The scenic and mystical pulse of St. Ann: tape-echo dub effects, warm electric guitar skanks, and modern sub-bass for creators in Ocho Rios and White River.",
+  "popularGenres": [
+    "Ochi Dub Fusion",
+    "Garden Parish Reggae",
+    "White River Trap"
+  ],
+  "subClusters": []
+},
+  "jm/negril-seven-mile-west-end": {
+  "slug": "jm/negril-seven-mile-west-end",
+  "name": "Jamaica – Westmoreland: Negril, Seven Mile Beach & West End (Capital of Casual, Acoustic Nyabinghi, Sunset Reggae & Chill Vibes)",
+  "flag": "🇯🇲",
+  "currency": "JMD ($) / USD ($)",
+  "currencyCode": "JMD",
+  "gateways": "Lynk (NCB Digital Wallet), NCB / Scotiabank Online Transfer, Credit/Debit Cards, Apple Pay, PayPal, Stripe",
+  "pro": "JACAP / JAMMS",
+  "proFullName": "JACAP / JAMMS",
+  "proGuide": "Signed digital contract and split sheet PDF for independent Jamaican music producers and recording artists.",
+  "headline": "Beats in Negril: Seven Mile Sunset Breezes, Nyabinghi Drums & Lovers Rock Reggae",
+  "description": "The ultimate sunset sanctuary of the west: hand-played Nyabinghi drums, sweet lovers rock electric pianos, and mellow one-drop basslines for romantic singers in Negril.",
+  "popularGenres": [
+    "Negril Sunset Reggae",
+    "West End Lovers Rock",
+    "Seven Mile Beach Chill"
+  ],
+  "subClusters": []
+},
+  "jm/mandeville-hartford-kallaloo": {
+  "slug": "jm/mandeville-hartford-kallaloo",
+  "name": "Jamaica – Manchester: Mandeville, Hartford & Caledonia (Cool Hills Capital, Conscious Reggae, Soulful Horns & University Hip-Hop)",
+  "flag": "🇯🇲",
+  "currency": "JMD ($) / USD ($)",
+  "currencyCode": "JMD",
+  "gateways": "Lynk (NCB Digital Wallet), NCB / Scotiabank Online Transfer, Credit/Debit Cards, Apple Pay, PayPal, Stripe",
+  "pro": "JACAP / JAMMS",
+  "proFullName": "JACAP / JAMMS",
+  "proGuide": "100% legal protection and commercial rights for YouTube, Spotify, and TikTok monetization.",
+  "headline": "Beats in Mandeville: Cool Hills of Manchester, Soulful Brass Horns & Conscious Reggae-Trap",
+  "description": "The elevated intellectual haven of central Jamaica: rich brass fanfares, acoustic grand pianos, and polished rhythms tailored for conscious performers in Mandeville.",
+  "popularGenres": [
+    "Mandeville Conscious Trap",
+    "Manchester Soulful Reggae",
+    "Cool Hills Hip-Hop"
+  ],
+  "subClusters": []
+},
 };

@@ -150863,4 +150863,1103 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
   "market": "Peru",
   "sceneHub": "Cusco (San Blas)"
 },
+  {
+  "slug": "skillibeng-crocodile-teeth-trap-dancehall",
+  "title": "Skillibeng Crocodile Teeth Minimalist Dark Spaced Out 808 Trap-Dancehall Beat",
+  "description": "Minimalist, bass-heavy Jamaican trap-dancehall inspired by Skillibeng (Crocodile Teeth, Whap Whap, Not, Brik Pan Brik, Coke): eerie spacious negative space, cold bell chords, and explosive multi-octave 808 sub drops.",
+  "targetKeywords": [
+    "skillibeng type beat",
+    "crocodile teeth type beat wav",
+    "trap dancehall beat 808",
+    "skillibeng instrumental",
+    "dark jamaican trap beat"
+  ],
+  "heroCta": "Buy Skillibeng Style Beat (Instant WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "Aggressive Street Record, Minimalist Rap Showcase and Viral Sound Clash Anthem",
+  "similarArtists": [
+    "Skillibeng",
+    "Kraff",
+    "Valiant",
+    "Young M.A"
+  ],
+  "recommendedBpm": "100-106 BPM",
+  "productionTips": "Huge negative space with sparse percussion that explodes on the 808 sub drops, leaving maximum pocket for cadence switches.",
+  "idealVocalStyle": "Detached, laid-back baritone delivery, hypnotic Jamaican Patois wordplay, rapid stutter flows, and menacing whispers.",
+  "suggestedKey": "F Minor / C Minor",
+  "streamingSuitability": "Engineered for international DSP charts, Apple Music Caribbean, and viral sound clash TikTok audios."
+},
+  {
+  "slug": "masicka-438-undisputed-lyrical-dancehall",
+  "title": "Masicka 438 Undisputed Melodic Grand Piano & Lyrical Heavy Dancehall Beat",
+  "description": "Cinematic, motivational dancehall inspired by Masicka's masterpiece '438' (Generation 438, Suicide Note, They Don't Know, Pack a Matches): brooding grand piano progressions, razor-sharp rhythmic cadence, and triumphant street realism.",
+  "targetKeywords": [
+    "masicka type beat",
+    "438 masicka type beat wav",
+    "lyrical dancehall instrumental",
+    "cinematic piano dancehall beat",
+    "masicka style beat 2024"
+  ],
+  "heroCta": "Buy Masicka Style Beat (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Motivational Street Anthem, Lyrical Album Lead and Cinematic Storytelling Visualizer",
+  "similarArtists": [
+    "Masicka",
+    "Popcaan",
+    "Alkaline",
+    "Tarrus Riley"
+  ],
+  "recommendedBpm": "95-102 BPM",
+  "productionTips": "Layered classical grand piano with warm hall reverb, tight sub-bass frequencies, and punchy, dry acoustic rimshots.",
+  "idealVocalStyle": "Fierce, razor-sharp articulation, intricate multisyllabic rhymes, raw street conviction, and melodic singalong hooks.",
+  "suggestedKey": "D Minor / G Minor",
+  "streamingSuitability": "Dominates Spotify Dancehall Official, Tidal Rising Caribbean, and gym motivational playlists."
+},
+  {
+  "slug": "shenseea-alpha-slick-island-pop-dancehall",
+  "title": "Shenseea Alpha Slick Commercial Crossover Island Pop & Dancehall Beat",
+  "description": "Slick, radio-ready crossover island pop and commercial dancehall inspired by Shenseea (Alpha, Blessed, Lick, ShenYeng Anthem, Trending Gyal): sparkling synthesizer plucks, bouncy dembow kicks, and empowering feminine anthemic hooks.",
+  "targetKeywords": [
+    "shenseea type beat",
+    "alpha shenseea beat wav",
+    "island pop dancehall beat",
+    "commercial female dancehall beat",
+    "shenseea radio instrumental"
+  ],
+  "heroCta": "Buy Shenseea Style Beat (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Billboard Hot 100 Crossover Single, Summer Dance Video and Empowering Baddie Anthem",
+  "similarArtists": [
+    "Shenseea",
+    "Jada Kingdom",
+    "Stefflon Don",
+    "Rvssian"
+  ],
+  "recommendedBpm": "98-105 BPM",
+  "productionTips": "Bright FM plucks and clean vocoder chords paired with a buoyant, danceable dembow groove and crisp claps.",
+  "idealVocalStyle": "Slick melodic singing, sassy rapid-fire deejaying, confident bilingual English/Patois verses, and radio earworm chorus.",
+  "suggestedKey": "A Minor / E Minor",
+  "streamingSuitability": "Top tier placement across Billboard Latin/Caribbean, Spotify Dancehall Party, and viral Reels trends."
+},
+  {
+  "slug": "valiant-speed-off-dunce-cheque-bounce",
+  "title": "Valiant Speed Off Viral Kotch Bouncing Snares & Dunce Cheque Trap Beat",
+  "description": "High-energy, viral Kotch & Dunce wave trap-dancehall inspired by Valiant (Speed Off, Dunce Cheque, Rumbumba, North Carolina, Mad Out): bouncing hi-hats, catchy vocal chop inflections, bouncy 808s, and viral street swagger.",
+  "targetKeywords": [
+    "valiant type beat",
+    "speed off valiant beat wav",
+    "dunce cheque type beat",
+    "kotch dancehall beat 2024",
+    "valiant instrumental"
+  ],
+  "heroCta": "Buy Valiant Style Beat (Instant WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "Viral Street Dance Single, Weekend Party Banger and TikTok Social Media Trend",
+  "similarArtists": [
+    "Valiant",
+    "Stalk Ashley",
+    "Skeng",
+    "Govana"
+  ],
+  "recommendedBpm": "100-106 BPM",
+  "productionTips": "Syncopated trap-dancehall snares with micro-pitched synth stabs and a bouncy, dynamic 808 sub bassline.",
+  "idealVocalStyle": "Playful cadence switches, infectious slang catchphrases, humorous bravado, and rapid melodic choruses.",
+  "suggestedKey": "G Minor / D Minor",
+  "streamingSuitability": "Dominates Caribbean streaming charts, TikTok dance creations, and UK/US diaspora nightclub rotations."
+},
+  {
+  "slug": "popcaan-great-is-he-unruly-prayer",
+  "title": "Popcaan Great Is He Soulful Organ Pads & Spiritual Melodic Dancehall Beat",
+  "description": "Soulful, emotional melodic dancehall inspired by Popcaan's spiritual and uplifting anthems (Great Is He, Silence, Family, Firm and Strong, Clarks): warm organ pads, heartfelt acoustic guitar plucks, and uplifting island refrains.",
+  "targetKeywords": [
+    "popcaan type beat",
+    "great is he popcaan beat wav",
+    "unruly melodic dancehall beat",
+    "popcaan silence style beat",
+    "uplifting reggae dancehall beat"
+  ],
+  "heroCta": "Buy Popcaan Style Beat (WAV 24-bit)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Heartfelt Radio Single, Spiritual Storytelling Anthem and Nostalgic Video Lead",
+  "similarArtists": [
+    "Popcaan",
+    "Chronixx",
+    "Vybz Kartel (Melodic)",
+    "Koffee"
+  ],
+  "recommendedBpm": "94-98 BPM",
+  "productionTips": "Warm gospel organ bubbles layered with fingerpicked nylon guitars and a supportive, swinging bassline.",
+  "idealVocalStyle": "Distinctive high-tenor Patois melodies, spiritual prayers, emotional storytelling, and soulful refrains.",
+  "suggestedKey": "C Major / A Minor",
+  "streamingSuitability": "Massive global reach across Apple Music Caribbean, BBC Radio 1Xtra, and Reggae/Dancehall essentials."
+},
+  {
+  "slug": "kraff-1gad-sinister-dark-caribbean-drill",
+  "title": "Kraff 1Gad Sinister Dark Minor Bells & Subterranean 808 Caribbean Drill Beat",
+  "description": "Dark, hypnotic, sinister Caribbean drill and trap inspired by Kraff (Budum, Sinister, Rum Behaviour, Audi, 1Gad): icy minor bell arpeggios, distorted subterranean 808 glides, and mysterious, authoritative low-register flows.",
+  "targetKeywords": [
+    "kraff type beat",
+    "sinister kraff beat wav",
+    "dark caribbean drill beat",
+    "kraff 1gad instrumental",
+    "jamaican drill beat 808"
+  ],
+  "heroCta": "Buy Kraff Style Beat (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hardcore Street Record, Gritty Cinematic Video and Heavy Late-Night Cypher",
+  "similarArtists": [
+    "Kraff",
+    "Skillibeng",
+    "Mavado",
+    "Central Cee"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Menacing minor bell melodies drenched in dark hall reverb, paired with multi-octave sliding 808s and sharp counter snares.",
+  "idealVocalStyle": "Deep, mysterious low-register flow, menacing whisper cadences, complex Patois wordplay, and cold conviction.",
+  "suggestedKey": "C# Minor / G# Minor",
+  "streamingSuitability": "High engagement on SoundCloud, YouTube drill channels, and underground Caribbean street circuits."
+},
+  {
+  "slug": "classic-90s-buju-super-cat-sleng-teng-riddim",
+  "title": "Classic 90s Sleng Teng Sound System Clash Casio MT-40 Bass Riddim",
+  "description": "The immortal digital foundation of modern dancehall paying homage to King Jammy and Super Cat: authentic Casio MT-40 Sleng Teng rock bassline, digital rimshots, and sound clash energy.",
+  "targetKeywords": [
+    "sleng teng riddim beat",
+    "classic 90s dancehall beat wav",
+    "super cat type beat",
+    "sound clash dancehall instrumental",
+    "casio mt 40 dancehall riddim"
+  ],
+  "heroCta": "Buy Sleng Teng Riddim Beat (Instant WAV)",
+  "energyLevel": "Maximum",
+  "primaryUse": "Sound Clash Jugglin, Classic Throwback Single and Vintage Sound System Performance",
+  "similarArtists": [
+    "Super Cat",
+    "Buju Banton",
+    "Shabba Ranks",
+    "King Jammy"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "productionTips": "Authentic sampled Casio MT-40 analog square wave bassline with driving vintage digital percussion and analog warmth.",
+  "idealVocalStyle": "Staccato 90s deejay rhyming, powerful baritone hypeman chants, and classic Jamaican soundsystem cadence.",
+  "suggestedKey": "D Minor / A Minor",
+  "streamingSuitability": "Guaranteed soundsystem reaction, timeless international appeal, and iconic sound clash heritage."
+},
+  {
+  "slug": "authentic-nyabinghi-kete-drum-roots-dub",
+  "title": "Nyabinghi Funde & Kete Sacred Drums Spiritual Roots Dub Reggae Beat",
+  "description": "Sacred Rastafari cultural foundation: deep resonant thunder bass drum (Funde and Kete), acoustic guitar skanks, and tape-echo dub delays for conscious roots reggae artists.",
+  "targetKeywords": [
+    "nyabinghi reggae beat",
+    "roots dub reggae instrumental wav",
+    "kete drum conscious beat",
+    "rastafari nyabinghi dub",
+    "spiritual reggae instrumental"
+  ],
+  "heroCta": "Buy Nyabinghi Roots Beat (WAV + Stems)",
+  "energyLevel": "Medium",
+  "primaryUse": "Conscious Spiritual Anthem, Rastafari Cultural Meditation and Deep Dub Album Track",
+  "similarArtists": [
+    "Count Ossie",
+    "Chronixx",
+    "Protoje",
+    "Ras Michael"
+  ],
+  "recommendedBpm": "72-78 BPM",
+  "productionTips": "Multi-mic acoustic recording of traditional goat-skin Nyabinghi drums with vintage Roland Space Echo tape delay tails.",
+  "idealVocalStyle": "Deep spiritual chanting, biblical and conscious Rastafari social reflections, and righteous delivery.",
+  "suggestedKey": "G Major / E Minor",
+  "streamingSuitability": "Cherished by conscious reggae purists, dub sound systems, and international cultural festivals worldwide."
+},
+  {
+  "slug": "trenchtown-bob-marley-hope-road-acoustic-reggae",
+  "title": "Trenchtown 56 Hope Road Acoustic Nylon Guitar & One-Drop Reggae Beat",
+  "description": "Warm, timeless acoustic reggae paying homage to Bob Marley and Trenchtown heritage: fingerpicked nylon folk guitar, soulful Hammond B3 organ bubbles, and laid-back one-drop reggae drums.",
+  "targetKeywords": [
+    "bob marley type beat",
+    "trenchtown acoustic reggae beat wav",
+    "one drop reggae instrumental",
+    "hope road reggae beat",
+    "classic roots reggae beat"
+  ],
+  "heroCta": "Buy Trenchtown Roots Beat (Instant WAV)",
+  "energyLevel": "Medium",
+  "primaryUse": "Conscious Single, International Peace Anthem and Heartfelt Acoustic Reggae Video",
+  "similarArtists": [
+    "Bob Marley",
+    "Stephen Marley",
+    "Ziggy Marley",
+    "Damian Marley"
+  ],
+  "recommendedBpm": "76-82 BPM",
+  "productionTips": "Warm acoustic guitar chop on the upbeats paired with a round Fender Precision bassline and an authentic one-drop snare.",
+  "idealVocalStyle": "Soulful, passionate singing, universal messages of freedom and love, and iconic backing vocal harmonies.",
+  "suggestedKey": "A Major / F# Minor",
+  "streamingSuitability": "Timeless worldwide appeal across Reggae Classics, Summer Acoustic, and global peace playlists."
+},
+  {
+  "slug": "blue-mountain-coffee-mist-lofi-reggae",
+  "title": "Blue Mountains Morning Mist Warm Electric Piano & Lofi Dub Beat",
+  "description": "Cool mountain breeze overlooking Kingston from the Blue Mountains: warm tape-saturated Rhodes electric keys, morning mist birdsong Foley, and unquantized dusty lofi dub drums.",
+  "targetKeywords": [
+    "jamaica lofi beat",
+    "blue mountain lofi reggae beat wav",
+    "kingston chillhop instrumental",
+    "caribbean lofi study beat",
+    "lofi dub reggae beat"
+  ],
+  "heroCta": "Buy Blue Mountain Lofi Beat (Instant WAV)",
+  "energyLevel": "Low-Medium",
+  "primaryUse": "Nocturnal Commute Soundtrack, Study and Focus Background and Aesthetic Travel Visualizer",
+  "similarArtists": [
+    "Koffee (Lofi)",
+    "Chronixx (Acoustic)",
+    "ChilledCow",
+    "Tom Misch"
+  ],
+  "recommendedBpm": "80-85 BPM",
+  "productionTips": "Analog tape-saturated Rhodes electric piano chords with natural Blue Mountain birdsong Foley and soft one-drop rimshots.",
+  "idealVocalStyle": "Intimate poetic whisper, gentle spoken word, melodic Patois acoustic hums, and reflective island observations.",
+  "suggestedKey": "F Major / D Minor",
+  "streamingSuitability": "Evergreen placement on lofi study playlists, nocturnal chill streams, and aesthetic travel YouTube channels."
+},
+  {
+  "slug": "portmore-sound-system-dubplate-clash",
+  "title": "Portmore Sound Clash Brass Fanfares & Dubplate Pressure 808 Beat",
+  "description": "Heavyweight Fortis and Gaza Sound Clash heritage: massive horn fanfare stabs, tape sirens, rewinds (pull-up effects), and heavyweight 808 sound-clash dubplate pressure.",
+  "targetKeywords": [
+    "sound clash dubplate beat",
+    "portmore dancehall clash instrumental",
+    "dubplate special beat wav",
+    "reggae sound clash horns beat",
+    "gaza soundclash 808"
+  ],
+  "heroCta": "Buy Sound Clash Dubplate Beat (WAV + Stems)",
+  "energyLevel": "Maximum",
+  "primaryUse": "Sound System Clash Dubplate, Heavyweight Festival Performance and DJ Battle Anthem",
+  "similarArtists": [
+    "Vybz Kartel",
+    "Bounty Killer",
+    "Stone Love Trap",
+    "Bass Odyssey"
+  ],
+  "recommendedBpm": "100-108 BPM",
+  "productionTips": "Stab horns processed through spring reverb with iconic sound system sirens and thunderous, chest-rattling 808 bass.",
+  "idealVocalStyle": "Aggressive, commanding dubplate delivery, customized sound-killing lyrics, and ferocious soundclash energy.",
+  "suggestedKey": "D Minor / G Minor",
+  "streamingSuitability": "Essential listening for soundsystem culture purists, dubplate selectors, and international clash fans."
+},
+  {
+  "slug": "negril-seven-mile-sunset-lover-rock",
+  "title": "Negril Seven Mile Beach Sunset Silky Rhodes & Lovers Rock Reggae Beat",
+  "description": "Sweet, romantic Jamaican Lovers Rock inspired by Negril beach sunsets: silky sweet electric piano chords, smooth saxophone leads, and gentle lovers rock one-drop basslines.",
+  "targetKeywords": [
+    "lovers rock reggae beat",
+    "negril beach sunset beat wav",
+    "romantic reggae instrumental",
+    "smooth lovers rock beat",
+    "caribbean lovers rock download"
+  ],
+  "heroCta": "Buy Sunset Lovers Rock Beat (Instant WAV)",
+  "energyLevel": "Medium",
+  "primaryUse": "Romantic Island Single, Beachside Wedding Soundtrack and Smooth Summer Playlist Lead",
+  "similarArtists": [
+    "Beres Hammond",
+    "Sanchez",
+    "Romain Virgo",
+    "Christopher Martin"
+  ],
+  "recommendedBpm": "75-80 BPM",
+  "productionTips": "Silky smooth Fender Rhodes chords layered with a warm walking bassline and a gentle one-drop rimshot pocket.",
+  "idealVocalStyle": "Velvety, passionate singing voice, heartfelt love confessions, sweet falsettos, and smooth Patois phrasing.",
+  "suggestedKey": "C Major / A Minor",
+  "streamingSuitability": "Prime placement on Lovers Rock Essentials, Caribbean Romance, and Summer Chill curations."
+},
+  {
+  "slug": "cheap-trap-dancehall-beats-lynk-jmd",
+  "title": "Cheap Trap-Dancehall Beats from $3,500 JMD (Instant Checkout via Lynk by NCB)",
+  "description": "Professional Jamaican trap-dancehall, riddims, and reggae instrumentals starting from $3,500 JMD (~$23 USD) with instant mobile scan and checkout via Lynk (NCB) and local Jamaican bank transfers.",
+  "targetKeywords": [
+    "cheap trap dancehall beats lynk jmd",
+    "buy dancehall beats jamaica lynk",
+    "affordable trap dancehall beats jmd",
+    "jamaican riddim instrumental lynk ncb"
+  ],
+  "heroCta": "Browse Beats from $3,500 JMD (Pay with Lynk)",
+  "energyLevel": "Variable",
+  "primaryUse": "Debut Singles, Home Studio Recording and Independent Mixtapes with Commercial License",
+  "similarArtists": [
+    "Independent Jamaican Artists",
+    "Kingston & Montego Bay Content Creators"
+  ],
+  "recommendedBpm": "88-144 BPM",
+  "productionTips": "Pre-mixed and mastered with wide vocal headroom specifically optimized for Jamaican Patois vocal recording.",
+  "idealVocalStyle": "Versatile for rapid trap deejaying, melodic singalong hooks, or conscious roots chanting.",
+  "suggestedKey": "All Major and Minor Keys Available",
+  "streamingSuitability": "Commercial license covering up to 250,000 streams on Spotify, Apple Music, and YouTube."
+},
+  {
+  "slug": "commercial-dancehall-riddim-pack-wav-stems",
+  "title": "Commercial Dancehall Jugglin Riddim Pack with Multitrack WAV Stems",
+  "description": "Studio-quality dancehall jugglin riddims delivered with all uncompressed multitrack audio stems (WAV 24-bit) for multi-artist juggling compilation releases in Kingston and international distribution.",
+  "targetKeywords": [
+    "commercial dancehall riddim pack wav stems",
+    "dancehall jugglin multitrack stems",
+    "buy dancehall riddim pack jamaica",
+    "dancehall stems wav download"
+  ],
+  "heroCta": "Download Riddim Pack + Multitrack WAV Stems",
+  "energyLevel": "Very High",
+  "primaryUse": "Multi-Artist Juggling Compilation, Professional Studio Recording and Sound System Mixtapes",
+  "similarArtists": [
+    "Rvssian",
+    "Notnice",
+    "Chimney Records",
+    "Dunwell Productions"
+  ],
+  "recommendedBpm": "98-106 BPM",
+  "productionTips": "Individual 24-bit 48kHz WAV audio tracks labeled with exact tempo and key for instant Pro Tools, FL Studio, and Logic Pro import.",
+  "idealVocalStyle": "Designed for multi-artist jugglin with diverse Patois vocal styles and pitch ranges.",
+  "suggestedKey": "F Minor / C Minor",
+  "streamingSuitability": "Engineered for international radio rotation, sound system play, and commercial streaming compilations."
+},
+  {
+  "slug": "dark-caribbean-drill-beats-skillibeng-wav",
+  "title": "Dark Caribbean Drill & Trap-Dancehall Beats (Skillibeng & Kraff Style)",
+  "description": "Minimalist, bass-heavy Jamaican trap-dancehall and Caribbean drill instrumentals with sliding 808s and ominous minor bells for lyrical street deejays and international performers.",
+  "targetKeywords": [
+    "dark caribbean drill beats skillibeng wav",
+    "kraff style drill beat 808",
+    "sliding 808 dancehall drill beat",
+    "jamaican trap drill instrumental download"
+  ],
+  "heroCta": "Download Caribbean Drill Beats (Instant WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hardcore Street Record, Gritty Music Video and Sound Clash Dubplate Anthem",
+  "similarArtists": [
+    "Skillibeng",
+    "Kraff",
+    "Valiant",
+    "Central Cee"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Menacing minor keys, multi-octave 808 portamento glides, and piercing snares tuned for street impact.",
+  "idealVocalStyle": "Deep, authoritative Patois delivery, rapid triplet cadences, and dark atmospheric ad-libs.",
+  "suggestedKey": "C# Minor / G# Minor",
+  "streamingSuitability": "Dominates UK/Caribbean drill channels, SoundCloud, and urban underground platforms."
+},
+  {
+  "slug": "jacap-music-licensing-agreement-pdf-jamaica",
+  "title": "Jamaican Music Producer Licensing Agreement (Compliant with JACAP, JAMMS & Copyright Act 1993)",
+  "description": "Legally binding Jamaican music production contract 100% compliant with JACAP (Jamaica Association of Composers, Authors and Publishers), JAMMS, and the Jamaica Copyright Act 1993 with instant signed PDF and split sheet.",
+  "targetKeywords": [
+    "jacap music licensing agreement pdf jamaica",
+    "dancehall beat contract jamaica jacap",
+    "producer contract copyright act 1993 pdf",
+    "jamaican beat split sheet pdf"
+  ],
+  "heroCta": "Buy Beat with JACAP Legal PDF Contract",
+  "energyLevel": "Professional",
+  "primaryUse": "Legal Song Registration with JACAP/JAMMS, Commercial DSP Distribution and Global Sync Placement",
+  "similarArtists": [
+    "Independent Jamaican Songwriters, Deejays and Producers"
+  ],
+  "recommendedBpm": "Applicable across all tempos",
+  "productionTips": "Transparent clauses: standard 50/50 publishing split and 100% master revenue retention up to the commercial streaming limit.",
+  "idealVocalStyle": "Essential for any recording artist seeking commercial airplay on IRIE FM, BBC Radio 1Xtra, and international royalty collection.",
+  "suggestedKey": "Universal Legal Standard",
+  "streamingSuitability": "Guaranteed clearance for commercial Spotify uploads, sync licensing, and radio broadcast royalties."
+},
+  {
+  "slug": "buy-beats-lynk-ncb-jamaica-instant",
+  "title": "Buy Beats with Lynk & NCB in Jamaica (Instant Automated Digital Download in JMD $)",
+  "description": "The fastest, most seamless way for Jamaican artists to buy beats: scan and pay using Lynk (NCB digital wallet) or local bank cards and receive an automated instant email download link for WAV files and license.",
+  "targetKeywords": [
+    "buy beats lynk ncb jamaica instant",
+    "lynk beat store jamaica",
+    "buy instrumental using lynk jmd",
+    "instant dancehall beat download jamaica"
+  ],
+  "heroCta": "Buy Beats with Lynk / NCB Now",
+  "energyLevel": "Instant",
+  "primaryUse": "Immediate Beat Purchase for Urgent Kingston, Portmore, and Montego Bay Studio Recording Sessions",
+  "similarArtists": [
+    "Jamaican Creators across Kingston, St. Catherine, St. James, and Portland"
+  ],
+  "recommendedBpm": "80-150 BPM",
+  "productionTips": "Instant automated digital delivery via high-speed cloud download servers.",
+  "idealVocalStyle": "Compatible with all urban music genres in Patois and English.",
+  "suggestedKey": "All Tonalities",
+  "streamingSuitability": "Includes commercial license ready for instant worldwide distribution."
+},
+  {
+  "slug": "album-ep-beat-packages-jamaica-discount",
+  "title": "Album & EP Beat Packages in Jamaica (40% Off Bundle Discount in JMD $)",
+  "description": "Save 40% when purchasing bundles of 5 to 10 sonically cohesive instrumentals to produce your next EP, mixtape, or full-length album in Jamaica with a unified commercial license in Jamaican Dollars ($).",
+  "targetKeywords": [
+    "album ep beat packages jamaica discount",
+    "dancehall beat bundle discount lynk",
+    "buy bulk beats kingston jmd",
+    "5 beat package album discount jamaica"
+  ],
+  "heroCta": "Get Album Beat Package (40% Off)",
+  "energyLevel": "Variable",
+  "primaryUse": "Full Album Production, Cohesive Sonic Identity and Continuous Release Strategy",
+  "similarArtists": [
+    "Emerging Dancehall Artists, Reggae Collectives and Solo MCs"
+  ],
+  "recommendedBpm": "85-144 BPM",
+  "productionTips": "Coordinated tempos and harmonic textures designed to deliver an uninterrupted album listening experience.",
+  "idealVocalStyle": "Room to showcase an artist's full melodic and lyrical range across multiple tracks.",
+  "suggestedKey": "Full Harmonic Spectrum",
+  "streamingSuitability": "Unified commercial license covering all tracks on your EP or album at once."
+},
+  {
+  "slug": "productor-musical-jamaica-whatsapp-onzieb",
+  "title": "Exclusive Music Producer for Jamaican Artists (Direct WhatsApp Consultation with Onzieb)",
+  "description": "Collaborate directly with music producer Onzieb via WhatsApp for custom instrumentals: key changes, custom song structure adjustments, multi-track mixing, and bespoke Jamaican trap-dancehall and roots reggae production.",
+  "targetKeywords": [
+    "productor musical jamaica whatsapp onzieb",
+    "onzieb music producer kingston",
+    "custom dancehall producer jamaica whatsapp",
+    "hire beatmaker kingston online"
+  ],
+  "heroCta": "Chat with Onzieb on WhatsApp",
+  "energyLevel": "Custom",
+  "primaryUse": "Bespoke Production, Signature Sound Creation and Commercial Lead Singles",
+  "similarArtists": [
+    "Onzieb",
+    "Top Tier Jamaican and Caribbean Music Producers"
+  ],
+  "recommendedBpm": "Custom tailored to the artist's vocal cadence and natural pocket",
+  "productionTips": "Rapid iteration via WhatsApp voice notes and high-speed stem exchanges for real-time arrangement adjustments.",
+  "idealVocalStyle": "Engineered specifically to elevate the vocalist's unique tone, timbre, and personality.",
+  "suggestedKey": "Custom Tailored Key",
+  "streamingSuitability": "Includes exclusive buyout options with 100% master rights and unrestricted commercial monetization."
+},
+  {
+  "slug": "authentic-roots-reggae-dub-beats-one-drop",
+  "title": "Authentic Roots Reggae & Dub Beats with Live Bass & One-Drop Drums",
+  "description": "Organic roots reggae and heavy dub instrumentals featuring warm live basslines, authentic Hammond B3 organ bubbles, guitar skanks, and classic one-drop drums for conscious artists.",
+  "targetKeywords": [
+    "authentic roots reggae dub beats one drop",
+    "reggae one drop instrumental wav",
+    "dub reggae beat with live bass",
+    "roots reggae beat download jamaica"
+  ],
+  "heroCta": "Explore Roots Reggae & Dub Beats",
+  "energyLevel": "Medium",
+  "primaryUse": "Conscious Reggae Album Track, Rastafari Spiritual Anthem and Sound System Dub",
+  "similarArtists": [
+    "Bob Marley",
+    "Chronixx",
+    "Protoje",
+    "Damian Marley"
+  ],
+  "recommendedBpm": "74-82 BPM",
+  "productionTips": "Authentic one-drop acoustic drumming tracked with analog preamps and warm tape-echo dub delay tails.",
+  "idealVocalStyle": "Righteous spiritual chanting, conscious social observations, passionate singing, and soulful Patois phrasing.",
+  "suggestedKey": "A Major / E Minor",
+  "streamingSuitability": "Revered across global Reggae festivals, Sound System dub sessions, and international conscious curations."
+},
+  {
+  "slug": "melodic-dancehall-rnb-beats-popcaan",
+  "title": "Melodic Dancehall & Island R&B Beats (Popcaan, Vybz Kartel & Shenseea Style)",
+  "description": "Emotional, radio-ready melodic dancehall and island R&B beats featuring warm electric pianos, soulful acoustic guitars, and modern club dembow drums for romantic singles.",
+  "targetKeywords": [
+    "melodic dancehall rnb beats popcaan",
+    "island rnb instrumental wav",
+    "popcaan style melodic beat",
+    "emotional dancehall beat download"
+  ],
+  "heroCta": "Discover Melodic Dancehall R&B Beats",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Commercial Island Pop Single, Romantic Dancehall Track and Radio Hit",
+  "similarArtists": [
+    "Popcaan",
+    "Shenseea",
+    "Vybz Kartel",
+    "Kranium"
+  ],
+  "recommendedBpm": "94-102 BPM",
+  "productionTips": "Warm Rhodes and acoustic guitar plucks layered over a round sub bass and crisp, swinging dancehall claps.",
+  "idealVocalStyle": "Silky Patois melodies, soulful R&B falsettos, and emotional heartfelt delivery.",
+  "suggestedKey": "C Major / A Minor",
+  "streamingSuitability": "Designed for heavy rotation on Apple Music Caribbean, BBC 1Xtra, and international pop playlists."
+},
+  {
+  "slug": "free-dancehall-drum-kit-wav-download",
+  "title": "Free Dancehall & Reggae Drum Kit (24-Bit WAV Samples, 808s, Snares & Dub Sirens)",
+  "description": "Download our exclusive free sound pack for Jamaican and Caribbean music producers: 30 tuned 808 sub-basses, classic dancehall snares, dub sirens, sound clash FX, and punchy kicks in 24-bit WAV format.",
+  "targetKeywords": [
+    "free dancehall drum kit wav download",
+    "dancehall drum samples free download",
+    "reggae sound pack fl studio wav",
+    "dub siren samples free download"
+  ],
+  "heroCta": "Download Free Dancehall Drum Kit (ZIP)",
+  "energyLevel": "High",
+  "primaryUse": "Music Production in Home Studios, Beatmaking in FL Studio, Ableton Live and Logic Pro",
+  "similarArtists": [
+    "Independent Jamaican Beatmakers",
+    "Emerging Producers in Kingston and Worldwide"
+  ],
+  "recommendedBpm": "Compatible with all tempos from 70 to 140 BPM",
+  "productionTips": "One-shot samples processed with analog outboard gear and zero clipping, 100% royalty-free.",
+  "idealVocalStyle": "Rock-solid rhythmic foundation for crafting professional dancehall, trap-dancehall, and roots reggae instrumentals.",
+  "suggestedKey": "Tuned to C for immediate transposition in any sampler",
+  "streamingSuitability": "100% royalty-free for commercial music releases and beat sales worldwide."
+},
+  {
+  "slug": "kingston-havendale-trap-dancehall-808",
+  "name": "Kingston (Havendale) Trap-Dancehall 808 Beats",
+  "badge": "Trap-Dancehall",
+  "headline": "Trap-Dancehall 808 Beats in Kingston (Havendale): Uptown Kingston & Studio Elite R&B-Dancehall",
+  "description": "Minimalist spacious negative space, multi-octave sliding 808s and dark minor bells with instant checkout via Lynk for deejays in Kingston (Havendale).",
+  "targetKeywords": [
+    "trap-dancehall 808 beats kingston (havendale)",
+    "buy beats kingston (havendale) lynk",
+    "jamaican trap-dancehall instrumental",
+    "beats in kingston (havendale) wav download"
+  ],
+  "heroCta": "Download Beats in Kingston (Havendale) (Lynk / WAV)",
+  "recommendedBpm": "100-106 BPM",
+  "suggestedKey": "F-Minor / C-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Jamaica",
+  "sceneHub": "Kingston (Havendale)"
+},
+  {
+  "slug": "kingston-havendale-dancehall-jugglin-riddim",
+  "name": "Kingston (Havendale) Dancehall Jugglin Riddim Beats",
+  "badge": "Dancehall Jugglin",
+  "headline": "Dancehall Jugglin Riddim Beats in Kingston (Havendale): Uptown Kingston & Studio Elite R&B-Dancehall",
+  "description": "High-energy 100-112 BPM driving club kicks, bright brass stabs and syncopated snares designed for hitmakers in Kingston (Havendale).",
+  "targetKeywords": [
+    "dancehall jugglin riddim beats kingston (havendale)",
+    "buy beats kingston (havendale) lynk",
+    "jamaican dancehall jugglin instrumental",
+    "beats in kingston (havendale) wav download"
+  ],
+  "heroCta": "Download Beats in Kingston (Havendale) (Lynk / WAV)",
+  "recommendedBpm": "100-108 BPM",
+  "suggestedKey": "A-Minor / D-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Jamaica",
+  "sceneHub": "Kingston (Havendale)"
+},
+  {
+  "slug": "kingston-havendale-roots-reggae-one-drop",
+  "name": "Kingston (Havendale) Roots Reggae One-Drop Beats",
+  "badge": "Roots Reggae",
+  "headline": "Roots Reggae One-Drop Beats in Kingston (Havendale): Uptown Kingston & Studio Elite R&B-Dancehall",
+  "description": "Warm Hammond organ bubbles, live bass pocket and acoustic one-drop snare rhythms for conscious singers in Kingston (Havendale).",
+  "targetKeywords": [
+    "roots reggae one-drop beats kingston (havendale)",
+    "buy beats kingston (havendale) lynk",
+    "jamaican roots reggae instrumental",
+    "beats in kingston (havendale) wav download"
+  ],
+  "heroCta": "Download Beats in Kingston (Havendale) (Lynk / WAV)",
+  "recommendedBpm": "74-82 BPM",
+  "suggestedKey": "A-Major / E-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Jamaica",
+  "sceneHub": "Kingston (Havendale)"
+},
+  {
+  "slug": "kingston-havendale-caribbean-drill-flow",
+  "name": "Kingston (Havendale) Caribbean Drill Flow Beats",
+  "badge": "Caribbean Drill",
+  "headline": "Caribbean Drill Flow Beats in Kingston (Havendale): Uptown Kingston & Studio Elite R&B-Dancehall",
+  "description": "Cold minor bells, rapid drill hats and subterranean sliding 808 sub-bass designed for street storytellers in Kingston (Havendale).",
+  "targetKeywords": [
+    "caribbean drill flow beats kingston (havendale)",
+    "buy beats kingston (havendale) lynk",
+    "jamaican caribbean drill instrumental",
+    "beats in kingston (havendale) wav download"
+  ],
+  "heroCta": "Download Beats in Kingston (Havendale) (Lynk / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "C#-Minor / G#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Jamaica",
+  "sceneHub": "Kingston (Havendale)"
+},
+  {
+  "slug": "kingston-rockfort-trap-dancehall-808",
+  "name": "Kingston (Rockfort) Trap-Dancehall 808 Beats",
+  "badge": "Trap-Dancehall",
+  "headline": "Trap-Dancehall 808 Beats in Kingston (Rockfort): East Kingston & Raw Gully Trap-Dancehall",
+  "description": "Minimalist spacious negative space, multi-octave sliding 808s and dark minor bells with instant checkout via Lynk for deejays in Kingston (Rockfort).",
+  "targetKeywords": [
+    "trap-dancehall 808 beats kingston (rockfort)",
+    "buy beats kingston (rockfort) lynk",
+    "jamaican trap-dancehall instrumental",
+    "beats in kingston (rockfort) wav download"
+  ],
+  "heroCta": "Download Beats in Kingston (Rockfort) (Lynk / WAV)",
+  "recommendedBpm": "100-106 BPM",
+  "suggestedKey": "F-Minor / C-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Jamaica",
+  "sceneHub": "Kingston (Rockfort)"
+},
+  {
+  "slug": "kingston-rockfort-dancehall-jugglin-riddim",
+  "name": "Kingston (Rockfort) Dancehall Jugglin Riddim Beats",
+  "badge": "Dancehall Jugglin",
+  "headline": "Dancehall Jugglin Riddim Beats in Kingston (Rockfort): East Kingston & Raw Gully Trap-Dancehall",
+  "description": "High-energy 100-112 BPM driving club kicks, bright brass stabs and syncopated snares designed for hitmakers in Kingston (Rockfort).",
+  "targetKeywords": [
+    "dancehall jugglin riddim beats kingston (rockfort)",
+    "buy beats kingston (rockfort) lynk",
+    "jamaican dancehall jugglin instrumental",
+    "beats in kingston (rockfort) wav download"
+  ],
+  "heroCta": "Download Beats in Kingston (Rockfort) (Lynk / WAV)",
+  "recommendedBpm": "100-108 BPM",
+  "suggestedKey": "A-Minor / D-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Jamaica",
+  "sceneHub": "Kingston (Rockfort)"
+},
+  {
+  "slug": "kingston-rockfort-roots-reggae-one-drop",
+  "name": "Kingston (Rockfort) Roots Reggae One-Drop Beats",
+  "badge": "Roots Reggae",
+  "headline": "Roots Reggae One-Drop Beats in Kingston (Rockfort): East Kingston & Raw Gully Trap-Dancehall",
+  "description": "Warm Hammond organ bubbles, live bass pocket and acoustic one-drop snare rhythms for conscious singers in Kingston (Rockfort).",
+  "targetKeywords": [
+    "roots reggae one-drop beats kingston (rockfort)",
+    "buy beats kingston (rockfort) lynk",
+    "jamaican roots reggae instrumental",
+    "beats in kingston (rockfort) wav download"
+  ],
+  "heroCta": "Download Beats in Kingston (Rockfort) (Lynk / WAV)",
+  "recommendedBpm": "74-82 BPM",
+  "suggestedKey": "A-Major / E-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Jamaica",
+  "sceneHub": "Kingston (Rockfort)"
+},
+  {
+  "slug": "kingston-rockfort-caribbean-drill-flow",
+  "name": "Kingston (Rockfort) Caribbean Drill Flow Beats",
+  "badge": "Caribbean Drill",
+  "headline": "Caribbean Drill Flow Beats in Kingston (Rockfort): East Kingston & Raw Gully Trap-Dancehall",
+  "description": "Cold minor bells, rapid drill hats and subterranean sliding 808 sub-bass designed for street storytellers in Kingston (Rockfort).",
+  "targetKeywords": [
+    "caribbean drill flow beats kingston (rockfort)",
+    "buy beats kingston (rockfort) lynk",
+    "jamaican caribbean drill instrumental",
+    "beats in kingston (rockfort) wav download"
+  ],
+  "heroCta": "Download Beats in Kingston (Rockfort) (Lynk / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "C#-Minor / G#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Jamaica",
+  "sceneHub": "Kingston (Rockfort)"
+},
+  {
+  "slug": "portmore-braeton-trap-dancehall-808",
+  "name": "Portmore (Braeton) Trap-Dancehall 808 Beats",
+  "badge": "Trap-Dancehall",
+  "headline": "Trap-Dancehall 808 Beats in Portmore (Braeton): Portmore & Gaza Movement Jugglin",
+  "description": "Minimalist spacious negative space, multi-octave sliding 808s and dark minor bells with instant checkout via Lynk for deejays in Portmore (Braeton).",
+  "targetKeywords": [
+    "trap-dancehall 808 beats portmore (braeton)",
+    "buy beats portmore (braeton) lynk",
+    "jamaican trap-dancehall instrumental",
+    "beats in portmore (braeton) wav download"
+  ],
+  "heroCta": "Download Beats in Portmore (Braeton) (Lynk / WAV)",
+  "recommendedBpm": "100-106 BPM",
+  "suggestedKey": "F-Minor / C-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Jamaica",
+  "sceneHub": "Portmore (Braeton)"
+},
+  {
+  "slug": "portmore-braeton-dancehall-jugglin-riddim",
+  "name": "Portmore (Braeton) Dancehall Jugglin Riddim Beats",
+  "badge": "Dancehall Jugglin",
+  "headline": "Dancehall Jugglin Riddim Beats in Portmore (Braeton): Portmore & Gaza Movement Jugglin",
+  "description": "High-energy 100-112 BPM driving club kicks, bright brass stabs and syncopated snares designed for hitmakers in Portmore (Braeton).",
+  "targetKeywords": [
+    "dancehall jugglin riddim beats portmore (braeton)",
+    "buy beats portmore (braeton) lynk",
+    "jamaican dancehall jugglin instrumental",
+    "beats in portmore (braeton) wav download"
+  ],
+  "heroCta": "Download Beats in Portmore (Braeton) (Lynk / WAV)",
+  "recommendedBpm": "100-108 BPM",
+  "suggestedKey": "A-Minor / D-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Jamaica",
+  "sceneHub": "Portmore (Braeton)"
+},
+  {
+  "slug": "portmore-braeton-roots-reggae-one-drop",
+  "name": "Portmore (Braeton) Roots Reggae One-Drop Beats",
+  "badge": "Roots Reggae",
+  "headline": "Roots Reggae One-Drop Beats in Portmore (Braeton): Portmore & Gaza Movement Jugglin",
+  "description": "Warm Hammond organ bubbles, live bass pocket and acoustic one-drop snare rhythms for conscious singers in Portmore (Braeton).",
+  "targetKeywords": [
+    "roots reggae one-drop beats portmore (braeton)",
+    "buy beats portmore (braeton) lynk",
+    "jamaican roots reggae instrumental",
+    "beats in portmore (braeton) wav download"
+  ],
+  "heroCta": "Download Beats in Portmore (Braeton) (Lynk / WAV)",
+  "recommendedBpm": "74-82 BPM",
+  "suggestedKey": "A-Major / E-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Jamaica",
+  "sceneHub": "Portmore (Braeton)"
+},
+  {
+  "slug": "portmore-braeton-caribbean-drill-flow",
+  "name": "Portmore (Braeton) Caribbean Drill Flow Beats",
+  "badge": "Caribbean Drill",
+  "headline": "Caribbean Drill Flow Beats in Portmore (Braeton): Portmore & Gaza Movement Jugglin",
+  "description": "Cold minor bells, rapid drill hats and subterranean sliding 808 sub-bass designed for street storytellers in Portmore (Braeton).",
+  "targetKeywords": [
+    "caribbean drill flow beats portmore (braeton)",
+    "buy beats portmore (braeton) lynk",
+    "jamaican caribbean drill instrumental",
+    "beats in portmore (braeton) wav download"
+  ],
+  "heroCta": "Download Beats in Portmore (Braeton) (Lynk / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "C#-Minor / G#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Jamaica",
+  "sceneHub": "Portmore (Braeton)"
+},
+  {
+  "slug": "montego-bay-flankers-trap-dancehall-808",
+  "name": "Montego Bay (Flankers) Trap-Dancehall 808 Beats",
+  "badge": "Trap-Dancehall",
+  "headline": "Trap-Dancehall 808 Beats in Montego Bay (Flankers): MoBay & Street Trap Reality",
+  "description": "Minimalist spacious negative space, multi-octave sliding 808s and dark minor bells with instant checkout via Lynk for deejays in Montego Bay (Flankers).",
+  "targetKeywords": [
+    "trap-dancehall 808 beats montego bay (flankers)",
+    "buy beats montego bay (flankers) lynk",
+    "jamaican trap-dancehall instrumental",
+    "beats in montego bay (flankers) wav download"
+  ],
+  "heroCta": "Download Beats in Montego Bay (Flankers) (Lynk / WAV)",
+  "recommendedBpm": "100-106 BPM",
+  "suggestedKey": "F-Minor / C-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Jamaica",
+  "sceneHub": "Montego Bay (Flankers)"
+},
+  {
+  "slug": "montego-bay-flankers-dancehall-jugglin-riddim",
+  "name": "Montego Bay (Flankers) Dancehall Jugglin Riddim Beats",
+  "badge": "Dancehall Jugglin",
+  "headline": "Dancehall Jugglin Riddim Beats in Montego Bay (Flankers): MoBay & Street Trap Reality",
+  "description": "High-energy 100-112 BPM driving club kicks, bright brass stabs and syncopated snares designed for hitmakers in Montego Bay (Flankers).",
+  "targetKeywords": [
+    "dancehall jugglin riddim beats montego bay (flankers)",
+    "buy beats montego bay (flankers) lynk",
+    "jamaican dancehall jugglin instrumental",
+    "beats in montego bay (flankers) wav download"
+  ],
+  "heroCta": "Download Beats in Montego Bay (Flankers) (Lynk / WAV)",
+  "recommendedBpm": "100-108 BPM",
+  "suggestedKey": "A-Minor / D-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Jamaica",
+  "sceneHub": "Montego Bay (Flankers)"
+},
+  {
+  "slug": "montego-bay-flankers-roots-reggae-one-drop",
+  "name": "Montego Bay (Flankers) Roots Reggae One-Drop Beats",
+  "badge": "Roots Reggae",
+  "headline": "Roots Reggae One-Drop Beats in Montego Bay (Flankers): MoBay & Street Trap Reality",
+  "description": "Warm Hammond organ bubbles, live bass pocket and acoustic one-drop snare rhythms for conscious singers in Montego Bay (Flankers).",
+  "targetKeywords": [
+    "roots reggae one-drop beats montego bay (flankers)",
+    "buy beats montego bay (flankers) lynk",
+    "jamaican roots reggae instrumental",
+    "beats in montego bay (flankers) wav download"
+  ],
+  "heroCta": "Download Beats in Montego Bay (Flankers) (Lynk / WAV)",
+  "recommendedBpm": "74-82 BPM",
+  "suggestedKey": "A-Major / E-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Jamaica",
+  "sceneHub": "Montego Bay (Flankers)"
+},
+  {
+  "slug": "montego-bay-flankers-caribbean-drill-flow",
+  "name": "Montego Bay (Flankers) Caribbean Drill Flow Beats",
+  "badge": "Caribbean Drill",
+  "headline": "Caribbean Drill Flow Beats in Montego Bay (Flankers): MoBay & Street Trap Reality",
+  "description": "Cold minor bells, rapid drill hats and subterranean sliding 808 sub-bass designed for street storytellers in Montego Bay (Flankers).",
+  "targetKeywords": [
+    "caribbean drill flow beats montego bay (flankers)",
+    "buy beats montego bay (flankers) lynk",
+    "jamaican caribbean drill instrumental",
+    "beats in montego bay (flankers) wav download"
+  ],
+  "heroCta": "Download Beats in Montego Bay (Flankers) (Lynk / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "C#-Minor / G#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Jamaica",
+  "sceneHub": "Montego Bay (Flankers)"
+},
+  {
+  "slug": "ocho-rios-whiteriver-trap-dancehall-808",
+  "name": "Ocho Rios (White River) Trap-Dancehall 808 Beats",
+  "badge": "Trap-Dancehall",
+  "headline": "Trap-Dancehall 808 Beats in Ocho Rios (White River): Ocho Rios & Roots Reggae-Dub Fusion",
+  "description": "Minimalist spacious negative space, multi-octave sliding 808s and dark minor bells with instant checkout via Lynk for deejays in Ocho Rios (White River).",
+  "targetKeywords": [
+    "trap-dancehall 808 beats ocho rios (white river)",
+    "buy beats ocho rios (white river) lynk",
+    "jamaican trap-dancehall instrumental",
+    "beats in ocho rios (white river) wav download"
+  ],
+  "heroCta": "Download Beats in Ocho Rios (White River) (Lynk / WAV)",
+  "recommendedBpm": "100-106 BPM",
+  "suggestedKey": "F-Minor / C-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Jamaica",
+  "sceneHub": "Ocho Rios (White River)"
+},
+  {
+  "slug": "ocho-rios-whiteriver-dancehall-jugglin-riddim",
+  "name": "Ocho Rios (White River) Dancehall Jugglin Riddim Beats",
+  "badge": "Dancehall Jugglin",
+  "headline": "Dancehall Jugglin Riddim Beats in Ocho Rios (White River): Ocho Rios & Roots Reggae-Dub Fusion",
+  "description": "High-energy 100-112 BPM driving club kicks, bright brass stabs and syncopated snares designed for hitmakers in Ocho Rios (White River).",
+  "targetKeywords": [
+    "dancehall jugglin riddim beats ocho rios (white river)",
+    "buy beats ocho rios (white river) lynk",
+    "jamaican dancehall jugglin instrumental",
+    "beats in ocho rios (white river) wav download"
+  ],
+  "heroCta": "Download Beats in Ocho Rios (White River) (Lynk / WAV)",
+  "recommendedBpm": "100-108 BPM",
+  "suggestedKey": "A-Minor / D-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Jamaica",
+  "sceneHub": "Ocho Rios (White River)"
+},
+  {
+  "slug": "ocho-rios-whiteriver-roots-reggae-one-drop",
+  "name": "Ocho Rios (White River) Roots Reggae One-Drop Beats",
+  "badge": "Roots Reggae",
+  "headline": "Roots Reggae One-Drop Beats in Ocho Rios (White River): Ocho Rios & Roots Reggae-Dub Fusion",
+  "description": "Warm Hammond organ bubbles, live bass pocket and acoustic one-drop snare rhythms for conscious singers in Ocho Rios (White River).",
+  "targetKeywords": [
+    "roots reggae one-drop beats ocho rios (white river)",
+    "buy beats ocho rios (white river) lynk",
+    "jamaican roots reggae instrumental",
+    "beats in ocho rios (white river) wav download"
+  ],
+  "heroCta": "Download Beats in Ocho Rios (White River) (Lynk / WAV)",
+  "recommendedBpm": "74-82 BPM",
+  "suggestedKey": "A-Major / E-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Jamaica",
+  "sceneHub": "Ocho Rios (White River)"
+},
+  {
+  "slug": "ocho-rios-whiteriver-caribbean-drill-flow",
+  "name": "Ocho Rios (White River) Caribbean Drill Flow Beats",
+  "badge": "Caribbean Drill",
+  "headline": "Caribbean Drill Flow Beats in Ocho Rios (White River): Ocho Rios & Roots Reggae-Dub Fusion",
+  "description": "Cold minor bells, rapid drill hats and subterranean sliding 808 sub-bass designed for street storytellers in Ocho Rios (White River).",
+  "targetKeywords": [
+    "caribbean drill flow beats ocho rios (white river)",
+    "buy beats ocho rios (white river) lynk",
+    "jamaican caribbean drill instrumental",
+    "beats in ocho rios (white river) wav download"
+  ],
+  "heroCta": "Download Beats in Ocho Rios (White River) (Lynk / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "C#-Minor / G#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Jamaica",
+  "sceneHub": "Ocho Rios (White River)"
+},
+  {
+  "slug": "negril-sevenmile-trap-dancehall-808",
+  "name": "Negril (Seven Mile) Trap-Dancehall 808 Beats",
+  "badge": "Trap-Dancehall",
+  "headline": "Trap-Dancehall 808 Beats in Negril (Seven Mile): Negril & Sunset Lovers Rock",
+  "description": "Minimalist spacious negative space, multi-octave sliding 808s and dark minor bells with instant checkout via Lynk for deejays in Negril (Seven Mile).",
+  "targetKeywords": [
+    "trap-dancehall 808 beats negril (seven mile)",
+    "buy beats negril (seven mile) lynk",
+    "jamaican trap-dancehall instrumental",
+    "beats in negril (seven mile) wav download"
+  ],
+  "heroCta": "Download Beats in Negril (Seven Mile) (Lynk / WAV)",
+  "recommendedBpm": "100-106 BPM",
+  "suggestedKey": "F-Minor / C-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Jamaica",
+  "sceneHub": "Negril (Seven Mile)"
+},
+  {
+  "slug": "negril-sevenmile-dancehall-jugglin-riddim",
+  "name": "Negril (Seven Mile) Dancehall Jugglin Riddim Beats",
+  "badge": "Dancehall Jugglin",
+  "headline": "Dancehall Jugglin Riddim Beats in Negril (Seven Mile): Negril & Sunset Lovers Rock",
+  "description": "High-energy 100-112 BPM driving club kicks, bright brass stabs and syncopated snares designed for hitmakers in Negril (Seven Mile).",
+  "targetKeywords": [
+    "dancehall jugglin riddim beats negril (seven mile)",
+    "buy beats negril (seven mile) lynk",
+    "jamaican dancehall jugglin instrumental",
+    "beats in negril (seven mile) wav download"
+  ],
+  "heroCta": "Download Beats in Negril (Seven Mile) (Lynk / WAV)",
+  "recommendedBpm": "100-108 BPM",
+  "suggestedKey": "A-Minor / D-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Jamaica",
+  "sceneHub": "Negril (Seven Mile)"
+},
+  {
+  "slug": "negril-sevenmile-roots-reggae-one-drop",
+  "name": "Negril (Seven Mile) Roots Reggae One-Drop Beats",
+  "badge": "Roots Reggae",
+  "headline": "Roots Reggae One-Drop Beats in Negril (Seven Mile): Negril & Sunset Lovers Rock",
+  "description": "Warm Hammond organ bubbles, live bass pocket and acoustic one-drop snare rhythms for conscious singers in Negril (Seven Mile).",
+  "targetKeywords": [
+    "roots reggae one-drop beats negril (seven mile)",
+    "buy beats negril (seven mile) lynk",
+    "jamaican roots reggae instrumental",
+    "beats in negril (seven mile) wav download"
+  ],
+  "heroCta": "Download Beats in Negril (Seven Mile) (Lynk / WAV)",
+  "recommendedBpm": "74-82 BPM",
+  "suggestedKey": "A-Major / E-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Jamaica",
+  "sceneHub": "Negril (Seven Mile)"
+},
+  {
+  "slug": "negril-sevenmile-caribbean-drill-flow",
+  "name": "Negril (Seven Mile) Caribbean Drill Flow Beats",
+  "badge": "Caribbean Drill",
+  "headline": "Caribbean Drill Flow Beats in Negril (Seven Mile): Negril & Sunset Lovers Rock",
+  "description": "Cold minor bells, rapid drill hats and subterranean sliding 808 sub-bass designed for street storytellers in Negril (Seven Mile).",
+  "targetKeywords": [
+    "caribbean drill flow beats negril (seven mile)",
+    "buy beats negril (seven mile) lynk",
+    "jamaican caribbean drill instrumental",
+    "beats in negril (seven mile) wav download"
+  ],
+  "heroCta": "Download Beats in Negril (Seven Mile) (Lynk / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "C#-Minor / G#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Jamaica",
+  "sceneHub": "Negril (Seven Mile)"
+},
 ];
