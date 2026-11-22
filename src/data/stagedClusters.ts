@@ -148665,4 +148665,1103 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
   "market": "Ireland",
   "sceneHub": "Limerick (Moyross)"
 },
+  {
+  "slug": "el-alfa-el-animal-stadium-dembow",
+  "title": "El Alfa El Animal Stadium Fanfare Horns & Frenetic 128 BPM Dembow Beat",
+  "description": "High-octane, stadium-rocking Dominican dembow inspired by El Alfa El Jefe (Singapur, 4K, Coronao Now, Suave, Este Tema Ta To): driving 126-128 BPM syncopated kick patterns, frenetic vocal chops, explosive brass horns, and worldwide club energy.",
+  "targetKeywords": [
+    "el alfa type beat",
+    "el alfa dembow beat 128 bpm",
+    "dembow dominicano pesado beat",
+    "el jefe stadium dembow wav",
+    "el alfa instrumental"
+  ],
+  "heroCta": "Comprar Beat Estilo El Alfa (Instant WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "Global Club Banger, Stadium Tour Opener and Viral TikTok Dance Anthem",
+  "similarArtists": [
+    "El Alfa",
+    "CJ",
+    "Farruko",
+    "Lil Jon"
+  ],
+  "recommendedBpm": "126-130 BPM",
+  "productionTips": "Layered brass horns and syncopated dembow snare cracks with high-velocity transient shaping and a thick, punchy kick drum.",
+  "idealVocalStyle": "High-energy shouting cadence, rapid-fire staccato delivery, iconic Dominican catchphrases, and explosive hook chants.",
+  "suggestedKey": "D Minor / G Minor",
+  "streamingSuitability": "Engineered for international DSP charts, Baila Reggaetón, and global nightclub sound systems."
+},
+  {
+  "slug": "tokischa-chulita-rebel-raw-dembow",
+  "title": "Tokischa Chulita Raw Underground Street Punk & Provocative Dembow Beat",
+  "description": "Boundary-shattering, raw Dominican street dembow inspired by Tokischa (Linda, Delincuente, Perra, Estilazo, Kilos de Amor): hypnotic syncopated snares, quirky distorted synth riffs, unfiltered underground bars, and provocative charisma.",
+  "targetKeywords": [
+    "tokischa type beat",
+    "tokischa dembow beat wav",
+    "raw dominican dembow instrumental",
+    "tokischa rosalia style beat",
+    "provocative dembow beat"
+  ],
+  "heroCta": "Comprar Beat Estilo Tokischa (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Provocative Club Anthem, High-Fashion Runway Visualizer and Defiant Street Single",
+  "similarArtists": [
+    "Tokischa",
+    "Rosalía",
+    "Madonna (Hung Up on Tokischa)",
+    "Villano Antillano"
+  ],
+  "recommendedBpm": "120-125 BPM",
+  "productionTips": "Stripped-back, aggressive dembow percussion with gritty synth basslines and unexpected micro-pauses that accentuate raw vocal delivery.",
+  "idealVocalStyle": "Sensual whispers, aggressive spoken-word declarations, unapologetic Dominican barrio slang, and punk rock energy.",
+  "suggestedKey": "C Minor / F Minor",
+  "streamingSuitability": "Dominates alternative Latin charts, underground club nights, and viral TikTok trends worldwide."
+},
+  {
+  "slug": "rochy-rd-team-wawawa-callejero-drill",
+  "title": "Rochy RD Team Wawawa Barrio Tension & Heavy Dominican 808 Drill Beat",
+  "description": "Authentic Dominican barrio street reality inspired by Rochy RD (Ella No Es Tuya, Alta Gama, Rumba, Mi Flaca, Los Iluminaty): dark minor melodies, aggressive 808 drill glides, and distinctive authentic Wawawa street cadence.",
+  "targetKeywords": [
+    "rochy rd type beat",
+    "team wawawa drill beat",
+    "rochy rd instrumental wav",
+    "drill dominicano 808 beat",
+    "alta gama rochy rd beat"
+  ],
+  "heroCta": "Comprar Beat Estilo Rochy RD (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Street Narrative Single, Underground Cypher and Hardcore Dominican Video",
+  "similarArtists": [
+    "Rochy RD",
+    "Myke Towers (Remix)",
+    "Onguito Wa",
+    "El Cherry Scom"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "productionTips": "Brooding minor grand piano stabs drenched in dark reverb, paired with saturated 808s and sharp counter-snare rolls.",
+  "idealVocalStyle": "Gritty low baritone delivery, authentic Dominican street vernacular (Wawawa), and effortless street cadence.",
+  "suggestedKey": "D Minor / A Minor",
+  "streamingSuitability": "Prime placement on Dominican Republic Top 50, Trap Callejero, and urban gym workout playlists."
+},
+  {
+  "slug": "angel-dior-a-io-high-speed-chuchero",
+  "title": "Angel Dior A I O High-Speed Chuchero Stuttering Synths & 130 BPM Beat",
+  "description": "Hyperactive, lightning-speed 130 BPM Chuchero dembow inspired by Angel Dior (A I O, Piropi, Zapas, Tuntun): high-frequency stuttering synths, rapid-fire staccato vocal delivery, and viral TikTok club madness.",
+  "targetKeywords": [
+    "angel dior type beat",
+    "a i o angel dior beat",
+    "chuchero dembow beat 130 bpm",
+    "angel dior instrumental wav",
+    "fast dembow dominicano beat"
+  ],
+  "heroCta": "Comprar Beat Estilo Angel Dior (Instant WAV)",
+  "energyLevel": "Maximum",
+  "primaryUse": "Viral TikTok Dance Craze, High-Speed Nightclub Peak and High-Adrenaline Party Track",
+  "similarArtists": [
+    "Angel Dior",
+    "El Alfa",
+    "Rauw Alejandro (Tamayo)",
+    "Kiko el Crazy"
+  ],
+  "recommendedBpm": "128-134 BPM",
+  "productionTips": "Rapid syncopated dembow kicks layered with sharp synth horn stabs and micro-pitched glitch FX.",
+  "idealVocalStyle": "Staccato rapid-fire delivery, distinctive repetitive onomatopoeias, high energy, and wild party attitude.",
+  "suggestedKey": "E Minor / B Minor",
+  "streamingSuitability": "Guaranteed viral explosion across TikTok, Reels, and international club sound systems."
+},
+  {
+  "slug": "chimbala-bateria-carnaval-party-dembow",
+  "title": "Chimbala El Juidero Festive Carnival Tambora Horns & Party Dembow Beat",
+  "description": "Festive carnival party dembow inspired by Chimbala (El Juidero, Loco, Rueda, Feliz): driving Dominican güira, punchy tambora accents, infectious call-and-response party chants, and radio club bounce.",
+  "targetKeywords": [
+    "chimbala type beat",
+    "el juidero type beat wav",
+    "carnaval dembow dominicano beat",
+    "chimbala instrumental",
+    "party dembow banger beat"
+  ],
+  "heroCta": "Comprar Beat Estilo Chimbala (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Carnival Street Anthem, Summer Party Lead Single and DJ Set Peak",
+  "similarArtists": [
+    "Chimbala",
+    "Omega El Fuerte",
+    "Kiko el Crazy",
+    "Zion & Lennox"
+  ],
+  "recommendedBpm": "124-128 BPM",
+  "productionTips": "Live recorded Dominican güira scrapers and tambora rimshots locked to a punchy electronic 126 BPM dembow kick groove.",
+  "idealVocalStyle": "Celebratory shouting delivery, catchy party catchphrases, crowd-participatory hooks, and unstoppable charisma.",
+  "suggestedKey": "G Major / C Major",
+  "streamingSuitability": "Massive airplay across Dominican radio stations, Latin carnival circuits, and party playlists."
+},
+  {
+  "slug": "yailin-la-mas-viral-chivirika-perreo",
+  "title": "Yailin La Más Viral Chivirika Sassy Baddie 808s & Street Perreo Beat",
+  "description": "Fiery, viral feminine street perreo and dembow inspired by Yailin La Más Viral (Chivirika, Si Tu Me Busca, Mia, Narcisista): heavy club kicks, sassy punchlines, and unapologetic club anthem swagger.",
+  "targetKeywords": [
+    "yailin la mas viral type beat",
+    "chivirika type beat wav",
+    "baddie dembow beat",
+    "yailin perreo instrumental",
+    "female street dembow beat"
+  ],
+  "heroCta": "Comprar Beat Estilo Yailin (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Viral Baddie Anthem, Nightclub Peak Single and Social Media Dance Video",
+  "similarArtists": [
+    "Yailin La Más Viral",
+    "Tokischa",
+    "La Perversa",
+    "Karol G"
+  ],
+  "recommendedBpm": "122-126 BPM",
+  "productionTips": "Heavy, saturated 808 sub hits with punchy dembow snare rolls and bright synth plucks leaving room for vocal attitude.",
+  "idealVocalStyle": "Sassy street singing, bold punchlines, provocative hooks, and empowering feminine attitude.",
+  "suggestedKey": "A Minor / D Minor",
+  "streamingSuitability": "Top viral reach on TikTok, Instagram Reels, and Latin Urban Baddie playlists."
+},
+  {
+  "slug": "bachata-urbana-romeo-requinto-trap",
+  "title": "Bachata Urbana Romeo Santos Requinto Chops & Bongo 808 Trap Beat",
+  "description": "Authentic Dominican urban bachata-trap paying homage to Romeo Santos and Aventura: delicate fingerpicked acoustic Requinto guitar arpeggios, syncopated bongo and güira grooves, and warm 808 sub drops.",
+  "targetKeywords": [
+    "bachata trap beat romeo santos",
+    "requinto bachata beat 808",
+    "bachata urbana instrumental wav",
+    "aventura style trap beat",
+    "bachata hip hop beat"
+  ],
+  "heroCta": "Comprar Beat Bachata Urbana (Instant WAV)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Heartfelt Commercial Romance Single, Latin Pop Crossover and Seductive Music Video",
+  "similarArtists": [
+    "Romeo Santos",
+    "Prince Royce",
+    "Aventura",
+    "Bad Bunny (Volví)"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "productionTips": "Authentic acoustic Requinto guitar loops recorded with bright piezo clarity over traditional bongo-güira rhythms and deep 808s.",
+  "idealVocalStyle": "Emotional high tenor falsetto runs, sensual Spanish lyrics, passionate confessions, and smooth R&B phrasing.",
+  "suggestedKey": "B Minor / E Minor",
+  "streamingSuitability": "Massive crossover appeal across Bachata Lovers, Viva Latino, and romantic radio formats."
+},
+  {
+  "slug": "merengue-de-calle-saxo-punteo-mambo",
+  "title": "Merengue de Calle Omega El Fuerte High-Speed Brass Sax & Tambora Beat",
+  "description": "Blistering, high-energy Dominican street mambo inspired by Omega El Fuerte: 140+ BPM live saxophone riffs, syncopated slap tambora, driving güira, and heavy electronic basslines for high-speed street energy.",
+  "targetKeywords": [
+    "merengue de calle beat",
+    "omega el fuerte type beat",
+    "mambo de calle instrumental wav",
+    "saxo mambo dominicano beat",
+    "street mambo 140 bpm"
+  ],
+  "heroCta": "Comprar Beat Mambo de Calle (WAV 24-bit)",
+  "energyLevel": "Maximum",
+  "primaryUse": "Street Party Anthem, High-Speed Dance Challenge and Dominican Sound System Peak",
+  "similarArtists": [
+    "Omega El Fuerte",
+    "El Sujeto Oro 24",
+    "Tito Swing",
+    "Ala Jaza"
+  ],
+  "recommendedBpm": "138-144 BPM",
+  "productionTips": "Punchy live tambora drum slap accents paired with bright brass saxophone lines and driving synth bass.",
+  "idealVocalStyle": "Gravelly street singing, aggressive party chants, rapid-fire improvisations, and commanding stage energy.",
+  "suggestedKey": "D Minor / G Minor",
+  "streamingSuitability": "Dominates Dominican street parties, car audio competitions, and viral Latin dance trends."
+},
+  {
+  "slug": "palo-y-atabales-afro-dominican-trap",
+  "title": "Palo & Atabales Afro-Dominican Sacred Percussion & Deep 808 Trap Beat",
+  "description": "Sacred, awe-inspiring Afro-Dominican cultural crossover: traditional Palo (Atabales) ritual drumming fused with modern 808 sub bass, guataca iron bells, and ancestral urban rhythm pocket.",
+  "targetKeywords": [
+    "palo afro dominicano trap beat",
+    "atabales trap beat 808",
+    "musica de palo beat wav",
+    "afro dominican hip hop beat",
+    "palo y congo trap beat"
+  ],
+  "heroCta": "Comprar Beat Palo-Trap (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Cultural Masterpiece, Ancestral Pride Anthem and International Festival Showcase",
+  "similarArtists": [
+    "Riccie Oriach",
+    "Yasser Tejeda",
+    "Tokischa (Palo)",
+    "La Marimba"
+  ],
+  "recommendedBpm": "100-108 BPM",
+  "productionTips": "Authentic Palo drum polyrhythms recorded with analog depth, layered with sub-bass 808 drops and trap hi-hats.",
+  "idealVocalStyle": "Passionate ancestral chanting, spiritual social commentary, powerful Afro-Caribbean vocal projection, and raw conviction.",
+  "suggestedKey": "G Minor / C Minor",
+  "streamingSuitability": "Celebrated by global music purists, cultural platforms, and Latin Grammy alternative categories."
+},
+  {
+  "slug": "santo-domingo-malecon-warm-sunset-lofi",
+  "title": "Santo Domingo Malecón Caribbean Sunset Nylon Guitar & Warm Lofi Beat",
+  "description": "Atmospheric, nostalgic tropical sunset along the Santo Domingo Malecón and Caribbean Sea: gentle ocean breeze Foley, warm fingerpicked nylon guitar chords, and unquantized lofi boom bap drums.",
+  "targetKeywords": [
+    "santo domingo lofi beat",
+    "caribbean sunset chillhop beat",
+    "malecon lofi beat wav",
+    "dominican lofi study beat",
+    "guitarra lofi republica dominicana"
+  ],
+  "heroCta": "Comprar Beat Malecón Lofi (Instant WAV)",
+  "energyLevel": "Low-Medium",
+  "primaryUse": "Nocturnal Reflection, Study and Chillout Background and Aesthetic Caribbean Visualizer",
+  "similarArtists": [
+    "Alex Ferreira",
+    "Vicente García (Lofi)",
+    "ChilledCow",
+    "Tom Misch"
+  ],
+  "recommendedBpm": "82-86 BPM",
+  "productionTips": "Warm acoustic nylon guitar recorded with analog preamps, textured with ocean surf Foley and soft acoustic kicks.",
+  "idealVocalStyle": "Intimate poetic whisper, gentle spoken word, melodic Spanish hums, and late-night nostalgic observations.",
+  "suggestedKey": "F Major / D Minor",
+  "streamingSuitability": "Evergreen placement on lofi study playlists, tropical chillout streams, and aesthetic YouTube channels."
+},
+  {
+  "slug": "los-mina-callejon-subterranean-drill",
+  "title": "Los Mina Callejón Raw Barrio Reality Sirens & Subterranean 808 Drill Beat",
+  "description": "Raw, unapologetic Los Mina and Capotillo street reality: screeching siren textures, cold minor bell ostinatos, and subterranean sliding 808 glides engineered for authentic Dominican street storytellers.",
+  "targetKeywords": [
+    "los mina drill beat 808",
+    "capotillo callejon drill beat",
+    "drill dominicano subterraneo wav",
+    "rochy rd callejon drill beat",
+    "barrio street rap beat rd"
+  ],
+  "heroCta": "Comprar Beat Los Mina Drill (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hardcore Street Record, Gritty Music Video and Underground Dominican Cypher",
+  "similarArtists": [
+    "Rochy RD",
+    "Luar La L",
+    "YOVNGCHIMI",
+    "Onguito Wa"
+  ],
+  "recommendedBpm": "142-145 BPM",
+  "productionTips": "Menacing minor bell progressions, aggressive multi-octave 808 slides, and piercing snares tuned for street impact.",
+  "idealVocalStyle": "Gritty low baritone delivery, fast drill flows, raw Dominican street slang, and dark atmospheric ad-libs.",
+  "suggestedKey": "F# Minor / C# Minor",
+  "streamingSuitability": "High virality on SoundCloud, YouTube street cyphers, and underground urban circuits in the Dominican Republic."
+},
+  {
+  "slug": "cabarete-kite-surf-atlantic-cloud-trap",
+  "title": "Cabarete Atlantic Surf Breeze Tropical Marimba & Cloud Trap Beat",
+  "description": "Breezy, sun-kissed coastal reflection inspired by Cabarete and Sosúa: tropical marimba plucks, bright synthesizer pads, and relaxed 808 cloud trap grooves for chill beachside singles.",
+  "targetKeywords": [
+    "cabarete cloud trap beat",
+    "sosua tropical beat wav",
+    "marimba trap beat dominicana",
+    "atlantic surf cloud rap beat",
+    "caribbean beach trap beat"
+  ],
+  "heroCta": "Comprar Beat Cabarete Cloud Trap (Instant WAV)",
+  "energyLevel": "Medium",
+  "primaryUse": "Beach Vlog Soundtrack, Chill Summer Single and Late-Night Drive Along the North Coast",
+  "similarArtists": [
+    "Vicente García",
+    "Rauw Alejandro (Playa)",
+    "Mora",
+    "Buscabulla"
+  ],
+  "recommendedBpm": "116-124 BPM",
+  "productionTips": "Sunny marimba arpeggios layered with lush plate reverb tails and a deep, rounded sub bass.",
+  "idealVocalStyle": "Relaxed melodic singing, romantic Spanish wordplay, and breezy summer hooks.",
+  "suggestedKey": "G Major / E Minor",
+  "streamingSuitability": "Ideal for Summer Hits, Beach Vibes, and Caribbean Chill playlists across DSPs."
+},
+  {
+  "slug": "bases-dembow-dominicano-baratas-tpago-dop",
+  "title": "Bases de Dembow Dominicano Baratas desde $1.500 DOP (Pago Instan con tPago & Banreservas)",
+  "description": "Instrumentales profesionales de dembow dominicano, trap y bachata desde $1.500 DOP (~$25 USD) con pago instantáneo en pesos dominicanos mediante tPago, Banreservas, Banco Popular y Banco BHD.",
+  "targetKeywords": [
+    "bases dembow dominicano baratas tpago dop",
+    "comprar bases dembow republica dominicana",
+    "pistas dembow baratas pesos dominicanos",
+    "instrumentales dembow dominicano tpago"
+  ],
+  "heroCta": "Ver Bases desde $1.500 DOP (Paga con tPago)",
+  "energyLevel": "Variable",
+  "primaryUse": "Singles Debut, Grabación en Home Studio y Mixtapes de Calle con Licencia Comercial",
+  "similarArtists": [
+    "Artistas Urbanos Emergentes Dominicanos",
+    "Creadores de YouTube y TikTok"
+  ],
+  "recommendedBpm": "118-132 BPM",
+  "productionTips": "Pre-mezcladas con espacio dinámico para voces en español caribeño con procesamiento de compresión y autotune.",
+  "idealVocalStyle": "Adaptable para dembow acelerado, trap callejero o coros melódicos pegajosos.",
+  "suggestedKey": "Todas las tonalidades disponibles",
+  "streamingSuitability": "Licencia comercial con hasta 250.000 reproducciones en Spotify, Apple Music y YouTube."
+},
+  {
+  "slug": "pistas-dembow-acelerado-128-bpm-wav-stems",
+  "title": "Pistas de Dembow Acelerado a 128 BPM con Stems WAV (Estilo El Alfa & Angel Dior)",
+  "description": "Instrumentales de dembow dominicano acelerado a 128 BPM con golpes de percusión demoledores y sintetizadores cortantes, entregadas con todas las pistas de audio WAV sin compresión (stems multitrack) para mezcla en estudio.",
+  "targetKeywords": [
+    "pistas dembow acelerado 128 bpm wav stems",
+    "dembow 128 bpm pistas separadas",
+    "comprar bases dembow stems santo domingo",
+    "el alfa angel dior instrumental wav"
+  ],
+  "heroCta": "Descargar Pistas Dembow + Stems WAV",
+  "energyLevel": "Maximum",
+  "primaryUse": "Mezcla en Estudio Profesional, Grabación de Álbum y Masterización para Discotecas",
+  "similarArtists": [
+    "El Alfa",
+    "Angel Dior",
+    "Chimbala",
+    "Kiko el Crazy"
+  ],
+  "recommendedBpm": "126-130 BPM",
+  "productionTips": "Pistas separadas en formato WAV 24-bit 48kHz con etiquetas de tempo y tono exactas para fácil importación en tu DAW.",
+  "idealVocalStyle": "Voces de alta velocidad, estribillos repetitivos de fiesta y barras energéticas.",
+  "suggestedKey": "Re Menor / Sol Menor",
+  "streamingSuitability": "Apto para lanzamientos en grandes discográficas y rotación radial internacional."
+},
+  {
+  "slug": "pistas-bachata-trap-acustica-requinto-wav",
+  "title": "Pistas de Bachata Urbana & Trap con Requinto Acústico (Estilo Romeo Santos & Aventura)",
+  "description": "Instrumentales de bachata urbana con arpegios de requinto acústico real, ritmo de bongo-güira y subgraves 808 profundos, diseñadas para éxitos radiales románticos de alta fidelidad.",
+  "targetKeywords": [
+    "pistas bachata trap acustica requinto wav",
+    "bachata urbana instrumental download",
+    "bases bachata trap estilo romeo santos",
+    "requinto bachata beat wav 24 bit"
+  ],
+  "heroCta": "Escuchar Pistas Bachata Urbana con Requinto",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Single Romántico Comercial, Colaboración Pop-Latina y Balada Urbana de Impacto",
+  "similarArtists": [
+    "Romeo Santos",
+    "Prince Royce",
+    "Aventura",
+    "Bad Bunny"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "productionTips": "Guitarras requinto capturadas con micrófonos de condensador analógicos sobre bajos 808 cálidos y baterías de bachata limpias.",
+  "idealVocalStyle": "Voz melódica con sentimiento, falsetes suaves y letras emotivas de desamor o romance.",
+  "suggestedKey": "Si Menor / Mi Menor",
+  "streamingSuitability": "Diseñado para posicionarse en listas de reproducción como Bachata Lovers y Viva Latino."
+},
+  {
+  "slug": "contrato-licencia-beat-sgacedom-onda-pdf",
+  "title": "Contrato de Licencia de Beats Dominicano (Conforme a SGACEDOM, ONDA & Ley 65-00)",
+  "description": "Contrato legal de producción musical 100% conforme a las normativas de la Sociedad General de Autores (SGACEDOM), la ONDA y la Ley 65-00 sobre Derecho de Autor con descarga inmediata de contrato en PDF firmado y split sheet.",
+  "targetKeywords": [
+    "contrato licencia beat sgacedom onda pdf",
+    "contrato compra beat republica dominicana",
+    "licencia beat dembow sgacedom pdf",
+    "split sheet productor musical dominicana"
+  ],
+  "heroCta": "Comprar Beat con Contrato SGACEDOM en PDF",
+  "energyLevel": "Profesional",
+  "primaryUse": "Registro Legal de Obras ante la ONDA/SGACEDOM, Distribución Digital y Cobro de Regalías",
+  "similarArtists": [
+    "Compositores y Productores Afiliados a SGACEDOM"
+  ],
+  "recommendedBpm": "Aplicable a todos los tempos",
+  "productionTips": "Términos claros: 50/50 en split de regalías editoriales (publishing) y 100% de ingresos de máster hasta el límite acordado.",
+  "idealVocalStyle": "Esencial para cualquier estilo vocal con aspiraciones de monetización profesional.",
+  "suggestedKey": "Estándar Legal Universal",
+  "streamingSuitability": "Protección jurídica total para subir temas a Spotify, monetizar en Content ID y sonar en radio dominicana."
+},
+  {
+  "slug": "comprar-beats-tpago-banreservas-republica-dominicana",
+  "title": "Comprar Beats con tPago & Banreservas en República Dominicana (Descarga Inmediata en DOP)",
+  "description": "La forma más fácil y rápida de comprar instrumentales en República Dominicana: paga directo con tPago, transferencias Banreservas, Banco Popular o BHD y recibe la descarga automática de archivos WAV y contrato.",
+  "targetKeywords": [
+    "comprar beats tpago banreservas republica dominicana",
+    "comprar pistas dembow tpago",
+    "tienda de beats dominicana banreservas",
+    "beats dembow pago tpago inmediato"
+  ],
+  "heroCta": "Comprar Beats con tPago / Banreservas Ahora",
+  "energyLevel": "Instantáneo",
+  "primaryUse": "Compra Rápida de Beats para Sesiones de Grabación Urgentes en Santo Domingo y Santiago",
+  "similarArtists": [
+    "Creadores Urbanos en Santo Domingo, Santiago, San Cristóbal y La Romana"
+  ],
+  "recommendedBpm": "85-150 BPM",
+  "productionTips": "Sistema de entrega instantánea por correo electrónico con enlaces de descarga de alta velocidad.",
+  "idealVocalStyle": "Apto para todos los géneros urbanos dominicanos.",
+  "suggestedKey": "Multitonal",
+  "streamingSuitability": "Descarga instantánea con licencia lista para distribución comercial inmediata."
+},
+  {
+  "slug": "paquete-5-beats-album-dembow-descuento",
+  "title": "Paquetes de Beats para EP y Álbum en República Dominicana (40% de Descuento en DOP)",
+  "description": "Ahorra un 40% adquiriendo paquetes de 5 a 10 instrumentales coordinadas sónicamente para producir tu próximo EP, mixtape o álbum de dembow y trap en República Dominicana con licencia unificada.",
+  "targetKeywords": [
+    "paquete 5 beats album dembow descuento",
+    "bundle instrumentales ep dembow dominicana",
+    "comprar beats por mayor santo domingo dop",
+    "paquete de pistas dembow barato rd"
+  ],
+  "heroCta": "Conseguir Paquete para Álbum (40% Off)",
+  "energyLevel": "Variable",
+  "primaryUse": "Producción Integral de Discos, Conceptos Musicales Coherentes y Lanzamientos Periódicos",
+  "similarArtists": [
+    "Dembowseros en Desarrollo y Colectivos Urbanos Independientes"
+  ],
+  "recommendedBpm": "88-142 BPM",
+  "productionTips": "Curaduría armónica y dinámica coordinada para garantizar una experiencia de escucha fluida en todo tu proyecto.",
+  "idealVocalStyle": "Amplitud para que el artista demuestre su versatilidad lírica y rítmica.",
+  "suggestedKey": "Gama Armónica Completa",
+  "streamingSuitability": "Licencia comercial unificada que cubre todos los temas de tu proyecto a la vez."
+},
+  {
+  "slug": "productor-musical-republica-dominicana-whatsapp-onzieb",
+  "title": "Productor Musical Exclusivo para República Dominicana (WhatsApp Directo con Onzieb)",
+  "description": "Trabaja mano a mano con el productor musical Onzieb mediante WhatsApp para ordenar pistas personalizadas: cambios de tonalidad, arreglos de estructura a medida y producción exclusiva de dembow, trap y mambo.",
+  "targetKeywords": [
+    "productor musical republica dominicana whatsapp onzieb",
+    "onzieb productor dembow dominicana",
+    "encargar beat personalizado santo domingo whatsapp",
+    "beatmaker republica dominicana contacto whatsapp"
+  ],
+  "heroCta": "Hablar con Onzieb por WhatsApp",
+  "energyLevel": "Personalizado",
+  "primaryUse": "Producción Exclusiva a Medida, Creación de Identidad Sonora y Singles Principales",
+  "similarArtists": [
+    "Onzieb",
+    "Productores Urbanos de Primer Nivel en Quisqueya"
+  ],
+  "recommendedBpm": "Adaptado exactamente al flujo y tesitura del artista",
+  "productionTips": "Comunicación ágil por notas de voz en WhatsApp para pulir detalles de mezcla y composición en tiempo real.",
+  "idealVocalStyle": "Diseñado milimétricamente para exaltar el timbre y carácter vocal del intérprete.",
+  "suggestedKey": "Tono Personalizado a Medida",
+  "streamingSuitability": "Cesión exclusiva con 100% de derechos master para lanzamientos comerciales sin límites."
+},
+  {
+  "slug": "bases-drill-dominicano-wawawa-rochy",
+  "title": "Bases de Drill Dominicano Callejero (Estilo Rochy RD & Team Wawawa)",
+  "description": "Instrumentales de drill dominicano oscuro y callejero con campanas menores glaciales, cajas penetrantes y bajos 808 distorsionados inspirados en el sonido combativo de los barrios de Santo Domingo.",
+  "targetKeywords": [
+    "bases drill dominicano wawawa rochy",
+    "drill dominicano 808 beat wav",
+    "instrumentales team wawawa download",
+    "rochy rd drill instrumental"
+  ],
+  "heroCta": "Escuchar Bases de Drill Dominicano",
+  "energyLevel": "Very High",
+  "primaryUse": "Single de Calle, Freestyle de Barrio y Cypher de Rap Pesado",
+  "similarArtists": [
+    "Rochy RD",
+    "Onguito Wa",
+    "Luar La L",
+    "YOVNGCHIMI"
+  ],
+  "recommendedBpm": "138-144 BPM",
+  "productionTips": "Bajos 808 saturados con compresión paralela y melodías góticas en pianos menores que dejan espacio al flow.",
+  "idealVocalStyle": "Rimas duras, jerga callejera dominicana, mensaje de realidad social y entrega contundente.",
+  "suggestedKey": "Do Menor / Sol Menor",
+  "streamingSuitability": "Inmejorable para el circuito del rap dominicano callejero, gimnasios y competencias urbanas."
+},
+  {
+  "slug": "bases-mambo-de-calle-saxo-omega-wav",
+  "title": "Bases de Merengue de Calle & Mambo con Saxofón (Estilo Omega El Fuerte & Ala Jaza)",
+  "description": "Instrumentales explosivas de mambo callejero dominicano a 140 BPM con arreglos enérgicos de saxofón en vivo, tambora con swing y bajos electrónicos demoledores para encender fiestas y clubes.",
+  "targetKeywords": [
+    "bases mambo de calle saxo omega wav",
+    "merengue mambo instrumental download",
+    "omega el fuerte mambo beat",
+    "mambo dominicano saxo beat wav"
+  ],
+  "heroCta": "Descubrir Beats Mambo de Calle",
+  "energyLevel": "Maximum",
+  "primaryUse": "Hit de Fiesta Callejera, Descontrol en Discotecas y Desafíos de Baile",
+  "similarArtists": [
+    "Omega El Fuerte",
+    "Ala Jaza",
+    "Tito Swing",
+    "El Sujeto Oro 24"
+  ],
+  "recommendedBpm": "138-144 BPM",
+  "productionTips": "Metales de saxofón procesados con brillo y pegada analógica sobre tambora dominicana rápida y subgraves secos.",
+  "idealVocalStyle": "Voces aceleradas, coros fiesteros directos y actitud rebelde de fiesta nocturna.",
+  "suggestedKey": "Re Menor / La Menor",
+  "streamingSuitability": "Altísima viralidad en redes sociales, fiestas urbanas y boliches de todo el Caribe."
+},
+  {
+  "slug": "drum-kit-dembow-dominicano-gratis-wav",
+  "title": "Drum Kit de Dembow Dominicano Gratis (Samples WAV 24-Bit, Güiras, Tamboras & Kicks)",
+  "description": "Descarga gratis nuestro pack de sonidos para productores de música urbana dominicana: 35 bajos 808 afinados, golpes secos de dembow, redobles de güira tradicional y tamboras en formato WAV 24-bit de estudio.",
+  "targetKeywords": [
+    "drum kit dembow dominicano gratis wav",
+    "libreria dembow gratis fl studio",
+    "samples guira dominicana wav download",
+    "pack dembow el alfa gratis download"
+  ],
+  "heroCta": "Descargar Drum Kit Dominicano Gratis (ZIP)",
+  "energyLevel": "High",
+  "primaryUse": "Producción Musical en Home Studio, Beatmaking en FL Studio, Ableton Live y Logic Pro",
+  "similarArtists": [
+    "Beatmakers Independientes Dominicanos",
+    "Productores Urbanos Emergentes"
+  ],
+  "recommendedBpm": "Compatible con todos los tempos de 90 a 145 BPM",
+  "productionTips": "Sonidos one-shot procesados con ecualización de estudio y transientes nítidos 100% libres de derechos.",
+  "idealVocalStyle": "Cimientos rítmicos indestructibles para componer temas profesionales con el auténtico sonido de la isla.",
+  "suggestedKey": "Afinados en Do (C) para fácil afinación en tu sampler",
+  "streamingSuitability": "Completamente libre de regalías (Royalty-Free) para temas comerciales y venta de beats."
+},
+  {
+  "slug": "santo-domingo-capotillo-dembow-chuchero-128bpm",
+  "name": "Santo Domingo (Capotillo) Dembow Chuchero 128 BPM Beats",
+  "badge": "Dembow Chuchero",
+  "headline": "Dembow Chuchero 128 BPM Beats en Santo Domingo (Capotillo): Capotillo & Cuna del Dembow Callejero",
+  "description": "Dembow acelerado a 128 BPM, sintetizadores cortantes y güira dominicana con pago instantáneo por tPago para artistas en Santo Domingo (Capotillo).",
+  "targetKeywords": [
+    "dembow chuchero 128 bpm beats santo domingo (capotillo)",
+    "comprar beats santo domingo (capotillo) tpago",
+    "pistas de dembow chuchero dominicana",
+    "instrumentales en santo domingo (capotillo) wav"
+  ],
+  "heroCta": "Descargar Beats en Santo Domingo (Capotillo) (tPago / WAV)",
+  "recommendedBpm": "126-130 BPM",
+  "suggestedKey": "Re-Menor / Sol-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Dominican Republic",
+  "sceneHub": "Santo Domingo (Capotillo)"
+},
+  {
+  "slug": "santo-domingo-capotillo-dominican-street-drill-808",
+  "name": "Santo Domingo (Capotillo) Dominican Street Drill 808 Beats",
+  "badge": "Dominican Drill",
+  "headline": "Dominican Street Drill 808 Beats en Santo Domingo (Capotillo): Capotillo & Cuna del Dembow Callejero",
+  "description": "Bajos 808 deslizantes demoledores, campanas menores de barrio y cajas afiladas para raperos en Santo Domingo (Capotillo).",
+  "targetKeywords": [
+    "dominican street drill 808 beats santo domingo (capotillo)",
+    "comprar beats santo domingo (capotillo) tpago",
+    "pistas de dominican drill dominicana",
+    "instrumentales en santo domingo (capotillo) wav"
+  ],
+  "heroCta": "Descargar Beats en Santo Domingo (Capotillo) (tPago / WAV)",
+  "recommendedBpm": "138-144 BPM",
+  "suggestedKey": "Do-Menor / Fa-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Dominican Republic",
+  "sceneHub": "Santo Domingo (Capotillo)"
+},
+  {
+  "slug": "santo-domingo-capotillo-bachata-urbana-trap",
+  "name": "Santo Domingo (Capotillo) Bachata Urbana Trap Beats",
+  "badge": "Bachata Urbana",
+  "headline": "Bachata Urbana Trap Beats en Santo Domingo (Capotillo): Capotillo & Cuna del Dembow Callejero",
+  "description": "Requintos acústicos dominicanos arpegiados, bongo-güira tradicional y bajos 808 cálidos para vocalistas en Santo Domingo (Capotillo).",
+  "targetKeywords": [
+    "bachata urbana trap beats santo domingo (capotillo)",
+    "comprar beats santo domingo (capotillo) tpago",
+    "pistas de bachata urbana dominicana",
+    "instrumentales en santo domingo (capotillo) wav"
+  ],
+  "heroCta": "Descargar Beats en Santo Domingo (Capotillo) (tPago / WAV)",
+  "recommendedBpm": "125-132 BPM",
+  "suggestedKey": "Si-Menor / Mi-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Dominican Republic",
+  "sceneHub": "Santo Domingo (Capotillo)"
+},
+  {
+  "slug": "santo-domingo-capotillo-mambo-calle-saxo",
+  "name": "Santo Domingo (Capotillo) Mambo de Calle Saxo Beats",
+  "badge": "Mambo de Calle",
+  "headline": "Mambo de Calle Saxo Beats en Santo Domingo (Capotillo): Capotillo & Cuna del Dembow Callejero",
+  "description": "Vientos de saxo acelerados a 140 BPM, tambora dominicana picante y sintetizadores festivos para la escena urbana de Santo Domingo (Capotillo).",
+  "targetKeywords": [
+    "mambo de calle saxo beats santo domingo (capotillo)",
+    "comprar beats santo domingo (capotillo) tpago",
+    "pistas de mambo de calle dominicana",
+    "instrumentales en santo domingo (capotillo) wav"
+  ],
+  "heroCta": "Descargar Beats en Santo Domingo (Capotillo) (tPago / WAV)",
+  "recommendedBpm": "138-144 BPM",
+  "suggestedKey": "Re-Menor / La-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Dominican Republic",
+  "sceneHub": "Santo Domingo (Capotillo)"
+},
+  {
+  "slug": "santo-domingo-piantini-dembow-chuchero-128bpm",
+  "name": "Santo Domingo (Piantini) Dembow Chuchero 128 BPM Beats",
+  "badge": "Dembow Chuchero",
+  "headline": "Dembow Chuchero 128 BPM Beats en Santo Domingo (Piantini): Distrito Nacional & Urban Pop Élite",
+  "description": "Dembow acelerado a 128 BPM, sintetizadores cortantes y güira dominicana con pago instantáneo por tPago para artistas en Santo Domingo (Piantini).",
+  "targetKeywords": [
+    "dembow chuchero 128 bpm beats santo domingo (piantini)",
+    "comprar beats santo domingo (piantini) tpago",
+    "pistas de dembow chuchero dominicana",
+    "instrumentales en santo domingo (piantini) wav"
+  ],
+  "heroCta": "Descargar Beats en Santo Domingo (Piantini) (tPago / WAV)",
+  "recommendedBpm": "126-130 BPM",
+  "suggestedKey": "Re-Menor / Sol-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Dominican Republic",
+  "sceneHub": "Santo Domingo (Piantini)"
+},
+  {
+  "slug": "santo-domingo-piantini-dominican-street-drill-808",
+  "name": "Santo Domingo (Piantini) Dominican Street Drill 808 Beats",
+  "badge": "Dominican Drill",
+  "headline": "Dominican Street Drill 808 Beats en Santo Domingo (Piantini): Distrito Nacional & Urban Pop Élite",
+  "description": "Bajos 808 deslizantes demoledores, campanas menores de barrio y cajas afiladas para raperos en Santo Domingo (Piantini).",
+  "targetKeywords": [
+    "dominican street drill 808 beats santo domingo (piantini)",
+    "comprar beats santo domingo (piantini) tpago",
+    "pistas de dominican drill dominicana",
+    "instrumentales en santo domingo (piantini) wav"
+  ],
+  "heroCta": "Descargar Beats en Santo Domingo (Piantini) (tPago / WAV)",
+  "recommendedBpm": "138-144 BPM",
+  "suggestedKey": "Do-Menor / Fa-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Dominican Republic",
+  "sceneHub": "Santo Domingo (Piantini)"
+},
+  {
+  "slug": "santo-domingo-piantini-bachata-urbana-trap",
+  "name": "Santo Domingo (Piantini) Bachata Urbana Trap Beats",
+  "badge": "Bachata Urbana",
+  "headline": "Bachata Urbana Trap Beats en Santo Domingo (Piantini): Distrito Nacional & Urban Pop Élite",
+  "description": "Requintos acústicos dominicanos arpegiados, bongo-güira tradicional y bajos 808 cálidos para vocalistas en Santo Domingo (Piantini).",
+  "targetKeywords": [
+    "bachata urbana trap beats santo domingo (piantini)",
+    "comprar beats santo domingo (piantini) tpago",
+    "pistas de bachata urbana dominicana",
+    "instrumentales en santo domingo (piantini) wav"
+  ],
+  "heroCta": "Descargar Beats en Santo Domingo (Piantini) (tPago / WAV)",
+  "recommendedBpm": "125-132 BPM",
+  "suggestedKey": "Si-Menor / Mi-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Dominican Republic",
+  "sceneHub": "Santo Domingo (Piantini)"
+},
+  {
+  "slug": "santo-domingo-piantini-mambo-calle-saxo",
+  "name": "Santo Domingo (Piantini) Mambo de Calle Saxo Beats",
+  "badge": "Mambo de Calle",
+  "headline": "Mambo de Calle Saxo Beats en Santo Domingo (Piantini): Distrito Nacional & Urban Pop Élite",
+  "description": "Vientos de saxo acelerados a 140 BPM, tambora dominicana picante y sintetizadores festivos para la escena urbana de Santo Domingo (Piantini).",
+  "targetKeywords": [
+    "mambo de calle saxo beats santo domingo (piantini)",
+    "comprar beats santo domingo (piantini) tpago",
+    "pistas de mambo de calle dominicana",
+    "instrumentales en santo domingo (piantini) wav"
+  ],
+  "heroCta": "Descargar Beats en Santo Domingo (Piantini) (tPago / WAV)",
+  "recommendedBpm": "138-144 BPM",
+  "suggestedKey": "Re-Menor / La-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Dominican Republic",
+  "sceneHub": "Santo Domingo (Piantini)"
+},
+  {
+  "slug": "santiago-gurabo-dembow-chuchero-128bpm",
+  "name": "Santiago (Gurabo) Dembow Chuchero 128 BPM Beats",
+  "badge": "Dembow Chuchero",
+  "headline": "Dembow Chuchero 128 BPM Beats en Santiago (Gurabo): Santiago de los Caballeros & Trap Cibaeño",
+  "description": "Dembow acelerado a 128 BPM, sintetizadores cortantes y güira dominicana con pago instantáneo por tPago para artistas en Santiago (Gurabo).",
+  "targetKeywords": [
+    "dembow chuchero 128 bpm beats santiago (gurabo)",
+    "comprar beats santiago (gurabo) tpago",
+    "pistas de dembow chuchero dominicana",
+    "instrumentales en santiago (gurabo) wav"
+  ],
+  "heroCta": "Descargar Beats en Santiago (Gurabo) (tPago / WAV)",
+  "recommendedBpm": "126-130 BPM",
+  "suggestedKey": "Re-Menor / Sol-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Dominican Republic",
+  "sceneHub": "Santiago (Gurabo)"
+},
+  {
+  "slug": "santiago-gurabo-dominican-street-drill-808",
+  "name": "Santiago (Gurabo) Dominican Street Drill 808 Beats",
+  "badge": "Dominican Drill",
+  "headline": "Dominican Street Drill 808 Beats en Santiago (Gurabo): Santiago de los Caballeros & Trap Cibaeño",
+  "description": "Bajos 808 deslizantes demoledores, campanas menores de barrio y cajas afiladas para raperos en Santiago (Gurabo).",
+  "targetKeywords": [
+    "dominican street drill 808 beats santiago (gurabo)",
+    "comprar beats santiago (gurabo) tpago",
+    "pistas de dominican drill dominicana",
+    "instrumentales en santiago (gurabo) wav"
+  ],
+  "heroCta": "Descargar Beats en Santiago (Gurabo) (tPago / WAV)",
+  "recommendedBpm": "138-144 BPM",
+  "suggestedKey": "Do-Menor / Fa-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Dominican Republic",
+  "sceneHub": "Santiago (Gurabo)"
+},
+  {
+  "slug": "santiago-gurabo-bachata-urbana-trap",
+  "name": "Santiago (Gurabo) Bachata Urbana Trap Beats",
+  "badge": "Bachata Urbana",
+  "headline": "Bachata Urbana Trap Beats en Santiago (Gurabo): Santiago de los Caballeros & Trap Cibaeño",
+  "description": "Requintos acústicos dominicanos arpegiados, bongo-güira tradicional y bajos 808 cálidos para vocalistas en Santiago (Gurabo).",
+  "targetKeywords": [
+    "bachata urbana trap beats santiago (gurabo)",
+    "comprar beats santiago (gurabo) tpago",
+    "pistas de bachata urbana dominicana",
+    "instrumentales en santiago (gurabo) wav"
+  ],
+  "heroCta": "Descargar Beats en Santiago (Gurabo) (tPago / WAV)",
+  "recommendedBpm": "125-132 BPM",
+  "suggestedKey": "Si-Menor / Mi-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Dominican Republic",
+  "sceneHub": "Santiago (Gurabo)"
+},
+  {
+  "slug": "santiago-gurabo-mambo-calle-saxo",
+  "name": "Santiago (Gurabo) Mambo de Calle Saxo Beats",
+  "badge": "Mambo de Calle",
+  "headline": "Mambo de Calle Saxo Beats en Santiago (Gurabo): Santiago de los Caballeros & Trap Cibaeño",
+  "description": "Vientos de saxo acelerados a 140 BPM, tambora dominicana picante y sintetizadores festivos para la escena urbana de Santiago (Gurabo).",
+  "targetKeywords": [
+    "mambo de calle saxo beats santiago (gurabo)",
+    "comprar beats santiago (gurabo) tpago",
+    "pistas de mambo de calle dominicana",
+    "instrumentales en santiago (gurabo) wav"
+  ],
+  "heroCta": "Descargar Beats en Santiago (Gurabo) (tPago / WAV)",
+  "recommendedBpm": "138-144 BPM",
+  "suggestedKey": "Re-Menor / La-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Dominican Republic",
+  "sceneHub": "Santiago (Gurabo)"
+},
+  {
+  "slug": "punta-cana-bavaro-dembow-chuchero-128bpm",
+  "name": "Punta Cana (Bávaro) Dembow Chuchero 128 BPM Beats",
+  "badge": "Dembow Chuchero",
+  "headline": "Dembow Chuchero 128 BPM Beats en Punta Cana (Bávaro): Punta Cana & Dembow Playero Internacional",
+  "description": "Dembow acelerado a 128 BPM, sintetizadores cortantes y güira dominicana con pago instantáneo por tPago para artistas en Punta Cana (Bávaro).",
+  "targetKeywords": [
+    "dembow chuchero 128 bpm beats punta cana (bávaro)",
+    "comprar beats punta cana (bávaro) tpago",
+    "pistas de dembow chuchero dominicana",
+    "instrumentales en punta cana (bávaro) wav"
+  ],
+  "heroCta": "Descargar Beats en Punta Cana (Bávaro) (tPago / WAV)",
+  "recommendedBpm": "126-130 BPM",
+  "suggestedKey": "Re-Menor / Sol-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Dominican Republic",
+  "sceneHub": "Punta Cana (Bávaro)"
+},
+  {
+  "slug": "punta-cana-bavaro-dominican-street-drill-808",
+  "name": "Punta Cana (Bávaro) Dominican Street Drill 808 Beats",
+  "badge": "Dominican Drill",
+  "headline": "Dominican Street Drill 808 Beats en Punta Cana (Bávaro): Punta Cana & Dembow Playero Internacional",
+  "description": "Bajos 808 deslizantes demoledores, campanas menores de barrio y cajas afiladas para raperos en Punta Cana (Bávaro).",
+  "targetKeywords": [
+    "dominican street drill 808 beats punta cana (bávaro)",
+    "comprar beats punta cana (bávaro) tpago",
+    "pistas de dominican drill dominicana",
+    "instrumentales en punta cana (bávaro) wav"
+  ],
+  "heroCta": "Descargar Beats en Punta Cana (Bávaro) (tPago / WAV)",
+  "recommendedBpm": "138-144 BPM",
+  "suggestedKey": "Do-Menor / Fa-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Dominican Republic",
+  "sceneHub": "Punta Cana (Bávaro)"
+},
+  {
+  "slug": "punta-cana-bavaro-bachata-urbana-trap",
+  "name": "Punta Cana (Bávaro) Bachata Urbana Trap Beats",
+  "badge": "Bachata Urbana",
+  "headline": "Bachata Urbana Trap Beats en Punta Cana (Bávaro): Punta Cana & Dembow Playero Internacional",
+  "description": "Requintos acústicos dominicanos arpegiados, bongo-güira tradicional y bajos 808 cálidos para vocalistas en Punta Cana (Bávaro).",
+  "targetKeywords": [
+    "bachata urbana trap beats punta cana (bávaro)",
+    "comprar beats punta cana (bávaro) tpago",
+    "pistas de bachata urbana dominicana",
+    "instrumentales en punta cana (bávaro) wav"
+  ],
+  "heroCta": "Descargar Beats en Punta Cana (Bávaro) (tPago / WAV)",
+  "recommendedBpm": "125-132 BPM",
+  "suggestedKey": "Si-Menor / Mi-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Dominican Republic",
+  "sceneHub": "Punta Cana (Bávaro)"
+},
+  {
+  "slug": "punta-cana-bavaro-mambo-calle-saxo",
+  "name": "Punta Cana (Bávaro) Mambo de Calle Saxo Beats",
+  "badge": "Mambo de Calle",
+  "headline": "Mambo de Calle Saxo Beats en Punta Cana (Bávaro): Punta Cana & Dembow Playero Internacional",
+  "description": "Vientos de saxo acelerados a 140 BPM, tambora dominicana picante y sintetizadores festivos para la escena urbana de Punta Cana (Bávaro).",
+  "targetKeywords": [
+    "mambo de calle saxo beats punta cana (bávaro)",
+    "comprar beats punta cana (bávaro) tpago",
+    "pistas de mambo de calle dominicana",
+    "instrumentales en punta cana (bávaro) wav"
+  ],
+  "heroCta": "Descargar Beats en Punta Cana (Bávaro) (tPago / WAV)",
+  "recommendedBpm": "138-144 BPM",
+  "suggestedKey": "Re-Menor / La-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Dominican Republic",
+  "sceneHub": "Punta Cana (Bávaro)"
+},
+  {
+  "slug": "la-romana-caleta-dembow-chuchero-128bpm",
+  "name": "La Romana (Caleta) Dembow Chuchero 128 BPM Beats",
+  "badge": "Dembow Chuchero",
+  "headline": "Dembow Chuchero 128 BPM Beats en La Romana (Caleta): La Romana & Dembow de Estudio",
+  "description": "Dembow acelerado a 128 BPM, sintetizadores cortantes y güira dominicana con pago instantáneo por tPago para artistas en La Romana (Caleta).",
+  "targetKeywords": [
+    "dembow chuchero 128 bpm beats la romana (caleta)",
+    "comprar beats la romana (caleta) tpago",
+    "pistas de dembow chuchero dominicana",
+    "instrumentales en la romana (caleta) wav"
+  ],
+  "heroCta": "Descargar Beats en La Romana (Caleta) (tPago / WAV)",
+  "recommendedBpm": "126-130 BPM",
+  "suggestedKey": "Re-Menor / Sol-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Dominican Republic",
+  "sceneHub": "La Romana (Caleta)"
+},
+  {
+  "slug": "la-romana-caleta-dominican-street-drill-808",
+  "name": "La Romana (Caleta) Dominican Street Drill 808 Beats",
+  "badge": "Dominican Drill",
+  "headline": "Dominican Street Drill 808 Beats en La Romana (Caleta): La Romana & Dembow de Estudio",
+  "description": "Bajos 808 deslizantes demoledores, campanas menores de barrio y cajas afiladas para raperos en La Romana (Caleta).",
+  "targetKeywords": [
+    "dominican street drill 808 beats la romana (caleta)",
+    "comprar beats la romana (caleta) tpago",
+    "pistas de dominican drill dominicana",
+    "instrumentales en la romana (caleta) wav"
+  ],
+  "heroCta": "Descargar Beats en La Romana (Caleta) (tPago / WAV)",
+  "recommendedBpm": "138-144 BPM",
+  "suggestedKey": "Do-Menor / Fa-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Dominican Republic",
+  "sceneHub": "La Romana (Caleta)"
+},
+  {
+  "slug": "la-romana-caleta-bachata-urbana-trap",
+  "name": "La Romana (Caleta) Bachata Urbana Trap Beats",
+  "badge": "Bachata Urbana",
+  "headline": "Bachata Urbana Trap Beats en La Romana (Caleta): La Romana & Dembow de Estudio",
+  "description": "Requintos acústicos dominicanos arpegiados, bongo-güira tradicional y bajos 808 cálidos para vocalistas en La Romana (Caleta).",
+  "targetKeywords": [
+    "bachata urbana trap beats la romana (caleta)",
+    "comprar beats la romana (caleta) tpago",
+    "pistas de bachata urbana dominicana",
+    "instrumentales en la romana (caleta) wav"
+  ],
+  "heroCta": "Descargar Beats en La Romana (Caleta) (tPago / WAV)",
+  "recommendedBpm": "125-132 BPM",
+  "suggestedKey": "Si-Menor / Mi-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Dominican Republic",
+  "sceneHub": "La Romana (Caleta)"
+},
+  {
+  "slug": "la-romana-caleta-mambo-calle-saxo",
+  "name": "La Romana (Caleta) Mambo de Calle Saxo Beats",
+  "badge": "Mambo de Calle",
+  "headline": "Mambo de Calle Saxo Beats en La Romana (Caleta): La Romana & Dembow de Estudio",
+  "description": "Vientos de saxo acelerados a 140 BPM, tambora dominicana picante y sintetizadores festivos para la escena urbana de La Romana (Caleta).",
+  "targetKeywords": [
+    "mambo de calle saxo beats la romana (caleta)",
+    "comprar beats la romana (caleta) tpago",
+    "pistas de mambo de calle dominicana",
+    "instrumentales en la romana (caleta) wav"
+  ],
+  "heroCta": "Descargar Beats en La Romana (Caleta) (tPago / WAV)",
+  "recommendedBpm": "138-144 BPM",
+  "suggestedKey": "Re-Menor / La-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Dominican Republic",
+  "sceneHub": "La Romana (Caleta)"
+},
+  {
+  "slug": "san-cristobal-madrevieja-dembow-chuchero-128bpm",
+  "name": "San Cristóbal (Madre Vieja) Dembow Chuchero 128 BPM Beats",
+  "badge": "Dembow Chuchero",
+  "headline": "Dembow Chuchero 128 BPM Beats en San Cristóbal (Madre Vieja): San Cristóbal & Drill Dominicano",
+  "description": "Dembow acelerado a 128 BPM, sintetizadores cortantes y güira dominicana con pago instantáneo por tPago para artistas en San Cristóbal (Madre Vieja).",
+  "targetKeywords": [
+    "dembow chuchero 128 bpm beats san cristóbal (madre vieja)",
+    "comprar beats san cristóbal (madre vieja) tpago",
+    "pistas de dembow chuchero dominicana",
+    "instrumentales en san cristóbal (madre vieja) wav"
+  ],
+  "heroCta": "Descargar Beats en San Cristóbal (Madre Vieja) (tPago / WAV)",
+  "recommendedBpm": "126-130 BPM",
+  "suggestedKey": "Re-Menor / Sol-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Dominican Republic",
+  "sceneHub": "San Cristóbal (Madre Vieja)"
+},
+  {
+  "slug": "san-cristobal-madrevieja-dominican-street-drill-808",
+  "name": "San Cristóbal (Madre Vieja) Dominican Street Drill 808 Beats",
+  "badge": "Dominican Drill",
+  "headline": "Dominican Street Drill 808 Beats en San Cristóbal (Madre Vieja): San Cristóbal & Drill Dominicano",
+  "description": "Bajos 808 deslizantes demoledores, campanas menores de barrio y cajas afiladas para raperos en San Cristóbal (Madre Vieja).",
+  "targetKeywords": [
+    "dominican street drill 808 beats san cristóbal (madre vieja)",
+    "comprar beats san cristóbal (madre vieja) tpago",
+    "pistas de dominican drill dominicana",
+    "instrumentales en san cristóbal (madre vieja) wav"
+  ],
+  "heroCta": "Descargar Beats en San Cristóbal (Madre Vieja) (tPago / WAV)",
+  "recommendedBpm": "138-144 BPM",
+  "suggestedKey": "Do-Menor / Fa-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Dominican Republic",
+  "sceneHub": "San Cristóbal (Madre Vieja)"
+},
+  {
+  "slug": "san-cristobal-madrevieja-bachata-urbana-trap",
+  "name": "San Cristóbal (Madre Vieja) Bachata Urbana Trap Beats",
+  "badge": "Bachata Urbana",
+  "headline": "Bachata Urbana Trap Beats en San Cristóbal (Madre Vieja): San Cristóbal & Drill Dominicano",
+  "description": "Requintos acústicos dominicanos arpegiados, bongo-güira tradicional y bajos 808 cálidos para vocalistas en San Cristóbal (Madre Vieja).",
+  "targetKeywords": [
+    "bachata urbana trap beats san cristóbal (madre vieja)",
+    "comprar beats san cristóbal (madre vieja) tpago",
+    "pistas de bachata urbana dominicana",
+    "instrumentales en san cristóbal (madre vieja) wav"
+  ],
+  "heroCta": "Descargar Beats en San Cristóbal (Madre Vieja) (tPago / WAV)",
+  "recommendedBpm": "125-132 BPM",
+  "suggestedKey": "Si-Menor / Mi-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Dominican Republic",
+  "sceneHub": "San Cristóbal (Madre Vieja)"
+},
+  {
+  "slug": "san-cristobal-madrevieja-mambo-calle-saxo",
+  "name": "San Cristóbal (Madre Vieja) Mambo de Calle Saxo Beats",
+  "badge": "Mambo de Calle",
+  "headline": "Mambo de Calle Saxo Beats en San Cristóbal (Madre Vieja): San Cristóbal & Drill Dominicano",
+  "description": "Vientos de saxo acelerados a 140 BPM, tambora dominicana picante y sintetizadores festivos para la escena urbana de San Cristóbal (Madre Vieja).",
+  "targetKeywords": [
+    "mambo de calle saxo beats san cristóbal (madre vieja)",
+    "comprar beats san cristóbal (madre vieja) tpago",
+    "pistas de mambo de calle dominicana",
+    "instrumentales en san cristóbal (madre vieja) wav"
+  ],
+  "heroCta": "Descargar Beats en San Cristóbal (Madre Vieja) (tPago / WAV)",
+  "recommendedBpm": "138-144 BPM",
+  "suggestedKey": "Re-Menor / La-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Dominican Republic",
+  "sceneHub": "San Cristóbal (Madre Vieja)"
+},
 ];

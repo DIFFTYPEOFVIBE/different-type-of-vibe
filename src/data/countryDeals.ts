@@ -45428,4 +45428,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "do/distrito-nacional-piantini": {
+  "slug": "do/distrito-nacional-piantini",
+  "name": "República Dominicana – Santo Domingo: Distrito Nacional, Piantini, Naco & Bella Vista (Polígono Central, Urban Pop Élite, Bachata Pop & R&B Dominicano)",
+  "flag": "🇩🇴",
+  "currency": "DOP ($) / USD ($)",
+  "currencyCode": "DOP",
+  "gateways": "tPago, Transferencias ACH / LBTR (Banreservas, Banco Popular, BHD), Tarjetas Débito/Crédito, Apple Pay, PayPal, Stripe",
+  "pro": "SGACEDOM / ONDA",
+  "proFullName": "SGACEDOM / ONDA",
+  "proGuide": "100% conforme a la Ley 65-00 de Derecho de Autor con contrato firmado y split sheet en PDF inmediato.",
+  "headline": "Beats en Piantini & Distrito Nacional: Polígono Central, Pianos Eléctricos Cálidos & Urban Pop Dominicano",
+  "description": "El estándar de alta producción del centro de la capital: guitarras acústicas elegantes, sintetizadores envolventes y baterías modernas diseñadas para pop urbano y R&B en Santo Domingo.",
+  "popularGenres": [
+    "Piantini Urban Pop",
+    "Bachata Pop R&B",
+    "Distrito Nacional Chill Trap"
+  ],
+  "subClusters": []
+},
+  "do/santo-domingo-norte-sabana-perdida": {
+  "slug": "do/santo-domingo-norte-sabana-perdida",
+  "name": "República Dominicana – Santo Domingo: Santo Domingo Norte, Sabana Perdida & Villa Mella (Cuna de la Tambora, Dembow de Calle & Percusión Afro-Dominicana)",
+  "flag": "🇩🇴",
+  "currency": "DOP ($) / USD ($)",
+  "currencyCode": "DOP",
+  "gateways": "tPago, Transferencias ACH / LBTR (Banreservas, Banco Popular, BHD), Tarjetas Débito/Crédito, Apple Pay, PayPal, Stripe",
+  "pro": "SGACEDOM / ONDA",
+  "proFullName": "SGACEDOM / ONDA",
+  "proGuide": "Archivos WAV 24-bit sin compresión con pistas separadas (stems multitrack) y licencia comercial.",
+  "headline": "Beats en Sabana Perdida & Villa Mella: Cuna del Ritmo y la Tambora, Dembow Pesado & Bounces Callejeros",
+  "description": "La raíz percutiva más pura del Caribe: redobles de güira seca, golpes de tambora tradicional y bajos 808 explosivos para dembowseros y cantantes de Santo Domingo Norte.",
+  "popularGenres": [
+    "Sabana Perdida Dembow",
+    "Tambora Trap Fusión",
+    "Villa Mella Street Bounce"
+  ],
+  "subClusters": []
+},
+  "do/santo-domingo-este-invivienda": {
+  "slug": "do/santo-domingo-este-invivienda",
+  "name": "República Dominicana – Santo Domingo: Santo Domingo Este, Invivienda, San Isidro & Los Frailes (El Bloque de Dembow Callejero, 128 BPM & Bounces de Barrio)",
+  "flag": "🇩🇴",
+  "currency": "DOP ($) / USD ($)",
+  "currencyCode": "DOP",
+  "gateways": "tPago, Transferencias ACH / LBTR (Banreservas, Banco Popular, BHD), Tarjetas Débito/Crédito, Apple Pay, PayPal, Stripe",
+  "pro": "SGACEDOM / ONDA",
+  "proFullName": "SGACEDOM / ONDA",
+  "proGuide": "Entrega digital inmediata con split sheet y contrato de licencia para Spotify y Apple Music.",
+  "headline": "Beats en Invivienda & Santo Domingo Este: La Zona Oriental, Dembow Callejero a 128 BPM & Banger de Bloque",
+  "description": "El motor rítmico que hace vibrar la Zona Oriental: cajas cortantes, sintetizadores estridentes y patrones de dembow acelerados para los nuevos talentos de Invivienda y SDE.",
+  "popularGenres": [
+    "Invivienda Dembow 128",
+    "Zona Oriental Street Bounce",
+    "SDE Club Banger"
+  ],
+  "subClusters": []
+},
+  "do/santiago-los-jardines-gurabo": {
+  "slug": "do/santiago-los-jardines-gurabo",
+  "name": "República Dominicana – Santiago: Los Jardines, Gurabo & Bella Vista (Capital del Cibao, Trap Cibaeño, Mambo de Calle & Pianos Brillantes)",
+  "flag": "🇩🇴",
+  "currency": "DOP ($) / USD ($)",
+  "currencyCode": "DOP",
+  "gateways": "tPago, Transferencias ACH / LBTR (Banreservas, Banco Popular, BHD), Tarjetas Débito/Crédito, Apple Pay, PayPal, Stripe",
+  "pro": "SGACEDOM / ONDA",
+  "proFullName": "SGACEDOM / ONDA",
+  "proGuide": "Descargas de audio WAV masterizado y multipista para mezcla profesional en Pro Tools y FL Studio.",
+  "headline": "Beats en Santiago de los Caballeros: La Ciudad Corazón, Trap Cibaeño de Alto Voltaje & Pianos de Mambo",
+  "description": "El corazón comercial del Cibao: pianos virtuosos montunos, bajos 808 profundos y baterías dinámicas para cantantes y MCs de Santiago y Gurabo.",
+  "popularGenres": [
+    "Santiago Trap Cibaeño",
+    "Mambo Callejero Cibao",
+    "Ciudad Corazón Dembow"
+  ],
+  "subClusters": []
+},
+  "do/punta-cana-veron-cap-cana": {
+  "slug": "do/punta-cana-veron-cap-cana",
+  "name": "República Dominicana – La Altagracia: Punta Cana, Verón & Cap Cana (Resort World Paradise, Afrobeats-Dembow, Perreo de Playa & Club Hits Internacionales)",
+  "flag": "🇩🇴",
+  "currency": "DOP ($) / USD ($)",
+  "currencyCode": "DOP",
+  "gateways": "tPago, Transferencias ACH / LBTR (Banreservas, Banco Popular, BHD), Tarjetas Débito/Crédito, Apple Pay, PayPal, Stripe",
+  "pro": "SGACEDOM / ONDA",
+  "proFullName": "SGACEDOM / ONDA",
+  "proGuide": "Pago seguro mediante tPago o transferencia Banreservas y entrega instantánea con contrato para monetización.",
+  "headline": "Beats en Punta Cana & Cap Cana: Atardeceres del Caribe Este, Afrobeats-Dembow & Perreo Internacional",
+  "description": "El paraíso turístico del Caribe: guitarras tropicales brillantes, percusiones afrocaribeñas y bajos redondos diseñados para discotecas y festivales de playa en Punta Cana.",
+  "popularGenres": [
+    "Punta Cana Beach Perreo",
+    "Afro-Dembow Crossover",
+    "Cap Cana Club Hits"
+  ],
+  "subClusters": []
+},
+  "do/la-romana-casa-de-campo": {
+  "slug": "do/la-romana-casa-de-campo",
+  "name": "República Dominicana – La Romana: Casa de Campo, Caleta & Central Romana (Costa Este Cañera, Trap Melódico & Dembow Sofisticado de Estudio)",
+  "flag": "🇩🇴",
+  "currency": "DOP ($) / USD ($)",
+  "currencyCode": "DOP",
+  "gateways": "tPago, Transferencias ACH / LBTR (Banreservas, Banco Popular, BHD), Tarjetas Débito/Crédito, Apple Pay, PayPal, Stripe",
+  "pro": "SGACEDOM / ONDA",
+  "proFullName": "SGACEDOM / ONDA",
+  "proGuide": "Licencias comerciales transparentes para proyectos discográficos en La Romana.",
+  "headline": "Beats en La Romana: Brisas del Río Chavón, Trap Costero & Dembow Pulido de Estudio",
+  "description": "La elegancia caribeña de la costa este: sintetizadores espaciales, bajos 808 profundos y arreglos de estudio listos para radio y plataformas de streaming.",
+  "popularGenres": [
+    "La Romana Studio Dembow",
+    "Chavón Trap Melódico",
+    "Costa Este Urban Hit"
+  ],
+  "subClusters": []
+},
+  "do/puerto-plata-costambar-sosua": {
+  "slug": "do/puerto-plata-costambar-sosua",
+  "name": "República Dominicana – Puerto Plata: Costambar, Sosúa & Cabarete (Costa Atlántica, Surf-Trap, Dembow Playero & Vientos Caribeños)",
+  "flag": "🇩🇴",
+  "currency": "DOP ($) / USD ($)",
+  "currencyCode": "DOP",
+  "gateways": "tPago, Transferencias ACH / LBTR (Banreservas, Banco Popular, BHD), Tarjetas Débito/Crédito, Apple Pay, PayPal, Stripe",
+  "pro": "SGACEDOM / ONDA",
+  "proFullName": "SGACEDOM / ONDA",
+  "proGuide": "Contrato de cesión de derechos no exclusivos y exclusivos con registro directo ante SGACEDOM.",
+  "headline": "Beats en Puerto Plata & Sosúa: La Novia del Atlántico, Olas de Cabarete & Dembow Costero",
+  "description": "El dinamismo turístico de la costa norte dominicana: marimbas tropicales, redobles enérgicos y percusión playera para artistas de Puerto Plata, Sosúa y Cabarete.",
+  "popularGenres": [
+    "Puerto Plata Beach Dembow",
+    "Cabarete Surf Trap",
+    "Costa Norte Perreo"
+  ],
+  "subClusters": []
+},
+  "do/san-cristobal-madre-vieja": {
+  "slug": "do/san-cristobal-madre-vieja",
+  "name": "República Dominicana – San Cristóbal: Madre Vieja, Sainagua & Nigua (Cuna de Raperos Callejeros, Drill Dominicano & Bajos 808 Pesados)",
+  "flag": "🇩🇴",
+  "currency": "DOP ($) / USD ($)",
+  "currencyCode": "DOP",
+  "gateways": "tPago, Transferencias ACH / LBTR (Banreservas, Banco Popular, BHD), Tarjetas Débito/Crédito, Apple Pay, PayPal, Stripe",
+  "pro": "SGACEDOM / ONDA",
+  "proFullName": "SGACEDOM / ONDA",
+  "proGuide": "Archivos masterizados a -14 LUFS listos para distribución comercial.",
+  "headline": "Beats en San Cristóbal: La Cuna de la Constitución, Drill Pesado & Rimas de Calle",
+  "description": "La potencia lírica y combativa del sur cercano: pianos sombríos, deslizamientos de 808 subterráneos y cajas con pegada para los MCs de San Cristóbal y Madre Vieja.",
+  "popularGenres": [
+    "San Cristóbal Drill",
+    "Sur Cercano Street Trap",
+    "Madre Vieja Heavy 808"
+  ],
+  "subClusters": []
+},
+  "do/san-francisco-macoris-santa-ana": {
+  "slug": "do/san-francisco-macoris-santa-ana",
+  "name": "República Dominicana – Duarte: San Francisco de Macorís, Santa Ana & San Martín (Capital del Cacao, Trap Cibaeño & Dembow Acelerado de Calle)",
+  "flag": "🇩🇴",
+  "currency": "DOP ($) / USD ($)",
+  "currencyCode": "DOP",
+  "gateways": "tPago, Transferencias ACH / LBTR (Banreservas, Banco Popular, BHD), Tarjetas Débito/Crédito, Apple Pay, PayPal, Stripe",
+  "pro": "SGACEDOM / ONDA",
+  "proFullName": "SGACEDOM / ONDA",
+  "proGuide": "100% libre de disputas de copyright: composiciones totalmente originales.",
+  "headline": "Beats en San Francisco de Macorís: Tierra del Cacao, Dembow Acelerado & Trap del Nordeste",
+  "description": "La energía desbordante de la capital del nordeste: patrones de dembow acelerados, campanas menores y bajos contundentes para creadores en San Francisco de Macorís.",
+  "popularGenres": [
+    "SFM Dembow Acelerado",
+    "Nordeste Trap Cibaeño",
+    "Santa Ana Street Hits"
+  ],
+  "subClusters": []
+},
+  "do/la-vega-el-carmen": {
+  "slug": "do/la-vega-el-carmen",
+  "name": "República Dominicana – La Vega: El Carmen & Pontón (Capital del Carnaval Vegano, Merengue-Trap, Diablos Cojuelos & Descontrol Rítmico)",
+  "flag": "🇩🇴",
+  "currency": "DOP ($) / USD ($)",
+  "currencyCode": "DOP",
+  "gateways": "tPago, Transferencias ACH / LBTR (Banreservas, Banco Popular, BHD), Tarjetas Débito/Crédito, Apple Pay, PayPal, Stripe",
+  "pro": "SGACEDOM / ONDA",
+  "proFullName": "SGACEDOM / ONDA",
+  "proGuide": "Protección jurídica total para monetización en YouTube, TikTok y Spotify.",
+  "headline": "Beats en La Vega: Descontrol de Carnaval, Metales de Merengue de Calle & Trap Vegano",
+  "description": "La fiesta más grande del Caribe dominicano: vientos de trompeta y saxo con compresión analógica, tamboras con swing y bajos 808 festivos para el Carnaval Vegano.",
+  "popularGenres": [
+    "Carnaval Vegano Trap",
+    "Merengue de Calle Fusión",
+    "La Vega Party Bounce"
+  ],
+  "subClusters": []
+},
 };
