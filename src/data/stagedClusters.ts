@@ -131588,4 +131588,1296 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "1"
   ]
 },
+  {
+  "slug": "bad-hop-kawasaki-southside-anthem",
+  "title": "BAD HOP Kawasaki Southside Tokyo Dome Anthem & Raw Street Drill Beat",
+  "description": "Historic, monumental Japanese street rap instrumental inspired by BAD HOP (Kawasaki Southside, Breath, Friends, Asian Doll, Champion Road), with aggressive sliding 808s and stadium brass stabs.",
+  "targetKeywords": [
+    "bad hop type beat 2024",
+    "kawasaki southside instrumental",
+    "bad hop tokyo dome beat",
+    "japanese street drill beat",
+    "bad hop champion road beat"
+  ],
+  "heroCta": "BAD HOP風ビートを購入 (WAV 24-Bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hardcore Street Single, Live Stadium Performance and High-Impact Visuals",
+  "similarArtists": [
+    "BAD HOP",
+    "YZERR",
+    "T-Pablow",
+    "Bark"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Heavy analog 808 distortion on low-mids layered with cold church bells and clipped drill rimshots.",
+  "idealVocalStyle": "Aggressive street delivery, melodic autotune choruses, fast cadences, and raw brotherhood rhymes.",
+  "suggestedKey": "C Minor / E Minor",
+  "streamingSuitability": "Guaranteed top placement on Apple Music Japan Hip-Hop, Spotify Tokyo Rising, and festival stages."
+},
+  {
+  "slug": "awich-queendom-okinawa-queen-trap",
+  "title": "Awich Queendom Fierce Okinawan Royalty & Heavy 808 Banger Beat",
+  "description": "Empowering, commanding and cinematic Japanese hip-hop instrumental inspired by the Queen of J-Rap, Awich (Queendom, Gila Gila, Bad Bitch Tokyo, Remember), featuring majestic brass and earthquake 808s.",
+  "targetKeywords": [
+    "awich type beat",
+    "queendom awich instrumental",
+    "gila gila type beat",
+    "queen of j-rap beat 808",
+    "okinawa hip hop beat"
+  ],
+  "heroCta": "Awich風ビートを購入 (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Mainstage Hip-Hop Single, Female Empowerment Anthem and Cinematic Video",
+  "similarArtists": [
+    "Awich",
+    "NENE",
+    "LANA",
+    "Anarchy"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "productionTips": "Grand operatic French horn stabs layered with subterranean sub-bass portamento and sharp modern trap claps.",
+  "idealVocalStyle": "Commanding, articulate bilingual Japanese-English delivery, fierce vocal projection, and regal choruses.",
+  "suggestedKey": "D Minor / G Minor",
+  "streamingSuitability": "Dominates national charts, fashion brand campaign soundtracks, and viral social media reels."
+},
+  {
+  "slug": "lex-logic-hyperpop-melodic-trap",
+  "title": "LEX LOGIC Playful Melodic Hyperpop & High-Pitched Autotune Beat",
+  "description": "Euphoric, colorful and infectious Japanese melodic trap instrumental inspired by LEX (LOGIC, なんでも言っちゃって, STAY, Romeo & Juliet), with playful high-frequency synth plucks and bouncy 808s.",
+  "targetKeywords": [
+    "lex type beat",
+    "lex logic instrumental",
+    "japanese hyperpop trap beat",
+    "lex stay type beat",
+    "melodic autotune j-rap beat"
+  ],
+  "heroCta": "LEX風ビートを購入 (Instant WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Viral TikTok Anthem, Colorful Youth Single and High-Replay Summer Track",
+  "similarArtists": [
+    "LEX",
+    "JP THE WAVY",
+    "Tohji",
+    "LANA"
+  ],
+  "recommendedBpm": "132-140 BPM",
+  "productionTips": "Bright supersaw synth plucks with short decay riding a bouncy, syncopated 808 groove with open hats.",
+  "idealVocalStyle": "Playful high-pitched autotune singing, energetic ad-libs, and effortlessly bouncy Japanese top-lines.",
+  "suggestedKey": "F# Minor / A Major",
+  "streamingSuitability": "Extreme viral potential across TikTok Japan, Instagram reels, and youth streaming playlists."
+},
+  {
+  "slug": "kohh-team-tomodachi-minimalist-trap",
+  "title": "KOHH Team Tomodachi Raw Minimalist Japanese Street Trap Beat",
+  "description": "Cult, viral and raw minimalist Japanese trap instrumental inspired by KOHH and Yuki Chiba (Team Tomodachi, Dirt, It G Ma, 'I'm High'), featuring hypnotic repetitive synth loops and distorted analog kicks.",
+  "targetKeywords": [
+    "team tomodachi type beat",
+    "kohh type beat",
+    "yuki chiba team tomodachi instrumental",
+    "minimalist j-rap beat 808",
+    "it g ma style trap beat"
+  ],
+  "heroCta": "Team Tomodachi風ビートを購入 (WAV 24-Bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Viral Street Anthem, Hardcore Hip-Hop Cypher and Underground Club Banger",
+  "similarArtists": [
+    "KOHH",
+    "Yuki Chiba",
+    "Jin Dogg",
+    "Young Coco"
+  ],
+  "recommendedBpm": "125-132 BPM",
+  "productionTips": "Hypnotic, stripped-down minor key synth ostinato over heavily saturated 808 kicks with maximum vocal space.",
+  "idealVocalStyle": "Repetitive, infectious slogan hooks, raw minimalist verses, and unadorned street charisma.",
+  "suggestedKey": "E Minor / A Minor",
+  "streamingSuitability": "Massive global viral replay across international hip-hop communities, clubs, and remixes."
+},
+  {
+  "slug": "tohji-mall-boyz-cyberpunk-rave-trap",
+  "title": "Tohji Mall Boyz Ecstatic Cyberpunk Rave-Trap & Autotune Beat",
+  "description": "Visionary, high-energy rave-trap fusion inspired by Tohji and Mall Boyz (Higher, GOKU VIBES, Rodeo, My Swag), featuring euphoric trance synth leads, heavy bass drops, and ecstatic hyper-energy.",
+  "targetKeywords": [
+    "tohji type beat",
+    "mall boyz type beat",
+    "cyberpunk rave trap beat japan",
+    "tohji higher instrumental",
+    "goku vibes type beat"
+  ],
+  "heroCta": "Tohji風ビートを購入 (Instant WAV)",
+  "energyLevel": "Maximum",
+  "primaryUse": "Festival Rave Banger, High-Energy Concert Track and Avant-Garde Visuals",
+  "similarArtists": [
+    "Tohji",
+    "gummyboy",
+    "Sik-K",
+    "Bladee"
+  ],
+  "recommendedBpm": "138-145 BPM",
+  "productionTips": "Wide stereo trance supersaws layered with punchy club kicks and fast rolling 808 sub-bass.",
+  "idealVocalStyle": "Ecstatic, uninhibited autotune screaming, soaring emotional melodies, and pure youthful liberation.",
+  "suggestedKey": "B Minor / F# Minor",
+  "streamingSuitability": "Insuperable for festival crowds, hyperpop/rage playlists, and avant-garde fashion events."
+},
+  {
+  "slug": "kzm-yentown-nocturnal-tokyo-trap",
+  "title": "kZm YENTOWN Dark Nocturnal Tokyo Electronic Trap & Gritty 808 Beat",
+  "description": "Atmospheric, dark and sophisticated Tokyo nightlife trap instrumental inspired by kZm and YENTOWN (Distortion, TEENAGE VIBE, Aquarius High), pairing UK-influenced basslines with gritty Tokyo neon synths.",
+  "targetKeywords": [
+    "kzm type beat",
+    "yentown type beat",
+    "nocturnal tokyo trap beat",
+    "kzm teenage vibe instrumental",
+    "dark electronic j-rap beat"
+  ],
+  "heroCta": "kZm風ビートを購入 (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Nocturnal Street Single, Late Night Driving Video and Gritty Visuals",
+  "similarArtists": [
+    "kZm",
+    "Awich",
+    "Chaki Zulu",
+    "BIM"
+  ],
+  "recommendedBpm": "132-140 BPM",
+  "productionTips": "Deep, modulated analog bass synths layered with sharp industrial snare transients and ambient reverb.",
+  "idealVocalStyle": "Effortless cadence variations, low-register atmospheric verses, and haunting melodious hooks.",
+  "suggestedKey": "G Minor / C Minor",
+  "streamingSuitability": "Essential for late night city driving playlists, Tokyo nightlife visuals, and alternative J-Rap charts."
+},
+  {
+  "slug": "nujabes-samurai-champloo-lofi-jazz",
+  "title": "Nujabes Samurai Champloo Immortal Jazz-Hop & Soulful Lofi Beat",
+  "description": "Immortal, soul-stirring Japanese jazz-hop instrumental honoring the pioneer Nujabes and Hydeout Productions (Luv(sic), Feather, Aruarian Dance), with warm acoustic jazz piano chops and dusty MPC breakbeats.",
+  "targetKeywords": [
+    "nujabes type beat",
+    "samurai champloo lofi beat",
+    "japanese jazz hop instrumental",
+    "aruarian dance style beat",
+    "nujabes feather type beat"
+  ],
+  "heroCta": "Nujabes風ビートを購入 (WAV 24-Bit)",
+  "energyLevel": "Medium",
+  "primaryUse": "Conscious Soulful Single, Relaxing Study Lofi and Poetic Hip-Hop Track",
+  "similarArtists": [
+    "Nujabes",
+    "Shing02",
+    "Fat Jon",
+    "Uyama Hiroto"
+  ],
+  "recommendedBpm": "84-90 BPM",
+  "productionTips": "Rich jazz piano chords sliced from vinyl with gentle crackle, upright bass, and organic swing drums.",
+  "idealVocalStyle": "Thoughtful, poetic storytelling, warm philosophical bars, and gentle reflective cadence.",
+  "suggestedKey": "Ab Major / F Minor",
+  "streamingSuitability": "Timeless evergreen traffic across global jazz rap, study chillhop, and nostalgic lo-fi playlists."
+},
+  {
+  "slug": "traditional-gagaku-shamisen-trap-808",
+  "title": "Traditional Japanese Tsugaru Shamisen & Shakuhachi 808 Trap Beat",
+  "description": "Awe-inspiring traditional Japanese cultural crossover: virtuoso Tsugaru Shamisen string picking, breathing Shakuhachi bamboo flute runs, and thunderous 808 sub-bass drops with Taiko drums.",
+  "targetKeywords": [
+    "shamisen trap beat",
+    "traditional japanese trap beat",
+    "shakuhachi rap instrumental",
+    "japanese flute 808 trap",
+    "tsugaru shamisen hip hop beat"
+  ],
+  "heroCta": "和風トラップビートを購入 (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Cultural Masterpiece, International Festival Showcase and Martial Arts/Action Visuals",
+  "similarArtists": [
+    "Awich",
+    "The Yoshida Brothers",
+    "MIYAVI",
+    "Agust D"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "productionTips": "Live Tsugaru Shamisen plectrum strikes captured with high transient detail over seismic 808 sub frequencies.",
+  "idealVocalStyle": "Powerful Japanese theatrical delivery, fast rhythmic syllable spitting, and commanding presence.",
+  "suggestedKey": "D Minor / A Minor (Insen Scale)",
+  "streamingSuitability": "Supreme international cultural appeal, anime/gaming sync placements, and viral TikTok showcase reels."
+},
+  {
+  "slug": "shibuya-scramble-fast-tokyo-drill",
+  "title": "Shibuya Scramble Crosswalk High-Speed Neon Tokyo Drill 808 Beat",
+  "description": "Frantic, adrenaline-fueled Tokyo street drill instrumental capturing the dizzying energy of the Shibuya Scramble: neon sirens, icy minor key bells, and rapid-fire sliding 808 sub-bass.",
+  "targetKeywords": [
+    "shibuya scramble drill beat",
+    "tokyo street drill instrumental",
+    "japanese drill beat 144 bpm",
+    "sliding 808 drill tokyo",
+    "shibuya night drill beat"
+  ],
+  "heroCta": "Tokyo Drillビートを購入 (Instant WAV)",
+  "energyLevel": "Maximum",
+  "primaryUse": "High-Speed Street Single, Gym Workout Banger and Fast City Driving Video",
+  "similarArtists": [
+    "BAD HOP",
+    "Central Cee",
+    "Gazo",
+    "Jin Dogg"
+  ],
+  "recommendedBpm": "142-145 BPM",
+  "productionTips": "Multi-octave pitch-sliding 808 glides with aggressive high-pass transient clicks and skippy drill hats.",
+  "idealVocalStyle": "Cold, rapid-fire Japanese street flows, energetic ad-libs, and breathless urban reality rhymes.",
+  "suggestedKey": "C# Minor",
+  "streamingSuitability": "High virality across Japanese drill channels, workout playlists, and automotive visualizers."
+},
+  {
+  "slug": "akihabara-cyberpunk-anime-trap-8bit",
+  "title": "Akihabara Cyberpunk 8-Bit Chiptune & High-Energy Anime Trap Beat",
+  "description": "Glitchy, colorful and electric Tokyo anime-trap instrumental inspired by Akihabara: vintage 8-bit chiptune arpeggios, energetic video game sound effects, and punchy modern trap 808s.",
+  "targetKeywords": [
+    "anime trap beat japan",
+    "akihabara 8bit rap beat",
+    "chiptune trap instrumental",
+    "japanese gaming trap beat",
+    "cyberpunk anime hip hop"
+  ],
+  "heroCta": "Anime Trapビートを購入 (Instant WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "Gaming Video Anthem, Anime AMV Edit and High-Energy YouTube Single",
+  "similarArtists": [
+    "Tohji",
+    "LEX",
+    "Lil Uzi Vert",
+    "Playboi Carti"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "productionTips": "Layer nostalgic square-wave 8-bit synth leads with modern sidechained 808s and fast hi-hat rolls.",
+  "idealVocalStyle": "Fast, playful cadence, anime and gaming references, high-pitch autotune singing, and energetic hooks.",
+  "suggestedKey": "F# Minor / A Major",
+  "streamingSuitability": "Extreme viral potential across YouTube anime edits, TikTok cosplay trends, and gaming streams."
+},
+  {
+  "slug": "osaka-dotonbori-minami-street-banger",
+  "title": "Osaka Dotonbori Minami Kansai Street Swagger & Brass Trap Beat",
+  "description": "Bold, punchy and unapologetic Kansai street rap instrumental inspired by Osaka's Dotonbori and Minami districts: aggressive horn fanfares, swaggering 808 kicks, and infectious club groove.",
+  "targetKeywords": [
+    "osaka dotonbori trap beat",
+    "kansai street rap instrumental",
+    "osaka brass trap beat 808",
+    "minami club rap beat japan",
+    "dotonbori hip hop beat"
+  ],
+  "heroCta": "Osaka Streetビートを購入 (WAV 24-Bit)",
+  "energyLevel": "High",
+  "primaryUse": "High-Impact Street Single, Live Club Performance and Swaggering Video",
+  "similarArtists": [
+    "Jin Dogg",
+    "WILYWNKA",
+    "Young Coco",
+    "GeG"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "productionTips": "Staccato brass stabs layered with punchy analog kicks and bouncy rolling open-hat patterns.",
+  "idealVocalStyle": "Rhythmic Kansai-ben dialect flow, confident street swagger, and crowd-moving anthem choruses.",
+  "suggestedKey": "D Minor / G Minor",
+  "streamingSuitability": "Guaranteed live club banger across Osaka, Kansai hip-hop festivals, and street playlists."
+},
+  {
+  "slug": "shinjuku-kabukicho-midnight-neon-noir",
+  "title": "Shinjuku Kabukicho Midnight Rainy Neon Noir Ambient Trap Beat",
+  "description": "Cinematic, moody Tokyo noir soundtrack capturing midnight rain on Shinjuku pavement: hazy low-pass electric piano chords, distant siren textures, and warm, round sub-bass for introspective lyricists.",
+  "targetKeywords": [
+    "shinjuku midnight trap beat",
+    "rainy tokyo noir lofi beat",
+    "kabukicho ambient rap instrumental",
+    "dark tokyo moody beat",
+    "neon noir j-rap beat"
+  ],
+  "heroCta": "Neon Noirビートを購入 (WAV + Stems)",
+  "energyLevel": "Medium",
+  "primaryUse": "Nocturnal Reflection, Cinematic Late-Night Video and Moody Visualizer",
+  "similarArtists": [
+    "kZm",
+    "Awich",
+    "SALU",
+    "BIM"
+  ],
+  "recommendedBpm": "118-126 BPM",
+  "productionTips": "Low-pass filtered Rhodes piano with subtle tape warble, rain textures, and warm, deep sub frequencies.",
+  "idealVocalStyle": "Introspective spoken word, melodic half-whispered flows, and emotionally honest late-night observations.",
+  "suggestedKey": "A Minor / E Minor",
+  "streamingSuitability": "Continuous evergreen replay on late-night chill playlists, moody aesthetic visualizers, and urban streams."
+},
+  {
+  "slug": "affordable-japanese-trap-beats-paypay",
+  "title": "Affordable Japanese Trap Beats from ¥3,900 (PayPay, Line Pay & Apple Pay)",
+  "description": "Studio-mastered, untagged Japanese hip-hop and trap instrumentals starting from ¥3,900 with instantaneous local checkout via PayPay, Line Pay, and credit cards in Japanese Yen (JPY ¥).",
+  "targetKeywords": [
+    "affordable japanese trap beats paypay",
+    "cheap j-rap beats line pay",
+    "buy beats japan yen jpy",
+    "japanese rap beats under 4000 yen"
+  ],
+  "heroCta": "格安ビートを見る (¥3,900〜)",
+  "energyLevel": "Variable",
+  "primaryUse": "Independent Mixtapes, Debut Singles and Home Studio Demos with Full License",
+  "similarArtists": [
+    "Independent Japanese Rappers",
+    "SoundCloud & YouTube Creators"
+  ],
+  "recommendedBpm": "120-144 BPM",
+  "productionTips": "Pre-mixed and mastered with clean dynamic headroom for vocal tracking in home studios.",
+  "idealVocalStyle": "Adaptable across melodic autotuned singing, technical Japanese street flows, and drill cadences.",
+  "suggestedKey": "All Major and Minor Keys",
+  "streamingSuitability": "Commercial license covers up to 100,000 streams on Spotify, Apple Music, and Line Music."
+},
+  {
+  "slug": "commercial-jrap-melodic-beats-wav-stems",
+  "title": "Commercial J-Rap Melodic Beats with Multitrack Stems (24-Bit Studio WAV)",
+  "description": "Radio-ready Japanese melodic rap instrumentals featuring glossy synth leads, emotional acoustic guitars, and separated multitrack stem files for precision mixing in Tokyo recording studios.",
+  "targetKeywords": [
+    "commercial jrap melodic beats wav stems",
+    "japanese melodic rap instrumental trackout",
+    "buy j-rap stems tokyo",
+    "melodic trap beat japan 24 bit"
+  ],
+  "heroCta": "J-Rapビート + ステム音源を入手",
+  "energyLevel": "High",
+  "primaryUse": "Lead Commercial Single, Radio Campaign and High-Budget Music Video",
+  "similarArtists": [
+    "LEX",
+    "JP THE WAVY",
+    "Awich",
+    "BAD HOP"
+  ],
+  "recommendedBpm": "126-136 BPM",
+  "productionTips": "Analog tape saturation on keyboards and guitars with clear high-end punch and mono-compatible sub-bass.",
+  "idealVocalStyle": "Catchy bilingual Japanese-English melodies, smooth autotuned vocal stacks, and bouncy verses.",
+  "suggestedKey": "G Minor / B Minor",
+  "streamingSuitability": "Full commercial broadcast and unlimited DSP streaming clearance with 100% master ownership."
+},
+  {
+  "slug": "tokyo-street-drill-beats-shibuya-stems",
+  "title": "Tokyo Street Drill Beats with Separated WAV Stems (Shibuya & Kawasaki Sound)",
+  "description": "Aggressive, heavyweight Tokyo and Kawasaki street drill instrumentals featuring multi-octave sliding 808s, supplied with all individual multitrack stem files for complete mixing control.",
+  "targetKeywords": [
+    "tokyo street drill beats shibuya stems",
+    "kawasaki street drill wav trackout",
+    "sliding 808 drill beats japan",
+    "buy drill stems tokyo shibuya"
+  ],
+  "heroCta": "Tokyo Drill + ステムをダウンロード",
+  "energyLevel": "Very High",
+  "primaryUse": "Major Studio Recording, Multitrack Stem Mixing and Dolby Atmos Spatial Audio",
+  "similarArtists": [
+    "BAD HOP",
+    "Jin Dogg",
+    "Central Cee",
+    "Headie One"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Drums, 808s, synths, and effects exported dry with companion effect return tracks.",
+  "idealVocalStyle": "Hard-hitting punchlines, rapid drill flows, and authentic street storytelling.",
+  "suggestedKey": "E Minor / C Minor",
+  "streamingSuitability": "Unlimited streaming and broadcast rights included with stem trackout license."
+},
+  {
+  "slug": "jasrac-cleared-music-license-agreement-pdf",
+  "title": "JASRAC & NexTone Cleared Beat Licensing Agreement (Instant Signed PDF)",
+  "description": "Legally binding Japanese music producer contract compliant with JASRAC (日本音楽著作権協会) and the Copyright Law of Japan: download your signed license contract and split sheet immediately upon checkout.",
+  "targetKeywords": [
+    "jasrac cleared music license agreement pdf",
+    "japanese producer contract signed pdf",
+    "jasrac split sheet beat purchase japan",
+    "music copyright license japan jpy"
+  ],
+  "heroCta": "JASRAC対応契約書を確認 (PDF)",
+  "energyLevel": "N/A",
+  "primaryUse": "JASRAC/NexTone Registration, Publishing Royalty Splits and Full Legal Commercial Protection",
+  "similarArtists": [
+    "Onzieb",
+    "JASRAC Registered Songwriters and Japanese Music Creators"
+  ],
+  "recommendedBpm": "All Tempos",
+  "productionTips": "Formulated under Japanese copyright law protecting authors, lyricists, and producers.",
+  "idealVocalStyle": "Valid for all musical genres, vocal recordings, and commercial releases.",
+  "suggestedKey": "All Keys",
+  "streamingSuitability": "Guaranteed legal protection for global commercial distribution and sync placements."
+},
+  {
+  "slug": "buy-beats-paypay-linepay-konbini-japan",
+  "title": "Buy Beats in Japan with PayPay, Line Pay & Konbini (Instant Yen JPY ¥)",
+  "description": "Purchase untagged premium instrumentals seamlessly using Japan's domestic payment systems: PayPay, Line Pay, Konbini convenience store pay, and credit cards in Japanese Yen (JPY ¥).",
+  "targetKeywords": [
+    "buy beats paypay linepay konbini japan",
+    "paypay beat store japan jpy",
+    "pay for beats in yen paypay",
+    "buy rap beats konbini payment"
+  ],
+  "heroCta": "PayPay / LINE Payで簡単決済",
+  "energyLevel": "All Levels",
+  "primaryUse": "Frictionless Instant Checkout for Japanese Recording Artists and Home Studios",
+  "similarArtists": [
+    "Independent Japanese Recording Artists"
+  ],
+  "recommendedBpm": "80-160 BPM",
+  "productionTips": "Instant automated file download link delivery upon PayPay or Konbini confirmation.",
+  "idealVocalStyle": "Universal compatibility across rap, R&B, drill, and pop vocalists.",
+  "suggestedKey": "All Keys",
+  "streamingSuitability": "Instant commercial clearance valid across all global DSPs."
+},
+  {
+  "slug": "album-ep-beat-packages-japan-discount",
+  "title": "5-Beat Album & EP Bundles in Japan (Save 40% in Japanese Yen ¥)",
+  "description": "Complete project package for Japanese recording artists crafting a full EP, mixtape, or debut album: select any 5 or 10 instrumentals across the store and save up to 40% with unified licensing in JPY (¥).",
+  "targetKeywords": [
+    "album ep beat packages japan discount",
+    "5 beat bundle discount japan jpy",
+    "buy bulk rap beats tokyo osaka",
+    "album instrumental package yen japan"
+  ],
+  "heroCta": "5曲アルバムパックを購入 (40% OFF)",
+  "energyLevel": "Variable",
+  "primaryUse": "Full Project Production, Cohesive Thematic Direction and Continuous Releases",
+  "similarArtists": [
+    "Independent Japanese Rappers and Music Collectives"
+  ],
+  "recommendedBpm": "85-145 BPM",
+  "productionTips": "Harmonically and dynamically cohesive curation ensuring an immersive album journey.",
+  "idealVocalStyle": "Comprehensive canvas for showcasing an artist's full range of flows and songwriting dynamics.",
+  "suggestedKey": "Complementary Keys",
+  "streamingSuitability": "Single unified commercial license covering all tracks on your EP simultaneously."
+},
+  {
+  "slug": "japanese-music-producer-whatsapp-onzieb",
+  "title": "Direct Producer Collaboration for Japanese Artists (Producer Onzieb)",
+  "description": "Work one-on-one with producer Onzieb via direct consultation for bespoke custom beat making, key transposition, stem arrangement, and tailor-made Japanese hip-hop and anime sound design.",
+  "targetKeywords": [
+    "japanese music producer whatsapp onzieb",
+    "onzieb producer japan tokyo",
+    "hire custom trap producer japan",
+    "bespoke beatmaker tokyo consultation"
+  ],
+  "heroCta": "Onziebに楽曲プロデュースを相談",
+  "energyLevel": "Custom",
+  "primaryUse": "Bespoke Lead Singles, Label Pitching and Custom Signature Sound Identity",
+  "similarArtists": [
+    "Onzieb",
+    "Leading Japanese Urban Producers"
+  ],
+  "recommendedBpm": "Tailored to artist breathing and vocal tempo",
+  "productionTips": "Collaborative stem-by-stem arrangement adjustments via secure file sharing and consultations.",
+  "idealVocalStyle": "Custom tuned to match the exact timbre, power, and pocket of your vocal delivery.",
+  "suggestedKey": "Custom Matched",
+  "streamingSuitability": "Direct exclusive contracts with 100% master ownership and global monetization."
+},
+  {
+  "slug": "melodic-anime-guitar-trap-beats-japan",
+  "title": "Melodic Anime Guitar Trap Beats (Emotional Japanese J-Rap Sound)",
+  "description": "Heartfelt acoustic and distorted electric guitar trap instrumentals combining poignant anime-inspired melodies with hard-knocking 808s crafted for emotional Japanese autotuned singing and rap.",
+  "targetKeywords": [
+    "melodic anime guitar trap beats japan",
+    "anime style guitar beat",
+    "japanese sad guitar rap beat",
+    "emo trap beat 808 japan"
+  ],
+  "heroCta": "アニメタラップビートを聴く (WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Heartbreak Single, Vulnerable Personal Story and Anime AMV Track",
+  "similarArtists": [
+    "LEX",
+    "Tohji",
+    "Lil Peep",
+    "Juice WRLD"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "productionTips": "Real nylon acoustic and electric guitars captured in stereo with analog tape warmth and dynamic sidechain compression.",
+  "idealVocalStyle": "Vulnerable, honest lyrics, melodic auto-tune hooks, and personal emotional reflections.",
+  "suggestedKey": "F# Minor / A Major / E Minor",
+  "streamingSuitability": "Tremendous viral replay on TikTok, emotional Spotify playlists, and anime video edits."
+},
+  {
+  "slug": "nujabes-style-jazz-lofi-hip-hop-beats",
+  "title": "Nujabes-Style Soulful Jazz-Hop & Lofi Beats (Vintage Piano & Vinyl)",
+  "description": "Warm, nostalgic Japanese jazz-hop and chillhop instrumentals inspired by Nujabes: dusty vinyl sample chops, upright acoustic bass, and soulful piano progressions for conscious lyricists.",
+  "targetKeywords": [
+    "nujabes style jazz lofi hip hop beats",
+    "japanese jazz hop instrumental wav",
+    "hydeout style beat nujabes",
+    "vintage lofi boom bap japan"
+  ],
+  "heroCta": "Nujabes風ジャズラップビート",
+  "energyLevel": "Medium",
+  "primaryUse": "Conscious Soulful Single, Relaxing Study Lofi and Poetic Hip-Hop Track",
+  "similarArtists": [
+    "Nujabes",
+    "Shing02",
+    "Fat Jon",
+    "Uyama Hiroto"
+  ],
+  "recommendedBpm": "84-90 BPM",
+  "productionTips": "Warm SP-style 12-bit crunch on jazz piano chops layered with fat analog acoustic kicks and swing drums.",
+  "idealVocalStyle": "Thoughtful, poetic storytelling, warm philosophical bars, and gentle reflective cadence.",
+  "suggestedKey": "Ab Major / F Minor",
+  "streamingSuitability": "Timeless evergreen traffic across global jazz rap, study chillhop, and nostalgic lo-fi playlists."
+},
+  {
+  "slug": "free-japanese-trap-drum-kit-wav-samples",
+  "title": "Free Japanese Trap & J-Rap Producer Drum Kit (24-Bit Studio WAV Samples)",
+  "description": "Download our complimentary Japanese producer sound pack featuring 25 tuned 808 bass hits, Taiko drum accents, sharp rimshots, and crisp snares in 24-bit studio WAV format.",
+  "targetKeywords": [
+    "free japanese trap drum kit wav samples",
+    "j-rap drum kit free download",
+    "japanese 808 sample pack free",
+    "taiko trap samples fl studio"
+  ],
+  "heroCta": "無料ドラムキットをダウンロード (ZIP)",
+  "energyLevel": "High",
+  "primaryUse": "DAW Beatmaking in FL Studio, Ableton Live, and Logic Pro",
+  "similarArtists": [
+    "Japanese Bedroom Beatmakers",
+    "Emerging J-Rap Producers"
+  ],
+  "recommendedBpm": "Compatible with all tempos",
+  "productionTips": "100% royalty-free authentic Japanese-infused one-shots pre-mastered with peak analog punch.",
+  "idealVocalStyle": "Essential foundation for vocalists and beatmakers constructing custom instrumentals.",
+  "suggestedKey": "Tuned to C for instant pitch mapping",
+  "streamingSuitability": "Royalty-free for commercial music releases, beat sales, and digital streaming."
+},
+  {
+  "slug": "tokyo-shibuya-japanese-trap-808",
+  "name": "Shibuya Japanese Trap 808 Beats",
+  "category": "scene",
+  "badge": "Shibuya J-Trap",
+  "headline": "Shibuya (Center-Gai & Udagawacho Vinyl Cradle) Japanese Trap 808 Beats: 24-Bit WAV Beats & PayPay / LINE Pay Checkout",
+  "description": "Heavy sliding 808 sub-bass, minor synths, and crisp modern trap snares engineered for MCs in Shibuya.",
+  "targetArtists": [
+    "Artists from Shibuya",
+    "Japanese Hip-Hop Community",
+    "Tokyo & Osaka J-Rap Scene"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Shibuya",
+    "J-Trap",
+    "PayPay & LINE Pay (JPY ¥)",
+    "JASRAC & NexTone Compliant"
+  ],
+  "popularGenres": [
+    "Japanese Trap 808 Beats",
+    "Japanese Trap",
+    "Tokyo Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "tokyo-shibuya-tokyo-street-drill",
+  "name": "Shibuya Tokyo Street Drill Beats",
+  "category": "scene",
+  "badge": "Shibuya Tokyo Drill",
+  "headline": "Shibuya (Center-Gai & Udagawacho Vinyl Cradle) Tokyo Street Drill Beats: 24-Bit WAV Beats & PayPay / LINE Pay Checkout",
+  "description": "Cold minor pianos, rapid syncopated drill hats, and sliding sub-bass drops crafted for MCs in Shibuya.",
+  "targetArtists": [
+    "Artists from Shibuya",
+    "Japanese Hip-Hop Community",
+    "Tokyo & Osaka J-Rap Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / C#-Minor",
+  "vibeAttributes": [
+    "Shibuya",
+    "Tokyo Drill",
+    "PayPay & LINE Pay (JPY ¥)",
+    "JASRAC & NexTone Compliant"
+  ],
+  "popularGenres": [
+    "Tokyo Street Drill Beats",
+    "Japanese Trap",
+    "Tokyo Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "tokyo-shibuya-nujabes-jazz-hop",
+  "name": "Shibuya Nujabes Style Jazz Hop",
+  "category": "scene",
+  "badge": "Shibuya Jazz Hop",
+  "headline": "Shibuya (Center-Gai & Udagawacho Vinyl Cradle) Nujabes Style Jazz Hop: 24-Bit WAV Beats & PayPay / LINE Pay Checkout",
+  "description": "Warm vintage piano chords, dusty vinyl crackle, and soulful analog breakbeats for lyricists in Shibuya.",
+  "targetArtists": [
+    "Artists from Shibuya",
+    "Japanese Hip-Hop Community",
+    "Tokyo & Osaka J-Rap Scene"
+  ],
+  "recommendedBpm": "84-90 BPM",
+  "recommendedKey": "Ab-Major / F-Minor",
+  "vibeAttributes": [
+    "Shibuya",
+    "Jazz Hop",
+    "PayPay & LINE Pay (JPY ¥)",
+    "JASRAC & NexTone Compliant"
+  ],
+  "popularGenres": [
+    "Nujabes Style Jazz Hop",
+    "Japanese Trap",
+    "Tokyo Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "tokyo-shibuya-anime-hyper-trap",
+  "name": "Shibuya Anime Hyper Trap Beats",
+  "category": "scene",
+  "badge": "Shibuya Anime Trap",
+  "headline": "Shibuya (Center-Gai & Udagawacho Vinyl Cradle) Anime Hyper Trap Beats: 24-Bit WAV Beats & PayPay / LINE Pay Checkout",
+  "description": "Glitchy 8-bit chiptune synths, high-energy pop-trap bounce, and punchy 808s for creators in Shibuya.",
+  "targetArtists": [
+    "Artists from Shibuya",
+    "Japanese Hip-Hop Community",
+    "Tokyo & Osaka J-Rap Scene"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "F#-Minor / A-Major",
+  "vibeAttributes": [
+    "Shibuya",
+    "Anime Trap",
+    "PayPay & LINE Pay (JPY ¥)",
+    "JASRAC & NexTone Compliant"
+  ],
+  "popularGenres": [
+    "Anime Hyper Trap Beats",
+    "Japanese Trap",
+    "Tokyo Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "tokyo-shinjuku-japanese-trap-808",
+  "name": "Shinjuku Japanese Trap 808 Beats",
+  "category": "scene",
+  "badge": "Shinjuku J-Trap",
+  "headline": "Shinjuku (Kabukicho & Midnight Neon Noir) Japanese Trap 808 Beats: 24-Bit WAV Beats & PayPay / LINE Pay Checkout",
+  "description": "Heavy sliding 808 sub-bass, minor synths, and crisp modern trap snares engineered for MCs in Shinjuku.",
+  "targetArtists": [
+    "Artists from Shinjuku",
+    "Japanese Hip-Hop Community",
+    "Tokyo & Osaka J-Rap Scene"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Shinjuku",
+    "J-Trap",
+    "PayPay & LINE Pay (JPY ¥)",
+    "JASRAC & NexTone Compliant"
+  ],
+  "popularGenres": [
+    "Japanese Trap 808 Beats",
+    "Japanese Trap",
+    "Tokyo Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "tokyo-shinjuku-tokyo-street-drill",
+  "name": "Shinjuku Tokyo Street Drill Beats",
+  "category": "scene",
+  "badge": "Shinjuku Tokyo Drill",
+  "headline": "Shinjuku (Kabukicho & Midnight Neon Noir) Tokyo Street Drill Beats: 24-Bit WAV Beats & PayPay / LINE Pay Checkout",
+  "description": "Cold minor pianos, rapid syncopated drill hats, and sliding sub-bass drops crafted for MCs in Shinjuku.",
+  "targetArtists": [
+    "Artists from Shinjuku",
+    "Japanese Hip-Hop Community",
+    "Tokyo & Osaka J-Rap Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / C#-Minor",
+  "vibeAttributes": [
+    "Shinjuku",
+    "Tokyo Drill",
+    "PayPay & LINE Pay (JPY ¥)",
+    "JASRAC & NexTone Compliant"
+  ],
+  "popularGenres": [
+    "Tokyo Street Drill Beats",
+    "Japanese Trap",
+    "Tokyo Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "tokyo-shinjuku-nujabes-jazz-hop",
+  "name": "Shinjuku Nujabes Style Jazz Hop",
+  "category": "scene",
+  "badge": "Shinjuku Jazz Hop",
+  "headline": "Shinjuku (Kabukicho & Midnight Neon Noir) Nujabes Style Jazz Hop: 24-Bit WAV Beats & PayPay / LINE Pay Checkout",
+  "description": "Warm vintage piano chords, dusty vinyl crackle, and soulful analog breakbeats for lyricists in Shinjuku.",
+  "targetArtists": [
+    "Artists from Shinjuku",
+    "Japanese Hip-Hop Community",
+    "Tokyo & Osaka J-Rap Scene"
+  ],
+  "recommendedBpm": "84-90 BPM",
+  "recommendedKey": "Ab-Major / F-Minor",
+  "vibeAttributes": [
+    "Shinjuku",
+    "Jazz Hop",
+    "PayPay & LINE Pay (JPY ¥)",
+    "JASRAC & NexTone Compliant"
+  ],
+  "popularGenres": [
+    "Nujabes Style Jazz Hop",
+    "Japanese Trap",
+    "Tokyo Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "tokyo-shinjuku-anime-hyper-trap",
+  "name": "Shinjuku Anime Hyper Trap Beats",
+  "category": "scene",
+  "badge": "Shinjuku Anime Trap",
+  "headline": "Shinjuku (Kabukicho & Midnight Neon Noir) Anime Hyper Trap Beats: 24-Bit WAV Beats & PayPay / LINE Pay Checkout",
+  "description": "Glitchy 8-bit chiptune synths, high-energy pop-trap bounce, and punchy 808s for creators in Shinjuku.",
+  "targetArtists": [
+    "Artists from Shinjuku",
+    "Japanese Hip-Hop Community",
+    "Tokyo & Osaka J-Rap Scene"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "F#-Minor / A-Major",
+  "vibeAttributes": [
+    "Shinjuku",
+    "Anime Trap",
+    "PayPay & LINE Pay (JPY ¥)",
+    "JASRAC & NexTone Compliant"
+  ],
+  "popularGenres": [
+    "Anime Hyper Trap Beats",
+    "Japanese Trap",
+    "Tokyo Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "osaka-amemura-japanese-trap-808",
+  "name": "Americamura Japanese Trap 808 Beats",
+  "category": "scene",
+  "badge": "Americamura J-Trap",
+  "headline": "Americamura (Osaka Minami & Kansai Streetwear) Japanese Trap 808 Beats: 24-Bit WAV Beats & PayPay / LINE Pay Checkout",
+  "description": "Heavy sliding 808 sub-bass, minor synths, and crisp modern trap snares engineered for MCs in Americamura.",
+  "targetArtists": [
+    "Artists from Americamura",
+    "Japanese Hip-Hop Community",
+    "Tokyo & Osaka J-Rap Scene"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Americamura",
+    "J-Trap",
+    "PayPay & LINE Pay (JPY ¥)",
+    "JASRAC & NexTone Compliant"
+  ],
+  "popularGenres": [
+    "Japanese Trap 808 Beats",
+    "Japanese Trap",
+    "Tokyo Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "osaka-amemura-tokyo-street-drill",
+  "name": "Americamura Tokyo Street Drill Beats",
+  "category": "scene",
+  "badge": "Americamura Tokyo Drill",
+  "headline": "Americamura (Osaka Minami & Kansai Streetwear) Tokyo Street Drill Beats: 24-Bit WAV Beats & PayPay / LINE Pay Checkout",
+  "description": "Cold minor pianos, rapid syncopated drill hats, and sliding sub-bass drops crafted for MCs in Americamura.",
+  "targetArtists": [
+    "Artists from Americamura",
+    "Japanese Hip-Hop Community",
+    "Tokyo & Osaka J-Rap Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / C#-Minor",
+  "vibeAttributes": [
+    "Americamura",
+    "Tokyo Drill",
+    "PayPay & LINE Pay (JPY ¥)",
+    "JASRAC & NexTone Compliant"
+  ],
+  "popularGenres": [
+    "Tokyo Street Drill Beats",
+    "Japanese Trap",
+    "Tokyo Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "osaka-amemura-nujabes-jazz-hop",
+  "name": "Americamura Nujabes Style Jazz Hop",
+  "category": "scene",
+  "badge": "Americamura Jazz Hop",
+  "headline": "Americamura (Osaka Minami & Kansai Streetwear) Nujabes Style Jazz Hop: 24-Bit WAV Beats & PayPay / LINE Pay Checkout",
+  "description": "Warm vintage piano chords, dusty vinyl crackle, and soulful analog breakbeats for lyricists in Americamura.",
+  "targetArtists": [
+    "Artists from Americamura",
+    "Japanese Hip-Hop Community",
+    "Tokyo & Osaka J-Rap Scene"
+  ],
+  "recommendedBpm": "84-90 BPM",
+  "recommendedKey": "Ab-Major / F-Minor",
+  "vibeAttributes": [
+    "Americamura",
+    "Jazz Hop",
+    "PayPay & LINE Pay (JPY ¥)",
+    "JASRAC & NexTone Compliant"
+  ],
+  "popularGenres": [
+    "Nujabes Style Jazz Hop",
+    "Japanese Trap",
+    "Tokyo Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "osaka-amemura-anime-hyper-trap",
+  "name": "Americamura Anime Hyper Trap Beats",
+  "category": "scene",
+  "badge": "Americamura Anime Trap",
+  "headline": "Americamura (Osaka Minami & Kansai Streetwear) Anime Hyper Trap Beats: 24-Bit WAV Beats & PayPay / LINE Pay Checkout",
+  "description": "Glitchy 8-bit chiptune synths, high-energy pop-trap bounce, and punchy 808s for creators in Americamura.",
+  "targetArtists": [
+    "Artists from Americamura",
+    "Japanese Hip-Hop Community",
+    "Tokyo & Osaka J-Rap Scene"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "F#-Minor / A-Major",
+  "vibeAttributes": [
+    "Americamura",
+    "Anime Trap",
+    "PayPay & LINE Pay (JPY ¥)",
+    "JASRAC & NexTone Compliant"
+  ],
+  "popularGenres": [
+    "Anime Hyper Trap Beats",
+    "Japanese Trap",
+    "Tokyo Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "kawasaki-south-japanese-trap-808",
+  "name": "Kawasaki Japanese Trap 808 Beats",
+  "category": "scene",
+  "badge": "Kawasaki J-Trap",
+  "headline": "Kawasaki (Industrial Southside & BAD HOP Sound) Japanese Trap 808 Beats: 24-Bit WAV Beats & PayPay / LINE Pay Checkout",
+  "description": "Heavy sliding 808 sub-bass, minor synths, and crisp modern trap snares engineered for MCs in Kawasaki.",
+  "targetArtists": [
+    "Artists from Kawasaki",
+    "Japanese Hip-Hop Community",
+    "Tokyo & Osaka J-Rap Scene"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Kawasaki",
+    "J-Trap",
+    "PayPay & LINE Pay (JPY ¥)",
+    "JASRAC & NexTone Compliant"
+  ],
+  "popularGenres": [
+    "Japanese Trap 808 Beats",
+    "Japanese Trap",
+    "Tokyo Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "kawasaki-south-tokyo-street-drill",
+  "name": "Kawasaki Tokyo Street Drill Beats",
+  "category": "scene",
+  "badge": "Kawasaki Tokyo Drill",
+  "headline": "Kawasaki (Industrial Southside & BAD HOP Sound) Tokyo Street Drill Beats: 24-Bit WAV Beats & PayPay / LINE Pay Checkout",
+  "description": "Cold minor pianos, rapid syncopated drill hats, and sliding sub-bass drops crafted for MCs in Kawasaki.",
+  "targetArtists": [
+    "Artists from Kawasaki",
+    "Japanese Hip-Hop Community",
+    "Tokyo & Osaka J-Rap Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / C#-Minor",
+  "vibeAttributes": [
+    "Kawasaki",
+    "Tokyo Drill",
+    "PayPay & LINE Pay (JPY ¥)",
+    "JASRAC & NexTone Compliant"
+  ],
+  "popularGenres": [
+    "Tokyo Street Drill Beats",
+    "Japanese Trap",
+    "Tokyo Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "kawasaki-south-nujabes-jazz-hop",
+  "name": "Kawasaki Nujabes Style Jazz Hop",
+  "category": "scene",
+  "badge": "Kawasaki Jazz Hop",
+  "headline": "Kawasaki (Industrial Southside & BAD HOP Sound) Nujabes Style Jazz Hop: 24-Bit WAV Beats & PayPay / LINE Pay Checkout",
+  "description": "Warm vintage piano chords, dusty vinyl crackle, and soulful analog breakbeats for lyricists in Kawasaki.",
+  "targetArtists": [
+    "Artists from Kawasaki",
+    "Japanese Hip-Hop Community",
+    "Tokyo & Osaka J-Rap Scene"
+  ],
+  "recommendedBpm": "84-90 BPM",
+  "recommendedKey": "Ab-Major / F-Minor",
+  "vibeAttributes": [
+    "Kawasaki",
+    "Jazz Hop",
+    "PayPay & LINE Pay (JPY ¥)",
+    "JASRAC & NexTone Compliant"
+  ],
+  "popularGenres": [
+    "Nujabes Style Jazz Hop",
+    "Japanese Trap",
+    "Tokyo Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "kawasaki-south-anime-hyper-trap",
+  "name": "Kawasaki Anime Hyper Trap Beats",
+  "category": "scene",
+  "badge": "Kawasaki Anime Trap",
+  "headline": "Kawasaki (Industrial Southside & BAD HOP Sound) Anime Hyper Trap Beats: 24-Bit WAV Beats & PayPay / LINE Pay Checkout",
+  "description": "Glitchy 8-bit chiptune synths, high-energy pop-trap bounce, and punchy 808s for creators in Kawasaki.",
+  "targetArtists": [
+    "Artists from Kawasaki",
+    "Japanese Hip-Hop Community",
+    "Tokyo & Osaka J-Rap Scene"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "F#-Minor / A-Major",
+  "vibeAttributes": [
+    "Kawasaki",
+    "Anime Trap",
+    "PayPay & LINE Pay (JPY ¥)",
+    "JASRAC & NexTone Compliant"
+  ],
+  "popularGenres": [
+    "Anime Hyper Trap Beats",
+    "Japanese Trap",
+    "Tokyo Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "okinawa-naha-japanese-trap-808",
+  "name": "Naha Japanese Trap 808 Beats",
+  "category": "scene",
+  "badge": "Naha J-Trap",
+  "headline": "Naha (Ryukyu Islands & Awich Queen Trap) Japanese Trap 808 Beats: 24-Bit WAV Beats & PayPay / LINE Pay Checkout",
+  "description": "Heavy sliding 808 sub-bass, minor synths, and crisp modern trap snares engineered for MCs in Naha.",
+  "targetArtists": [
+    "Artists from Naha",
+    "Japanese Hip-Hop Community",
+    "Tokyo & Osaka J-Rap Scene"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Naha",
+    "J-Trap",
+    "PayPay & LINE Pay (JPY ¥)",
+    "JASRAC & NexTone Compliant"
+  ],
+  "popularGenres": [
+    "Japanese Trap 808 Beats",
+    "Japanese Trap",
+    "Tokyo Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "okinawa-naha-tokyo-street-drill",
+  "name": "Naha Tokyo Street Drill Beats",
+  "category": "scene",
+  "badge": "Naha Tokyo Drill",
+  "headline": "Naha (Ryukyu Islands & Awich Queen Trap) Tokyo Street Drill Beats: 24-Bit WAV Beats & PayPay / LINE Pay Checkout",
+  "description": "Cold minor pianos, rapid syncopated drill hats, and sliding sub-bass drops crafted for MCs in Naha.",
+  "targetArtists": [
+    "Artists from Naha",
+    "Japanese Hip-Hop Community",
+    "Tokyo & Osaka J-Rap Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / C#-Minor",
+  "vibeAttributes": [
+    "Naha",
+    "Tokyo Drill",
+    "PayPay & LINE Pay (JPY ¥)",
+    "JASRAC & NexTone Compliant"
+  ],
+  "popularGenres": [
+    "Tokyo Street Drill Beats",
+    "Japanese Trap",
+    "Tokyo Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "okinawa-naha-nujabes-jazz-hop",
+  "name": "Naha Nujabes Style Jazz Hop",
+  "category": "scene",
+  "badge": "Naha Jazz Hop",
+  "headline": "Naha (Ryukyu Islands & Awich Queen Trap) Nujabes Style Jazz Hop: 24-Bit WAV Beats & PayPay / LINE Pay Checkout",
+  "description": "Warm vintage piano chords, dusty vinyl crackle, and soulful analog breakbeats for lyricists in Naha.",
+  "targetArtists": [
+    "Artists from Naha",
+    "Japanese Hip-Hop Community",
+    "Tokyo & Osaka J-Rap Scene"
+  ],
+  "recommendedBpm": "84-90 BPM",
+  "recommendedKey": "Ab-Major / F-Minor",
+  "vibeAttributes": [
+    "Naha",
+    "Jazz Hop",
+    "PayPay & LINE Pay (JPY ¥)",
+    "JASRAC & NexTone Compliant"
+  ],
+  "popularGenres": [
+    "Nujabes Style Jazz Hop",
+    "Japanese Trap",
+    "Tokyo Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "okinawa-naha-anime-hyper-trap",
+  "name": "Naha Anime Hyper Trap Beats",
+  "category": "scene",
+  "badge": "Naha Anime Trap",
+  "headline": "Naha (Ryukyu Islands & Awich Queen Trap) Anime Hyper Trap Beats: 24-Bit WAV Beats & PayPay / LINE Pay Checkout",
+  "description": "Glitchy 8-bit chiptune synths, high-energy pop-trap bounce, and punchy 808s for creators in Naha.",
+  "targetArtists": [
+    "Artists from Naha",
+    "Japanese Hip-Hop Community",
+    "Tokyo & Osaka J-Rap Scene"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "F#-Minor / A-Major",
+  "vibeAttributes": [
+    "Naha",
+    "Anime Trap",
+    "PayPay & LINE Pay (JPY ¥)",
+    "JASRAC & NexTone Compliant"
+  ],
+  "popularGenres": [
+    "Anime Hyper Trap Beats",
+    "Japanese Trap",
+    "Tokyo Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "sapporo-north-japanese-trap-808",
+  "name": "Sapporo Japanese Trap 808 Beats",
+  "category": "scene",
+  "badge": "Sapporo J-Trap",
+  "headline": "Sapporo (Susukino & Hokkaido Sub-Zero Cold Drill) Japanese Trap 808 Beats: 24-Bit WAV Beats & PayPay / LINE Pay Checkout",
+  "description": "Heavy sliding 808 sub-bass, minor synths, and crisp modern trap snares engineered for MCs in Sapporo.",
+  "targetArtists": [
+    "Artists from Sapporo",
+    "Japanese Hip-Hop Community",
+    "Tokyo & Osaka J-Rap Scene"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "D-Minor / C-Minor",
+  "vibeAttributes": [
+    "Sapporo",
+    "J-Trap",
+    "PayPay & LINE Pay (JPY ¥)",
+    "JASRAC & NexTone Compliant"
+  ],
+  "popularGenres": [
+    "Japanese Trap 808 Beats",
+    "Japanese Trap",
+    "Tokyo Drill"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "sapporo-north-tokyo-street-drill",
+  "name": "Sapporo Tokyo Street Drill Beats",
+  "category": "scene",
+  "badge": "Sapporo Tokyo Drill",
+  "headline": "Sapporo (Susukino & Hokkaido Sub-Zero Cold Drill) Tokyo Street Drill Beats: 24-Bit WAV Beats & PayPay / LINE Pay Checkout",
+  "description": "Cold minor pianos, rapid syncopated drill hats, and sliding sub-bass drops crafted for MCs in Sapporo.",
+  "targetArtists": [
+    "Artists from Sapporo",
+    "Japanese Hip-Hop Community",
+    "Tokyo & Osaka J-Rap Scene"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "E-Minor / C#-Minor",
+  "vibeAttributes": [
+    "Sapporo",
+    "Tokyo Drill",
+    "PayPay & LINE Pay (JPY ¥)",
+    "JASRAC & NexTone Compliant"
+  ],
+  "popularGenres": [
+    "Tokyo Street Drill Beats",
+    "Japanese Trap",
+    "Tokyo Drill"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "sapporo-north-nujabes-jazz-hop",
+  "name": "Sapporo Nujabes Style Jazz Hop",
+  "category": "scene",
+  "badge": "Sapporo Jazz Hop",
+  "headline": "Sapporo (Susukino & Hokkaido Sub-Zero Cold Drill) Nujabes Style Jazz Hop: 24-Bit WAV Beats & PayPay / LINE Pay Checkout",
+  "description": "Warm vintage piano chords, dusty vinyl crackle, and soulful analog breakbeats for lyricists in Sapporo.",
+  "targetArtists": [
+    "Artists from Sapporo",
+    "Japanese Hip-Hop Community",
+    "Tokyo & Osaka J-Rap Scene"
+  ],
+  "recommendedBpm": "84-90 BPM",
+  "recommendedKey": "Ab-Major / F-Minor",
+  "vibeAttributes": [
+    "Sapporo",
+    "Jazz Hop",
+    "PayPay & LINE Pay (JPY ¥)",
+    "JASRAC & NexTone Compliant"
+  ],
+  "popularGenres": [
+    "Nujabes Style Jazz Hop",
+    "Japanese Trap",
+    "Tokyo Drill"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "sapporo-north-anime-hyper-trap",
+  "name": "Sapporo Anime Hyper Trap Beats",
+  "category": "scene",
+  "badge": "Sapporo Anime Trap",
+  "headline": "Sapporo (Susukino & Hokkaido Sub-Zero Cold Drill) Anime Hyper Trap Beats: 24-Bit WAV Beats & PayPay / LINE Pay Checkout",
+  "description": "Glitchy 8-bit chiptune synths, high-energy pop-trap bounce, and punchy 808s for creators in Sapporo.",
+  "targetArtists": [
+    "Artists from Sapporo",
+    "Japanese Hip-Hop Community",
+    "Tokyo & Osaka J-Rap Scene"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "F#-Minor / A-Major",
+  "vibeAttributes": [
+    "Sapporo",
+    "Anime Trap",
+    "PayPay & LINE Pay (JPY ¥)",
+    "JASRAC & NexTone Compliant"
+  ],
+  "popularGenres": [
+    "Anime Hyper Trap Beats",
+    "Japanese Trap",
+    "Tokyo Drill"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
 ];

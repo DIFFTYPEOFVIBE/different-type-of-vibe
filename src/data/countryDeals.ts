@@ -42768,4 +42768,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "jp/tokyo-shibuya-center-gai": {
+  "slug": "jp/tokyo-shibuya-center-gai",
+  "name": "Japan – Tokyo: Shibuya, Center-Gai & Udagawacho (The Historic Cradle of Japanese Hip-Hop)",
+  "flag": "🇯🇵",
+  "currency": "JPY (¥) / USD ($)",
+  "currencyCode": "JPY",
+  "gateways": "PayPay (ペイペイ), Line Pay, Konbini (コンビニ決済), Japanese Cards (国内カード), Apple Pay, PayPal",
+  "pro": "JASRAC / NexTone",
+  "proFullName": "JASRAC (日本音楽著作権協会 - Japanese Society for Rights of Authors, Composers and Publishers)",
+  "proGuide": "100% JASRACおよびNexTone対応。商用利用ライセンス契約書PDF即時発行・ダウンロード可能。",
+  "headline": "Beats in Shibuya Center-Gai: Udagawacho Vinyl Record Culture & High-Energy Tokyo Trap",
+  "description": "The sacred ground of Japanese street hip-hop culture: slick minor synthesizer leads, fast syncopated hi-hat rolls, and punchy 808s engineered for MCs across Shibuya, Center-Gai, and Udagawacho.",
+  "popularGenres": [
+    "Shibuya Street Trap",
+    "Tokyo J-Rap Beat",
+    "Udagawacho Drill"
+  ],
+  "subClusters": []
+},
+  "jp/tokyo-shinjuku-kabukicho": {
+  "slug": "jp/tokyo-shinjuku-kabukicho",
+  "name": "Japan – Tokyo: Shinjuku, Kabukicho & Okubo (Neon Noir Entertainment District & Midnight Trap)",
+  "flag": "🇯🇵",
+  "currency": "JPY (¥) / USD ($)",
+  "currencyCode": "JPY",
+  "gateways": "PayPay (ペイペイ), Line Pay, Konbini (コンビニ決済), Japanese Cards (国内カード), Apple Pay, PayPal",
+  "pro": "JASRAC / NexTone",
+  "proFullName": "JASRAC (日本音楽著作権協会 - Japanese Society for Rights of Authors, Composers and Publishers)",
+  "proGuide": "24ビットスタジオ品質WAVおよびマルチトラック・ステム（Stems）即時提供。",
+  "headline": "Beats in Shinjuku Kabukicho: Neon Lights, Golden Gai Alleyways & Heavy Sliding 808s",
+  "description": "Where dazzling neon reflections meet underground street reality: dark piano arpeggios, two-octave 808 portamento slides, and cold atmospheric reverb for Shinjuku and Kabukicho artists.",
+  "popularGenres": [
+    "Kabukicho Neon Trap",
+    "Shinjuku Dark Drill",
+    "Midnight Tokyo Beat"
+  ],
+  "subClusters": []
+},
+  "jp/osaka-americamura-minami": {
+  "slug": "jp/osaka-americamura-minami",
+  "name": "Japan – Osaka: Shinsaibashi & Americamura (Amemura Kansai Streetwear & Rap Heartland)",
+  "flag": "🇯🇵",
+  "currency": "JPY (¥) / USD ($)",
+  "currencyCode": "JPY",
+  "gateways": "PayPay (ペイペイ), Line Pay, Konbini (コンビニ決済), Japanese Cards (国内カード), Apple Pay, PayPal",
+  "pro": "JASRAC / NexTone",
+  "proFullName": "JASRAC (日本音楽著作権協会 - Japanese Society for Rights of Authors, Composers and Publishers)",
+  "proGuide": "Spotify, Apple Music, YouTubeでの全世界デジタル配信収益100%完全保証。",
+  "headline": "Beats in Amemura & Shinsaibashi: Osaka Street Swagger, Dotonbori Pulse & Bouncy 808s",
+  "description": "The fiery, authentic street culture capital of Kansai: punchy analog kicks, raw brass stabs, and bouncy trap rhythms tailored for Osaka, Americamura, and Minami lyricists.",
+  "popularGenres": [
+    "Osaka Amemura Trap",
+    "Kansai Street Rap",
+    "Minami Bouncy 808"
+  ],
+  "subClusters": []
+},
+  "jp/kanagawa-kawasaki-southside": {
+  "slug": "jp/kanagawa-kawasaki-southside",
+  "name": "Japan – Kanagawa: Kawasaki Southside (Cradle of BAD HOP & Industrial Street Rap)",
+  "flag": "🇯🇵",
+  "currency": "JPY (¥) / USD ($)",
+  "currencyCode": "JPY",
+  "gateways": "PayPay (ペイペイ), Line Pay, Konbini (コンビニ決済), Japanese Cards (国内カード), Apple Pay, PayPal",
+  "pro": "JASRAC / NexTone",
+  "proFullName": "JASRAC (日本音楽著作権協会 - Japanese Society for Rights of Authors, Composers and Publishers)",
+  "proGuide": "100% ロイヤリティフリー・マスタークリアランス完了。商用利用無制限。",
+  "headline": "Beats in Kawasaki Southside: Industrial Smoke, Keihin Factory Zone & Raw 808 Drill",
+  "description": "The gritty industrial factory zone that birthed BAD HOP: raw distorted 808 sub-bass, cold metallic snares, and aggressive street reality soundscapes for Kawasaki and Kanagawa MCs.",
+  "popularGenres": [
+    "Kawasaki Southside Rap",
+    "Industrial Keihin Drill",
+    "BAD HOP Style Trap"
+  ],
+  "subClusters": []
+},
+  "jp/okinawa-naha-koza": {
+  "slug": "jp/okinawa-naha-koza",
+  "name": "Japan – Okinawa: Naha & Koza / Okinawa City (Island Hip-Hop Powerhouse & Awich Heartland)",
+  "flag": "🇯🇵",
+  "currency": "JPY (¥) / USD ($)",
+  "currencyCode": "JPY",
+  "gateways": "PayPay (ペイペイ), Line Pay, Konbini (コンビニ決済), Japanese Cards (国内カード), Apple Pay, PayPal",
+  "pro": "JASRAC / NexTone",
+  "proFullName": "JASRAC (日本音楽著作権協会 - Japanese Society for Rights of Authors, Composers and Publishers)",
+  "proGuide": "PayPay、LINE Pay、クレジットカードで日本円（JPY ¥）即時決済可能。",
+  "headline": "Beats in Naha & Koza: Ryukyu Island Heritage, Sanshin Melodies & Queen Trap 808s",
+  "description": "The proud, fierce island hip-hop capital of Japan: traditional Sanshin string riffs, oceanic breezes, and dominant 808 trap bounce engineered for Okinawa, Naha, and Koza creators.",
+  "popularGenres": [
+    "Okinawa Island Trap",
+    "Ryukyu Sanshin Beat",
+    "Awich Style Rap"
+  ],
+  "subClusters": []
+},
+  "jp/nagoya-sakae-tokai": {
+  "slug": "jp/nagoya-sakae-tokai",
+  "name": "Japan – Nagoya: Sakae & Tokai (Tokai Dope Sound & Deep Heavyweight 808 Trap)",
+  "flag": "🇯🇵",
+  "currency": "JPY (¥) / USD ($)",
+  "currencyCode": "JPY",
+  "gateways": "PayPay (ペイペイ), Line Pay, Konbini (コンビニ決済), Japanese Cards (国内カード), Apple Pay, PayPal",
+  "pro": "JASRAC / NexTone",
+  "proFullName": "JASRAC (日本音楽著作権協会 - Japanese Society for Rights of Authors, Composers and Publishers)",
+  "proGuide": "プロスタジオでのレコーディングに最適な個別ステム音源ファイル同梱。",
+  "headline": "Beats in Nagoya Sakae: Tokai Dope Sound Heritage, Lowrider Bass & Dark Heavyweight Trap",
+  "description": "The legendary heartland of Tokai Dope Sound: heavy West Coast synth whines, subterranean rolling 808s, and uncompromising street rhythms crafted for Nagoya, Sakae, and Aichi artists.",
+  "popularGenres": [
+    "Nagoya Tokai Dope Rap",
+    "Sakae Street Trap",
+    "Heavy Sub 808"
+  ],
+  "subClusters": []
+},
+  "jp/fukuoka-tenjin-oyafuko": {
+  "slug": "jp/fukuoka-tenjin-oyafuko",
+  "name": "Japan – Fukuoka: Tenjin & Oyafuko-dori (Kyushu Street Rap Bastion & Dynamic Club Beats)",
+  "flag": "🇯🇵",
+  "currency": "JPY (¥) / USD ($)",
+  "currencyCode": "JPY",
+  "gateways": "PayPay (ペイペイ), Line Pay, Konbini (コンビニ決済), Japanese Cards (国内カード), Apple Pay, PayPal",
+  "pro": "JASRAC / NexTone",
+  "proFullName": "JASRAC (日本音楽著作権協会 - Japanese Society for Rights of Authors, Composers and Publishers)",
+  "proGuide": "JASRAC登録可能な著作権譲渡・スプリットシート証明書PDF発行。",
+  "headline": "Beats in Oyafuko-dori: Tenjin Nightlife Energy, Hakata Ramen Stalls & Fast Trap Bounce",
+  "description": "Kyushu's nightlife and hip-hop capital: high-energy club trap drums, catchy melodic synths, and versatile flow pocket arrangements designed for Fukuoka, Hakata, and Tenjin MCs.",
+  "popularGenres": [
+    "Fukuoka Oyafuko Trap",
+    "Tenjin Nightlife Beat",
+    "Hakata Club Rap"
+  ],
+  "subClusters": []
+},
+  "jp/sapporo-susukino-hokkaido": {
+  "slug": "jp/sapporo-susukino-hokkaido",
+  "name": "Japan – Sapporo: Susukino & Odori (Hokkaido Sub-Zero Cold Drill & Snow-Covered Trap)",
+  "flag": "🇯🇵",
+  "currency": "JPY (¥) / USD ($)",
+  "currencyCode": "JPY",
+  "gateways": "PayPay (ペイペイ), Line Pay, Konbini (コンビニ決済), Japanese Cards (国内カード), Apple Pay, PayPal",
+  "pro": "JASRAC / NexTone",
+  "proFullName": "JASRAC (日本音楽著作権協会 - Japanese Society for Rights of Authors, Composers and Publishers)",
+  "proGuide": "ロイヤリティ永久フリー、全世界のストリーミング配信で収益化可能。",
+  "headline": "Beats in Sapporo: Susukino Neon in Snow, Sub-Zero Winter & Icy Cold Drill 808s",
+  "description": "The snowy northern metropolis of Hokkaido: crystal-cold minor piano notes, freezing synth pads, and subterranean sliding 808s crafted for Sapporo and Hokkaido street lyricists.",
+  "popularGenres": [
+    "Sapporo Sub-Zero Drill",
+    "Hokkaido Cold Trap",
+    "Susukino Night Beat"
+  ],
+  "subClusters": []
+},
+  "jp/kyoto-gion-kamogawa": {
+  "slug": "jp/kyoto-gion-kamogawa",
+  "name": "Japan – Kyoto: Gion & Kamogawa River (Ancient Capital Heritage & Traditional Zen Lofi Hip-Hop)",
+  "flag": "🇯🇵",
+  "currency": "JPY (¥) / USD ($)",
+  "currencyCode": "JPY",
+  "gateways": "PayPay (ペイペイ), Line Pay, Konbini (コンビニ決済), Japanese Cards (国内カード), Apple Pay, PayPal",
+  "pro": "JASRAC / NexTone",
+  "proFullName": "JASRAC (日本音楽著作権協会 - Japanese Society for Rights of Authors, Composers and Publishers)",
+  "proGuide": "ダウンロード後即商用利用可能なプロフェッショナル音源。",
+  "headline": "Beats in Kyoto: Kamogawa River Reflection, Gion Temples & Zen Lofi Chilled Hip-Hop",
+  "description": "Where 1,200 years of imperial heritage meet modern lofi chillhop: gentle Koto plucks, bamboo flute runs, and unquantized dusty vinyl boom bap drums for Kyoto artists.",
+  "popularGenres": [
+    "Kyoto Zen Lofi",
+    "Kamogawa Chillhop",
+    "Traditional Heritage Boom Bap"
+  ],
+  "subClusters": []
+},
+  "jp/sendai-tohoku-kokubuncho": {
+  "slug": "jp/sendai-tohoku-kokubuncho",
+  "name": "Japan – Sendai & Tohoku (Green City Music Scene & Poetic Underground Boom Bap)",
+  "flag": "🇯🇵",
+  "currency": "JPY (¥) / USD ($)",
+  "currencyCode": "JPY",
+  "gateways": "PayPay (ペイペイ), Line Pay, Konbini (コンビニ決済), Japanese Cards (国内カード), Apple Pay, PayPal",
+  "pro": "JASRAC / NexTone",
+  "proFullName": "JASRAC (日本音楽著作権協会 - Japanese Society for Rights of Authors, Composers and Publishers)",
+  "proGuide": "商用DSP配信、YouTube収益化、ライブパフォーマンス完全対応。",
+  "headline": "Beats in Sendai: City of Trees, Kokubuncho Nightlife & Soulful Tohoku Hip-Hop",
+  "description": "The cultural capital of Tohoku: dusty jazz vinyl chops, acoustic upright bass, and neck-snapping boom bap drums tailored for deep conscious lyricists across Sendai and Tohoku.",
+  "popularGenres": [
+    "Sendai Soulful Boom Bap",
+    "Tohoku Conscious Rap",
+    "City of Trees Beat"
+  ],
+  "subClusters": []
+},
 };
