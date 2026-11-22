@@ -135464,4 +135464,1270 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "1"
   ]
 },
+  {
+  "slug": "matue-30praum-maquina-do-tempo",
+  "title": "Matuê 30PRAUM Máquina do Tempo Psychedelic Guitar & Space 808 Beat",
+  "description": "Chart-topping, multi-platinum Brazilian trap masterpiece inspired by Matuê (Máquina do Tempo, Anos Luz, Conexões de Máfia, Vampiro), featuring psychedelic delay guitars, soaring autotuned spacing, and heavy 808s.",
+  "targetKeywords": [
+    "matue type beat 2024",
+    "maquina do tempo instrumental",
+    "30praum type beat",
+    "trap psicodelico matue beat",
+    "matue conexoes de mafia beat"
+  ],
+  "heroCta": "Comprar Beat Estilo Matuê (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Lead Commercial Single, Stadium Tour Anthem and Viral Streaming Hit",
+  "similarArtists": [
+    "Matuê",
+    "Teto",
+    "WIU",
+    "Travis Scott"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "productionTips": "Rich stereo electric guitar leads with tape echo and modulation layered over punchy kicks and sliding 808 sub-bass.",
+  "idealVocalStyle": "Charismatic autotuned melodies, melodic cadence variations, and unforgettable singalong hooks.",
+  "suggestedKey": "G Minor / C# Minor",
+  "streamingSuitability": "Guaranteed top streaming numbers on Spotify Top 50 Brasil, Apple Music Trap Brasil, and festival mainstages."
+},
+  {
+  "slug": "veigh-dos-predios-deluxe-acoustic",
+  "title": "Veigh Dos Prédios Deluxe Smooth Acoustic Violão & R&B-Trap Beat",
+  "description": "Luxurious, record-breaking Brazilian melodic trap instrumental inspired by Veigh and Supernova (Dos Prédios Deluxe, Novo Balanço, Engana Dizendo Que Ama), with acoustic nylon guitar (violão) and silky 808s.",
+  "targetKeywords": [
+    "veigh type beat 2024",
+    "dos predios deluxe instrumental",
+    "trap de violao veigh beat",
+    "veigh novo balanco type beat",
+    "smooth brazilian rnb trap"
+  ],
+  "heroCta": "Comprar Beat Estilo Veigh (WAV + Stems)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Romantic Urban Trap Single, Late-Night Drive Video and Radio Hit",
+  "similarArtists": [
+    "Veigh",
+    "KayBlack",
+    "Vulgo FK",
+    "Baco Exu do Blues"
+  ],
+  "recommendedBpm": "122-128 BPM",
+  "productionTips": "Live-sounding Brazilian nylon acoustic guitar strumming with warm tape warmth and clean, melodic 808 sub-bass.",
+  "idealVocalStyle": "Silky romantic singing, emotive Portuguese love-song lyrics, and smooth harmonized choruses.",
+  "suggestedKey": "F Minor / Bb Minor / D Minor",
+  "streamingSuitability": "Dominates Spotify Brasil #1 streaming spots, viral romance reels, and urban radio rotation."
+},
+  {
+  "slug": "filipe-ret-lume-trap-carioca",
+  "title": "Filipe Ret LUME Triumphant Rio De Janeiro Trap & Brass Fanfares Beat",
+  "description": "Triumphant, opulent Rio de Janeiro street trap anthem inspired by Filipe Ret and Nadamal (LUME, Vivendo Avançado, Corte Americano, Invicto), featuring soaring brass horns and heavy rolling 808s.",
+  "targetKeywords": [
+    "filipe ret type beat",
+    "lume filipe ret instrumental",
+    "trap carioca instrumental",
+    "filipe ret vivendo avancado beat",
+    "triumphant brass trap beat brazil"
+  ],
+  "heroCta": "Comprar Beat Estilo Filipe Ret (Instant WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "Triumphant Street Single, High-Budget Lifestyle Video and Festival Opener",
+  "similarArtists": [
+    "Filipe Ret",
+    "L7NNON",
+    "Orochi",
+    "MC Poze do Rodo"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "productionTips": "Layer majestic brass fanfares with heavy sidechained 808 sub-bass and crisp Carioca street claps.",
+  "idealVocalStyle": "Confident Carioca accent, poetic street philosophy, arrogant luxury swagger, and stadium choruses.",
+  "suggestedKey": "C Minor / Eb Major",
+  "streamingSuitability": "Consistent top 10 charting across Brazilian streaming platforms, nightlife DJ sets, and gym playlists."
+},
+  {
+  "slug": "major-rd-trofeu-rock-trap-agressivo",
+  "title": "Major RD Troféu Distorted Heavy Rock-Trap & Rapid-Fire Flow Beat",
+  "description": "Explosive, aggressive hardcore Brazilian rock-trap instrumental inspired by Major RD and Rock Danger (Troféu, Só Rock 2, 60K, A Praga), featuring overdriven electric guitar riffs and thunderous 808 kicks.",
+  "targetKeywords": [
+    "major rd type beat 2024",
+    "rock trap brasileiro instrumental",
+    "so rock 2 major rd beat",
+    "heavy distorted trap beat brazil",
+    "major rd 60k type beat"
+  ],
+  "heroCta": "Comprar Beat Rock Danger (WAV + Stems)",
+  "energyLevel": "Maximum",
+  "primaryUse": "Hardcore Mosh Pit Single, Aggressive Workout Banger and High-Impact Cypher",
+  "similarArtists": [
+    "Major RD",
+    "Sant",
+    "Froid",
+    "BK'"
+  ],
+  "recommendedBpm": "140-146 BPM",
+  "productionTips": "Distorted analog rock guitar power chords balanced with a clipped 808 transient punch and rapid hi-hats.",
+  "idealVocalStyle": "Aggressive, breathless rapid-fire syllable spitting, visceral screams, and raw street fury.",
+  "suggestedKey": "E Minor / D Minor",
+  "streamingSuitability": "Insuperable for gym workout playlists, concert mosh pits, and aggressive hip-hop visualizers."
+},
+  {
+  "slug": "tz-da-coronel-garganta-afiada-flow",
+  "title": "Tz da Coronel Garganta Afiada Menacing Dark Trap & Vocal Bend Beat",
+  "description": "Dark, hypnotic and menacing Rio street trap instrumental inspired by Tz da Coronel (É o Tz, Nota de Cem, Trajadão de Glock, Qual é o Seu Desejo), with cavernous 808s and ominous minor keys.",
+  "targetKeywords": [
+    "tz da coronel type beat",
+    "e o tz type beat",
+    "dark trap carioca instrumental",
+    "tz da coronel nota de cem beat",
+    "menacing 808 trap beat brazil"
+  ],
+  "heroCta": "Comprar Beat Estilo Tz (Instant WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "Dark Street Anthem, Car Audio Low-End Test and Gritty Trap Single",
+  "similarArtists": [
+    "Tz da Coronel",
+    "Borges",
+    "Aruan",
+    "KayBlack"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "productionTips": "Deep sub-bass glides that leave wide vocal space for Tz's signature gravelly vocal pitch bends.",
+  "idealVocalStyle": "Distinctive raspy vocal delivery, melodic pitch bending, and uncompromising street reality lyrics.",
+  "suggestedKey": "C# Minor / E Minor",
+  "streamingSuitability": "Extremely high organic listener replay on street rap channels, Spotify Brasil, and car audio reels."
+},
+  {
+  "slug": "baile-funk-mandelao-130-bpm-fluxo",
+  "title": "Baile Funk Mandelão 130 BPM Fluxo de Rua & Heavy Paredão Kick Beat",
+  "description": "Raw, aggressive São Paulo Funk Mandelão & Fluxo de Rua instrumental: hollow metallic punch kicks, hypnotic 130 BPM syncopations, and earthquake sub-bass engineered for sound car walls (paredões).",
+  "targetKeywords": [
+    "funk mandelao beat 130 bpm",
+    "fluxo de rua funk beat",
+    "mandelao sp instrumental 808",
+    "pancadao funk paulistano beat",
+    "batida oca mandelao"
+  ],
+  "heroCta": "Comprar Beat Mandelão (WAV 24-bit)",
+  "energyLevel": "Maximum",
+  "primaryUse": "Paredão Bass Test, Fluxo de Rua Anthem and Viral TikTok Dance Challenge",
+  "similarArtists": [
+    "DJ Arana",
+    "DJ Mu540",
+    "MC GW",
+    "MC Menor da VG"
+  ],
+  "recommendedBpm": "130 BPM",
+  "productionTips": "Signature hollow punch kick transient layered with aggressive low-end sine waves and minimal percussion.",
+  "idealVocalStyle": "Rhythmic, percussive vocal chops, call-and-response party chants, and high-energy street slogans.",
+  "suggestedKey": "D Minor / A Minor",
+  "streamingSuitability": "Explosive viral spikes across TikTok, street baile events, and Brazilian car audio systems."
+},
+  {
+  "slug": "brega-funk-recife-160-bpm-batedeira",
+  "title": "Brega Funk Recife 160 BPM Batedeira & Frantic Whistle Party Beat",
+  "description": "High-velocity, hyperactive 160 BPM Recife Brega Funk instrumental: frantic syncopated whistle patterns, bouncy cavaquinho/violão riffs, and the iconic Pernambuco batedeira kick bounce.",
+  "targetKeywords": [
+    "brega funk 160 bpm beat",
+    "recife brega funk instrumental",
+    "batedeira brega funk beat",
+    "passinho do brega beat 160",
+    "brega funk pernambuco 808"
+  ],
+  "heroCta": "Comprar Beat Brega Funk (WAV + Stems)",
+  "energyLevel": "Maximum",
+  "primaryUse": "Viral Dance Challenge, High-Energy Street Carnival and Party Single",
+  "similarArtists": [
+    "Shevchenko e Elloco",
+    "Dadá Boladão",
+    "MC Troia",
+    "MC Loma"
+  ],
+  "recommendedBpm": "158-164 BPM",
+  "productionTips": "Frantic syncopated whistle rolls layered with fast acoustic guitar plucks and punchy 160 BPM kick-claps.",
+  "idealVocalStyle": "Fast-paced, humorous, energetic delivery, viral dance instructions, and catchy shout hooks.",
+  "suggestedKey": "F Minor / C Minor",
+  "streamingSuitability": "Unstoppable viral sharing on TikTok, Passinho dance competitions, and Northeast Brazilian street parties."
+},
+  {
+  "slug": "pagodao-baiano-afro-trap-salvador",
+  "title": "Pagodão Baiano Afro-Trap Salvador Polyrhythmic Percussion Beat",
+  "description": "High-energy Afro-Bahian Pagodão trap fusion inspired by Salvador: live acoustic Timbal, Repique, and Surdo polyrhythms fused with modern 808 trap drops and festive brass stabs.",
+  "targetKeywords": [
+    "pagodao baiano trap beat",
+    "afro trap salvador beat",
+    "percussao baiana trap 808",
+    "pagodao trap beat bahia",
+    "olodum style trap beat"
+  ],
+  "heroCta": "Comprar Beat Pagodão Trap (Instant WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "Carnaval de Salvador Banger, Afro-Trap Single and High-Energy Dance Video",
+  "similarArtists": [
+    "ÀTTØØXXÁ",
+    "Psirico",
+    "Léo Santana",
+    "Baco Exu do Blues"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "productionTips": "Live Afro-Brazilian percussive groove with authentic Timbal accents riding a heavy modern trap 808.",
+  "idealVocalStyle": "Infectious Bahian swing, call-and-response crowd hyping, rhythmic verses, and joyful party swagger.",
+  "suggestedKey": "G Major / E Minor",
+  "streamingSuitability": "Guaranteed dancefloor reaction, Brazilian carnival rotation, and international afro-electronic playlists."
+},
+  {
+  "slug": "chorao-charlie-brown-jr-skate-rock-trap",
+  "title": "Chorão Charlie Brown Jr Santos Nostalgic Skate-Rock Trap Beat",
+  "description": "Nostalgic, rebellious skate-rock trap tribute honoring Chorão and Charlie Brown Jr (Dias de Luta Dias de Glória, Céu Azul, Zoio de Lula): raw electric guitars, acoustic skanks, and modern 808s.",
+  "targetKeywords": [
+    "charlie brown jr type beat",
+    "chorao skate rock trap beat",
+    "nostalgic brazilian rock trap",
+    "santos skate rap beat",
+    "dias de luta type beat"
+  ],
+  "heroCta": "Comprar Beat Skate Rock (Instant WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Skateboarding Montage Anthem, Nostalgic Rock-Rap Single and Tribute Track",
+  "similarArtists": [
+    "Charlie Brown Jr.",
+    "Chorão",
+    "Projota",
+    "Teto"
+  ],
+  "recommendedBpm": "120-130 BPM",
+  "productionTips": "Layered overdriven electric guitars with acoustic nylon strums and punchy, dynamic modern trap drums.",
+  "idealVocalStyle": "Passionate, raspy vocal delivery, reflective street philosophy on struggle and triumph, and melodic hooks.",
+  "suggestedKey": "A Major / F# Minor",
+  "streamingSuitability": "Immense nostalgic loyalty across Brazilian rock, skate, and hip-hop communities."
+},
+  {
+  "slug": "favela-nocturna-morro-ambient-drill",
+  "title": "Favela Nocturna Morro Rainy Late-Night Carioca Drill 808 Beat",
+  "description": "Atmospheric, dark nighttime Rio favela drill soundtrack: distant sirens, rain textures on corrugated tin roofs, cold minor grand piano arpeggios, and cavernous sliding 808s.",
+  "targetKeywords": [
+    "favela drill beat rj",
+    "dark morro drill instrumental",
+    "rainy favela trap beat 808",
+    "nocturnal carioca drill beat",
+    "rio de janeiro street drill"
+  ],
+  "heroCta": "Comprar Beat Favela Drill (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Dark Street Single, Gritty Favela Visualizer and Gym Workout Track",
+  "similarArtists": [
+    "Orochi",
+    "MC Poze do Rodo",
+    "Central Cee",
+    "Gazo"
+  ],
+  "recommendedBpm": "141-144 BPM",
+  "productionTips": "Minor acoustic grand piano with dark hall reverb layered over multi-octave 808 slides and clipped rimshots.",
+  "idealVocalStyle": "Cold street reality delivery, poetic favela chronicles, and raw atmospheric ad-libs.",
+  "suggestedKey": "C Minor / E Minor",
+  "streamingSuitability": "Essential for drill playlists, automotive content creators, and urban street visuals."
+},
+  {
+  "slug": "racionais-mcs-capao-redondo-classic-boombap",
+  "title": "Racionais MC's Capão Redondo 90s Golden Era Conscious Boom Bap Beat",
+  "description": "Sacred cultural hip-hop tribute honoring Brazil's greatest rap group, Racionais MC's (Sobrevivendo no Inferno, Vida Loka, Capítulo 4 Versículo 3): vintage soul piano chops, dry MPC kicks, and conscious street poetry.",
+  "targetKeywords": [
+    "racionais mcs type beat",
+    "capao redondo boom bap beat",
+    "rap nacional classico instrumental",
+    "vida loka racionais type beat",
+    "90s boom bap brasil"
+  ],
+  "heroCta": "Comprar Beat Rap Nacional (WAV + Stems)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Conscious Hip-Hop Masterpiece, Authentic Street Cypher and Documentary Soundtrack",
+  "similarArtists": [
+    "Racionais MC's",
+    "Mano Brown",
+    "Eduardo Taddeo",
+    "Sabotage"
+  ],
+  "recommendedBpm": "88-93 BPM",
+  "productionTips": "MPC-style chopped vintage soul/piano samples with subtle vinyl crackle and uncompressed acoustic drums.",
+  "idealVocalStyle": "Deep, authoritative baritone delivery, profound social consciousness, and dignified cadence.",
+  "suggestedKey": "D Minor / G Minor",
+  "streamingSuitability": "Revered by hip-hop purists, cultural platforms, and conscious rap audiences across all of Brazil."
+},
+  {
+  "slug": "beats-de-trap-brasileiro-baratos-pix",
+  "title": "Beats de Trap Brasileiro Baratos a Partir de R$ 149 (Pagamento Imediato via PIX)",
+  "description": "Instrumentais profissionais de trap nacional e trapfunk prontos para estúdio a partir de R$ 149 com pagamento instantâneo via chave PIX, cartões de crédito e liberação automática de download.",
+  "targetKeywords": [
+    "beats de trap brasileiro baratos pix",
+    "comprar beats no brasil pix",
+    "instrumentais trap nacional baratos reais",
+    "beat trap 150 reais pix download"
+  ],
+  "heroCta": "Ver Beats Baratos a Partir de R$ 149 (PIX)",
+  "energyLevel": "Variable",
+  "primaryUse": "Mixtapes, Singles de Estreia e Gravações em Home Studio com Licença Completa",
+  "similarArtists": [
+    "Trappers Independentes Brasileiros",
+    "Criadores de TikTok e YouTube"
+  ],
+  "recommendedBpm": "120-144 BPM",
+  "productionTips": "Pré-mixados e masterizados com amplo headroom dinâmico para gravação de voz em home studio.",
+  "idealVocalStyle": "Adaptável para autotune melódico, rimas aceleradas de rua e love songs.",
+  "suggestedKey": "Todas as tonalidades maiores e menores",
+  "streamingSuitability": "Licença comercial que cobre até 100.000 reproduções no Spotify, Apple Music e Deezer."
+},
+  {
+  "slug": "trap-funk-carioca-comercial-stems-wav",
+  "title": "Beats de TrapFunk Carioca Comercial com Stems Separados (WAV 24-Bit de Estúdio)",
+  "description": "Instrumentais de TrapFunk do Rio de Janeiro com batida de tamborzão e graves 808 pesados, entregues com todas as faixas multipistas separadas (stems WAV) para mixagem de alto nível em estúdio.",
+  "targetKeywords": [
+    "trap funk carioca comercial stems wav",
+    "trapfunk pistas separadas download",
+    "comprar beat trapfunk rj wav 24 bit",
+    "tamborzao trap funk stems brasil"
+  ],
+  "heroCta": "Baixar TrapFunk + Stems WAV",
+  "energyLevel": "Very High",
+  "primaryUse": "Gravação em Estúdio Profissional, Mixagem Multipista e Lançamento Comercial",
+  "similarArtists": [
+    "L7NNON",
+    "Filipe Ret",
+    "MC Cabelinho",
+    "Papatinho"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "productionTips": "Cada instrumento exportado em formato seco com canais de efeitos individuais para controle absoluto.",
+  "idealVocalStyle": "Sotaque carioca autêntico, métrica dançante, estribilhos contagiantes e barras de ostentação.",
+  "suggestedKey": "Dó Menor / Mi Menor",
+  "streamingSuitability": "Reproduções ilimitadas e direitos de transmissão em rádio e videoclipes inclusos."
+},
+  {
+  "slug": "beats-melodicos-de-violao-trap-nacional",
+  "title": "Beats Melódicos de Violão Trap Nacional (WAV 24-Bit & Direitos Comerciais)",
+  "description": "Produções emotivas de trap brasileiro com arranjos de violão de nylon acústico gravado ao vivo, teclados suaves e graves 808 quentes, prontos para subir ao Spotify e Apple Music em WAV 24-bit.",
+  "targetKeywords": [
+    "beats melodicos de violao trap nacional",
+    "beat de violao trap brasil wav",
+    "instrumental trap acustico triste 24 bit",
+    "comprar beat de trap com violao"
+  ],
+  "heroCta": "Ouvir Beats Melódicos com Violão",
+  "energyLevel": "High",
+  "primaryUse": "Single Comercial Principal, Love Song e Videoclipe Emocional",
+  "similarArtists": [
+    "Veigh",
+    "KayBlack",
+    "Teto",
+    "Vulgo FK"
+  ],
+  "recommendedBpm": "122-132 BPM",
+  "productionTips": "Violão de nylon com saturação analógica em fita e sustentação de subgrave macio e aveludado.",
+  "idealVocalStyle": "Letras sinceras e vulneráveis, estribilhos cantados com afinação e autotune melódico.",
+  "suggestedKey": "Fá Menor / Lá Menor / Ré Menor",
+  "streamingSuitability": "Distribuição comercial ilimitada em plataformas digitais com 100% dos royalties master para o artista."
+},
+  {
+  "slug": "contrato-licenca-beat-ubc-ecad-pdf",
+  "title": "Contrato de Licença Beat UBC & ECAD Brasil (PDF Assinado com Split Sheet)",
+  "description": "Contrato legal de produção musical vinculante em conformidade com a Lei de Direitos Autorais brasileira (Lei 9.610/98), UBC, ABRAMUS e ECAD: baixe seu contrato e folha de divisão de direitos (split sheet) imediatamente.",
+  "targetKeywords": [
+    "contrato licenca beat ubc ecad pdf",
+    "contrato cessao direitos produtor musical brasil",
+    "split sheet ecad download imediato",
+    "registro ubc instrumental trap brasil"
+  ],
+  "heroCta": "Ver Contrato de Licença UBC (PDF)",
+  "energyLevel": "N/A",
+  "primaryUse": "Registro no ECAD, Divisão de Direitos Autorais e Proteção Jurídica Total",
+  "similarArtists": [
+    "Onzieb",
+    "Autores e Compositores Registrados na UBC e ABRAMUS"
+  ],
+  "recommendedBpm": "Todos os Tempos",
+  "productionTips": "Formulado para garantir segurança jurídica absoluta para o artista e produtores.",
+  "idealVocalStyle": "Válido para todos os gêneros musicais, gravações de voz e lançamentos comerciais.",
+  "suggestedKey": "Todas as Tonalidades",
+  "streamingSuitability": "Proteção jurídica definitiva para distribuição comercial mundial e sincronização audiovisual."
+},
+  {
+  "slug": "comprar-beats-com-pix-brasil-instantaneo",
+  "title": "Comprar Beats no Brasil com Chave PIX Instantâneo (Reais BRL R$)",
+  "description": "Compre instrumentais premium sem marcas de voz instantaneamente usando o método de pagamento mais rápido do Brasil: PIX do Banco Central com liberação automática de download em Reais (R$).",
+  "targetKeywords": [
+    "comprar beats com pix brasil instantaneo",
+    "pagar beats com pix",
+    "loja de beats brasil pix reais",
+    "comprar instrumental trap chave pix"
+  ],
+  "heroCta": "Comprar Beats via PIX",
+  "energyLevel": "All Levels",
+  "primaryUse": "Compra Imediata Sem Burocracia para Trappers e Estúdios em Todo o Brasil",
+  "similarArtists": [
+    "Rappers e Produtores Urbanos Brasileiros"
+  ],
+  "recommendedBpm": "80-160 BPM",
+  "productionTips": "Geração automática de QR Code PIX e chave Copia e Cola para download em segundos.",
+  "idealVocalStyle": "Compatibilidade universal com qualquer métrica ou estilo vocal.",
+  "suggestedKey": "Todas as Tonalidades",
+  "streamingSuitability": "Licença comercial direta válida para upload imediato em todas as plataformas digitais."
+},
+  {
+  "slug": "pacote-5-beats-album-trap-brasil-desconto",
+  "title": "Pacote 5 Beats para Álbum e EP de Trap Nacional (40% de Desconto em Reais R$)",
+  "description": "O pacote definitivo para artistas independentes que estão gravando um projeto completo (EP, mixtape ou álbum): escolha 5 ou 10 instrumentais de todo o catálogo com até 40% de desconto unificado.",
+  "targetKeywords": [
+    "pacote 5 beats album trap brasil desconto",
+    "bundle de instrumentais ep trap desconto",
+    "comprar beats no atacado brasil reais",
+    "pacote de beats trap nacional barato"
+  ],
+  "heroCta": "Garantir Pacote Álbum (40% de Desconto)",
+  "energyLevel": "Variable",
+  "primaryUse": "Produção Completa de EP ou Álbum, Direção Sonora Coesa e Lançamentos Regulares",
+  "similarArtists": [
+    "Rappers e Coletivos Independentes no Brasil"
+  ],
+  "recommendedBpm": "85-145 BPM",
+  "productionTips": "Curadoria harmônica e dinâmica coordenada para garantir fluidez auditiva em todo o projeto.",
+  "idealVocalStyle": "Espaço amplo para demonstrar toda a versatilidade lírica e melódica do artista.",
+  "suggestedKey": "Tonalidades Complementares",
+  "streamingSuitability": "Licença comercial única e global cobrindo todas as faixas do seu projeto simultaneamente."
+},
+  {
+  "slug": "produtor-musical-brasil-whatsapp-onzieb",
+  "title": "Produtor Musical Exclusivo para Artistas no Brasil (WhatsApp com Onzieb)",
+  "description": "Trabalhe diretamente com o produtor musical Onzieb via WhatsApp para encomendar instrumentais sob medida: ajustes de tom, criação de arranjos, mixagem de voz e produções exclusivas de trap nacional.",
+  "targetKeywords": [
+    "produtor musical brasil whatsapp onzieb",
+    "onzieb produtor trap brasil",
+    "encomendar beat personalizado trap brasil",
+    "beatmaker brasil contato whatsapp"
+  ],
+  "heroCta": "Falar com Onzieb no WhatsApp",
+  "energyLevel": "Personalizado",
+  "primaryUse": "Produção Exclusiva Sob Medida, Criação de Identidade Sonora e Singles Principais",
+  "similarArtists": [
+    "Onzieb",
+    "Grandes Produtores Urbanos do Brasil"
+  ],
+  "recommendedBpm": "Ajustado à respiração e cadência natural do artista",
+  "productionTips": "Ajustes de estrutura e mixagem em tempo real com troca de áudios e stems no WhatsApp.",
+  "idealVocalStyle": "Desenhado sob medida para destacar o timbre, alcance e pegada do vocalista.",
+  "suggestedKey": "Tom Personalizado",
+  "streamingSuitability": "Contrato de cessão exclusiva com 100% dos direitos master e monetização ilimitada."
+},
+  {
+  "slug": "beats-pesados-de-drill-rj-sp-808",
+  "title": "Beats Pesados de Drill RJ e SP com Graves 808 Deslizantes (Qualidade WAV)",
+  "description": "Instrumentais agressivos de street drill carioca e paulistano com baixos 808 que deslizam em portamento, caixas cortantes e ambiências cinematográficas para rimas de realidade e postura.",
+  "targetKeywords": [
+    "beats pesados de drill rj sp 808",
+    "drill brasileiro instrumental 808",
+    "drill carioca beat download",
+    "drill paulistano pesado wav"
+  ],
+  "heroCta": "Baixar Beats de Drill Brasileiro",
+  "energyLevel": "Very High",
+  "primaryUse": "Single de Rua Agressivo, Rimas de Postura e Videoclipe de Impacto",
+  "similarArtists": [
+    "Tz da Coronel",
+    "Borges",
+    "Major RD",
+    "Central Cee"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Graves 808 afinados com portamento em duas oitavas e saturação harmônica nos médios-graves.",
+  "idealVocalStyle": "Voz firme, métrica acelerada de drill e barras afiadas de realidade e superação.",
+  "suggestedKey": "Dó Sustenido Menor / Mi Menor",
+  "streamingSuitability": "Excelente desempenho em playlists de drill nacional, treinos pesados e vídeos de rua."
+},
+  {
+  "slug": "trap-acustico-rnb-love-song-veigh",
+  "title": "Trap Acústico R&B e Favela Love Song (Estilo Veigh, Cabelinho & KayBlack)",
+  "description": "Instrumentais românticos e envolventes de trap acústico com dedilhados de violão, pianos elétricos suaves e graves 808 aveludados, perfeitos para love songs que viralizam nas redes.",
+  "targetKeywords": [
+    "trap acustico rnb love song veigh",
+    "love song trap brasileiro beat",
+    "instrumental trap romantico violao",
+    "beat estilo veigh love song wav"
+  ],
+  "heroCta": "Ouvir Beats Trap Acústico Love Song",
+  "energyLevel": "Medium",
+  "primaryUse": "Love Song Comercial, Hit Romântico para Rádio e Vídeo Viral no TikTok",
+  "similarArtists": [
+    "Veigh",
+    "MC Cabelinho",
+    "KayBlack",
+    "Vulgo FK"
+  ],
+  "recommendedBpm": "120-128 BPM",
+  "productionTips": "Violão gravado em estéreo de alta fidelidade montado sobre uma levada de trap suave e envolvente.",
+  "idealVocalStyle": "Vocais cantados com autotune afinado, melodias sentimentais e rimas de vivência e amor.",
+  "suggestedKey": "Fá Menor / Si Bemol Menor",
+  "streamingSuitability": "Alto potencial de viralização em reels de casais, playlists românticas e topos de parada do Spotify."
+},
+  {
+  "slug": "drum-kit-trap-brasileiro-gratis-wav",
+  "title": "Drum Kit de Trap Brasileiro & Mandelão Grátis (Samples WAV 24-Bit & Graves 808)",
+  "description": "Baixe gratuitamente nosso pack exclusivo de sons para produtores e beatmakers: 25 graves 808 afinados, bumbos ocos de Mandelão, caixas secas e timbaus em formato WAV 24-bit de estúdio.",
+  "targetKeywords": [
+    "drum kit trap brasileiro gratis wav",
+    "pack de samples trap nacional download",
+    "808 samples gratis brasil",
+    "drum kit mandelao fl studio free"
+  ],
+  "heroCta": "Baixar Drum Kit Grátis (ZIP)",
+  "energyLevel": "High",
+  "primaryUse": "Produção Musical em Home Studio, Beatmaking no FL Studio, Ableton e Logic Pro",
+  "similarArtists": [
+    "Beatmakers Independentes Brasileiros",
+    "Produtores Urbanos Emergentes"
+  ],
+  "recommendedBpm": "Compatível com todos os andamentos",
+  "productionTips": "Sons one-shot 100% livres de direitos pré-masterizados com pegada analógica marcante.",
+  "idealVocalStyle": "Base rítmica sólida para a criação de instrumentais profissionais com identidade brasileira.",
+  "suggestedKey": "Afinado em Dó (C) para transposição imediata na sua DAW",
+  "streamingSuitability": "Livre de royalties para lançamento de faixas comerciais e venda de produções."
+},
+  {
+  "slug": "sao-paulo-zl-trap-nacional-808",
+  "name": "Zona Leste Trap Nacional 808 Beats",
+  "category": "scene",
+  "badge": "Zona Leste Trap Nacional",
+  "headline": "Zona Leste (Itaquera & Berço do Trap Paulistano) Trap Nacional 808 Beats: Pistas WAV 24-Bit & Pagamento Instantâneo via PIX",
+  "description": "Graves 808 pesados que deslizam em portamento, sintetizadores melódicos e caixas cortantes para artistas de Zona Leste.",
+  "targetArtists": [
+    "Artistas de Zona Leste",
+    "Comunidade do Trap Brasileiro",
+    "Cena do Rap Nacional"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "Dó-Menor / Sol-Menor",
+  "vibeAttributes": [
+    "Zona Leste",
+    "Trap Nacional",
+    "Pagamento PIX (BRL R$)",
+    "100% Conforme UBC/ECAD"
+  ],
+  "popularGenres": [
+    "Trap Nacional 808 Beats",
+    "Trap Nacional",
+    "TrapFunk Baile"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "sao-paulo-zl-drill-carioca-sp",
+  "name": "Zona Leste Drill Carioca & Paulistano Beats",
+  "category": "scene",
+  "badge": "Zona Leste Drill BR",
+  "headline": "Zona Leste (Itaquera & Berço do Trap Paulistano) Drill Carioca & Paulistano Beats: Pistas WAV 24-Bit & Pagamento Instantâneo via PIX",
+  "description": "Pianos frios cinematográficos, hi-hats em tercinas rápidas e subgraves profundos para MCs de Zona Leste.",
+  "targetArtists": [
+    "Artistas de Zona Leste",
+    "Comunidade do Trap Brasileiro",
+    "Cena do Rap Nacional"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "Mi-Menor / Dó#-Menor",
+  "vibeAttributes": [
+    "Zona Leste",
+    "Drill BR",
+    "Pagamento PIX (BRL R$)",
+    "100% Conforme UBC/ECAD"
+  ],
+  "popularGenres": [
+    "Drill Carioca & Paulistano Beats",
+    "Trap Nacional",
+    "TrapFunk Baile"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "sao-paulo-zl-trapfunk-baile-bounce",
+  "name": "Zona Leste TrapFunk Baile Bounce Beats",
+  "category": "scene",
+  "badge": "Zona Leste TrapFunk Baile",
+  "headline": "Zona Leste (Itaquera & Berço do Trap Paulistano) TrapFunk Baile Bounce Beats: Pistas WAV 24-Bit & Pagamento Instantâneo via PIX",
+  "description": "Bumbos ocos marcantes, tamborzão sincopado e graves 808 perfeitos para paredões em Zona Leste.",
+  "targetArtists": [
+    "Artistas de Zona Leste",
+    "Comunidade do Trap Brasileiro",
+    "Cena do Rap Nacional"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "Dó-Menor / Fá-Menor",
+  "vibeAttributes": [
+    "Zona Leste",
+    "TrapFunk Baile",
+    "Pagamento PIX (BRL R$)",
+    "100% Conforme UBC/ECAD"
+  ],
+  "popularGenres": [
+    "TrapFunk Baile Bounce Beats",
+    "Trap Nacional",
+    "TrapFunk Baile"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "sao-paulo-zl-rap-nacional-boom-bap",
+  "name": "Zona Leste Rap Nacional Classic Boom Bap",
+  "category": "scene",
+  "badge": "Zona Leste Boom Bap BR",
+  "headline": "Zona Leste (Itaquera & Berço do Trap Paulistano) Rap Nacional Classic Boom Bap: Pistas WAV 24-Bit & Pagamento Instantâneo via PIX",
+  "description": "Músicas e amostras de vinil clássicas, baterias secas de MPC e linhas de baixo analógico para os poetas de Zona Leste.",
+  "targetArtists": [
+    "Artistas de Zona Leste",
+    "Comunidade do Trap Brasileiro",
+    "Cena do Rap Nacional"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "Ré-Menor / Si-Menor",
+  "vibeAttributes": [
+    "Zona Leste",
+    "Boom Bap BR",
+    "Pagamento PIX (BRL R$)",
+    "100% Conforme UBC/ECAD"
+  ],
+  "popularGenres": [
+    "Rap Nacional Classic Boom Bap",
+    "Trap Nacional",
+    "TrapFunk Baile"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "sao-paulo-zs-trap-nacional-808",
+  "name": "Zona Sul Trap Nacional 808 Beats",
+  "category": "scene",
+  "badge": "Zona Sul Trap Nacional",
+  "headline": "Zona Sul (Capão Redondo & Raiz do Rap Nacional) Trap Nacional 808 Beats: Pistas WAV 24-Bit & Pagamento Instantâneo via PIX",
+  "description": "Graves 808 pesados que deslizam em portamento, sintetizadores melódicos e caixas cortantes para artistas de Zona Sul.",
+  "targetArtists": [
+    "Artistas de Zona Sul",
+    "Comunidade do Trap Brasileiro",
+    "Cena do Rap Nacional"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "Dó-Menor / Sol-Menor",
+  "vibeAttributes": [
+    "Zona Sul",
+    "Trap Nacional",
+    "Pagamento PIX (BRL R$)",
+    "100% Conforme UBC/ECAD"
+  ],
+  "popularGenres": [
+    "Trap Nacional 808 Beats",
+    "Trap Nacional",
+    "TrapFunk Baile"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "sao-paulo-zs-drill-carioca-sp",
+  "name": "Zona Sul Drill Carioca & Paulistano Beats",
+  "category": "scene",
+  "badge": "Zona Sul Drill BR",
+  "headline": "Zona Sul (Capão Redondo & Raiz do Rap Nacional) Drill Carioca & Paulistano Beats: Pistas WAV 24-Bit & Pagamento Instantâneo via PIX",
+  "description": "Pianos frios cinematográficos, hi-hats em tercinas rápidas e subgraves profundos para MCs de Zona Sul.",
+  "targetArtists": [
+    "Artistas de Zona Sul",
+    "Comunidade do Trap Brasileiro",
+    "Cena do Rap Nacional"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "Mi-Menor / Dó#-Menor",
+  "vibeAttributes": [
+    "Zona Sul",
+    "Drill BR",
+    "Pagamento PIX (BRL R$)",
+    "100% Conforme UBC/ECAD"
+  ],
+  "popularGenres": [
+    "Drill Carioca & Paulistano Beats",
+    "Trap Nacional",
+    "TrapFunk Baile"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "sao-paulo-zs-trapfunk-baile-bounce",
+  "name": "Zona Sul TrapFunk Baile Bounce Beats",
+  "category": "scene",
+  "badge": "Zona Sul TrapFunk Baile",
+  "headline": "Zona Sul (Capão Redondo & Raiz do Rap Nacional) TrapFunk Baile Bounce Beats: Pistas WAV 24-Bit & Pagamento Instantâneo via PIX",
+  "description": "Bumbos ocos marcantes, tamborzão sincopado e graves 808 perfeitos para paredões em Zona Sul.",
+  "targetArtists": [
+    "Artistas de Zona Sul",
+    "Comunidade do Trap Brasileiro",
+    "Cena do Rap Nacional"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "Dó-Menor / Fá-Menor",
+  "vibeAttributes": [
+    "Zona Sul",
+    "TrapFunk Baile",
+    "Pagamento PIX (BRL R$)",
+    "100% Conforme UBC/ECAD"
+  ],
+  "popularGenres": [
+    "TrapFunk Baile Bounce Beats",
+    "Trap Nacional",
+    "TrapFunk Baile"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "sao-paulo-zs-rap-nacional-boom-bap",
+  "name": "Zona Sul Rap Nacional Classic Boom Bap",
+  "category": "scene",
+  "badge": "Zona Sul Boom Bap BR",
+  "headline": "Zona Sul (Capão Redondo & Raiz do Rap Nacional) Rap Nacional Classic Boom Bap: Pistas WAV 24-Bit & Pagamento Instantâneo via PIX",
+  "description": "Músicas e amostras de vinil clássicas, baterias secas de MPC e linhas de baixo analógico para os poetas de Zona Sul.",
+  "targetArtists": [
+    "Artistas de Zona Sul",
+    "Comunidade do Trap Brasileiro",
+    "Cena do Rap Nacional"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "Ré-Menor / Si-Menor",
+  "vibeAttributes": [
+    "Zona Sul",
+    "Boom Bap BR",
+    "Pagamento PIX (BRL R$)",
+    "100% Conforme UBC/ECAD"
+  ],
+  "popularGenres": [
+    "Rap Nacional Classic Boom Bap",
+    "Trap Nacional",
+    "TrapFunk Baile"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "rio-madureira-trap-nacional-808",
+  "name": "Madureira Trap Nacional 808 Beats",
+  "category": "scene",
+  "badge": "Madureira Trap Nacional",
+  "headline": "Madureira (Zona Norte RJ & Baile Charme TrapFunk) Trap Nacional 808 Beats: Pistas WAV 24-Bit & Pagamento Instantâneo via PIX",
+  "description": "Graves 808 pesados que deslizam em portamento, sintetizadores melódicos e caixas cortantes para artistas de Madureira.",
+  "targetArtists": [
+    "Artistas de Madureira",
+    "Comunidade do Trap Brasileiro",
+    "Cena do Rap Nacional"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "Dó-Menor / Sol-Menor",
+  "vibeAttributes": [
+    "Madureira",
+    "Trap Nacional",
+    "Pagamento PIX (BRL R$)",
+    "100% Conforme UBC/ECAD"
+  ],
+  "popularGenres": [
+    "Trap Nacional 808 Beats",
+    "Trap Nacional",
+    "TrapFunk Baile"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "rio-madureira-drill-carioca-sp",
+  "name": "Madureira Drill Carioca & Paulistano Beats",
+  "category": "scene",
+  "badge": "Madureira Drill BR",
+  "headline": "Madureira (Zona Norte RJ & Baile Charme TrapFunk) Drill Carioca & Paulistano Beats: Pistas WAV 24-Bit & Pagamento Instantâneo via PIX",
+  "description": "Pianos frios cinematográficos, hi-hats em tercinas rápidas e subgraves profundos para MCs de Madureira.",
+  "targetArtists": [
+    "Artistas de Madureira",
+    "Comunidade do Trap Brasileiro",
+    "Cena do Rap Nacional"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "Mi-Menor / Dó#-Menor",
+  "vibeAttributes": [
+    "Madureira",
+    "Drill BR",
+    "Pagamento PIX (BRL R$)",
+    "100% Conforme UBC/ECAD"
+  ],
+  "popularGenres": [
+    "Drill Carioca & Paulistano Beats",
+    "Trap Nacional",
+    "TrapFunk Baile"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "rio-madureira-trapfunk-baile-bounce",
+  "name": "Madureira TrapFunk Baile Bounce Beats",
+  "category": "scene",
+  "badge": "Madureira TrapFunk Baile",
+  "headline": "Madureira (Zona Norte RJ & Baile Charme TrapFunk) TrapFunk Baile Bounce Beats: Pistas WAV 24-Bit & Pagamento Instantâneo via PIX",
+  "description": "Bumbos ocos marcantes, tamborzão sincopado e graves 808 perfeitos para paredões em Madureira.",
+  "targetArtists": [
+    "Artistas de Madureira",
+    "Comunidade do Trap Brasileiro",
+    "Cena do Rap Nacional"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "Dó-Menor / Fá-Menor",
+  "vibeAttributes": [
+    "Madureira",
+    "TrapFunk Baile",
+    "Pagamento PIX (BRL R$)",
+    "100% Conforme UBC/ECAD"
+  ],
+  "popularGenres": [
+    "TrapFunk Baile Bounce Beats",
+    "Trap Nacional",
+    "TrapFunk Baile"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "rio-madureira-rap-nacional-boom-bap",
+  "name": "Madureira Rap Nacional Classic Boom Bap",
+  "category": "scene",
+  "badge": "Madureira Boom Bap BR",
+  "headline": "Madureira (Zona Norte RJ & Baile Charme TrapFunk) Rap Nacional Classic Boom Bap: Pistas WAV 24-Bit & Pagamento Instantâneo via PIX",
+  "description": "Músicas e amostras de vinil clássicas, baterias secas de MPC e linhas de baixo analógico para os poetas de Madureira.",
+  "targetArtists": [
+    "Artistas de Madureira",
+    "Comunidade do Trap Brasileiro",
+    "Cena do Rap Nacional"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "Ré-Menor / Si-Menor",
+  "vibeAttributes": [
+    "Madureira",
+    "Boom Bap BR",
+    "Pagamento PIX (BRL R$)",
+    "100% Conforme UBC/ECAD"
+  ],
+  "popularGenres": [
+    "Rap Nacional Classic Boom Bap",
+    "Trap Nacional",
+    "TrapFunk Baile"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "belo-horizonte-serra-trap-nacional-808",
+  "name": "Belo Horizonte Trap Nacional 808 Beats",
+  "category": "scene",
+  "badge": "Belo Horizonte Trap Nacional",
+  "headline": "Belo Horizonte (Aglomerado da Serra & Funk BH 130) Trap Nacional 808 Beats: Pistas WAV 24-Bit & Pagamento Instantâneo via PIX",
+  "description": "Graves 808 pesados que deslizam em portamento, sintetizadores melódicos e caixas cortantes para artistas de Belo Horizonte.",
+  "targetArtists": [
+    "Artistas de Belo Horizonte",
+    "Comunidade do Trap Brasileiro",
+    "Cena do Rap Nacional"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "Dó-Menor / Sol-Menor",
+  "vibeAttributes": [
+    "Belo Horizonte",
+    "Trap Nacional",
+    "Pagamento PIX (BRL R$)",
+    "100% Conforme UBC/ECAD"
+  ],
+  "popularGenres": [
+    "Trap Nacional 808 Beats",
+    "Trap Nacional",
+    "TrapFunk Baile"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "belo-horizonte-serra-drill-carioca-sp",
+  "name": "Belo Horizonte Drill Carioca & Paulistano Beats",
+  "category": "scene",
+  "badge": "Belo Horizonte Drill BR",
+  "headline": "Belo Horizonte (Aglomerado da Serra & Funk BH 130) Drill Carioca & Paulistano Beats: Pistas WAV 24-Bit & Pagamento Instantâneo via PIX",
+  "description": "Pianos frios cinematográficos, hi-hats em tercinas rápidas e subgraves profundos para MCs de Belo Horizonte.",
+  "targetArtists": [
+    "Artistas de Belo Horizonte",
+    "Comunidade do Trap Brasileiro",
+    "Cena do Rap Nacional"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "Mi-Menor / Dó#-Menor",
+  "vibeAttributes": [
+    "Belo Horizonte",
+    "Drill BR",
+    "Pagamento PIX (BRL R$)",
+    "100% Conforme UBC/ECAD"
+  ],
+  "popularGenres": [
+    "Drill Carioca & Paulistano Beats",
+    "Trap Nacional",
+    "TrapFunk Baile"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "belo-horizonte-serra-trapfunk-baile-bounce",
+  "name": "Belo Horizonte TrapFunk Baile Bounce Beats",
+  "category": "scene",
+  "badge": "Belo Horizonte TrapFunk Baile",
+  "headline": "Belo Horizonte (Aglomerado da Serra & Funk BH 130) TrapFunk Baile Bounce Beats: Pistas WAV 24-Bit & Pagamento Instantâneo via PIX",
+  "description": "Bumbos ocos marcantes, tamborzão sincopado e graves 808 perfeitos para paredões em Belo Horizonte.",
+  "targetArtists": [
+    "Artistas de Belo Horizonte",
+    "Comunidade do Trap Brasileiro",
+    "Cena do Rap Nacional"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "Dó-Menor / Fá-Menor",
+  "vibeAttributes": [
+    "Belo Horizonte",
+    "TrapFunk Baile",
+    "Pagamento PIX (BRL R$)",
+    "100% Conforme UBC/ECAD"
+  ],
+  "popularGenres": [
+    "TrapFunk Baile Bounce Beats",
+    "Trap Nacional",
+    "TrapFunk Baile"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "belo-horizonte-serra-rap-nacional-boom-bap",
+  "name": "Belo Horizonte Rap Nacional Classic Boom Bap",
+  "category": "scene",
+  "badge": "Belo Horizonte Boom Bap BR",
+  "headline": "Belo Horizonte (Aglomerado da Serra & Funk BH 130) Rap Nacional Classic Boom Bap: Pistas WAV 24-Bit & Pagamento Instantâneo via PIX",
+  "description": "Músicas e amostras de vinil clássicas, baterias secas de MPC e linhas de baixo analógico para os poetas de Belo Horizonte.",
+  "targetArtists": [
+    "Artistas de Belo Horizonte",
+    "Comunidade do Trap Brasileiro",
+    "Cena do Rap Nacional"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "Ré-Menor / Si-Menor",
+  "vibeAttributes": [
+    "Belo Horizonte",
+    "Boom Bap BR",
+    "Pagamento PIX (BRL R$)",
+    "100% Conforme UBC/ECAD"
+  ],
+  "popularGenres": [
+    "Rap Nacional Classic Boom Bap",
+    "Trap Nacional",
+    "TrapFunk Baile"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "salvador-pelourinho-trap-nacional-808",
+  "name": "Pelourinho Trap Nacional 808 Beats",
+  "category": "scene",
+  "badge": "Pelourinho Trap Nacional",
+  "headline": "Pelourinho (Salvador Bahia & Pagodão Afro-Trap) Trap Nacional 808 Beats: Pistas WAV 24-Bit & Pagamento Instantâneo via PIX",
+  "description": "Graves 808 pesados que deslizam em portamento, sintetizadores melódicos e caixas cortantes para artistas de Pelourinho.",
+  "targetArtists": [
+    "Artistas de Pelourinho",
+    "Comunidade do Trap Brasileiro",
+    "Cena do Rap Nacional"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "Dó-Menor / Sol-Menor",
+  "vibeAttributes": [
+    "Pelourinho",
+    "Trap Nacional",
+    "Pagamento PIX (BRL R$)",
+    "100% Conforme UBC/ECAD"
+  ],
+  "popularGenres": [
+    "Trap Nacional 808 Beats",
+    "Trap Nacional",
+    "TrapFunk Baile"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "salvador-pelourinho-drill-carioca-sp",
+  "name": "Pelourinho Drill Carioca & Paulistano Beats",
+  "category": "scene",
+  "badge": "Pelourinho Drill BR",
+  "headline": "Pelourinho (Salvador Bahia & Pagodão Afro-Trap) Drill Carioca & Paulistano Beats: Pistas WAV 24-Bit & Pagamento Instantâneo via PIX",
+  "description": "Pianos frios cinematográficos, hi-hats em tercinas rápidas e subgraves profundos para MCs de Pelourinho.",
+  "targetArtists": [
+    "Artistas de Pelourinho",
+    "Comunidade do Trap Brasileiro",
+    "Cena do Rap Nacional"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "Mi-Menor / Dó#-Menor",
+  "vibeAttributes": [
+    "Pelourinho",
+    "Drill BR",
+    "Pagamento PIX (BRL R$)",
+    "100% Conforme UBC/ECAD"
+  ],
+  "popularGenres": [
+    "Drill Carioca & Paulistano Beats",
+    "Trap Nacional",
+    "TrapFunk Baile"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "salvador-pelourinho-trapfunk-baile-bounce",
+  "name": "Pelourinho TrapFunk Baile Bounce Beats",
+  "category": "scene",
+  "badge": "Pelourinho TrapFunk Baile",
+  "headline": "Pelourinho (Salvador Bahia & Pagodão Afro-Trap) TrapFunk Baile Bounce Beats: Pistas WAV 24-Bit & Pagamento Instantâneo via PIX",
+  "description": "Bumbos ocos marcantes, tamborzão sincopado e graves 808 perfeitos para paredões em Pelourinho.",
+  "targetArtists": [
+    "Artistas de Pelourinho",
+    "Comunidade do Trap Brasileiro",
+    "Cena do Rap Nacional"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "Dó-Menor / Fá-Menor",
+  "vibeAttributes": [
+    "Pelourinho",
+    "TrapFunk Baile",
+    "Pagamento PIX (BRL R$)",
+    "100% Conforme UBC/ECAD"
+  ],
+  "popularGenres": [
+    "TrapFunk Baile Bounce Beats",
+    "Trap Nacional",
+    "TrapFunk Baile"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "salvador-pelourinho-rap-nacional-boom-bap",
+  "name": "Pelourinho Rap Nacional Classic Boom Bap",
+  "category": "scene",
+  "badge": "Pelourinho Boom Bap BR",
+  "headline": "Pelourinho (Salvador Bahia & Pagodão Afro-Trap) Rap Nacional Classic Boom Bap: Pistas WAV 24-Bit & Pagamento Instantâneo via PIX",
+  "description": "Músicas e amostras de vinil clássicas, baterias secas de MPC e linhas de baixo analógico para os poetas de Pelourinho.",
+  "targetArtists": [
+    "Artistas de Pelourinho",
+    "Comunidade do Trap Brasileiro",
+    "Cena do Rap Nacional"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "Ré-Menor / Si-Menor",
+  "vibeAttributes": [
+    "Pelourinho",
+    "Boom Bap BR",
+    "Pagamento PIX (BRL R$)",
+    "100% Conforme UBC/ECAD"
+  ],
+  "popularGenres": [
+    "Rap Nacional Classic Boom Bap",
+    "Trap Nacional",
+    "TrapFunk Baile"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "recife-peixinhos-trap-nacional-808",
+  "name": "Recife Trap Nacional 808 Beats",
+  "category": "scene",
+  "badge": "Recife Trap Nacional",
+  "headline": "Recife (Peixinhos & Brega Funk 160 Batedeira) Trap Nacional 808 Beats: Pistas WAV 24-Bit & Pagamento Instantâneo via PIX",
+  "description": "Graves 808 pesados que deslizam em portamento, sintetizadores melódicos e caixas cortantes para artistas de Recife.",
+  "targetArtists": [
+    "Artistas de Recife",
+    "Comunidade do Trap Brasileiro",
+    "Cena do Rap Nacional"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "Dó-Menor / Sol-Menor",
+  "vibeAttributes": [
+    "Recife",
+    "Trap Nacional",
+    "Pagamento PIX (BRL R$)",
+    "100% Conforme UBC/ECAD"
+  ],
+  "popularGenres": [
+    "Trap Nacional 808 Beats",
+    "Trap Nacional",
+    "TrapFunk Baile"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "recife-peixinhos-drill-carioca-sp",
+  "name": "Recife Drill Carioca & Paulistano Beats",
+  "category": "scene",
+  "badge": "Recife Drill BR",
+  "headline": "Recife (Peixinhos & Brega Funk 160 Batedeira) Drill Carioca & Paulistano Beats: Pistas WAV 24-Bit & Pagamento Instantâneo via PIX",
+  "description": "Pianos frios cinematográficos, hi-hats em tercinas rápidas e subgraves profundos para MCs de Recife.",
+  "targetArtists": [
+    "Artistas de Recife",
+    "Comunidade do Trap Brasileiro",
+    "Cena do Rap Nacional"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "Mi-Menor / Dó#-Menor",
+  "vibeAttributes": [
+    "Recife",
+    "Drill BR",
+    "Pagamento PIX (BRL R$)",
+    "100% Conforme UBC/ECAD"
+  ],
+  "popularGenres": [
+    "Drill Carioca & Paulistano Beats",
+    "Trap Nacional",
+    "TrapFunk Baile"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "recife-peixinhos-trapfunk-baile-bounce",
+  "name": "Recife TrapFunk Baile Bounce Beats",
+  "category": "scene",
+  "badge": "Recife TrapFunk Baile",
+  "headline": "Recife (Peixinhos & Brega Funk 160 Batedeira) TrapFunk Baile Bounce Beats: Pistas WAV 24-Bit & Pagamento Instantâneo via PIX",
+  "description": "Bumbos ocos marcantes, tamborzão sincopado e graves 808 perfeitos para paredões em Recife.",
+  "targetArtists": [
+    "Artistas de Recife",
+    "Comunidade do Trap Brasileiro",
+    "Cena do Rap Nacional"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "recommendedKey": "Dó-Menor / Fá-Menor",
+  "vibeAttributes": [
+    "Recife",
+    "TrapFunk Baile",
+    "Pagamento PIX (BRL R$)",
+    "100% Conforme UBC/ECAD"
+  ],
+  "popularGenres": [
+    "TrapFunk Baile Bounce Beats",
+    "Trap Nacional",
+    "TrapFunk Baile"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "recife-peixinhos-rap-nacional-boom-bap",
+  "name": "Recife Rap Nacional Classic Boom Bap",
+  "category": "scene",
+  "badge": "Recife Boom Bap BR",
+  "headline": "Recife (Peixinhos & Brega Funk 160 Batedeira) Rap Nacional Classic Boom Bap: Pistas WAV 24-Bit & Pagamento Instantâneo via PIX",
+  "description": "Músicas e amostras de vinil clássicas, baterias secas de MPC e linhas de baixo analógico para os poetas de Recife.",
+  "targetArtists": [
+    "Artistas de Recife",
+    "Comunidade do Trap Brasileiro",
+    "Cena do Rap Nacional"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "Ré-Menor / Si-Menor",
+  "vibeAttributes": [
+    "Recife",
+    "Boom Bap BR",
+    "Pagamento PIX (BRL R$)",
+    "100% Conforme UBC/ECAD"
+  ],
+  "popularGenres": [
+    "Rap Nacional Classic Boom Bap",
+    "Trap Nacional",
+    "TrapFunk Baile"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
 ];

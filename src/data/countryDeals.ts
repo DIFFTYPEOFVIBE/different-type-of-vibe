@@ -43338,4 +43338,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "br/sao-paulo-zona-leste-zl": {
+  "slug": "br/sao-paulo-zona-leste-zl",
+  "name": "Brasil – São Paulo: Zona Leste (ZL): Itaquera, Tatuapé & Penha (Berço do Trap & Funk Paulistano)",
+  "flag": "🇧🇷",
+  "currency": "BRL (R$) / USD ($)",
+  "currencyCode": "BRL",
+  "gateways": "PIX (Banco Central do Brasil), Cartões (Visa/Mastercard/Elo), Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "UBC / ABRAMUS / ECAD",
+  "proFullName": "UBC (União Brasileira de Compositores) / ECAD",
+  "proGuide": "100% em conformidade com a Lei de Direitos Autorais brasileira (Lei 9.610/98) com contrato assinado imediato em PDF.",
+  "headline": "Beats na Zona Leste de SP: Itaquera, Tatuapé & Trap Pesado com Graves 808",
+  "description": "O epicentro comercial do trap nacional e do funk paulistano: sintetizadores melódicos, hi-hats cortantes e graves 808 pesados desenhados para MCs e trappers de toda a Zona Leste de São Paulo.",
+  "popularGenres": [
+    "Trap Paulistano",
+    "ZL Street Trap",
+    "Mandelão 130 BPM"
+  ],
+  "subClusters": []
+},
+  "br/sao-paulo-zona-sul-zs": {
+  "slug": "br/sao-paulo-zona-sul-zs",
+  "name": "Brasil – São Paulo: Zona Sul (ZS): Capão Redondo, Campo Limpo & Grajaú (Raízes Históricas do Rap Nacional)",
+  "flag": "🇧🇷",
+  "currency": "BRL (R$) / USD ($)",
+  "currencyCode": "BRL",
+  "gateways": "PIX (Banco Central do Brasil), Cartões (Visa/Mastercard/Elo), Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "UBC / ABRAMUS / ECAD",
+  "proFullName": "UBC (União Brasileira de Compositores) / ECAD",
+  "proGuide": "Arquivos WAV 24-bit de alta definição com faixas separadas (stems multitrack) liberadas para estúdio.",
+  "headline": "Beats na Zona Sul de SP: Capão Redondo, Grajaú & Rap Nacional com Mensagem e Alma",
+  "description": "O berço sagrado da resistência e do lirismo paulistano: pianos menores comoventes, baterias analógicas com pegada seca e subgraves densos para poetas do Capão Redondo e Zona Sul.",
+  "popularGenres": [
+    "Rap Nacional Clássico",
+    "Capão Redondo Boom Bap",
+    "Trap Consciente 808"
+  ],
+  "subClusters": []
+},
+  "br/rio-de-janeiro-zona-norte-madureira": {
+  "slug": "br/rio-de-janeiro-zona-norte-madureira",
+  "name": "Brasil – Rio de Janeiro: Zona Norte: Madureira, Penha & Maré (Baile Charme & TrapFunk Carioca)",
+  "flag": "🇧🇷",
+  "currency": "BRL (R$) / USD ($)",
+  "currencyCode": "BRL",
+  "gateways": "PIX (Banco Central do Brasil), Cartões (Visa/Mastercard/Elo), Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "UBC / ABRAMUS / ECAD",
+  "proFullName": "UBC (União Brasileira de Compositores) / ECAD",
+  "proGuide": "Monetização digital global 100% garantida no Spotify, Apple Music, Deezer e YouTube.",
+  "headline": "Beats na Zona Norte do Rio: Viaduto de Madureira, Baile Charme & TrapFunk Enérgico",
+  "description": "Onde o samba, o baile charme e o trap carioca se fundem: acordes de piano Rhodes com swing, batidas sincopadas de tamborzão e graves 808 deslizantes para artistas de Madureira e Penha.",
+  "popularGenres": [
+    "TrapFunk Carioca",
+    "Madureira Charme Beat",
+    "Rio Street Drill"
+  ],
+  "subClusters": []
+},
+  "br/rio-de-janeiro-zona-oeste-bangu": {
+  "slug": "br/rio-de-janeiro-zona-oeste-bangu",
+  "name": "Brasil – Rio de Janeiro: Zona Oeste: Bangu, Realengo & Campo Grande (TrapFunk Suburbano & Graves Pesados)",
+  "flag": "🇧🇷",
+  "currency": "BRL (R$) / USD ($)",
+  "currencyCode": "BRL",
+  "gateways": "PIX (Banco Central do Brasil), Cartões (Visa/Mastercard/Elo), Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "UBC / ABRAMUS / ECAD",
+  "proFullName": "UBC (União Brasileira de Compositores) / ECAD",
+  "proGuide": "100% livre de royalties sobre gravações master com licença comercial ilimitada.",
+  "headline": "Beats na Zona Oeste do Rio: Bangu, Campo Grande & Batidas Pesadas de Paredão",
+  "description": "O calor e a pressão do subúrbio carioca: caixas estaladas, bumbos de tamborzão e subgraves 808 calibrados para os paredões e caixas de som de Bangu, Realengo e Campo Grande.",
+  "popularGenres": [
+    "TrapFunk Suburbano",
+    "Bangu Street Rap",
+    "Paredão 808 Beat"
+  ],
+  "subClusters": []
+},
+  "br/belo-horizonte-aglomerado-da-serra": {
+  "slug": "br/belo-horizonte-aglomerado-da-serra",
+  "name": "Brasil – Belo Horizonte: Aglomerado da Serra & Barreiro (Minas Gerais Rap Veloz & Funk BH 130 BPM)",
+  "flag": "🇧🇷",
+  "currency": "BRL (R$) / USD ($)",
+  "currencyCode": "BRL",
+  "gateways": "PIX (Banco Central do Brasil), Cartões (Visa/Mastercard/Elo), Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "UBC / ABRAMUS / ECAD",
+  "proFullName": "UBC (União Brasileira de Compositores) / ECAD",
+  "proGuide": "Pagamento instantâneo via chave PIX e cartão com liberação imediata de download.",
+  "headline": "Beats em BH: Aglomerado da Serra, Barreiro & Ritmo Louco de Funk BH e Trap",
+  "description": "A energia única do rap e do funk de Belo Horizonte: melodias rápidas de sintetizador, beatbox sincopado e subgraves marcantes projetados para os MCs de BH e da Serra.",
+  "popularGenres": [
+    "Funk BH 130 BPM",
+    "Minas Gerais Trap",
+    "Aglomerado Street Rap"
+  ],
+  "subClusters": []
+},
+  "br/salvador-pelourinho-cidade-baixa": {
+  "slug": "br/salvador-pelourinho-cidade-baixa",
+  "name": "Brasil – Salvador: Pelourinho & Cidade Baixa (Percussão Afro-Baiana, Pagodão Trap & Olodum 808)",
+  "flag": "🇧🇷",
+  "currency": "BRL (R$) / USD ($)",
+  "currencyCode": "BRL",
+  "gateways": "PIX (Banco Central do Brasil), Cartões (Visa/Mastercard/Elo), Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "UBC / ABRAMUS / ECAD",
+  "proFullName": "UBC (União Brasileira de Compositores) / ECAD",
+  "proGuide": "Faixas stems multitrack e arquivos WAV 24-bit de alta fidelidade inclusos.",
+  "headline": "Beats em Salvador: Pelourinho Histórico, Tambores do Olodum & Pagodão Trap",
+  "description": "A ancestralidade e o groove irresistível da Bahia: timbaus acústicos, surdos de marcação e repiques fundidos com baixos 808 de trap para os artistas de Salvador e da Cidade Baixa.",
+  "popularGenres": [
+    "Pagodão Trap",
+    "Afro-Baiano Rap",
+    "Salvador Street Bounce"
+  ],
+  "subClusters": []
+},
+  "br/recife-boa-viagem-peixinhos": {
+  "slug": "br/recife-boa-viagem-peixinhos",
+  "name": "Brasil – Recife: Boa Viagem & Peixinhos (Brega Funk 160 BPM Batedeira & Manguebeat Trap)",
+  "flag": "🇧🇷",
+  "currency": "BRL (R$) / USD ($)",
+  "currencyCode": "BRL",
+  "gateways": "PIX (Banco Central do Brasil), Cartões (Visa/Mastercard/Elo), Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "UBC / ABRAMUS / ECAD",
+  "proFullName": "UBC (União Brasileira de Compositores) / ECAD",
+  "proGuide": "Direitos comerciais completos com fatura e split sheet oficial conforme ECAD.",
+  "headline": "Beats no Recife: Manguebeat Vanguardista, Brega Funk 160 BPM & Graves de Peso",
+  "description": "A velocidade e criatividade de Pernambuco: estalos de brega funk, violões suingados e subgraves ultra rápidos a 160 BPM moldados para a cena efervescente do Recife e de Peixinhos.",
+  "popularGenres": [
+    "Brega Funk 160 BPM",
+    "Manguebeat Trap",
+    "Recife Street Flow"
+  ],
+  "subClusters": []
+},
+  "br/fortaleza-praia-de-iracema-ceara": {
+  "slug": "br/fortaleza-praia-de-iracema-ceara",
+  "name": "Brasil – Fortaleza: Praia de Iracema & Messejana (Berço da 30PRAUM & Trap Melódico Cearense)",
+  "flag": "🇧🇷",
+  "currency": "BRL (R$) / USD ($)",
+  "currencyCode": "BRL",
+  "gateways": "PIX (Banco Central do Brasil), Cartões (Visa/Mastercard/Elo), Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "UBC / ABRAMUS / ECAD",
+  "proFullName": "UBC (União Brasileira de Compositores) / ECAD",
+  "proGuide": "100% livre de royalties para streaming, rádio e shows em todo o país.",
+  "headline": "Beats em Fortaleza: Praia de Iracema, Sol Cearense & Trap Psicodélico da 30PRAUM",
+  "description": "A terra que revolucionou o trap brasileiro com a 30PRAUM: guitarras com delay psicodélico, melodias espaciais e graves 808 flutuantes para MCs de Fortaleza e de todo o Ceará.",
+  "popularGenres": [
+    "Trap Cearense 30PRAUM",
+    "Fortaleza Melodic Wave",
+    "Nordeste Trap Beat"
+  ],
+  "subClusters": []
+},
+  "br/florianopolis-ilha-da-magia": {
+  "slug": "br/florianopolis-ilha-da-magia",
+  "name": "Brasil – Florianópolis: Ilha da Magia & Lagoa da Conceição (Trap Praiano & Lofi Sulista)",
+  "flag": "🇧🇷",
+  "currency": "BRL (R$) / USD ($)",
+  "currencyCode": "BRL",
+  "gateways": "PIX (Banco Central do Brasil), Cartões (Visa/Mastercard/Elo), Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "UBC / ABRAMUS / ECAD",
+  "proFullName": "UBC (União Brasileira de Compositores) / ECAD",
+  "proGuide": "Licença comercial direta com entrega instantânea de arquivos em alta definição.",
+  "headline": "Beats em Floripa: Ilha da Magia, Praias Catarinenses & Violão Trap Melódico",
+  "description": "O clima praiano e sofisticado de Santa Catarina: violões de nylon dedilhados, texturas de ondas e brisa marinha, e baterias de trap relaxantes para artistas de Floripa e região.",
+  "popularGenres": [
+    "Floripa Surf Trap",
+    "Ilha da Magia Lofi",
+    "Sul Melodic Beat"
+  ],
+  "subClusters": []
+},
+  "br/manaus-amazonas-floresta": {
+  "slug": "br/manaus-amazonas-floresta",
+  "name": "Brasil – Manaus & Amazônia (Flautas Indígenas, Sons da Floresta & Trap Amazônico)",
+  "flag": "🇧🇷",
+  "currency": "BRL (R$) / USD ($)",
+  "currencyCode": "BRL",
+  "gateways": "PIX (Banco Central do Brasil), Cartões (Visa/Mastercard/Elo), Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "UBC / ABRAMUS / ECAD",
+  "proFullName": "UBC (União Brasileira de Compositores) / ECAD",
+  "proGuide": "Validade jurídica internacional para distribuição em plataformas de streaming e sincronização.",
+  "headline": "Beats em Manaus: Rio Amazonas, Flautas da Floresta & Subgraves de Impacto",
+  "description": "O encontro das águas e a força da floresta amazônica: flautas indígenas orgânicas, ambiências naturais e graves 808 poderosos para o rap autêntico e consciente de Manaus e do Norte.",
+  "popularGenres": [
+    "Trap Amazônico",
+    "Manaus Street Rap",
+    "Floresta 808 Beat"
+  ],
+  "subClusters": []
+},
 };
