@@ -146466,4 +146466,1103 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
   "market": "Philippines",
   "sceneHub": "Angeles (Clark)"
 },
+  {
+  "slug": "rich-brian-edamame-bouncy-baritone-flow",
+  "title": "Rich Brian Edamame Bouncy Baritone Funk Bass & Playful Trap Beat",
+  "description": "Bouncy, playful international trap inspired by Rich Brian (Edamame, 100 Degrees, Glow Like Dat, History, Dat $tick 2.0): resonant baritone vocal pocket, funk-infused basslines, crisp clap-snare patterns, and 88rising production style.",
+  "targetKeywords": [
+    "rich brian type beat",
+    "rich brian edamame beat",
+    "bouncy baritone trap beat wav",
+    "indonesian hip hop international beat",
+    "88rising style trap beat"
+  ],
+  "heroCta": "Beli Beat Gaya Rich Brian (Instant WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "International Crossover Single, Viral Short-Form Video Trend and Festival Banger",
+  "similarArtists": [
+    "Rich Brian",
+    "bbno$",
+    "Warren Hue",
+    "NIKI"
+  ],
+  "recommendedBpm": "104-110 BPM",
+  "productionTips": "Groovy analog synth bassline layered with crisp organic percussion, leaving abundant space for deep baritone cadence.",
+  "idealVocalStyle": "Deep baritone vocal resonance, witty bilingual punchlines, effortless comedic timing, and laid-back flow.",
+  "suggestedKey": "E Minor / A Minor",
+  "streamingSuitability": "Engineered for international DSP charts, Global Viral 50, and YouTube Music playlists."
+},
+  {
+  "slug": "ramengvrl-i-am-me-fearless-baddie-trap",
+  "title": "RAMENGVRL I Am Me Fearless Asian Baddie Trap Booming 808s Beat",
+  "description": "Unapologetic, fierce Southeast Asian rap queen energy inspired by RAMENGVRL (I Am Me, Look At Me Now, Vaselina, FACTS, Onto The Next): booming 808 sub drops, sharp cutting snares, quirky vocal chops, and female empowerment swagger.",
+  "targetKeywords": [
+    "ramengvrl type beat",
+    "baddie trap beat 808",
+    "female rap instrumental indonesia",
+    "ramengvrl look at me now beat",
+    "asian rap queen beat wav"
+  ],
+  "heroCta": "Beli Beat Gaya RAMENGVRL (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Bad Bitch Empowerment Anthem, Fashion Runway Track and High-Energy Club Single",
+  "similarArtists": [
+    "RAMENGVRL",
+    "Yung Raja",
+    "MILLI",
+    "Cardi B"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "productionTips": "Heavy, saturated 808 sub-bass with rapid pitch slides, aggressive brass stabs, and punchy vocal chops.",
+  "idealVocalStyle": "Sassy, confident delivery, bilingual Indonesian/English wordplay, sharp punchlines, and attitude.",
+  "suggestedKey": "C Minor / G Minor",
+  "streamingSuitability": "Dominates Spotify Banger Nusantara, Asian Hip-Hop curations, and TikTok fashion trends."
+},
+  {
+  "slug": "basboi-make-me-proud-feel-good-soul-trap",
+  "title": "Basboi Make Me Proud Feel-Good Gospel Chords & Soulful Trap Beat",
+  "description": "Uplifting, feel-good soulful hip-hop inspired by Basboi (Make Me Proud, Bismillah, Ching, Come Over): warm gospel electric piano chords, buoyant brass fanfares, and charming conversational English/Indonesian flows.",
+  "targetKeywords": [
+    "basboi type beat",
+    "feel good soul trap beat",
+    "positive hip hop beat indonesia",
+    "basboi make me proud instrumental",
+    "uplifting r&b trap wav"
+  ],
+  "heroCta": "Beli Beat Gaya Basboi (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Feel-Good Summer Anthem, Brand Commercial Soundtrack and Motivational Video",
+  "similarArtists": [
+    "Basboi",
+    "Laze",
+    "Matter Mos",
+    "Goldlink"
+  ],
+  "recommendedBpm": "98-105 BPM",
+  "productionTips": "Lush soul gospel organ chords layered over bouncy 808 kicks and crisp, swinging acoustic snares.",
+  "idealVocalStyle": "Charismatic storytelling, optimistic rhymes, conversational delivery, and infectious singalong hooks.",
+  "suggestedKey": "F Major / D Minor",
+  "streamingSuitability": "Prime placement on Good Vibes, Morning Coffee Hip-Hop, and Indo Indie Pop playlists."
+},
+  {
+  "slug": "dipha-barus-all-good-electro-tropical-bounce",
+  "title": "Dipha Barus All Good Electronic Tropical Bounce & Ethnic Groove Beat",
+  "description": "World-class electronic tropical bounce inspired by Dipha Barus (All Good, Money Honey, Keep It Mellow, Woosah): Indonesian traditional percussion grooves, uplifting piano chords, and viral festival dance energy.",
+  "targetKeywords": [
+    "dipha barus type beat",
+    "tropical house trap beat indonesia",
+    "all good dipha barus instrumental",
+    "electronic dance hip hop beat",
+    "indo tropical bounce wav"
+  ],
+  "heroCta": "Beli Beat Gaya Dipha Barus (Instant WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "Dance-Pop Radio Hit, Music Festival Mainstage Anthem and High-Spirited Commercial",
+  "similarArtists": [
+    "Dipha Barus",
+    "Weird Genius",
+    "Kallula",
+    "Nadin Amizah (Dance Remix)"
+  ],
+  "recommendedBpm": "118-124 BPM",
+  "productionTips": "Rich syncopated percussion patterns blended with infectious acoustic piano chords and a driving 4-on-the-floor electro-trap kick.",
+  "idealVocalStyle": "Soulful pop vocal delivery, uplifting English and Indonesian choruses, and energetic dance ad-libs.",
+  "suggestedKey": "G Major / E Minor",
+  "streamingSuitability": "Guaranteed dancefloor reaction, radio airplay across Prambors FM, and viral TikTok engagement."
+},
+  {
+  "slug": "tuan-tigabelas-harimau-soeltan-heavy-boombap",
+  "title": "Tuan Tigabelas Harimau Soeltan Heavy Analog Brass & Conscious Boom Bap Beat",
+  "description": "Commanding, gravelly conscious Indonesian boom bap inspired by Tuan Tigabelas (Harimau Soeltan, Born To Be, Move, On The Move): heavy analog vinyl kicks, roaring brass horns, and fierce social justice advocacy.",
+  "targetKeywords": [
+    "tuan tigabelas type beat",
+    "harimau soeltan instrumental",
+    "heavy boom bap beat indonesia",
+    "conscious rap instrumental jakarta",
+    "tuan tigabelas boom bap wav"
+  ],
+  "heroCta": "Beli Beat Tuan Tigabelas (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Lyrical Conscious Single, Street Documentary Soundtrack and Hip-Hop Cypher Lead",
+  "similarArtists": [
+    "Tuan Tigabelas",
+    "Yacko",
+    "Saykoji",
+    "Iwa K"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "productionTips": "Sampled dusty brass fanfare with analog saturation, paired with punchy MPC 60 drum breaks and a thick upright bass.",
+  "idealVocalStyle": "Deep gravelly baritone delivery, aggressive rhythmic authority, environmental activism, and street wisdom.",
+  "suggestedKey": "D Minor / G Minor",
+  "streamingSuitability": "Revered by Southeast Asian hip-hop purists, conscious rap communities, and festival crowds."
+},
+  {
+  "slug": "hindia-evaluasi-indie-spoken-opm-trap",
+  "title": "Hindia Evaluasi Introspective Spoken Word & Melancholic Indie Trap Beat",
+  "description": "Deeply introspective, poetic urban Indonesian alternative inspired by Hindia / Baskara Putra (Evaluasi, Secukupnya, Rumah Ke Rumah, Mata Air): melancholic electric guitar chords, ambient synthesizers, and existential spoken-word pocket.",
+  "targetKeywords": [
+    "hindia type beat",
+    "evaluasi hindia instrumental",
+    "indie rap beat indonesia",
+    "secukupnya type beat wav",
+    "melancholic jakarta trap beat"
+  ],
+  "heroCta": "Beli Beat Gaya Hindia (WAV 24-bit)",
+  "energyLevel": "Medium",
+  "primaryUse": "Existential Youth Anthem, Late-Night Nocturnal Reflection and Poetic Music Video",
+  "similarArtists": [
+    "Hindia",
+    "Feast",
+    "Kunto Aji",
+    "Sal Priadi"
+  ],
+  "recommendedBpm": "96-104 BPM",
+  "productionTips": "Clean indie electric guitars with analog delay, layered over warm lo-fi sub bass and minimalist trap snares.",
+  "idealVocalStyle": "Raw conversational spoken word, vulnerable singing, poignant Indonesian social observations, and reflective hooks.",
+  "suggestedKey": "A Major / F# Minor",
+  "streamingSuitability": "Top streaming performer on Gelombang Indie, Puncak Klasemen, and Indonesian college playlists."
+},
+  {
+  "slug": "dangdut-koplo-kendang-table-bounce-trap",
+  "title": "Dangdut Koplo Fast Kendang Rolls & Suling Flute Bouncing 808 Trap Beat",
+  "description": "High-octane Indonesian cultural phenomenon fusing Dangdut Koplo with modern 808 trap: rapid syncopated Kendang drum rolls, infectious bamboo Suling flute melodies, and booming sub drops for viral TikTok trends.",
+  "targetKeywords": [
+    "koplo trap beat",
+    "dangdut trap beat 808",
+    "kendang koplo instrumental wav",
+    "suling dangdut hip hop beat",
+    "koplo remix trap indonesia"
+  ],
+  "heroCta": "Beli Beat Koplo-Trap (Instant WAV)",
+  "energyLevel": "Maximum",
+  "primaryUse": "Viral TikTok Dance Challenge, High-Energy Nightclub Remix and Regional Festival Anthem",
+  "similarArtists": [
+    "NDX A.K.A.",
+    "Denny Caknan Trap",
+    "Weird Genius",
+    "Guyon Waton"
+  ],
+  "recommendedBpm": "112-118 BPM",
+  "productionTips": "Authentic hand-played Kendang drum patterns layered over an aggressive 808 bass and bright acoustic Suling flute riffs.",
+  "idealVocalStyle": "High-spirited Javanese/Indonesian party singing, energetic call-and-response chants, and fast-paced rhythmic rapping.",
+  "suggestedKey": "D Minor / A Minor",
+  "streamingSuitability": "Dominates Indonesian viral TikTok charts, regional YouTube streaming, and party sound systems across Java."
+},
+  {
+  "slug": "gamelan-slendro-gong-kebyar-sacred-trap",
+  "title": "Gamelan Slendro Bronze Metallophone & Gong Kebyar Sacred 808 Trap Beat",
+  "description": "Sacred, awe-inspiring Indonesian cultural crossover: authentic Balinese Gong Kebyar and Javanese Gamelan Slendro bronze metallophone melodies fused with subterranean 808 glides and modern trap percussion.",
+  "targetKeywords": [
+    "gamelan trap beat 808",
+    "balinese gamelan hip hop beat",
+    "slendro trap instrumental wav",
+    "gong kebyar trap beat",
+    "ethnic indonesian trap beat"
+  ],
+  "heroCta": "Beli Beat Gamelan Trap (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Cultural Masterpiece, Cinematic Indonesian Visualizer and International Festival Showcase",
+  "similarArtists": [
+    "Alffy Rev",
+    "Weird Genius",
+    "Novia Bachmid",
+    "Eka Gustiwana"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "productionTips": "Real tuned bronze Gamelan gong and metallophone loops layered over sharp, rolling trap hi-hats and deep 808 sub drops.",
+  "idealVocalStyle": "Mythological storytelling, powerful traditional vocal chants, rapid bilingual rap, and majestic delivery.",
+  "suggestedKey": "Slendro Scale (Tuned to C# Minor)",
+  "streamingSuitability": "Viral national pride potential on YouTube Indonesia, cultural documentaries, and world music festivals."
+},
+  {
+  "slug": "jakarta-macet-midnight-rainy-scbd-lofi",
+  "title": "Jakarta SCBD Midnight Rain Warm Tape Rhodes & Sudirman Skyline Lofi Beat",
+  "description": "Nocturnal, moody metropolitan transit soundtrack inspired by Jakarta's rainy evenings along Sudirman and SCBD: warm tape-saturated Fender Rhodes keys, gentle tropical rain Foley, and unquantized dusty boom bap drums.",
+  "targetKeywords": [
+    "jakarta lofi beat",
+    "scbd midnight lofi beat wav",
+    "indonesia chillhop instrumental",
+    "rainy sudirman lofi study beat",
+    "jakarta chill rap beat"
+  ],
+  "heroCta": "Beli Beat Jakarta Lofi (Instant WAV)",
+  "energyLevel": "Low-Medium",
+  "primaryUse": "Nocturnal Commute Soundtrack, Study and Focus Background and Melancholic City Visualizer",
+  "similarArtists": [
+    "Kunto Aji",
+    "Matter Mos",
+    "ChilledCow",
+    "Tom Misch"
+  ],
+  "recommendedBpm": "82-86 BPM",
+  "productionTips": "Analog tape flutter on electric piano chords with natural Jakarta rain Foley and warm unquantized acoustic kicks.",
+  "idealVocalStyle": "Intimate poetic whisper, gentle spoken word, melodic Indonesian hums, and late-night nostalgic observations.",
+  "suggestedKey": "Eb Major / C Minor",
+  "streamingSuitability": "Evergreen placement on lofi study playlists, late-night driving curations, and aesthetic YouTube channels."
+},
+  {
+  "slug": "bandung-parijs-van-java-autumn-acoustic-cloud",
+  "title": "Bandung Parijs van Java Mountain Breeze Acoustic Guitar & Cloud Trap Beat",
+  "description": "Cool mountain breeze and creative indie atmosphere inspired by Bandung: delicate fingerpicked acoustic guitars, shoegaze reverb tails, and warm, gentle 808 sub-bass for poetic Indonesian indie-rap.",
+  "targetKeywords": [
+    "bandung cloud trap beat",
+    "indie acoustic trap indonesia",
+    "bandung city rap instrumental wav",
+    "parijs van java lofi trap",
+    "dago acoustic cloud beat"
+  ],
+  "heroCta": "Beli Beat Bandung Cloud Trap (Instant WAV)",
+  "energyLevel": "Medium",
+  "primaryUse": "Indie Music Video, Coffeehouse Aesthetic Visualizer and Emotional Storytelling Track",
+  "similarArtists": [
+    "Danilla",
+    "Fourtwnty",
+    "Baskara Putra",
+    "Fiersa Besari"
+  ],
+  "recommendedBpm": "115-122 BPM",
+  "productionTips": "Warm acoustic guitar picking layered with lush plate reverb and a relaxed, supportive 808 bass.",
+  "idealVocalStyle": "Soft emotive singing, reflective Sundanese/Indonesian poetry, and nostalgic, dreamy melodies.",
+  "suggestedKey": "G Major / E Minor",
+  "streamingSuitability": "High engagement across Gelombang Indie, Acoustic Pop Indonesia, and rainy day curations."
+},
+  {
+  "slug": "bali-canggu-sunset-tropical-organic-afro-trap",
+  "title": "Bali Canggu Echo Beach Sunset Kalimba & Organic Tropical Afro-Trap Beat",
+  "description": "Sun-drenched, international island lifestyle inspired by Bali's Echo Beach sunsets: organic Kalimba and Marimba plucks, warm acoustic guitar licks, and breezy Afrobeats-trap rhythm for beachfront dayclubs.",
+  "targetKeywords": [
+    "bali sunset afro trap beat",
+    "canggu tropical trap beat wav",
+    "bali beach club instrumental",
+    "organic afrobeat trap indonesia",
+    "uluwatu sunset beat"
+  ],
+  "heroCta": "Beli Beat Bali Afro-Trap (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Beach Club Sunset Anthem, Summer Travel Vlog Soundtrack and Vibrant Tropical Single",
+  "similarArtists": [
+    "Dipha Barus",
+    "Burna Boy",
+    "Rema",
+    "Jaz"
+  ],
+  "recommendedBpm": "100-106 BPM",
+  "productionTips": "Bright African kalimba melodies layered with shaker grooves, warm conga drums, and round 808 sub drops.",
+  "idealVocalStyle": "Smooth melodic singing, English and Indonesian bilingual lyrics, and cheerful summer party hooks.",
+  "suggestedKey": "A Major / F# Minor",
+  "streamingSuitability": "Dominates Bali cafe playlists, travel vlog content, and international Summer Chill curations."
+},
+  {
+  "slug": "surabaya-gang-pahlawan-hardcore-drill",
+  "title": "Surabaya Gang Pahlawan Minor Bells & Aggressive Sliding 808 Drill Beat",
+  "description": "Raw, unapologetic East Java street reality: cold minor piano arpeggios, aggressive UK/NY style sliding 808 sub-bass, and rapid hi-hat rolls tailored for hard-hitting Indonesian street MCs.",
+  "targetKeywords": [
+    "surabaya drill beat 808",
+    "indonesia street drill instrumental",
+    "hardcore rap beat surabaya wav",
+    "east java drill type beat",
+    "kota pahlawan drill beat"
+  ],
+  "heroCta": "Beli Beat Surabaya Drill (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hardcore Street Record, Gritty Music Video and Underground Rap Mixtape",
+  "similarArtists": [
+    "Laze",
+    "Basboi (Drill)",
+    "Yacko",
+    "Central Cee"
+  ],
+  "recommendedBpm": "142-145 BPM",
+  "productionTips": "Ominous minor bell progressions, aggressive multi-octave 808 slides, and crisp, piercing snares tuned for street impact.",
+  "idealVocalStyle": "Aggressive, commanding baritone delivery, fast drill flows, raw Indonesian street slang, and dark atmospheric ad-libs.",
+  "suggestedKey": "F# Minor / C# Minor",
+  "streamingSuitability": "High virality on SoundCloud, YouTube street cyphers, and underground urban circuits in Indonesia."
+},
+  {
+  "slug": "beats-trap-indonesia-murah-qris-gopay",
+  "title": "Beat Trap Indonesia Murah dari Rp 350.000 IDR (Bayar Instan Pakai QRIS & GoPay)",
+  "description": "Instrumental profesional trap, R&B, dan hip-hop Indonesia mulai dari Rp 350.000 IDR (~$22 USD) dengan pembayaran instan melalui scan QRIS (GoPay, OVO, DANA, ShopeePay, dan BCA/Mandiri).",
+  "targetKeywords": [
+    "beats trap indonesia murah qris gopay",
+    "beli beat hip hop indonesia dana",
+    "instrumental rap murah rupiah idr",
+    "jual beat qris indonesia instan"
+  ],
+  "heroCta": "Lihat Beat Mulai Rp 350.000 IDR (QRIS / GoPay)",
+  "energyLevel": "Variable",
+  "primaryUse": "Single Debut, Rekaman Home Studio dan Mixtape Independen dengan Lisensi Komersial",
+  "similarArtists": [
+    "Rapper Independen Indonesia",
+    "Kreator Konten YouTube & TikTok"
+  ],
+  "recommendedBpm": "88-144 BPM",
+  "productionTips": "Pre-mixed dan di-master dengan ruang headroom vokal yang luas khusus untuk rekaman vokal bahasa Indonesia dan Inggris.",
+  "idealVocalStyle": "Cocok untuk vokal melodi autotune, rap cepat, maupun rima santai puitis.",
+  "suggestedKey": "Tersedia Semua Nada Mayor dan Minor",
+  "streamingSuitability": "Lisensi komersial mencakup hingga 250.000 streaming di Spotify, Apple Music, dan YouTube."
+},
+  {
+  "slug": "pistas-rnb-indonesia-wav-stems-rich-brian",
+  "title": "Beat R&B Indonesia dengan Stems Multitrack WAV (Gaya Rich Brian & NIKI)",
+  "description": "Instrumental R&B halus dan trap melodi metropolitan Jakarta dengan file stem multitrack WAV 24-bit tanpa kompresi untuk mixing studio profesional di Jakarta dan Bandung.",
+  "targetKeywords": [
+    "pistas rnb indonesia wav stems rich brian",
+    "beli beat rnb indonesia stems wav",
+    "instrumental rnb jakarta stems multitrack",
+    "rich brian niki style beat wav"
+  ],
+  "heroCta": "Unduh Beat + Stems WAV Multitrack",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Rekaman Studio Profesional, Produksi Album/EP dan Master Radio Komersial",
+  "similarArtists": [
+    "Rich Brian",
+    "NIKI",
+    "Warren Hue",
+    "Basboi"
+  ],
+  "recommendedBpm": "92-100 BPM",
+  "productionTips": "Track audio WAV 24-bit 48kHz terpisah dengan label tempo dan kunci nada untuk impor mudah di Pro Tools, FL Studio, dan Ableton.",
+  "idealVocalStyle": "Aliran vokal bernuansa neo-soul, lirik bahasa Indonesia dan Inggris, serta chorus bernyanyi yang menawan.",
+  "suggestedKey": "Ab Major / F Minor",
+  "streamingSuitability": "Standar kelantangan radio komersial siap edar di playlist editorial DSP global."
+},
+  {
+  "slug": "beat-dangdut-koplo-trap-kendang-wav",
+  "title": "Beat Dangdut Koplo Trap dengan Kendang Asli (Kualitas Studio WAV untuk Remix & TikTok)",
+  "description": "Instrumental fusi Dangdut Koplo berkecepatan tinggi dengan tabuhan kendang asli dan bass 808 bertenaga untuk rekaman lagu viral, remix panggung, dan konten TikTok.",
+  "targetKeywords": [
+    "beat dangdut koplo trap kendang wav",
+    "koplo trap instrumental download",
+    "jual beat kendang koplo 808",
+    "dangdut remix beat fl studio wav"
+  ],
+  "heroCta": "Unduh Beat Koplo Trap + Kendang WAV",
+  "energyLevel": "Maximum",
+  "primaryUse": "Lagu Dangdut Remix, Tantangan Tari TikTok dan Penampilan Panggung Festival",
+  "similarArtists": [
+    "NDX A.K.A.",
+    "Denny Caknan",
+    "Weird Genius",
+    "Guyon Waton"
+  ],
+  "recommendedBpm": "112-118 BPM",
+  "productionTips": "Pola tabuhan kendang asli berkecepatan tinggi dengan transien jernih yang dipadukan dengan dentuman sub 808 masif.",
+  "idealVocalStyle": "Vokal bernyanyi gaya pop Jawa/koplo, teriakan panggung yang energik, serta lirik cinta yang ceria.",
+  "suggestedKey": "Re Minor / La Minor",
+  "streamingSuitability": "Potensi viralitas tinggi di TikTok, YouTube Shorts, dan panggung konser musik daerah."
+},
+  {
+  "slug": "surat-perjanjian-lisensi-beat-wami-pdf-indonesia",
+  "title": "Surat Perjanjian Lisensi Musik Produser (Sesuai WAMI, LMKN & UU Hak Cipta No. 28/2014)",
+  "description": "Perjanjian lisensi produksi musik berbadan hukum yang 100% mematuhi UU No. 28 Tahun 2014 tentang Hak Cipta Indonesia dan pendaftaran WAMI / LMKN dengan unduhan surat kontrak PDF dan split sheet instan.",
+  "targetKeywords": [
+    "surat perjanjian lisensi beat wami pdf indonesia",
+    "kontrak beli beat indonesia wami",
+    "surat perjanjian royalti produser musik pdf",
+    "split sheet lisensi musik indonesia"
+  ],
+  "heroCta": "Beli Beat dengan Kontrak WAMI PDF Legal",
+  "energyLevel": "Professional",
+  "primaryUse": "Pendaftaran Hak Cipta Resmi ke WAMI/LMKN, Rilis DSP Komersial dan Sinkronisasi Film",
+  "similarArtists": [
+    "Pencipta Lagu dan Musisi Rekaman Independen Indonesia"
+  ],
+  "recommendedBpm": "Dapat diterapkan pada semua tempo",
+  "productionTips": "Ketentuan hukum yang transparan: pembagian standar 50/50 publishing hak cipta dan 100% hak royalti master hingga batas lisensi.",
+  "idealVocalStyle": "Sangat penting bagi semua musisi yang menargetkan monetisasi resmi dan perlindungan hak cipta.",
+  "suggestedKey": "Standar Legal Universal",
+  "streamingSuitability": "Perlindungan hukum menyeluruh untuk unggahan Spotify, monetisasi YouTube Content ID, dan pemutaran radio."
+},
+  {
+  "slug": "beli-beat-qris-dana-ovo-gopay-instan",
+  "title": "Beli Beat Musik Pakai QRIS di Indonesia (Unduhan Otomatis Instan via GoPay, DANA & OVO)",
+  "description": "Cara termudah dan tercepat membeli instrumental musik di Indonesia: scan kode QRIS menggunakan GoPay, DANA, OVO, ShopeePay, atau BCA Mobile dan terima tautan unduhan file WAV dan lisensi seketika.",
+  "targetKeywords": [
+    "beli beat qris dana ovo gopay instan",
+    "beli instrumental musik qris",
+    "toko beat indonesia qris gopay",
+    "jual beat musik hip hop bayar dana"
+  ],
+  "heroCta": "Beli Beat Pakai QRIS / E-Wallet Sekarang",
+  "energyLevel": "Instant",
+  "primaryUse": "Pembelian Instrumental Cepat untuk Sesi Rekaman Mendesak di Studio Musik Indonesia",
+  "similarArtists": [
+    "Musisi di Jakarta, Bandung, Surabaya, Medan, dan Bali"
+  ],
+  "recommendedBpm": "80-150 BPM",
+  "productionTips": "Sistem pengiriman digital instan via server unduhan berkecepatan tinggi ke email pembeli.",
+  "idealVocalStyle": "Kompatibel untuk semua genre musik urban dalam bahasa Indonesia, daerah, maupun Inggris.",
+  "suggestedKey": "Multi-Tonalitas",
+  "streamingSuitability": "Termasuk lisensi komersial resmi yang siap digunakan untuk distribusi global."
+},
+  {
+  "slug": "paket-beat-album-ep-indonesia-diskon-40",
+  "title": "Paket Beat untuk EP & Album Musik di Indonesia (Diskon 40% dalam Rupiah IDR)",
+  "description": "Hemat 40% dengan membeli paket 5 hingga 10 instrumental yang terkoordinasi secara harmonis untuk memproduksi EP, mixtape, atau album penuh di Indonesia dengan lisensi komersial terpadu.",
+  "targetKeywords": [
+    "paket beat album ep indonesia diskon 40",
+    "bundle instrumental trap murah rupiah",
+    "beli beat borongan jakarta idr",
+    "paket 5 beat rap indonesia diskon"
+  ],
+  "heroCta": "Dapatkan Paket Beat Album (Diskon 40%)",
+  "energyLevel": "Variable",
+  "primaryUse": "Produksi Album Utuh, Identitas Suara yang Kohesif dan Peluncuran Berkala",
+  "similarArtists": [
+    "Kolektif Musik Urban dan Rapper Independen Berkembang"
+  ],
+  "recommendedBpm": "85-144 BPM",
+  "productionTips": "Kurasi tempo dan nada yang selaras untuk memastikan pengalaman mendengarkan album yang mulus.",
+  "idealVocalStyle": "Memberikan ruang luas bagi musisi untuk mengeksplorasi variasi melodi dan lirik.",
+  "suggestedKey": "Spektrum Harmonik Lengkap",
+  "streamingSuitability": "Lisensi komersial tunggal yang mencakup semua lagu dalam proyek album Anda sekaligus."
+},
+  {
+  "slug": "produser-musik-indonesia-whatsapp-onzieb",
+  "title": "Produser Musik Khusus untuk Musisi Indonesia (Konsultasi WhatsApp Langsung dengan Onzieb)",
+  "description": "Bekerja sama langsung dengan produser musik Onzieb via WhatsApp untuk memesan instrumental kustom: penyesuaian nada, modifikasi aransemen, mixing multi-track, dan produksi eksklusif trap dan R&B.",
+  "targetKeywords": [
+    "produser musik indonesia whatsapp onzieb",
+    "onzieb produser beat jakarta",
+    "pesan beat custom indonesia whatsapp",
+    "beatmaker indonesia kontak whatsapp"
+  ],
+  "heroCta": "Chat dengan Onzieb via WhatsApp",
+  "energyLevel": "Custom",
+  "primaryUse": "Produksi Eksklusif Khusus, Pembentukan Identitas Suara dan Single Utama",
+  "similarArtists": [
+    "Onzieb",
+    "Produser Musik Urban Papan Atas Indonesia"
+  ],
+  "recommendedBpm": "Disesuaikan secara presisi dengan alur dan karakter vokal musisi",
+  "productionTips": "Komunikasi cepat melalui pesan suara WhatsApp dan pertukaran file stem untuk revisi aransemen secara real-time.",
+  "idealVocalStyle": "Dirancang khusus untuk menonjolkan kekuatan, warna suara, dan dinamika penyanyi.",
+  "suggestedKey": "Nada Kustom Sesuai Kebutuhan",
+  "streamingSuitability": "Opsi pelepasan hak eksklusif 100% hak royalti master untuk monetisasi komersial tanpa batas."
+},
+  {
+  "slug": "beat-gamelan-trap-etnik-bali-jawa-wav",
+  "title": "Beat Gamelan Trap Etnik Bali & Jawa (Sentuhan Perunggu Mistis & Bass 808)",
+  "description": "Perpaduan epik antara instrumen tradisional gamelan perunggu Bali dan Jawa dengan bass 808 dan ketukan drum trap modern, menghadirkan nuansa megah berkelas dunia.",
+  "targetKeywords": [
+    "beat gamelan trap etnik bali jawa wav",
+    "gamelan trap instrumental download",
+    "ethnic indonesian trap beat wav",
+    "gamelan 808 beat fl studio"
+  ],
+  "heroCta": "Dengarkan Beat Gamelan Trap Etnik",
+  "energyLevel": "High",
+  "primaryUse": "Karya Kebudayaan Nasional, Penampilan Festival Internasional dan Soundtrack Sinematik",
+  "similarArtists": [
+    "Alffy Rev",
+    "Weird Genius",
+    "Eka Gustiwana",
+    "Novia Bachmid"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "productionTips": "Rekaman gamelan perunggu asli diproses dengan ruang reverb stereo luas di atas pondasi sub-bass 808 yang solid.",
+  "idealVocalStyle": "Lirik puitis bertema kebangsaan, vokal bertenaga, atau rap cepat dengan artikulasi tajam.",
+  "suggestedKey": "Skala Slendro / Pelog (Setara C# Minor / D Minor)",
+  "streamingSuitability": "Potensi viralitas tinggi di platform YouTube, festival budaya, dan saluran dokumenter internasional."
+},
+  {
+  "slug": "beat-boombap-indonesia-klasik-tuan-tigabelas",
+  "title": "Beat Boom Bap Indonesia Klasik (Gaya Tuan Tigabelas, Laze & Sample Jazz Vinil)",
+  "description": "Instrumental hip-hop boom bap autentik Indonesia dengan potongan sampel jazz dan soul dari piringan hitam, ketukan drum analog tebal, dan bass hangat untuk MC yang mengutamakan pesan sosial.",
+  "targetKeywords": [
+    "beat boombap indonesia klasik tuan tigabelas",
+    "boom bap beat indonesia wav",
+    "instrumental rap klasik jakarta",
+    "tuan tigabelas style boom bap"
+  ],
+  "heroCta": "Jelajahi Beat Boom Bap Indonesia Klasik",
+  "energyLevel": "High",
+  "primaryUse": "Single Rap Lirik, Cypher Jalanan dan Lagu Tema Komunitas Hip-Hop",
+  "similarArtists": [
+    "Tuan Tigabelas",
+    "Laze",
+    "Yacko",
+    "Saykoji"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "productionTips": "Sampling klasik bergaya MPC dengan kehangatan vinil antik dan snare berbobot yang memberi ruang luas bagi lirik rap.",
+  "idealVocalStyle": "Rima multisyllabic kompleks, penyampaian cerita lugas, dan pesan sosial yang mendalam.",
+  "suggestedKey": "Re Minor / Sol Minor",
+  "streamingSuitability": "Sangat disukai oleh penikmat hip-hop sejati, kompetisi rap, dan pendengar rap berbobot di Indonesia."
+},
+  {
+  "slug": "drum-kit-hip-hop-indonesia-gratis-wav",
+  "title": "Drum Kit Hip-Hop Indonesia Gratis (Sample WAV 24-Bit, 808s, Kendang Hits & Snare Trap)",
+  "description": "Unduh gratis paket suara eksklusif untuk produser musik urban Indonesia: 30 bass 808 terstem, pukulan kendang koplo, snare tajam, dan hi-hat modern dalam format audio WAV 24-bit studio.",
+  "targetKeywords": [
+    "drum kit hip hop indonesia gratis wav",
+    "sound pack trap indonesia gratis fl studio",
+    "sample kendang koplo wav download",
+    "sample 808 gratis indonesia"
+  ],
+  "heroCta": "Unduh Drum Kit Indonesia Gratis (ZIP)",
+  "energyLevel": "High",
+  "primaryUse": "Produksi Musik Home Studio, Beatmaking di FL Studio, Ableton Live dan Logic Pro",
+  "similarArtists": [
+    "Beatmaker Independen Indonesia",
+    "Produser Kamar Tidur Berkembang"
+  ],
+  "recommendedBpm": "Kompatibel dengan semua tempo dari 80 hingga 160 BPM",
+  "productionTips": "Sample one-shot 100% bebas royalti yang telah melalui proses mastering studio dengan respon transien jernih.",
+  "idealVocalStyle": "Fondasi ritmis kokoh untuk menciptakan instrumental profesional dengan warna musik khas Nusantara.",
+  "suggestedKey": "Di-stem pada nada C untuk kemudahan transposisi di sampler Anda",
+  "streamingSuitability": "Bebas royalti sepenuhnya untuk rilis lagu komersial dan penjualan beat di seluruh dunia."
+},
+  {
+  "slug": "jakarta-senopati-indo-rnb-trap-slowjam",
+  "name": "Jakarta (Senopati) Indonesian R&B-Trap Slow Jam Beats",
+  "badge": "Indo R&B-Trap",
+  "headline": "Indonesian R&B-Trap Slow Jam Beats di Jakarta (Senopati): Jakarta Pusat & Sleek Urban R&B",
+  "description": "Akord piano elektrik Rhodes yang hangat, melodi sensual dan bassline lembut dengan pembayaran instan QRIS untuk penyanyi di Jakarta (Senopati).",
+  "targetKeywords": [
+    "indonesian r&b-trap slow jam beats jakarta (senopati)",
+    "beli beat jakarta (senopati) qris",
+    "instrumental indo r&b-trap indonesia",
+    "beat musik jakarta (senopati) wav download"
+  ],
+  "heroCta": "Unduh Beat di Jakarta (Senopati) (QRIS / WAV)",
+  "recommendedBpm": "90-96 BPM",
+  "suggestedKey": "Ab-Mayor / F-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Indonesia",
+  "sceneHub": "Jakarta (Senopati)"
+},
+  {
+  "slug": "jakarta-senopati-gamelan-ethnic-trap-808",
+  "name": "Jakarta (Senopati) Gamelan Ethnic Trap 808 Beats",
+  "badge": "Gamelan Trap",
+  "headline": "Gamelan Ethnic Trap 808 Beats di Jakarta (Senopati): Jakarta Pusat & Sleek Urban R&B",
+  "description": "Laras gamelan slendro perunggu mistis, dentuman bass 808 bertenaga dan simbal tajam untuk musisi di Jakarta (Senopati).",
+  "targetKeywords": [
+    "gamelan ethnic trap 808 beats jakarta (senopati)",
+    "beli beat jakarta (senopati) qris",
+    "instrumental gamelan trap indonesia",
+    "beat musik jakarta (senopati) wav download"
+  ],
+  "heroCta": "Unduh Beat di Jakarta (Senopati) (QRIS / WAV)",
+  "recommendedBpm": "130-136 BPM",
+  "suggestedKey": "C#-Minor / G#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Indonesia",
+  "sceneHub": "Jakarta (Senopati)"
+},
+  {
+  "slug": "jakarta-senopati-koplo-trap-kendang-bounce",
+  "name": "Jakarta (Senopati) Dangdut Koplo-Trap Kendang Bounce Beats",
+  "badge": "Koplo-Trap",
+  "headline": "Dangdut Koplo-Trap Kendang Bounce Beats di Jakarta (Senopati): Jakarta Pusat & Sleek Urban R&B",
+  "description": "Tabuhan kendang koplo cepat, melodi suling bambu merdu dan drop 808 energik untuk panggung dan konten di Jakarta (Senopati).",
+  "targetKeywords": [
+    "dangdut koplo-trap kendang bounce beats jakarta (senopati)",
+    "beli beat jakarta (senopati) qris",
+    "instrumental koplo-trap indonesia",
+    "beat musik jakarta (senopati) wav download"
+  ],
+  "heroCta": "Unduh Beat di Jakarta (Senopati) (QRIS / WAV)",
+  "recommendedBpm": "112-118 BPM",
+  "suggestedKey": "D-Minor / A-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Indonesia",
+  "sceneHub": "Jakarta (Senopati)"
+},
+  {
+  "slug": "jakarta-senopati-nusantara-street-drill",
+  "name": "Jakarta (Senopati) Nusantara Street Drill Beats",
+  "badge": "Nusantara Drill",
+  "headline": "Nusantara Street Drill Beats di Jakarta (Senopati): Jakarta Pusat & Sleek Urban R&B",
+  "description": "Lonceng minor mencekam, hi-hat drill berkecepatan tinggi dan slide bass 808 berat untuk MC jalanan di Jakarta (Senopati).",
+  "targetKeywords": [
+    "nusantara street drill beats jakarta (senopati)",
+    "beli beat jakarta (senopati) qris",
+    "instrumental nusantara drill indonesia",
+    "beat musik jakarta (senopati) wav download"
+  ],
+  "heroCta": "Unduh Beat di Jakarta (Senopati) (QRIS / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "F#-Minor / C#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Indonesia",
+  "sceneHub": "Jakarta (Senopati)"
+},
+  {
+  "slug": "bandung-dago-indo-rnb-trap-slowjam",
+  "name": "Bandung (Dago) Indonesian R&B-Trap Slow Jam Beats",
+  "badge": "Indo R&B-Trap",
+  "headline": "Indonesian R&B-Trap Slow Jam Beats di Bandung (Dago): Bandung & Creative Indie-Trap",
+  "description": "Akord piano elektrik Rhodes yang hangat, melodi sensual dan bassline lembut dengan pembayaran instan QRIS untuk penyanyi di Bandung (Dago).",
+  "targetKeywords": [
+    "indonesian r&b-trap slow jam beats bandung (dago)",
+    "beli beat bandung (dago) qris",
+    "instrumental indo r&b-trap indonesia",
+    "beat musik bandung (dago) wav download"
+  ],
+  "heroCta": "Unduh Beat di Bandung (Dago) (QRIS / WAV)",
+  "recommendedBpm": "90-96 BPM",
+  "suggestedKey": "Ab-Mayor / F-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Indonesia",
+  "sceneHub": "Bandung (Dago)"
+},
+  {
+  "slug": "bandung-dago-gamelan-ethnic-trap-808",
+  "name": "Bandung (Dago) Gamelan Ethnic Trap 808 Beats",
+  "badge": "Gamelan Trap",
+  "headline": "Gamelan Ethnic Trap 808 Beats di Bandung (Dago): Bandung & Creative Indie-Trap",
+  "description": "Laras gamelan slendro perunggu mistis, dentuman bass 808 bertenaga dan simbal tajam untuk musisi di Bandung (Dago).",
+  "targetKeywords": [
+    "gamelan ethnic trap 808 beats bandung (dago)",
+    "beli beat bandung (dago) qris",
+    "instrumental gamelan trap indonesia",
+    "beat musik bandung (dago) wav download"
+  ],
+  "heroCta": "Unduh Beat di Bandung (Dago) (QRIS / WAV)",
+  "recommendedBpm": "130-136 BPM",
+  "suggestedKey": "C#-Minor / G#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Indonesia",
+  "sceneHub": "Bandung (Dago)"
+},
+  {
+  "slug": "bandung-dago-koplo-trap-kendang-bounce",
+  "name": "Bandung (Dago) Dangdut Koplo-Trap Kendang Bounce Beats",
+  "badge": "Koplo-Trap",
+  "headline": "Dangdut Koplo-Trap Kendang Bounce Beats di Bandung (Dago): Bandung & Creative Indie-Trap",
+  "description": "Tabuhan kendang koplo cepat, melodi suling bambu merdu dan drop 808 energik untuk panggung dan konten di Bandung (Dago).",
+  "targetKeywords": [
+    "dangdut koplo-trap kendang bounce beats bandung (dago)",
+    "beli beat bandung (dago) qris",
+    "instrumental koplo-trap indonesia",
+    "beat musik bandung (dago) wav download"
+  ],
+  "heroCta": "Unduh Beat di Bandung (Dago) (QRIS / WAV)",
+  "recommendedBpm": "112-118 BPM",
+  "suggestedKey": "D-Minor / A-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Indonesia",
+  "sceneHub": "Bandung (Dago)"
+},
+  {
+  "slug": "bandung-dago-nusantara-street-drill",
+  "name": "Bandung (Dago) Nusantara Street Drill Beats",
+  "badge": "Nusantara Drill",
+  "headline": "Nusantara Street Drill Beats di Bandung (Dago): Bandung & Creative Indie-Trap",
+  "description": "Lonceng minor mencekam, hi-hat drill berkecepatan tinggi dan slide bass 808 berat untuk MC jalanan di Bandung (Dago).",
+  "targetKeywords": [
+    "nusantara street drill beats bandung (dago)",
+    "beli beat bandung (dago) qris",
+    "instrumental nusantara drill indonesia",
+    "beat musik bandung (dago) wav download"
+  ],
+  "heroCta": "Unduh Beat di Bandung (Dago) (QRIS / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "F#-Minor / C#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Indonesia",
+  "sceneHub": "Bandung (Dago)"
+},
+  {
+  "slug": "surabaya-pakuwon-indo-rnb-trap-slowjam",
+  "name": "Surabaya (Pakuwon) Indonesian R&B-Trap Slow Jam Beats",
+  "badge": "Indo R&B-Trap",
+  "headline": "Indonesian R&B-Trap Slow Jam Beats di Surabaya (Pakuwon): Surabaya & Industrial Hardcore Rap",
+  "description": "Akord piano elektrik Rhodes yang hangat, melodi sensual dan bassline lembut dengan pembayaran instan QRIS untuk penyanyi di Surabaya (Pakuwon).",
+  "targetKeywords": [
+    "indonesian r&b-trap slow jam beats surabaya (pakuwon)",
+    "beli beat surabaya (pakuwon) qris",
+    "instrumental indo r&b-trap indonesia",
+    "beat musik surabaya (pakuwon) wav download"
+  ],
+  "heroCta": "Unduh Beat di Surabaya (Pakuwon) (QRIS / WAV)",
+  "recommendedBpm": "90-96 BPM",
+  "suggestedKey": "Ab-Mayor / F-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Indonesia",
+  "sceneHub": "Surabaya (Pakuwon)"
+},
+  {
+  "slug": "surabaya-pakuwon-gamelan-ethnic-trap-808",
+  "name": "Surabaya (Pakuwon) Gamelan Ethnic Trap 808 Beats",
+  "badge": "Gamelan Trap",
+  "headline": "Gamelan Ethnic Trap 808 Beats di Surabaya (Pakuwon): Surabaya & Industrial Hardcore Rap",
+  "description": "Laras gamelan slendro perunggu mistis, dentuman bass 808 bertenaga dan simbal tajam untuk musisi di Surabaya (Pakuwon).",
+  "targetKeywords": [
+    "gamelan ethnic trap 808 beats surabaya (pakuwon)",
+    "beli beat surabaya (pakuwon) qris",
+    "instrumental gamelan trap indonesia",
+    "beat musik surabaya (pakuwon) wav download"
+  ],
+  "heroCta": "Unduh Beat di Surabaya (Pakuwon) (QRIS / WAV)",
+  "recommendedBpm": "130-136 BPM",
+  "suggestedKey": "C#-Minor / G#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Indonesia",
+  "sceneHub": "Surabaya (Pakuwon)"
+},
+  {
+  "slug": "surabaya-pakuwon-koplo-trap-kendang-bounce",
+  "name": "Surabaya (Pakuwon) Dangdut Koplo-Trap Kendang Bounce Beats",
+  "badge": "Koplo-Trap",
+  "headline": "Dangdut Koplo-Trap Kendang Bounce Beats di Surabaya (Pakuwon): Surabaya & Industrial Hardcore Rap",
+  "description": "Tabuhan kendang koplo cepat, melodi suling bambu merdu dan drop 808 energik untuk panggung dan konten di Surabaya (Pakuwon).",
+  "targetKeywords": [
+    "dangdut koplo-trap kendang bounce beats surabaya (pakuwon)",
+    "beli beat surabaya (pakuwon) qris",
+    "instrumental koplo-trap indonesia",
+    "beat musik surabaya (pakuwon) wav download"
+  ],
+  "heroCta": "Unduh Beat di Surabaya (Pakuwon) (QRIS / WAV)",
+  "recommendedBpm": "112-118 BPM",
+  "suggestedKey": "D-Minor / A-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Indonesia",
+  "sceneHub": "Surabaya (Pakuwon)"
+},
+  {
+  "slug": "surabaya-pakuwon-nusantara-street-drill",
+  "name": "Surabaya (Pakuwon) Nusantara Street Drill Beats",
+  "badge": "Nusantara Drill",
+  "headline": "Nusantara Street Drill Beats di Surabaya (Pakuwon): Surabaya & Industrial Hardcore Rap",
+  "description": "Lonceng minor mencekam, hi-hat drill berkecepatan tinggi dan slide bass 808 berat untuk MC jalanan di Surabaya (Pakuwon).",
+  "targetKeywords": [
+    "nusantara street drill beats surabaya (pakuwon)",
+    "beli beat surabaya (pakuwon) qris",
+    "instrumental nusantara drill indonesia",
+    "beat musik surabaya (pakuwon) wav download"
+  ],
+  "heroCta": "Unduh Beat di Surabaya (Pakuwon) (QRIS / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "F#-Minor / C#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Indonesia",
+  "sceneHub": "Surabaya (Pakuwon)"
+},
+  {
+  "slug": "bali-canggu-indo-rnb-trap-slowjam",
+  "name": "Bali (Canggu) Indonesian R&B-Trap Slow Jam Beats",
+  "badge": "Indo R&B-Trap",
+  "headline": "Indonesian R&B-Trap Slow Jam Beats di Bali (Canggu): Bali & Tropical Sunset Afro-Trap",
+  "description": "Akord piano elektrik Rhodes yang hangat, melodi sensual dan bassline lembut dengan pembayaran instan QRIS untuk penyanyi di Bali (Canggu).",
+  "targetKeywords": [
+    "indonesian r&b-trap slow jam beats bali (canggu)",
+    "beli beat bali (canggu) qris",
+    "instrumental indo r&b-trap indonesia",
+    "beat musik bali (canggu) wav download"
+  ],
+  "heroCta": "Unduh Beat di Bali (Canggu) (QRIS / WAV)",
+  "recommendedBpm": "90-96 BPM",
+  "suggestedKey": "Ab-Mayor / F-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Indonesia",
+  "sceneHub": "Bali (Canggu)"
+},
+  {
+  "slug": "bali-canggu-gamelan-ethnic-trap-808",
+  "name": "Bali (Canggu) Gamelan Ethnic Trap 808 Beats",
+  "badge": "Gamelan Trap",
+  "headline": "Gamelan Ethnic Trap 808 Beats di Bali (Canggu): Bali & Tropical Sunset Afro-Trap",
+  "description": "Laras gamelan slendro perunggu mistis, dentuman bass 808 bertenaga dan simbal tajam untuk musisi di Bali (Canggu).",
+  "targetKeywords": [
+    "gamelan ethnic trap 808 beats bali (canggu)",
+    "beli beat bali (canggu) qris",
+    "instrumental gamelan trap indonesia",
+    "beat musik bali (canggu) wav download"
+  ],
+  "heroCta": "Unduh Beat di Bali (Canggu) (QRIS / WAV)",
+  "recommendedBpm": "130-136 BPM",
+  "suggestedKey": "C#-Minor / G#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Indonesia",
+  "sceneHub": "Bali (Canggu)"
+},
+  {
+  "slug": "bali-canggu-koplo-trap-kendang-bounce",
+  "name": "Bali (Canggu) Dangdut Koplo-Trap Kendang Bounce Beats",
+  "badge": "Koplo-Trap",
+  "headline": "Dangdut Koplo-Trap Kendang Bounce Beats di Bali (Canggu): Bali & Tropical Sunset Afro-Trap",
+  "description": "Tabuhan kendang koplo cepat, melodi suling bambu merdu dan drop 808 energik untuk panggung dan konten di Bali (Canggu).",
+  "targetKeywords": [
+    "dangdut koplo-trap kendang bounce beats bali (canggu)",
+    "beli beat bali (canggu) qris",
+    "instrumental koplo-trap indonesia",
+    "beat musik bali (canggu) wav download"
+  ],
+  "heroCta": "Unduh Beat di Bali (Canggu) (QRIS / WAV)",
+  "recommendedBpm": "112-118 BPM",
+  "suggestedKey": "D-Minor / A-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Indonesia",
+  "sceneHub": "Bali (Canggu)"
+},
+  {
+  "slug": "bali-canggu-nusantara-street-drill",
+  "name": "Bali (Canggu) Nusantara Street Drill Beats",
+  "badge": "Nusantara Drill",
+  "headline": "Nusantara Street Drill Beats di Bali (Canggu): Bali & Tropical Sunset Afro-Trap",
+  "description": "Lonceng minor mencekam, hi-hat drill berkecepatan tinggi dan slide bass 808 berat untuk MC jalanan di Bali (Canggu).",
+  "targetKeywords": [
+    "nusantara street drill beats bali (canggu)",
+    "beli beat bali (canggu) qris",
+    "instrumental nusantara drill indonesia",
+    "beat musik bali (canggu) wav download"
+  ],
+  "heroCta": "Unduh Beat di Bali (Canggu) (QRIS / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "F#-Minor / C#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Indonesia",
+  "sceneHub": "Bali (Canggu)"
+},
+  {
+  "slug": "yogyakarta-prawirotaman-indo-rnb-trap-slowjam",
+  "name": "Yogyakarta (Prawirotaman) Indonesian R&B-Trap Slow Jam Beats",
+  "badge": "Indo R&B-Trap",
+  "headline": "Indonesian R&B-Trap Slow Jam Beats di Yogyakarta (Prawirotaman): Yogyakarta & Gamelan Boom Bap",
+  "description": "Akord piano elektrik Rhodes yang hangat, melodi sensual dan bassline lembut dengan pembayaran instan QRIS untuk penyanyi di Yogyakarta (Prawirotaman).",
+  "targetKeywords": [
+    "indonesian r&b-trap slow jam beats yogyakarta (prawirotaman)",
+    "beli beat yogyakarta (prawirotaman) qris",
+    "instrumental indo r&b-trap indonesia",
+    "beat musik yogyakarta (prawirotaman) wav download"
+  ],
+  "heroCta": "Unduh Beat di Yogyakarta (Prawirotaman) (QRIS / WAV)",
+  "recommendedBpm": "90-96 BPM",
+  "suggestedKey": "Ab-Mayor / F-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Indonesia",
+  "sceneHub": "Yogyakarta (Prawirotaman)"
+},
+  {
+  "slug": "yogyakarta-prawirotaman-gamelan-ethnic-trap-808",
+  "name": "Yogyakarta (Prawirotaman) Gamelan Ethnic Trap 808 Beats",
+  "badge": "Gamelan Trap",
+  "headline": "Gamelan Ethnic Trap 808 Beats di Yogyakarta (Prawirotaman): Yogyakarta & Gamelan Boom Bap",
+  "description": "Laras gamelan slendro perunggu mistis, dentuman bass 808 bertenaga dan simbal tajam untuk musisi di Yogyakarta (Prawirotaman).",
+  "targetKeywords": [
+    "gamelan ethnic trap 808 beats yogyakarta (prawirotaman)",
+    "beli beat yogyakarta (prawirotaman) qris",
+    "instrumental gamelan trap indonesia",
+    "beat musik yogyakarta (prawirotaman) wav download"
+  ],
+  "heroCta": "Unduh Beat di Yogyakarta (Prawirotaman) (QRIS / WAV)",
+  "recommendedBpm": "130-136 BPM",
+  "suggestedKey": "C#-Minor / G#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Indonesia",
+  "sceneHub": "Yogyakarta (Prawirotaman)"
+},
+  {
+  "slug": "yogyakarta-prawirotaman-koplo-trap-kendang-bounce",
+  "name": "Yogyakarta (Prawirotaman) Dangdut Koplo-Trap Kendang Bounce Beats",
+  "badge": "Koplo-Trap",
+  "headline": "Dangdut Koplo-Trap Kendang Bounce Beats di Yogyakarta (Prawirotaman): Yogyakarta & Gamelan Boom Bap",
+  "description": "Tabuhan kendang koplo cepat, melodi suling bambu merdu dan drop 808 energik untuk panggung dan konten di Yogyakarta (Prawirotaman).",
+  "targetKeywords": [
+    "dangdut koplo-trap kendang bounce beats yogyakarta (prawirotaman)",
+    "beli beat yogyakarta (prawirotaman) qris",
+    "instrumental koplo-trap indonesia",
+    "beat musik yogyakarta (prawirotaman) wav download"
+  ],
+  "heroCta": "Unduh Beat di Yogyakarta (Prawirotaman) (QRIS / WAV)",
+  "recommendedBpm": "112-118 BPM",
+  "suggestedKey": "D-Minor / A-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Indonesia",
+  "sceneHub": "Yogyakarta (Prawirotaman)"
+},
+  {
+  "slug": "yogyakarta-prawirotaman-nusantara-street-drill",
+  "name": "Yogyakarta (Prawirotaman) Nusantara Street Drill Beats",
+  "badge": "Nusantara Drill",
+  "headline": "Nusantara Street Drill Beats di Yogyakarta (Prawirotaman): Yogyakarta & Gamelan Boom Bap",
+  "description": "Lonceng minor mencekam, hi-hat drill berkecepatan tinggi dan slide bass 808 berat untuk MC jalanan di Yogyakarta (Prawirotaman).",
+  "targetKeywords": [
+    "nusantara street drill beats yogyakarta (prawirotaman)",
+    "beli beat yogyakarta (prawirotaman) qris",
+    "instrumental nusantara drill indonesia",
+    "beat musik yogyakarta (prawirotaman) wav download"
+  ],
+  "heroCta": "Unduh Beat di Yogyakarta (Prawirotaman) (QRIS / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "F#-Minor / C#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Indonesia",
+  "sceneHub": "Yogyakarta (Prawirotaman)"
+},
+  {
+  "slug": "medan-kesawan-indo-rnb-trap-slowjam",
+  "name": "Medan (Kesawan) Indonesian R&B-Trap Slow Jam Beats",
+  "badge": "Indo R&B-Trap",
+  "headline": "Indonesian R&B-Trap Slow Jam Beats di Medan (Kesawan): Medan & North Sumatra Fiery Trap",
+  "description": "Akord piano elektrik Rhodes yang hangat, melodi sensual dan bassline lembut dengan pembayaran instan QRIS untuk penyanyi di Medan (Kesawan).",
+  "targetKeywords": [
+    "indonesian r&b-trap slow jam beats medan (kesawan)",
+    "beli beat medan (kesawan) qris",
+    "instrumental indo r&b-trap indonesia",
+    "beat musik medan (kesawan) wav download"
+  ],
+  "heroCta": "Unduh Beat di Medan (Kesawan) (QRIS / WAV)",
+  "recommendedBpm": "90-96 BPM",
+  "suggestedKey": "Ab-Mayor / F-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Indonesia",
+  "sceneHub": "Medan (Kesawan)"
+},
+  {
+  "slug": "medan-kesawan-gamelan-ethnic-trap-808",
+  "name": "Medan (Kesawan) Gamelan Ethnic Trap 808 Beats",
+  "badge": "Gamelan Trap",
+  "headline": "Gamelan Ethnic Trap 808 Beats di Medan (Kesawan): Medan & North Sumatra Fiery Trap",
+  "description": "Laras gamelan slendro perunggu mistis, dentuman bass 808 bertenaga dan simbal tajam untuk musisi di Medan (Kesawan).",
+  "targetKeywords": [
+    "gamelan ethnic trap 808 beats medan (kesawan)",
+    "beli beat medan (kesawan) qris",
+    "instrumental gamelan trap indonesia",
+    "beat musik medan (kesawan) wav download"
+  ],
+  "heroCta": "Unduh Beat di Medan (Kesawan) (QRIS / WAV)",
+  "recommendedBpm": "130-136 BPM",
+  "suggestedKey": "C#-Minor / G#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Indonesia",
+  "sceneHub": "Medan (Kesawan)"
+},
+  {
+  "slug": "medan-kesawan-koplo-trap-kendang-bounce",
+  "name": "Medan (Kesawan) Dangdut Koplo-Trap Kendang Bounce Beats",
+  "badge": "Koplo-Trap",
+  "headline": "Dangdut Koplo-Trap Kendang Bounce Beats di Medan (Kesawan): Medan & North Sumatra Fiery Trap",
+  "description": "Tabuhan kendang koplo cepat, melodi suling bambu merdu dan drop 808 energik untuk panggung dan konten di Medan (Kesawan).",
+  "targetKeywords": [
+    "dangdut koplo-trap kendang bounce beats medan (kesawan)",
+    "beli beat medan (kesawan) qris",
+    "instrumental koplo-trap indonesia",
+    "beat musik medan (kesawan) wav download"
+  ],
+  "heroCta": "Unduh Beat di Medan (Kesawan) (QRIS / WAV)",
+  "recommendedBpm": "112-118 BPM",
+  "suggestedKey": "D-Minor / A-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Indonesia",
+  "sceneHub": "Medan (Kesawan)"
+},
+  {
+  "slug": "medan-kesawan-nusantara-street-drill",
+  "name": "Medan (Kesawan) Nusantara Street Drill Beats",
+  "badge": "Nusantara Drill",
+  "headline": "Nusantara Street Drill Beats di Medan (Kesawan): Medan & North Sumatra Fiery Trap",
+  "description": "Lonceng minor mencekam, hi-hat drill berkecepatan tinggi dan slide bass 808 berat untuk MC jalanan di Medan (Kesawan).",
+  "targetKeywords": [
+    "nusantara street drill beats medan (kesawan)",
+    "beli beat medan (kesawan) qris",
+    "instrumental nusantara drill indonesia",
+    "beat musik medan (kesawan) wav download"
+  ],
+  "heroCta": "Unduh Beat di Medan (Kesawan) (QRIS / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "F#-Minor / C#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Indonesia",
+  "sceneHub": "Medan (Kesawan)"
+},
 ];

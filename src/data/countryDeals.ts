@@ -45048,4 +45048,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "id/jakarta-pusat-senopati": {
+  "slug": "id/jakarta-pusat-senopati",
+  "name": "Indonesia – Jakarta: Jakarta Pusat, SCBD & Senopati (Metropolitan Financial Core, Sleek Neo-Soul & Indonesian Hip-Hop Vanguard)",
+  "flag": "🇮🇩",
+  "currency": "IDR (Rp) / USD ($)",
+  "currencyCode": "IDR",
+  "gateways": "QRIS (Semua E-Wallet & Mobile Banking), GoPay, OVO, DANA, ShopeePay, BCA / Mandiri / BNI Virtual Account, Apple Pay, PayPal, Stripe",
+  "pro": "WAMI / LMKN",
+  "proFullName": "WAMI (Wahana Musik Indonesia) / LMKN (Lembaga Manajemen Kolektif Nasional)",
+  "proGuide": "100% sesuai dengan Undang-Undang No. 28 Tahun 2014 tentang Hak Cipta dan pendaftaran WAMI / LMKN dengan surat perjanjian lisensi digital PDF dan split sheet instan.",
+  "headline": "Beats di Jakarta Pusat & Senopati: SCBD Skyline, Pianos Rhodes Hangat & R&B Urban Berkelas",
+  "description": "Pusat gaya hidup metropolitan dan industri kreatif ibu kota: akord piano elektrik Rhodes yang mewah, aransemen neo-soul elegan, dan drum modern untuk penyanyi dan produser di Senopati dan SCBD.",
+  "popularGenres": [
+    "Jakarta Neo-Soul",
+    "Senopati Urban R&B",
+    "SCBD Chill Hop"
+  ],
+  "subClusters": []
+},
+  "id/jakarta-barat-kemang": {
+  "slug": "id/jakarta-barat-kemang",
+  "name": "Indonesia – Jakarta: Jakarta Barat & Kemang (Distrik Seni Kreatif, Indie Trap, Street Bars & 808s Eksperimental)",
+  "flag": "🇮🇩",
+  "currency": "IDR (Rp) / USD ($)",
+  "currencyCode": "IDR",
+  "gateways": "QRIS (Semua E-Wallet & Mobile Banking), GoPay, OVO, DANA, ShopeePay, BCA / Mandiri / BNI Virtual Account, Apple Pay, PayPal, Stripe",
+  "pro": "WAMI / LMKN",
+  "proFullName": "WAMI (Wahana Musik Indonesia) / LMKN (Lembaga Manajemen Kolektif Nasional)",
+  "proGuide": "File audio WAV 24-bit 48kHz kualitas studio tanpa kompresi dengan stem multitrack terpisah dan lisensi komersial.",
+  "headline": "Beats di Kemang & Jakarta Barat: Kehidupan Malam Artistik, Synth Berani & Trap Indie Jakarta",
+  "description": "Tempat bertemunya komunitas seni alternatif dan musisi independen: synthesizers bernuansa gelap, distorsi 808 yang bertenaga, dan ritme dinamis untuk rapper dan grup musik di Kemang.",
+  "popularGenres": [
+    "Kemang Indie Trap",
+    "Jakarta Street Bars",
+    "Experimental 808"
+  ],
+  "subClusters": []
+},
+  "id/jakarta-utara-pantai-indah-kapuk": {
+  "slug": "id/jakarta-utara-pantai-indah-kapuk",
+  "name": "Indonesia – Jakarta: Jakarta Utara & Pantai Indah Kapuk (PIK Coastal Metropolis, Commercial Club Bangers & Luxury Trap)",
+  "flag": "🇮🇩",
+  "currency": "IDR (Rp) / USD ($)",
+  "currencyCode": "IDR",
+  "gateways": "QRIS (Semua E-Wallet & Mobile Banking), GoPay, OVO, DANA, ShopeePay, BCA / Mandiri / BNI Virtual Account, Apple Pay, PayPal, Stripe",
+  "pro": "WAMI / LMKN",
+  "proFullName": "WAMI (Wahana Musik Indonesia) / LMKN (Lembaga Manajemen Kolektif Nasional)",
+  "proGuide": "Pengiriman digital instan dengan split sheet dan kontrak lisensi komersial untuk distribusi Spotify dan Apple Music.",
+  "headline": "Beats di Pantai Indah Kapuk (PIK): Energi Pesisir Modern, Synth Mewah & Banger Klub Komersial",
+  "description": "Kawasan pesisir paling prestisius di Jakarta: drop trap elektronik berenergi tinggi, melodi synth yang memikat, dan dentuman bass 808 bertenaga untuk pertunjukan panggung dan festival musik.",
+  "popularGenres": [
+    "PIK Club Trap",
+    "Coastal Urban Banger",
+    "Jakarta North Luxury Trap"
+  ],
+  "subClusters": []
+},
+  "id/bandung-dago-riau": {
+  "slug": "id/bandung-dago-riau",
+  "name": "Indonesia – Bandung: Dago, Riau & Dipatiukur (Parijs van Java, Ibu Kota Kreatif, Indie-Pop Trap & Lofi Priangan)",
+  "flag": "🇮🇩",
+  "currency": "IDR (Rp) / USD ($)",
+  "currencyCode": "IDR",
+  "gateways": "QRIS (Semua E-Wallet & Mobile Banking), GoPay, OVO, DANA, ShopeePay, BCA / Mandiri / BNI Virtual Account, Apple Pay, PayPal, Stripe",
+  "pro": "WAMI / LMKN",
+  "proFullName": "WAMI (Wahana Musik Indonesia) / LMKN (Lembaga Manajemen Kolektif Nasional)",
+  "proGuide": "Pembayaran instan via QRIS, GoPay, dan DANA dengan unduhan master WAV dan file stem.",
+  "headline": "Beats di Bandung: Udara Sejuk Dago, Petikan Gitar Melankolis & Indie-Trap Priangan",
+  "description": "Pusat kreativitas dan musik indie legendaris di Jawa Barat: petikan gitar akustik yang hangat, ruang reverb atmosferik, dan ketukan trap lembut untuk musisi puitis di Bandung dan Dago.",
+  "popularGenres": [
+    "Bandung Indie Trap",
+    "Priangan Lofi Beats",
+    "Dago Acoustic Cloud Rap"
+  ],
+  "subClusters": []
+},
+  "id/surabaya-barat-pakuwon": {
+  "slug": "id/surabaya-barat-pakuwon",
+  "name": "Indonesia – Surabaya: Surabaya Barat & Pakuwon (Kota Pahlawan, Heavy Industrial 808s & Hardcore East Java Rap)",
+  "flag": "🇮🇩",
+  "currency": "IDR (Rp) / USD ($)",
+  "currencyCode": "IDR",
+  "gateways": "QRIS (Semua E-Wallet & Mobile Banking), GoPay, OVO, DANA, ShopeePay, BCA / Mandiri / BNI Virtual Account, Apple Pay, PayPal, Stripe",
+  "pro": "WAMI / LMKN",
+  "proFullName": "WAMI (Wahana Musik Indonesia) / LMKN (Lembaga Manajemen Kolektif Nasional)",
+  "proGuide": "100% royalti aman dan komposisi orisinal tanpa risiko klaim hak cipta.",
+  "headline": "Beats di Surabaya: Karakter Keras Kota Pahlawan, Dentuman 808 Berat & Trap Bertenaga",
+  "description": "Karakter tegas dan penuh semangat dari kota metropolis Jawa Timur: arpeggio piano minor yang garang, snare dengan kompresi tajam, dan sub-bass 808 masif untuk rapper Surabaya dan sekitarnya.",
+  "popularGenres": [
+    "Surabaya Hardcore Trap",
+    "East Java 808 Drill",
+    "Pakuwon Heavy Beats"
+  ],
+  "subClusters": []
+},
+  "id/bali-canggu-seminyak": {
+  "slug": "id/bali-canggu-seminyak",
+  "name": "Indonesia – Bali: Canggu, Seminyak & Uluwatu (International Creative Nomad Oasis, Sunset Afrobeats & Organic House-Trap)",
+  "flag": "🇮🇩",
+  "currency": "IDR (Rp) / USD ($)",
+  "currencyCode": "IDR",
+  "gateways": "QRIS (Semua E-Wallet & Mobile Banking), GoPay, OVO, DANA, ShopeePay, BCA / Mandiri / BNI Virtual Account, Apple Pay, PayPal, Stripe",
+  "pro": "WAMI / LMKN",
+  "proFullName": "WAMI (Wahana Musik Indonesia) / LMKN (Lembaga Manajemen Kolektif Nasional)",
+  "proGuide": "Surat perjanjian lisensi komersial digital lengkap untuk hak sinkronisasi, streaming, dan distribusi.",
+  "headline": "Beats di Bali: Canggu Sunset Vibes, Perkusi Tropis Organik & Afro-Trap Pulau Dewata",
+  "description": "Surga komunitas kreatif global di Bali: petikan kalimba cerah, goyangan shaker afrobeat hangat, dan bassline lembut untuk beach club dan visualizer tropis.",
+  "popularGenres": [
+    "Bali Sunset Afro-Trap",
+    "Canggu Chill Wave",
+    "Tropical Organic Beats"
+  ],
+  "subClusters": []
+},
+  "id/yogyakarta-prawirotaman-ugm": {
+  "slug": "id/yogyakarta-prawirotaman-ugm",
+  "name": "Indonesia – Yogyakarta: Prawirotaman, Malioboro & UGM (Kota Pelajar & Budaya, Gamelan-Hip Hop & Poetic Javanese Boom Bap)",
+  "flag": "🇮🇩",
+  "currency": "IDR (Rp) / USD ($)",
+  "currencyCode": "IDR",
+  "gateways": "QRIS (Semua E-Wallet & Mobile Banking), GoPay, OVO, DANA, ShopeePay, BCA / Mandiri / BNI Virtual Account, Apple Pay, PayPal, Stripe",
+  "pro": "WAMI / LMKN",
+  "proFullName": "WAMI (Wahana Musik Indonesia) / LMKN (Lembaga Manajemen Kolektif Nasional)",
+  "proGuide": "Mastering standar streaming (-14 LUFS) siap rilis di platform DSP internasional.",
+  "headline": "Beats di Yogyakarta: Warisan Gamelan Jawa, Sentuhan Vinyl Antik & Boom Bap Puitis Jogja",
+  "description": "Jantung kebudayaan dan intelektual Jawa: perpaduan bunyi gamelan slendro perunggu, sampel jazz hangat, dan ketukan drum analog klasik untuk MC puitis di Yogyakarta.",
+  "popularGenres": [
+    "Jogja Gamelan Boom Bap",
+    "Javanese Conscious Rap",
+    "Malioboro Lo-Fi"
+  ],
+  "subClusters": []
+},
+  "id/medan-kesawan-merdeka": {
+  "slug": "id/medan-kesawan-merdeka",
+  "name": "Indonesia – Medan: Kesawan, Lapangan Merdeka & Polonia (Sumatra Megacity, North Sumatra Trap & High-Speed Chopper Rhymes)",
+  "flag": "🇮🇩",
+  "currency": "IDR (Rp) / USD ($)",
+  "currencyCode": "IDR",
+  "gateways": "QRIS (Semua E-Wallet & Mobile Banking), GoPay, OVO, DANA, ShopeePay, BCA / Mandiri / BNI Virtual Account, Apple Pay, PayPal, Stripe",
+  "pro": "WAMI / LMKN",
+  "proFullName": "WAMI (Wahana Musik Indonesia) / LMKN (Lembaga Manajemen Kolektif Nasional)",
+  "proGuide": "Opsi lisensi eksklusif dan non-eksklusif dengan pembagian royalti yang jelas dan transparan.",
+  "headline": "Beats di Medan: Aliran Vokal Cepat Sumatera Utara, Kuningan Menggelegar & Trap Keras",
+  "description": "Karakter vokal berapi-api dari ibu kota Sumatera Utara: suara instrumen tiup megah, snare tajam, dan bass 808 bertenaga untuk rapper berkecepatan tinggi.",
+  "popularGenres": [
+    "Medan Chopper Trap",
+    "North Sumatra 808",
+    "Kesawan Street Flow"
+  ],
+  "subClusters": []
+},
+  "id/makassar-pantai-losari": {
+  "slug": "id/makassar-pantai-losari",
+  "name": "Indonesia – Makassar: Pantai Losari & Panakkukang (Gerbang Indonesia Timur, Bugis Street Flow & Fiery Coastal 808s)",
+  "flag": "🇮🇩",
+  "currency": "IDR (Rp) / USD ($)",
+  "currencyCode": "IDR",
+  "gateways": "QRIS (Semua E-Wallet & Mobile Banking), GoPay, OVO, DANA, ShopeePay, BCA / Mandiri / BNI Virtual Account, Apple Pay, PayPal, Stripe",
+  "pro": "WAMI / LMKN",
+  "proFullName": "WAMI (Wahana Musik Indonesia) / LMKN (Lembaga Manajemen Kolektif Nasional)",
+  "proGuide": "Surat perjanjian lisensi digital PDF instan dan split sheet terverifikasi untuk musisi independen.",
+  "headline": "Beats di Makassar: Angin Pantai Losari, Identitas Bugis & Trap Pesisir Timur Indonesia",
+  "description": "Energi tak tertandingi dari gerbang Indonesia Timur: dentuman ritme pesisir, melodi minor emosional, dan bass 808 dalam untuk musisi di Makassar dan Sulawesi.",
+  "popularGenres": [
+    "Makassar Coastal Trap",
+    "Bugis Street Anthem",
+    "Timur Indonesia 808"
+  ],
+  "subClusters": []
+},
+  "id/semarang-simpang-lima": {
+  "slug": "id/semarang-simpang-lima",
+  "name": "Indonesia – Semarang: Simpang Lima & Kota Lama (Ibu Kota Jawa Tengah, Dangdut Koplo-Trap Fusion & Bouncing Kendang Drums)",
+  "flag": "🇮🇩",
+  "currency": "IDR (Rp) / USD ($)",
+  "currencyCode": "IDR",
+  "gateways": "QRIS (Semua E-Wallet & Mobile Banking), GoPay, OVO, DANA, ShopeePay, BCA / Mandiri / BNI Virtual Account, Apple Pay, PayPal, Stripe",
+  "pro": "WAMI / LMKN",
+  "proFullName": "WAMI (Wahana Musik Indonesia) / LMKN (Lembaga Manajemen Kolektif Nasional)",
+  "proGuide": "Perjanjian lisensi digital legal yang menjamin perlindungan komersial di YouTube, TikTok, dan Spotify.",
+  "headline": "Beats di Semarang: Tabuhan Kendang Koplo Mantap, Suling Merdu & Trap Pesisir Jawa",
+  "description": "Perpaduan ritmis antara tradisi pesisir Jawa Tengah dan musik modern: pola kendang koplo cepat berkecepatan 115 BPM, tiupan suling bambu, dan bass 808 panggung.",
+  "popularGenres": [
+    "Semarang Koplo Trap",
+    "Central Java Urban Folk",
+    "Simpang Lima Bounce"
+  ],
+  "subClusters": []
+},
 };
