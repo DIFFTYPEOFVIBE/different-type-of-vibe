@@ -132880,4 +132880,1296 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "1"
   ]
 },
+  {
+  "slug": "c-tangana-el-madrileno-rumba-trap",
+  "title": "C. Tangana El Madrileño Spanish Rumba-Trap & Horn Fanfares Beat",
+  "description": "Multi-platinum, historic Spanish masterpiece instrumental inspired by C. Tangana (El Madrileño, Demasiadas Mujeres, Tú Me Dejaste De Querer, Ingobernable), fusing Spanish rumba, flamenco guitars, and modern trap 808s.",
+  "targetKeywords": [
+    "c tangana type beat",
+    "el madrileno type beat",
+    "demasiadas mujeres instrumental",
+    "spanish rumba trap beat",
+    "c tangana tu me dejaste de querer beat"
+  ],
+  "heroCta": "Comprar Beat Estilo C. Tangana (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Lead Commercial Single, Stadium Anthem and High-Concept Cinematic Video",
+  "similarArtists": [
+    "C. Tangana",
+    "Alizzz",
+    "Rosalía",
+    "Kiko Veneno"
+  ],
+  "recommendedBpm": "120-128 BPM",
+  "productionTips": "Rich Spanish acoustic flamenco guitar strumming layered with passionate trumpet fanfares and a heavy modern 808 pocket.",
+  "idealVocalStyle": "Charismatic Madrid urban swagger, traditional Spanish phrasing, melodic hooks, and storytelling lyrics.",
+  "suggestedKey": "D Minor / A Minor",
+  "streamingSuitability": "Guaranteed heavy radio rotation across Los 40, Spotify Top 50 España, and international Latin playlists."
+},
+  {
+  "slug": "cruz-cafune-me-muevo-con-dios-rnb",
+  "title": "Cruz Cafuné Me Muevo Con Dios Smooth Canary R&B-Trap Beat",
+  "description": "Luxurious, introspective Canary Islands R&B-trap instrumental inspired by Cruz Cafuné (Me Muevo Con Dios, Moonlight922, Mina El Hammani, Ja Morant), with lush filtered chords and silky 808s.",
+  "targetKeywords": [
+    "cruz cafune type beat 2024",
+    "me muevo con dios instrumental",
+    "canary islands rnb trap beat",
+    "cruz cafune 922 beat",
+    "smooth spanish rnb beat"
+  ],
+  "heroCta": "Comprar Beat Estilo Cruzzi (WAV + Stems)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Late-Night Driving Single, Introspective Lyrical Masterpiece and R&B Track",
+  "similarArtists": [
+    "Cruz Cafuné",
+    "Choclock",
+    "Abhir Hathi",
+    "Maikel Delacalle"
+  ],
+  "recommendedBpm": "118-126 BPM",
+  "productionTips": "Low-pass filtered electric piano chords with smooth analog tape warble and deep, singing 808 sub-bass.",
+  "idealVocalStyle": "Silky autotuned Canary cadence, clever pop-culture and sports metaphors, and heartfelt emotional delivery.",
+  "suggestedKey": "Eb Minor / Bb Minor",
+  "streamingSuitability": "Dominates late night streaming, luxury automotive visuals, and premier Spanish urban playlists."
+},
+  {
+  "slug": "saiko-sakura-electronic-reggaeton-trap",
+  "title": "Saiko Sakura High-Energy Electronic Reggaeton & Synth-Trap Beat",
+  "description": "Chart-topping, hyper-melodic Granada electronic reggaeton and synth-trap crossover inspired by Saiko (Sakura, Polaris, Supernova, Buenas, REINA), featuring soaring lead synths and bouncy dembow groove.",
+  "targetKeywords": [
+    "saiko type beat",
+    "sakura saiko instrumental",
+    "polaris saiko type beat",
+    "electronic reggaeton trap beat",
+    "granada hyper trap beat"
+  ],
+  "heroCta": "Comprar Beat Estilo Saiko (Instant WAV)",
+  "energyLevel": "Maximum",
+  "primaryUse": "Festival Banger, Viral TikTok Hit and High-Energy Club Reggaeton Single",
+  "similarArtists": [
+    "Saiko",
+    "Mora",
+    "Feid",
+    "Quevedo"
+  ],
+  "recommendedBpm": "124-130 BPM",
+  "productionTips": "Layer bright trance supersaw synthesizer chords with syncopated dembow kicks and energetic trap 808s.",
+  "idealVocalStyle": "High-energy melodic autotune singing, emotional youth anthems, and stadium singalong choruses.",
+  "suggestedKey": "F# Minor / A Major",
+  "streamingSuitability": "Explosive viral spikes across TikTok, Spotify España #1 rotation, and massive festival crowds."
+},
+  {
+  "slug": "delaossa-la-tour-malaga-soul-boombap",
+  "title": "Delaossa Space Hammu Soulful Mediterranean Boom Bap & Vinyl Beat",
+  "description": "Evocative, soulful Mediterranean hip-hop instrumental inspired by Delaossa and Space Hammu (La Tour Liffe, Me Mudo a la Capital, Veneno, Ojos Verdes), with dusty vinyl chops and warm analog bass.",
+  "targetKeywords": [
+    "delaossa type beat",
+    "space hammu instrumental",
+    "malaga soul boombap beat",
+    "delaossa la tour liffe beat",
+    "spanish conscious hip hop beat"
+  ],
+  "heroCta": "Comprar Beat Estilo Delaossa (WAV 24-bit)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Conscious Rap Single, Poetic Visualizer and Mediterranean Street Story",
+  "similarArtists": [
+    "Delaossa",
+    "Easy-S",
+    "Rels B",
+    "Toteking"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "productionTips": "MPC-sliced vintage soul vocal chops and jazz electric guitar phrases layered over snapping acoustic snares.",
+  "idealVocalStyle": "Poetic Andalusian cadence, vivid street chronicles, relatable life lessons, and nostalgic choruses.",
+  "suggestedKey": "D Minor / G Minor",
+  "streamingSuitability": "High critical respect, dedicated organic listener replay, and essential playlist placement."
+},
+  {
+  "slug": "recycled-j-san-jorge-urban-pop-trap",
+  "title": "Recycled J San Jorge Polished Madrid Urban Pop & R&B-Trap Beat",
+  "description": "Glossy, high-production Madrid urban pop and emotional R&B-trap instrumental inspired by Recycled J (San Jorge, Casanova, Bambi, 150 Canciones), featuring silky synthesizer leads and catchy radio bounce.",
+  "targetKeywords": [
+    "recycled j type beat",
+    "madrid urban pop trap beat",
+    "casanova recycled j instrumental",
+    "recycled j san jorge beat",
+    "melodic pop rap beat spain"
+  ],
+  "heroCta": "Comprar Beat Recycled J (Instant WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Radio Pop-Rap Single, Romantic Urban Track and Commercial Video",
+  "similarArtists": [
+    "Recycled J",
+    "Natos y Waor",
+    "Rels B",
+    "Hens"
+  ],
+  "recommendedBpm": "116-125 / 130 BPM",
+  "productionTips": "Silky synthesizer textures with subtle stereo chorus over tight, punchy dance-oriented trap drums.",
+  "idealVocalStyle": "Harmonized vocal stacks, catchy radio melodies, and confident emotional delivery.",
+  "suggestedKey": "C# Minor / A Major",
+  "streamingSuitability": "Ideal for top 40 radio formatting, high-rotation Spotify editorial slots, and club DJ support."
+},
+  {
+  "slug": "flamenco-guitar-caleta-buleria-trap",
+  "title": "Andalusian Flamenco Bulería Acoustic Guitar & Modern 808 Trap Beat",
+  "description": "Authentic Andalusian cultural fusion: virtuoso flamenco guitar Bulería rasgueado skanks, hand claps (palmas), and Cajón percussion layered over heavy modern trap 808 sub-bass drops.",
+  "targetKeywords": [
+    "flamenco trap beat",
+    "buleria trap beat 808",
+    "spanish guitar rap instrumental",
+    "andalusian flamenco 808 beat",
+    "flamenco fusion hip hop beat"
+  ],
+  "heroCta": "Comprar Beat Flamenco-Trap (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Cultural Masterpiece, High-Energy Visual Anthem and Latin Festival Banger",
+  "similarArtists": [
+    "Dellafuente",
+    "C. Tangana",
+    "Maka",
+    "Morad"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "productionTips": "Live recorded Spanish nylon guitar captured in high fidelity with fast syncopated palmas claps over 808s.",
+  "idealVocalStyle": "Passionate flamenco-infused street vocals, raw emotional delivery, and defiant chorus chanting.",
+  "suggestedKey": "D Dorico / D Minor (Flamenco Phrygian Mode)",
+  "streamingSuitability": "Supreme cultural impact, viral worldwide sharing, and high-profile sync placement value."
+},
+  {
+  "slug": "madrid-m30-autopista-nocturna-drill",
+  "title": "Madrid M-30 Autopista Nocturna Fast High-Speed Spanish Drill Beat",
+  "description": "High-velocity, adrenaline-fueled nighttime Spanish drill instrumental capturing the neon lights of Madrid's M-30 ring road: icy minor key synths, rapid drill hats, and sliding 808 sub-bass.",
+  "targetKeywords": [
+    "madrid m30 drill beat",
+    "spanish night drill instrumental",
+    "madrid dark drill beat 144 bpm",
+    "sliding 808 drill espana",
+    "nocturnal highway drill beat"
+  ],
+  "heroCta": "Comprar Beat Madrid M-30 (Instant WAV)",
+  "energyLevel": "Maximum",
+  "primaryUse": "High-Speed Street Single, Gym Workout Banger and Automotive Video",
+  "similarArtists": [
+    "Morad",
+    "Beny Jr",
+    "Gazo",
+    "Central Cee"
+  ],
+  "recommendedBpm": "142-145 BPM",
+  "productionTips": "Two-octave pitch-sliding 808 portamento bends with aggressive transient-clipped rimshots and cold minor bells.",
+  "idealVocalStyle": "Fast, cold cadence, atmospheric ad-libs, and driving nocturnal street reality rhymes.",
+  "suggestedKey": "C# Minor",
+  "streamingSuitability": "Insuperable for drill playlists, automotive content creators, and urban street visuals."
+},
+  {
+  "slug": "canary-islands-playa-tropical-trap",
+  "title": "Canary Islands Playa Tropical Melodic Sunset Reggaeton-Trap Beat",
+  "description": "Sun-drenched, feel-good Atlantic island trap instrumental inspired by the Canary Islands: warm acoustic guitars, tropical synth marimbas, and relaxed melodic bounce for summer hits.",
+  "targetKeywords": [
+    "canary islands trap beat",
+    "islas canarias summer beat",
+    "playa tropical rap beat 928",
+    "quevedo cruzzi style summer beat",
+    "tropical trap beat espana"
+  ],
+  "heroCta": "Comprar Beat Islas Canarias (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Summer Radio Anthem, Beach Vacation Visuals and Festive Singles",
+  "similarArtists": [
+    "Quevedo",
+    "Cruz Cafuné",
+    "Maikel Delacalle",
+    "Rauw Alejandro"
+  ],
+  "recommendedBpm": "106-114 / 128 BPM",
+  "productionTips": "Warm tropical marimba plucks layered over syncopated dembow/afrobeat kicks and round, punchy 808s.",
+  "idealVocalStyle": "Uplifting, melodic hooks, joyful summer storytelling, and catchy crowd-pleasing choruses.",
+  "suggestedKey": "G Major / E Minor",
+  "streamingSuitability": "Heavy summer radio rotation, beach club DJ playlists, and viral seasonal social media trends."
+},
+  {
+  "slug": "spanish-flamenco-cajon-palmas-hip-hop",
+  "title": "Flamenco Cajón & Palmas Acoustic Street Hip-Hop Boom Bap Beat",
+  "description": "Dignified, organic cultural hip-hop honoring traditional Spanish percussion: live acoustic Flamenco Cajón box drum and rhythmic hand claps (palmas) layered over punchy 90 BPM boom bap snares.",
+  "targetKeywords": [
+    "flamenco cajon hip hop beat",
+    "palmas flamenco rap beat",
+    "organic spanish boom bap beat",
+    "cajon y palmas rap instrumental",
+    "acoustic flamenco boombap"
+  ],
+  "heroCta": "Comprar Beat Cajón y Palmas (WAV + Stems)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Conscious Album Track, Cultural Cypher and Traditional Street Video",
+  "similarArtists": [
+    "Kase.O",
+    "Delaossa",
+    "Ayax y Prok",
+    "Toteking"
+  ],
+  "recommendedBpm": "88-93 BPM",
+  "productionTips": "Acoustic Cajón wood resonance captured with dynamic low-end punch layered with syncopated palmas claps.",
+  "idealVocalStyle": "Dense, literary rhyme schemes, philosophical street observations, and classic cadence.",
+  "suggestedKey": "A Minor / D Minor",
+  "streamingSuitability": "Cherished by hip-hop purists, cultural platforms, and conscious rap audiences across Spain and Latin America."
+},
+  {
+  "slug": "valencia-mediterranean-sunset-chillhop",
+  "title": "Valencia Malvarrosa Mediterranean Sunset Relaxing Lofi Chillhop Beat",
+  "description": "Peaceful, golden hour Mediterranean soundtrack inspired by Valencia's Malvarrosa beach: warm vintage Rhodes electric piano, gentle ocean wave ambiences, and unquantized dusty vinyl drums.",
+  "targetKeywords": [
+    "valencia lofi beat",
+    "malvarrosa chillhop instrumental",
+    "mediterranean sunset rap beat",
+    "spanish lofi hip hop beat",
+    "valencia relaxing trap beat"
+  ],
+  "heroCta": "Comprar Beat Valencia Lofi (Instant WAV)",
+  "energyLevel": "Low-Medium",
+  "primaryUse": "Midnight Car Cruising, Study Lofi Stream and Late-Night Beach Vibe",
+  "similarArtists": [
+    "Rels B",
+    "Sen Senra",
+    "Tom Misch",
+    "C. Tangana"
+  ],
+  "recommendedBpm": "82-88 BPM",
+  "productionTips": "Warm tape wow-and-flutter modulation on electric piano with vintage vinyl hiss and muted trumpet textures.",
+  "idealVocalStyle": "Laid-back spoken word, smooth soul singing, and intimate introspective poetry.",
+  "suggestedKey": "D Minor / F Major",
+  "streamingSuitability": "Continuous evergreen stream counts on Spotify Jazz Rap, study lofi, and chill playlists."
+},
+  {
+  "slug": "galician-rainy-harbor-crying-guitar-trap",
+  "title": "Galician Atlantic Rainy Harbor Crying Electric Guitar Sad Trap Beat",
+  "description": "Melancholic, atmospheric Atlantic coastal trap inspired by the rainy streets of Vigo and A Coruña: crying reverb-drenched electric guitars, somber minor piano progressions, and deep 808s.",
+  "targetKeywords": [
+    "galician sad trap beat",
+    "vigo rainy guitar rap beat",
+    "coruna melancholic trap instrumental",
+    "sad spanish guitar beat 808",
+    "atlantic coastal sad rap beat"
+  ],
+  "heroCta": "Comprar Beat Guitarra Triste (WAV 24-bit)",
+  "energyLevel": "Medium",
+  "primaryUse": "Heartbreak Single, Vulnerable Personal Story and Acoustic Rap Video",
+  "similarArtists": [
+    "Sen Senra",
+    "t-low",
+    "Lil Peep",
+    "Juice WRLD"
+  ],
+  "recommendedBpm": "120-130 BPM",
+  "productionTips": "Layered overdriven electric guitar picking with deep hall reverb and punchy 808 sub-bass drops.",
+  "idealVocalStyle": "Raw emotional singing, honest lyrical storytelling, and heartfelt autotune choruses.",
+  "suggestedKey": "E Minor / G Major",
+  "streamingSuitability": "Extreme emotional listener loyalty across acoustic rap, heartbreak, and sad trap playlists."
+},
+  {
+  "slug": "barcelona-metro-linea-roja-dark-drill",
+  "title": "Barcelona Metro Línea Roja Subterranean Industrial Cold Drill Beat",
+  "description": "Cinematic, dark nighttime Spanish drill instrumental capturing the subterranean pulse of Barcelona's Línea 1 (Roja): screeching train rail textures, icy synth bells, and menacing pitch-sliding sub glides.",
+  "targetKeywords": [
+    "barcelona metro drill beat",
+    "spanish dark drill instrumental",
+    "linea roja drill beat barcelona",
+    "subterranean 808 drill espana",
+    "cold piano drill cataluna"
+  ],
+  "heroCta": "Comprar Beat Barcelona Drill (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Dark Street Single, Subway Visuals and Hard Gym Workout Track",
+  "similarArtists": [
+    "Morad",
+    "Beny Jr",
+    "Central Cee",
+    "Gazo"
+  ],
+  "recommendedBpm": "141-144 BPM",
+  "productionTips": "Grand piano with tape degradation layered over deep portamento sub-bass drops and clipped drill rimshots.",
+  "idealVocalStyle": "Cold, gravelly street reality delivery, menacing punchlines, and raw atmospheric ad-libs.",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "Essential for drill playlists, automotive content creators, and urban street visuals."
+},
+  {
+  "slug": "bases-de-rap-espanol-baratas-bizum",
+  "title": "Bases de Rap Español Baratas desde 25€ (Pago por Bizum & Apple Pay)",
+  "description": "Instrumentales profesionales de rap y trap en español desde 25€ con pago instantáneo sin fricción mediante Bizum, Apple Pay y tarjeta de débito en euros (€).",
+  "targetKeywords": [
+    "bases de rap espanol baratas bizum",
+    "comprar bases rap espana bizum",
+    "instrumentales trap baratas euros",
+    "beat rap espanol 25 euros bizum"
+  ],
+  "heroCta": "Ver Bases Baratas desde 25€ (Bizum)",
+  "energyLevel": "Variable",
+  "primaryUse": "Mixtapes, Singles Debut y Grabaciones en Home Studio con Licencia Completa",
+  "similarArtists": [
+    "Raperos Independientes Españoles",
+    "Creadores de TikTok y YouTube"
+  ],
+  "recommendedBpm": "120-144 BPM",
+  "productionTips": "Pre-mezcladas y masterizadas con amplio margen dinámico para grabar voces en home studio.",
+  "idealVocalStyle": "Adaptable para canto melódico con autotune, barras callejeras directas y flows rápidos.",
+  "suggestedKey": "Todas las tonalidades mayores y menores",
+  "streamingSuitability": "Licencia comercial que cubre hasta 100.000 reproducciones en Spotify, Apple Music y YouTube."
+},
+  {
+  "slug": "bases-drill-espanol-stems-wav-descarga",
+  "title": "Bases de Drill Español con Pistas Separadas Stems (Calidad Estudio WAV 24-Bit)",
+  "description": "Instrumentales de drill callejero español con bajos 808 deslizantes, entregadas con todas las pistas de audio multipista separadas (stems WAV) para mezcla profesional en estudio.",
+  "targetKeywords": [
+    "bases drill espanol stems wav descarga",
+    "drill espanol pistas separadas",
+    "comprar bases drill espana wav 24 bit",
+    "sliding 808 drill beat espana"
+  ],
+  "heroCta": "Descargar Bases Drill + Stems WAV",
+  "energyLevel": "Very High",
+  "primaryUse": "Grabación en Estudio Profesional, Mezcla Multipista y Dolby Atmos",
+  "similarArtists": [
+    "Morad",
+    "Beny Jr",
+    "Central Cee",
+    "Gazo"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Cada instrumento exportado en seco con pistas de retorno de efectos separadas para control total.",
+  "idealVocalStyle": "Barras callejeras afiladas, métricas de drill aceleradas y entrega contundente.",
+  "suggestedKey": "Mi menor / Do sostenido menor",
+  "streamingSuitability": "Reproducciones ilimitadas y derechos de emisión en radio y videoclips incluidos."
+},
+  {
+  "slug": "bases-melodicas-piano-rap-espanol",
+  "title": "Bases Melódicas de Piano Rap Español (WAV 24-Bit & Derechos Comerciales)",
+  "description": "Producciones emotivas de rap español con arreglos de piano acústico profundo, cuerdas sentidas y bajos cálidos, listas para subir a Spotify y Apple Music en formato WAV de 24 bits.",
+  "targetKeywords": [
+    "bases melodicas piano rap espanol",
+    "piano rap beat espana wav",
+    "bases de rap triste piano melancolico",
+    "comprar instrumental piano rap espanol"
+  ],
+  "heroCta": "Escuchar Bases Melódicas de Piano",
+  "energyLevel": "High",
+  "primaryUse": "Single Comercial Principal, Videoclip Emocional y Storytelling de Barrio",
+  "similarArtists": [
+    "Delaossa",
+    "Cruz Cafuné",
+    "Recycled J",
+    "Rels B"
+  ],
+  "recommendedBpm": "126-136 BPM",
+  "productionTips": "Pianos acústicos saturados en cinta analógica con pegada limpia en agudos y subgrave cálido.",
+  "idealVocalStyle": "Letras sinceras y vulnerables, estribillos melódicos y reflexiones personales de calle.",
+  "suggestedKey": "Fa menor / La menor / Re menor",
+  "streamingSuitability": "Distribución comercial ilimitada en plataformas digitales con 100% de royalties master para el artista."
+},
+  {
+  "slug": "contrato-licencia-beat-sgae-pdf",
+  "title": "Contrato de Licencia Beat SGAE & Cede de Derechos (PDF Firmado Inmediato)",
+  "description": "Contrato legal de producción musical vinculante conforme a la Ley de Propiedad Intelectual española y normativa de la SGAE: descarga tu contrato de licencia y hoja de reparto (split sheet) al instante tras la compra.",
+  "targetKeywords": [
+    "contrato licencia beat sgae pdf",
+    "contrato cesion derechos beatmaker espana",
+    "split sheet sgae descarga inmediata",
+    "registro sgae instrumental rap"
+  ],
+  "heroCta": "Ver Contrato de Licencia SGAE (PDF)",
+  "energyLevel": "N/A",
+  "primaryUse": "Registro en SGAE, Reparto de Derechos Editoriales y Protección Jurídica Integral",
+  "similarArtists": [
+    "Onzieb",
+    "Autores y Compositores Registrados en SGAE"
+  ],
+  "recommendedBpm": "Todos los Tempos",
+  "productionTips": "Formulado para garantizar la seguridad legal absoluta del artista y los derechohabientes.",
+  "idealVocalStyle": "Válido para todos los géneros musicales, grabaciones de voz y lanzamientos comerciales.",
+  "suggestedKey": "Todas las Tonalidades",
+  "streamingSuitability": "Protección legal definitiva para distribución comercial mundial y sincronización audiovisual."
+},
+  {
+  "slug": "comprar-bases-bizum-espana-rap",
+  "title": "Comprar Bases de Rap en España por Bizum (Pago Móvil Inmediato en Euros €)",
+  "description": "Compra instrumentales premium sin marcas de voz al instante utilizando el sistema de pago favorito de España: Bizum con confirmación automática y descarga digital inmediata en euros (€).",
+  "targetKeywords": [
+    "comprar bases bizum espana rap",
+    "pagar beats con bizum",
+    "tienda de beats espana bizum",
+    "instrumentales rap pago movil bizum"
+  ],
+  "heroCta": "Comprar Bases por Bizum",
+  "energyLevel": "All Levels",
+  "primaryUse": "Compra Inmediata Sin Fricción para Raperos y Estudios en España",
+  "similarArtists": [
+    "Raperos y Productores Urbanos Españoles"
+  ],
+  "recommendedBpm": "80-160 BPM",
+  "productionTips": "Generación automática del enlace de descarga tras confirmar el pago por Bizum.",
+  "idealVocalStyle": "Compatibilidad universal con cualquier estilo vocal o métrica.",
+  "suggestedKey": "Todas las Tonalidades",
+  "streamingSuitability": "Licencia comercial directa válida para subir inmediatamente a todas las plataformas digitales."
+},
+  {
+  "slug": "pack-5-bases-album-rap-espana-descuento",
+  "title": "Pack 5 Bases para Álbum y EP de Rap Español (40% de Descuento en Euros €)",
+  "description": "El paquete definitivo para artistas independientes que preparan un proyecto completo (EP, mixtape o álbum): elige 5 o 10 instrumentales de todo el catálogo con hasta un 40% de descuento unificado.",
+  "targetKeywords": [
+    "pack 5 bases album rap espana descuento",
+    "pack instrumentales ep rap rebaja",
+    "comprar bases en lote espana euros",
+    "bundle beats descuento espana rap"
+  ],
+  "heroCta": "Conseguir Pack Álbum (40% de Descuento)",
+  "energyLevel": "Variable",
+  "primaryUse": "Producción Completa de EP o Álbum, Dirección Sonora Coherente y Lanzamientos Periódicos",
+  "similarArtists": [
+    "Raperos y Colectivos Independientes en España"
+  ],
+  "recommendedBpm": "85-145 BPM",
+  "productionTips": "Curaduría armónica y dinámica coordinada para garantizar una experiencia de escucha fluida en todo tu proyecto.",
+  "idealVocalStyle": "Lienzo amplio para desplegar toda la variedad métrica y melódica del artista.",
+  "suggestedKey": "Tonalidades Complementarias",
+  "streamingSuitability": "Licencia comercial única y global que cubre todas las pistas de tu proyecto a la vez."
+},
+  {
+  "slug": "productor-musical-espana-whatsapp-onzieb",
+  "title": "Productor Musical Exclusivo para Artistas en España (WhatsApp con Onzieb)",
+  "description": "Trabaja directamente con el productor musical Onzieb por WhatsApp para encargar instrumentales a medida: cambios de tono, adaptaciones de estructura, mezclas de pistas y arreglos personalizados.",
+  "targetKeywords": [
+    "productor musical espana whatsapp onzieb",
+    "onzieb productor rap espana",
+    "encargar base personalizada espana",
+    "beatmaker espana contacto whatsapp"
+  ],
+  "heroCta": "Hablar con Onzieb por WhatsApp",
+  "energyLevel": "Personalizado",
+  "primaryUse": "Producción Exclusiva a Medida, Creación de Identidad Sonora y Singles Principales",
+  "similarArtists": [
+    "Onzieb",
+    "Productores Urbanos de Primer Nivel en España"
+  ],
+  "recommendedBpm": "Ajustado a la respiración y ritmo natural del artista",
+  "productionTips": "Ajustes de estructura y mezcla en tiempo real mediante notas de voz e intercambio de stems en WhatsApp.",
+  "idealVocalStyle": "Diseñado a medida para resaltar el timbre, la fuerza y el rango dinámico del vocalista.",
+  "suggestedKey": "Tono Personalizado",
+  "streamingSuitability": "Contrato de cesión exclusiva con 100% de derechos master y monetización sin límites."
+},
+  {
+  "slug": "bases-flamenco-trap-guitarras-espanolas",
+  "title": "Bases de Flamenco-Trap con Guitarras Españolas y Palmas (Sonido del Sur)",
+  "description": "Fusión única de flamenco tradicional andaluz y trap contemporáneo: guitarras calés rasgueadas a compás, palmas vivas y bajos 808 pesados listos para voces sentidas y rimas callejeras.",
+  "targetKeywords": [
+    "bases flamenco trap guitarras espanolas",
+    "beat flamenco rap 808",
+    "instrumental guitarra espanola trap",
+    "flamenco fusion rap beat wav"
+  ],
+  "heroCta": "Escuchar Bases Flamenco-Trap",
+  "energyLevel": "Very High",
+  "primaryUse": "Single de Fusión Flamenca, Videoclip de Alto Impacto y Concierto",
+  "similarArtists": [
+    "Dellafuente",
+    "C. Tangana",
+    "Maka",
+    "Morad"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "productionTips": "Guitarra flamenca española grabada en estéreo con calidez analógica y palmas a compás sobre 808s demoledores.",
+  "idealVocalStyle": "Quejíos flamencos, rimas con sentimiento de calle y estribillos apasionados.",
+  "suggestedKey": "Re Dórico / Re Menor",
+  "streamingSuitability": "Inmejorable para listas de trap español, flamenco urbano y difusión viral en redes sociales."
+},
+  {
+  "slug": "bases-reggaeton-trap-canario-quevedo",
+  "title": "Bases de Reggaetón-Trap Canario Comercial (Sonido 922/928 Hitmaker)",
+  "description": "Instrumentales comerciales de reggaetón y trap canario con melodías pegajosas de sintetizador, dembows bailables y bajos 808 cálidos diseñados para sonar en discotecas y radios.",
+  "targetKeywords": [
+    "bases reggaeton trap canario quevedo",
+    "beat reggaeton canarias 928",
+    "instrumental pop urbano espana",
+    "quevedo style reggaeton beat"
+  ],
+  "heroCta": "Descubrir Beats Canarios Comerciales",
+  "energyLevel": "High",
+  "primaryUse": "Éxito Comercial para Radio, Tema Bailable de Club y Hit para TikTok",
+  "similarArtists": [
+    "Quevedo",
+    "Saiko",
+    "Cruz Cafuné",
+    "Maikel Delacalle"
+  ],
+  "recommendedBpm": "106-114 / 128 BPM",
+  "productionTips": "Sintetizadores brillantes y marimbas caribeñas montadas sobre un dembow suave pero contundente.",
+  "idealVocalStyle": "Estribillos pegadizos, melodías vocales bailables y letras de fiesta o desamor.",
+  "suggestedKey": "Sol Mayor / Mi Menor",
+  "streamingSuitability": "Excelente rendimiento en listas de éxitos de Spotify España, radio fórmulas y pistas de baile."
+},
+  {
+  "slug": "drum-kit-drill-espanol-gratis-wav",
+  "title": "Drum Kit de Drill & Trap Español Gratis (Samples WAV 24-Bit & Bajos 808)",
+  "description": "Descarga gratis nuestro pack de sonidos para beatmakers y productores: 25 bajos 808 afinados, bombos con pegada, rimshots afilados y palmas flamencas en formato WAV de 24 bits de estudio.",
+  "targetKeywords": [
+    "drum kit drill espanol gratis wav",
+    "libreria de sonidos trap espana gratis",
+    "808 samples descarga gratuita rap",
+    "sonidos drill espana fl studio"
+  ],
+  "heroCta": "Descargar Drum Kit Gratis (ZIP)",
+  "energyLevel": "High",
+  "primaryUse": "Producción Musical en Home Studio, Beatmaking en FL Studio, Ableton y Logic Pro",
+  "similarArtists": [
+    "Beatmakers Independientes Españoles",
+    "Productores Urbanos Emergentes"
+  ],
+  "recommendedBpm": "Compatible con todos los tempos",
+  "productionTips": "Sonidos one-shot 100% libres de derechos pre-masterizados con pegada analógica contundente.",
+  "idealVocalStyle": "Base rítmica sólida para la creación de instrumentales profesionales con carácter español.",
+  "suggestedKey": "Afinado en Do (C) para una transposición inmediata en tu DAW",
+  "streamingSuitability": "Libre de derechos para la publicación de temas musicales comerciales y venta de beats."
+},
+  {
+  "slug": "madrid-vallecas-spanish-trap-808",
+  "name": "Vallecas Spanish Trap 808 Beats",
+  "category": "scene",
+  "badge": "Vallecas Spanish Trap",
+  "headline": "Vallecas (Madrid Sur & Cuna del Rap Callejero) Spanish Trap 808 Beats: Pistas WAV 24-Bit & Pago por Bizum",
+  "description": "Bajos 808 demoledores deslizantes, sintetizadores menores oscuros y cajas afiladas diseñadas para MCs en Vallecas.",
+  "targetArtists": [
+    "Artistas de Vallecas",
+    "Comunidad de Rap Español",
+    "Escena Urbana de España"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "Re-Menor / Do-Menor",
+  "vibeAttributes": [
+    "Vallecas",
+    "Spanish Trap",
+    "Pago Bizum (EUR €)",
+    "100% Conforme SGAE"
+  ],
+  "popularGenres": [
+    "Spanish Trap 808 Beats",
+    "Spanish Trap",
+    "Flamenco Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "madrid-vallecas-madrid-street-drill",
+  "name": "Vallecas Madrid Street Drill Beats",
+  "category": "scene",
+  "badge": "Vallecas Madrid Drill",
+  "headline": "Vallecas (Madrid Sur & Cuna del Rap Callejero) Madrid Street Drill Beats: Pistas WAV 24-Bit & Pago por Bizum",
+  "description": "Pianos fríos melancólicos, hi-hats ultra rápidos y bajos en portamento creados para artistas de Vallecas.",
+  "targetArtists": [
+    "Artistas de Vallecas",
+    "Comunidad de Rap Español",
+    "Escena Urbana de España"
+  ],
+  "recommendedBpm": "140-145 BPM",
+  "recommendedKey": "Mi-Menor / Do#-Menor",
+  "vibeAttributes": [
+    "Vallecas",
+    "Madrid Drill",
+    "Pago Bizum (EUR €)",
+    "100% Conforme SGAE"
+  ],
+  "popularGenres": [
+    "Madrid Street Drill Beats",
+    "Spanish Trap",
+    "Flamenco Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "madrid-vallecas-flamenco-trap-fusion",
+  "name": "Vallecas Flamenco Trap Fusion Beats",
+  "category": "scene",
+  "badge": "Vallecas Flamenco Trap",
+  "headline": "Vallecas (Madrid Sur & Cuna del Rap Callejero) Flamenco Trap Fusion Beats: Pistas WAV 24-Bit & Pago por Bizum",
+  "description": "Guitarras españolas rasgueadas, palmas vivas a compás y subgraves pesados para vocalistas en Vallecas.",
+  "targetArtists": [
+    "Artistas de Vallecas",
+    "Comunidad de Rap Español",
+    "Escena Urbana de España"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "Re-Dórico / La-Menor",
+  "vibeAttributes": [
+    "Vallecas",
+    "Flamenco Trap",
+    "Pago Bizum (EUR €)",
+    "100% Conforme SGAE"
+  ],
+  "popularGenres": [
+    "Flamenco Trap Fusion Beats",
+    "Spanish Trap",
+    "Flamenco Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "madrid-vallecas-spanish-classic-boom-bap",
+  "name": "Vallecas Spanish Classic Boom Bap",
+  "category": "scene",
+  "badge": "Vallecas Boom Bap España",
+  "headline": "Vallecas (Madrid Sur & Cuna del Rap Callejero) Spanish Classic Boom Bap: Pistas WAV 24-Bit & Pago por Bizum",
+  "description": "Muestras de vinilo con textura, bombos analógicos con pegada y bajos redondos para los puristas del hip-hop en Vallecas.",
+  "targetArtists": [
+    "Artistas de Vallecas",
+    "Comunidad de Rap Español",
+    "Escena Urbana de España"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "Si-Menor / Re-Menor",
+  "vibeAttributes": [
+    "Vallecas",
+    "Boom Bap España",
+    "Pago Bizum (EUR €)",
+    "100% Conforme SGAE"
+  ],
+  "popularGenres": [
+    "Spanish Classic Boom Bap",
+    "Spanish Trap",
+    "Flamenco Trap"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "barcelona-raval-spanish-trap-808",
+  "name": "El Raval Spanish Trap 808 Beats",
+  "category": "scene",
+  "badge": "El Raval Spanish Trap",
+  "headline": "El Raval (Barcelona Costera & Trap Internacional) Spanish Trap 808 Beats: Pistas WAV 24-Bit & Pago por Bizum",
+  "description": "Bajos 808 demoledores deslizantes, sintetizadores menores oscuros y cajas afiladas diseñadas para MCs en El Raval.",
+  "targetArtists": [
+    "Artistas de El Raval",
+    "Comunidad de Rap Español",
+    "Escena Urbana de España"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "Re-Menor / Do-Menor",
+  "vibeAttributes": [
+    "El Raval",
+    "Spanish Trap",
+    "Pago Bizum (EUR €)",
+    "100% Conforme SGAE"
+  ],
+  "popularGenres": [
+    "Spanish Trap 808 Beats",
+    "Spanish Trap",
+    "Flamenco Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "barcelona-raval-madrid-street-drill",
+  "name": "El Raval Madrid Street Drill Beats",
+  "category": "scene",
+  "badge": "El Raval Madrid Drill",
+  "headline": "El Raval (Barcelona Costera & Trap Internacional) Madrid Street Drill Beats: Pistas WAV 24-Bit & Pago por Bizum",
+  "description": "Pianos fríos melancólicos, hi-hats ultra rápidos y bajos en portamento creados para artistas de El Raval.",
+  "targetArtists": [
+    "Artistas de El Raval",
+    "Comunidad de Rap Español",
+    "Escena Urbana de España"
+  ],
+  "recommendedBpm": "140-145 BPM",
+  "recommendedKey": "Mi-Menor / Do#-Menor",
+  "vibeAttributes": [
+    "El Raval",
+    "Madrid Drill",
+    "Pago Bizum (EUR €)",
+    "100% Conforme SGAE"
+  ],
+  "popularGenres": [
+    "Madrid Street Drill Beats",
+    "Spanish Trap",
+    "Flamenco Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "barcelona-raval-flamenco-trap-fusion",
+  "name": "El Raval Flamenco Trap Fusion Beats",
+  "category": "scene",
+  "badge": "El Raval Flamenco Trap",
+  "headline": "El Raval (Barcelona Costera & Trap Internacional) Flamenco Trap Fusion Beats: Pistas WAV 24-Bit & Pago por Bizum",
+  "description": "Guitarras españolas rasgueadas, palmas vivas a compás y subgraves pesados para vocalistas en El Raval.",
+  "targetArtists": [
+    "Artistas de El Raval",
+    "Comunidad de Rap Español",
+    "Escena Urbana de España"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "Re-Dórico / La-Menor",
+  "vibeAttributes": [
+    "El Raval",
+    "Flamenco Trap",
+    "Pago Bizum (EUR €)",
+    "100% Conforme SGAE"
+  ],
+  "popularGenres": [
+    "Flamenco Trap Fusion Beats",
+    "Spanish Trap",
+    "Flamenco Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "barcelona-raval-spanish-classic-boom-bap",
+  "name": "El Raval Spanish Classic Boom Bap",
+  "category": "scene",
+  "badge": "El Raval Boom Bap España",
+  "headline": "El Raval (Barcelona Costera & Trap Internacional) Spanish Classic Boom Bap: Pistas WAV 24-Bit & Pago por Bizum",
+  "description": "Muestras de vinilo con textura, bombos analógicos con pegada y bajos redondos para los puristas del hip-hop en El Raval.",
+  "targetArtists": [
+    "Artistas de El Raval",
+    "Comunidad de Rap Español",
+    "Escena Urbana de España"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "Si-Menor / Re-Menor",
+  "vibeAttributes": [
+    "El Raval",
+    "Boom Bap España",
+    "Pago Bizum (EUR €)",
+    "100% Conforme SGAE"
+  ],
+  "popularGenres": [
+    "Spanish Classic Boom Bap",
+    "Spanish Trap",
+    "Flamenco Trap"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "las-palmas-spanish-trap-808",
+  "name": "Las Palmas Spanish Trap 808 Beats",
+  "category": "scene",
+  "badge": "Las Palmas Spanish Trap",
+  "headline": "Las Palmas (Gran Canaria & Hitmakers del 928) Spanish Trap 808 Beats: Pistas WAV 24-Bit & Pago por Bizum",
+  "description": "Bajos 808 demoledores deslizantes, sintetizadores menores oscuros y cajas afiladas diseñadas para MCs en Las Palmas.",
+  "targetArtists": [
+    "Artistas de Las Palmas",
+    "Comunidad de Rap Español",
+    "Escena Urbana de España"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "Re-Menor / Do-Menor",
+  "vibeAttributes": [
+    "Las Palmas",
+    "Spanish Trap",
+    "Pago Bizum (EUR €)",
+    "100% Conforme SGAE"
+  ],
+  "popularGenres": [
+    "Spanish Trap 808 Beats",
+    "Spanish Trap",
+    "Flamenco Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "las-palmas-madrid-street-drill",
+  "name": "Las Palmas Madrid Street Drill Beats",
+  "category": "scene",
+  "badge": "Las Palmas Madrid Drill",
+  "headline": "Las Palmas (Gran Canaria & Hitmakers del 928) Madrid Street Drill Beats: Pistas WAV 24-Bit & Pago por Bizum",
+  "description": "Pianos fríos melancólicos, hi-hats ultra rápidos y bajos en portamento creados para artistas de Las Palmas.",
+  "targetArtists": [
+    "Artistas de Las Palmas",
+    "Comunidad de Rap Español",
+    "Escena Urbana de España"
+  ],
+  "recommendedBpm": "140-145 BPM",
+  "recommendedKey": "Mi-Menor / Do#-Menor",
+  "vibeAttributes": [
+    "Las Palmas",
+    "Madrid Drill",
+    "Pago Bizum (EUR €)",
+    "100% Conforme SGAE"
+  ],
+  "popularGenres": [
+    "Madrid Street Drill Beats",
+    "Spanish Trap",
+    "Flamenco Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "las-palmas-flamenco-trap-fusion",
+  "name": "Las Palmas Flamenco Trap Fusion Beats",
+  "category": "scene",
+  "badge": "Las Palmas Flamenco Trap",
+  "headline": "Las Palmas (Gran Canaria & Hitmakers del 928) Flamenco Trap Fusion Beats: Pistas WAV 24-Bit & Pago por Bizum",
+  "description": "Guitarras españolas rasgueadas, palmas vivas a compás y subgraves pesados para vocalistas en Las Palmas.",
+  "targetArtists": [
+    "Artistas de Las Palmas",
+    "Comunidad de Rap Español",
+    "Escena Urbana de España"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "Re-Dórico / La-Menor",
+  "vibeAttributes": [
+    "Las Palmas",
+    "Flamenco Trap",
+    "Pago Bizum (EUR €)",
+    "100% Conforme SGAE"
+  ],
+  "popularGenres": [
+    "Flamenco Trap Fusion Beats",
+    "Spanish Trap",
+    "Flamenco Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "las-palmas-spanish-classic-boom-bap",
+  "name": "Las Palmas Spanish Classic Boom Bap",
+  "category": "scene",
+  "badge": "Las Palmas Boom Bap España",
+  "headline": "Las Palmas (Gran Canaria & Hitmakers del 928) Spanish Classic Boom Bap: Pistas WAV 24-Bit & Pago por Bizum",
+  "description": "Muestras de vinilo con textura, bombos analógicos con pegada y bajos redondos para los puristas del hip-hop en Las Palmas.",
+  "targetArtists": [
+    "Artistas de Las Palmas",
+    "Comunidad de Rap Español",
+    "Escena Urbana de España"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "Si-Menor / Re-Menor",
+  "vibeAttributes": [
+    "Las Palmas",
+    "Boom Bap España",
+    "Pago Bizum (EUR €)",
+    "100% Conforme SGAE"
+  ],
+  "popularGenres": [
+    "Spanish Classic Boom Bap",
+    "Spanish Trap",
+    "Flamenco Trap"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "vigo-costa-spanish-trap-808",
+  "name": "Vigo Spanish Trap 808 Beats",
+  "category": "scene",
+  "badge": "Vigo Spanish Trap",
+  "headline": "Vigo (Rías Baixas & Trap Melódico Atlántico) Spanish Trap 808 Beats: Pistas WAV 24-Bit & Pago por Bizum",
+  "description": "Bajos 808 demoledores deslizantes, sintetizadores menores oscuros y cajas afiladas diseñadas para MCs en Vigo.",
+  "targetArtists": [
+    "Artistas de Vigo",
+    "Comunidad de Rap Español",
+    "Escena Urbana de España"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "Re-Menor / Do-Menor",
+  "vibeAttributes": [
+    "Vigo",
+    "Spanish Trap",
+    "Pago Bizum (EUR €)",
+    "100% Conforme SGAE"
+  ],
+  "popularGenres": [
+    "Spanish Trap 808 Beats",
+    "Spanish Trap",
+    "Flamenco Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "vigo-costa-madrid-street-drill",
+  "name": "Vigo Madrid Street Drill Beats",
+  "category": "scene",
+  "badge": "Vigo Madrid Drill",
+  "headline": "Vigo (Rías Baixas & Trap Melódico Atlántico) Madrid Street Drill Beats: Pistas WAV 24-Bit & Pago por Bizum",
+  "description": "Pianos fríos melancólicos, hi-hats ultra rápidos y bajos en portamento creados para artistas de Vigo.",
+  "targetArtists": [
+    "Artistas de Vigo",
+    "Comunidad de Rap Español",
+    "Escena Urbana de España"
+  ],
+  "recommendedBpm": "140-145 BPM",
+  "recommendedKey": "Mi-Menor / Do#-Menor",
+  "vibeAttributes": [
+    "Vigo",
+    "Madrid Drill",
+    "Pago Bizum (EUR €)",
+    "100% Conforme SGAE"
+  ],
+  "popularGenres": [
+    "Madrid Street Drill Beats",
+    "Spanish Trap",
+    "Flamenco Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "vigo-costa-flamenco-trap-fusion",
+  "name": "Vigo Flamenco Trap Fusion Beats",
+  "category": "scene",
+  "badge": "Vigo Flamenco Trap",
+  "headline": "Vigo (Rías Baixas & Trap Melódico Atlántico) Flamenco Trap Fusion Beats: Pistas WAV 24-Bit & Pago por Bizum",
+  "description": "Guitarras españolas rasgueadas, palmas vivas a compás y subgraves pesados para vocalistas en Vigo.",
+  "targetArtists": [
+    "Artistas de Vigo",
+    "Comunidad de Rap Español",
+    "Escena Urbana de España"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "Re-Dórico / La-Menor",
+  "vibeAttributes": [
+    "Vigo",
+    "Flamenco Trap",
+    "Pago Bizum (EUR €)",
+    "100% Conforme SGAE"
+  ],
+  "popularGenres": [
+    "Flamenco Trap Fusion Beats",
+    "Spanish Trap",
+    "Flamenco Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "vigo-costa-spanish-classic-boom-bap",
+  "name": "Vigo Spanish Classic Boom Bap",
+  "category": "scene",
+  "badge": "Vigo Boom Bap España",
+  "headline": "Vigo (Rías Baixas & Trap Melódico Atlántico) Spanish Classic Boom Bap: Pistas WAV 24-Bit & Pago por Bizum",
+  "description": "Muestras de vinilo con textura, bombos analógicos con pegada y bajos redondos para los puristas del hip-hop en Vigo.",
+  "targetArtists": [
+    "Artistas de Vigo",
+    "Comunidad de Rap Español",
+    "Escena Urbana de España"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "Si-Menor / Re-Menor",
+  "vibeAttributes": [
+    "Vigo",
+    "Boom Bap España",
+    "Pago Bizum (EUR €)",
+    "100% Conforme SGAE"
+  ],
+  "popularGenres": [
+    "Spanish Classic Boom Bap",
+    "Spanish Trap",
+    "Flamenco Trap"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "bilbao-bizkaia-spanish-trap-808",
+  "name": "Bilbao Spanish Trap 808 Beats",
+  "category": "scene",
+  "badge": "Bilbao Spanish Trap",
+  "headline": "Bilbao (Bizkaia Industrial & Boom Bap de Ría) Spanish Trap 808 Beats: Pistas WAV 24-Bit & Pago por Bizum",
+  "description": "Bajos 808 demoledores deslizantes, sintetizadores menores oscuros y cajas afiladas diseñadas para MCs en Bilbao.",
+  "targetArtists": [
+    "Artistas de Bilbao",
+    "Comunidad de Rap Español",
+    "Escena Urbana de España"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "Re-Menor / Do-Menor",
+  "vibeAttributes": [
+    "Bilbao",
+    "Spanish Trap",
+    "Pago Bizum (EUR €)",
+    "100% Conforme SGAE"
+  ],
+  "popularGenres": [
+    "Spanish Trap 808 Beats",
+    "Spanish Trap",
+    "Flamenco Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "bilbao-bizkaia-madrid-street-drill",
+  "name": "Bilbao Madrid Street Drill Beats",
+  "category": "scene",
+  "badge": "Bilbao Madrid Drill",
+  "headline": "Bilbao (Bizkaia Industrial & Boom Bap de Ría) Madrid Street Drill Beats: Pistas WAV 24-Bit & Pago por Bizum",
+  "description": "Pianos fríos melancólicos, hi-hats ultra rápidos y bajos en portamento creados para artistas de Bilbao.",
+  "targetArtists": [
+    "Artistas de Bilbao",
+    "Comunidad de Rap Español",
+    "Escena Urbana de España"
+  ],
+  "recommendedBpm": "140-145 BPM",
+  "recommendedKey": "Mi-Menor / Do#-Menor",
+  "vibeAttributes": [
+    "Bilbao",
+    "Madrid Drill",
+    "Pago Bizum (EUR €)",
+    "100% Conforme SGAE"
+  ],
+  "popularGenres": [
+    "Madrid Street Drill Beats",
+    "Spanish Trap",
+    "Flamenco Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "bilbao-bizkaia-flamenco-trap-fusion",
+  "name": "Bilbao Flamenco Trap Fusion Beats",
+  "category": "scene",
+  "badge": "Bilbao Flamenco Trap",
+  "headline": "Bilbao (Bizkaia Industrial & Boom Bap de Ría) Flamenco Trap Fusion Beats: Pistas WAV 24-Bit & Pago por Bizum",
+  "description": "Guitarras españolas rasgueadas, palmas vivas a compás y subgraves pesados para vocalistas en Bilbao.",
+  "targetArtists": [
+    "Artistas de Bilbao",
+    "Comunidad de Rap Español",
+    "Escena Urbana de España"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "Re-Dórico / La-Menor",
+  "vibeAttributes": [
+    "Bilbao",
+    "Flamenco Trap",
+    "Pago Bizum (EUR €)",
+    "100% Conforme SGAE"
+  ],
+  "popularGenres": [
+    "Flamenco Trap Fusion Beats",
+    "Spanish Trap",
+    "Flamenco Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "bilbao-bizkaia-spanish-classic-boom-bap",
+  "name": "Bilbao Spanish Classic Boom Bap",
+  "category": "scene",
+  "badge": "Bilbao Boom Bap España",
+  "headline": "Bilbao (Bizkaia Industrial & Boom Bap de Ría) Spanish Classic Boom Bap: Pistas WAV 24-Bit & Pago por Bizum",
+  "description": "Muestras de vinilo con textura, bombos analógicos con pegada y bajos redondos para los puristas del hip-hop en Bilbao.",
+  "targetArtists": [
+    "Artistas de Bilbao",
+    "Comunidad de Rap Español",
+    "Escena Urbana de España"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "Si-Menor / Re-Menor",
+  "vibeAttributes": [
+    "Bilbao",
+    "Boom Bap España",
+    "Pago Bizum (EUR €)",
+    "100% Conforme SGAE"
+  ],
+  "popularGenres": [
+    "Spanish Classic Boom Bap",
+    "Spanish Trap",
+    "Flamenco Trap"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "cordoba-califal-spanish-trap-808",
+  "name": "Córdoba Spanish Trap 808 Beats",
+  "category": "scene",
+  "badge": "Córdoba Spanish Trap",
+  "headline": "Córdoba (Valle del Guadalquivir & Flamenco-Trap) Spanish Trap 808 Beats: Pistas WAV 24-Bit & Pago por Bizum",
+  "description": "Bajos 808 demoledores deslizantes, sintetizadores menores oscuros y cajas afiladas diseñadas para MCs en Córdoba.",
+  "targetArtists": [
+    "Artistas de Córdoba",
+    "Comunidad de Rap Español",
+    "Escena Urbana de España"
+  ],
+  "recommendedBpm": "134-142 BPM",
+  "recommendedKey": "Re-Menor / Do-Menor",
+  "vibeAttributes": [
+    "Córdoba",
+    "Spanish Trap",
+    "Pago Bizum (EUR €)",
+    "100% Conforme SGAE"
+  ],
+  "popularGenres": [
+    "Spanish Trap 808 Beats",
+    "Spanish Trap",
+    "Flamenco Trap"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "cordoba-califal-madrid-street-drill",
+  "name": "Córdoba Madrid Street Drill Beats",
+  "category": "scene",
+  "badge": "Córdoba Madrid Drill",
+  "headline": "Córdoba (Valle del Guadalquivir & Flamenco-Trap) Madrid Street Drill Beats: Pistas WAV 24-Bit & Pago por Bizum",
+  "description": "Pianos fríos melancólicos, hi-hats ultra rápidos y bajos en portamento creados para artistas de Córdoba.",
+  "targetArtists": [
+    "Artistas de Córdoba",
+    "Comunidad de Rap Español",
+    "Escena Urbana de España"
+  ],
+  "recommendedBpm": "140-145 BPM",
+  "recommendedKey": "Mi-Menor / Do#-Menor",
+  "vibeAttributes": [
+    "Córdoba",
+    "Madrid Drill",
+    "Pago Bizum (EUR €)",
+    "100% Conforme SGAE"
+  ],
+  "popularGenres": [
+    "Madrid Street Drill Beats",
+    "Spanish Trap",
+    "Flamenco Trap"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "cordoba-califal-flamenco-trap-fusion",
+  "name": "Córdoba Flamenco Trap Fusion Beats",
+  "category": "scene",
+  "badge": "Córdoba Flamenco Trap",
+  "headline": "Córdoba (Valle del Guadalquivir & Flamenco-Trap) Flamenco Trap Fusion Beats: Pistas WAV 24-Bit & Pago por Bizum",
+  "description": "Guitarras españolas rasgueadas, palmas vivas a compás y subgraves pesados para vocalistas en Córdoba.",
+  "targetArtists": [
+    "Artistas de Córdoba",
+    "Comunidad de Rap Español",
+    "Escena Urbana de España"
+  ],
+  "recommendedBpm": "128-135 BPM",
+  "recommendedKey": "Re-Dórico / La-Menor",
+  "vibeAttributes": [
+    "Córdoba",
+    "Flamenco Trap",
+    "Pago Bizum (EUR €)",
+    "100% Conforme SGAE"
+  ],
+  "popularGenres": [
+    "Flamenco Trap Fusion Beats",
+    "Spanish Trap",
+    "Flamenco Trap"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "cordoba-califal-spanish-classic-boom-bap",
+  "name": "Córdoba Spanish Classic Boom Bap",
+  "category": "scene",
+  "badge": "Córdoba Boom Bap España",
+  "headline": "Córdoba (Valle del Guadalquivir & Flamenco-Trap) Spanish Classic Boom Bap: Pistas WAV 24-Bit & Pago por Bizum",
+  "description": "Muestras de vinilo con textura, bombos analógicos con pegada y bajos redondos para los puristas del hip-hop en Córdoba.",
+  "targetArtists": [
+    "Artistas de Córdoba",
+    "Comunidad de Rap Español",
+    "Escena Urbana de España"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "recommendedKey": "Si-Menor / Re-Menor",
+  "vibeAttributes": [
+    "Córdoba",
+    "Boom Bap España",
+    "Pago Bizum (EUR €)",
+    "100% Conforme SGAE"
+  ],
+  "popularGenres": [
+    "Spanish Classic Boom Bap",
+    "Spanish Trap",
+    "Flamenco Trap"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
 ];

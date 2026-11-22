@@ -42958,4 +42958,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "es/madrid-pan-bendito-vallecas": {
+  "slug": "es/madrid-pan-bendito-vallecas",
+  "name": "España – Madrid: Vallecas, Pan Bendito & Carabanchel (Cuna Histórica del Rap Callejero)",
+  "flag": "🇪🇸",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Bizum, Apple Pay, Google Pay, Tarjetas (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SGAE",
+  "proFullName": "SGAE (Sociedad General de Autores y Editores)",
+  "proGuide": "100% conforme a la Ley de Propiedad Intelectual española y normativa SGAE con contrato de licencia PDF firmado inmediato.",
+  "headline": "Beats en Madrid Sur: Vallecas, Pan Bendito & Sonido Callejero con Bajos 808",
+  "description": "La auténtica cuna del rap de barrio en Madrid: pianos menores melancólicos, cajas cortantes y bajos 808 demoledores diseñados para MCs de Vallecas, Carabanchel y Pan Bendito.",
+  "popularGenres": [
+    "Madrid Street Trap",
+    "Vallecas Rap Callejero",
+    "Drill Madrileño 808"
+  ],
+  "subClusters": []
+},
+  "es/barcelona-el-raval-badalona": {
+  "slug": "es/barcelona-el-raval-badalona",
+  "name": "España – Barcelona: El Raval, Nou Barris & Badalona (Realidad Costera & Trap Internacional)",
+  "flag": "🇪🇸",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Bizum, Apple Pay, Google Pay, Tarjetas (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SGAE",
+  "proFullName": "SGAE (Sociedad General de Autores y Editores)",
+  "proGuide": "Archivos WAV 24-bit de calidad de estudio sin compresión con pistas separadas (stems multitrack).",
+  "headline": "Beats en Barcelona: Calles del Raval, Brisa del Mediterráneo & Drill Oscuro",
+  "description": "El vibrante crisol urbano de la costa catalana: sintetizadores oscuros, hi-hats ultra rápidos y bajos deslizantes en portamento para artistas de Barcelona, Badalona y Nou Barris.",
+  "popularGenres": [
+    "Barcelona Street Drill",
+    "Raval Trap Internacional",
+    "Cataluña Urban Beat"
+  ],
+  "subClusters": []
+},
+  "es/las-palmas-gran-canaria": {
+  "slug": "es/las-palmas-gran-canaria",
+  "name": "España – Las Palmas de Gran Canaria (Cuna del Sonido 928 & Reggaetón-Trap Latino)",
+  "flag": "🇪🇸",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Bizum, Apple Pay, Google Pay, Tarjetas (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SGAE",
+  "proFullName": "SGAE (Sociedad General de Autores y Editores)",
+  "proGuide": "Monetización digital global en Spotify, Apple Music, YouTube y radio 100% garantizada.",
+  "headline": "Beats en Las Palmas: Sonido 928 Canario, Playa de Las Canteras & Trap Melódico",
+  "description": "El epicentro de los mayores éxitos comerciales urbanos de España: guitarras acústicas cálidas, sintetizadores pop-reggaetón y dembows bailables para creadores de Gran Canaria y el 928.",
+  "popularGenres": [
+    "Sonido Canario 928",
+    "Reggaetón-Trap Melódico",
+    "Island Urban Bounce"
+  ],
+  "subClusters": []
+},
+  "es/vigo-pontevedra-rías-baixas": {
+  "slug": "es/vigo-pontevedra-rías-baixas",
+  "name": "España – Vigo & Rías Baixas (Puerto Atlántico de Galicia & Trap Melódico)",
+  "flag": "🇪🇸",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Bizum, Apple Pay, Google Pay, Tarjetas (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SGAE",
+  "proFullName": "SGAE (Sociedad General de Autores y Editores)",
+  "proGuide": "100% libre de royalties sobre grabaciones master con licencia comercial ilimitada.",
+  "headline": "Beats en Vigo: Puerto Pesquero, Lluvia Atlántica & Trap Electrónico Melódico",
+  "description": "La mayor urbe industrial de Galicia: guitarras eléctricas melancólicas, texturas de lluvia costera y bajos 808 profundos diseñados para MCs y creadores de Vigo, Pontevedra y las Rías Baixas.",
+  "popularGenres": [
+    "Vigo Melodic Trap",
+    "Rías Baixas Street Rap",
+    "Galicia Atlantic Beat"
+  ],
+  "subClusters": []
+},
+  "es/bilbao-bizkaia-euskal-herria": {
+  "slug": "es/bilbao-bizkaia-euskal-herria",
+  "name": "España – Bilbao & Bizkaia (Fuerza Industrial Vasca & Rap Lirical de Ría)",
+  "flag": "🇪🇸",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Bizum, Apple Pay, Google Pay, Tarjetas (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SGAE",
+  "proFullName": "SGAE (Sociedad General de Autores y Editores)",
+  "proGuide": "Pago instantáneo por Bizum y tarjeta en euros (€) con descarga digital automática.",
+  "headline": "Beats en Bilbao: Ría del Nervión, Carácter Industrial Vasco & Boom Bap Pesado",
+  "description": "El corazón urbano de Euskal Herria: muestras de vinilo crudas, bombos analógicos con pegada y bajos pesados para el rap consciente y combativo de Bilbao, Barakaldo y Bizkaia.",
+  "popularGenres": [
+    "Bilbao Boom Bap",
+    "Euskal Street Rap",
+    "Bizkaia Heavy 808"
+  ],
+  "subClusters": []
+},
+  "es/cordoba-andalucia-califal": {
+  "slug": "es/cordoba-andalucia-califal",
+  "name": "España – Córdoba & Valle del Guadalquivir (Herencia Califal & Flamenco-Trap del Sur)",
+  "flag": "🇪🇸",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Bizum, Apple Pay, Google Pay, Tarjetas (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SGAE",
+  "proFullName": "SGAE (Sociedad General de Autores y Editores)",
+  "proGuide": "Pistas stems multitrack y archivos WAV de 24 bits incluidos para mezclas profesionales.",
+  "headline": "Beats en Córdoba: Mezquita Histórica, Patios Andaluces & Guitarras Flamencas con 808",
+  "description": "Donde la poesía andalusí se une al trap contemporáneo: arpegios virtuosos de guitarra española, palmas flamencas a compás y subgraves profundos para los artistas de Córdoba y el Guadalquivir.",
+  "popularGenres": [
+    "Córdoba Flamenco-Trap",
+    "Valle del Guadalquivir Rap",
+    "Andalucía Urban Soul"
+  ],
+  "subClusters": []
+},
+  "es/castellon-costa-azahar": {
+  "slug": "es/castellon-costa-azahar",
+  "name": "España – Castellón de la Plana & Costa Azahar (Trap Mediterráneo & Drill Levantino)",
+  "flag": "🇪🇸",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Bizum, Apple Pay, Google Pay, Tarjetas (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SGAE",
+  "proFullName": "SGAE (Sociedad General de Autores y Editores)",
+  "proGuide": "Derechos comerciales completos con factura y split sheet conforme a SGAE.",
+  "headline": "Beats en Castellón: Costa de Azahar, Sol de Levante & Drill Mediterráneo",
+  "description": "La emergente escena urbana de la Plana: sintetizadores brillantes, patrones de drill sincopados y bajos envolventes para la juventud de Castellón, Vila-real y la Costa Azahar.",
+  "popularGenres": [
+    "Castellón Street Drill",
+    "Costa Azahar Trap",
+    "Levante Urban Beat"
+  ],
+  "subClusters": []
+},
+  "es/santander-cantabria-norte": {
+  "slug": "es/santander-cantabria-norte",
+  "name": "España – Santander & Cantabria (Brisa del Mar Cantábrico & Lofi Poético del Norte)",
+  "flag": "🇪🇸",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Bizum, Apple Pay, Google Pay, Tarjetas (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SGAE",
+  "proFullName": "SGAE (Sociedad General de Autores y Editores)",
+  "proGuide": "100% libre de royalties para streaming, radio y actuaciones en directo.",
+  "headline": "Beats en Santander: Bahía Cantábrica, Vientos del Norte & Lofi Trap Reflexivo",
+  "description": "La elegancia marinera de la costa cantábrica: pianos Fender Rhodes cálidos, texturas de lluvia y olas del mar, y baterías secas de hip-hop diseñadas para MCs de Santander y Cantabria.",
+  "popularGenres": [
+    "Santander Lofi Hip-Hop",
+    "Cantabria Chillhop",
+    "Norte Melodic Beat"
+  ],
+  "subClusters": []
+},
+  "es/valladolid-castilla-leon": {
+  "slug": "es/valladolid-castilla-leon",
+  "name": "España – Valladolid & Castilla y León (Corazón Histórico Castellano & Rap Lirical Puro)",
+  "flag": "🇪🇸",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Bizum, Apple Pay, Google Pay, Tarjetas (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SGAE",
+  "proFullName": "SGAE (Sociedad General de Autores y Editores)",
+  "proGuide": "Licencia comercial directa con entrega inmediata de archivos de alta resolución.",
+  "headline": "Beats en Valladolid: Cuna del Castellano, Clima de Meseta & Cajas Secas",
+  "description": "La sobriedad y la métrica pura de la meseta castellana: cuerdas menores solemnes, cajas cortantes y bombos pesados diseñados para el rap lírico de Valladolid y Castilla y León.",
+  "popularGenres": [
+    "Valladolid Rap Lírico",
+    "Castilla Boom Bap",
+    "Meseta Street 808"
+  ],
+  "subClusters": []
+},
+  "es/almeria-costa-calida": {
+  "slug": "es/almeria-costa-calida",
+  "name": "España – Almería: Desierto de Tabernas & Cabo de Gata (Trap Andaluz & Fusión Árabe-Flamenca)",
+  "flag": "🇪🇸",
+  "currency": "EUR (€) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Bizum, Apple Pay, Google Pay, Tarjetas (Visa/Mastercard), PayPal, Stripe",
+  "pro": "SGAE",
+  "proFullName": "SGAE (Sociedad General de Autores y Editores)",
+  "proGuide": "Validez jurídica internacional para distribución en plataformas de streaming y sincronización.",
+  "headline": "Beats en Almería: Desierto de Tabernas, Cabo de Gata & Fusión Urbana con Bajo 808",
+  "description": "Donde el desierto se encuentra con el Mediterráneo: melodías de laud y guitarra española, palmas rápidas y bajos 808 ardientes para artistas de Almería, Roquetas y El Ejido.",
+  "popularGenres": [
+    "Almería Desert Trap",
+    "Fusión Árabe-Flamenca",
+    "Cabo de Gata Beat"
+  ],
+  "subClusters": []
+},
 };
