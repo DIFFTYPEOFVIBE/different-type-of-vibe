@@ -44478,4 +44478,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "pr/san-juan-la-perla-viejo": {
+  "slug": "pr/san-juan-la-perla-viejo",
+  "name": "Puerto Rico – San Juan: La Perla, El Morro & Viejo San Juan (Cuna Histórica del Reggaetón, Despacito & Perreo de la Costa)",
+  "flag": "🇵🇷",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "ATH Móvil (Personal & Business / Banco Popular & Cooperativas), Tarjetas de Crédito/Débito, Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "BMI / ASCAP",
+  "proFullName": "BMI (Broadcast Music, Inc.) / ASCAP / SoundExchange",
+  "proGuide": "100% conforme con la Ley de Derechos de Autor de EE. UU. (US Copyright Law), BMI y ASCAP con contrato firmado en PDF inmediato y split sheet.",
+  "headline": "Beats en Viejo San Juan & La Perla: Callejones de Adoquines, Vientos del Atlántico & Reggaetón de Leyenda",
+  "description": "Donde nació el fenómeno global del reggaetón entre murallas históricas y brisa marina: dembow playero clásico, bajos envolventes y percusión caribeña para artistas de San Juan y La Perla.",
+  "popularGenres": [
+    "Reggaetón Clásico Boricua",
+    "Playero Dembow 90 BPM",
+    "Viejo San Juan Trap"
+  ],
+  "subClusters": []
+},
+  "pr/carolina-villa-fontana": {
+  "slug": "pr/carolina-villa-fontana",
+  "name": "Puerto Rico – Carolina: Villa Fontana & Sabana Abajo (Tierra de Gigantes, Cuna de Don Omar, Luar La L & Perreo Puro)",
+  "flag": "🇵🇷",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "ATH Móvil (Personal & Business / Banco Popular & Cooperativas), Tarjetas de Crédito/Débito, Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "BMI / ASCAP",
+  "proFullName": "BMI (Broadcast Music, Inc.) / ASCAP / SoundExchange",
+  "proGuide": "Archivos WAV 24-bit de calidad de estudio sin compresión con pistas separadas (stems multitrack) y licencia comercial.",
+  "headline": "Beats en Carolina: Tierra de Gigantes, Dembow de Caserío & Street Drill Puertorriqueño",
+  "description": "La cuna legendaria de los titanes de la música urbana: baterías secas cortantes, dembow underground agresivo y bajos 808 profundos para raperos y cantantes de Carolina.",
+  "popularGenres": [
+    "Carolina Street Trap",
+    "Underground Perreo",
+    "Drill Puertorriqueño"
+  ],
+  "subClusters": []
+},
+  "pr/vega-baja-almirante": {
+  "slug": "pr/vega-baja-almirante",
+  "name": "Puerto Rico – Vega Baja: Almirante Sur & Playa Puerto Nuevo (Tierra de Bad Bunny, Trap de Costa & Perreo Melódico)",
+  "flag": "🇵🇷",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "ATH Móvil (Personal & Business / Banco Popular & Cooperativas), Tarjetas de Crédito/Débito, Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "BMI / ASCAP",
+  "proFullName": "BMI (Broadcast Music, Inc.) / ASCAP / SoundExchange",
+  "proGuide": "Entrega digital inmediata con split sheet y contrato de licencia para distribución en Spotify y Apple Music.",
+  "headline": "Beats en Vega Baja: Playas del Norte, Trap Emocional & Dembow de Verano Estilo Benito",
+  "description": "El hogar que vio nacer la era dorada de Bad Bunny: guitarras acústicas soleadas, sintetizadores espaciales melancólicos y dembow bailable para MCs de Vega Baja y el norte.",
+  "popularGenres": [
+    "Vega Baja Beach Trap",
+    "Nostalgic Perreo",
+    "Trap Melódico 808"
+  ],
+  "subClusters": []
+},
+  "pr/bayamon-santa-rosa": {
+  "slug": "pr/bayamon-santa-rosa",
+  "name": "Puerto Rico – Bayamón: Santa Rosa, Rexville & Flamboyán (Ciudad del Chicharrón, Trap Callejero & Barras Pesadas)",
+  "flag": "🇵🇷",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "ATH Móvil (Personal & Business / Banco Popular & Cooperativas), Tarjetas de Crédito/Débito, Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "BMI / ASCAP",
+  "proFullName": "BMI (Broadcast Music, Inc.) / ASCAP / SoundExchange",
+  "proGuide": "Descargas de audio WAV masterizado y multipista para mezcla profesional en Pro Tools, FL Studio y Logic Pro.",
+  "headline": "Beats en Bayamón: La Ciudad del Vaquero, Sintetizadores Siniestros & Trap Pesado de Asfalto",
+  "description": "El epicentro del trap callejero y la lírica dura boricua: pianos oscuros en tonos menores, redobles de charles veloces y bajos 808 distorsionados para cantantes de Bayamón.",
+  "popularGenres": [
+    "Bayamón Street Trap",
+    "Trap Hardcore Boricua",
+    "Vaquero 808 Drill"
+  ],
+  "subClusters": []
+},
+  "pr/caguas-turabo-bairoa": {
+  "slug": "pr/caguas-turabo-bairoa",
+  "name": "Puerto Rico – Caguas: Valle del Turabo & Bairoa (Corazón Criollo, Reggaetón Comercial & Flow de Centro)",
+  "flag": "🇵🇷",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "ATH Móvil (Personal & Business / Banco Popular & Cooperativas), Tarjetas de Crédito/Débito, Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "BMI / ASCAP",
+  "proFullName": "BMI (Broadcast Music, Inc.) / ASCAP / SoundExchange",
+  "proGuide": "Pago seguro mediante ATH Móvil y entrega instantánea con contrato para monetización en YouTube y TikTok.",
+  "headline": "Beats en Caguas: La Ciudad Criolla, Melodías Pegadizas & Perreo de Radio 94 BPM",
+  "description": "Donde convergen la identidad boricua y las listas de éxitos: arreglos melódicos radiables, sintetizadores brillantes y cajas rítmicas diseñadas para artistas de Caguas.",
+  "popularGenres": [
+    "Caguas Commercial Urban",
+    "Turabo Pop-Perreo",
+    "Criollo Melodic Trap"
+  ],
+  "subClusters": []
+},
+  "pr/ponce-playa-la-guancha": {
+  "slug": "pr/ponce-playa-la-guancha",
+  "name": "Puerto Rico – Ponce: La Guancha, Centro Histórico & Playa de Ponce (La Perla del Sur, Herencia Salsera & Trap Boricua)",
+  "flag": "🇵🇷",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "ATH Móvil (Personal & Business / Banco Popular & Cooperativas), Tarjetas de Crédito/Débito, Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "BMI / ASCAP",
+  "proFullName": "BMI (Broadcast Music, Inc.) / ASCAP / SoundExchange",
+  "proGuide": "Licencias comerciales transparentes adaptadas a proyectos discográficos independientes en la Perla del Sur.",
+  "headline": "Beats en Ponce: La Perla del Sur, Vientos de Salsa Brava & Trap Contemporáneo",
+  "description": "La cuna legendaria de la salsa y los grandes compositores caribeños: trompetas latinas con sabor, pianos montunos fusionados con 808s y baterías dinámicas para artistas de Ponce.",
+  "popularGenres": [
+    "Ponce Salsa-Trap Fusión",
+    "Perla del Sur Perreo",
+    "Plena-Trap Rhythms"
+  ],
+  "subClusters": []
+},
+  "pr/rio-piedras-universidad": {
+  "slug": "pr/rio-piedras-universidad",
+  "name": "Puerto Rico – San Juan: Río Piedras & Recinto UPR (Cuna del Hip-Hop Independiente, Rap Conciencia & Freestyle)",
+  "flag": "🇵🇷",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "ATH Móvil (Personal & Business / Banco Popular & Cooperativas), Tarjetas de Crédito/Débito, Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "BMI / ASCAP",
+  "proFullName": "BMI (Broadcast Music, Inc.) / ASCAP / SoundExchange",
+  "proGuide": "Contrato de cesión de derechos no exclusivos y exclusivos con registro directo ante BMI o ASCAP.",
+  "headline": "Beats en Río Piedras: La Ciudad Universitaria, Boom Bap Intelectual & Freestyle de Acera",
+  "description": "El núcleo intelectual, artístico e independiente de la isla: samples de vinilo analógico, cajas con swing noventero y atmósferas jazzísticas para letristas y MCs de Río Piedras.",
+  "popularGenres": [
+    "Río Piedras Boom Bap",
+    "Conscious Rap Boricua",
+    "Lo-Fi San Juan Cypher"
+  ],
+  "subClusters": []
+},
+  "pr/mayaguez-sultan-del-oeste": {
+  "slug": "pr/mayaguez-sultan-del-oeste",
+  "name": "Puerto Rico – Mayagüez: Sultana del Oeste, RUM & Balboa (Epicentro Urbano del Oeste & Perreo Universitario)",
+  "flag": "🇵🇷",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "ATH Móvil (Personal & Business / Banco Popular & Cooperativas), Tarjetas de Crédito/Débito, Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "BMI / ASCAP",
+  "proFullName": "BMI (Broadcast Music, Inc.) / ASCAP / SoundExchange",
+  "proGuide": "Licencia comercial con pago instantáneo en USD mediante ATH Móvil y descarga de stems en alta definición.",
+  "headline": "Beats en Mayagüez: La Sultana del Oeste, Melodías de Medianoche & Dembow Energético",
+  "description": "El latido nocturno y universitario de la costa oeste: sintetizadores con garra, cajas saltarinas de club y dembow acelerado para creadores de Mayagüez.",
+  "popularGenres": [
+    "Mayagüez College Perreo",
+    "Western PR Wave",
+    "Electro-Trap Boricua"
+  ],
+  "subClusters": []
+},
+  "pr/arecibo-villa-del-capitan": {
+  "slug": "pr/arecibo-villa-del-capitan",
+  "name": "Puerto Rico – Arecibo: Villa del Capitán Correa & Costa Norte (Olas del Atlántico, Trap Costero & Bajos Profundos)",
+  "flag": "🇵🇷",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "ATH Móvil (Personal & Business / Banco Popular & Cooperativas), Tarjetas de Crédito/Débito, Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "BMI / ASCAP",
+  "proFullName": "BMI (Broadcast Music, Inc.) / ASCAP / SoundExchange",
+  "proGuide": "100% libre de samples con problemas legales: todos los elementos melódicos son composiciones originales.",
+  "headline": "Beats en Arecibo: Acantilados del Norte, Campanas Sombrías & Drill Costero Boricua",
+  "description": "La fuerza cruda del océano y las carreteras costeras del norte: campanas menores introspectivas, slides de bajo 808 subterráneos y cajas con pegada para la escena de Arecibo.",
+  "popularGenres": [
+    "Arecibo Coastal Drill",
+    "North Coast Trap 808",
+    "Villa Correa Melancholy"
+  ],
+  "subClusters": []
+},
+  "pr/guaynabo-san-patricio": {
+  "slug": "pr/guaynabo-san-patricio",
+  "name": "Puerto Rico – Guaynabo: San Patricio & Guaynabo City (Estudios de Alta Gama, Urban Pop & R&B Boricua Pulido)",
+  "flag": "🇵🇷",
+  "currency": "USD ($)",
+  "currencyCode": "USD",
+  "gateways": "ATH Móvil (Personal & Business / Banco Popular & Cooperativas), Tarjetas de Crédito/Débito, Apple Pay, Google Pay, PayPal, Stripe",
+  "pro": "BMI / ASCAP",
+  "proFullName": "BMI (Broadcast Music, Inc.) / ASCAP / SoundExchange",
+  "proGuide": "Estándar de calidad de grandes sellos: archivos masterizados a -14 LUFS listos para distribución comercial.",
+  "headline": "Beats en Guaynabo: Producción de Estudio Élite, Pianos Eléctricos Cálidos & R&B Urbano",
+  "description": "El estándar de la producción ejecutiva y las sesiones de grabación comerciales: teclados Rhodes sedosos, compresiones prístinas y mezclas de estudio listas para radio y Billboard.",
+  "popularGenres": [
+    "Guaynabo Slick R&B",
+    "Commercial Urban Hit",
+    "High-End Studio Trap"
+  ],
+  "subClusters": []
+},
 };

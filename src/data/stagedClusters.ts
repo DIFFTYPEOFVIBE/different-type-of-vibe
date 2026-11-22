@@ -143168,4 +143168,1103 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "1"
   ]
 },
+  {
+  "slug": "bad-bunny-nadie-sabe-dark-jersey-trap",
+  "title": "Bad Bunny Nadie Sabe Dark Orchestral Mobster Trap & Jersey Beat",
+  "description": "Dark, cinematic orchestral trap inspired by Bad Bunny's 'Nadie Sabe Lo Que Va a Pasar Mañana' era (MONACO, WHERE SHE GOES, VOU 787): opulent brass stabs, classical strings, high-speed Jersey club kick switches, and heavy sub-bass.",
+  "targetKeywords": [
+    "bad bunny nadie sabe type beat",
+    "monaco bad bunny trap beat",
+    "bad bunny jersey club trap beat",
+    "dark orchestral latin trap beat",
+    "bad bunny 2024 instrumental"
+  ],
+  "heroCta": "Comprar Beat Estilo Bad Bunny (Instant WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "Aggressive Album Opener, Luxurious Trap Single and High-Impact Visualizer",
+  "similarArtists": [
+    "Bad Bunny",
+    "Tainy",
+    "MAG",
+    "La Paciencia"
+  ],
+  "recommendedBpm": "136-144 BPM",
+  "productionTips": "Opulent orchestral brass and classical string chops transitioning into high-octane 140 BPM Jersey club bouncy kick triplets.",
+  "idealVocalStyle": "Deep baritone cadence, conversational flexing, sarcastic spoken words, and relentless rhythmic flows.",
+  "suggestedKey": "F Minor / C Minor",
+  "streamingSuitability": "Dominates Spotify Top 50 Global playlists, club sound systems, and viral TikTok trends."
+},
+  {
+  "slug": "eladio-carrion-sauce-boyz-hardcore-drill",
+  "title": "Eladio Carrión Sauce Boyz Hardcore 808 Glides & Heavy Drill Beat",
+  "description": "Authoritative, heavy-hitting Latin trap and street drill inspired by Eladio Carrión (Sauce Boyz, SEN2 KBRN, Mbappé, Si La Calle Llama): UK-influenced sliding 808s, haunting minor piano lines, and punchy snares.",
+  "targetKeywords": [
+    "eladio carrion type beat",
+    "sauce boyz drill beat",
+    "eladio carrion instrumental wav",
+    "hardcore latin trap 808 beat",
+    "sen2 kbrn type beat"
+  ],
+  "heroCta": "Comprar Beat Estilo Eladio (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Hardcore Rap Cypher, Lyrical Showcase Single and Street Anthem",
+  "similarArtists": [
+    "Eladio Carrión",
+    "Luar La L",
+    "Myke Towers",
+    "Hydro"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Menacing dark piano melodies with aggressive pitch-sliding 808 sub-bass notes and sharp counter-snare rolls.",
+  "idealVocalStyle": "Commanding baritone delivery, intricate American-style sports punchlines, and deep melodic refrains.",
+  "suggestedKey": "D Minor / G Minor",
+  "streamingSuitability": "Prime placement across Trap Land, Apple Music Latin Urban, and gym workout playlists."
+},
+  {
+  "slug": "rauw-alejandro-playa-saturno-synth-perreo",
+  "title": "Rauw Alejandro Playa Saturno 80s Synthwave & Dance Perreo Beat",
+  "description": "Futuristic, high-energy synth-perreo combining 80s synthwave aesthetics with modern electronic club reggaetón inspired by Rauw Alejandro (Playa Saturno, Vice Versa, Diluvio, Todo De Ti): pulsating basslines and driving dembow.",
+  "targetKeywords": [
+    "rauw alejandro synthwave beat",
+    "playa saturno type beat",
+    "rauw alejandro perreo instrumental",
+    "80s synth reggaeton beat",
+    "baby hello rauw beat"
+  ],
+  "heroCta": "Comprar Beat Estilo Rauw (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Radio Pop Single, Dance Choreography Video and Summer Club Anthem",
+  "similarArtists": [
+    "Rauw Alejandro",
+    "Tainy",
+    "Bizarrap",
+    "Caleb Calloway"
+  ],
+  "recommendedBpm": "118-124 BPM",
+  "productionTips": "Analog synthesizer arpeggios layered with gated reverb snares and an infectious electronic dembow groove.",
+  "idealVocalStyle": "Silky falsetto vocal layers, sensual R&B phrasing, dance ad-libs, and high-energy melodic chorus.",
+  "suggestedKey": "B Minor / E Minor",
+  "streamingSuitability": "Engineered for international radio airplay, Latin Pop charts, and TikTok dance routines."
+},
+  {
+  "slug": "myke-towers-lala-commercial-hit-flow",
+  "title": "Myke Towers La LALA Slick West Coast Bounce & Commercial Dembow Beat",
+  "description": "Effortless, breezy commercial Latin urban beat inspired by Myke Towers (LALA, La Vida Es Una, Young King): West Coast bouncing bass, sparkling acoustic plucks, and clean radio-friendly dembow kicks.",
+  "targetKeywords": [
+    "myke towers type beat",
+    "lala myke towers beat",
+    "commercial reggaeton beat 2024",
+    "young king type beat wav",
+    "myke towers radio instrumental"
+  ],
+  "heroCta": "Comprar Beat Estilo Myke Towers (Instant WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Billboard Latin Airplay Single, Commercial Club Banger and Summer Playlist Lead",
+  "similarArtists": [
+    "Myke Towers",
+    "Sky Rompiendo",
+    "Ovy On The Drums",
+    "Jhayco"
+  ],
+  "recommendedBpm": "94-98 BPM",
+  "productionTips": "Crisp clap-snare dembow rhythm with a melodic vocal chop hook and round, bouncy sub-bass that cuts through small phone speakers.",
+  "idealVocalStyle": "Laid-back conversational rap cadence, clever bilingual bars, and an infectious vocal earworm chorus.",
+  "suggestedKey": "A Minor / D Minor",
+  "streamingSuitability": "Heavy rotation suitability on Viva Latino, Baila Reggaetón, and global top-chart playlists."
+},
+  {
+  "slug": "tainy-data-futuristic-ambient-reggaeton",
+  "title": "Tainy DATA Futuristic Cyberpunk Synth & Ambient Reggaetón Beat",
+  "description": "Visionary, genre-bending electronic reggaetón inspired by Tainy's masterpiece 'DATA' (Lo Siento BB:/, MOJABI GHOST, FANTASMA | AVC): sweeping analog pads, cinematic vocoder atmospheres, and organic percussion textures.",
+  "targetKeywords": [
+    "tainy data type beat",
+    "tainy futuristic reggaeton beat",
+    "ambient reggaeton instrumental wav",
+    "cyberpunk perreo beat",
+    "tainy type beat 2024"
+  ],
+  "heroCta": "Comprar Beat Estilo Tainy (WAV + Stems)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Avant-Garde Concept Album Track, Cinematic Video and High-Fashion Visualizer",
+  "similarArtists": [
+    "Tainy",
+    "Bad Bunny",
+    "Arcángel",
+    "The Weeknd"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "productionTips": "Tape-saturated analog Juno synthesizers, experimental vocal chops, and deep sub frequencies with pristine headroom.",
+  "idealVocalStyle": "Emotional, vulnerable vocal delivery, atmospheric harmonies, and thought-provoking existential lyrics.",
+  "suggestedKey": "C Minor / Ab Major",
+  "streamingSuitability": "Ideal for critical acclaim, indie curations, and high-engagement concept streaming albums."
+},
+  {
+  "slug": "daddy-yankee-barrio-fino-classic-gasolina",
+  "title": "Daddy Yankee Barrio Fino Classic Playero Dembow & Stadium Horns Beat",
+  "description": "The immortal foundation of reggaetón paying homage to Daddy Yankee's golden era (Barrio Fino, Gasolina, Rompe, Lo Que Pasó Pasó): driving Playero kick-snare patterns, stadium brass horns, and legendary hypeman bounce.",
+  "targetKeywords": [
+    "daddy yankee classic beat",
+    "gasolina playero beat",
+    "barrio fino type beat wav",
+    "reggaeton clasico instrumental",
+    "daddy yankee style beat"
+  ],
+  "heroCta": "Comprar Beat Daddy Yankee (Instant WAV)",
+  "energyLevel": "Maximum",
+  "primaryUse": "High-Energy Festival Anthem, Throwback Party Single and DJ Set Peak",
+  "similarArtists": [
+    "Daddy Yankee",
+    "Luny Tunes",
+    "Don Omar",
+    "Wisin & Yandel"
+  ],
+  "recommendedBpm": "94-96 BPM",
+  "productionTips": "Authentic Playero/Luny Tunes snare cracks layered with aggressive brass stabs and driving timber percussion.",
+  "idealVocalStyle": "Fast-paced staccato delivery, aggressive call-and-response hypeman shouts, and explosive hook delivery.",
+  "suggestedKey": "E Minor / A Minor",
+  "streamingSuitability": "Guaranteed crowd participation, stadium chant potential, and timeless international appeal."
+},
+  {
+  "slug": "arcangel-senor-santos-flow-violento",
+  "title": "Arcángel Sr. Santos Regal Trap Strings & Melodic Autotune Flow Beat",
+  "description": "Lyrical royalty and street sophistication inspired by Arcángel 'La Maravilla' (Sr. Santos, La Jumpa, JS4E, Me Prefiere a Mí): opulent orchestral violins, sharp trap snares, and emotional melodic chord changes.",
+  "targetKeywords": [
+    "arcangel type beat",
+    "sr santos type beat wav",
+    "arcangel la jumpa trap beat",
+    "flow violento beat arcangel",
+    "regal latin trap beat"
+  ],
+  "heroCta": "Comprar Beat Estilo Arcángel (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Lyrical Street Monologue, Melodic Trap Single and Dedication Track",
+  "similarArtists": [
+    "Arcángel",
+    "De La Ghetto",
+    "Bizarrap",
+    "Bad Bunny"
+  ],
+  "recommendedBpm": "128-134 BPM",
+  "productionTips": "Rich classical violin ostinatos paired with punchy 808 kicks and crisp hi-hat rolls that leave room for vocal gymnastics.",
+  "idealVocalStyle": "High-pitched autotune inflections, effortless transitions between fast bars and melodic singing, and arrogant charisma.",
+  "suggestedKey": "G Minor / D Minor",
+  "streamingSuitability": "Strong affinity with urban connoisseurs, Puerto Rican street rap fans, and premium Latin Trap playlists."
+},
+  {
+  "slug": "anuel-aa-las-leyendas-nunca-mueren-808",
+  "title": "Anuel AA Las Leyendas Nunca Mueren Dark Piano & Aggressive 808 Beat",
+  "description": "Dark, uncompromising street tension inspired by Anuel AA (Las Leyendas Nunca Mueren, LLNM2, Mercedes Tintia, Sola): brooding minor grand piano progressions, thunderous distorted 808 bass, and raw street energy.",
+  "targetKeywords": [
+    "anuel aa llnm type beat",
+    "anuel aa trap agresivo beat",
+    "las leyendas nunca mueren instrumental",
+    "dark latin trap piano beat",
+    "anuel style 808 beat"
+  ],
+  "heroCta": "Comprar Beat Estilo Anuel (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Defiant Street Single, Hardcore Trap Mixtape and Hood Narrative",
+  "similarArtists": [
+    "Anuel AA",
+    "Casper Mágico",
+    "Luar La L",
+    "Chris Jedi"
+  ],
+  "recommendedBpm": "130-136 BPM",
+  "productionTips": "Gothic minor piano chords drenched in dark hall reverb, paired with heavy, saturated 808s and dry, piercing claps.",
+  "idealVocalStyle": "Gritty, emotional street singing, signature ad-libs, and breathless lyrical storytelling about adversity.",
+  "suggestedKey": "C# Minor / G# Minor",
+  "streamingSuitability": "Essential listening for core Latin Trap fans, motorcycle culture, and midnight street playlists."
+},
+  {
+  "slug": "bomba-y-plena-afro-boricua-percussion-trap",
+  "title": "Bomba & Plena Afro-Puerto Rican Barril & Pandereta Cultural Fusion Beat",
+  "description": "Authentic Afro-Boricua cultural crossover honoring Puerto Rico's heritage: traditional Barril de Bomba and Pandereta de Plena polyrhythms fused with modern sub-bass 808s and contemporary urban trap percussion.",
+  "targetKeywords": [
+    "bomba y plena trap beat",
+    "afro boricua beat 808",
+    "puerto rico traditional fusion beat",
+    "plena pandereta hip hop instrumental",
+    "bomba beat reggaeton"
+  ],
+  "heroCta": "Comprar Beat Bomba-Trap (Instant WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "Cultural Masterpiece, National Pride Anthem and Groundbreaking Festival Single",
+  "similarArtists": [
+    "Residente",
+    "iLe",
+    "Bad Bunny",
+    "Calle 13"
+  ],
+  "recommendedBpm": "96-104 BPM",
+  "productionTips": "Live hand-recorded barril and pandereta percussion loops locked to an analog 808 bassline and syncopated trap hi-hats.",
+  "idealVocalStyle": "Passionate social commentary, proud Boricua slang, rhythmic chanting, and dynamic vocal intensity.",
+  "suggestedKey": "G Major / E Minor",
+  "streamingSuitability": "Celebrated by NPR Tiny Desk, Latin Grammy voters, and cultural festival organizers worldwide."
+},
+  {
+  "slug": "san-juan-old-city-cobblestone-rainy-lofi",
+  "title": "Viejo San Juan Rainy Cobblestones Warm Spanish Guitar & Lofi Beat",
+  "description": "Atmospheric, nostalgic midnight stroll through Old San Juan's cobblestone streets during tropical rain: tender Spanish nylon guitar fingerpicking, ocean waves and rain Foley, and unquantized lofi hip-hop drums.",
+  "targetKeywords": [
+    "viejo san juan lofi beat",
+    "puerto rico chillhop instrumental",
+    "spanish guitar lofi beat wav",
+    "san juan rainy mood beat",
+    "boricua lofi chill"
+  ],
+  "heroCta": "Comprar Beat San Juan Lofi (Instant WAV)",
+  "energyLevel": "Low-Medium",
+  "primaryUse": "Late-Night Reflection, Chillhop Study Streaming and Introspective EP Interlude",
+  "similarArtists": [
+    "Buskcabulla",
+    "Cuco",
+    "Tainy",
+    "ChilledCow"
+  ],
+  "recommendedBpm": "80-86 BPM",
+  "productionTips": "Organic acoustic guitar recorded with tube microphones, textured with vinyl crackle and natural Caribbean rain sounds.",
+  "idealVocalStyle": "Intimate spoken poetry, gentle melodic hums, and introspective nostalgic Spanish storytelling.",
+  "suggestedKey": "A Minor / D Minor",
+  "streamingSuitability": "Guaranteed long-tail streams on lofi study playlists, nocturnal coffeehouse curations, and chillout streams."
+},
+  {
+  "slug": "playa-puerto-nuevo-sunset-acoustic-perreo",
+  "title": "Vega Baja Playa Puerto Nuevo Golden Hour Acoustic Guitar & Perreo Beat",
+  "description": "Warm, sunny, and emotionally uplifting coastal beat inspired by Vega Baja beach sunsets: warm acoustic guitar chords, breezy synthesizer pads, and a gentle, danceable 92 BPM dembow pocket.",
+  "targetKeywords": [
+    "vega baja beach beat",
+    "acoustic guitar reggaeton beat",
+    "playa sunset type beat wav",
+    "golden hour perreo instrumental",
+    "puerto nuevo summer beat"
+  ],
+  "heroCta": "Comprar Beat Sunset Perreo (WAV 24-bit)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Summer Romance Single, Beachside Vlog Soundtrack and Feel-Good Commercial Hit",
+  "similarArtists": [
+    "Bad Bunny",
+    "Mora",
+    "Manuel Turizo",
+    "Rauw Alejandro"
+  ],
+  "recommendedBpm": "90-94 BPM",
+  "productionTips": "Rich finger-picked acoustic guitar layered over a warm analog bass and a swinging dembow rhythm track.",
+  "idealVocalStyle": "Romantic Spanish lyrics, catchy sing-along melodies, and relaxed, confident summer vibes.",
+  "suggestedKey": "C Major / G Major",
+  "streamingSuitability": "Ideal for Summer Hits, Beach Vibes, and Latin Romantic playlists across DSPs."
+},
+  {
+  "slug": "underground-caserio-subterranean-drill",
+  "title": "Underground Caserío Raw Street Tension Minor Bells & 808 Drill Beat",
+  "description": "Raw, unapologetic Puerto Rican caserío reality: haunting minor bell melodies, industrial metallic textures, and aggressive subterranean 808 slides designed for authentic street storytellers.",
+  "targetKeywords": [
+    "caserio underground drill beat",
+    "puerto rico street drill instrumental",
+    "raw boricua trap beat 808",
+    "underground rap instrumental pr",
+    "caserio drill type beat"
+  ],
+  "heroCta": "Comprar Beat Caserío Drill (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hardcore Street Record, Gritty Music Video and Underground Rap Mixtape",
+  "similarArtists": [
+    "Luar La L",
+    "Anuel AA",
+    "YOVNGCHIMI",
+    "Pressure 9X19"
+  ],
+  "recommendedBpm": "142-145 BPM",
+  "productionTips": "Ominous bell arpeggios, detuned sub slides, and sharp, resonant snares mixed for maximum street impact.",
+  "idealVocalStyle": "Aggressive street slang, fast triplets, raw conviction, and menacing whisper switches.",
+  "suggestedKey": "F# Minor / C# Minor",
+  "streamingSuitability": "High virality on SoundCloud, YouTube street cyphers, and underground urban circuits."
+},
+  {
+  "slug": "affordable-reggaeton-beats-ath-movil-usd",
+  "title": "Beats de Reggaetón Económicos desde $29 USD (Pago Instantáneo por ATH Móvil)",
+  "description": "Instrumentales profesionales de reggaetón y trap boricua desde $29 USD con pago rápido y seguro mediante ATH Móvil (Personal y Negocio) para artistas en Puerto Rico y EE. UU.",
+  "targetKeywords": [
+    "affordable reggaeton beats ath movil usd",
+    "beats reggaeton baratos ath movil",
+    "comprar pistas de reggaeton puerto rico",
+    "instrumentales urbanas ath movil usd"
+  ],
+  "heroCta": "Ver Beats desde $29 USD (Paga con ATH Móvil)",
+  "energyLevel": "Variable",
+  "primaryUse": "Singles Debut, Grabación en Home Studio y Mixtapes Independientes",
+  "similarArtists": [
+    "Artistas Emergentes de Puerto Rico",
+    "Productores Independientes"
+  ],
+  "recommendedBpm": "88-100 BPM",
+  "productionTips": "Pre-masterizadas con margen dinámico optimizado para grabar voces nítidas en cualquier micrófono de condensador.",
+  "idealVocalStyle": "Versátil para perreo clásico, trap melódico o barras rápidas en español.",
+  "suggestedKey": "Todas las tonalidades disponibles",
+  "streamingSuitability": "Licencia comercial con hasta 250.000 reproducciones en Spotify, Apple Music y YouTube."
+},
+  {
+  "slug": "commercial-latin-trap-beats-eladio-wav-stems",
+  "title": "Beats de Latin Trap con Stems WAV Multipista (Estilo Eladio Carrión & Luar La L)",
+  "description": "Instrumentales de trap latino agresivo con bajos 808 deslizantes, entregadas con todas las pistas de audio WAV sin compresión (multitrack stems) para mezcla profesional en San Juan.",
+  "targetKeywords": [
+    "commercial latin trap beats eladio wav stems",
+    "pistas trap latino con stems wav",
+    "comprar bases trap stems puerto rico",
+    "eladio carrion stems wav beat"
+  ],
+  "heroCta": "Descargar Beats con Stems WAV Multipista",
+  "energyLevel": "High",
+  "primaryUse": "Mezcla en Estudio Profesional, Grabación de Álbum y Masterización Comercial",
+  "similarArtists": [
+    "Eladio Carrión",
+    "Luar La L",
+    "YOVNGCHIMI",
+    "Hydro"
+  ],
+  "recommendedBpm": "136-144 BPM",
+  "productionTips": "Pistas separadas en formato WAV 24-bit 48kHz con etiquetas de tempo y tono exactas para fácil importación en Pro Tools.",
+  "idealVocalStyle": "Flujos de trap pesados, rimas callejeras y voces con procesamiento de compresión y autotune.",
+  "suggestedKey": "Re Menor / Fa Menor",
+  "streamingSuitability": "Apto para lanzamientos en grandes discográficas y rotación radial internacional."
+},
+  {
+  "slug": "pistas-reggaeton-suave-90-bpm-tainy",
+  "title": "Pistas de Reggaetón Suave a 90 BPM (Estilo Tainy & Bad Bunny 'DATA')",
+  "description": "Beats melódicos y atmosféricos de reggaetón suave a 90 BPM con sintetizadores analógicos envolventes y pianos emotivos, diseñados para éxitos comerciales introspectivos.",
+  "targetKeywords": [
+    "pistas reggaeton suave 90 bpm tainy",
+    "reggaeton romantico beat 90 bpm",
+    "instrumental reggaeton estilo tainy data",
+    "beats reggaeton suave melancolico"
+  ],
+  "heroCta": "Escuchar Beats Reggaetón 90 BPM",
+  "energyLevel": "Medium",
+  "primaryUse": "Single Romántico, Colaboración Pop-Urbana y Tema Radial de Verano",
+  "similarArtists": [
+    "Tainy",
+    "Bad Bunny",
+    "Mora",
+    "Rauw Alejandro"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "productionTips": "Arreglos sutiles con bajos cálidos y sintetizadores analógicos Juno que permiten que la melodía vocal brille.",
+  "idealVocalStyle": "Voz melódica con sentimiento, falsetes suaves y letras emotivas de desamor o romance.",
+  "suggestedKey": "Do Menor / Sol Menor",
+  "streamingSuitability": "Diseñado para posicionarse en listas de reproducción como Mansión Reggaetón y Romance Latino."
+},
+  {
+  "slug": "bmi-ascap-beat-licensing-agreement-pdf-pr",
+  "title": "Contrato de Licencia de Beats Boricua (Conforme a BMI, ASCAP & SoundExchange)",
+  "description": "Contrato legal de producción musical 100% conforme a las normativas de BMI, ASCAP y la Ley de Derechos de Autor de EE. UU., con descarga inmediata de contrato en PDF firmado y split sheet detallado.",
+  "targetKeywords": [
+    "bmi ascap beat licensing agreement pdf pr",
+    "contrato compra beat puerto rico bmi",
+    "licencia beat reggaeton ascap pdf",
+    "split sheet productor musical puerto rico"
+  ],
+  "heroCta": "Comprar Beat con Contrato BMI/ASCAP en PDF",
+  "energyLevel": "Profesional",
+  "primaryUse": "Registro Legal de Canciones, Distribución con DistroKid/TuneCore y Cobro de Regalías",
+  "similarArtists": [
+    "Artistas y Letristas Afiliados a BMI y ASCAP"
+  ],
+  "recommendedBpm": "Aplicable a cualquier BPM",
+  "productionTips": "Términos claros: 50/50 en split de regalías editoriales (publishing) y 100% de ingresos de máster hasta el límite acordado.",
+  "idealVocalStyle": "Esencial para cualquier estilo vocal con aspiraciones de monetización profesional.",
+  "suggestedKey": "Estándar Legal Universal",
+  "streamingSuitability": "Protección jurídica total para subir temas a Spotify, monetizar en Content ID y sonar en radio."
+},
+  {
+  "slug": "buy-beats-ath-movil-puerto-rico-instant",
+  "title": "Comprar Beats con ATH Móvil en Puerto Rico (Descarga Inmediata en USD)",
+  "description": "La forma más fácil y rápida de comprar instrumentales en Puerto Rico: paga directo con ATH Móvil (de persona a persona o comerciante) y recibe la descarga automática de archivos WAV y contrato.",
+  "targetKeywords": [
+    "buy beats ath movil puerto rico instant",
+    "comprar bases ath movil pr",
+    "ath movil beat store puerto rico",
+    "pistas urbanas pago ath movil inmediato"
+  ],
+  "heroCta": "Comprar Beats con ATH Móvil Ahora",
+  "energyLevel": "Instantáneo",
+  "primaryUse": "Compra Rápida de Beats para Sesiones de Grabación Urgentes en Puerto Rico",
+  "similarArtists": [
+    "Creadores Urbanos en San Juan, Bayamón, Ponce y Mayagüez"
+  ],
+  "recommendedBpm": "85-150 BPM",
+  "productionTips": "Sistema de entrega instantánea por correo electrónico con enlaces de descarga de alta velocidad.",
+  "idealVocalStyle": "Apto para todos los géneros urbanos.",
+  "suggestedKey": "Multitonal",
+  "streamingSuitability": "Descarga instantánea con licencia lista para distribución comercial inmediata."
+},
+  {
+  "slug": "album-ep-beat-packages-puerto-rico-discount",
+  "title": "Paquetes de Beats para EP y Álbum en Puerto Rico (40% de Descuento)",
+  "description": "Ahorra un 40% adquiriendo paquetes de 5 a 10 instrumentales coordinadas sónicamente para producir tu próximo EP, mixtape o álbum discográfico completo en Puerto Rico con licencia unificada.",
+  "targetKeywords": [
+    "album ep beat packages puerto rico discount",
+    "paquete de beats reggaeton descuento",
+    "comprar beats por mayor puerto rico ath movil",
+    "bundle instrumentales ep trap boricua"
+  ],
+  "heroCta": "Conseguir Paquete para Álbum (40% Off)",
+  "energyLevel": "Variable",
+  "primaryUse": "Producción Integral de Álbumes, Conceptos Musicales Coherentes y Lanzamientos Periódicos",
+  "similarArtists": [
+    "Artistas Urbanos en Desarrollo y Agrupaciones Musicales"
+  ],
+  "recommendedBpm": "88-142 BPM",
+  "productionTips": "Variedad curada de tempos y estados de ánimo para estructurar la narrativa completa de un disco.",
+  "idealVocalStyle": "Amplitud para que el artista demuestre su versatilidad lírica y melódica.",
+  "suggestedKey": "Gama Armónica Completa",
+  "streamingSuitability": "Licencia comercial unificada que cubre todos los temas de tu proyecto a la vez."
+},
+  {
+  "slug": "productor-musical-puerto-rico-whatsapp-onzieb",
+  "title": "Productor Musical Exclusivo para Puerto Rico (WhatsApp Directo con Onzieb)",
+  "description": "Trabaja mano a mano con el productor musical Onzieb mediante WhatsApp para ordenar pistas personalizadas: cambios de tonalidad, arreglos de estructura a medida y producción exclusiva de reggaetón y trap.",
+  "targetKeywords": [
+    "productor musical puerto rico whatsapp onzieb",
+    "onzieb productor musical reggaeton pr",
+    "encargar beat personalizado san juan whatsapp",
+    "beatmaker puerto rico contacto whatsapp"
+  ],
+  "heroCta": "Hablar con Onzieb por WhatsApp",
+  "energyLevel": "Personalizado",
+  "primaryUse": "Producción Exclusiva a Medida, Creación de Identidad Sonora y Singles Principales",
+  "similarArtists": [
+    "Onzieb",
+    "Productores Urbanos de Primer Nivel en la Isla"
+  ],
+  "recommendedBpm": "Adaptado exactamente al flujo y tesitura del artista",
+  "productionTips": "Comunicación ágil por notas de voz en WhatsApp para pulir detalles de mezcla y composición en tiempo real.",
+  "idealVocalStyle": "Diseñado milimétricamente para exaltar el timbre y carácter vocal del intérprete.",
+  "suggestedKey": "Tono Personalizado a Medida",
+  "streamingSuitability": "Cesión exclusiva con 100% de derechos master para lanzamientos comerciales sin límites."
+},
+  {
+  "slug": "pistas-de-perreo-underground-agresivo-chencho",
+  "title": "Pistas de Perreo Underground Agresivo (Estilo Chencho Corleone & Plan B)",
+  "description": "Beats de dembow callejero sucio y perreo agresivo inspirados en el sonido legendario de Chencho Corleone: sintetizadores estridentes, cajas pesadas y ritmo contundente para romper boliches y discotecas.",
+  "targetKeywords": [
+    "pistas de perreo underground agresivo chencho",
+    "perreo sucio type beat wav",
+    "chencho corleone instrumental dembow",
+    "pistas perreo agresivo puerto rico"
+  ],
+  "heroCta": "Descargar Beats de Perreo Agresivo",
+  "energyLevel": "Maximum",
+  "primaryUse": "Hit de Discoteca, Perreo Intenso de Calle y Tema de Club",
+  "similarArtists": [
+    "Chencho Corleone",
+    "Maldy",
+    "Rauw Alejandro",
+    "Jowell & Randy"
+  ],
+  "recommendedBpm": "94-98 BPM",
+  "productionTips": "Patrón de dembow con pegada en frecuencias medias-bajas y sintetizadores afilados con compresión paralela.",
+  "idealVocalStyle": "Voces graves y roncas, barras callejeras directas y coros repetitivos de alto impacto para la pista de baile.",
+  "suggestedKey": "Fa Menor / Si Menor",
+  "streamingSuitability": "Altísima efectividad en clubes nocturnos, fiestas de reggaetón y transmisiones de DJs urbanos."
+},
+  {
+  "slug": "bases-trap-rock-guitarra-bad-bunny-wav",
+  "title": "Bases de Trap-Rock con Guitarras Eléctricas (Estilo Bad Bunny & Jhayco)",
+  "description": "La poderosa fusión de rock alternativo con trap latino: riffs de guitarra eléctrica distorsionada, redobles enérgicos y bajos 808 demoledores inspirados en 'Rockstar' y la faceta rockera de Benito.",
+  "targetKeywords": [
+    "bases trap rock guitarra bad bunny wav",
+    "latin trap rock beat 808",
+    "bad bunny rock instrumental wav",
+    "guitarras electricas trap latino beat"
+  ],
+  "heroCta": "Escuchar Beats Trap-Rock con Guitarra",
+  "energyLevel": "Very High",
+  "primaryUse": "Himno de Estadio, Single de Energía Rebelde y Presentaciones en Vivo",
+  "similarArtists": [
+    "Bad Bunny",
+    "Jhayco",
+    "Eladio Carrión",
+    "Post Malone"
+  ],
+  "recommendedBpm": "130-140 BPM",
+  "productionTips": "Guitarras eléctricas grabadas con amplificadores de tubo analógicos cruzadas con subgraves 808 afinados y baterías híbridas.",
+  "idealVocalStyle": "Voz desgarrada con fuerza rockera, coros épicos y barras con actitud desafiante.",
+  "suggestedKey": "Mi Menor / Re Menor",
+  "streamingSuitability": "Impacto demoledor en listas de rock alternativo urbano y playlists de alta adrenalina."
+},
+  {
+  "slug": "free-puerto-rico-reggaeton-drum-kit-wav",
+  "title": "Drum Kit de Reggaetón Boricua Gratis (Samples WAV 24-Bit, Playero Snares & Dembow Kicks)",
+  "description": "Descarga gratis nuestro exclusivo pack de sonidos para productores de reggaetón y trap: 30 cajas playero secas, bombos dembow con pegada analógica, hi-hats y bajos 808 afinados en formato WAV 24-bit de estudio.",
+  "targetKeywords": [
+    "free puerto rico reggaeton drum kit wav",
+    "libreria reggaeton gratis wav 24 bit",
+    "dembow drum kit download gratis",
+    "samples reggaeton clasico y moderno fl studio"
+  ],
+  "heroCta": "Descargar Drum Kit Boricua Gratis (ZIP)",
+  "energyLevel": "High",
+  "primaryUse": "Producción Musical en Home Studio, Beatmaking en FL Studio, Ableton y Logic Pro",
+  "similarArtists": [
+    "Beatmakers Independientes Boricuas",
+    "Productores Urbanos Emergentes"
+  ],
+  "recommendedBpm": "Compatible con todos los tempos de 80 a 160 BPM",
+  "productionTips": "Sonidos one-shot procesados con ecualización de estudio y transientes nítidos 100% libres de derechos.",
+  "idealVocalStyle": "Cimientos rítmicos indestructibles para componer temas profesionales con el auténtico sonido de la isla.",
+  "suggestedKey": "Afinados en Do (C) para fácil afinación en tu sampler",
+  "streamingSuitability": "Completamente libre de regalías (Royalty-Free) para temas comerciales y venta de instrumentales."
+},
+  {
+  "slug": "san-juan-laperla-reggaeton-boricua-90bpm",
+  "name": "San Juan (La Perla) Reggaetón Boricua 90 BPM Beats",
+  "badge": "Reggaetón Boricua",
+  "headline": "Reggaetón Boricua 90 BPM Beats en San Juan (La Perla): San Juan & Cuna Histórica del Reggaetón",
+  "description": "Dembow clásico playero a 90 BPM, sintetizadores luminosos y bajos cálidos con pago instantáneo por ATH Móvil para artistas en San Juan (La Perla).",
+  "targetKeywords": [
+    "reggaetón boricua 90 bpm beats san juan (la perla)",
+    "comprar beats san juan (la perla) ath movil",
+    "pistas de reggaetón boricua puerto rico",
+    "instrumentales en san juan (la perla) wav"
+  ],
+  "heroCta": "Descargar Beats en San Juan (La Perla) (ATH Móvil / WAV)",
+  "recommendedBpm": "88-94 BPM",
+  "suggestedKey": "La-Menor / Fa-Mayor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Puerto Rico",
+  "sceneHub": "San Juan (La Perla)"
+},
+  {
+  "slug": "san-juan-laperla-latin-trap-808",
+  "name": "San Juan (La Perla) Latin Trap 808 Boricua Beats",
+  "badge": "Latin Trap 808",
+  "headline": "Latin Trap 808 Boricua Beats en San Juan (La Perla): San Juan & Cuna Histórica del Reggaetón",
+  "description": "Bajos 808 deslizantes demoledores, melodías menores oscuras y cajas afiladas para artistas urbanos en San Juan (La Perla).",
+  "targetKeywords": [
+    "latin trap 808 boricua beats san juan (la perla)",
+    "comprar beats san juan (la perla) ath movil",
+    "pistas de latin trap 808 puerto rico",
+    "instrumentales en san juan (la perla) wav"
+  ],
+  "heroCta": "Descargar Beats en San Juan (La Perla) (ATH Móvil / WAV)",
+  "recommendedBpm": "128-136 BPM",
+  "suggestedKey": "Re-Menor / Do-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Puerto Rico",
+  "sceneHub": "San Juan (La Perla)"
+},
+  {
+  "slug": "san-juan-laperla-boricua-street-drill",
+  "name": "San Juan (La Perla) Boricua Street Drill Beats",
+  "badge": "Boricua Drill",
+  "headline": "Boricua Street Drill Beats en San Juan (La Perla): San Juan & Cuna Histórica del Reggaetón",
+  "description": "Pianos góticos amenazantes, charles acelerados con cambios de compás y subgraves profundos para raperos de San Juan (La Perla).",
+  "targetKeywords": [
+    "boricua street drill beats san juan (la perla)",
+    "comprar beats san juan (la perla) ath movil",
+    "pistas de boricua drill puerto rico",
+    "instrumentales en san juan (la perla) wav"
+  ],
+  "heroCta": "Descargar Beats en San Juan (La Perla) (ATH Móvil / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "Fa-Menor / Si-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Puerto Rico",
+  "sceneHub": "San Juan (La Perla)"
+},
+  {
+  "slug": "san-juan-laperla-bomba-plena-fusion",
+  "name": "San Juan (La Perla) Bomba & Plena Fusion Beats",
+  "badge": "Afro-Boricua Fusion",
+  "headline": "Bomba & Plena Fusion Beats en San Juan (La Perla): San Juan & Cuna Histórica del Reggaetón",
+  "description": "Ritmos tradicionales de barril de bomba y pandereta fusionados con percusión urbana contemporánea y bajos 808 en San Juan (La Perla).",
+  "targetKeywords": [
+    "bomba & plena fusion beats san juan (la perla)",
+    "comprar beats san juan (la perla) ath movil",
+    "pistas de afro-boricua fusion puerto rico",
+    "instrumentales en san juan (la perla) wav"
+  ],
+  "heroCta": "Descargar Beats en San Juan (La Perla) (ATH Móvil / WAV)",
+  "recommendedBpm": "95-105 BPM",
+  "suggestedKey": "Sol-Menor / Re-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Puerto Rico",
+  "sceneHub": "San Juan (La Perla)"
+},
+  {
+  "slug": "carolina-villafontana-reggaeton-boricua-90bpm",
+  "name": "Carolina Reggaetón Boricua 90 BPM Beats",
+  "badge": "Reggaetón Boricua",
+  "headline": "Reggaetón Boricua 90 BPM Beats en Carolina: Tierra de Gigantes & Perreo Underground",
+  "description": "Dembow clásico playero a 90 BPM, sintetizadores luminosos y bajos cálidos con pago instantáneo por ATH Móvil para artistas en Carolina.",
+  "targetKeywords": [
+    "reggaetón boricua 90 bpm beats carolina",
+    "comprar beats carolina ath movil",
+    "pistas de reggaetón boricua puerto rico",
+    "instrumentales en carolina wav"
+  ],
+  "heroCta": "Descargar Beats en Carolina (ATH Móvil / WAV)",
+  "recommendedBpm": "88-94 BPM",
+  "suggestedKey": "La-Menor / Fa-Mayor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Puerto Rico",
+  "sceneHub": "Carolina"
+},
+  {
+  "slug": "carolina-villafontana-latin-trap-808",
+  "name": "Carolina Latin Trap 808 Boricua Beats",
+  "badge": "Latin Trap 808",
+  "headline": "Latin Trap 808 Boricua Beats en Carolina: Tierra de Gigantes & Perreo Underground",
+  "description": "Bajos 808 deslizantes demoledores, melodías menores oscuras y cajas afiladas para artistas urbanos en Carolina.",
+  "targetKeywords": [
+    "latin trap 808 boricua beats carolina",
+    "comprar beats carolina ath movil",
+    "pistas de latin trap 808 puerto rico",
+    "instrumentales en carolina wav"
+  ],
+  "heroCta": "Descargar Beats en Carolina (ATH Móvil / WAV)",
+  "recommendedBpm": "128-136 BPM",
+  "suggestedKey": "Re-Menor / Do-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Puerto Rico",
+  "sceneHub": "Carolina"
+},
+  {
+  "slug": "carolina-villafontana-boricua-street-drill",
+  "name": "Carolina Boricua Street Drill Beats",
+  "badge": "Boricua Drill",
+  "headline": "Boricua Street Drill Beats en Carolina: Tierra de Gigantes & Perreo Underground",
+  "description": "Pianos góticos amenazantes, charles acelerados con cambios de compás y subgraves profundos para raperos de Carolina.",
+  "targetKeywords": [
+    "boricua street drill beats carolina",
+    "comprar beats carolina ath movil",
+    "pistas de boricua drill puerto rico",
+    "instrumentales en carolina wav"
+  ],
+  "heroCta": "Descargar Beats en Carolina (ATH Móvil / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "Fa-Menor / Si-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Puerto Rico",
+  "sceneHub": "Carolina"
+},
+  {
+  "slug": "carolina-villafontana-bomba-plena-fusion",
+  "name": "Carolina Bomba & Plena Fusion Beats",
+  "badge": "Afro-Boricua Fusion",
+  "headline": "Bomba & Plena Fusion Beats en Carolina: Tierra de Gigantes & Perreo Underground",
+  "description": "Ritmos tradicionales de barril de bomba y pandereta fusionados con percusión urbana contemporánea y bajos 808 en Carolina.",
+  "targetKeywords": [
+    "bomba & plena fusion beats carolina",
+    "comprar beats carolina ath movil",
+    "pistas de afro-boricua fusion puerto rico",
+    "instrumentales en carolina wav"
+  ],
+  "heroCta": "Descargar Beats en Carolina (ATH Móvil / WAV)",
+  "recommendedBpm": "95-105 BPM",
+  "suggestedKey": "Sol-Menor / Re-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Puerto Rico",
+  "sceneHub": "Carolina"
+},
+  {
+  "slug": "vega-baja-almirante-reggaeton-boricua-90bpm",
+  "name": "Vega Baja Reggaetón Boricua 90 BPM Beats",
+  "badge": "Reggaetón Boricua",
+  "headline": "Reggaetón Boricua 90 BPM Beats en Vega Baja: Costa Norte & Trap de Estadio",
+  "description": "Dembow clásico playero a 90 BPM, sintetizadores luminosos y bajos cálidos con pago instantáneo por ATH Móvil para artistas en Vega Baja.",
+  "targetKeywords": [
+    "reggaetón boricua 90 bpm beats vega baja",
+    "comprar beats vega baja ath movil",
+    "pistas de reggaetón boricua puerto rico",
+    "instrumentales en vega baja wav"
+  ],
+  "heroCta": "Descargar Beats en Vega Baja (ATH Móvil / WAV)",
+  "recommendedBpm": "88-94 BPM",
+  "suggestedKey": "La-Menor / Fa-Mayor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Puerto Rico",
+  "sceneHub": "Vega Baja"
+},
+  {
+  "slug": "vega-baja-almirante-latin-trap-808",
+  "name": "Vega Baja Latin Trap 808 Boricua Beats",
+  "badge": "Latin Trap 808",
+  "headline": "Latin Trap 808 Boricua Beats en Vega Baja: Costa Norte & Trap de Estadio",
+  "description": "Bajos 808 deslizantes demoledores, melodías menores oscuras y cajas afiladas para artistas urbanos en Vega Baja.",
+  "targetKeywords": [
+    "latin trap 808 boricua beats vega baja",
+    "comprar beats vega baja ath movil",
+    "pistas de latin trap 808 puerto rico",
+    "instrumentales en vega baja wav"
+  ],
+  "heroCta": "Descargar Beats en Vega Baja (ATH Móvil / WAV)",
+  "recommendedBpm": "128-136 BPM",
+  "suggestedKey": "Re-Menor / Do-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Puerto Rico",
+  "sceneHub": "Vega Baja"
+},
+  {
+  "slug": "vega-baja-almirante-boricua-street-drill",
+  "name": "Vega Baja Boricua Street Drill Beats",
+  "badge": "Boricua Drill",
+  "headline": "Boricua Street Drill Beats en Vega Baja: Costa Norte & Trap de Estadio",
+  "description": "Pianos góticos amenazantes, charles acelerados con cambios de compás y subgraves profundos para raperos de Vega Baja.",
+  "targetKeywords": [
+    "boricua street drill beats vega baja",
+    "comprar beats vega baja ath movil",
+    "pistas de boricua drill puerto rico",
+    "instrumentales en vega baja wav"
+  ],
+  "heroCta": "Descargar Beats en Vega Baja (ATH Móvil / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "Fa-Menor / Si-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Puerto Rico",
+  "sceneHub": "Vega Baja"
+},
+  {
+  "slug": "vega-baja-almirante-bomba-plena-fusion",
+  "name": "Vega Baja Bomba & Plena Fusion Beats",
+  "badge": "Afro-Boricua Fusion",
+  "headline": "Bomba & Plena Fusion Beats en Vega Baja: Costa Norte & Trap de Estadio",
+  "description": "Ritmos tradicionales de barril de bomba y pandereta fusionados con percusión urbana contemporánea y bajos 808 en Vega Baja.",
+  "targetKeywords": [
+    "bomba & plena fusion beats vega baja",
+    "comprar beats vega baja ath movil",
+    "pistas de afro-boricua fusion puerto rico",
+    "instrumentales en vega baja wav"
+  ],
+  "heroCta": "Descargar Beats en Vega Baja (ATH Móvil / WAV)",
+  "recommendedBpm": "95-105 BPM",
+  "suggestedKey": "Sol-Menor / Re-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Puerto Rico",
+  "sceneHub": "Vega Baja"
+},
+  {
+  "slug": "bayamon-santarosa-reggaeton-boricua-90bpm",
+  "name": "Bayamón Reggaetón Boricua 90 BPM Beats",
+  "badge": "Reggaetón Boricua",
+  "headline": "Reggaetón Boricua 90 BPM Beats en Bayamón: Ciudad del Vaquero & Trap Callejero",
+  "description": "Dembow clásico playero a 90 BPM, sintetizadores luminosos y bajos cálidos con pago instantáneo por ATH Móvil para artistas en Bayamón.",
+  "targetKeywords": [
+    "reggaetón boricua 90 bpm beats bayamón",
+    "comprar beats bayamón ath movil",
+    "pistas de reggaetón boricua puerto rico",
+    "instrumentales en bayamón wav"
+  ],
+  "heroCta": "Descargar Beats en Bayamón (ATH Móvil / WAV)",
+  "recommendedBpm": "88-94 BPM",
+  "suggestedKey": "La-Menor / Fa-Mayor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Puerto Rico",
+  "sceneHub": "Bayamón"
+},
+  {
+  "slug": "bayamon-santarosa-latin-trap-808",
+  "name": "Bayamón Latin Trap 808 Boricua Beats",
+  "badge": "Latin Trap 808",
+  "headline": "Latin Trap 808 Boricua Beats en Bayamón: Ciudad del Vaquero & Trap Callejero",
+  "description": "Bajos 808 deslizantes demoledores, melodías menores oscuras y cajas afiladas para artistas urbanos en Bayamón.",
+  "targetKeywords": [
+    "latin trap 808 boricua beats bayamón",
+    "comprar beats bayamón ath movil",
+    "pistas de latin trap 808 puerto rico",
+    "instrumentales en bayamón wav"
+  ],
+  "heroCta": "Descargar Beats en Bayamón (ATH Móvil / WAV)",
+  "recommendedBpm": "128-136 BPM",
+  "suggestedKey": "Re-Menor / Do-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Puerto Rico",
+  "sceneHub": "Bayamón"
+},
+  {
+  "slug": "bayamon-santarosa-boricua-street-drill",
+  "name": "Bayamón Boricua Street Drill Beats",
+  "badge": "Boricua Drill",
+  "headline": "Boricua Street Drill Beats en Bayamón: Ciudad del Vaquero & Trap Callejero",
+  "description": "Pianos góticos amenazantes, charles acelerados con cambios de compás y subgraves profundos para raperos de Bayamón.",
+  "targetKeywords": [
+    "boricua street drill beats bayamón",
+    "comprar beats bayamón ath movil",
+    "pistas de boricua drill puerto rico",
+    "instrumentales en bayamón wav"
+  ],
+  "heroCta": "Descargar Beats en Bayamón (ATH Móvil / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "Fa-Menor / Si-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Puerto Rico",
+  "sceneHub": "Bayamón"
+},
+  {
+  "slug": "bayamon-santarosa-bomba-plena-fusion",
+  "name": "Bayamón Bomba & Plena Fusion Beats",
+  "badge": "Afro-Boricua Fusion",
+  "headline": "Bomba & Plena Fusion Beats en Bayamón: Ciudad del Vaquero & Trap Callejero",
+  "description": "Ritmos tradicionales de barril de bomba y pandereta fusionados con percusión urbana contemporánea y bajos 808 en Bayamón.",
+  "targetKeywords": [
+    "bomba & plena fusion beats bayamón",
+    "comprar beats bayamón ath movil",
+    "pistas de afro-boricua fusion puerto rico",
+    "instrumentales en bayamón wav"
+  ],
+  "heroCta": "Descargar Beats en Bayamón (ATH Móvil / WAV)",
+  "recommendedBpm": "95-105 BPM",
+  "suggestedKey": "Sol-Menor / Re-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Puerto Rico",
+  "sceneHub": "Bayamón"
+},
+  {
+  "slug": "ponce-laguancha-reggaeton-boricua-90bpm",
+  "name": "Ponce Reggaetón Boricua 90 BPM Beats",
+  "badge": "Reggaetón Boricua",
+  "headline": "Reggaetón Boricua 90 BPM Beats en Ponce: La Perla del Sur & Fusión Salsera",
+  "description": "Dembow clásico playero a 90 BPM, sintetizadores luminosos y bajos cálidos con pago instantáneo por ATH Móvil para artistas en Ponce.",
+  "targetKeywords": [
+    "reggaetón boricua 90 bpm beats ponce",
+    "comprar beats ponce ath movil",
+    "pistas de reggaetón boricua puerto rico",
+    "instrumentales en ponce wav"
+  ],
+  "heroCta": "Descargar Beats en Ponce (ATH Móvil / WAV)",
+  "recommendedBpm": "88-94 BPM",
+  "suggestedKey": "La-Menor / Fa-Mayor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Puerto Rico",
+  "sceneHub": "Ponce"
+},
+  {
+  "slug": "ponce-laguancha-latin-trap-808",
+  "name": "Ponce Latin Trap 808 Boricua Beats",
+  "badge": "Latin Trap 808",
+  "headline": "Latin Trap 808 Boricua Beats en Ponce: La Perla del Sur & Fusión Salsera",
+  "description": "Bajos 808 deslizantes demoledores, melodías menores oscuras y cajas afiladas para artistas urbanos en Ponce.",
+  "targetKeywords": [
+    "latin trap 808 boricua beats ponce",
+    "comprar beats ponce ath movil",
+    "pistas de latin trap 808 puerto rico",
+    "instrumentales en ponce wav"
+  ],
+  "heroCta": "Descargar Beats en Ponce (ATH Móvil / WAV)",
+  "recommendedBpm": "128-136 BPM",
+  "suggestedKey": "Re-Menor / Do-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Puerto Rico",
+  "sceneHub": "Ponce"
+},
+  {
+  "slug": "ponce-laguancha-boricua-street-drill",
+  "name": "Ponce Boricua Street Drill Beats",
+  "badge": "Boricua Drill",
+  "headline": "Boricua Street Drill Beats en Ponce: La Perla del Sur & Fusión Salsera",
+  "description": "Pianos góticos amenazantes, charles acelerados con cambios de compás y subgraves profundos para raperos de Ponce.",
+  "targetKeywords": [
+    "boricua street drill beats ponce",
+    "comprar beats ponce ath movil",
+    "pistas de boricua drill puerto rico",
+    "instrumentales en ponce wav"
+  ],
+  "heroCta": "Descargar Beats en Ponce (ATH Móvil / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "Fa-Menor / Si-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Puerto Rico",
+  "sceneHub": "Ponce"
+},
+  {
+  "slug": "ponce-laguancha-bomba-plena-fusion",
+  "name": "Ponce Bomba & Plena Fusion Beats",
+  "badge": "Afro-Boricua Fusion",
+  "headline": "Bomba & Plena Fusion Beats en Ponce: La Perla del Sur & Fusión Salsera",
+  "description": "Ritmos tradicionales de barril de bomba y pandereta fusionados con percusión urbana contemporánea y bajos 808 en Ponce.",
+  "targetKeywords": [
+    "bomba & plena fusion beats ponce",
+    "comprar beats ponce ath movil",
+    "pistas de afro-boricua fusion puerto rico",
+    "instrumentales en ponce wav"
+  ],
+  "heroCta": "Descargar Beats en Ponce (ATH Móvil / WAV)",
+  "recommendedBpm": "95-105 BPM",
+  "suggestedKey": "Sol-Menor / Re-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Puerto Rico",
+  "sceneHub": "Ponce"
+},
+  {
+  "slug": "caguas-turabo-reggaeton-boricua-90bpm",
+  "name": "Caguas Reggaetón Boricua 90 BPM Beats",
+  "badge": "Reggaetón Boricua",
+  "headline": "Reggaetón Boricua 90 BPM Beats en Caguas: Valle del Turabo & Urban Pop",
+  "description": "Dembow clásico playero a 90 BPM, sintetizadores luminosos y bajos cálidos con pago instantáneo por ATH Móvil para artistas en Caguas.",
+  "targetKeywords": [
+    "reggaetón boricua 90 bpm beats caguas",
+    "comprar beats caguas ath movil",
+    "pistas de reggaetón boricua puerto rico",
+    "instrumentales en caguas wav"
+  ],
+  "heroCta": "Descargar Beats en Caguas (ATH Móvil / WAV)",
+  "recommendedBpm": "88-94 BPM",
+  "suggestedKey": "La-Menor / Fa-Mayor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Puerto Rico",
+  "sceneHub": "Caguas"
+},
+  {
+  "slug": "caguas-turabo-latin-trap-808",
+  "name": "Caguas Latin Trap 808 Boricua Beats",
+  "badge": "Latin Trap 808",
+  "headline": "Latin Trap 808 Boricua Beats en Caguas: Valle del Turabo & Urban Pop",
+  "description": "Bajos 808 deslizantes demoledores, melodías menores oscuras y cajas afiladas para artistas urbanos en Caguas.",
+  "targetKeywords": [
+    "latin trap 808 boricua beats caguas",
+    "comprar beats caguas ath movil",
+    "pistas de latin trap 808 puerto rico",
+    "instrumentales en caguas wav"
+  ],
+  "heroCta": "Descargar Beats en Caguas (ATH Móvil / WAV)",
+  "recommendedBpm": "128-136 BPM",
+  "suggestedKey": "Re-Menor / Do-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Puerto Rico",
+  "sceneHub": "Caguas"
+},
+  {
+  "slug": "caguas-turabo-boricua-street-drill",
+  "name": "Caguas Boricua Street Drill Beats",
+  "badge": "Boricua Drill",
+  "headline": "Boricua Street Drill Beats en Caguas: Valle del Turabo & Urban Pop",
+  "description": "Pianos góticos amenazantes, charles acelerados con cambios de compás y subgraves profundos para raperos de Caguas.",
+  "targetKeywords": [
+    "boricua street drill beats caguas",
+    "comprar beats caguas ath movil",
+    "pistas de boricua drill puerto rico",
+    "instrumentales en caguas wav"
+  ],
+  "heroCta": "Descargar Beats en Caguas (ATH Móvil / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "Fa-Menor / Si-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Puerto Rico",
+  "sceneHub": "Caguas"
+},
+  {
+  "slug": "caguas-turabo-bomba-plena-fusion",
+  "name": "Caguas Bomba & Plena Fusion Beats",
+  "badge": "Afro-Boricua Fusion",
+  "headline": "Bomba & Plena Fusion Beats en Caguas: Valle del Turabo & Urban Pop",
+  "description": "Ritmos tradicionales de barril de bomba y pandereta fusionados con percusión urbana contemporánea y bajos 808 en Caguas.",
+  "targetKeywords": [
+    "bomba & plena fusion beats caguas",
+    "comprar beats caguas ath movil",
+    "pistas de afro-boricua fusion puerto rico",
+    "instrumentales en caguas wav"
+  ],
+  "heroCta": "Descargar Beats en Caguas (ATH Móvil / WAV)",
+  "recommendedBpm": "95-105 BPM",
+  "suggestedKey": "Sol-Menor / Re-Menor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Puerto Rico",
+  "sceneHub": "Caguas"
+},
 ];
