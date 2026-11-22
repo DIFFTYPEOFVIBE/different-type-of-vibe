@@ -147565,4 +147565,1104 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
   "market": "Indonesia",
   "sceneHub": "Medan (Kesawan)"
 },
+  {
+  "slug": "kneecap-ceol-croi-rebel-punk-drill",
+  "title": "KNEECAP Ceol Croí Ferocious Gaeilge Rebel Punk-Drill & Bodhrán 808 Beat",
+  "description": "Ferocious, irreverent Irish language (Gaeilge) punk-drill fusion inspired by KNEECAP (Fine Art, Better Way to Live, H.O.O.D, Get Your Brits Out): 140 BPM driving tempos, distorted 808s, Bodhrán percussion, screeching sirens, and rebel attitude.",
+  "targetKeywords": [
+    "kneecap type beat",
+    "irish rebel drill beat",
+    "kneecap fine art beat wav",
+    "belfast punk drill instrumental",
+    "gaeilge rap beat 808"
+  ],
+  "heroCta": "Buy KNEECAP Style Beat (Instant WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "Raucous Live Festival Anthem, High-Speed Punk-Rap Single and Defiant Street Video",
+  "similarArtists": [
+    "KNEECAP",
+    "Fontaines D.C. (Trap Remix)",
+    "The Scratch",
+    "Kojaque"
+  ],
+  "recommendedBpm": "138-144 BPM",
+  "productionTips": "Overdriven 808 bass distortion layered with rapid Bodhrán goat-skin drum triplet rolls and abrasive punk synth leads.",
+  "idealVocalStyle": "Aggressive bilingual Irish/English shouting, witty satirical punchlines, fast cadence, and crowd-igniting chants.",
+  "suggestedKey": "D Minor / A Minor",
+  "streamingSuitability": "Massive viral engagement across UK and Irish alternative charts, indie film soundtracks, and festival stages."
+},
+  {
+  "slug": "offica-a92-plugged-in-hardcore-drill",
+  "title": "Offica & A92 Plugged In Aggressive Anime Chops & Sliding 808 Drill Beat",
+  "description": "Explosive, chart-dominating Irish drill inspired by Offica and A92 (Plugged In Freestyle, Naruto Drillings, Blueborough, D22): sharp anime vocal chops, aggressive multi-octave 808 slides, and relentless Drogheda/Dublin pocket.",
+  "targetKeywords": [
+    "offica type beat",
+    "a92 drill type beat wav",
+    "irish drill instrumental 808",
+    "naruto drillings beat",
+    "plugged in freestyle beat ireland"
+  ],
+  "heroCta": "Buy Offica Style Beat (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hardcore Drill Cypher, Aggressive Music Video and High-Intensity Workout Banger",
+  "similarArtists": [
+    "Offica",
+    "A92",
+    "Dbo",
+    "Chuks",
+    "Central Cee"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Menacing dark bell melodies paired with aggressive multi-octave 808 pitch glides and crisp, snapping counter-snares.",
+  "idealVocalStyle": "Deep, authoritative Dublin/Louth accents, rapid drill cadences, multilingual slang, and sharp punchlines.",
+  "suggestedKey": "C# Minor / G# Minor",
+  "streamingSuitability": "Dominates Spotify UK/Ireland Drill charts, Mixtape Madness, and GRM Daily rotations."
+},
+  {
+  "slug": "rejjie-snow-dear-annie-vintage-jazz-rap",
+  "title": "Rejjie Snow Dear Annie Hazy Vintage Muted Trumpets & Jazz-Hop Beat",
+  "description": "Hazy, nostalgic vintage jazz rap inspired by Rejjie Snow (Dear Annie, Baw Baw Black Sheep, Cookie Chips, 1992): warm vinyl Rhodes keys, muted brass trumpets, unquantized dusty boom bap drums, and laid-back gravelly flow space.",
+  "targetKeywords": [
+    "rejjie snow type beat",
+    "dear annie type beat wav",
+    "vintage irish jazz rap beat",
+    "rejjie snow instrumental",
+    "hazy boom bap dublin"
+  ],
+  "heroCta": "Buy Rejjie Snow Style Beat (WAV + Stems)",
+  "energyLevel": "Medium",
+  "primaryUse": "Laid-Back Summer Single, Late-Night Nocturnal Drive and Aesthetic Fashion Visualizer",
+  "similarArtists": [
+    "Rejjie Snow",
+    "Loyle Carner",
+    "MF DOOM",
+    "Tom Misch"
+  ],
+  "recommendedBpm": "86-92 BPM",
+  "productionTips": "Sampled warm vinyl jazz trumpet riffs with acoustic upright bass and authentic unquantized MPC 60 drum swing.",
+  "idealVocalStyle": "Laid-back deep baritone delivery, poetic stream-of-consciousness rhymes, conversational cadence, and soulful refrains.",
+  "suggestedKey": "Bb Major / G Minor",
+  "streamingSuitability": "Evergreen placement on Jazz Rap, Mellow Beats, and international indie hip-hop playlists."
+},
+  {
+  "slug": "kojaque-towns-dead-gritty-dublin-boombap",
+  "title": "Kojaque Town's Dead Gritty Dublin Social Realism & Jazz Guitar Boom Bap Beat",
+  "description": "Raw, cinematic Dublin working-class storytelling inspired by Kojaque and Soft Boy Records (Deli Daydreams, Town's Dead, Eviction Notice, Shmelly): gritty jazz guitar loops, live acoustic bass, and witty spoken-word social realism.",
+  "targetKeywords": [
+    "kojaque type beat",
+    "towns dead type beat wav",
+    "gritty dublin boom bap beat",
+    "soft boy records instrumental",
+    "irish conscious rap beat"
+  ],
+  "heroCta": "Buy Kojaque Style Beat (Instant WAV)",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Conscious Hip-Hop Album Lead, Gritty Street Documentary and Cinematic Dublin Visualizer",
+  "similarArtists": [
+    "Kojaque",
+    "Luka Palm",
+    "Malaki",
+    "Curtisy"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "productionTips": "Layered tape-distorted jazz guitar chops with subtle acoustic Rhodes and a hard-hitting acoustic snare snap.",
+  "idealVocalStyle": "Sharp Dublin working-class cadence, witty observational wordplay, emotional vulnerability, and rhythmic spoken word.",
+  "suggestedKey": "D Minor / A Minor",
+  "streamingSuitability": "Cherished by Irish and British alternative hip-hop critics, BBC Radio 6 Music, and RTE 2FM."
+},
+  {
+  "slug": "denise-chaila-an-phocai-afro-irish-trap",
+  "title": "Denise Chaila Anseo Regal Brass Fanfare & Afro-Irish Club Trap Beat",
+  "description": "Empowering, rhythmic Afro-Irish spoken word and regal club trap inspired by Denise Chaila (Anseo, Chaila, 061, Might Be): triumphant brass fanfare stabs, syncopated African percussion, and anthemic Limerick pride.",
+  "targetKeywords": [
+    "denise chaila type beat",
+    "afro irish trap beat",
+    "anseo type beat wav",
+    "limerick hip hop beat",
+    "irish female rap instrumental"
+  ],
+  "heroCta": "Buy Denise Chaila Style Beat (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Empowerment Anthem, Cultural Television Sync and High-Energy Festival Mainstage Single",
+  "similarArtists": [
+    "Denise Chaila",
+    "Murli",
+    "God Knows",
+    "Sim Simma Soundsystem"
+  ],
+  "recommendedBpm": "105-112 BPM",
+  "productionTips": "Huge fanfare brass section layered over syncopated djembe/shekere percussion and an explosive sub-bass 808 drop.",
+  "idealVocalStyle": "Regal, commanding spoken-word poetry, rhythmic African-Irish flows, and empowering anthemic hooks.",
+  "suggestedKey": "Eb Major / C Minor",
+  "streamingSuitability": "Choice Prize winner caliber, international sync placements, and prime festival rotation."
+},
+  {
+  "slug": "hazey-haze-island-gang-limerick-flow",
+  "title": "Hazey Haze Island Gang Raw Limerick Street Realism & Heavy Boom Bap Beat",
+  "description": "Gravelly, unadulterated Limerick street reality inspired by Hazey Haze and the Island Gang (Islands, What's That, Pigman): dark 90s boom bap breaks, gritty acoustic piano loops, and uncompromising Munster cadence.",
+  "targetKeywords": [
+    "hazey haze type beat",
+    "limerick street rap beat wav",
+    "raw boom bap beat ireland",
+    "munster underground hip hop beat",
+    "irish street rap instrumental"
+  ],
+  "heroCta": "Buy Hazey Haze Style Beat (WAV 24-bit)",
+  "energyLevel": "High",
+  "primaryUse": "Gritty Hood Narrative, Underground Cypher and Hardcore Irish Street Track",
+  "similarArtists": [
+    "Hazey Haze",
+    "Citrus Fresh",
+    "PX Music",
+    "Postman Raps"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "productionTips": "Dark minor grand piano loops sampled with vinyl crackle over punchy uncompressed acoustic boom bap drums.",
+  "idealVocalStyle": "Gravelly, thunderous Limerick baritone delivery, intense local slang, street realism, and ferocious conviction.",
+  "suggestedKey": "C Minor / F Minor",
+  "streamingSuitability": "Dedicated cult underground following across Irish urban platforms, Bandcamp, and independent rap circuits."
+},
+  {
+  "slug": "celtic-tin-whistle-uilleann-pipes-trap",
+  "title": "Celtic Uilleann Pipes & Tin Whistle Traditional Folk & 808 Trap Beat",
+  "description": "Haunting, mystical Celtic Trad crossover fusing authentic Irish Uilleann pipes and Tin Whistle melodies with subterranean 808 sub glides and crisp modern trap percussion.",
+  "targetKeywords": [
+    "celtic trap beat",
+    "uilleann pipes rap beat wav",
+    "irish tin whistle trap beat",
+    "celtic folk hip hop instrumental",
+    "traditional irish 808 beat"
+  ],
+  "heroCta": "Buy Celtic Folk-Trap Beat (Instant WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Cultural Masterpiece, International St. Patrick's Festival Lead and Epic Irish Visualizer",
+  "similarArtists": [
+    "The Gloaming Trap",
+    "KNEECAP",
+    "Shed Seven",
+    "Planxty Trap"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "productionTips": "Authentic acoustic Uilleann pipe drones and tin whistle ornamentation layered over a heavy 808 sub-bass pocket.",
+  "idealVocalStyle": "Passionate Irish national storytelling, rhythmic Celtic chanting, aggressive delivery, and cultural pride.",
+  "suggestedKey": "D Dorian / G Major",
+  "streamingSuitability": "Massive global viral potential during St. Patrick's season, international festivals, and Celtic playlist curations."
+},
+  {
+  "slug": "dublin-rainy-liffey-midnight-lofi",
+  "title": "Dublin River Liffey Midnight Drizzle Warm Upright Piano & Ha'penny Lofi Beat",
+  "description": "Nostalgic, atmospheric nocturnal stroll along the River Liffey in soft Dublin rain: warm tape-saturated upright piano chords, gentle river Foley, and relaxed unquantized dusty boom bap drums.",
+  "targetKeywords": [
+    "dublin lofi beat",
+    "rainy liffey hip hop beat wav",
+    "irish chillhop instrumental",
+    "ha'penny bridge lofi study beat",
+    "dublin midnight lofi"
+  ],
+  "heroCta": "Buy Dublin Lofi Beat (Instant WAV)",
+  "energyLevel": "Low-Medium",
+  "primaryUse": "Late-Night Commute Soundtrack, Study and Focus Background and Moody Dublin Visualizer",
+  "similarArtists": [
+    "Kojaque (Lofi)",
+    "Rejjie Snow",
+    "ChilledCow",
+    "Tom Misch"
+  ],
+  "recommendedBpm": "82-86 BPM",
+  "productionTips": "Upright felt piano tracked with analog tape saturation, paired with authentic Dublin city rain sound design.",
+  "idealVocalStyle": "Intimate conversational spoken word, gentle melancholic singing, reflective Irish street poetry, and subtle hums.",
+  "suggestedKey": "F Major / D Minor",
+  "streamingSuitability": "Evergreen placement on lofi study playlists, nocturnal chill streams, and aesthetic Irish YouTube channels."
+},
+  {
+  "slug": "belfast-murals-falls-road-conscious-rap",
+  "title": "Belfast Falls Road Murals Irish Harp & Conscious Political Boom Bap Beat",
+  "description": "Monumental cultural tribute to Belfast's historic Falls Road: melancholic Celtic Irish harp plucks, analog vinyl crackle, acoustic upright bass, and passionate political street cypher pocket.",
+  "targetKeywords": [
+    "belfast conscious rap beat",
+    "falls road boom bap instrumental wav",
+    "irish harp hip hop beat",
+    "political irish rap beat",
+    "belfast 90s hip hop"
+  ],
+  "heroCta": "Buy Belfast Conscious Beat (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Conscious Album Track, Political Documentary Feature and Lyrical Cypher Lead",
+  "similarArtists": [
+    "KNEECAP",
+    "Jun Tzu",
+    "Loyle Carner",
+    "Akala"
+  ],
+  "recommendedBpm": "90-95 BPM",
+  "productionTips": "Acoustic Celtic harp loops chopped on MPC pads with vinyl warmth leaving wide space for complex lyrical delivery.",
+  "idealVocalStyle": "Passionate Belfast accent, historical and political commentary, intricate internal rhymes, and defiant delivery.",
+  "suggestedKey": "E Minor / G Major",
+  "streamingSuitability": "Highly respected by political hip-hop communities, Northern Irish cultural platforms, and purist rap circles."
+},
+  {
+  "slug": "galway-bay-atlantic-folk-cloud-trap",
+  "title": "Galway Bay Atlantic Breeze Folk Nylon Guitar & Cloud Trap Beat",
+  "description": "Misty Atlantic coastal reflection inspired by Galway Bay and Salthill: delicate nylon folk guitar fingerpicking, lush ocean spray plate reverb, and warm, gentle 808 sub-bass for introspective Irish rap.",
+  "targetKeywords": [
+    "galway cloud trap beat",
+    "atlantic folk rap beat ireland",
+    "galway bay instrumental wav",
+    "celtic cloud rap 808",
+    "west coast irish beat"
+  ],
+  "heroCta": "Buy Galway Folk-Trap Beat (Instant WAV)",
+  "energyLevel": "Medium",
+  "primaryUse": "Introspective Music Video, Moody Coastal Visualizer and Melancholic Storytelling Single",
+  "similarArtists": [
+    "Junior Brother",
+    "Lisa O'Neill (Trap)",
+    "NewDad",
+    "The Murder Capital"
+  ],
+  "recommendedBpm": "115-122 BPM",
+  "productionTips": "Warm fingerpicked folk nylon guitars layered with wide stereo plate reverb tails and a deep, rounded sub bass.",
+  "idealVocalStyle": "Vulnerable emotive singing, heartfelt West of Ireland spoken word, and poetic storytelling.",
+  "suggestedKey": "G Major / E Minor",
+  "streamingSuitability": "High engagement on sad boy indie playlists, rainy day curations, and alternative Irish music streams."
+},
+  {
+  "slug": "irish-rebel-bodhran-drum-battle-trap",
+  "title": "Irish Rebel Bodhrán Percussion & War Horns Battle 808 Trap Beat",
+  "description": "Historic Celtic resistance rhythms: thumping traditional Bodhrán goat-skin drum triplet rolls, triumphant war horns, and aggressive modern 808 trap drops for high-impact festival performers.",
+  "targetKeywords": [
+    "bodhran trap beat 808",
+    "irish war horns rap beat",
+    "rebel battle trap beat wav",
+    "celtic battle instrumental ireland",
+    "irish bodhran hip hop"
+  ],
+  "heroCta": "Buy Rebel Bodhrán Trap Beat (WAV 24-bit)",
+  "energyLevel": "Maximum",
+  "primaryUse": "High-Energy Live Performance, Sports Hype Video and Warrior Anthem",
+  "similarArtists": [
+    "KNEECAP",
+    "Gerry Cinnamon (Trap)",
+    "Danheim",
+    "Hu Trap"
+  ],
+  "recommendedBpm": "136-142 BPM",
+  "productionTips": "Real multi-sampled Bodhrán tipper hits layered with brass fanfares and explosive distorted 808 sub hits.",
+  "idealVocalStyle": "Thunderous vocal delivery, ferocious rebel chants, rapid-fire battle bars, and unyielding energy.",
+  "suggestedKey": "A Minor / D Minor",
+  "streamingSuitability": "Massive viral potential for rugby/GAA hype reels, workout playlists, and rowdy live gigs."
+},
+  {
+  "slug": "drogheda-a92-subterranean-sliding-drill",
+  "title": "Drogheda A92 Ominous Minor Bells & Subterranean Sliding 808 Drill Beat",
+  "description": "Menacing, cold County Louth drill reality: ominous minor bell arpeggios, rapid-fire snare rolls, and menacing subterranean 808 portamento slides engineered for authoritative Irish drill crews.",
+  "targetKeywords": [
+    "drogheda drill beat 808",
+    "a92 style drill instrumental",
+    "sliding 808 drill beat ireland",
+    "drogheda rap beat wav",
+    "county louth street drill"
+  ],
+  "heroCta": "Buy Drogheda Drill Beat (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hardcore Drill Video, Underground Cypher and Heavy Gym Workout Playlist Lead",
+  "similarArtists": [
+    "A92",
+    "Offica",
+    "S1",
+    "Russ Millions"
+  ],
+  "recommendedBpm": "142-145 BPM",
+  "productionTips": "Brooding minor bell ostinatos, aggressive multi-octave 808 glides, and piercing snares tuned for street impact.",
+  "idealVocalStyle": "Gritty low baritone delivery, rapid triplet drill cadences, authentic Irish street slang, and dark ad-libs.",
+  "suggestedKey": "F# Minor / C# Minor",
+  "streamingSuitability": "Dominates UK/Irish drill playlists, YouTube drill channels, and urban underground platforms."
+},
+  {
+  "slug": "cheap-irish-drill-beats-revolut-pay-eur",
+  "title": "Cheap Irish Drill & Hip-Hop Beats from €25 EUR (Instant Checkout via Revolut Pay)",
+  "description": "Professional Irish drill, boom bap, and trap instrumentals starting from €25 EUR (~$27 USD) with instant checkout via Revolut Pay, Apple Pay, and Irish debit cards in Euro (€).",
+  "targetKeywords": [
+    "cheap irish drill beats revolut pay eur",
+    "buy beats ireland revolut",
+    "affordable irish rap beats eur",
+    "dublin drill instrumental revolut pay"
+  ],
+  "heroCta": "Browse Beats from €25 EUR (Pay with Revolut)",
+  "energyLevel": "Variable",
+  "primaryUse": "Debut Singles, Home Studio Recording and Independent Mixtapes with Commercial License",
+  "similarArtists": [
+    "Independent Irish Rappers",
+    "Dublin & Belfast Content Creators"
+  ],
+  "recommendedBpm": "88-145 BPM",
+  "productionTips": "Pre-mixed and mastered with wide vocal headroom specifically optimized for Irish accent articulation and aggressive deliveries.",
+  "idealVocalStyle": "Versatile for raw drill flows, punk-rap shouting, or smooth Dublin neo-soul.",
+  "suggestedKey": "All Major and Minor Keys Available",
+  "streamingSuitability": "Commercial license covering up to 250,000 streams on Spotify, Apple Music, and YouTube."
+},
+  {
+  "slug": "commercial-irish-drill-beats-wav-stems-a92",
+  "title": "Commercial Irish Drill Beats with Multitrack WAV Stems (A92 & Offica Style)",
+  "description": "Hard-hitting Irish drill instrumentals with sliding 808s and dark minor melodies delivered with all uncompressed multitrack audio stems (WAV 24-bit) for professional studio mixing in Dublin and Drogheda.",
+  "targetKeywords": [
+    "commercial irish drill beats wav stems a92",
+    "irish drill multitrack stems wav",
+    "buy drill beats ireland stems",
+    "offica a92 style beat stems download"
+  ],
+  "heroCta": "Download Drill Beats + Multitrack WAV Stems",
+  "energyLevel": "Very High",
+  "primaryUse": "Professional Studio Tracking, EP/Album Recording and Commercial Master",
+  "similarArtists": [
+    "Offica",
+    "A92",
+    "Dbo",
+    "Chuks"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Individual 24-bit 48kHz WAV audio tracks labeled with exact tempo and key for instant Pro Tools, FL Studio, and Logic Pro import.",
+  "idealVocalStyle": "Aggressive drill cadences, rapid-fire triplets, and dark street storytelling.",
+  "suggestedKey": "C# Minor / F# Minor",
+  "streamingSuitability": "Commercial loudness standards ready for playlist pitching and major streaming distribution."
+},
+  {
+  "slug": "rebel-punk-rap-beats-kneecap-wav",
+  "title": "Irish Rebel Punk-Rap Beats with Distorted 808s (KNEECAP & Belfast Energy)",
+  "description": "Ferocious 140 BPM punk-rap and drill crossover instrumentals with aggressive distorted 808s, raw live percussion, and rebellious anti-establishment energy for high-impact live performances.",
+  "targetKeywords": [
+    "rebel punk rap beats kneecap wav",
+    "kneecap style instrumental",
+    "irish rebel punk drill beat",
+    "belfast punk rap beat download"
+  ],
+  "heroCta": "Download Rebel Punk-Rap Beats (Instant WAV)",
+  "energyLevel": "Maximum",
+  "primaryUse": "Raucous Live Festival Anthem, High-Speed Punk-Rap Single and Rebellious Street Video",
+  "similarArtists": [
+    "KNEECAP",
+    "The Scratch",
+    "Fontaines D.C. Trap",
+    "Kojaque"
+  ],
+  "recommendedBpm": "138-144 BPM",
+  "productionTips": "Saturated analog 808 sub-bass with aggressive distortion, crashing live cymbals, and driving drum energy.",
+  "idealVocalStyle": "Aggressive Irish shouting, fast satirical delivery, witty punchlines, and infectious chant choruses.",
+  "suggestedKey": "D Minor / A Minor",
+  "streamingSuitability": "Guaranteed crowd moshpits, viral short-form video engagement, and festival rotations."
+},
+  {
+  "slug": "imro-music-licensing-agreement-pdf-ireland",
+  "title": "Irish Producer Licensing Agreement (Compliant with IMRO, PPI & Irish Copyright Law)",
+  "description": "Legally binding Irish music production contract 100% compliant with IMRO (Irish Recorded Music Organisation) and the Copyright and Related Rights Act 2000 with instant signed PDF agreement and split sheet.",
+  "targetKeywords": [
+    "imro music licensing agreement pdf ireland",
+    "beat licensing contract ireland imro",
+    "music producer agreement copyright act 2000",
+    "irish hip hop split sheet pdf"
+  ],
+  "heroCta": "Buy Beat with IMRO Legal PDF Contract",
+  "energyLevel": "Professional",
+  "primaryUse": "Legal Song Registration with IMRO/PPI, Commercial DSP Distribution and TV/Film Sync",
+  "similarArtists": [
+    "Independent Irish Songwriters, MCs and Music Producers"
+  ],
+  "recommendedBpm": "Applicable across all tempos",
+  "productionTips": "Clear terms: standard 50/50 publishing split and 100% master revenue retention up to the commercial streaming limit.",
+  "idealVocalStyle": "Essential for any Irish recording artist seeking airplay on RTE 2FM, BBC Radio, and commercial protection.",
+  "suggestedKey": "Universal Legal Standard",
+  "streamingSuitability": "Guaranteed clearance for commercial Spotify uploads, sync licensing, and radio broadcast royalties."
+},
+  {
+  "slug": "buy-beats-revolut-pay-ireland-instant",
+  "title": "Buy Beats with Revolut Pay in Ireland (Instant Automated Digital Download in EUR €)",
+  "description": "The fastest, most seamless way for Irish artists to buy beats: pay instantly using Revolut Pay, Apple Pay, or Irish debit cards and receive an automated instant email download link for WAV files and license.",
+  "targetKeywords": [
+    "buy beats revolut pay ireland instant",
+    "revolut beat store ireland",
+    "buy instrumental using revolut pay eur",
+    "instant beat download ireland revolut"
+  ],
+  "heroCta": "Buy Beats with Revolut Pay Now",
+  "energyLevel": "Instant",
+  "primaryUse": "Immediate Beat Purchase for Urgent Dublin, Belfast, and Cork Studio Recording Sessions",
+  "similarArtists": [
+    "Irish Creators across Dublin, Cork, Galway, Limerick, and Belfast"
+  ],
+  "recommendedBpm": "80-150 BPM",
+  "productionTips": "Instant automated digital delivery via high-speed cloud download servers.",
+  "idealVocalStyle": "Compatible with all urban music genres in Irish and English.",
+  "suggestedKey": "All Tonalities",
+  "streamingSuitability": "Includes commercial license ready for instant worldwide distribution."
+},
+  {
+  "slug": "album-ep-beat-packages-ireland-discount",
+  "title": "Album & EP Beat Packages in Ireland (40% Off Bundle Discount in EUR €)",
+  "description": "Save 40% when purchasing bundles of 5 to 10 sonically cohesive instrumentals to produce your next EP, mixtape, or full-length album in Ireland with a unified commercial license in Euro (€).",
+  "targetKeywords": [
+    "album ep beat packages ireland discount",
+    "irish rap beat bundle discount revolut",
+    "buy bulk beats dublin eur",
+    "5 beat package album discount ireland"
+  ],
+  "heroCta": "Get Album Beat Package (40% Off)",
+  "energyLevel": "Variable",
+  "primaryUse": "Full Album Production, Cohesive Sonic Identity and Continuous Release Strategy",
+  "similarArtists": [
+    "Emerging Irish Bands, Collectives and Solo MCs"
+  ],
+  "recommendedBpm": "85-144 BPM",
+  "productionTips": "Coordinated tempos and harmonic textures designed to deliver an uninterrupted album listening experience.",
+  "idealVocalStyle": "Room to showcase an artist's full melodic and lyrical range across multiple tracks.",
+  "suggestedKey": "Full Harmonic Spectrum",
+  "streamingSuitability": "Unified commercial license covering all tracks on your EP or album at once."
+},
+  {
+  "slug": "productor-musical-ireland-whatsapp-onzieb",
+  "title": "Exclusive Music Producer for Irish Artists (Direct WhatsApp Consultation with Onzieb)",
+  "description": "Collaborate directly with music producer Onzieb via WhatsApp for custom instrumentals: key changes, custom song structure adjustments, multi-track mixing, and bespoke Irish drill, trap, and boom bap production.",
+  "targetKeywords": [
+    "productor musical ireland whatsapp onzieb",
+    "onzieb music producer dublin",
+    "custom beat producer ireland whatsapp",
+    "hire beatmaker dublin online"
+  ],
+  "heroCta": "Chat with Onzieb on WhatsApp",
+  "energyLevel": "Custom",
+  "primaryUse": "Bespoke Production, Signature Sound Creation and Commercial Lead Singles",
+  "similarArtists": [
+    "Onzieb",
+    "Top Tier Irish and UK Music Producers"
+  ],
+  "recommendedBpm": "Custom tailored to the artist's vocal cadence and natural pocket",
+  "productionTips": "Rapid iteration via WhatsApp voice notes and high-speed stem exchanges for real-time arrangement adjustments.",
+  "idealVocalStyle": "Engineered specifically to elevate the vocalist's unique tone, timbre, and personality.",
+  "suggestedKey": "Custom Tailored Key",
+  "streamingSuitability": "Includes exclusive buyout options with 100% master rights and unrestricted commercial monetization."
+},
+  {
+  "slug": "gritty-dublin-boombap-beats-kojaque",
+  "title": "Gritty Dublin Boom Bap Beats with Jazz Chops (Kojaque & Soft Boy Style)",
+  "description": "Authentic jazz-infused Dublin boom bap instrumentals featuring dusty vinyl samples, upright acoustic bass, and raw street drum breaks for lyrical MCs and spoken-word artists.",
+  "targetKeywords": [
+    "gritty dublin boombap beats kojaque",
+    "dublin jazz rap instrumental",
+    "soft boy records type beat",
+    "irish boom bap beat wav"
+  ],
+  "heroCta": "Explore Dublin Boom Bap Beats",
+  "energyLevel": "Medium-High",
+  "primaryUse": "Conscious Hip-Hop Track, Spoken-Word Poetry and Dublin Street Visualizer",
+  "similarArtists": [
+    "Kojaque",
+    "Luka Palm",
+    "Curtisy",
+    "Rejjie Snow"
+  ],
+  "recommendedBpm": "88-94 BPM",
+  "productionTips": "Sampled dusty Rhodes and jazz guitar chops layered over an unquantized acoustic boom bap drum break.",
+  "idealVocalStyle": "Sharp Irish accent, literary observations, working-class storytelling, and conversational rap flows.",
+  "suggestedKey": "D Minor / A Minor",
+  "streamingSuitability": "High acclaim across BBC Radio 6 Music, Irish indie hip-hop platforms, and Spotify Jazz Rap."
+},
+  {
+  "slug": "celtic-folk-trap-beats-tin-whistle-wav",
+  "title": "Celtic Folk-Trap Beats with Tin Whistle & Uilleann Pipes (Traditional 808 Fusion)",
+  "description": "Mystical, high-energy Celtic folk-trap crossover instrumentals featuring authentic Irish tin whistle, uilleann pipes, and bodhrán percussion fused with heavy modern 808 sub drops.",
+  "targetKeywords": [
+    "celtic folk trap beats tin whistle wav",
+    "uilleann pipes rap beat 808",
+    "traditional irish folk trap beat",
+    "celtic hip hop instrumental download"
+  ],
+  "heroCta": "Listen to Celtic Folk-Trap Beats",
+  "energyLevel": "High",
+  "primaryUse": "Cultural Festival Anthem, St. Patrick's Video Lead and Groundbreaking Celtic Single",
+  "similarArtists": [
+    "The Gloaming Trap",
+    "KNEECAP",
+    "Planxty Hip-Hop",
+    "Alffy Rev"
+  ],
+  "recommendedBpm": "130-138 BPM",
+  "productionTips": "Authentic acoustic Celtic instruments recorded with stereo depth, layered over hard-knocking trap drums and 808s.",
+  "idealVocalStyle": "Passionate Irish delivery, rhythmic Celtic chanting, and high-energy rap bars.",
+  "suggestedKey": "D Dorian / G Major",
+  "streamingSuitability": "Outstanding viral potential across St. Patrick's season, international festivals, and Celtic curations."
+},
+  {
+  "slug": "free-irish-drill-drum-kit-wav-download",
+  "title": "Free Irish Drill & Hip-Hop Drum Kit (24-Bit WAV Samples, 808s, Bodhrán & Drill Snares)",
+  "description": "Download our exclusive free sound pack for Irish music producers: 30 tuned 808 sub-basses, crisp drill snares, Bodhrán traditional percussion hits, and punchy kicks in studio-grade 24-bit WAV format.",
+  "targetKeywords": [
+    "free irish drill drum kit wav download",
+    "irish drill sound pack free download",
+    "bodhran samples free wav",
+    "dublin drill 808 pack download"
+  ],
+  "heroCta": "Download Free Irish Drill Drum Kit (ZIP)",
+  "energyLevel": "High",
+  "primaryUse": "Music Production in Home Studios, Beatmaking in FL Studio, Ableton Live and Logic Pro",
+  "similarArtists": [
+    "Independent Irish Beatmakers",
+    "Emerging Producers in Dublin, Belfast, and Cork"
+  ],
+  "recommendedBpm": "Compatible with all tempos from 80 to 160 BPM",
+  "productionTips": "One-shot samples processed with analog outboard gear and zero clipping, 100% royalty-free.",
+  "idealVocalStyle": "Rock-solid rhythmic foundation for crafting professional Irish drill, boom bap, and Celtic trap instrumentals.",
+  "suggestedKey": "Tuned to C for immediate transposition in any sampler",
+  "streamingSuitability": "100% royalty-free for commercial music releases and beat sales worldwide."
+},
+  {
+  "slug": "dublin-finglas-irish-drill-808-slides",
+  "name": "Dublin (Finglas) Irish Drill 808 Slides Beats",
+  "badge": "Irish Drill",
+  "headline": "Irish Drill 808 Slides Beats in Dublin (Finglas): Dublin Northside & Street Rap Heartland",
+  "description": "Dark minor bells, aggressive multi-octave 808 glides and rapid hi-hat rolls with instant checkout via Revolut Pay for MCs in Dublin (Finglas).",
+  "targetKeywords": [
+    "irish drill 808 slides beats dublin (finglas)",
+    "buy beats dublin (finglas) revolut pay",
+    "irish irish drill instrumental",
+    "beats in dublin (finglas) wav download"
+  ],
+  "heroCta": "Download Beats in Dublin (Finglas) (Revolut / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "C#-Minor / F#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Ireland",
+  "sceneHub": "Dublin (Finglas)"
+},
+  {
+  "slug": "dublin-finglas-celtic-folk-trap-fusion",
+  "name": "Dublin (Finglas) Celtic Folk-Trap Fusion Beats",
+  "badge": "Celtic Trap",
+  "headline": "Celtic Folk-Trap Fusion Beats in Dublin (Finglas): Dublin Northside & Street Rap Heartland",
+  "description": "Haunting uilleann pipes, tin whistle melodies and bodhrán percussion fused with heavy 808 sub drops in Dublin (Finglas).",
+  "targetKeywords": [
+    "celtic folk-trap fusion beats dublin (finglas)",
+    "buy beats dublin (finglas) revolut pay",
+    "irish celtic trap instrumental",
+    "beats in dublin (finglas) wav download"
+  ],
+  "heroCta": "Download Beats in Dublin (Finglas) (Revolut / WAV)",
+  "recommendedBpm": "130-136 BPM",
+  "suggestedKey": "D-Dorian / G-Major",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Ireland",
+  "sceneHub": "Dublin (Finglas)"
+},
+  {
+  "slug": "dublin-finglas-dublin-jazz-boombap",
+  "name": "Dublin (Finglas) Dublin Jazz Boom Bap Beats",
+  "badge": "Dublin Boom Bap",
+  "headline": "Dublin Jazz Boom Bap Beats in Dublin (Finglas): Dublin Northside & Street Rap Heartland",
+  "description": "Dusty vinyl Rhodes chords, upright acoustic basslines and unquantized acoustic drum breaks for lyrical storytellers in Dublin (Finglas).",
+  "targetKeywords": [
+    "dublin jazz boom bap beats dublin (finglas)",
+    "buy beats dublin (finglas) revolut pay",
+    "irish dublin boom bap instrumental",
+    "beats in dublin (finglas) wav download"
+  ],
+  "heroCta": "Download Beats in Dublin (Finglas) (Revolut / WAV)",
+  "recommendedBpm": "88-94 BPM",
+  "suggestedKey": "D-Minor / A-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Ireland",
+  "sceneHub": "Dublin (Finglas)"
+},
+  {
+  "slug": "dublin-finglas-rebel-punk-drill-energy",
+  "name": "Dublin (Finglas) Rebel Punk-Drill Energy Beats",
+  "badge": "Rebel Punk-Drill",
+  "headline": "Rebel Punk-Drill Energy Beats in Dublin (Finglas): Dublin Northside & Street Rap Heartland",
+  "description": "Ferocious 140 BPM driving tempos, heavily distorted 808s and raucous punk attitude designed for live performers in Dublin (Finglas).",
+  "targetKeywords": [
+    "rebel punk-drill energy beats dublin (finglas)",
+    "buy beats dublin (finglas) revolut pay",
+    "irish rebel punk-drill instrumental",
+    "beats in dublin (finglas) wav download"
+  ],
+  "heroCta": "Download Beats in Dublin (Finglas) (Revolut / WAV)",
+  "recommendedBpm": "138-144 BPM",
+  "suggestedKey": "D-Minor / C-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Ireland",
+  "sceneHub": "Dublin (Finglas)"
+},
+  {
+  "slug": "dublin-tallaght-irish-drill-808-slides",
+  "name": "Dublin (Tallaght) Irish Drill 808 Slides Beats",
+  "badge": "Irish Drill",
+  "headline": "Irish Drill 808 Slides Beats in Dublin (Tallaght): Southwest Dublin & Drill Heavyweights",
+  "description": "Dark minor bells, aggressive multi-octave 808 glides and rapid hi-hat rolls with instant checkout via Revolut Pay for MCs in Dublin (Tallaght).",
+  "targetKeywords": [
+    "irish drill 808 slides beats dublin (tallaght)",
+    "buy beats dublin (tallaght) revolut pay",
+    "irish irish drill instrumental",
+    "beats in dublin (tallaght) wav download"
+  ],
+  "heroCta": "Download Beats in Dublin (Tallaght) (Revolut / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "C#-Minor / F#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Ireland",
+  "sceneHub": "Dublin (Tallaght)"
+},
+  {
+  "slug": "dublin-tallaght-celtic-folk-trap-fusion",
+  "name": "Dublin (Tallaght) Celtic Folk-Trap Fusion Beats",
+  "badge": "Celtic Trap",
+  "headline": "Celtic Folk-Trap Fusion Beats in Dublin (Tallaght): Southwest Dublin & Drill Heavyweights",
+  "description": "Haunting uilleann pipes, tin whistle melodies and bodhrán percussion fused with heavy 808 sub drops in Dublin (Tallaght).",
+  "targetKeywords": [
+    "celtic folk-trap fusion beats dublin (tallaght)",
+    "buy beats dublin (tallaght) revolut pay",
+    "irish celtic trap instrumental",
+    "beats in dublin (tallaght) wav download"
+  ],
+  "heroCta": "Download Beats in Dublin (Tallaght) (Revolut / WAV)",
+  "recommendedBpm": "130-136 BPM",
+  "suggestedKey": "D-Dorian / G-Major",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Ireland",
+  "sceneHub": "Dublin (Tallaght)"
+},
+  {
+  "slug": "dublin-tallaght-dublin-jazz-boombap",
+  "name": "Dublin (Tallaght) Dublin Jazz Boom Bap Beats",
+  "badge": "Dublin Boom Bap",
+  "headline": "Dublin Jazz Boom Bap Beats in Dublin (Tallaght): Southwest Dublin & Drill Heavyweights",
+  "description": "Dusty vinyl Rhodes chords, upright acoustic basslines and unquantized acoustic drum breaks for lyrical storytellers in Dublin (Tallaght).",
+  "targetKeywords": [
+    "dublin jazz boom bap beats dublin (tallaght)",
+    "buy beats dublin (tallaght) revolut pay",
+    "irish dublin boom bap instrumental",
+    "beats in dublin (tallaght) wav download"
+  ],
+  "heroCta": "Download Beats in Dublin (Tallaght) (Revolut / WAV)",
+  "recommendedBpm": "88-94 BPM",
+  "suggestedKey": "D-Minor / A-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Ireland",
+  "sceneHub": "Dublin (Tallaght)"
+},
+  {
+  "slug": "dublin-tallaght-rebel-punk-drill-energy",
+  "name": "Dublin (Tallaght) Rebel Punk-Drill Energy Beats",
+  "badge": "Rebel Punk-Drill",
+  "headline": "Rebel Punk-Drill Energy Beats in Dublin (Tallaght): Southwest Dublin & Drill Heavyweights",
+  "description": "Ferocious 140 BPM driving tempos, heavily distorted 808s and raucous punk attitude designed for live performers in Dublin (Tallaght).",
+  "targetKeywords": [
+    "rebel punk-drill energy beats dublin (tallaght)",
+    "buy beats dublin (tallaght) revolut pay",
+    "irish rebel punk-drill instrumental",
+    "beats in dublin (tallaght) wav download"
+  ],
+  "heroCta": "Download Beats in Dublin (Tallaght) (Revolut / WAV)",
+  "recommendedBpm": "138-144 BPM",
+  "suggestedKey": "D-Minor / C-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Ireland",
+  "sceneHub": "Dublin (Tallaght)"
+},
+  {
+  "slug": "belfast-falls-irish-drill-808-slides",
+  "name": "Belfast (Falls Road) Irish Drill 808 Slides Beats",
+  "badge": "Irish Drill",
+  "headline": "Irish Drill 808 Slides Beats in Belfast (Falls Road): Belfast & Rebel Punk-Drill Epicenter",
+  "description": "Dark minor bells, aggressive multi-octave 808 glides and rapid hi-hat rolls with instant checkout via Revolut Pay for MCs in Belfast (Falls Road).",
+  "targetKeywords": [
+    "irish drill 808 slides beats belfast (falls road)",
+    "buy beats belfast (falls road) revolut pay",
+    "irish irish drill instrumental",
+    "beats in belfast (falls road) wav download"
+  ],
+  "heroCta": "Download Beats in Belfast (Falls Road) (Revolut / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "C#-Minor / F#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Ireland",
+  "sceneHub": "Belfast (Falls Road)"
+},
+  {
+  "slug": "belfast-falls-celtic-folk-trap-fusion",
+  "name": "Belfast (Falls Road) Celtic Folk-Trap Fusion Beats",
+  "badge": "Celtic Trap",
+  "headline": "Celtic Folk-Trap Fusion Beats in Belfast (Falls Road): Belfast & Rebel Punk-Drill Epicenter",
+  "description": "Haunting uilleann pipes, tin whistle melodies and bodhrán percussion fused with heavy 808 sub drops in Belfast (Falls Road).",
+  "targetKeywords": [
+    "celtic folk-trap fusion beats belfast (falls road)",
+    "buy beats belfast (falls road) revolut pay",
+    "irish celtic trap instrumental",
+    "beats in belfast (falls road) wav download"
+  ],
+  "heroCta": "Download Beats in Belfast (Falls Road) (Revolut / WAV)",
+  "recommendedBpm": "130-136 BPM",
+  "suggestedKey": "D-Dorian / G-Major",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Ireland",
+  "sceneHub": "Belfast (Falls Road)"
+},
+  {
+  "slug": "belfast-falls-dublin-jazz-boombap",
+  "name": "Belfast (Falls Road) Dublin Jazz Boom Bap Beats",
+  "badge": "Dublin Boom Bap",
+  "headline": "Dublin Jazz Boom Bap Beats in Belfast (Falls Road): Belfast & Rebel Punk-Drill Epicenter",
+  "description": "Dusty vinyl Rhodes chords, upright acoustic basslines and unquantized acoustic drum breaks for lyrical storytellers in Belfast (Falls Road).",
+  "targetKeywords": [
+    "dublin jazz boom bap beats belfast (falls road)",
+    "buy beats belfast (falls road) revolut pay",
+    "irish dublin boom bap instrumental",
+    "beats in belfast (falls road) wav download"
+  ],
+  "heroCta": "Download Beats in Belfast (Falls Road) (Revolut / WAV)",
+  "recommendedBpm": "88-94 BPM",
+  "suggestedKey": "D-Minor / A-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Ireland",
+  "sceneHub": "Belfast (Falls Road)"
+},
+  {
+  "slug": "belfast-falls-rebel-punk-drill-energy",
+  "name": "Belfast (Falls Road) Rebel Punk-Drill Energy Beats",
+  "badge": "Rebel Punk-Drill",
+  "headline": "Rebel Punk-Drill Energy Beats in Belfast (Falls Road): Belfast & Rebel Punk-Drill Epicenter",
+  "description": "Ferocious 140 BPM driving tempos, heavily distorted 808s and raucous punk attitude designed for live performers in Belfast (Falls Road).",
+  "targetKeywords": [
+    "rebel punk-drill energy beats belfast (falls road)",
+    "buy beats belfast (falls road) revolut pay",
+    "irish rebel punk-drill instrumental",
+    "beats in belfast (falls road) wav download"
+  ],
+  "heroCta": "Download Beats in Belfast (Falls Road) (Revolut / WAV)",
+  "recommendedBpm": "138-144 BPM",
+  "suggestedKey": "D-Minor / C-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Ireland",
+  "sceneHub": "Belfast (Falls Road)"
+},
+  {
+  "slug": "cork-shandon-irish-drill-808-slides",
+  "name": "Cork (Shandon) Irish Drill 808 Slides Beats",
+  "badge": "Irish Drill",
+  "headline": "Irish Drill 808 Slides Beats in Cork (Shandon): The Rebel City & True Cork Boom Bap",
+  "description": "Dark minor bells, aggressive multi-octave 808 glides and rapid hi-hat rolls with instant checkout via Revolut Pay for MCs in Cork (Shandon).",
+  "targetKeywords": [
+    "irish drill 808 slides beats cork (shandon)",
+    "buy beats cork (shandon) revolut pay",
+    "irish irish drill instrumental",
+    "beats in cork (shandon) wav download"
+  ],
+  "heroCta": "Download Beats in Cork (Shandon) (Revolut / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "C#-Minor / F#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Ireland",
+  "sceneHub": "Cork (Shandon)"
+},
+  {
+  "slug": "cork-shandon-celtic-folk-trap-fusion",
+  "name": "Cork (Shandon) Celtic Folk-Trap Fusion Beats",
+  "badge": "Celtic Trap",
+  "headline": "Celtic Folk-Trap Fusion Beats in Cork (Shandon): The Rebel City & True Cork Boom Bap",
+  "description": "Haunting uilleann pipes, tin whistle melodies and bodhrán percussion fused with heavy 808 sub drops in Cork (Shandon).",
+  "targetKeywords": [
+    "celtic folk-trap fusion beats cork (shandon)",
+    "buy beats cork (shandon) revolut pay",
+    "irish celtic trap instrumental",
+    "beats in cork (shandon) wav download"
+  ],
+  "heroCta": "Download Beats in Cork (Shandon) (Revolut / WAV)",
+  "recommendedBpm": "130-136 BPM",
+  "suggestedKey": "D-Dorian / G-Major",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Ireland",
+  "sceneHub": "Cork (Shandon)"
+},
+  {
+  "slug": "cork-shandon-dublin-jazz-boombap",
+  "name": "Cork (Shandon) Dublin Jazz Boom Bap Beats",
+  "badge": "Dublin Boom Bap",
+  "headline": "Dublin Jazz Boom Bap Beats in Cork (Shandon): The Rebel City & True Cork Boom Bap",
+  "description": "Dusty vinyl Rhodes chords, upright acoustic basslines and unquantized acoustic drum breaks for lyrical storytellers in Cork (Shandon).",
+  "targetKeywords": [
+    "dublin jazz boom bap beats cork (shandon)",
+    "buy beats cork (shandon) revolut pay",
+    "irish dublin boom bap instrumental",
+    "beats in cork (shandon) wav download"
+  ],
+  "heroCta": "Download Beats in Cork (Shandon) (Revolut / WAV)",
+  "recommendedBpm": "88-94 BPM",
+  "suggestedKey": "D-Minor / A-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Ireland",
+  "sceneHub": "Cork (Shandon)"
+},
+  {
+  "slug": "cork-shandon-rebel-punk-drill-energy",
+  "name": "Cork (Shandon) Rebel Punk-Drill Energy Beats",
+  "badge": "Rebel Punk-Drill",
+  "headline": "Rebel Punk-Drill Energy Beats in Cork (Shandon): The Rebel City & True Cork Boom Bap",
+  "description": "Ferocious 140 BPM driving tempos, heavily distorted 808s and raucous punk attitude designed for live performers in Cork (Shandon).",
+  "targetKeywords": [
+    "rebel punk-drill energy beats cork (shandon)",
+    "buy beats cork (shandon) revolut pay",
+    "irish rebel punk-drill instrumental",
+    "beats in cork (shandon) wav download"
+  ],
+  "heroCta": "Download Beats in Cork (Shandon) (Revolut / WAV)",
+  "recommendedBpm": "138-144 BPM",
+  "suggestedKey": "D-Minor / C-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Ireland",
+  "sceneHub": "Cork (Shandon)"
+},
+  {
+  "slug": "galway-salthill-irish-drill-808-slides",
+  "name": "Galway (Salthill) Irish Drill 808 Slides Beats",
+  "badge": "Irish Drill",
+  "headline": "Irish Drill 808 Slides Beats in Galway (Salthill): Galway Bay & Celtic Atlantic Cloud Trap",
+  "description": "Dark minor bells, aggressive multi-octave 808 glides and rapid hi-hat rolls with instant checkout via Revolut Pay for MCs in Galway (Salthill).",
+  "targetKeywords": [
+    "irish drill 808 slides beats galway (salthill)",
+    "buy beats galway (salthill) revolut pay",
+    "irish irish drill instrumental",
+    "beats in galway (salthill) wav download"
+  ],
+  "heroCta": "Download Beats in Galway (Salthill) (Revolut / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "C#-Minor / F#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Ireland",
+  "sceneHub": "Galway (Salthill)"
+},
+  {
+  "slug": "galway-salthill-celtic-folk-trap-fusion",
+  "name": "Galway (Salthill) Celtic Folk-Trap Fusion Beats",
+  "badge": "Celtic Trap",
+  "headline": "Celtic Folk-Trap Fusion Beats in Galway (Salthill): Galway Bay & Celtic Atlantic Cloud Trap",
+  "description": "Haunting uilleann pipes, tin whistle melodies and bodhrán percussion fused with heavy 808 sub drops in Galway (Salthill).",
+  "targetKeywords": [
+    "celtic folk-trap fusion beats galway (salthill)",
+    "buy beats galway (salthill) revolut pay",
+    "irish celtic trap instrumental",
+    "beats in galway (salthill) wav download"
+  ],
+  "heroCta": "Download Beats in Galway (Salthill) (Revolut / WAV)",
+  "recommendedBpm": "130-136 BPM",
+  "suggestedKey": "D-Dorian / G-Major",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Ireland",
+  "sceneHub": "Galway (Salthill)"
+},
+  {
+  "slug": "galway-salthill-dublin-jazz-boombap",
+  "name": "Galway (Salthill) Dublin Jazz Boom Bap Beats",
+  "badge": "Dublin Boom Bap",
+  "headline": "Dublin Jazz Boom Bap Beats in Galway (Salthill): Galway Bay & Celtic Atlantic Cloud Trap",
+  "description": "Dusty vinyl Rhodes chords, upright acoustic basslines and unquantized acoustic drum breaks for lyrical storytellers in Galway (Salthill).",
+  "targetKeywords": [
+    "dublin jazz boom bap beats galway (salthill)",
+    "buy beats galway (salthill) revolut pay",
+    "irish dublin boom bap instrumental",
+    "beats in galway (salthill) wav download"
+  ],
+  "heroCta": "Download Beats in Galway (Salthill) (Revolut / WAV)",
+  "recommendedBpm": "88-94 BPM",
+  "suggestedKey": "D-Minor / A-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Ireland",
+  "sceneHub": "Galway (Salthill)"
+},
+  {
+  "slug": "galway-salthill-rebel-punk-drill-energy",
+  "name": "Galway (Salthill) Rebel Punk-Drill Energy Beats",
+  "badge": "Rebel Punk-Drill",
+  "headline": "Rebel Punk-Drill Energy Beats in Galway (Salthill): Galway Bay & Celtic Atlantic Cloud Trap",
+  "description": "Ferocious 140 BPM driving tempos, heavily distorted 808s and raucous punk attitude designed for live performers in Galway (Salthill).",
+  "targetKeywords": [
+    "rebel punk-drill energy beats galway (salthill)",
+    "buy beats galway (salthill) revolut pay",
+    "irish rebel punk-drill instrumental",
+    "beats in galway (salthill) wav download"
+  ],
+  "heroCta": "Download Beats in Galway (Salthill) (Revolut / WAV)",
+  "recommendedBpm": "138-144 BPM",
+  "suggestedKey": "D-Minor / C-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Ireland",
+  "sceneHub": "Galway (Salthill)"
+},
+  {
+  "slug": "limerick-moyross-irish-drill-808-slides",
+  "name": "Limerick (Moyross) Irish Drill 808 Slides Beats",
+  "badge": "Irish Drill",
+  "headline": "Irish Drill 808 Slides Beats in Limerick (Moyross): Treaty City & Raw Munster Drill",
+  "description": "Dark minor bells, aggressive multi-octave 808 glides and rapid hi-hat rolls with instant checkout via Revolut Pay for MCs in Limerick (Moyross).",
+  "targetKeywords": [
+    "irish drill 808 slides beats limerick (moyross)",
+    "buy beats limerick (moyross) revolut pay",
+    "irish irish drill instrumental",
+    "beats in limerick (moyross) wav download"
+  ],
+  "heroCta": "Download Beats in Limerick (Moyross) (Revolut / WAV)",
+  "recommendedBpm": "140-144 BPM",
+  "suggestedKey": "C#-Minor / F#-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Ireland",
+  "sceneHub": "Limerick (Moyross)"
+},
+  {
+  "slug": "limerick-moyross-celtic-folk-trap-fusion",
+  "name": "Limerick (Moyross) Celtic Folk-Trap Fusion Beats",
+  "badge": "Celtic Trap",
+  "headline": "Celtic Folk-Trap Fusion Beats in Limerick (Moyross): Treaty City & Raw Munster Drill",
+  "description": "Haunting uilleann pipes, tin whistle melodies and bodhrán percussion fused with heavy 808 sub drops in Limerick (Moyross).",
+  "targetKeywords": [
+    "celtic folk-trap fusion beats limerick (moyross)",
+    "buy beats limerick (moyross) revolut pay",
+    "irish celtic trap instrumental",
+    "beats in limerick (moyross) wav download"
+  ],
+  "heroCta": "Download Beats in Limerick (Moyross) (Revolut / WAV)",
+  "recommendedBpm": "130-136 BPM",
+  "suggestedKey": "D-Dorian / G-Major",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Ireland",
+  "sceneHub": "Limerick (Moyross)"
+},
+  {
+  "slug": "limerick-moyross-dublin-jazz-boombap",
+  "name": "Limerick (Moyross) Dublin Jazz Boom Bap Beats",
+  "badge": "Dublin Boom Bap",
+  "headline": "Dublin Jazz Boom Bap Beats in Limerick (Moyross): Treaty City & Raw Munster Drill",
+  "description": "Dusty vinyl Rhodes chords, upright acoustic basslines and unquantized acoustic drum breaks for lyrical storytellers in Limerick (Moyross).",
+  "targetKeywords": [
+    "dublin jazz boom bap beats limerick (moyross)",
+    "buy beats limerick (moyross) revolut pay",
+    "irish dublin boom bap instrumental",
+    "beats in limerick (moyross) wav download"
+  ],
+  "heroCta": "Download Beats in Limerick (Moyross) (Revolut / WAV)",
+  "recommendedBpm": "88-94 BPM",
+  "suggestedKey": "D-Minor / A-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Ireland",
+  "sceneHub": "Limerick (Moyross)"
+},
+  {
+  "slug": "limerick-moyross-rebel-punk-drill-energy",
+  "name": "Limerick (Moyross) Rebel Punk-Drill Energy Beats",
+  "badge": "Rebel Punk-Drill",
+  "headline": "Rebel Punk-Drill Energy Beats in Limerick (Moyross): Treaty City & Raw Munster Drill",
+  "description": "Ferocious 140 BPM driving tempos, heavily distorted 808s and raucous punk attitude designed for live performers in Limerick (Moyross).",
+  "targetKeywords": [
+    "rebel punk-drill energy beats limerick (moyross)",
+    "buy beats limerick (moyross) revolut pay",
+    "irish rebel punk-drill instrumental",
+    "beats in limerick (moyross) wav download"
+  ],
+  "heroCta": "Download Beats in Limerick (Moyross) (Revolut / WAV)",
+  "recommendedBpm": "138-144 BPM",
+  "suggestedKey": "D-Minor / C-Minor",
+  "beats": [
+    "7",
+    "5",
+    "1"
+  ],
+  "market": "Ireland",
+  "sceneHub": "Limerick (Moyross)"
+},
 ];

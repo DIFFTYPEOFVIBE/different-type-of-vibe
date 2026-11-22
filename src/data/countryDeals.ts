@@ -45238,4 +45238,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "ie/dublin-finglas-ballymun": {
+  "slug": "ie/dublin-finglas-ballymun",
+  "name": "Ireland – Dublin: Finglas, Ballymun & Poppintree (Northside Street Rap Heartland, Raw Working-Class Bars & Gritty 808 Drill)",
+  "flag": "🇮🇪",
+  "currency": "EUR (€) / GBP (£) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Revolut Pay, Apple Pay, Google Pay, AIB / Bank of Ireland SEPA Transfer, Credit/Debit Cards, PayPal, Stripe",
+  "pro": "IMRO / PPI",
+  "proFullName": "IMRO (Irish Recorded Music Organisation) / PPI / PRS for Music",
+  "proGuide": "100% compliant with the Copyright and Related Rights Act 2000 (Ireland) and IMRO registration with instant downloadable signed licensing contract and split sheet PDF.",
+  "headline": "Beats in Finglas & Ballymun: Northside Working-Class Realism, Menacing Minor Bells & Gritty Irish Drill",
+  "description": "The uncompromising heart of Dublin northside street culture: icy minor bells, punchy snares, and heavy sliding 808s tailored for gritty working-class MCs across Finglas and Ballymun.",
+  "popularGenres": [
+    "Finglas Street Drill",
+    "Northside Dublin Trap",
+    "Working-Class Irish Rap"
+  ],
+  "subClusters": []
+},
+  "ie/dublin-tallaght-clondalkin": {
+  "slug": "ie/dublin-tallaght-clondalkin",
+  "name": "Ireland – Dublin: Tallaght, Clondalkin & Neilstown (Southwest Dublin Urban Giant, Relentless Street Flows & Heavy Drill)",
+  "flag": "🇮🇪",
+  "currency": "EUR (€) / GBP (£) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Revolut Pay, Apple Pay, Google Pay, AIB / Bank of Ireland SEPA Transfer, Credit/Debit Cards, PayPal, Stripe",
+  "pro": "IMRO / PPI",
+  "proFullName": "IMRO (Irish Recorded Music Organisation) / PPI / PRS for Music",
+  "proGuide": "Uncompressed 24-bit 48kHz studio WAV files with separated multitrack stems and commercial license.",
+  "headline": "Beats in Tallaght & Clondalkin: Southwest Dublin Powerhouse, Hard Sliding 808s & Aggressive Drill",
+  "description": "The massive urban corridor of southwest Dublin: menacing synth pads, relentless hi-hat triplets, and subterranean 808 glides for street rappers and drill crews in Tallaght and Clondalkin.",
+  "popularGenres": [
+    "Tallaght Drill 808",
+    "Clondalkin Street Rap",
+    "Southwest Dublin Trap"
+  ],
+  "subClusters": []
+},
+  "ie/dublin-grand-canal-dock": {
+  "slug": "ie/dublin-grand-canal-dock",
+  "name": "Ireland – Dublin: Grand Canal Dock & Silicon Docks (Dublin Tech Hub, Sleek Neo-Soul, Polished Commercial Hip-Hop & International R&B)",
+  "flag": "🇮🇪",
+  "currency": "EUR (€) / GBP (£) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Revolut Pay, Apple Pay, Google Pay, AIB / Bank of Ireland SEPA Transfer, Credit/Debit Cards, PayPal, Stripe",
+  "pro": "IMRO / PPI",
+  "proFullName": "IMRO (Irish Recorded Music Organisation) / PPI / PRS for Music",
+  "proGuide": "Instant digital delivery with split sheet and licensing contract for Spotify and Apple Music distribution.",
+  "headline": "Beats in Grand Canal Dock: Silicon Docks Modern Skyline, Warm Rhodes & Sleek Dublin R&B",
+  "description": "The sleek, cosmopolitan innovation district of Dublin: velvety Fender Rhodes keys, polished basslines, and radio-ready production for commercial hip-hop and R&B vocalists in Grand Canal Dock.",
+  "popularGenres": [
+    "Grand Canal Neo-Soul",
+    "Silicon Docks R&B",
+    "Dublin Commercial Trap"
+  ],
+  "subClusters": []
+},
+  "ie/cork-shandon-blackpool": {
+  "slug": "ie/cork-shandon-blackpool",
+  "name": "Ireland – Cork: Shandon, Blackpool & St. Patrick's Street (The Rebel City Cultural Vanguard, Cork Boom Bap & Storytelling Rap)",
+  "flag": "🇮🇪",
+  "currency": "EUR (€) / GBP (£) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Revolut Pay, Apple Pay, Google Pay, AIB / Bank of Ireland SEPA Transfer, Credit/Debit Cards, PayPal, Stripe",
+  "pro": "IMRO / PPI",
+  "proFullName": "IMRO (Irish Recorded Music Organisation) / PPI / PRS for Music",
+  "proGuide": "Direct mobile payment via Revolut Pay with instant master and stem downloads.",
+  "headline": "Beats in Cork City: The Rebel County, Shandon Bells, Dusty Jazz Chops & True Cork Boom Bap",
+  "description": "The proud, rebellious cultural capital of southern Ireland: dusty vinyl sample flips, authentic acoustic drum swing, and warm upright basslines for lyrical storytellers in Cork City.",
+  "popularGenres": [
+    "Rebel County Boom Bap",
+    "Cork Street Hip-Hop",
+    "Munster Jazz Rap"
+  ],
+  "subClusters": []
+},
+  "ie/galway-salthill-claddagh": {
+  "slug": "ie/galway-salthill-claddagh",
+  "name": "Ireland – Galway: Salthill, Claddagh & Latin Quarter (West Coast Bohemia, Celtic Folk-Trap, Fiddle Harmonies & Atlantic Lofi)",
+  "flag": "🇮🇪",
+  "currency": "EUR (€) / GBP (£) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Revolut Pay, Apple Pay, Google Pay, AIB / Bank of Ireland SEPA Transfer, Credit/Debit Cards, PayPal, Stripe",
+  "pro": "IMRO / PPI",
+  "proFullName": "IMRO (Irish Recorded Music Organisation) / PPI / PRS for Music",
+  "proGuide": "100% royalty-free original compositions with no sample clearance issues.",
+  "headline": "Beats in Galway: Atlantic Coastal Breezes, Celtic Trad Fiddle Chops & Misty Cloud Trap",
+  "description": "Where bohemian busking heritage meets modern 808 trap: delicate Celtic acoustic textures, ocean surf Foley, and warm sub-bass for poetic artists in Galway and the Claddagh.",
+  "popularGenres": [
+    "Galway Celtic Trap",
+    "Atlantic Coast Lofi",
+    "West of Ireland Folk Rap"
+  ],
+  "subClusters": []
+},
+  "ie/limerick-moyross-southill": {
+  "slug": "ie/limerick-moyross-southill",
+  "name": "Ireland – Limerick: Moyross, Southill & Shannon (Treaty City Drill Stronghold, Cold Sliding 808s & Hard-Knocking Bars)",
+  "flag": "🇮🇪",
+  "currency": "EUR (€) / GBP (£) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Revolut Pay, Apple Pay, Google Pay, AIB / Bank of Ireland SEPA Transfer, Credit/Debit Cards, PayPal, Stripe",
+  "pro": "IMRO / PPI",
+  "proFullName": "IMRO (Irish Recorded Music Organisation) / PPI / PRS for Music",
+  "proGuide": "Commercial licensing agreement protecting publishing, sync, and streaming rights under Irish copyright law.",
+  "headline": "Beats in Limerick City: The Treaty City, River Shannon Mist, Aggressive 808s & Raw Munster Drill",
+  "description": "The gritty, defiant urban epicenter of the mid-west: ominous minor bells, aggressive multi-octave 808 slides, and sharp snares matching the intensity of Limerick street rappers.",
+  "popularGenres": [
+    "Treaty City Drill",
+    "Limerick Street Rap",
+    "Munster 808s"
+  ],
+  "subClusters": []
+},
+  "ie/belfast-falls-shankill": {
+  "slug": "ie/belfast-falls-shankill",
+  "name": "Ireland – Belfast: Falls Road, Shankill & Gaeltacht Quarter (Celtic Punk-Drill Epicenter, Irish Language Rebel Rap & Bodhrán Drops)",
+  "flag": "🇮🇪",
+  "currency": "EUR (€) / GBP (£) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Revolut Pay, Apple Pay, Google Pay, AIB / Bank of Ireland SEPA Transfer, Credit/Debit Cards, PayPal, Stripe",
+  "pro": "IMRO / PPI",
+  "proFullName": "IMRO (Irish Recorded Music Organisation) / PPI / PRS for Music",
+  "proGuide": "Studio-grade master files normalized to streaming loudness standards (-14 LUFS) for immediate release.",
+  "headline": "Beats in Belfast: Falls Road Murals, Gaeilge Rebel Bars & Heavy Punk-Drill 808s",
+  "description": "The legendary cradle of Irish language and working-class resistance rap: Bodhrán percussion, distorted 808s, and fast tempos for rebel MCs in Belfast and the Gaeltacht Quarter.",
+  "popularGenres": [
+    "Belfast Rebel Drill",
+    "Gaeltacht Hip-Hop",
+    "Falls Road Trap"
+  ],
+  "subClusters": []
+},
+  "ie/drogheda-mell-rathmullan": {
+  "slug": "ie/drogheda-mell-rathmullan",
+  "name": "Ireland – Drogheda & County Louth: Mell & Rathmullan (Cradle of A92, Fast-Paced Irish Drill & Sliding Bass)",
+  "flag": "🇮🇪",
+  "currency": "EUR (€) / GBP (£) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Revolut Pay, Apple Pay, Google Pay, AIB / Bank of Ireland SEPA Transfer, Credit/Debit Cards, PayPal, Stripe",
+  "pro": "IMRO / PPI",
+  "proFullName": "IMRO (Irish Recorded Music Organisation) / PPI / PRS for Music",
+  "proGuide": "Non-exclusive and exclusive licensing options with full stems for club performance and video sync.",
+  "headline": "Beats in Drogheda & Louth: Cradle of Irish Drill Dominance, A92 Energy & Cold Gliding 808s",
+  "description": "The national capital of Irish drill exports: rapid-fire hi-hat rolls, dark orchestral bells, and heavy sliding sub-bass for aggressive performers across Drogheda and County Louth.",
+  "popularGenres": [
+    "Drogheda Irish Drill",
+    "A92 Movement Style",
+    "Louth Street Rap"
+  ],
+  "subClusters": []
+},
+  "ie/swords-fingal-north-county": {
+  "slug": "ie/swords-fingal-north-county",
+  "name": "Ireland – Dublin: Swords, Malahide & North County Fingal (Coastal Suburban Hip-Hop, Breezy Melodic Trap & Modern Pop-Rap)",
+  "flag": "🇮🇪",
+  "currency": "EUR (€) / GBP (£) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Revolut Pay, Apple Pay, Google Pay, AIB / Bank of Ireland SEPA Transfer, Credit/Debit Cards, PayPal, Stripe",
+  "pro": "IMRO / PPI",
+  "proFullName": "IMRO (Irish Recorded Music Organisation) / PPI / PRS for Music",
+  "proGuide": "Signed digital contract and split sheet PDF for independent Irish music producers and recording artists.",
+  "headline": "Beats in Swords & Malahide: North County Dublin Coast, Bright Synths & Modern Melodic Trap",
+  "description": "The rapidly growing urban corridor of North County Dublin: crisp commercial claps, sunny melodic synthesizer riffs, and buoyant 808s for radio-friendly Irish hip-hop vocalists.",
+  "popularGenres": [
+    "Swords Melodic Trap",
+    "North County Dublin Pop-Rap",
+    "Fingal Coastal Beats"
+  ],
+  "subClusters": []
+},
+  "ie/waterford-ballybricken-quay": {
+  "slug": "ie/waterford-ballybricken-quay",
+  "name": "Ireland – Waterford: Ballybricken & The Quay (Ireland's Oldest City, Gritty Coastal Trap, Distorted Bass & Maritime Beats)",
+  "flag": "🇮🇪",
+  "currency": "EUR (€) / GBP (£) / USD ($)",
+  "currencyCode": "EUR",
+  "gateways": "Revolut Pay, Apple Pay, Google Pay, AIB / Bank of Ireland SEPA Transfer, Credit/Debit Cards, PayPal, Stripe",
+  "pro": "IMRO / PPI",
+  "proFullName": "IMRO (Irish Recorded Music Organisation) / PPI / PRS for Music",
+  "proGuide": "100% legal protection and commercial rights for YouTube, Spotify, and TikTok monetization.",
+  "headline": "Beats in Waterford: The Déise, River Suir Quays, Gritty Coastal 808s & Street Reality",
+  "description": "The proud maritime heritage of Ireland's oldest city: hard distorted 808s, acoustic piano riffs, and driving percussion matching the raw energy of southeast Irish hip-hop.",
+  "popularGenres": [
+    "Waterford Coastal Trap",
+    "The Déise Street Rap",
+    "Southeast Ireland 808"
+  ],
+  "subClusters": []
+},
 };
