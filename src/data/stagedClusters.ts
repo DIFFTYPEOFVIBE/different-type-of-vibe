@@ -140584,4 +140584,1296 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "1"
   ]
 },
+  {
+  "slug": "karol-g-manana-sera-bonito-latin-pop",
+  "title": "Karol G Mañana Será Bonito Global Latin Pop & Warm Reggaeton Beat",
+  "description": "Chart-topping, multi-platinum Latin pop-reggaeton anthem inspired by the global queen Karol G (Mañana Será Bonito, Bichota, Provenza, TQG, Amargura), featuring sunny acoustic guitars and danceable dembow.",
+  "targetKeywords": [
+    "karol g type beat 2024",
+    "manana sera bonito instrumental",
+    "karol g provenza type beat",
+    "latin pop reggaeton beat",
+    "bichota style urban beat"
+  ],
+  "heroCta": "Comprar Beat Estilo Karol G (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Lead Commercial Single, Billboard Latin #1 Hit and Stadium Tour Anthem",
+  "similarArtists": [
+    "Karol G",
+    "Shakira",
+    "Becky G",
+    "Feid"
+  ],
+  "recommendedBpm": "100-108 BPM",
+  "productionTips": "Warm nylon acoustic guitars layered with soft, punchy dembow kicks and wide stereo vocal pads.",
+  "idealVocalStyle": "Empowering feminine anthems, emotional singalong hooks, smooth melodic verses, and commercial appeal.",
+  "suggestedKey": "E Minor / G Major",
+  "streamingSuitability": "Guaranteed top-charting streaming numbers on Spotify Global Top 50, Los 40, and international radio."
+},
+  {
+  "slug": "feid-mor-no-le-temas-a-la-oscuridad",
+  "title": "Feid MOR No Le Temas a la Oscuridad Neon Green Synth Perreo Beat",
+  "description": "The defining sound of modern Medellín urban music inspired by Feid / Ferxxo (MOR No Le Temas a la Oscuridad, Feliz Cumpleaños Ferxxo, Normal, Prohibidox, Luna), with nostalgic 90 BPM neon synthesizers.",
+  "targetKeywords": [
+    "feid type beat 2024",
+    "ferxxo type beat",
+    "mor no le temas a la oscuridad instrumental",
+    "90 bpm nostalgic reggaeton beat",
+    "feid luna type beat"
+  ],
+  "heroCta": "Comprar Beat Estilo Ferxxo (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Nostalgic Perreo Single, Late-Night Drive Video and Discoteca Banger",
+  "similarArtists": [
+    "Feid",
+    "Sky Rompiendo",
+    "Taiko",
+    "Mora"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "productionTips": "Vintage analog synthesizer chords filtered with subtle LFO modulation over a soft, deep dembow groove.",
+  "idealVocalStyle": "Laid-back Paisa slang, intimate autotuned melodies, emotional relationship storytelling, and catchy hooks.",
+  "suggestedKey": "F Minor / Ab Major",
+  "streamingSuitability": "Dominates Latin streaming charts, Spotify Colombia #1 rotation, and nightlife DJ sets."
+},
+  {
+  "slug": "blessd-hecho-en-medellin-street-flow",
+  "title": "Blessd Hecho en Medellín Barrio Street Flow & Heavy Perreo Beat",
+  "description": "High-octane, aggressive Barrio Antioquia street flow and perreo banger inspired by Blessd (Hecho en Medellín, Medallo, Quien TV, Las Morras), featuring raw synth plucks and hard-knocking 808s.",
+  "targetKeywords": [
+    "blessd type beat 2024",
+    "hecho en medellin instrumental",
+    "blessd perreo banger beat",
+    "trap paisa blessd beat",
+    "barrio antioquia street beat"
+  ],
+  "heroCta": "Comprar Beat Estilo Blessd (Instant WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hard Street Single, High-Energy Perreo Club Banger and Music Video",
+  "similarArtists": [
+    "Blessd",
+    "Ryan Castro",
+    "Ovy On The Drums",
+    "Peso Pluma"
+  ],
+  "recommendedBpm": "94-98 / 130 BPM",
+  "productionTips": "Snappy, clipped reggaetón snare transients layered with punchy kicks and deep, aggressive 808 bass drops.",
+  "idealVocalStyle": "Energetic, raspy baritone delivery, aggressive street punchlines, and infectious party hooks.",
+  "suggestedKey": "G Minor / C Minor",
+  "streamingSuitability": "Insuperable for Latin urban club playlists, car audio sound systems, and gym workout tracks."
+},
+  {
+  "slug": "ryan-castro-el-cantante-del-ghetto-dembow",
+  "title": "Ryan Castro El Cantante del Ghetto Retro Dancehall & Street Dembow Beat",
+  "description": "Authentic, swaggering Colombian-Panamanian retro dancehall and street dembow inspired by Ryan Castro (El Cantante del Ghetto, Mujeriego, Jordan, Monastery), with live brass fanfares and classic swing.",
+  "targetKeywords": [
+    "ryan castro type beat",
+    "el cantante del ghetto instrumental",
+    "retro dancehall beat colombia",
+    "ryan castro jordan beat",
+    "classic street dembow beat"
+  ],
+  "heroCta": "Comprar Beat Ryan Castro (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Dancehall Club Single, Street Party Anthem and Commercial Visual",
+  "similarArtists": [
+    "Ryan Castro",
+    "Blessd",
+    "Sech",
+    "Sog"
+  ],
+  "recommendedBpm": "98-106 BPM",
+  "productionTips": "Layer live acoustic brass stabs with classic 90s dancehall kick-snare patterns and rolling sub-bass.",
+  "idealVocalStyle": "Swaggering street cadence, retro flow patterns, bilingual patois/Spanish slangs, and festive hooks.",
+  "suggestedKey": "A Minor / D Minor",
+  "streamingSuitability": "Consistent top-charting airplay on Latin radios, club DJ sets, and viral dance trends."
+},
+  {
+  "slug": "j-balvin-colores-vibras-afro-reggaeton",
+  "title": "J Balvin Colores & Vibras Multi-Platinum Afro-Reggaeton Beat",
+  "description": "Sophisticated, global multi-platinum urban pop instrumental inspired by J Balvin (Vibras, Colores, Mi Gente, Rojo, Ginza), featuring minimalist vocal spaces, smooth Afro-Latin bounce, and warm sub-bass.",
+  "targetKeywords": [
+    "j balvin type beat 2024",
+    "colores j balvin instrumental",
+    "vibras style afro reggaeton beat",
+    "j balvin mi gente type beat",
+    "global latin urban beat"
+  ],
+  "heroCta": "Comprar Beat Estilo J Balvin (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Global Pop-Reggaeton Single, High-Fashion Visual and International Radio Hit",
+  "similarArtists": [
+    "J Balvin",
+    "Bad Bunny",
+    "Maluma",
+    "Willy William"
+  ],
+  "recommendedBpm": "100-108 BPM",
+  "productionTips": "Airy plucks and minimalist synth chords leaving wide vocal headroom for multi-platinum toplines.",
+  "idealVocalStyle": "Laid-back, fashionable delivery, smooth vocal phrasing, and universally catchy chorus hooks.",
+  "suggestedKey": "B Minor / G Major",
+  "streamingSuitability": "Universal cross-genre radio appeal, international streaming charts, and commercial sync."
+},
+  {
+  "slug": "chocquibtown-pacifico-marimba-afro-trap",
+  "title": "ChocQuibTown Pacífico Marimba de Chonta & Tambora Afro-Trap Beat",
+  "description": "Inspiring cultural crossover celebrating Colombia's Afro-Pacific heritage: live acoustic Marimba de Chonta runs, Tambora polyrhythms, and modern 808 trap drops inspired by ChocQuibTown.",
+  "targetKeywords": [
+    "chocquibtown type beat",
+    "marimba de chonta trap beat",
+    "afro pacifico colombia beat 808",
+    "tambora rap beat choco",
+    "colombian afro trap beat"
+  ],
+  "heroCta": "Comprar Beat Pacífico Trap (Instant WAV)",
+  "energyLevel": "Very High",
+  "primaryUse": "Cultural Masterpiece, High-Energy Festival Single and Latin Grammy Style Production",
+  "similarArtists": [
+    "ChocQuibTown",
+    "Goyo",
+    "Dawer X Damper",
+    "Bomba Estéreo"
+  ],
+  "recommendedBpm": "126-134 BPM",
+  "productionTips": "Authentic wooden Marimba de Chonta recorded in high fidelity over driving 808 sub-bass and percussion.",
+  "idealVocalStyle": "Soulful Afro-Colombian vocal harmonies, rapid rhythmic rapping, and empowering cultural pride.",
+  "suggestedKey": "F Minor / C Minor",
+  "streamingSuitability": "Supreme cultural impact, editorial support on Latin Alternative playlists, and global festival praise."
+},
+  {
+  "slug": "salsa-choque-cali-afro-batedeira-bounce",
+  "title": "Cali Salsa Choque Afro-Urban Bounce & Brass Fanfare Beat",
+  "description": "High-octane Cali urban dance crossover: energetic Salsa Choque brass fanfares, syncopated piano montunos, and fast Afro-Colombian bounce kicks engineered for festive dance challenges.",
+  "targetKeywords": [
+    "salsa choque beat cali",
+    "salsa trap beat colombia",
+    "salsa choque instrumental bailable",
+    "cali salsa urbana beat",
+    "ras tas tas style beat"
+  ],
+  "heroCta": "Comprar Beat Salsa Choque (WAV 24-bit)",
+  "energyLevel": "Maximum",
+  "primaryUse": "Viral Dance Challenge, Street Carnival Anthem and High-Energy Club Banger",
+  "similarArtists": [
+    "Cali Flow Latino",
+    "Junior Jein",
+    "Los Traviesos",
+    "Cali Cartel"
+  ],
+  "recommendedBpm": "100-108 BPM",
+  "productionTips": "Layer bright salsa trumpet fanfares with syncopated piano montuno chords and punchy dembow kicks.",
+  "idealVocalStyle": "Festive call-and-response shouts, rapid rhythmic flow, and joyful Colombian party swagger.",
+  "suggestedKey": "D Minor / G Major",
+  "streamingSuitability": "Explosive viral spikes across TikTok dance trends, feria de Cali playlists, and sporting celebrations."
+},
+  {
+  "slug": "champeta-urbana-cartagena-picotera",
+  "title": "Cartagena Picó Sound System African Soukous & Champeta Beat",
+  "description": "The raw, electrifying energy of Cartagena's street sound systems (picós): bright African soukous electric guitar licks, Caribbean horn stabs, and punchy dembow kicks inspired by Champeta Urbana.",
+  "targetKeywords": [
+    "champeta urbana beat cartagena",
+    "pico sound system beat",
+    "soukous guitar champeta beat",
+    "champeta trap instrumental",
+    "caribbean colombian beat 808"
+  ],
+  "heroCta": "Comprar Beat Champeta Picotera (WAV + Stems)",
+  "energyLevel": "Very High",
+  "primaryUse": "Picó Sound System Banger, Caribbean Festival Single and Viral Dance Video",
+  "similarArtists": [
+    "Mr Black",
+    "Kevin Flórez",
+    "Twister El Rey",
+    "Kafu Banton"
+  ],
+  "recommendedBpm": "108-116 BPM",
+  "productionTips": "High-pitched African guitar solos processed with chorus over heavy, sub-heavy picó kick patterns.",
+  "idealVocalStyle": "High-energy Caribbean Spanish delivery, rhythmic dance instructions, and festive chant hooks.",
+  "suggestedKey": "A Major / F# Minor",
+  "streamingSuitability": "Guaranteed dancefloor reaction, Caribbean carnival rotation, and viral tropical playlists."
+},
+  {
+  "slug": "bogota-monserrate-rainy-fog-lofi",
+  "title": "Bogotá Monserrate Rainy Night Cold Fog Lofi Hip-Hop & Rhodes Beat",
+  "description": "Atmospheric, rain-soaked Bogotano soundtrack capturing cold midnight fog overlooking Monserrate: warm Rhodes electric piano chords, gentle mountain rain textures, and unquantized dusty boom bap drums.",
+  "targetKeywords": [
+    "bogota lofi beat",
+    "monserrate chillhop instrumental",
+    "rainy bogota lofi rap beat",
+    "colombian lofi hip hop beat",
+    "frio bogotano rap beat"
+  ],
+  "heroCta": "Comprar Beat Bogotá Lofi (Instant WAV)",
+  "energyLevel": "Low-Medium",
+  "primaryUse": "Late-Night Rain Cruising, Relaxing Study Session and Poetic Lyrical Track",
+  "similarArtists": [
+    "AlcolirykoZ",
+    "Briela Ojeda",
+    "Nicolás y los Fumadores",
+    "Tom Misch"
+  ],
+  "recommendedBpm": "82-88 BPM",
+  "productionTips": "Warm Wurlitzer and Rhodes keys captured through vintage tape wow-and-flutter with gentle rain Foley.",
+  "idealVocalStyle": "Laid-back, poetic spoken word, conscious street philosophy, and intimate late-night observations.",
+  "suggestedKey": "D Minor / F Major",
+  "streamingSuitability": "Continuous evergreen stream counts across chillhop, study lofi, and rainy aesthetic playlists."
+},
+  {
+  "slug": "medellin-provenza-rooftop-summer-reggaeton",
+  "title": "Medellín Provenza Rooftop Summer Breeze 92 BPM Reggaeton Beat",
+  "description": "Sunlit, breezy Provenza and El Poblado rooftop party soundtrack: warm acoustic nylon guitar picking, smooth 92 BPM reggaetón dembow, and lush atmospheric summer synthesizers.",
+  "targetKeywords": [
+    "medellin provenza reggaeton beat",
+    "poblado rooftop summer beat",
+    "92 bpm perreo suave instrumental",
+    "medallo summer reggaeton beat",
+    "provenza style beat 2024"
+  ],
+  "heroCta": "Comprar Beat Provenza (Instant WAV)",
+  "energyLevel": "High",
+  "primaryUse": "Summer Radio Single, Pool Party Visual and Viral Instagram Reel",
+  "similarArtists": [
+    "Karol G",
+    "Feid",
+    "Manuel Turizo",
+    "Maluma"
+  ],
+  "recommendedBpm": "90-94 BPM",
+  "productionTips": "Layer finger-picked acoustic guitars with warm analog pads and a soft, swinging dembow pocket.",
+  "idealVocalStyle": "Sweet melodic singing, catchy bilingual phrases, and breezy, confident summer swagger.",
+  "suggestedKey": "G Major / E Minor",
+  "streamingSuitability": "Heavy summer radio rotation across Latin America, beach club DJ sets, and viral reels."
+},
+  {
+  "slug": "comuna-13-escaleras-electricas-drill",
+  "title": "Comuna 13 Escaleras Eléctricas Resilient Street Drill 808 Beat",
+  "description": "Cinematic, powerful street drill instrumental capturing the resilience and memory of Medellín's Comuna 13: cold minor synth bells, screeching urban textures, and subterranean 808 sub-bass drops.",
+  "targetKeywords": [
+    "comuna 13 drill beat",
+    "medellin street drill instrumental",
+    "colombian drill beat 808",
+    "san javier dark drill beat",
+    "rap de resistencia medellin"
+  ],
+  "heroCta": "Comprar Beat Comuna 13 (WAV 24-bit)",
+  "energyLevel": "Very High",
+  "primaryUse": "Hardcore Street Single, Urban Documentary Soundtrack and Heavy Workout Track",
+  "similarArtists": [
+    "AlcolirykoZ",
+    "Laberinto ELC",
+    "Central Cee",
+    "Morad"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "productionTips": "Minor acoustic grand piano with dark hall reverb layered over multi-octave 808 slides and clipped rimshots.",
+  "idealVocalStyle": "Cold street reality delivery, poetic memory rhymes, and raw atmospheric ad-libs.",
+  "suggestedKey": "C Minor",
+  "streamingSuitability": "Essential for drill playlists, automotive content creators, and urban street visualizers."
+},
+  {
+  "slug": "vallenato-acordeon-paisa-trap-fusion",
+  "title": "Colombian Vallenato Button Accordion & Guacharaca Trap 808 Beat",
+  "description": "Authentic Colombian cultural fusion blending coastal Vallenato button accordion riffs and Guacharaca rasping percussion with modern 808 trap sub-bass and crisp claps.",
+  "targetKeywords": [
+    "vallenato trap beat",
+    "acordeon vallenato rap beat",
+    "colombian folk trap beat 808",
+    "guacharaca trap beat colombia",
+    "vallenato urbano instrumental"
+  ],
+  "heroCta": "Comprar Beat Vallenato-Trap (WAV + Stems)",
+  "energyLevel": "High",
+  "primaryUse": "Cultural Crossover Single, Parranda Vallenata Urbana and Festive Video",
+  "similarArtists": [
+    "Silvestre Dangond",
+    "Carlos Vives",
+    "Santa Fe Klan",
+    "Feid"
+  ],
+  "recommendedBpm": "120-128 BPM",
+  "productionTips": "Live recorded Hohner button accordion riffs layered over driving trap hats and deep sub frequencies.",
+  "idealVocalStyle": "Passionate Colombian singing, heartfelt poetic lyrics on love and parranda, and rhythmic rap verses.",
+  "suggestedKey": "D Major / B Minor",
+  "streamingSuitability": "High national pride, heavy festival airplay across the Caribbean and Andean regions, and viral video edits."
+},
+  {
+  "slug": "pistas-de-reggaeton-colombia-nequi-cop",
+  "title": "Pistas de Reggaetón en Colombia desde $99.000 COP (Pago por Nequi y DaviPlata)",
+  "description": "Instrumentales profesionales de reggaetón paisa, trap y dembow en Colombia desde $99.000 COP con pago instantáneo por Nequi, DaviPlata y PSE en pesos colombianos (COP $).",
+  "targetKeywords": [
+    "pistas de reggaeton colombia nequi cop",
+    "comprar bases reggaeton medellin nequi",
+    "beats baratos colombia daviplata",
+    "pistas de trap en pesos colombianos"
+  ],
+  "heroCta": "Ver Pistas Económicas desde $99.000 COP (Nequi)",
+  "energyLevel": "Variable",
+  "primaryUse": "Mixtapes, Singles Debut y Grabaciones en Home Studio con Licencia Comercial",
+  "similarArtists": [
+    "Cantantes Urbanos Independientes de Colombia",
+    "Creadores de TikTok y YouTube"
+  ],
+  "recommendedBpm": "90-112 BPM",
+  "productionTips": "Pre-mezcladas y masterizadas con amplio margen dinámico para grabar voces en home studio.",
+  "idealVocalStyle": "Adaptable para canto melódico con autotune, rimas de perreo bailable y estilo callejero.",
+  "suggestedKey": "Todas las tonalidades mayores y menores",
+  "streamingSuitability": "Licencia comercial que cubre hasta 100.000 reproducciones en Spotify, Apple Music y YouTube."
+},
+  {
+  "slug": "bases-trap-paisa-medellin-stems-wav",
+  "title": "Bases de Trap Paisa Medellín con Pistas Separadas Stems (Calidad Estudio WAV)",
+  "description": "Instrumentales de Trap Paisa y perreo agresivo de Medellín con bajos 808 profundos, entregadas con todas las pistas de audio multipista separadas (stems WAV) para mezcla en estudio.",
+  "targetKeywords": [
+    "bases trap paisa medellin stems wav",
+    "trap paisa pistas separadas download",
+    "comprar bases trap medellin wav 24 bit",
+    "blessd style trap paisa stems"
+  ],
+  "heroCta": "Descargar Trap Paisa + Stems WAV",
+  "energyLevel": "Very High",
+  "primaryUse": "Grabación en Estudio Profesional, Mezcla Multipista y Dolby Atmos",
+  "similarArtists": [
+    "Blessd",
+    "Ryan Castro",
+    "Feid",
+    "Ovy On The Drums"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "productionTips": "Cada instrumento exportado en seco con canales de efectos individuales para control total en Pro Tools.",
+  "idealVocalStyle": "Barras callejeras afiladas, flow paisa auténtico y estribillos pegajosos con garra.",
+  "suggestedKey": "Fa menor / Do menor / Sol menor",
+  "streamingSuitability": "Reproducciones ilimitadas y derechos de emisión en radio y videoclips incluidos."
+},
+  {
+  "slug": "pistas-melodicas-piano-reggaeton-ferxxo",
+  "title": "Pistas Melódicas de Reggaetón 90 BPM con Sintes Retro (Estilo Ferxxo & Feid)",
+  "description": "Producciones nostálgicas de perreo suave a 90 BPM con sintetizadores cálidos de los 80, pianos eléctricos y dembow envolvente, listas para subir a Spotify y Apple Music en formato WAV de 24 bits.",
+  "targetKeywords": [
+    "pistas melodicas piano reggaeton ferxxo",
+    "reggaeton 90 bpm estilo feid wav",
+    "pistas perreo nostalgico medellin",
+    "comprar instrumental estilo ferxxo"
+  ],
+  "heroCta": "Escuchar Pistas Estilo Ferxxo",
+  "energyLevel": "High",
+  "primaryUse": "Single Comercial Principal, Videoclip de Perreo y Canción para Discoteca",
+  "similarArtists": [
+    "Feid",
+    "Karol G",
+    "Sky Rompiendo",
+    "Mora"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "productionTips": "Sintetizadores analógicos filtrados con modulación sutil sobre un dembow suave y envolvente.",
+  "idealVocalStyle": "Letras cotidianas con jerga paisa, melodías vocales sensuales y coros pegadizos.",
+  "suggestedKey": "Fa menor / La bemol mayor",
+  "streamingSuitability": "Distribución comercial ilimitada en plataformas digitales con 100% de royalties master para el artista."
+},
+  {
+  "slug": "contrato-licencia-beat-sayco-acinpro-pdf",
+  "title": "Contrato de Licencia Beat SAYCO & ACINPRO Colombia (PDF Firmado con Split Sheet)",
+  "description": "Contrato legal de producción musical vinculante conforme a la Ley 23 de 1982 sobre derechos de autor en Colombia y normativa SAYCO & ACINPRO: descarga tu contrato de licencia y split sheet al instante tras la compra.",
+  "targetKeywords": [
+    "contrato licencia beat sayco acinpro pdf",
+    "contrato cesion derechos beatmaker colombia",
+    "split sheet sayco descarga inmediata",
+    "registro sayco instrumental reggaeton"
+  ],
+  "heroCta": "Ver Contrato de Licencia SAYCO (PDF)",
+  "energyLevel": "N/A",
+  "primaryUse": "Registro en SAYCO & ACINPRO, Reparto de Derechos Editoriales y Protección Jurídica Integral",
+  "similarArtists": [
+    "Onzieb",
+    "Autores y Compositores Registrados en SAYCO"
+  ],
+  "recommendedBpm": "Todos los Tempos",
+  "productionTips": "Formulado para garantizar la seguridad legal absoluta del artista y los derechohabientes.",
+  "idealVocalStyle": "Válido para todos los géneros musicales, grabaciones de voz y lanzamientos comerciales.",
+  "suggestedKey": "Todas las Tonalidades",
+  "streamingSuitability": "Protección legal definitiva para distribución comercial mundial y sincronización audiovisual."
+},
+  {
+  "slug": "comprar-beats-nequi-daviplata-pse-colombia",
+  "title": "Comprar Beats en Colombia con Nequi, DaviPlata y PSE (Pesos Colombianos COP $)",
+  "description": "Compra instrumentales premium sin marcas de voz al instante utilizando los métodos de pago favoritos de Colombia: Nequi, DaviPlata, PSE y tarjetas con descarga digital automática en pesos (COP $).",
+  "targetKeywords": [
+    "comprar beats nequi daviplata pse colombia",
+    "pagar beats con nequi medellin bogota",
+    "tienda de beats colombia pesos cop",
+    "comprar pistas de reggaeton por pse"
+  ],
+  "heroCta": "Comprar Beats por Nequi / PSE",
+  "energyLevel": "All Levels",
+  "primaryUse": "Compra Inmediata Sin Fricción para Artistas y Estudios en Toda Colombia",
+  "similarArtists": [
+    "Raperos y Cantantes Urbanos Colombianos"
+  ],
+  "recommendedBpm": "80-160 BPM",
+  "productionTips": "Generación automática del código QR o número de transferencia Nequi para descarga en segundos.",
+  "idealVocalStyle": "Compatibilidad universal con cualquier estilo vocal o métrica.",
+  "suggestedKey": "Todas las Tonalidades",
+  "streamingSuitability": "Licencia comercial directa válida para subir inmediatamente a todas las plataformas digitales."
+},
+  {
+  "slug": "paquete-5-beats-album-colombia-descuento",
+  "title": "Paquete 5 Beats para Álbum y EP en Colombia (40% de Descuento en Pesos COP)",
+  "description": "El paquete definitivo para artistas independientes que preparan un proyecto completo (EP, mixtape o álbum): elige 5 o 10 instrumentales de todo el catálogo con hasta un 40% de descuento unificado.",
+  "targetKeywords": [
+    "paquete 5 beats album colombia descuento",
+    "bundle instrumentales ep reggaeton colombia",
+    "comprar bases al por mayor medellin cop",
+    "paquete de pistas reggaeton barato colombia"
+  ],
+  "heroCta": "Conseguir Paquete Álbum (40% de Descuento)",
+  "energyLevel": "Variable",
+  "primaryUse": "Producción Completa de EP o Álbum, Dirección Sonora Coherente y Lanzamientos Periódicos",
+  "similarArtists": [
+    "Cantantes y Productores Independientes en Colombia"
+  ],
+  "recommendedBpm": "85-145 BPM",
+  "productionTips": "Curaduría armónica y dinámica coordinada para garantizar una experiencia de escucha fluida en todo tu proyecto.",
+  "idealVocalStyle": "Lienzo amplio para desplegar toda la variedad métrica y melódica del artista.",
+  "suggestedKey": "Tonalidades Complementarias",
+  "streamingSuitability": "Licencia comercial única y global que cubre todas las pistas de tu proyecto a la vez."
+},
+  {
+  "slug": "productor-musical-colombia-whatsapp-onzieb",
+  "title": "Productor Musical Exclusivo para Artistas en Colombia (WhatsApp con Onzieb)",
+  "description": "Trabaja directamente con el productor musical Onzieb por WhatsApp para encargar instrumentales a medida: cambios de tono, adaptaciones de estructura, mezclas de pistas y arreglos personalizados de reggaetón y trap.",
+  "targetKeywords": [
+    "productor musical colombia whatsapp onzieb",
+    "onzieb productor reggaeton medellin",
+    "encargar beat personalizado reggaeton colombia",
+    "beatmaker colombia contacto whatsapp"
+  ],
+  "heroCta": "Hablar con Onzieb por WhatsApp",
+  "energyLevel": "Personalizado",
+  "primaryUse": "Producción Exclusiva a Medida, Creación de Identidad Sonora y Singles Principales",
+  "similarArtists": [
+    "Onzieb",
+    "Productores Urbanos de Primer Nivel en Medellín y Cali"
+  ],
+  "recommendedBpm": "Ajustado a la respiración y ritmo natural del artista",
+  "productionTips": "Ajustes de estructura y mezcla en tiempo real mediante notas de voz e intercambio de stems en WhatsApp.",
+  "idealVocalStyle": "Diseñado a medida para resaltar el timbre, la fuerza y el rango dinámico del vocalista.",
+  "suggestedKey": "Tono Personalizado",
+  "streamingSuitability": "Contrato de cesión exclusiva con 100% de derechos master y monetización sin límites."
+},
+  {
+  "slug": "bases-dancehall-ghetto-ryan-castro",
+  "title": "Bases de Dancehall Urbano y Dembow Callejero (Estilo Ryan Castro & Ghetto)",
+  "description": "Instrumentales bailables de dancehall retro y dembow callejero con arreglos de metales en vivo, baterías secas y bajos con swing inspirados en el sonido del ghetto colombiano.",
+  "targetKeywords": [
+    "bases dancehall ghetto ryan castro",
+    "beat dancehall colombiano 808",
+    "instrumental ryan castro dembow",
+    "dancehall retro beat medellin"
+  ],
+  "heroCta": "Escuchar Bases Dancehall Urbano",
+  "energyLevel": "High",
+  "primaryUse": "Single de Dancehall Comercial, Tema de Fiesta y Hit para Discoteca",
+  "similarArtists": [
+    "Ryan Castro",
+    "Blessd",
+    "Sech",
+    "Sog"
+  ],
+  "recommendedBpm": "98-106 BPM",
+  "productionTips": "Metales acústicos grabados en vivo sobre un patrón de dancehall clásico con subbajo redondeado.",
+  "idealVocalStyle": "Cadencia callejera con swagger, métrica rápida y estribillos fiesteros contagiosos.",
+  "suggestedKey": "La Menor / Re Menor",
+  "streamingSuitability": "Inmejorable para listas de éxitos urbanos, fiestas y rotación radial en toda Colombia."
+},
+  {
+  "slug": "bases-champeta-urbana-cartagena-wav",
+  "title": "Bases de Champeta Urbana & Afro-Caribeña (Sonido Picotero de Cartagena WAV)",
+  "description": "Fusión electrizante de champeta urbana y ritmos caribeños: guitarras de soukous africano, vientos picoteros y dembows acelerados para sonar con fuerza en los mejores picós y fiestas.",
+  "targetKeywords": [
+    "bases champeta urbana cartagena wav",
+    "champeta beat pico cartagenero",
+    "instrumental champeta urbana download",
+    "caribbean colombian beat 24 bit"
+  ],
+  "heroCta": "Descubrir Beats de Champeta Urbana",
+  "energyLevel": "Very High",
+  "primaryUse": "Single de Champeta Urbana, Tema de Carnaval y Coreografía Viral",
+  "similarArtists": [
+    "Mr Black",
+    "Kevin Flórez",
+    "Twister El Rey",
+    "Kafu Banton"
+  ],
+  "recommendedBpm": "108-116 BPM",
+  "productionTips": "Punteos agudos de guitarra africana con chorus sobre bombos contundentes de picó cartagenero.",
+  "idealVocalStyle": "Voz caribeña con energía desbordante, rimas bailables e instrucciones de pase.",
+  "suggestedKey": "La Mayor / Fa Sostenido Menor",
+  "streamingSuitability": "Excelente rendimiento en listas tropicales, carnavales de la costa y retos de baile."
+},
+  {
+  "slug": "drum-kit-reggaeton-paisa-gratis-wav",
+  "title": "Drum Kit de Reggaetón Paisa Gratis (Samples WAV 24-Bit, Kicks & Snares Suaves)",
+  "description": "Descarga gratis nuestro pack de sonidos para productores de reggaetón: 25 kicks suaves de perreo, snares filtrados estilo Ferxxo, bajos 808 y percusiones tropicales en formato WAV 24-bit de estudio.",
+  "targetKeywords": [
+    "drum kit reggaeton paisa gratis wav",
+    "libreria de sonidos reggaeton medellin",
+    "kicks de reggaeton estilo feid gratis",
+    "pack de perreo fl studio download"
+  ],
+  "heroCta": "Descargar Drum Kit Gratis (ZIP)",
+  "energyLevel": "High",
+  "primaryUse": "Producción Musical en Home Studio, Beatmaking en FL Studio, Ableton y Logic Pro",
+  "similarArtists": [
+    "Beatmakers Independientes Colombianos",
+    "Productores de Reggaetón Emergentes"
+  ],
+  "recommendedBpm": "Compatible con todos los tempos",
+  "productionTips": "Sonidos one-shot 100% libres de derechos pre-masterizados con pegada limpia y moderna.",
+  "idealVocalStyle": "Base rítmica sólida para la creación de instrumentales profesionales con el sonido característico de Medellín.",
+  "suggestedKey": "Afinado en Do (C) para una transposición inmediata en tu DAW",
+  "streamingSuitability": "Libre de derechos para la publicación de temas musicales comerciales y venta de beats."
+},
+  {
+  "slug": "medellin-poblado-reggaeton-paisa-90bpm",
+  "name": "El Poblado Reggaetón Paisa 90 BPM Beats",
+  "category": "scene",
+  "badge": "El Poblado Reggaetón Paisa",
+  "headline": "El Poblado (Medellín & Provenza Capital del Reggaetón) Reggaetón Paisa 90 BPM Beats: Pistas WAV 24-Bit & Pago por Nequi / PSE",
+  "description": "Sintetizadores retro envolventes, dembow suave de 90 BPM y melodías nostálgicas creadas para artistas en El Poblado.",
+  "targetArtists": [
+    "Artistas de El Poblado",
+    "Comunidad Urbana de Colombia",
+    "Escena Paisa y Bogotana"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "Fa-Menor / La-Bemol-Mayor",
+  "vibeAttributes": [
+    "El Poblado",
+    "Reggaetón Paisa",
+    "Pago Nequi & DaviPlata (COP $)",
+    "100% Conforme SAYCO"
+  ],
+  "popularGenres": [
+    "Reggaetón Paisa 90 BPM Beats",
+    "Reggaetón Paisa",
+    "Trap Paisa"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "medellin-poblado-trap-paisa-808",
+  "name": "El Poblado Trap Paisa 808 Beats",
+  "category": "scene",
+  "badge": "El Poblado Trap Paisa",
+  "headline": "El Poblado (Medellín & Provenza Capital del Reggaetón) Trap Paisa 808 Beats: Pistas WAV 24-Bit & Pago por Nequi / PSE",
+  "description": "Bajos 808 demoledores, cajas secas de barrio y actitud urbana contundente para MCs de El Poblado.",
+  "targetArtists": [
+    "Artistas de El Poblado",
+    "Comunidad Urbana de Colombia",
+    "Escena Paisa y Bogotana"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "Sol-Menor / Do-Menor",
+  "vibeAttributes": [
+    "El Poblado",
+    "Trap Paisa",
+    "Pago Nequi & DaviPlata (COP $)",
+    "100% Conforme SAYCO"
+  ],
+  "popularGenres": [
+    "Trap Paisa 808 Beats",
+    "Reggaetón Paisa",
+    "Trap Paisa"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "medellin-poblado-colombian-street-drill",
+  "name": "El Poblado Colombian Street Drill Beats",
+  "category": "scene",
+  "badge": "El Poblado Drill Colombiano",
+  "headline": "El Poblado (Medellín & Provenza Capital del Reggaetón) Colombian Street Drill Beats: Pistas WAV 24-Bit & Pago por Nequi / PSE",
+  "description": "Pianos oscuros en portamento, hi-hats ultra rápidos y bajos deslizantes diseñados para raperos en El Poblado.",
+  "targetArtists": [
+    "Artistas de El Poblado",
+    "Comunidad Urbana de Colombia",
+    "Escena Paisa y Bogotana"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "Mi-Menor / Do#-Menor",
+  "vibeAttributes": [
+    "El Poblado",
+    "Drill Colombiano",
+    "Pago Nequi & DaviPlata (COP $)",
+    "100% Conforme SAYCO"
+  ],
+  "popularGenres": [
+    "Colombian Street Drill Beats",
+    "Reggaetón Paisa",
+    "Trap Paisa"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "medellin-poblado-pacifico-afro-bounce",
+  "name": "El Poblado Pacífico Afro Bounce Beats",
+  "category": "scene",
+  "badge": "El Poblado Afro Pacífico",
+  "headline": "El Poblado (Medellín & Provenza Capital del Reggaetón) Pacífico Afro Bounce Beats: Pistas WAV 24-Bit & Pago por Nequi / PSE",
+  "description": "Maderas de marimba de chonta, tambora sincopada y bajos profundos para vocalistas en El Poblado.",
+  "targetArtists": [
+    "Artistas de El Poblado",
+    "Comunidad Urbana de Colombia",
+    "Escena Paisa y Bogotana"
+  ],
+  "recommendedBpm": "100-112 BPM",
+  "recommendedKey": "Sol-Mayor / Mi-Menor",
+  "vibeAttributes": [
+    "El Poblado",
+    "Afro Pacífico",
+    "Pago Nequi & DaviPlata (COP $)",
+    "100% Conforme SAYCO"
+  ],
+  "popularGenres": [
+    "Pacífico Afro Bounce Beats",
+    "Reggaetón Paisa",
+    "Trap Paisa"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "medellin-comuna13-reggaeton-paisa-90bpm",
+  "name": "Comuna 13 Reggaetón Paisa 90 BPM Beats",
+  "category": "scene",
+  "badge": "Comuna 13 Reggaetón Paisa",
+  "headline": "Comuna 13 (San Javier & Resistencia Hip-Hop) Reggaetón Paisa 90 BPM Beats: Pistas WAV 24-Bit & Pago por Nequi / PSE",
+  "description": "Sintetizadores retro envolventes, dembow suave de 90 BPM y melodías nostálgicas creadas para artistas en Comuna 13.",
+  "targetArtists": [
+    "Artistas de Comuna 13",
+    "Comunidad Urbana de Colombia",
+    "Escena Paisa y Bogotana"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "Fa-Menor / La-Bemol-Mayor",
+  "vibeAttributes": [
+    "Comuna 13",
+    "Reggaetón Paisa",
+    "Pago Nequi & DaviPlata (COP $)",
+    "100% Conforme SAYCO"
+  ],
+  "popularGenres": [
+    "Reggaetón Paisa 90 BPM Beats",
+    "Reggaetón Paisa",
+    "Trap Paisa"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "medellin-comuna13-trap-paisa-808",
+  "name": "Comuna 13 Trap Paisa 808 Beats",
+  "category": "scene",
+  "badge": "Comuna 13 Trap Paisa",
+  "headline": "Comuna 13 (San Javier & Resistencia Hip-Hop) Trap Paisa 808 Beats: Pistas WAV 24-Bit & Pago por Nequi / PSE",
+  "description": "Bajos 808 demoledores, cajas secas de barrio y actitud urbana contundente para MCs de Comuna 13.",
+  "targetArtists": [
+    "Artistas de Comuna 13",
+    "Comunidad Urbana de Colombia",
+    "Escena Paisa y Bogotana"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "Sol-Menor / Do-Menor",
+  "vibeAttributes": [
+    "Comuna 13",
+    "Trap Paisa",
+    "Pago Nequi & DaviPlata (COP $)",
+    "100% Conforme SAYCO"
+  ],
+  "popularGenres": [
+    "Trap Paisa 808 Beats",
+    "Reggaetón Paisa",
+    "Trap Paisa"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "medellin-comuna13-colombian-street-drill",
+  "name": "Comuna 13 Colombian Street Drill Beats",
+  "category": "scene",
+  "badge": "Comuna 13 Drill Colombiano",
+  "headline": "Comuna 13 (San Javier & Resistencia Hip-Hop) Colombian Street Drill Beats: Pistas WAV 24-Bit & Pago por Nequi / PSE",
+  "description": "Pianos oscuros en portamento, hi-hats ultra rápidos y bajos deslizantes diseñados para raperos en Comuna 13.",
+  "targetArtists": [
+    "Artistas de Comuna 13",
+    "Comunidad Urbana de Colombia",
+    "Escena Paisa y Bogotana"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "Mi-Menor / Do#-Menor",
+  "vibeAttributes": [
+    "Comuna 13",
+    "Drill Colombiano",
+    "Pago Nequi & DaviPlata (COP $)",
+    "100% Conforme SAYCO"
+  ],
+  "popularGenres": [
+    "Colombian Street Drill Beats",
+    "Reggaetón Paisa",
+    "Trap Paisa"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "medellin-comuna13-pacifico-afro-bounce",
+  "name": "Comuna 13 Pacífico Afro Bounce Beats",
+  "category": "scene",
+  "badge": "Comuna 13 Afro Pacífico",
+  "headline": "Comuna 13 (San Javier & Resistencia Hip-Hop) Pacífico Afro Bounce Beats: Pistas WAV 24-Bit & Pago por Nequi / PSE",
+  "description": "Maderas de marimba de chonta, tambora sincopada y bajos profundos para vocalistas en Comuna 13.",
+  "targetArtists": [
+    "Artistas de Comuna 13",
+    "Comunidad Urbana de Colombia",
+    "Escena Paisa y Bogotana"
+  ],
+  "recommendedBpm": "100-112 BPM",
+  "recommendedKey": "Sol-Mayor / Mi-Menor",
+  "vibeAttributes": [
+    "Comuna 13",
+    "Afro Pacífico",
+    "Pago Nequi & DaviPlata (COP $)",
+    "100% Conforme SAYCO"
+  ],
+  "popularGenres": [
+    "Pacífico Afro Bounce Beats",
+    "Reggaetón Paisa",
+    "Trap Paisa"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "bogota-kennedy-reggaeton-paisa-90bpm",
+  "name": "Kennedy Reggaetón Paisa 90 BPM Beats",
+  "category": "scene",
+  "badge": "Kennedy Reggaetón Paisa",
+  "headline": "Kennedy (Sur de Bogotá & Hardcore Rap Callejero) Reggaetón Paisa 90 BPM Beats: Pistas WAV 24-Bit & Pago por Nequi / PSE",
+  "description": "Sintetizadores retro envolventes, dembow suave de 90 BPM y melodías nostálgicas creadas para artistas en Kennedy.",
+  "targetArtists": [
+    "Artistas de Kennedy",
+    "Comunidad Urbana de Colombia",
+    "Escena Paisa y Bogotana"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "Fa-Menor / La-Bemol-Mayor",
+  "vibeAttributes": [
+    "Kennedy",
+    "Reggaetón Paisa",
+    "Pago Nequi & DaviPlata (COP $)",
+    "100% Conforme SAYCO"
+  ],
+  "popularGenres": [
+    "Reggaetón Paisa 90 BPM Beats",
+    "Reggaetón Paisa",
+    "Trap Paisa"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "bogota-kennedy-trap-paisa-808",
+  "name": "Kennedy Trap Paisa 808 Beats",
+  "category": "scene",
+  "badge": "Kennedy Trap Paisa",
+  "headline": "Kennedy (Sur de Bogotá & Hardcore Rap Callejero) Trap Paisa 808 Beats: Pistas WAV 24-Bit & Pago por Nequi / PSE",
+  "description": "Bajos 808 demoledores, cajas secas de barrio y actitud urbana contundente para MCs de Kennedy.",
+  "targetArtists": [
+    "Artistas de Kennedy",
+    "Comunidad Urbana de Colombia",
+    "Escena Paisa y Bogotana"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "Sol-Menor / Do-Menor",
+  "vibeAttributes": [
+    "Kennedy",
+    "Trap Paisa",
+    "Pago Nequi & DaviPlata (COP $)",
+    "100% Conforme SAYCO"
+  ],
+  "popularGenres": [
+    "Trap Paisa 808 Beats",
+    "Reggaetón Paisa",
+    "Trap Paisa"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "bogota-kennedy-colombian-street-drill",
+  "name": "Kennedy Colombian Street Drill Beats",
+  "category": "scene",
+  "badge": "Kennedy Drill Colombiano",
+  "headline": "Kennedy (Sur de Bogotá & Hardcore Rap Callejero) Colombian Street Drill Beats: Pistas WAV 24-Bit & Pago por Nequi / PSE",
+  "description": "Pianos oscuros en portamento, hi-hats ultra rápidos y bajos deslizantes diseñados para raperos en Kennedy.",
+  "targetArtists": [
+    "Artistas de Kennedy",
+    "Comunidad Urbana de Colombia",
+    "Escena Paisa y Bogotana"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "Mi-Menor / Do#-Menor",
+  "vibeAttributes": [
+    "Kennedy",
+    "Drill Colombiano",
+    "Pago Nequi & DaviPlata (COP $)",
+    "100% Conforme SAYCO"
+  ],
+  "popularGenres": [
+    "Colombian Street Drill Beats",
+    "Reggaetón Paisa",
+    "Trap Paisa"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "bogota-kennedy-pacifico-afro-bounce",
+  "name": "Kennedy Pacífico Afro Bounce Beats",
+  "category": "scene",
+  "badge": "Kennedy Afro Pacífico",
+  "headline": "Kennedy (Sur de Bogotá & Hardcore Rap Callejero) Pacífico Afro Bounce Beats: Pistas WAV 24-Bit & Pago por Nequi / PSE",
+  "description": "Maderas de marimba de chonta, tambora sincopada y bajos profundos para vocalistas en Kennedy.",
+  "targetArtists": [
+    "Artistas de Kennedy",
+    "Comunidad Urbana de Colombia",
+    "Escena Paisa y Bogotana"
+  ],
+  "recommendedBpm": "100-112 BPM",
+  "recommendedKey": "Sol-Mayor / Mi-Menor",
+  "vibeAttributes": [
+    "Kennedy",
+    "Afro Pacífico",
+    "Pago Nequi & DaviPlata (COP $)",
+    "100% Conforme SAYCO"
+  ],
+  "popularGenres": [
+    "Pacífico Afro Bounce Beats",
+    "Reggaetón Paisa",
+    "Trap Paisa"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "cali-aguablanca-reggaeton-paisa-90bpm",
+  "name": "Aguablanca Reggaetón Paisa 90 BPM Beats",
+  "category": "scene",
+  "badge": "Aguablanca Reggaetón Paisa",
+  "headline": "Aguablanca (Cali & Cuna de Salsa Choque y Salsa-Trap) Reggaetón Paisa 90 BPM Beats: Pistas WAV 24-Bit & Pago por Nequi / PSE",
+  "description": "Sintetizadores retro envolventes, dembow suave de 90 BPM y melodías nostálgicas creadas para artistas en Aguablanca.",
+  "targetArtists": [
+    "Artistas de Aguablanca",
+    "Comunidad Urbana de Colombia",
+    "Escena Paisa y Bogotana"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "Fa-Menor / La-Bemol-Mayor",
+  "vibeAttributes": [
+    "Aguablanca",
+    "Reggaetón Paisa",
+    "Pago Nequi & DaviPlata (COP $)",
+    "100% Conforme SAYCO"
+  ],
+  "popularGenres": [
+    "Reggaetón Paisa 90 BPM Beats",
+    "Reggaetón Paisa",
+    "Trap Paisa"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "cali-aguablanca-trap-paisa-808",
+  "name": "Aguablanca Trap Paisa 808 Beats",
+  "category": "scene",
+  "badge": "Aguablanca Trap Paisa",
+  "headline": "Aguablanca (Cali & Cuna de Salsa Choque y Salsa-Trap) Trap Paisa 808 Beats: Pistas WAV 24-Bit & Pago por Nequi / PSE",
+  "description": "Bajos 808 demoledores, cajas secas de barrio y actitud urbana contundente para MCs de Aguablanca.",
+  "targetArtists": [
+    "Artistas de Aguablanca",
+    "Comunidad Urbana de Colombia",
+    "Escena Paisa y Bogotana"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "Sol-Menor / Do-Menor",
+  "vibeAttributes": [
+    "Aguablanca",
+    "Trap Paisa",
+    "Pago Nequi & DaviPlata (COP $)",
+    "100% Conforme SAYCO"
+  ],
+  "popularGenres": [
+    "Trap Paisa 808 Beats",
+    "Reggaetón Paisa",
+    "Trap Paisa"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "cali-aguablanca-colombian-street-drill",
+  "name": "Aguablanca Colombian Street Drill Beats",
+  "category": "scene",
+  "badge": "Aguablanca Drill Colombiano",
+  "headline": "Aguablanca (Cali & Cuna de Salsa Choque y Salsa-Trap) Colombian Street Drill Beats: Pistas WAV 24-Bit & Pago por Nequi / PSE",
+  "description": "Pianos oscuros en portamento, hi-hats ultra rápidos y bajos deslizantes diseñados para raperos en Aguablanca.",
+  "targetArtists": [
+    "Artistas de Aguablanca",
+    "Comunidad Urbana de Colombia",
+    "Escena Paisa y Bogotana"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "Mi-Menor / Do#-Menor",
+  "vibeAttributes": [
+    "Aguablanca",
+    "Drill Colombiano",
+    "Pago Nequi & DaviPlata (COP $)",
+    "100% Conforme SAYCO"
+  ],
+  "popularGenres": [
+    "Colombian Street Drill Beats",
+    "Reggaetón Paisa",
+    "Trap Paisa"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "cali-aguablanca-pacifico-afro-bounce",
+  "name": "Aguablanca Pacífico Afro Bounce Beats",
+  "category": "scene",
+  "badge": "Aguablanca Afro Pacífico",
+  "headline": "Aguablanca (Cali & Cuna de Salsa Choque y Salsa-Trap) Pacífico Afro Bounce Beats: Pistas WAV 24-Bit & Pago por Nequi / PSE",
+  "description": "Maderas de marimba de chonta, tambora sincopada y bajos profundos para vocalistas en Aguablanca.",
+  "targetArtists": [
+    "Artistas de Aguablanca",
+    "Comunidad Urbana de Colombia",
+    "Escena Paisa y Bogotana"
+  ],
+  "recommendedBpm": "100-112 BPM",
+  "recommendedKey": "Sol-Mayor / Mi-Menor",
+  "vibeAttributes": [
+    "Aguablanca",
+    "Afro Pacífico",
+    "Pago Nequi & DaviPlata (COP $)",
+    "100% Conforme SAYCO"
+  ],
+  "popularGenres": [
+    "Pacífico Afro Bounce Beats",
+    "Reggaetón Paisa",
+    "Trap Paisa"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "barranquilla-curramba-reggaeton-paisa-90bpm",
+  "name": "Barranquilla Reggaetón Paisa 90 BPM Beats",
+  "category": "scene",
+  "badge": "Barranquilla Reggaetón Paisa",
+  "headline": "Barranquilla (Puerta de Oro & Champeta Urbana) Reggaetón Paisa 90 BPM Beats: Pistas WAV 24-Bit & Pago por Nequi / PSE",
+  "description": "Sintetizadores retro envolventes, dembow suave de 90 BPM y melodías nostálgicas creadas para artistas en Barranquilla.",
+  "targetArtists": [
+    "Artistas de Barranquilla",
+    "Comunidad Urbana de Colombia",
+    "Escena Paisa y Bogotana"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "Fa-Menor / La-Bemol-Mayor",
+  "vibeAttributes": [
+    "Barranquilla",
+    "Reggaetón Paisa",
+    "Pago Nequi & DaviPlata (COP $)",
+    "100% Conforme SAYCO"
+  ],
+  "popularGenres": [
+    "Reggaetón Paisa 90 BPM Beats",
+    "Reggaetón Paisa",
+    "Trap Paisa"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "barranquilla-curramba-trap-paisa-808",
+  "name": "Barranquilla Trap Paisa 808 Beats",
+  "category": "scene",
+  "badge": "Barranquilla Trap Paisa",
+  "headline": "Barranquilla (Puerta de Oro & Champeta Urbana) Trap Paisa 808 Beats: Pistas WAV 24-Bit & Pago por Nequi / PSE",
+  "description": "Bajos 808 demoledores, cajas secas de barrio y actitud urbana contundente para MCs de Barranquilla.",
+  "targetArtists": [
+    "Artistas de Barranquilla",
+    "Comunidad Urbana de Colombia",
+    "Escena Paisa y Bogotana"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "Sol-Menor / Do-Menor",
+  "vibeAttributes": [
+    "Barranquilla",
+    "Trap Paisa",
+    "Pago Nequi & DaviPlata (COP $)",
+    "100% Conforme SAYCO"
+  ],
+  "popularGenres": [
+    "Trap Paisa 808 Beats",
+    "Reggaetón Paisa",
+    "Trap Paisa"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "barranquilla-curramba-colombian-street-drill",
+  "name": "Barranquilla Colombian Street Drill Beats",
+  "category": "scene",
+  "badge": "Barranquilla Drill Colombiano",
+  "headline": "Barranquilla (Puerta de Oro & Champeta Urbana) Colombian Street Drill Beats: Pistas WAV 24-Bit & Pago por Nequi / PSE",
+  "description": "Pianos oscuros en portamento, hi-hats ultra rápidos y bajos deslizantes diseñados para raperos en Barranquilla.",
+  "targetArtists": [
+    "Artistas de Barranquilla",
+    "Comunidad Urbana de Colombia",
+    "Escena Paisa y Bogotana"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "Mi-Menor / Do#-Menor",
+  "vibeAttributes": [
+    "Barranquilla",
+    "Drill Colombiano",
+    "Pago Nequi & DaviPlata (COP $)",
+    "100% Conforme SAYCO"
+  ],
+  "popularGenres": [
+    "Colombian Street Drill Beats",
+    "Reggaetón Paisa",
+    "Trap Paisa"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "barranquilla-curramba-pacifico-afro-bounce",
+  "name": "Barranquilla Pacífico Afro Bounce Beats",
+  "category": "scene",
+  "badge": "Barranquilla Afro Pacífico",
+  "headline": "Barranquilla (Puerta de Oro & Champeta Urbana) Pacífico Afro Bounce Beats: Pistas WAV 24-Bit & Pago por Nequi / PSE",
+  "description": "Maderas de marimba de chonta, tambora sincopada y bajos profundos para vocalistas en Barranquilla.",
+  "targetArtists": [
+    "Artistas de Barranquilla",
+    "Comunidad Urbana de Colombia",
+    "Escena Paisa y Bogotana"
+  ],
+  "recommendedBpm": "100-112 BPM",
+  "recommendedKey": "Sol-Mayor / Mi-Menor",
+  "vibeAttributes": [
+    "Barranquilla",
+    "Afro Pacífico",
+    "Pago Nequi & DaviPlata (COP $)",
+    "100% Conforme SAYCO"
+  ],
+  "popularGenres": [
+    "Pacífico Afro Bounce Beats",
+    "Reggaetón Paisa",
+    "Trap Paisa"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
+  {
+  "slug": "quibdo-pacifico-reggaeton-paisa-90bpm",
+  "name": "Quibdó Reggaetón Paisa 90 BPM Beats",
+  "category": "scene",
+  "badge": "Quibdó Reggaetón Paisa",
+  "headline": "Quibdó (Chocó & Marimba de Chonta Afro-Trap) Reggaetón Paisa 90 BPM Beats: Pistas WAV 24-Bit & Pago por Nequi / PSE",
+  "description": "Sintetizadores retro envolventes, dembow suave de 90 BPM y melodías nostálgicas creadas para artistas en Quibdó.",
+  "targetArtists": [
+    "Artistas de Quibdó",
+    "Comunidad Urbana de Colombia",
+    "Escena Paisa y Bogotana"
+  ],
+  "recommendedBpm": "88-92 BPM",
+  "recommendedKey": "Fa-Menor / La-Bemol-Mayor",
+  "vibeAttributes": [
+    "Quibdó",
+    "Reggaetón Paisa",
+    "Pago Nequi & DaviPlata (COP $)",
+    "100% Conforme SAYCO"
+  ],
+  "popularGenres": [
+    "Reggaetón Paisa 90 BPM Beats",
+    "Reggaetón Paisa",
+    "Trap Paisa"
+  ],
+  "featuredBeatIds": [
+    "7",
+    "5",
+    "1"
+  ]
+},
+  {
+  "slug": "quibdo-pacifico-trap-paisa-808",
+  "name": "Quibdó Trap Paisa 808 Beats",
+  "category": "scene",
+  "badge": "Quibdó Trap Paisa",
+  "headline": "Quibdó (Chocó & Marimba de Chonta Afro-Trap) Trap Paisa 808 Beats: Pistas WAV 24-Bit & Pago por Nequi / PSE",
+  "description": "Bajos 808 demoledores, cajas secas de barrio y actitud urbana contundente para MCs de Quibdó.",
+  "targetArtists": [
+    "Artistas de Quibdó",
+    "Comunidad Urbana de Colombia",
+    "Escena Paisa y Bogotana"
+  ],
+  "recommendedBpm": "128-136 BPM",
+  "recommendedKey": "Sol-Menor / Do-Menor",
+  "vibeAttributes": [
+    "Quibdó",
+    "Trap Paisa",
+    "Pago Nequi & DaviPlata (COP $)",
+    "100% Conforme SAYCO"
+  ],
+  "popularGenres": [
+    "Trap Paisa 808 Beats",
+    "Reggaetón Paisa",
+    "Trap Paisa"
+  ],
+  "featuredBeatIds": [
+    "5",
+    "7",
+    "2"
+  ]
+},
+  {
+  "slug": "quibdo-pacifico-colombian-street-drill",
+  "name": "Quibdó Colombian Street Drill Beats",
+  "category": "scene",
+  "badge": "Quibdó Drill Colombiano",
+  "headline": "Quibdó (Chocó & Marimba de Chonta Afro-Trap) Colombian Street Drill Beats: Pistas WAV 24-Bit & Pago por Nequi / PSE",
+  "description": "Pianos oscuros en portamento, hi-hats ultra rápidos y bajos deslizantes diseñados para raperos en Quibdó.",
+  "targetArtists": [
+    "Artistas de Quibdó",
+    "Comunidad Urbana de Colombia",
+    "Escena Paisa y Bogotana"
+  ],
+  "recommendedBpm": "140-144 BPM",
+  "recommendedKey": "Mi-Menor / Do#-Menor",
+  "vibeAttributes": [
+    "Quibdó",
+    "Drill Colombiano",
+    "Pago Nequi & DaviPlata (COP $)",
+    "100% Conforme SAYCO"
+  ],
+  "popularGenres": [
+    "Colombian Street Drill Beats",
+    "Reggaetón Paisa",
+    "Trap Paisa"
+  ],
+  "featuredBeatIds": [
+    "6",
+    "1",
+    "2"
+  ]
+},
+  {
+  "slug": "quibdo-pacifico-pacifico-afro-bounce",
+  "name": "Quibdó Pacífico Afro Bounce Beats",
+  "category": "scene",
+  "badge": "Quibdó Afro Pacífico",
+  "headline": "Quibdó (Chocó & Marimba de Chonta Afro-Trap) Pacífico Afro Bounce Beats: Pistas WAV 24-Bit & Pago por Nequi / PSE",
+  "description": "Maderas de marimba de chonta, tambora sincopada y bajos profundos para vocalistas en Quibdó.",
+  "targetArtists": [
+    "Artistas de Quibdó",
+    "Comunidad Urbana de Colombia",
+    "Escena Paisa y Bogotana"
+  ],
+  "recommendedBpm": "100-112 BPM",
+  "recommendedKey": "Sol-Mayor / Mi-Menor",
+  "vibeAttributes": [
+    "Quibdó",
+    "Afro Pacífico",
+    "Pago Nequi & DaviPlata (COP $)",
+    "100% Conforme SAYCO"
+  ],
+  "popularGenres": [
+    "Pacífico Afro Bounce Beats",
+    "Reggaetón Paisa",
+    "Trap Paisa"
+  ],
+  "featuredBeatIds": [
+    "3",
+    "4",
+    "1"
+  ]
+},
 ];

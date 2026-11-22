@@ -44098,4 +44098,194 @@ export const COUNTRY_DATA: Record<string, CountryDealInfo> = {
   ],
   "subClusters": []
 },
+  "co/medellin-el-poblado-laureles": {
+  "slug": "co/medellin-el-poblado-laureles",
+  "name": "Colombia – Medellín: El Poblado, Laureles & Provenza (Capital Mundial del Reggaetón Comercial)",
+  "flag": "🇨🇴",
+  "currency": "COP ($) / USD ($)",
+  "currencyCode": "COP",
+  "gateways": "Nequi (Bancolombia), DaviPlata (Davivienda), PSE, Tarjetas (Visa/Mastercard), Apple Pay, PayPal, Stripe",
+  "pro": "SAYCO & ACINPRO",
+  "proFullName": "SAYCO & ACINPRO (Sociedad de Autores y Compositores de Colombia)",
+  "proGuide": "100% conforme a la Ley de Derechos de Autor colombiana (Ley 23 de 1982) con contrato firmado inmediato en PDF.",
+  "headline": "Beats en El Poblado & Provenza: Noches de Medallo, Perreo Nostálgico & Sintes de 90 BPM",
+  "description": "El epicentro global de la música urbana latina: sintetizadores retro envolventes, dembows suaves y elegantes bajos de reggaetón diseñados para productores y artistas de Provenza, El Poblado y Laureles.",
+  "popularGenres": [
+    "Reggaetón Paisa",
+    "Provenza Perreo",
+    "Trap Melódico Medallo"
+  ],
+  "subClusters": []
+},
+  "co/medellin-comuna-13-san-javier": {
+  "slug": "co/medellin-comuna-13-san-javier",
+  "name": "Colombia – Medellín: Comuna 13 & San Javier (Resistencia Hip-Hop, Graffitis & Rap de Calle)",
+  "flag": "🇨🇴",
+  "currency": "COP ($) / USD ($)",
+  "currencyCode": "COP",
+  "gateways": "Nequi (Bancolombia), DaviPlata (Davivienda), PSE, Tarjetas (Visa/Mastercard), Apple Pay, PayPal, Stripe",
+  "pro": "SAYCO & ACINPRO",
+  "proFullName": "SAYCO & ACINPRO (Sociedad de Autores y Compositores de Colombia)",
+  "proGuide": "Archivos WAV 24-bit de calidad de estudio sin compresión con pistas separadas (stems multitrack).",
+  "headline": "Beats en Comuna 13: Escaleras Eléctricas, Memoria Histórica & Rap Callejero con Pegada",
+  "description": "La legendaria capital de la resistencia cultural y el hip-hop colombiano: bombos con pegada seca, pianos menores melancólicos y bajos pesados para los cronistas de Comuna 13 y San Javier.",
+  "popularGenres": [
+    "Comuna 13 Street Rap",
+    "Boom Bap Antioquia",
+    "Resistencia Hip-Hop"
+  ],
+  "subClusters": []
+},
+  "co/bogota-soacha-kennedy-sur": {
+  "slug": "co/bogota-soacha-kennedy-sur",
+  "name": "Colombia – Bogotá: Soacha, Kennedy & Bosa (Sur de Bogotá Rap Pesado & Cajas de Asfalto)",
+  "flag": "🇨🇴",
+  "currency": "COP ($) / USD ($)",
+  "currencyCode": "COP",
+  "gateways": "Nequi (Bancolombia), DaviPlata (Davivienda), PSE, Tarjetas (Visa/Mastercard), Apple Pay, PayPal, Stripe",
+  "pro": "SAYCO & ACINPRO",
+  "proFullName": "SAYCO & ACINPRO (Sociedad de Autores y Compositores de Colombia)",
+  "proGuide": "Monetización digital global en Spotify, Apple Music, YouTube y emisoras 100% garantizada.",
+  "headline": "Beats en el Sur de Bogotá: Frío de Asfalto, Kennedy, Soacha & Boom Bap Pesado",
+  "description": "La dureza y autenticidad del rap bogotano del sur: cajas secas cortantes, samples oscuros de vinilo y bajos densos diseñados para el hardcore rap de Kennedy, Bosa, Ciudad Bolívar y Soacha.",
+  "popularGenres": [
+    "Bogotá Hardcore Rap",
+    "Sur de Bogotá Boom Bap",
+    "Kennedy Street Beat"
+  ],
+  "subClusters": []
+},
+  "co/bogota-chapinero-usaquen": {
+  "slug": "co/bogota-chapinero-usaquen",
+  "name": "Colombia – Bogotá: Chapinero & Usaquén (Indie Urban Music, Melodic Cloud Trap & Chillhop)",
+  "flag": "🇨🇴",
+  "currency": "COP ($) / USD ($)",
+  "currencyCode": "COP",
+  "gateways": "Nequi (Bancolombia), DaviPlata (Davivienda), PSE, Tarjetas (Visa/Mastercard), Apple Pay, PayPal, Stripe",
+  "pro": "SAYCO & ACINPRO",
+  "proFullName": "SAYCO & ACINPRO (Sociedad de Autores y Compositores de Colombia)",
+  "proGuide": "100% libre de royalties sobre grabaciones master con licencia comercial ilimitada.",
+  "headline": "Beats en Chapinero & Usaquén: Sabana de Bogotá, Indie Urbano & Trap Melódico",
+  "description": "El epicentro vanguardista de la capital: guitarras acústicas espaciales, acordes de Rhodes neblinosos y bajos 808 suaves para la escena alternativa de Chapinero, Usaquén y Teusaquillo.",
+  "popularGenres": [
+    "Bogotá Indie Trap",
+    "Chapinero Melodic R&B",
+    "Sabana Chillhop"
+  ],
+  "subClusters": []
+},
+  "co/cali-aguablanca-siloe": {
+  "slug": "co/cali-aguablanca-siloe",
+  "name": "Colombia – Cali: Distrito de Aguablanca & Siloé (Cuna de Salsa-Trap, Salsa Choque & 808)",
+  "flag": "🇨🇴",
+  "currency": "COP ($) / USD ($)",
+  "currencyCode": "COP",
+  "gateways": "Nequi (Bancolombia), DaviPlata (Davivienda), PSE, Tarjetas (Visa/Mastercard), Apple Pay, PayPal, Stripe",
+  "pro": "SAYCO & ACINPRO",
+  "proFullName": "SAYCO & ACINPRO (Sociedad de Autores y Compositores de Colombia)",
+  "proGuide": "Pago instantáneo por Nequi, DaviPlata o PSE en pesos (COP $) con descarga automática.",
+  "headline": "Beats en Cali: Distrito de Aguablanca, Siloé & Explosiva Salsa-Trap y Salsa Choque",
+  "description": "La capital mundial de la salsa y el sabor urbano del Pacífico: vientos metales ardientes, tumbao de piano sincopado y bajos 808 arrolladores para los bailarines y MCs de Cali y Aguablanca.",
+  "popularGenres": [
+    "Cali Salsa-Trap",
+    "Salsa Choque Urbana",
+    "Aguablanca 808 Beat"
+  ],
+  "subClusters": []
+},
+  "co/barranquilla-soledad-curramba": {
+  "slug": "co/barranquilla-soledad-curramba",
+  "name": "Colombia – Barranquilla & Soledad (Puerta de Oro, Champeta Urbana & Carnaval Trap)",
+  "flag": "🇨🇴",
+  "currency": "COP ($) / USD ($)",
+  "currencyCode": "COP",
+  "gateways": "Nequi (Bancolombia), DaviPlata (Davivienda), PSE, Tarjetas (Visa/Mastercard), Apple Pay, PayPal, Stripe",
+  "pro": "SAYCO & ACINPRO",
+  "proFullName": "SAYCO & ACINPRO (Sociedad de Autores y Compositores de Colombia)",
+  "proGuide": "Pistas stems multitrack y archivos WAV de 24 bits incluidos para mezclas profesionales.",
+  "headline": "Beats en Barranquilla: Curramba la Bella, Carnaval & Champeta Trap Costeña",
+  "description": "La alegría desbordante de la costa caribeña colombiana: guitarras africanas brillantes, percusión de tambor alegre y dembows de carnaval fusionados con bajos 808 para Barranquilla y Soledad.",
+  "popularGenres": [
+    "Barranquilla Champeta Trap",
+    "Carnaval Urban Beat",
+    "Costeño 808 Bounce"
+  ],
+  "subClusters": []
+},
+  "co/cartagena-bazurto-getsemani": {
+  "slug": "co/cartagena-bazurto-getsemani",
+  "name": "Colombia – Cartagena: Bazurto & Getsemaní (Champeta Afro-Picotera & Dembow del Caribe)",
+  "flag": "🇨🇴",
+  "currency": "COP ($) / USD ($)",
+  "currencyCode": "COP",
+  "gateways": "Nequi (Bancolombia), DaviPlata (Davivienda), PSE, Tarjetas (Visa/Mastercard), Apple Pay, PayPal, Stripe",
+  "pro": "SAYCO & ACINPRO",
+  "proFullName": "SAYCO & ACINPRO (Sociedad de Autores y Compositores de Colombia)",
+  "proGuide": "Derechos comerciales completos con factura y split sheet conforme a SAYCO.",
+  "headline": "Beats en Cartagena: Mercado de Bazurto, Cultura Picotera & Champeta Urbana Caliente",
+  "description": "La potencia de los picós cartageneros: bajos demoledores para turbinas de sonido, punteos de soukous africano y dembows acelerados para los reyes de la champeta en Getsemaní y Bazurto.",
+  "popularGenres": [
+    "Cartagena Picó Beat",
+    "Champeta Urbana 808",
+    "Caribe Afro-Dembow"
+  ],
+  "subClusters": []
+},
+  "co/cucuta-norte-de-santander": {
+  "slug": "co/cucuta-norte-de-santander",
+  "name": "Colombia – Cúcuta & Norte de Santander (Realidad Fronteriza, Street Trap & Drill)",
+  "flag": "🇨🇴",
+  "currency": "COP ($) / USD ($)",
+  "currencyCode": "COP",
+  "gateways": "Nequi (Bancolombia), DaviPlata (Davivienda), PSE, Tarjetas (Visa/Mastercard), Apple Pay, PayPal, Stripe",
+  "pro": "SAYCO & ACINPRO",
+  "proFullName": "SAYCO & ACINPRO (Sociedad de Autores y Compositores de Colombia)",
+  "proGuide": "100% libre de royalties para streaming, radio y presentaciones en vivo.",
+  "headline": "Beats en Cúcuta: Frontera Caliente de Táchira, Rap Callejero & Drill Pesado",
+  "description": "La intensa realidad de la frontera colombo-venezolana: campanas menores heladas, hi-hats rápidos de drill y bajos deslizantes para MCs de Cúcuta, Los Patios y Villa del Rosario.",
+  "popularGenres": [
+    "Cúcuta Street Drill",
+    "Frontera Rap Beat",
+    "Norte de Santander Trap"
+  ],
+  "subClusters": []
+},
+  "co/ibague-tolima-musical": {
+  "slug": "co/ibague-tolima-musical",
+  "name": "Colombia – Ibagué & Tolima (Capital Musical de Colombia & Trap Melódico con Guitarra)",
+  "flag": "🇨🇴",
+  "currency": "COP ($) / USD ($)",
+  "currencyCode": "COP",
+  "gateways": "Nequi (Bancolombia), DaviPlata (Davivienda), PSE, Tarjetas (Visa/Mastercard), Apple Pay, PayPal, Stripe",
+  "pro": "SAYCO & ACINPRO",
+  "proFullName": "SAYCO & ACINPRO (Sociedad de Autores y Compositores de Colombia)",
+  "proGuide": "Licencia comercial directa con entrega inmediata de archivos de alta resolución.",
+  "headline": "Beats en Ibagué: Tradición Musical del Tolima, Guitarras Sentidas & Melodías Urbanas",
+  "description": "La cuna de la armonía musical en Colombia: requintos acústicos con calidez analógica, teclados envolventes y baterías modernas de trap para vocalistas y letristas de Ibagué y Tolima.",
+  "popularGenres": [
+    "Ibagué Melodic Trap",
+    "Tolima Acoustic Rap",
+    "Capital Musical Beat"
+  ],
+  "subClusters": []
+},
+  "co/quibdo-choco-pacifico": {
+  "slug": "co/quibdo-choco-pacifico",
+  "name": "Colombia – Quibdó & Chocó (Fusión Afro-Pacífica, Tambora, Marimba de Chonta & Trap)",
+  "flag": "🇨🇴",
+  "currency": "COP ($) / USD ($)",
+  "currencyCode": "COP",
+  "gateways": "Nequi (Bancolombia), DaviPlata (Davivienda), PSE, Tarjetas (Visa/Mastercard), Apple Pay, PayPal, Stripe",
+  "pro": "SAYCO & ACINPRO",
+  "proFullName": "SAYCO & ACINPRO (Sociedad de Autores y Compositores de Colombia)",
+  "proGuide": "Validez jurídica internacional para distribución en plataformas de streaming y sincronización.",
+  "headline": "Beats en Quibdó: Río Atrato, Marimba de Chonta & Poderosa Percusión Afro-Pacífica",
+  "description": "La fuerza ancestral del Chocó y el Pacífico colombiano: maderas de marimba de chonta, tambora y cununos acoplados a demoledores bajos 808 para creadores de Quibdó e Istmina.",
+  "popularGenres": [
+    "Chocó Afro-Trap",
+    "Marimba de Chonta Beat",
+    "Quibdó Street Flow"
+  ],
+  "subClusters": []
+},
 };
