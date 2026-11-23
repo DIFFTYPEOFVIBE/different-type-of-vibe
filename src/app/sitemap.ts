@@ -8769,12 +8769,14 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   }
 
   // 10b. Staged combinatorial cluster routes (released programmatically in batches)
-  const stagedRoutes: MetadataRoute.Sitemap = STAGED_CLUSTER_ITEMS.map((item) => ({
-    url: `${baseUrl}/${item.type}/${item.slug}`,
-    lastModified: new Date(),
-    changeFrequency: 'weekly',
-    priority: 0.8,
-  }));
+  const stagedRoutes: MetadataRoute.Sitemap = STAGED_CLUSTER_ITEMS
+    .filter((item) => item && item.type && item.slug)
+    .map((item) => ({
+      url: `${baseUrl}/${item.type}/${item.slug.replace(/&/g, 'and')}`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 0.8,
+    }));
 
   // 11. Return combined, deduplicated list of 100% active, live pages
   const combinedRoutes: MetadataRoute.Sitemap = [
@@ -8793,6 +8795,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   const seenUrls = new Set<string>();
   return combinedRoutes.filter((route) => {
+    if (!route.url || route.url.includes('/undefined/')) return false;
     if (seenUrls.has(route.url)) return false;
     seenUrls.add(route.url);
     return true;

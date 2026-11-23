@@ -10,6 +10,7 @@ export interface SubClusterLink {
 }
 
 export interface CountryDealInfo {
+  slug?: string;
   name: string;
   flag: string;
   currency: string;
@@ -21,9 +22,9 @@ export interface CountryDealInfo {
   headline: string;
   description: string;
   popularGenres: string[];
-  featuredBeatIds: string[];
+  featuredBeatIds?: string[];
   subClusters?: SubClusterLink[];
-  faqs: CountryFAQ[];
+  faqs?: CountryFAQ[];
 }
 
 
