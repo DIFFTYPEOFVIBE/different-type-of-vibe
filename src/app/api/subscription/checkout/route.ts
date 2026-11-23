@@ -26,9 +26,8 @@ export async function POST(req: Request) {
       return NextResponse.json({ error: 'Invalid plan tier selected.' }, { status: 400 });
     }
 
-    // Keep recurring-compatible methods but exclude Cash App Pay
+    // Enable Dynamic Payment Methods for recurring subscriptions (Cards, Klarna, Link, etc.)
     const session = await stripe.checkout.sessions.create({
-      payment_method_types: ['card', 'paypal'],
       customer_email: email || undefined,
       allow_promotion_codes: true,
       payment_method_options: {

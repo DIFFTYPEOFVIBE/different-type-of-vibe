@@ -31,9 +31,9 @@ export async function POST(req: Request) {
 
     const unitAmount = priceMap[licenseType.toLowerCase()] || 2999;
 
-    // Keep card/wallet options but exclude Cash App Pay
+    // Enable Dynamic Payment Methods so Stripe automatically presents localized rails
+    // (Cards, Apple Pay, Google Pay, PIX, BLIK, MB WAY, Klarna, Bancontact, EPS, Affirm, Link, Crypto)
     const session = await stripe.checkout.sessions.create({
-      payment_method_types: ['card', 'paypal', 'link'],
       allow_promotion_codes: true, // Enables the promo code input box in Stripe checkout
       payment_method_options: {
         card: {
