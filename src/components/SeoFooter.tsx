@@ -1,17 +1,17 @@
 import Link from "next/link";
 
 const TOP_TYPE_BEATS = [
-  { slug: "drake-type-beats", label: "Drake Type Beats" },
-  { slug: "travis-scott-type-beats", label: "Travis Scott Type Beats" },
-  { slug: "metro-boomin-type-beats", label: "Metro Boomin Type Beats" },
-  { slug: "j-cole-type-beats", label: "J. Cole Type Beats" },
+  { slug: "metro-boomin-type-beats", label: "Metro Boomin Beats for Sale (Dark 808 Trap)" },
+  { slug: "j-cole-type-beats", label: "J. Cole Type Beats (Soulful Boom Bap)" },
+  { slug: "travis-scott-type-beats", label: "Travis Scott Type Beats (Psychedelic 808s)" },
+  { slug: "drake-type-beats", label: "Drake Type Beats (OVO R&B & Melodic Trap)" },
 ];
 
 const TOP_GENRES = [
-  { slug: "trap-beats", label: "Trap Beats" },
-  { slug: "boom-bap-beats", label: "Boom Bap Beats" },
-  { slug: "rb-instrumentals", label: "R&B Instrumentals" },
-  { slug: "hip-hop-beats", label: "Hip-Hop Beats" },
+  { slug: "trap-beats", label: "Trap Beats for Sale (Buy Online)" },
+  { slug: "boom-bap-beats", label: "Buy Boom Bap Beats (90s Chops)" },
+  { slug: "hip-hop-beats", label: "Hip Hop Beats for Sale (Untagged)" },
+  { slug: "rb-instrumentals", label: "R&B Instrumentals & Melodies" },
 ];
 
 const LEGAL_LINKS = [

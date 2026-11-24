@@ -99,11 +99,14 @@ const STRIKING_DISTANCE_CONFIGS: Record<string, StrikingDistanceConfig> = {
       'j cole type beats',
       'j cole type beat',
       'j cole beats for sale',
+      'j cole beats',
+      'jcole type beat',
       'j cole drums',
       'j cole drum loops',
       'buy boom bap beats',
       'soulful boom bap beats',
       'dreamville type beat',
+      'buy j cole type beat',
     ],
     faqs: [
       {
