@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import SubscriptionPricing from '@/components/SubscriptionPricing';
 import CountryBeatShowcase from '@/components/CountryBeatShowcase';
+import SxoBeatCalculator from '@/components/SxoBeatCalculator';
 import { COUNTRY_DATA, CountryFAQ, SubClusterLink } from '@/data/countryDeals';
 import { MY_BEATS } from '@/data/beats';
 import { Globe, CreditCard, ShieldCheck, FileText, CheckCircle2, Music, Sparkles, ChevronRight } from 'lucide-react';
@@ -98,6 +99,45 @@ export default async function CountryDealsPage({ params }: Props) {
           },
         })),
       },
+      {
+        '@type': 'Service',
+        '@id': `https://www.differenttypeofvibe.com/deals/${countryKey}#service`,
+        'name': `${data.name} Commercial Beat Licensing & Instrumental Passes`,
+        'serviceType': 'Music Production & Beat Licensing',
+        'provider': { '@type': 'MusicGroup', 'name': 'Onzieb', 'url': 'https://www.differenttypeofvibe.com' },
+        'areaServed': { '@type': 'Country', 'name': data.name },
+        'description': `Studio-quality untagged instrumental licenses (MP3, WAV, STEMS) and monthly VIP subscription passes for recording artists in ${data.name}. 100% royalty-cleared with ${data.pro}.`,
+        'hasOfferCatalog': {
+          '@type': 'OfferCatalog',
+          'name': 'Beat Licensing Tiers & Passes',
+          'itemListElement': [
+            {
+              '@type': 'Offer',
+              'name': 'VIP Standard Pass (5 WAVs/mo)',
+              'price': '9.99',
+              'priceCurrency': data.currencyCode || 'USD',
+              'availability': 'https://schema.org/InStock',
+              'description': '5 studio WAV leases every month with 100% royalty keep.',
+            },
+            {
+              '@type': 'Offer',
+              'name': 'Pro Creator Pass (Unlimited)',
+              'price': '24.99',
+              'priceCurrency': data.currencyCode || 'USD',
+              'availability': 'https://schema.org/InStock',
+              'description': 'Unlimited 24-bit WAV downloads and full separated trackout STEMS.',
+            },
+            {
+              '@type': 'Offer',
+              'name': 'WAV Premium Single Lease',
+              'price': '49.99',
+              'priceCurrency': data.currencyCode || 'USD',
+              'availability': 'https://schema.org/InStock',
+              'description': 'Single 24-bit WAV studio lease with 500k stream clearance.',
+            },
+          ],
+        },
+      },
     ],
   };
 
@@ -140,6 +180,12 @@ export default async function CountryDealsPage({ params }: Props) {
           </div>
         </div>
       </div>
+
+      <SxoBeatCalculator
+        countryName={data.name}
+        flag={data.flag}
+        currencyCode={data.currencyCode || 'USD'}
+      />
 
       <CountryBeatShowcase
         beats={featuredBeats}

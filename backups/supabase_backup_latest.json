@@ -1,0 +1,91 @@
+{
+  "timestamp": "2026-11-03T14:57:51.100068",
+  "tables": {
+    "beats": [
+      {
+        "id": "45642afb-5e56-403f-a25c-cd31269af528",
+        "title": "Level Up - Travis Scott x Future Type Beat | Dark Trap Instrumental",
+        "bpm": 92,
+        "genre": "Trap / Dark Hip-Hop",
+        "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+        "mp3_price": 29.99,
+        "wav_price": 49.99,
+        "stems_price": 149.99,
+        "created_at": "2026-07-29T22:31:55.617261+00:00"
+      },
+      {
+        "id": "7ca023d5-24b1-4147-894b-fe67928350ae",
+        "title": "Sip of Me - J. Cole x Joey Bada$$ Type Beat | Chill Lofi Boom Bap Instrumental",
+        "bpm": 85,
+        "genre": "Boom Bap / Chill Lofi Hip-Hop",
+        "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+        "mp3_price": 29.99,
+        "wav_price": 49.99,
+        "stems_price": 149.99,
+        "created_at": "2026-07-29T22:31:55.617261+00:00"
+      },
+      {
+        "id": "d00b2c97-3811-49d7-b8e6-c07d7fa7e2cc",
+        "title": "Badin M 2 - Freddie Gibbs x MF DOOM Type Beat | Underground Boom Bap Instrumental",
+        "bpm": 100,
+        "genre": "Underground Boom Bap",
+        "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+        "mp3_price": 29.99,
+        "wav_price": 49.99,
+        "stems_price": 149.99,
+        "created_at": "2026-07-29T22:31:55.617261+00:00"
+      }
+    ],
+    "licenses": [
+      {
+        "id": "15525b35-d947-49c9-a312-c263192fc317",
+        "name": "MP3 Lease",
+        "price": 29.99,
+        "file_types_included": [
+          "MP3"
+        ],
+        "rights_summary": "Non-exclusive. Up to 50,000 streams. Radio & distribution allowed.",
+        "created_at": "2026-07-21T23:57:55.056561+00:00"
+      },
+      {
+        "id": "3b2c850f-7906-4150-a16e-b98ed44193f9",
+        "name": "WAV Lease",
+        "price": 49.99,
+        "file_types_included": [
+          "MP3",
+          "WAV"
+        ],
+        "rights_summary": "Non-exclusive. Up to 250,000 streams. High-quality uncompressed audio.",
+        "created_at": "2026-07-21T23:57:55.056561+00:00"
+      },
+      {
+        "id": "5bcc25a4-83ef-4efd-836f-58683ede9bce",
+        "name": "Unlimited & Stems",
+        "price": 149.99,
+        "file_types_included": [
+          "MP3",
+          "WAV",
+          "Stems"
+        ],
+        "rights_summary": "Non-exclusive. Unlimited streams. Includes full track stems for mixing.",
+        "created_at": "2026-07-21T23:57:55.056561+00:00"
+      },
+      {
+        "id": "1b485b60-c90c-4d34-8a02-a10e0df073ae",
+        "name": "Exclusive Rights",
+        "price": 499.99,
+        "file_types_included": [
+          "MP3",
+          "WAV",
+          "Stems"
+        ],
+        "rights_summary": "Exclusive rights. Track removed from store. Full commercial ownership.",
+        "created_at": "2026-07-21T23:57:55.056561+00:00"
+      }
+    ],
+    "orders": [],
+    "profiles": [],
+    "tracks": [],
+    "users": []
+  }
+}

@@ -155,6 +155,58 @@ export default function RootLayout({
           "query-input": "required name=search_term_string"
         }
       },
+      {
+        "@type": "Service",
+        "@id": "https://www.differenttypeofvibe.com/#service-licensing",
+        "name": "Commercial Beat Licensing & Custom Audio Production",
+        "serviceType": "Music Licensing & Audio Production",
+        "provider": {
+          "@id": "https://www.differenttypeofvibe.com/#organization"
+        },
+        "description": "Direct producer commercial beat licenses (MP3, 24-bit Lossless WAV, full trackout STEMs) and monthly VIP subscription passes for independent recording artists.",
+        "termsOfService": "https://www.differenttypeofvibe.com/terms",
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "Beat Licensing Plans & Passes",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "name": "VIP Standard Pass",
+              "price": "9.99",
+              "priceCurrency": "USD",
+              "description": "5 uncompressed 24-bit WAV commercial leases every month ($250 retail value) with 100% royalty keep."
+            },
+            {
+              "@type": "Offer",
+              "name": "Pro Creator Pass",
+              "price": "24.99",
+              "priceCurrency": "USD",
+              "description": "Unlimited 24-bit WAV downloads and full separated STEM trackouts across the entire catalog."
+            },
+            {
+              "@type": "Offer",
+              "name": "WAV Premium Single Lease",
+              "price": "49.99",
+              "priceCurrency": "USD",
+              "description": "Single uncompressed 24-bit studio WAV lease with commercial streaming rights up to 500,000 streams."
+            },
+            {
+              "@type": "Offer",
+              "name": "MP3 Basic Single Lease",
+              "price": "29.99",
+              "priceCurrency": "USD",
+              "description": "Untagged 320kbps MP3 lease with commercial streaming rights up to 100,000 streams."
+            },
+            {
+              "@type": "Offer",
+              "name": "Free 3-Beat Audition Starter Pack",
+              "price": "0.00",
+              "priceCurrency": "USD",
+              "description": "Instant download of 3 free studio untagged beats for demo vocal recording and writing."
+            }
+          ]
+        }
+      },
     ],
   };
 

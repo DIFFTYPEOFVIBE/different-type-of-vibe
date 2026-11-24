@@ -1,5 +1,6 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
+import SxoBeatCalculator from '@/components/SxoBeatCalculator';
 import { Download, Sparkles, CheckCircle2, ArrowRight, Music, Disc } from 'lucide-react';
 
 export const metadata: Metadata = {
@@ -92,13 +93,15 @@ export default function FreeDownloadsPage() {
           Join 650+ independent artists who receive free beat packs, exclusive discount codes, and vocal mixing guides every week.
         </p>
         <Link 
-          href="/free-beats" 
+          href="/Your_3_Free_Tagged_Beats.zip" download 
           className="inline-flex items-center gap-2 bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-500 hover:to-purple-500 text-white font-extrabold px-8 py-4 rounded-xl shadow-lg transition-all text-base"
         >
           <Sparkles className="w-5 h-5" />
           Claim Your 3 Free Beats Now
         </Link>
       </div>
+
+      <SxoBeatCalculator />
 
       {/* Internal Link Silo to Commercial Catalogs */}
       <div className="my-10 p-6 rounded-2xl bg-neutral-900/80 border border-neutral-800 space-y-4">

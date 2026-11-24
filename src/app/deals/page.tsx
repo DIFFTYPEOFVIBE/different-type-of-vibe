@@ -1,6 +1,7 @@
 // app/deals/page.tsx
 import { Metadata } from 'next';
 import SubscriptionPricing from '@/components/SubscriptionPricing';
+import SxoBeatCalculator from '@/components/SxoBeatCalculator';
 
 export const metadata: Metadata = {
   title: 'VIP Artist Pass Subscriptions & Beat Deals | Different Type of Vibe',
@@ -18,6 +19,8 @@ export default function DealsPage() {
         Select a VIP Artist Pass for $9.99/mo recurring WAV leases or add beats to your cart for instant BOGO discounts.
       </p>
       
+      <SxoBeatCalculator />
+
       <SubscriptionPricing />
     </main>
   );
