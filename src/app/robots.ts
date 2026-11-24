@@ -54,6 +54,7 @@ export default function robots(): MetadataRoute.Robots {
     sitemap: [
       `${baseUrl}/sitemap.xml`,
       `${baseUrl}/feed.xml`,
+      `${baseUrl}/google-feed.xml`,
     ],
     host: baseUrl,
   };
