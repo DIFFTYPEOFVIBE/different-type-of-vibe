@@ -1,6 +1,7 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import { ArrowLeft, Clock, Tag, Sparkles } from 'lucide-react';
+import SiloInterlinkingMesh from '@/components/SiloInterlinkingMesh';
 
 export const metadata: Metadata = {
   title: 'Artist Guides & Beat Licensing Articles | Different Type of Vibe',
@@ -107,6 +108,8 @@ export default function BlogHubPage() {
               </article>
             ))}
           </div>
+
+          <SiloInterlinkingMesh className="mt-16" />
         </main>
       </div>
     </>

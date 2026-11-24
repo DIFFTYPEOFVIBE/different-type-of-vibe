@@ -172,17 +172,29 @@ export default async function DynamicBlogArticlePage({ params }: { params: Promi
                 </Link>
               </div>
               <div className="grid grid-cols-2 sm:grid-cols-4 gap-2.5 pt-1">
-                <Link href="/genre/trap-beats" className="text-center p-2 bg-neutral-950/50 border border-neutral-800/60 rounded-lg text-xs font-medium text-neutral-300 hover:text-purple-300 hover:border-purple-800 transition">
+                <Link href="/genre/trap-beats" className="text-center p-2.5 bg-neutral-950/50 border border-neutral-800/60 rounded-xl text-xs font-semibold text-neutral-300 hover:text-purple-300 hover:border-purple-800 transition">
                   Trap Beats
                 </Link>
-                <Link href="/genre/boom-bap-beats" className="text-center p-2 bg-neutral-950/50 border border-neutral-800/60 rounded-lg text-xs font-medium text-neutral-300 hover:text-purple-300 hover:border-purple-800 transition">
+                <Link href="/genre/boom-bap-beats" className="text-center p-2.5 bg-neutral-950/50 border border-neutral-800/60 rounded-xl text-xs font-semibold text-neutral-300 hover:text-purple-300 hover:border-purple-800 transition">
                   Boom Bap Beats
                 </Link>
-                <Link href="/genre/hip-hop-beats" className="text-center p-2 bg-neutral-950/50 border border-neutral-800/60 rounded-lg text-xs font-medium text-neutral-300 hover:text-purple-300 hover:border-purple-800 transition">
+                <Link href="/genre/hip-hop-beats" className="text-center p-2.5 bg-neutral-950/50 border border-neutral-800/60 rounded-xl text-xs font-semibold text-neutral-300 hover:text-purple-300 hover:border-purple-800 transition">
                   Hip-Hop Beats
                 </Link>
-                <Link href="/genre/rb-instrumentals" className="text-center p-2 bg-neutral-950/50 border border-neutral-800/60 rounded-lg text-xs font-medium text-neutral-300 hover:text-purple-300 hover:border-purple-800 transition">
+                <Link href="/genre/rb-instrumentals" className="text-center p-2.5 bg-neutral-950/50 border border-neutral-800/60 rounded-xl text-xs font-semibold text-neutral-300 hover:text-purple-300 hover:border-purple-800 transition">
                   R&amp;B Beats
+                </Link>
+                <Link href="/genre/drill-beats" className="text-center p-2.5 bg-neutral-950/50 border border-neutral-800/60 rounded-xl text-xs font-semibold text-neutral-300 hover:text-purple-300 hover:border-purple-800 transition">
+                  Drill Beats
+                </Link>
+                <Link href="/genre/lofi-hip-hop-beats" className="text-center p-2.5 bg-neutral-950/50 border border-neutral-800/60 rounded-xl text-xs font-semibold text-neutral-300 hover:text-purple-300 hover:border-purple-800 transition">
+                  Lo-Fi Beats
+                </Link>
+                <Link href="/genre/synthwave-instrumentals" className="text-center p-2.5 bg-neutral-950/50 border border-neutral-800/60 rounded-xl text-xs font-semibold text-neutral-300 hover:text-purple-300 hover:border-purple-800 transition">
+                  Synthwave
+                </Link>
+                <Link href="/deals" className="text-center p-2.5 bg-purple-950/40 border border-purple-800/60 rounded-xl text-xs font-bold text-purple-300 hover:text-white hover:bg-purple-900/60 transition">
+                  VIP Deals ($9.99)
                 </Link>
               </div>
             </div>
