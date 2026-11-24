@@ -3,6 +3,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import SubscriptionPricing from '@/components/SubscriptionPricing';
 import SxoBeatCalculator from '@/components/SxoBeatCalculator';
+import SiloInterlinkingMesh from '@/components/SiloInterlinkingMesh';
 import { Tag, Sparkles, ShieldCheck, ChevronRight } from 'lucide-react';
 
 export const metadata: Metadata = {
@@ -116,6 +117,8 @@ export default function DealsPage() {
         </div>
         <SubscriptionPricing />
       </section>
+
+      <SiloInterlinkingMesh />
     </main>
   );
 }

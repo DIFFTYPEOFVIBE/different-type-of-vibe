@@ -1,6 +1,7 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import SxoBeatCalculator from '@/components/SxoBeatCalculator';
+import SiloInterlinkingMesh from '@/components/SiloInterlinkingMesh';
 import { Download, Sparkles, CheckCircle2, ArrowRight, Music, Disc } from 'lucide-react';
 
 export const metadata: Metadata = {
@@ -103,28 +104,7 @@ export default function FreeDownloadsPage() {
 
       <SxoBeatCalculator />
 
-      {/* Internal Link Silo to Commercial Catalogs */}
-      <div className="my-10 p-6 rounded-2xl bg-neutral-900/80 border border-neutral-800 space-y-4">
-        <span className="text-purple-400 font-bold text-xs uppercase tracking-wider block">🎧 Ready to Release on Spotify? Browse Commercial Catalogs</span>
-        <div className="grid grid-cols-2 sm:grid-cols-4 gap-2.5">
-          <Link href="/vibe/metro-boomin-type-beats" className="p-3 bg-neutral-950/80 border border-neutral-800 rounded-xl hover:border-purple-600 transition group">
-            <span className="block text-xs font-bold text-white group-hover:text-purple-400">Metro Boomin</span>
-            <span className="block text-[10px] text-neutral-400">Dark 808 Trap</span>
-          </Link>
-          <Link href="/vibe/drake-type-beats" className="p-3 bg-neutral-950/80 border border-neutral-800 rounded-xl hover:border-purple-600 transition group">
-            <span className="block text-xs font-bold text-white group-hover:text-purple-400">Drake OVO</span>
-            <span className="block text-[10px] text-neutral-400">Melodic R&amp;B</span>
-          </Link>
-          <Link href="/genre/boom-bap-beats" className="p-3 bg-neutral-950/80 border border-neutral-800 rounded-xl hover:border-purple-600 transition group">
-            <span className="block text-xs font-bold text-white group-hover:text-purple-400">Boom Bap</span>
-            <span className="block text-[10px] text-neutral-400">90s Soul Breaks</span>
-          </Link>
-          <Link href="/genre/trap-beats" className="p-3 bg-neutral-950/80 border border-neutral-800 rounded-xl hover:border-purple-600 transition group">
-            <span className="block text-xs font-bold text-white group-hover:text-purple-400">Trap Beats</span>
-            <span className="block text-[10px] text-neutral-400">Heavy 808s</span>
-          </Link>
-        </div>
-      </div>
+      <SiloInterlinkingMesh />
     </main>
   );
 }

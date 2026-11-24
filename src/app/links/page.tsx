@@ -3,6 +3,7 @@
 import React, { useState } from 'react';
 import Link from 'next/link';
 import { Music2, Download, CheckCircle2, ArrowRight, Send, ShieldCheck, CreditCard } from 'lucide-react';
+import SiloInterlinkingMesh from '@/components/SiloInterlinkingMesh';
 
 export default function LinksPage() {
   const [email, setEmail] = useState('');
@@ -34,8 +35,8 @@ export default function LinksPage() {
       }
 
       // Fire Meta Lead Event if pixel is active
-      if (typeof window !== 'undefined' && (window as any).fbq) {
-        (window as any).fbq('track', 'Lead', {
+      if (typeof window !== 'undefined' && (window as unknown as { fbq?: (...args: unknown[]) => void }).fbq) {
+        (window as unknown as { fbq?: (...args: unknown[]) => void }).fbq?.('track', 'Lead', {
           content_name: 'Links Page Free Beats Pack',
           value: 0.00,
           currency: 'USD',
@@ -192,7 +193,7 @@ export default function LinksPage() {
 
           {/* Link 3: Licensing & Rates */}
           <Link
-            href="/licenses"
+            href="/licensing-terms"
             className="w-full flex items-center justify-between p-4 rounded-xl bg-neutral-900/60 border border-neutral-800/80 hover:border-purple-500/50 hover:bg-neutral-900 transition-all duration-300 group"
           >
             <div className="flex items-center space-x-3.5">
@@ -200,12 +201,17 @@ export default function LinksPage() {
                 <ShieldCheck className="w-4.5 h-4.5" />
               </div>
               <div className="text-left">
-                <p className="text-sm font-bold text-white group-hover:text-purple-400 transition-colors">🛡️ Licensing Terms & Rates</p>
+                <p className="text-sm font-bold text-white group-hover:text-purple-400 transition-colors">🛡️ Licensing Terms &amp; Rates</p>
                 <p className="text-[10px] text-neutral-400">Review clear legal agreements and streaming limits</p>
               </div>
             </div>
             <ArrowRight className="w-4 h-4 text-neutral-500 group-hover:text-purple-400 group-hover:translate-x-1 transition-all" />
           </Link>
+        </div>
+
+        {/* TOPICAL INTERNAL LINKING SILO MESH */}
+        <div className="w-full max-w-4xl">
+          <SiloInterlinkingMesh />
         </div>
 
         {/* Footer */}
