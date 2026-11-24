@@ -59,14 +59,14 @@ export function getEmail3Html({ firstName }: EmailProps): string {
         <h3 style="color: #10b981; margin-top: 0;">🎟️ VIP Artist Pass Offer</h3>
         <p style="font-size: 14px; color: #d4d4d8;">Instead of paying $49+ for single WAV leases, you can now get <strong>5 Untagged WAV Commercial Leases every month for just $9.99/mo</strong>!</p>
         <div style="text-align: center; margin-top: 15px;">
-          <a href="https://differenttypeofvibe.com" style="background-color: #10b981; color: #000000; padding: 10px 20px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; font-size: 14px;">
+          <a href="https://www.differenttypeofvibe.com" style="background-color: #10b981; color: #000000; padding: 10px 20px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; font-size: 14px;">
             Start $9.99/mo VIP Pass
           </a>
         </div>
       </div>
 
       <p style="margin: 30px 0; text-align: center;">
-        <a href="https://differenttypeofvibe.com" style="background-color: #111111; color: #ffffff; padding: 14px 28px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block;">Listen to Full Beat Catalog</a>
+        <a href="https://www.differenttypeofvibe.com" style="background-color: #111111; color: #ffffff; padding: 14px 28px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block;">Listen to Full Beat Catalog</a>
       </p>
       <p style="margin-top: 30px; font-size: 14px; color: #666666;">— Onzieb</p>
     </div>
@@ -83,7 +83,7 @@ export function getEmail4Html({ firstName }: EmailProps): string {
         <p style="font-size: 24px; font-weight: bold; color: #e11d48; margin: 10px 0; letter-spacing: 2px;">FIRSTVIBE50</p>
       </div>
       <p style="text-align: center;">
-        <a href="https://differenttypeofvibe.com" style="background-color: #e11d48; color: #ffffff; padding: 14px 28px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block;">Claim Your 50% Off</a>
+        <a href="https://www.differenttypeofvibe.com" style="background-color: #e11d48; color: #ffffff; padding: 14px 28px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block;">Claim Your 50% Off</a>
       </p>
       <p style="margin-top: 30px; font-size: 14px; color: #666666;">— Onzieb</p>
     </div>
@@ -96,7 +96,7 @@ export function getEmail5Html({ firstName }: EmailProps): string {
       <p>Hey ${firstName},</p>
       <p>Just a quick heads up — your exclusive 50% off coupon code (<code>FIRSTVIBE50</code>) expires at midnight tonight.</p>
       <p style="margin: 30px 0; text-align: center;">
-        <a href="https://differenttypeofvibe.com" style="background-color: #e11d48; color: #ffffff; padding: 14px 28px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block;">Use Code FIRSTVIBE50</a>
+        <a href="https://www.differenttypeofvibe.com" style="background-color: #e11d48; color: #ffffff; padding: 14px 28px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block;">Use Code FIRSTVIBE50</a>
       </p>
       <p style="margin-top: 30px; font-size: 14px; color: #666666;">— Onzieb</p>
     </div>

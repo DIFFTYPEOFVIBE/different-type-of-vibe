@@ -30,7 +30,7 @@ export default async function TrackPage({ params }: PageProps) {
     notFound()
   }
 
-  const pageUrl = `https://differenttypeofvibe.com/track/${track.slug}`
+  const pageUrl = `https://www.differenttypeofvibe.com/track/${track.slug}`
   const formattedDuration = formatISO8601Duration(track.duration_seconds)
 
   // 2. Build Schema.org Advanced Dual-Copyright Object (Traktrain + Airbit + BeatStars)
@@ -52,8 +52,8 @@ export default async function TrackPage({ params }: PageProps) {
         'byArtist': {
           '@type': 'MusicGroup',
           'name': 'Onzieb',
-          'url': 'https://differenttypeofvibe.com',
-          'logo': 'https://differenttypeofvibe.com/images/logo.jpg',
+          'url': 'https://www.differenttypeofvibe.com',
+          'logo': 'https://www.differenttypeofvibe.com/images/logo.jpg',
           'sameAs': [
             'https://www.instagram.com/onzieb',
             'https://www.youtube.com/@onzieb',

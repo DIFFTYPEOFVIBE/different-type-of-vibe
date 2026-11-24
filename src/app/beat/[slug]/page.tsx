@@ -183,9 +183,9 @@ export default async function BeatPage({ params }: BeatPageProps) {
         'description': `Buy and download "${cleanTitle}", a ${beat.genre} instrumental. Tempo: ${beat.bpm} BPM, Key: ${beat.key}. Instant MP3, WAV, and Trackout license delivery.`,
         'isPartOf': {
           '@type': 'WebSite',
-          '@id': 'https://differenttypeofvibe.com#website',
+          '@id': 'https://www.differenttypeofvibe.com#website',
           'name': 'Different Type of Vibe',
-          'url': 'https://differenttypeofvibe.com'
+          'url': 'https://www.differenttypeofvibe.com'
         },
         'about': {
           '@id': `${canonicalUrl}#product`
@@ -280,8 +280,8 @@ export default async function BeatPage({ params }: BeatPageProps) {
         byArtist: {
           '@type': 'MusicGroup',
           'name': beat.producerName,
-          'logo': 'https://differenttypeofvibe.com/images/logo.jpg',
-          'url': 'https://differenttypeofvibe.com',
+          'logo': 'https://www.differenttypeofvibe.com/images/logo.jpg',
+          'url': 'https://www.differenttypeofvibe.com',
           'sameAs': [
             'https://www.instagram.com/onzieb',
             'https://www.youtube.com/@onzieb',

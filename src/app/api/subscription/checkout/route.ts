@@ -12,7 +12,7 @@ export async function POST(req: Request) {
 
   try {
     const { planTier, email } = await req.json(); // 'standard', 'pro', or 'annual'
-    const origin = req.headers.get('origin') || 'https://differenttypeofvibe.com';
+    const origin = req.headers.get('origin') || 'https://www.differenttypeofvibe.com';
 
     // Stripe Price IDs or line items fallback
     const priceMap: Record<string, { unitAmount: number; interval: 'month' | 'year'; name: string; credits: number }> = {

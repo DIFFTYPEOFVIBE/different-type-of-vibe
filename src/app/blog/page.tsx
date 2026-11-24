@@ -51,14 +51,14 @@ export default function BlogHubPage() {
       {
         '@type': 'Blog',
         'name': 'Different Type of Vibe Artist Guides',
-        'url': 'https://differenttypeofvibe.com/blog',
-        'publisher': { '@type': 'Organization', 'name': 'Different Type of Vibe', 'url': 'https://differenttypeofvibe.com' },
+        'url': 'https://www.differenttypeofvibe.com/blog',
+        'publisher': { '@type': 'Organization', 'name': 'Different Type of Vibe', 'url': 'https://www.differenttypeofvibe.com' },
       },
       {
         '@type': 'BreadcrumbList',
         'itemListElement': [
-          { '@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://differenttypeofvibe.com' },
-          { '@type': 'ListItem', 'position': 2, 'name': 'Blog', 'item': 'https://differenttypeofvibe.com/blog' },
+          { '@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.differenttypeofvibe.com' },
+          { '@type': 'ListItem', 'position': 2, 'name': 'Blog', 'item': 'https://www.differenttypeofvibe.com/blog' },
         ],
       },
     ],

@@ -38,7 +38,7 @@ export function generateMusicPlaylistSchema({
       "byArtist": {
         "@type": "MusicGroup",
         "name": "Onzieb",
-        "url": "https://differenttypeofvibe.com",
+        "url": "https://www.differenttypeofvibe.com",
       },
       "inAlbum": {
         "@type": "MusicAlbum",

@@ -36,13 +36,13 @@ export default function BeatSchema({ beat }: BeatSchemaProps) {
     "byArtist": {
       "@type": "MusicGroup",
       "name": "Onzieb",
-      "logo": "https://differenttypeofvibe.com/images/logo.jpg",
-      "url": "https://differenttypeofvibe.com"
+      "logo": "https://www.differenttypeofvibe.com/images/logo.jpg",
+      "url": "https://www.differenttypeofvibe.com"
     },
     "publisher": {
       "@type": "Organization",
       "name": "Different Type of Vibe",
-      "url": "https://differenttypeofvibe.com"
+      "url": "https://www.differenttypeofvibe.com"
     },
     "audio": {
       "@type": "AudioObject",
@@ -56,7 +56,7 @@ export default function BeatSchema({ beat }: BeatSchemaProps) {
         "name": "MP3 Basic Lease",
         "price": (beat.priceMp3 || 29.99).toFixed(2),
         "priceCurrency": "USD",
-        "url": "https://differenttypeofvibe.com",
+        "url": "https://www.differenttypeofvibe.com",
         "availability": "https://schema.org/InStock"
       },
       {
@@ -64,7 +64,7 @@ export default function BeatSchema({ beat }: BeatSchemaProps) {
         "name": "WAV Premium Lease",
         "price": (beat.priceWav || 49.99).toFixed(2),
         "priceCurrency": "USD",
-        "url": "https://differenttypeofvibe.com",
+        "url": "https://www.differenttypeofvibe.com",
         "availability": "https://schema.org/InStock"
       },
       {
@@ -72,7 +72,7 @@ export default function BeatSchema({ beat }: BeatSchemaProps) {
         "name": "Stems Trackout License",
         "price": (beat.priceStems || 149.99).toFixed(2),
         "priceCurrency": "USD",
-        "url": "https://differenttypeofvibe.com",
+        "url": "https://www.differenttypeofvibe.com",
         "availability": "https://schema.org/InStock"
       }
     ]

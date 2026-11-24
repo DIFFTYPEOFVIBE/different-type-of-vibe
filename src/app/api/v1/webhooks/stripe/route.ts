@@ -3,7 +3,7 @@ import { sendMetaCapiEvent } from '@/lib/metaCapi';
 
 /**
  * Stripe Webhook Route Handler
- * Endpoint: POST https://differenttypeofvibe.com/api/v1/webhooks/stripe
+ * Endpoint: POST https://www.differenttypeofvibe.com/api/v1/webhooks/stripe
  */
 
 async function sendRecoveryEmail(toEmail: string, reason?: string) {
@@ -31,10 +31,10 @@ async function sendRecoveryEmail(toEmail: string, reason?: string) {
               <p style="margin: 0 0 10px 0; color: #c084fc; font-weight: bold; font-size: 18px;">🔥 Complete Your $9.99 VIP Pass Order</p>
               <p style="margin: 0 0 15px 0; font-size: 14px; color: #d8b4fe;">Use promo code <strong style="color: #ffffff; background: #9333ea; padding: 2px 8px; border-radius: 4px;">WELCOME30</strong> for 30% OFF!</p>
               
-              <a href="https://differenttypeofvibe.com/vip-pass" style="background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; text-decoration: none; padding: 14px 32px; border-radius: 6px; font-weight: bold; font-size: 16px; display: inline-block; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">💳 Complete Checkout (Cards / Apple Pay / Google Pay)</a>
+              <a href="https://www.differenttypeofvibe.com/vip-pass" style="background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; text-decoration: none; padding: 14px 32px; border-radius: 6px; font-weight: bold; font-size: 16px; display: inline-block; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);">💳 Complete Checkout (Cards / Apple Pay / Google Pay)</a>
               
               <div style="margin-top: 15px; padding-top: 15px; border-top: 1px border-purple-800;">
-                  <a href="https://differenttypeofvibe.com/crypto-pay" style="background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%); color: #000000; text-decoration: none; padding: 12px 28px; border-radius: 6px; font-weight: bold; font-size: 14px; display: inline-block;">🪙 Prefer Crypto? Pay via USDT / USDC / BTC ➔</a>
+                  <a href="https://www.differenttypeofvibe.com/crypto-pay" style="background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%); color: #000000; text-decoration: none; padding: 12px 28px; border-radius: 6px; font-weight: bold; font-size: 14px; display: inline-block;">🪙 Prefer Crypto? Pay via USDT / USDC / BTC ➔</a>
               </div>
           </div>
           
@@ -181,7 +181,7 @@ export async function POST(req: Request) {
             eventName: 'Purchase',
             eventId: `stripe_${session.id}`,
             email: buyerEmail,
-            sourceUrl: 'https://differenttypeofvibe.com/vip-pass',
+            sourceUrl: 'https://www.differenttypeofvibe.com/vip-pass',
             customData: {
               value: amountTotal,
               currency: currency,

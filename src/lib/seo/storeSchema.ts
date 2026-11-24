@@ -1,7 +1,7 @@
 // src/lib/seo/storeSchema.ts
 
 export function generateStoreSchema() {
-  const baseUrl = "https://differenttypeofvibe.com";
+  const baseUrl = "https://www.differenttypeofvibe.com";
 
   return {
     "@context": "https://schema.org",

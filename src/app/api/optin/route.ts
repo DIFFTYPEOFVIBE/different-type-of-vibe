@@ -114,7 +114,7 @@ export async function POST(req: Request) {
       eventName: 'Lead',
       eventId: finalEventId, // Pass the same UUID generated on the frontend
       email: email,
-      sourceUrl: req.headers.get('referer') || 'https://differenttypeofvibe.com',
+      sourceUrl: req.headers.get('referer') || 'https://www.differenttypeofvibe.com',
       clientIp,
       userAgent,
       cookieHeader: req.headers.get('cookie'),

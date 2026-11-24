@@ -8,7 +8,7 @@ export async function GET(req: Request) {
   const sessionId = searchParams.get('session_id');
 
   if (!sessionId) {
-    return NextResponse.redirect('https://differenttypeofvibe.com/#beats');
+    return NextResponse.redirect('https://www.differenttypeofvibe.com/#beats');
   }
 
   try {
@@ -17,12 +17,12 @@ export async function GET(req: Request) {
       const session = await stripe.checkout.sessions.retrieve(sessionId);
 
       if (session.payment_status === 'paid' || session.mode === 'subscription') {
-        return NextResponse.redirect('https://differenttypeofvibe.com/#beats');
+        return NextResponse.redirect('https://www.differenttypeofvibe.com/#beats');
       }
     }
   } catch (err: any) {
     console.error('Download route session check error:', err);
   }
 
-  return NextResponse.redirect('https://differenttypeofvibe.com/#beats');
+  return NextResponse.redirect('https://www.differenttypeofvibe.com/#beats');
 }

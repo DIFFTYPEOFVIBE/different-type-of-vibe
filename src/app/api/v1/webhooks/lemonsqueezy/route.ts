@@ -269,7 +269,7 @@ export async function POST(req: Request) {
           eventName: 'Purchase',
           eventId: `ls_order_${orderId}`,
           email: email,
-          sourceUrl: 'https://differenttypeofvibe.com/vip-pass',
+          sourceUrl: 'https://www.differenttypeofvibe.com/vip-pass',
           customData: {
             value: Number((totalCents / 100).toFixed(2)),
             currency: (attrs.currency || 'USD').toUpperCase(),

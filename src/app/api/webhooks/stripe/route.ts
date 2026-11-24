@@ -170,7 +170,7 @@ export async function POST(req: Request) {
       const beatId = session.metadata?.beatId;
       const licenseType = session.metadata?.licenseType || 'Standard License';
 
-      const baseUrl = process.env.NEXT_PUBLIC_APP_URL || 'https://differenttypeofvibe.com';
+      const baseUrl = process.env.NEXT_PUBLIC_APP_URL || 'https://www.differenttypeofvibe.com';
       const downloadUrl = `${baseUrl}/api/download?session_id=${session.id}&beat_id=${beatId}`;
 
       // 1. Process post-purchase email delivery via Resend (Inline HTML + PDF License Attachment)

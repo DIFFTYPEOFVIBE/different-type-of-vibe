@@ -19,9 +19,9 @@ export async function POST(req: Request) {
       price_currency: 'usd',
       order_id: `crypto_${planTier || 'standard'}_${Date.now()}`,
       order_description: `${plan.name} - Different Type of Vibe`,
-      ipn_callback_url: 'https://differenttypeofvibe.com/api/v1/webhooks/nowpayments',
-      success_url: 'https://differenttypeofvibe.com/success',
-      cancel_url: 'https://differenttypeofvibe.com/crypto-pay',
+      ipn_callback_url: 'https://www.differenttypeofvibe.com/api/v1/webhooks/nowpayments',
+      success_url: 'https://www.differenttypeofvibe.com/success',
+      cancel_url: 'https://www.differenttypeofvibe.com/crypto-pay',
       customer_email: email || undefined,
     };
 

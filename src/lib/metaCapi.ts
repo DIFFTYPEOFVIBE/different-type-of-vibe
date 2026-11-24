@@ -164,7 +164,7 @@ export async function sendMetaCapiEvent({
         event_name: eventName,
         event_time: Math.floor(Date.now() / 1000),
         event_id: eventId, // Deduplication key matching client-side
-        event_source_url: sourceUrl || 'https://differenttypeofvibe.com',
+        event_source_url: sourceUrl || 'https://www.differenttypeofvibe.com',
         action_source: 'website',
         user_data: userData,
         custom_data: customData,
