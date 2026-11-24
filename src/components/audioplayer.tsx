@@ -1,7 +1,7 @@
 // src/components/AudioPlayer.tsx
 'use client';
 
-import { useAudio } from '@/context/AudioContext';
+import { useAudio } from '@/context/audiocontext';
 
 export default function AudioPlayer() {
   const { currentBeat, isPlaying, togglePlay } = useAudio();

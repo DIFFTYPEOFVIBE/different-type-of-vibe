@@ -20,6 +20,25 @@ interface PageProps {
   params: Promise<{ slug: string }>
 }
 
+import { MY_BEATS } from '@/data/beats';
+
+async function getTrackBySlug(slug: string): Promise<Track | null> {
+  const matched = MY_BEATS.find(b => b.title.toLowerCase().replace(/[^a-z0-9]+/g, '-').includes(slug.toLowerCase())) || MY_BEATS[0];
+  if (!matched) return null;
+  return {
+    id: matched.id,
+    title: matched.title,
+    slug,
+    bpm: matched.bpm,
+    key: matched.key,
+    genre: matched.genre,
+    audio_url: matched.audioUrl,
+    cover_art_url: 'https://www.differenttypeofvibe.com/og-image.png',
+    duration_seconds: 165,
+    created_at: new Date().toISOString()
+  };
+}
+
 export default async function TrackPage({ params }: PageProps) {
   const { slug } = await params
 

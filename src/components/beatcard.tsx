@@ -1,7 +1,7 @@
 // src/components/BeatCard.tsx
 'use client';
 
-import { useAudio } from '@/context/AudioContext';
+import { useAudio } from '@/context/audiocontext';
 import { trackCustomEvent } from '@/lib/gtm';
 
 export default function BeatCard({ beat }: { beat: { id: string; title: string; bpm: number; audioUrl: string } }) {

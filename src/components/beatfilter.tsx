@@ -1,8 +1,8 @@
-// src/components/BeatFilter.tsx
+// src/components/beatfilter.tsx
 'use client';
 
 import { useState } from 'react';
-import BeatCard from './BeatCard';
+import BeatCard from './beatcard';
 
 interface Beat {
   id: string;
@@ -31,20 +31,20 @@ export default function BeatFilter({ beats }: { beats: Beat[] }) {
 
   return (
     <div className="space-y-6">
-      {/* Search and Dropdown Filter Bar */}
+      {/* Search and Dropdown Controls */}
       <div className="flex flex-col sm:flex-row gap-4">
         <input
           type="text"
-          placeholder="Search beat title, producer, or style..."
+          placeholder="Search by title..."
           value={searchQuery}
           onChange={(e) => setSearchQuery(e.target.value)}
-          className="flex-1 bg-zinc-900 border border-zinc-800 rounded-lg px-4 py-2.5 text-sm text-white placeholder-zinc-500 focus:outline-none focus:border-emerald-500 transition"
+          className="flex-1 bg-zinc-900 border border-zinc-800 rounded-lg px-4 py-2 text-white placeholder-zinc-500 focus:outline-none focus:ring-2 focus:ring-purple-600"
         />
 
         <select
           value={selectedGenre}
           onChange={(e) => setSelectedGenre(e.target.value)}
-          className="bg-zinc-900 border border-zinc-800 rounded-lg px-4 py-2.5 text-sm text-white focus:outline-none focus:border-emerald-500 transition"
+          className="bg-zinc-900 border border-zinc-800 rounded-lg px-4 py-2 text-white focus:outline-none focus:ring-2 focus:ring-purple-600"
         >
           {genres.map((genre) => (
             <option key={genre} value={genre}>
@@ -54,8 +54,8 @@ export default function BeatFilter({ beats }: { beats: Beat[] }) {
         </select>
       </div>
 
-      {/* Filtered Beats Output */}
-      <div className="space-y-4">
+      {/* Beats Grid */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
         {filteredBeats.length > 0 ? (
           filteredBeats.map((beat) => (
             <BeatCard
@@ -64,11 +64,7 @@ export default function BeatFilter({ beats }: { beats: Beat[] }) {
                 id: beat.id,
                 title: beat.title,
                 bpm: beat.bpm,
-                genre: beat.genre,
                 audioUrl: beat.audio_url,
-                mp3Price: beat.mp3_price,
-                wavPrice: beat.wav_price,
-                stemsPrice: beat.stems_price,
               }}
             />
           ))
@@ -79,30 +75,5 @@ export default function BeatFilter({ beats }: { beats: Beat[] }) {
         )}
       </div>
     </div>
-  );
-}
-// src/app/page.tsx
-import { supabase } from '@/lib/supabase';
-import BeatFilter from '@/components/BeatFilter';
-
-export const revalidate = 0;
-
-export default async function HomePage() {
-  const { data: beats } = await supabase
-    .from('beats')
-    .select('*')
-    .order('created_at', { ascending: false });
-
-  return (
-    <main className="max-w-4xl mx-auto p-6 space-y-6 text-white">
-      <div className="border-b border-zinc-800 pb-4">
-        <h1 className="text-3xl font-bold">Beat Catalog</h1>
-        <p className="text-zinc-400 text-sm mt-1">
-          Browse, listen, and license high-quality beats instantly.
-        </p>
-      </div>
-
-      <BeatFilter beats={beats || []} />
-    </main>
   );
 }

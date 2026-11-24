@@ -6,10 +6,11 @@ interface RelatedBeatsProps {
 }
 
 interface LinkItem {
-  target_title: string;
-  target_slug: string;
-  similarity_score: number;
+  slug: string;
+  title: string;
+  score: number;
   anchor_html: string;
+  anchor_markdown?: string;
 }
 
 interface BeatMapItem {
