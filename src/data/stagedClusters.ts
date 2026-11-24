@@ -2,8 +2,10 @@
 // Programmatic SEO Staged Batch Cluster Ledger - Global Footprint
 // Standardized across all 52 expanded international markets
 
+export type StagedClusterType = 'vibe' | 'genre' | 'mood' | 'bpm' | 'key' | 'scene' | 'instrument' | 'blog';
+
 export interface StagedClusterItem {
-  type: 'vibe' | 'genre' | 'mood' | 'bpm' | 'key' | 'scene' | 'instrument' | 'blog';
+  type: StagedClusterType | string;
   slug: string;
   batchId: number;
 }
@@ -36593,5 +36595,12505 @@ export const STAGED_CLUSTER_ITEMS: StagedClusterItem[] = [
     "type": "scene",
     "slug": "miami-soulful-boom-bap",
     "batchId": 2
+  },
+  {
+    "type": "genre",
+    "slug": "detroit-trap-instrumentals",
+    "batchId": 22
+  },
+  {
+    "type": "genre",
+    "slug": "flint-rap-beats-instrumentals",
+    "batchId": 22
+  },
+  {
+    "type": "genre",
+    "slug": "jersey-drill-beats-instrumentals",
+    "batchId": 22
+  },
+  {
+    "type": "genre",
+    "slug": "amapiano-house-instrumentals",
+    "batchId": 22
+  },
+  {
+    "type": "genre",
+    "slug": "afro-trap-bangers-instrumentals",
+    "batchId": 22
+  },
+  {
+    "type": "genre",
+    "slug": "pluggnb-beats-instrumentals",
+    "batchId": 22
+  },
+  {
+    "type": "genre",
+    "slug": "rage-trap-beats-instrumentals",
+    "batchId": 22
+  },
+  {
+    "type": "genre",
+    "slug": "hyperpop-trap-instrumentals",
+    "batchId": 22
+  },
+  {
+    "type": "genre",
+    "slug": "dark-plugg-beats-instrumentals",
+    "batchId": 22
+  },
+  {
+    "type": "genre",
+    "slug": "sad-guitar-trap-instrumentals",
+    "batchId": 22
+  },
+  {
+    "type": "genre",
+    "slug": "emo-rap-beats-instrumentals",
+    "batchId": 22
+  },
+  {
+    "type": "genre",
+    "slug": "latin-trap-dembow-instrumentals",
+    "batchId": 22
+  },
+  {
+    "type": "genre",
+    "slug": "reggaeton-trap-instrumentals",
+    "batchId": 22
+  },
+  {
+    "type": "genre",
+    "slug": "gospel-trap-beats-instrumentals",
+    "batchId": 22
+  },
+  {
+    "type": "genre",
+    "slug": "dark-ambient-trap-instrumentals",
+    "batchId": 22
+  },
+  {
+    "type": "genre",
+    "slug": "nostalgic-boombap-instrumentals",
+    "batchId": 22
+  },
+  {
+    "type": "genre",
+    "slug": "brazilian-phonk-trap-instrumentals",
+    "batchId": 22
+  },
+  {
+    "type": "genre",
+    "slug": "melodic-drill-piano-instrumentals",
+    "batchId": 22
+  },
+  {
+    "type": "genre",
+    "slug": "soul-sample-trap-instrumentals",
+    "batchId": 22
+  },
+  {
+    "type": "genre",
+    "slug": "memphis-phonk-beats-instrumentals",
+    "batchId": 22
+  },
+  {
+    "type": "genre",
+    "slug": "uk-afroswing-beats-instrumentals",
+    "batchId": 22
+  },
+  {
+    "type": "genre",
+    "slug": "synthwave-cyberpunk-instrumentals",
+    "batchId": 22
+  },
+  {
+    "type": "genre",
+    "slug": "lofi-jazz-beats-instrumentals",
+    "batchId": 22
+  },
+  {
+    "type": "genre",
+    "slug": "cloud-rap-beats-instrumentals",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "yeat-rage-type-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "ken-carson-chaos-type-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "gunna-drip-type-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "lil-durk-pain-type-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "rod-wave-soul-type-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "polo-g-melodic-type-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "central-cee-drill-type-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "asap-rocky-psychedelic-type-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "tyler-the-creator-chords-type-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "burna-boy-afro-type-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "asake-amapiano-type-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "rema-rave-type-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "bad-bunny-dembow-type-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "post-malone-guitar-type-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "juice-wrld-melodic-type-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "xxxtentacion-lofi-type-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "don-toliver-ambient-type-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "playboi-carti-vamp-type-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "young-thug-slime-type-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "lil-baby-piano-type-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "yeat-rage-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "yeat-rage-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "yeat-rage-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "yeat-rage-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "yeat-rage-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "yeat-rage-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "yeat-rage-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "yeat-rage-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "yeat-rage-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "yeat-rage-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "yeat-rage-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "yeat-rage-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "ken-carson-chaos-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "ken-carson-chaos-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "ken-carson-chaos-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "ken-carson-chaos-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "ken-carson-chaos-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "ken-carson-chaos-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "ken-carson-chaos-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "ken-carson-chaos-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "ken-carson-chaos-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "ken-carson-chaos-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "ken-carson-chaos-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "ken-carson-chaos-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "gunna-drip-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "gunna-drip-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "gunna-drip-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "gunna-drip-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "gunna-drip-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "gunna-drip-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "gunna-drip-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "gunna-drip-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "gunna-drip-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "gunna-drip-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "gunna-drip-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "gunna-drip-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "lil-durk-pain-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "lil-durk-pain-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "lil-durk-pain-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "lil-durk-pain-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "lil-durk-pain-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "lil-durk-pain-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "lil-durk-pain-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "lil-durk-pain-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "lil-durk-pain-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "lil-durk-pain-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "lil-durk-pain-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "lil-durk-pain-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "rod-wave-soul-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "rod-wave-soul-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "rod-wave-soul-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "rod-wave-soul-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "rod-wave-soul-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "rod-wave-soul-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "rod-wave-soul-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "rod-wave-soul-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "rod-wave-soul-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "rod-wave-soul-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "rod-wave-soul-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "rod-wave-soul-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "polo-g-melodic-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "polo-g-melodic-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "polo-g-melodic-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "polo-g-melodic-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "polo-g-melodic-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "polo-g-melodic-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "polo-g-melodic-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "polo-g-melodic-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "polo-g-melodic-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "polo-g-melodic-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "polo-g-melodic-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "polo-g-melodic-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "central-cee-drill-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "central-cee-drill-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "central-cee-drill-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "central-cee-drill-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "central-cee-drill-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "central-cee-drill-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "central-cee-drill-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "central-cee-drill-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "central-cee-drill-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "central-cee-drill-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "central-cee-drill-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "central-cee-drill-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "asap-rocky-psychedelic-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "asap-rocky-psychedelic-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "asap-rocky-psychedelic-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "asap-rocky-psychedelic-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "asap-rocky-psychedelic-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "asap-rocky-psychedelic-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "asap-rocky-psychedelic-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "asap-rocky-psychedelic-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "asap-rocky-psychedelic-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "asap-rocky-psychedelic-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "asap-rocky-psychedelic-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "asap-rocky-psychedelic-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "tyler-the-creator-chords-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "tyler-the-creator-chords-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "tyler-the-creator-chords-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "tyler-the-creator-chords-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "tyler-the-creator-chords-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "tyler-the-creator-chords-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "tyler-the-creator-chords-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "tyler-the-creator-chords-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "tyler-the-creator-chords-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "tyler-the-creator-chords-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "tyler-the-creator-chords-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "tyler-the-creator-chords-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "burna-boy-afro-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "burna-boy-afro-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "burna-boy-afro-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "burna-boy-afro-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "burna-boy-afro-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "burna-boy-afro-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "burna-boy-afro-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "burna-boy-afro-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "burna-boy-afro-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "burna-boy-afro-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "burna-boy-afro-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "burna-boy-afro-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "asake-amapiano-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "asake-amapiano-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "asake-amapiano-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "asake-amapiano-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "asake-amapiano-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "asake-amapiano-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "asake-amapiano-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "asake-amapiano-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "asake-amapiano-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "asake-amapiano-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "asake-amapiano-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "asake-amapiano-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "rema-rave-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "rema-rave-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "rema-rave-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "rema-rave-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "rema-rave-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "rema-rave-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "rema-rave-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "rema-rave-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "rema-rave-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "rema-rave-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "rema-rave-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "rema-rave-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "bad-bunny-dembow-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "bad-bunny-dembow-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "bad-bunny-dembow-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "bad-bunny-dembow-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "bad-bunny-dembow-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "bad-bunny-dembow-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "bad-bunny-dembow-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "bad-bunny-dembow-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "bad-bunny-dembow-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "bad-bunny-dembow-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "bad-bunny-dembow-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "bad-bunny-dembow-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "post-malone-guitar-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "post-malone-guitar-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "post-malone-guitar-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "post-malone-guitar-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "post-malone-guitar-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "post-malone-guitar-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "post-malone-guitar-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "post-malone-guitar-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "post-malone-guitar-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "post-malone-guitar-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "post-malone-guitar-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "post-malone-guitar-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "juice-wrld-melodic-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "juice-wrld-melodic-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "juice-wrld-melodic-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "juice-wrld-melodic-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "juice-wrld-melodic-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "juice-wrld-melodic-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "juice-wrld-melodic-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "juice-wrld-melodic-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "juice-wrld-melodic-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "juice-wrld-melodic-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "juice-wrld-melodic-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "juice-wrld-melodic-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "xxxtentacion-lofi-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "xxxtentacion-lofi-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "xxxtentacion-lofi-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "xxxtentacion-lofi-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "xxxtentacion-lofi-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "xxxtentacion-lofi-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "xxxtentacion-lofi-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "xxxtentacion-lofi-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "xxxtentacion-lofi-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "xxxtentacion-lofi-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "xxxtentacion-lofi-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "xxxtentacion-lofi-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "don-toliver-ambient-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "don-toliver-ambient-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "don-toliver-ambient-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "don-toliver-ambient-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "don-toliver-ambient-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "don-toliver-ambient-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "don-toliver-ambient-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "don-toliver-ambient-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "don-toliver-ambient-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "don-toliver-ambient-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "don-toliver-ambient-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "don-toliver-ambient-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "playboi-carti-vamp-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "playboi-carti-vamp-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "playboi-carti-vamp-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "playboi-carti-vamp-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "playboi-carti-vamp-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "playboi-carti-vamp-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "playboi-carti-vamp-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "playboi-carti-vamp-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "playboi-carti-vamp-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "playboi-carti-vamp-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "playboi-carti-vamp-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "playboi-carti-vamp-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "young-thug-slime-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "young-thug-slime-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "young-thug-slime-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "young-thug-slime-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "young-thug-slime-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "young-thug-slime-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "young-thug-slime-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "young-thug-slime-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "young-thug-slime-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "young-thug-slime-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "young-thug-slime-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "young-thug-slime-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "lil-baby-piano-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "lil-baby-piano-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "lil-baby-piano-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "lil-baby-piano-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "lil-baby-piano-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "lil-baby-piano-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "lil-baby-piano-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "lil-baby-piano-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "lil-baby-piano-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "lil-baby-piano-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "lil-baby-piano-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "vibe",
+    "slug": "lil-baby-piano-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-reggaeton-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-gospel-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-dark-ambient-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-nostalgic-boombap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-brazilian-phonk-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-melodic-drill-piano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-soul-sample-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-memphis-phonk-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-uk-afroswing-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-synthwave-cyberpunk",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-lofi-jazz-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-cloud-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-reggaeton-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-gospel-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-dark-ambient-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-nostalgic-boombap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-brazilian-phonk-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-melodic-drill-piano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-soul-sample-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-memphis-phonk-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-uk-afroswing-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-synthwave-cyberpunk",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-lofi-jazz-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-cloud-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-reggaeton-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-gospel-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-dark-ambient-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-nostalgic-boombap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-brazilian-phonk-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-melodic-drill-piano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-soul-sample-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-memphis-phonk-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-uk-afroswing-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-synthwave-cyberpunk",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-lofi-jazz-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-cloud-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-reggaeton-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-gospel-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-dark-ambient-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-nostalgic-boombap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-brazilian-phonk-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-melodic-drill-piano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-memphis-phonk-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-uk-afroswing-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-synthwave-cyberpunk",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-lofi-jazz-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-cloud-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-reggaeton-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-gospel-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-dark-ambient-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-nostalgic-boombap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-brazilian-phonk-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-melodic-drill-piano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-soul-sample-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-memphis-phonk-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-uk-afroswing-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-synthwave-cyberpunk",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-lofi-jazz-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-cloud-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-reggaeton-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-gospel-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-dark-ambient-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-nostalgic-boombap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-brazilian-phonk-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-melodic-drill-piano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-soul-sample-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-memphis-phonk-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-uk-afroswing-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-synthwave-cyberpunk",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-lofi-jazz-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-cloud-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-reggaeton-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-gospel-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-dark-ambient-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-nostalgic-boombap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-brazilian-phonk-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-melodic-drill-piano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-soul-sample-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-memphis-phonk-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-uk-afroswing-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-synthwave-cyberpunk",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-lofi-jazz-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-cloud-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-reggaeton-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-gospel-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-dark-ambient-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-nostalgic-boombap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-brazilian-phonk-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-melodic-drill-piano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-soul-sample-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-memphis-phonk-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-uk-afroswing-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-synthwave-cyberpunk",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-lofi-jazz-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-cloud-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-reggaeton-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-gospel-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-dark-ambient-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-nostalgic-boombap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-brazilian-phonk-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-melodic-drill-piano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-soul-sample-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-memphis-phonk-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-uk-afroswing-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-synthwave-cyberpunk",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-lofi-jazz-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-cloud-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-reggaeton-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-gospel-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-dark-ambient-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-nostalgic-boombap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-brazilian-phonk-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-melodic-drill-piano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-soul-sample-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-memphis-phonk-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-uk-afroswing-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-synthwave-cyberpunk",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-lofi-jazz-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-cloud-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-reggaeton-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-gospel-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-dark-ambient-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-nostalgic-boombap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-brazilian-phonk-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-melodic-drill-piano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-soul-sample-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-memphis-phonk-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-uk-afroswing-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-synthwave-cyberpunk",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-lofi-jazz-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-cloud-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-reggaeton-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-gospel-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-dark-ambient-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-nostalgic-boombap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-brazilian-phonk-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-melodic-drill-piano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-soul-sample-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-memphis-phonk-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-uk-afroswing-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-synthwave-cyberpunk",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-lofi-jazz-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-cloud-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-reggaeton-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-gospel-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-dark-ambient-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-nostalgic-boombap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-brazilian-phonk-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-melodic-drill-piano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-soul-sample-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-memphis-phonk-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-uk-afroswing-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-synthwave-cyberpunk",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-lofi-jazz-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-cloud-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-reggaeton-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-gospel-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-dark-ambient-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-nostalgic-boombap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-brazilian-phonk-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-melodic-drill-piano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-soul-sample-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-memphis-phonk-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-uk-afroswing-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-synthwave-cyberpunk",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-lofi-jazz-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-cloud-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-reggaeton-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-gospel-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-dark-ambient-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-nostalgic-boombap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-brazilian-phonk-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-melodic-drill-piano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-soul-sample-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-memphis-phonk-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-uk-afroswing-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-synthwave-cyberpunk",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-lofi-jazz-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-cloud-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "160-bpm-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "160-bpm-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "160-bpm-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "160-bpm-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "160-bpm-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "160-bpm-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "160-bpm-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "160-bpm-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "160-bpm-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "160-bpm-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "160-bpm-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "160-bpm-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "160-bpm-reggaeton-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "160-bpm-gospel-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "160-bpm-dark-ambient-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "160-bpm-nostalgic-boombap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "160-bpm-brazilian-phonk-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "160-bpm-melodic-drill-piano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "160-bpm-soul-sample-trap",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "160-bpm-memphis-phonk-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "160-bpm-uk-afroswing-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "160-bpm-synthwave-cyberpunk",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "160-bpm-lofi-jazz-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "160-bpm-cloud-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-minor-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-minor-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-minor-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-minor-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-minor-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-minor-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-minor-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-minor-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-minor-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-minor-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-minor-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-minor-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-minor-reggaeton-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-minor-gospel-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-minor-dark-ambient-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-minor-nostalgic-boombap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-minor-brazilian-phonk-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-minor-melodic-drill-piano",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-minor-soul-sample-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-minor-memphis-phonk-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-minor-uk-afroswing-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-minor-synthwave-cyberpunk",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-minor-lofi-jazz-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-minor-cloud-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-sharp-minor-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-sharp-minor-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-sharp-minor-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-sharp-minor-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-sharp-minor-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-sharp-minor-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-sharp-minor-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-sharp-minor-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-sharp-minor-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-sharp-minor-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-sharp-minor-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-sharp-minor-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-sharp-minor-reggaeton-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-sharp-minor-gospel-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-sharp-minor-dark-ambient-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-sharp-minor-nostalgic-boombap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-sharp-minor-brazilian-phonk-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-sharp-minor-melodic-drill-piano",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-sharp-minor-soul-sample-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-sharp-minor-memphis-phonk-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-sharp-minor-uk-afroswing-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-sharp-minor-synthwave-cyberpunk",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-sharp-minor-lofi-jazz-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "c-sharp-minor-cloud-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "d-minor-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "d-minor-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "d-minor-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "d-minor-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "d-minor-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "d-minor-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "d-minor-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "d-minor-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "d-minor-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "d-minor-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "d-minor-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "d-minor-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "d-minor-reggaeton-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "d-minor-gospel-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "d-minor-dark-ambient-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "d-minor-nostalgic-boombap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "d-minor-brazilian-phonk-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "d-minor-melodic-drill-piano",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "d-minor-soul-sample-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "d-minor-memphis-phonk-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "d-minor-uk-afroswing-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "d-minor-synthwave-cyberpunk",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "d-minor-lofi-jazz-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "d-minor-cloud-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-flat-minor-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-flat-minor-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-flat-minor-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-flat-minor-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-flat-minor-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-flat-minor-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-flat-minor-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-flat-minor-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-flat-minor-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-flat-minor-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-flat-minor-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-flat-minor-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-flat-minor-reggaeton-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-flat-minor-gospel-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-flat-minor-dark-ambient-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-flat-minor-nostalgic-boombap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-flat-minor-brazilian-phonk-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-flat-minor-melodic-drill-piano",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-flat-minor-soul-sample-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-flat-minor-memphis-phonk-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-flat-minor-uk-afroswing-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-flat-minor-synthwave-cyberpunk",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-flat-minor-lofi-jazz-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-flat-minor-cloud-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-minor-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-minor-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-minor-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-minor-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-minor-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-minor-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-minor-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-minor-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-minor-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-minor-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-minor-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-minor-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-minor-reggaeton-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-minor-gospel-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-minor-dark-ambient-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-minor-nostalgic-boombap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-minor-brazilian-phonk-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-minor-melodic-drill-piano",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-minor-soul-sample-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-minor-memphis-phonk-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-minor-uk-afroswing-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-minor-synthwave-cyberpunk",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-minor-lofi-jazz-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "e-minor-cloud-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-minor-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-minor-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-minor-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-minor-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-minor-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-minor-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-minor-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-minor-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-minor-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-minor-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-minor-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-minor-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-minor-reggaeton-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-minor-gospel-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-minor-dark-ambient-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-minor-nostalgic-boombap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-minor-brazilian-phonk-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-minor-melodic-drill-piano",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-minor-soul-sample-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-minor-memphis-phonk-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-minor-uk-afroswing-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-minor-synthwave-cyberpunk",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-minor-lofi-jazz-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-minor-cloud-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-sharp-minor-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-sharp-minor-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-sharp-minor-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-sharp-minor-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-sharp-minor-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-sharp-minor-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-sharp-minor-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-sharp-minor-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-sharp-minor-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-sharp-minor-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-sharp-minor-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-sharp-minor-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-sharp-minor-reggaeton-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-sharp-minor-gospel-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-sharp-minor-dark-ambient-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-sharp-minor-nostalgic-boombap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-sharp-minor-brazilian-phonk-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-sharp-minor-melodic-drill-piano",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-sharp-minor-soul-sample-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-sharp-minor-memphis-phonk-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-sharp-minor-uk-afroswing-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-sharp-minor-synthwave-cyberpunk",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-sharp-minor-lofi-jazz-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "f-sharp-minor-cloud-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-minor-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-minor-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-minor-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-minor-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-minor-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-minor-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-minor-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-minor-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-minor-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-minor-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-minor-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-minor-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-minor-reggaeton-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-minor-gospel-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-minor-dark-ambient-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-minor-nostalgic-boombap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-minor-brazilian-phonk-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-minor-melodic-drill-piano",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-minor-soul-sample-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-minor-memphis-phonk-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-minor-uk-afroswing-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-minor-synthwave-cyberpunk",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-minor-lofi-jazz-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-minor-cloud-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-sharp-minor-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-sharp-minor-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-sharp-minor-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-sharp-minor-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-sharp-minor-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-sharp-minor-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-sharp-minor-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-sharp-minor-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-sharp-minor-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-sharp-minor-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-sharp-minor-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-sharp-minor-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-sharp-minor-reggaeton-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-sharp-minor-gospel-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-sharp-minor-dark-ambient-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-sharp-minor-nostalgic-boombap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-sharp-minor-brazilian-phonk-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-sharp-minor-melodic-drill-piano",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-sharp-minor-soul-sample-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-sharp-minor-memphis-phonk-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-sharp-minor-uk-afroswing-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-sharp-minor-synthwave-cyberpunk",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-sharp-minor-lofi-jazz-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "g-sharp-minor-cloud-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "a-minor-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "a-minor-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "a-minor-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "a-minor-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "a-minor-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "a-minor-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "a-minor-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "a-minor-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "a-minor-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "a-minor-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "a-minor-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "a-minor-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "a-minor-reggaeton-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "a-minor-gospel-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "a-minor-dark-ambient-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "a-minor-nostalgic-boombap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "a-minor-brazilian-phonk-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "a-minor-melodic-drill-piano",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "a-minor-soul-sample-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "a-minor-memphis-phonk-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "a-minor-uk-afroswing-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "a-minor-synthwave-cyberpunk",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "a-minor-lofi-jazz-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "a-minor-cloud-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-flat-minor-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-flat-minor-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-flat-minor-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-flat-minor-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-flat-minor-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-flat-minor-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-flat-minor-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-flat-minor-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-flat-minor-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-flat-minor-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-flat-minor-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-flat-minor-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-flat-minor-reggaeton-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-flat-minor-gospel-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-flat-minor-dark-ambient-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-flat-minor-nostalgic-boombap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-flat-minor-brazilian-phonk-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-flat-minor-melodic-drill-piano",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-flat-minor-soul-sample-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-flat-minor-memphis-phonk-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-flat-minor-uk-afroswing-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-flat-minor-synthwave-cyberpunk",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-flat-minor-lofi-jazz-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-flat-minor-cloud-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-minor-detroit-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-minor-flint-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-minor-jersey-drill-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-minor-amapiano-house",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-minor-afro-trap-bangers",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-minor-pluggnb-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-minor-rage-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-minor-hyperpop-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-minor-dark-plugg-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-minor-sad-guitar-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-minor-emo-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-minor-latin-trap-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-minor-reggaeton-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-minor-gospel-trap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-minor-dark-ambient-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-minor-nostalgic-boombap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-minor-brazilian-phonk-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-minor-melodic-drill-piano",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-minor-soul-sample-trap",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-minor-memphis-phonk-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-minor-uk-afroswing-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-minor-synthwave-cyberpunk",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-minor-lofi-jazz-beats",
+    "batchId": 22
+  },
+  {
+    "type": "key",
+    "slug": "b-minor-cloud-rap-beats",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-yeat-rage",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-ken-carson-chaos",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-gunna-drip",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-lil-durk-pain",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-rod-wave-soul",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-polo-g-melodic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-central-cee-drill",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-asap-rocky-psychedelic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-tyler-the-creator-chords",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-burna-boy-afro",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-asake-amapiano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-rema-rave",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-bad-bunny-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-post-malone-guitar",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-juice-wrld-melodic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-xxxtentacion-lofi",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-don-toliver-ambient",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-playboi-carti-vamp",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-young-thug-slime",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "80-bpm-lil-baby-piano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-yeat-rage",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-ken-carson-chaos",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-gunna-drip",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-lil-durk-pain",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-rod-wave-soul",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-polo-g-melodic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-central-cee-drill",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-asap-rocky-psychedelic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-tyler-the-creator-chords",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-burna-boy-afro",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-asake-amapiano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-rema-rave",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-bad-bunny-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-post-malone-guitar",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-juice-wrld-melodic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-xxxtentacion-lofi",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-don-toliver-ambient",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-playboi-carti-vamp",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-young-thug-slime",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "85-bpm-lil-baby-piano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-yeat-rage",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-ken-carson-chaos",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-gunna-drip",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-lil-durk-pain",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-rod-wave-soul",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-polo-g-melodic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-central-cee-drill",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-asap-rocky-psychedelic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-tyler-the-creator-chords",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-burna-boy-afro",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-asake-amapiano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-rema-rave",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-bad-bunny-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-post-malone-guitar",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-juice-wrld-melodic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-xxxtentacion-lofi",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-don-toliver-ambient",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-playboi-carti-vamp",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-young-thug-slime",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "90-bpm-lil-baby-piano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-yeat-rage",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-ken-carson-chaos",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-gunna-drip",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-lil-durk-pain",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-rod-wave-soul",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-polo-g-melodic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-central-cee-drill",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-asap-rocky-psychedelic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-tyler-the-creator-chords",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-burna-boy-afro",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-asake-amapiano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-rema-rave",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-bad-bunny-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-post-malone-guitar",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-juice-wrld-melodic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-xxxtentacion-lofi",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-don-toliver-ambient",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-playboi-carti-vamp",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-young-thug-slime",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "95-bpm-lil-baby-piano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-yeat-rage",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-ken-carson-chaos",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-gunna-drip",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-lil-durk-pain",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-rod-wave-soul",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-polo-g-melodic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-central-cee-drill",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-asap-rocky-psychedelic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-tyler-the-creator-chords",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-burna-boy-afro",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-asake-amapiano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-rema-rave",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-bad-bunny-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-post-malone-guitar",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-juice-wrld-melodic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-xxxtentacion-lofi",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-don-toliver-ambient",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-playboi-carti-vamp",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-young-thug-slime",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "110-bpm-lil-baby-piano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-yeat-rage",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-ken-carson-chaos",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-gunna-drip",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-lil-durk-pain",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-rod-wave-soul",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-polo-g-melodic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-central-cee-drill",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-asap-rocky-psychedelic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-tyler-the-creator-chords",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-burna-boy-afro",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-asake-amapiano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-rema-rave",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-bad-bunny-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-post-malone-guitar",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-juice-wrld-melodic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-xxxtentacion-lofi",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-don-toliver-ambient",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-playboi-carti-vamp",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-young-thug-slime",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "115-bpm-lil-baby-piano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-yeat-rage",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-ken-carson-chaos",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-gunna-drip",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-lil-durk-pain",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-rod-wave-soul",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-polo-g-melodic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-central-cee-drill",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-asap-rocky-psychedelic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-tyler-the-creator-chords",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-burna-boy-afro",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-asake-amapiano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-rema-rave",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-bad-bunny-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-post-malone-guitar",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-juice-wrld-melodic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-xxxtentacion-lofi",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-don-toliver-ambient",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-playboi-carti-vamp",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-young-thug-slime",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "120-bpm-lil-baby-piano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-yeat-rage",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-ken-carson-chaos",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-gunna-drip",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-lil-durk-pain",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-rod-wave-soul",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-polo-g-melodic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-central-cee-drill",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-asap-rocky-psychedelic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-tyler-the-creator-chords",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-burna-boy-afro",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-asake-amapiano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-rema-rave",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-bad-bunny-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-post-malone-guitar",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-juice-wrld-melodic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-xxxtentacion-lofi",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-don-toliver-ambient",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-playboi-carti-vamp",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-young-thug-slime",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "125-bpm-lil-baby-piano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-yeat-rage",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-ken-carson-chaos",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-gunna-drip",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-lil-durk-pain",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-rod-wave-soul",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-polo-g-melodic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-central-cee-drill",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-asap-rocky-psychedelic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-tyler-the-creator-chords",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-burna-boy-afro",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-asake-amapiano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-rema-rave",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-bad-bunny-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-post-malone-guitar",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-juice-wrld-melodic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-xxxtentacion-lofi",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-don-toliver-ambient",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-playboi-carti-vamp",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-young-thug-slime",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "130-bpm-lil-baby-piano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-yeat-rage",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-ken-carson-chaos",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-gunna-drip",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-lil-durk-pain",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-rod-wave-soul",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-polo-g-melodic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-central-cee-drill",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-asap-rocky-psychedelic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-tyler-the-creator-chords",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-burna-boy-afro",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-asake-amapiano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-rema-rave",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-bad-bunny-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-post-malone-guitar",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-juice-wrld-melodic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-xxxtentacion-lofi",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-don-toliver-ambient",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-playboi-carti-vamp",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-young-thug-slime",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "135-bpm-lil-baby-piano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-yeat-rage",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-ken-carson-chaos",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-gunna-drip",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-lil-durk-pain",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-rod-wave-soul",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-polo-g-melodic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-central-cee-drill",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-asap-rocky-psychedelic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-tyler-the-creator-chords",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-burna-boy-afro",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-asake-amapiano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-rema-rave",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-bad-bunny-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-post-malone-guitar",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-juice-wrld-melodic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-xxxtentacion-lofi",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-don-toliver-ambient",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-playboi-carti-vamp",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-young-thug-slime",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "140-bpm-lil-baby-piano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-yeat-rage",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-ken-carson-chaos",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-gunna-drip",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-lil-durk-pain",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-rod-wave-soul",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-polo-g-melodic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-central-cee-drill",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-asap-rocky-psychedelic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-tyler-the-creator-chords",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-burna-boy-afro",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-asake-amapiano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-rema-rave",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-bad-bunny-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-post-malone-guitar",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-juice-wrld-melodic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-xxxtentacion-lofi",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-don-toliver-ambient",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-playboi-carti-vamp",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-young-thug-slime",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "144-bpm-lil-baby-piano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-yeat-rage",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-ken-carson-chaos",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-gunna-drip",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-lil-durk-pain",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-rod-wave-soul",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-polo-g-melodic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-central-cee-drill",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-asap-rocky-psychedelic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-tyler-the-creator-chords",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-burna-boy-afro",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-asake-amapiano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-rema-rave",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-bad-bunny-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-post-malone-guitar",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-juice-wrld-melodic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-xxxtentacion-lofi",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-don-toliver-ambient",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-playboi-carti-vamp",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-young-thug-slime",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "148-bpm-lil-baby-piano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-yeat-rage",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-ken-carson-chaos",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-gunna-drip",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-lil-durk-pain",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-rod-wave-soul",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-polo-g-melodic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-central-cee-drill",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-asap-rocky-psychedelic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-tyler-the-creator-chords",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-burna-boy-afro",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-asake-amapiano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-rema-rave",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-bad-bunny-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-post-malone-guitar",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-juice-wrld-melodic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-xxxtentacion-lofi",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-don-toliver-ambient",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-playboi-carti-vamp",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-young-thug-slime",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "150-bpm-lil-baby-piano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-yeat-rage",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-ken-carson-chaos",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-gunna-drip",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-lil-durk-pain",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-rod-wave-soul",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-polo-g-melodic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-central-cee-drill",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-asap-rocky-psychedelic",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-tyler-the-creator-chords",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-burna-boy-afro",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-asake-amapiano",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-rema-rave",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-bad-bunny-dembow",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-post-malone-guitar",
+    "batchId": 22
+  },
+  {
+    "type": "bpm",
+    "slug": "155-bpm-juice-wrld-melodic",
+    "batchId": 22
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-detroit-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-flint-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-jersey-drill-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-amapiano-house",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-afro-trap-bangers",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-pluggnb-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-rage-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-hyperpop-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-dark-plugg-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-sad-guitar-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-emo-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-latin-trap-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-reggaeton-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-gospel-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-dark-ambient-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-nostalgic-boombap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-brazilian-phonk-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-melodic-drill-piano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-soul-sample-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-memphis-phonk-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-uk-afroswing-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-synthwave-cyberpunk",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-lofi-jazz-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-cloud-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-detroit-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-flint-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-jersey-drill-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-amapiano-house",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-afro-trap-bangers",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-pluggnb-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-rage-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-hyperpop-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-dark-plugg-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-sad-guitar-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-emo-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-latin-trap-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-reggaeton-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-gospel-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-dark-ambient-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-nostalgic-boombap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-brazilian-phonk-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-melodic-drill-piano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-soul-sample-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-memphis-phonk-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-uk-afroswing-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-synthwave-cyberpunk",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-lofi-jazz-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-cloud-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-detroit-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-flint-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-jersey-drill-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-amapiano-house",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-afro-trap-bangers",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-pluggnb-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-rage-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-hyperpop-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-dark-plugg-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-sad-guitar-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-emo-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-latin-trap-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-reggaeton-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-gospel-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-dark-ambient-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-nostalgic-boombap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-brazilian-phonk-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-melodic-drill-piano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-soul-sample-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-memphis-phonk-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-uk-afroswing-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-synthwave-cyberpunk",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-lofi-jazz-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-cloud-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-detroit-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-flint-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-jersey-drill-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-amapiano-house",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-afro-trap-bangers",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-pluggnb-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-rage-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-hyperpop-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-dark-plugg-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-sad-guitar-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-emo-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-latin-trap-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-reggaeton-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-gospel-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-dark-ambient-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-nostalgic-boombap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-brazilian-phonk-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-melodic-drill-piano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-soul-sample-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-memphis-phonk-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-uk-afroswing-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-synthwave-cyberpunk",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-lofi-jazz-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-cloud-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-detroit-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-flint-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-jersey-drill-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-amapiano-house",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-afro-trap-bangers",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-pluggnb-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-rage-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-hyperpop-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-dark-plugg-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-sad-guitar-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-emo-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-latin-trap-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-reggaeton-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-gospel-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-dark-ambient-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-nostalgic-boombap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-brazilian-phonk-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-melodic-drill-piano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-soul-sample-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-memphis-phonk-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-uk-afroswing-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-synthwave-cyberpunk",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-lofi-jazz-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-cloud-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-detroit-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-flint-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-jersey-drill-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-amapiano-house",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-afro-trap-bangers",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-pluggnb-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-rage-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-hyperpop-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-dark-plugg-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-sad-guitar-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-emo-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-latin-trap-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-reggaeton-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-gospel-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-dark-ambient-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-nostalgic-boombap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-brazilian-phonk-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-melodic-drill-piano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-soul-sample-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-memphis-phonk-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-uk-afroswing-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-synthwave-cyberpunk",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-lofi-jazz-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-cloud-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-detroit-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-flint-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-jersey-drill-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-amapiano-house",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-afro-trap-bangers",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-pluggnb-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-rage-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-hyperpop-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-dark-plugg-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-sad-guitar-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-emo-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-latin-trap-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-reggaeton-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-gospel-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-dark-ambient-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-nostalgic-boombap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-brazilian-phonk-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-melodic-drill-piano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-soul-sample-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-memphis-phonk-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-uk-afroswing-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-synthwave-cyberpunk",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-lofi-jazz-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-cloud-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-detroit-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-flint-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-jersey-drill-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-amapiano-house",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-afro-trap-bangers",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-pluggnb-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-rage-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-hyperpop-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-dark-plugg-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-sad-guitar-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-emo-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-latin-trap-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-reggaeton-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-gospel-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-dark-ambient-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-nostalgic-boombap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-brazilian-phonk-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-melodic-drill-piano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-soul-sample-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-memphis-phonk-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-uk-afroswing-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-synthwave-cyberpunk",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-lofi-jazz-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-cloud-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-detroit-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-flint-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-jersey-drill-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-amapiano-house",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-afro-trap-bangers",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-pluggnb-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-rage-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-hyperpop-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-dark-plugg-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-sad-guitar-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-emo-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-latin-trap-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-reggaeton-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-gospel-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-dark-ambient-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-nostalgic-boombap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-brazilian-phonk-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-melodic-drill-piano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-soul-sample-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-memphis-phonk-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-uk-afroswing-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-synthwave-cyberpunk",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-lofi-jazz-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-cloud-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-detroit-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-flint-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-jersey-drill-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-amapiano-house",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-afro-trap-bangers",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-pluggnb-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-rage-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-hyperpop-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-dark-plugg-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-sad-guitar-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-emo-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-latin-trap-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-reggaeton-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-gospel-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-dark-ambient-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-nostalgic-boombap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-brazilian-phonk-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-melodic-drill-piano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-soul-sample-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-memphis-phonk-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-uk-afroswing-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-synthwave-cyberpunk",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-lofi-jazz-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-cloud-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-detroit-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-flint-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-jersey-drill-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-amapiano-house",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-afro-trap-bangers",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-pluggnb-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-rage-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-hyperpop-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-dark-plugg-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-sad-guitar-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-emo-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-latin-trap-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-reggaeton-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-gospel-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-dark-ambient-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-nostalgic-boombap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-brazilian-phonk-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-melodic-drill-piano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-soul-sample-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-memphis-phonk-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-uk-afroswing-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-synthwave-cyberpunk",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-lofi-jazz-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-cloud-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-detroit-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-flint-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-jersey-drill-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-amapiano-house",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-afro-trap-bangers",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-pluggnb-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-rage-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-hyperpop-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-dark-plugg-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-sad-guitar-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-emo-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-latin-trap-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-reggaeton-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-gospel-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-dark-ambient-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-nostalgic-boombap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-brazilian-phonk-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-melodic-drill-piano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-soul-sample-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-memphis-phonk-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-uk-afroswing-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-synthwave-cyberpunk",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-lofi-jazz-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-cloud-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-detroit-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-flint-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-jersey-drill-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-amapiano-house",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-afro-trap-bangers",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-pluggnb-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-rage-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-hyperpop-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-dark-plugg-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-sad-guitar-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-emo-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-latin-trap-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-reggaeton-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-gospel-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-dark-ambient-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-nostalgic-boombap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-brazilian-phonk-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-melodic-drill-piano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-soul-sample-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-memphis-phonk-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-uk-afroswing-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-synthwave-cyberpunk",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-lofi-jazz-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-cloud-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-detroit-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-flint-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-jersey-drill-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-amapiano-house",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-afro-trap-bangers",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-pluggnb-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-rage-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-hyperpop-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-dark-plugg-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-sad-guitar-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-emo-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-latin-trap-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-reggaeton-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-gospel-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-dark-ambient-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-nostalgic-boombap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-brazilian-phonk-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-melodic-drill-piano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-soul-sample-trap",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-memphis-phonk-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-uk-afroswing-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-synthwave-cyberpunk",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-lofi-jazz-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-cloud-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-yeat-rage",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-ken-carson-chaos",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-gunna-drip",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-lil-durk-pain",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-rod-wave-soul",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-polo-g-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-central-cee-drill",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-asap-rocky-psychedelic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-tyler-the-creator-chords",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-burna-boy-afro",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-asake-amapiano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-rema-rave",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-bad-bunny-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-post-malone-guitar",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-juice-wrld-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-xxxtentacion-lofi",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-don-toliver-ambient",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-playboi-carti-vamp",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-young-thug-slime",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "menacing-lil-baby-piano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-yeat-rage",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-ken-carson-chaos",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-gunna-drip",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-lil-durk-pain",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-rod-wave-soul",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-polo-g-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-central-cee-drill",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-asap-rocky-psychedelic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-tyler-the-creator-chords",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-burna-boy-afro",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-asake-amapiano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-rema-rave",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-bad-bunny-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-post-malone-guitar",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-juice-wrld-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-xxxtentacion-lofi",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-don-toliver-ambient",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-playboi-carti-vamp",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-young-thug-slime",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "euphoric-lil-baby-piano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-yeat-rage",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-ken-carson-chaos",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-gunna-drip",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-lil-durk-pain",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-rod-wave-soul",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-polo-g-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-central-cee-drill",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-asap-rocky-psychedelic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-tyler-the-creator-chords",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-burna-boy-afro",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-asake-amapiano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-rema-rave",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-bad-bunny-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-post-malone-guitar",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-juice-wrld-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-xxxtentacion-lofi",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-don-toliver-ambient",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-playboi-carti-vamp",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-young-thug-slime",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "melancholic-lil-baby-piano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-yeat-rage",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-ken-carson-chaos",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-gunna-drip",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-lil-durk-pain",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-rod-wave-soul",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-polo-g-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-central-cee-drill",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-asap-rocky-psychedelic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-tyler-the-creator-chords",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-burna-boy-afro",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-asake-amapiano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-rema-rave",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-bad-bunny-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-post-malone-guitar",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-juice-wrld-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-xxxtentacion-lofi",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-don-toliver-ambient",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-playboi-carti-vamp",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-young-thug-slime",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "aggressive-lil-baby-piano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-yeat-rage",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-ken-carson-chaos",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-gunna-drip",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-lil-durk-pain",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-rod-wave-soul",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-polo-g-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-central-cee-drill",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-asap-rocky-psychedelic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-tyler-the-creator-chords",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-burna-boy-afro",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-asake-amapiano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-rema-rave",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-bad-bunny-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-post-malone-guitar",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-juice-wrld-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-xxxtentacion-lofi",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-don-toliver-ambient",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-playboi-carti-vamp",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-young-thug-slime",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "trippy-lil-baby-piano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-yeat-rage",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-ken-carson-chaos",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-gunna-drip",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-lil-durk-pain",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-rod-wave-soul",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-polo-g-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-central-cee-drill",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-asap-rocky-psychedelic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-tyler-the-creator-chords",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-burna-boy-afro",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-asake-amapiano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-rema-rave",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-bad-bunny-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-post-malone-guitar",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-juice-wrld-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-xxxtentacion-lofi",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-don-toliver-ambient",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-playboi-carti-vamp",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-young-thug-slime",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "soulful-lil-baby-piano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-yeat-rage",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-ken-carson-chaos",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-gunna-drip",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-lil-durk-pain",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-rod-wave-soul",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-polo-g-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-central-cee-drill",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-asap-rocky-psychedelic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-tyler-the-creator-chords",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-burna-boy-afro",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-asake-amapiano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-rema-rave",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-bad-bunny-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-post-malone-guitar",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-juice-wrld-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-xxxtentacion-lofi",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-don-toliver-ambient",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-playboi-carti-vamp",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-young-thug-slime",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "bouncy-lil-baby-piano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-yeat-rage",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-ken-carson-chaos",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-gunna-drip",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-lil-durk-pain",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-rod-wave-soul",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-polo-g-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-central-cee-drill",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-asap-rocky-psychedelic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-tyler-the-creator-chords",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-burna-boy-afro",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-asake-amapiano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-rema-rave",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-bad-bunny-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-post-malone-guitar",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-juice-wrld-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-xxxtentacion-lofi",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-don-toliver-ambient",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-playboi-carti-vamp",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-young-thug-slime",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "hypnotic-lil-baby-piano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-yeat-rage",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-ken-carson-chaos",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-gunna-drip",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-lil-durk-pain",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-rod-wave-soul",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-polo-g-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-central-cee-drill",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-asap-rocky-psychedelic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-tyler-the-creator-chords",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-burna-boy-afro",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-asake-amapiano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-rema-rave",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-bad-bunny-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-post-malone-guitar",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-juice-wrld-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-xxxtentacion-lofi",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-don-toliver-ambient",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-playboi-carti-vamp",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-young-thug-slime",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "triumphant-lil-baby-piano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-yeat-rage",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-ken-carson-chaos",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-gunna-drip",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-lil-durk-pain",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-rod-wave-soul",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-polo-g-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-central-cee-drill",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-asap-rocky-psychedelic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-tyler-the-creator-chords",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-burna-boy-afro",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-asake-amapiano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-rema-rave",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-bad-bunny-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-post-malone-guitar",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-juice-wrld-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-xxxtentacion-lofi",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-don-toliver-ambient",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-playboi-carti-vamp",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-young-thug-slime",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "dark-lil-baby-piano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-yeat-rage",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-ken-carson-chaos",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-gunna-drip",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-lil-durk-pain",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-rod-wave-soul",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-polo-g-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-central-cee-drill",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-asap-rocky-psychedelic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-tyler-the-creator-chords",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-burna-boy-afro",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-asake-amapiano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-rema-rave",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-bad-bunny-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-post-malone-guitar",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-juice-wrld-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-xxxtentacion-lofi",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-don-toliver-ambient",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-playboi-carti-vamp",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-young-thug-slime",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "atmospheric-lil-baby-piano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-yeat-rage",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-ken-carson-chaos",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-gunna-drip",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-lil-durk-pain",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-rod-wave-soul",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-polo-g-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-central-cee-drill",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-asap-rocky-psychedelic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-tyler-the-creator-chords",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-burna-boy-afro",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-asake-amapiano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-rema-rave",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-bad-bunny-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-post-malone-guitar",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-juice-wrld-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-xxxtentacion-lofi",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-don-toliver-ambient",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-playboi-carti-vamp",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-young-thug-slime",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "cinematic-lil-baby-piano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-yeat-rage",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-ken-carson-chaos",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-gunna-drip",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-lil-durk-pain",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-rod-wave-soul",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-polo-g-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-central-cee-drill",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-asap-rocky-psychedelic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-tyler-the-creator-chords",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-burna-boy-afro",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-asake-amapiano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-rema-rave",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-bad-bunny-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-post-malone-guitar",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-juice-wrld-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-xxxtentacion-lofi",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-don-toliver-ambient",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-playboi-carti-vamp",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-young-thug-slime",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "chill-lil-baby-piano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-yeat-rage",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-ken-carson-chaos",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-gunna-drip",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-lil-durk-pain",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-rod-wave-soul",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-polo-g-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-central-cee-drill",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-asap-rocky-psychedelic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-tyler-the-creator-chords",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-burna-boy-afro",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-asake-amapiano",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-rema-rave",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-bad-bunny-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-post-malone-guitar",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-juice-wrld-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-xxxtentacion-lofi",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-don-toliver-ambient",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-playboi-carti-vamp",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-young-thug-slime",
+    "batchId": 23
+  },
+  {
+    "type": "mood",
+    "slug": "nostalgic-lil-baby-piano",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-detroit-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-flint-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-jersey-drill-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-amapiano-house",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-afro-trap-bangers",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-pluggnb-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-rage-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-hyperpop-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-dark-plugg-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-sad-guitar-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-emo-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-latin-trap-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-reggaeton-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-gospel-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-dark-ambient-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-nostalgic-boombap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-brazilian-phonk-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-melodic-drill-piano",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-soul-sample-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-memphis-phonk-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-uk-afroswing-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-synthwave-cyberpunk",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-lofi-jazz-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-cloud-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-detroit-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-flint-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-jersey-drill-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-amapiano-house",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-afro-trap-bangers",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-pluggnb-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-rage-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-hyperpop-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-dark-plugg-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-sad-guitar-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-emo-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-latin-trap-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-reggaeton-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-gospel-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-dark-ambient-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-nostalgic-boombap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-brazilian-phonk-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-melodic-drill-piano",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-soul-sample-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-memphis-phonk-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-uk-afroswing-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-synthwave-cyberpunk",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-lofi-jazz-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-cloud-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-detroit-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-flint-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-jersey-drill-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-amapiano-house",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-afro-trap-bangers",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-pluggnb-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-rage-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-hyperpop-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-dark-plugg-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-sad-guitar-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-emo-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-latin-trap-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-reggaeton-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-gospel-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-dark-ambient-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-nostalgic-boombap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-brazilian-phonk-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-melodic-drill-piano",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-soul-sample-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-memphis-phonk-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-uk-afroswing-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-synthwave-cyberpunk",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-lofi-jazz-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-cloud-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-detroit-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-flint-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-jersey-drill-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-amapiano-house",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-afro-trap-bangers",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-pluggnb-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-rage-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-hyperpop-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-dark-plugg-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-sad-guitar-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-emo-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-latin-trap-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-reggaeton-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-gospel-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-dark-ambient-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-nostalgic-boombap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-brazilian-phonk-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-melodic-drill-piano",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-soul-sample-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-memphis-phonk-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-uk-afroswing-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-synthwave-cyberpunk",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-lofi-jazz-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-cloud-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-detroit-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-flint-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-jersey-drill-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-amapiano-house",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-afro-trap-bangers",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-pluggnb-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-rage-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-hyperpop-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-dark-plugg-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-sad-guitar-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-emo-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-latin-trap-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-reggaeton-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-gospel-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-dark-ambient-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-nostalgic-boombap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-brazilian-phonk-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-melodic-drill-piano",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-soul-sample-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-memphis-phonk-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-uk-afroswing-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-synthwave-cyberpunk",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-lofi-jazz-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-cloud-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-detroit-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-flint-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-jersey-drill-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-amapiano-house",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-afro-trap-bangers",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-pluggnb-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-rage-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-hyperpop-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-dark-plugg-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-sad-guitar-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-emo-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-latin-trap-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-reggaeton-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-gospel-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-dark-ambient-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-nostalgic-boombap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-brazilian-phonk-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-melodic-drill-piano",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-soul-sample-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-memphis-phonk-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-uk-afroswing-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-synthwave-cyberpunk",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-lofi-jazz-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-cloud-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-detroit-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-flint-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-jersey-drill-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-amapiano-house",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-afro-trap-bangers",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-pluggnb-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-rage-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-hyperpop-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-dark-plugg-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-sad-guitar-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-emo-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-latin-trap-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-reggaeton-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-gospel-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-dark-ambient-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-nostalgic-boombap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-brazilian-phonk-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-melodic-drill-piano",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-soul-sample-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-memphis-phonk-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-uk-afroswing-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-synthwave-cyberpunk",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-lofi-jazz-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-cloud-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-detroit-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-flint-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-jersey-drill-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-amapiano-house",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-afro-trap-bangers",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-pluggnb-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-rage-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-hyperpop-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-dark-plugg-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-sad-guitar-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-emo-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-latin-trap-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-reggaeton-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-gospel-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-dark-ambient-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-nostalgic-boombap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-brazilian-phonk-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-melodic-drill-piano",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-soul-sample-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-memphis-phonk-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-uk-afroswing-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-synthwave-cyberpunk",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-lofi-jazz-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-cloud-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-detroit-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-flint-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-jersey-drill-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-amapiano-house",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-afro-trap-bangers",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-pluggnb-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-rage-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-hyperpop-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-dark-plugg-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-sad-guitar-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-emo-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-latin-trap-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-reggaeton-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-gospel-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-dark-ambient-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-nostalgic-boombap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-brazilian-phonk-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-melodic-drill-piano",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-soul-sample-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-memphis-phonk-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-uk-afroswing-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-synthwave-cyberpunk",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-lofi-jazz-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-cloud-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "miami-florida-detroit-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "miami-florida-flint-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "miami-florida-jersey-drill-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "miami-florida-amapiano-house",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "miami-florida-afro-trap-bangers",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "miami-florida-pluggnb-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "miami-florida-rage-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "miami-florida-hyperpop-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "miami-florida-dark-plugg-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "miami-florida-sad-guitar-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "miami-florida-emo-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "miami-florida-latin-trap-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "miami-florida-reggaeton-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "miami-florida-gospel-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "miami-florida-dark-ambient-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "miami-florida-nostalgic-boombap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "miami-florida-brazilian-phonk-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "miami-florida-melodic-drill-piano",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "miami-florida-soul-sample-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "miami-florida-memphis-phonk-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "miami-florida-uk-afroswing-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "miami-florida-synthwave-cyberpunk",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "miami-florida-lofi-jazz-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "miami-florida-cloud-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "memphis-tennessee-detroit-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "memphis-tennessee-flint-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "memphis-tennessee-jersey-drill-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "memphis-tennessee-amapiano-house",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "memphis-tennessee-afro-trap-bangers",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "memphis-tennessee-pluggnb-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "memphis-tennessee-rage-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "memphis-tennessee-hyperpop-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "memphis-tennessee-dark-plugg-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "memphis-tennessee-sad-guitar-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "memphis-tennessee-emo-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "memphis-tennessee-latin-trap-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "memphis-tennessee-reggaeton-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "memphis-tennessee-gospel-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "memphis-tennessee-dark-ambient-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "memphis-tennessee-nostalgic-boombap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "memphis-tennessee-brazilian-phonk-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "memphis-tennessee-melodic-drill-piano",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "memphis-tennessee-soul-sample-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "memphis-tennessee-memphis-phonk-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "memphis-tennessee-uk-afroswing-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "memphis-tennessee-synthwave-cyberpunk",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "memphis-tennessee-lofi-jazz-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "memphis-tennessee-cloud-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "new-york-city-detroit-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "new-york-city-flint-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "new-york-city-jersey-drill-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "new-york-city-amapiano-house",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "new-york-city-afro-trap-bangers",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "new-york-city-pluggnb-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "new-york-city-rage-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "new-york-city-hyperpop-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "new-york-city-dark-plugg-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "new-york-city-sad-guitar-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "new-york-city-emo-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "new-york-city-latin-trap-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "new-york-city-reggaeton-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "new-york-city-gospel-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "new-york-city-dark-ambient-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "new-york-city-nostalgic-boombap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "new-york-city-brazilian-phonk-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "new-york-city-melodic-drill-piano",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "new-york-city-soul-sample-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "new-york-city-memphis-phonk-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "new-york-city-uk-afroswing-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "new-york-city-synthwave-cyberpunk",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "new-york-city-lofi-jazz-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "new-york-city-cloud-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "johannesburg-south-africa-detroit-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "johannesburg-south-africa-flint-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "johannesburg-south-africa-jersey-drill-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "johannesburg-south-africa-amapiano-house",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "johannesburg-south-africa-afro-trap-bangers",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "johannesburg-south-africa-pluggnb-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "johannesburg-south-africa-rage-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "johannesburg-south-africa-hyperpop-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "johannesburg-south-africa-dark-plugg-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "johannesburg-south-africa-sad-guitar-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "johannesburg-south-africa-emo-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "johannesburg-south-africa-latin-trap-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "johannesburg-south-africa-reggaeton-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "johannesburg-south-africa-gospel-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "johannesburg-south-africa-dark-ambient-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "johannesburg-south-africa-nostalgic-boombap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "johannesburg-south-africa-brazilian-phonk-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "johannesburg-south-africa-melodic-drill-piano",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "johannesburg-south-africa-soul-sample-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "johannesburg-south-africa-memphis-phonk-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "johannesburg-south-africa-uk-afroswing-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "johannesburg-south-africa-synthwave-cyberpunk",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "johannesburg-south-africa-lofi-jazz-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "johannesburg-south-africa-cloud-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "berlin-germany-detroit-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "berlin-germany-flint-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "berlin-germany-jersey-drill-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "berlin-germany-amapiano-house",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "berlin-germany-afro-trap-bangers",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "berlin-germany-pluggnb-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "berlin-germany-rage-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "berlin-germany-hyperpop-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "berlin-germany-dark-plugg-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "berlin-germany-sad-guitar-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "berlin-germany-emo-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "berlin-germany-latin-trap-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "berlin-germany-reggaeton-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "berlin-germany-gospel-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "berlin-germany-dark-ambient-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "berlin-germany-nostalgic-boombap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "berlin-germany-brazilian-phonk-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "berlin-germany-melodic-drill-piano",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "berlin-germany-soul-sample-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "berlin-germany-memphis-phonk-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "berlin-germany-uk-afroswing-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "berlin-germany-synthwave-cyberpunk",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "berlin-germany-lofi-jazz-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "berlin-germany-cloud-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "amsterdam-netherlands-detroit-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "amsterdam-netherlands-flint-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "amsterdam-netherlands-jersey-drill-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "amsterdam-netherlands-amapiano-house",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "amsterdam-netherlands-afro-trap-bangers",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "amsterdam-netherlands-pluggnb-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "amsterdam-netherlands-rage-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "amsterdam-netherlands-hyperpop-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "amsterdam-netherlands-dark-plugg-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "amsterdam-netherlands-sad-guitar-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "amsterdam-netherlands-emo-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "amsterdam-netherlands-latin-trap-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "amsterdam-netherlands-reggaeton-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "amsterdam-netherlands-gospel-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "amsterdam-netherlands-dark-ambient-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "amsterdam-netherlands-nostalgic-boombap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "amsterdam-netherlands-brazilian-phonk-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "amsterdam-netherlands-melodic-drill-piano",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "amsterdam-netherlands-soul-sample-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "amsterdam-netherlands-memphis-phonk-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "amsterdam-netherlands-uk-afroswing-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "amsterdam-netherlands-synthwave-cyberpunk",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "amsterdam-netherlands-lofi-jazz-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "amsterdam-netherlands-cloud-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "madrid-spain-detroit-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "madrid-spain-flint-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "madrid-spain-jersey-drill-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "madrid-spain-amapiano-house",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "madrid-spain-afro-trap-bangers",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "madrid-spain-pluggnb-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "madrid-spain-rage-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "madrid-spain-hyperpop-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "madrid-spain-dark-plugg-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "madrid-spain-sad-guitar-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "madrid-spain-emo-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "madrid-spain-latin-trap-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "madrid-spain-reggaeton-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "madrid-spain-gospel-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "madrid-spain-dark-ambient-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "madrid-spain-nostalgic-boombap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "madrid-spain-brazilian-phonk-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "madrid-spain-melodic-drill-piano",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "madrid-spain-soul-sample-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "madrid-spain-memphis-phonk-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "madrid-spain-uk-afroswing-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "madrid-spain-synthwave-cyberpunk",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "madrid-spain-lofi-jazz-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "madrid-spain-cloud-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sao-paulo-brazil-detroit-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sao-paulo-brazil-flint-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sao-paulo-brazil-jersey-drill-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sao-paulo-brazil-amapiano-house",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sao-paulo-brazil-afro-trap-bangers",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sao-paulo-brazil-pluggnb-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sao-paulo-brazil-rage-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sao-paulo-brazil-hyperpop-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sao-paulo-brazil-dark-plugg-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sao-paulo-brazil-sad-guitar-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sao-paulo-brazil-emo-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sao-paulo-brazil-latin-trap-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sao-paulo-brazil-reggaeton-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sao-paulo-brazil-gospel-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sao-paulo-brazil-dark-ambient-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sao-paulo-brazil-nostalgic-boombap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sao-paulo-brazil-brazilian-phonk-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sao-paulo-brazil-melodic-drill-piano",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sao-paulo-brazil-soul-sample-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sao-paulo-brazil-memphis-phonk-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sao-paulo-brazil-uk-afroswing-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sao-paulo-brazil-synthwave-cyberpunk",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sao-paulo-brazil-lofi-jazz-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sao-paulo-brazil-cloud-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "tokyo-japan-detroit-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "tokyo-japan-flint-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "tokyo-japan-jersey-drill-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "tokyo-japan-amapiano-house",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "tokyo-japan-afro-trap-bangers",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "tokyo-japan-pluggnb-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "tokyo-japan-rage-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "tokyo-japan-hyperpop-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "tokyo-japan-dark-plugg-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "tokyo-japan-sad-guitar-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "tokyo-japan-emo-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "tokyo-japan-latin-trap-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "tokyo-japan-reggaeton-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "tokyo-japan-gospel-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "tokyo-japan-dark-ambient-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "tokyo-japan-nostalgic-boombap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "tokyo-japan-brazilian-phonk-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "tokyo-japan-melodic-drill-piano",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "tokyo-japan-soul-sample-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "tokyo-japan-memphis-phonk-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "tokyo-japan-uk-afroswing-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "tokyo-japan-synthwave-cyberpunk",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "tokyo-japan-lofi-jazz-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "tokyo-japan-cloud-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sydney-australia-detroit-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sydney-australia-flint-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sydney-australia-jersey-drill-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sydney-australia-amapiano-house",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sydney-australia-afro-trap-bangers",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sydney-australia-pluggnb-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sydney-australia-rage-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sydney-australia-hyperpop-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sydney-australia-dark-plugg-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sydney-australia-sad-guitar-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sydney-australia-emo-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sydney-australia-latin-trap-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sydney-australia-reggaeton-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sydney-australia-gospel-trap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sydney-australia-dark-ambient-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sydney-australia-nostalgic-boombap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sydney-australia-brazilian-phonk-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sydney-australia-melodic-drill-piano",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sydney-australia-soul-sample-trap",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sydney-australia-memphis-phonk-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sydney-australia-uk-afroswing-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sydney-australia-synthwave-cyberpunk",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sydney-australia-lofi-jazz-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "sydney-australia-cloud-rap-beats",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-yeat-rage",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-ken-carson-chaos",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-gunna-drip",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-lil-durk-pain",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-rod-wave-soul",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-polo-g-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-central-cee-drill",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-asap-rocky-psychedelic",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-tyler-the-creator-chords",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-burna-boy-afro",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-asake-amapiano",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-rema-rave",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-bad-bunny-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-post-malone-guitar",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-juice-wrld-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-xxxtentacion-lofi",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-don-toliver-ambient",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-playboi-carti-vamp",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-young-thug-slime",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "detroit-michigan-lil-baby-piano",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-yeat-rage",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-ken-carson-chaos",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-gunna-drip",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-lil-durk-pain",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-rod-wave-soul",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-polo-g-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-central-cee-drill",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-asap-rocky-psychedelic",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-tyler-the-creator-chords",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-burna-boy-afro",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-asake-amapiano",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-rema-rave",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-bad-bunny-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-post-malone-guitar",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-juice-wrld-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-xxxtentacion-lofi",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-don-toliver-ambient",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-playboi-carti-vamp",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-young-thug-slime",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "toronto-ontario-lil-baby-piano",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-yeat-rage",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-ken-carson-chaos",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-gunna-drip",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-lil-durk-pain",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-rod-wave-soul",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-polo-g-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-central-cee-drill",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-asap-rocky-psychedelic",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-tyler-the-creator-chords",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-burna-boy-afro",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-asake-amapiano",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-rema-rave",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-bad-bunny-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-post-malone-guitar",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-juice-wrld-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-xxxtentacion-lofi",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-don-toliver-ambient",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-playboi-carti-vamp",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-young-thug-slime",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "atlanta-georgia-lil-baby-piano",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-yeat-rage",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-ken-carson-chaos",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-gunna-drip",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-lil-durk-pain",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-rod-wave-soul",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-polo-g-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-central-cee-drill",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-asap-rocky-psychedelic",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-tyler-the-creator-chords",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-burna-boy-afro",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-asake-amapiano",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-rema-rave",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-bad-bunny-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-post-malone-guitar",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-juice-wrld-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-xxxtentacion-lofi",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-don-toliver-ambient",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-playboi-carti-vamp",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-young-thug-slime",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "chicago-illinois-lil-baby-piano",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-yeat-rage",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-ken-carson-chaos",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-gunna-drip",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-lil-durk-pain",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-rod-wave-soul",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-polo-g-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-central-cee-drill",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-asap-rocky-psychedelic",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-tyler-the-creator-chords",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-burna-boy-afro",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-asake-amapiano",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-rema-rave",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-bad-bunny-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-post-malone-guitar",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-juice-wrld-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-xxxtentacion-lofi",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-don-toliver-ambient",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-playboi-carti-vamp",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-young-thug-slime",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "london-uk-lil-baby-piano",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-yeat-rage",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-ken-carson-chaos",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-gunna-drip",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-lil-durk-pain",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-rod-wave-soul",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-polo-g-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-central-cee-drill",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-asap-rocky-psychedelic",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-tyler-the-creator-chords",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-burna-boy-afro",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-asake-amapiano",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-rema-rave",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-bad-bunny-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-post-malone-guitar",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-juice-wrld-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-xxxtentacion-lofi",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-don-toliver-ambient",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-playboi-carti-vamp",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-young-thug-slime",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "paris-france-lil-baby-piano",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-yeat-rage",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-ken-carson-chaos",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-gunna-drip",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-lil-durk-pain",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-rod-wave-soul",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-polo-g-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-central-cee-drill",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-asap-rocky-psychedelic",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-tyler-the-creator-chords",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-burna-boy-afro",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-asake-amapiano",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-rema-rave",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-bad-bunny-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-post-malone-guitar",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-juice-wrld-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-xxxtentacion-lofi",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-don-toliver-ambient",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-playboi-carti-vamp",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-young-thug-slime",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "lagos-nigeria-lil-baby-piano",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-yeat-rage",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-ken-carson-chaos",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-gunna-drip",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-lil-durk-pain",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-rod-wave-soul",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-polo-g-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-central-cee-drill",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-asap-rocky-psychedelic",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-tyler-the-creator-chords",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-burna-boy-afro",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-asake-amapiano",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-rema-rave",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-bad-bunny-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-post-malone-guitar",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-juice-wrld-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-xxxtentacion-lofi",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-don-toliver-ambient",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-playboi-carti-vamp",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-young-thug-slime",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "los-angeles-california-lil-baby-piano",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-yeat-rage",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-ken-carson-chaos",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-gunna-drip",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-lil-durk-pain",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-rod-wave-soul",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-polo-g-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-central-cee-drill",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-asap-rocky-psychedelic",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-tyler-the-creator-chords",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-burna-boy-afro",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-asake-amapiano",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-rema-rave",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-bad-bunny-dembow",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-post-malone-guitar",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-juice-wrld-melodic",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-xxxtentacion-lofi",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-don-toliver-ambient",
+    "batchId": 23
+  },
+  {
+    "type": "scene",
+    "slug": "houston-texas-playboi-carti-vamp",
+    "batchId": 23
   }
 ];
