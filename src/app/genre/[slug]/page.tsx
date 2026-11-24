@@ -155,6 +155,94 @@ const GENRE_SEO_CONFIGS: Record<string, GenreSEOConfig> = {
       },
     ],
   },
+  'drill-beats': {
+    metaTitle: 'Drill Beats for Sale | Sliding 808s, UK & NY Drill Leases | Different Type of Vibe',
+    metaDesc: 'Buy untagged drill beats for sale. Aggressive sliding 808s, dark piano loops, and fast syncopated hi-hats. Commercial 24-bit WAV licenses from $29.99.',
+    seoTitle: 'Drill Beats for Sale (Aggressive Sliding 808s, UK & NY Drill)',
+    seoBadge: '🔥 Heavy 808 Glides & Aggressive Bounce',
+    seoDescription: 'Stream & buy untagged drill beats for sale produced by Onzieb. Heavy pitch-bent 808 sub-bass, rapid drill hi-hat triplets, and ominous melodic samples. 100% royalty cleared for Spotify and commercial streaming.',
+    reviewCount: 89,
+    keywords: [
+      'drill beats for sale',
+      'buy drill beats',
+      'uk drill beats',
+      'ny drill type beat',
+      'dark drill instrumentals',
+      'sliding 808 drill beats',
+    ],
+    faqs: [
+      {
+        question: 'How do I buy untagged drill beats on Different Type of Vibe?',
+        answer: 'Browse our drill catalog, pick your license tier (MP3 Basic, WAV Premium, or Stems), and complete checkout. Your untagged audio and signed commercial contract are delivered immediately.',
+      },
+      {
+        question: 'Are sliding 808 glides and drum stems separated in trackout licenses?',
+        answer: 'Yes! The STEMS license delivers separated 24-bit WAV channels for sliding 808 sub-bass, kick, snare, hi-hats, and melodic layers for studio mixing.',
+      },
+      {
+        question: 'What tempos (BPM) are your UK and NY drill beats produced in?',
+        answer: 'Our drill instrumentals are produced between 140 and 144 BPM—the standard pocket for modern UK and Brooklyn drill rhythms.',
+      },
+      {
+        question: 'Can I release drill tracks on Spotify and YouTube without copyright strikes?',
+        answer: 'Yes! 100% original production by Onzieb with zero third-party uncleared samples. Safe for commercial streaming with 100% master royalty retention.',
+      },
+    ],
+  },
+  'lofi-hip-hop-beats': {
+    metaTitle: 'Lo-Fi Hip Hop Beats for Sale | Chill Study & Nostalgic Chords | Different Type of Vibe',
+    metaDesc: 'Buy untagged lo-fi hip hop beats for sale. Warm vinyl crackle, nostalgic jazz chords, and dusty relaxed drum grooves. Commercial WAV leases from $29.99.',
+    seoTitle: 'Lo-Fi Hip Hop Beats for Sale (Chill Study Beats & Nostalgic Vinyl)',
+    seoBadge: '☕ Chill Study & Nostalgic Aesthetics',
+    seoDescription: 'Stream & license relaxing lo-fi hip hop beats produced by Onzieb. Warm SP-404 vinyl textures, mellow Rhodes keys, soothing jazz chords, and laid-back boom bap drum breaks. Royalty-free commercial release cleared.',
+    reviewCount: 92,
+    keywords: [
+      'lofi hip hop beats',
+      'buy lofi beats',
+      'chill lofi beats for sale',
+      'lofi study beats',
+      'nostalgic hip hop beats',
+    ],
+    faqs: [
+      {
+        question: 'Can I use these lo-fi beats for background music on YouTube and podcasts?',
+        answer: 'Yes! All licenses include commercial monetization rights across YouTube videos, podcasts, Twitch streams, and background music.',
+      },
+      {
+        question: 'Are all vinyl crackles and Rhodes samples royalty-free?',
+        answer: 'Yes. All chord voicings and vinyl soundscapes are 100% original compositions recorded by Onzieb, free of third-party copyright claims.',
+      },
+      {
+        question: 'What audio formats are included with a lo-fi beat lease?',
+        answer: 'Choose between untagged 320kbps MP3s, 24-bit lossless WAVs, or full separated trackout stems for custom arrangement.',
+      },
+    ],
+  },
+  'synthwave-instrumentals': {
+    metaTitle: 'Synthwave Instrumentals for Sale | 80s Retro & Cyberpunk Beats | Different Type of Vibe',
+    metaDesc: 'Buy untagged synthwave instrumentals online. 80s analog synthesizers, gated reverbs, driving arpeggiators, and cyberpunk vibes. Instant WAV leases from $29.99.',
+    seoTitle: 'Synthwave Instrumentals for Sale (80s Retro Synth & Cyberpunk)',
+    seoBadge: '🌆 Retro 80s Neon & Cyberpunk Soundscapes',
+    seoDescription: 'Stream & license high-energy synthwave instrumentals produced by Onzieb. Lush analog poly-synths, pulsating arpeggiated basslines, punchy gated snares, and nostalgic 80s cinematic soundscapes. Commercial clearance included.',
+    reviewCount: 64,
+    keywords: [
+      'synthwave instrumentals for sale',
+      'buy synthwave beats',
+      '80s retro type beats',
+      'cyberpunk instrumentals',
+      'retrowave beats for lease',
+    ],
+    faqs: [
+      {
+        question: 'Can I use synthwave instrumentals for indie video games or films?',
+        answer: 'Yes! Our licenses cover commercial game development, short films, YouTube streams, and digital broadcast sync.',
+      },
+      {
+        question: 'Do synthwave licenses include isolated synthesizer and drum trackouts?',
+        answer: 'Yes. Stems licenses provide isolated 24-bit WAV channels for lead synths, arpeggiators, analog bass, and gated drums.',
+      },
+    ],
+  },
 };
 
 const SLUG_MAP: Record<string, string> = {

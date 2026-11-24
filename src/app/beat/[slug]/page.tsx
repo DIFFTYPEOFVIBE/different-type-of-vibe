@@ -303,6 +303,28 @@ export default async function BeatPage({ params }: BeatPageProps) {
         }
       },
       {
+        '@type': 'VideoObject',
+        '@id': `${canonicalUrl}#video`,
+        'name': `${cleanTitle} (${beat.typeBeatArtists.join(' x ')} Type Beat) - Official Audio Preview & Visualizer`,
+        'description': `Stream the official visualizer and studio audio preview for "${cleanTitle}", a ${beat.genre} instrumental in ${beat.key} at ${beat.bpm} BPM produced by Onzieb. Untagged MP3, 24-bit WAV, and trackout STEM licenses available.`,
+        'thumbnailUrl': [
+          beat.coverUrl,
+          `${SITE_URL}/og-image.png`,
+        ],
+        'uploadDate': '2026-08-01T00:00:00Z',
+        'duration': 'PT3M15S',
+        'contentUrl': beat.audioUrl,
+        'embedUrl': canonicalUrl,
+        'publisher': {
+          '@type': 'Organization',
+          'name': 'Different Type of Vibe',
+          'logo': {
+            '@type': 'ImageObject',
+            'url': 'https://www.differenttypeofvibe.com/og-image.png',
+          },
+        },
+      },
+      {
         '@type': 'MusicComposition',
         '@id': `${canonicalUrl}#composition`,
         'name': cleanTitle,
