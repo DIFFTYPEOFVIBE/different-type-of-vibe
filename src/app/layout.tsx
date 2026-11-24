@@ -246,6 +246,13 @@ export default function RootLayout({
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
 
+        {/* Payment Gateway Preconnect & Performance Acceleration */}
+        <link rel="preconnect" href="https://js.stripe.com" crossOrigin="anonymous" />
+        <link rel="dns-prefetch" href="https://js.stripe.com" />
+        <link rel="preconnect" href="https://m.stripe.network" crossOrigin="anonymous" />
+        <link rel="dns-prefetch" href="https://m.stripe.network" />
+        <link rel="preconnect" href="https://buy.stripe.com" crossOrigin="anonymous" />
+
         {/* Schema.org Organization & MusicStore JSON-LD */}
         <script
           type="application/ld+json"

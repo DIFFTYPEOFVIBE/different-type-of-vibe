@@ -42,25 +42,34 @@ export async function GET() {
     </item>`),
     ...MY_BEATS.map((beat) => {
       const slug = slugify(beat.title.split(' - ')[0]);
+      const audioUrl = beat.audioUrl || `${baseUrl}/audio/${slug}.mp3`;
       return `
     <item>
       <title><![CDATA[${beat.title} - Untagged Beat Lease]]></title>
       <link>${baseUrl}/beat/${slug}</link>
       <guid>${baseUrl}/beat/${slug}</guid>
       <pubDate>${new Date().toUTCString()}</pubDate>
-      <description><![CDATA[Stream and license "${beat.title}" produced by Onzieb. Genre: ${beat.genre || 'Hip Hop'}, BPM: ${beat.bpm || 120}.]]></description>
+      <description><![CDATA[Stream and license "${beat.title}" produced by Onzieb. Genre: ${beat.genre || 'Hip Hop'}, BPM: ${beat.bpm || 120}, Key: ${beat.key || 'C Minor'}. Untagged MP3, 24-bit WAV, and STEM licenses available.]]></description>
+      <enclosure url="${audioUrl}" length="5242880" type="audio/mpeg" />
+      <itunes:author>Onzieb</itunes:author>
+      <itunes:duration>02:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <category>Music &gt; Instrumentals</category>
     </item>`;
     }),
   ].join('');
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Different Type of Vibe - Official Beat Store &amp; Guides</title>
     <link>${baseUrl}</link>
-    <description>Premium Boom Bap, Lofi, and Melodic Hip-Hop instrumental beats produced by Onzieb.</description>
+    <description>Premium Boom Bap, Lofi, Trap, and Melodic Hip-Hop instrumental beats produced by Onzieb.</description>
     <language>en-us</language>
     <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
+    <itunes:author>Onzieb</itunes:author>
+    <itunes:category text="Music" />
+    <itunes:image href="${baseUrl}/og-image.png" />
     <atom:link href="${baseUrl}/feed.xml" rel="self" type="application/rss+xml"/>
     ${rssItems}
   </channel>
