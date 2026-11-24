@@ -24,16 +24,46 @@ export function generateStoreSchema() {
         ],
       },
       {
-        "@type": "MusicStore",
+        "@type": ["MusicStore", "LocalBusiness", "ProfessionalService"],
         "@id": `${baseUrl}/#store`,
-        "name": "Different Type of Vibe Beat Store",
+        "name": "Different Type of Vibe - Onzieb Music Production Studio",
         "url": baseUrl,
-        "description": "Premium untagged hip-hop, trap, and boom bap beats produced by Onzieb. Instant MP3, WAV, and STEMS licensing.",
+        "image": `${baseUrl}/og-image.png`,
+        "description": "Independent music production studio and commercial beat catalog produced by Onzieb in Indianapolis, IN. Untagged hip-hop, trap, and boom bap beats, vocal mixing, and instant commercial licensing.",
+        "email": "music@mail.differenttypeofvibe.com",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Downtown Indianapolis",
+          "addressLocality": "Indianapolis",
+          "addressRegion": "IN",
+          "postalCode": "46204",
+          "addressCountry": "US"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "39.7684",
+          "longitude": "-86.1581"
+        },
+        "areaServed": [
+          {
+            "@type": "City",
+            "name": "Indianapolis",
+            "sameAs": "https://en.wikipedia.org/wiki/Indianapolis"
+          },
+          {
+            "@type": "State",
+            "name": "Indiana"
+          },
+          {
+            "@type": "Country",
+            "name": "United States"
+          }
+        ],
         "publisher": {
           "@id": `${baseUrl}/#organization`,
         },
         "currenciesAccepted": "USD",
-        "paymentAccepted": "Credit Card, Stripe",
+        "paymentAccepted": "Credit Card, Stripe, Apple Pay, Google Pay, Cash App",
         "priceRange": "$$",
       },
     ],

@@ -30,6 +30,10 @@ export const metadata: Metadata = {
     "Onzieb",
     "Different Type of Vibe",
     "Beat Store",
+    "Music Producer Indianapolis",
+    "Indianapolis Beat Store",
+    "Indiana Hip Hop Producer",
+    "Midwest Trap Beats",
     "Hip Hop Beats",
     "Boom Bap Instrumentals",
     "Lofi Beats",
@@ -117,24 +121,47 @@ export default function RootLayout({
         ],
       },
       {
-        "@type": "MusicStore",
+        "@type": ["MusicStore", "LocalBusiness", "ProfessionalService"],
         "@id": "https://www.differenttypeofvibe.com/#store",
-        "name": "Different Type of Vibe Beat Store",
+        "name": "Different Type of Vibe - Onzieb Music Production Studio",
         "url": "https://www.differenttypeofvibe.com",
         "image": "https://www.differenttypeofvibe.com/og-image.png",
         "description":
-          "Premium untagged hip-hop, trap, lofi, and boom bap beats produced by Onzieb. Instant MP3, WAV, and STEMS licensing.",
+          "Independent music production studio and commercial beat catalog produced by Onzieb in Indianapolis, IN. Untagged hip-hop, trap, and boom bap beats, vocal mixing, and instant commercial licensing.",
+        "email": "music@mail.differenttypeofvibe.com",
         "address": {
           "@type": "PostalAddress",
+          "streetAddress": "Downtown Indianapolis",
           "addressLocality": "Indianapolis",
           "addressRegion": "IN",
+          "postalCode": "46204",
           "addressCountry": "US"
         },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "39.7684",
+          "longitude": "-86.1581"
+        },
+        "areaServed": [
+          {
+            "@type": "City",
+            "name": "Indianapolis",
+            "sameAs": "https://en.wikipedia.org/wiki/Indianapolis"
+          },
+          {
+            "@type": "State",
+            "name": "Indiana"
+          },
+          {
+            "@type": "Country",
+            "name": "United States"
+          }
+        ],
         "publisher": {
           "@id": "https://www.differenttypeofvibe.com/#organization",
         },
         "currenciesAccepted": "USD",
-        "paymentAccepted": "Credit Card, Stripe",
+        "paymentAccepted": "Credit Card, Stripe, Apple Pay, Google Pay, Cash App",
         "priceRange": "$$",
       },
       {
