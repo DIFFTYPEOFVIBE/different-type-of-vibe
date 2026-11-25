@@ -45,6 +45,7 @@ jobs:
           if [[ -n $(git status --porcelain) ]]; then
             git add .
             git commit -m "feat: automatic 60-day pSEO page expansion batch"
+            git pull --rebase origin main
             git push origin main
           else
             echo "No page expansion changes to commit today."

@@ -41,6 +41,7 @@ jobs:
           if [[ -n $(git status --porcelain) ]]; then
             git add gsc_keywords_report.csv high_intent_beat_keywords.csv
             git commit -m "seo: update GSC striking distance keyword rankings & tag optimizations"
+            git pull --rebase origin main
             git push origin main
           else
             echo "No keyword ranking updates to commit today."
